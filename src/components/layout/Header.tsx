@@ -14,7 +14,7 @@ const Header = () => {
             <img 
               src={robotLogo} 
               alt="Alofoke.ai Neural Brain" 
-              className="h-10 w-10 animate-pulse-glow"
+              className="h-16 w-16 md:h-20 md:w-20 animate-pulse-glow"
             />
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               Alofoke.ai
