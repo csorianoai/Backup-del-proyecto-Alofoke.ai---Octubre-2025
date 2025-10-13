@@ -15,7 +15,7 @@ const NadakkiAd = () => {
               Plataforma dedicada a la automatización de procesos, desarrollo de agentes de AI y soluciones de inteligencia artificial.
             </p>
             <a 
-              href="https://nadakki-ai-suite.com" 
+              href="https://nadakki.com" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block mt-3 text-sm font-medium text-primary hover:text-primary/80 transition-colors"
