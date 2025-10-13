@@ -13,7 +13,7 @@ const Index = () => {
       
       <main className="container mx-auto px-4 py-8">
         <div className="mb-12 text-center space-y-4">
-          <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
+          <h2 className="text-4xl md:text-5xl font-bold bg-gradient-primary bg-clip-text text-transparent animate-fade-in">
             Inteligencia Artificial para Latinoamérica
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
