@@ -1,7 +1,8 @@
 import { lazy, Suspense } from "react";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import ArticleGrid from "@/components/articles/ArticleGrid";
+import ArticleGridDatabase from "@/components/articles/ArticleGridDatabase";
+import EditorialSection from "@/components/editorials/EditorialSection";
 
 const NadakkiAd = lazy(() => import("@/components/NadakkiAd"));
 
@@ -26,7 +27,8 @@ const Index = () => {
           </div>
         </Suspense>
 
-        <ArticleGrid />
+        <EditorialSection />
+        <ArticleGridDatabase />
       </main>
 
       <Footer />

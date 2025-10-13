@@ -2,19 +2,55 @@ import { useEffect, useState } from "react";
 import { RefreshCw } from "lucide-react";
 import ArticleCard from "./ArticleCard";
 import { Button } from "@/components/ui/button";
-import { getArticlesByTimeOfDay, type Article } from "@/utils/articleService";
+import { supabase } from "@/integrations/supabase/client";
+import { useToast } from "@/hooks/use-toast";
 
-const ArticleGrid = () => {
+interface Article {
+  id: string;
+  title: string;
+  slug: string;
+  excerpt: string;
+  category: string;
+  image_url: string;
+  read_time: string;
+  published_at: string;
+}
+
+const ArticleGridDatabase = () => {
   const [articles, setArticles] = useState<Article[]>([]);
   const [lastUpdate, setLastUpdate] = useState<Date>(new Date());
   const [isRefreshing, setIsRefreshing] = useState(false);
+  const { toast } = useToast();
 
-  const loadArticles = () => {
+  const loadArticles = async () => {
     setIsRefreshing(true);
-    const newArticles = getArticlesByTimeOfDay();
-    setArticles(newArticles);
-    setLastUpdate(new Date());
-    setTimeout(() => setIsRefreshing(false), 500);
+    try {
+      const { data, error } = await supabase
+        .from('articles')
+        .select('*')
+        .order('published_at', { ascending: false })
+        .limit(6);
+
+      if (error) throw error;
+
+      if (data) {
+        setArticles(data as Article[]);
+        setLastUpdate(new Date());
+        toast({
+          title: "Artículos actualizados",
+          description: `Se cargaron ${data.length} artículos exitosamente.`,
+        });
+      }
+    } catch (error: any) {
+      console.error('Error loading articles:', error);
+      toast({
+        title: "Error al cargar artículos",
+        description: error.message,
+        variant: "destructive",
+      });
+    } finally {
+      setTimeout(() => setIsRefreshing(false), 500);
+    }
   };
 
   useEffect(() => {
@@ -30,13 +66,21 @@ const ArticleGrid = () => {
     return "6:00 AM (mañana)";
   };
 
+  const formatDate = (dateString: string) => {
+    return new Date(dateString).toLocaleDateString('es', {
+      day: 'numeric',
+      month: 'short',
+      year: 'numeric'
+    });
+  };
+
   return (
     <div className="py-8">
       <div className="flex items-center justify-between mb-8 flex-wrap gap-4">
         <div>
           <h2 className="text-3xl font-bold mb-2">Últimas Noticias</h2>
           <p className="text-muted-foreground">
-            Actualizadas cada 12 horas • 6 AM y 6 PM
+            Actualizadas desde la base de datos • Sistema automático 6 AM y 6 PM
           </p>
           <p className="text-sm text-muted-foreground mt-1">
             Última actualización: {lastUpdate.toLocaleTimeString('es')} • Próxima: {getNextUpdateTime()}
@@ -62,7 +106,14 @@ const ArticleGrid = () => {
             className="animate-in fade-in slide-in-from-bottom"
             style={{ animationDelay: `${index * 100}ms` }}
           >
-            <ArticleCard {...article} />
+            <ArticleCard
+              title={article.title}
+              excerpt={article.excerpt}
+              category={article.category}
+              date={formatDate(article.published_at)}
+              readTime={article.read_time}
+              image={article.image_url}
+            />
           </div>
         ))}
       </div>
@@ -70,4 +121,4 @@ const ArticleGrid = () => {
   );
 };
 
-export default ArticleGrid;
+export default ArticleGridDatabase;
