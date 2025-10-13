@@ -17,12 +17,21 @@ const Auth = () => {
   const { toast } = useToast();
 
   useEffect(() => {
-    // Redirigir si ya está autenticado
+    // Listener primero para no perder eventos
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+      if (session) {
+        navigate("/admin");
+      }
+    });
+
+    // Luego consulta de sesión existente
     supabase.auth.getSession().then(({ data: { session } }) => {
       if (session) {
         navigate("/admin");
       }
     });
+
+    return () => subscription.unsubscribe();
   }, [navigate]);
 
   const handleSignup = async (e: React.FormEvent) => {
@@ -34,7 +43,8 @@ const Auth = () => {
         email,
         password,
         options: {
-          emailRedirectTo: `${window.location.origin}/admin`,
+          // Usar la raíz del sitio para evitar errores de redirect
+          emailRedirectTo: `${window.location.origin}/`,
         },
       });
 
@@ -42,7 +52,7 @@ const Auth = () => {
 
       toast({
         title: "¡Registro exitoso!",
-        description: "Tu cuenta ha sido creada. Ya puedes iniciar sesión.",
+        description: "Revisa tu correo para confirmar y luego inicia sesión.",
       });
     } catch (error: any) {
       toast({
