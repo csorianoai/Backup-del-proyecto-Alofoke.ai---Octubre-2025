@@ -113,6 +113,7 @@ const ArticleGridDatabase = () => {
               date={formatDate(article.published_at)}
               readTime={article.read_time}
               image={article.image_url}
+              slug={article.slug}
             />
           </div>
         ))}

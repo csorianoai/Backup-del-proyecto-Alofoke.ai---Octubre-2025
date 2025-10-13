@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Calendar, Clock } from "lucide-react";
@@ -9,11 +10,13 @@ interface ArticleCardProps {
   date: string;
   readTime: string;
   image: string;
+  slug: string;
 }
 
-const ArticleCard = ({ title, excerpt, category, date, readTime, image }: ArticleCardProps) => {
+const ArticleCard = ({ title, excerpt, category, date, readTime, image, slug }: ArticleCardProps) => {
   return (
-    <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50">
+    <Link to={`/articulo/${slug}`}>
+      <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
       <div className="relative h-48 overflow-hidden">
         <img 
           src={image} 
@@ -50,6 +53,7 @@ const ArticleCard = ({ title, excerpt, category, date, readTime, image }: Articl
         </div>
       </CardFooter>
     </Card>
+    </Link>
   );
 };
 
