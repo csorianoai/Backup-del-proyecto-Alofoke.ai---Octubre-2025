@@ -13,8 +13,8 @@ const Header = () => {
           <div className="flex items-center gap-3 group cursor-pointer">
             <img 
               src={robotLogo} 
-              alt="Alofoke.ai Robot Mascot" 
-              className="h-10 w-10 transition-transform duration-300 group-hover:scale-110 drop-shadow-glow"
+              alt="Alofoke.ai Neural Brain" 
+              className="h-10 w-10 animate-pulse-glow"
             />
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               Alofoke.ai
