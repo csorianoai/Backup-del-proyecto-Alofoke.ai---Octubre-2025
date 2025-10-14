@@ -23,7 +23,7 @@ const Header = () => {
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">
-            <Link to="/" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+            <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>
             <Link to="/casos-uso" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
@@ -54,7 +54,7 @@ const Header = () => {
 
         {isMenuOpen && (
           <nav className="md:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
-            <Link to="/" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+            <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>
             <Link to="/casos-uso" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
