@@ -1,0 +1,16 @@
+# Equipo Alofoke.ai
+
+/* EQUIPO */
+Portal: Alofoke.ai
+Ubicación: República Dominicana
+Contacto: info@alofoke.ai
+Twitter: @alofoke_ai
+
+/* SITIO */
+Estándares: HTML5, CSS3, JavaScript
+Componentes: React, TypeScript, Tailwind CSS
+Software: Lovable, Supabase
+
+/* AGRADECIMIENTOS */
+A la comunidad tech de República Dominicana
+A todos nuestros lectores y colaboradores
