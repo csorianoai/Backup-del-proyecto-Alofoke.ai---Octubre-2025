@@ -155,7 +155,7 @@ El artículo debe:
   } catch (err) {
     console.error('Error in generate-news-article:', err);
     const message = err instanceof Error ? err.message : 'Unknown error';
-    const details = err instanceof Error ? (err.stack ?? String(err)) : String(err);
+    const details = err instanceof Error ? err.stack : String(err);
     return new Response(
       JSON.stringify({ 
         error: message,
