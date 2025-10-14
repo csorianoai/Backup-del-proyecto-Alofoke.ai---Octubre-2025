@@ -15,7 +15,7 @@ interface ArticleCardProps {
 
 const ArticleCard = ({ title, excerpt, category, date, readTime, image, slug }: ArticleCardProps) => {
   return (
-    <Link to={`/articulo/${slug}`}>
+    <Link to={`/articulo/${encodeURIComponent(slug)}`}>
       <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
       <div className="relative h-48 overflow-hidden">
         <img 

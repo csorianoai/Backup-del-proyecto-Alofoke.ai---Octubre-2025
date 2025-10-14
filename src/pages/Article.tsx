@@ -21,20 +21,23 @@ interface ArticleData {
 }
 
 const Article = () => {
-  const { slug } = useParams<{ slug: string }>();
+  const params = useParams();
+  const rawSlug = (params.slug as string) ?? (params["*"] as string) ?? "";
+  const decodedSlug = decodeURIComponent(rawSlug);
+
   const [article, setArticle] = useState<ArticleData | null>(null);
   const [loading, setLoading] = useState(true);
   const { toast } = useToast();
 
   useEffect(() => {
     const loadArticle = async () => {
-      if (!slug) return;
+      if (!decodedSlug) return;
 
       try {
         const { data, error } = await supabase
           .from('articles')
           .select('*')
-          .eq('slug', slug)
+          .eq('slug', decodedSlug)
           .maybeSingle();
 
         if (error) throw error;
@@ -70,7 +73,7 @@ const Article = () => {
         if (ogImage) ogImage.setAttribute('content', data.image_url);
         
         const ogUrl = document.querySelector('meta[property="og:url"]');
-        if (ogUrl) ogUrl.setAttribute('content', `https://alofoke.ai/article/${slug}`);
+        if (ogUrl) ogUrl.setAttribute('content', `https://alofoke.ai/articulo/${decodedSlug}`);
         
         // Add JSON-LD structured data
         const script = document.createElement('script');
@@ -110,7 +113,7 @@ const Article = () => {
     };
 
     loadArticle();
-  }, [slug, toast]);
+  }, [decodedSlug, toast]);
 
   const formatDate = (dateString: string) => {
     return new Date(dateString).toLocaleDateString('es', {
