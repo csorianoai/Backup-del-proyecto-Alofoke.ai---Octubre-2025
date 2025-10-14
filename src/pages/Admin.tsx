@@ -17,6 +17,7 @@ const Admin = () => {
   const [user, setUser] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [submitting, setSubmitting] = useState(false);
+  const [generating, setGenerating] = useState(false);
   
   // Editorial fields
   const [editorialTitle, setEditorialTitle] = useState("");
@@ -117,6 +118,30 @@ const Admin = () => {
     }
   };
 
+  const handleGenerateNews = async () => {
+    setGenerating(true);
+    try {
+      const { data, error } = await supabase.functions.invoke('generate-news-article', {
+        body: { trigger: 'manual' }
+      });
+
+      if (error) throw error;
+
+      toast({
+        title: "¡Noticia generada!",
+        description: "La IA ha creado y publicado un nuevo artículo.",
+      });
+    } catch (error: any) {
+      toast({
+        title: "Error al generar",
+        description: error.message,
+        variant: "destructive",
+      });
+    } finally {
+      setGenerating(false);
+    }
+  };
+
   const handleArticleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitting(true);
@@ -190,6 +215,26 @@ const Admin = () => {
       </header>
 
       <main className="container mx-auto px-4 py-8">
+        <div className="mb-6">
+          <Card className="bg-gradient-to-br from-primary/5 to-secondary/5">
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Brain className="h-5 w-5" />
+                Generador Automático de Noticias IA
+              </CardTitle>
+              <CardDescription>
+                Genera una nueva noticia sobre IA usando inteligencia artificial
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <Button onClick={handleGenerateNews} disabled={generating} className="w-full">
+                <Brain className="h-4 w-4 mr-2" />
+                {generating ? "Generando artículo..." : "Generar Noticia con IA"}
+              </Button>
+            </CardContent>
+          </Card>
+        </div>
+
         <Tabs defaultValue="article" className="w-full">
           <TabsList className="grid w-full grid-cols-2 mb-8">
             <TabsTrigger value="article">
