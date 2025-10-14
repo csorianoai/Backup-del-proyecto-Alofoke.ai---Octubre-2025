@@ -13,80 +13,59 @@ serve(async (req) => {
   }
 
   try {
-    const LOVABLE_API_KEY = Deno.env.get('LOVABLE_API_KEY');
+    const PERPLEXITY_API_KEY = Deno.env.get('PERPLEXITY_API_KEY');
     const SUPABASE_URL = Deno.env.get('SUPABASE_URL');
     const SUPABASE_SERVICE_ROLE_KEY = Deno.env.get('SUPABASE_SERVICE_ROLE_KEY');
 
-    if (!LOVABLE_API_KEY || !SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY) {
+    if (!PERPLEXITY_API_KEY || !SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY) {
       throw new Error('Missing required environment variables');
     }
 
     const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY);
 
-    console.log('Generating AI news article...');
+    console.log('Generating AI news article with Perplexity AI...');
 
-    // Generar contenido con Lovable AI
-    const aiResponse = await fetch('https://ai.gateway.lovable.dev/v1/chat/completions', {
+    // Generar contenido con Perplexity AI
+    const aiResponse = await fetch('https://api.perplexity.ai/chat/completions', {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${LOVABLE_API_KEY}`,
+        'Authorization': `Bearer ${PERPLEXITY_API_KEY}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        model: 'google/gemini-2.5-flash',
+        model: 'llama-3.1-sonar-small-128k-online',
         messages: [
           {
             role: 'system',
             content: `Eres un periodista experto en inteligencia artificial para Alofoke.ai, un portal de noticias tech en español para Latinoamérica. 
 
-Genera un artículo de noticia sobre IA con esta estructura JSON:
+IMPORTANTE: Tu respuesta debe ser SOLO un objeto JSON válido, sin texto adicional antes o después.
+
+Genera un artículo de noticia sobre IA actual con esta estructura JSON:
 {
   "title": "Título llamativo de 50-60 caracteres",
   "excerpt": "Resumen de 150-160 caracteres",
   "content": "Contenido completo del artículo en HTML (800-1500 palabras, usa <h2>, <p>, <ul>, <li>)",
-  "category": "uno de: noticias, analisis, tutoriales, casos_de_uso",
-  "seo_keywords": ["keyword1", "keyword2", "keyword3"]
+  "category": "noticias"
 }
 
 El artículo debe:
-- Ser actual y relevante para profesionales tech latinoamericanos
+- Ser sobre noticias recientes y actuales de IA (últimas 24-48 horas)
+- Ser relevante para profesionales tech latinoamericanos
 - Incluir datos concretos y ejemplos prácticos
 - Usar lenguaje accesible pero profesional
 - Tener formato HTML bien estructurado
-- Incluir fuentes y referencias cuando sea apropiado`
+- Incluir fuentes cuando sea apropiado
+
+Responde ÚNICAMENTE con el JSON, sin explicaciones adicionales.`
           },
           {
             role: 'user',
-            content: 'Genera un artículo de noticia sobre un avance reciente en inteligencia artificial que sea relevante para la audiencia latinoamericana.'
+            content: 'Genera un artículo sobre las últimas noticias de IA relevantes para Latinoamérica.'
           }
         ],
-        tools: [
-          {
-            type: "function",
-            function: {
-              name: "create_article",
-              description: "Crea un artículo de noticias sobre IA",
-              parameters: {
-                type: "object",
-                properties: {
-                  title: { type: "string" },
-                  excerpt: { type: "string" },
-                  content: { type: "string" },
-                  category: { 
-                    type: "string",
-                    enum: ["noticias", "analisis", "tutoriales", "casos_de_uso"]
-                  },
-                  seo_keywords: {
-                    type: "array",
-                    items: { type: "string" }
-                  }
-                },
-                required: ["title", "excerpt", "content", "category", "seo_keywords"]
-              }
-            }
-          }
-        ],
-        tool_choice: { type: "function", function: { name: "create_article" } }
+        temperature: 0.2,
+        max_tokens: 2000
       }),
     });
 
@@ -99,12 +78,33 @@ El artículo debe:
     const aiData = await aiResponse.json();
     console.log('AI response received');
 
-    const toolCall = aiData.choices?.[0]?.message?.tool_calls?.[0];
-    if (!toolCall) {
-      throw new Error('No tool call in AI response');
+    // Perplexity retorna el contenido directamente
+    const content = aiData.choices?.[0]?.message?.content;
+    if (!content) {
+      throw new Error('No content in AI response');
     }
 
-    const articleData = JSON.parse(toolCall.function.arguments);
+    // Extraer JSON del contenido
+    let articleData;
+    try {
+      // Intentar parsear directamente
+      articleData = JSON.parse(content);
+    } catch (e) {
+      // Si falla, intentar extraer JSON de markdown code blocks
+      const jsonMatch = content.match(/```(?:json)?\s*(\{[\s\S]*?\})\s*```/);
+      if (jsonMatch) {
+        articleData = JSON.parse(jsonMatch[1]);
+      } else {
+        // Último intento: buscar cualquier objeto JSON en el texto
+        const objectMatch = content.match(/\{[\s\S]*\}/);
+        if (objectMatch) {
+          articleData = JSON.parse(objectMatch[0]);
+        } else {
+          throw new Error('Could not extract JSON from AI response');
+        }
+      }
+    }
+    
     console.log('Article data parsed:', articleData.title);
 
     // Generar slug único
