@@ -351,12 +351,15 @@ const Admin = () => {
                     <Label htmlFor="article-image">URL de Imagen</Label>
                     <Input
                       id="article-image"
-                      type="url"
-                      placeholder="https://ejemplo.com/imagen.jpg"
+                      type="text"
+                      placeholder="https://ejemplo.com/imagen.jpg o /src/assets/imagen.jpg"
                       value={articleImageUrl}
                       onChange={(e) => setArticleImageUrl(e.target.value)}
                       required
                     />
+                    <p className="text-xs text-muted-foreground">
+                      Puedes usar una URL completa o una ruta local como /src/assets/imagen.jpg
+                    </p>
                   </div>
 
                   <Button type="submit" disabled={submitting} className="w-full">
