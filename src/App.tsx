@@ -22,6 +22,7 @@ const App = () => (
           <Route path="/auth" element={<Auth />} />
           <Route path="/admin" element={<Admin />} />
           <Route path="/articulo/:slug" element={<Article />} />
+          <Route path="/google2fcca3e3f5be6d9d.html" element={<div>google-site-verification: google2fcca3e3f5be6d9d.html</div>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
