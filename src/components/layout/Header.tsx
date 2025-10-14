@@ -1,7 +1,8 @@
-import { Menu, X } from "lucide-react";
+import { Menu, X, ShieldCheck } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import robotLogo from "@/assets/alofoke-robot-logo.png";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -34,6 +35,10 @@ const Header = () => {
             <a href="mailto:info@nadakki.com" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Contacto
             </a>
+            <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <ShieldCheck className="h-4 w-4" />
+              Admin
+            </Link>
           </nav>
 
           <Button
@@ -60,6 +65,10 @@ const Header = () => {
             <a href="mailto:info@nadakki.com" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Contacto
             </a>
+            <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <ShieldCheck className="h-4 w-4" />
+              Admin
+            </Link>
           </nav>
         )}
       </div>

@@ -51,7 +51,7 @@ const Index = () => {
           </div>
         </Suspense>
 
-        <EditorialSection />
+        {/* <EditorialSection /> */}
         <ArticleGridDatabase />
       </main>
 
