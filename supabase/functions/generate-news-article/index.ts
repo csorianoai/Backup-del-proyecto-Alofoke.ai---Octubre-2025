@@ -107,13 +107,18 @@ Responde ÚNICAMENTE con el JSON, sin explicaciones adicionales.`
     
     console.log('Article data parsed:', articleData.title);
 
-    // Generar slug único
-    const slug = articleData.title
+    // Generar slug único - solo el título sin URLs
+    const cleanTitle = articleData.title
+      .replace(/https?:\/\/[^\s]+/g, '') // Remover cualquier URL del título
+      .trim();
+    
+    const slug = cleanTitle
       .toLowerCase()
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '')
       .replace(/[^a-z0-9]+/g, '-')
       .replace(/^-+|-+$/g, '')
+      .slice(0, 60) // Limitar longitud del slug
       + '-' + Date.now();
 
     // Guardar artículo en la base de datos
