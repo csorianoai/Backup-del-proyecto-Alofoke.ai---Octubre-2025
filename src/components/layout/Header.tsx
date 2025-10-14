@@ -1,4 +1,4 @@
-import { Menu, X, ShieldCheck } from "lucide-react";
+import { Menu, X, ShieldCheck, Search } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import robotLogo from "@/assets/alofoke-robot-logo.png";
@@ -11,7 +11,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container mx-auto px-4">
         <div className="flex h-16 items-center justify-between">
-          <div className="flex items-center gap-3 group cursor-pointer">
+          <Link to="/" className="flex items-center gap-3 group cursor-pointer">
             <img 
               src={robotLogo} 
               alt="Alofoke.ai Neural Brain" 
@@ -20,19 +20,20 @@ const Header = () => {
             <h1 className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               Alofoke.ai
             </h1>
-          </div>
+          </Link>
 
           <nav className="hidden md:flex items-center gap-6">
-            <a href="#" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+            <Link to="/" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
-            </a>
-            <a href="#" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-              Análisis
-            </a>
-            <a href="#" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+            </Link>
+            <Link to="/casos-uso" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Casos de Uso
-            </a>
-            <a href="mailto:info@nadakki.com" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+            </Link>
+            <Link to="/buscar" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <Search className="h-4 w-4" />
+              Buscar
+            </Link>
+            <a href="mailto:info@alofoke.ai" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Contacto
             </a>
             <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
@@ -53,16 +54,17 @@ const Header = () => {
 
         {isMenuOpen && (
           <nav className="md:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
-            <a href="#" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+            <Link to="/" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
-            </a>
-            <a href="#" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
-              Análisis
-            </a>
-            <a href="#" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+            </Link>
+            <Link to="/casos-uso" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Casos de Uso
-            </a>
-            <a href="mailto:info@nadakki.com" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+            </Link>
+            <Link to="/buscar" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <Search className="h-4 w-4" />
+              Buscar
+            </Link>
+            <a href="mailto:info@alofoke.ai" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Contacto
             </a>
             <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">

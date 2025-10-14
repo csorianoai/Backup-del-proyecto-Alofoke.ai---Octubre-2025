@@ -7,6 +7,8 @@ import Index from "./pages/Index";
 import Auth from "./pages/Auth";
 import Admin from "./pages/Admin";
 import Article from "./pages/Article";
+import Search from "./pages/Search";
+import CasosUso from "./pages/CasosUso";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -22,6 +24,8 @@ const App = () => (
           <Route path="/auth" element={<Auth />} />
           <Route path="/admin" element={<Admin />} />
           <Route path="/articulo/:slug" element={<Article />} />
+          <Route path="/buscar" element={<Search />} />
+          <Route path="/casos-uso" element={<CasosUso />} />
           <Route path="/google2fcca3e3f5be6d9d.html" element={<div>google-site-verification: google2fcca3e3f5be6d9d.html</div>} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
