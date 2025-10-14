@@ -152,12 +152,14 @@ El artículo debe:
       }
     );
 
-  } catch (error) {
-    console.error('Error in generate-news-article:', error);
+  } catch (err) {
+    console.error('Error in generate-news-article:', err);
+    const message = err instanceof Error ? err.message : 'Unknown error';
+    const details = err instanceof Error ? (err.stack ?? String(err)) : String(err);
     return new Response(
       JSON.stringify({ 
-        error: error.message,
-        details: error.toString()
+        error: message,
+        details
       }),
       { 
         headers: { ...corsHeaders, 'Content-Type': 'application/json' },
