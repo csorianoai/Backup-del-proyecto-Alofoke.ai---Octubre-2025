@@ -11,6 +11,7 @@ import { Button } from "@/components/ui/button";
 interface ArticleData {
   id: string;
   title: string;
+  excerpt?: string;
   content: string;
   category: string;
   author: string;
@@ -48,6 +49,54 @@ const Article = () => {
         }
 
         setArticle(data as ArticleData);
+        
+        // Update meta tags for SEO
+        document.title = `${data.title} - Alofoke.ai`;
+        
+        // Update meta description
+        const metaDescription = document.querySelector('meta[name="description"]');
+        if (metaDescription) {
+          metaDescription.setAttribute('content', data.excerpt || data.title);
+        }
+        
+        // Update Open Graph tags
+        const ogTitle = document.querySelector('meta[property="og:title"]');
+        if (ogTitle) ogTitle.setAttribute('content', data.title);
+        
+        const ogDescription = document.querySelector('meta[property="og:description"]');
+        if (ogDescription) ogDescription.setAttribute('content', data.excerpt || data.title);
+        
+        const ogImage = document.querySelector('meta[property="og:image"]');
+        if (ogImage) ogImage.setAttribute('content', data.image_url);
+        
+        const ogUrl = document.querySelector('meta[property="og:url"]');
+        if (ogUrl) ogUrl.setAttribute('content', `https://alofoke.ai/article/${slug}`);
+        
+        // Add JSON-LD structured data
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.text = JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "headline": data.title,
+          "image": data.image_url,
+          "datePublished": data.published_at,
+          "author": {
+            "@type": "Person",
+            "name": data.author
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Alofoke.ai",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://alofoke.ai/og-image.png"
+            }
+          },
+          "description": data.excerpt || data.title
+        });
+        document.head.appendChild(script);
+        
       } catch (error: any) {
         console.error('Error loading article:', error);
         toast({

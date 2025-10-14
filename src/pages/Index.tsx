@@ -1,4 +1,4 @@
-import { lazy, Suspense } from "react";
+import { lazy, Suspense, useEffect } from "react";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import ArticleGridDatabase from "@/components/articles/ArticleGridDatabase";
@@ -7,6 +7,30 @@ import EditorialSection from "@/components/editorials/EditorialSection";
 const NadakkiAd = lazy(() => import("@/components/NadakkiAd"));
 
 const Index = () => {
+  useEffect(() => {
+    // Add JSON-LD structured data for the website
+    const script = document.createElement('script');
+    script.type = 'application/ld+json';
+    script.text = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Alofoke.ai",
+      "description": "Portal de noticias sobre inteligencia artificial en español - Análisis, casos de uso y tendencias de IA para Latinoamérica",
+      "url": "https://alofoke.ai",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://alofoke.ai/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    });
+    document.head.appendChild(script);
+    
+    return () => {
+      const scripts = document.head.querySelectorAll('script[type="application/ld+json"]');
+      scripts.forEach(s => s.remove());
+    };
+  }, []);
+
   return (
     <div className="min-h-screen bg-background">
       <Header />
