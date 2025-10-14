@@ -79,10 +79,13 @@ const Auth = () => {
 
       toast({
         title: "¡Bienvenido!",
-        description: "Has iniciado sesión correctamente.",
+        description: "Redirigiendo al panel de administración...",
       });
 
-      navigate("/admin");
+      // Dar tiempo para que se actualice la sesión
+      setTimeout(() => {
+        navigate("/admin");
+      }, 500);
     } catch (error: any) {
       toast({
         title: "Error al iniciar sesión",
@@ -104,8 +107,11 @@ const Auth = () => {
           </div>
           <CardTitle className="text-center">Panel de Administración</CardTitle>
           <CardDescription className="text-center">
-            Crea tu cuenta o inicia sesión
+            Inicia sesión para acceder al panel Admin
           </CardDescription>
+          <div className="text-center text-sm text-muted-foreground">
+            Después de iniciar sesión serás redirigido automáticamente
+          </div>
         </CardHeader>
         <CardContent>
           <Tabs defaultValue="signup" className="w-full">
