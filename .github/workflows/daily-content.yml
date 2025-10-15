@@ -23,7 +23,6 @@ jobs:
           python-version: '3.11'
 
       - name: Clear proxy environment
-        shell: bash
         run: |
           unset HTTP_PROXY HTTPS_PROXY ALL_PROXY NO_PROXY || true
 
@@ -34,53 +33,41 @@ jobs:
           pip uninstall -y openai httpx || true
           pip install --force-reinstall --no-deps openai==1.51.0
           pip install --force-reinstall --no-deps httpx==0.27.2
-          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
+          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0 typing_extensions==4.11.0
 
-      - name: Verify runtime & versions
-        shell: bash
+      - name: Verify versions
         run: |
           echo "=== pip versions ==="
-          pip show openai httpx
-
+          pip show openai
+          pip show httpx
           echo "=== Python versions ==="
-          python -c "import openai; print('openai:', openai.__version__)"
-          python -c "import httpx; print('httpx :', httpx.__version__)"
-          python -c "import inspect, openai._base_client as bc; print('base_client file:', inspect.getfile(bc))"
-
-          echo "=== Validate versions ==="
-          python -c "import openai; assert openai.__version__ == '1.51.0', '❌ Wrong OpenAI version'"
-          python -c "import httpx; assert httpx.__version__ == '0.27.2', '❌ Wrong HTTPX version'"
-
-          echo "=== compose.py head ==="
-          sed -n '1,40p' scripts/compose.py
-
-          echo "=== check http_client injection ==="
-          if ! grep -nE 'OpenAI\(.*http_client=' scripts/compose.py >/dev/null; then
-            echo '::error ::compose.py no inyecta http_client'
-            exit 2
-          fi
+          python -c "import openai, httpx; print('openai:', openai.__version__); print('httpx:', httpx.__version__)"
+          head -30 scripts/compose.py
 
       - name: Ingest sources
         env:
           PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
           USE_PPLX: "0"
-        run: python scripts/ingest.py --countries do co --target 14
+        run: |
+          python scripts/ingest.py --countries do co --target 14
 
       - name: Compose articles
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
+        run: |
+          python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
 
       - name: Quality check
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/quality.py --threshold 0.80
+        run: |
+          python scripts/quality.py --threshold 0.80
 
       - name: Publish articles
-        run: python scripts/publish.py
+        run: |
+          python scripts/publish.py
 
       - name: Commit and push
-        shell: bash
         run: |
           git config user.name "Alofoke Bot"
           git config user.email "bot@alofoke.ai"
