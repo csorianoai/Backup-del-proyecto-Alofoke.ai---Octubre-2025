@@ -160,3 +160,52 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+5. **Scroll hasta abajo**
+
+6. **En el cuadro "Commit message"** escribe:
+```
+   FIX: Update compose.py with httpx monkey-patch
+```
+
+7. **Click en el botón verde "Commit changes"**
+
+---
+
+## **PASO 2: Ejecutar el workflow (desde donde estás)**
+
+Ahora vuelve a la pestaña donde estás (workflow runs):
+
+1. **Arriba a la derecha** verás un botón gris/verde que dice **"Run workflow"**
+
+2. **Click en "Run workflow"**
+
+3. **En el menú desplegable**, click en **"Run workflow"** de nuevo (botón verde)
+
+4. **Espera 1-2 minutos** a que el workflow corra
+
+5. **Verás un nuevo run aparecer** con un círculo amarillo ⚫ (en progreso)
+
+6. **Click en ese nuevo run** para ver el progreso en tiempo real
+
+---
+
+## **PASO 3: Ver el resultado**
+
+Cuando termine (1-2 minutos):
+
+- ✅ **Si tiene palomita verde** → ¡FUNCIONÓ! 🎉
+- ❌ **Si tiene X roja** → Click en "generate-content" → "Compose articles" → Copia el error aquí
+
+---
+
+## 🎯 **RESUMEN RÁPIDO:**
+```
+1. Editar compose.py en GitHub web (link arriba)
+2. Borrar todo el contenido viejo
+3. Pegar el código nuevo
+4. Commit changes
+5. Volver a donde estás (workflow runs)
+6. Click "Run workflow" → "Run workflow"
+7. Esperar resultado
