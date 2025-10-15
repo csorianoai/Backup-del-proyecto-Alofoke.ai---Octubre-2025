@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -22,43 +20,35 @@ jobs:
           python-version: '3.11'
 
       - name: Clear proxy env
+        shell: bash
         run: |
           unset HTTP_PROXY HTTPS_PROXY ALL_PROXY NO_PROXY || true
 
-      - name: Write constraints
-        run: |
-          printf "openai==1.51.0\nhttpx==0.27.2\n" > constraints.txt
-          cat constraints.txt
-
-      - name: Install dependencies (locked)
-        env:
-          PIP_DISABLE_PIP_VERSION_CHECK: "1"
+      - name: Install dependencies (LOCKED)
+        shell: bash
         run: |
           python -m pip install --upgrade pip
           pip uninstall -y openai httpx || true
-          pip install -r requirements.txt -c constraints.txt
           pip install --force-reinstall --no-deps openai==1.51.0
           pip install --force-reinstall --no-deps httpx==0.27.2
+          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
 
       - name: Verify runtime & code head
+        shell: bash
         run: |
           echo "=== pip show ==="
           pip show openai httpx
           echo "=== python verify ==="
-          python - << 'PY'
-import sys, openai, httpx, inspect
-print("openai:", openai.__version__)
-print("httpx :", httpx.__version__)
-import openai._base_client as bc
-print("base_client file:", inspect.getfile(bc))
-# Hard guard:
-assert openai.__version__=="1.51.0", "Wrong openai version"
-assert httpx.__version__=="0.27.2", "Wrong httpx version"
-PY
+          python -c "import openai, httpx, inspect, openai._base_client as bc; \
+print('openai:', openai.__version__); \
+print('httpx :', httpx.__version__); \
+print('base_client file:', inspect.getfile(bc)); \
+assert openai.__version__=='1.51.0', 'Wrong openai version'; \
+assert httpx.__version__=='0.27.2', 'Wrong httpx version'"
           echo "=== compose.py head ==="
           sed -n '1,40p' scripts/compose.py
           echo "=== check http_client injection ==="
-          if ! grep -n "OpenAI(.*http_client=" -E scripts/compose.py >/dev/null; then
+          if ! grep -nE "OpenAI\\(.*http_client=" scripts/compose.py >/dev/null; then
             echo "::error ::compose.py no inyecta http_client (revisa commit/push)"
             exit 2
           fi
@@ -67,26 +57,23 @@ PY
         env:
           PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
           USE_PPLX: "0"
-        run: |
-          python scripts/ingest.py --countries do co --target 14
+        run: python scripts/ingest.py --countries do co --target 14
 
       - name: Compose articles
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
+        run: python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
 
       - name: Quality check
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python scripts/quality.py --threshold 0.80
+        run: python scripts/quality.py --threshold 0.80
 
       - name: Publish articles
-        run: |
-          python scripts/publish.py
+        run: python scripts/publish.py
 
       - name: Commit and push
+        shell: bash
         run: |
           git config user.name "Alofoke Bot"
           git config user.email "bot@alofoke.ai"
