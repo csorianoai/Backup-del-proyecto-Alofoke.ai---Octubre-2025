@@ -7,11 +7,14 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import { DO } from 'country-flag-icons/react/3x2';
+import { CO } from 'country-flag-icons/react/3x2';
+import { Globe } from "lucide-react";
 
 const COUNTRIES = [
-  { code: "latam", name: "LATAM", flag: "🌎" },
-  { code: "do", name: "República Dominicana", flag: "🇩🇴" },
-  { code: "co", name: "Colombia", flag: "🇨🇴" },
+  { code: "latam", name: "LATAM", FlagComponent: Globe },
+  { code: "do", name: "República Dominicana", FlagComponent: DO },
+  { code: "co", name: "Colombia", FlagComponent: CO },
 ];
 
 interface CountrySelectorProps {
@@ -46,14 +49,21 @@ const CountrySelector = ({ currentCountry }: CountrySelectorProps) => {
         <SelectValue />
       </SelectTrigger>
       <SelectContent>
-        {COUNTRIES.map((country) => (
-          <SelectItem key={country.code} value={country.code}>
-            <span className="flex items-center gap-2">
-              <span>{country.flag}</span>
-              <span>{country.name}</span>
-            </span>
-          </SelectItem>
-        ))}
+        {COUNTRIES.map((country) => {
+          const FlagComponent = country.FlagComponent;
+          return (
+            <SelectItem key={country.code} value={country.code}>
+              <span className="flex items-center gap-2">
+                {country.code === "latam" ? (
+                  <FlagComponent className="w-4 h-4" />
+                ) : (
+                  <FlagComponent className="w-6 h-4" />
+                )}
+                <span>{country.name}</span>
+              </span>
+            </SelectItem>
+          );
+        })}
       </SelectContent>
     </Select>
   );

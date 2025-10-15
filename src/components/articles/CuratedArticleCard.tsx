@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Calendar } from "lucide-react";
+import { Calendar, Globe } from "lucide-react";
+import { DO } from 'country-flag-icons/react/3x2';
+import { CO } from 'country-flag-icons/react/3x2';
 
 interface CuratedArticleCardProps {
   title: string;
@@ -34,10 +36,10 @@ const TYPE_LABELS = {
   trend_radar: "Trend Radar",
 };
 
-const COUNTRY_FLAGS = {
-  do: "🇩🇴",
-  co: "🇨🇴",
-  latam: "🌎",
+const COUNTRY_FLAG_COMPONENTS = {
+  do: DO,
+  co: CO,
+  latam: Globe,
 };
 
 const CuratedArticleCard = ({
@@ -60,6 +62,8 @@ const CuratedArticleCard = ({
     });
   };
 
+  const FlagComponent = COUNTRY_FLAG_COMPONENTS[country as keyof typeof COUNTRY_FLAG_COMPONENTS] || Globe;
+
   return (
     <Link to={url}>
       <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
@@ -73,7 +77,11 @@ const CuratedArticleCard = ({
                 {TIER_ICONS[tier as keyof typeof TIER_ICONS]} {tier.toUpperCase()}
               </Badge>
             </div>
-            <span className="text-xl">{COUNTRY_FLAGS[country as keyof typeof COUNTRY_FLAGS]}</span>
+            {country === "latam" ? (
+              <FlagComponent className="w-5 h-5" />
+            ) : (
+              <FlagComponent className="w-8 h-5" />
+            )}
           </div>
           
           <h3 className="text-lg font-semibold line-clamp-2 group-hover:text-primary transition-colors">

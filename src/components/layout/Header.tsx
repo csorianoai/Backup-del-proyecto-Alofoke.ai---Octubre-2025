@@ -1,8 +1,10 @@
-import { Menu, X, ShieldCheck, Search } from "lucide-react";
+import { Menu, X, ShieldCheck, Search, Globe } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import robotLogo from "@/assets/alofoke-robot-logo.png";
 import { Link } from "react-router-dom";
+import { DO } from 'country-flag-icons/react/3x2';
+import { CO } from 'country-flag-icons/react/3x2';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -23,14 +25,17 @@ const Header = () => {
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">
-            <Link to="/latam" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-              🌎 LATAM
+            <Link to="/latam" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <Globe className="w-4 h-4" />
+              <span>LATAM</span>
             </Link>
-            <Link to="/pais/do" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-              🇩🇴 RD
+            <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <DO className="w-5 h-3" />
+              <span>RD</span>
             </Link>
-            <Link to="/pais/co" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-              🇨🇴 Colombia
+            <Link to="/pais/co" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <CO className="w-5 h-3" />
+              <span>Colombia</span>
             </Link>
             <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
@@ -60,14 +65,17 @@ const Header = () => {
 
         {isMenuOpen && (
           <nav className="md:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
-            <Link to="/latam" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
-              🌎 LATAM
+            <Link to="/latam" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <Globe className="w-4 h-4" />
+              <span>LATAM</span>
             </Link>
-            <Link to="/pais/do" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
-              🇩🇴 República Dominicana
+            <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <DO className="w-5 h-3" />
+              <span>República Dominicana</span>
             </Link>
-            <Link to="/pais/co" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
-              🇨🇴 Colombia
+            <Link to="/pais/co" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <CO className="w-5 h-3" />
+              <span>Colombia</span>
             </Link>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
