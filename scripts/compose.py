@@ -8,9 +8,10 @@ import json
 import os
 from datetime import datetime
 from pathlib import Path
-from openai import OpenAI
+import openai
 
-client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+# Para openai 1.6.1, configurar así:
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 COUNTRY_NAMES = {
     'do': 'República Dominicana',
@@ -120,7 +121,7 @@ def compose_article(article_type, source_data, country_code):
     prompt = PROMPTS[article_type].format(**prompt_data)
     
     try:
-        response = client.chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "Eres un periodista experto en IA para América Latina. Respondes SOLO con JSON válido."},
@@ -163,7 +164,7 @@ def main():
     
     for queue_file in queue_dir.glob(f'{today}_*.json'):
         country = queue_file.stem.split('_')[-1]
-        print(f"\n✍️  Composing articles for {country.upper()}...")
+        print(f"\n✍️  Composing articles for {country.UPPER()}...")
         
         with open(queue_file) as f:
             queue_data = json.load(f)
