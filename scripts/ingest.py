@@ -8,6 +8,7 @@ import json
 import os
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import quote
 import feedparser
 import requests
 
@@ -47,7 +48,9 @@ def fetch_google_news(queries):
     
     for query in queries:
         try:
-            url = f"{base_url}?q={query}&hl=es&gl=CO&ceid=CO:es"
+            # URL encode the query to avoid control character errors
+            encoded_query = quote(query)
+            url = f"{base_url}?q={encoded_query}&hl=es&gl=CO&ceid=CO:es"
             parsed = feedparser.parse(url)
             for entry in parsed.entries[:3]:
                 articles.append({
