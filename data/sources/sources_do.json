@@ -11,18 +11,11 @@
       "name": "Listin Diario",
       "url": "https://listindiario.com/feed/",
       "category": "general"
-    },
-    {
-      "name": "Acento Tech",
-      "url": "https://acento.com.do/feed/",
-      "category": "tech"
     }
   ],
   "google_news_queries": [
-    "inteligencia artificial República Dominicana",
-    "tecnología Santo Domingo",
-    "IA startups RD",
-    "automatización República Dominicana",
-    "innovación digital RD"
+    "inteligencia artificial Republica Dominicana",
+    "tecnologia Santo Domingo",
+    "IA startups RD"
   ]
 }
