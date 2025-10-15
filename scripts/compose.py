@@ -5,14 +5,24 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-from openai import OpenAI
-import httpx
+# ---------- Parche anti-'proxies' (debe ejecutarse ANTES de instanciar OpenAI) ----------
+import httpx as _httpx
 
-# ===== Cliente OpenAI con httpx.Client propio (bypassa el bug de 'proxies') =====
-# Nota: aunque por error se instalara httpx 0.28.x, al inyectar http_client
-# evitamos que OpenAI cree su wrapper interno que rompe con 'proxies'.
-_transport = httpx.HTTPTransport(retries=2)
-_http_client = httpx.Client(transport=_transport, timeout=60)  # NO proxies
+class _PatchedClient(_httpx.Client):
+    def __init__(self, *args, **kwargs):
+        # httpx>=0.28 no acepta 'proxies'; lo removemos si aparece
+        kwargs.pop("proxies", None)
+        super().__init__(*args, **kwargs)
+
+# Monkey-patch global: cualquier uso interno de httpx.Client ahora ignora 'proxies'
+_httpx.Client = _PatchedClient
+
+# ---------- Ahora sí, OpenAI ----------
+from openai import OpenAI
+
+# Capa 1: inyectamos nuestro propio http_client para evitar que OpenAI cree el suyo
+_transport = _httpx.HTTPTransport(retries=2)
+_http_client = _httpx.Client(transport=_transport, timeout=60)  # sin proxies
 
 client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
@@ -67,13 +77,10 @@ def compose_article(article_type, source_data, country_code):
 
         content = (resp.choices[0].message.content or "").strip()
 
-        # Si el modelo devuelve bloque ```json ...
         if content.startswith("```"):
-            # Quitar el primer fence y el último
             content = content.split("\n", 1)[1]
             if content.endswith("```"):
                 content = content[:-3]
-            # Si aún queda un cierre, intenta dividir por el último fence
             if "\n```" in content:
                 content = content.rsplit("\n```", 1)[0]
 
@@ -91,7 +98,6 @@ def main():
     parser.add_argument("--mix", default="brief=5,explainer=3,trend=1")
     args = parser.parse_args()
 
-    # Parseo del mix
     mix = {}
     for item in args.mix.split(","):
         t, c = item.split("=")
@@ -115,7 +121,6 @@ def main():
         composed = []
         idx = 0
 
-        # Briefs
         for i in range(mix.get("brief", 0)):
             if idx >= len(articles):
                 break
@@ -125,7 +130,6 @@ def main():
                 composed.append(a)
             idx += 1
 
-        # Explainers
         for i in range(mix.get("explainer", 0)):
             if idx >= len(articles):
                 break
@@ -135,23 +139,16 @@ def main():
                 composed.append(a)
             idx += 1
 
-        # Trend radar (usa primeras 3 como input si hay)
         if mix.get("trend", 0) > 0 and len(articles) >= 3:
             print("  • Trend Radar")
             a = compose_article("trend_radar", articles[:3], country)
             if a:
                 composed.append(a)
 
-        # Guardar
         out = drafts_dir / f"{today}_{country}.json"
         with open(out, "w", encoding="utf-8") as f:
             json.dump(
-                {
-                    "date": today,
-                    "country": country,
-                    "articles": composed,
-                    "count": len(composed),
-                },
+                {"date": today, "country": country, "articles": composed, "count": len(composed)},
                 f,
                 ensure_ascii=False,
                 indent=2,
