@@ -48,10 +48,17 @@ def fetch_google_news(queries):
     
     for query in queries:
         try:
-            # URL encode the query to avoid control character errors
-            encoded_query = quote_plus(query)
+            # CRITICAL: Clean query of invisible characters before encoding
+            clean_query = query.strip().replace('\n', ' ').replace('\r', '').replace('\t', ' ')
+            # Remove multiple spaces
+            clean_query = ' '.join(clean_query.split())
+            # URL encode
+            encoded_query = quote_plus(clean_query)
             url = f"{base_url}?q={encoded_query}&hl=es&gl=CO&ceid=CO:es"
+            
+            print(f"  → Fetching: {clean_query[:50]}...")
             parsed = feedparser.parse(url)
+            
             for entry in parsed.entries[:3]:
                 articles.append({
                     'title': entry.title,
@@ -62,7 +69,7 @@ def fetch_google_news(queries):
                     'summary': entry.get('summary', '')[:300]
                 })
         except Exception as e:
-            print(f"❌ Error with Google News query '{query}': {e}")
+            print(f"❌ Error with Google News query '{query[:30]}...': {e}")
     
     return articles
 
