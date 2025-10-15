@@ -11,18 +11,11 @@
       "name": "Portafolio Tech",
       "url": "https://www.portafolio.co/rss/tecnologia",
       "category": "tech"
-    },
-    {
-      "name": "Semana Tecnología",
-      "url": "https://www.semana.com/rss/tecnologia/",
-      "category": "tech"
     }
   ],
   "google_news_queries": [
     "inteligencia artificial Colombia",
-    "IA Bogotá",
-    "tecnología startups Colombia",
-    "automatización Colombia",
-    "innovación digital Colombia"
+    "IA Bogota",
+    "tecnologia startups Colombia"
   ]
 }
