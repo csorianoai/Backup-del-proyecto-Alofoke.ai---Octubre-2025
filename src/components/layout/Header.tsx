@@ -23,6 +23,15 @@ const Header = () => {
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">
+            <Link to="/latam" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+              🌎 LATAM
+            </Link>
+            <Link to="/pais/do" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+              🇩🇴 RD
+            </Link>
+            <Link to="/pais/co" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+              🇨🇴 Colombia
+            </Link>
             <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>
@@ -33,9 +42,6 @@ const Header = () => {
               <Search className="h-4 w-4" />
               Buscar
             </Link>
-            <a href="mailto:info@alofoke.ai" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-              Contacto
-            </a>
             <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <ShieldCheck className="h-4 w-4" />
               Admin
@@ -54,6 +60,15 @@ const Header = () => {
 
         {isMenuOpen && (
           <nav className="md:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
+            <Link to="/latam" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+              🌎 LATAM
+            </Link>
+            <Link to="/pais/do" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+              🇩🇴 República Dominicana
+            </Link>
+            <Link to="/pais/co" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
+              🇨🇴 Colombia
+            </Link>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>
@@ -64,9 +79,6 @@ const Header = () => {
               <Search className="h-4 w-4" />
               Buscar
             </Link>
-            <a href="mailto:info@alofoke.ai" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
-              Contacto
-            </a>
             <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <ShieldCheck className="h-4 w-4" />
               Admin

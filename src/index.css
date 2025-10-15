@@ -105,3 +105,50 @@ All colors MUST be HSL.
     @apply bg-background text-foreground;
   }
 }
+
+/* Prose styling for curated articles */
+.prose {
+  @apply text-foreground;
+}
+
+.prose h2,
+.prose h3 {
+  @apply font-bold text-foreground mt-6 mb-3;
+}
+
+.prose h2 {
+  @apply text-2xl;
+}
+
+.prose h3 {
+  @apply text-xl;
+}
+
+.prose p {
+  @apply mb-4 leading-relaxed;
+}
+
+.prose ul,
+.prose ol {
+  @apply mb-4 ml-6;
+}
+
+.prose li {
+  @apply mb-2;
+}
+
+.prose strong {
+  @apply font-semibold;
+}
+
+.prose em {
+  @apply italic;
+}
+
+.prose a {
+  @apply text-primary hover:underline;
+}
+
+.prose .why-it-matters {
+  @apply bg-blue-50 dark:bg-blue-950 border-l-4 border-blue-500 p-4 my-6 rounded;
+}
