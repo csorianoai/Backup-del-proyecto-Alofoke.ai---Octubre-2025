@@ -5,24 +5,19 @@ import os
 from datetime import datetime
 from pathlib import Path
 
-# ---------- Parche anti-'proxies' (debe ejecutarse ANTES de instanciar OpenAI) ----------
 import httpx as _httpx
 
 class _PatchedClient(_httpx.Client):
     def __init__(self, *args, **kwargs):
-        # httpx>=0.28 no acepta 'proxies'; lo removemos si aparece
         kwargs.pop("proxies", None)
         super().__init__(*args, **kwargs)
 
-# Monkey-patch global: cualquier uso interno de httpx.Client ahora ignora 'proxies'
 _httpx.Client = _PatchedClient
 
-# ---------- Ahora sí, OpenAI ----------
 from openai import OpenAI
 
-# Capa 1: inyectamos nuestro propio http_client para evitar que OpenAI cree el suyo
 _transport = _httpx.HTTPTransport(retries=2)
-_http_client = _httpx.Client(transport=_transport, timeout=60)  # sin proxies
+_http_client = _httpx.Client(transport=_transport, timeout=60)
 
 client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY"),
@@ -48,10 +43,8 @@ TREND RADAR (200-280 palabras): 3 tendencias IA LATAM, oportunidades, perspectiv
 JSON: {{"type":"trend_radar","country":"latam","title":"...","subtitle":"...","body_html":"...","sources":["url1","url2"],"tags":["trends","latam"]}}"""
 }
 
-
 def compose_article(article_type, source_data, country_code):
     country_name = COUNTRY_NAMES.get(country_code, country_code.upper())
-
     if article_type == "trend_radar":
         prompt_data = {"trends_summary": json.dumps(source_data, indent=2, ensure_ascii=False)}
     else:
@@ -61,9 +54,7 @@ def compose_article(article_type, source_data, country_code):
             "country_name": country_name,
             "country_code": country_code,
         }
-
     prompt = PROMPTS[article_type].format(**prompt_data)
-
     try:
         resp = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -74,53 +65,42 @@ def compose_article(article_type, source_data, country_code):
             temperature=0.4,
             max_tokens=900,
         )
-
         content = (resp.choices[0].message.content or "").strip()
-
         if content.startswith("```"):
             content = content.split("\n", 1)[1]
             if content.endswith("```"):
                 content = content[:-3]
             if "\n```" in content:
                 content = content.rsplit("\n```", 1)[0]
-
         article = json.loads(content)
         article["generated_at"] = datetime.now().isoformat()
         return article
-
     except Exception as e:
         print(f"❌ Error compose_article({article_type}): {e}")
         return None
-
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mix", default="brief=5,explainer=3,trend=1")
     args = parser.parse_args()
-
     mix = {}
     for item in args.mix.split(","):
         t, c = item.split("=")
         mix[t.strip()] = int(c.strip())
-
     today = datetime.now().strftime("%Y-%m-%d")
     drafts_dir = Path("data/drafts")
     drafts_dir.mkdir(parents=True, exist_ok=True)
-
     for queue_file in Path("data/queue").glob(f"{today}_*.json"):
         country = queue_file.stem.split("_")[-1]
         print(f"\n✍️  País: {country.upper()}  /  Fuente: {queue_file.name}")
-
         with open(queue_file, "r", encoding="utf-8") as f:
             payload = json.load(f)
         articles = payload.get("articles", [])
         if not articles:
             print("  (sin artículos en cola)")
             continue
-
         composed = []
         idx = 0
-
         for i in range(mix.get("brief", 0)):
             if idx >= len(articles):
                 break
@@ -129,7 +109,6 @@ def main():
             if a:
                 composed.append(a)
             idx += 1
-
         for i in range(mix.get("explainer", 0)):
             if idx >= len(articles):
                 break
@@ -138,13 +117,11 @@ def main():
             if a:
                 composed.append(a)
             idx += 1
-
         if mix.get("trend", 0) > 0 and len(articles) >= 3:
             print("  • Trend Radar")
             a = compose_article("trend_radar", articles[:3], country)
             if a:
                 composed.append(a)
-
         out = drafts_dir / f"{today}_{country}.json"
         with open(out, "w", encoding="utf-8") as f:
             json.dump(
@@ -154,9 +131,7 @@ def main():
                 indent=2,
             )
         print(f"  ✓ Generados: {len(composed)}  → {out}")
-
     print("\n✅ Composición completada.")
-
 
 if __name__ == "__main__":
     main()
