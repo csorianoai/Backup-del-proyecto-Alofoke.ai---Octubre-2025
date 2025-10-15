@@ -1,0 +1,28 @@
+{
+  "country": "do",
+  "country_name": "República Dominicana",
+  "feeds": [
+    {
+      "name": "Diario Libre Tecnología",
+      "url": "https://www.diariolibre.com/rss/tecnologia",
+      "category": "tech"
+    },
+    {
+      "name": "Listin Diario",
+      "url": "https://listindiario.com/feed/",
+      "category": "general"
+    },
+    {
+      "name": "Acento Tech",
+      "url": "https://acento.com.do/feed/",
+      "category": "tech"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial República Dominicana",
+    "tecnología Santo Domingo",
+    "IA startups RD",
+    "automatización República Dominicana",
+    "innovación digital RD"
+  ]
+}
