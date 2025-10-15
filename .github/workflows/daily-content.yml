@@ -22,14 +22,12 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Clear pip cache
-        run: |
-          pip cache purge || true
-      
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install --no-cache-dir -r requirements.txt
+          pip uninstall -y openai
+          pip install openai==0.28.1
+          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
       
       - name: Ingest sources
         env:
@@ -58,5 +56,5 @@ jobs:
           git config user.name "Alofoke Bot"
           git config user.email "bot@alofoke.ai"
           git add data/
-          git commit -m "🤖 Content update $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git commit -m "🤖 Content $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
