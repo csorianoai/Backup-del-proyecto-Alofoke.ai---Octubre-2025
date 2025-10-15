@@ -2,7 +2,6 @@ name: Daily Content Pipeline
 
 on:
   schedule:
-    # 10:00 AM, 2:00 PM, 6:00 PM UTC (6AM, 10AM, 2PM EST para DO/CO)
     - cron: "0 14 * * *"
     - cron: "0 18 * * *"
     - cron: "0 22 * * *"
@@ -24,12 +23,12 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
       
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Run ingest (República Dominicana + Colombia)
+      - name: Ingest sources
         env:
           PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
           USE_PPLX: "0"
@@ -51,15 +50,10 @@ jobs:
       - name: Publish articles
         run: python scripts/publish.py
       
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config user.name "Alofoke Bot"
           git config user.email "bot@alofoke.ai"
           git add data/
-          git commit -m "🤖 Content update $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git commit -m "🤖 Content update $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
-      
-      - name: Deploy notification
-        run: |
-          echo "✅ Pipeline completed successfully"
-          echo "📊 Check data/publish_history/ for details"
