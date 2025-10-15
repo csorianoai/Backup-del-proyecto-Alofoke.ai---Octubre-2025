@@ -4,9 +4,10 @@ import json
 import os
 from datetime import datetime
 from pathlib import Path
-import openai
+from openai import OpenAI
 
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Crear cliente OpenAI una sola vez
+client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 COUNTRY_NAMES = {'do': 'República Dominicana', 'co': 'Colombia'}
 
@@ -43,7 +44,8 @@ def compose_article(article_type, source_data, country_code):
     prompt = PROMPTS[article_type].format(**prompt_data)
     
     try:
-        response = openai.ChatCompletion.create(
+        # API moderna v1.x
+        response = client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "Periodista IA LATAM. SOLO JSON válido."},
@@ -53,13 +55,17 @@ def compose_article(article_type, source_data, country_code):
             max_tokens=600
         )
         
+        # API moderna: objeto con atributos
         content = response.choices[0].message.content.strip()
+        
+        # Limpiar markdown si existe
         if content.startswith('```'):
             content = content.split('\n', 1)[1].rsplit('\n```', 1)[0]
         
         article = json.loads(content)
         article['generated_at'] = datetime.now().isoformat()
         return article
+        
     except Exception as e:
         print(f"❌ Error: {e}")
         return None
@@ -91,32 +97,46 @@ def main():
         composed = []
         idx = 0
         
+        # Generar news briefs
         for i in range(mix.get('brief', 0)):
-            if idx >= len(articles): break
+            if idx >= len(articles): 
+                break
             print(f"  Brief {i+1}...")
             a = compose_article('news_brief', articles[idx], country)
-            if a: composed.append(a)
+            if a: 
+                composed.append(a)
             idx += 1
         
+        # Generar explainers
         for i in range(mix.get('explainer', 0)):
-            if idx >= len(articles): break
+            if idx >= len(articles): 
+                break
             print(f"  Explainer {i+1}...")
             a = compose_article('explainer', articles[idx], country)
-            if a: composed.append(a)
+            if a: 
+                composed.append(a)
             idx += 1
         
+        # Generar trend radar
         if mix.get('trend', 0) > 0 and len(articles) >= 3:
             print(f"  Trend...")
             a = compose_article('trend_radar', articles[:3], country)
-            if a: composed.append(a)
+            if a: 
+                composed.append(a)
         
+        # Guardar drafts
         output = drafts_dir / f"{today}_{country}.json"
         with open(output, 'w', encoding='utf-8') as f:
-            json.dump({'date': today, 'country': country, 'articles': composed, 'count': len(composed)}, f, ensure_ascii=False, indent=2)
+            json.dump({
+                'date': today, 
+                'country': country, 
+                'articles': composed, 
+                'count': len(composed)
+            }, f, ensure_ascii=False, indent=2)
         
-        print(f"  ✓ {len(composed)}")
+        print(f"  ✓ {len(composed)} artículos generados")
     
-    print("\n✅ Done!")
+    print("\n✅ Composición completada!")
 
 if __name__ == '__main__':
     main()
