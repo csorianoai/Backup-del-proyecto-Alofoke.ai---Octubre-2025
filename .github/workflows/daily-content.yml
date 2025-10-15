@@ -1,0 +1,65 @@
+name: Daily Content Pipeline
+
+on:
+  schedule:
+    # 10:00 AM, 2:00 PM, 6:00 PM UTC (6AM, 10AM, 2PM EST para DO/CO)
+    - cron: "0 14 * * *"
+    - cron: "0 18 * * *"
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  generate-content:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run ingest (República Dominicana + Colombia)
+        env:
+          PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
+          USE_PPLX: "0"
+        run: |
+          python scripts/ingest.py --countries do co --target 14
+      
+      - name: Compose articles
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
+      
+      - name: Quality check
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python scripts/quality.py --threshold 0.80
+      
+      - name: Publish articles
+        run: python scripts/publish.py
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "Alofoke Bot"
+          git config user.email "bot@alofoke.ai"
+          git add data/
+          git commit -m "🤖 Content update $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes to commit"
+          git push
+      
+      - name: Deploy notification
+        run: |
+          echo "✅ Pipeline completed successfully"
+          echo "📊 Check data/publish_history/ for details"
