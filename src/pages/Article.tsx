@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { supabase } from "@/integrations/supabase/client";
 import { useToast } from "@/hooks/use-toast";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
@@ -34,59 +33,110 @@ const Article = () => {
       if (!decodedSlug) return;
 
       try {
-        const { data, error } = await supabase
-          .from('articles')
-          .select('*')
-          .eq('slug', decodedSlug)
-          .maybeSingle();
-
-        if (error) throw error;
-
-        if (!data) {
-          toast({
-            title: "Artículo no encontrado",
-            description: "El artículo que buscas no existe.",
-            variant: "destructive",
-          });
-          return;
+        setLoading(true);
+        
+        // Parse the slug to extract country, date, and article slug
+        // Format: /articulo/ar/2025/10/16/article-slug
+        const parts = decodedSlug.split('/').filter(Boolean);
+        
+        if (parts.length < 5) {
+          throw new Error('Formato de URL inválido');
         }
+        
+        const country = parts[0];
+        const year = parts[1];
+        const month = parts[2];
+        const day = parts[3];
+        const articleSlug = parts.slice(4).join('/');
+        
+        // Construct the path to the markdown file
+        const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
+        
+        const base = import.meta.env.BASE_URL || '/';
+        const response = await fetch(`${base}${articlePath}?v=${Date.now()}`, { cache: 'no-store' });
+        
+        if (!response.ok) {
+          throw new Error('Artículo no encontrado');
+        }
+        
+        const content = await response.text();
+        
+        // Parse markdown frontmatter and content
+        const lines = content.split('\n');
+        let frontmatterEnd = -1;
+        let frontmatterStart = -1;
+        
+        for (let i = 0; i < lines.length; i++) {
+          if (lines[i].trim() === '---') {
+            if (frontmatterStart === -1) {
+              frontmatterStart = i;
+            } else {
+              frontmatterEnd = i;
+              break;
+            }
+          }
+        }
+        
+        let metadata: any = {};
+        let articleContent = content;
+        
+        if (frontmatterStart !== -1 && frontmatterEnd !== -1) {
+          const frontmatterLines = lines.slice(frontmatterStart + 1, frontmatterEnd);
+          frontmatterLines.forEach(line => {
+            const [key, ...valueParts] = line.split(':');
+            if (key && valueParts.length > 0) {
+              const value = valueParts.join(':').trim().replace(/^["']|["']$/g, '');
+              metadata[key.trim()] = value;
+            }
+          });
+          articleContent = lines.slice(frontmatterEnd + 1).join('\n').trim();
+        }
+        
+        const articleData: ArticleData = {
+          id: articleSlug,
+          title: metadata.title || 'Sin título',
+          excerpt: metadata.excerpt || metadata.description || '',
+          content: articleContent,
+          category: metadata.category || 'News Brief',
+          author: metadata.author || 'Alofoke.ai',
+          read_time: metadata.read_time || '5 min',
+          published_at: metadata.date || new Date().toISOString(),
+          image_url: metadata.image || '/placeholder.svg',
+        };
 
-        setArticle(data as ArticleData);
+        setArticle(articleData);
         
         // Update meta tags for SEO
-        document.title = `${data.title} - Alofoke.ai`;
+        document.title = `${articleData.title} - Alofoke.ai`;
         
-        // Update meta description
         const metaDescription = document.querySelector('meta[name="description"]');
         if (metaDescription) {
-          metaDescription.setAttribute('content', data.excerpt || data.title);
+          metaDescription.setAttribute('content', articleData.excerpt || articleData.title);
         }
         
-        // Update Open Graph tags
         const ogTitle = document.querySelector('meta[property="og:title"]');
-        if (ogTitle) ogTitle.setAttribute('content', data.title);
+        if (ogTitle) ogTitle.setAttribute('content', articleData.title);
         
         const ogDescription = document.querySelector('meta[property="og:description"]');
-        if (ogDescription) ogDescription.setAttribute('content', data.excerpt || data.title);
+        if (ogDescription) ogDescription.setAttribute('content', articleData.excerpt || articleData.title);
         
         const ogImage = document.querySelector('meta[property="og:image"]');
-        if (ogImage) ogImage.setAttribute('content', data.image_url);
+        if (ogImage) ogImage.setAttribute('content', articleData.image_url);
         
         const ogUrl = document.querySelector('meta[property="og:url"]');
         if (ogUrl) ogUrl.setAttribute('content', `https://alofoke.ai/articulo/${decodedSlug}`);
         
-        // Add JSON-LD structured data
         const script = document.createElement('script');
         script.type = 'application/ld+json';
         script.text = JSON.stringify({
           "@context": "https://schema.org",
           "@type": "NewsArticle",
-          "headline": data.title,
-          "image": data.image_url,
-          "datePublished": data.published_at,
+          "headline": articleData.title,
+          "image": articleData.image_url,
+          "datePublished": articleData.published_at,
           "author": {
             "@type": "Person",
-            "name": data.author
+            "name": articleData.author
           },
           "publisher": {
             "@type": "Organization",
@@ -96,7 +146,7 @@ const Article = () => {
               "url": "https://alofoke.ai/og-image.png"
             }
           },
-          "description": data.excerpt || data.title
+          "description": articleData.excerpt || articleData.title
         });
         document.head.appendChild(script);
         

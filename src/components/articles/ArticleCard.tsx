@@ -10,12 +10,15 @@ interface ArticleCardProps {
   date: string;
   readTime: string;
   image: string;
-  slug: string;
+  slug?: string;
+  url?: string;
 }
 
-const ArticleCard = ({ title, excerpt, category, date, readTime, image, slug }: ArticleCardProps) => {
+const ArticleCard = ({ title, excerpt, category, date, readTime, image, slug, url }: ArticleCardProps) => {
+  const articleUrl = url || `/articulo/${encodeURIComponent(slug || '')}`;
+  
   return (
-    <Link to={`/articulo/${encodeURIComponent(slug)}`}>
+    <Link to={articleUrl}>
       <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
       <div className="relative h-48 overflow-hidden">
         <img 

@@ -39,6 +39,7 @@ interface CountrySelectorProps {
 const CountrySelector = ({ currentCountry, onSelect }: CountrySelectorProps) => {
   const navigate = useNavigate();
   const [selectedCountry, setSelectedCountry] = useState(currentCountry || "latam");
+  const [open, setOpen] = useState(false);
 
   useEffect(() => {
     const saved = localStorage.getItem("preferred_country");
@@ -66,12 +67,15 @@ const CountrySelector = ({ currentCountry, onSelect }: CountrySelectorProps) => 
       navigate(`/pais/${value}`);
     }
     
+    // Close the select dropdown
+    setOpen(false);
+    
     // Close mobile menu if callback provided
     onSelect?.();
   };
 
   return (
-    <Select value={selectedCountry} onValueChange={handleCountryChange}>
+    <Select value={selectedCountry} onValueChange={handleCountryChange} open={open} onOpenChange={setOpen}>
       <SelectTrigger className="w-full md:w-[200px]">
         <SelectValue />
       </SelectTrigger>
