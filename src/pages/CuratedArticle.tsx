@@ -282,7 +282,7 @@ const CuratedArticle = () => {
                 
                 <div className="flex items-center gap-2 text-foreground font-medium">
                   <span>📝</span>
-                  <span>Director Editorial: César Soriano</span>
+                  <span>Director Editorial: César Soriano (Ramon Almonte Soriano)</span>
                 </div>
               </div>
 
@@ -327,7 +327,7 @@ const CuratedArticle = () => {
             <div className="mt-8 p-6 bg-muted/50 rounded-lg space-y-3">
               <div className="flex items-center gap-2 text-sm">
                 <span className="text-lg">✍️</span>
-                <span className="font-medium">Supervisado por César Soriano, Director Editorial de Alofoke.ai</span>
+                <span className="font-medium">Supervisado por César Soriano (Ramon Almonte Soriano), Director Editorial de Alofoke.ai</span>
               </div>
               
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
