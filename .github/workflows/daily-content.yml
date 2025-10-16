@@ -2,9 +2,9 @@ name: Daily Content Pipeline
 
 on:
   schedule:
-    - cron: "0 14 * * *"
-    - cron: "0 18 * * *"
-    - cron: "0 22 * * *"
+    - cron: "0 14 * * *"  # 10am ET
+    - cron: "0 18 * * *"  # 2pm ET
+    - cron: "0 22 * * *"  # 6pm ET
   workflow_dispatch: {}
 
 jobs:
@@ -20,20 +20,20 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Python dependencies
+      - name: Install ALL Python dependencies (hard-coded)
         run: |
-          pip cache purge
+          pip cache purge || true
           python -m pip install --upgrade pip
-          pip install pydantic==2.5.0
-          pip install httpx==0.27.2
-          pip install openai==1.51.0
-          pip install feedparser==6.0.11 requests==2.31.0 markdown==3.5.1 python-frontmatter==1.1.0 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
+          pip install -r requirements.txt
+          pip install --force-reinstall pydantic==2.5.0 typing-extensions==4.11.0
 
       - name: Verify installation
         run: |
-          python -c "import pydantic; print('✓ Pydantic:', pydantic.__version__)"
+          echo "=== Verifying Dependencies ==="
           python -c "import openai; print('✓ OpenAI:', openai.__version__)"
-          python -c "import httpx; print('✓ Httpx:', httpx.__version__)"
+          python -c "import pydantic; print('✓ Pydantic:', pydantic.__version__)"
+          python -c "import httpx; print('✓ HTTPX:', httpx.__version__)"
+          python -c "import typing_extensions; print('✓ typing-extensions loaded')"
 
       - name: Ingest sources
         env:
