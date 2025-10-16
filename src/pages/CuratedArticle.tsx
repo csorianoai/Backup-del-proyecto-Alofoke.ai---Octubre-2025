@@ -84,8 +84,8 @@ const CuratedArticle = () => {
         const slugNorm = (slug || '').replace(/\.+$/, '');
         let markdown: string | null = null;
         try {
-          const absEager = import.meta.glob('/data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
-          const relEager = import.meta.glob('../../data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
+          const absEager = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
+          const relEager = import.meta.glob('../../data/articles/**/*.md', { as: 'raw', eager: true });
           const modules = { ...absEager, ...relEager } as Record<string, string>;
           const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
           const keys = Object.keys(modules);
