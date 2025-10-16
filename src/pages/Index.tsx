@@ -4,6 +4,8 @@ import Footer from "@/components/layout/Footer";
 import CuratedArticleCard from "@/components/articles/CuratedArticleCard";
 import { Skeleton } from "@/components/ui/skeleton";
 
+import globalIndexUrl from "/data/indices/global.json?url";
+
 const NadakkiAd = lazy(() => import("@/components/NadakkiAd"));
 
 interface ArticleIndex {
@@ -28,44 +30,18 @@ const Index = () => {
   useEffect(() => {
     const load = async () => {
       try {
-        // Cargar mediante URL de activo para que funcione en dev y build, con fallback a fetch directo
-        const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true }) as Record<string, string>;
-        const keys = Object.keys(urlMods);
-        let data: any = null;
-        const matchKey = keys.find(k => k.endsWith('/global.json') || k.includes('/data/indices/global.json'));
-        if (matchKey) {
-          const resp = await fetch(urlMods[matchKey], { cache: 'no-store' });
-          if (resp.ok) data = await resp.json();
-        }
-
-        if (!data) {
-          const base = import.meta.env.BASE_URL || '/';
-          const basePath = base.endsWith('/') ? base : `${base}/`;
-          const urls = [
-            `${basePath}data/indices/global.json?v=${Date.now()}`,
-            `/data/indices/global.json?v=${Date.now()}`,
-          ];
-          for (const u of urls) {
-            try {
-              const r = await fetch(u, { cache: 'no-store' });
-              if (r.ok) { data = await r.json(); break; }
-            } catch {}
-          }
-        }
-
-        if (!data) throw new Error('Índice global no encontrado');
-        
-        // Filtrar duplicados por slug
+        const resp = await fetch(globalIndexUrl, { cache: 'no-store' });
+        if (!resp.ok) throw new Error('Índice global no encontrado');
+        const data = await resp.json();
         const allArticles = data.articles || [];
-        const uniqueArticles = allArticles.filter((article: ArticleIndex, index: number, self: ArticleIndex[]) => 
+        const uniqueArticles = allArticles.filter((article: ArticleIndex, index: number, self: ArticleIndex[]) =>
           index === self.findIndex((a) => a.slug === article.slug)
         );
-        
         setArticles(uniqueArticles);
-        setLoading(false);
       } catch (err) {
         console.error('Error loading articles:', err);
         setError('Error cargando artículos');
+      } finally {
         setLoading(false);
       }
     };
