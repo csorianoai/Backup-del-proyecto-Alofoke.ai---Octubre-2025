@@ -5,7 +5,7 @@ import Footer from "@/components/layout/Footer";
 import CuratedArticleCard from "@/components/articles/CuratedArticleCard";
 import CountrySelector from "@/components/CountrySelector";
 import { Skeleton } from "@/components/ui/skeleton";
-import globalIndexUrl from "/data/indices/global.json?url";
+
 
 interface ArticleIndex {
   title: string;
@@ -27,13 +27,37 @@ const LatamFeed = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const load = async () => {
+    const loadArticles = async () => {
       try {
         setLoading(true);
         setError(null);
-        const resp = await fetch(globalIndexUrl, { cache: 'no-store' });
-        if (!resp.ok) throw new Error('Índice global no encontrado');
-        const data = await resp.json();
+
+        // Intento 1: usar URL de activo para asegurarnos de que se incluya en el build
+        const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true }) as Record<string, string>;
+        const keys = Object.keys(urlMods);
+        let data: any = null;
+        const matchKey = keys.find(k => k.endsWith('/global.json') || k.includes('/data/indices/global.json'));
+        if (matchKey) {
+          const resp = await fetch(urlMods[matchKey], { cache: 'no-store' });
+          if (resp.ok) data = await resp.json();
+        }
+        
+        // Fallback: fetch directo desde rutas públicas
+        if (!data) {
+          const base = import.meta.env.BASE_URL || '/';
+          const basePath = base.endsWith('/') ? base : `${base}/`;
+          const urls = [
+            `${basePath}data/indices/global.json?v=${Date.now()}`,
+            `/data/indices/global.json?v=${Date.now()}`,
+          ];
+          for (const u of urls) {
+            try {
+              const r = await fetch(u, { cache: 'no-store' });
+              if (r.ok) { data = await r.json(); break; }
+            } catch {}
+          }
+        }
+        if (!data) throw new Error('Índice global no encontrado');
         setArticles(data.articles || []);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Error desconocido');
@@ -42,7 +66,8 @@ const LatamFeed = () => {
         setLoading(false);
       }
     };
-    load();
+
+    loadArticles();
   }, []);
 
   return (
