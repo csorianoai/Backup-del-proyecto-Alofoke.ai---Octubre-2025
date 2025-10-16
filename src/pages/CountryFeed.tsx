@@ -45,7 +45,7 @@ const CountryFeed = () => {
         setLoading(true);
         setError(null);
         
-        const response = await fetch(`/data/indices/${country}.json`);
+        const response = await fetch(`/data/indices/${country}.json?v=${Date.now()}`);
         
         if (!response.ok) {
           throw new Error("No se pudieron cargar los artículos");

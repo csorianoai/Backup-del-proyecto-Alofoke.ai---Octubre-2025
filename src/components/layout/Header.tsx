@@ -32,10 +32,6 @@ const Header = () => {
           </Link>
 
           <nav className="hidden md:flex items-center gap-6">
-            <Link to="/latam" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <Globe className="w-4 h-4" />
-              <span>LATAM</span>
-            </Link>
             <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <DO className="w-5 h-3" />
               <span>RD</span>
@@ -72,6 +68,10 @@ const Header = () => {
               <UY className="w-5 h-3" />
               <span>Uruguay</span>
             </Link>
+            <Link to="/latam" className="flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/80 transition-colors rounded-full px-2 py-1 border border-primary/20">
+              <Globe className="w-4 h-4" />
+              <span>LATAM</span>
+            </Link>
             <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>
@@ -100,10 +100,6 @@ const Header = () => {
 
         {isMenuOpen && (
           <nav className="md:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
-            <Link to="/latam" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <Globe className="w-4 h-4" />
-              <span>LATAM</span>
-            </Link>
             <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <DO className="w-5 h-3" />
               <span>República Dominicana</span>
@@ -139,6 +135,10 @@ const Header = () => {
             <Link to="/pais/uy" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <UY className="w-5 h-3" />
               <span>Uruguay</span>
+            </Link>
+            <Link to="/latam" className="flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/80 transition-colors rounded-full px-2 py-1 border border-primary/20">
+              <Globe className="w-4 h-4" />
+              <span>LATAM</span>
             </Link>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
