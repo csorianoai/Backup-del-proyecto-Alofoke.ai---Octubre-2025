@@ -71,7 +71,7 @@ jobs:
         run: |
           git config user.name "Alofoke Bot"
           git config user.email "bot@alofoke.ai"
-          git pull --rebase origin main
           git add data/
-          git commit -m "🤖 Content $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git diff-index --quiet HEAD || git commit -m "🤖 Content $(date +'%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash origin main
           git push
