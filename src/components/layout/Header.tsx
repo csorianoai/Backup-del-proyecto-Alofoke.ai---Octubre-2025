@@ -7,6 +7,11 @@ import { DO } from 'country-flag-icons/react/3x2';
 import { CO } from 'country-flag-icons/react/3x2';
 import { MX } from 'country-flag-icons/react/3x2';
 import { AR } from 'country-flag-icons/react/3x2';
+import { ES } from 'country-flag-icons/react/3x2';
+import { PE } from 'country-flag-icons/react/3x2';
+import { PA } from 'country-flag-icons/react/3x2';
+import { CL } from 'country-flag-icons/react/3x2';
+import { UY } from 'country-flag-icons/react/3x2';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -46,6 +51,26 @@ const Header = () => {
             <Link to="/pais/ar" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <AR className="w-5 h-3" />
               <span>Argentina</span>
+            </Link>
+            <Link to="/pais/es" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <ES className="w-5 h-3" />
+              <span>España</span>
+            </Link>
+            <Link to="/pais/pe" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <PE className="w-5 h-3" />
+              <span>Perú</span>
+            </Link>
+            <Link to="/pais/pa" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <PA className="w-5 h-3" />
+              <span>Panamá</span>
+            </Link>
+            <Link to="/pais/cl" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <CL className="w-5 h-3" />
+              <span>Chile</span>
+            </Link>
+            <Link to="/pais/uy" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <UY className="w-5 h-3" />
+              <span>Uruguay</span>
             </Link>
             <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
@@ -94,6 +119,26 @@ const Header = () => {
             <Link to="/pais/ar" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <AR className="w-5 h-3" />
               <span>Argentina</span>
+            </Link>
+            <Link to="/pais/es" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <ES className="w-5 h-3" />
+              <span>España</span>
+            </Link>
+            <Link to="/pais/pe" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <PE className="w-5 h-3" />
+              <span>Perú</span>
+            </Link>
+            <Link to="/pais/pa" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <PA className="w-5 h-3" />
+              <span>Panamá</span>
+            </Link>
+            <Link to="/pais/cl" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <CL className="w-5 h-3" />
+              <span>Chile</span>
+            </Link>
+            <Link to="/pais/uy" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <UY className="w-5 h-3" />
+              <span>Uruguay</span>
             </Link>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
