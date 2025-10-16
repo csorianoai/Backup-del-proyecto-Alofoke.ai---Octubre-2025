@@ -36,10 +36,11 @@ const Article = () => {
       const [country, year, month, day, ...rest] = parts;
       const articleSlug = rest.join('/');
       const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
-      const base = import.meta.env.BASE_URL || '/';
-      const response = await fetch(`${base}${articlePath}?v=${Date.now()}`, { cache: 'no-store' });
-      if (!response.ok) return null;
-      const content = await response.text();
+      // Load from bundled markdown using Vite glob
+      const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
+      const loader = modules[articlePath as keyof typeof modules];
+      if (!loader) return null;
+      const content: string = await (loader as any)();
       const lines = content.split('\n');
       let fmStart = -1;
       let fmEnd = -1;
