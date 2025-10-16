@@ -40,31 +40,27 @@ const CountryFeed = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const fetchArticles = async () => {
+    const load = async () => {
       try {
         setLoading(true);
         setError(null);
-        
-        const base = import.meta.env.BASE_URL || '/';
-        const response = await fetch(`${base}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
-        
-        if (!response.ok) {
-          throw new Error("No se pudieron cargar los artículos");
-        }
-        
-        const data = await response.json();
+
+        const modules = import.meta.glob('/data/indices/*.json');
+        const path = `/data/indices/${country}.json`;
+        const loader = modules[path as keyof typeof modules];
+        if (!loader) throw new Error('Índice del país no encontrado');
+        const mod: any = await (loader as any)();
+        const data = mod.default || mod;
         setArticles(data.articles || []);
       } catch (err) {
-        setError(err instanceof Error ? err.message : "Error desconocido");
-        console.error("Error loading articles:", err);
+        setError(err instanceof Error ? err.message : 'Error desconocido');
+        console.error('Error loading articles:', err);
       } finally {
         setLoading(false);
       }
     };
 
-    if (country) {
-      fetchArticles();
-    }
+    if (country) load();
   }, [country]);
 
   const countryName = COUNTRY_NAMES[country as keyof typeof COUNTRY_NAMES] || country;

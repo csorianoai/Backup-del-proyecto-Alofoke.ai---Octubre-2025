@@ -26,29 +26,26 @@ const LatamFeed = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const fetchArticles = async () => {
+    const loadArticles = async () => {
       try {
         setLoading(true);
         setError(null);
-        
-        const base = import.meta.env.BASE_URL || '/';
-        const response = await fetch(`${base}data/indices/global.json?v=${Date.now()}`, { cache: 'no-store' });
-        
-        if (!response.ok) {
-          throw new Error("No se pudieron cargar los artículos");
-        }
-        
-        const data = await response.json();
+
+        const modules = import.meta.glob('/data/indices/*.json');
+        const loader = modules['/data/indices/global.json'];
+        if (!loader) throw new Error('Índice global no encontrado');
+        const mod: any = await loader();
+        const data = mod.default || mod;
         setArticles(data.articles || []);
       } catch (err) {
-        setError(err instanceof Error ? err.message : "Error desconocido");
-        console.error("Error loading articles:", err);
+        setError(err instanceof Error ? err.message : 'Error desconocido');
+        console.error('Error loading articles:', err);
       } finally {
         setLoading(false);
       }
     };
 
-    fetchArticles();
+    loadArticles();
   }, []);
 
   return (

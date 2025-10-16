@@ -26,18 +26,22 @@ const Index = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const base = import.meta.env.BASE_URL || '/';
-    fetch(`${base}data/indices/global.json?v=${Date.now()}`, { cache: 'no-store' })
-      .then(res => res.json())
-      .then(data => {
+    const load = async () => {
+      try {
+        const modules = import.meta.glob('/data/indices/*.json');
+        const loader = modules['/data/indices/global.json'];
+        if (!loader) throw new Error('Índice global no encontrado');
+        const mod: any = await loader();
+        const data = mod.default || mod;
         setArticles(data.articles || []);
         setLoading(false);
-      })
-      .catch(err => {
+      } catch (err) {
         console.error('Error loading articles:', err);
         setError('Error cargando artículos');
         setLoading(false);
-      });
+      }
+    };
+    load();
   }, []);
 
   useEffect(() => {
