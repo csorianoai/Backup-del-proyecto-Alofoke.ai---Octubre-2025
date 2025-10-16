@@ -24,6 +24,8 @@ interface ArticleIndex {
 const COUNTRY_NAMES = {
   do: "República Dominicana",
   co: "Colombia",
+  mx: "México",
+  ar: "Argentina",
 };
 
 const CountryFeed = () => {

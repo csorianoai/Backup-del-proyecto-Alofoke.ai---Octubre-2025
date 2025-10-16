@@ -5,6 +5,8 @@ import robotLogo from "@/assets/alofoke-robot-logo.png";
 import { Link } from "react-router-dom";
 import { DO } from 'country-flag-icons/react/3x2';
 import { CO } from 'country-flag-icons/react/3x2';
+import { MX } from 'country-flag-icons/react/3x2';
+import { AR } from 'country-flag-icons/react/3x2';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -36,6 +38,14 @@ const Header = () => {
             <Link to="/pais/co" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <CO className="w-5 h-3" />
               <span>Colombia</span>
+            </Link>
+            <Link to="/pais/mx" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <MX className="w-5 h-3" />
+              <span>México</span>
+            </Link>
+            <Link to="/pais/ar" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <AR className="w-5 h-3" />
+              <span>Argentina</span>
             </Link>
             <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
@@ -76,6 +86,14 @@ const Header = () => {
             <Link to="/pais/co" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <CO className="w-5 h-3" />
               <span>Colombia</span>
+            </Link>
+            <Link to="/pais/mx" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <MX className="w-5 h-3" />
+              <span>México</span>
+            </Link>
+            <Link to="/pais/ar" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <AR className="w-5 h-3" />
+              <span>Argentina</span>
             </Link>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias

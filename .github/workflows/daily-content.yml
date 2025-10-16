@@ -48,7 +48,7 @@ jobs:
           PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
           USE_PPLX: "0"
         run: |
-          python scripts/ingest.py --countries do co --target 14
+          python scripts/ingest.py --countries do co mx ar --target 14
       
       - name: Compose articles
         env:

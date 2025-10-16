@@ -4,6 +4,8 @@ import { Badge } from "@/components/ui/badge";
 import { Calendar, Globe } from "lucide-react";
 import { DO } from 'country-flag-icons/react/3x2';
 import { CO } from 'country-flag-icons/react/3x2';
+import { MX } from 'country-flag-icons/react/3x2';
+import { AR } from 'country-flag-icons/react/3x2';
 
 interface CuratedArticleCardProps {
   title: string;
@@ -39,6 +41,8 @@ const TYPE_LABELS = {
 const COUNTRY_FLAG_COMPONENTS = {
   do: DO,
   co: CO,
+  mx: MX,
+  ar: AR,
   latam: Globe,
 };
 

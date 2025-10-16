@@ -9,12 +9,16 @@ import {
 } from "@/components/ui/select";
 import { DO } from 'country-flag-icons/react/3x2';
 import { CO } from 'country-flag-icons/react/3x2';
+import { MX } from 'country-flag-icons/react/3x2';
+import { AR } from 'country-flag-icons/react/3x2';
 import { Globe } from "lucide-react";
 
 const COUNTRIES = [
   { code: "latam", name: "LATAM", FlagComponent: Globe },
   { code: "do", name: "República Dominicana", FlagComponent: DO },
   { code: "co", name: "Colombia", FlagComponent: CO },
+  { code: "mx", name: "México", FlagComponent: MX },
+  { code: "ar", name: "Argentina", FlagComponent: AR },
 ];
 
 interface CountrySelectorProps {

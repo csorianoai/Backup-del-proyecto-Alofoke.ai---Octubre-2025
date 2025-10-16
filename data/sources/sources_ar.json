@@ -1,0 +1,22 @@
+{
+  "country": "ar",
+  "country_name": "Argentina",
+  "feeds": [
+    {
+      "name": "La Nación Tecnología",
+      "url": "https://www.lanacion.com.ar/arcio/rss/tecnologia/",
+      "category": "tech"
+    },
+    {
+      "name": "Clarín Tecnología",
+      "url": "https://www.clarin.com/rss/tecnologia/",
+      "category": "tech"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial Argentina",
+    "IA startups Buenos Aires",
+    "tecnologia IA Cordoba",
+    "machine learning Argentina empresas"
+  ]
+}

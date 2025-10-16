@@ -1,0 +1,22 @@
+{
+  "country": "mx",
+  "country_name": "México",
+  "feeds": [
+    {
+      "name": "El Universal Tecnología",
+      "url": "https://www.eluniversal.com.mx/rss/tecnologia.xml",
+      "category": "tech"
+    },
+    {
+      "name": "Expansión Tecnología",
+      "url": "https://expansion.mx/rss/tecnologia",
+      "category": "tech"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial Mexico",
+    "IA startups Ciudad de Mexico",
+    "tecnologia IA Monterrey",
+    "ChatGPT Mexico empresas"
+  ]
+}

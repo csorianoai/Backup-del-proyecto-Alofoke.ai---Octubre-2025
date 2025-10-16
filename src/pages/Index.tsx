@@ -1,12 +1,44 @@
-import { lazy, Suspense, useEffect } from "react";
+import { lazy, Suspense, useEffect, useState } from "react";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
-import ArticleGridDatabase from "@/components/articles/ArticleGridDatabase";
-import EditorialSection from "@/components/editorials/EditorialSection";
+import CuratedArticleCard from "@/components/articles/CuratedArticleCard";
+import { Skeleton } from "@/components/ui/skeleton";
 
 const NadakkiAd = lazy(() => import("@/components/NadakkiAd"));
 
+interface ArticleIndex {
+  title: string;
+  subtitle: string;
+  slug: string;
+  url: string;
+  date: string;
+  country: string;
+  type: string;
+  tier: string;
+  tags: string[];
+  human_verified?: boolean;
+  low_confidence?: boolean;
+}
+
 const Index = () => {
+  const [articles, setArticles] = useState<ArticleIndex[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    fetch('/data/indices/global.json')
+      .then(res => res.json())
+      .then(data => {
+        setArticles(data.articles || []);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Error loading articles:', err);
+        setError('Error cargando artículos');
+        setLoading(false);
+      });
+  }, []);
+
   useEffect(() => {
     // Add comprehensive JSON-LD structured data for SEO
     const organizationSchema = {
@@ -72,10 +104,10 @@ const Index = () => {
       <main className="container mx-auto px-4 py-8">
         <div className="mb-12 text-center space-y-4">
           <h1 className="text-4xl md:text-5xl font-bold bg-gradient-primary bg-clip-text text-transparent animate-fade-in">
-            Inteligencia Artificial en República Dominicana
+            Inteligencia Artificial en Latinoamérica
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            El portal líder de noticias sobre IA en RD. Análisis, casos de uso y tendencias actualizadas dos veces al día.
+            Noticias, análisis y casos de uso de IA en RD, Colombia, México y Argentina. Actualizado 3 veces al día.
           </p>
         </div>
 
@@ -85,8 +117,51 @@ const Index = () => {
           </div>
         </Suspense>
 
-        {/* <EditorialSection /> */}
-        <ArticleGridDatabase />
+        <div className="space-y-8">
+          {loading && (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {[...Array(6)].map((_, i) => (
+                <div key={i} className="space-y-3">
+                  <Skeleton className="h-48 w-full" />
+                  <Skeleton className="h-4 w-3/4" />
+                  <Skeleton className="h-4 w-1/2" />
+                </div>
+              ))}
+            </div>
+          )}
+
+          {error && (
+            <div className="text-center py-12">
+              <p className="text-destructive">{error}</p>
+            </div>
+          )}
+
+          {!loading && !error && articles.length === 0 && (
+            <div className="text-center py-12">
+              <p className="text-muted-foreground">No hay artículos disponibles todavía.</p>
+            </div>
+          )}
+
+          {!loading && !error && articles.length > 0 && (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {articles.map((article) => (
+                <CuratedArticleCard
+                  key={article.slug}
+                  title={article.title}
+                  subtitle={article.subtitle}
+                  country={article.country}
+                  date={article.date}
+                  type={article.type}
+                  tier={article.tier}
+                  url={article.url}
+                  tags={article.tags}
+                  human_verified={article.human_verified}
+                  low_confidence={article.low_confidence}
+                />
+              ))}
+            </div>
+          )}
+        </div>
       </main>
 
       <Footer />
