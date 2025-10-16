@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import { supabase } from "@/integrations/supabase/client";
 import { useToast } from "@/hooks/use-toast";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
@@ -29,140 +30,127 @@ const Article = () => {
   const { toast } = useToast();
 
   useEffect(() => {
-    const loadArticle = async () => {
-      if (!decodedSlug) return;
+    const tryMarkdown = async (slugPath: string): Promise<ArticleData | null> => {
+      const parts = slugPath.split('/').filter(Boolean);
+      if (parts.length < 5) return null;
+      const [country, year, month, day, ...rest] = parts;
+      const articleSlug = rest.join('/');
+      const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
+      const base = import.meta.env.BASE_URL || '/';
+      const response = await fetch(`${base}${articlePath}?v=${Date.now()}`, { cache: 'no-store' });
+      if (!response.ok) return null;
+      const content = await response.text();
+      const lines = content.split('\n');
+      let fmStart = -1;
+      let fmEnd = -1;
+      for (let i = 0; i < lines.length; i++) {
+        if (lines[i].trim() === '---') {
+          if (fmStart === -1) fmStart = i; else { fmEnd = i; break; }
+        }
+      }
+      let metadata: any = {};
+      let articleContent = content;
+      if (fmStart !== -1 && fmEnd !== -1) {
+        const fmLines = lines.slice(fmStart + 1, fmEnd);
+        fmLines.forEach(line => {
+          const [key, ...valueParts] = line.split(':');
+          if (key && valueParts.length > 0) {
+            const value = valueParts.join(':').trim().replace(/^["']|["']$/g, '');
+            metadata[key.trim()] = value;
+          }
+        });
+        articleContent = lines.slice(fmEnd + 1).join('\n').trim();
+      }
+      return {
+        id: articleSlug,
+        title: metadata.title || 'Sin título',
+        excerpt: metadata.excerpt || metadata.description || '',
+        content: articleContent,
+        category: metadata.category || 'News Brief',
+        author: metadata.author || 'Alofoke.ai',
+        read_time: metadata.read_time || '5 min',
+        published_at: metadata.date || new Date().toISOString(),
+        image_url: metadata.image || '/placeholder.svg',
+      } as ArticleData;
+    };
 
+    const tryDB = async (slugValue: string): Promise<ArticleData | null> => {
+      if (!slugValue) return null;
+      const { data, error } = await supabase
+        .from('articles')
+        .select('*')
+        .eq('slug', slugValue)
+        .maybeSingle();
+      if (error) throw error;
+      if (!data) return null;
+      return {
+        id: data.id,
+        title: data.title,
+        excerpt: data.excerpt,
+        content: data.content,
+        category: data.category,
+        author: data.author || 'Alofoke.ai',
+        read_time: data.read_time || '5 min',
+        published_at: data.published_at,
+        image_url: data.image_url || '/placeholder.svg',
+      } as ArticleData;
+    };
+
+    const load = async () => {
+      if (!decodedSlug) return;
+      setLoading(true);
       try {
-        setLoading(true);
-        
-        // Parse the slug to extract country, date, and article slug
-        // Format: /articulo/ar/2025/10/16/article-slug
-        const parts = decodedSlug.split('/').filter(Boolean);
-        
-        if (parts.length < 5) {
-          throw new Error('Formato de URL inválido');
-        }
-        
-        const country = parts[0];
-        const year = parts[1];
-        const month = parts[2];
-        const day = parts[3];
-        const articleSlug = parts.slice(4).join('/');
-        
-        // Construct the path to the markdown file
-        const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
-        
-        const base = import.meta.env.BASE_URL || '/';
-        const response = await fetch(`${base}${articlePath}?v=${Date.now()}`, { cache: 'no-store' });
-        
-        if (!response.ok) {
-          throw new Error('Artículo no encontrado');
-        }
-        
-        const content = await response.text();
-        
-        // Parse markdown frontmatter and content
-        const lines = content.split('\n');
-        let frontmatterEnd = -1;
-        let frontmatterStart = -1;
-        
-        for (let i = 0; i < lines.length; i++) {
-          if (lines[i].trim() === '---') {
-            if (frontmatterStart === -1) {
-              frontmatterStart = i;
-            } else {
-              frontmatterEnd = i;
-              break;
-            }
+        let result: ArticleData | null = null;
+        const hasPath = decodedSlug.includes('/');
+        if (hasPath) {
+          result = await tryMarkdown(decodedSlug);
+          if (!result) {
+            const last = decodedSlug.split('/').pop() || decodedSlug;
+            result = await tryDB(last);
+          }
+        } else {
+          result = await tryDB(decodedSlug);
+          if (!result) {
+            result = await tryMarkdown(decodedSlug);
           }
         }
-        
-        let metadata: any = {};
-        let articleContent = content;
-        
-        if (frontmatterStart !== -1 && frontmatterEnd !== -1) {
-          const frontmatterLines = lines.slice(frontmatterStart + 1, frontmatterEnd);
-          frontmatterLines.forEach(line => {
-            const [key, ...valueParts] = line.split(':');
-            if (key && valueParts.length > 0) {
-              const value = valueParts.join(':').trim().replace(/^["']|["']$/g, '');
-              metadata[key.trim()] = value;
-            }
-          });
-          articleContent = lines.slice(frontmatterEnd + 1).join('\n').trim();
-        }
-        
-        const articleData: ArticleData = {
-          id: articleSlug,
-          title: metadata.title || 'Sin título',
-          excerpt: metadata.excerpt || metadata.description || '',
-          content: articleContent,
-          category: metadata.category || 'News Brief',
-          author: metadata.author || 'Alofoke.ai',
-          read_time: metadata.read_time || '5 min',
-          published_at: metadata.date || new Date().toISOString(),
-          image_url: metadata.image || '/placeholder.svg',
-        };
 
-        setArticle(articleData);
-        
-        // Update meta tags for SEO
-        document.title = `${articleData.title} - Alofoke.ai`;
-        
+        if (!result) throw new Error('Artículo no encontrado');
+        setArticle(result);
+
+        document.title = `${result.title} - Alofoke.ai`;
         const metaDescription = document.querySelector('meta[name="description"]');
-        if (metaDescription) {
-          metaDescription.setAttribute('content', articleData.excerpt || articleData.title);
-        }
-        
+        if (metaDescription) metaDescription.setAttribute('content', result.excerpt || result.title);
         const ogTitle = document.querySelector('meta[property="og:title"]');
-        if (ogTitle) ogTitle.setAttribute('content', articleData.title);
-        
+        if (ogTitle) ogTitle.setAttribute('content', result.title);
         const ogDescription = document.querySelector('meta[property="og:description"]');
-        if (ogDescription) ogDescription.setAttribute('content', articleData.excerpt || articleData.title);
-        
+        if (ogDescription) ogDescription.setAttribute('content', result.excerpt || result.title);
         const ogImage = document.querySelector('meta[property="og:image"]');
-        if (ogImage) ogImage.setAttribute('content', articleData.image_url);
-        
+        if (ogImage) ogImage.setAttribute('content', result.image_url);
         const ogUrl = document.querySelector('meta[property="og:url"]');
         if (ogUrl) ogUrl.setAttribute('content', `https://alofoke.ai/articulo/${decodedSlug}`);
-        
         const script = document.createElement('script');
         script.type = 'application/ld+json';
         script.text = JSON.stringify({
           "@context": "https://schema.org",
           "@type": "NewsArticle",
-          "headline": articleData.title,
-          "image": articleData.image_url,
-          "datePublished": articleData.published_at,
-          "author": {
-            "@type": "Person",
-            "name": articleData.author
-          },
-          "publisher": {
-            "@type": "Organization",
-            "name": "Alofoke.ai",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://alofoke.ai/og-image.png"
-            }
-          },
-          "description": articleData.excerpt || articleData.title
+          "headline": result.title,
+          "image": result.image_url,
+          "datePublished": result.published_at,
+          "author": { "@type": "Person", "name": result.author },
+          "publisher": { "@type": "Organization", "name": "Alofoke.ai", "logo": { "@type": "ImageObject", "url": "https://alofoke.ai/og-image.png" } },
+          "description": result.excerpt || result.title
         });
         document.head.appendChild(script);
-        
       } catch (error: any) {
         console.error('Error loading article:', error);
-        toast({
-          title: "Error al cargar artículo",
-          description: error.message,
-          variant: "destructive",
-        });
+        toast({ title: 'Error al cargar artículo', description: error.message, variant: 'destructive' });
       } finally {
         setLoading(false);
       }
     };
 
-    loadArticle();
+    load();
   }, [decodedSlug, toast]);
 
   const formatDate = (dateString: string) => {
