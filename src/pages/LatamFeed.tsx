@@ -31,11 +31,32 @@ const LatamFeed = () => {
         setLoading(true);
         setError(null);
 
-        const modules = import.meta.glob('/data/indices/*.json');
-        const loader = modules['/data/indices/global.json'];
-        if (!loader) throw new Error('Índice global no encontrado');
-        const mod: any = await loader();
-        const data = mod.default || mod;
+        // Intento 1: usar URL de activo para asegurarnos de que se incluya en el build
+        const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true }) as Record<string, string>;
+        const keys = Object.keys(urlMods);
+        let data: any = null;
+        const matchKey = keys.find(k => k.endsWith('/global.json') || k.includes('/data/indices/global.json'));
+        if (matchKey) {
+          const resp = await fetch(urlMods[matchKey], { cache: 'no-store' });
+          if (resp.ok) data = await resp.json();
+        }
+        
+        // Fallback: fetch directo desde rutas públicas
+        if (!data) {
+          const base = import.meta.env.BASE_URL || '/';
+          const basePath = base.endsWith('/') ? base : `${base}/`;
+          const urls = [
+            `${basePath}data/indices/global.json?v=${Date.now()}`,
+            `/data/indices/global.json?v=${Date.now()}`,
+          ];
+          for (const u of urls) {
+            try {
+              const r = await fetch(u, { cache: 'no-store' });
+              if (r.ok) { data = await r.json(); break; }
+            } catch {}
+          }
+        }
+        if (!data) throw new Error('Índice global no encontrado');
         setArticles(data.articles || []);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Error desconocido');

@@ -28,14 +28,32 @@ const Index = () => {
   useEffect(() => {
     const load = async () => {
       try {
-        // Cargar mediante URL de activo para que funcione en dev y build
+        // Cargar mediante URL de activo para que funcione en dev y build, con fallback a fetch directo
         const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true }) as Record<string, string>;
         const keys = Object.keys(urlMods);
+        let data: any = null;
         const matchKey = keys.find(k => k.endsWith('/global.json') || k.includes('/data/indices/global.json'));
-        if (!matchKey) throw new Error('Índice global no encontrado');
-        const resp = await fetch(urlMods[matchKey], { cache: 'no-store' });
-        if (!resp.ok) throw new Error(`No se pudo cargar el índice (${resp.status})`);
-        const data = await resp.json();
+        if (matchKey) {
+          const resp = await fetch(urlMods[matchKey], { cache: 'no-store' });
+          if (resp.ok) data = await resp.json();
+        }
+
+        if (!data) {
+          const base = import.meta.env.BASE_URL || '/';
+          const basePath = base.endsWith('/') ? base : `${base}/`;
+          const urls = [
+            `${basePath}data/indices/global.json?v=${Date.now()}`,
+            `/data/indices/global.json?v=${Date.now()}`,
+          ];
+          for (const u of urls) {
+            try {
+              const r = await fetch(u, { cache: 'no-store' });
+              if (r.ok) { data = await r.json(); break; }
+            } catch {}
+          }
+        }
+
+        if (!data) throw new Error('Índice global no encontrado');
         
         // Filtrar duplicados por slug
         const allArticles = data.articles || [];
