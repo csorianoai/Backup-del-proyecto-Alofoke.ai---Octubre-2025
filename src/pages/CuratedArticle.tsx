@@ -82,13 +82,14 @@ const CuratedArticle = () => {
         setError(null);
         
         const slugNorm = (slug || '').replace(/\.+$/, '');
-        const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
+        const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
         const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
-        const matchKey = Object.keys(modules).find((k) => k.endsWith(suffix));
+        const keys = Object.keys(modules);
+        console.debug('CuratedArticle glob keys sample', keys.slice(0, 3));
+        const matchKey = keys.find((k) => k.endsWith(suffix));
         let markdown: string;
         if (matchKey) {
-          const loader: any = modules[matchKey as keyof typeof modules];
-          markdown = await loader();
+          markdown = modules[matchKey] as string;
         } else {
           const base = import.meta.env.BASE_URL || '/';
           const url = `${base}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;

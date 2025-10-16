@@ -36,13 +36,14 @@ const Article = () => {
       const [country, year, month, day, ...rest] = parts;
       const articleSlugRaw = rest.join('/');
       const articleSlug = articleSlugRaw.replace(/\.+$/, '');
-      const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
+      const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
       const suffix = `/${country}/${year}/${month}/${day}/${articleSlug}.md`;
-      const matchKey = Object.keys(modules).find((k) => k.endsWith(suffix));
+      const keys = Object.keys(modules);
+      console.debug('Article glob keys sample', keys.slice(0, 3));
+      const matchKey = keys.find((k) => k.endsWith(suffix));
       let content: string;
       if (matchKey) {
-        const loader: any = modules[matchKey as keyof typeof modules];
-        content = await loader();
+        content = modules[matchKey] as string;
       } else {
         const base = import.meta.env.BASE_URL || '/';
         const resp = await fetch(`${base}data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md?v=${Date.now()}`, { cache: 'no-store' });
