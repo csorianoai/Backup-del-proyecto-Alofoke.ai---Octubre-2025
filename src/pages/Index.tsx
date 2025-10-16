@@ -33,7 +33,14 @@ const Index = () => {
         if (!loader) throw new Error('Índice global no encontrado');
         const mod: any = await loader();
         const data = mod.default || mod;
-        setArticles(data.articles || []);
+        
+        // Filter duplicates by slug
+        const allArticles = data.articles || [];
+        const uniqueArticles = allArticles.filter((article: ArticleIndex, index: number, self: ArticleIndex[]) => 
+          index === self.findIndex((a) => a.slug === article.slug)
+        );
+        
+        setArticles(uniqueArticles);
         setLoading(false);
       } catch (err) {
         console.error('Error loading articles:', err);

@@ -29,7 +29,13 @@ const ArticleGridDatabase = () => {
       if (!response.ok) throw new Error('No se pudo cargar el índice');
       
       const data = await response.json();
-      const latestArticles = data.articles.slice(0, 18);
+      
+      // Filter duplicates by slug before limiting
+      const allArticles = data.articles || [];
+      const uniqueArticles = allArticles.filter((article: Article, index: number, self: Article[]) => 
+        index === self.findIndex((a) => a.slug === article.slug)
+      );
+      const latestArticles = uniqueArticles.slice(0, 18);
       
       setArticles(latestArticles);
       setLastUpdate(new Date());
