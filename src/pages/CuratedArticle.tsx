@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { Helmet } from "react-helmet";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import CuratedArticleCard from "@/components/articles/CuratedArticleCard";
 import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Calendar, ExternalLink } from "lucide-react";
@@ -21,6 +22,20 @@ interface ArticleData {
   tags: string[];
   slug: string;
   body_html: string;
+}
+
+interface RelatedArticle {
+  title: string;
+  subtitle: string;
+  slug: string;
+  url: string;
+  date: string;
+  type: string;
+  tier: string;
+  tags: string[];
+  country: string;
+  human_verified?: boolean;
+  low_confidence?: boolean;
 }
 
 const TIER_COLORS = {
@@ -56,6 +71,7 @@ const COUNTRY_FLAGS = {
 const CuratedArticle = () => {
   const { country, year, month, day, slug } = useParams();
   const [article, setArticle] = useState<ArticleData | null>(null);
+  const [relatedArticles, setRelatedArticles] = useState<RelatedArticle[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -150,6 +166,25 @@ const CuratedArticle = () => {
           ...metadata,
           body_html: body,
         } as ArticleData);
+
+        // Load related articles from same country
+        try {
+          const modules = import.meta.glob('/data/indices/*.json');
+          const indexPath = `/data/indices/${country}.json`;
+          const indexLoader = modules[indexPath as keyof typeof modules];
+          if (indexLoader) {
+            const mod: any = await indexLoader();
+            const data = mod.default || mod;
+            const allArticles = data.articles || [];
+            // Filter out current article and limit to 6
+            const related = allArticles
+              .filter((a: RelatedArticle) => a.slug !== slug)
+              .slice(0, 6);
+            setRelatedArticles(related);
+          }
+        } catch (err) {
+          console.error('Error loading related articles:', err);
+        }
       } catch (err) {
         setError(err instanceof Error ? err.message : "Error desconocido");
         console.error("Error loading article:", err);
@@ -303,6 +338,30 @@ const CuratedArticle = () => {
               )}
             </div>
           </article>
+
+          {/* Related Articles */}
+          {relatedArticles.length > 0 && (
+            <div className="max-w-6xl mx-auto mt-16 mb-8">
+              <h2 className="text-2xl font-bold mb-6">Más artículos de {article.country.toUpperCase()}</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {relatedArticles.map((related) => (
+                  <CuratedArticleCard
+                    key={related.slug}
+                    title={related.title}
+                    subtitle={related.subtitle}
+                    country={related.country}
+                    date={related.date}
+                    type={related.type}
+                    tier={related.tier}
+                    url={related.url}
+                    tags={related.tags}
+                    human_verified={related.human_verified}
+                    low_confidence={related.low_confidence}
+                  />
+                ))}
+              </div>
+            </div>
+          )}
         </main>
 
         <Footer />
