@@ -81,15 +81,78 @@ const CuratedArticle = () => {
         setLoading(true);
         setError(null);
         
-        // Fetch the markdown file from public directory
-        const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
-        const response = await fetch(articlePath);
-        
-        if (!response.ok) {
-          throw new Error("Artículo no encontrado");
+        const slugNorm = (slug || '').replace(/\.+$/, '');
+        let markdown: string | null = null;
+        let assetUrl: string | null = null;
+        try {
+          const absEager = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
+          const relEager = import.meta.glob('../../data/articles/**/*.md', { as: 'raw', eager: true });
+          const modules = { ...absEager, ...relEager } as Record<string, string>;
+          const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
+          const keys = Object.keys(modules);
+          const matchKey = keys.find((k) => {
+            const norm = k.replace(/\\+/g, '/');
+            return norm.endsWith(suffix) || norm.includes(`data/articles${suffix}`);
+          });
+          if (matchKey) {
+            markdown = modules[matchKey] as string;
+          }
+        } catch (e) {
+          console.warn('CuratedArticle raw glob failed', e);
+        }
+
+        // If raw content wasn't bundled, try the asset URL so Vite copies the file and we fetch it
+        if (!markdown) {
+          try {
+            const absUrl = import.meta.glob('/data/articles/**/*.md', { as: 'url', eager: true });
+            const relUrl = import.meta.glob('../../data/articles/**/*.md', { as: 'url', eager: true });
+            const urlModules = { ...absUrl, ...relUrl } as Record<string, string>;
+            const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
+            const keys = Object.keys(urlModules);
+            const matchKey = keys.find((k) => {
+              const norm = k.replace(/\\+/g, '/');
+              return norm.endsWith(suffix) || norm.includes(`data/articles${suffix}`);
+            });
+            if (matchKey) assetUrl = urlModules[matchKey] as string;
+          } catch (e) {
+            console.warn('CuratedArticle url glob failed', e);
+          }
+        }
+
+        if (!markdown && assetUrl) {
+          try {
+            const r = await fetch(assetUrl, { cache: 'no-store' });
+            if (r.ok) {
+              markdown = await r.text();
+            }
+          } catch {}
+        }
+
+        if (!markdown) {
+          const pathsToTry: string[] = [];
+          const base = import.meta.env.BASE_URL || '/';
+          const basePath = base.endsWith('/') ? base : `${base}/`;
+          const dated = `?v=${Date.now()}`;
+          pathsToTry.push(`${basePath}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md${dated}`);
+          pathsToTry.push(`/data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md${dated}`);
+
+          let lastErr: any = null;
+          for (const url of pathsToTry) {
+            try {
+              const r = await fetch(url, { cache: 'no-store' });
+              if (r.ok) {
+                markdown = await r.text();
+                break;
+              }
+              lastErr = `HTTP ${r.status}`;
+            } catch (e) {
+              lastErr = e;
+            }
+          }
+
+          if (!markdown) throw new Error(`Artículo no encontrado (intentos: ${pathsToTry.join(' , ')})`);
         }
         
-        const markdown = await response.text();
         
         // Parse frontmatter manually
         const frontmatterMatch = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
@@ -165,7 +228,7 @@ const CuratedArticle = () => {
         
         const tagsArr = Array.isArray(metadata.tags) ? metadata.tags : [];
         const sourcesArr = Array.isArray(metadata.sources) ? metadata.sources : [];
-        console.debug('CuratedArticle parsed frontmatter', { slug, tagsLen: tagsArr.length, hasSources: sourcesArr.length });
+        console.debug('CuratedArticle parsed frontmatter', { slug: slugNorm, tagsLen: tagsArr.length, hasSources: sourcesArr.length });
         setArticle({
           ...metadata,
           tags: tagsArr,
@@ -175,21 +238,88 @@ const CuratedArticle = () => {
 
         // Load related articles from same country
         try {
-          const indexResponse = await fetch(`/data/indices/${country}.json`);
-          if (indexResponse.ok) {
-            const indexData = await indexResponse.json();
-            const allArticles = indexData.articles || [];
-            
-            // Remove duplicates by slug and filter out current article
-            const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) => 
-              i === self.findIndex((b: RelatedArticle) => b.slug === a.slug)
-            );
-            
-            const related = uniqueBySlug
-              .filter((a: RelatedArticle) => a.slug !== slug)
-              .slice(0, 6);
-            
-            setRelatedArticles(related);
+          // Try asset URL first so JSON gets emitted in build
+          try {
+            const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true });
+            const keys = Object.keys(urlMods);
+            const match = keys.find(k => k.endsWith(`/${country}.json`) || k.includes(`/data/indices/${country}.json`));
+            if (match) {
+              const resp = await fetch((urlMods as any)[match], { cache: 'no-store' });
+              if (resp.ok) {
+                const data = await resp.json();
+                const allArticles = data.articles || [];
+                const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                  i === self.findIndex(b => b.slug === a.slug)
+                );
+                const related = uniqueBySlug
+                  .filter((a: RelatedArticle) => a.slug !== slug)
+                  .slice(0, 6);
+                console.debug('Related via asset url', related.length);
+                setRelatedArticles(related);
+                if (related.length > 0) return;
+              }
+            }
+          } catch (e) {
+            console.warn('Index url glob failed', e);
+          }
+
+          const modules = import.meta.glob('/data/indices/*.json');
+          const indexPath = `/data/indices/${country}.json`;
+          const indexLoader = modules[indexPath as keyof typeof modules];
+          if (indexLoader) {
+            try {
+              const mod: any = await indexLoader();
+              const data = mod.default || mod;
+              const allArticles = data.articles || [];
+              const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                i === self.findIndex(b => b.slug === a.slug)
+              );
+              const related = uniqueBySlug
+                .filter((a: RelatedArticle) => a.slug !== slug)
+                .slice(0, 6);
+              console.debug('Related via import', related.length);
+              setRelatedArticles(related);
+              if (related.length > 0) return; // good, no need to fetch
+            } catch (e) {
+              console.warn('Index import failed, falling back to fetch', e);
+            }
+          }
+          // Fallback to network fetch if dynamic import missing or empty
+          try {
+            const base = import.meta.env.BASE_URL || '/';
+            const basePath = base.endsWith('/') ? base : `${base}/`;
+            const dated = `?v=${Date.now()}`;
+            const urls = [
+              `${basePath}data/indices/${country}.json${dated}`,
+              `/data/indices/${country}.json${dated}`,
+            ];
+
+            let fetched = false;
+            for (const u of urls) {
+              try {
+                const resp = await fetch(u, { cache: 'no-store' });
+                if (resp.ok) {
+                  const data = await resp.json();
+                  const allArticles = data.articles || [];
+                  const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                    i === self.findIndex(b => b.slug === a.slug)
+                  );
+                  const related = uniqueBySlug
+                    .filter((a: RelatedArticle) => a.slug !== slug)
+                    .slice(0, 6);
+                  console.debug('Related via fetch', related.length, 'from', u);
+                  setRelatedArticles(related);
+                  fetched = true;
+                  break;
+                }
+              } catch {}
+            }
+
+            if (!fetched) {
+              console.warn('Related index fetch not ok from all urls', urls);
+            }
+          } catch (e) {
+            console.error('Related index fetch error', e);
           }
         } catch (err) {
           console.error('Error loading related articles:', err);
