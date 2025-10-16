@@ -182,8 +182,13 @@ const CuratedArticle = () => {
           metadata[currentKey] = currentArray;
         }
         
+        const tagsArr = Array.isArray(metadata.tags) ? metadata.tags : [];
+        const sourcesArr = Array.isArray(metadata.sources) ? metadata.sources : [];
+        console.debug('CuratedArticle parsed frontmatter', { slug: slugNorm, tagsLen: tagsArr.length, hasSources: sourcesArr.length });
         setArticle({
           ...metadata,
+          tags: tagsArr,
+          sources: sourcesArr,
           body_html: body,
         } as ArticleData);
 
@@ -337,7 +342,7 @@ const CuratedArticle = () => {
               </div>
 
               <div className="flex flex-wrap gap-2 mt-4">
-                {article.tags.map((tag) => (
+                {(article.tags || []).map((tag) => (
                   <Badge key={tag} variant="secondary">
                     {tag}
                   </Badge>
