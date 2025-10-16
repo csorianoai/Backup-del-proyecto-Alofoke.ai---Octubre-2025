@@ -2,9 +2,10 @@ name: Daily Content Pipeline
 
 on:
   schedule:
-    - cron: "0 14 * * *"
-    - cron: "0 18 * * *"
-    - cron: "0 22 * * *"
+    - cron: "0 10 * * *"  # 6 AM RD/Colombia (UTC-4)
+    - cron: "0 14 * * *"  # 10 AM RD/Colombia
+    - cron: "0 18 * * *"  # 2 PM RD/Colombia
+    - cron: "0 22 * * *"  # 6 PM RD/Colombia
   workflow_dispatch: {}
 
 permissions:
