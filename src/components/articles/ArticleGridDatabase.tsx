@@ -2,18 +2,18 @@ import { useEffect, useState } from "react";
 import { RefreshCw } from "lucide-react";
 import ArticleCard from "./ArticleCard";
 import { Button } from "@/components/ui/button";
-import { supabase } from "@/integrations/supabase/client";
 import { useToast } from "@/hooks/use-toast";
 
 interface Article {
-  id: string;
   title: string;
+  subtitle: string;
   slug: string;
-  excerpt: string;
-  category: string;
-  image_url: string;
-  read_time: string;
-  published_at: string;
+  url: string;
+  date: string;
+  type: string;
+  tier: string;
+  tags: string[];
+  country: string;
 }
 
 const ArticleGridDatabase = () => {
@@ -25,22 +25,18 @@ const ArticleGridDatabase = () => {
   const loadArticles = async () => {
     setIsRefreshing(true);
     try {
-      const { data, error } = await supabase
-        .from('articles')
-        .select('*')
-        .order('published_at', { ascending: false })
-        .limit(6);
-
-      if (error) throw error;
-
-      if (data) {
-        setArticles(data as Article[]);
-        setLastUpdate(new Date());
-        toast({
-          title: "Artículos actualizados",
-          description: `Se cargaron ${data.length} artículos exitosamente.`,
-        });
-      }
+      const response = await fetch('/data/indices/global.json');
+      if (!response.ok) throw new Error('No se pudo cargar el índice');
+      
+      const data = await response.json();
+      const latestArticles = data.articles.slice(0, 18);
+      
+      setArticles(latestArticles);
+      setLastUpdate(new Date());
+      toast({
+        title: "Artículos actualizados",
+        description: `Se cargaron ${latestArticles.length} artículos desde el workflow.`,
+      });
     } catch (error: any) {
       console.error('Error loading articles:', error);
       toast({
@@ -102,18 +98,18 @@ const ArticleGridDatabase = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {articles.map((article, index) => (
           <div 
-            key={article.id}
+            key={article.slug}
             className="animate-in fade-in slide-in-from-bottom"
             style={{ animationDelay: `${index * 100}ms` }}
           >
             <ArticleCard
               title={article.title}
-              excerpt={article.excerpt}
-              category={article.category}
-              date={formatDate(article.published_at)}
-              readTime={article.read_time}
-              image={article.image_url}
-              slug={article.slug}
+              excerpt={article.subtitle}
+              category={article.type === 'news_brief' ? 'Noticia' : article.type === 'explainer' ? 'Análisis' : 'Tendencias'}
+              date={formatDate(article.date)}
+              readTime={`${Math.ceil(article.subtitle.length / 200)} min`}
+              image={`https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop`}
+              slug={article.url}
             />
           </div>
         ))}
