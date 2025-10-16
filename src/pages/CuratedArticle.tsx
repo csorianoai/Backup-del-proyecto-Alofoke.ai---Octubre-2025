@@ -82,10 +82,9 @@ const CuratedArticle = () => {
         setError(null);
         
         const slugNorm = (slug || '').replace(/\.+$/, '');
-        const absEager = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
-        const relEager = import.meta.glob('../../data/articles/**/*.md', { as: 'raw', eager: true });
-        const noSlashEager = import.meta.glob('data/articles/**/*.md', { as: 'raw', eager: true });
-        const modules = { ...absEager, ...relEager, ...noSlashEager } as Record<string, string>;
+        const absEager = import.meta.glob('/data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
+        const relEager = import.meta.glob('../../data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
+        const modules = { ...absEager, ...relEager } as Record<string, string>;
         const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
         const keys = Object.keys(modules);
         console.debug('CuratedArticle glob keys sample', keys.slice(0, 3));
