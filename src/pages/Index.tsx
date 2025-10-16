@@ -28,13 +28,16 @@ const Index = () => {
   useEffect(() => {
     const load = async () => {
       try {
-        const modules = import.meta.glob('/data/indices/*.json');
-        const loader = modules['/data/indices/global.json'];
-        if (!loader) throw new Error('Índice global no encontrado');
-        const mod: any = await loader();
-        const data = mod.default || mod;
+        // Cargar mediante URL de activo para que funcione en dev y build
+        const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true }) as Record<string, string>;
+        const keys = Object.keys(urlMods);
+        const matchKey = keys.find(k => k.endsWith('/global.json') || k.includes('/data/indices/global.json'));
+        if (!matchKey) throw new Error('Índice global no encontrado');
+        const resp = await fetch(urlMods[matchKey], { cache: 'no-store' });
+        if (!resp.ok) throw new Error(`No se pudo cargar el índice (${resp.status})`);
+        const data = await resp.json();
         
-        // Filter duplicates by slug
+        // Filtrar duplicados por slug
         const allArticles = data.articles || [];
         const uniqueArticles = allArticles.filter((article: ArticleIndex, index: number, self: ArticleIndex[]) => 
           index === self.findIndex((a) => a.slug === article.slug)
