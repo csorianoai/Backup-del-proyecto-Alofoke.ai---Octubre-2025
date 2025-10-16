@@ -82,25 +82,12 @@ const CuratedArticle = () => {
         setError(null);
         
         const slugNorm = (slug || '').replace(/\.+$/, '');
-        const absEager = import.meta.glob('/data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
-        const relEager = import.meta.glob('../../data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
-        const modules = { ...absEager, ...relEager } as Record<string, string>;
-        const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
-        const keys = Object.keys(modules);
-        console.debug('CuratedArticle glob keys sample', keys.slice(0, 3));
-        const matchKey = keys.find((k) => {
-          const norm = k.replace(/\\+/g, '/');
-          return norm.endsWith(suffix) || norm.includes(`data/articles${suffix}`);
-        });
-        let markdown: string;
-        if (matchKey) {
-          markdown = modules[matchKey] as string;
-        } else {
-          const url = `/data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
-          const resp = await fetch(url, { cache: 'no-store' });
-          if (!resp.ok) throw new Error("Artículo no encontrado");
-          markdown = await resp.text();
-        }
+        const base = import.meta.env.BASE_URL || '/';
+        const basePath = base.endsWith('/') ? base : `${base}/`;
+        const url = `${basePath}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
+        const resp = await fetch(url, { cache: 'no-store' });
+        if (!resp.ok) throw new Error("Artículo no encontrado");
+        const markdown = await resp.text();
         
         
         // Parse frontmatter manually
@@ -202,7 +189,9 @@ const CuratedArticle = () => {
           }
           // Fallback to network fetch if dynamic import missing or empty
           try {
-            const resp = await fetch(`/data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
+            const base = import.meta.env.BASE_URL || '/';
+            const basePath = base.endsWith('/') ? base : `${base}/`;
+            const resp = await fetch(`${basePath}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
             if (resp.ok) {
               const data = await resp.json();
               const allArticles = data.articles || [];
