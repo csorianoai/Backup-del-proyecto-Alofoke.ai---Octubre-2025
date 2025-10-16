@@ -2,6 +2,150 @@
   "country": "co",
   "articles": [
     {
+      "title": "TikTok y su impacto en la infraestructura tecnológica mundial",
+      "subtitle": "La plataforma redefine el acceso y uso de la tecnología a nivel global",
+      "slug": "tiktok-y-su-impacto-en-la-infraestructura-tecnologica-mundia",
+      "url": "/co/2025/10/16/tiktok-y-su-impacto-en-la-infraestructura-tecnologica-mundia",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "TikTok",
+        "tecnología",
+        "Colombia",
+        "infraestructura"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Larry Ellison revela detalles del mayor centro de datos de IA del mundo",
+      "subtitle": "El gigante tecnológico planea establecer su infraestructura en Colombia.",
+      "slug": "larry-ellison-revela-detalles-del-mayor-centro-de-datos-de-i",
+      "url": "/co/2025/10/16/larry-ellison-revela-detalles-del-mayor-centro-de-datos-de-i",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "tecnología",
+        "inteligencia artificial",
+        "Larry Ellison",
+        "centro de datos"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "WhatsApp 2025: La función que revolucionará la comunicación en Colombia",
+      "subtitle": "Una nueva herramienta promete transformar la forma en que nos conectamos.",
+      "slug": "whatsapp-2025-la-funcion-que-revolucionara-la-comunicacion-e",
+      "url": "/co/2025/10/16/whatsapp-2025-la-funcion-que-revolucionara-la-comunicacion-e",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "WhatsApp",
+        "tecnología",
+        "Colombia",
+        "comunicación"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Oracle marca el rumbo de la nueva era empresarial impulsada por la IA",
+      "subtitle": "Transformación digital en Colombia con el liderazgo de Oracle",
+      "slug": "oracle-marca-el-rumbo-de-la-nueva-era-empresarial-impulsada-",
+      "url": "/co/2025/10/16/oracle-marca-el-rumbo-de-la-nueva-era-empresarial-impulsada-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Oracle",
+        "Inteligencia Artificial",
+        "Transformación Digital",
+        "Colombia"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Startup colombiana utiliza IA para combatir resistencia a antibióticos",
+      "subtitle": "Innovación tecnológica para mejorar la salud pública en el país",
+      "slug": "startup-colombiana-utiliza-ia-para-combatir-resistencia-a-an",
+      "url": "/co/2025/10/16/startup-colombiana-utiliza-ia-para-combatir-resistencia-a-an",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "salud",
+        "tecnología",
+        "IA",
+        "antibióticos"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Predicción de Google sobre el Mundial Sub-20: Un Acertado Análisis",
+      "subtitle": "La inteligencia artificial y su impacto en el fútbol colombiano",
+      "slug": "prediccion-de-google-sobre-el-mundial-sub-20-un-acertado-ana",
+      "url": "/co/2025/10/16/prediccion-de-google-sobre-el-mundial-sub-20-un-acertado-ana",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "fútbol",
+        "Mundial Sub-20",
+        "Colombia"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Zipaquirá: Nuevo Epicentro de la Inteligencia Artificial en Colombia",
+      "subtitle": "Explorando el auge de la IA en Zipaquirá y su impacto en el país",
+      "slug": "zipaquira-nuevo-epicentro-de-la-inteligencia-artificial-en-c",
+      "url": "/co/2025/10/16/zipaquira-nuevo-epicentro-de-la-inteligencia-artificial-en-c",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "Zipaquirá",
+        "Colombia",
+        "tecnología",
+        "educación"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Pronóstico de la semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "La inteligencia artificial predice el desenlace del emocionante encuentro",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/co/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Fútbol"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Transformaciones Tecnológicas en LATAM: Un Futuro Impulsado por la IA",
+      "subtitle": "Nuevas tendencias que están redefiniendo el panorama tecnológico en América Latina.",
+      "slug": "transformaciones-tecnologicas-en-latam-un-futuro-impulsado-p",
+      "url": "/co/2025/10/16/transformaciones-tecnologicas-en-latam-un-futuro-impulsado-p",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "co"
+    },
+    {
       "title": "TikTok y la Revolución Digital: Impulsando Infraestructura Global",
       "subtitle": "El fenómeno de TikTok redefine la tecnología y su impacto en Colombia",
       "slug": "tiktok-y-la-revolucion-digital-impulsando-infraestructura-gl",
@@ -285,5 +429,5 @@
       "country": "co"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.616179"
+  "updated_at": "2025-10-16T14:29:36.587791"
 }

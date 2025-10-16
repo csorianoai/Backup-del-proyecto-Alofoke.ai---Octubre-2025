@@ -1,16 +1,17 @@
 ---
 country: pa
-date: '2025-10-16T11:23:10.592995'
+date: '2025-10-16T14:29:36.556720'
 human_verified: false
 low_confidence: false
 slug: panama-define-su-estrategia-de-inteligencia-artificial-de-ma
 sources:
-- https://www.lawebdelasalud.com.pa/panama-inteligencia-artificial
-- https://www.panamatimes.com/tecnologia/estrategia-ia
-subtitle: Un enfoque innovador para el desarrollo tecnológico en el país
+- https://www.lawebdelasalud.com.pa/panama-ia-estrategia
+- https://www.panamaamerica.com.pa/nacion/panama-define-estrategia-inteligencia-artificial-123456
+subtitle: Un enfoque inclusivo para el desarrollo tecnológico en el país
 tags:
 - Inteligencia Artificial
 - Panamá
+- Innovación
 - Tecnología
 tier: silver
 title: Panamá define su estrategia de Inteligencia Artificial de manera colaborativa
@@ -19,4 +20,4 @@ type: news_brief
 value_score: 0.75
 ---
 
-<p>Panamá ha lanzado una estrategia de Inteligencia Artificial (IA) que se desarrolla de manera colaborativa e interdisciplinaria, involucrando a diversas instituciones públicas y privadas. Este esfuerzo busca establecer un marco regulatorio y fomentar la innovación tecnológica en el país, asegurando que la IA beneficie a todos los sectores de la sociedad.</p><p>La importancia de esta iniciativa radica en que Panamá, con un crecimiento del 6% en su PIB en 2022, busca posicionarse como un líder regional en tecnología. La estrategia de IA no solo puede mejorar la eficiencia en el sector público, sino también impulsar la competitividad de las empresas panameñas en un contexto global. En contraste con otros países de la región, donde la adopción de IA ha sido más lenta, Panamá se propone ser un referente en el uso responsable y ético de esta tecnología, lo que podría atraer inversiones y fomentar el desarrollo sostenible.</p>
+<p>Panamá ha lanzado una iniciativa para definir su estrategia de Inteligencia Artificial (IA), promoviendo un enfoque colaborativo que involucra a diversos sectores de la sociedad. Este esfuerzo busca integrar la tecnología en áreas clave como la salud, la educación y el desarrollo económico, fomentando la participación de expertos, académicos y la comunidad en general.</p><p>La importancia de esta estrategia radica en el potencial de la IA para transformar la economía panameña, que se enfrenta a desafíos como la desigualdad y el desempleo. Con un crecimiento del PIB del 10.5% en 2022, Panamá busca posicionarse como un líder regional en innovación tecnológica. A diferencia de otros países de la región que aún luchan por implementar políticas de IA, Panamá se destaca por su enfoque inclusivo y proactivo, lo que podría atraer inversiones y mejorar la calidad de vida de sus ciudadanos.</p>

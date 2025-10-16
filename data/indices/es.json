@@ -2,6 +2,144 @@
   "country": "es",
   "articles": [
     {
+      "title": "El Supremo mantiene a Koldo García en libertad tras negarse a declarar",
+      "subtitle": "Decisión judicial en un caso que ha generado controversia en España",
+      "slug": "el-supremo-mantiene-a-koldo-garcia-en-libertad-tras-negarse-",
+      "url": "/es/2025/10/16/el-supremo-mantiene-a-koldo-garcia-en-libertad-tras-negarse-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "justicia",
+        "Koldo García",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Sánchez comparecerá en el Senado por el 'caso Koldo'",
+      "subtitle": "El presidente del Gobierno se presentará ante la comisión el 30 de octubre.",
+      "slug": "sanchez-comparecera-en-el-senado-por-el-caso-koldo",
+      "url": "/es/2025/10/16/sanchez-comparecera-en-el-senado-por-el-caso-koldo",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "corrupción",
+        "política",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Altercados en la Autónoma de Barcelona por la visita de Vito Quiles",
+      "subtitle": "La llegada del ultra provoca tensiones en el campus universitario",
+      "slug": "altercados-en-la-autonoma-de-barcelona-por-la-visita-de-vito",
+      "url": "/es/2025/10/16/altercados-en-la-autonoma-de-barcelona-por-la-visita-de-vito",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Vito Quiles",
+        "Universidad Autónoma de Barcelona",
+        "extremismo"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "La controversia de Juan del Val sobre la literatura en España",
+      "subtitle": "Literatura 'para la gente' vs. literatura 'para la élite'",
+      "slug": "la-controversia-de-juan-del-val-sobre-la-literatura-en-espan",
+      "url": "/es/2025/10/16/la-controversia-de-juan-del-val-sobre-la-literatura-en-espan",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "literatura",
+        "Juan del Val",
+        "polémica"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Los momentos más polémicos de Juan del Val en televisión",
+      "subtitle": "Desde mensajes de políticos hasta su vida personal en el foco mediático",
+      "slug": "los-momentos-mas-polemicos-de-juan-del-val-en-television",
+      "url": "/es/2025/10/16/los-momentos-mas-polemicos-de-juan-del-val-en-television",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Juan del Val",
+        "televisión",
+        "polémica",
+        "relaciones abiertas"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "¿Es realmente inteligente la inteligencia artificial?",
+      "subtitle": "Un análisis sobre la naturaleza de la IA y su impacto en la sociedad española.",
+      "slug": "es-realmente-inteligente-la-inteligencia-artificial",
+      "url": "/es/2025/10/16/es-realmente-inteligente-la-inteligencia-artificial",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "impacto social",
+        "ética"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "El auge de la inteligencia artificial en marketing y comunicación",
+      "subtitle": "Cómo las empresas españolas están adoptando herramientas de IA para mejorar su rendimiento",
+      "slug": "el-auge-de-la-inteligencia-artificial-en-marketing-y-comunic",
+      "url": "/es/2025/10/16/el-auge-de-la-inteligencia-artificial-en-marketing-y-comunic",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "marketing",
+        "comunicación",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "España como referente de la inteligencia artificial responsable",
+      "subtitle": "Un análisis de los avances y desafíos en la implementación de IA ética en el país",
+      "slug": "espana-como-referente-de-la-inteligencia-artificial-responsa",
+      "url": "/es/2025/10/16/espana-como-referente-de-la-inteligencia-artificial-responsa",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "IA responsable",
+        "España",
+        "tecnología ética"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Tendencias Emergentes en el Sector Tecnológico de LATAM",
+      "subtitle": "Oportunidades Clave para el Desarrollo Regional",
+      "slug": "tendencias-emergentes-en-el-sector-tecnologico-de-latam",
+      "url": "/es/2025/10/16/tendencias-emergentes-en-el-sector-tecnologico-de-latam",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "es"
+    },
+    {
       "title": "El Supremo mantiene en libertad a Koldo García tras negarse a declarar",
       "subtitle": "Decisión del Tribunal Supremo en un caso de gran relevancia política",
       "slug": "el-supremo-mantiene-en-libertad-a-koldo-garcia-tras-negarse-",
@@ -142,5 +280,5 @@
       "country": "es"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.622589"
+  "updated_at": "2025-10-16T14:29:36.596502"
 }

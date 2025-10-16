@@ -1,22 +1,22 @@
 ---
 country: co
-date: '2025-10-16T11:23:10.592995'
+date: '2025-10-16T14:29:36.556720'
 human_verified: false
 low_confidence: false
 slug: larry-ellison-revela-detalles-del-mayor-centro-de-datos-de-i
 sources:
-- https://www.eltiempo.com/tecnologia
-- https://www.portafolio.co/tecnologia
-subtitle: Un hito tecnológico que promete transformar el panorama digital en Colombia
+- https://www.forbes.co/2023/10/larry-ellison-centro-datos-colombia
+- https://www.eltiempo.com/tecnologia/larry-ellison-anuncia-centro-de-datos-en-colombia-2023
+subtitle: El gigante tecnológico planea establecer su infraestructura en Colombia.
 tags:
 - tecnología
 - inteligencia artificial
 - Larry Ellison
-- Colombia
+- centro de datos
 tier: silver
 title: Larry Ellison revela detalles del mayor centro de datos de IA del mundo
 type: news_brief
 value_score: 0.75
 ---
 
-<p>En un reciente evento, Larry Ellison, cofundador de Oracle, anunció la construcción del mayor centro de datos de inteligencia artificial (IA) del mundo, que se ubicará en Colombia. Este centro se espera que impulse la capacidad de procesamiento y almacenamiento de datos a niveles sin precedentes, beneficiando tanto a empresas locales como internacionales.</p><p>La importancia de este anuncio radica en el crecimiento del sector tecnológico en Colombia, donde la inversión en infraestructura digital es clave para el desarrollo económico. Con una población joven y cada vez más conectada, el país se posiciona como un hub regional para la innovación. Además, este centro de datos podría atraer a empresas tecnológicas de toda América Latina, generando empleo y fortaleciendo la competitividad en un contexto donde otros países de la región aún luchan por modernizar su infraestructura digital.</p>
+<p>Larry Ellison, cofundador de Oracle, anunció la construcción del mayor centro de datos de inteligencia artificial (IA) del mundo en Colombia. Este proyecto, que se espera esté operativo para 2025, contará con tecnología de vanguardia y será fundamental para el procesamiento de grandes volúmenes de datos, impulsando así la innovación en el país.</p><p>La importancia de este centro radica en que Colombia se posiciona como un líder en la adopción de tecnologías emergentes en América Latina. Con un crecimiento del 30% en el sector tecnológico en los últimos años, la llegada de este centro podría atraer inversiones extranjeras y generar miles de empleos, contrastando con la situación de otros países de la región que aún luchan por implementar infraestructura tecnológica adecuada. Esto podría consolidar a Colombia como un hub tecnológico en la región.</p>

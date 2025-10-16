@@ -1,18 +1,18 @@
 ---
 country: do
-date: '2025-10-16T11:23:10.592995'
+date: '2025-10-16T14:29:36.556720'
 human_verified: false
 low_confidence: false
 slug: programa-innovadores-digitales-del-map-impulsando-el-talento
 sources:
-- https://www.presidencia.gob.do/noticias/2023/10/innovadores-digitales
-- https://www.map.gob.do/programas/innovadores-digitales
-subtitle: Una iniciativa para captar jóvenes en el sector tecnológico
+- https://www.presidencia.gob.do/noticias/innovadores-digitales
+- https://www.map.gov.do/programas/innovadores-digitales
+subtitle: Una iniciativa para captar y desarrollar jóvenes en el área tecnológica.
 tags:
-- innovación
 - tecnología
 - juventud
-- administración pública
+- educación
+- innovación
 tier: gold
 title: 'Programa ''Innovadores Digitales'' del MAP: Impulsando el Talento Tecnológico
   en República Dominicana'
@@ -20,4 +20,4 @@ type: explainer
 value_score: 0.75
 ---
 
-<p>El programa 'Innovadores Digitales', lanzado por el Ministerio de Administración Pública (MAP) de la República Dominicana, busca atraer a jóvenes talentos en el área tecnológica para fomentar la innovación y el desarrollo digital en el país. Este programa se enmarca dentro de una estrategia más amplia del gobierno dominicano para modernizar la administración pública y mejorar la eficiencia de los servicios ofrecidos a la ciudadanía.</p> <p>Los antecedentes de esta iniciativa se encuentran en la creciente necesidad de adaptar la infraestructura tecnológica del estado a las demandas del siglo XXI. La transformación digital se ha convertido en una prioridad global, y República Dominicana no es la excepción. Con un aumento en el uso de tecnologías digitales y una población joven que busca oportunidades en el sector tecnológico, el MAP ha decidido implementar este programa para canalizar ese potencial.</p> <p>El impacto esperado del programa es significativo. Al involucrar a jóvenes en proyectos innovadores, se espera no solo mejorar la calidad de los servicios públicos, sino también fomentar un ecosistema de emprendimiento y creatividad que beneficie a la economía nacional. Además, se busca cerrar la brecha digital y garantizar que más jóvenes tengan acceso a oportunidades en el ámbito tecnológico.</p> <p>No obstante, existen riesgos asociados a esta iniciativa. Uno de los principales desafíos es asegurar que los jóvenes seleccionados cuenten con la formación adecuada para contribuir efectivamente a los proyectos. También es fundamental evitar la burocratización del proceso, lo que podría desincentivar la participación de los talentos más innovadores.</p> <p>Como próximos pasos, el MAP planea realizar una serie de talleres y convocatorias para identificar y seleccionar a los jóvenes que formarán parte del programa. Además, se establecerán alianzas con universidades y empresas del sector privado para garantizar la formación continua y el desarrollo de habilidades necesarias en el ámbito tecnológico.</p>
+<p>El programa 'Innovadores Digitales' del Ministerio de Administración Pública (MAP) de la República Dominicana tiene como objetivo principal atraer y formar a jóvenes talentos en el ámbito tecnológico. Esta iniciativa busca responder a la creciente demanda de profesionales capacitados en un sector que está en constante evolución y que es fundamental para el desarrollo económico del país.</p><p>Los antecedentes de este programa se remontan a la necesidad de modernizar la administración pública y hacerla más eficiente mediante el uso de tecnologías digitales. En un mundo cada vez más digitalizado, la República Dominicana se enfrenta al reto de preparar a su fuerza laboral para los desafíos del futuro. El MAP ha identificado que la juventud dominicana, con su creatividad y habilidades innatas para la tecnología, es un recurso valioso que debe ser cultivado.</p><p>El impacto esperado de 'Innovadores Digitales' es significativo. Al capacitar a jóvenes en áreas como programación, diseño digital y gestión de datos, el programa no solo contribuirá a la creación de empleos en el sector tecnológico, sino que también fomentará la innovación y la competitividad del país en el ámbito global. Además, se espera que estos jóvenes se conviertan en agentes de cambio en sus comunidades, promoviendo el uso de la tecnología para resolver problemas locales.</p><p>No obstante, existen riesgos asociados a esta iniciativa. Uno de los principales es la posible falta de recursos y apoyo continuo para mantener el interés y la formación de los participantes a largo plazo. Además, es crucial garantizar que la capacitación esté alineada con las necesidades del mercado laboral para evitar la deserción de talentos.</p><p>Los próximos pasos incluyen la implementación de talleres y programas de mentoría, así como la colaboración con empresas del sector privado para facilitar pasantías y oportunidades laborales. El MAP también planea establecer alianzas con instituciones educativas para fortalecer el currículo y asegurar que los jóvenes reciban una formación de alta calidad.</p>

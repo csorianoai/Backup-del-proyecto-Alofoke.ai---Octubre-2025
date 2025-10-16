@@ -1,6 +1,1258 @@
 {
   "articles": [
     {
+      "title": "Ana Inés Martínez revela su experiencia con un fan en un shopping",
+      "subtitle": "La influencer uruguaya comparte anécdotas de su vida pública",
+      "slug": "ana-ines-martinez-revela-su-experiencia-con-un-fan-en-un-sho",
+      "url": "/uy/2025/10/16/ana-ines-martinez-revela-su-experiencia-con-un-fan-en-un-sho",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Ana Inés Martínez",
+        "influencers",
+        "Uruguay"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Expertos en bodas revelan señales de divorcio antes del 'sí, acepto'",
+      "subtitle": "Planificadora de más de 100 bodas comparte su experiencia en Uruguay.",
+      "slug": "expertos-en-bodas-revelan-senales-de-divorcio-antes-del-si-a",
+      "url": "/uy/2025/10/16/expertos-en-bodas-revelan-senales-de-divorcio-antes-del-si-a",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "divorcio",
+        "bodas",
+        "relaciones"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Uruguay aprueba ley de 'muerte digna' que legaliza la eutanasia",
+      "subtitle": "El Senado uruguayo votó a favor del proyecto de ley que permite la eutanasia, marcando un hito en la legislación del país.",
+      "slug": "uruguay-aprueba-ley-de-muerte-digna-que-legaliza-la-eutanasi",
+      "url": "/uy/2025/10/16/uruguay-aprueba-ley-de-muerte-digna-que-legaliza-la-eutanasi",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "eutanasia",
+        "muerte digna",
+        "Uruguay"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Victoria uruguaya en la Vuelta Argentina y próximo Tour Femenino Internacional",
+      "subtitle": "El ciclismo femenino uruguayo sigue ganando protagonismo en la región.",
+      "slug": "victoria-uruguaya-en-la-vuelta-argentina-y-proximo-tour-feme",
+      "url": "/uy/2025/10/16/victoria-uruguaya-en-la-vuelta-argentina-y-proximo-tour-feme",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "ciclismo",
+        "deporte femenino",
+        "Uruguay"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "El fin de una era: Paramount cierra MTV",
+      "subtitle": "La abrupta decisión de Paramount pone en jaque el legado musical de MTV.",
+      "slug": "el-fin-de-una-era-paramount-cierra-mtv",
+      "url": "/uy/2025/10/16/el-fin-de-una-era-paramount-cierra-mtv",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "MTV",
+        "Paramount",
+        "Cultura",
+        "Música"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Uruguay firma el tratado sobre inteligencia artificial del Consejo de Europa",
+      "subtitle": "Un paso hacia la regulación y el desarrollo ético de la IA en el país",
+      "slug": "uruguay-firma-el-tratado-sobre-inteligencia-artificial-del-c",
+      "url": "/uy/2025/10/16/uruguay-firma-el-tratado-sobre-inteligencia-artificial-del-c",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "tratado",
+        "Uruguay",
+        "Consejo de Europa"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "¿Te va a reemplazar la IA? No, pero sí quien sepa usarla mejor que vos",
+      "subtitle": "La advertencia de expertos sobre el futuro laboral en Uruguay",
+      "slug": "te-va-a-reemplazar-la-ia-no-pero-si-quien-sepa-usarla-mejor-",
+      "url": "/uy/2025/10/16/te-va-a-reemplazar-la-ia-no-pero-si-quien-sepa-usarla-mejor-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Futuro Laboral",
+        "Uruguay",
+        "Tecnología"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "La Revolución de la Inteligencia Artificial en Uruguay",
+      "subtitle": "Uruguay se posiciona como líder en la adopción de IA en América Latina",
+      "slug": "la-revolucion-de-la-inteligencia-artificial-en-uruguay",
+      "url": "/uy/2025/10/16/la-revolucion-de-la-inteligencia-artificial-en-uruguay",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Uruguay",
+        "Innovación",
+        "Tecnología"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Tendencias recientes en medios de comunicación y sociedad en LATAM",
+      "subtitle": "Análisis de temas relevantes en la actualidad",
+      "slug": "tendencias-recientes-en-medios-de-comunicacion-y-sociedad-en",
+      "url": "/uy/2025/10/16/tendencias-recientes-en-medios-de-comunicacion-y-sociedad-en",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Caída de YouTube genera caos en México",
+      "subtitle": "Usuarios reportan problemas de acceso a la plataforma de videos",
+      "slug": "caida-de-youtube-genera-caos-en-mexico",
+      "url": "/mx/2025/10/16/caida-de-youtube-genera-caos-en-mexico",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "YouTube",
+        "caída",
+        "México",
+        "tecnología"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Conectividad para el Bienestar: Caídas y Controversias en las SIM Gratuitas",
+      "subtitle": "Análisis de la situación actual de la conectividad en México",
+      "slug": "conectividad-para-el-bienestar-caidas-y-controversias-en-las",
+      "url": "/mx/2025/10/16/conectividad-para-el-bienestar-caidas-y-controversias-en-las",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "conectividad",
+        "bienestar",
+        "tecnología",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Instagram implementará clasificaciones de contenido similares a las del cine",
+      "subtitle": "La red social busca mejorar la experiencia del usuario y la seguridad de los menores.",
+      "slug": "instagram-implementara-clasificaciones-de-contenido-similare",
+      "url": "/mx/2025/10/16/instagram-implementara-clasificaciones-de-contenido-similare",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Instagram",
+        "Contenido",
+        "Clasificaciones",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "OpenAI planea alcanzar ingresos de 1 billón de dólares en 5 años",
+      "subtitle": "La empresa busca expandir su influencia en el mercado global de inteligencia artificial.",
+      "slug": "openai-planea-alcanzar-ingresos-de-1-billon-de-dolares-en-5-",
+      "url": "/mx/2025/10/16/openai-planea-alcanzar-ingresos-de-1-billon-de-dolares-en-5-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "OpenAI",
+        "Inteligencia Artificial",
+        "México",
+        "Tecnología"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Salesforce anuncia inversión de 1,000 millones de dólares en México",
+      "subtitle": "Impulsando la transformación digital en el país",
+      "slug": "salesforce-anuncia-inversion-de-1-000-millones-de-dolares-en",
+      "url": "/mx/2025/10/16/salesforce-anuncia-inversion-de-1-000-millones-de-dolares-en",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Salesforce",
+        "Inversión",
+        "Transformación Digital"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México",
+      "subtitle": "Un análisis de la situación actual y los desafíos futuros en el ámbito de la IA en México",
+      "slug": "reporte-de-evaluacion-del-estadio-de-preparacion-de-intelige",
+      "url": "/mx/2025/10/16/reporte-de-evaluacion-del-estadio-de-preparacion-de-intelige",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "UNESCO",
+        "México",
+        "tecnología",
+        "políticas públicas"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "La IA como aliada en el marketing: Perspectivas de Patricio Shilton",
+      "subtitle": "El papel transformador de la inteligencia artificial en las marcas en México",
+      "slug": "la-ia-como-aliada-en-el-marketing-perspectivas-de-patricio-s",
+      "url": "/mx/2025/10/16/la-ia-como-aliada-en-el-marketing-perspectivas-de-patricio-s",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "IA",
+        "Marketing",
+        "Patricio Shilton",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Cómo BeyondTrust impulsa la ciberseguridad con un ecosistema de partners fortalecido con inteligencia artificial",
+      "subtitle": "La colaboración y la inteligencia artificial como pilares de la seguridad digital en México",
+      "slug": "como-beyondtrust-impulsa-la-ciberseguridad-con-un-ecosistema",
+      "url": "/mx/2025/10/16/como-beyondtrust-impulsa-la-ciberseguridad-con-un-ecosistema",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "ciberseguridad",
+        "inteligencia artificial",
+        "BeyondTrust",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Tendencias Tecnológicas en LATAM: Conectividad, Contenido y Plataformas",
+      "subtitle": "Análisis de las últimas tendencias en tecnología y su impacto en la región",
+      "slug": "tendencias-tecnologicas-en-latam-conectividad-contenido-y-pl",
+      "url": "/mx/2025/10/16/tendencias-tecnologicas-en-latam-conectividad-contenido-y-pl",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "El Supremo mantiene a Koldo García en libertad tras negarse a declarar",
+      "subtitle": "Decisión judicial en un caso que ha generado controversia en España",
+      "slug": "el-supremo-mantiene-a-koldo-garcia-en-libertad-tras-negarse-",
+      "url": "/es/2025/10/16/el-supremo-mantiene-a-koldo-garcia-en-libertad-tras-negarse-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "justicia",
+        "Koldo García",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Sánchez comparecerá en el Senado por el 'caso Koldo'",
+      "subtitle": "El presidente del Gobierno se presentará ante la comisión el 30 de octubre.",
+      "slug": "sanchez-comparecera-en-el-senado-por-el-caso-koldo",
+      "url": "/es/2025/10/16/sanchez-comparecera-en-el-senado-por-el-caso-koldo",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "corrupción",
+        "política",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Altercados en la Autónoma de Barcelona por la visita de Vito Quiles",
+      "subtitle": "La llegada del ultra provoca tensiones en el campus universitario",
+      "slug": "altercados-en-la-autonoma-de-barcelona-por-la-visita-de-vito",
+      "url": "/es/2025/10/16/altercados-en-la-autonoma-de-barcelona-por-la-visita-de-vito",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Vito Quiles",
+        "Universidad Autónoma de Barcelona",
+        "extremismo"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "La controversia de Juan del Val sobre la literatura en España",
+      "subtitle": "Literatura 'para la gente' vs. literatura 'para la élite'",
+      "slug": "la-controversia-de-juan-del-val-sobre-la-literatura-en-espan",
+      "url": "/es/2025/10/16/la-controversia-de-juan-del-val-sobre-la-literatura-en-espan",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "literatura",
+        "Juan del Val",
+        "polémica"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Los momentos más polémicos de Juan del Val en televisión",
+      "subtitle": "Desde mensajes de políticos hasta su vida personal en el foco mediático",
+      "slug": "los-momentos-mas-polemicos-de-juan-del-val-en-television",
+      "url": "/es/2025/10/16/los-momentos-mas-polemicos-de-juan-del-val-en-television",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Juan del Val",
+        "televisión",
+        "polémica",
+        "relaciones abiertas"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "¿Es realmente inteligente la inteligencia artificial?",
+      "subtitle": "Un análisis sobre la naturaleza de la IA y su impacto en la sociedad española.",
+      "slug": "es-realmente-inteligente-la-inteligencia-artificial",
+      "url": "/es/2025/10/16/es-realmente-inteligente-la-inteligencia-artificial",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "impacto social",
+        "ética"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "El auge de la inteligencia artificial en marketing y comunicación",
+      "subtitle": "Cómo las empresas españolas están adoptando herramientas de IA para mejorar su rendimiento",
+      "slug": "el-auge-de-la-inteligencia-artificial-en-marketing-y-comunic",
+      "url": "/es/2025/10/16/el-auge-de-la-inteligencia-artificial-en-marketing-y-comunic",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "marketing",
+        "comunicación",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "España como referente de la inteligencia artificial responsable",
+      "subtitle": "Un análisis de los avances y desafíos en la implementación de IA ética en el país",
+      "slug": "espana-como-referente-de-la-inteligencia-artificial-responsa",
+      "url": "/es/2025/10/16/espana-como-referente-de-la-inteligencia-artificial-responsa",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "IA responsable",
+        "España",
+        "tecnología ética"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Tendencias Emergentes en el Sector Tecnológico de LATAM",
+      "subtitle": "Oportunidades Clave para el Desarrollo Regional",
+      "slug": "tendencias-emergentes-en-el-sector-tecnologico-de-latam",
+      "url": "/es/2025/10/16/tendencias-emergentes-en-el-sector-tecnologico-de-latam",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "TikTok y su impacto en la infraestructura tecnológica mundial",
+      "subtitle": "La plataforma redefine el acceso y uso de la tecnología a nivel global",
+      "slug": "tiktok-y-su-impacto-en-la-infraestructura-tecnologica-mundia",
+      "url": "/co/2025/10/16/tiktok-y-su-impacto-en-la-infraestructura-tecnologica-mundia",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "TikTok",
+        "tecnología",
+        "Colombia",
+        "infraestructura"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Larry Ellison revela detalles del mayor centro de datos de IA del mundo",
+      "subtitle": "El gigante tecnológico planea establecer su infraestructura en Colombia.",
+      "slug": "larry-ellison-revela-detalles-del-mayor-centro-de-datos-de-i",
+      "url": "/co/2025/10/16/larry-ellison-revela-detalles-del-mayor-centro-de-datos-de-i",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "tecnología",
+        "inteligencia artificial",
+        "Larry Ellison",
+        "centro de datos"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "WhatsApp 2025: La función que revolucionará la comunicación en Colombia",
+      "subtitle": "Una nueva herramienta promete transformar la forma en que nos conectamos.",
+      "slug": "whatsapp-2025-la-funcion-que-revolucionara-la-comunicacion-e",
+      "url": "/co/2025/10/16/whatsapp-2025-la-funcion-que-revolucionara-la-comunicacion-e",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "WhatsApp",
+        "tecnología",
+        "Colombia",
+        "comunicación"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Oracle marca el rumbo de la nueva era empresarial impulsada por la IA",
+      "subtitle": "Transformación digital en Colombia con el liderazgo de Oracle",
+      "slug": "oracle-marca-el-rumbo-de-la-nueva-era-empresarial-impulsada-",
+      "url": "/co/2025/10/16/oracle-marca-el-rumbo-de-la-nueva-era-empresarial-impulsada-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Oracle",
+        "Inteligencia Artificial",
+        "Transformación Digital",
+        "Colombia"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Startup colombiana utiliza IA para combatir resistencia a antibióticos",
+      "subtitle": "Innovación tecnológica para mejorar la salud pública en el país",
+      "slug": "startup-colombiana-utiliza-ia-para-combatir-resistencia-a-an",
+      "url": "/co/2025/10/16/startup-colombiana-utiliza-ia-para-combatir-resistencia-a-an",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "salud",
+        "tecnología",
+        "IA",
+        "antibióticos"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Predicción de Google sobre el Mundial Sub-20: Un Acertado Análisis",
+      "subtitle": "La inteligencia artificial y su impacto en el fútbol colombiano",
+      "slug": "prediccion-de-google-sobre-el-mundial-sub-20-un-acertado-ana",
+      "url": "/co/2025/10/16/prediccion-de-google-sobre-el-mundial-sub-20-un-acertado-ana",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "fútbol",
+        "Mundial Sub-20",
+        "Colombia"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Zipaquirá: Nuevo Epicentro de la Inteligencia Artificial en Colombia",
+      "subtitle": "Explorando el auge de la IA en Zipaquirá y su impacto en el país",
+      "slug": "zipaquira-nuevo-epicentro-de-la-inteligencia-artificial-en-c",
+      "url": "/co/2025/10/16/zipaquira-nuevo-epicentro-de-la-inteligencia-artificial-en-c",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "Zipaquirá",
+        "Colombia",
+        "tecnología",
+        "educación"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Pronóstico de la semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "La inteligencia artificial predice el desenlace del emocionante encuentro",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/co/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Fútbol"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Transformaciones Tecnológicas en LATAM: Un Futuro Impulsado por la IA",
+      "subtitle": "Nuevas tendencias que están redefiniendo el panorama tecnológico en América Latina.",
+      "slug": "transformaciones-tecnologicas-en-latam-un-futuro-impulsado-p",
+      "url": "/co/2025/10/16/transformaciones-tecnologicas-en-latam-un-futuro-impulsado-p",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "co"
+    },
+    {
+      "title": "Santo Domingo acoge la Tercera Cumbre sobre la Ética de la IA en ALC",
+      "subtitle": "Un encuentro clave para el futuro de la inteligencia artificial en América Latina y el Caribe",
+      "slug": "santo-domingo-acoge-la-tercera-cumbre-sobre-la-etica-de-la-i",
+      "url": "/do/2025/10/16/santo-domingo-acoge-la-tercera-cumbre-sobre-la-etica-de-la-i",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "IA",
+        "Ética",
+        "República Dominicana",
+        "Cumbre"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Indotel y CIP firman acuerdo para impulsar la inteligencia artificial en RD",
+      "subtitle": "Colaboración estratégica para el desarrollo tecnológico en la región",
+      "slug": "indotel-y-cip-firman-acuerdo-para-impulsar-la-inteligencia-a",
+      "url": "/do/2025/10/16/indotel-y-cip-firman-acuerdo-para-impulsar-la-inteligencia-a",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Tecnología",
+        "Desarrollo Económico"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "América Latina acelera en inteligencia artificial más de lo esperado",
+      "subtitle": "República Dominicana se enfrenta a desafíos críticos en el desarrollo de IA",
+      "slug": "america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "url": "/do/2025/10/16/america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "República Dominicana",
+        "Tecnología"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Nuevo cuestionario de la FAO sobre Indicadores de Ciencia y Tecnología Agrícola",
+      "subtitle": "Impulso a la agricultura dominicana a través de datos precisos",
+      "slug": "nuevo-cuestionario-de-la-fao-sobre-indicadores-de-ciencia-y-",
+      "url": "/do/2025/10/16/nuevo-cuestionario-de-la-fao-sobre-indicadores-de-ciencia-y-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "FAO",
+        "Agricultura",
+        "Ciencia y Tecnología"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Oaxaca sigue iluminando su patrimonio con tecnología de vanguardia",
+      "subtitle": "La modernización del patrimonio cultural en México como modelo para el Caribe",
+      "slug": "oaxaca-sigue-iluminando-su-patrimonio-con-tecnologia-de-vang",
+      "url": "/do/2025/10/16/oaxaca-sigue-iluminando-su-patrimonio-con-tecnologia-de-vang",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Oaxaca",
+        "patrimonio",
+        "tecnología",
+        "turismo"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Programa 'Innovadores Digitales' del MAP: Impulsando el Talento Tecnológico en República Dominicana",
+      "subtitle": "Una iniciativa para captar y desarrollar jóvenes en el área tecnológica.",
+      "slug": "programa-innovadores-digitales-del-map-impulsando-el-talento",
+      "url": "/do/2025/10/16/programa-innovadores-digitales-del-map-impulsando-el-talento",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "tecnología",
+        "juventud",
+        "educación",
+        "innovación"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Meta adquiere PlayAI: Implicaciones y futuro de la IA en República Dominicana",
+      "subtitle": "La compra de PlayAI por parte de Meta marca un hito en la carrera por la inteligencia artificial en la región.",
+      "slug": "meta-adquiere-playai-implicaciones-y-futuro-de-la-ia-en-repu",
+      "url": "/do/2025/10/16/meta-adquiere-playai-implicaciones-y-futuro-de-la-ia-en-repu",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Meta",
+        "PlayAI",
+        "Inteligencia Artificial",
+        "República Dominicana"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Rocket: La incubadora que promete transformar el emprendimiento joven en RD",
+      "subtitle": "Una nueva era para los emprendedores dominicanos",
+      "slug": "rocket-la-incubadora-que-promete-transformar-el-emprendimien",
+      "url": "/do/2025/10/16/rocket-la-incubadora-que-promete-transformar-el-emprendimien",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "emprendimiento",
+        "incubadora",
+        "jóvenes",
+        "República Dominicana"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Tendencias en Inteligencia Artificial en América Latina",
+      "subtitle": "Oportunidades y desafíos en el ecosistema de IA",
+      "slug": "tendencias-en-inteligencia-artificial-en-america-latina",
+      "url": "/do/2025/10/16/tendencias-en-inteligencia-artificial-en-america-latina",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Fallece Tomonobu Itagaki, el creador de Ninja Gaiden y Dead or Alive",
+      "subtitle": "El influyente diseñador de videojuegos dejó un legado imborrable a los 58 años.",
+      "slug": "fallece-tomonobu-itagaki-el-creador-de-ninja-gaiden-y-dead-o",
+      "url": "/ar/2025/10/16/fallece-tomonobu-itagaki-el-creador-de-ninja-gaiden-y-dead-o",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "videojuegos",
+        "Tomonobu Itagaki",
+        "Ninja Gaiden",
+        "Dead or Alive"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Cómo detectar si alguien está espiando tu WhatsApp",
+      "subtitle": "Consejos prácticos para proteger tu privacidad en la aplicación de mensajería más utilizada en Argentina.",
+      "slug": "como-detectar-si-alguien-esta-espiando-tu-whatsapp",
+      "url": "/ar/2025/10/16/como-detectar-si-alguien-esta-espiando-tu-whatsapp",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "WhatsApp",
+        "Ciberseguridad",
+        "Privacidad"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Streaming gratis: seis apps alternativas y legales para ver series y películas en Argentina",
+      "subtitle": "Opciones accesibles para disfrutar del cine y la televisión sin costo",
+      "slug": "streaming-gratis-seis-apps-alternativas-y-legales-para-ver-s",
+      "url": "/ar/2025/10/16/streaming-gratis-seis-apps-alternativas-y-legales-para-ver-s",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "streaming",
+        "entretenimiento",
+        "Argentina"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Vibe Coding: La Nueva Técnica de Programación Recomendada por Meta",
+      "subtitle": "Facilita el Aprendizaje de la Programación en Argentina",
+      "slug": "vibe-coding-la-nueva-tecnica-de-programacion-recomendada-por",
+      "url": "/ar/2025/10/16/vibe-coding-la-nueva-tecnica-de-programacion-recomendada-por",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "programación",
+        "tecnología",
+        "Meta",
+        "Vibe Coding"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Sora: La nueva app de OpenAI que revoluciona la creación de videos",
+      "subtitle": "Cómo utilizar Sora y precauciones a tener en cuenta",
+      "slug": "sora-la-nueva-app-de-openai-que-revoluciona-la-creacion-de-v",
+      "url": "/ar/2025/10/16/sora-la-nueva-app-de-openai-que-revoluciona-la-creacion-de-v",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "creación de contenido"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "WeWork: La inteligencia artificial redefine la colaboración en la oficina",
+      "subtitle": "Un nuevo enfoque hacia el trabajo colaborativo en espacios compartidos",
+      "slug": "wework-la-inteligencia-artificial-redefine-la-colaboracion-e",
+      "url": "/ar/2025/10/16/wework-la-inteligencia-artificial-redefine-la-colaboracion-e",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "colaboración",
+        "espacios de trabajo",
+        "WeWork",
+        "Argentina"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Pronóstico de la semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "La inteligencia artificial predice el desenlace del esperado encuentro",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/ar/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Pronóstico"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Mundial Sub-20: Predicciones de Inteligencia Artificial en el Encuentro Argentina vs. Colombia",
+      "subtitle": "Análisis del impacto y riesgos de la inteligencia artificial en el deporte",
+      "slug": "mundial-sub-20-predicciones-de-inteligencia-artificial-en-el",
+      "url": "/ar/2025/10/16/mundial-sub-20-predicciones-de-inteligencia-artificial-en-el",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Fútbol",
+        "Mundial Sub-20",
+        "Argentina",
+        "Colombia"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Tendencias Tecnológicas en LATAM: Oportunidades y Desafíos",
+      "subtitle": "Análisis de las últimas tendencias en tecnología y su impacto en la región.",
+      "slug": "tendencias-tecnologicas-en-latam-oportunidades-y-desafios",
+      "url": "/ar/2025/10/16/tendencias-tecnologicas-en-latam-oportunidades-y-desafios",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Smart Fit Perú lanza su nueva campaña hecha con inteligencia artificial",
+      "subtitle": "Una innovadora estrategia que transforma la experiencia del usuario en el sector fitness",
+      "slug": "smart-fit-peru-lanza-su-nueva-campana-hecha-con-inteligencia",
+      "url": "/pe/2025/10/16/smart-fit-peru-lanza-su-nueva-campana-hecha-con-inteligencia",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "marketing",
+        "fitness"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "La economía invisible de la IA: un reto para el PBI peruano",
+      "subtitle": "BBVA Research destaca la importancia de la inteligencia artificial en el crecimiento económico.",
+      "slug": "la-economia-invisible-de-la-ia-un-reto-para-el-pbi-peruano",
+      "url": "/pe/2025/10/16/la-economia-invisible-de-la-ia-un-reto-para-el-pbi-peruano",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "economía",
+        "Perú",
+        "BBVA Research"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Reglamento de IA en Perú: claves para entender la nueva ley",
+      "subtitle": "La legislación busca impulsar el uso responsable de la inteligencia artificial en el país.",
+      "slug": "reglamento-de-ia-en-peru-claves-para-entender-la-nueva-ley",
+      "url": "/pe/2025/10/16/reglamento-de-ia-en-peru-claves-para-entender-la-nueva-ley",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Reglamento",
+        "Perú",
+        "Desarrollo"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Expertos debatirán sobre el impacto de la inteligencia artificial en las organizaciones en Lima",
+      "subtitle": "Un evento clave para entender la transformación digital en Perú",
+      "slug": "expertos-debatiran-sobre-el-impacto-de-la-inteligencia-artif",
+      "url": "/pe/2025/10/16/expertos-debatiran-sobre-el-impacto-de-la-inteligencia-artif",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "Lima",
+        "tecnología",
+        "organizaciones"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Perú acoge la 70ª Comisión Regional de ONU Turismo para las Américas",
+      "subtitle": "Seminario sobre Inteligencia Artificial y Turismo en las Américas",
+      "slug": "peru-acoge-la-70-comision-regional-de-onu-turismo-para-las-a",
+      "url": "/pe/2025/10/16/peru-acoge-la-70-comision-regional-de-onu-turismo-para-las-a",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "turismo",
+        "inteligencia artificial",
+        "ONU",
+        "Perú"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Protestas en Lima: Un Clamor por el Cambio",
+      "subtitle": "El segundo día de manifestaciones contra el gobierno peruano",
+      "slug": "protestas-en-lima-un-clamor-por-el-cambio",
+      "url": "/pe/2025/10/16/protestas-en-lima-un-clamor-por-el-cambio",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "protestas",
+        "gobierno",
+        "Lima",
+        "Perú"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Cuatro Startups Chilenas Compiten por los Global eAwards 2025 en Perú",
+      "subtitle": "Un vistazo al ecosistema de innovación y emprendimiento en Perú",
+      "slug": "cuatro-startups-chilenas-compiten-por-los-global-eawards-202",
+      "url": "/pe/2025/10/16/cuatro-startups-chilenas-compiten-por-los-global-eawards-202",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "startups",
+        "Global eAwards",
+        "Perú",
+        "Chile",
+        "emprendimiento"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Cuatro Startups Chilenas Compiten por un Lugar en los Global eAwards 2025",
+      "subtitle": "Una oportunidad única para el emprendimiento en la región",
+      "slug": "cuatro-startups-chilenas-compiten-por-un-lugar-en-los-global",
+      "url": "/pe/2025/10/16/cuatro-startups-chilenas-compiten-por-un-lugar-en-los-global",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "startups",
+        "emprendimiento",
+        "Global eAwards",
+        "Chile",
+        "Perú"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "La inteligencia artificial y las alianzas estratégicas, claves en la gestión de riesgos geopolíticos",
+      "subtitle": "KPMG destaca la importancia de la IA en la estrategia empresarial en Panamá",
+      "slug": "la-inteligencia-artificial-y-las-alianzas-estrategicas-clave",
+      "url": "/pa/2025/10/16/la-inteligencia-artificial-y-las-alianzas-estrategicas-clave",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Gestión de Riesgos",
+        "KPMG",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Inteligencia Artificial para Actores Electorales en Panamá",
+      "subtitle": "International IDEA impulsa el uso de tecnología en procesos democráticos",
+      "slug": "inteligencia-artificial-para-actores-electorales-en-panama",
+      "url": "/pa/2025/10/16/inteligencia-artificial-para-actores-electorales-en-panama",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Elecciones",
+        "Democracia"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Panamá define su estrategia de Inteligencia Artificial de manera colaborativa e interdisciplinaria",
+      "subtitle": "Un enfoque inclusivo para el desarrollo tecnológico en el país",
+      "slug": "panama-define-su-estrategia-de-inteligencia-artificial-de-ma",
+      "url": "/pa/2025/10/16/panama-define-su-estrategia-de-inteligencia-artificial-de-ma",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Panamá",
+        "Innovación",
+        "Tecnología"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Copa Airlines impulsa el talento juvenil en Panamá con su hackathon",
+      "subtitle": "Una iniciativa que promueve la innovación y el desarrollo tecnológico entre jóvenes panameños.",
+      "slug": "copa-airlines-impulsa-el-talento-juvenil-en-panama-con-su-ha",
+      "url": "/pa/2025/10/16/copa-airlines-impulsa-el-talento-juvenil-en-panama-con-su-ha",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Copa Airlines",
+        "hackathon",
+        "talento juvenil",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Cyber Quest 2025: Panamá se posiciona como líder en innovación digital segura",
+      "subtitle": "El país avanza hacia un futuro tecnológico con seguridad cibernética",
+      "slug": "cyber-quest-2025-panama-se-posiciona-como-lider-en-innovacio",
+      "url": "/pa/2025/10/16/cyber-quest-2025-panama-se-posiciona-como-lider-en-innovacio",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "ciberseguridad",
+        "innovación",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Liderazgo Científico Internacional en Panamá",
+      "subtitle": "Un análisis del impacto y los desafíos del liderazgo científico en el país",
+      "slug": "liderazgo-cientifico-internacional-en-panama",
+      "url": "/pa/2025/10/16/liderazgo-cientifico-internacional-en-panama",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "ciencia",
+        "liderazgo",
+        "Panamá",
+        "investigación"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "AWS selecciona 40 startups para su programa global de IA generativa 2025",
+      "subtitle": "Impulsando la innovación y el ecosistema emprendedor en Panamá",
+      "slug": "aws-selecciona-40-startups-para-su-programa-global-de-ia-gen",
+      "url": "/pa/2025/10/16/aws-selecciona-40-startups-para-su-programa-global-de-ia-gen",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "IA generativa",
+        "startups",
+        "AWS",
+        "Panamá",
+        "innovación"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "IA en Programación: ¿Ha Robado la Satisfacción del Desarrollo?",
+      "subtitle": "El Ecosistema Startup en Panamá",
+      "slug": "ia-en-programacion-ha-robado-la-satisfaccion-del-desarrollo",
+      "url": "/pa/2025/10/16/ia-en-programacion-ha-robado-la-satisfaccion-del-desarrollo",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Programación",
+        "Startups",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Tendencias de Inteligencia Artificial en América Latina",
+      "subtitle": "Oportunidades y desafíos en el uso de IA en la región",
+      "slug": "tendencias-de-inteligencia-artificial-en-america-latina",
+      "url": "/pa/2025/10/16/tendencias-de-inteligencia-artificial-en-america-latina",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Uruguay aprueba ley de eutanasia",
+      "subtitle": "Un paso hacia la autonomía personal en el fin de la vida",
+      "slug": "uruguay-aprueba-ley-de-eutanasia",
+      "url": "/cl/2025/10/16/uruguay-aprueba-ley-de-eutanasia",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "eutanasia",
+        "Uruguay",
+        "Chile",
+        "derechos humanos"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "La familia de Diane Keaton revela la causa de muerte de la querida actriz de Hollywood",
+      "subtitle": "Un legado que trasciende fronteras",
+      "slug": "la-familia-de-diane-keaton-revela-la-causa-de-muerte-de-la-q",
+      "url": "/cl/2025/10/16/la-familia-de-diane-keaton-revela-la-causa-de-muerte-de-la-q",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Diane Keaton",
+        "Hollywood",
+        "Cine",
+        "Chile"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Análisis de la ROG Xbox Ally X en Chile: Precio, Características y Reseña",
+      "subtitle": "Una mirada a la nueva consola portátil que promete revolucionar el gaming en el país.",
+      "slug": "analisis-de-la-rog-xbox-ally-x-en-chile-precio-caracteristic",
+      "url": "/cl/2025/10/16/analisis-de-la-rog-xbox-ally-x-en-chile-precio-caracteristic",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "gaming",
+        "tecnología"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Lanzamiento de las nuevas consolas portátiles ROG Xbox Ally X en Chile",
+      "subtitle": "La llegada de la ROG Xbox Ally X marca un hito en el mercado de videojuegos portátil en el país.",
+      "slug": "lanzamiento-de-las-nuevas-consolas-portatiles-rog-xbox-ally-",
+      "url": "/cl/2025/10/16/lanzamiento-de-las-nuevas-consolas-portatiles-rog-xbox-ally-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "videojuegos",
+        "tecnología",
+        "Chile"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Ibai Llanos recibe múltiples invitaciones tras anunciar su visita a Chile",
+      "subtitle": "Desde el Presidente Boric hasta candidatos y marcas lo buscan",
+      "slug": "ibai-llanos-recibe-multiples-invitaciones-tras-anunciar-su-v",
+      "url": "/cl/2025/10/16/ibai-llanos-recibe-multiples-invitaciones-tras-anunciar-su-v",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Ibai Llanos",
+        "Chile",
+        "streaming",
+        "cultura digital"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "América Latina acelera en inteligencia artificial más de lo esperado, pero enfrenta deficiencias críticas",
+      "subtitle": "Un análisis de la situación actual de la inteligencia artificial en Chile y sus desafíos futuros",
+      "slug": "america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "url": "/cl/2025/10/16/america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "Chile",
+        "tecnología",
+        "desarrollo económico"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Pronóstico de la Semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "Análisis de la inteligencia artificial sobre el partido clave en Chile",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/cl/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Fútbol"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Ciclo de Charlas sobre IA para Líderes Empresariales en Chile",
+      "subtitle": "MITI impulsa la formación en inteligencia artificial para el sector empresarial",
+      "slug": "ciclo-de-charlas-sobre-ia-para-lideres-empresariales-en-chil",
+      "url": "/cl/2025/10/16/ciclo-de-charlas-sobre-ia-para-lideres-empresariales-en-chil",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "capacitación",
+        "líderes empresariales",
+        "Chile"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Tendencias Emergentes en América Latina: Eutanasia, Cultura y Tecnología",
+      "subtitle": "Explorando los cambios sociales y tecnológicos en la región",
+      "slug": "tendencias-emergentes-en-america-latina-eutanasia-cultura-y-",
+      "url": "/cl/2025/10/16/tendencias-emergentes-en-america-latina-eutanasia-cultura-y-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "cl"
+    },
+    {
       "title": "Pronóstico del Clima en Uruguay para el 16 de octubre",
       "subtitle": "Inumet prevé un clima variable con posibilidades de lluvias en varias regiones",
       "slug": "pronostico-del-clima-en-uruguay-para-el-16-de-octubre",
@@ -1512,5 +2764,5 @@
       "country": "do"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.634264"
+  "updated_at": "2025-10-16T14:29:36.609277"
 }

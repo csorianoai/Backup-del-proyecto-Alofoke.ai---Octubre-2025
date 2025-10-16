@@ -2,6 +2,148 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Caída de YouTube genera caos en México",
+      "subtitle": "Usuarios reportan problemas de acceso a la plataforma de videos",
+      "slug": "caida-de-youtube-genera-caos-en-mexico",
+      "url": "/mx/2025/10/16/caida-de-youtube-genera-caos-en-mexico",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "YouTube",
+        "caída",
+        "México",
+        "tecnología"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Conectividad para el Bienestar: Caídas y Controversias en las SIM Gratuitas",
+      "subtitle": "Análisis de la situación actual de la conectividad en México",
+      "slug": "conectividad-para-el-bienestar-caidas-y-controversias-en-las",
+      "url": "/mx/2025/10/16/conectividad-para-el-bienestar-caidas-y-controversias-en-las",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "conectividad",
+        "bienestar",
+        "tecnología",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Instagram implementará clasificaciones de contenido similares a las del cine",
+      "subtitle": "La red social busca mejorar la experiencia del usuario y la seguridad de los menores.",
+      "slug": "instagram-implementara-clasificaciones-de-contenido-similare",
+      "url": "/mx/2025/10/16/instagram-implementara-clasificaciones-de-contenido-similare",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Instagram",
+        "Contenido",
+        "Clasificaciones",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "OpenAI planea alcanzar ingresos de 1 billón de dólares en 5 años",
+      "subtitle": "La empresa busca expandir su influencia en el mercado global de inteligencia artificial.",
+      "slug": "openai-planea-alcanzar-ingresos-de-1-billon-de-dolares-en-5-",
+      "url": "/mx/2025/10/16/openai-planea-alcanzar-ingresos-de-1-billon-de-dolares-en-5-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "OpenAI",
+        "Inteligencia Artificial",
+        "México",
+        "Tecnología"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Salesforce anuncia inversión de 1,000 millones de dólares en México",
+      "subtitle": "Impulsando la transformación digital en el país",
+      "slug": "salesforce-anuncia-inversion-de-1-000-millones-de-dolares-en",
+      "url": "/mx/2025/10/16/salesforce-anuncia-inversion-de-1-000-millones-de-dolares-en",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Salesforce",
+        "Inversión",
+        "Transformación Digital"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México",
+      "subtitle": "Un análisis de la situación actual y los desafíos futuros en el ámbito de la IA en México",
+      "slug": "reporte-de-evaluacion-del-estadio-de-preparacion-de-intelige",
+      "url": "/mx/2025/10/16/reporte-de-evaluacion-del-estadio-de-preparacion-de-intelige",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "UNESCO",
+        "México",
+        "tecnología",
+        "políticas públicas"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "La IA como aliada en el marketing: Perspectivas de Patricio Shilton",
+      "subtitle": "El papel transformador de la inteligencia artificial en las marcas en México",
+      "slug": "la-ia-como-aliada-en-el-marketing-perspectivas-de-patricio-s",
+      "url": "/mx/2025/10/16/la-ia-como-aliada-en-el-marketing-perspectivas-de-patricio-s",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "IA",
+        "Marketing",
+        "Patricio Shilton",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Cómo BeyondTrust impulsa la ciberseguridad con un ecosistema de partners fortalecido con inteligencia artificial",
+      "subtitle": "La colaboración y la inteligencia artificial como pilares de la seguridad digital en México",
+      "slug": "como-beyondtrust-impulsa-la-ciberseguridad-con-un-ecosistema",
+      "url": "/mx/2025/10/16/como-beyondtrust-impulsa-la-ciberseguridad-con-un-ecosistema",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "ciberseguridad",
+        "inteligencia artificial",
+        "BeyondTrust",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Tendencias Tecnológicas en LATAM: Conectividad, Contenido y Plataformas",
+      "subtitle": "Análisis de las últimas tendencias en tecnología y su impacto en la región",
+      "slug": "tendencias-tecnologicas-en-latam-conectividad-contenido-y-pl",
+      "url": "/mx/2025/10/16/tendencias-tecnologicas-en-latam-conectividad-contenido-y-pl",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "mx"
+    },
+    {
       "title": "YouTube sufre caída masiva en México",
       "subtitle": "Usuarios reportan problemas de acceso en todo el país",
       "slug": "youtube-sufre-caida-masiva-en-mexico",
@@ -145,5 +287,5 @@
       "country": "mx"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.628907"
+  "updated_at": "2025-10-16T14:29:36.602891"
 }

@@ -2,6 +2,144 @@
   "country": "uy",
   "articles": [
     {
+      "title": "Ana Inés Martínez revela su experiencia con un fan en un shopping",
+      "subtitle": "La influencer uruguaya comparte anécdotas de su vida pública",
+      "slug": "ana-ines-martinez-revela-su-experiencia-con-un-fan-en-un-sho",
+      "url": "/uy/2025/10/16/ana-ines-martinez-revela-su-experiencia-con-un-fan-en-un-sho",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Ana Inés Martínez",
+        "influencers",
+        "Uruguay"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Expertos en bodas revelan señales de divorcio antes del 'sí, acepto'",
+      "subtitle": "Planificadora de más de 100 bodas comparte su experiencia en Uruguay.",
+      "slug": "expertos-en-bodas-revelan-senales-de-divorcio-antes-del-si-a",
+      "url": "/uy/2025/10/16/expertos-en-bodas-revelan-senales-de-divorcio-antes-del-si-a",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "divorcio",
+        "bodas",
+        "relaciones"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Uruguay aprueba ley de 'muerte digna' que legaliza la eutanasia",
+      "subtitle": "El Senado uruguayo votó a favor del proyecto de ley que permite la eutanasia, marcando un hito en la legislación del país.",
+      "slug": "uruguay-aprueba-ley-de-muerte-digna-que-legaliza-la-eutanasi",
+      "url": "/uy/2025/10/16/uruguay-aprueba-ley-de-muerte-digna-que-legaliza-la-eutanasi",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "eutanasia",
+        "muerte digna",
+        "Uruguay"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Victoria uruguaya en la Vuelta Argentina y próximo Tour Femenino Internacional",
+      "subtitle": "El ciclismo femenino uruguayo sigue ganando protagonismo en la región.",
+      "slug": "victoria-uruguaya-en-la-vuelta-argentina-y-proximo-tour-feme",
+      "url": "/uy/2025/10/16/victoria-uruguaya-en-la-vuelta-argentina-y-proximo-tour-feme",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "ciclismo",
+        "deporte femenino",
+        "Uruguay"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "El fin de una era: Paramount cierra MTV",
+      "subtitle": "La abrupta decisión de Paramount pone en jaque el legado musical de MTV.",
+      "slug": "el-fin-de-una-era-paramount-cierra-mtv",
+      "url": "/uy/2025/10/16/el-fin-de-una-era-paramount-cierra-mtv",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "MTV",
+        "Paramount",
+        "Cultura",
+        "Música"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Uruguay firma el tratado sobre inteligencia artificial del Consejo de Europa",
+      "subtitle": "Un paso hacia la regulación y el desarrollo ético de la IA en el país",
+      "slug": "uruguay-firma-el-tratado-sobre-inteligencia-artificial-del-c",
+      "url": "/uy/2025/10/16/uruguay-firma-el-tratado-sobre-inteligencia-artificial-del-c",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "tratado",
+        "Uruguay",
+        "Consejo de Europa"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "¿Te va a reemplazar la IA? No, pero sí quien sepa usarla mejor que vos",
+      "subtitle": "La advertencia de expertos sobre el futuro laboral en Uruguay",
+      "slug": "te-va-a-reemplazar-la-ia-no-pero-si-quien-sepa-usarla-mejor-",
+      "url": "/uy/2025/10/16/te-va-a-reemplazar-la-ia-no-pero-si-quien-sepa-usarla-mejor-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Futuro Laboral",
+        "Uruguay",
+        "Tecnología"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "La Revolución de la Inteligencia Artificial en Uruguay",
+      "subtitle": "Uruguay se posiciona como líder en la adopción de IA en América Latina",
+      "slug": "la-revolucion-de-la-inteligencia-artificial-en-uruguay",
+      "url": "/uy/2025/10/16/la-revolucion-de-la-inteligencia-artificial-en-uruguay",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Uruguay",
+        "Innovación",
+        "Tecnología"
+      ],
+      "country": "uy"
+    },
+    {
+      "title": "Tendencias recientes en medios de comunicación y sociedad en LATAM",
+      "subtitle": "Análisis de temas relevantes en la actualidad",
+      "slug": "tendencias-recientes-en-medios-de-comunicacion-y-sociedad-en",
+      "url": "/uy/2025/10/16/tendencias-recientes-en-medios-de-comunicacion-y-sociedad-en",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "uy"
+    },
+    {
       "title": "Pronóstico del Clima en Uruguay para el 16 de octubre",
       "subtitle": "Inumet prevé un clima variable con posibilidades de lluvias en varias regiones",
       "slug": "pronostico-del-clima-en-uruguay-para-el-16-de-octubre",
@@ -141,5 +279,5 @@
       "country": "uy"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.633810"
+  "updated_at": "2025-10-16T14:29:36.608497"
 }

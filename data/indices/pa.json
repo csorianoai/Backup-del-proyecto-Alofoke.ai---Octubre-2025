@@ -3,6 +3,147 @@
   "articles": [
     {
       "title": "La inteligencia artificial y las alianzas estratégicas, claves en la gestión de riesgos geopolíticos",
+      "subtitle": "KPMG destaca la importancia de la IA en la estrategia empresarial en Panamá",
+      "slug": "la-inteligencia-artificial-y-las-alianzas-estrategicas-clave",
+      "url": "/pa/2025/10/16/la-inteligencia-artificial-y-las-alianzas-estrategicas-clave",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Gestión de Riesgos",
+        "KPMG",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Inteligencia Artificial para Actores Electorales en Panamá",
+      "subtitle": "International IDEA impulsa el uso de tecnología en procesos democráticos",
+      "slug": "inteligencia-artificial-para-actores-electorales-en-panama",
+      "url": "/pa/2025/10/16/inteligencia-artificial-para-actores-electorales-en-panama",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Elecciones",
+        "Democracia"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Panamá define su estrategia de Inteligencia Artificial de manera colaborativa e interdisciplinaria",
+      "subtitle": "Un enfoque inclusivo para el desarrollo tecnológico en el país",
+      "slug": "panama-define-su-estrategia-de-inteligencia-artificial-de-ma",
+      "url": "/pa/2025/10/16/panama-define-su-estrategia-de-inteligencia-artificial-de-ma",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Panamá",
+        "Innovación",
+        "Tecnología"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Copa Airlines impulsa el talento juvenil en Panamá con su hackathon",
+      "subtitle": "Una iniciativa que promueve la innovación y el desarrollo tecnológico entre jóvenes panameños.",
+      "slug": "copa-airlines-impulsa-el-talento-juvenil-en-panama-con-su-ha",
+      "url": "/pa/2025/10/16/copa-airlines-impulsa-el-talento-juvenil-en-panama-con-su-ha",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Copa Airlines",
+        "hackathon",
+        "talento juvenil",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Cyber Quest 2025: Panamá se posiciona como líder en innovación digital segura",
+      "subtitle": "El país avanza hacia un futuro tecnológico con seguridad cibernética",
+      "slug": "cyber-quest-2025-panama-se-posiciona-como-lider-en-innovacio",
+      "url": "/pa/2025/10/16/cyber-quest-2025-panama-se-posiciona-como-lider-en-innovacio",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "ciberseguridad",
+        "innovación",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Liderazgo Científico Internacional en Panamá",
+      "subtitle": "Un análisis del impacto y los desafíos del liderazgo científico en el país",
+      "slug": "liderazgo-cientifico-internacional-en-panama",
+      "url": "/pa/2025/10/16/liderazgo-cientifico-internacional-en-panama",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "ciencia",
+        "liderazgo",
+        "Panamá",
+        "investigación"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "AWS selecciona 40 startups para su programa global de IA generativa 2025",
+      "subtitle": "Impulsando la innovación y el ecosistema emprendedor en Panamá",
+      "slug": "aws-selecciona-40-startups-para-su-programa-global-de-ia-gen",
+      "url": "/pa/2025/10/16/aws-selecciona-40-startups-para-su-programa-global-de-ia-gen",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "IA generativa",
+        "startups",
+        "AWS",
+        "Panamá",
+        "innovación"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "IA en Programación: ¿Ha Robado la Satisfacción del Desarrollo?",
+      "subtitle": "El Ecosistema Startup en Panamá",
+      "slug": "ia-en-programacion-ha-robado-la-satisfaccion-del-desarrollo",
+      "url": "/pa/2025/10/16/ia-en-programacion-ha-robado-la-satisfaccion-del-desarrollo",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Programación",
+        "Startups",
+        "Panamá"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "Tendencias de Inteligencia Artificial en América Latina",
+      "subtitle": "Oportunidades y desafíos en el uso de IA en la región",
+      "slug": "tendencias-de-inteligencia-artificial-en-america-latina",
+      "url": "/pa/2025/10/16/tendencias-de-inteligencia-artificial-en-america-latina",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "pa"
+    },
+    {
+      "title": "La inteligencia artificial y las alianzas estratégicas, claves en la gestión de riesgos geopolíticos",
       "subtitle": "KPMG destaca la importancia de la IA en la mitigación de riesgos en Panamá",
       "slug": "la-inteligencia-artificial-y-las-alianzas-estrategicas-clave",
       "url": "/pa/2025/10/16/la-inteligencia-artificial-y-las-alianzas-estrategicas-clave",
@@ -144,5 +285,5 @@
       "country": "pa"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.599716"
+  "updated_at": "2025-10-16T14:29:36.565828"
 }

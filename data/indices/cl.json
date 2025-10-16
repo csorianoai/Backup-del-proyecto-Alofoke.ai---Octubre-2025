@@ -2,6 +2,146 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Uruguay aprueba ley de eutanasia",
+      "subtitle": "Un paso hacia la autonomía personal en el fin de la vida",
+      "slug": "uruguay-aprueba-ley-de-eutanasia",
+      "url": "/cl/2025/10/16/uruguay-aprueba-ley-de-eutanasia",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "eutanasia",
+        "Uruguay",
+        "Chile",
+        "derechos humanos"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "La familia de Diane Keaton revela la causa de muerte de la querida actriz de Hollywood",
+      "subtitle": "Un legado que trasciende fronteras",
+      "slug": "la-familia-de-diane-keaton-revela-la-causa-de-muerte-de-la-q",
+      "url": "/cl/2025/10/16/la-familia-de-diane-keaton-revela-la-causa-de-muerte-de-la-q",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Diane Keaton",
+        "Hollywood",
+        "Cine",
+        "Chile"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Análisis de la ROG Xbox Ally X en Chile: Precio, Características y Reseña",
+      "subtitle": "Una mirada a la nueva consola portátil que promete revolucionar el gaming en el país.",
+      "slug": "analisis-de-la-rog-xbox-ally-x-en-chile-precio-caracteristic",
+      "url": "/cl/2025/10/16/analisis-de-la-rog-xbox-ally-x-en-chile-precio-caracteristic",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "gaming",
+        "tecnología"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Lanzamiento de las nuevas consolas portátiles ROG Xbox Ally X en Chile",
+      "subtitle": "La llegada de la ROG Xbox Ally X marca un hito en el mercado de videojuegos portátil en el país.",
+      "slug": "lanzamiento-de-las-nuevas-consolas-portatiles-rog-xbox-ally-",
+      "url": "/cl/2025/10/16/lanzamiento-de-las-nuevas-consolas-portatiles-rog-xbox-ally-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "videojuegos",
+        "tecnología",
+        "Chile"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Ibai Llanos recibe múltiples invitaciones tras anunciar su visita a Chile",
+      "subtitle": "Desde el Presidente Boric hasta candidatos y marcas lo buscan",
+      "slug": "ibai-llanos-recibe-multiples-invitaciones-tras-anunciar-su-v",
+      "url": "/cl/2025/10/16/ibai-llanos-recibe-multiples-invitaciones-tras-anunciar-su-v",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Ibai Llanos",
+        "Chile",
+        "streaming",
+        "cultura digital"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "América Latina acelera en inteligencia artificial más de lo esperado, pero enfrenta deficiencias críticas",
+      "subtitle": "Un análisis de la situación actual de la inteligencia artificial en Chile y sus desafíos futuros",
+      "slug": "america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "url": "/cl/2025/10/16/america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "Chile",
+        "tecnología",
+        "desarrollo económico"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Pronóstico de la Semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "Análisis de la inteligencia artificial sobre el partido clave en Chile",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/cl/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Fútbol"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Ciclo de Charlas sobre IA para Líderes Empresariales en Chile",
+      "subtitle": "MITI impulsa la formación en inteligencia artificial para el sector empresarial",
+      "slug": "ciclo-de-charlas-sobre-ia-para-lideres-empresariales-en-chil",
+      "url": "/cl/2025/10/16/ciclo-de-charlas-sobre-ia-para-lideres-empresariales-en-chil",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "capacitación",
+        "líderes empresariales",
+        "Chile"
+      ],
+      "country": "cl"
+    },
+    {
+      "title": "Tendencias Emergentes en América Latina: Eutanasia, Cultura y Tecnología",
+      "subtitle": "Explorando los cambios sociales y tecnológicos en la región",
+      "slug": "tendencias-emergentes-en-america-latina-eutanasia-cultura-y-",
+      "url": "/cl/2025/10/16/tendencias-emergentes-en-america-latina-eutanasia-cultura-y-",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "cl"
+    },
+    {
       "title": "Lanzamiento de las nuevas consolas portátiles ROG Xbox Ally X en Chile",
       "subtitle": "La revolución del gaming portátil ya está aquí",
       "slug": "lanzamiento-de-las-nuevas-consolas-portatiles-rog-xbox-ally-",
@@ -144,5 +284,5 @@
       "country": "cl"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.596241"
+  "updated_at": "2025-10-16T14:29:36.560134"
 }

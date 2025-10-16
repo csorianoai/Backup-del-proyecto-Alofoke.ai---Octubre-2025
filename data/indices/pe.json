@@ -3,6 +3,135 @@
   "articles": [
     {
       "title": "Smart Fit Perú lanza su nueva campaña hecha con inteligencia artificial",
+      "subtitle": "Una innovadora estrategia que transforma la experiencia del usuario en el sector fitness",
+      "slug": "smart-fit-peru-lanza-su-nueva-campana-hecha-con-inteligencia",
+      "url": "/pe/2025/10/16/smart-fit-peru-lanza-su-nueva-campana-hecha-con-inteligencia",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "marketing",
+        "fitness"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "La economía invisible de la IA: un reto para el PBI peruano",
+      "subtitle": "BBVA Research destaca la importancia de la inteligencia artificial en el crecimiento económico.",
+      "slug": "la-economia-invisible-de-la-ia-un-reto-para-el-pbi-peruano",
+      "url": "/pe/2025/10/16/la-economia-invisible-de-la-ia-un-reto-para-el-pbi-peruano",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "economía",
+        "Perú",
+        "BBVA Research"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Reglamento de IA en Perú: claves para entender la nueva ley",
+      "subtitle": "La legislación busca impulsar el uso responsable de la inteligencia artificial en el país.",
+      "slug": "reglamento-de-ia-en-peru-claves-para-entender-la-nueva-ley",
+      "url": "/pe/2025/10/16/reglamento-de-ia-en-peru-claves-para-entender-la-nueva-ley",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Reglamento",
+        "Perú",
+        "Desarrollo"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Expertos debatirán sobre el impacto de la inteligencia artificial en las organizaciones en Lima",
+      "subtitle": "Un evento clave para entender la transformación digital en Perú",
+      "slug": "expertos-debatiran-sobre-el-impacto-de-la-inteligencia-artif",
+      "url": "/pe/2025/10/16/expertos-debatiran-sobre-el-impacto-de-la-inteligencia-artif",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "Lima",
+        "tecnología",
+        "organizaciones"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Perú acoge la 70ª Comisión Regional de ONU Turismo para las Américas",
+      "subtitle": "Seminario sobre Inteligencia Artificial y Turismo en las Américas",
+      "slug": "peru-acoge-la-70-comision-regional-de-onu-turismo-para-las-a",
+      "url": "/pe/2025/10/16/peru-acoge-la-70-comision-regional-de-onu-turismo-para-las-a",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "turismo",
+        "inteligencia artificial",
+        "ONU",
+        "Perú"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Protestas en Lima: Un Clamor por el Cambio",
+      "subtitle": "El segundo día de manifestaciones contra el gobierno peruano",
+      "slug": "protestas-en-lima-un-clamor-por-el-cambio",
+      "url": "/pe/2025/10/16/protestas-en-lima-un-clamor-por-el-cambio",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "protestas",
+        "gobierno",
+        "Lima",
+        "Perú"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Cuatro Startups Chilenas Compiten por los Global eAwards 2025 en Perú",
+      "subtitle": "Un vistazo al ecosistema de innovación y emprendimiento en Perú",
+      "slug": "cuatro-startups-chilenas-compiten-por-los-global-eawards-202",
+      "url": "/pe/2025/10/16/cuatro-startups-chilenas-compiten-por-los-global-eawards-202",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "startups",
+        "Global eAwards",
+        "Perú",
+        "Chile",
+        "emprendimiento"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Cuatro Startups Chilenas Compiten por un Lugar en los Global eAwards 2025",
+      "subtitle": "Una oportunidad única para el emprendimiento en la región",
+      "slug": "cuatro-startups-chilenas-compiten-por-un-lugar-en-los-global",
+      "url": "/pe/2025/10/16/cuatro-startups-chilenas-compiten-por-un-lugar-en-los-global",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "startups",
+        "emprendimiento",
+        "Global eAwards",
+        "Chile",
+        "Perú"
+      ],
+      "country": "pe"
+    },
+    {
+      "title": "Smart Fit Perú lanza su nueva campaña hecha con inteligencia artificial",
       "subtitle": "Innovación en el fitness peruano",
       "slug": "smart-fit-peru-lanza-su-nueva-campana-hecha-con-inteligencia",
       "url": "/pe/2025/10/16/smart-fit-peru-lanza-su-nueva-campana-hecha-con-inteligencia",
@@ -132,5 +261,5 @@
       "country": "pe"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.603623"
+  "updated_at": "2025-10-16T14:29:36.570746"
 }

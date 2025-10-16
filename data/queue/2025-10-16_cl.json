@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Uruguay aprobó su ley de eutanasia: quiénes podrán acogerse a este derecho",
+      "url": "https://www.latercera.com/tendencias/noticia/uruguay-aprobo-su-ley-de-eutanasia-quienes-podran-acogerse-a-este-derecho/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 16 Oct 2025 13:48:17 +0000",
+      "summary": "El país se convirtió en el primero de América Latina en legalizar la eutanasia por vía legislativa, bajo estrictas condiciones de enfermedad incurable y sufrimiento extremo."
+    },
+    {
+      "title": "La familia de Diane Keaton reveló la causa de muerte de la querida actriz de Hollywood",
+      "url": "https://www.latercera.com/tendencias/noticia/la-familia-de-diane-keaton-revelo-la-causa-de-muerte-de-la-querida-actriz-de-hollywood/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 16 Oct 2025 12:18:52 +0000",
+      "summary": "Los seres queridos de Diane Keaton confirmaron la causa de muerte de la actriz, tras varios días de silencio. A sus 79 años, el ícono de Hollywood dejó un legado imborrable en el cine y en la vida de quienes la rodearon."
+    },
+    {
+      "title": "Análisis de la ROG Xbox Ally X en Chile: precio, características y reseña",
+      "url": "https://www.latercera.com/tendencias/noticia/analisis-de-la-rog-xbox-ally-x-en-chile-precio-caracteristicas-y-resena/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 16 Oct 2025 11:39:04 +0000",
+      "summary": "Probamos la nueva consola portátil de Asus y Xbox, disponible desde hoy en Chile. Su potencia, batería y ergonomía la convierten en un interesante handheld capaz de acceder a varias librerías de juegos. ¿Vale la pena su precio?"
+    },
+    {
       "title": "Nuevas consolas portátiles ROG Xbox Ally X y ROG Xbox Ally ya están disponibles en Chile",
       "url": "https://www.latercera.com/tendencias/noticia/nuevas-consolas-portatiles-rog-xbox-ally-x-y-rog-xbox-ally-ya-estan-disponibles-en-chile/",
       "source": "La Tercera Tecnología",
@@ -19,28 +43,12 @@
       "summary": "El youtuber Ibai Llanos llega a Chile. En la publicación donde anunció la visita, recibió invitaciones de autoridades, celebridades y marcas. ¿Cuál será el panorama del famoso español?"
     },
     {
-      "title": "Quién es Ibai Llanos, el streamer español que conquistó Internet y que visitará Chile por primera vez",
-      "url": "https://www.latercera.com/tendencias/noticia/quien-es-ibai-llanos-el-streamer-espanol-que-conquisto-internet-y-que-visitara-chile-por-primera-vez/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 16 Oct 2025 09:02:00 +0000",
-      "summary": "El creador de contenido confirmó que llegará al país en noviembre y fue invitado por el Presidente Gabriel Boric a desayunar una marraqueta con palta."
-    },
-    {
-      "title": "Por qué a Donald Trump le interesa apoyar a Javier Milei y Argentina",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-a-donald-trump-le-interesa-apoyar-a-javier-milei-y-argentina/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 16 Oct 2025 09:01:00 +0000",
-      "summary": "El presidente estadounidense no solo ofreció un inédito salvataje financiero a tierras trasandinas, sino también un respaldo político al mandatario argentino de cara a las elecciones legislativas."
-    },
-    {
-      "title": "Apple presenta su nuevo chip M5: disponible para MacBook Pro, iPad Pro y Apple Vision Pro",
-      "url": "https://www.latercera.com/tendencias/noticia/apple-presenta-su-nuevo-chip-m5-disponible-para-macbook-pro-ipad-pro-y-apple-vision-pro/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 15 Oct 2025 23:28:29 +0000",
-      "summary": "La firma estadounidense afianza su ecosistema preparando el camino en la era de la IA."
+      "title": "América Latina acelera en inteligencia artificial más de lo esperado, pero enfrenta deficiencias críticas | Noticias ONU - news.un.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wbEFHT2pKSzFlNng2MVg3aDVqYW9DLXg1Vm9iUzRlY2lKYmJzR1ZnQjJ3STNtNy03TDQ2Z2NScTRVdk5wREFWNUF4RU1hVFgzV0QyaDNYSQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wbEFHT2pKSzFlNng2MVg3aDVqYW9DLXg1Vm9iUzRlY2lKYmJzR1ZnQjJ3STNtNy03TDQ2Z2NScTRVdk5wREFWNUF4RU1hVFgzV0QyaDNYSQ?oc=5\" target=\"_blank\">América Latina acelera en inteligencia artificial más de lo esperado, pero enfrenta deficiencias críticas | N"
     },
     {
       "title": "Selección Colombia vs. Argentina: inteligencia artificial hace su pronóstico y da el marcador final de la semifinal del Mundial Sub-20 de Chile - ELTIEMPO.COM",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWpmT1E3WkE3Nm4zVGhJeldxdVkxd09qOVVnNzFUU3lLekJibDZyandQOTdPX0E5QXV5X2xZbmdPeGc0Qk9yRG5ySzlVV2cxYWo2VFduZlZOclltTFdiZE5ySWppcFhmcE8xaF92UXJ2dEtVUjk2emdYOHhwMmhCWExnWEVkeU5lSTJLN0k2Nk92aGwzRVdkUlotN0VhUVVaak5XenN2OE1ZRDlTdU1nSlNR?oc=5\" tar"
     },
     {
-      "title": "América Latina acelera en inteligencia artificial más de lo esperado, pero enfrenta deficiencias críticas | Noticias ONU - news.un.org",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wbEFHT2pKSzFlNng2MVg3aDVqYW9DLXg1Vm9iUzRlY2lKYmJzR1ZnQjJ3STNtNy03TDQ2Z2NScTRVdk5wREFWNUF4RU1hVFgzV0QyaDNYSQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 03 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wbEFHT2pKSzFlNng2MVg3aDVqYW9DLXg1Vm9iUzRlY2lKYmJzR1ZnQjJ3STNtNy03TDQ2Z2NScTRVdk5wREFWNUF4RU1hVFgzV0QyaDNYSQ?oc=5\" target=\"_blank\">América Latina acelera en inteligencia artificial más de lo esperado, pero enfrenta deficiencias críticas | N"
-    },
-    {
       "title": "Santiago Íñiguez (IE University): “Debemos volver a las humanidades para aprender a trabajar con la IA” - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnBJYm1BOUlwVGRQY0I3YnpSamdidDVLcjlvSFdZdU1ZSVotd1FObk9SenF2Z3pINTNyZjdwWUlVMF81bllnNVRNUDB5YVZ6Mko3THloWWxadnI4QWtKUmNZcExYTGNpd2tuVm9feUx4UzJScTROUms0aDZmT3FISGRrQWtWV2ZOWGM3dGdDUjN4ank0SE9CNnY4ZGpyYU4zb0xOa2FCa0hBTU4xU05aZFZFWmswUXE0WElkVWlveFJCTWNnSjlzQUFZSElxVTZiQ3RoOGU4STBjVUgwdklvQWxOX2VQUjBL0gH8AUFVX3lxTE5HTlQ4UWpOUlg2djI4VkpQNl9ac2lrX0tRWE95MFZFT0dYaXZzeElJR3RRZ0hobDVBMlF0d053VDY3T21aR3dPUW9CazBfajdseTFwNHo3b05pcFoydFlVOXV5MWJJR1laTXNQNG1GeV9GeGYxVEhRcVZQZ3A0TGpKamdyY3NXM29zTzBBZEo3RTZlRTdNc3JONWhfSk5PdWxDTzRIQzN5eTlRRm13U19pcGxJdzRyTFVRdm9kamZERGdhLWltSjJyWFU4N2IySHFQZFlNWU5HSGdiNnE1Z0U3Sml5aFFFX1lEZWUtdk11MGtMZWo1US1WWVRDMA?oc=5",
       "source": "Google News",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnBJYm1BOUlwVGRQY0I3YnpSamdidDVLcjlvSFdZdU1ZSVotd1FObk9SenF2Z3pINTNyZjdwWUlVMF81bllnNVRNUDB5YVZ6Mko3THloWWxadnI4QWtKUmNZcExYTGNpd2tuVm9feUx4UzJScTROUms0aDZmT3FISGRrQWtWV2ZOWGM3dGdDUjN4ank0SE9CNnY4ZGpyYU4zb0xOa2FCa0hBTU4xU05aZFZFWmswUXE0WE"
     },
     {
-      "title": "El arzobispo de Santiago monseñor Francisco Prieto presidió la reunión del Comité Organizador Iglesia – empresarios, del seminario “Ética e IA. ¿la IA cambia o transforma a la persona?” que se celebrará los días 6 y 7 de noviembre próximo en el seminario - archicompostela.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNcmctc2JuajZNTzVodnZnVDl0MFpvOWp3V3lPdmI1TEstVlRwNS03QlRmdEYzMXlla1pFdndVaktXUGp6ckZReDBUTmFSOFJTRDVtMzdtZjRsNEhnLVZ6aFVnRTlkX01XTG56YnpOVGpVSjZGb2ZBX3VaYklVQnhabXJUS1BHdHdTVDBwOHlZWkozMDFrTmVUS0FNLWVHSllDaVU5YWFjeFB1cDBRTjFtNTU1RVRNbndJSW9UejdjZVE4RTg5VE5DS1lOSDBCaEI5eTlBcm54d3VhZzJQNHlvV0dYX1gtd3NCR3V6M2pPdk1PM09XN0pGckZDYlF1a0lpOUc2THUtM05MZkZNaDc4dkluU0RhQmVfUnpkcC05MEJZUU1wUDA1WmhR?oc=5",
+      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 15 Oct 2025 14:02:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxNcmctc2JuajZNTzVodnZnVDl0MFpvOWp3V3lPdmI1TEstVlRwNS03QlRmdEYzMXlla1pFdndVaktXUGp6ckZReDBUTmFSOFJTRDVtMzdtZjRsNEhnLVZ6aFVnRTlkX01XTG56YnpOVGpVSjZGb2ZBX3VaYklVQnhabXJUS1BHdHdTVDBwOHlZWkozMDFrTmVUS0FNLWVHSllDaVU5YWFjeFB1cDBRTjFtNTU1RVRNbndJSW"
+      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
       "title": "Iglesia y empresarios reflexionarán en Santiago sobre ética e Inteligencia Artificial - El Correo Gallego",
@@ -89,6 +89,14 @@
       "category": "news",
       "published": "Thu, 16 Oct 2025 10:07:11 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNX19xU1B0OEJkTXY5dTlkUG9fV3NwQ0RHWkFYbkFvR0hOR01Ddm1aUUNpTzZuYW5CWDhCbTNPWVRTZ2dWUWhkVFZZc193enRoVVBzdFJ6S2Y4SVhVY2RQcDR0R21SY29mMWYzOVBBM0M0SGpWU1pETHBrYjhxZEphbUNQdkFRUk1RR0UyOTJSNDZiTHhuMnNqaXJvdnZQOGJ2NXQxUVJkTEhob2hkakJ5Szhyem7SAboBQV"
+    },
+    {
+      "title": "Destacado en prensa: Chile se la juega en Dubái con 12 startups tecnológicas que buscan conquistar Medio Oriente - prochile.gob.cl",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUUxBSkU2SEd6UUFjclNNVjFQMzBPWjR4MEpaYUxERDN2UTk0dS1nYXNfa0JLZVpsYng4RHZyVXoxZHJjYVBjd0NKQW9MelpVbHdINWI2UWJSVEZVN0tpSFF5XzZWNnZoVXBfWmJPdTR0V3J0WUlhVVpQVDVqb3FTM1A1dUw4eVdQWEJiWWVuY05RTFYzc2FYMEE3OWpjNmtaQjZ1LVJFNUtlZXhPMF80Y3lZOEJVSGRobTdHWllPdTRqcFNjZ1pRNXc3YUhuY2hybUo0Uzl3MV91aVg5aEtvckVyNkdsU0RuQXFLT1ExVGZ3b3FmNU9ucnJGTW56NlZsSGo0YjVlTGwwc0dZMEV4Y2V5NjE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 16 Oct 2025 13:04:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQUUxBSkU2SEd6UUFjclNNVjFQMzBPWjR4MEpaYUxERDN2UTk0dS1nYXNfa0JLZVpsYng4RHZyVXoxZHJjYVBjd0NKQW9MelpVbHdINWI2UWJSVEZVN0tpSFF5XzZWNnZoVXBfWmJPdTR0V3J0WUlhVVpQVDVqb3FTM1A1dUw4eVdQWEJiWWVuY05RTFYzc2FYMEE3OWpjNmtaQjZ1LVJFNUtlZXhPMF80Y3lZOEJVSGRobT"
     },
     {
       "title": "12 startups chilenas buscan conquistar el mercado tecnológico de Dubái - El Ecosistema Startup",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Wed, 15 Oct 2025 20:41:27 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbmFad1hIbUdrVi11U2Q0UkxZYjdHeS1VOXNxSWhYQW9PQ1BBbHh2ZGJqSW1jY1BmM19paU5XamItYWU3UTcyLVdpNnNnQjJjNDRLUWtwbE1RZ1hzZ0ktV1dUZERhSXpob2hEbXRoS0M4YjhqemxXVDdYeXNDM0RXemlvUTJud21Oc0s5SEpLeTZLb3oxTlA5cUlmbzctVWNWYkZ1amxXODNaLWJSTzhQdUJZZkJsRmRTMj"
-    },
-    {
-      "title": "Cuatro startups competirán por representar a Chile en los Global eAwards 2025 que se realizarán en Perú - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHhaeHRQWVFVTWdESVV0QnFUdHoyQVFiSWphQ2VqSy04Q0xsQWdyQzJEMUJTeGZQOU5SMHRWVWFodDlsT0s0WUc3ZUZlUFlBWW9RR3ZoSnVBTWYwdkh2aHk5YjRKb2JOTl8zX1FfR3I1TnNkanVVd2JIbTFhWE1tV0ZYVldlOUFneEVWTFNNNVlGX1djQzZEMDIyRkc5bHZCSWRwRlVsd202cnBLN0JHSUpaWFZPTm5nMHhYU3JjLVdreWhhb2hn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 10 Oct 2025 09:02:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHhaeHRQWVFVTWdESVV0QnFUdHoyQVFiSWphQ2VqSy04Q0xsQWdyQzJEMUJTeGZQOU5SMHRWVWFodDlsT0s0WUc3ZUZlUFlBWW9RR3ZoSnVBTWYwdkh2aHk5YjRKb2JOTl8zX1FfR3I1TnNkanVVd2JIbTFhWE1tV0ZYVldlOUFneEVWTFNNNVlGX1djQzZEMDIyRkc5bHZCSWRwRlVsd202cnBLN0JHSUpaWFZPTm5nMH"
     }
   ],
   "count": 14

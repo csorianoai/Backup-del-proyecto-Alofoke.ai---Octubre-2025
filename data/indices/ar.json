@@ -2,6 +2,147 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Fallece Tomonobu Itagaki, el creador de Ninja Gaiden y Dead or Alive",
+      "subtitle": "El influyente diseñador de videojuegos dejó un legado imborrable a los 58 años.",
+      "slug": "fallece-tomonobu-itagaki-el-creador-de-ninja-gaiden-y-dead-o",
+      "url": "/ar/2025/10/16/fallece-tomonobu-itagaki-el-creador-de-ninja-gaiden-y-dead-o",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "videojuegos",
+        "Tomonobu Itagaki",
+        "Ninja Gaiden",
+        "Dead or Alive"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Cómo detectar si alguien está espiando tu WhatsApp",
+      "subtitle": "Consejos prácticos para proteger tu privacidad en la aplicación de mensajería más utilizada en Argentina.",
+      "slug": "como-detectar-si-alguien-esta-espiando-tu-whatsapp",
+      "url": "/ar/2025/10/16/como-detectar-si-alguien-esta-espiando-tu-whatsapp",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "WhatsApp",
+        "Ciberseguridad",
+        "Privacidad"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Streaming gratis: seis apps alternativas y legales para ver series y películas en Argentina",
+      "subtitle": "Opciones accesibles para disfrutar del cine y la televisión sin costo",
+      "slug": "streaming-gratis-seis-apps-alternativas-y-legales-para-ver-s",
+      "url": "/ar/2025/10/16/streaming-gratis-seis-apps-alternativas-y-legales-para-ver-s",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "streaming",
+        "entretenimiento",
+        "Argentina"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Vibe Coding: La Nueva Técnica de Programación Recomendada por Meta",
+      "subtitle": "Facilita el Aprendizaje de la Programación en Argentina",
+      "slug": "vibe-coding-la-nueva-tecnica-de-programacion-recomendada-por",
+      "url": "/ar/2025/10/16/vibe-coding-la-nueva-tecnica-de-programacion-recomendada-por",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "programación",
+        "tecnología",
+        "Meta",
+        "Vibe Coding"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Sora: La nueva app de OpenAI que revoluciona la creación de videos",
+      "subtitle": "Cómo utilizar Sora y precauciones a tener en cuenta",
+      "slug": "sora-la-nueva-app-de-openai-que-revoluciona-la-creacion-de-v",
+      "url": "/ar/2025/10/16/sora-la-nueva-app-de-openai-que-revoluciona-la-creacion-de-v",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "creación de contenido"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "WeWork: La inteligencia artificial redefine la colaboración en la oficina",
+      "subtitle": "Un nuevo enfoque hacia el trabajo colaborativo en espacios compartidos",
+      "slug": "wework-la-inteligencia-artificial-redefine-la-colaboracion-e",
+      "url": "/ar/2025/10/16/wework-la-inteligencia-artificial-redefine-la-colaboracion-e",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "colaboración",
+        "espacios de trabajo",
+        "WeWork",
+        "Argentina"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Pronóstico de la semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "La inteligencia artificial predice el desenlace del esperado encuentro",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/ar/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Pronóstico"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Mundial Sub-20: Predicciones de Inteligencia Artificial en el Encuentro Argentina vs. Colombia",
+      "subtitle": "Análisis del impacto y riesgos de la inteligencia artificial en el deporte",
+      "slug": "mundial-sub-20-predicciones-de-inteligencia-artificial-en-el",
+      "url": "/ar/2025/10/16/mundial-sub-20-predicciones-de-inteligencia-artificial-en-el",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Fútbol",
+        "Mundial Sub-20",
+        "Argentina",
+        "Colombia"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Tendencias Tecnológicas en LATAM: Oportunidades y Desafíos",
+      "subtitle": "Análisis de las últimas tendencias en tecnología y su impacto en la región.",
+      "slug": "tendencias-tecnologicas-en-latam-oportunidades-y-desafios",
+      "url": "/ar/2025/10/16/tendencias-tecnologicas-en-latam-oportunidades-y-desafios",
+      "date": "2025-10-16T14:29:36.556720",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "ar"
+    },
+    {
       "title": "Cómo detectar si alguien está espiando tu WhatsApp",
       "subtitle": "Consejos prácticos para proteger tu privacidad en la mensajería instantánea",
       "slug": "como-detectar-si-alguien-esta-espiando-tu-whatsapp",
@@ -142,5 +283,5 @@
       "country": "ar"
     }
   ],
-  "updated_at": "2025-10-16T11:23:10.607245"
+  "updated_at": "2025-10-16T14:29:36.575884"
 }
