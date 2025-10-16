@@ -12,6 +12,7 @@ import { PE } from 'country-flag-icons/react/3x2';
 import { PA } from 'country-flag-icons/react/3x2';
 import { CL } from 'country-flag-icons/react/3x2';
 import { UY } from 'country-flag-icons/react/3x2';
+import CountrySelector from "@/components/CountrySelector";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -99,46 +100,9 @@ const Header = () => {
 
         {isMenuOpen && (
           <nav className="lg:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
-            <Link to="/latam" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <Globe className="w-4 h-4" />
-              <span>LATAM</span>
-            </Link>
-            <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <DO className="w-5 h-3" />
-              <span>República Dominicana</span>
-            </Link>
-            <Link to="/pais/co" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <CO className="w-5 h-3" />
-              <span>Colombia</span>
-            </Link>
-            <Link to="/pais/mx" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <MX className="w-5 h-3" />
-              <span>México</span>
-            </Link>
-            <Link to="/pais/ar" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <AR className="w-5 h-3" />
-              <span>Argentina</span>
-            </Link>
-            <Link to="/pais/es" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <ES className="w-5 h-3" />
-              <span>España</span>
-            </Link>
-            <Link to="/pais/pe" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <PE className="w-5 h-3" />
-              <span>Perú</span>
-            </Link>
-            <Link to="/pais/pa" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <PA className="w-5 h-3" />
-              <span>Panamá</span>
-            </Link>
-            <Link to="/pais/cl" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <CL className="w-5 h-3" />
-              <span>Chile</span>
-            </Link>
-            <Link to="/pais/uy" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <UY className="w-5 h-3" />
-              <span>Uruguay</span>
-            </Link>
+            <div className="mb-3">
+              <CountrySelector />
+            </div>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>

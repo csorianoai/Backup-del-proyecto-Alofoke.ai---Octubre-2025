@@ -68,7 +68,7 @@ const CountrySelector = ({ currentCountry }: CountrySelectorProps) => {
 
   return (
     <Select value={selectedCountry} onValueChange={handleCountryChange}>
-      <SelectTrigger className="w-[200px]">
+      <SelectTrigger className="w-full md:w-[200px]">
         <SelectValue />
       </SelectTrigger>
       <SelectContent>
