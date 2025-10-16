@@ -48,10 +48,27 @@ const CountryFeed = () => {
         const modules = import.meta.glob('/data/indices/*.json');
         const path = `/data/indices/${country}.json`;
         const loader = modules[path as keyof typeof modules];
-        if (!loader) throw new Error('Índice del país no encontrado');
-        const mod: any = await (loader as any)();
-        const data = mod.default || mod;
-        setArticles(data.articles || []);
+        let data: any | null = null;
+        if (loader) {
+          try {
+            const mod: any = await (loader as any)();
+            data = mod.default || mod;
+          } catch (e) {
+            console.warn('Country index import failed, will fetch', e);
+          }
+        }
+        if (!data) {
+          const base = import.meta.env.BASE_URL || '/';
+          const basePath = base.endsWith('/') ? base : `${base}/`;
+          const resp = await fetch(`${basePath}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
+          if (!resp.ok) throw new Error('Índice del país no encontrado');
+          data = await resp.json();
+        }
+        const allArticles = data.articles || [];
+        const uniqueArticles = allArticles.filter((a: ArticleIndex, i: number, self: ArticleIndex[]) =>
+          i === self.findIndex(b => b.slug === a.slug)
+        );
+        setArticles(uniqueArticles);
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Error desconocido');
         console.error('Error loading articles:', err);
