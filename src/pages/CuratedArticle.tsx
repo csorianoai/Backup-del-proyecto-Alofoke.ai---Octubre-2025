@@ -65,8 +65,9 @@ const CuratedArticle = () => {
         setLoading(true);
         setError(null);
         
+        const base = import.meta.env.BASE_URL || '/';
         const response = await fetch(
-          `/data/articles/${country}/${year}/${month}/${day}/${slug}.md?v=${Date.now()}`,
+          `${base}data/articles/${country}/${year}/${month}/${day}/${slug}.md?v=${Date.now()}`,
           { cache: 'no-store' }
         );
         

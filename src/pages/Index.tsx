@@ -26,7 +26,8 @@ const Index = () => {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch(`/data/indices/global.json?v=${Date.now()}`, { cache: 'no-store' })
+    const base = import.meta.env.BASE_URL || '/';
+    fetch(`${base}data/indices/global.json?v=${Date.now()}`, { cache: 'no-store' })
       .then(res => res.json())
       .then(data => {
         setArticles(data.articles || []);

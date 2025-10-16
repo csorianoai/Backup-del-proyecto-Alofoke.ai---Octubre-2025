@@ -45,7 +45,8 @@ const CountryFeed = () => {
         setLoading(true);
         setError(null);
         
-        const response = await fetch(`/data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
+        const base = import.meta.env.BASE_URL || '/';
+        const response = await fetch(`${base}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
         
         if (!response.ok) {
           throw new Error("No se pudieron cargar los artículos");
