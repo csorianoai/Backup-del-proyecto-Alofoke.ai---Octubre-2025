@@ -491,7 +491,7 @@ const CuratedArticle = () => {
           </article>
 
           {/* Related Articles */}
-          {false && relatedArticles.length > 0 && (
+          {relatedArticles.length > 0 && (
             <div className="max-w-6xl mx-auto mt-16 mb-8">
               <h2 className="text-2xl font-bold mb-6">Más artículos de {article.country.toUpperCase()}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
