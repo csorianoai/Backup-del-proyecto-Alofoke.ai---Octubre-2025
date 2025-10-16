@@ -8,7 +8,7 @@ import json
 import os
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlencode
 import feedparser
 import requests
 
@@ -52,9 +52,9 @@ def fetch_google_news(queries):
             clean_query = query.strip().replace('\n', ' ').replace('\r', '').replace('\t', ' ')
             # Remove multiple spaces
             clean_query = ' '.join(clean_query.split())
-            # URL encode
-            encoded_query = quote_plus(clean_query)
-            url = f"{base_url}?q={encoded_query}&hl=es&gl=CO&ceid=CO:es"
+            # URL encode safely using urlencode to avoid any space/control character issues
+            params = {"q": clean_query, "hl": "es", "gl": "CO", "ceid": "CO:es"}
+            url = f"{base_url}?{urlencode(params)}"
             
             print(f"  → Fetching: {clean_query[:50]}...")
             parsed = feedparser.parse(url)
