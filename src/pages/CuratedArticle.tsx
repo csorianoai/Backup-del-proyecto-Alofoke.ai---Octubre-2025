@@ -182,14 +182,37 @@ const CuratedArticle = () => {
           const indexPath = `/data/indices/${country}.json`;
           const indexLoader = modules[indexPath as keyof typeof modules];
           if (indexLoader) {
-            const mod: any = await indexLoader();
-            const data = mod.default || mod;
-            const allArticles = data.articles || [];
-            // Filter out current article and limit to 6
-            const related = allArticles
-              .filter((a: RelatedArticle) => a.slug !== slug)
-              .slice(0, 6);
-            setRelatedArticles(related);
+            try {
+              const mod: any = await indexLoader();
+              const data = mod.default || mod;
+              const allArticles = data.articles || [];
+              const related = allArticles
+                .filter((a: RelatedArticle) => a.slug !== slug)
+                .slice(0, 6);
+              console.debug('Related via import', related.length);
+              setRelatedArticles(related);
+              if (related.length > 0) return; // good, no need to fetch
+            } catch (e) {
+              console.warn('Index import failed, falling back to fetch', e);
+            }
+          }
+          // Fallback to network fetch if dynamic import missing or empty
+          try {
+            const base = import.meta.env.BASE_URL || '/';
+            const resp = await fetch(`${base}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
+            if (resp.ok) {
+              const data = await resp.json();
+              const allArticles = data.articles || [];
+              const related = allArticles
+                .filter((a: RelatedArticle) => a.slug !== slug)
+                .slice(0, 6);
+              console.debug('Related via fetch', related.length);
+              setRelatedArticles(related);
+            } else {
+              console.warn('Related index fetch not ok', resp.status);
+            }
+          } catch (e) {
+            console.error('Related index fetch error', e);
           }
         } catch (err) {
           console.error('Error loading related articles:', err);
