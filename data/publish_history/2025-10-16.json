@@ -1,14 +1,42 @@
 {
   "date": "2025-10-16",
-  "published_at": "2025-10-16T10:53:01.719493",
-  "total_articles": 17,
+  "published_at": "2025-10-16T11:23:10.635676",
+  "total_articles": 79,
   "countries_updated": [
+    {
+      "country": "cl",
+      "count": 9
+    },
+    {
+      "country": "pa",
+      "count": 9
+    },
+    {
+      "country": "pe",
+      "count": 8
+    },
+    {
+      "country": "ar",
+      "count": 9
+    },
     {
       "country": "do",
       "count": 8
     },
     {
       "country": "co",
+      "count": 9
+    },
+    {
+      "country": "es",
+      "count": 9
+    },
+    {
+      "country": "mx",
+      "count": 9
+    },
+    {
+      "country": "uy",
       "count": 9
     }
   ]

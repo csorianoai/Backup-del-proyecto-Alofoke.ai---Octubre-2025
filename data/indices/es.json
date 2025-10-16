@@ -1,0 +1,146 @@
+{
+  "country": "es",
+  "articles": [
+    {
+      "title": "El Supremo mantiene en libertad a Koldo García tras negarse a declarar",
+      "subtitle": "Decisión del Tribunal Supremo en un caso de gran relevancia política",
+      "slug": "el-supremo-mantiene-en-libertad-a-koldo-garcia-tras-negarse-",
+      "url": "/es/2025/10/16/el-supremo-mantiene-en-libertad-a-koldo-garcia-tras-negarse-",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "corrupción",
+        "política"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Sánchez comparecerá en el Senado por el 'caso Koldo'",
+      "subtitle": "El presidente del Gobierno se presentará ante la comisión el 30 de octubre.",
+      "slug": "sanchez-comparecera-en-el-senado-por-el-caso-koldo",
+      "url": "/es/2025/10/16/sanchez-comparecera-en-el-senado-por-el-caso-koldo",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "política",
+        "corrupción",
+        "Sánchez",
+        "Senado"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Feijóo reorienta su estrategia ante la amenaza de Vox",
+      "subtitle": "El líder del PP enfoca su discurso hacia la economía para ganar apoyo interno",
+      "slug": "feijoo-reorienta-su-estrategia-ante-la-amenaza-de-vox",
+      "url": "/es/2025/10/16/feijoo-reorienta-su-estrategia-ante-la-amenaza-de-vox",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Política",
+        "Economía",
+        "PP",
+        "Vox"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Juan del Val se alza con el Premio Planeta 2025",
+      "subtitle": "El polemista y escritor español sorprende con su obra ganadora",
+      "slug": "juan-del-val-se-alza-con-el-premio-planeta-2025",
+      "url": "/es/2025/10/16/juan-del-val-se-alza-con-el-premio-planeta-2025",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Premio Planeta",
+        "Juan del Val",
+        "literatura española"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Los momentos más polémicos de Juan del Val en televisión",
+      "subtitle": "Desde un mensaje de Pedro Sánchez hasta su relación abierta",
+      "slug": "los-momentos-mas-polemicos-de-juan-del-val-en-television",
+      "url": "/es/2025/10/16/los-momentos-mas-polemicos-de-juan-del-val-en-television",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Juan del Val",
+        "televisión",
+        "polémica",
+        "relaciones abiertas",
+        "Pedro Sánchez"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "El papel de la inteligencia artificial en el marketing y la comunicación empresarial",
+      "subtitle": "Cómo las empresas en España están adoptando herramientas de IA para mejorar su competitividad",
+      "slug": "el-papel-de-la-inteligencia-artificial-en-el-marketing-y-la-",
+      "url": "/es/2025/10/16/el-papel-de-la-inteligencia-artificial-en-el-marketing-y-la-",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "marketing",
+        "comunicación",
+        "España"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "España como referente de la inteligencia artificial responsable",
+      "subtitle": "Un análisis de la evolución y el futuro de la IA en el país",
+      "slug": "espana-como-referente-de-la-inteligencia-artificial-responsa",
+      "url": "/es/2025/10/16/espana-como-referente-de-la-inteligencia-artificial-responsa",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "España",
+        "tecnología responsable",
+        "innovación"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "España contará con una segunda factoría de inteligencia artificial en Galicia",
+      "subtitle": "Un hito en el desarrollo tecnológico y la innovación en el país",
+      "slug": "espana-contara-con-una-segunda-factoria-de-inteligencia-arti",
+      "url": "/es/2025/10/16/espana-contara-con-una-segunda-factoria-de-inteligencia-arti",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "Galicia",
+        "tecnología",
+        "innovación"
+      ],
+      "country": "es"
+    },
+    {
+      "title": "Tendencias Políticas y Económicas en LATAM",
+      "subtitle": "Análisis de la actualidad política y económica en los próximos meses",
+      "slug": "tendencias-politicas-y-economicas-en-latam",
+      "url": "/es/2025/10/16/tendencias-politicas-y-economicas-en-latam",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "es"
+    }
+  ],
+  "updated_at": "2025-10-16T11:23:10.622589"
+}

@@ -1,22 +1,20 @@
 ---
 country: co
-date: '2025-10-16T10:53:01.712398'
+date: '2025-10-16T11:23:10.592995'
 human_verified: false
 low_confidence: false
 slug: oracle-marca-el-rumbo-de-la-nueva-era-empresarial-impulsada-
 sources:
-- https://www.oracletimes.com/colombia-ia-2023
-- https://www.mintic.gov.co/portal/604/w3-article-138934.html
-subtitle: Transformación digital y oportunidades de crecimiento en Colombia
+- https://www.oracle.com/co/news/2023/ai-innovation.html
+- https://www.portafolio.co/tecnologia/oracle-y-la-transformacion-digital-en-colombia-2023-563000
+subtitle: Transformación digital en el sector empresarial colombiano
 tags:
-- Oracle
 - Inteligencia Artificial
 - Transformación Digital
-- Colombia
 tier: silver
 title: Oracle marca el rumbo de la nueva era empresarial impulsada por la IA
 type: news_brief
 value_score: 0.75
 ---
 
-<p>Oracle ha lanzado una serie de herramientas basadas en inteligencia artificial (IA) que prometen revolucionar la forma en que las empresas operan y toman decisiones. Estas innovaciones están diseñadas para optimizar procesos, mejorar la experiencia del cliente y aumentar la eficiencia operativa, posicionando a las empresas en un camino hacia la transformación digital.</p><p>En Colombia, donde el 70% de las empresas aún no han adoptado tecnologías avanzadas, la llegada de estas soluciones de Oracle es crucial. Según el Ministerio de Tecnologías de la Información y las Comunicaciones, el país busca incrementar la adopción de la IA en un 50% para 2025. La implementación de estas herramientas podría no solo mejorar la competitividad de las empresas colombianas, sino también contrarrestar el rezago tecnológico en comparación con otros países de la región, como Chile y México, que han avanzado más en la digitalización.</p>
+<p>Oracle ha anunciado una serie de innovaciones en inteligencia artificial (IA) que prometen revolucionar la forma en que las empresas operan a nivel global. Estas herramientas están diseñadas para optimizar procesos, mejorar la toma de decisiones y potenciar la experiencia del cliente. La compañía busca liderar la transformación digital en un mundo cada vez más dependiente de la tecnología.</p><p>En Colombia, la adopción de la IA es crucial para el crecimiento económico y la competitividad. Con un mercado tecnológico en expansión, se estima que el sector de TI podría contribuir con más de 3.000 millones de dólares al PIB nacional en los próximos años. A diferencia de otros países de la región, donde la implementación de IA aún enfrenta barreras, Colombia se posiciona como un líder emergente, capaz de atraer inversiones y fomentar la innovación en diversas industrias.</p>

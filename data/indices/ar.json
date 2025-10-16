@@ -1,0 +1,146 @@
+{
+  "country": "ar",
+  "articles": [
+    {
+      "title": "Cómo detectar si alguien está espiando tu WhatsApp",
+      "subtitle": "Consejos prácticos para proteger tu privacidad en la mensajería instantánea",
+      "slug": "como-detectar-si-alguien-esta-espiando-tu-whatsapp",
+      "url": "/ar/2025/10/16/como-detectar-si-alguien-esta-espiando-tu-whatsapp",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "WhatsApp",
+        "seguridad",
+        "privacidad"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Streaming gratis: seis apps alternativas y legales para mirar series y películas sin pagar suscripción",
+      "subtitle": "Opciones accesibles para el entretenimiento en Argentina",
+      "slug": "streaming-gratis-seis-apps-alternativas-y-legales-para-mirar",
+      "url": "/ar/2025/10/16/streaming-gratis-seis-apps-alternativas-y-legales-para-mirar",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "streaming",
+        "entretenimiento",
+        "Argentina"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Vibe Coding: La Nueva Técnica de Programación Recomendada por Meta",
+      "subtitle": "Más Fácil de Aprender y Accesible para Todos",
+      "slug": "vibe-coding-la-nueva-tecnica-de-programacion-recomendada-por",
+      "url": "/ar/2025/10/16/vibe-coding-la-nueva-tecnica-de-programacion-recomendada-por",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "programación",
+        "tecnología",
+        "Meta",
+        "Argentina"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Sora: La nueva app de OpenAI que revoluciona la creación de videos",
+      "subtitle": "Descubre cómo usar Sora y qué precauciones tener en cuenta",
+      "slug": "sora-la-nueva-app-de-openai-que-revoluciona-la-creacion-de-v",
+      "url": "/ar/2025/10/16/sora-la-nueva-app-de-openai-que-revoluciona-la-creacion-de-v",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Sora",
+        "OpenAI",
+        "Inteligencia Artificial",
+        "Videos"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Cibercriminales amenazan con filtrar datos del Ministerio de Salud",
+      "subtitle": "Un grupo de hackers exige un rescate para no publicar información sensible",
+      "slug": "cibercriminales-amenazan-con-filtrar-datos-del-ministerio-de",
+      "url": "/ar/2025/10/16/cibercriminales-amenazan-con-filtrar-datos-del-ministerio-de",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "ciberseguridad",
+        "hackers"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Pronóstico de la Semifinal del Mundial Sub-20: Colombia vs. Argentina",
+      "subtitle": "Análisis de la inteligencia artificial sobre el enfrentamiento entre Colombia y Argentina",
+      "slug": "pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "url": "/ar/2025/10/16/pronostico-de-la-semifinal-del-mundial-sub-20-colombia-vs-ar",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Mundial Sub-20",
+        "Colombia",
+        "Argentina",
+        "Inteligencia Artificial",
+        "Fútbol"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Predicciones de Inteligencia Artificial en el Mundial Sub-20: Argentina vs. Colombia",
+      "subtitle": "Cómo la IA está transformando el análisis deportivo y sus implicaciones en el fútbol juvenil",
+      "slug": "predicciones-de-inteligencia-artificial-en-el-mundial-sub-20",
+      "url": "/ar/2025/10/16/predicciones-de-inteligencia-artificial-en-el-mundial-sub-20",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Fútbol Sub-20",
+        "Argentina",
+        "Colombia",
+        "Predicciones Deportivas"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "OpenAI y su Proyecto en Argentina: Un Nuevo Horizonte Tecnológico",
+      "subtitle": "Impacto y desafíos de la inteligencia artificial en el país",
+      "slug": "openai-y-su-proyecto-en-argentina-un-nuevo-horizonte-tecnolo",
+      "url": "/ar/2025/10/16/openai-y-su-proyecto-en-argentina-un-nuevo-horizonte-tecnolo",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "OpenAI",
+        "Inteligencia Artificial",
+        "Argentina",
+        "Tecnología"
+      ],
+      "country": "ar"
+    },
+    {
+      "title": "Tendencias Tecnológicas en LATAM: Oportunidades y Perspectivas",
+      "subtitle": "Innovaciones que marcan el rumbo de la tecnología en la región",
+      "slug": "tendencias-tecnologicas-en-latam-oportunidades-y-perspectiva",
+      "url": "/ar/2025/10/16/tendencias-tecnologicas-en-latam-oportunidades-y-perspectiva",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "ar"
+    }
+  ],
+  "updated_at": "2025-10-16T11:23:10.607245"
+}

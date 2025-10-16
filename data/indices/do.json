@@ -3,6 +3,133 @@
   "articles": [
     {
       "title": "Santo Domingo acoge la Tercera Cumbre sobre la Ética de la IA en ALC",
+      "subtitle": "Un encuentro clave para el futuro de la inteligencia artificial en América Latina y el Caribe",
+      "slug": "santo-domingo-acoge-la-tercera-cumbre-sobre-la-etica-de-la-i",
+      "url": "/do/2025/10/16/santo-domingo-acoge-la-tercera-cumbre-sobre-la-etica-de-la-i",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "ética",
+        "República Dominicana",
+        "cumbre"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "ITLA se convierte en pionero en formación de Inteligencia Artificial",
+      "subtitle": "Alianza entre el Gobierno y NVIDIA impulsa la educación tecnológica en el país",
+      "slug": "itla-se-convierte-en-pionero-en-formacion-de-inteligencia-ar",
+      "url": "/do/2025/10/16/itla-se-convierte-en-pionero-en-formacion-de-inteligencia-ar",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Inteligencia Artificial",
+        "Educación",
+        "Tecnología",
+        "República Dominicana"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "América Latina acelera en inteligencia artificial más de lo esperado",
+      "subtitle": "República Dominicana se enfrenta a desafíos críticos en el desarrollo tecnológico",
+      "slug": "america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "url": "/do/2025/10/16/america-latina-acelera-en-inteligencia-artificial-mas-de-lo-",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "inteligencia artificial",
+        "República Dominicana",
+        "tecnología"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Nuevo cuestionario de la FAO sobre Indicadores de Ciencia y Tecnología Agrícola",
+      "subtitle": "Impulsando la innovación en el sector agrícola dominicano",
+      "slug": "nuevo-cuestionario-de-la-fao-sobre-indicadores-de-ciencia-y-",
+      "url": "/do/2025/10/16/nuevo-cuestionario-de-la-fao-sobre-indicadores-de-ciencia-y-",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "FAO",
+        "Agricultura",
+        "Ciencia y Tecnología"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Oaxaca ilumina su patrimonio con tecnología de vanguardia",
+      "subtitle": "Innovaciones tecnológicas destacan la riqueza cultural de Oaxaca",
+      "slug": "oaxaca-ilumina-su-patrimonio-con-tecnologia-de-vanguardia",
+      "url": "/do/2025/10/16/oaxaca-ilumina-su-patrimonio-con-tecnologia-de-vanguardia",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Oaxaca",
+        "patrimonio cultural",
+        "tecnología",
+        "turismo"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Programa 'Innovadores Digitales' del MAP: Impulsando el Talento Tecnológico en República Dominicana",
+      "subtitle": "Una iniciativa para captar jóvenes en el sector tecnológico",
+      "slug": "programa-innovadores-digitales-del-map-impulsando-el-talento",
+      "url": "/do/2025/10/16/programa-innovadores-digitales-del-map-impulsando-el-talento",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "innovación",
+        "tecnología",
+        "juventud",
+        "administración pública"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Meta adquiere PlayAI: Un paso estratégico en la carrera por la inteligencia artificial",
+      "subtitle": "La compra de la startup PlayAI por parte de Meta marca un hito en la competencia por la IA en la región.",
+      "slug": "meta-adquiere-playai-un-paso-estrategico-en-la-carrera-por-l",
+      "url": "/do/2025/10/16/meta-adquiere-playai-un-paso-estrategico-en-la-carrera-por-l",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Meta",
+        "PlayAI",
+        "Inteligencia Artificial",
+        "Tecnología",
+        "República Dominicana"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Rocket: La incubadora que promete transformar el emprendimiento joven en RD",
+      "subtitle": "Impulsando la innovación y el desarrollo empresarial en la República Dominicana",
+      "slug": "rocket-la-incubadora-que-promete-transformar-el-emprendimien",
+      "url": "/do/2025/10/16/rocket-la-incubadora-que-promete-transformar-el-emprendimien",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "emprendimiento",
+        "incubadora",
+        "jóvenes",
+        "República Dominicana"
+      ],
+      "country": "do"
+    },
+    {
+      "title": "Santo Domingo acoge la Tercera Cumbre sobre la Ética de la IA en ALC",
       "subtitle": "Un encuentro clave para el futuro de la inteligencia artificial en la región",
       "slug": "santo-domingo-acoge-la-tercera-cumbre-sobre-la-etica-de-la-i",
       "url": "/do/2025/10/16/santo-domingo-acoge-la-tercera-cumbre-sobre-la-etica-de-la-i",
@@ -127,5 +254,5 @@
       "country": "do"
     }
   ],
-  "updated_at": "2025-10-16T10:53:01.715378"
+  "updated_at": "2025-10-16T11:23:10.611086"
 }

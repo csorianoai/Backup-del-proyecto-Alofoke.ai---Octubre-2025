@@ -1,0 +1,149 @@
+{
+  "country": "mx",
+  "articles": [
+    {
+      "title": "YouTube sufre caída masiva en México",
+      "subtitle": "Usuarios reportan problemas de acceso en todo el país",
+      "slug": "youtube-sufre-caida-masiva-en-mexico",
+      "url": "/mx/2025/10/16/youtube-sufre-caida-masiva-en-mexico",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "YouTube",
+        "caída",
+        "México",
+        "tecnología"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Conectividad para el Bienestar: Caídas y Controversias en la Política de SIM Gratuitas",
+      "subtitle": "Análisis de la situación actual de la conectividad en México",
+      "slug": "conectividad-para-el-bienestar-caidas-y-controversias-en-la-",
+      "url": "/mx/2025/10/16/conectividad-para-el-bienestar-caidas-y-controversias-en-la-",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "conectividad",
+        "SIM gratuitas",
+        "México",
+        "brecha digital"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Instagram implementará clasificaciones de contenido similares a las del cine",
+      "subtitle": "La plataforma busca filtrar publicaciones para mejorar la experiencia del usuario.",
+      "slug": "instagram-implementara-clasificaciones-de-contenido-similare",
+      "url": "/mx/2025/10/16/instagram-implementara-clasificaciones-de-contenido-similare",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Instagram",
+        "Clasificaciones",
+        "Contenido",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "OpenAI planea alcanzar ingresos de 1 billón de dólares en 5 años",
+      "subtitle": "La compañía busca expandir su influencia y servicios a nivel global",
+      "slug": "openai-planea-alcanzar-ingresos-de-1-billon-de-dolares-en-5-",
+      "url": "/mx/2025/10/16/openai-planea-alcanzar-ingresos-de-1-billon-de-dolares-en-5-",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "OpenAI",
+        "Inteligencia Artificial",
+        "Economía"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Salesforce anuncia inversión de 1,000 millones de dólares en México",
+      "subtitle": "Impulso a la transformación digital en el país",
+      "slug": "salesforce-anuncia-inversion-de-1-000-millones-de-dolares-en",
+      "url": "/mx/2025/10/16/salesforce-anuncia-inversion-de-1-000-millones-de-dolares-en",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "news_brief",
+      "tier": "silver",
+      "tags": [
+        "Salesforce",
+        "inversión",
+        "tecnología",
+        "México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "La Inteligencia Artificial como Aliada de las Marcas en México",
+      "subtitle": "Patricio Shilton de UM México destaca la importancia de la IA en el marketing",
+      "slug": "la-inteligencia-artificial-como-aliada-de-las-marcas-en-mexi",
+      "url": "/mx/2025/10/16/la-inteligencia-artificial-como-aliada-de-las-marcas-en-mexi",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "Marketing",
+        "México",
+        "Patricio Shilton",
+        "UM México"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México",
+      "subtitle": "Un análisis de la situación actual y los desafíos futuros en el ámbito de la IA en México",
+      "slug": "reporte-de-evaluacion-del-estadio-de-preparacion-de-intelige",
+      "url": "/mx/2025/10/16/reporte-de-evaluacion-del-estadio-de-preparacion-de-intelige",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "inteligencia artificial",
+        "UNESCO",
+        "México",
+        "tecnología",
+        "políticas públicas"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Índice Latinoamericano de Inteligencia Artificial 2025: Posición de México",
+      "subtitle": "Análisis del lugar de México en el contexto de la IA en América Latina",
+      "slug": "indice-latinoamericano-de-inteligencia-artificial-2025-posic",
+      "url": "/mx/2025/10/16/indice-latinoamericano-de-inteligencia-artificial-2025-posic",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "explainer",
+      "tier": "gold",
+      "tags": [
+        "Inteligencia Artificial",
+        "México",
+        "Tecnología",
+        "Desarrollo"
+      ],
+      "country": "mx"
+    },
+    {
+      "title": "Nuevas tendencias en tecnología y redes sociales en LATAM",
+      "subtitle": "Impacto de las plataformas digitales en la región",
+      "slug": "nuevas-tendencias-en-tecnologia-y-redes-sociales-en-latam",
+      "url": "/mx/2025/10/16/nuevas-tendencias-en-tecnologia-y-redes-sociales-en-latam",
+      "date": "2025-10-16T11:23:10.592995",
+      "type": "trend_radar",
+      "tier": "gold",
+      "tags": [
+        "trends",
+        "latam"
+      ],
+      "country": "mx"
+    }
+  ],
+  "updated_at": "2025-10-16T11:23:10.628907"
+}

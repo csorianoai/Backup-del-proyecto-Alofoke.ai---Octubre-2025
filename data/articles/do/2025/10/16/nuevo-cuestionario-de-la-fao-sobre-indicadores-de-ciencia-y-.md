@@ -1,6 +1,6 @@
 ---
 country: do
-date: '2025-10-16T10:53:01.712398'
+date: '2025-10-16T11:23:10.592995'
 human_verified: false
 low_confidence: false
 slug: nuevo-cuestionario-de-la-fao-sobre-indicadores-de-ciencia-y-
@@ -9,13 +9,13 @@ sources:
 - https://www.gob.do
 subtitle: Impulsando la innovación en el sector agrícola dominicano
 tags:
-- Agricultura
 - FAO
+- Agricultura
 - Ciencia y Tecnología
 tier: silver
-title: Nuevo Cuestionario de la FAO sobre Indicadores de Ciencia y Tecnología Agrícola
+title: Nuevo cuestionario de la FAO sobre Indicadores de Ciencia y Tecnología Agrícola
 type: news_brief
 value_score: 0.75
 ---
 
-<p>La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) ha lanzado un nuevo cuestionario sobre los Indicadores de Ciencia y Tecnología Agrícola (ASTI) en Santo Domingo, República Dominicana. Este cuestionario busca recopilar datos sobre las capacidades y recursos en investigación agrícola, así como sobre el uso de tecnologías en el sector.</p><p>Este cuestionario es crucial para la República Dominicana, donde la agricultura representa aproximadamente el 8% del PIB y emplea a una gran parte de la población rural. Mejorar los indicadores de ciencia y tecnología agrícola puede aumentar la productividad y sostenibilidad del sector, especialmente en un contexto donde la región enfrenta desafíos como el cambio climático y la inseguridad alimentaria. Comparado con otros países de la región, el país tiene la oportunidad de fortalecer su infraestructura agrícola mediante la innovación y la inversión en investigación.</p>
+<p>La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) ha lanzado un nuevo cuestionario destinado a recopilar datos sobre los Indicadores de Ciencia y Tecnología Agrícola (ASTI) en República Dominicana. Este esfuerzo busca evaluar el estado actual de la investigación y la innovación en el sector agrícola del país, promoviendo un enfoque basado en evidencia para la toma de decisiones.</p><p>Este cuestionario es crucial para República Dominicana, un país donde la agricultura representa aproximadamente el 10% del PIB y emplea a una gran parte de la población. La recopilación de estos datos permitirá identificar áreas de mejora y fomentar la inversión en investigación agrícola, algo vital en un contexto donde la región enfrenta desafíos como el cambio climático y la seguridad alimentaria. Además, al contrastar estos indicadores con otros países de la región, se podrá establecer un marco de referencia para impulsar políticas más efectivas y sostenibles.</p>
