@@ -43,8 +43,15 @@ const Article = () => {
         const altKey = Object.keys(modules).find((k) => k.endsWith(suffix));
         if (altKey) loader = modules[altKey as keyof typeof modules];
       }
-      if (!loader) return null;
-      const content: string = await loader();
+      let content: string;
+      if (!loader) {
+        const base = import.meta.env.BASE_URL || '/';
+        const resp = await fetch(`${base}data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md?v=${Date.now()}`, { cache: 'no-store' });
+        if (!resp.ok) return null;
+        content = await resp.text();
+      } else {
+        content = await loader();
+      }
       const lines = content.split('\n');
       let fmStart = -1;
       let fmEnd = -1;
