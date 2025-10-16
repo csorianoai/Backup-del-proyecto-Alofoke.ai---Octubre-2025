@@ -81,8 +81,8 @@ const CuratedArticle = () => {
         setLoading(true);
         setError(null);
         
-        const modules = import.meta.glob('../../data/articles/**/*.md', { as: 'raw' });
-        const key = `../../data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
+        const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
+        const key = `/data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
         console.debug('CuratedArticle lookup', { key, sampleKeys: Object.keys(modules).slice(0, 5) });
         const loader = modules[key as keyof typeof modules];
         if (!loader) {

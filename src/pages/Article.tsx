@@ -35,8 +35,8 @@ const Article = () => {
       if (parts.length < 5) return null;
       const [country, year, month, day, ...rest] = parts;
       const articleSlug = rest.join('/');
-      const articlePath = `../../data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
-      const modules = import.meta.glob('../../data/articles/**/*.md', { as: 'raw' });
+      const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
+      const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
       console.debug('Article tryMarkdown lookup', { articlePath, sampleKeys: Object.keys(modules).slice(0, 5) });
       const loader = modules[articlePath as keyof typeof modules];
       if (!loader) return null;
