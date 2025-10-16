@@ -1,15 +1,15 @@
 {
   "date": "2025-10-16",
-  "published_at": "2025-10-16T10:14:20.904012",
-  "total_articles": 0,
+  "published_at": "2025-10-16T10:53:01.719493",
+  "total_articles": 17,
   "countries_updated": [
     {
       "country": "do",
-      "count": 0
+      "count": 8
     },
     {
       "country": "co",
-      "count": 0
+      "count": 9
     }
   ]
 }
