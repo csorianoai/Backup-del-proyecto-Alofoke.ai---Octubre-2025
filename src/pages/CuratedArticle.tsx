@@ -66,7 +66,8 @@ const CuratedArticle = () => {
         setError(null);
         
         const response = await fetch(
-          `/data/articles/${country}/${year}/${month}/${day}/${slug}.md`
+          `/data/articles/${country}/${year}/${month}/${day}/${slug}.md?v=${Date.now()}`,
+          { cache: 'no-store' }
         );
         
         if (!response.ok) {

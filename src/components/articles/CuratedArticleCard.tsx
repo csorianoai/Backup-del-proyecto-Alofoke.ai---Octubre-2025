@@ -81,7 +81,7 @@ const CuratedArticleCard = ({
   const navigate = useNavigate();
 
   return (
-    <Link to={url}>
+    <div role="link" tabIndex={0} onClick={() => navigate(url)} onKeyDown={(e) => { if (e.key === 'Enter') navigate(url); }}>
       <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
         <CardHeader>
           <div className="flex items-start justify-between gap-2 mb-2">
@@ -95,7 +95,7 @@ const CuratedArticleCard = ({
             </div>
             <button
               type="button"
-              onClick={(e) => { e.stopPropagation(); navigate(`/pais/${country}`); }}
+              onClick={(e) => { e.stopPropagation(); navigate(country === 'latam' ? '/latam' : `/pais/${country}`); }}
               aria-label={`Ver ${country.toUpperCase()}`}
               className="shrink-0"
             >
@@ -148,7 +148,7 @@ const CuratedArticleCard = ({
           </div>
         </CardFooter>
       </Card>
-    </Link>
+    </div>
   );
 };
 

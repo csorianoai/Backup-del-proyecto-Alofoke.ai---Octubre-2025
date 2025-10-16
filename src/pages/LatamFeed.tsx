@@ -110,7 +110,7 @@ const LatamFeed = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {articles.map((article) => (
                 <CuratedArticleCard
-                  key={article.slug}
+                  key={`${article.country}-${article.slug}`}
                   title={article.title}
                   subtitle={article.subtitle}
                   country={article.country}

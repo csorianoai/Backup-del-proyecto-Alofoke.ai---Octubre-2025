@@ -46,6 +46,15 @@ const CountrySelector = ({ currentCountry }: CountrySelectorProps) => {
     }
   }, [currentCountry]);
 
+  // Keep selector in sync with the route-provided country
+  useEffect(() => {
+    if (currentCountry) {
+      setSelectedCountry(currentCountry);
+    } else if (!currentCountry && !localStorage.getItem("preferred_country")) {
+      setSelectedCountry("latam");
+    }
+  }, [currentCountry]);
+
   const handleCountryChange = (value: string) => {
     setSelectedCountry(value);
     localStorage.setItem("preferred_country", value);
