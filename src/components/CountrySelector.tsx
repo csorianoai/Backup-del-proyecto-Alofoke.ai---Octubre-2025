@@ -33,9 +33,10 @@ const COUNTRIES = [
 
 interface CountrySelectorProps {
   currentCountry?: string;
+  onSelect?: () => void;
 }
 
-const CountrySelector = ({ currentCountry }: CountrySelectorProps) => {
+const CountrySelector = ({ currentCountry, onSelect }: CountrySelectorProps) => {
   const navigate = useNavigate();
   const [selectedCountry, setSelectedCountry] = useState(currentCountry || "latam");
 
@@ -64,6 +65,9 @@ const CountrySelector = ({ currentCountry }: CountrySelectorProps) => {
     } else {
       navigate(`/pais/${value}`);
     }
+    
+    // Close mobile menu if callback provided
+    onSelect?.();
   };
 
   return (

@@ -101,7 +101,7 @@ const Header = () => {
         {isMenuOpen && (
           <nav className="lg:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
             <div className="mb-3">
-              <CountrySelector />
+              <CountrySelector onSelect={() => setIsMenuOpen(false)} />
             </div>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
