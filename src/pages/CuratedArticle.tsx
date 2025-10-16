@@ -80,27 +80,65 @@ const CuratedArticle = () => {
         
         // Parse YAML frontmatter
         const metadata: any = {};
-        frontmatter.split("\n").forEach((line) => {
-          const match = line.match(/^(\w+):\s*(.+)$/);
+        const lines = frontmatter.split("\n");
+        let currentKey: string | null = null;
+        let currentArray: string[] = [];
+        
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i];
+          
+          // Check if line is an array item (starts with -)
+          if (line.match(/^\s*-\s+(.+)$/)) {
+            const arrayItem = line.match(/^\s*-\s+(.+)$/)?.[1] || "";
+            currentArray.push(arrayItem);
+            continue;
+          }
+          
+          // If we were building an array and hit a new key, save it
+          if (currentKey && currentArray.length > 0) {
+            metadata[currentKey] = currentArray;
+            currentArray = [];
+            currentKey = null;
+          }
+          
+          // Check if line is a key:value pair
+          const match = line.match(/^(\w+):\s*(.*)$/);
           if (match) {
             const key = match[1];
             let value: any = match[2];
             
-            // Parse arrays
+            // If value is empty, it might be a YAML array coming next
+            if (!value || value.trim() === "") {
+              currentKey = key;
+              continue;
+            }
+            
+            // Parse arrays in JSON format
             if (value.startsWith("[") && value.endsWith("]")) {
               value = JSON.parse(value);
             }
             // Parse booleans
             else if (value === "true") value = true;
             else if (value === "false") value = false;
+            // Parse numbers
+            else if (!isNaN(Number(value)) && value !== "") {
+              value = Number(value);
+            }
             // Remove quotes from strings
-            else if (value.startsWith('"') && value.endsWith('"')) {
+            else if ((value.startsWith('"') && value.endsWith('"')) ||
+                     (value.startsWith("'") && value.endsWith("'"))) {
               value = value.slice(1, -1);
             }
             
             metadata[key] = value;
+            currentKey = null;
           }
-        });
+        }
+        
+        // Handle last array if any
+        if (currentKey && currentArray.length > 0) {
+          metadata[currentKey] = currentArray;
+        }
         
         setArticle({
           ...metadata,
