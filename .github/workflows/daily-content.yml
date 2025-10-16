@@ -2,9 +2,9 @@ name: Daily Content Pipeline
 
 on:
   schedule:
-    - cron: "0 14 * * *"  # 10am ET
-    - cron: "0 18 * * *"  # 2pm ET
-    - cron: "0 22 * * *"  # 6pm ET
+    - cron: "0 14 * * *"
+    - cron: "0 18 * * *"
+    - cron: "0 22 * * *"
   workflow_dispatch: {}
 
 jobs:
@@ -14,60 +14,45 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Clear proxy environment
+      - name: Install Python dependencies
         run: |
-          unset HTTP_PROXY HTTPS_PROXY ALL_PROXY NO_PROXY || true
-
-      - name: Install dependencies (locked)
-        shell: bash
-        run: |
+          pip cache purge
           python -m pip install --upgrade pip
-          pip uninstall -y openai httpx || true
-          pip install --force-reinstall --no-deps openai==1.51.0
-          pip install --force-reinstall --no-deps httpx==0.27.2
-          # 🔹 Se agregó typing_extensions explícitamente
-          pip install typing_extensions==4.12.2
-          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
+          pip install pydantic==2.5.0
+          pip install httpx==0.27.2
+          pip install openai==1.51.0
+          pip install feedparser==6.0.11 requests==2.31.0 markdown==3.5.1 python-frontmatter==1.1.0 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
 
-      - name: Verify versions
+      - name: Verify installation
         run: |
-          echo "=== pip versions ==="
-          pip show openai
-          pip show httpx
-          echo "=== Python versions ==="
-          python -c "import openai, httpx; print('openai:', openai.__version__); print('httpx:', httpx.__version__)"
-          head -30 scripts/compose.py
+          python -c "import pydantic; print('✓ Pydantic:', pydantic.__version__)"
+          python -c "import openai; print('✓ OpenAI:', openai.__version__)"
+          python -c "import httpx; print('✓ Httpx:', httpx.__version__)"
 
       - name: Ingest sources
         env:
           PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
           USE_PPLX: "0"
-        run: |
-          python scripts/ingest.py --countries do co --target 14
+        run: python scripts/ingest.py --countries do co --target 14
 
       - name: Compose articles
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
+        run: python scripts/compose.py --mix "brief=5,explainer=3,trend=1"
 
       - name: Quality check
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python scripts/quality.py --threshold 0.80
+        run: python scripts/quality.py --threshold 0.80
 
       - name: Publish articles
-        run: |
-          python scripts/publish.py
+        run: python scripts/publish.py
 
       - name: Commit and push
         run: |
