@@ -1,0 +1,16 @@
+{
+  "country": "pa",
+  "feeds": [
+    {
+      "name": "La Prensa Panamá",
+      "url": "https://www.prensa.com/rss/tecnologia.xml",
+      "category": "tech"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial Panamá",
+    "tecnología Panamá",
+    "IA startups Panamá",
+    "innovación digital Ciudad de Panamá"
+  ]
+}

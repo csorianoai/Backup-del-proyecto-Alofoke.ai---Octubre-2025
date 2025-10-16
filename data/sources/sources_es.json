@@ -1,0 +1,21 @@
+{
+  "country": "es",
+  "feeds": [
+    {
+      "name": "El País Tecnología",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "category": "tech"
+    },
+    {
+      "name": "Cinco Días Tecnología",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.com/portada",
+      "category": "business"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial España",
+    "IA Madrid Barcelona",
+    "tecnologia startups España",
+    "innovación digital España"
+  ]
+}

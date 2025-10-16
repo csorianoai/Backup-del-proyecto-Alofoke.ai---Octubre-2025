@@ -1,0 +1,21 @@
+{
+  "country": "cl",
+  "feeds": [
+    {
+      "name": "La Tercera Tecnología",
+      "url": "https://www.latercera.com/arc/outboundfeeds/rss/category/tendencias/?outputType=xml",
+      "category": "tech"
+    },
+    {
+      "name": "El Mercurio Tecnología",
+      "url": "https://www.emol.com/rss/tecnologia.xml",
+      "category": "tech"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial Chile",
+    "IA Santiago",
+    "tecnologia startups Chile",
+    "innovación digital Chile"
+  ]
+}

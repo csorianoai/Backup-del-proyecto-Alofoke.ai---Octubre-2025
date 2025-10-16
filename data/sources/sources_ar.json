@@ -1,10 +1,9 @@
 {
   "country": "ar",
-  "country_name": "Argentina",
   "feeds": [
     {
       "name": "La Nación Tecnología",
-      "url": "https://www.lanacion.com.ar/arcio/rss/tecnologia/",
+      "url": "https://www.lanacion.com.ar/tecnologia/rss",
       "category": "tech"
     },
     {
@@ -15,8 +14,8 @@
   ],
   "google_news_queries": [
     "inteligencia artificial Argentina",
-    "IA startups Buenos Aires",
-    "tecnologia IA Cordoba",
-    "machine learning Argentina empresas"
+    "IA Buenos Aires",
+    "tecnologia startups Argentina",
+    "innovación digital Argentina"
   ]
 }

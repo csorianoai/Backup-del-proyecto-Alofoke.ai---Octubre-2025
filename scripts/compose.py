@@ -24,7 +24,17 @@ client = OpenAI(
     http_client=_http_client
 )
 
-COUNTRY_NAMES = {"do": "República Dominicana", "co": "Colombia", "mx": "México", "ar": "Argentina"}
+COUNTRY_NAMES = {
+    "do": "República Dominicana",
+    "co": "Colombia",
+    "mx": "México",
+    "ar": "Argentina",
+    "es": "España",
+    "pe": "Perú",
+    "pa": "Panamá",
+    "cl": "Chile",
+    "uy": "Uruguay"
+}
 
 PROMPTS = {
     "news_brief": """Editor Alofoke.ai. Tema: {title}, País: {country_name}

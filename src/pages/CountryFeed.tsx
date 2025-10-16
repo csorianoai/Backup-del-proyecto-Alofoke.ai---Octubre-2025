@@ -26,6 +26,11 @@ const COUNTRY_NAMES = {
   co: "Colombia",
   mx: "México",
   ar: "Argentina",
+  es: "España",
+  pe: "Perú",
+  pa: "Panamá",
+  cl: "Chile",
+  uy: "Uruguay",
 };
 
 const CountryFeed = () => {

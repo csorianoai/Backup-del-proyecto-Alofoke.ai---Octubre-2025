@@ -1,0 +1,21 @@
+{
+  "country": "pe",
+  "feeds": [
+    {
+      "name": "El Comercio Tecnología",
+      "url": "https://elcomercio.pe/arcio/rss/categoria/tecnologia/?outputType=xml",
+      "category": "tech"
+    },
+    {
+      "name": "Gestión Tecnología",
+      "url": "https://gestion.pe/arcio/rss/categoria/tecnologia/?outputType=xml",
+      "category": "business"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial Perú",
+    "IA Lima",
+    "tecnologia startups Perú",
+    "innovación digital Perú"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "country": "uy",
+  "feeds": [
+    {
+      "name": "El País Uruguay",
+      "url": "https://www.elpais.com.uy/rss/",
+      "category": "news"
+    }
+  ],
+  "google_news_queries": [
+    "inteligencia artificial Uruguay",
+    "tecnología Montevideo",
+    "IA startups Uruguay",
+    "innovación digital Uruguay"
+  ]
+}
