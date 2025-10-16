@@ -83,6 +83,7 @@ const CuratedArticle = () => {
         
         const slugNorm = (slug || '').replace(/\.+$/, '');
         let markdown: string | null = null;
+        let assetUrl: string | null = null;
         try {
           const absEager = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
           const relEager = import.meta.glob('../../data/articles/**/*.md', { as: 'raw', eager: true });
@@ -97,7 +98,34 @@ const CuratedArticle = () => {
             markdown = modules[matchKey] as string;
           }
         } catch (e) {
-          console.warn('CuratedArticle glob load failed, will fetch', e);
+          console.warn('CuratedArticle raw glob failed', e);
+        }
+
+        // If raw content wasn't bundled, try the asset URL so Vite copies the file and we fetch it
+        if (!markdown) {
+          try {
+            const absUrl = import.meta.glob('/data/articles/**/*.md', { as: 'url', eager: true });
+            const relUrl = import.meta.glob('../../data/articles/**/*.md', { as: 'url', eager: true });
+            const urlModules = { ...absUrl, ...relUrl } as Record<string, string>;
+            const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
+            const keys = Object.keys(urlModules);
+            const matchKey = keys.find((k) => {
+              const norm = k.replace(/\\+/g, '/');
+              return norm.endsWith(suffix) || norm.includes(`data/articles${suffix}`);
+            });
+            if (matchKey) assetUrl = urlModules[matchKey] as string;
+          } catch (e) {
+            console.warn('CuratedArticle url glob failed', e);
+          }
+        }
+
+        if (!markdown && assetUrl) {
+          try {
+            const r = await fetch(assetUrl, { cache: 'no-store' });
+            if (r.ok) {
+              markdown = await r.text();
+            }
+          } catch {}
         }
 
         if (!markdown) {
@@ -210,6 +238,31 @@ const CuratedArticle = () => {
 
         // Load related articles from same country
         try {
+          // Try asset URL first so JSON gets emitted in build
+          try {
+            const urlMods = import.meta.glob('/data/indices/*.json', { as: 'url', eager: true });
+            const keys = Object.keys(urlMods);
+            const match = keys.find(k => k.endsWith(`/${country}.json`) || k.includes(`/data/indices/${country}.json`));
+            if (match) {
+              const resp = await fetch((urlMods as any)[match], { cache: 'no-store' });
+              if (resp.ok) {
+                const data = await resp.json();
+                const allArticles = data.articles || [];
+                const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                  i === self.findIndex(b => b.slug === a.slug)
+                );
+                const related = uniqueBySlug
+                  .filter((a: RelatedArticle) => a.slug !== slug)
+                  .slice(0, 6);
+                console.debug('Related via asset url', related.length);
+                setRelatedArticles(related);
+                if (related.length > 0) return;
+              }
+            }
+          } catch (e) {
+            console.warn('Index url glob failed', e);
+          }
+
           const modules = import.meta.glob('/data/indices/*.json');
           const indexPath = `/data/indices/${country}.json`;
           const indexLoader = modules[indexPath as keyof typeof modules];
