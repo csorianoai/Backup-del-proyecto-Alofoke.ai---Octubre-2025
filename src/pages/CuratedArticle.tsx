@@ -81,24 +81,20 @@ const CuratedArticle = () => {
         setLoading(true);
         setError(null);
         
-        const modules = import.meta.glob('../../data/articles/**/*.md', { as: 'raw' });
-        const key = `../../data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
-        let loader: any = modules[key as keyof typeof modules];
-        if (!loader) {
-          const suffix = `/${country}/${year}/${month}/${day}/${slug}.md`;
-          const altKey = Object.keys(modules).find((k) => k.endsWith(suffix));
-          if (altKey) loader = modules[altKey as keyof typeof modules];
-        }
+        const slugNorm = (slug || '').replace(/\.+$/, '');
+        const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
+        const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
+        const matchKey = Object.keys(modules).find((k) => k.endsWith(suffix));
         let markdown: string;
-        if (!loader) {
-          // Fallback: fetch from public path (works if data/ is served)
+        if (matchKey) {
+          const loader: any = modules[matchKey as keyof typeof modules];
+          markdown = await loader();
+        } else {
           const base = import.meta.env.BASE_URL || '/';
-          const url = `${base}data/articles/${country}/${year}/${month}/${day}/${slug}.md?v=${Date.now()}`;
+          const url = `${base}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
           const resp = await fetch(url, { cache: 'no-store' });
           if (!resp.ok) throw new Error("Artículo no encontrado");
           markdown = await resp.text();
-        } else {
-          markdown = await loader();
         }
         
         

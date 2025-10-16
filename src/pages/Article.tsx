@@ -34,23 +34,20 @@ const Article = () => {
       const parts = slugPath.split('/').filter(Boolean);
       if (parts.length < 5) return null;
       const [country, year, month, day, ...rest] = parts;
-      const articleSlug = rest.join('/');
-      const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
+      const articleSlugRaw = rest.join('/');
+      const articleSlug = articleSlugRaw.replace(/\.+$/, '');
       const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
-      let loader: any = modules[articlePath as keyof typeof modules];
-      if (!loader) {
-        const suffix = `/${country}/${year}/${month}/${day}/${articleSlug}.md`;
-        const altKey = Object.keys(modules).find((k) => k.endsWith(suffix));
-        if (altKey) loader = modules[altKey as keyof typeof modules];
-      }
+      const suffix = `/${country}/${year}/${month}/${day}/${articleSlug}.md`;
+      const matchKey = Object.keys(modules).find((k) => k.endsWith(suffix));
       let content: string;
-      if (!loader) {
+      if (matchKey) {
+        const loader: any = modules[matchKey as keyof typeof modules];
+        content = await loader();
+      } else {
         const base = import.meta.env.BASE_URL || '/';
         const resp = await fetch(`${base}data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md?v=${Date.now()}`, { cache: 'no-store' });
         if (!resp.ok) return null;
         content = await resp.text();
-      } else {
-        content = await loader();
       }
       const lines = content.split('\n');
       let fmStart = -1;
