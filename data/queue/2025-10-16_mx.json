@@ -3,20 +3,28 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Conectividad del Bienestar costó 703 mdp; conectó más a la política que a mexicanos",
+      "url": "https://expansion.mx/tecnologia/2025/10/16/colectividad-del-bienestar-conecto-mas-a-politica-que-mexicanos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 16 Oct 2025 15:58:51 GMT",
+      "summary": "A un año del programa de conectividad, muestra un uso más político que esfuerzos para cerrar la brecha digital, al crecer en periodo electoral y caer dos meses después del inicio de la nueva administración."
+    },
+    {
+      "title": "Meta roba talento a Apple y agrava su crisis interna",
+      "url": "https://expansion.mx/tecnologia/2025/10/16/meta-roba-talento-a-apple-y-agrava-su-crisis-interna",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 16 Oct 2025 15:00:45 GMT",
+      "summary": "Apple enfrenta una fuga de talento clave justo cuando consolida su estrategia de IA. Meta, por su parte, contrató a Ke Yang, líder en el rediseño de Siri."
+    },
+    {
       "title": "YouTube se cae y los reportes se disparan en minutos",
       "url": "https://expansion.mx/tecnologia/2025/10/15/youtube-se-cae-15-octubre",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Thu, 16 Oct 2025 00:07:54 GMT",
       "summary": "La plataforma de videos señaló que ya está al tanto de los reportes, pero no mencionó qué ocasionó la falla."
-    },
-    {
-      "title": "Conectividad para el Bienestar con caídas y política detrás de las SIM gratuitas",
-      "url": "https://expansion.mx/tecnologia/2025/10/15/plan-tarjetas-sim-gratuitas-no-cerro-brecha-digital",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 16 Oct 2025 00:00:51 GMT",
-      "summary": "A un año del programa de conectividad, muestra un uso más político que esfuerzos para cerrar la brecha digital, al crecer en periodo electoral y caer dos meses después del inicio de la nueva administración."
     },
     {
       "title": "Instagram filtrará contenido con clasificaciones como las del cine",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 15 Oct 2025 20:20:12 GMT",
       "summary": "El dueño de ChatGPT desea multiplicar por 77 veces sus ingresos en solo un lustro debido al éxito que vive la empresa tecnológica."
-    },
-    {
-      "title": "Así usará Salesforce la inversión de 1,000 mdd en México",
-      "url": "https://expansion.mx/tecnologia/2025/10/15/por-que-salesforce-eligio-mexico-para-invertir",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 15 Oct 2025 20:00:01 GMT",
-      "summary": "Fortalecerá su Global Delivery Center para atender a los clientes de la empresa en todas las Américas y alcanzar los 2,000 empleados son algunas de las metas inmediatas."
     },
     {
       "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",

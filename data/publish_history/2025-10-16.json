@@ -1,43 +1,43 @@
 {
   "date": "2025-10-16",
-  "published_at": "2025-10-16T14:29:36.611758",
-  "total_articles": 80,
+  "published_at": "2025-10-16T18:33:25.163757",
+  "total_articles": 0,
   "countries_updated": [
     {
-      "country": "cl",
-      "count": 9
-    },
-    {
-      "country": "pa",
-      "count": 9
-    },
-    {
-      "country": "pe",
-      "count": 8
-    },
-    {
-      "country": "ar",
-      "count": 9
-    },
-    {
-      "country": "do",
-      "count": 9
+      "country": "uy",
+      "count": 0
     },
     {
       "country": "co",
-      "count": 9
+      "count": 0
+    },
+    {
+      "country": "pe",
+      "count": 0
+    },
+    {
+      "country": "cl",
+      "count": 0
+    },
+    {
+      "country": "pa",
+      "count": 0
     },
     {
       "country": "es",
-      "count": 9
+      "count": 0
+    },
+    {
+      "country": "do",
+      "count": 0
     },
     {
       "country": "mx",
-      "count": 9
+      "count": 0
     },
     {
-      "country": "uy",
-      "count": 9
+      "country": "ar",
+      "count": 0
     }
   ]
 }
