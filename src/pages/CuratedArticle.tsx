@@ -65,14 +65,15 @@ const CuratedArticle = () => {
         setLoading(true);
         setError(null);
         
-        // Load from bundled markdown using Vite glob
-        const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
-        const key = `/data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
-        const loader = modules[key as keyof typeof modules];
-        if (!loader) {
+        const base = import.meta.env.BASE_URL || '/';
+        const response = await fetch(
+          `${base}data/articles/${country}/${year}/${month}/${day}/${slug}.md?v=${Date.now()}`,
+          { cache: 'no-store' }
+        );
+        if (!response.ok) {
           throw new Error("Artículo no encontrado");
         }
-        const markdown: string = await (loader as any)();
+        const markdown = await response.text();
         
         // Parse frontmatter manually
         const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
