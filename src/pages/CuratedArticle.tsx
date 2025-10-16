@@ -82,16 +82,36 @@ const CuratedArticle = () => {
         setError(null);
         
         const slugNorm = (slug || '').replace(/\.+$/, '');
-        const base = import.meta.env.BASE_URL || '/';
-        const basePath = base.endsWith('/') ? base : `${base}/`;
-        const url = `${basePath}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
-        const resp = await fetch(url, { cache: 'no-store' });
-        if (!resp.ok) throw new Error("Artículo no encontrado");
-        const markdown = await resp.text();
+        let markdown: string | null = null;
+        try {
+          const absEager = import.meta.glob('/data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
+          const relEager = import.meta.glob('../../data/articles/**/*.md', { query: '?raw', import: 'default', eager: true });
+          const modules = { ...absEager, ...relEager } as Record<string, string>;
+          const suffix = `/${country}/${year}/${month}/${day}/${slugNorm}.md`;
+          const keys = Object.keys(modules);
+          const matchKey = keys.find((k) => {
+            const norm = k.replace(/\\+/g, '/');
+            return norm.endsWith(suffix) || norm.includes(`data/articles${suffix}`);
+          });
+          if (matchKey) {
+            markdown = modules[matchKey] as string;
+          }
+        } catch (e) {
+          console.warn('CuratedArticle glob load failed, will fetch', e);
+        }
+
+        if (!markdown) {
+          const base = import.meta.env.BASE_URL || '/';
+          const basePath = base.endsWith('/') ? base : `${base}/`;
+          const url = `${basePath}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
+          const resp = await fetch(url, { cache: 'no-store' });
+          if (!resp.ok) throw new Error("Artículo no encontrado");
+          markdown = await resp.text();
+        }
         
         
         // Parse frontmatter manually
-        const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+        const frontmatterMatch = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
         
         if (!frontmatterMatch) {
           throw new Error("Formato de artículo inválido");
