@@ -31,7 +31,7 @@ const LatamFeed = () => {
         setLoading(true);
         setError(null);
         
-        const response = await fetch(`/data/indices/global.json?v=${Date.now()}`);
+        const response = await fetch(`/data/indices/global.json?v=${Date.now()}`, { cache: 'no-store' });
         
         if (!response.ok) {
           throw new Error("No se pudieron cargar los artículos");
