@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Calendar, Globe } from "lucide-react";
@@ -6,6 +6,11 @@ import { DO } from 'country-flag-icons/react/3x2';
 import { CO } from 'country-flag-icons/react/3x2';
 import { MX } from 'country-flag-icons/react/3x2';
 import { AR } from 'country-flag-icons/react/3x2';
+import { ES } from 'country-flag-icons/react/3x2';
+import { PE } from 'country-flag-icons/react/3x2';
+import { PA } from 'country-flag-icons/react/3x2';
+import { CL } from 'country-flag-icons/react/3x2';
+import { UY } from 'country-flag-icons/react/3x2';
 
 interface CuratedArticleCardProps {
   title: string;
@@ -43,6 +48,11 @@ const COUNTRY_FLAG_COMPONENTS = {
   co: CO,
   mx: MX,
   ar: AR,
+  es: ES,
+  pe: PE,
+  pa: PA,
+  cl: CL,
+  uy: UY,
   latam: Globe,
 };
 
@@ -68,8 +78,10 @@ const CuratedArticleCard = ({
 
   const FlagComponent = COUNTRY_FLAG_COMPONENTS[country as keyof typeof COUNTRY_FLAG_COMPONENTS] || Globe;
 
+  const navigate = useNavigate();
+
   return (
-    <Link to={url}>
+    <div role="link" tabIndex={0} onClick={() => navigate(url)} onKeyDown={(e) => { if (e.key === 'Enter') navigate(url); }}>
       <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
         <CardHeader>
           <div className="flex items-start justify-between gap-2 mb-2">
@@ -81,11 +93,13 @@ const CuratedArticleCard = ({
                 {TIER_ICONS[tier as keyof typeof TIER_ICONS]} {tier.toUpperCase()}
               </Badge>
             </div>
-            {country === "latam" ? (
-              <FlagComponent className="w-5 h-5" />
-            ) : (
-              <FlagComponent className="w-8 h-5" />
-            )}
+            <Link to={`/pais/${country}`} onClick={(e) => e.stopPropagation()} aria-label={`Ver ${country.toUpperCase()}`} className="shrink-0">
+              {country === "latam" ? (
+                <FlagComponent className="w-5 h-5" />
+              ) : (
+                <FlagComponent className="w-8 h-5" />
+              )}
+            </Link>
           </div>
           
           <h3 className="text-lg font-semibold line-clamp-2 group-hover:text-primary transition-colors">
@@ -129,7 +143,7 @@ const CuratedArticleCard = ({
           </div>
         </CardFooter>
       </Card>
-    </Link>
+    </div>
   );
 };
 
