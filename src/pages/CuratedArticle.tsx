@@ -177,7 +177,10 @@ const CuratedArticle = () => {
               const mod: any = await indexLoader();
               const data = mod.default || mod;
               const allArticles = data.articles || [];
-              const related = allArticles
+              const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                i === self.findIndex(b => b.slug === a.slug)
+              );
+              const related = uniqueBySlug
                 .filter((a: RelatedArticle) => a.slug !== slug)
                 .slice(0, 6);
               console.debug('Related via import', related.length);
@@ -195,7 +198,10 @@ const CuratedArticle = () => {
             if (resp.ok) {
               const data = await resp.json();
               const allArticles = data.articles || [];
-              const related = allArticles
+              const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                i === self.findIndex(b => b.slug === a.slug)
+              );
+              const related = uniqueBySlug
                 .filter((a: RelatedArticle) => a.slug !== slug)
                 .slice(0, 6);
               console.debug('Related via fetch', related.length);
@@ -376,7 +382,7 @@ const CuratedArticle = () => {
           </article>
 
           {/* Related Articles */}
-          {relatedArticles.length > 0 && (
+          {false && relatedArticles.length > 0 && (
             <div className="max-w-6xl mx-auto mt-16 mb-8">
               <h2 className="text-2xl font-bold mb-6">Más artículos de {article.country.toUpperCase()}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
