@@ -96,8 +96,7 @@ const CuratedArticle = () => {
         if (matchKey) {
           markdown = modules[matchKey] as string;
         } else {
-          const base = import.meta.env.BASE_URL || '/';
-          const url = `${base}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
+          const url = `/data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
           const resp = await fetch(url, { cache: 'no-store' });
           if (!resp.ok) throw new Error("Artículo no encontrado");
           markdown = await resp.text();
@@ -203,8 +202,7 @@ const CuratedArticle = () => {
           }
           // Fallback to network fetch if dynamic import missing or empty
           try {
-            const base = import.meta.env.BASE_URL || '/';
-            const resp = await fetch(`${base}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
+            const resp = await fetch(`/data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
             if (resp.ok) {
               const data = await resp.json();
               const allArticles = data.articles || [];
