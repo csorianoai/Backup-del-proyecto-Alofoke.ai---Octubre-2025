@@ -83,12 +83,16 @@ const CuratedArticle = () => {
         
         const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
         const key = `/data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
-        console.debug('CuratedArticle lookup', { key, sampleKeys: Object.keys(modules).slice(0, 5) });
-        const loader = modules[key as keyof typeof modules];
+        let loader: any = modules[key as keyof typeof modules];
+        if (!loader) {
+          const suffix = `/${country}/${year}/${month}/${day}/${slug}.md`;
+          const altKey = Object.keys(modules).find((k) => k.endsWith(suffix));
+          if (altKey) loader = modules[altKey as keyof typeof modules];
+        }
         if (!loader) {
           throw new Error("Artículo no encontrado");
         }
-        const markdown: string = await (loader as any)();
+        const markdown: string = await loader();
         
         // Parse frontmatter manually
         const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);

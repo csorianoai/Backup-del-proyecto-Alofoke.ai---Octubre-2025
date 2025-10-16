@@ -37,10 +37,14 @@ const Article = () => {
       const articleSlug = rest.join('/');
       const articlePath = `/data/articles/${country}/${year}/${month}/${day}/${articleSlug}.md`;
       const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
-      console.debug('Article tryMarkdown lookup', { articlePath, sampleKeys: Object.keys(modules).slice(0, 5) });
-      const loader = modules[articlePath as keyof typeof modules];
+      let loader: any = modules[articlePath as keyof typeof modules];
+      if (!loader) {
+        const suffix = `/${country}/${year}/${month}/${day}/${articleSlug}.md`;
+        const altKey = Object.keys(modules).find((k) => k.endsWith(suffix));
+        if (altKey) loader = modules[altKey as keyof typeof modules];
+      }
       if (!loader) return null;
-      const content: string = await (loader as any)();
+      const content: string = await loader();
       const lines = content.split('\n');
       let fmStart = -1;
       let fmEnd = -1;
