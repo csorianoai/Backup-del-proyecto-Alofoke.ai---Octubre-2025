@@ -81,107 +81,26 @@ const CuratedArticle = () => {
         setLoading(true);
         setError(null);
         
-        const parseAndSet = async (markdown: string) => {
-          // Parse frontmatter manually
-          const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
-          if (!frontmatterMatch) throw new Error("Formato de artículo inválido");
-          const frontmatter = frontmatterMatch[1];
-          const body = frontmatterMatch[2];
-          
-          // Parse YAML frontmatter
-          const metadata: any = {};
-          const lines = frontmatter.split("\n");
-          let currentKey: string | null = null;
-          let currentArray: string[] = [];
-          
-          for (let i = 0; i < lines.length; i++) {
-            const line = lines[i];
-            
-            if (line.match(/^\s*-\s+(.+)$/)) {
-              const arrayItem = line.match(/^\s*-\s+(.+)$/)?.[1] || "";
-              currentArray.push(arrayItem);
-              continue;
-            }
-            
-            if (currentKey && currentArray.length > 0) {
-              metadata[currentKey] = currentArray;
-              currentArray = [];
-              currentKey = null;
-            }
-            
-            const match = line.match(/^(\w+):\s*(.*)$/);
-            if (match) {
-              const key = match[1];
-              let value: any = match[2];
-              
-              if (!value || value.trim() === "") {
-                currentKey = key;
-                continue;
-              }
-              
-              if (value.startsWith("[") && value.endsWith("]")) {
-                value = JSON.parse(value);
-              } else if (value === "true") value = true;
-              else if (value === "false") value = false;
-              else if (!isNaN(Number(value)) && value !== "") {
-                value = Number(value);
-              } else if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-                value = value.slice(1, -1);
-              }
-              
-              metadata[key] = value;
-              currentKey = null;
-            }
-          }
-          
-          if (currentKey && currentArray.length > 0) {
-            metadata[currentKey] = currentArray;
-          }
-          
-          setArticle({
-            ...metadata,
-            body_html: body,
-          } as ArticleData);
-          
-          // Load related articles from same country
-          try {
-            const modules = import.meta.glob('/data/indices/*.json');
-            const indexPath = `/data/indices/${country}.json`;
-            const indexLoader = modules[indexPath as keyof typeof modules];
-            if (indexLoader) {
-              const mod: any = await indexLoader();
-              const data = mod.default || mod;
-              const allArticles = data.articles || [];
-              const related = allArticles
-                .filter((a: RelatedArticle) => a.slug !== slug)
-                .slice(0, 6);
-              setRelatedArticles(related);
-            }
-          } catch (err) {
-            console.error('Error loading related articles:', err);
-          }
-        };
-        
-        const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw' });
-        const key = `/data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
+        const modules = import.meta.glob('../../data/articles/**/*.md', { as: 'raw' });
+        const key = `../../data/articles/${country}/${year}/${month}/${day}/${slug}.md`;
         let loader: any = modules[key as keyof typeof modules];
         if (!loader) {
           const suffix = `/${country}/${year}/${month}/${day}/${slug}.md`;
           const altKey = Object.keys(modules).find((k) => k.endsWith(suffix));
           if (altKey) loader = modules[altKey as keyof typeof modules];
         }
+        let markdown: string;
         if (!loader) {
-          // Fallback: fetch from public path
+          // Fallback: fetch from public path (works if data/ is served)
           const base = import.meta.env.BASE_URL || '/';
           const url = `${base}data/articles/${country}/${year}/${month}/${day}/${slug}.md?v=${Date.now()}`;
           const resp = await fetch(url, { cache: 'no-store' });
           if (!resp.ok) throw new Error("Artículo no encontrado");
-          const markdown: string = await resp.text();
-          await parseAndSet(markdown);
-          return;
+          markdown = await resp.text();
+        } else {
+          markdown = await loader();
         }
-        const markdown: string = await loader();
-        await parseAndSet(markdown);
+        
         
         // Parse frontmatter manually
         const frontmatterMatch = markdown.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
