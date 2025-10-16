@@ -1,4 +1,4 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Calendar, Globe } from "lucide-react";
@@ -78,10 +78,8 @@ const CuratedArticleCard = ({
 
   const FlagComponent = COUNTRY_FLAG_COMPONENTS[country as keyof typeof COUNTRY_FLAG_COMPONENTS] || Globe;
 
-  const navigate = useNavigate();
-
   return (
-    <div role="link" tabIndex={0} onClick={() => navigate(url)} onKeyDown={(e) => { if (e.key === 'Enter') navigate(url); }}>
+    <Link to={url} className="block focus:outline-none focus:ring-2 focus:ring-primary rounded-md">
       <Card className="group overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-1 bg-card border-border/50 cursor-pointer">
         <CardHeader>
           <div className="flex items-start justify-between gap-2 mb-2">
@@ -93,18 +91,13 @@ const CuratedArticleCard = ({
                 {TIER_ICONS[tier as keyof typeof TIER_ICONS]} {tier.toUpperCase()}
               </Badge>
             </div>
-            <button
-              type="button"
-              onClick={(e) => { e.stopPropagation(); navigate(country === 'latam' ? '/latam' : `/pais/${country}`); }}
-              aria-label={`Ver ${country.toUpperCase()}`}
-              className="shrink-0"
-            >
+            <span aria-hidden className="shrink-0">
               {country === "latam" ? (
                 <FlagComponent className="w-5 h-5" />
               ) : (
                 <FlagComponent className="w-8 h-5" />
               )}
-            </button>
+            </span>
           </div>
           
           <h3 className="text-lg font-semibold line-clamp-2 group-hover:text-primary transition-colors">
@@ -148,7 +141,7 @@ const CuratedArticleCard = ({
           </div>
         </CardFooter>
       </Card>
-    </div>
+    </Link>
   );
 };
 

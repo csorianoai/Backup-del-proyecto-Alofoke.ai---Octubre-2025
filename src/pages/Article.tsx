@@ -36,11 +36,17 @@ const Article = () => {
       const [country, year, month, day, ...rest] = parts;
       const articleSlugRaw = rest.join('/');
       const articleSlug = articleSlugRaw.replace(/\.+$/, '');
-      const modules = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
+      const absEager = import.meta.glob('/data/articles/**/*.md', { as: 'raw', eager: true });
+      const relEager = import.meta.glob('../../data/articles/**/*.md', { as: 'raw', eager: true });
+      const noSlashEager = import.meta.glob('data/articles/**/*.md', { as: 'raw', eager: true });
+      const modules = { ...absEager, ...relEager, ...noSlashEager } as Record<string, string>;
       const suffix = `/${country}/${year}/${month}/${day}/${articleSlug}.md`;
       const keys = Object.keys(modules);
       console.debug('Article glob keys sample', keys.slice(0, 3));
-      const matchKey = keys.find((k) => k.endsWith(suffix));
+      const matchKey = keys.find((k) => {
+        const norm = k.replace(/\\+/g, '/');
+        return norm.endsWith(suffix) || norm.includes(`data/articles${suffix}`);
+      });
       let content: string;
       if (matchKey) {
         content = modules[matchKey] as string;
