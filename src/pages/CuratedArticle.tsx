@@ -44,6 +44,8 @@ const TYPE_LABELS = {
 const COUNTRY_FLAGS = {
   do: "🇩🇴",
   co: "🇨🇴",
+  mx: "🇲🇽",
+  ar: "🇦🇷",
 };
 
 const CuratedArticle = () => {
