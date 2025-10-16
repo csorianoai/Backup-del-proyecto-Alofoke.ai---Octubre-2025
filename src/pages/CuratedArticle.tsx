@@ -101,12 +101,28 @@ const CuratedArticle = () => {
         }
 
         if (!markdown) {
+          const pathsToTry: string[] = [];
           const base = import.meta.env.BASE_URL || '/';
           const basePath = base.endsWith('/') ? base : `${base}/`;
-          const url = `${basePath}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md?v=${Date.now()}`;
-          const resp = await fetch(url, { cache: 'no-store' });
-          if (!resp.ok) throw new Error("Artículo no encontrado");
-          markdown = await resp.text();
+          const dated = `?v=${Date.now()}`;
+          pathsToTry.push(`${basePath}data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md${dated}`);
+          pathsToTry.push(`/data/articles/${country}/${year}/${month}/${day}/${slugNorm}.md${dated}`);
+
+          let lastErr: any = null;
+          for (const url of pathsToTry) {
+            try {
+              const r = await fetch(url, { cache: 'no-store' });
+              if (r.ok) {
+                markdown = await r.text();
+                break;
+              }
+              lastErr = `HTTP ${r.status}`;
+            } catch (e) {
+              lastErr = e;
+            }
+          }
+
+          if (!markdown) throw new Error(`Artículo no encontrado (intentos: ${pathsToTry.join(' , ')})`);
         }
         
         
@@ -219,20 +235,35 @@ const CuratedArticle = () => {
           try {
             const base = import.meta.env.BASE_URL || '/';
             const basePath = base.endsWith('/') ? base : `${base}/`;
-            const resp = await fetch(`${basePath}data/indices/${country}.json?v=${Date.now()}`, { cache: 'no-store' });
-            if (resp.ok) {
-              const data = await resp.json();
-              const allArticles = data.articles || [];
-              const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
-                i === self.findIndex(b => b.slug === a.slug)
-              );
-              const related = uniqueBySlug
-                .filter((a: RelatedArticle) => a.slug !== slug)
-                .slice(0, 6);
-              console.debug('Related via fetch', related.length);
-              setRelatedArticles(related);
-            } else {
-              console.warn('Related index fetch not ok', resp.status);
+            const dated = `?v=${Date.now()}`;
+            const urls = [
+              `${basePath}data/indices/${country}.json${dated}`,
+              `/data/indices/${country}.json${dated}`,
+            ];
+
+            let fetched = false;
+            for (const u of urls) {
+              try {
+                const resp = await fetch(u, { cache: 'no-store' });
+                if (resp.ok) {
+                  const data = await resp.json();
+                  const allArticles = data.articles || [];
+                  const uniqueBySlug = allArticles.filter((a: RelatedArticle, i: number, self: RelatedArticle[]) =>
+                    i === self.findIndex(b => b.slug === a.slug)
+                  );
+                  const related = uniqueBySlug
+                    .filter((a: RelatedArticle) => a.slug !== slug)
+                    .slice(0, 6);
+                  console.debug('Related via fetch', related.length, 'from', u);
+                  setRelatedArticles(related);
+                  fetched = true;
+                  break;
+                }
+              } catch {}
+            }
+
+            if (!fetched) {
+              console.warn('Related index fetch not ok from all urls', urls);
             }
           } catch (e) {
             console.error('Related index fetch error', e);
