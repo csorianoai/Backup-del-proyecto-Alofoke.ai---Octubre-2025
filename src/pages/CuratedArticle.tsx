@@ -272,10 +272,17 @@ const CuratedArticle = () => {
               
               <p className="text-xl text-muted-foreground mb-4">{article.subtitle}</p>
 
-              <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                <div className="flex items-center gap-1">
-                  <Calendar className="h-4 w-4" />
-                  <span>{formatDate(article.date)}</span>
+              <div className="flex flex-col gap-3 text-sm text-muted-foreground">
+                <div className="flex items-center gap-4">
+                  <div className="flex items-center gap-1">
+                    <Calendar className="h-4 w-4" />
+                    <span>{formatDate(article.date)}</span>
+                  </div>
+                </div>
+                
+                <div className="flex items-center gap-2 text-foreground font-medium">
+                  <span>📝</span>
+                  <span>Director Editorial: César Soriano</span>
                 </div>
               </div>
 
@@ -317,7 +324,12 @@ const CuratedArticle = () => {
             )}
 
             {/* Disclaimers */}
-            <div className="mt-8 space-y-2">
+            <div className="mt-8 p-6 bg-muted/50 rounded-lg space-y-3">
+              <div className="flex items-center gap-2 text-sm">
+                <span className="text-lg">✍️</span>
+                <span className="font-medium">Supervisado por César Soriano, Director Editorial de Alofoke.ai</span>
+              </div>
+              
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <span>🤖</span>
                 <span>Artículo asistido por IA</span>
