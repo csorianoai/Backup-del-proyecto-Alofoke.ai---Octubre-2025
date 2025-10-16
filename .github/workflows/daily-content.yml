@@ -33,7 +33,9 @@ jobs:
           pip uninstall -y openai httpx || true
           pip install --force-reinstall --no-deps openai==1.51.0
           pip install --force-reinstall --no-deps httpx==0.27.2
-          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0 typing_extensions==4.11.0
+          # 🔹 Se agregó typing_extensions explícitamente
+          pip install typing_extensions==4.12.2
+          pip install feedparser==6.0.11 requests==2.31.0 python-frontmatter==1.1.0 markdown==3.5.1 numpy==1.26.3 scikit-learn==1.4.0 python-dotenv==1.0.0
 
       - name: Verify versions
         run: |
