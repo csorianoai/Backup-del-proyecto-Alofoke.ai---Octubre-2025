@@ -31,67 +31,66 @@ const Header = () => {
             </h1>
           </Link>
 
-          <nav className="hidden md:flex items-center gap-6">
-            <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <DO className="w-5 h-3" />
+          <nav className="hidden lg:flex items-center gap-3 text-xs">
+            <Link to="/pais/do" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <DO className="w-4 h-2.5" />
               <span>RD</span>
             </Link>
-            <Link to="/pais/co" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <CO className="w-5 h-3" />
-              <span>Colombia</span>
+            <Link to="/pais/co" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <CO className="w-4 h-2.5" />
+              <span>CO</span>
             </Link>
-            <Link to="/pais/mx" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <MX className="w-5 h-3" />
-              <span>México</span>
+            <Link to="/pais/mx" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <MX className="w-4 h-2.5" />
+              <span>MX</span>
             </Link>
-            <Link to="/pais/ar" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <AR className="w-5 h-3" />
-              <span>Argentina</span>
+            <Link to="/pais/ar" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <AR className="w-4 h-2.5" />
+              <span>AR</span>
             </Link>
-            <Link to="/pais/es" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <ES className="w-5 h-3" />
-              <span>España</span>
+            <Link to="/pais/es" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <ES className="w-4 h-2.5" />
+              <span>ES</span>
             </Link>
-            <Link to="/pais/pe" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <PE className="w-5 h-3" />
-              <span>Perú</span>
+            <Link to="/pais/pe" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <PE className="w-4 h-2.5" />
+              <span>PE</span>
             </Link>
-            <Link to="/pais/pa" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <PA className="w-5 h-3" />
-              <span>Panamá</span>
+            <Link to="/pais/pa" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <PA className="w-4 h-2.5" />
+              <span>PA</span>
             </Link>
-            <Link to="/pais/cl" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <CL className="w-5 h-3" />
-              <span>Chile</span>
+            <Link to="/pais/cl" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <CL className="w-4 h-2.5" />
+              <span>CL</span>
             </Link>
-            <Link to="/pais/uy" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <UY className="w-5 h-3" />
-              <span>Uruguay</span>
+            <Link to="/pais/uy" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <UY className="w-4 h-2.5" />
+              <span>UY</span>
             </Link>
-            <Link to="/latam" className="flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/80 transition-colors rounded-full px-2 py-1 border border-primary/20">
-              <Globe className="w-4 h-4" />
+            <div className="h-4 w-px bg-border mx-1" />
+            <Link to="/latam" className="flex items-center gap-1.5 font-medium text-foreground hover:text-primary transition-colors">
+              <Globe className="w-3.5 h-3.5" />
               <span>LATAM</span>
             </Link>
-            <Link to="/noticias" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
+            <Link to="/noticias" className="font-medium text-foreground hover:text-primary transition-colors">
               Noticias
             </Link>
-            <Link to="/casos-uso" className="text-sm font-medium text-foreground hover:text-primary transition-colors">
-              Casos de Uso
+            <Link to="/casos-uso" className="font-medium text-foreground hover:text-primary transition-colors">
+              Casos
             </Link>
-            <Link to="/buscar" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <Search className="h-4 w-4" />
-              Buscar
+            <Link to="/buscar" className="flex items-center gap-1 font-medium text-foreground hover:text-primary transition-colors">
+              <Search className="h-3.5 w-3.5" />
             </Link>
-            <Link to="/admin" className="flex items-center gap-1 text-sm font-medium text-foreground hover:text-primary transition-colors">
-              <ShieldCheck className="h-4 w-4" />
-              Admin
+            <Link to="/admin" className="flex items-center gap-1 font-medium text-foreground hover:text-primary transition-colors">
+              <ShieldCheck className="h-3.5 w-3.5" />
             </Link>
           </nav>
 
           <Button
             variant="ghost"
             size="icon"
-            className="md:hidden"
+            className="lg:hidden"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
             {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
@@ -99,7 +98,11 @@ const Header = () => {
         </div>
 
         {isMenuOpen && (
-          <nav className="md:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
+          <nav className="lg:hidden py-4 space-y-3 animate-in slide-in-from-top-2">
+            <Link to="/latam" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
+              <Globe className="w-4 h-4" />
+              <span>LATAM</span>
+            </Link>
             <Link to="/pais/do" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <DO className="w-5 h-3" />
               <span>República Dominicana</span>
@@ -135,10 +138,6 @@ const Header = () => {
             <Link to="/pais/uy" className="flex items-center gap-2 text-sm font-medium text-foreground hover:text-primary transition-colors">
               <UY className="w-5 h-3" />
               <span>Uruguay</span>
-            </Link>
-            <Link to="/latam" className="flex items-center gap-2 text-sm font-semibold text-primary hover:text-primary/80 transition-colors rounded-full px-2 py-1 border border-primary/20">
-              <Globe className="w-4 h-4" />
-              <span>LATAM</span>
             </Link>
             <Link to="/noticias" className="block text-sm font-medium text-foreground hover:text-primary transition-colors">
               Noticias
