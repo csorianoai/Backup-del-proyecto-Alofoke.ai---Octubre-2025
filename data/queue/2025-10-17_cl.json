@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Estos son los 7 alimentos que combaten la inflamación",
+      "url": "https://www.latercera.com/tendencias/noticia/estos-son-los-7-alimentos-que-combaten-la-inflamacion/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Oct 2025 19:33:30 +0000",
+      "summary": "Expertos consultados por The New York Times explican cómo verduras, frutas, legumbres y otros alimentos pueden ayudar a reducir la inflamación crónica, un problema ligado a enfermedades como cáncer, diabetes y males cardiovasculares."
+    },
+    {
       "title": "El televisor más grande de Chile se vende por casi $11.000.000",
       "url": "https://www.latercera.com/tendencias/noticia/el-televisor-mas-grande-de-chile-se-vende-por-casi-11000000/",
       "source": "La Tercera Tecnología",
@@ -35,20 +43,20 @@
       "summary": "Un estudio internacional reveló que los cocodrilos que habitan en Cozumel y Banco Chinchorro, en la península de Yucatán, podrían ser consideradas nuevas especies."
     },
     {
-      "title": "Qué se sabe de la reunión que Trump anunció con Putin para discutir sobre la invasión de Rusia en Ucrania",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-la-reunion-que-trump-anuncio-con-putin-para-discutir-sobre-la-invasion-de-rusia-en-ucrania/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Oct 2025 14:12:56 +0000",
-      "summary": "El mandatario calificó la llamada telefónica con su homólogo ruso como “muy productiva”. Anunció que altos funcionarios de ambas partes se reunirán próximamente y que el encuentro entre él y Putin será en Budapest. El primer ministro de Hungría confirmó que los preparativos “están en marcha”."
-    },
-    {
-      "title": "Universidad de Chile impulsa la agenda de inteligencia artificial en MetaRed TIC Chile 2025 - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGhMRXI2Sy1XeTZlLXkzOEFSRWRUTV9KQmF3XzNwRDl3NlJTRmM1X21CeUFxeE1jcklrRWJQd09IdnJ2bVRPN1MtSDlIRzZRUVVSNmtTcVRmNUZOcmxxcmRWdWJFOTVzS3ZHN3puMVIwOG9ISEVuRE1aS1ZwZVlXUWhwQzBPMUlacG9HZ3VFMlUzZUlXR1V3b185Q1Y?oc=5",
+      "title": "Microsoft elige Santiago para lanzar su AI Tour en Latinoamérica y debatir el futuro de la inteligencia artificial - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl9VX3NIZEZCNXV4YUhSaXVtRm1RZUNaNFNLbTR5U0NjSE9rcWs1OXlLTWlrbjlBYXRYQl9CNXl1TFBFTFJua0ZoUG1FbmxoTWprTjJMZlM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 17 Oct 2025 14:22:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGhMRXI2Sy1XeTZlLXkzOEFSRWRUTV9KQmF3XzNwRDl3NlJTRmM1X21CeUFxeE1jcklrRWJQd09IdnJ2bVRPN1MtSDlIRzZRUVVSNmtTcVRmNUZOcmxxcmRWdWJFOTVzS3ZHN3puMVIwOG9ISEVuRE1aS1ZwZVlXUWhwQzBPMUlacG9HZ3VFMlUzZUlXR1V3b185Q1Y?oc=5\" target=\"_blank\">Universidad de C"
+      "published": "Fri, 17 Oct 2025 19:16:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl"
+    },
+    {
+      "title": "Cicat inaugura la primera muestra sobre inteligencia artificial en Chile: “Del Algoritmo al Asombro” - Noticias UdeC",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWF4MGZsS1BmMm1BYVZ2WVdobW5CcThsV2F4bGJPaFlxNVVEOWpVQmlHTHZteDhMeEZGcm9vZExZNTg0YXgzYjVnekJLNTBGMC1zSlJxcTRPMXladGI3WVhzNjlrYjZLVERIQkNMSUcyTG5ra2V5ZWVxSjdKeVdEdjRnNjBSY010RkZ0ZXRhYm15ay1ZWmNURXRDRGw1SUVmYTZqVi1mZW8wNGpac0xXSEsyLW94YkxfS1hUZEVScEw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 17 Oct 2025 19:35:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTWF4MGZsS1BmMm1BYVZ2WVdobW5CcThsV2F4bGJPaFlxNVVEOWpVQmlHTHZteDhMeEZGcm9vZExZNTg0YXgzYjVnekJLNTBGMC1zSlJxcTRPMXladGI3WVhzNjlrYjZLVERIQkNMSUcyTG5ra2V5ZWVxSjdKeVdEdjRnNjBSY010RkZ0ZXRhYm15ay1ZWmNURXRDRGw1SUVmYTZqVi1mZW8wNGpac0xXSEsyLW94YkxfS1"
     },
     {
       "title": "Chile a la vanguardia de la productividad: una carretera con agentes de IA y Microsoft Copilot en las empresas frontera - ITSitio",
@@ -59,22 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRXhWeUVsbzMwT2UyNDVGZDlkdmd2R2RXSHdnSGc5dE03QW9QTWUtbVMybHBhb3VWcWx6VElDOFpDazZqTUNFNVA3YktIb1N2SEQ1SUwySnloMlhjWExjamk0bkJWTGk5ZkN4NGFKZ285TVppTDZpZzZlTGV2QTN5aWxPNFBDOWd2SWFEN01wbHBRTEdVUDdJUjN6VFhDRm5IclhkQU9DWEdqTjJfb0lCN1R3VTN4ZS1wRW"
     },
     {
-      "title": "La Fuerza Aérea de Chile y DTS exploran el futuro de la inteligencia artificial - Defensa.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc090R3JWUjd6anpIYnVSUFB0ai1rT2RZT0RnX1NfdGJyUVE1VnJWZDU1REpxZGN0cjJaQUtoUTBrLTVCOXJMWXA2YXhnanRTX0x1eVo5U1JrZHJtU25hS19JODU1TFlXTEFmc1pGa2ctWkc5M280SlN3RlVaY0g3cW9RQkFaWldFeTBxTWU5Q3cxVzZQRHE0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 17 Oct 2025 09:23:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOc090R3JWUjd6anpIYnVSUFB0ai1rT2RZT0RnX1NfdGJyUVE1VnJWZDU1REpxZGN0cjJaQUtoUTBrLTVCOXJMWXA2YXhnanRTX0x1eVo5U1JrZHJtU25hS19JODU1TFlXTEFmc1pGa2ctWkc5M280SlN3RlVaY0g3cW9RQkFaWldFeTBxTWU5Q3cxVzZQRHE0?oc=5\" target=\"_blank\">La Fuerza Aérea de Chil"
-    },
-    {
-      "title": "Microsoft elige Santiago como punto de partida del AI Tour en Latinoamérica y marca un nuevo capítulo en la era de la inteligencia artificial - madboxpc",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZ1R0aFBfeTVGb1hVMnptUVJxU3lYbW5MNHJtTXc4WU1rMExLSXF0ajRZWmIxaTFubE4zQkdaYXhvRlpxX0FXNXVDbW5MMEpzZGZHT3ZVbWxSN3dLWmxkbE1kX1QxSjNsUll6UE5CZ2dWVkdlMVhOT0sxVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 17 Oct 2025 16:04:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZ1R0aFBfeTVGb1hVMnptUVJxU3lYbW5MNHJtTXc4WU1rMExLSXF0ajRZWmIxaTFubE4zQkdaYXhvRlpxX0FXNXVDbW5MMEpzZGZHT3ZVbWxSN3dLWmxkbE1kX1QxSjNsUll6UE5CZ2dWVkdlMVhOT0sxVQ?oc=5\" target=\"_blank\">Microsoft elige Santiago como punto de partida del AI Tour en"
-    },
-    {
       "title": "Santiago Íñiguez (IE University): “Debemos volver a las humanidades para aprender a trabajar con la IA” - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnBJYm1BOUlwVGRQY0I3YnpSamdidDVLcjlvSFdZdU1ZSVotd1FObk9SenF2Z3pINTNyZjdwWUlVMF81bllnNVRNUDB5YVZ6Mko3THloWWxadnI4QWtKUmNZcExYTGNpd2tuVm9feUx4UzJScTROUms0aDZmT3FISGRrQWtWV2ZOWGM3dGdDUjN4ank0SE9CNnY4ZGpyYU4zb0xOa2FCa0hBTU4xU05aZFZFWmswUXE0WElkVWlveFJCTWNnSjlzQUFZSElxVTZiQ3RoOGU4STBjVUgwdklvQWxOX2VQUjBL0gH8AUFVX3lxTE5HTlQ4UWpOUlg2djI4VkpQNl9ac2lrX0tRWE95MFZFT0dYaXZzeElJR3RRZ0hobDVBMlF0d053VDY3T21aR3dPUW9CazBfajdseTFwNHo3b05pcFoydFlVOXV5MWJJR1laTXNQNG1GeV9GeGYxVEhRcVZQZ3A0TGpKamdyY3NXM29zTzBBZEo3RTZlRTdNc3JONWhfSk5PdWxDTzRIQzN5eTlRRm13U19pcGxJdzRyTFVRdm9kamZERGdhLWltSjJyWFU4N2IySHFQZFlNWU5HSGdiNnE1Z0U3Sml5aFFFX1lEZWUtdk11MGtMZWo1US1WWVRDMA?oc=5",
       "source": "Google News",
@@ -83,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnBJYm1BOUlwVGRQY0I3YnpSamdidDVLcjlvSFdZdU1ZSVotd1FObk9SenF2Z3pINTNyZjdwWUlVMF81bllnNVRNUDB5YVZ6Mko3THloWWxadnI4QWtKUmNZcExYTGNpd2tuVm9feUx4UzJScTROUms0aDZmT3FISGRrQWtWV2ZOWGM3dGdDUjN4ank0SE9CNnY4ZGpyYU4zb0xOa2FCa0hBTU4xU05aZFZFWmswUXE0WE"
     },
     {
-      "title": "California regula la inteligencia artificial: nuevas normas para proteger a menores ante chatbots - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlo2dkVCUHJZSjNodFB6QVhFMjVnUjBhYTZWaGVnbFc5Y2U2ZWRxQ005cFdCZnhHSUdkMEIzVkQwck1lUVhwU0IzRTZBcTVodGRKOS1uZWtZTm1aOG40UnZHbWJFemNGa3FUbHJlaW9mNGZWak1GeTYycGtFNC1qNUxGS21EZFZVRjlNTHdQbVNsS016eXAyazhLOFZscTFpMVRCcEhPWC11X2UwWDI1enRtOHZ0Y1I0dktJQmZ4QkdTTlBiWDZxbHFNNFNfSWlSeXI2MNIB7wFBVV95cUxObU8xekZYb294dTJTQTZmclVEUmIzOUg4RGJtWUJUb08zdzg3N3M4SzE3a2ZPVG1SM2JzSkdBd2h3V3NjenFiVkFCZ2hIY0c4SGpmVnFIR3k3RFlCaklvVjk4RExzbnVTZUtUVUdhdTF0S25vbmY2a3FPS3RRV0FPZ1llMUhOOVE2SDhfMGJuUVZhNS1PUko2ejhIQmdzV0VlUnpQeGpKV3J4cW9Fdk5oS1A3UTY2YVM0eTNqU3c2NnU0MGVUQ1REOHlYbVVqME51N3V5YWF2SXR6dzVzaC1nV3dYSVZIVjktbWhjNXlJNA?oc=5",
+      "title": "Microsoft elige Santiago como punto de partida del AI Tour en Latinoamérica y marca un nuevo capítulo en la era de la inteligencia artificial - madboxpc",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZ1R0aFBfeTVGb1hVMnptUVJxU3lYbW5MNHJtTXc4WU1rMExLSXF0ajRZWmIxaTFubE4zQkdaYXhvRlpxX0FXNXVDbW5MMEpzZGZHT3ZVbWxSN3dLWmxkbE1kX1QxSjNsUll6UE5CZ2dWVkdlMVhOT0sxVQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 15 Oct 2025 17:28:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlo2dkVCUHJZSjNodFB6QVhFMjVnUjBhYTZWaGVnbFc5Y2U2ZWRxQ005cFdCZnhHSUdkMEIzVkQwck1lUVhwU0IzRTZBcTVodGRKOS1uZWtZTm1aOG40UnZHbWJFemNGa3FUbHJlaW9mNGZWak1GeTYycGtFNC1qNUxGS21EZFZVRjlNTHdQbVNsS016eXAyazhLOFZscTFpMVRCcEhPWC11X2UwWDI1enRtOHZ0Y1I0dk"
+      "published": "Fri, 17 Oct 2025 16:04:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZ1R0aFBfeTVGb1hVMnptUVJxU3lYbW5MNHJtTXc4WU1rMExLSXF0ajRZWmIxaTFubE4zQkdaYXhvRlpxX0FXNXVDbW5MMEpzZGZHT3ZVbWxSN3dLWmxkbE1kX1QxSjNsUll6UE5CZ2dWVkdlMVhOT0sxVQ?oc=5\" target=\"_blank\">Microsoft elige Santiago como punto de partida del AI Tour en"
     },
     {
       "title": "12 startups chilenas buscan conquistar el mercado tecnológico de Dubái - El Ecosistema Startup",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Fri, 17 Oct 2025 13:24:34 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDBXREJGSTF4MHMyeElPaEN4bHU0b3dzNFE1cDdlZjRpYjk5UDF1eUltRGZpR1JxOUxqQnRYQlZwTzdid0hqZ1B4blF0Tm5NTkFYeU9tazNaMHk2UE9uMlFZYjcyZTJmcVRuRU1qX3U5bFdfVkhSUVdMdmt1ZnEtVUFXNDVxUkpvckJuMDhZVVkyTzZzMElTamtFa0pjcTBMU0FhRWR5em45R2tISmhiMFFIc3BvaEVSaz"
+    },
+    {
+      "title": "TD SYNNEX impulsando la transformación digital global - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUcxRlNHa09xVTJXdkFYU2VKdVN5N1BHdHAzOS1yTDhmdkFmaE9EZHNpU1FfTU8zMngtVEN2OUpHNUtRUzc1aVo1MnFxbFhsdk1uUUV2NC1OQVM4VFBXZURpSG1VN0RNRi1UZXY0MnlqX0paTlN3d0k0UldWekpIRkxLYkN2aW9WRTdkMDl0UTRGak0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 15 Oct 2025 18:15:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUcxRlNHa09xVTJXdkFYU2VKdVN5N1BHdHAzOS1yTDhmdkFmaE9EZHNpU1FfTU8zMngtVEN2OUpHNUtRUzc1aVo1MnFxbFhsdk1uUUV2NC1OQVM4VFBXZURpSG1VN0RNRi1UZXY0MnlqX0paTlN3d0k0UldWekpIRkxLYkN2aW9WRTdkMDl0UTRGak0?oc=5\" target=\"_blank\">TD SYNNEX impulsando la tran"
     }
   ],
   "count": 14
