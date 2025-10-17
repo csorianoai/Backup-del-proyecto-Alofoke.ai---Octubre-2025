@@ -3,6 +3,22 @@
   "country": "co",
   "articles": [
     {
+      "title": "La plataforma colombiana que busca que no se desperdicien los alimentos",
+      "url": "https://www.portafolio.co/tecnologia/la-plataforma-colombiana-que-busca-que-no-se-desperdicien-los-alimentos-642401",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Fri, 17 Oct 2025 16:13:49 +0000",
+      "summary": ""
+    },
+    {
+      "title": "Xiaomi presenta la Serie 15T y avanza hacia el segmento 'premium' en Colombia",
+      "url": "https://www.portafolio.co/tecnologia/xiaomi-presenta-la-serie-15t-y-avanza-hacia-el-segmento-premium-en-colombia-642307",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Fri, 17 Oct 2025 14:35:01 +0000",
+      "summary": ""
+    },
+    {
       "title": "Así se ve el futuro de la IA para 2035, según el propio ChatGPT",
       "url": "https://www.portafolio.co/tecnologia/este-es-el-futuro-de-la-ia-para-2035-segun-el-propio-chatgpt-642290",
       "source": "Portafolio Tech",
@@ -27,36 +43,12 @@
       "summary": ""
     },
     {
-      "title": "Larry Ellison revela detalles del mayor centro de datos de IA del mundo",
-      "url": "https://www.portafolio.co/tecnologia/larry-ellison-revela-detalles-del-mayor-centro-de-datos-de-ia-del-mundo-642154",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Wed, 15 Oct 2025 21:25:13 +0000",
-      "summary": ""
-    },
-    {
-      "title": "WhatsApp 2025: la función que está destinada a ser todo un furor y debe conocer",
-      "url": "https://www.portafolio.co/tecnologia/whatsapp-2025-la-funcion-que-esta-destinada-a-ser-todo-un-furor-y-debe-conocer-642189",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Wed, 15 Oct 2025 14:43:43 +0000",
-      "summary": ""
-    },
-    {
-      "title": "¿Por qué la Selección Colombia no consigue títulos? La IA lo explica - Futbolred",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0lYNklNYi10RF9scHdKV3dPaEhmcnMzNG5WbS1nRVFkNXNvTHczT2dJb1Exdm1IWWNMMHZZbHRiRF9zLVgyRFE1TkpVYnhXVnNnNmZhTzc3eGlnNkctUXZUWWRLZmVWckNDTjFFN2VqYUc0enpIOENGd1VwYTN0b1IwUWYzellab3JQd2hDa1lSamcwcHBmYzRCaEtEVWhvZWQ5NUlzZ2VsU3ZKeHI5MlIxTW9qYVpZS0HSAb8BQVVfeXFMTWpYdHlQZ3I5MXROWWdMSTl0UklzX3RaNlVzdU01cFRRZGd3Qkh2aERIR0o1YXFNWE51MzRlZ3NnQmJpQ2FTeklkNTBEZ0R6T3pLUjJ1MU5Jcm1KekxHd3ljbzVqOGdXd0tvMU5Yc0hKSnNzcTVnTGZNejBpMXhMQ3ctQmN6VGRlVUZMNkNndzUtTEdqeXpCckE3a3RSaWJRMXFlYlJWZzUzVDBOVUVJbTAyODJXZ284QWE4SDQ3QkU?oc=5",
+      "title": "Las pymes colombianas ya pueden medir su nivel de adopción a la Inteligencia Artificial - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdnhDUWNkaFY0LWJHU00wYjJaZE51aXY2T09qR2tuU0NHQ0QwS3A5VXIyMmpsSm8zSG1PbXR2MGtBYmh4QndHcjlPLUdJRzZRb2VjbGU1Mm9EaTMyS2lha2VITHNPaEhnUk5DREFzWml3SkROdFg3RXZzRnoxY2hFWlVoUngzSHRHSzFSSUp1Sk9SYnl6QXJoYnppdmVKVmlWNWF2SDMzTjJWVnhJWVJqempTQ3h5c3lkczI3WWdJalhxTzVNOVNOZHRMZzdsTWNuUHdFQmRR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 16 Oct 2025 19:52:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0lYNklNYi10RF9scHdKV3dPaEhmcnMzNG5WbS1nRVFkNXNvTHczT2dJb1Exdm1IWWNMMHZZbHRiRF9zLVgyRFE1TkpVYnhXVnNnNmZhTzc3eGlnNkctUXZUWWRLZmVWckNDTjFFN2VqYUc0enpIOENGd1VwYTN0b1IwUWYzellab3JQd2hDa1lSamcwcHBmYzRCaEtEVWhvZWQ5NUlzZ2VsU3ZKeHI5MlIxTW9qYVpZS0"
-    },
-    {
-      "title": "Así es como Renting recorrió Colombia con inteligencia artificial - Revista PYM",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3E5bDRsWUUxLV9xLVV3THhnOGlaRThoeEwxeENUbm5Ta2hJWXpmWWJjMHJ2eHREQ0RqemxoUi1QSVFSSmptbHZ3RDBXczZ5OWFfT2V1UjJPTFZabWxjSXItZDRHTWdPbVkta1ZrUUVXZW1HU3dqdG8weWRBOWJMZno0Q1FFUHh4QUdYVkZGaV9BX0ZRNDNWTHlUeU5YMUp4dXQzcEZ1d190M1FxRUxWN1RkdWxBdURaVnNaRThlSnZfUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 16 Oct 2025 17:49:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3E5bDRsWUUxLV9xLVV3THhnOGlaRThoeEwxeENUbm5Ta2hJWXpmWWJjMHJ2eHREQ0RqemxoUi1QSVFSSmptbHZ3RDBXczZ5OWFfT2V1UjJPTFZabWxjSXItZDRHTWdPbVkta1ZrUUVXZW1HU3dqdG8weWRBOWJMZno0Q1FFUHh4QUdYVkZGaV9BX0ZRNDNWTHlUeU5YMUp4dXQzcEZ1d190M1FxRUxWN1RkdWxBdURaVn"
+      "published": "Fri, 17 Oct 2025 15:27:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdnhDUWNkaFY0LWJHU00wYjJaZE51aXY2T09qR2tuU0NHQ0QwS3A5VXIyMmpsSm8zSG1PbXR2MGtBYmh4QndHcjlPLUdJRzZRb2VjbGU1Mm9EaTMyS2lha2VITHNPaEhnUk5DREFzWml3SkROdFg3RXZzRnoxY2hFWlVoUngzSHRHSzFSSUp1Sk9SYnl6QXJoYnppdmVKVmlWNWF2SDMzTjJWVnhJWVJqempTQ3h5c3lkcz"
     },
     {
       "title": "Zipaquirá, nuevo epicentro de la inteligencia artificial en Colombia - Ministerio de Educación Nacional",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Fri, 03 Oct 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHlzSUhsdjQ4UlliaVg3bkNDTXl5b1NZUVFHQWYwNk1JaXpGcTlrMFhJcjEtMTY2SE93UE1RZmJ1NmNZeURwdXBUMFVrZFdjdjJ6SXpJbjRLOGJVZm53MFQwNDJxQm15UGdPWkZ2SklZUVA1NDRFeG9VeHhxQVpMcHVYckNnTEVweGt3VE40UDNTeDBBRURxTGRuUWhTM01RSzNfQzhvN0hidTFaQnJkT1lndHUzSC1ad1"
+    },
+    {
+      "title": "¿Por qué la Selección Colombia no consigue títulos? La IA lo explica - Futbolred",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0lYNklNYi10RF9scHdKV3dPaEhmcnMzNG5WbS1nRVFkNXNvTHczT2dJb1Exdm1IWWNMMHZZbHRiRF9zLVgyRFE1TkpVYnhXVnNnNmZhTzc3eGlnNkctUXZUWWRLZmVWckNDTjFFN2VqYUc0enpIOENGd1VwYTN0b1IwUWYzellab3JQd2hDa1lSamcwcHBmYzRCaEtEVWhvZWQ5NUlzZ2VsU3ZKeHI5MlIxTW9qYVpZS0HSAb8BQVVfeXFMTWpYdHlQZ3I5MXROWWdMSTl0UklzX3RaNlVzdU01cFRRZGd3Qkh2aERIR0o1YXFNWE51MzRlZ3NnQmJpQ2FTeklkNTBEZ0R6T3pLUjJ1MU5Jcm1KekxHd3ljbzVqOGdXd0tvMU5Yc0hKSnNzcTVnTGZNejBpMXhMQ3ctQmN6VGRlVUZMNkNndzUtTEdqeXpCckE3a3RSaWJRMXFlYlJWZzUzVDBOVUVJbTAyODJXZ284QWE4SDQ3QkU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 16 Oct 2025 19:52:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0lYNklNYi10RF9scHdKV3dPaEhmcnMzNG5WbS1nRVFkNXNvTHczT2dJb1Exdm1IWWNMMHZZbHRiRF9zLVgyRFE1TkpVYnhXVnNnNmZhTzc3eGlnNkctUXZUWWRLZmVWckNDTjFFN2VqYUc0enpIOENGd1VwYTN0b1IwUWYzellab3JQd2hDa1lSamcwcHBmYzRCaEtEVWhvZWQ5NUlzZ2VsU3ZKeHI5MlIxTW9qYVpZS0"
     },
     {
       "title": "¡Nueva estrategia de paso en la Vía al Llano! Así está la movilidad hoy 16 de octubre - Bogota.gov.co",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2JHc2RMcmIwWnNwTTdraThkZVUxTnVZdW05M04wYjBPYmhUc09Icld1eUVkMS1OdUg4YzdpYk9OWjAzcG5tNWpEMGd3YUtKMHhsVU9JOW5RMUZWN2d2LUJmbFNjMWpWNlluZ1g4aVhHZjFaNk51Zko1RDMyRndnSThubnlYX18wSXljZVd3UDJSdFQ2akc0azJEUjNnRlpaMkN1ajYyVFRqYzh6LXdxR2tOazRpZjEzMH"
     },
     {
-      "title": "Colombia 4.0 Atlántico: IA, Drones y Robots Interactivos en Barranquilla - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWhGTkZfVGlKWk9sS09kV3JadnVmelVKcnB1X2pPMkFpSW5hNUtVLXlJRDd2cm0tNU5VLU1fNTBvcXhxdTNlTktQc2VmRVlBbmUzZUxySDM1UDhWak82T2dIaTdJamZPalkyempCeHZCcXN4aDhDT0hTV3N0TUtUNldfelpFZjFYWFd5WTNtT2ZyTUZYMTV6UERQZ2tPOXotWWpB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 11 Oct 2025 00:04:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONWhGTkZfVGlKWk9sS09kV3JadnVmelVKcnB1X2pPMkFpSW5hNUtVLXlJRDd2cm0tNU5VLU1fNTBvcXhxdTNlTktQc2VmRVlBbmUzZUxySDM1UDhWak82T2dIaTdJamZPalkyempCeHZCcXN4aDhDT0hTV3N0TUtUNldfelpFZjFYWFd5WTNtT2ZyTUZYMTV6UERQZ2tPOXotWWpB?oc=5\" target=\"_blank\">Colombi"
-    },
-    {
       "title": "Esta startup colombiana está creando cabinas con empleados digitales usando tecnología de Nvidia - Forbes Colombia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczctb3RzbTlWTHVsWjlVS1RzTUd5ZERQR0Jocm9wa0lPZmNGc1pCdURDOHJpNExnU1VJN3U3OUVoM0dNWnhyYkhpX1RMa053Q250aVZuVS1BMmFNZ1VBVnNNbTZhZTEwb3RyejRhcWVtOG54RkVINzVzb3NrZ0piR2NtRlVjYUd3ODBvUWVHZWtXX0U?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 16 Oct 2025 13:34:26 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQczctb3RzbTlWTHVsWjlVS1RzTUd5ZERQR0Jocm9wa0lPZmNGc1pCdURDOHJpNExnU1VJN3U3OUVoM0dNWnhyYkhpX1RMa053Q250aVZuVS1BMmFNZ1VBVnNNbTZhZTEwb3RyejRhcWVtOG54RkVINzVzb3NrZ0piR2NtRlVjYUd3ODBvUWVHZWtXX0U?oc=5\" target=\"_blank\">Esta startup colombiana está"
+    },
+    {
+      "title": "Colombia 4.0 Atlántico: IA, Drones y Robots Interactivos en Barranquilla - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWhGTkZfVGlKWk9sS09kV3JadnVmelVKcnB1X2pPMkFpSW5hNUtVLXlJRDd2cm0tNU5VLU1fNTBvcXhxdTNlTktQc2VmRVlBbmUzZUxySDM1UDhWak82T2dIaTdJamZPalkyempCeHZCcXN4aDhDT0hTV3N0TUtUNldfelpFZjFYWFd5WTNtT2ZyTUZYMTV6UERQZ2tPOXotWWpB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 11 Oct 2025 00:04:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxONWhGTkZfVGlKWk9sS09kV3JadnVmelVKcnB1X2pPMkFpSW5hNUtVLXlJRDd2cm0tNU5VLU1fNTBvcXhxdTNlTktQc2VmRVlBbmUzZUxySDM1UDhWak82T2dIaTdJamZPalkyempCeHZCcXN4aDhDT0hTV3N0TUtUNldfelpFZjFYWFd5WTNtT2ZyTUZYMTV6UERQZ2tPOXotWWpB?oc=5\" target=\"_blank\">Colombi"
     },
     {
       "title": "Colombia y Corea del Sur cierran acuerdo para fortalecer 'startups' tecnológicas - Portafolio",
