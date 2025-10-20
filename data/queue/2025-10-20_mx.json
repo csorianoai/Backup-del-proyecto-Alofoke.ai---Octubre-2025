@@ -3,7 +3,31 @@
   "country": "mx",
   "articles": [
     {
-      "title": "AWS reporta caída global",
+      "title": "El algoritmo no basta. Este es el factor humano en las plataformas de música",
+      "url": "https://expansion.mx/tecnologia/2025/10/20/spotify-plataformas-ocupan-factor-para-que-descubras-musica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 18:23:57 GMT",
+      "summary": "Aunque la IA domina las listas de reproducción, los curadores humanos siguen siendo clave para descubrir nuevos talentos."
+    },
+    {
+      "title": "Por qué una falla de AWS puede detener bancos, aerolíneas, apps y hasta gobiernos",
+      "url": "https://expansion.mx/tecnologia/2025/10/20/por-que-falla-de-aws-amazon-puede-detener-bancos-aerolineas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 16:07:54 GMT",
+      "summary": "El incidente de este lunes genera afectaciones operativas que impactaron a compañías con presencia internacional y a sectores que dependen del entorno digital para generar ingresos."
+    },
+    {
+      "title": "Agencia de Transformación negociará con Hacienda pago de trabajadores del IFT",
+      "url": "https://expansion.mx/tecnologia/2025/10/20/crt-nacera-con-deuda-labora-heredada-del-ift",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 15:00:49 GMT",
+      "summary": "La Agencia gestionará la indemnización de 133 trabajadores del IFT, luego de que el Instituto devolviera a Hacienda los recursos del fideicomiso con el que planteaba liquidar a su plantilla laboral."
+    },
+    {
+      "title": "AWS se recupera, tras caída global",
       "url": "https://expansion.mx/tecnologia/2025/10/20/aws-reporta-caida-global",
       "source": "Expansión Tecnología",
       "category": "tech",
@@ -19,28 +43,12 @@
       "summary": "OpenAI, Broadcom, Intel, Oracle, Nvidia, Samsung y Tesla son algunas empresas que realizan inversiones millonarias para expandir los servicios de Inteligencia Artificial."
     },
     {
-      "title": "IFT: el fin de un regulador que incomodaba al gobierno",
-      "url": "https://expansion.mx/tecnologia/2025/10/18/la-noche-en-que-apagaron-al-ift",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 18 Oct 2025 14:15:42 GMT",
-      "summary": "El 16 de octubre, sin anuncios oficiales, el IFT se apagó. El retiro de su logo marcó el final del regulador que transformó las telecomunicaciones y que el poder decidió desaparecer."
-    },
-    {
-      "title": "DiDi lanza viajes eléctricos, pero costarán 50% más",
-      "url": "https://expansion.mx/tecnologia/2025/10/17/didi-premier-llega-a-mexico-viajes-electricos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Oct 2025 21:01:12 GMT",
-      "summary": "Aunque DiDi apuesta por la sustentabilidad con su nueva categoría eléctrica, el acceso queda reservado para quienes pueden pagar una tarifa elevada."
-    },
-    {
-      "title": "Desaparece el IFT y nace la CRT, sin anuncio presidencial",
-      "url": "https://expansion.mx/tecnologia/2025/10/17/desaparece-el-ift-y-nace-la-crt-sin-anuncio-presidencial",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Oct 2025 20:03:22 GMT",
-      "summary": "El cambio de regulador en telecomunicaciones se oficializó esta mañana; sin embargo, especialistas alertan sobre la cercanía política de los nuevos comisionados y los riesgos de autonomía del nuevo ente."
+      "title": "Los trabajadores usan más la inteligencia artificial que las empresas en México - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPME1GdnJxeUpSN0VUSmhkeFIwLWhQbjBia1VuTGltTldmd1NGRG81VkNvNmhhWG9xRXZobXZjZzFhNTc1THViSVl0NXE5alpoRWFvbWhnVVpUOTJKNWo3QWFoVDdIOVFrdW84UlR3cVoxMkZoc3dIWXI2bG5Rc0hZOUh3RUJMWk15SFpHQ2JncmJkd3Byc1FrUVh1Z1RPMXI0NVZ4UjhTd19abXVncld0QXp3RzEwalHSAbwBQVVfeXFMTVNpa1hLdFNkVmV4bi1RS191ZUkyVTh4SDdPYnMwVzdzbGFKakpOX1FSS2Fma1h6ZDFsOGE0Z3F6UkRpSmpxR2IyZ0hQQWZxa3l5Ti1IdnlfMGRKb3AwdDE4c1JiNllzNnlZRV9ZVWMtNHc1NDBxcXpkclJONTNEdjh0d2l3ZDFrSXljdGJPY3pqR1NDMlVNbzFiUDgteHRvNXgxdVVwamhURDNKVFJnd0xRekVjVHk0Y2F4VGk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Oct 2025 15:37:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPME1GdnJxeUpSN0VUSmhkeFIwLWhQbjBia1VuTGltTldmd1NGRG81VkNvNmhhWG9xRXZobXZjZzFhNTc1THViSVl0NXE5alpoRWFvbWhnVVpUOTJKNWo3QWFoVDdIOVFrdW84UlR3cVoxMkZoc3dIWXI2bG5Rc0hZOUh3RUJMWk15SFpHQ2JncmJkd3Byc1FrUVh1Z1RPMXI0NVZ4UjhTd19abXVncld0QXp3RzEwalHSAb"
     },
     {
       "title": "CDMX realiza la Megaclase de Inteligencia Artificial más grande del país - Infobae",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 24 Sep 2025 15:26:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
-    },
-    {
-      "title": "La inteligencia artificial impulsa la creatividad en el cine independiente de México - ABC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWR5b3N1MThVczlyUUR6aEJ3T1J2VnJPeFpkWm9ZWE9Zb3R2RDNzM0hVYnpoQk1JSWZoeGM1WmZtUzR2d21fNGt5RFRHR2pTSzZ5dC1wQjZub2owQVdGR2RNMGdQNXB2X3FYcFpiMUhMMk1pVExibkVmdmJydEFIcks0cHhwOXhFQWtUUFNzU29zLU00V3RjWGE1OWM4eGhZc2ZHeXhXWVlLUHY2c3cybF90UjV0VU4tdGRmWUNn0gHDAUFVX3lxTE5mZ1hHNnFnRVFWNjdmVlVEZXNLbDAwVTA0Q2puZWdacVFnaVFaVGdzYVcxM1lrcXJaVVNhSkhUMi1RU19NeG1mVm9raTRUYWFzajA3clBxaUNOLXo4Q1NHNldmS2pqYm9xZmlnNEo2SjVscmhWUmg0UlFnRzNyZTRyZERTcjR1XzJWWXczM1dYTjVHbnR5ZXY3eHlGYjRab2ZENVprRmVibWVUcmw5N1NLTk93M2M5Y2Fncmhhak0xRGI5cw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 18 Oct 2025 04:18:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWR5b3N1MThVczlyUUR6aEJ3T1J2VnJPeFpkWm9ZWE9Zb3R2RDNzM0hVYnpoQk1JSWZoeGM1WmZtUzR2d21fNGt5RFRHR2pTSzZ5dC1wQjZub2owQVdGR2RNMGdQNXB2X3FYcFpiMUhMMk1pVExibkVmdmJydEFIcks0cHhwOXhFQWtUUFNzU29zLU00V3RjWGE1OWM4eGhZc2ZHeXhXWVlLUHY2c3cybF90UjV0VU4tdG"
     },
     {
       "title": "La EHU impulsa la formación en IA junto a las startups Orai y Multiverse - El Ecosistema Startup",

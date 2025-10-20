@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Magis TV PRO: ¿por qué es una de las apps menos seguras de la actualidad?",
+      "url": "https://www.clarin.com/tecnologia/magis-tv-pro-apps-seguras-actualidad_0_URAhXwaPmg.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 15:47:24 +0000",
+      "summary": "<ul><li>Solicita accesos que pueden ser riesgosos para la seguridad informática del usuario.</li><li>Qué alternativas gratis existen.</li></ul>"
+    },
+    {
+      "title": "Caída mundial de Amazon Web Services: de Mercado Pago a ChatGPT, cuál fue el impacto del apagón en Argentina",
+      "url": "https://www.clarin.com/tecnologia/caida-mundial-amazon-web-services-mercadopago-chatgpt-impacto-apagon-argentina_0_EtNPIlHZdg.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 13:47:18 +0000",
+      "summary": "<ul><li>La falla en la nube AWS afectaba este lunes a miles de servicios en todo el mundo. </li><li>En Argentina generó demoras y errores en billeteras virtuales, apps de diseño y plataformas digitales.</li></ul>"
+    },
+    {
       "title": "Conectarse a una red Wi-Fi sin contraseña: tres formas de hacerlo, paso a paso",
       "url": "https://www.clarin.com/tecnologia/conectarse-red-wi-fi-contrasena-formas-hacerlo-paso-paso_0_4TRGdixGPe.html",
       "source": "Clarín Tecnología",
@@ -27,22 +43,6 @@
       "summary": "<ul><li>La nueva entrega del simulador de fútbol más popular mejoró lo que debía mejorar. Sin embargo, hay viejos problemas sin solución.</li><li>Ultimate Team, el corazón del negocio.</li></ul>"
     },
     {
-      "title": "Workslop: el efecto inesperado de la inteligencia artificial que hunde la productividad en las empresas",
-      "url": "https://www.clarin.com/tecnologia/workslop-efecto-inesperado-inteligencia-artificial-hunde-productividad-empresas_0_bX4i1FlTCH.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Oct 2025 08:45:48 +0000",
-      "summary": "<ul><li>Cada vez más organizaciones adoptan herramientas de IA para ganar eficiencia. </li><li>Sin embargo, la sobreproducción de contenido mediocre está generando el efecto contrario. </li></ul>"
-    },
-    {
-      "title": "Cada cuánto deberíamos cambiar el celular y por qué, según expertos",
-      "url": "https://www.clarin.com/tecnologia/deberiamos-cambiar-celular-expertos_0_6ET6jPggJN.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 16 Oct 2025 17:41:34 +0000",
-      "summary": "<ul><li>Cuál es la vida útil del celular.</li><li>La batería es un factor determinante para el correcto funcionamiento del dispositivo.</li></ul>"
-    },
-    {
       "title": "Selección Colombia vs. Argentina: inteligencia artificial hace su pronóstico y da el marcador final de la semifinal del Mundial Sub-20 de Chile - ELTIEMPO.COM",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeHIxcHpYS0o2MGdRZjdFWld6bVJYY2tjWmNGTzEyVE45SURrZ3pWQmhkdzhDem92TURDSXhTUVpUQmhuV1E2SjhmLVNaSF81TnBlMGxzd3ZxTXFoa2dPUWpuUlM2bnNIeXpqMEpmRjlBNGV6RllpZ1ZSRHJicUt6RjU4UHM2WHN4WWg4YU82Q2hVU0ZxM3dCaGtvLUtCV2xZbFd4clpFX0dzZzNkVmpBNDRJZGtkVEtSN3kzb1loc3JjanNBREN5dEtDeVBTN0s4clNMQ08tMS1GN19GQmpGUXdIZHkwVWVCaDcwNUxGSWVUOVVucnktYWpVbzY1SkdVT0ZURHFSd3lBbmJvYVppUEdjcENkd25KU3RkRjZGVUpteGFsNjZJUFQxMmjSAbICQVVfeXFMT0VxeVNWcTV3YWFmeVpNZnlhWEZrbmFGNUc4ZjF6TU5iOEV6T05GT3dQdTRtRnowZzdadkFNYi1jZkVvbjJQTDlmVkdJNE1iM0tTWFlQT09qNUx0cnI0SGc1aWNZNXd5dUdHLXE1RnZ6dUx3N1RNVkhnRnM0TkpJU2hZN3pVaEhkNzhzNTZiaHdScWJKZVllNWd4S3JfMjBHTURmR1FILTRsc21MakVXU0l2dTUySGFMMW5Za0pWTTNrNmVRZXZtUUlMUkxEdWprcGEwajZmUlRWR0U4V0ZmTUgxNkxLTVZHU09pa0p3YWJnbjZ2QkFCWk9hb0VuNG1sZ2xTSlRrWUJyRndCNFRGTTNwemQ5bktka3VCZlBuSjBtYmpValZqWG5rdE42cmItOHhR?oc=5",
       "source": "Google News",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQeHIxcHpYS0o2MGdRZjdFWld6bVJYY2tjWmNGTzEyVE45SURrZ3pWQmhkdzhDem92TURDSXhTUVpUQmhuV1E2SjhmLVNaSF81TnBlMGxzd3ZxTXFoa2dPUWpuUlM2bnNIeXpqMEpmRjlBNGV6RllpZ1ZSRHJicUt6RjU4UHM2WHN4WWg4YU82Q2hVU0ZxM3dCaGtvLUtCV2xZbFd4clpFX0dzZzNkVmpBNDRJZGtkVEtSN3"
     },
     {
-      "title": "Solo una de cada tres empresas argentinas utiliza IA en Recursos Humanos - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZE9WU3h4a2ltTE9pUy1oUUJPTmJFMTN1MmRtMXJXNndqN19IaE9WeEpVQVZuVW9HNjl0eXI0aUx5VHNxckxRdnU5LTRXbzhFcUh3cEMwM2dvZ2xpRGhodFBfbWdpeWVfQjdHQ1BFTzVsY20xNXFFUEpZZ1paam00S2JlQVZ0QzYtb1RGYzNMSlNhSzJCQkxnN2czNDJ4SjltN1ZDdnJtTGoyUHp4Q2MwS2x4SWF3d01EWkl1UE5tQ3FYQQ?oc=5",
+      "title": "La era de la hiperpersonalización: conversaciones inteligentes, clientes más leales - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLW8xMHp0eGxlc05hVlloa0Z1UVUzeFd6V0F6NWltUFhPR2w2WnhQcWRXQ2hLZngwSFd5bndPam43M3FZYmx6SkZ3aW0tMGpzeG1wbEc0SmhsV2NoMlRSNklxbFVxV1plN0pqMTVQOFRlNlZjbUFmV245RVFGVHI2NEZCVXMycjkwajNIQlVqdmlaemVSbUxDRXg1S2RBXzh3anBfZGxDSy1QQ1RlcHpKLWMwYWVlS3J5TllJT0dDTm4wWEprVEE0R3B6cUhQZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 12:38:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZE9WU3h4a2ltTE9pUy1oUUJPTmJFMTN1MmRtMXJXNndqN19IaE9WeEpVQVZuVW9HNjl0eXI0aUx5VHNxckxRdnU5LTRXbzhFcUh3cEMwM2dvZ2xpRGhodFBfbWdpeWVfQjdHQ1BFTzVsY20xNXFFUEpZZ1paam00S2JlQVZ0QzYtb1RGYzNMSlNhSzJCQkxnN2czNDJ4SjltN1ZDdnJtTGoyUHp4Q2MwS2x4SWF3d01EWk"
+      "published": "Mon, 20 Oct 2025 14:48:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQLW8xMHp0eGxlc05hVlloa0Z1UVUzeFd6V0F6NWltUFhPR2w2WnhQcWRXQ2hLZngwSFd5bndPam43M3FZYmx6SkZ3aW0tMGpzeG1wbEc0SmhsV2NoMlRSNklxbFVxV1plN0pqMTVQOFRlNlZjbUFmV245RVFGVHI2NEZCVXMycjkwajNIQlVqdmlaemVSbUxDRXg1S2RBXzh3anBfZGxDSy1QQ1RlcHpKLWMwYWVlS3J5Tl"
     },
     {
       "title": "Los argentinos prefieren docentes formados en Inteligencia Artificial - Perfil",
