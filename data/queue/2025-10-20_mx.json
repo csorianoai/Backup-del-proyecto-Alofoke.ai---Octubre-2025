@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "No es tu internet: Mercado Libre y Mercado Pago registran intermitencias",
+      "url": "https://expansion.mx/tecnologia/2025/10/20/fallas-mercado-libre-y-mercado-pago-hoy",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 18:39:10 GMT",
+      "summary": "El sitio Downdetector dice que las fallas pueden estar relacionadas con los problemas que se registran en el servicio AWS de Amazon."
+    },
+    {
       "title": "El algoritmo no basta. Este es el factor humano en las plataformas de música",
       "url": "https://expansion.mx/tecnologia/2025/10/20/spotify-plataformas-ocupan-factor-para-que-descubras-musica",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Varias compañías en el mundo se quedaron sin servicios en páginas web, aplicaciones o servicios y la culpa fue una falla DNS, o sea en el soporte de su sistema de almacenamiento."
     },
     {
-      "title": "De OpenAI a Meta, las empresas invierten miles de millones en infraestructuras de IA",
-      "url": "https://expansion.mx/tecnologia/2025/10/18/openai-meta-empresas-invierten-infraestructuras-de-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sun, 19 Oct 2025 00:28:08 GMT",
-      "summary": "OpenAI, Broadcom, Intel, Oracle, Nvidia, Samsung y Tesla son algunas empresas que realizan inversiones millonarias para expandir los servicios de Inteligencia Artificial."
-    },
-    {
       "title": "Los trabajadores usan más la inteligencia artificial que las empresas en México - El Economista",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPME1GdnJxeUpSN0VUSmhkeFIwLWhQbjBia1VuTGltTldmd1NGRG81VkNvNmhhWG9xRXZobXZjZzFhNTc1THViSVl0NXE5alpoRWFvbWhnVVpUOTJKNWo3QWFoVDdIOVFrdW84UlR3cVoxMkZoc3dIWXI2bG5Rc0hZOUh3RUJMWk15SFpHQ2JncmJkd3Byc1FrUVh1Z1RPMXI0NVZ4UjhTd19abXVncld0QXp3RzEwalHSAbwBQVVfeXFMTVNpa1hLdFNkVmV4bi1RS191ZUkyVTh4SDdPYnMwVzdzbGFKakpOX1FSS2Fma1h6ZDFsOGE0Z3F6UkRpSmpxR2IyZ0hQQWZxa3l5Ti1IdnlfMGRKb3AwdDE4c1JiNllzNnlZRV9ZVWMtNHc1NDBxcXpkclJONTNEdjh0d2l3ZDFrSXljdGJPY3pqR1NDMlVNbzFiUDgteHRvNXgxdVVwamhURDNKVFJnd0xRekVjVHk0Y2F4VGk?oc=5",
       "source": "Google News",
@@ -55,24 +55,24 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGhCUHMyZW8yWHdiNHNTWVRTN2hxeDFEQzZKeGg2RFVVUjREaHBSNzktR1I3LW5RdzRrV3hINWh0OG43b3lNN3hHYzRJN09ueG9VRmFOeG1XbjlwRWc1QjM3SFlVdldQMzM0UmpZYXFXMFVNUTVxdXg5NWFPOG5NNktQQ3l0RGpWX3lmNmxUN3d2TmZEM01CcVQ3UVBYOXRCLUtnb3Q0bFVCYUJnMm9OaXlGcXlTUdIB0AFBVV95cUxOdjZZc3RsT1hGQ25TVkpWaHJ2WDU5UEF3V3ZCTU5PSHh0TzV5SHZ3TXNzU2xpSWtHeWtKWENaTHBRdWFvWDNPdmRkbVlmNW5xX05BODljMWo4cTIzUDg4NGI1VGluSjQ2WXlNdk9xNWlrMGY4bmJIbFVzTzJ5Y0IzSlRGMVNuZnRIYmZ4ZUlLZ0k2amUxVDZDOWltVjNsOUtVTV96R05PSS1mM3ZydXNnXzBWOWNMMjFwaDA2MFNvNUR0R0YtWHJaeXJ6MEdEQkxm?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 19 Oct 2025 23:09:01 GMT",
+      "published": "Mon, 20 Oct 2025 00:03:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGhCUHMyZW8yWHdiNHNTWVRTN2hxeDFEQzZKeGg2RFVVUjREaHBSNzktR1I3LW5RdzRrV3hINWh0OG43b3lNN3hHYzRJN09ueG9VRmFOeG1XbjlwRWc1QjM3SFlVdldQMzM0UmpZYXFXMFVNUTVxdXg5NWFPOG5NNktQQ3l0RGpWX3lmNmxUN3d2TmZEM01CcVQ3UVBYOXRCLUtnb3Q0bFVCYUJnMm9OaXlGcXlTUdIB0A"
     },
     {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
+      "title": "De México a Irlanda, crece la oposición al frenesí mundial por la IA - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0Zleld4SjF1LTg4NXV5T25obDUtQ0hRWnZ6aEg3d2szdVpSSXRnS1MzbW9qMEl0RjRQZWY3M29tYkNULThZRGY3ajNwckdCYlVSMWZwdzZWMDNqT1VqdXUwb2pwTDAzeklBOFBpNkFLVHFPLVE4V1ZLRmJDVFgzVm9iNjc1MVJpSGc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+      "published": "Mon, 20 Oct 2025 19:09:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0Zleld4SjF1LTg4NXV5T25obDUtQ0hRWnZ6aEg3d2szdVpSSXRnS1MzbW9qMEl0RjRQZWY3M29tYkNULThZRGY3ajNwckdCYlVSMWZwdzZWMDNqT1VqdXUwb2pwTDAzeklBOFBpNkFLVHFPLVE4V1ZLRmJDVFgzVm9iNjc1MVJpSGc?oc=5\" target=\"_blank\">De México a Irlanda, crece la oposición "
     },
     {
-      "title": "La EHU impulsa la formación en IA junto a las startups Orai y Multiverse - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVRON3lkdFI4OV9MSG1vRERIYUM4TzZPYkdqUW5SVi11NXpoVGJwTE1CS0hUUXJwWWU1cFBsVEtoY3g5NzhqSDN1LWlXbDVSaWZmU3pJaUdDbWNzRjJaM2daeW5BaURLbnMxV09TYVdLM01OMTVMODdkQUgwTVN3Rlo2MXpkS1Q0SU90Y01pMFNmcVdVMzhKSzlOTGt5aW05VC00MnlR?oc=5",
+      "title": "7 años implementando IA: lecciones clave para startups tech - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjVtR19Pb0t2dUFkVWhMRGxlQ3dlcm5scHVDLWxfc0hYdjhpOC0wVm9WS01kRHlfUEF6T29YTHozMGFvRl9ubkpiOHlLU1YyaHk2aWFOYURjS2RfNFhqWjFsTEdZSkctU3A1bko1TUhsdHl2S1R6UXMzZFJPellLM2xpWmVRV1RROEVzUV94UjROeTg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 03 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVRON3lkdFI4OV9MSG1vRERIYUM4TzZPYkdqUW5SVi11NXpoVGJwTE1CS0hUUXJwWWU1cFBsVEtoY3g5NzhqSDN1LWlXbDVSaWZmU3pJaUdDbWNzRjJaM2daeW5BaURLbnMxV09TYVdLM01OMTVMODdkQUgwTVN3Rlo2MXpkS1Q0SU90Y01pMFNmcVdVMzhKSzlOTGt5aW05VC00MnlR?oc=5\" target=\"_blank\">La "
+      "published": "Wed, 15 Oct 2025 18:49:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdjVtR19Pb0t2dUFkVWhMRGxlQ3dlcm5scHVDLWxfc0hYdjhpOC0wVm9WS01kRHlfUEF6T29YTHozMGFvRl9ubkpiOHlLU1YyaHk2aWFOYURjS2RfNFhqWjFsTEdZSkctU3A1bko1TUhsdHl2S1R6UXMzZFJPellLM2xpWmVRV1RROEVzUV94UjROeTg?oc=5\" target=\"_blank\">7 años implementando IA: lec"
     },
     {
       "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",

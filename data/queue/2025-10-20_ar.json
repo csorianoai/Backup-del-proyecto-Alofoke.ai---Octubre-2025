@@ -3,6 +3,30 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Mercado Libre: ¿se pueden ver películas y series gratis en la app?",
+      "url": "https://www.clarin.com/tecnologia/mercado-libre-pueden-ver-peliculas-series-gratis-app_0_LVmfDpcwyM.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 19:29:06 +0000",
+      "summary": "<ul><li>Mercado Libre cuenta con una plataforma que permite acceder a series y películas de forma gratuita.</li><li>El paso a paso para utilizar Mercado Play.</li></ul>"
+    },
+    {
+      "title": "¿Qué es y cómo funciona Amazon Web Services?",
+      "url": "https://www.clarin.com/tecnologia/funciona-amazon-web-services_0_84Yom6YBbC.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 19:08:22 +0000",
+      "summary": "<ul><li>La mayor red de servidores en la nube reportó una falla global que afectó el funcionamiento de cientos de aplicaciones.</li><li>El motivo por el que múltiples empresas dependen de su servicio. </li></ul>"
+    },
+    {
+      "title": "Caída de Amazon Web Services: cuál fue el error que generó el colapso mundial de internet",
+      "url": "https://www.clarin.com/tecnologia/caida-amazon-web-services-error-genero-colapso-mundial-internet_0_lyH515XqRf.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Oct 2025 18:33:22 +0000",
+      "summary": "<ul><li>Una falla en el sistema de nombres de dominio (DNS) de AWS afectó este lunes a miles de servicios digitales en todo el mundo. </li><li>El incidente reveló la enorme dependencia global de la nube de Amazon.</li></ul>"
+    },
+    {
       "title": "Magis TV PRO: ¿por qué es una de las apps menos seguras de la actualidad?",
       "url": "https://www.clarin.com/tecnologia/magis-tv-pro-apps-seguras-actualidad_0_URAhXwaPmg.html",
       "source": "Clarín Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Mon, 20 Oct 2025 13:47:18 +0000",
       "summary": "<ul><li>La falla en la nube AWS afectaba este lunes a miles de servicios en todo el mundo. </li><li>En Argentina generó demoras y errores en billeteras virtuales, apps de diseño y plataformas digitales.</li></ul>"
-    },
-    {
-      "title": "Conectarse a una red Wi-Fi sin contraseña: tres formas de hacerlo, paso a paso",
-      "url": "https://www.clarin.com/tecnologia/conectarse-red-wi-fi-contrasena-formas-hacerlo-paso-paso_0_4TRGdixGPe.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Oct 2025 08:46:20 +0000",
-      "summary": "<ul><li>Si se pierde la clave o no se quiere mostrar la contraseña, hay alternativas para poder conectarse.</li><li>Cómo manejar la seguridad de los dispositivos.</li></ul>"
-    },
-    {
-      "title": "Llegan a WhatsApp los \"nombres de usuario\": cómo reservar el tuyo",
-      "url": "https://www.clarin.com/tecnologia/llegan-whatsapp-nombres-usuario-reservar_0_W7UNhtKsV3.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 19 Oct 2025 09:00:11 +0000",
-      "summary": "<ul><li>Meta prepara una actualización clave para transformar la forma en que los usuarios se identifican en el mensajero. </li><li>Se podrá ocultar el número de teléfono y sumar una capa extra de privacidad.</li></ul>"
-    },
-    {
-      "title": "Probamos EA Sports FC 26: el sucesor del FIFA cambió lo que todos pedían, pero sigue sin romper el molde",
-      "url": "https://www.clarin.com/tecnologia/probamos-ea-sports-fc-26-sucesor-fifa-cambio-pedian-sigue-romper-molde_0_sihKHvL19g.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 18 Oct 2025 09:02:00 +0000",
-      "summary": "<ul><li>La nueva entrega del simulador de fútbol más popular mejoró lo que debía mejorar. Sin embargo, hay viejos problemas sin solución.</li><li>Ultimate Team, el corazón del negocio.</li></ul>"
     },
     {
       "title": "Selección Colombia vs. Argentina: inteligencia artificial hace su pronóstico y da el marcador final de la semifinal del Mundial Sub-20 de Chile - ELTIEMPO.COM",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQLW8xMHp0eGxlc05hVlloa0Z1UVUzeFd6V0F6NWltUFhPR2w2WnhQcWRXQ2hLZngwSFd5bndPam43M3FZYmx6SkZ3aW0tMGpzeG1wbEc0SmhsV2NoMlRSNklxbFVxV1plN0pqMTVQOFRlNlZjbUFmV245RVFGVHI2NEZCVXMycjkwajNIQlVqdmlaemVSbUxDRXg1S2RBXzh3anBfZGxDSy1QQ1RlcHpKLWMwYWVlS3J5Tl"
     },
     {
-      "title": "Los argentinos prefieren docentes formados en Inteligencia Artificial - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1hEWE1yVk8yZGpGMkJVTzRtTWNUMkFhRVVJUlc3a3lDZ3d4MG5fSjJwVzdTYThlM3NEeU81aHNWQ0dMQ3VGU21DYlVTSGJ5c3lLR01WNlpKY1JsZ2Nka0VnVnJuZDN3VDRNekFqN3BPbTc3SGtlTElQVTZMMlUyNktNZ2pWc2tDOUtLa3R0dV9fc0FRQUhoMzFocVFUcW9RLUlDVjRxanhzZjFVeDFudlhiREZsZXJINHfSAb8BQVVfeXFMUHFzT0ltbEFUOW9mSGw5cVQ3Vnp6QVV0RmEzaUhxQ05OZWZDR3JEa3JKWC01SHpBQmNKbW56VVdXcFZ3SGZVRndqbENLUHhMenJNdW11aElQZWhMQ3R6MW1rOW1vRFp2UTlEazN4WXhnTEdlalloZUVMb1gtNjNwcXdKNFRzRUtUV2pIUTdvMnI1Ynp5akhLSndGWWY5d2l1c1FLdExDejg5VE1jdG4tLXE0Wm5ROXhTc0ZiMkVIaEE?oc=5",
+      "title": "Un país de América del Sur se prepara para liderar la nueva era de la inteligencia artificial y la energía luego de haber sido seleccionado por OpenAI - Gizmodo en Español",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ1lvNWNwbVVkRDE2N2Z1OU16NTlyUXppRkVBQWxDUmtZWkR5QXdsVHFOeVgwS3YweFEwUGt3QnB0dXhjal9pYXl5R1JmMm5HTzRwdGhrMjNmaWNISllyTkwzZWk3cDk0R2J6WGxtS3RmRFZwNHVCWm1mdE5xay1fa0xqYi15T2M0Q0RGc1c0c2dZQVZLbkV1cjZhd1NVbVhLeEszaVZHYmNmUlRFU21BV3RaelU2R2htM0lSQ1RrSHJmY1BTVUlXYjJuTHhjR0dkVEt1V2ZlblVUTXlWcldrRm5GeDhESkd0RGJZczhHbml0U1kyREVrelhDV1Q0amNWZWNuZU9UNHNwTi1kc2wxdFl3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 11:58:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1hEWE1yVk8yZGpGMkJVTzRtTWNUMkFhRVVJUlc3a3lDZ3d4MG5fSjJwVzdTYThlM3NEeU81aHNWQ0dMQ3VGU21DYlVTSGJ5c3lLR01WNlpKY1JsZ2Nka0VnVnJuZDN3VDRNekFqN3BPbTc3SGtlTElQVTZMMlUyNktNZ2pWc2tDOUtLa3R0dV9fc0FRQUhoMzFocVFUcW9RLUlDVjRxanhzZjFVeDFudlhiREZsZXJINH"
+      "published": "Mon, 20 Oct 2025 12:31:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ1lvNWNwbVVkRDE2N2Z1OU16NTlyUXppRkVBQWxDUmtZWkR5QXdsVHFOeVgwS3YweFEwUGt3QnB0dXhjal9pYXl5R1JmMm5HTzRwdGhrMjNmaWNISllyTkwzZWk3cDk0R2J6WGxtS3RmRFZwNHVCWm1mdE5xay1fa0xqYi15T2M0Q0RGc1c0c2dZQVZLbkV1cjZhd1NVbVhLeEszaVZHYmNmUlRFU21BV3RaelU2R2htM0"
     },
     {
       "title": "Red Hat Summit: Connect Buenos Aires 2025 mostró cómo la inteligencia artificial abierta está transformando los negocios y la sostenibilidad - ITSitio",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdnJDa1VGNmpGd1Q1WUdXRV9leXhmbUdhRVdxbkFlejUwdzEyYmR5SnIzN0hNRU9KQll2SW1vTk9pSU5ZWkt5ODFmeDZKS0xnSHJVVzBwOV9iWlp3U0ZYNmNfLU9qSldnVTJSNGotRHBjd1o3M2h4YTJseFI5RDJPRVE3SzRHdy1ta1VUMU1hVF95NXlmUDE4amNDWW5vMHlUTnpOYWpnMEFHZk1XamNZQXZsOGxnYmZDYj"
     },
     {
-      "title": "Inversiones mexicanas en startups argentinas: nueva misión comercial 2025 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXR4TkgyeXFIT3pnTGFHTjNVRDdUR3JPZl9MaDZFeUdWS0ZUdk5xUWExRWktVy0xa3lLNFgxV3RxbkVIeW1QNUQ3UkdBeE5qOUxjNHFjUDl1UnFySGpVejkxcFZNaF9zVkliYS1QVi1RQWZzZXJOSEhuUVh2YUc0UFN5OS16bnZ3Z01GdXliVkpsU1JabThFZXBPTEN1MURvaTRuSTVn?oc=5",
+      "title": "Startup argentina de IA médica recibe inversión de Roche y Pfizer - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTlrZmZhdGpsRnFhODdSdnhmSEFaNml0WFV1NXV0LV9sa1hCWFBqTnhCRE5PSnJfVmpkUTBZQ3ZCWW9tRklnZnNRN2tzUHJPbjNjN1ptc09zanQ1dlJ2YW5QTGVDLWFwVU52b2hBMklOQzRHanNGcDZpeWhreVBoRWdFQ0cxc2dLNGVYdFJ2STVNbjRSc29jdUdoMFg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 19 Oct 2025 22:04:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXR4TkgyeXFIT3pnTGFHTjNVRDdUR3JPZl9MaDZFeUdWS0ZUdk5xUWExRWktVy0xa3lLNFgxV3RxbkVIeW1QNUQ3UkdBeE5qOUxjNHFjUDl1UnFySGpVejkxcFZNaF9zVkliYS1QVi1RQWZzZXJOSEhuUVh2YUc0UFN5OS16bnZ3Z01GdXliVkpsU1JabThFZXBPTEN1MURvaTRuSTVn?oc=5\" target=\"_blank\">Inv"
+      "published": "Sun, 19 Oct 2025 09:06:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTlrZmZhdGpsRnFhODdSdnhmSEFaNml0WFV1NXV0LV9sa1hCWFBqTnhCRE5PSnJfVmpkUTBZQ3ZCWW9tRklnZnNRN2tzUHJPbjNjN1ptc09zanQ1dlJ2YW5QTGVDLWFwVU52b2hBMklOQzRHanNGcDZpeWhreVBoRWdFQ0cxc2dLNGVYdFJ2STVNbjRSc29jdUdoMFg?oc=5\" target=\"_blank\">Startup argentin"
     },
     {
       "title": "Lanzar una startup tech en la Argentina de Milei, entre expectativas y riesgos - bloomberglinea.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZz"
     },
     {
-      "title": "Startup argentina de IA médica recibe inversión de Roche y Pfizer - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTlrZmZhdGpsRnFhODdSdnhmSEFaNml0WFV1NXV0LV9sa1hCWFBqTnhCRE5PSnJfVmpkUTBZQ3ZCWW9tRklnZnNRN2tzUHJPbjNjN1ptc09zanQ1dlJ2YW5QTGVDLWFwVU52b2hBMklOQzRHanNGcDZpeWhreVBoRWdFQ0cxc2dLNGVYdFJ2STVNbjRSc29jdUdoMFg?oc=5",
+      "title": "AgTechs, las startups del agro ante los desafíos de escalar la tecnología argentina para el mundo - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmZoSWJPb1BkTFhIU1hkQld1QzRzYmlyUXIyLTZhZnQ2MVRySjJ1bC0xWUk5RVdWck9kZjM4ZG5XM2g4N01jVW54a0lLR3BUZHhwYWQ2MXM3N3VFZlVIZGlJWllQSmNkSy1WYzFTMTlKUmF6Nmg3a0VvdWtOR1p1MnhzT0V2QUJGMnRYSWJnSGNGS1V2ZWVERXFPbTJoWkN6a3FhWnM3MDBYV2REc0JNb9IBtgFBVV95cUxNdG5Td011UjNSZ2dtUDBnREp2RmJaYTgxMmI0MXNKVjd6NlNqUFUtZm4yX1hZTlFlUzlOTmZtVzRiaHlwWU1kTkhqNWg0UTJlZ1NCenZIMkprcnZKSVFDYXh1bGRmY0d5QWdrM3VfNG04djlOZlFCY0YzUkNpUURnbVFDYVIxWGN3N3pDcERuTjQ1QTYwa2V6VkFJV2RLRGZ2U1RlOUxydXQ5anpESGJ1YktfRkZZZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 19 Oct 2025 09:06:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTlrZmZhdGpsRnFhODdSdnhmSEFaNml0WFV1NXV0LV9sa1hCWFBqTnhCRE5PSnJfVmpkUTBZQ3ZCWW9tRklnZnNRN2tzUHJPbjNjN1ptc09zanQ1dlJ2YW5QTGVDLWFwVU52b2hBMklOQzRHanNGcDZpeWhreVBoRWdFQ0cxc2dLNGVYdFJ2STVNbjRSc29jdUdoMFg?oc=5\" target=\"_blank\">Startup argentin"
+      "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmZoSWJPb1BkTFhIU1hkQld1QzRzYmlyUXIyLTZhZnQ2MVRySjJ1bC0xWUk5RVdWck9kZjM4ZG5XM2g4N01jVW54a0lLR3BUZHhwYWQ2MXM3N3VFZlVIZGlJWllQSmNkSy1WYzFTMTlKUmF6Nmg3a0VvdWtOR1p1MnhzT0V2QUJGMnRYSWJnSGNGS1V2ZWVERXFPbTJoWkN6a3FhWnM3MDBYV2REc0JNb9IBtgFBVV95cU"
     }
   ],
   "count": 14
