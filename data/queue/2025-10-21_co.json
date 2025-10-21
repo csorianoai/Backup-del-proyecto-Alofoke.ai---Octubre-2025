@@ -3,6 +3,22 @@
   "country": "co",
   "articles": [
     {
+      "title": "Llega la Cumbre de IA de Portafolio: lo que debe saber para participar",
+      "url": "https://www.portafolio.co/tecnologia/portafolio-organizara-cumbre-de-inteligencia-artificial-640856",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Tue, 21 Oct 2025 17:19:57 +0000",
+      "summary": ""
+    },
+    {
+      "title": "AWS explica la causa del fallo que afectó a plataformas en todo el mundo",
+      "url": "https://www.portafolio.co/tecnologia/aws-explica-la-causa-del-fallo-que-afecto-a-plataformas-en-todo-el-mundo-642659",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Tue, 21 Oct 2025 16:36:35 +0000",
+      "summary": ""
+    },
+    {
       "title": "Abra los ojos: estos son los 3 billetes que más se falsifican en Colombia",
       "url": "https://www.portafolio.co/tecnologia/abra-los-ojos-estos-son-los-3-billetes-que-mas-se-falsifican-en-colombia-642559",
       "source": "Portafolio Tech",
@@ -27,28 +43,20 @@
       "summary": ""
     },
     {
-      "title": "El posible efecto cognitivo que ChatGPT podría causar en los niños, según expertos",
-      "url": "https://www.portafolio.co/tecnologia/chatgpt-podria-generarles-este-problema-cognitivo-a-sus-hijos-segun-expertos-642231",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Sat, 18 Oct 2025 21:00:00 +0000",
-      "summary": ""
-    },
-    {
-      "title": "Imperdibles: los celulares nuevos que están en tendencia, vea cuáles son",
-      "url": "https://www.portafolio.co/tecnologia/imperdibles-los-celulares-nuevos-que-estan-en-tendencia-vea-cuales-son-642426",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Fri, 17 Oct 2025 22:24:34 +0000",
-      "summary": ""
-    },
-    {
       "title": "Colombia es cuarta en ranking de adopción de inteligencia artificial en América Latina - LaRepublica.co",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTW9ENmhZVUFGSFh0RmFkRk9zMFN3R0pUdHB2aUt1V1FXZGgyUHdDcnZqaHlLV0dNTktaN1lMUTF0X1RXNS1PX1RkSkdIOGxDWlNCaUw5Qy1EVDBibGp5ZFZRNmFKMV9CRnlZMmdsNFJjQm90ajcyeXF2bU5zcDgtM05GYktIVFZNbEs4bmZocThmZUNNdWFnbDBTdTJRa1NLSnJVMEFpTG5lZ3FrVjFTUzZsbGZOVFQ0MWVCTFFjTWFyQ3daRHI5QTBTMkJDNnF00gHQAUFVX3lxTE5YNF9MYkdwQ05xZDdXRGlreGRhc0dSdHB2S3RKRlpLTl9TQlFXUTVOLVpPM2FuaWpRdUtRU0V2a1p2enZoSTM1d3Joa0UycWIyb3JkU204S21STzF0ZzN3OFU2LVlPdmhnRldDSVM0ZDVXNEVPTV9YQ2wzVHpuUnZoSVNvc2hCUVdjWlU5TTVVa3hLdzNYZkFsR001LXFCRXRTOW5YTW1fbU9COWRPZFpGenN3UWRhbFlnYkFFdGhRRTA3S3FVcFRlMGpCSFpRTTk?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 21 Oct 2025 05:13:37 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTW9ENmhZVUFGSFh0RmFkRk9zMFN3R0pUdHB2aUt1V1FXZGgyUHdDcnZqaHlLV0dNTktaN1lMUTF0X1RXNS1PX1RkSkdIOGxDWlNCaUw5Qy1EVDBibGp5ZFZRNmFKMV9CRnlZMmdsNFJjQm90ajcyeXF2bU5zcDgtM05GYktIVFZNbEs4bmZocThmZUNNdWFnbDBTdTJRa1NLSnJVMEFpTG5lZ3FrVjFTUzZsbGZOVFQ0MW"
+    },
+    {
+      "title": "Colombia | Comunidad internacional respalda al país en la búsqueda de regular la IA - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORl9xWVNwQVFOeElXbXVzMndUYmYxbmdZN2lORGppdjNqdTkwN29aRW1xT1FJelFQeFk5MnBOS0t1WDNiTFIyZnNIVkdaVnNmSjFIeHNWdTlSR3dCWnkzamZJQjA0cVNySzBHekdXemJJbVNENDJiWC0yWWlDMFM4WUVoM2xnNlZJU0hDaFRXVzNNZE13bFpHSTEydmJHSjBBN054RA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Oct 2025 18:08:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORl9xWVNwQVFOeElXbXVzMndUYmYxbmdZN2lORGppdjNqdTkwN29aRW1xT1FJelFQeFk5MnBOS0t1WDNiTFIyZnNIVkdaVnNmSjFIeHNWdTlSR3dCWnkzamZJQjA0cVNySzBHekdXemJJbVNENDJiWC0yWWlDMFM4WUVoM2xnNlZJU0hDaFRXVzNNZE13bFpHSTEydmJHSjBBN054RA?oc=5\" target=\"_blank\">Colom"
     },
     {
       "title": "Zipaquirá, nuevo epicentro de la inteligencia artificial en Colombia - Ministerio de Educación Nacional",
@@ -59,36 +67,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHlzSUhsdjQ4UlliaVg3bkNDTXl5b1NZUVFHQWYwNk1JaXpGcTlrMFhJcjEtMTY2SE93UE1RZmJ1NmNZeURwdXBUMFVrZFdjdjJ6SXpJbjRLOGJVZm53MFQwNDJxQm15UGdPWkZ2SklZUVA1NDRFeG9VeHhxQVpMcHVYckNnTEVweGt3VE40UDNTeDBBRURxTGRuUWhTM01RSzNfQzhvN0hidTFaQnJkT1lndHUzSC1ad1"
     },
     {
-      "title": "Colombia liderará la conversación global sobre educación e inteligencia artificial en Cartagena - Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTI1VEpGaWZKUkZxX1pRd1liY3paVUVpcEFuMVkyaVd0STJyZkpoOUhNWlljTGpLZEZ1a0hkZDZ2OVZEN3QtaXFsLXQyWVMtMHMwY3Fpczd2VU1hZC13LVladF84LXJiaUdwelV0YlFaUWhsVUVhOWUtWmxHQ3lqclFZN1dKclZNMTVmRk9vUjdRR29DVldwT3E5V1ctRDZRZy1ET0ZKY3dfMGZJWnNXSGdmM1psa2tXaFZHNmhiUTRYU3BHWVROcnp30gHeAUFVX3lxTE5XeGNBbzR4dXdZUTZvSU8yRUZ6QnVuQ2hMZWFINDVNa1hDb1pmd3JEZTNxT1BBRHNfN2dWQWpWMzFuZWpzNXd0NzFfXzRURGdnMHd0dlR5ZXRQcndGLUVzVnRIWGxZVURQclNYdlRrMGQ1cktkSU5YMnF5RHk5TW1CdGtMX0c3R0pFOS0zSDY2SkZqRTR4cExrQ1RkdkJIMVo0b1hJMkIxMGhFYllSUHk2ZklNNHZwVGJub09xT0tnZ0w4TFQwNUYwY1hQYUExQkllZjlpVEpCQU9DSTRVZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 20 Oct 2025 17:13:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQQTI1VEpGaWZKUkZxX1pRd1liY3paVUVpcEFuMVkyaVd0STJyZkpoOUhNWlljTGpLZEZ1a0hkZDZ2OVZEN3QtaXFsLXQyWVMtMHMwY3Fpczd2VU1hZC13LVladF84LXJiaUdwelV0YlFaUWhsVUVhOWUtWmxHQ3lqclFZN1dKclZNMTVmRk9vUjdRR29DVldwT3E5V1ctRDZRZy1ET0ZKY3dfMGZJWnNXSGdmM1psa2tXaF"
-    },
-    {
       "title": "Así está la movilidad en la Vía al Llano Bogotá-Villavicencio hoy martes 21 de octubre - Bogota.gov.co",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkkxZHZvX3QzMFdvenA4NTRHcUR5RWp4T3l0Q1E3WDJrb1BCQjlCc1FpNm5mMnJScHJaekVnaEQta2wtZERqMms3SEwxNUc1cUpTZFR3R3dNMUdodURiNXJ4SlBnLTNseHBYSmpEQ1hGQlVXXzdSN2hvWUE3cmlheG1oMHI5Ums5czd0emJvWUhGU3JjazJQVFFCQ3BWNkgtemZjZWFic2o4dw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Oct 2025 11:41:00 GMT",
+      "published": "Tue, 21 Oct 2025 13:30:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkkxZHZvX3QzMFdvenA4NTRHcUR5RWp4T3l0Q1E3WDJrb1BCQjlCc1FpNm5mMnJScHJaekVnaEQta2wtZERqMms3SEwxNUc1cUpTZFR3R3dNMUdodURiNXJ4SlBnLTNseHBYSmpEQ1hGQlVXXzdSN2hvWUE3cmlheG1oMHI5Ums5czd0emJvWUhGU3JjazJQVFFCQ3BWNkgtemZjZWFic2o4dw?oc=5\" target=\"_blan"
     },
     {
-      "title": "Los 9 trabajos de Bogotá mejor pagos y que pocos hacen o estudian, según la IA - Portafolio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUM3RExhNUFJUlVoV1FJWU1EMVZxelVpRkE4SEFiZnRqdG1RcFFuQ2k0elFJVGpORGR0MEkwZ1c0SHRtWE1jaVVVWVIxSGMxajRTMEZ3NUozLWUzT0ZwYVVVYjZhajlaZ3FuQ2Fvb3FRaEJJcmZMMXFmY2ZKU21DX1duUi1BWVFMWm1BMVZJS1ZMdHpXbmR4OXE3Y29QN2tQUjBwM0VxVWwtOVk2eU5SVE5ZU2l3SWJwSVVlUUVhbzQ5al8w0gHKAUFVX3lxTE1GWng0TU8yYV9wdnRfMGtGUzh6NTAzODNnV0o5NTBMOUVBdXlBOElUalpqY1g4MkNSakRTVXN1RjFfY2xNWFNZY0NNZW00eDlDS2VZQUJ1Q1lrcWhVNzhHT0ZYMVhGVGhXNWhUYnVmZ0ZQYzFadEJEcHY2Wm95WE00X2pQOENRQWg4MEdOblZHTHV2UW1ZQ1g0N0hNU2Z5b2swY0FfUUJVRnlsdTNlc21CWFIyYXd6eWVZRG9ieFBuMXBKTXdVMlVvcGc?oc=5",
+      "title": "Contraloría exige concesión vial tras derrumbe en vía Bogotá-Villavicencio - El dorado radio",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnlMN2hqczU2ekhzSGlBOW5TNVByX3hnWHVqVnJKbnVzRlpJVTNSQjZmN2RiWmxtc0NFbVpxWUtoYXI2ZHRnYnRITGs2c3JuRnJxOV94eXR5U1FMejkwREVES0xQY1k4aWRKNFd3d1NmNzZRb2dVU0d1NUdMc0ZPVE5kaTVKMnFxaUh3SkdYR2czU3hqd3RfUXllWFgyb29LbzEwVEEtbEk5ZEJuWWxfRHhWbUZHemNYMl95bk93TU1NdFJE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 20:32:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUM3RExhNUFJUlVoV1FJWU1EMVZxelVpRkE4SEFiZnRqdG1RcFFuQ2k0elFJVGpORGR0MEkwZ1c0SHRtWE1jaVVVWVIxSGMxajRTMEZ3NUozLWUzT0ZwYVVVYjZhajlaZ3FuQ2Fvb3FRaEJJcmZMMXFmY2ZKU21DX1duUi1BWVFMWm1BMVZJS1ZMdHpXbmR4OXE3Y29QN2tQUjBwM0VxVWwtOVk2eU5SVE5ZU2l3SWJwSV"
+      "published": "Tue, 21 Oct 2025 16:41:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZnlMN2hqczU2ekhzSGlBOW5TNVByX3hnWHVqVnJKbnVzRlpJVTNSQjZmN2RiWmxtc0NFbVpxWUtoYXI2ZHRnYnRITGs2c3JuRnJxOV94eXR5U1FMejkwREVES0xQY1k4aWRKNFd3d1NmNzZRb2dVU0d1NUdMc0ZPVE5kaTVKMnFxaUh3SkdYR2czU3hqd3RfUXllWFgyb29LbzEwVEEtbEk5ZEJuWWxfRHhWbUZHemNYMl"
     },
     {
-      "title": "Movilidad en la Vía Bogotá-Villavicencio, este lunes 20 de octubre - Futbolred",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWo2VHpzTXJsdjRYQ25CTEtFSjBxNkV6c1M2V28tWF8tY2VfQWtGYXhFR2N5dm1fMWtOOTVJcXpTMDZVUlVjaWVNSEVKUHROajI1WFotbTJ6amoyZmR2OEEyWXJMREVYaHdiNk11QU8tQTl6X3ljWUZQT0VsaUFMNVVrM0RKNzBJRW4xLWVpUHRyZVhrbERvb1Njb3AtdTVCRVd0RjRtVlplLXBKUWd5aXZ0NXl6Zy0zMVpVeTAxVzYxVU9tZEFKddIBzgFBVV95cUxOektiMUpueUNTWllzSmt5SDVEemFQM2JGUTlIWVZHLVFGbHIzLTlVcUtoUW1sVEFaLTIxYnRWRGNPZkw3UG03Wm12a05sc3pBWk5sbkpXNGQtOXFBeWJvT09vM2RyVEk0czN5a0JYcWFqZWVmTUJ4a2g3S1dtb2hNdXR0b1dFR1BjX1p5ck9wVmdPdDNCMnJfbXNkdEtVbUN4NHlCZ0RIMlBMZVRKV0UxSXk3dEJ3ckVqSGJ1NnJNa2VUY0xyTm1CckNMNHJ5dw?oc=5",
+      "title": "Estos son los lugares ideales para festejar Halloween en Colombia, según la IA - Portafolio",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVNfaUkyWVNSTC03RGM5ZlZnMkM0MGxzTHpXb19RTlVaWXBjVkllSDltU1VXOXAzUWdXTE41YkNJN3hOaHZlUUtpRldCM2Q0eGZva0s0MkJtTGtsM3VmOU1pTkM4WFJ3Nm5IZjJsbFo4azU4dlRFcEVSOXlQSjV6eTBQMzFyUDUySUd4QkhLeUFfZUJxXzFPSGdRcHNpYWFRYm1uc0I3MG5kTmtyYUZRZEhKZDBYc2g3dHIwbjFB0gHDAUFVX3lxTFBiZXBJT0loZVZJZE1ELUNZTGkyMF8tOFFyQk1YR0F3d09ZaFVLek1zemdfS21VcEdaUUZndnFPQ3RHX095QVlEcWN6c05aZlh4bFNwY1FVcFNXSk9fZVZpWnJJZUJCMDIzZ1NESG9kWEpyaUk0djUyOEdRVmt1YkdwNldSVkVuNVZoTi1BRnlwWmdZa242c3Z1T1RLR2dLWE5jMVJrRndGOXQ3aFJIb25VYXlkLXNqWktRMDhLeGlhdXFJNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 13:28:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWo2VHpzTXJsdjRYQ25CTEtFSjBxNkV6c1M2V28tWF8tY2VfQWtGYXhFR2N5dm1fMWtOOTVJcXpTMDZVUlVjaWVNSEVKUHROajI1WFotbTJ6amoyZmR2OEEyWXJMREVYaHdiNk11QU8tQTl6X3ljWUZQT0VsaUFMNVVrM0RKNzBJRW4xLWVpUHRyZVhrbERvb1Njb3AtdTVCRVd0RjRtVlplLXBKUWd5aXZ0NXl6Zy0zMV"
+      "published": "Tue, 21 Oct 2025 16:59:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVNfaUkyWVNSTC03RGM5ZlZnMkM0MGxzTHpXb19RTlVaWXBjVkllSDltU1VXOXAzUWdXTE41YkNJN3hOaHZlUUtpRldCM2Q0eGZva0s0MkJtTGtsM3VmOU1pTkM4WFJ3Nm5IZjJsbFo4azU4dlRFcEVSOXlQSjV6eTBQMzFyUDUySUd4QkhLeUFfZUJxXzFPSGdRcHNpYWFRYm1uc0I3MG5kTmtyYUZRZEhKZDBYc2g3dH"
     },
     {
       "title": "Esta startup colombiana está creando cabinas con empleados digitales usando tecnología de Nvidia - Forbes Colombia",

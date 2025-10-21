@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Wikipedia pierde usuarios humanos y aumenta tráfico de bots",
+      "url": "https://expansion.mx/tecnologia/2025/10/21/wikipedia-pierde-usuarios-humanos-y-aumenta-trafico-de-bots",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Oct 2025 18:00:14 GMT",
+      "summary": "Con el auge de la Inteligencia Artificial, la cantidad de usuarios que visitan el sitio web se redujo drásticamente, pero acceden a su información de otras formas."
+    },
+    {
+      "title": "Warner Bros Discovery entra en fase de revisión y evalúa su venta",
+      "url": "https://expansion.mx/tecnologia/2025/10/21/warner-bros-discovery-anuncia-que-esta-a-la-venta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Oct 2025 15:47:18 GMT",
+      "summary": "La empresa es propietaria de activos como HBO o CNN, pero ahora busca ser rentable a través de la escisión."
+    },
+    {
+      "title": "¿Qué causó la falla en AWS?",
+      "url": "https://expansion.mx/tecnologia/2025/10/21/aws-revela-causa-falla-masiva",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Oct 2025 14:22:10 GMT",
+      "summary": "AWS tiene un tercio de la capacidad de la nube mundial, por lo que millones de aplicaciones y sitios de internet dependen del gigante estadounidense."
+    },
+    {
       "title": "¿Quién es el dueño de Samsung y cuál es la disputa que enfrenta con el SAT en México?",
       "url": "https://expansion.mx/tecnologia/2025/10/20/quien-es-el-dueno-de-samsung",
       "source": "Expansión Tecnología",
@@ -19,36 +43,20 @@
       "summary": "El sitio Downdetector dice que las fallas pueden estar relacionadas con los problemas que se registran en el servicio AWS de Amazon."
     },
     {
-      "title": "El algoritmo no basta. Este es el factor humano en las plataformas de música",
-      "url": "https://expansion.mx/tecnologia/2025/10/20/spotify-plataformas-ocupan-factor-para-que-descubras-musica",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Oct 2025 18:23:57 GMT",
-      "summary": "Aunque la IA domina las listas de reproducción, los curadores humanos siguen siendo clave para descubrir nuevos talentos."
-    },
-    {
-      "title": "Por qué una falla de AWS puede detener bancos, aerolíneas, apps y hasta gobiernos",
-      "url": "https://expansion.mx/tecnologia/2025/10/20/por-que-falla-de-aws-amazon-puede-detener-bancos-aerolineas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Oct 2025 16:07:54 GMT",
-      "summary": "El incidente de este lunes genera afectaciones operativas que impactaron a compañías con presencia internacional y a sectores que dependen del entorno digital para generar ingresos."
-    },
-    {
-      "title": "Agencia de Transformación negociará con Hacienda pago de trabajadores del IFT",
-      "url": "https://expansion.mx/tecnologia/2025/10/20/crt-nacera-con-deuda-labora-heredada-del-ift",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Oct 2025 15:00:49 GMT",
-      "summary": "La Agencia gestionará la indemnización de 133 trabajadores del IFT, luego de que el Instituto devolviera a Hacienda los recursos del fideicomiso con el que planteaba liquidar a su plantilla laboral."
-    },
-    {
-      "title": "México y el mundo viven la otra cara del crecimiento de los centros de datos para impulsar a la inteligencia artificial - Entrepreneur",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc21velRvZDN3MUhtV1VWVTFDUHE4TW9ITW5HWjI5MnUxOE96M0E0T3huRWNvZlVLdmRGTDFwOE9NaTZpbHNPcDNQdHZ0NXBLNUhDeGdPTTVXaXVFSldNZV8tdUhyenY5b2FsOWRianBvRF9LeWRVU1N4RTJzNThrUWl0cEFreVh0d29JbHBjSW1iSzNvMDVxMXBYa2Y3Qjhkd1gydUFMMmFlOUI0ZGdMZE9wMjlTZmxmWFEyYU1xTUpFbFIyeUhLVGM1MDF5X2VCcFlQU0xCVzZNSll6NWZjRWg0LTQ0QXNSeHRSRW5nNGh6eUU?oc=5",
+      "title": "Inteligencia artificial en la seguridad del retail: cómo los minoristas en México blindan sus tiendas y clientes - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVdtemtmV1JieDRESTE0eFpTY1pRem81a2d0S0g5NmpKaGVTd0lGeTF4bFNPdE9pXzctaktzTUFyd0hmWFF5MEIwN2loSkZjRjZDSHRtMW44b3pOT3BZUS1sTl9ISm81RTQ0NmdyYnNhNkNkYzFrZS1JZkdNd3JsMDFBZmdxalBxSmMyb0JMbUNQVW1CUzZBd3kzNU5qRnRJMlJJOXZkUEdselNJeGhXTkRUZXFad0hyMHJvYTY5YmZ4YThGb2J0VUszZkpCYUUySXlWUkFPN0JDQW9JbkFMTlNnNkl0UWM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 23:06:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc21velRvZDN3MUhtV1VWVTFDUHE4TW9ITW5HWjI5MnUxOE96M0E0T3huRWNvZlVLdmRGTDFwOE9NaTZpbHNPcDNQdHZ0NXBLNUhDeGdPTTVXaXVFSldNZV8tdUhyenY5b2FsOWRianBvRF9LeWRVU1N4RTJzNThrUWl0cEFreVh0d29JbHBjSW1iSzNvMDVxMXBYa2Y3Qjhkd1gydUFMMmFlOUI0ZGdMZE9wMjlTZmxmWF"
+      "published": "Tue, 21 Oct 2025 15:00:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVdtemtmV1JieDRESTE0eFpTY1pRem81a2d0S0g5NmpKaGVTd0lGeTF4bFNPdE9pXzctaktzTUFyd0hmWFF5MEIwN2loSkZjRjZDSHRtMW44b3pOT3BZUS1sTl9ISm81RTQ0NmdyYnNhNkNkYzFrZS1JZkdNd3JsMDFBZmdxalBxSmMyb0JMbUNQVW1CUzZBd3kzNU5qRnRJMlJJOXZkUEdselNJeGhXTkRUZXFad0hyMH"
+    },
+    {
+      "title": "Clia: propuesta de Inteligencia Artificial Conversacional en ERP Summit México - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEtPOVE5MWhLbEFrLVp1VlN5a1lqZWFpbG9UQXYtUWJwREN0Y3VDSlBvSzMyM2hDV0k5blR1OVNmazgtZHBMMmM1UFQzaFViTnQxTXkzN19hdWZNWDlHeVNfUWo5a2lkYmFoLVpDZDA1bDRPTTYzWFRKWW5ZUXM0Q2JoRnRITmpJNFZMNjFRcW43SVM0MGFXTko2N0MwT19wNHpMZ2k3TVVRbV9SSlNHbGRLTFNVMlNxM2RwNlRRb2NPdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Oct 2025 18:11:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEtPOVE5MWhLbEFrLVp1VlN5a1lqZWFpbG9UQXYtUWJwREN0Y3VDSlBvSzMyM2hDV0k5blR1OVNmazgtZHBMMmM1UFQzaFViTnQxTXkzN19hdWZNWDlHeVNfUWo5a2lkYmFoLVpDZDA1bDRPTTYzWFRKWW5ZUXM0Q2JoRnRITmpJNFZMNjFRcW43SVM0MGFXTko2N0MwT19wNHpMZ2k3TVVRbV9SSlNHbGRLTFNVMlNxM2"
     },
     {
       "title": "CDMX realiza la Megaclase de Inteligencia Artificial más grande del país - Infobae",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 20 Oct 2025 00:03:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGhCUHMyZW8yWHdiNHNTWVRTN2hxeDFEQzZKeGg2RFVVUjREaHBSNzktR1I3LW5RdzRrV3hINWh0OG43b3lNN3hHYzRJN09ueG9VRmFOeG1XbjlwRWc1QjM3SFlVdldQMzM0UmpZYXFXMFVNUTVxdXg5NWFPOG5NNktQQ3l0RGpWX3lmNmxUN3d2TmZEM01CcVQ3UVBYOXRCLUtnb3Q0bFVCYUJnMm9OaXlGcXlTUdIB0A"
-    },
-    {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
     },
     {
       "title": "La EHU impulsa la formación en IA junto a las startups Orai y Multiverse - El Ecosistema Startup",
