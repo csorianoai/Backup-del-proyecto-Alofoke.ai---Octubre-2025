@@ -3,52 +3,60 @@
   "country": "co",
   "articles": [
     {
+      "title": "Qué significa que una persona lea sus mensajes y decida no responder, según expertos",
+      "url": "https://www.portafolio.co/tecnologia/que-significa-que-una-persona-lea-tus-mensajes-y-decida-no-responder-segun-la-psicologia-642766",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Wed, 22 Oct 2025 18:05:12 +0000",
+      "summary": ""
+    },
+    {
       "title": "Cumbre Portafolio de la IA: regulación y uso en Colombia",
       "url": "https://www.portafolio.co/tecnologia/cumbre-portafolio-de-la-ia-regulacion-y-uso-en-colombia-642737",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Wed, 22 Oct 2025 14:02:46 +0000",
+      "published": "Wed, 22 Oct 2025 16:50:07 +0000",
       "summary": ""
     },
     {
-      "title": "‘La inteligencia artificial es clave para que Colombia trabaje menos y gane más’",
-      "url": "https://www.portafolio.co/tecnologia/el-potencial-de-la-inteligencia-artificial-para-generar-crecimiento-segun-jaime-pumarejo-642735",
+      "title": "¿Cómo impulsar la inteligencia artificial sin traspasar los límites éticos?",
+      "url": "https://www.portafolio.co/tecnologia/la-etica-debe-ser-pilar-fundamental-de-la-inteligencia-artificial-en-colombia-642757",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Wed, 22 Oct 2025 13:45:54 +0000",
+      "published": "Wed, 22 Oct 2025 16:48:18 +0000",
       "summary": ""
     },
     {
-      "title": "La carrera por la IA y la nube está dejando expuesta la seguridad empresarial",
-      "url": "https://www.portafolio.co/tecnologia/la-carrera-por-la-ia-y-la-nube-esta-dejando-expuesta-la-seguridad-empresarial-642679",
+      "title": "‘La inteligencia artificial convierte los datos en oro para las empresas’: Blend",
+      "url": "https://www.portafolio.co/tecnologia/las-empresas-deben-aprovechar-los-beneficios-de-la-inteligencia-artifical-642744",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Tue, 21 Oct 2025 22:21:41 +0000",
+      "published": "Wed, 22 Oct 2025 15:47:34 +0000",
       "summary": ""
     },
     {
-      "title": "Llega la Cumbre de IA de Portafolio: lo que debe saber para participar",
-      "url": "https://www.portafolio.co/tecnologia/portafolio-organizara-cumbre-de-inteligencia-artificial-640856",
+      "title": "La IA avanza más rápido que la regulación, advierten expertos en la Cumbre Portafolio",
+      "url": "https://www.portafolio.co/tecnologia/colombia-necesita-reglas-claras-y-flexibles-para-el-crecimiento-de-la-inteligencia-artificial-642739",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Tue, 21 Oct 2025 17:19:57 +0000",
+      "published": "Wed, 22 Oct 2025 14:36:51 +0000",
       "summary": ""
     },
     {
-      "title": "AWS explica la causa del fallo que afectó a plataformas en todo el mundo",
-      "url": "https://www.portafolio.co/tecnologia/aws-explica-la-causa-del-fallo-que-afecto-a-plataformas-en-todo-el-mundo-642659",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Tue, 21 Oct 2025 16:36:35 +0000",
-      "summary": ""
-    },
-    {
-      "title": "‘La inteligencia artificial es clave para que Colombia trabaje menos y gane más’ - Portafolio",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1BTODZNQkNwWjc3OGhuOTQtU0ZhTVdMVXhPTmtHTkUtakl3Z3Vac09kQVdxOHFYalZsNExQQ2VocWRyZ0lnTlJCbDR3UldWWTdYRGp5Q3ZJWEowQTJHaUFaS2RFaUY5SjBSYTdKcFgwQzQ2dmdQajRqZDE3OGluNlNrUElZSnhyamxNcE1LTVhyNW5pa01TbHd1UEYxTHg3SnRPMDI1Q2E0dXZoNGVCSDNabDlmZ1FOQjB5Q3JoOHRyem9kTm9IVWNZamjSAdIBQVVfeXFMTnJwN0lId1V3VHMxeHRTLVZNbUpIeUhOdWRrcGo3Q0FZVEhpRXYwSGVlT2dEX0Nlc2dYR2xnUlJNRUpXZUJRS01MbUFJeTZvVWo5WVY0TFJrT3VGc0FXU1VMWkwzcDVGM1laVkRwSXFPZklJQUJXeUNFWUJHOVU5elR4Wmc4YUk2aERLUHZ3Z1VTemhrUG1MYU16cTJqVkVYRGprem9mdExmNVlEZ3B5WXJDcXJKYVljSGNxOF83QXFIeG4wb1JDeVlJMGpuQ3ZNa1ZB?oc=5",
+      "title": "¿Cómo impulsar la inteligencia artificial sin traspasar los límites éticos? - Portafolio",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUndVa2ZCeUNuRy0yVlZBb2M2Vl9QVlJYWUc3RWNJcnBhYUhuTDA2aGQwWjg1LTBEajItWDFtc2l0b1Nuanp6a3FZVzN1UC1yTGNYOTQ3bUNvck9DMTRibDg2T0dxVGdZTjR4SFY2Q2txT1pnMFBheVoxSmg3MkdESVRWOEtaaFV1NHhzS29iU0VyQjV3NlA5QzFJR3hVeWs5OVdycVdYSk9DZnNYc0dLUmR6cy1CQzRtNjNPZEpn0gHDAUFVX3lxTE5yS2ZGdEpnOVI5N0RubkNLOHNPNE9LZXVfaU91VjkxSExLWmVBcnZNaV91UmlUeDI5Tk9qQzA0OGxQQmlvcC1fTXNUbnFmdDgwNVk1MEM1YXBxNU1SLUlFZkl1bkV0RlZwVkVzeVM3YjQwOEtidXlQdGFmZWM1Um5QT19jZUQwbHRaemZXUG4tWGlES2dHdnRuWmlsY2VaV00yS1IzRm9VTGotY3d4ZS15VlBQSDI3WVl1c013dC05NVRPUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Oct 2025 13:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1BTODZNQkNwWjc3OGhuOTQtU0ZhTVdMVXhPTmtHTkUtakl3Z3Vac09kQVdxOHFYalZsNExQQ2VocWRyZ0lnTlJCbDR3UldWWTdYRGp5Q3ZJWEowQTJHaUFaS2RFaUY5SjBSYTdKcFgwQzQ2dmdQajRqZDE3OGluNlNrUElZSnhyamxNcE1LTVhyNW5pa01TbHd1UEYxTHg3SnRPMDI1Q2E0dXZoNGVCSDNabDlmZ1FOQj"
+      "published": "Wed, 22 Oct 2025 16:48:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQUndVa2ZCeUNuRy0yVlZBb2M2Vl9QVlJYWUc3RWNJcnBhYUhuTDA2aGQwWjg1LTBEajItWDFtc2l0b1Nuanp6a3FZVzN1UC1yTGNYOTQ3bUNvck9DMTRibDg2T0dxVGdZTjR4SFY2Q2txT1pnMFBheVoxSmg3MkdESVRWOEtaaFV1NHhzS29iU0VyQjV3NlA5QzFJR3hVeWs5OVdycVdYSk9DZnNYc0dLUmR6cy1CQzRtNj"
+    },
+    {
+      "title": "OpenAI entra al terreno de Google con Atlas, el navegador web que llega a cambiar la forma en cómo buscamos información en internet con inteligencia artificial ¿Cómo usarlo en Colombia? - Xataka Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMXdZaGhCcUp2Z2RObFJqcTJRQ2hhUjUzTHJsZ2NpOFJILVd5NlFpeGIyQktGNmxPN3hVcElOQnpzaVdUR20wcEtiX3NRT29OSFJyeE1UaFJ0TjdJWjd5a0JxcDNSSHRNS1h2TVZoUHY4YVhYNDA1Mzc1eWx4OU5kUG9KdHVLRm84QjdHclhRc3hnUGpvX2FOakNvSjExTFRlak1HbnI2NUh2UHJXNFFVenA4MWZYZU81ek1mYTh1SWh1UWRhV0JwQnc0R0NITDlZeUM4OHVpN21PTzdvRmNrQ0kweTU0ZFluYTBzSHA2NXFKU1NEYlc3ajNrVkVLa1VSNVYzWlJLM1N4WGNhZjNNRnJ1cmxIb3U3NGUwQXhuVDlqdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Oct 2025 14:50:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNMXdZaGhCcUp2Z2RObFJqcTJRQ2hhUjUzTHJsZ2NpOFJILVd5NlFpeGIyQktGNmxPN3hVcElOQnpzaVdUR20wcEtiX3NRT29OSFJyeE1UaFJ0TjdJWjd5a0JxcDNSSHRNS1h2TVZoUHY4YVhYNDA1Mzc1eWx4OU5kUG9KdHVLRm84QjdHclhRc3hnUGpvX2FOakNvSjExTFRlak1HbnI2NUh2UHJXNFFVenA4MWZYZU81ek"
     },
     {
       "title": "Zipaquirá, nuevo epicentro de la inteligencia artificial en Colombia - Ministerio de Educación Nacional",
@@ -59,36 +67,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHlzSUhsdjQ4UlliaVg3bkNDTXl5b1NZUVFHQWYwNk1JaXpGcTlrMFhJcjEtMTY2SE93UE1RZmJ1NmNZeURwdXBUMFVrZFdjdjJ6SXpJbjRLOGJVZm53MFQwNDJxQm15UGdPWkZ2SklZUVA1NDRFeG9VeHhxQVpMcHVYckNnTEVweGt3VE40UDNTeDBBRURxTGRuUWhTM01RSzNfQzhvN0hidTFaQnJkT1lndHUzSC1ad1"
     },
     {
-      "title": "Colombia figuró en ranking de países líderes en adopción de la IA en América Latina: Chile ocupó el primer puesto | El Colombiano - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3Z1WlJVeGVoZkwtWGRVOFlsTXVHZmdQcnhPTkFHdWd0Wlp0ZjFnWTFMT2NqTmZ1ODFvX0FaNU9ETFQ0YkRNWjB6REgtMTBnVkFJRy1hME9RRUNUTnVpeGdxYnlZUUdNYmZ2clNBbktBSzMzbHNaanNHWVV5SXgzVHNoU2k2UVpMQWfSAY8BQVVfeXFMTWFKdjM1ZTRzcVcwVi1JQ0s1QjdIdzF0dUJ5UW9CZ3ZrbXdjQnNfLVJ0c01LU0NqTjJPM1ZwOGR1LUNpQ1ZuWUNGR1VEZHFTcXFVbzItNk1Ya2hDQTZteE5Xc2c0RnJIdkVORTlnNV94VTdoVU9SWjk1eV9qSzFldHpNbnJ2MlNLdFRGeHJ2anc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Oct 2025 20:37:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3Z1WlJVeGVoZkwtWGRVOFlsTXVHZmdQcnhPTkFHdWd0Wlp0ZjFnWTFMT2NqTmZ1ODFvX0FaNU9ETFQ0YkRNWjB6REgtMTBnVkFJRy1hME9RRUNUTnVpeGdxYnlZUUdNYmZ2clNBbktBSzMzbHNaanNHWVV5SXgzVHNoU2k2UVpMQWfSAY8BQVVfeXFMTWFKdjM1ZTRzcVcwVi1JQ0s1QjdIdzF0dUJ5UW9CZ3ZrbXdjQn"
-    },
-    {
       "title": "Así está la movilidad en la Vía al Llano Bogotá-Villavicencio hoy miércoles 22 de octubre - Bogota.gov.co",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXpSREVpMGNYNkhhRlhGbzZpT0F3LXJsLVN0UTczTkFqNExxemxnd21kYWN1V0R6VlpwMXVTaldhT3ZKX3I1N2NhejRxbEJ5RFd6Ml9lLVIwdVAzUTl5b3VuS1pzdGpSaVJpNEs4UzZsVUxrRkZna0xLTFJvS0ZHclBRN25ucC1SanYxRmpwcklxNWVISXpQdDBMSml1ZTNsTlNXSGsyd28?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Oct 2025 11:21:00 GMT",
+      "published": "Wed, 22 Oct 2025 11:24:02 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXpSREVpMGNYNkhhRlhGbzZpT0F3LXJsLVN0UTczTkFqNExxemxnd21kYWN1V0R6VlpwMXVTaldhT3ZKX3I1N2NhejRxbEJ5RFd6Ml9lLVIwdVAzUTl5b3VuS1pzdGpSaVJpNEs4UzZsVUxrRkZna0xLTFJvS0ZHclBRN25ucC1SanYxRmpwcklxNWVISXpQdDBMSml1ZTNsTlNXSGsyd28?oc=5\" target=\"_blank\">"
     },
     {
-      "title": "Movilidad en Bogotá hoy miércoles, 22 de octubre: congestión en la vía Bogotá-La Calera, en la localidad de Chapinero, por vehículo varado - ELTIEMPO.COM",
+      "title": "Movilidad en Bogotá hoy miércoles, 22 de octubre: no hay afectación en TransMilenio; los buses articulados y la flota del Sitp operan con normalidad - ELTIEMPO.COM",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3IxVmtTUG1Hcy0yWkxsVzZUSVlTbjRNUEhxdW4wXzJJdzAyNU5oRXVJMGs2eml5VzhnVVc4REpUY1c0bm9NQlZqOV9fNGs1RVpoQnBINVFDdFR3VkxGcUdqU0J2ZE55d1JVVF92dF95ejdsc3NBY3lGdXUwMUh2SGNDY0kwLWdBOWdXeEhGNkk4bVdZWVpock5uR3dnWVllUWpleFN5M0JmQm9BMW5pY1htMWtwNUMzNEFGV00yODZGVUt2QmVlMk15TVZVTjVqZFpCdFMwUXJBcm1qSHfSAeMBQVVfeXFMUGFnS00zLV95MUxOSzM1XzFQbV9rSTF4ZHVFcjVNeEx2U1VnNjVTY2U2V3BBeW43TWlPU21KSU9XQnJCaFQ2VEE0b0dZRkhIYUdwdktSX3FGX3lYSVRXSFdTb1VrN0gyUGNGOUJGVldIYWxEcC1mdHV0U1gwQWtDNDNqTFNOR1p6SGEtclBBTzMxQjRqMTJzWGVRSlNqNzNkaDFsUWZQQ0UwVFowcGVrM09TNDNlLXFZM0w4Q1NMTHFXTDQ4UjFqRVpkWWxEbTNjTTBlRnBLekpTNm5zTFk3cVdfcHc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Oct 2025 13:18:32 GMT",
+      "published": "Wed, 22 Oct 2025 15:06:06 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3IxVmtTUG1Hcy0yWkxsVzZUSVlTbjRNUEhxdW4wXzJJdzAyNU5oRXVJMGs2eml5VzhnVVc4REpUY1c0bm9NQlZqOV9fNGs1RVpoQnBINVFDdFR3VkxGcUdqU0J2ZE55d1JVVF92dF95ejdsc3NBY3lGdXUwMUh2SGNDY0kwLWdBOWdXeEhGNkk4bVdZWVpock5uR3dnWVllUWpleFN5M0JmQm9BMW5pY1htMWtwNUMzNE"
     },
     {
-      "title": "Movilidad en la Vía Bogotá-Villavicencio, este lunes 20 de octubre - Futbolred",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWo2VHpzTXJsdjRYQ25CTEtFSjBxNkV6c1M2V28tWF8tY2VfQWtGYXhFR2N5dm1fMWtOOTVJcXpTMDZVUlVjaWVNSEVKUHROajI1WFotbTJ6amoyZmR2OEEyWXJMREVYaHdiNk11QU8tQTl6X3ljWUZQT0VsaUFMNVVrM0RKNzBJRW4xLWVpUHRyZVhrbERvb1Njb3AtdTVCRVd0RjRtVlplLXBKUWd5aXZ0NXl6Zy0zMVpVeTAxVzYxVU9tZEFKddIBzgFBVV95cUxOektiMUpueUNTWllzSmt5SDVEemFQM2JGUTlIWVZHLVFGbHIzLTlVcUtoUW1sVEFaLTIxYnRWRGNPZkw3UG03Wm12a05sc3pBWk5sbkpXNGQtOXFBeWJvT09vM2RyVEk0czN5a0JYcWFqZWVmTUJ4a2g3S1dtb2hNdXR0b1dFR1BjX1p5ck9wVmdPdDNCMnJfbXNkdEtVbUN4NHlCZ0RIMlBMZVRKV0UxSXk3dEJ3ckVqSGJ1NnJNa2VUY0xyTm1CckNMNHJ5dw?oc=5",
+      "title": "Intervenciones en la vía Bogotá - Villavicencio costarían aproximadamente $3 billones - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEtIbVNwVTFGeGY1UVBVWGJwbGZQd2QzMDZZeGVrUnQyVWxNU0VKUDA0c1pReVcxREI1VXZqVVpBYU5Ud2xQUWxoY195NXNENmZYMURiMUkyQjVVdjU2dmRXa0VLNjlQU3FvbDRrVDhQRjUwdHNVWlRNT1BSdkc2MTRidXNrRlpqWElGWFo1OUdLbDM4NXhHWHotQk5HbG45UzIwSXVMSTJpcFRoVWJ6RWFGdUNkV2ZIakJOWkFwdkVaekh10gHEAUFVX3lxTFBRSWZmLUJ3bTVNVnZ4RnRkN1J0V19mR0dvSWpiVldwSDV5NlM3T2F0d3FadDVhRU13anlWSmZBUGRCbENhbEt6RncxM2NzNllvODhQNWxEeXJOa2JBOXVBcGUzQ1g4dEs3MEZvcjdhdXI5ajFUNDhVaF9KUEh0TlNwd2hBNmQxdUZ6Nng5bE5URVdROFFZX3Vtcl9OWEd4ZmRNYmhtZHJuc1BqbXRQMEVwNXpKYmtKX0tUaVdJWm0xMWptX0U?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 13:28:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWo2VHpzTXJsdjRYQ25CTEtFSjBxNkV6c1M2V28tWF8tY2VfQWtGYXhFR2N5dm1fMWtOOTVJcXpTMDZVUlVjaWVNSEVKUHROajI1WFotbTJ6amoyZmR2OEEyWXJMREVYaHdiNk11QU8tQTl6X3ljWUZQT0VsaUFMNVVrM0RKNzBJRW4xLWVpUHRyZVhrbERvb1Njb3AtdTVCRVd0RjRtVlplLXBKUWd5aXZ0NXl6Zy0zMV"
+      "published": "Tue, 21 Oct 2025 20:36:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEtIbVNwVTFGeGY1UVBVWGJwbGZQd2QzMDZZeGVrUnQyVWxNU0VKUDA0c1pReVcxREI1VXZqVVpBYU5Ud2xQUWxoY195NXNENmZYMURiMUkyQjVVdjU2dmRXa0VLNjlQU3FvbDRrVDhQRjUwdHNVWlRNT1BSdkc2MTRidXNrRlpqWElGWFo1OUdLbDM4NXhHWHotQk5HbG45UzIwSXVMSTJpcFRoVWJ6RWFGdUNkV2ZIak"
     },
     {
       "title": "Colombia y Corea del Sur cierran acuerdo para fortalecer 'startups' tecnológicas - Portafolio",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1hBUkdTYTZlZUdIS1gtRmkzblVjaklDMVp6ZkNub056bE00eE5HY2RIZVFweWpvZ3FSc19QenVCdkctZ2hfcG5EcVFObl9vbFAwRG1TV3lXelVMbWdBZkZjUzNtZjdhUmxxb09rVU9vb0d3aWtIT2lQLUE1TmU1azNEUXRBQkktbXlfTXJaaGh0c1lOTGFMbUlTbm9rbW5ZRGt3d29UTnpRWU5wX1l1bmN5OFlDRDcxR1"
     },
     {
-      "title": "Esta startup colombiana está creando cabinas con empleados digitales usando tecnología de Nvidia - Forbes Colombia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczctb3RzbTlWTHVsWjlVS1RzTUd5ZERQR0Jocm9wa0lPZmNGc1pCdURDOHJpNExnU1VJN3U3OUVoM0dNWnhyYkhpX1RMa053Q250aVZuVS1BMmFNZ1VBVnNNbTZhZTEwb3RyejRhcWVtOG54RkVINzVzb3NrZ0piR2NtRlVjYUd3ODBvUWVHZWtXX0U?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 16 Oct 2025 13:34:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQczctb3RzbTlWTHVsWjlVS1RzTUd5ZERQR0Jocm9wa0lPZmNGc1pCdURDOHJpNExnU1VJN3U3OUVoM0dNWnhyYkhpX1RMa053Q250aVZuVS1BMmFNZ1VBVnNNbTZhZTEwb3RyejRhcWVtOG54RkVINzVzb3NrZ0piR2NtRlVjYUd3ODBvUWVHZWtXX0U?oc=5\" target=\"_blank\">Esta startup colombiana está"
-    },
-    {
       "title": "Bogotá lanza Distrito Lab, la estrategia que conectará a las startups más prometedoras con fondos internacionales - Secretaría Distrital de Desarrollo Económico",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNkczanlMYWxSYXN1bzBiNzdxZ2tKNnlDcDhZMG9lZkdFRHN4N0JXUDljMGdPV2d3VjJETEsxOWV6Y2pOc1lpT1hwSnZNVUhPOEItOXNfZkt4WVhZX1VQdlpFTUFqdlBXQ0kzX19JUUZhLXM4R2pPYnlaZHZrSnROOVVQd0RxOFFYNnF5UmNIS3g5VmhYNm5RTVpLYjlDUndIcWhsS0NOemRoLVhOamtzcVo3XzNSWm15TmlsOXdzOEpvX3M2Q3V6Z0RuZzYwNWdmYWJCMU1tWVA1bVl1d3ZlYmJn?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 02 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNkczanlMYWxSYXN1bzBiNzdxZ2tKNnlDcDhZMG9lZkdFRHN4N0JXUDljMGdPV2d3VjJETEsxOWV6Y2pOc1lpT1hwSnZNVUhPOEItOXNfZkt4WVhZX1VQdlpFTUFqdlBXQ0kzX19JUUZhLXM4R2pPYnlaZHZrSnROOVVQd0RxOFFYNnF5UmNIS3g5VmhYNm5RTVpLYjlDUndIcWhsS0NOemRoLVhOamtzcVo3XzNSWm15Tm"
+    },
+    {
+      "title": "Esta startup colombiana está creando cabinas con empleados digitales usando tecnología de Nvidia - Forbes Colombia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQczctb3RzbTlWTHVsWjlVS1RzTUd5ZERQR0Jocm9wa0lPZmNGc1pCdURDOHJpNExnU1VJN3U3OUVoM0dNWnhyYkhpX1RMa053Q250aVZuVS1BMmFNZ1VBVnNNbTZhZTEwb3RyejRhcWVtOG54RkVINzVzb3NrZ0piR2NtRlVjYUd3ODBvUWVHZWtXX0U?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 16 Oct 2025 13:34:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQczctb3RzbTlWTHVsWjlVS1RzTUd5ZERQR0Jocm9wa0lPZmNGc1pCdURDOHJpNExnU1VJN3U3OUVoM0dNWnhyYkhpX1RMa053Q250aVZuVS1BMmFNZ1VBVnNNbTZhZTEwb3RyejRhcWVtOG54RkVINzVzb3NrZ0piR2NtRlVjYUd3ODBvUWVHZWtXX0U?oc=5\" target=\"_blank\">Esta startup colombiana está"
     }
   ],
   "count": 14

@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El Vivo V60 Lite 5G llega con look de iPhone y energía para todo el fin de semana",
+      "url": "https://expansion.mx/tecnologia/2025/10/22/vivo-v60-lite-5g-caracteristicas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Oct 2025 16:00:03 GMT",
+      "summary": "El equipo aterriza en México con un diseño que evoca a Apple, pero su apuesta real está en la batería que busca resolver el punto débil de muchos gama alta."
+    },
+    {
+      "title": "Microsoft lanza parche de emergencia tras una caótica actualización de Windows 11",
+      "url": "https://expansion.mx/tecnologia/2025/10/22/microsoft-parche-de-emergencia-windows-11",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Oct 2025 15:54:05 GMT",
+      "summary": "Si tu computadora dejó de detectar el teclado o el mouse tras la última actualización, esta es la solución disponible para corregir el fallo en Windows 11."
+    },
+    {
       "title": "La industria manufacturera recibe 26% de los ciberataques globales",
       "url": "https://expansion.mx/tecnologia/2025/10/22/industria-manufacturera-es-la-que-mas-ciberataques-recibe",
       "source": "Expansión Tecnología",
@@ -27,30 +43,6 @@
       "summary": "La plataforma de streaming reveló que tuvo un gasto de 619 millones de dólares por una disputa fiscal en Brasil."
     },
     {
-      "title": "ChatGPT lanza Atlas, su navegador web con IA para desafiar a Chrome y Safari: así puedes descargarlo",
-      "url": "https://expansion.mx/tecnologia/2025/10/21/chatgpt-atlas-navegador-web-con-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 21 Oct 2025 19:36:55 GMT",
-      "summary": "El navegador entiende el contenido de las páginas y puede responder preguntas o generar resúmenes en tiempo real sin necesidad de salir de la página."
-    },
-    {
-      "title": "Wikipedia pierde usuarios humanos y aumenta tráfico de bots",
-      "url": "https://expansion.mx/tecnologia/2025/10/21/wikipedia-pierde-usuarios-humanos-y-aumenta-trafico-de-bots",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 21 Oct 2025 18:00:14 GMT",
-      "summary": "Con el auge de la Inteligencia Artificial, la cantidad de usuarios que visitan el sitio web se redujo drásticamente, pero acceden a su información de otras formas."
-    },
-    {
-      "title": "Inteligencia artificial en la seguridad del retail: cómo los minoristas en México blindan sus tiendas y clientes - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVdtemtmV1JieDRESTE0eFpTY1pRem81a2d0S0g5NmpKaGVTd0lGeTF4bFNPdE9pXzctaktzTUFyd0hmWFF5MEIwN2loSkZjRjZDSHRtMW44b3pOT3BZUS1sTl9ISm81RTQ0NmdyYnNhNkNkYzFrZS1JZkdNd3JsMDFBZmdxalBxSmMyb0JMbUNQVW1CUzZBd3kzNU5qRnRJMlJJOXZkUEdselNJeGhXTkRUZXFad0hyMHJvYTY5YmZ4YThGb2J0VUszZkpCYUUySXlWUkFPN0JDQW9JbkFMTlNnNkl0UWM?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Oct 2025 15:00:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVdtemtmV1JieDRESTE0eFpTY1pRem81a2d0S0g5NmpKaGVTd0lGeTF4bFNPdE9pXzctaktzTUFyd0hmWFF5MEIwN2loSkZjRjZDSHRtMW44b3pOT3BZUS1sTl9ISm81RTQ0NmdyYnNhNkNkYzFrZS1JZkdNd3JsMDFBZmdxalBxSmMyb0JMbUNQVW1CUzZBd3kzNU5qRnRJMlJJOXZkUEdselNJeGhXTkRUZXFad0hyMH"
-    },
-    {
       "title": "CDMX realiza la Megaclase de Inteligencia Artificial más grande del país - Infobae",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGhCUHMyZW8yWHdiNHNTWVRTN2hxeDFEQzZKeGg2RFVVUjREaHBSNzktR1I3LW5RdzRrV3hINWh0OG43b3lNN3hHYzRJN09ueG9VRmFOeG1XbjlwRWc1QjM3SFlVdldQMzM0UmpZYXFXMFVNUTVxdXg5NWFPOG5NNktQQ3l0RGpWX3lmNmxUN3d2TmZEM01CcVQ3UVBYOXRCLUtnb3Q0bFVCYUJnMm9OaXlGcXlTUdIB0AFBVV95cUxOdjZZc3RsT1hGQ25TVkpWaHJ2WDU5UEF3V3ZCTU5PSHh0TzV5SHZ3TXNzU2xpSWtHeWtKWENaTHBRdWFvWDNPdmRkbVlmNW5xX05BODljMWo4cTIzUDg4NGI1VGluSjQ2WXlNdk9xNWlrMGY4bmJIbFVzTzJ5Y0IzSlRGMVNuZnRIYmZ4ZUlLZ0k2amUxVDZDOWltVjNsOUtVTV96R05PSS1mM3ZydXNnXzBWOWNMMjFwaDA2MFNvNUR0R0YtWHJaeXJ6MEdEQkxm?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Wed, 24 Sep 2025 15:26:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+    },
+    {
+      "title": "Inteligencia artificial en la seguridad del retail: cómo los minoristas en México blindan sus tiendas y clientes - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVdtemtmV1JieDRESTE0eFpTY1pRem81a2d0S0g5NmpKaGVTd0lGeTF4bFNPdE9pXzctaktzTUFyd0hmWFF5MEIwN2loSkZjRjZDSHRtMW44b3pOT3BZUS1sTl9ISm81RTQ0NmdyYnNhNkNkYzFrZS1JZkdNd3JsMDFBZmdxalBxSmMyb0JMbUNQVW1CUzZBd3kzNU5qRnRJMlJJOXZkUEdselNJeGhXTkRUZXFad0hyMHJvYTY5YmZ4YThGb2J0VUszZkpCYUUySXlWUkFPN0JDQW9JbkFMTlNnNkl0UWM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Oct 2025 15:00:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVdtemtmV1JieDRESTE0eFpTY1pRem81a2d0S0g5NmpKaGVTd0lGeTF4bFNPdE9pXzctaktzTUFyd0hmWFF5MEIwN2loSkZjRjZDSHRtMW44b3pOT3BZUS1sTl9ISm81RTQ0NmdyYnNhNkNkYzFrZS1JZkdNd3JsMDFBZmdxalBxSmMyb0JMbUNQVW1CUzZBd3kzNU5qRnRJMlJJOXZkUEdselNJeGhXTkRUZXFad0hyMH"
     },
     {
       "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
