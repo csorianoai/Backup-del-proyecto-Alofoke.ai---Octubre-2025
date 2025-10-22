@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "Estados Unidos extiende al Pacífico sus ataques extrajudiciales contra supuestas ‘narcolanchas’",
+      "title": "Estados Unidos ataca una supuesta narcolancha frente a la costa pacífica de Colombia",
       "url": "https://elpais.com/internacional/2025-10-22/estados-unidos-extiende-al-pacifico-sus-ataques-extrajudiciales-contra-supuestas-narcolanchas.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Wed, 22 Oct 2025 17:21:59 GMT",
-      "summary": "El secretario de Defensa informa de una octava operación frente a las costas de Colombia en la que el ejército ha matado al menos a dos civiles"
+      "published": "Wed, 22 Oct 2025 22:04:00 GMT",
+      "summary": "El secretario de Defensa informa, en mitad de la escalada entre Trump y Petro, de una octava operación extrajudicial en la que el ejército ha matado a dos civiles"
+    },
+    {
+      "title": "Trump reprende otra vez a España por no subir el gasto militar: “No juega en equipo”",
+      "url": "https://elpais.com/internacional/2025-10-22/trump-reprende-otra-vez-a-espana-por-no-subir-el-gasto-militar-no-es-un-companero-de-equipo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Oct 2025 21:42:02 GMT",
+      "summary": "El presidente de Estados Unidos le dice al secretario general de la OTAN: “Podéis solucionar esto rápido”"
+    },
+    {
+      "title": "Estados Unidos impone nuevas sanciones contra el sector petrolero de Rusia",
+      "url": "https://elpais.com/internacional/2025-10-22/estados-unidos-se-dispone-a-anunciar-un-aumento-sustancial-de-las-sanciones-contra-rusia.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Oct 2025 19:57:00 GMT",
+      "summary": "Las medidas llegan como castigo a la “falta de compromiso serio” de Moscú con la paz en Ucrania, según el Departamento del Tesoro"
     },
     {
       "title": "El tribunal de la ONU dictamina que Israel está obligado a aceptar y facilitar la ayuda humanitaria a Gaza",
@@ -19,22 +35,6 @@
       "summary": "La Haya advierte al Gobierno de Netanyahu de que no use el hambre como método de guerra y que debe respetar la labor y al personal de Naciones Unidas"
     },
     {
-      "title": "J. D. Vance subraya ante Netanyahu el compromiso de EE UU con la “durísima tarea” de desarmar a Hamás en Gaza",
-      "url": "https://elpais.com/internacional/2025-10-22/hamas-devuelve-la-mayoria-de-cadaveres-de-rehenes-israelies.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Oct 2025 17:18:14 GMT",
-      "summary": "El movimiento islamista devuelve la mayoría de los 28 cadáveres de rehenes israelíes mientras Washington trata de salvaguardar el alto el fuego tras la escalada del domingo"
-    },
-    {
-      "title": "El colegio de Sevilla que no activó el protocolo de acoso anuncia un plan ante las “situaciones de vulnerabilidad” y la familia les acusa de “minimizar” lo ocurrido",
-      "url": "https://elpais.com/educacion/2025-10-22/el-colegio-de-sevilla-que-no-activo-el-protocolo-de-acoso-anuncia-un-plan-ante-las-situaciones-de-vulnerabilidad-y-la-familia-les-acusa-de-minimizar-lo-ocurrido.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Oct 2025 15:41:12 GMT",
-      "summary": "El centro justifica que no adoptó las medidas preceptivas por indicación de la terapeuta de la menor que se suicidó. La familia lo desmiente."
-    },
-    {
       "title": "Se busca al prófugo Martiño Ramos, el profesor pederasta que violó a una alumna en Ourense",
       "url": "https://elpais.com/espana/2025-10-23/se-busca-a-martino-ramos-el-profesor-pederasta-que-violo-a-una-alumna-en-ourense.html",
       "source": "El País Tecnología",
@@ -43,12 +43,20 @@
       "summary": "Fue condenado en firme a 13 años de cárcel en julio, pero ha huido. Tras ser denunciado, la Fiscalía no pidió su ingreso en prisión y la Xunta le permitió seguir dando clase hasta que le cayó la primera sentencia"
     },
     {
-      "title": "AstraZeneca y Microsoft se alían para impulsar la innovación y la Inteligencia Artificial en salud en España - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vZnRJR2Y3S3doZnlOZUJQc0JSa2M2eWU0SUJPZXJuMjR5NkNiamtyY3RETVpGS2NpZ29BS202ZU5wSXVoMTNGQXd3VGVrLWoyYkc4cVZBVFJZb2RsOXgzaFg4Z1FZV0R1?oc=5",
+      "title": "La inteligencia artificial de Google se sube al coche: GM integrará Gemini en sus vehículos - Andro4all",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObFhWbVBQNGhZeG9mcUtRUl9udlEzQmZpQ2R2bkVORl81ck9Xc2ZWZ1poU2VwcldoXzNocXNnRmM2TUF2S0RVOENfTmVwMFRtOERQN3M0aS1ETm0tTVVLZkNaeENLZWwzRVAwa2dodjZSeDg5V2JBa3FfWFJTZnpvMjRiZGFyNEN4OW03ZHNVcUpNWlowczBmQ3oyZFA2NWRwQlJrR2dQM1FBTFdPVVY2VjU1bEdmMGozVmFzQWpaSQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Oct 2025 17:44:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vZnRJR2Y3S3doZnlOZUJQc0JSa2M2eWU0SUJPZXJuMjR5NkNiamtyY3RETVpGS2NpZ29BS202ZU5wSXVoMTNGQXd3VGVrLWoyYkc4cVZBVFJZb2RsOXgzaFg4Z1FZV0R1?oc=5\" target=\"_blank\">AstraZeneca y Microsoft se alían para impulsar la innovación y la Inteligencia Artifici"
+      "published": "Wed, 22 Oct 2025 18:35:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObFhWbVBQNGhZeG9mcUtRUl9udlEzQmZpQ2R2bkVORl81ck9Xc2ZWZ1poU2VwcldoXzNocXNnRmM2TUF2S0RVOENfTmVwMFRtOERQN3M0aS1ETm0tTVVLZkNaeENLZWwzRVAwa2dodjZSeDg5V2JBa3FfWFJTZnpvMjRiZGFyNEN4OW03ZHNVcUpNWlowczBmQ3oyZFA2NWRwQlJrR2dQM1FBTFdPVVY2VjU1bEdmMGozVm"
+    },
+    {
+      "title": "Inteligencia artificial: ¿qué áreas de aplicación prioriza el comercio minorista? - FashionNetwork España",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaG1EMlFSSmhOZldpUW10TUJwWWZIRUZkMU5makxiSEYyRXVNWWQ4T2xqbFc5bzluVmVmMnVKWWpSQ3lJd25jVXIxYjJZalJaZ2xjOU0xcDB4STRHOTY3UkVkclhydVdqYWtGeURYT0ZZN0FDcWhXMW1yYjN4bnEwRTljU0w4YlVSalVNQnota2V0T1RGcENPQWZCajktei0yS0pWaEhvN3Z6RVU2RjlyV3JDS2V4dGlURk40UE9XRWMxMVU1T2c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Oct 2025 21:29:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQaG1EMlFSSmhOZldpUW10TUJwWWZIRUZkMU5makxiSEYyRXVNWWQ4T2xqbFc5bzluVmVmMnVKWWpSQ3lJd25jVXIxYjJZalJaZ2xjOU0xcDB4STRHOTY3UkVkclhydVdqYWtGeURYT0ZZN0FDcWhXMW1yYjN4bnEwRTljU0w4YlVSalVNQnota2V0T1RGcENPQWZCajktei0yS0pWaEhvN3Z6RVU2RjlyV3JDS2V4dGlURk"
     },
     {
       "title": "El factor humano, clave para la gestión responsable de la inteligencia artificial en la madurez digital española - PuroMarketing",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Tue, 21 Oct 2025 07:42:08 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS25NMjRha3J2VVA3Rnh1N0FZVUFERmt1Qm5sSjltUnRoSGgtMXFLTmFSaDhBZW00a0Z3bnJRQ1dET0E1d2ZrWUh1UFYzcTJET3ItS0JQNUM2ZldvSm5SazQ0NmNpSFBVWFBwa0ZsNkpuZTh4TzlTQmUzRWh2dXZ3RmV6eE84aW9fZlNrWklPb1VmUktpVGpETWdXNGx2bGQ4c3R0VnBhR2JRcEFuYW91MHZwQ3phenBTMU"
-    },
-    {
-      "title": "“La inteligencia artificial debe estar al servicio de una visión más humana y estratégica” - Corresponsables",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaWZsdGE1dVc1YmE1YllPQ1d6THN3T3p3bWtvUlVnMDZMNjViXzFUQWhNaG5IV1dpY0dsd1plS2FoUjY5bktWcmp6dXNFb3NuTEMtVmxtODB2eHNLYnU2bzQxek85c3lxd0hXV1ZXbVVFZnhjV1dMRm9jZEdlVzVkTXpIMXY3WnFqMUtJZkdzM3NYdm05X3lPS1hlOA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 22 Oct 2025 10:07:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOaWZsdGE1dVc1YmE1YllPQ1d6THN3T3p3bWtvUlVnMDZMNjViXzFUQWhNaG5IV1dpY0dsd1plS2FoUjY5bktWcmp6dXNFb3NuTEMtVmxtODB2eHNLYnU2bzQxek85c3lxd0hXV1ZXbVVFZnhjV1dMRm9jZEdlVzVkTXpIMXY3WnFqMUtJZkdzM3NYdm05X3lPS1hlOA?oc=5\" target=\"_blank\">“La inteligencia "
     },
     {
       "title": "El pronóstico de la IA para El Clásico entre Real Madrid y Barcelona - Planeta Real Madrid",
