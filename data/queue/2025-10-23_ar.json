@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Samsung presentó su casco Galaxy XR: IA, pantalla 4K y un precio que pone en ridículo al Apple Vision Pro",
+      "url": "https://www.clarin.com/tecnologia/samsung-presento-casco-galaxy-xr-ia-pantalla-4k-precio-pone-ridiculo-apple-vision-pro_0_AH4YswvBzl.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Oct 2025 14:45:31 +0000",
+      "summary": "<ul><li>El nuevo visor de realidad mixta combina control por gestos y el modelo Gemini de Google integrado.</li><li>Promete experiencias inmersivas de trabajo y entretenimiento.</li></ul>"
+    },
+    {
       "title": "Spear phishing, la nueva estafa personalizada que puede engañar a cualquiera: claves para detectarla",
       "url": "https://www.clarin.com/tecnologia/spear-phishing-nueva-estafa-personalizada-puede-enganar-claves-detectarla_0_iJxKFg5K7Q.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Tue, 21 Oct 2025 08:46:31 +0000",
       "summary": "<ul><li>Conocer los pasos inmediatos tras un hurto puede evitar que el ladrón acceda a tus datos personales. </li><li>Paso a paso, todas las formas de proteger tu dinero de manera efectiva.</li></ul>"
-    },
-    {
-      "title": "Mercado Libre: ¿se pueden ver películas y series gratis en la app?",
-      "url": "https://www.clarin.com/tecnologia/mercado-libre-pueden-ver-peliculas-series-gratis-app_0_LVmfDpcwyM.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Oct 2025 19:29:06 +0000",
-      "summary": "<ul><li>Mercado Libre cuenta con una plataforma que permite acceder a series y películas de forma gratuita.</li><li>El paso a paso para utilizar Mercado Play.</li></ul>"
     },
     {
       "title": "¿Cuál es la adopción de la inteligencia artificial en las compañías de Argentina? - mercado.com.ar",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmZZU3hQVTJhUzItXzJORWpoSWkyVEM5Qlo0SEtaQzVsWVNfSk1NRTRQZXMyVmdNVkpOTlhERHZ1a25lcWFBRVY5TVlMNUM0MnMxUmxfOE5Dc3h4ejhKSy1OYTVLd181cGRkMzFhaldxbkdrMFdQdEYzZER2WE9uU3htc2tVVldyb3FJNkFtcjNPNUlOVDloR3A2WGN1UVhzREFkY0JuWDZpcGx6anV6SVhPdXFDcnZ0WU"
     },
     {
-      "title": "Red Hat Summit: Connect Buenos Aires 2025: los avances de IA abierta - Prensario TILA",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVVEalFvQVItMjQxRlRpRTNDQ3dzRW96SzdQN29jd3ZBa0EzbjhKNC11UWxMa0ttbVpmZG1oWkRYVEJiaFh4MUFETXA2bFN0ZmZDbTJpVV8zNHQ0UTB2SjlidkpPRldUNTdBUTI1RmtXZG5Ea0h2UVpIb0gtVGhRSG1aaWdfc2ZkSmFETFhRdnkwYmFacmVTQQ?oc=5",
+      "title": "IA, decime quién gana las elecciones - Revista Anfibia",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT28yMGJhYTBPRGNIY0htNS1XeVU4Nm5TZk52aVhXcnhqTE11VWFpVEhRTWpFSWRic1U3ZERtdFdkejV1OFg1dVpzTUhDeXBteWRzYlpfazhxUWtLU1dwMHBxTHJTVW5xSF93OUN1RHphV0dTS0l6LUJodERxOElUVHVaMzNJOC11QmNMTGR4N25nMXJsQkZ4Y1dB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Oct 2025 19:36:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVVEalFvQVItMjQxRlRpRTNDQ3dzRW96SzdQN29jd3ZBa0EzbjhKNC11UWxMa0ttbVpmZG1oWkRYVEJiaFh4MUFETXA2bFN0ZmZDbTJpVV8zNHQ0UTB2SjlidkpPRldUNTdBUTI1RmtXZG5Ea0h2UVpIb0gtVGhRSG1aaWdfc2ZkSmFETFhRdnkwYmFacmVTQQ?oc=5\" target=\"_blank\">Red Hat Summit: Conne"
+      "published": "Thu, 23 Oct 2025 14:04:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPT28yMGJhYTBPRGNIY0htNS1XeVU4Nm5TZk52aVhXcnhqTE11VWFpVEhRTWpFSWRic1U3ZERtdFdkejV1OFg1dVpzTUhDeXBteWRzYlpfazhxUWtLU1dwMHBxTHJTVW5xSF93OUN1RHphV0dTS0l6LUJodERxOElUVHVaMzNJOC11QmNMTGR4N25nMXJsQkZ4Y1dB?oc=5\" target=\"_blank\">IA, decime quién ga"
     },
     {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
