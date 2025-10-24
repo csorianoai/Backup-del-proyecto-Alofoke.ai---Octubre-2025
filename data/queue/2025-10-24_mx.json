@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Ya no solo los programadores: la IA amenaza los empleos de la industria financiera",
+      "url": "https://expansion.mx/tecnologia/2025/10/24/ia-amenaza-empleos-industria-financiera-y-bancaria",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Oct 2025 22:00:41 GMT",
+      "summary": "La historia de los programadores se repite en la banca, con procesos automatizados por la IA y apuestas en el cómputo cuántico que pone en riesgo empleos."
+    },
+    {
       "title": "Apple se alinea con Trump y ya fabrica servidores de IA en EU",
       "url": "https://expansion.mx/tecnologia/2025/10/24/apple-cumple-trump-ya-fabrica-servidores-ia-estados-unidos",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "La empresa dio a conocer que prescindirá de sus trabajadores de los equipos de IA, a excepción de los que se encargan de desarrollar SuperIA, perfiles en los que ha invertido más."
     },
     {
-      "title": "Agentes de IA, todos hablan de ellos, pero pocos saben su potencial",
-      "url": "https://expansion.mx/tecnologia/2025/10/23/siguiente-salto-empresarial-lleva-nombre-propio-ia-agentica",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Oct 2025 11:55:38 GMT",
-      "summary": "Esta etapa de la IA evoluciona los chatbots, pero su implementación sigue siendo superficial, señalan especialistas."
+      "title": "Demanda de habilidades de inteligencia artificial en México creció 148% en dos años - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUxIWkxsclpNNDY0akpocVJJWmRpZFV5UWNBSHo4eVdDUWd0d1B0aGh5MnpYVjExR1c1UklFcTMwdGFpel9PRDhqWkkxLXR4VU5TS1doeW00QnRoNVhiNWlFR3F0eUxrTnNORUNiU0NibFZvOVFBV2VneTc5SFppbXpoVWgyMUdIbmw1aEs1UUlid0VHWkdPSGp3RkJENklXU0JWSnJGOHhmNVZwQV9qcTBoZDVyYkgyc0NDM0RFcUxnZFoxNC1fWjlJcWh0YzjSAdQBQVVfeXFMUEtXbzlUY2xTdlFwLVNQakFjZXNRbFVPaHRKNmFTc1kxTEJ3VUVoTW9EbTcyUnhFZmVvQkF1RzFqMXU0V3dWQUM3bktjM3NsX3dyZGRJRDlFTjhjc0NyLUhCZFdic0dTZEttSGI5T0M4b2ZZSE9KUU4yRlhqT1MtdzdrRTRmVzRPOGhXSVhtdzNEMnVZeVhrSFoyd3QtMW1iWFlLQ1ppYU01NlR1dmhYc05aNEFSOHFrUXJnRU5LUFU0UldycEhJRDFEOFBZVjYyemxGVUc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 24 Oct 2025 15:46:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUxIWkxsclpNNDY0akpocVJJWmRpZFV5UWNBSHo4eVdDUWd0d1B0aGh5MnpYVjExR1c1UklFcTMwdGFpel9PRDhqWkkxLXR4VU5TS1doeW00QnRoNVhiNWlFR3F0eUxrTnNORUNiU0NibFZvOVFBV2VneTc5SFppbXpoVWgyMUdIbmw1aEs1UUlid0VHWkdPSGp3RkJENklXU0JWSnJGOHhmNVZwQV9qcTBoZDVyYkgyc0"
     },
     {
       "title": "México | Top 10: Principales usos de la Inteligencia Artificial entre los usuarios - DPL News",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPU21GS2E5U1EzMXoxM3UzOENTdUpsaEY5M3ZSZG5xdVFZZW9iVlhlNGpVQzhUX1ZtWGM4ck10QlNfQ203WGtmQzBHZE43VXU4Rl9ESDhWQ3BzRzY1d0lGZHd6WjZ3STRMcjhObTlmLTNZQkJzTzkxazZGU2JfWHlEaXJOUGk0WVRtZjQ2bnpvSHNwbG9NWUE1aGxiVDhuUEJjUFE?oc=5\" target=\"_blank\">México |"
     },
     {
-      "title": "Demanda de habilidades de inteligencia artificial en México creció 148% en dos años - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUxIWkxsclpNNDY0akpocVJJWmRpZFV5UWNBSHo4eVdDUWd0d1B0aGh5MnpYVjExR1c1UklFcTMwdGFpel9PRDhqWkkxLXR4VU5TS1doeW00QnRoNVhiNWlFR3F0eUxrTnNORUNiU0NibFZvOVFBV2VneTc5SFppbXpoVWgyMUdIbmw1aEs1UUlid0VHWkdPSGp3RkJENklXU0JWSnJGOHhmNVZwQV9qcTBoZDVyYkgyc0NDM0RFcUxnZFoxNC1fWjlJcWh0YzjSAdQBQVVfeXFMUEtXbzlUY2xTdlFwLVNQakFjZXNRbFVPaHRKNmFTc1kxTEJ3VUVoTW9EbTcyUnhFZmVvQkF1RzFqMXU0V3dWQUM3bktjM3NsX3dyZGRJRDlFTjhjc0NyLUhCZFdic0dTZEttSGI5T0M4b2ZZSE9KUU4yRlhqT1MtdzdrRTRmVzRPOGhXSVhtdzNEMnVZeVhrSFoyd3QtMW1iWFlLQ1ppYU01NlR1dmhYc05aNEFSOHFrUXJnRU5LUFU0UldycEhJRDFEOFBZVjYyemxGVUc?oc=5",
+      "title": "¿Cómo quedará el León vs Pumas de acuerdo a la IA? - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmJyVzNUUkFQLTlRYzRRSmhwNjJlVGU2R2ZZWER3ZjRmYnRqSFpTMlYzVGlpNXpZYU1WdDgtVjlXYzg1VlRLVG9FVDUyRUpZeDg4ZG1YZlRXQmhIRFB6VktVZTlqc2FHOXpvNGgyVUhic1c0dDFKOWlpSTRIczMyOFdTM19UeHh2NEFEenNhYm5hdm5fN3NoNWRVOERTMlZWaGfSAbwBQVVfeXFMTy00NkpOMHlvdGFkN2VITTRxc1lwRVNpLVBWbWptUldkdVNET1RrQm1KSmxoZXZUbUF1WUxHRGZLZ0VHYzVGNkt3SXpYbEVzSDF6YXI0QWw1WmFsR2hSWEhFTkR5UngxM29Td1pmQTVIUUhJbUZENE1meWNTQ1k2aHRMUU5FU3ZMSnRDYW42VHdnNVduOFFOVjM2aUZzb1R0SW1YWXYwQkMwQ09vMnYwSDZkYXJaQjN1MlZiMFo?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Oct 2025 15:46:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUxIWkxsclpNNDY0akpocVJJWmRpZFV5UWNBSHo4eVdDUWd0d1B0aGh5MnpYVjExR1c1UklFcTMwdGFpel9PRDhqWkkxLXR4VU5TS1doeW00QnRoNVhiNWlFR3F0eUxrTnNORUNiU0NibFZvOVFBV2VneTc5SFppbXpoVWgyMUdIbmw1aEs1UUlid0VHWkdPSGp3RkJENklXU0JWSnJGOHhmNVZwQV9qcTBoZDVyYkgyc0"
-    },
-    {
-      "title": "El canal IT frente al desafío de la inteligencia artificial: claves desde XChange Latam 2025 - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHVtWUJCZHJtWTdveEVtN2VJMWxMUWVZUHZZRFhHUnE2eWFnS1FXazA5MzVXYnJKQUw5cG1TSVBBNzdWZFpOQUx6NWVvQ3QyM3VCWjloejNLaTlCbkRWRm5lN2RJZzNiYVEtUlBkdHFJRUVVZmN3NkF4TU5wUE9fMW9mc1NQblJyeEY5d3VCaks0UkJlTmNfUWJSUjZxX2wyWjMxVW45MjlsOVozZEg0b2dIdml5dFBhN2NDSW84ZnB2NWNlUlE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Oct 2025 14:49:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHVtWUJCZHJtWTdveEVtN2VJMWxMUWVZUHZZRFhHUnE2eWFnS1FXazA5MzVXYnJKQUw5cG1TSVBBNzdWZFpOQUx6NWVvQ3QyM3VCWjloejNLaTlCbkRWRm5lN2RJZzNiYVEtUlBkdHFJRUVVZmN3NkF4TU5wUE9fMW9mc1NQblJyeEY5d3VCaks0UkJlTmNfUWJSUjZxX2wyWjMxVW45MjlsOVozZEg0b2dIdml5dFBhN2"
+      "published": "Fri, 24 Oct 2025 21:26:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmJyVzNUUkFQLTlRYzRRSmhwNjJlVGU2R2ZZWER3ZjRmYnRqSFpTMlYzVGlpNXpZYU1WdDgtVjlXYzg1VlRLVG9FVDUyRUpZeDg4ZG1YZlRXQmhIRFB6VktVZTlqc2FHOXpvNGgyVUhic1c0dDFKOWlpSTRIczMyOFdTM19UeHh2NEFEenNhYm5hdm5fN3NoNWRVOERTMlZWaGfSAbwBQVVfeXFMTy00NkpOMHlvdGFkN2"
     },
     {
       "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",

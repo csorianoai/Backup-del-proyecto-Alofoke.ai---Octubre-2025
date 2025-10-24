@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Honor y BYD estrechan lazos entre teléfono y automóvil con IA",
+      "url": "https://www.latercera.com/tendencias/noticia/honor-y-byd-estrechan-lazos-entre-telefono-y-automovil-con-ia/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Oct 2025 19:50:31 +0000",
+      "summary": "Las compañías chinas de dispositivos y automóviles eléctricos anunciaron la integración de sus ecosistemas y la adopción, entre otras funciones, de llaves NFC y carga rápida en el habitáculo."
+    },
+    {
+      "title": "De los escenarios a Twitch: Justin Bieber se lanza como streamer y promete transmisiones diarias",
+      "url": "https://www.latercera.com/tendencias/noticia/de-los-escenarios-a-twitch-justin-bieber-se-lanza-como-streamer-y-promete-transmisiones-diarias/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Oct 2025 19:00:00 +0000",
+      "summary": "En su primera transmisión, jugó básquet, billar y ping pong, y adelantó detalles de su regreso a los escenarios."
+    },
+    {
       "title": "“No existe nada parecido en el mundo actual”: hallazgo en Magallanes revela el mamífero más antiguo del sur de Chile",
       "url": "https://www.latercera.com/tendencias/noticia/no-existe-nada-parecido-en-el-mundo-actual-hallazgo-en-magallanes-revela-el-mamifero-mas-antiguo-del-sur-de-chile/",
       "source": "La Tercera Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Fri, 24 Oct 2025 13:57:59 +0000",
       "summary": "El presidente estadounidense puso fin a las conversaciones tras la emisión de un anuncio televisivo canadiense que citaba a Ronald Reagan."
-    },
-    {
-      "title": "Qué app de Audio Hi-Fi es la mejor: estas permiten escuchar en alta fidelidad",
-      "url": "https://www.latercera.com/tendencias/noticia/que-app-de-audio-hi-fi-es-la-mejor-estas-permiten-escuchar-en-alta-fidelidad/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 13:03:02 +0000",
-      "summary": "El cotizado audio de alta fidelidad busca ser lo más auténtico y fiel a la grabación original. No todas las aplicaciones disponibles en el mercado lo ofrecen entre sus planes. Acá, una guía para aprovechar al máximo tus audífonos o equipo de música."
-    },
-    {
-      "title": "Qué es un aneurisma cerebral, el diagnóstico que recibió Kim Kardashian tras su divorcio con Kanye West",
-      "url": "https://www.latercera.com/tendencias/noticia/que-es-un-aneurisma-cerebral-el-diagnostico-que-recibio-kim-kardashian-tras-su-divorcio-con-kanye-west/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 13:06:58 +0000",
-      "summary": "La estrella de reality y empresaria Kim Kardashian reveló que tiene un aneurisma cerebral. Sugirió que podría ser efecto del estrés que vivió durante su divorcio con el cantante Kanye West."
     },
     {
       "title": "En Chile, la IA desata debates políticos - The New York Times",
@@ -83,14 +83,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
-      "title": "EMMA Energy entre finalistas de InnovABB con su SaaS de eficiencia energética - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWZYS3RUdmc2aWk4Y1NaVm1SMnczNkp6VnhsNlZSS0ZQNGk0MUtLQUl5RkJiN1V1TjJocmpYLUYyT1NPVjR0TGwwRS0zSjdoODVTSmc4amdDMWNLNnBpVk04eWJ1YmVNRXFURDhyT09mVGo1cDhEZjJVeElUQ045NmJYRWdKSkQ0S1hCWndaWnNEWURGeVN4MVk0cnlNeGNVamdqN3dRVXFZYWEw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 20 Oct 2025 19:14:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWZYS3RUdmc2aWk4Y1NaVm1SMnczNkp6VnhsNlZSS0ZQNGk0MUtLQUl5RkJiN1V1TjJocmpYLUYyT1NPVjR0TGwwRS0zSjdoODVTSmc4amdDMWNLNnBpVk04eWJ1YmVNRXFURDhyT09mVGo1cDhEZjJVeElUQ045NmJYRWdKSkQ0S1hCWndaWnNEWURGeVN4MVk0cnlNeGNVamdqN3dRVXFZYWEw?oc=5\" target=\"_bl"
-    },
-    {
       "title": "Cuatro startups competirán por representar a Chile en los Global eAwards 2025 que se realizarán en Perú - EntrepreNerd",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOHhaeHRQWVFVTWdESVV0QnFUdHoyQVFiSWphQ2VqSy04Q0xsQWdyQzJEMUJTeGZQOU5SMHRWVWFodDlsT0s0WUc3ZUZlUFlBWW9RR3ZoSnVBTWYwdkh2aHk5YjRKb2JOTl8zX1FfR3I1TnNkanVVd2JIbTFhWE1tV0ZYVldlOUFneEVWTFNNNVlGX1djQzZEMDIyRkc5bHZCSWRwRlVsd202cnBLN0JHSUpaWFZPTm5nMHhYU3JjLVdreWhhb2hn?oc=5",
       "source": "Google News",
@@ -105,6 +97,14 @@
       "category": "news",
       "published": "Thu, 16 Oct 2025 13:05:08 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQUUxBSkU2SEd6UUFjclNNVjFQMzBPWjR4MEpaYUxERDN2UTk0dS1nYXNfa0JLZVpsYng4RHZyVXoxZHJjYVBjd0NKQW9MelpVbHdINWI2UWJSVEZVN0tpSFF5XzZWNnZoVXBfWmJPdTR0V3J0WUlhVVpQVDVqb3FTM1A1dUw4eVdQWEJiWWVuY05RTFYzc2FYMEE3OWpjNmtaQjZ1LVJFNUtlZXhPMF80Y3lZOEJVSGRobT"
+    },
+    {
+      "title": "12 startups chilenas buscan conquistar el mercado tecnológico de Dubái - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYURrb1lzcjBkU1k1RGJTQzFaTW1TSzlTMWsxOVJWcllSZXQ2ZVJBSFFWYXI2bFB0YlYwWmFTYjdVZHFRempwWmhITS01QmRPYk1tTHFwTmQxSUxrX0tySGtEMWpXN1NIS1JkcVItYy1oby1sd1dLLXNSTkZuS09IV2hldDBrUnE5cmlqREN2U2pTcHk0UlkwQmlNNlF1VW5rZkZv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 15 Oct 2025 22:38:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYURrb1lzcjBkU1k1RGJTQzFaTW1TSzlTMWsxOVJWcllSZXQ2ZVJBSFFWYXI2bFB0YlYwWmFTYjdVZHFRempwWmhITS01QmRPYk1tTHFwTmQxSUxrX0tySGtEMWpXN1NIS1JkcVItYy1oby1sd1dLLXNSTkZuS09IV2hldDBrUnE5cmlqREN2U2pTcHk0UlkwQmlNNlF1VW5rZkZv?oc=5\" target=\"_blank\">12 star"
     },
     {
       "title": "Innovación, electrificación y sostenibilidad: claves para el futuro energético y digital de Chile - Induambiente",

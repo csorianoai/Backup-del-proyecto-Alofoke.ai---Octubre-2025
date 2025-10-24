@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Ekoparty 2025: muestran una computadora cuántica, testean los WiFi públicos y Mercado Libre explica cómo lucha contra el robo de cuentas de empleados",
+      "url": "https://www.clarin.com/tecnologia/ekoparty-2025-muestran-computadora-cuantica-testean-wifi-publicos-mercado-libre-explica-lucha-robo-cuentas-empleados_0_lnHHrtizCw.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Oct 2025 19:31:18 +0000",
+      "summary": "<ul><li>El robo de cuentas corporativas es uno de los problemas más grandes de la industria.</li><li>Además, un especialista de la UTN explicó sobre ciberseguridad cuántica y el \"trencito de la alegría\" hacker relevó el mapa de redes.</li><li>Resumen del último día de la convención de hackers.</li><"
+    },
+    {
       "title": "ChatGPT Atlas: cómo es el nuevo navegador con IA que amenaza a Google y cambia la forma de usar internet",
       "url": "https://www.clarin.com/tecnologia/chatgpt-atlas-nuevo-navegador-ia-amenaza-google-cambia-forma-usar-internet_0_G29kPpLnEI.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,12 @@
       "summary": "<ul><li>Los ciberdelincuentes investigan a sus potenciales víctimas y envían mensajes hechos \"a medida\".</li><li>El objetivo es que hagan clic en enlaces, descarguen archivos o revelen información sensible.</li></ul>"
     },
     {
-      "title": "Ekoparty 2025: advierten sobre la fragilidad de la infraestructura que sostiene la IA con dos fallas de Nvidia",
-      "url": "https://www.clarin.com/tecnologia/ekoparty-2025-advierten-fragilidad-infraestructura-sostiene-ia-fallas-nvidia_0_XnTKy0nL5t.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Oct 2025 19:14:40 +0000",
-      "summary": "<ul><li>La conferencia de hackers arrancó con vulnerabilidades en los chips que usan todas las empresas de inteligencia artificial. </li><li>Además, habló Roger Dingledine, uno de los creadores de Tor, la red privada para conectarse a internet. </li><li>Anuncian Ekoparty Miami 2026.</li></ul>"
-    },
-    {
-      "title": "Argentina | Esta empresa diseña \"empleados\" con Inteligencia Artificial para ejecutar tareas repetitivas - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFZbVVwdy1jZDE5YV9CY2REa2lpZzlYSl9lQzUtMXhONDBYV0pmNklsTVFuZ0lTXy1pM1NsWU4yTlhxbTBLWHBYajFnSnN1MEZ1WEJSYnl6b0p5aTYtUGU4ejhSUjNvaGhqQ0E4eW5WWXFsRjBmQ3hqUFN1YVhyT19BdXg5UUlFOHZjOEo0Ukx1NFNETUhBcnRCekg3cWo0emdtalVoM1Y3WHY0a0pMSjV0RE1hY1o4MjZvZTRn?oc=5",
+      "title": "Un estudio reveló que casi la mitad de la población de Argentina utiliza Inteligencia Artificial - Tiempo Argentino",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGhKdEdYWERQQi1xMzhuS1R5UkFHSkRwRkJMN25NV2R1c0RoU3ZuNV9nVlI3MjJQdWh4Y3IyRGpmXzlzanZMU1Q1YU9rdkxDeGRXbkwzYVlEWWFpYUZhbkhPWEtlRklXTUdrRzVrc3FPSERCc3h5QThTZ2xZWVVQVXRsc1ByZGRkeTBIUldRTkZSSVkwUVZITEtiUzVWVTF1TU5ZUENfczQzb1NsTFR4QlFDSjRkaHkwXzh4Q9IBwgFBVV95cUxNTGhiUUI4SXFMendzQUJTeHBJYTlnSmVTb0g0Q3NYOWE1ZGZSeHRrWTR5Y0c1Z2RSbG5CODFtbkp0VGhjRFZsOXBwRXJUMVBmMkdhcF9jNFVEQk1PNmZ2OTY3NGF5U1l3TTlETC1IQnFKMnhWQVhCUUU2VEpyR3ZQRlRjbG9uTGRrWW9GekNkVmJURTRlbzNIUk9pcW03bW5uRWpNRWVveTEzcnhtWlViTnROc3ExajM5c3VFNXBheFZxdw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Oct 2025 14:11:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFZbVVwdy1jZDE5YV9CY2REa2lpZzlYSl9lQzUtMXhONDBYV0pmNklsTVFuZ0lTXy1pM1NsWU4yTlhxbTBLWHBYajFnSnN1MEZ1WEJSYnl6b0p5aTYtUGU4ejhSUjNvaGhqQ0E4eW5WWXFsRjBmQ3hqUFN1YVhyT19BdXg5UUlFOHZjOEo0Ukx1NFNETUhBcnRCekg3cWo0emdtalVoM1Y3WHY0a0pMSjV0RE1hY1o4Mj"
+      "published": "Fri, 24 Oct 2025 18:14:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGhKdEdYWERQQi1xMzhuS1R5UkFHSkRwRkJMN25NV2R1c0RoU3ZuNV9nVlI3MjJQdWh4Y3IyRGpmXzlzanZMU1Q1YU9rdkxDeGRXbkwzYVlEWWFpYUZhbkhPWEtlRklXTUdrRzVrc3FPSERCc3h5QThTZ2xZWVVQVXRsc1ByZGRkeTBIUldRTkZSSVkwUVZITEtiUzVWVTF1TU5ZUENfczQzb1NsTFR4QlFDSjRkaHkwXz"
     },
     {
       "title": "Inteligencia Artificial: apoyos, rechazos y expectativas en Argentina y otros 20 países relevados en un estudio internacional - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDFqeUFXZ2t2MEFnMmdTYVlaa1YycjhFNWIwX1pGaHp6SWtweGZSR3R2em1fQl9qeUFleHc3dnJVNjlrR0VRclUyNEprbjNPdE1KTWQ5R1JyZzFJbXdEVUpaQlVYSDd4eHRkZEN2aV9jNENzMlJ5eUpGcl8wRi1SblNtX2k1NkFLQnNOai1yWmVmaXZOdld6SU9HelRtbE5KbGx1aTVJY2hmdGJORWpYZzRfMkJxTHg1SD"
     },
     {
-      "title": "Selección Colombia vs. Argentina: inteligencia artificial hace su pronóstico y da el marcador final de la semifinal del Mundial Sub-20 de Chile - ELTIEMPO.COM",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQeHIxcHpYS0o2MGdRZjdFWld6bVJYY2tjWmNGTzEyVE45SURrZ3pWQmhkdzhDem92TURDSXhTUVpUQmhuV1E2SjhmLVNaSF81TnBlMGxzd3ZxTXFoa2dPUWpuUlM2bnNIeXpqMEpmRjlBNGV6RllpZ1ZSRHJicUt6RjU4UHM2WHN4WWg4YU82Q2hVU0ZxM3dCaGtvLUtCV2xZbFd4clpFX0dzZzNkVmpBNDRJZGtkVEtSN3kzb1loc3JjanNBREN5dEtDeVBTN0s4clNMQ08tMS1GN19GQmpGUXdIZHkwVWVCaDcwNUxGSWVUOVVucnktYWpVbzY1SkdVT0ZURHFSd3lBbmJvYVppUEdjcENkd25KU3RkRjZGVUpteGFsNjZJUFQxMmjSAbICQVVfeXFMT0VxeVNWcTV3YWFmeVpNZnlhWEZrbmFGNUc4ZjF6TU5iOEV6T05GT3dQdTRtRnowZzdadkFNYi1jZkVvbjJQTDlmVkdJNE1iM0tTWFlQT09qNUx0cnI0SGc1aWNZNXd5dUdHLXE1RnZ6dUx3N1RNVkhnRnM0TkpJU2hZN3pVaEhkNzhzNTZiaHdScWJKZVllNWd4S3JfMjBHTURmR1FILTRsc21MakVXU0l2dTUySGFMMW5Za0pWTTNrNmVRZXZtUUlMUkxEdWprcGEwajZmUlRWR0U4V0ZmTUgxNkxLTVZHU09pa0p3YWJnbjZ2QkFCWk9hb0VuNG1sZ2xTSlRrWUJyRndCNFRGTTNwemQ5bktka3VCZlBuSjBtYmpValZqWG5rdE42cmItOHhR?oc=5",
+      "title": "Argentina | Esta empresa diseña \"empleados\" con Inteligencia Artificial para ejecutar tareas repetitivas - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFZbVVwdy1jZDE5YV9CY2REa2lpZzlYSl9lQzUtMXhONDBYV0pmNklsTVFuZ0lTXy1pM1NsWU4yTlhxbTBLWHBYajFnSnN1MEZ1WEJSYnl6b0p5aTYtUGU4ejhSUjNvaGhqQ0E4eW5WWXFsRjBmQ3hqUFN1YVhyT19BdXg5UUlFOHZjOEo0Ukx1NFNETUhBcnRCekg3cWo0emdtalVoM1Y3WHY0a0pMSjV0RE1hY1o4MjZvZTRn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 15 Oct 2025 14:17:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQeHIxcHpYS0o2MGdRZjdFWld6bVJYY2tjWmNGTzEyVE45SURrZ3pWQmhkdzhDem92TURDSXhTUVpUQmhuV1E2SjhmLVNaSF81TnBlMGxzd3ZxTXFoa2dPUWpuUlM2bnNIeXpqMEpmRjlBNGV6RllpZ1ZSRHJicUt6RjU4UHM2WHN4WWg4YU82Q2hVU0ZxM3dCaGtvLUtCV2xZbFd4clpFX0dzZzNkVmpBNDRJZGtkVEtSN3"
+      "published": "Tue, 21 Oct 2025 14:11:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnFZbVVwdy1jZDE5YV9CY2REa2lpZzlYSl9lQzUtMXhONDBYV0pmNklsTVFuZ0lTXy1pM1NsWU4yTlhxbTBLWHBYajFnSnN1MEZ1WEJSYnl6b0p5aTYtUGU4ejhSUjNvaGhqQ0E4eW5WWXFsRjBmQ3hqUFN1YVhyT19BdXg5UUlFOHZjOEo0Ukx1NFNETUhBcnRCekg3cWo0emdtalVoM1Y3WHY0a0pMSjV0RE1hY1o4Mj"
     },
     {
       "title": "Buenos Aires será el epicentro del debate sobre inteligencia artificial en América Latina - Infobae",
