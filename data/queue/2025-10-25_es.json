@@ -3,6 +3,30 @@
   "country": "es",
   "articles": [
     {
+      "title": "Miles de valencianos salen de nuevo a la calle para pedir la dimisión de Mazón un año después de la dana",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2025-10-25/miles-de-valencianos-salen-de-nuevo-a-la-calle-para-pedir-la-dimision-de-mazon-un-ano-despues-de-la-dana.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 25 Oct 2025 17:53:20 GMT",
+      "summary": "Más de 50.000 personas, según la Delegación del Gobierno, participan en Valencia en la decimosegunda manifestación por la gestión de la dana"
+    },
+    {
+      "title": "Los familiares recuerdan a sus muertos en la dana en un emocionante acto: “No solo era mi gran amor, era mi amigo”",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2025-10-25/los-familares-recuerdan-a-sus-muertos-en-la-dana-en-un-emocionante-acto-no-solo-eras-mi-gran-amor.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 25 Oct 2025 13:32:38 GMT",
+      "summary": "Los testimonios de las víctimas protagonizan el acto de homenaje del Teatro Olympia de Valencia, organizado por la Associació Víctimes Dana 29 d’octubre"
+    },
+    {
+      "title": "La hora en la que Mazón desapareció: ¿qué hizo después de salir de El Ventorro el día de la dana?",
+      "url": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/la-hora-en-que-mazon-desaparecio-que-hizo-despues-de-salir-del-ventorro.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Oct 2025 15:44:07 GMT",
+      "summary": "El presidente valenciano y su equipo sostienen que estuvo “trabajando” en la sede del Consell tras su larga comida, pero un testigo asegura que llegó poco antes de las 20 horas a su despacho y enseguida se marchó al Cecopi"
+    },
+    {
       "title": "Así falló el sistema de avisos de cáncer de mama: se ordenó dejar de notificar a las mujeres porque “lo haría la nueva empresa”, pero no informaba",
       "url": "https://elpais.com/sociedad/2025-10-25/asi-fallo-el-sistema-de-avisos-del-cribado-de-cancer-de-mama-se-ordeno-no-informar-a-las-mujeres-porque-lo-haria-la-nueva-empresa.html",
       "source": "El País Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Sat, 25 Oct 2025 13:16:10 GMT",
       "summary": "La Junta dice que NTT Data no hace seguimiento de los casos de cáncer de mama y que solo mantiene la plataforma operativa para que la usen los responsables de los centros"
-    },
-    {
-      "title": "La hora en la que Mazón desapareció: ¿qué hizo después de salir de El Ventorro el día de la dana?",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/la-hora-en-que-mazon-desaparecio-que-hizo-despues-de-salir-del-ventorro.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 15:44:07 GMT",
-      "summary": "El presidente valenciano y su equipo sostienen que estuvo “trabajando” en la sede del Consell tras su larga comida, pero un testigo asegura que llegó poco antes de las 20 horas a su despacho y enseguida se marchó al Cecopi"
-    },
-    {
-      "title": "Mazón mantuvo su agenda el día de la dana pese a encargar ya por la mañana un informe sobre la gravedad de la riada",
-      "url": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/mazon-mantuvo-su-agenda-el-dia-de-la-dana-pese-a-encargar-ya-por-la-manana-un-informe-sobre-la-gravedad-de-la-riada.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 18:36:58 GMT",
-      "summary": "A primera hora del día, el entorno del ‘president’ pidió un documento a Salomé Pradas sobre la magnitud de la catástrofe"
-    },
-    {
-      "title": "Feijóo calienta la comparecencia de Sánchez en el Senado: “Si miente, irá al juzgado, si dice la verdad, también”",
-      "url": "https://elpais.com/espana/2025-10-25/feijoo-calienta-la-comparecencia-de-sanchez-en-el-senado-si-miente-ira-al-juzgado-si-no-tambien.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 25 Oct 2025 12:34:27 GMT",
-      "summary": "El presidente del Gobierno comparece el jueves en la comisión del ‘caso Koldo’ a petición del PP"
     },
     {
       "title": "Los españoles, los europeos que más usan y confían en la Inteligencia Artificial de Europa - El Español",
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNktTckQ1Y2ZwTDl4bHFuNmt0SUhycm5nMVh2dWZacHRsazNTQnpweERnU1BBWUtHaUZPcUdlZTFJMlFBM19fXzhNUldnODhsemhQdDZZbFFyNklJY3RudHVRMllaOTJ4aW52b0pucFkxcWNScTF0cjFpQ3FEWUIzWHhEUUF0UUdRUklrRDNnZnBTQTNRanF2OTJnQnhnbHlZZExGYVRDZUVBSEgtblVFRm16R1Y5bW5XNF"
     },
     {
-      "title": "O gobernamos la IA o la IA nos gobernará: España advierte en la ONU sobre un futuro de ganadores y perdedores - news.un.org",
+      "title": "O gobernamos la IA o la IA nos gobernará: España advierte en la ONU sobre un futuro de ganadores y perdedores - Welcome to the United Nations",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uWGtabkZmMThQeGlWZks3RGtDX3ByY1pFcVF3OEhjSDJiVHJzbmdPSFM5NGNPTzgtck1UVENBNWdhLXJTTTlFT0hxM0lTY1FjcWQ5amRUMA?oc=5",
       "source": "Google News",
       "category": "news",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNam5XM0ZyeURPRXgxaGs0VlE3NFFUTkVPWUNRSS10R1dMWTZNUWMyWEdDM2VoTGhkNWdkU3BodnNGTG10bXYyOEhmYUo4RFI4Q25penJZMVQxS2Q3aUM2QXdDYUxiRFEzM2xfMFNxWXY0MlRqSnV2VEJYc0pjcDNDcmd0NGljWWUyUGtzVkRQY0pwdmRCTVE4aTlnRjM3UXpOanY3anFsOUowWVUzLTNaaHF0QTBUMlhSQj"
     },
     {
-      "title": "Real Madrid - Barcelona: la Inteligencia Artificial sentencia al ganador del Clásico por la jornada 10 de la Liga Española - DIEZ.HN",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU2lhazJUTzlGTmZ5UDlrbEE1blVJeHdWaWFHdDJXamdWckFQYVJEekVCVmtDSkFPZ0pYZ0NIOWVMVEw4aDV0T1RtS3NwZ0NmSTV0ckhzbnU3TE9aUDUyd0tad0RTcEVkZHZZalRHbFBmRzhYcnFVa3lBWjI2U05nLW5EaTJWR1RnNnhuOVFnWnJGb3VpUzhBNUh3anNaTE03RTdBUHhLanlnbmhRbkZ4eTFncW91d1htTllBY3A0b3daMExkNHdJR2F3V1Z3R2JqdmJVQ1loQnVsUXowT01fVmQzODVXamt6WjJaQXRocFZYZkdOYUE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Oct 2025 16:49:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU2lhazJUTzlGTmZ5UDlrbEE1blVJeHdWaWFHdDJXamdWckFQYVJEekVCVmtDSkFPZ0pYZ0NIOWVMVEw4aDV0T1RtS3NwZ0NmSTV0ckhzbnU3TE9aUDUyd0tad0RTcEVkZHZZalRHbFBmRzhYcnFVa3lBWjI2U05nLW5EaTJWR1RnNnhuOVFnWnJGb3VpUzhBNUh3anNaTE03RTdBUHhLanlnbmhRbkZ4eTFncW91d1htTl"
-    },
-    {
       "title": "La IA anuncia quién va a ganar el Real Madrid - Barcelona: muy contundente - Defensa Central",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVp0Y1hHamptSzAyazY3cDhqUHA4Vm9wN0FVa2l5SW50cWtual90dmxKS2kyLVVQLWhKYmFuNHl6MXlsWjFRSjlCOXBuM3o4ZVY2RkJRS01wYTVZOVlPTXRGTXFzSm9iUjFYUEdqYlNqaHFfeWhNRmJDTlJINk9LMkRaTUNJT0kzb19VR21fdnJlYnBBcW4taERKVDZ5WUV1OXVRbjJ4WU5sWTE3cG9RWmRpTm0?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 23 Oct 2025 15:40:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZVp0Y1hHamptSzAyazY3cDhqUHA4Vm9wN0FVa2l5SW50cWtual90dmxKS2kyLVVQLWhKYmFuNHl6MXlsWjFRSjlCOXBuM3o4ZVY2RkJRS01wYTVZOVlPTXRGTXFzSm9iUjFYUEdqYlNqaHFfeWhNRmJDTlJINk9LMkRaTUNJT0kzb19VR21fdnJlYnBBcW4taERKVDZ5WUV1OXVRbjJ4WU5sWTE3cG9RWmRpTm0?oc=5\" "
+    },
+    {
+      "title": "Real Madrid - Barcelona: la Inteligencia Artificial sentencia al ganador del Clásico por la jornada 10 de la Liga Española - DIEZ.HN",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU2lhazJUTzlGTmZ5UDlrbEE1blVJeHdWaWFHdDJXamdWckFQYVJEekVCVmtDSkFPZ0pYZ0NIOWVMVEw4aDV0T1RtS3NwZ0NmSTV0ckhzbnU3TE9aUDUyd0tad0RTcEVkZHZZalRHbFBmRzhYcnFVa3lBWjI2U05nLW5EaTJWR1RnNnhuOVFnWnJGb3VpUzhBNUh3anNaTE03RTdBUHhLanlnbmhRbkZ4eTFncW91d1htTllBY3A0b3daMExkNHdJR2F3V1Z3R2JqdmJVQ1loQnVsUXowT01fVmQzODVXamt6WjJaQXRocFZYZkdOYUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 24 Oct 2025 16:49:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU2lhazJUTzlGTmZ5UDlrbEE1blVJeHdWaWFHdDJXamdWckFQYVJEekVCVmtDSkFPZ0pYZ0NIOWVMVEw4aDV0T1RtS3NwZ0NmSTV0ckhzbnU3TE9aUDUyd0tad0RTcEVkZHZZalRHbFBmRzhYcnFVa3lBWjI2U05nLW5EaTJWR1RnNnhuOVFnWnJGb3VpUzhBNUh3anNaTE03RTdBUHhLanlnbmhRbkZ4eTFncW91d1htTl"
     },
     {
       "title": "Top 20 Startups en España 2025: Las más innovadoras según LinkedIn - El Ecosistema Startup",
