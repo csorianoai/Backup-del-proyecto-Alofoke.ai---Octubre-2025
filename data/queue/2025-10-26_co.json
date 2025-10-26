@@ -3,6 +3,14 @@
   "country": "co",
   "articles": [
     {
+      "title": "Humanos e inteligencia artificial: cómo se están usando ese tipo de herramientas",
+      "url": "https://www.portafolio.co/tecnologia/humanos-e-inteligencia-artificial-como-se-estan-usando-ese-tipo-de-herramientas-642681",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Sun, 26 Oct 2025 14:22:09 +0000",
+      "summary": ""
+    },
+    {
       "title": "¿Cómo hacer para que la IA no se vuelva una competencia peligrosa?",
       "url": "https://www.portafolio.co/tecnologia/como-hacer-para-que-la-ia-no-se-vuelva-una-competencia-peligrosa-642930",
       "source": "Portafolio Tech",
@@ -35,20 +43,20 @@
       "summary": ""
     },
     {
-      "title": "El futuro de la inteligencia artificial: datos, talento y oportunidades para Colombia",
-      "url": "https://www.portafolio.co/tecnologia/el-futuro-de-la-inteligencia-artificial-datos-talento-y-oportunidades-para-colombia-642932",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 17:25:01 +0000",
-      "summary": ""
-    },
-    {
       "title": "Colombia lidera debate de la Unesco sobre inteligencia artificial en la Semana Mundial de Alfabetización Mediática - presidencia.gov.co",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnkwSzFZaWJVcENLX2hqMnNDZWNZQjg0SHltbklWMmhjaXVQUWxRMVBocjhrV2lxNFAzamtBTk1CVFRtNFRTT1BsemljcnJJOTI4VkJIMm9zYzFldk4zZkpheHlVQkt3M0MtSWM2MFpBaXh0b2pSQUl0UDhvSE40aUs5a2NUSGJ5SlVsSW9hZExncHFJZXdFSGdmNVNVRm9QelJzWkQxRmhXQTllb2dRb2JVYTd5WE5rODRmU0x1OFFXRks1RU9PS1d5SlN0Zw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 24 Oct 2025 00:39:43 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnkwSzFZaWJVcENLX2hqMnNDZWNZQjg0SHltbklWMmhjaXVQUWxRMVBocjhrV2lxNFAzamtBTk1CVFRtNFRTT1BsemljcnJJOTI4VkJIMm9zYzFldk4zZkpheHlVQkt3M0MtSWM2MFpBaXh0b2pSQUl0UDhvSE40aUs5a2NUSGJ5SlVsSW9hZExncHFJZXdFSGdmNVNVRm9QelJzWkQxRmhXQTllb2dRb2JVYTd5WE5rOD"
+    },
+    {
+      "title": "Pablo Arbeláez, un eminente experto colombiano en inteligencia artificial - CAMBIO Colombia",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOM0xQcVFzRGpzalV5OWpVY2NURkptRUR6b2tZOEVIRG5XMVpocW1ha3p2eXh2bF9yMklMZExmakJ4blIyMWEwLXlxenF2c29zNmJwMDVsSU45R19KOHZXbUhRby14elVxb1JmM3lXWWtwMk1Tczh1RXpPcGdvcTRYWGd2TV8wLTd0aDZpNkFvT19oMTYwVlJmRDFQSlhOWnV2UHVyYXFxSE84VDcxZHFZTzJkQVdRTlUzYVFBLWJjdXVDV083NGd6bndZeUl4THMtclJqbzhHMjFLTmNrMHFnN3l4Mm0xMzNCQ2k4eTUtd2oybHhRUUFjME1ucW5DM0doM3NVRUtUS3JsdUk2NmVTb1FHQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 26 Oct 2025 17:51:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOM0xQcVFzRGpzalV5OWpVY2NURkptRUR6b2tZOEVIRG5XMVpocW1ha3p2eXh2bF9yMklMZExmakJ4blIyMWEwLXlxenF2c29zNmJwMDVsSU45R19KOHZXbUhRby14elVxb1JmM3lXWWtwMk1Tczh1RXpPcGdvcTRYWGd2TV8wLTd0aDZpNkFvT19oMTYwVlJmRDFQSlhOWnV2UHVyYXFxSE84VDcxZHFZTzJkQVdRTlUzYV"
     },
     {
       "title": "Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Artificial de la CEPAL - MINTIC Colombia",
@@ -59,28 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5\" target=\"_blank\">Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Arti"
     },
     {
-      "title": "Docentes colombianos utilizan la inteligencia artificial más que el resto de los países de la Ocde: uno de cada dos la usa en las aulas - ELTIEMPO.COM",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPblhBWlR3dUVOMzZWalVaeGN5ZV9PTWE3NlprZjRKemJicVp1d3doZEh0MWMyek1zcDkwaTV3VElpOU9rWEJHUVBHVkVtQWx6bEpLaUFjQzhreXFXVEY0TnN5Nl9meXRTc2tRQmNqTGJqeVN0cEhwbTIxMUk3dVQzWWpfcmp1cDV2T2N1ZlFjUnBIZXViek1qMnZ1d0xyQjJzb2NFUVpmRHF0emFmVmVtOVhLVnVmMVhsUHlGTElhU3RIMEdUR1pLVFYxWk1RaEc5dEFXdlJtaEpRYlluYWY5TDRWTXFDRXpqYUNrdjliUVpnVFhpZFFFVnRtOXgyYVZGb0NuQmF5a01GbUgyNVpB0gGUAkFVX3lxTFBDOVVQZ2xaM1dqME9SU2NKbzBQWmplRS1lTUJ1ZG03Zzl2NmQyUFAtR3ZmenlHdlJnR0lHTTdUN0ZJOGEyVnJub20yejJXbE1BVV9tQWNfanhlNDYtdmtNWGNjZjA1dUE0SzVQdC1Ba2xaU2hnajJSbEFtNk9udDRrZmNEZEhBNUVOdzZPcThFU3dhT0RZUnhnMmwya0U0eFVOVU83YWVlc2ljZkdka2JDQ2taLWtDLVdheXNpN1RyWkFEQk00WlEwcnd0VEc5a1dFQmhLSEZPaUlvb3VESElxYkZVYVN6bkFDUFNRNVdxU0xUc3NrLWJMWjl3VzU1Nlc3TTJjRERFMUl6UVBMd3pYUy1OaQ?oc=5",
+      "title": "Así está la movilidad hoy domingo 25 de octubre en la Vía al Llano Bogotá-Villavicencio - Bogota.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVpWZ1JuMFRWX3o4a3VsMjVpMUFIbXVBWjNpWloyZ292WTQ4SFVCZXBISG5DRG5ZaWQtZ2ZINnRibE5mbnB4MnEyN0dWa25IOVJjWkFtVldiR2FseTlVSVhtQlI2N0FRMFpIUU84YWRhdFZoUjNWSEs5b2I5WFJSLTJBY1BsTjQtV1g3ZGJBeTBFVDA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 26 Oct 2025 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPblhBWlR3dUVOMzZWalVaeGN5ZV9PTWE3NlprZjRKemJicVp1d3doZEh0MWMyek1zcDkwaTV3VElpOU9rWEJHUVBHVkVtQWx6bEpLaUFjQzhreXFXVEY0TnN5Nl9meXRTc2tRQmNqTGJqeVN0cEhwbTIxMUk3dVQzWWpfcmp1cDV2T2N1ZlFjUnBIZXViek1qMnZ1d0xyQjJzb2NFUVpmRHF0emFmVmVtOVhLVnVmMVhsUH"
+      "published": "Sun, 26 Oct 2025 17:57:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVpWZ1JuMFRWX3o4a3VsMjVpMUFIbXVBWjNpWloyZ292WTQ4SFVCZXBISG5DRG5ZaWQtZ2ZINnRibE5mbnB4MnEyN0dWa25IOVJjWkFtVldiR2FseTlVSVhtQlI2N0FRMFpIUU84YWRhdFZoUjNWSEs5b2I5WFJSLTJBY1BsTjQtV1g3ZGJBeTBFVDA?oc=5\" target=\"_blank\">Así está la movilidad hoy do"
     },
     {
-      "title": "Así está la movilidad en la Vía al Llano Bogotá-Villavicencio hoy sábado 25 de octubre - Bogota.gov.co",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlBVRjhfRE96THNsYThWNUx6ZWQ5LTJNbFdoNm9LNW45WGJ0N3ZTU3pfaG5TNlJaRjkyaklEQ2FhNTkyVWlGRGhOd2d5aEJRUlBGLTlDcmFQalRvRUl3MXRkSFRpUUxKLU9JQlY4Vnpvdzd6cVExc2VEakdHUzZEdkx4OUI0T0JGVk9iTEgzN1RyZ2Vjam5uMndFOE8ySW9yNzdCVTN1WEg0UQ?oc=5",
+      "title": "Cuál es el lugar más terrorífico de Bogotá, según la IA: escalofriante - Radioacktiva.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWZ2UWM4NnROdFNYdmM4QW1uamhjeVFHcDB6R1NfTzUwUkczNzdIZm5YNXRjX3ZTckNLT0d5RUtyQ3dSNGx6RUxDUVNxVE14X0h6by1tdi1FMlphd0VCaGVrOGNLWlk5ZEFmb1hZME16SEFoWTVoeUFUM01PR1VpRWlFN01mdHVzQi12b29RQ0pMZ0t5aXV0dVVfN2U0ZTlJY0Y0OVlSbGNIMFBsNUUxV2xyMFDSAboBQVVfeXFMTmwzYlFkcW5HUVdpMWtkTWhDdXk4OV9KMUhjNnZXNzNvYTFwQzFJaEctd2dqRkVUcktraG1rdlJrazYzb2p2eXd5U1RMT0VTbUZmM2NsUkZNNEhKUTRvWjlBTi03T3JWZEFQR21LVFFQS2JoUFRIRGI2QzA4czBydWpHNDVSVWxiQ0pXVkdBeUhOTFVwRERoUTYwbzREVFQ2QlJ1MFhId2c4THpNYXhFMlZHMlQwckFsMFFR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 25 Oct 2025 12:16:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlBVRjhfRE96THNsYThWNUx6ZWQ5LTJNbFdoNm9LNW45WGJ0N3ZTU3pfaG5TNlJaRjkyaklEQ2FhNTkyVWlGRGhOd2d5aEJRUlBGLTlDcmFQalRvRUl3MXRkSFRpUUxKLU9JQlY4Vnpvdzd6cVExc2VEakdHUzZEdkx4OUI0T0JGVk9iTEgzN1RyZ2Vjam5uMndFOE8ySW9yNzdCVTN1WEg0UQ?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "Guía definitiva del Día Mundial de Ciudades: Bogotá está lista para recibir a líderes y expertos globales - ELTIEMPO.COM",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzZraGVIbG1BUkZFbEM2djJnX0thY0RjRUtkcFVDalpfX1pKMXI3SXJLTjU2RGE3RTJxQlJ2YlQ5N3dReVhDSFhsLVhyX3J1R251UWtteUNoOW9GdTRtdkc5UGZWOGZXUjNBb203T1FuX1Q4TUY2LXVfODU4elhad1lhOUxTQ0hReDUxSTZGLTBTQWE2T050QUx4WnhNdkQxR1JSUXVsbHFtNzNRVHc4TFI1ZEU0NVJrNEVZNFRHUUZ5b1hnSlg0REU4QzBVQVFtZXZTV2FfbTMtbXJF0gHiAUFVX3lxTFBRUk13cUxOSW1ZVTVTSHBNeDNFNzRraDFzaVpidWdpc19TVU8zRVhXNnpkR2dkX3ZuUGV0Rkp1OG1YNWtYZlllWUpDUm91WlRabkxvMktpVXBCMUliM2U3aVc5bnMxRjlQMVlzRTVZRElESGp5TjBqVkN1NFExRmJ5LVNFaUYxWUEyOFlqdDF5Um5PWFFULUU5YUR0bjdUMzZJQTg2ZktSUC1kQ0lzZVU5Z2ZGUjd4MDgtbEdSaHN4aWpyc1JPN0JJYjlvV24zRG9ha1ZxTFNFZFI5SEduREVZQVE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 26 Oct 2025 03:25:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUzZraGVIbG1BUkZFbEM2djJnX0thY0RjRUtkcFVDalpfX1pKMXI3SXJLTjU2RGE3RTJxQlJ2YlQ5N3dReVhDSFhsLVhyX3J1R251UWtteUNoOW9GdTRtdkc5UGZWOGZXUjNBb203T1FuX1Q4TUY2LXVfODU4elhad1lhOUxTQ0hReDUxSTZGLTBTQWE2T050QUx4WnhNdkQxR1JSUXVsbHFtNzNRVHc4TFI1ZEU0NVJrNE"
+      "published": "Sun, 26 Oct 2025 15:23:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWZ2UWM4NnROdFNYdmM4QW1uamhjeVFHcDB6R1NfTzUwUkczNzdIZm5YNXRjX3ZTckNLT0d5RUtyQ3dSNGx6RUxDUVNxVE14X0h6by1tdi1FMlphd0VCaGVrOGNLWlk5ZEFmb1hZME16SEFoWTVoeUFUM01PR1VpRWlFN01mdHVzQi12b29RQ0pMZ0t5aXV0dVVfN2U0ZTlJY0Y0OVlSbGNIMFBsNUUxV2xyMFDSAboBQV"
     },
     {
       "title": "ANI avanza en estructuración del primer tercio de la vía Bogotá-Villavicencio - ani.gov.co",
