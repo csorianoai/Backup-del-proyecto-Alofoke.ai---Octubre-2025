@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La UE acusa a Meta y TikTok de incumplir con sus normas de contenido digital",
+      "url": "https://expansion.mx/tecnologia/2025/10/27/ue-acusa-a-meta-y-tiktok-de-incumplir-con-sus-normas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Oct 2025 22:00:48 GMT",
+      "summary": "Bruselas sostiene que ambas compañías fallaron en garantizar mecanismos de denuncia, apelación y acceso a datos para investigadores, lo que podría derivar en multas millonarias."
+    },
+    {
+      "title": "Uber gana respaldo legal para operar en aeropuertos",
+      "url": "https://expansion.mx/tecnologia/2025/10/27/ubera-gana-batalla-legal-clave-en-aeropuertos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Oct 2025 21:26:11 GMT",
+      "summary": "La resolución judicial impide que la Guardia Nacional detenga a conductores que realicen viajes con la app en los aeropuertos del país."
+    },
+    {
+      "title": "Amazon despedirá 30,000 empleados, según reporte",
+      "url": "https://expansion.mx/tecnologia/2025/10/27/amazon-despidos-masivos-recortara-30-000-empleados",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Oct 2025 20:18:36 GMT",
+      "summary": "La tecnológica sumaría un recorte más, que equivale al 10% de su plantilla de empleados corporativos, mientras el auge de la IA persiste."
+    },
+    {
       "title": "¿El SAT vigilará tus cuentas de Netflix, TikTok y Uber con la \"Ley Espía\"?",
       "url": "https://expansion.mx/tecnologia/2025/10/27/sat-vigilara-cuentas-netflix-tiktok-uber-con-ley-espia",
       "source": "Expansión Tecnología",
@@ -19,30 +43,6 @@
       "summary": "La empresa quiso reducir fricciones operativas y acelerar la atención al cliente en su atención total."
     },
     {
-      "title": "Repartidores denuncian más cargas y caída de 30% en ingresos por piloto del IMSS",
-      "url": "https://expansion.mx/tecnologia/2025/10/25/repartidores-denuncian-cargas-menos-ingresos-piloto",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 25 Oct 2025 17:21:54 GMT",
-      "summary": "A la mitad del camino de la prueba piloto que brinda seguridad a trabajadores digitales, repartidores perciben más cargas que beneficios."
-    },
-    {
-      "title": "Reseña: Leyendas Pokémon Z-A moderniza la fórmula, pero no megaevoluciona",
-      "url": "https://expansion.mx/tecnologia/2025/10/25/resena-leyendas-pokemon-z-a",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 25 Oct 2025 14:00:49 GMT",
-      "summary": "Con este juego, la fluidez del combate y la ambientación muestran avances para la franquicia, aunque también demuestra que Game Freak juega seguro y no arriesga demasiado."
-    },
-    {
-      "title": "Halo, la franquicia insignia de Microsoft, llega a PlayStation",
-      "url": "https://expansion.mx/tecnologia/2025/10/24/halo-llega-a-playstation",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 22:30:11 GMT",
-      "summary": "Halo: Campaing Evolved llegará a la consola de Sony en 2026 con mejoras gráficas y de jugabilidad entre dispositivos."
-    },
-    {
       "title": "34% de los estudiantes ya usa Inteligencia Artificial para aprender inglés - noticiasneo.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjc1eHFQV0hMUXltbGhtdHRQbGkwdkphQlNpMmRBZ3V3MWJGWjBoeTNPbkFTSmxORS00N0lZUGVLel90a083V2VEbkdrQlJfTGc3YTJ2MlhnUTBrVXdZTk0tQnFGU0pvRjlGSVVPdnFaV0J2b3VUbGZVV2Q4VUw3UGNXd3Nkd2tZS3l1b1FtMW8wUmdvMXZ3QjJSeXU4YnFRTnVWS3M5ZkpldmVYS2l1VzVGR3pieTJGbDVQNA?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjc1eHFQV0hMUXltbGhtdHRQbGkwdkphQlNpMmRBZ3V3MWJGWjBoeTNPbkFTSmxORS00N0lZUGVLel90a083V2VEbkdrQlJfTGc3YTJ2MlhnUTBrVXdZTk0tQnFGU0pvRjlGSVVPdnFaV0J2b3VUbGZVV2Q4VUw3UGNXd3Nkd2tZS3l1b1FtMW8wUmdvMXZ3QjJSeXU4YnFRTnVWS3M5ZkpldmVYS2l1VzVGR3pieTJGbD"
     },
     {
-      "title": "México despierta a la Era de la Inteligencia Artificial - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHk3dDdjdUpnSUk4VVdEUGQ0cjVRQ3hYMHZROUpUWUZ1OTAyems4Qm11TEJSNExrc3c3eEo5bm5ERVZZMjZjMThXcEVMV1MxajhJLWFDWmdVakxsQjN5MUJuNkVLUnlnYlNrakhNeEFOczRBSFNuOTVMck1vRXVlUVpBMmFpR2N5TGhfNkwzV3lLbDk5VG82T2FlYlQ4UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 23 Oct 2025 16:07:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMHk3dDdjdUpnSUk4VVdEUGQ0cjVRQ3hYMHZROUpUWUZ1OTAyems4Qm11TEJSNExrc3c3eEo5bm5ERVZZMjZjMThXcEVMV1MxajhJLWFDWmdVakxsQjN5MUJuNkVLUnlnYlNrakhNeEFOczRBSFNuOTVMck1vRXVlUVpBMmFpR2N5TGhfNkwzV3lLbDk5VG82T2FlYlQ4UQ?oc=5\" target=\"_blank\">México despie"
-    },
-    {
       "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 24 Sep 2025 15:26:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+    },
+    {
+      "title": "México despierta a la Era de la Inteligencia Artificial - AmericaMalls & Retail",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHk3dDdjdUpnSUk4VVdEUGQ0cjVRQ3hYMHZROUpUWUZ1OTAyems4Qm11TEJSNExrc3c3eEo5bm5ERVZZMjZjMThXcEVMV1MxajhJLWFDWmdVakxsQjN5MUJuNkVLUnlnYlNrakhNeEFOczRBSFNuOTVMck1vRXVlUVpBMmFpR2N5TGhfNkwzV3lLbDk5VG82T2FlYlQ4UQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 23 Oct 2025 16:07:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMHk3dDdjdUpnSUk4VVdEUGQ0cjVRQ3hYMHZROUpUWUZ1OTAyems4Qm11TEJSNExrc3c3eEo5bm5ERVZZMjZjMThXcEVMV1MxajhJLWFDWmdVakxsQjN5MUJuNkVLUnlnYlNrakhNeEFOczRBSFNuOTVMck1vRXVlUVpBMmFpR2N5TGhfNkwzV3lLbDk5VG82T2FlYlQ4UQ?oc=5\" target=\"_blank\">México despie"
     },
     {
       "title": "PotencIA MX: Meta invita a startups y PyMEs mexicanas a a su primer programa de IA - emprendedor.com",

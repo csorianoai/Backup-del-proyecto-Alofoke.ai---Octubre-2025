@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El regreso de 31 Minutos: mira aquí la nueva miniserie con Juan Carlos Bodoque",
+      "url": "https://www.latercera.com/tendencias/noticia/el-regreso-de-las-notas-verdes-31-minutos-estrena-nueva-miniserie-de-juan-carlos-bodoque/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Oct 2025 20:00:00 +0000",
+      "summary": "El querido personaje del noticiero infantil vuelve con una nueva producción en YouTube centrada en el cambio climático."
+    },
+    {
       "title": "“Está haciendo un trabajo maravilloso”: qué le dijo Donald Trump a Javier Milei tras su victoria",
       "url": "https://www.latercera.com/tendencias/noticia/esta-haciendo-un-trabajo-maravilloso-que-le-dijo-donald-trump-a-javier-milei-tras-su-victoria/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "El Ministerio de Salud de Perú declaró una alerta epidemiológica por un brote de la bacteria Ralstonia pickettii, vinculado a un fármaco contaminado que fue suministrado en clínicas y hospitales."
     },
     {
-      "title": "Calor extremo y lluvia: el pronóstico del tiempo en Santiago para esta semana",
-      "url": "https://www.latercera.com/tendencias/noticia/calor-extremo-y-lluvia-el-pronostico-del-tiempo-en-santiago-para-esta-semana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Oct 2025 12:43:32 +0000",
-      "summary": "La última semana de octubre llega con cambios marcados en la Región Metropolitana: días calurosos, un cielo cubierto y una posible sorpresa de lluvia al final. Así estará el tiempo según el pronóstico del tiempo."
+      "title": "En Chile, la IA desata debates políticos - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFAzNXd2S21QekZFZkNqbE9jWGxVZmxEajVnT0RrV1o1S0tyZDBVUFliTlR4MmN4NWtsbU5yWThFdVZCdE5ZX2t2TUhqN082QmRhbDdKbEEwVXVOcGNXNFFEaXRVWXlkYVItWTFBZi1GY1RrcEJja0Y0aEpjeHVVMkRicEJPSUdPcmVrMENQT1VfQWM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Oct 2025 17:41:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFAzNXd2S21QekZFZkNqbE9jWGxVZmxEajVnT0RrV1o1S0tyZDBVUFliTlR4MmN4NWtsbU5yWThFdVZCdE5ZX2t2TUhqN082QmRhbDdKbEEwVXVOcGNXNFFEaXRVWXlkYVItWTFBZi1GY1RrcEJja0Y0aEpjeHVVMkRicEJPSUdPcmVrMENQT1VfQWM?oc=5\" target=\"_blank\">En Chile, la IA desata debat"
     },
     {
       "title": "Un sistema de inteligencia artificial permite identificar rellenos estéticos en la piel mediante ecografías - Infosalus",
@@ -51,20 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaFU5U25FeUw0eGZvaVNxN0Fla3AtcDk1NDZ1Tk9xRkxZcC1qeEZRcThGSmpkbEE0dUFnV1FFYUNPUVJDYW1kOVAzY0lFaHA2Q2lxNjNkUHdoSV9PTHFJeU5fMkYtWDlyRVNXalVXWm9qTUEwd0VZSndXS0V6bXRKaEp6Ull2ajFrRFFWSEE2ZVVwT0xoTXlNRzMwbld2a3RYMFBNYjV5amtQYjBpQ0ZjVFJCSTVpMjhuYV"
     },
     {
-      "title": "Encuentro MetaRed TIC Chile 2025 analiza dos temas claves: impacto de la IA y gobernanza de datos en la educación superior - Universia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzJNc3VJRWJ2eU9pdnFlZmwzVTRUOUQ3ZUI1RE9VYm9aQXNBajJjNWhLWWNMbVA0YUhzNnRkQWNtcE1PTVJiRmV5VF9oVGt2T2dYTlUtejdsNUFKWnhWQVR4Si11M3BONzZMRHRxRzJsMldhT3d3b19wbUN0WmhlWWNEUjV6cDB2Y1VGQg?oc=5",
+      "title": "Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Artificial de la CEPAL - MINTIC Colombia",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Oct 2025 16:28:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdzJNc3VJRWJ2eU9pdnFlZmwzVTRUOUQ3ZUI1RE9VYm9aQXNBajJjNWhLWWNMbVA0YUhzNnRkQWNtcE1PTVJiRmV5VF9oVGt2T2dYTlUtejdsNUFKWnhWQVR4Si11M3BONzZMRHRxRzJsMldhT3d3b19wbUN0WmhlWWNEUjV6cDB2Y1VGQg?oc=5\" target=\"_blank\">Encuentro MetaRed TIC Chile 2025 anal"
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5\" target=\"_blank\">Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Arti"
     },
     {
-      "title": "En Chile, la IA desata debates políticos - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFAzNXd2S21QekZFZkNqbE9jWGxVZmxEajVnT0RrV1o1S0tyZDBVUFliTlR4MmN4NWtsbU5yWThFdVZCdE5ZX2t2TUhqN082QmRhbDdKbEEwVXVOcGNXNFFEaXRVWXlkYVItWTFBZi1GY1RrcEJja0Y0aEpjeHVVMkRicEJPSUdPcmVrMENQT1VfQWM?oc=5",
+      "title": "IA de Elon Musk reconoce logros de Santiago Peña - El Trueno",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWxiSzBadDlILUFkY1lyMGxIa09QTnpvM01LZXNuaEZ1RzlXX003VWE0cEpJWVBLcHoxR3J0dWJiODIwdWw3aW9vdUlrS2JQbjZaVjh4T0dVLUJHYnBFY2JBTEVoUXRrLTB6eFhYRlZsdFBWcTVudWFiX1pMZEZ1Q2U3VUk4MHJieWRtUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Oct 2025 17:41:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFAzNXd2S21QekZFZkNqbE9jWGxVZmxEajVnT0RrV1o1S0tyZDBVUFliTlR4MmN4NWtsbU5yWThFdVZCdE5ZX2t2TUhqN082QmRhbDdKbEEwVXVOcGNXNFFEaXRVWXlkYVItWTFBZi1GY1RrcEJja0Y0aEpjeHVVMkRicEJPSUdPcmVrMENQT1VfQWM?oc=5\" target=\"_blank\">En Chile, la IA desata debat"
+      "published": "Mon, 27 Oct 2025 22:05:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWxiSzBadDlILUFkY1lyMGxIa09QTnpvM01LZXNuaEZ1RzlXX003VWE0cEpJWVBLcHoxR3J0dWJiODIwdWw3aW9vdUlrS2JQbjZaVjh4T0dVLUJHYnBFY2JBTEVoUXRrLTB6eFhYRlZsdFBWcTVudWFiX1pMZEZ1Q2U3VUk4MHJieWRtUQ?oc=5\" target=\"_blank\">IA de Elon Musk reconoce logros de Sa"
     },
     {
       "title": "Iglesia y empresarios se unen en un seminario en Santiago para abordar los desafíos éticos de la IA - Europa Press",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Tue, 21 Oct 2025 21:27:58 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFF6YnNDNmYxeVJCQTdQRy15YzQzbjItUkZKOUpFLVd6M1c2bVhRRHhQLTFpcDdtYjBPeEVubENBVFFTM2M4YnJxOEYyZ2UwN0d0WXhFcnhxZnE0UFhZQnM5Q2pEYndmWFZJWUR4NjJhX3ZmXzFHeVdoMV9xR1FsdDcyWlhiV3AxS3VIOHVMdE9WWTNueUpmX2c4Q1VPNHYtOVZ1NGZyeDZ4Zw?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
       "title": "Cuatro startups competirán por representar a Chile en los Global eAwards 2025 que se realizarán en Perú - EntrepreNerd",
