@@ -3,11 +3,19 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Reyma, empresa mexicana, se apoya de Dell y Nvidia para integrar IA",
-      "url": "https://expansion.mx/tecnologia/2025/10/27/reyma-empresa-mexicana-se-apoya-de-dell-y-nvidia-para-integrar-ia",
+      "title": "¿El SAT vigilará tus cuentas de Netflix, TikTok y Uber con la \"Ley Espía\"?",
+      "url": "https://expansion.mx/tecnologia/2025/10/27/sat-vigilara-cuentas-netflix-tiktok-uber-con-ley-espia",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Mon, 27 Oct 2025 11:55:19 GMT",
+      "published": "Mon, 27 Oct 2025 17:07:25 GMT",
+      "summary": "La organización Artículo 19 advirtió que los cambios al Código Fiscal vulneran el derecho a la privacidad y podrían abrir la puerta a la censura en línea."
+    },
+    {
+      "title": "Reyma, empresa mexicana, se apoya de Dell y Nvidia para integrar IA",
+      "url": "https://expansion.mx/tecnologia/2025/10/27/reyma-empresa-mexicana-desechables-integra-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Oct 2025 16:24:19 GMT",
       "summary": "La empresa quiso reducir fricciones operativas y acelerar la atención al cliente en su atención total."
     },
     {
@@ -35,20 +43,12 @@
       "summary": "Halo: Campaing Evolved llegará a la consola de Sony en 2026 con mejoras gráficas y de jugabilidad entre dispositivos."
     },
     {
-      "title": "Ya no solo los programadores: la IA amenaza los empleos de la industria financiera",
-      "url": "https://expansion.mx/tecnologia/2025/10/24/ia-amenaza-empleos-industria-financiera-y-bancaria",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 22:00:41 GMT",
-      "summary": "La historia de los programadores se repite en la banca, con procesos automatizados por la IA y apuestas en el cómputo cuántico que pone en riesgo empleos."
-    },
-    {
-      "title": "Cómo AT&T México integra la inteligencia artificial en su estrategia de marketing - Revista Merca2.0",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaS1OWkdPa2ptc0Z0VGU0SW5UTGpiWjlTZkx3aDMxTFltbjdVTFZyTE1XcnpncnFvREFxR2hEazFMSnVhbFU4S3MzNWZTQ09iMi1pSjlkTFJBTG4tcnpmWjdtOXhiTFRCNWtRa3N1LXI3c1FoSUVnRlFiRG9jRGM3ZUV1RWJxejhtWXpoSzh3aWc5czg2NlM4U3RfRGNiNWlnWVZSeHQ5V0k?oc=5",
+      "title": "34% de los estudiantes ya usa Inteligencia Artificial para aprender inglés - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjc1eHFQV0hMUXltbGhtdHRQbGkwdkphQlNpMmRBZ3V3MWJGWjBoeTNPbkFTSmxORS00N0lZUGVLel90a083V2VEbkdrQlJfTGc3YTJ2MlhnUTBrVXdZTk0tQnFGU0pvRjlGSVVPdnFaV0J2b3VUbGZVV2Q4VUw3UGNXd3Nkd2tZS3l1b1FtMW8wUmdvMXZ3QjJSeXU4YnFRTnVWS3M5ZkpldmVYS2l1VzVGR3pieTJGbDVQNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Oct 2025 06:51:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaS1OWkdPa2ptc0Z0VGU0SW5UTGpiWjlTZkx3aDMxTFltbjdVTFZyTE1XcnpncnFvREFxR2hEazFMSnVhbFU4S3MzNWZTQ09iMi1pSjlkTFJBTG4tcnpmWjdtOXhiTFRCNWtRa3N1LXI3c1FoSUVnRlFiRG9jRGM3ZUV1RWJxejhtWXpoSzh3aWc5czg2NlM4U3RfRGNiNWlnWVZSeHQ5V0k?oc=5\" target=\"_blank\">"
+      "published": "Mon, 27 Oct 2025 15:37:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjc1eHFQV0hMUXltbGhtdHRQbGkwdkphQlNpMmRBZ3V3MWJGWjBoeTNPbkFTSmxORS00N0lZUGVLel90a083V2VEbkdrQlJfTGc3YTJ2MlhnUTBrVXdZTk0tQnFGU0pvRjlGSVVPdnFaV0J2b3VUbGZVV2Q4VUw3UGNXd3Nkd2tZS3l1b1FtMW8wUmdvMXZ3QjJSeXU4YnFRTnVWS3M5ZkpldmVYS2l1VzVGR3pieTJGbD"
     },
     {
       "title": "México despierta a la Era de la Inteligencia Artificial - AmericaMalls & Retail",
@@ -71,7 +71,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW9xaXhWR28wc2p5cm5YWnhwN3BGeXVURFBPQTV2cUFKc3J1NDdad2JVNXRpbTR3NW1uMDBGcEplcmdVWEVKNEltek41aHBtRkZoT1lLYWJ0VXp0M1c2TFNSTnQzT2JRVzZoS3IxNFROZjBoNExpWVg5UTZkd2w5YkRIWnFFZHVoU25YcUtqZ2RWS0RkUnZ1dW9kay1qcF90M1g2dmVOcFgzQdIBrwFBVV95cUxPZDJlWnBrWE9jN1BNdjE2RzlQUVVYSk9OVUlSS1BEX0ZXZ0I1VzFCU3V5My1kUWZncUp3UWNOVzVQYnVBYTZQUDc3RzNIZ0lSenVKNjVkVWdjNnE0TWl0RXNOMUJQU09WWHMzWElwUUg1WlZzV3pJR2Yyd3laRGdTWS1tSVBJVWtIa3BseGIxZ0NZb014cmJUd2tIZ2Z6OXQ3R3RVY2NuZnBfUTJQMmZn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Oct 2025 23:29:14 GMT",
+      "published": "Fri, 24 Oct 2025 23:35:23 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW9xaXhWR28wc2p5cm5YWnhwN3BGeXVURFBPQTV2cUFKc3J1NDdad2JVNXRpbTR3NW1uMDBGcEplcmdVWEVKNEltek41aHBtRkZoT1lLYWJ0VXp0M1c2TFNSTnQzT2JRVzZoS3IxNFROZjBoNExpWVg5UTZkd2w5YkRIWnFFZHVoU25YcUtqZ2RWS0RkUnZ1dW9kay1qcF90M1g2dmVOcFgzQdIBrwFBVV95cUxPZDJlWn"
     },
     {
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUU1QMnc1T0Z5ZnR0UnNSQlkySUZXcmhtaEpwUkdtbkQwVlliUUJaM3dPX3ZQN1pzVEpsOHRYUC1vcE5SdjloUkF5djNaaGtRWmxubHN5NGx2NjlmdGpRcmJLeC1QMTBRT3Y5MS13UXYyYWNWYTY1bkxnNnQxNWNGUWF3MkxxV1U1SjF5R0F4TW5MZndubm84Q190bFF2cEFXQ3BkRS1uSTFJVmpqT1dlZzhNMzBFdWM?oc"
     },
     {
-      "title": "Humanidades Digitales: nueva carrera del Tec de Monterrey que integra tecnología y humanismo para abordar desafíos de la IA - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyNDVHdEV5WTY1Q2lGbTJRMEtKY0owdHkzUGJVMnJoUlhwSUF3M255TzNNdXJDNmwyTzRON1RKYXczUU5WTWRHZDA4V3ZzTnZXNEtjQzNnR1lSbmtjNk5ySFRkaG9fekVs?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 22 Oct 2025 21:23:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyND"
-    },
-    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 26 Aug 2025 00:35:50 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "Humanidades Digitales: nueva carrera del Tec de Monterrey que integra tecnología y humanismo para abordar desafíos de la IA - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyNDVHdEV5WTY1Q2lGbTJRMEtKY0owdHkzUGJVMnJoUlhwSUF3M255TzNNdXJDNmwyTzRON1RKYXczUU5WTWRHZDA4V3ZzTnZXNEtjQzNnR1lSbmtjNk5ySFRkaG9fekVs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Oct 2025 21:23:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyND"
     }
   ],
   "count": 14
