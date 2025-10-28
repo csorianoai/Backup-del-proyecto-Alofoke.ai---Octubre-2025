@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "WhatsApp dejará de funcionar en estos teléfonos en noviembre",
+      "url": "https://expansion.mx/tecnologia/2025/10/28/whatsapp-dejara-de-funcionar-telefonos-noviembre-2025",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 28 Oct 2025 17:17:01 GMT",
+      "summary": "La aplicación de mensajería actualizará sus requisitos de compatibilidad de 2025. Conoce los dispositivos que dejarán de recibir soporte y qué pasará con ellos."
+    },
+    {
+      "title": "OpenAI completa su reestructuración como empresa con fines de lucro",
+      "url": "https://expansion.mx/tecnologia/2025/10/28/openai-reestructuracion-empresa-con-fines-de-lucro",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 28 Oct 2025 16:30:33 GMT",
+      "summary": "Este proceso duró más de un año y encontró obstáculos como la demanda de Elon Musk en contra de la firma, que él cofundó junto a Sam Altman."
+    },
+    {
       "title": "Amazon recorta 14,000 puestos corporativos; Bernie Sanders cuestiona estrategia",
       "url": "https://expansion.mx/tecnologia/2025/10/28/amazon-recorta-14-000-puestos-corporativos-bernie-sanders-cuestiona-estrategia",
       "source": "Expansión Tecnología",
@@ -27,20 +43,20 @@
       "summary": "La resolución judicial impide que la Guardia Nacional detenga a conductores que realicen viajes con la app en los aeropuertos del país."
     },
     {
-      "title": "La UE acusa a Meta y TikTok de incumplir con sus normas de contenido digital",
-      "url": "https://expansion.mx/tecnologia/2025/10/27/ue-acusa-a-meta-y-tiktok-de-incumplir-con-sus-normas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Oct 2025 22:00:48 GMT",
-      "summary": "Bruselas sostiene que ambas compañías fallaron en garantizar mecanismos de denuncia, apelación y acceso a datos para investigadores, lo que podría derivar en multas millonarias."
+      "title": "La Inteligencia Artificial (IA) ha trascendido en el ámbito laboral de México - AmericaMalls & Retail",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT09aVW15MDc2TWs4Qi1Ic3ctWTVwbmpnLU5oN0xsLXdTbm83Q0NURGN4N1pTT2lzd2w0SUpHTlhyUDRpWmk0aWdtV0tZWWtKTlBZTllRVVkydUY4NlA0MTk0aUZOLU9Ici1zX3JXa2xfc1Q1YnAxeVM0Q2J5d25ja3pvajMyLXFOWnFRS19tMV9rN1ViZDFWdEkyZzQ1Wks5TVJzT2ZDZUVNUWxFeVNtWWZVSVFjaHNU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 17:22:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT09aVW15MDc2TWs4Qi1Ic3ctWTVwbmpnLU5oN0xsLXdTbm83Q0NURGN4N1pTT2lzd2w0SUpHTlhyUDRpWmk0aWdtV0tZWWtKTlBZTllRVVkydUY4NlA0MTk0aUZOLU9Ici1zX3JXa2xfc1Q1YnAxeVM0Q2J5d25ja3pvajMyLXFOWnFRS19tMV9rN1ViZDFWdEkyZzQ1Wks5TVJzT2ZDZUVNUWxFeVNtWWZVSVFjaHNU?o"
     },
     {
-      "title": "Amazon despedirá 30,000 empleados, según reporte",
-      "url": "https://expansion.mx/tecnologia/2025/10/27/amazon-despidos-masivos-recortara-30-000-empleados",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Oct 2025 20:18:36 GMT",
-      "summary": "La tecnológica sumaría un recorte más, que equivale al 10% de su plantilla de empleados corporativos, mientras el auge de la IA persiste."
+      "title": "México lanza CódigoLactancIA: inteligencia artificial para proteger la lactancia materna - consultorsalud.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdFU3M2UxUXBZLUZCajVRMHV2c3U3TUVzM25pVm9jY3VqT1Y1bVRTRTVLcEdmRkFJWjZIY0k0VEFyZXJLdUFqNTNGcHBjbmdIME9hMUJJLXJsLWQtVEZ4N3ViWndBaEpKYXRkdVMzXy1rcFQycjVPU1NMUWRHOWM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 17:17:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdFU3M2UxUXBZLUZCajVRMHV2c3U3TUVzM25pVm9jY3VqT1Y1bVRTRTVLcEdmRkFJWjZIY0k0VEFyZXJLdUFqNTNGcHBjbmdIME9hMUJJLXJsLWQtVEZ4N3ViWndBaEpKYXRkdVMzXy1rcFQycjVPU1NMUWRHOWM?oc=5\" target=\"_blank\">México lanza CódigoLactancIA: inteligencia artificial pa"
     },
     {
       "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
@@ -49,30 +65,6 @@
       "category": "news",
       "published": "Wed, 24 Sep 2025 15:26:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
-    },
-    {
-      "title": "Cómo hacer una calaverita literaria de Día de Muertos con Inteligencia Artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUV9ORHU1cTdmUUJrcElRTW5rVG92V0NjUXlpS1dNTWhKb3NHUGhMRkFYVUhiTW0zaEFydkpRXzNTTXQ4XzFlMDA2VGxpUzdlNG1EYm91QmJla1kyYlZacXlublBwTDFjRG5TVVBoMEpsd3JtYXMybnYxeXA3TFREYmR6MjJ1VGswWWgzMTRGTndWMURWbTJZUTBPQWY3UWxjSWN3U0tZellIY28zNFJfdDBPVThkU3FwOThBWkVXNVM0d9IB3AFBVV95cUxPQ3VVdzAyOElSZGtnMktuMkY1b3FFaGJjSGFGTzF4blZZMmZHVmRtLThRWVJYNC1zYkhKZ1VPaWdGU2xmWk5MVUdhREdqUWpEcktKTGhRdVhRNzE0LVJFd0xjOHYwVDlQYV8xVThTWWRxRS15NTlqb2xFQzZDQWpiZHlKaEtFTVJkaTJXSEx6U3pUZWplVzRiOG1FUTJGS0NhQ1BWbTN4cWVkNGhwUjFPOFVIY3pmZmpFbzVMMnZIUW1wNjVWMV82LUtUNW82eDNFaVdDN0VEeGlpdXhH?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 28 Oct 2025 02:51:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUV9ORHU1cTdmUUJrcElRTW5rVG92V0NjUXlpS1dNTWhKb3NHUGhMRkFYVUhiTW0zaEFydkpRXzNTTXQ4XzFlMDA2VGxpUzdlNG1EYm91QmJla1kyYlZacXlublBwTDFjRG5TVVBoMEpsd3JtYXMybnYxeXA3TFREYmR6MjJ1VGswWWgzMTRGTndWMURWbTJZUTBPQWY3UWxjSWN3U0tZellIY28zNFJfdDBPVThkU3FwOT"
-    },
-    {
-      "title": "México despierta a la Era de la Inteligencia Artificial - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMHk3dDdjdUpnSUk4VVdEUGQ0cjVRQ3hYMHZROUpUWUZ1OTAyems4Qm11TEJSNExrc3c3eEo5bm5ERVZZMjZjMThXcEVMV1MxajhJLWFDWmdVakxsQjN5MUJuNkVLUnlnYlNrakhNeEFOczRBSFNuOTVMck1vRXVlUVpBMmFpR2N5TGhfNkwzV3lLbDk5VG82T2FlYlQ4UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 23 Oct 2025 16:07:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMHk3dDdjdUpnSUk4VVdEUGQ0cjVRQ3hYMHZROUpUWUZ1OTAyems4Qm11TEJSNExrc3c3eEo5bm5ERVZZMjZjMThXcEVMV1MxajhJLWFDWmdVakxsQjN5MUJuNkVLUnlnYlNrakhNeEFOczRBSFNuOTVMck1vRXVlUVpBMmFpR2N5TGhfNkwzV3lLbDk5VG82T2FlYlQ4UQ?oc=5\" target=\"_blank\">México despie"
-    },
-    {
-      "title": "PotencIA Mx: la primera aceleradora que impulsará a Startups y PyMEs con IA - Energía Hoy",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXhDblNlbDRaYWpaaDVIdExGSTJJMDNQYlpqci0tZ2I0S0xyeUcwemw1eHduMnoxU0pBcDBqdTYyR3NJV0NwTnl5RlNoazk0ajFZaTItdWQwWlZOOEQ2NWpHTmNOdVg5MmZkTDAxY1ZhVXV2NlRFRi1WY2J6NS1NVnZ4c3dTVkpvQ0xDZU1GOVlqX3RVdUV1a3NnOGVDVnh4bzhPemh6YXpfdTBuSHFwWjZtVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Oct 2025 20:59:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXhDblNlbDRaYWpaaDVIdExGSTJJMDNQYlpqci0tZ2I0S0xyeUcwemw1eHduMnoxU0pBcDBqdTYyR3NJV0NwTnl5RlNoazk0ajFZaTItdWQwWlZOOEQ2NWpHTmNOdVg5MmZkTDAxY1ZhVXV2NlRFRi1WY2J6NS1NVnZ4c3dTVkpvQ0xDZU1GOVlqX3RVdUV1a3NnOGVDVnh4bzhPemh6YXpfdTBuSHFwWjZtVQ?oc=5\" t"
     },
     {
       "title": "PotencIA MX: Meta invita a startups y PyMEs mexicanas a su primer programa de IA - emprendedor.com",
@@ -91,12 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
-      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?oc=5",
+      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Oct 2025 20:34:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?o"
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
+    },
+    {
+      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUU1QMnc1T0Z5ZnR0UnNSQlkySUZXcmhtaEpwUkdtbkQwVlliUUJaM3dPX3ZQN1pzVEpsOHRYUC1vcE5SdjloUkF5djNaaGtRWmxubHN5NGx2NjlmdGpRcmJLeC1QMTBRT3Y5MS13UXYyYWNWYTY1bkxnNnQxNWNGUWF3MkxxV1U1SjF5R0F4TW5MZndubm84Q190bFF2cEFXQ3BkRS1uSTFJVmpqT1dlZzhNMzBFdWM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 23 Oct 2025 17:28:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUU1QMnc1T0Z5ZnR0UnNSQlkySUZXcmhtaEpwUkdtbkQwVlliUUJaM3dPX3ZQN1pzVEpsOHRYUC1vcE5SdjloUkF5djNaaGtRWmxubHN5NGx2NjlmdGpRcmJLeC1QMTBRT3Y5MS13UXYyYWNWYTY1bkxnNnQxNWNGUWF3MkxxV1U1SjF5R0F4TW5MZndubm84Q190bFF2cEFXQ3BkRS1uSTFJVmpqT1dlZzhNMzBFdWM?oc"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",

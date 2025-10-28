@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Grokipedia: cómo funciona la enciclopedia creada por Elon Musk",
+      "url": "https://www.clarin.com/tecnologia/grokipedia-funciona-enciclopedia-creada-elon-musk_0_5eEguuVq2Q.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 28 Oct 2025 15:11:34 +0000",
+      "summary": "<ul><li>El empresario lanzó una página web para competir con Wikipedia.</li><li>Se trata de una enciclopedia online impulsada por inteligencia artificial.</li></ul>"
+    },
+    {
       "title": "Lentes con filtro de luz azul, la nueva tendencia entre futbolistas y gamers: cómo funcionan y qué beneficios prometen",
       "url": "https://www.clarin.com/tecnologia/lentes-filtro-luz-azul-nueva-tendencia-futbolistas-gamers-funcionan-beneficios-prometen_0_UnwqXPOsM8.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,28 @@
       "summary": "<ul><li>El robo de cuentas corporativas es uno de los problemas más grandes de la industria.</li><li>Además, un especialista de la UTN explicó sobre ciberseguridad cuántica y el \"trencito de la alegría\" hacker relevó el mapa de redes.</li><li>Resumen del último día de la convención de hackers.</li><"
     },
     {
-      "title": "ChatGPT Atlas: cómo es el nuevo navegador con IA que amenaza a Google y cambia la forma de usar internet",
-      "url": "https://www.clarin.com/tecnologia/chatgpt-atlas-nuevo-navegador-ia-amenaza-google-cambia-forma-usar-internet_0_G29kPpLnEI.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Oct 2025 08:45:05 +0000",
-      "summary": "<ul><li>El browser de OpenAI es capaz de buscar, resumir, comparar precios y ejecutar tareas por el usuario.</li><li>El anuncio golpeó a Google, que ve en peligro su histórico dominio en la navegación y las búsquedas.</li></ul>"
-    },
-    {
-      "title": "Inteligencia Artificial: apoyos, rechazos y expectativas en Argentina y otros 20 países relevados en un estudio internacional - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDFqeUFXZ2t2MEFnMmdTYVlaa1YycjhFNWIwX1pGaHp6SWtweGZSR3R2em1fQl9qeUFleHc3dnJVNjlrR0VRclUyNEprbjNPdE1KTWQ5R1JyZzFJbXdEVUpaQlVYSDd4eHRkZEN2aV9jNENzMlJ5eUpGcl8wRi1SblNtX2k1NkFLQnNOai1yWmVmaXZOdld6SU9HelRtbE5KbGx1aTVJY2hmdGJORWpYZzRfMkJxTHg1SDg4djV6UEYtUmlPNHg2Rm8xSUE4V0ZNMXcwMW9yOUYtTVJackQzTE55Zm5rWXBPUzdzNVNfbHBwSm1rODRCY0ZlMFfSAZcCQVVfeXFMUGZvR2tqcEY4TDk1cElZelVUMmdNOFFUN0QtSl9JX2JSbE9RWE5WakZETFh4Q3RGeHU1NWpFZjhJMk9LUEI4TllpamZaWVQ5NTJoTzRmMWRNOS1oUmxGYWNnQTdKOUJyYmhZWkFjQmowbG83cXdLQ1NyR0M5bW1ZMDNNR01mOG1GemFBbURFT1FXVlAzWWU0RjJ1cUc4aXRxNUJLMEN5NGtnNzA5dnR2MUpwOFVCODFXcjJtdkdjVXNYUjdNQkFPQmxHbGZ5d3QzQUxkbkhwOWhESTVFZU5fNGdGNWtKQV90M1haS1dQNThqdU90OElCSW5XelUyVVd2cUxVRmlGdUxVZmE3aVp5b2lRNi16TG9F?oc=5",
+      "title": "Una empresa argentina lidera la nueva generación de inteligencia artificial médica en Latinoamérica - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXFmb2pKRU02bW9CdFFyOEJTVC01VFp4YVZtZmR3dmJOcXdGUmZldXdJNFczMmtIRmo2bUY3ZEl6UEZaUl9FQlBjTVhzMGllMkloUDBNWVJJeHE2Nzh6NG90SUg2enJHU3lxUWptU2prQnMzY3dlelZvMmRGVkFUcXNzeXJ0Q3B6VFBzUWNLVkMtQzhHTUx3YnlpSkFhUmx5dkdXVVg2eVpLRnlDUzRDMkNQSjRqSWVnVWpMOWdBTmFQNkNONlBLMGphUVZCcEpMTkhfRUQxTlgxbk5YSGFiYW1hWFdPZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 17 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDFqeUFXZ2t2MEFnMmdTYVlaa1YycjhFNWIwX1pGaHp6SWtweGZSR3R2em1fQl9qeUFleHc3dnJVNjlrR0VRclUyNEprbjNPdE1KTWQ5R1JyZzFJbXdEVUpaQlVYSDd4eHRkZEN2aV9jNENzMlJ5eUpGcl8wRi1SblNtX2k1NkFLQnNOai1yWmVmaXZOdld6SU9HelRtbE5KbGx1aTVJY2hmdGJORWpYZzRfMkJxTHg1SD"
+      "published": "Tue, 28 Oct 2025 13:35:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXFmb2pKRU02bW9CdFFyOEJTVC01VFp4YVZtZmR3dmJOcXdGUmZldXdJNFczMmtIRmo2bUY3ZEl6UEZaUl9FQlBjTVhzMGllMkloUDBNWVJJeHE2Nzh6NG90SUg2enJHU3lxUWptU2prQnMzY3dlelZvMmRGVkFUcXNzeXJ0Q3B6VFBzUWNLVkMtQzhHTUx3YnlpSkFhUmx5dkdXVVg2eVpLRnlDUzRDMkNQSjRqSWVnVW"
+    },
+    {
+      "title": "El país de Latinoamérica que busca ser potencia en inteligencia artificial con la instalación de esta infraestructura tecnológica - Semana.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSmFZeXZLVURZaHMtd1hhRmsxX3NYVXNZSzl0NFVYRkZORWVkOXV5eDFVaEZsNEY4TUZEWFU5S0Zhc2RLRU13NEdrbDBoM0NqZXVVcUZwM3ZYZTM3QkJSeEdMdm9FZDltYmozbjBhcjlEZ1p6SXhWdVd2YnBJcXBsUnlmdkFYeUJ1NE42QWc2RjNuZkd0M1RIUExfWkYzRkZtaDRmM3c3bXh1blNCOEFSajdsZDVtMlN4NDFBeno5SHFFUVE2TjROZGFqYzlNcEZtZXRjMVpTLTlGTldvam5GWTZoWGxxOTJrOGtYUHd2dkVYZTlWSzdOMzhIX2RDenAycElwQy0teDVvR0FH0gGSAkFVX3lxTFBEMEFKZDd0eWZqWkhBQVB6elJWS2t0a1hINjNhMnJiSjE1czAyVFVVQnZ6S1I1WmhmaHNzcHAtdTRieXZpbmdLQWQ1WGtZVnJkV2FVNUs3WHZSSW9BSVpDRFk0c1Q5bUNSMlFRVGI1LTRLWkROeEVlMGFLTXhxUFJnSW5YT2ZKS0NMRFAwOGJqa2FtMDRGRG1MaTN6ZXNvRXh2TE1aR3VqVnVrSzVCZWFyS2dhS2hFWTlKajdQUlBjV1FCd3RWaUNJTWhjZHI2bjJBZVk0bzJFQlVUVmplMEVkSlpicjZrdFJWX2RFQU1wdzBSLXRuUjNhMVAyVTFzX082VkdmM3V4VVd1Y3VlY1ktUlE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 17:00:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPSmFZeXZLVURZaHMtd1hhRmsxX3NYVXNZSzl0NFVYRkZORWVkOXV5eDFVaEZsNEY4TUZEWFU5S0Zhc2RLRU13NEdrbDBoM0NqZXVVcUZwM3ZYZTM3QkJSeEdMdm9FZDltYmozbjBhcjlEZ1p6SXhWdVd2YnBJcXBsUnlmdkFYeUJ1NE42QWc2RjNuZkd0M1RIUExfWkYzRkZtaDRmM3c3bXh1blNCOEFSajdsZDVtMlN4ND"
+    },
+    {
+      "title": "Cinco oficios o carreras que no van a desaparecer en Argentina aunque avance la inteligencia artificial - MDZ Online",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnd0ekpITWFYSU9mQXNNUHRwaG1BUktvSnd3QmxDcm5xM1dEU2FOeWxnUGpfeUdTc1VPU015UDRrMVNBUGFqU3VFcmVwMXlUR2tFelhTWDZPa19JWFpvV3Y1b3ZWc1V2VWtCZUpjaVBTY015ZkhmUDRIZlEyYUplUWp0ZU8yRXpPZk1NMkVTUTZ1b2J4U3Q5bUQzdzBSOXJUZlFMdXM4VTc1dVRMdnNxXzhJZGRQWXhpMFU5Q1pZWXJkT2g2Q3BsVE95c0ZqNVhfMWF6VWZ4SdIB3AFBVV95cUxQd1F6bWZ6bUVxVmE4Yk9sRXVjelIzQ1VrUkMwYmpiVndmSW9BZWFWRnNueWczRVJnNndWWkNENGhQY2RmOHJjYjVXbmQ3OFJndVNLdUdyMnZKWEZVQnhZRHFsTXB2WWNJekRtbW9valpuZFZNandoVkV1UnhZQ1U3MVJnX3dmMEcwY2Q4UEpQV3BOYjBXNmpkak0yTVQ0UDdlaXhnSWdOUWc0ZlFEWHFxaW1YR25NUEhFdG5CU0k4aG9SdmtnQ1BDSktZR0V1bnFDakh1WkZULUd6TmNq?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnd0ekpITWFYSU9mQXNNUHRwaG1BUktvSnd3QmxDcm5xM1dEU2FOeWxnUGpfeUdTc1VPU015UDRrMVNBUGFqU3VFcmVwMXlUR2tFelhTWDZPa19JWFpvV3Y1b3ZWc1V2VWtCZUpjaVBTY015ZkhmUDRIZlEyYUplUWp0ZU8yRXpPZk1NMkVTUTZ1b2J4U3Q5bUQzdzBSOXJUZlFMdXM4VTc1dVRMdnNxXzhJZGRQWXhpMF"
     },
     {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
@@ -57,14 +73,6 @@
       "category": "news",
       "published": "Wed, 13 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
-    },
-    {
-      "title": "Una IA valiosa, made in Argentina - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0R6aHJOM3Y0MXhKT0JWMVFtZEo1REJ0TkpmNHNRcUx2UjJGeVBCM1NobG8tLXJCMHFYWkhSZzA4X2N5TzlKR2I1Umg2OGlKQXNUbkhyaEJqNkZucHZtUGNzOHRnZC1BR20tdVhjWDZtQ2w5d0loQTVKS25VcUt2T1BVWQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Oct 2025 22:01:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0R6aHJOM3Y0MXhKT0JWMVFtZEo1REJ0TkpmNHNRcUx2UjJGeVBCM1NobG8tLXJCMHFYWkhSZzA4X2N5TzlKR2I1Umg2OGlKQXNUbkhyaEJqNkZucHZtUGNzOHRnZC1BR20tdVhjWDZtQ2w5d0loQTVKS25VcUt2T1BVWQ?oc=5\" target=\"_blank\">Una IA valiosa, made in Argentina</a>&nbsp;&nbsp;"
     },
     {
       "title": "Regresa el Social Media Day Buenos Aires en 2025: innovación y creatividad con inteligencia artificial - produ",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Wed, 01 Oct 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmZoSWJPb1BkTFhIU1hkQld1QzRzYmlyUXIyLTZhZnQ2MVRySjJ1bC0xWUk5RVdWck9kZjM4ZG5XM2g4N01jVW54a0lLR3BUZHhwYWQ2MXM3N3VFZlVIZGlJWllQSmNkSy1WYzFTMTlKUmF6Nmg3a0VvdWtOR1p1MnhzT0V2QUJGMnRYSWJnSGNGS1V2ZWVERXFPbTJoWkN6a3FhWnM3MDBYV2REc0JNb9IBtgFBVV95cU"
-    },
-    {
-      "title": "TD e innovación en la participación ciudadana - Argentina - CAF -banco",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORk1WVktoTnVUQXJLNk5XaFVORk44Zk83SFVXMGxDR0R5WGNWelpYcTlzTzh6NXZoamF6YldqbmtqN2FsaGxVOXAxTk5weXFnenEyZTZWcHRNTlhJVEFLOS01R0dXOGF2VUNxeUhBcUJSWnZ3Y3RJSl9ieGlobndncW1aNmQ1VGZGOXJjU0VhOE4wTzlXbVczVS1UYkJkTmRlZ2xsTUdFeVJQMkJJaEZIeG56U2g?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 29 Nov 2024 03:24:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORk1WVktoTnVUQXJLNk5XaFVORk44Zk83SFVXMGxDR0R5WGNWelpYcTlzTzh6NXZoamF6YldqbmtqN2FsaGxVOXAxTk5weXFnenEyZTZWcHRNTlhJVEFLOS01R0dXOGF2VUNxeUhBcUJSWnZ3Y3RJSl9ieGlobndncW1aNmQ1VGZGOXJjU0VhOE4wTzlXbVczVS1UYkJkTmRlZ2xsTUdFeVJQMkJJaEZIeG56U2g?oc=5\" "
     }
   ],
   "count": 14
