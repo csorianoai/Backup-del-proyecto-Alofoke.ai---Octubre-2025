@@ -3,44 +3,60 @@
   "country": "co",
   "articles": [
     {
-      "title": "La estrategia de realme en Colombia, impulsada por la innovación y la IA",
+      "title": "Reestructuración completa: OpenAI consolida a Microsoft como accionista mayoritario",
+      "url": "https://www.portafolio.co/tecnologia/openai-completa-su-reestructuracion-y-consolida-a-microsoft-como-accionista-mayoritario-643196",
+      "source": "Portafolio Tech",
+      "category": "tech",
+      "published": "Tue, 28 Oct 2025 20:57:09 +0000",
+      "summary": ""
+    },
+    {
+      "title": "La estrategia de realme en Colombia está impulsada por la innovación y la IA",
       "url": "https://www.portafolio.co/tecnologia/la-estrategia-de-realme-en-colombia-impulsada-por-la-innovacion-y-la-ia-643175",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Tue, 28 Oct 2025 16:58:22 +0000",
+      "published": "Tue, 28 Oct 2025 20:39:17 +0000",
       "summary": ""
     },
     {
-      "title": "Países más atacados por ciberdelincuentes en la región: ¿en qué puesto está Colombia?",
-      "url": "https://www.portafolio.co/tecnologia/los-paises-mas-atacados-por-ciberdelincuentes-en-la-region-el-puesto-de-colombia-643159",
+      "title": "Así será el nuevo sistema de verificación biométrica que usará EE. UU. con inmigrantes",
+      "url": "https://www.portafolio.co/tecnologia/ee-uu-estrenara-nuevo-sistema-de-verificacion-biometrica-para-migrantes-643195",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Tue, 28 Oct 2025 15:44:01 +0000",
+      "published": "Tue, 28 Oct 2025 20:26:41 +0000",
       "summary": ""
     },
     {
-      "title": "OpenAI alerta que EE. UU. necesita más energía para mantenerse por delante de China",
-      "url": "https://www.portafolio.co/tecnologia/openai-alerta-de-que-ee-uu-necesita-mas-energia-para-mantenerse-por-delante-de-china-643151",
+      "title": "Grokipedia: ¿qué es la nueva plataforma con la que Musk busca desbancar a Wikipedia?",
+      "url": "https://www.portafolio.co/tecnologia/elon-musk-presenta-grokipedia-la-plataforma-que-promete-destronar-a-wikipedia-con-articulos-generados-por-ia-643188",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Tue, 28 Oct 2025 14:33:42 +0000",
+      "published": "Tue, 28 Oct 2025 19:32:42 +0000",
       "summary": ""
     },
     {
-      "title": "Amazon anuncia despido masivo de 14.000 empleados a nivel mundial",
-      "url": "https://www.portafolio.co/tecnologia/amazon-anuncia-el-despido-de-14-000-empleados-a-nivel-mundial-643148",
+      "title": "PayPal firma un acuerdo con OpenAI para integrar su billetera digital en ChatGPT",
+      "url": "https://www.portafolio.co/tecnologia/paypal-firma-un-acuerdo-con-openai-para-integrar-su-billetera-digital-en-chatgpt-643186",
       "source": "Portafolio Tech",
       "category": "tech",
-      "published": "Tue, 28 Oct 2025 13:41:43 +0000",
+      "published": "Tue, 28 Oct 2025 19:17:09 +0000",
       "summary": ""
     },
     {
-      "title": "Tenga cuidado: así le pueden robar su información personal en Google Chrome",
-      "url": "https://www.portafolio.co/tecnologia/tenga-cuidado-asi-le-pueden-robar-su-informacion-personal-en-google-chrome-643124",
-      "source": "Portafolio Tech",
-      "category": "tech",
-      "published": "Mon, 27 Oct 2025 23:31:15 +0000",
-      "summary": ""
+      "title": "Colombia impulsa una visión ética y soberana de la Inteligencia Artificial para los próximos 5 años - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkxKNWNjM2VmYUxDT0txYmdwcFdzdGJUSkUxWHlkZlNUNUtDN3FRQlZvbGpnMUZ6OTZZSXlURmVBVVVrR0RqMGl3RHF1Z2FtTFUzTnRHMnU3NnFsa0xHRE9OYzJ3ZFdLN2NIb0ZfNHljWm1IN0JVWURrem1oWVhRRA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 19:41:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZkxKNWNjM2VmYUxDT0txYmdwcFdzdGJUSkUxWHlkZlNUNUtDN3FRQlZvbGpnMUZ6OTZZSXlURmVBVVVrR0RqMGl3RHF1Z2FtTFUzTnRHMnU3NnFsa0xHRE9OYzJ3ZFdLN2NIb0ZfNHljWm1IN0JVWURrem1oWVhRRA?oc=5\" target=\"_blank\">Colombia impulsa una visión ética y soberana de la In"
+    },
+    {
+      "title": "¿Qué empleos sobrevivirán a la inteligencia artificial en Colombia? - ENTER.CO",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHZncnhKX1RfN0xFdS00TkxJYUR0alBPNGJlbXhGX1hobTB0dUZQazVHaS1hQ1JkRXdPOGp3RXpDeXVKaFJKZlBQUWtUellqaHNlakFrZHdYb1NvMXowOFlLSkltc1JqZ2U0NXJFdlRRZEJ6emV4a1VUN3hhQ09JNWUxdENEZUdqTW41QlpjZjU2dW45TEJCc0F0XzRLN1Eyb0ZJN1JnSnEwZ1BBMlg4aUhtR25GejFZeVpPVGJFYUpLbjZx?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 14:18:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHZncnhKX1RfN0xFdS00TkxJYUR0alBPNGJlbXhGX1hobTB0dUZQazVHaS1hQ1JkRXdPOGp3RXpDeXVKaFJKZlBQUWtUellqaHNlakFrZHdYb1NvMXowOFlLSkltc1JqZ2U0NXJFdlRRZEJ6emV4a1VUN3hhQ09JNWUxdENEZUdqTW41QlpjZjU2dW45TEJCc0F0XzRLN1Eyb0ZJN1JnSnEwZ1BBMlg4aUhtR25GejFZeV"
     },
     {
       "title": "UNESCO reconoce a Colombia por su enfoque ético en inteligencia artificial - Infobae",
@@ -51,22 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORkh6cWhmRENtWGJFY0VSVFF1UzVkRHRXRjdqdWl6S3JzbXk4S0JxZTJwaVBjMmNtS0FXS0lXZEU2ZEVIRHJLdmlxd29kNDNxWXh4UmNWTExOSThrdmcwREtDeVBsNkNVS2xoeG90dTBraHhudEozWnp4VXMyR1l0NE5UZDZPbFI1ekhaS1FTeDFRaVdRUGZTUXZ0Y29zZW1KbHlGWmdqOUM5Z1ZybGx1R19hUGx5U03SAd"
     },
     {
-      "title": "Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Artificial de la CEPAL - MINTIC Colombia",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5\" target=\"_blank\">Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Arti"
-    },
-    {
-      "title": "Colombia lidera debate de la Unesco sobre inteligencia artificial en la Semana Mundial de Alfabetización Mediática - presidencia.gov.co",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnkwSzFZaWJVcENLX2hqMnNDZWNZQjg0SHltbklWMmhjaXVQUWxRMVBocjhrV2lxNFAzamtBTk1CVFRtNFRTT1BsemljcnJJOTI4VkJIMm9zYzFldk4zZkpheHlVQkt3M0MtSWM2MFpBaXh0b2pSQUl0UDhvSE40aUs5a2NUSGJ5SlVsSW9hZExncHFJZXdFSGdmNVNVRm9QelJzWkQxRmhXQTllb2dRb2JVYTd5WE5rODRmU0x1OFFXRks1RU9PS1d5SlN0Zw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Oct 2025 00:39:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnkwSzFZaWJVcENLX2hqMnNDZWNZQjg0SHltbklWMmhjaXVQUWxRMVBocjhrV2lxNFAzamtBTk1CVFRtNFRTT1BsemljcnJJOTI4VkJIMm9zYzFldk4zZkpheHlVQkt3M0MtSWM2MFpBaXh0b2pSQUl0UDhvSE40aUs5a2NUSGJ5SlVsSW9hZExncHFJZXdFSGdmNVNVRm9QelJzWkQxRmhXQTllb2dRb2JVYTd5WE5rOD"
-    },
-    {
       "title": "Así está la movilidad en la Vía al Llano Bogotá - Villavicencio hoy martes 28 de octubre - Bogota.gov.co",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3haYlBOdTc1NHpTYkYzY1d0NnNON3JhR3docnFTb04wVDBzNUs4Nl9mV3pXaVRaeC1IMEptT2hkbUpYYVpfSy1hTkg2cWpIS1VRNEhORXJrSTRhaS1CWFdaZzdRblYxaXUzZXdEc0xIVVZpNTd1WDc5OUFlNG5DeHhaaGN3RzBTd1FweF82TV9Gamh6VFE1bTZTM0dHbmN0?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3haYlBOdTc1NHpTYkYzY1d0NnNON3JhR3docnFTb04wVDBzNUs4Nl9mV3pXaVRaeC1IMEptT2hkbUpYYVpfSy1hTkg2cWpIS1VRNEhORXJrSTRhaS1CWFdaZzdRblYxaXUzZXdEc0xIVVZpNTd1WDc5OUFlNG5DeHhaaGN3RzBTd1FweF82TV9Gamh6VFE1bTZTM0dHbmN0?oc=5\" target=\"_blank\">Así está la"
     },
     {
+      "title": "Así será la movilidad por la vía Bogotá–Villavicencio en el Torneo Internacional del Joropo - Extrategia Medios",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2FobXNQMUR3YXM5VEpoczB6SXFIclAxenhtSEpDMHJUVFFhalVZZU9HTjFiTm5HZGtFeE05YU9PX3JFZzNiMk9xVGdIaVM4QnJYU0NodXhLMWNlTlR5OS1kNnJPblhMbkdUdm5yV1dyRzZZUDhlSDZ1VjUwVVk2ZGR1R0F6N0psSFN5ZFUzajliQXEwQ01TOFpEa05xZGxLbm1aUDRTWXUxU0hTSDk2NGV3OUFDOWtFeGlKODNB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Oct 2025 20:49:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOY2FobXNQMUR3YXM5VEpoczB6SXFIclAxenhtSEpDMHJUVFFhalVZZU9HTjFiTm5HZGtFeE05YU9PX3JFZzNiMk9xVGdIaVM4QnJYU0NodXhLMWNlTlR5OS1kNnJPblhMbkdUdm5yV1dyRzZZUDhlSDZ1VjUwVVk2ZGR1R0F6N0psSFN5ZFUzajliQXEwQ01TOFpEa05xZGxLbm1aUDRTWXUxU0hTSDk2NGV3OUFDOWtFeG"
+    },
+    {
       "title": "Cuál es el lugar más terrorífico de Bogotá, según la IA: escalofriante - Radioacktiva.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWZ2UWM4NnROdFNYdmM4QW1uamhjeVFHcDB6R1NfTzUwUkczNzdIZm5YNXRjX3ZTckNLT0d5RUtyQ3dSNGx6RUxDUVNxVE14X0h6by1tdi1FMlphd0VCaGVrOGNLWlk5ZEFmb1hZME16SEFoWTVoeUFUM01PR1VpRWlFN01mdHVzQi12b29RQ0pMZ0t5aXV0dVVfN2U0ZTlJY0Y0OVlSbGNIMFBsNUUxV2xyMFDSAboBQVVfeXFMTmwzYlFkcW5HUVdpMWtkTWhDdXk4OV9KMUhjNnZXNzNvYTFwQzFJaEctd2dqRkVUcktraG1rdlJrazYzb2p2eXd5U1RMT0VTbUZmM2NsUkZNNEhKUTRvWjlBTi03T3JWZEFQR21LVFFQS2JoUFRIRGI2QzA4czBydWpHNDVSVWxiQ0pXVkdBeUhOTFVwRERoUTYwbzREVFQ2QlJ1MFhId2c4THpNYXhFMlZHMlQwckFsMFFR?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 26 Oct 2025 15:23:13 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPRWZ2UWM4NnROdFNYdmM4QW1uamhjeVFHcDB6R1NfTzUwUkczNzdIZm5YNXRjX3ZTckNLT0d5RUtyQ3dSNGx6RUxDUVNxVE14X0h6by1tdi1FMlphd0VCaGVrOGNLWlk5ZEFmb1hZME16SEFoWTVoeUFUM01PR1VpRWlFN01mdHVzQi12b29RQ0pMZ0t5aXV0dVVfN2U0ZTlJY0Y0OVlSbGNIMFBsNUUxV2xyMFDSAboBQV"
-    },
-    {
-      "title": "Planes para Halloween: Festival mexicano Día de Muertos en Bogotá - El Nuevo Siglo",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFA4eUVVa3FSLUdZVHZheE42bUxDMWlLVS1XQVU2N1oyb2wyV2wzUEtweE1VR25tMXFBbkw2UUE5TVRMLUI1T1B4ZHl0ZkdndEZiV1kwZVdfZmgzU1pMMkxZeW5OYnFjWDV4NEZzdDBlZkZqZG1mQ25kQ2NqSjUzOFROYnNLTnl2bXFucm5aMFpqRHIwbWs0SW1GT2JzUzJSMldFd2NMaFF0cGs0WGtQc3VzRktlNkxHWTQ4?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Oct 2025 23:43:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFA4eUVVa3FSLUdZVHZheE42bUxDMWlLVS1XQVU2N1oyb2wyV2wzUEtweE1VR25tMXFBbkw2UUE5TVRMLUI1T1B4ZHl0ZkdndEZiV1kwZVdfZmgzU1pMMkxZeW5OYnFjWDV4NEZzdDBlZkZqZG1mQ25kQ2NqSjUzOFROYnNLTnl2bXFucm5aMFpqRHIwbWs0SW1GT2JzUzJSMldFd2NMaFF0cGs0WGtQc3VzRktlNkxHWT"
     },
     {
       "title": "Estudio reveló las marcas más valiosas de las startups colombianas; este es el top 10 - Valora Analitik",
