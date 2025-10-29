@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Azure caído: una interrupción masiva afecta a la plataforma de Microsoft y medio internet funciona con fallas",
+      "url": "https://www.clarin.com/tecnologia/azure-caido-interrupcion-masiva-afecta-plataforma-microsoft-medio-internet-funciona-fallas_0_fGYCi8rNti.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Oct 2025 16:47:04 +0000",
+      "summary": "<ul><li>La compañía lo confirmó a través de la red social X a una semana del colapso de AWS.</li><li>Usuarios de todo el mundo reportan problemas en juegos, Microsoft 365 y plataformas empresariales.</li></ul>"
+    },
+    {
+      "title": "Conoce a \"NEO\", el primer robot humanoide doméstico 1X que ya se puede comprar en Estados Unidos: dobla la ropa, ordena y aprende con el tiempo",
+      "url": "https://www.clarin.com/estados-unidos/conoce-neo-primer-robot-humanoide-domestico-1x-puede-comprar-estados-unidos-dobla-ropa-ordena-aprende-tiempo_0_vh2b8IdwXk.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Oct 2025 12:19:03 +0000",
+      "summary": "<ul><li>NEO promete ser el asistente doméstico que todos imaginamos.</li><li>El robot pesa 30 kilos, pero es capaz de cargar hasta 70 y hacer diversas tareas del hogar.</li><li>Si hay una tarea que no pueda hacer, un operador humano controlará el robot de forma remota para completar la tarea mientra"
+    },
+    {
       "title": "Cómo aprovechar la inteligencia artificial para armar un CV que supere los filtros automáticos de las empresas",
       "url": "https://www.clarin.com/tecnologia/aprovechar-inteligencia-artificial-armar-cv-supere-filtros-automaticos-empresas_0_9QD8c5Zlvm.html",
       "source": "Clarín Tecnología",
@@ -11,7 +27,7 @@
       "summary": "<ul><li>El 82% de las compañías ya usa algoritmos para analizar currículums y descartar postulaciones. </li><li>Hoy, crear un documento eficaz implica hablar el mismo idioma que esas máquinas.</li><li>Hay herramientas que ayudan a optimizar el perfil, resaltar logros y aumentar las chances de ser vi"
     },
     {
-      "title": "Grokipedia: cómo funciona la enciclopedia creada por Elon Musk",
+      "title": "Grokipedia: cómo funciona la enciclopedia IA creada por Elon Musk",
       "url": "https://www.clarin.com/tecnologia/grokipedia-funciona-enciclopedia-creada-elon-musk_0_5eEguuVq2Q.html",
       "source": "Clarín Tecnología",
       "category": "tech",
@@ -27,36 +43,20 @@
       "summary": "<ul><li>El español Marcos Llorente generó polémica al revelar que usa anteojos especiales de día y de noche.</li><li>Según el mediocampista de Atlético de Madrid, ayudan a proteger los ritmos circadianos y mejoran el descanso.</li><li>Los especialistas piden cautela.</li></ul>"
     },
     {
-      "title": "Apple abre una tienda oficial en Mercado Libre: ya hay lista de espera para comprar el iPhone 17 en cuotas y con plan canje",
-      "url": "https://www.clarin.com/tecnologia/apple-abre-tienda-oficial-mercado-libre-lista-espera-comprar-iphone-17-cuotas-plan-canje_0_5Kz6niDK6v.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Oct 2025 08:45:35 +0000",
-      "summary": "<ul><li>Desde noviembre, la marca venderá sus productos de forma directa a través de la plataforma. </li><li>Ofrecerán financiación sin interés, envíos rápidos y soporte oficial.</li><li>Posibles precios.</li></ul>"
-    },
-    {
-      "title": "Honor Robot Phone, el nuevo celular con cámara robótica que se mueve y \"piensa\" por sí mismo",
-      "url": "https://www.clarin.com/tecnologia/honor-robot-phone-nuevo-celular-camara-robotica-mueve-piensa-mismo_0_dmmYDpu1SV.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 25 Oct 2025 09:01:16 +0000",
-      "summary": "<ul><li>El dispositivo combina inteligencia artificial con un brazo mecánico que sostiene la cámara.</li><li>Puede girar, estabilizarse y seleccionar el mejor encuadre de manera autónoma.</li></ul>"
-    },
-    {
-      "title": "La revolución invisible: cómo la inteligencia artificial está transformando al sistema financiero - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkl0SzhHTXNMLVI1Sk5FTWJZQ0dRT2llTVN3ZmZZWFdIdjhaNzFTOV8yOW1XODJDS0VnM3VrSWxiX3A0TkhxdndUX25BS2tyaUZDQUxzVnB5WGE1VTIwRGxfNmQzQl8tRWJYN3FUd29oNnBNS3ExRUNoYmZLbmVXdVNLOUstT2puT2xacDZySVFwSUdRX0EwZ080SXVrVXpwcV93dzd5Qm54MjZSTEVneQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 29 Oct 2025 10:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkl0SzhHTXNMLVI1Sk5FTWJZQ0dRT2llTVN3ZmZZWFdIdjhaNzFTOV8yOW1XODJDS0VnM3VrSWxiX3A0TkhxdndUX25BS2tyaUZDQUxzVnB5WGE1VTIwRGxfNmQzQl8tRWJYN3FUd29oNnBNS3ExRUNoYmZLbmVXdVNLOUstT2puT2xacDZySVFwSUdRX0EwZ080SXVrVXpwcV93dzd5Qm54MjZSTEVneQ?oc=5\" targe"
-    },
-    {
       "title": "Una empresa argentina lidera la nueva generación de inteligencia artificial médica en Latinoamérica - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXFmb2pKRU02bW9CdFFyOEJTVC01VFp4YVZtZmR3dmJOcXdGUmZldXdJNFczMmtIRmo2bUY3ZEl6UEZaUl9FQlBjTVhzMGllMkloUDBNWVJJeHE2Nzh6NG90SUg2enJHU3lxUWptU2prQnMzY3dlelZvMmRGVkFUcXNzeXJ0Q3B6VFBzUWNLVkMtQzhHTUx3YnlpSkFhUmx5dkdXVVg2eVpLRnlDUzRDMkNQSjRqSWVnVWpMOWdBTmFQNkNONlBLMGphUVZCcEpMTkhfRUQxTlgxbk5YSGFiYW1hWFdPZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 28 Oct 2025 13:35:20 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXFmb2pKRU02bW9CdFFyOEJTVC01VFp4YVZtZmR3dmJOcXdGUmZldXdJNFczMmtIRmo2bUY3ZEl6UEZaUl9FQlBjTVhzMGllMkloUDBNWVJJeHE2Nzh6NG90SUg2enJHU3lxUWptU2prQnMzY3dlelZvMmRGVkFUcXNzeXJ0Q3B6VFBzUWNLVkMtQzhHTUx3YnlpSkFhUmx5dkdXVVg2eVpLRnlDUzRDMkNQSjRqSWVnVW"
+    },
+    {
+      "title": "Inteligencia Artificial, cómo la usa el periodismo en Argentina - MDZ Online",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXIxa283bGRBVkItQ0Y0RllsZkQ4STROc2lUUnJ5ejFKeUF1Ry1pRGRUd25TcXpJTENjNndEY2pmTDFRV2lwZFpFRTJUTlRRYl9ycEdmR1RBTUsta19lZ2drT0lqbjFRQlVKaGd0VWJjQWI3UFVQaE5kTGFEUmhHS2lFOVpIakZhcUV2QmV5MGV1X1QxR0E1UHJjRWxla3BW0gGmAUFVX3lxTFBxODJtMThuSjByb0tvRlRWcWpOUE9TYlNrWHNPeGF5eWJuWHZQZDFLci1vUkM2WDJuMWNsemwwRUc1bC1XZXcwV3VaMG1wTlAxUV9zZm5LOXVnUUI5RXl5bUxWTndZc0cxR2U4cjZ1Z3FVR2lFdXdxb3VSclJ0MmdBYUtaTXhQdFpYVWpySy1Ba3c5S1EyR1IzRXJTX0YyTHBJZVk3aFE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 29 Oct 2025 08:34:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXIxa283bGRBVkItQ0Y0RllsZkQ4STROc2lUUnJ5ejFKeUF1Ry1pRGRUd25TcXpJTENjNndEY2pmTDFRV2lwZFpFRTJUTlRRYl9ycEdmR1RBTUsta19lZ2drT0lqbjFRQlVKaGd0VWJjQWI3UFVQaE5kTGFEUmhHS2lFOVpIakZhcUV2QmV5MGV1X1QxR0E1UHJjRWxla3BW0gGmAUFVX3lxTFBxODJtMThuSjByb0tvRl"
     },
     {
       "title": "El país de Latinoamérica que busca ser potencia en inteligencia artificial con la instalación de esta infraestructura tecnológica - Semana.com",
