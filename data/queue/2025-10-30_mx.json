@@ -3,44 +3,60 @@
   "country": "mx",
   "articles": [
     {
-      "title": "¿Qué es Microsoft Azure, uno de los servicios de nube más importantes del mundo, y cómo funciona?",
-      "url": "https://expansion.mx/tecnologia/2025/10/29/que-es-microsoft-azure",
+      "title": "Guía rápida para cambiar los controles en la pantalla de bloqueo de tu iPhone y personalizarlo",
+      "url": "https://expansion.mx/tecnologia/2025/10/30/guia-cambiar-controles-pantalla-bloqueo-iphone",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 29 Oct 2025 21:30:25 GMT",
-      "summary": "Microsoft Azure ofrece una red global de centros de datos en la nube para empresas, además de diferentes funciones y servicios con inteligencia artificial."
+      "published": "Thu, 30 Oct 2025 18:12:19 GMT",
+      "summary": "El nuevo sistema permite sustituir los accesos clásicos de cámara y linterna por controles personalizados desde la pantalla de bloqueo."
     },
     {
-      "title": "Alphabet supera los 100,000 mdd en un solo trimestre por primera vez",
-      "url": "https://expansion.mx/tecnologia/2025/10/29/alphabet-supera-los-100-000-mdd-en-un-solo-trimestre-por-primera-vez",
+      "title": "Zuckerberg defiende la inversión de Meta en IA",
+      "url": "https://expansion.mx/tecnologia/2025/10/30/zuckerberg-defiende-la-inversion-de-meta-en-ia",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 29 Oct 2025 21:30:15 GMT",
-      "summary": "La matriz de Google logró este hito gracias al auge de la Inteligencia Artificial y la recuperación de otras verticales, como Búsqueda."
+      "published": "Thu, 30 Oct 2025 17:00:44 GMT",
+      "summary": "A pesar del temor a una burbuja, el empresario afirmó que la compañía apuesta en capacidad de cómputo para el desarrollo de sus productos."
     },
     {
-      "title": "Microsoft Azure sufre una caída masiva: afecta Outlook, Xbox, Minecraft y otros servicios",
-      "url": "https://expansion.mx/tecnologia/2025/10/29/microsoft-azure-caida-masiva",
+      "title": "La SICT contradice a Uber y lo dice claro: apps de taxis no tienen autorización para operar en aeropuertos",
+      "url": "https://expansion.mx/tecnologia/2025/10/30/sict-contradice-uber-apps-taxis-no-autorizacion-aeropuertos",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 29 Oct 2025 18:41:28 GMT",
-      "summary": "Una interrupción masiva de la nube de Microsoft afecta servicios globales. La firma investiga el origen y trabaja en restablecer sus sistemas."
+      "published": "Thu, 30 Oct 2025 16:42:59 GMT",
+      "summary": "Uber obtuvo un amparo para evitar que los operativos de la Guardia Nacional sean de manera arbitraria contra sus conductores."
     },
     {
-      "title": "¿No puedes entrar a tu correo de Outlook o Hotmail? Qué está pasando con las cuentas de Microsoft",
-      "url": "https://expansion.mx/tecnologia/2025/10/29/no-puedo-entrar-correo-de-outlook-hotmail",
+      "title": "Bait, la telefónica de Walmart, rebasa a Movistar y ya le pisa los talones a AT&T",
+      "url": "https://expansion.mx/tecnologia/2025/10/30/bait-rebasa-a-movistar-y-pisa-los-talones-a-att",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 29 Oct 2025 18:14:36 GMT",
-      "summary": "Desde julio de 2025, usuarios de Outlook y Hotmail han reportado dificultades para acceder a sus cuentas de correo electrónico. Te explicamos qué ocurre."
+      "published": "Thu, 30 Oct 2025 14:00:18 GMT",
+      "summary": "El OMV de Walmart alcanzó 23.5 millones de clientes, superando a Telefónica, pero su conteo de líneas podría modificar su participación si el nuevo regulador mantiene los criterios del IFT."
     },
     {
-      "title": "Paquetes y entregas fantasma son nuevas estafas que afectan al e-commerce",
-      "url": "https://expansion.mx/tecnologia/2025/10/29/llamada-amazon-dhl-mercado-libre-paquete-fantasma",
+      "title": "Cuidado con el “ghost taping”: pueden robarte sin tocar tu tarjeta bancaria y en plena calle",
+      "url": "https://expansion.mx/tecnologia/2025/10/29/cuidado-con-ghost-taping-pueden-robarte-sin-tocar-tu-tarjeta",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 29 Oct 2025 18:00:28 GMT",
-      "summary": "El uso de IA en el cibercrimen identifica a los usuarios que adquieren constantemente productos en línea y dirigen este tipo de fraude."
+      "published": "Thu, 30 Oct 2025 01:38:20 GMT",
+      "summary": "El fraude puede realizarse sin que la víctima saque la tarjeta de su cartera y, en muchos casos, los cobros se detectan tiempo después."
+    },
+    {
+      "title": "De la ética empresarial a la inteligencia artificial: los ejes que marcaron el Foro Gerencias Legales México 2025 - Law&Trends",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSFNockNkSmhEWWRFRmtrTjQwVGZzWWo5M3VQbDU5eVJvcFR3YzhjQVBlQ01ZNFY0Y0sxZEdBV3NyaUEwNWk2QkRUN3VjcTRRQ1I1V01laGJYSEpqS0U1aFdVejlLeWJMLV9vbWFIQzZ1eFl0bXFNY2dEejNQSEJobnkxS0RsZWhOUllBdXlZaTJuVFJEV2E2UHRuTlAwbElTTzdOU2hNVXVQb3FtaXJQNEZXWW1SeGFId1k2UV9aN1NXYXBuOUQyeEM5YUdqendsNTNEdmFKdFZqZXgtdUlPQ2JwVzJ0NTVUaXVmUFprSmFCa3VSWG9aa3R4UQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Oct 2025 17:43:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSFNockNkSmhEWWRFRmtrTjQwVGZzWWo5M3VQbDU5eVJvcFR3YzhjQVBlQ01ZNFY0Y0sxZEdBV3NyaUEwNWk2QkRUN3VjcTRRQ1I1V01laGJYSEpqS0U1aFdVejlLeWJMLV9vbWFIQzZ1eFl0bXFNY2dEejNQSEJobnkxS0RsZWhOUllBdXlZaTJuVFJEV2E2UHRuTlAwbElTTzdOU2hNVXVQb3FtaXJQNEZXWW1SeGFId1"
+    },
+    {
+      "title": "56% de empresas mexicanas no identifica el valor comercial de la inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFJiNjROWHM2MlhYMFF4dlVBYlpoYkk4TDJ5bFYwNy1XYW1xSFRvUnBsWnRXd202VjBKYnR0SE01dTZtRXFaME1FbUFQWnRDNnZGcHhGSTBaZ3pJODVjdUVWbGxGYklma2tZQmdpQ1pHeW4wT3dqNElpQ3p4U0wydkZGcEdCWklXbk90TkRCVC10ZjNDczA5QXE3SFlETXVlVXY4ZzdVaVJIY1hRRkdaSmtWRGdMbGxXUk4xdXNJd2dRZWxXTDJIQUZaR3hZMldYMVHSAdcBQVVfeXFMTlhld3hWbUdiVGR3NTFPQnROZ0EtZy1tOVZIWnlzVUx4Z2gxeXA3ZEluaXRyczRqSUktWnU1NzdNb0pCcHRrdGpjMWNQdHRjckRXajJINmE1Sy1SWVJxemlDWmh4bjlIM2dUSldVVHUxbU9meUZtTy1laElxU2RPRmdrV0RKZVh0SkppbDcxWFdYZlR2LUNhelZQTVUyUWhWOHk1bDBTZXhlRnZ0Wldqd0xjanYtWXJxczVxSWhRQjZKLXFqdlkzOGlyM2tmYUFINFpRTHVnZHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Oct 2025 17:02:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFJiNjROWHM2MlhYMFF4dlVBYlpoYkk4TDJ5bFYwNy1XYW1xSFRvUnBsWnRXd202VjBKYnR0SE01dTZtRXFaME1FbUFQWnRDNnZGcHhGSTBaZ3pJODVjdUVWbGxGYklma2tZQmdpQ1pHeW4wT3dqNElpQ3p4U0wydkZGcEdCWklXbk90TkRCVC10ZjNDczA5QXE3SFlETXVlVXY4ZzdVaVJIY1hRRkdaSmtWRGdMbGxXUk"
     },
     {
       "title": "Google México impulsa la transformación digital de las marcas con datos, IA y YouTube - produ",
@@ -51,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejdfNTVURFRsNUNuaGN1T09VSjQ5VHM2WWlET0EyMEZYVU9qLVlHY3VVVHNINWY1RnFOVFR1dlZRRGRXdUc2Z1J3dHlBLXBHREJPcHBXZm5xUE1qdHhKRTlBY3cybGlobG80T0xaUU9WMFBSUXE2WUttbUM5bm4zdkVyMjZ0ZkdoYUpyTnBQMkdUSW5WZXBVdXZTSW50WU9GQlBrQ280N20xaTdlMl9kMHhDUWlvTlJfZE"
     },
     {
-      "title": "La Inteligencia Artificial (IA) ha trascendido en el ámbito laboral de México - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT09aVW15MDc2TWs4Qi1Ic3ctWTVwbmpnLU5oN0xsLXdTbm83Q0NURGN4N1pTT2lzd2w0SUpHTlhyUDRpWmk0aWdtV0tZWWtKTlBZTllRVVkydUY4NlA0MTk0aUZOLU9Ici1zX3JXa2xfc1Q1YnAxeVM0Q2J5d25ja3pvajMyLXFOWnFRS19tMV9rN1ViZDFWdEkyZzQ1Wks5TVJzT2ZDZUVNUWxFeVNtWWZVSVFjaHNU?oc=5",
+      "title": "PotencIA Mx: la primera aceleradora que impulsará a Startups y PyMEs con IA - Energía Hoy",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXhDblNlbDRaYWpaaDVIdExGSTJJMDNQYlpqci0tZ2I0S0xyeUcwemw1eHduMnoxU0pBcDBqdTYyR3NJV0NwTnl5RlNoazk0ajFZaTItdWQwWlZOOEQ2NWpHTmNOdVg5MmZkTDAxY1ZhVXV2NlRFRi1WY2J6NS1NVnZ4c3dTVkpvQ0xDZU1GOVlqX3RVdUV1a3NnOGVDVnh4bzhPemh6YXpfdTBuSHFwWjZtVQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 28 Oct 2025 17:22:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT09aVW15MDc2TWs4Qi1Ic3ctWTVwbmpnLU5oN0xsLXdTbm83Q0NURGN4N1pTT2lzd2w0SUpHTlhyUDRpWmk0aWdtV0tZWWtKTlBZTllRVVkydUY4NlA0MTk0aUZOLU9Ici1zX3JXa2xfc1Q1YnAxeVM0Q2J5d25ja3pvajMyLXFOWnFRS19tMV9rN1ViZDFWdEkyZzQ1Wks5TVJzT2ZDZUVNUWxFeVNtWWZVSVFjaHNU?o"
-    },
-    {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+      "published": "Wed, 29 Oct 2025 16:32:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXhDblNlbDRaYWpaaDVIdExGSTJJMDNQYlpqci0tZ2I0S0xyeUcwemw1eHduMnoxU0pBcDBqdTYyR3NJV0NwTnl5RlNoazk0ajFZaTItdWQwWlZOOEQ2NWpHTmNOdVg5MmZkTDAxY1ZhVXV2NlRFRi1WY2J6NS1NVnZ4c3dTVkpvQ0xDZU1GOVlqX3RVdUV1a3NnOGVDVnh4bzhPemh6YXpfdTBuSHFwWjZtVQ?oc=5\" t"
     },
     {
       "title": "PotencIA MX: Meta invita a startups y PyMEs mexicanas a su primer programa de IA - emprendedor.com",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Wed, 08 Oct 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
-    },
-    {
-      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",
