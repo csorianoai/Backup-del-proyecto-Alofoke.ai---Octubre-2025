@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Ciberataques 'fantasma' en las telcos ponen en riesgo la privacidad de usuarios",
+      "url": "https://expansion.mx/tecnologia/2025/10/31/nokia-advierte-hackeo-telecomunicaciones",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 31 Oct 2025 18:00:13 GMT",
+      "summary": "Los ataques living off the land son poco detectables, ya que usan las propias herramientas de las telecomunicaciones para infiltrarse. Verizon y AT&amp;T ya fueron vulnerados por esta técnica."
+    },
+    {
+      "title": "La IA no es una burbuja, está en un “círculo virtuoso”, dice el CEO de Nvidia",
+      "url": "https://expansion.mx/tecnologia/2025/10/31/ceo-nvidia-contradice-jeff-bezos-sam-altman-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 31 Oct 2025 16:00:48 GMT",
+      "summary": "A diferencia de Bezos o Altman, Jensen Huang afirma que la tecnología está mejorando y conforme esto sucede, más gente se muestra interesada en utilizarla y en invertir en ella."
+    },
+    {
+      "title": "Eduardo Tricio adquiere 7.2% de participación capital de Televisa",
+      "url": "https://expansion.mx/tecnologia/2025/10/31/eduardo-tricio-lala-adquiere-capital-de-televisa",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 31 Oct 2025 14:52:32 GMT",
+      "summary": "El gigante de medios de comunicación precisó que a pesar de la adquisición, Tricio no tiene intención de adquirir influencia significativa en el grupo."
+    },
+    {
       "title": "Hacia 2030, Facebook gastará 108 mdd en conservar datos de usuarios fallecidos",
       "url": "https://expansion.mx/tecnologia/2025/10/31/cuentas-personas-fallecidas-facebook-cuestan-meta-millones",
       "source": "Expansión Tecnología",
@@ -19,36 +43,20 @@
       "summary": "Hoy Nvidia impulsa la que considera la próxima “revolución industrial” con sus chips Blackwell y su rol central en la infraestructura de la IA."
     },
     {
-      "title": "AWS crece 20%, pero Amazon enfrenta retos de operación",
-      "url": "https://expansion.mx/tecnologia/2025/10/30/aws-crece-20-amazon-enfrenta-retos-operacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Oct 2025 22:15:28 GMT",
-      "summary": "La empresa reportó ventas netas por 180,200 millones de dólares y su estrella otra vez fue su nube."
-    },
-    {
-      "title": "CRT somete a consulta pública lineamientos para el Padrón de Telefonía",
-      "url": "https://expansion.mx/tecnologia/2025/10/30/crt-somete-a-consulta-publica-lineamientos-para-el-padron-de-telefonia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Oct 2025 21:57:18 GMT",
-      "summary": "El nuevo regulador de telecomunicaciones puso a consulta pública el anteproyecto de las reglas con las que operará el Padrón de Telefonía, donde usuarios y empresas podrán opinar."
-    },
-    {
-      "title": "Apple registra ingresos por 102,500 mdd gracias al iPhone",
-      "url": "https://expansion.mx/tecnologia/2025/10/30/apple-ingresos-102-500-mdd-iphone",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Oct 2025 21:29:35 GMT",
-      "summary": "La empresa espera un mayor crecimiento en la temporada navideña, gracias al desempeño de su dispositivo estrella."
-    },
-    {
       "title": "La Inteligencia Artificial redefine el empleo tecnológico en Latinoamérica: México lidera, Argentina se estanca y Perú acelera - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdmxyOHM2R3d0NVQwNHdkaG9lWUdrVWR2TGVpN19BLXFJcWEwZm5GcHdKRFpQWFhFNGhtMTRqZVdMVE9QNzVFblBwUzFsd9IBmAJBVV95cUxQVVdtNkQxVXNxdFYtYnZsZUxXTGhSaWRvWExvZDZLMEVRakNONW82QUpxQUVLOTJRQ01sYW11Nmx1T1hkWVZ0Vkg3YmxZTEJqQ2Q4RmNNVi1fOUU1RVFzNlA4S0hDY2NUdTN4b2xUajRjbVotTUg5UEs0ajk2aGRldVZLTTFUS29xbkpvWGlnQUpFME9SVmRCODQ3MHRZRUVsNmg4cTEtUWZRX2UtWDhfSE8tR0V6aE9ocF9YLUZHUldSenZmOU9WckZlb0pfQWVVYV9DN3R3U21HRXBzQ1g5NzJpQS1SNkRaT1c2aG9NY2dSWUViQ2pEMlN6Um40U1QzVVRXVnRTbDBQeG9adDc5dF82UWhzNmxf?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 31 Oct 2025 15:51:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdm"
+    },
+    {
+      "title": "La Inteligencia Artificial Redefine el Buen Fin - AmericaMalls & Retail",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3JROW1YOS1BN1Q2bnBXeGpkekc2a3JQZEhvcGliZEJFVDlqeFZ6MzJvWER3MnotVV9EdUh3dnlzRW15Y0NZS0FhanFKM1ltUHFkbGF5X2VOdzBZSERaSF81Wl9ZTy1SUzNGYmdtTVNHdHd6aTVGQWhZVkswaDBvVFZuNkUxUFJfM0N1Z1VjdmJyUms?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 31 Oct 2025 20:24:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3JROW1YOS1BN1Q2bnBXeGpkekc2a3JQZEhvcGliZEJFVDlqeFZ6MzJvWER3MnotVV9EdUh3dnlzRW15Y0NZS0FhanFKM1ltUHFkbGF5X2VOdzBZSERaSF81Wl9ZTy1SUzNGYmdtTVNHdHd6aTVGQWhZVkswaDBvVFZuNkUxUFJfM0N1Z1VjdmJyUms?oc=5\" target=\"_blank\">La Inteligencia Artificial R"
     },
     {
       "title": "Inteligencia Artificial con rol clave en la democratización financiera - BBVA",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3lobS1jMzBtTVlIQ0F5aWFvWlBrdUlXT192SE5zcjE1Yk0yaVExYzFmelZpRGlOM0pjNDUtbU52VVV6OUd3MHFtM2pndVQtWXk1NHE0T21aUVZDd3dJR3dBYWhvcG1TeW5oamZPdzJBVVdETndyTHdvcmFjS1Fnd3ZWdzB0SDdZbzhZV0VVSzJZc084NHBqS1dfNUJia3UzN1BwVktzT2FCdmtiYlludmE1T05hbE1mUl"
     },
     {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
-    },
-    {
       "title": "PotencIA MX: Meta invita a startups y PyMEs mexicanas a su primer programa de IA - emprendedor.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSlNJUXBiQUNCN19GcW9yYzJoeUVXOXNDQkNrVHVkdFF2dlhyeVk2d21kYngtMUw5TUJyenZpMnhRM2hMWXVDaUdqX1k2NGJsVGJCM1dwLVkzMkgzYk9rdzR1dS0zZmZxWTFKaTZMOTRrY1EyT09JM3Z6ampJSWtlbDF4aGZHZndjNU9uM2lKVlphN1hfTVh2VTBWNUtJQg?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSl"
     },
     {
-      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
-    },
-    {
       "title": "México será sede del mayor evento de inteligencia artificial e inversión en Latinoamérica: MÉXICO IA+ 2025 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHd5X1UtUVlLd2JFT3hEU0J0YUxEV1VUZnNCdXdMY2Z2SUlqUU9DWjM1bTM4T09kQ2ZSV2xla3lxbkNDVHdmV0JvRHBPUE50V2RJckh1NGZwZWJvRmV2N1VQWWxyV05wZ2UyV1gwYzBzSzFSeUFUUTgtRjl5SnlEY2FaWHdDZGJWZmM0Sm5ZZktBcm5lUTV4U1Z3Z0dIbE1xUzhxd29yMVBzU3plTVFIYUlOWVZUbGNqRnFXMGt6R0QxUTd5SnVCVEVWQ0FFU0NkVUdYcmpacGJrMFJJcHlRTNIB-wFBVV95cUxOVVJzT19TU1dyMnN3S1laS2pZRk9TQV9jZ2JJcW9VNjAzYWZqQ3pVVC1VQUJ1NE45d3J4Szc1WF9QeEFwWksySzYyNi1ScFhSQ3V3Q21tMTFTUlhaLTJrLTZHVXZVV2Q5WjVlTzdYY3NBZ1RURlgwel9GU1NtdXNtZWphU0xzdW81R3l4VTdFTHpkOXF5XzluZUF6emN2TTgtY3RKMXBuM0psLU9YLXlCbTgtQXRtS0hJaVBnR2hHMmYzemFreW9KZy1ra2o4MkJRQ2V2RHhOOUhFTHp6Um9ueERaRC1SRmtQaF9oVjVMZ0FiWXViTDVtS0hnYw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 05 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHd5X1UtUVlLd2JFT3hEU0J0YUxEV1VUZnNCdXdMY2Z2SUlqUU9DWjM1bTM4T09kQ2ZSV2xla3lxbkNDVHdmV0JvRHBPUE50V2RJckh1NGZwZWJvRmV2N1VQWWxyV05wZ2UyV1gwYzBzSzFSeUFUUTgtRjl5SnlEY2FaWHdDZGJWZmM0Sm5ZZktBcm5lUTV4U1Z3Z0dIbE1xUzhxd29yMVBzU3plTVFIYUlOWVZUbGNqRn"
+    },
+    {
+      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",
