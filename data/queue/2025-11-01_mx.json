@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Cómo Nvidia elevó su valor de mercado de 4 a 5 billones de dólares en solo tres meses",
+      "url": "https://expansion.mx/tecnologia/2025/11/01/como-nvidia-elevo-su-valor-de-mercado-a-5-billones-dolares",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 01 Nov 2025 16:49:40 GMT",
+      "summary": "Hoy Nvidia impulsa la que considera la próxima “revolución industrial” con sus chips Blackwell y su rol central en la infraestructura de la IA."
+    },
+    {
+      "title": "Bait, la telefónica de Walmart que ya superó a Telefónica México y va por AT&T",
+      "url": "https://expansion.mx/tecnologia/2025/11/01/bait-ya-supero-a-telefonica-mexico-y-va-por-att",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 01 Nov 2025 16:31:18 GMT",
+      "summary": "El OMV de Walmart alcanzó 23.5 millones de clientes, superando a Telefónica, pero su conteo de líneas podría modificar su participación si el nuevo regulador mantiene los criterios del IFT."
+    },
+    {
+      "title": "CFE Telecom pagó 159,200 mdp a Starlink por internet que no funcionó: ASF",
+      "url": "https://expansion.mx/tecnologia/2025/11/01/cfe-telecom-pago-starlink-internet-que-no-funciono-asf",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 01 Nov 2025 16:26:10 GMT",
+      "summary": "La Auditoría Superior detectó que CFE Telecomunicaciones pagó a Starlink por equipos inactivos, sin aplicar penalizaciones; el contrato ahora está bajo investigación por fallas y pagos injustificados."
+    },
+    {
       "title": "Ciberataques 'fantasma' en las telcos ponen en riesgo la privacidad de usuarios",
       "url": "https://expansion.mx/tecnologia/2025/10/31/nokia-advierte-hackeo-telecomunicaciones",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Fri, 31 Oct 2025 16:00:48 GMT",
       "summary": "A diferencia de Bezos o Altman, Jensen Huang afirma que la tecnología está mejorando y conforme esto sucede, más gente se muestra interesada en utilizarla y en invertir en ella."
-    },
-    {
-      "title": "Eduardo Tricio adquiere 7.2% de participación capital de Televisa",
-      "url": "https://expansion.mx/tecnologia/2025/10/31/eduardo-tricio-lala-adquiere-capital-de-televisa",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 31 Oct 2025 14:52:32 GMT",
-      "summary": "El gigante de medios de comunicación precisó que a pesar de la adquisición, Tricio no tiene intención de adquirir influencia significativa en el grupo."
-    },
-    {
-      "title": "Hacia 2030, Facebook gastará 108 mdd en conservar datos de usuarios fallecidos",
-      "url": "https://expansion.mx/tecnologia/2025/10/31/cuentas-personas-fallecidas-facebook-cuestan-meta-millones",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 31 Oct 2025 11:55:11 GMT",
-      "summary": "Cada año los recursos económicos por rentar alojamiento en nube suben, a causa de las cuentas de personas que fallecieron."
-    },
-    {
-      "title": "De los videojuegos a dominar la IA: cómo Nvidia alcanzó los 5 billones de dólares",
-      "url": "https://expansion.mx/tecnologia/2025/10/30/como-nvidia-elevo-su-valor-de-mercado-a-5-billones-dolares",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Oct 2025 23:00:40 GMT",
-      "summary": "Hoy Nvidia impulsa la que considera la próxima “revolución industrial” con sus chips Blackwell y su rol central en la infraestructura de la IA."
     },
     {
       "title": "La ola de la IA llega a México con retos y desigualdades - TecScience",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdm"
     },
     {
-      "title": "La Inteligencia Artificial Redefine el Buen Fin - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3JROW1YOS1BN1Q2bnBXeGpkekc2a3JQZEhvcGliZEJFVDlqeFZ6MzJvWER3MnotVV9EdUh3dnlzRW15Y0NZS0FhanFKM1ltUHFkbGF5X2VOdzBZSERaSF81Wl9ZTy1SUzNGYmdtTVNHdHd6aTVGQWhZVkswaDBvVFZuNkUxUFJfM0N1Z1VjdmJyUms?oc=5",
+      "title": "Inteligencia Artificial con rol clave en la democratización financiera - BBVA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3lobS1jMzBtTVlIQ0F5aWFvWlBrdUlXT192SE5zcjE1Yk0yaVExYzFmelZpRGlOM0pjNDUtbU52VVV6OUd3MHFtM2pndVQtWXk1NHE0T21aUVZDd3dJR3dBYWhvcG1TeW5oamZPdzJBVVdETndyTHdvcmFjS1Fnd3ZWdzB0SDdZbzhZV0VVSzJZc084NHBqS1dfNUJia3UzN1BwVktzT2FCdmtiYlludmE1T05hbE1mUlE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 31 Oct 2025 20:24:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPV3JROW1YOS1BN1Q2bnBXeGpkekc2a3JQZEhvcGliZEJFVDlqeFZ6MzJvWER3MnotVV9EdUh3dnlzRW15Y0NZS0FhanFKM1ltUHFkbGF5X2VOdzBZSERaSF81Wl9ZTy1SUzNGYmdtTVNHdHd6aTVGQWhZVkswaDBvVFZuNkUxUFJfM0N1Z1VjdmJyUms?oc=5\" target=\"_blank\">La Inteligencia Artificial R"
+      "published": "Thu, 30 Oct 2025 22:02:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3lobS1jMzBtTVlIQ0F5aWFvWlBrdUlXT192SE5zcjE1Yk0yaVExYzFmelZpRGlOM0pjNDUtbU52VVV6OUd3MHFtM2pndVQtWXk1NHE0T21aUVZDd3dJR3dBYWhvcG1TeW5oamZPdzJBVVdETndyTHdvcmFjS1Fnd3ZWdzB0SDdZbzhZV0VVSzJZc084NHBqS1dfNUJia3UzN1BwVktzT2FCdmtiYlludmE1T05hbE1mUl"
     },
     {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSl"
     },
     {
-      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
+      "title": "México será sede del mayor evento de inteligencia artificial e inversión en Latinoamérica: MÉXICO IA+ 2025 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHd5X1UtUVlLd2JFT3hEU0J0YUxEV1VUZnNCdXdMY2Z2SUlqUU9DWjM1bTM4T09kQ2ZSV2xla3lxbkNDVHdmV0JvRHBPUE50V2RJckh1NGZwZWJvRmV2N1VQWWxyV05wZ2UyV1gwYzBzSzFSeUFUUTgtRjl5SnlEY2FaWHdDZGJWZmM0Sm5ZZktBcm5lUTV4U1Z3Z0dIbE1xUzhxd29yMVBzU3plTVFIYUlOWVZUbGNqRnFXMGt6R0QxUTd5SnVCVEVWQ0FFU0NkVUdYcmpacGJrMFJJcHlRTNIB-wFBVV95cUxOVVJzT19TU1dyMnN3S1laS2pZRk9TQV9jZ2JJcW9VNjAzYWZqQ3pVVC1VQUJ1NE45d3J4Szc1WF9QeEFwWksySzYyNi1ScFhSQ3V3Q21tMTFTUlhaLTJrLTZHVXZVV2Q5WjVlTzdYY3NBZ1RURlgwel9GU1NtdXNtZWphU0xzdW81R3l4VTdFTHpkOXF5XzluZUF6emN2TTgtY3RKMXBuM0psLU9YLXlCbTgtQXRtS0hJaVBnR2hHMmYzemFreW9KZy1ra2o4MkJRQ2V2RHhOOUhFTHp6Um9ueERaRC1SRmtQaF9oVjVMZ0FiWXViTDVtS0hnYw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
+      "published": "Fri, 05 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHd5X1UtUVlLd2JFT3hEU0J0YUxEV1VUZnNCdXdMY2Z2SUlqUU9DWjM1bTM4T09kQ2ZSV2xla3lxbkNDVHdmV0JvRHBPUE50V2RJckh1NGZwZWJvRmV2N1VQWWxyV05wZ2UyV1gwYzBzSzFSeUFUUTgtRjl5SnlEY2FaWHdDZGJWZmM0Sm5ZZktBcm5lUTV4U1Z3Z0dIbE1xUzhxd29yMVBzU3plTVFIYUlOWVZUbGNqRn"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",
