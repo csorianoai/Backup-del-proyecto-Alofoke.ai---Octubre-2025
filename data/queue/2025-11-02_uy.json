@@ -3,44 +3,44 @@
   "country": "uy",
   "articles": [
     {
+      "title": "Dos autos chocaron en Maldonado: las espirometrías de ambos conductores dieron positivas",
+      "url": "https://www.elpais.com.uy/informacion/policiales/dos-autos-chocaron-en-maldonado-las-espirometrias-de-ambos-conductores-dieron-positivas",
+      "source": "El País Uruguay",
+      "category": "news",
+      "published": "Sun, 02 Nov 2025 22:02:15 +0000",
+      "summary": "Varias personas resultaron heridas y dos pasajeros fueron trasladados a centros asistenciales."
+    },
+    {
+      "title": "Todo lo que se sabe del ataque con arma blanca en un tren en Inglaterra: detuvieron a uno de los agresores",
+      "url": "https://www.elpais.com.uy/mundo/todo-lo-que-se-sabe-del-ataque-con-arma-blanca-en-un-tren-en-inglaterra-detuvieron-a-uno-de-los-agresores",
+      "source": "El País Uruguay",
+      "category": "news",
+      "published": "Sun, 02 Nov 2025 20:07:50 +0000",
+      "summary": "El sospechoso por \"intento de asesinato\" es un británico de 32 años. Un testigo, citado por varios medios, dijo que vio a un hombre corriendo por el vagón, con el brazo ensangrentado y gritando: \"¡Tienen un cuchillo!\". Otro dijo que vio \"sangre pro todas partes\"."
+    },
+    {
+      "title": "Peñarol 0-1 Defensor Sporting en vivo: sorprende el violeta y en el arranque lo adelanta Diego Abreu",
+      "url": "https://www.elpais.com.uy/ovacion/futbol/penarol-vs-defensor-sporting-en-vivo-el-aurinegro-busca-el-titulo-del-clausura-y-arrimarse-en-la-tabla-anual",
+      "source": "El País Uruguay",
+      "category": "news",
+      "published": "Sun, 02 Nov 2025 20:00:00 +0000",
+      "summary": "Con entradas agotadas en el Campeón del Siglo, los dirigidos por Diego Aguirre saben que podrían dar un paso muy grande hacia la definición de la Liga AUF Uruguaya."
+    },
+    {
+      "title": "Racing 1-2 Danubio: Michael López le dio el triunfo agónico al franjeado que jugó un tiempo con un hombre más",
+      "url": "https://www.elpais.com.uy/ovacion/futbol/racing-vs-danubio-en-vivo-la-escuelita-de-chambian-recibe-al-franjeado-de-matosas-en-sayago",
+      "source": "El País Uruguay",
+      "category": "news",
+      "published": "Sun, 02 Nov 2025 19:24:52 +0000",
+      "summary": "El equipo de Gustavo Matosas se puso en ventaja con gol de Sergio Núñez, lo empató Esteban Da Silva en la primera parte, y al comienzo del segundo tiempo fue expulsado Ramiro Brazionis."
+    },
+    {
       "title": "¿Qué pasó con Juana Tinelli? La hija de Marcelo vivió una situación límite y su reacción sorprendió a todos",
       "url": "https://www.elpais.com.uy/tvshow/personajes/que-paso-con-juana-tinelli-la-hija-de-marcelo-vivio-una-situacion-limite-y-su-reaccion-sorprendio-a-todos",
       "source": "El País Uruguay",
       "category": "news",
       "published": "Sun, 02 Nov 2025 17:47:00 +0000",
       "summary": "Tras ser amenazada y solicitar ayuda en la Justicia, Juanita Tinelli realizó un duro descargo en el que se mostró muy crítica con las decisiones de su padre, Marcelo Tinelli. ¿Qué dijo el conductor?"
-    },
-    {
-      "title": "Auto con matrícula chilena acumuló 18 infracciones en solo una semana; fue  incautado en Maldonado",
-      "url": "https://www.elpais.com.uy/informacion/policiales/auto-con-matricula-chilena-acumulo-18-infracciones-en-solo-una-semana-fue-incautado-en-maldonado",
-      "source": "El País Uruguay",
-      "category": "news",
-      "published": "Sun, 02 Nov 2025 17:35:06 +0000",
-      "summary": "El mayor registro fue de 156 km por hora. Nueve de las 18 multas fueron durante el mismo día"
-    },
-    {
-      "title": "El paradisíaco viaje de Guillermo Lorenzo y Paola Botti y la frase sobre el casamiento que no pasó desapercibida",
-      "url": "https://www.elpais.com.uy/tvshow/personajes/el-paradisiaco-viaje-de-guillermo-lorenzo-y-paola-botti-y-la-frase-sobre-el-casamiento-que-no-paso-desapercibida",
-      "source": "El País Uruguay",
-      "category": "news",
-      "published": "Sun, 02 Nov 2025 17:09:32 +0000",
-      "summary": "Los periodistas 10 se fueron de vacaciones a Aruba y bromearon sobre el casamiento, lo que generó una pícara reacción de un compañero de Canal 10. Las fotos."
-    },
-    {
-      "title": "Tabaré Silva: la diferencia \"abismal\" con Peñarol y Nacional y la falta de Oliva que \"era roja desde todos lados\"",
-      "url": "https://www.elpais.com.uy/ovacion/futbol/tabare-silva-la-diferencia-abismal-con-penarol-y-nacional-y-la-roja-a-oliva-que-era-expulsion-en-todos-lados",
-      "source": "El País Uruguay",
-      "category": "news",
-      "published": "Sun, 02 Nov 2025 17:05:20 +0000",
-      "summary": "El DT del Villero no solo logró sellar la permanencia en Primera, sino que en el cierre del Clausura sumó cuatro de seis puntos ante los grandes, venciendo al aurinegro y empatando con el tricolor."
-    },
-    {
-      "title": "Algunas lecciones que dejan los años de llamados a alimentarnos saludablemente",
-      "url": "https://www.elpais.com.uy/bienestar/nutricion/algunas-lecciones-que-dejan-los-anos-de-llamados-a-alimentarnos-saludablemente",
-      "source": "El País Uruguay",
-      "category": "news",
-      "published": "Sun, 02 Nov 2025 17:00:00 +0000",
-      "summary": "Una experta reflexiona sobre el valor de la comida más allá del racconto de nutrientes y calorías, sino también como una actividad que hace a nuestro placer."
     },
     {
       "title": "Uruguay firma el tratado sobre inteligencia artificial del Consejo de Europa - coe.int",
