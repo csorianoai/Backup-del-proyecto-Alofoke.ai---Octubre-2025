@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "5 equipos para sortear el fin del soporte de Windows 10",
+      "url": "https://www.latercera.com/tendencias/noticia/5-equipos-para-sortear-el-fin-del-soporte-de-windows-10/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 04 Nov 2025 22:08:53 +0000",
+      "summary": "Ahora que Microsoft dejó de dar actualizaciones de seguridad y asistencia técnica a los usuarios de Windows 10, y muchos equipos simplemente no pueden actualizar a una versión superior, hay varias opciones en el mercado con sistemas operativos vigentes."
+    },
+    {
+      "title": "Quién es Jim Curtis, la nueva pareja de la actriz Jennifer Aniston",
+      "url": "https://www.latercera.com/tendencias/noticia/quien-es-jim-curtis-la-nueva-pareja-de-la-actriz-jennifer-aniston/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 04 Nov 2025 20:00:00 +0000",
+      "summary": "La actriz publicó una fotografía en Instagram donde confirmó su nueva relación sentimental."
+    },
+    {
       "title": "Por qué los pendrives están desapareciendo (y cuál es ahora la mejor forma de almacenar contenido)",
       "url": "https://www.latercera.com/tendencias/noticia/por-que-los-pendrives-estan-desapareciendo-y-cual-es-ahora-la-mejor-forma-de-almacenar-contenido/",
       "source": "La Tercera Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Un policía salvadoreño confesó haber cometido 97 asesinatos y vinculó al alcalde Salvador Menéndez con parte de los crímenes, según reveló El Faro."
     },
     {
-      "title": "“Es un milagro”: el relato del único sobreviviente del accidente de Air India en el que murieron 241 personas",
-      "url": "https://www.latercera.com/tendencias/noticia/es-un-milagro-el-relato-del-unico-sobreviviente-del-accidente-de-air-india-en-el-que-murieron-241-personas/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 04 Nov 2025 12:39:04 +0000",
-      "summary": "Viswashkumar Ramesh pudo salir de los restos del Boeing 787 que se estrelló a mediados de junio, poco después de haber despegado desde un aeropuerto en la ciudad de Ahmedabad, India. El hombre de 39 años abordó en una conferencia de prensa cómo ha enfrentado los meses posteriores a la tragedia."
-    },
-    {
-      "title": "6 claves para evitar ser víctima de ciberataques bancarios, según Kaspersky",
-      "url": "https://www.latercera.com/tendencias/noticia/6-claves-para-evitar-ser-victima-de-ciberataques-bancarios-segun-kaspersky/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 04 Nov 2025 10:40:28 +0000",
-      "summary": "Desde la compañía global de ciberseguridad advierten que tácticas cada vez más sofisticadas dirigidas hacia celulares demuestran que “el cibercrimen financiero no solo se ha adaptado, sino que está marcando las nuevas tendencias de amenazas móviles” en América Latina."
-    },
-    {
       "title": "Así es Panther Lake, la plataforma de Intel diseñada para acelerar el rendimiento en la era de la IA - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaTdFdEtNN3ZnR1hvdWM4ZTVsamZUWVROQVRBejl4bWJhdVdSNG1fVzNFQkhuUVFtXzFEc3FERkxuSDVVQ0RBQWNSMHFqS0tjcnl0VUozbjQ2TGo2OWd2RGRrMGFMLU9wZDRpcFFPVEgzU1dGakRWTWFVZUFWdE9CTzJ0Q1VyREZPM0wwZVlfVnNTbDVHNzY0Q09qSHFtQ1kydlNkbkJsUUJnbVo0Yk8tLW5QdnYxMEtyUmt4VHpqQlJ1V2ZGcGVBc1FRVGw5S3FTTGc5RlZNTHlnV2E1enR3ZFF3blA2Zw?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWpxLWNvc21obERkZFdzM1d2dm1Bck5XekZPeTRlN2Rmb09XQXhBR3RnMVRLS0lJMW45UUlLQjhiMVJCTHQxNy1qWmFSTHRtNUFCbUZrM3FhRHNRUFdyczJVOWZtT0s5SnJueVpXal9HMGVRZjQ5X0J1TUE0dmpidkFDX1pkOXV6OTktUTVkQk5uNzJiRWlRcURWRkZPQ3lJb3ZWMElCSkliVjVyaFZ3?oc=5\" target="
     },
     {
-      "title": "Colombia es cuarta en ranking de adopción de inteligencia artificial en América Latina - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTW9ENmhZVUFGSFh0RmFkRk9zMFN3R0pUdHB2aUt1V1FXZGgyUHdDcnZqaHlLV0dNTktaN1lMUTF0X1RXNS1PX1RkSkdIOGxDWlNCaUw5Qy1EVDBibGp5ZFZRNmFKMV9CRnlZMmdsNFJjQm90ajcyeXF2bU5zcDgtM05GYktIVFZNbEs4bmZocThmZUNNdWFnbDBTdTJRa1NLSnJVMEFpTG5lZ3FrVjFTUzZsbGZOVFQ0MWVCTFFjTWFyQ3daRHI5QTBTMkJDNnF00gHQAUFVX3lxTE5YNF9MYkdwQ05xZDdXRGlreGRhc0dSdHB2S3RKRlpLTl9TQlFXUTVOLVpPM2FuaWpRdUtRU0V2a1p2enZoSTM1d3Joa0UycWIyb3JkU204S21STzF0ZzN3OFU2LVlPdmhnRldDSVM0ZDVXNEVPTV9YQ2wzVHpuUnZoSVNvc2hCUVdjWlU5TTVVa3hLdzNYZkFsR001LXFCRXRTOW5YTW1fbU9COWRPZFpGenN3UWRhbFlnYkFFdGhRRTA3S3FVcFRlMGpCSFpRTTk?oc=5",
+      "title": "Las claves de México, Colombia y Chile para incorporar a la inteligencia artificial en la universidad - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemU2UWVzbEtXcHN4TUNweEp2SWVpMHhXM21FWDdsOGxkQXpWMW55ekRxYkk5RzBBdF9Ocm51bjVnZXRZYnpmRHh1Z2VfTkFuLUhkcnVCLTROXzFwaEdPYjI1cWZ4cmJtZmdRVFFfWWJWeHRZWDEwdXJ1ZnNIS0hiQmlna1dodkdWYW5OVXY2M1VsN0l2QVdFOWp5ekpnYXhwSmRHRzVTemVsTURjWkt5cXdta3dLOC1IWHF4N2xFT2VMb1BORUpzQnI2aUNaQVkwYmcyUmU0eFlfSFg0RGJz0gH6AUFVX3lxTE9TZ2ZTYzdYWVF6bFNja25keFRaZXdyVEdqQ0htTHNkclVMNUNrMVZjTldaazZHbzQ5QjctRzJQNmowY09mSmNuR1BrV0h5OW9zMjBWU2lpSWF5N0ZUbGQ1TkJUYzl4bTA3UnVlcEFPQm1vb2tSU2NnclhDY0FzUHJBSDRkQWdDa1cxUlRPM2lKclNqU0d6RXNqb2tfRTFTV19lN0t1NWMxVHdMN3Vqc3QzTzdMZHY0MUM1akp3NTBwandxM3RGX3FkX2RuaThNbW1lZmdyM0wzc2tneUNKSkxpTVZvRlc3LVVudG82bFBhY0lKa3JFT0RRMHc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTW9ENmhZVUFGSFh0RmFkRk9zMFN3R0pUdHB2aUt1V1FXZGgyUHdDcnZqaHlLV0dNTktaN1lMUTF0X1RXNS1PX1RkSkdIOGxDWlNCaUw5Qy1EVDBibGp5ZFZRNmFKMV9CRnlZMmdsNFJjQm90ajcyeXF2bU5zcDgtM05GYktIVFZNbEs4bmZocThmZUNNdWFnbDBTdTJRa1NLSnJVMEFpTG5lZ3FrVjFTUzZsbGZOVFQ0MW"
+      "published": "Mon, 25 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemU2UWVzbEtXcHN4TUNweEp2SWVpMHhXM21FWDdsOGxkQXpWMW55ekRxYkk5RzBBdF9Ocm51bjVnZXRZYnpmRHh1Z2VfTkFuLUhkcnVCLTROXzFwaEdPYjI1cWZ4cmJtZmdRVFFfWWJWeHRZWDEwdXJ1ZnNIS0hiQmlna1dodkdWYW5OVXY2M1VsN0l2QVdFOWp5ekpnYXhwSmRHRzVTemVsTURjWkt5cXdta3dLOC1IWH"
     },
     {
       "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
