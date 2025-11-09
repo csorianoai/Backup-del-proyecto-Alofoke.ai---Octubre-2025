@@ -3,6 +3,30 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Innovar para trascender: liderazgo educativo para potenciar un país",
+      "url": "https://www.clarin.com/clarin80/innovar-trascender-liderazgo-educativo-potenciar-pais_0_2lETwOe55w.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 09 Nov 2025 20:52:32 +0000",
+      "summary": "<p>Para la vicedirectora de la Universidad Siglo 21 liderar en educación significa conectar ciencia con propósito, innovación con valores y tecnología con humanidad.</p>"
+    },
+    {
+      "title": "El valor de la tecnología en la logística: más allá de la entrega",
+      "url": "https://www.clarin.com/clarin80/valor-tecnologia-logistica-alla-entrega_0_kLV4Fn2AK1.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 09 Nov 2025 19:44:04 +0000",
+      "summary": "<ul><li>El director de Tecnología de Andreani enfatiza en una decisión disruptiva, la de crear y desarrollar su propia tecnología logística.</li><li>Así pueden anticipar y entregar unos 4,5 millones de paquetes por mes cada vez a mayor velocidad.</li></ul>"
+    },
+    {
+      "title": "El recurso inagotable: exportar talento, construir desarrollo",
+      "url": "https://www.clarin.com/clarin80/recurso-inagotable-exportar-talento-construir-desarrollo_0_UCaiFMvnlT.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 09 Nov 2025 19:42:56 +0000",
+      "summary": "<ul><li>En la visión del fundador de Aleph, un unicornio que conecta plataformas y marcas en 150 países, educar talento no es un gasto, es la inversión más rentable que podemos hacer como país. </li><li>Sugiere una mejor distribución de ingresos en las tecnológicas.</li></ul>"
+    },
+    {
       "title": "María Eugenia Estenssoro: \"Sin ciencia no hay progreso económico\"",
       "url": "https://www.clarin.com/clarin80/maria-eugenia-estenssoro-ciencia-progreso-economico_0_ztQVl1HlV5.html",
       "source": "Clarín Tecnología",
@@ -19,30 +43,6 @@
       "summary": "<ul><li>Inversor en firmas tecnológicas Bril se explaya sobre la combinación de rentabilidad económica con impacto social y humano medible. </li><li>Sostiene que Argentina cuenta con una base científico-tecnológica capaz de competir en nichos del mercado mundial.</li><li>El capital con propósito.</l"
     },
     {
-      "title": "La conexión clave entre investigación científica, innovación y producción",
-      "url": "https://www.clarin.com/clarin80/conexion-clave-investigacion-cientifica-innovacion-produccion_0_muToL8wKVP.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Nov 2025 17:01:58 +0000",
-      "summary": "<ul><li>Raquel Chan y su equipo descubrieron un gen resistente a la sequía.</li><li>La investigación se realizó en un laboratorio del sistema público de Ciencia y fue financiado por el Conicet. </li><li>Para las pruebas a campo y el lanzamiento al mercado se asociaron con una empresa.</li></ul>"
-    },
-    {
-      "title": "La  industria tecnológica y el rol del Estado",
-      "url": "https://www.clarin.com/clarin80/industria-tecnologica-rol-estado_0_z8IONuY5eA.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Nov 2025 17:01:58 +0000",
-      "summary": "<ul><li>El ex CEO de Argencon, Carlos Pallotti, sostiene que el Estado se dio cuenta que tiene que apoyar a la economía del conocimiento. </li><li>Y que su rol es crear las condiciones para crecer sin  intervención y con regulaciones apropiadas.</li></ul>"
-    },
-    {
-      "title": "Emiliano Kargieman: “Hay mucho capital disponible en el mundo para invertir en infraestructura digital”",
-      "url": "https://www.clarin.com/clarin80/emiliano-kargieman-capital-disponible-mundo-invertir-infraestructura-digital_0_U2TUr0LwQV.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Nov 2025 17:01:57 +0000",
-      "summary": "<ul><li>Más conocido como el creador de Satellogic, Kargieman es uno de los que impulsó el mega  proyecto para abastecer a Open AI, el gigante detrás del Chat GPT.</li><li> Los detalles.</li></ul>"
-    },
-    {
       "title": "Microsoft y el Ministerio Público de la Provincia de Buenos Aires firman el primer acuerdo de colaboración en Inteligencia Artificial para la justicia en Latinoamérica - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQbzJlMmx4Y2ZwS19QZFdyNE1MeGY5QThUNFdBeVB5bVpITFB6NGhFQkJVX1FtTGpFUkVEXzVJamNrVFB6SGZmUDJVRi1DbWdLdFFnT2ZmaHU4UmlvandGMURXNkNWUGQxalBCenNDQUk2c18xNmlOYy04cHlaTWRDY3BrdjBHTFRXV1hnSk5OaHV5X2M3Vmp2STViZHRaQkxkOENnQ0w0dXZnU1Z3SGtzWmY1dzY3Tzctc0I4UFQ1X2RrbGFPbG5uaTFxeHNIb0JGOVV4Wi1MUEJMRFZBVU40bnhmYzBVYWlOdUtnSl9CV3I2ZGVDOElOaG9Ld0NBV3hEZkZsM2RQUW44UmNyYUptZjZLX0hvc01ZUjFIOGdTQ1ZHbGFCZElPT0lidG9oOUphQlA2UUR3dnZXMkNWTUtNZGh5Ul9nM2hWcWtyaWtWSQ?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxQbzJlMmx4Y2ZwS19QZFdyNE1MeGY5QThUNFdBeVB5bVpITFB6NGhFQkJVX1FtTGpFUkVEXzVJamNrVFB6SGZmUDJVRi1DbWdLdFFnT2ZmaHU4UmlvandGMURXNkNWUGQxalBCenNDQUk2c18xNmlOYy04cHlaTWRDY3BrdjBHTFRXV1hnSk5OaHV5X2M3Vmp2STViZHRaQkxkOENnQ0w0dXZnU1Z3SGtzWmY1dzY3Tzctc0"
     },
     {
-      "title": "Inteligencia artificial argentina mejora el seguimiento de pacientes crónicos en hospitales - LA17",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjlYQUtCSENuV0lqS0c3aF9iYkpOQ2ppUVNUT3c3WWhjalAwa3liOFFDMjVEeHJDTktaUDJFcWRIc08xYUt0OTJNSWJjWlFMRUs4VVBId0p0VDQtYXdOU0YtMUt5aWVQU0JtNXMwSFlHcC1DWXowaV9OcEQ3THFOWXQ4Nlh6TXJJV3ZINjRTSWNYcWFNRHY2ajhrN0dCcWdRTGw1UHVqVjEwandOWExZbFdIdzY?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 09 Nov 2025 12:15:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPZjlYQUtCSENuV0lqS0c3aF9iYkpOQ2ppUVNUT3c3WWhjalAwa3liOFFDMjVEeHJDTktaUDJFcWRIc08xYUt0OTJNSWJjWlFMRUs4VVBId0p0VDQtYXdOU0YtMUt5aWVQU0JtNXMwSFlHcC1DWXowaV9OcEQ3THFOWXQ4Nlh6TXJJV3ZINjRTSWNYcWFNRHY2ajhrN0dCcWdRTGw1UHVqVjEwandOWExZbFdIdzY?oc=5\" "
-    },
-    {
       "title": "Inteligencia Artificial: apoyos, rechazos y expectativas en Argentina y otros 20 países relevados en un estudio internacional - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDFqeUFXZ2t2MEFnMmdTYVlaa1YycjhFNWIwX1pGaHp6SWtweGZSR3R2em1fQl9qeUFleHc3dnJVNjlrR0VRclUyNEprbjNPdE1KTWQ5R1JyZzFJbXdEVUpaQlVYSDd4eHRkZEN2aV9jNENzMlJ5eUpGcl8wRi1SblNtX2k1NkFLQnNOai1yWmVmaXZOdld6SU9HelRtbE5KbGx1aTVJY2hmdGJORWpYZzRfMkJxTHg1SDg4djV6UEYtUmlPNHg2Rm8xSUE4V0ZNMXcwMW9yOUYtTVJackQzTE55Zm5rWXBPUzdzNVNfbHBwSm1rODRCY0ZlMFfSAZcCQVVfeXFMUGZvR2tqcEY4TDk1cElZelVUMmdNOFFUN0QtSl9JX2JSbE9RWE5WakZETFh4Q3RGeHU1NWpFZjhJMk9LUEI4TllpamZaWVQ5NTJoTzRmMWRNOS1oUmxGYWNnQTdKOUJyYmhZWkFjQmowbG83cXdLQ1NyR0M5bW1ZMDNNR01mOG1GemFBbURFT1FXVlAzWWU0RjJ1cUc4aXRxNUJLMEN5NGtnNzA5dnR2MUpwOFVCODFXcjJtdkdjVXNYUjdNQkFPQmxHbGZ5d3QzQUxkbkhwOWhESTVFZU5fNGdGNWtKQV90M1haS1dQNThqdU90OElCSW5XelUyVVd2cUxVRmlGdUxVZmE3aVp5b2lRNi16TG9F?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 17 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaDFqeUFXZ2t2MEFnMmdTYVlaa1YycjhFNWIwX1pGaHp6SWtweGZSR3R2em1fQl9qeUFleHc3dnJVNjlrR0VRclUyNEprbjNPdE1KTWQ5R1JyZzFJbXdEVUpaQlVYSDd4eHRkZEN2aV9jNENzMlJ5eUpGcl8wRi1SblNtX2k1NkFLQnNOai1yWmVmaXZOdld6SU9HelRtbE5KbGx1aTVJY2hmdGJORWpYZzRfMkJxTHg1SD"
+    },
+    {
+      "title": "OpenAI y Sur Energy anunciaron la construcción de un data center de IA en la Argentina: qué beneficios y desafíos plantea - Chequeado",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFNmeDdBTUNKTDJDWmoxWVZ3Sm85UVI5X1l1V2dWQS1jUzVPb2pEM2hoXzMwTVdtRzBLSndseDc3VE9YWlFMcVM3UDdQOFFpS0YxZVh6QVQ4cFNPd1lYbV9CeF9STFJzUlVyWmxKQzdVWFppV1ZfUWFVVmdrTzFiXzQyaTNCUUVyQmlqYUZyNU9mVWhET19OOVBQOHdIa1pUaUJyWUNINTB6WTJUWS1ndmFsZ2p5X1pFbEtmVURpQm9lWHhza0h3bVVDVU9jbEhaZkNiU2Z0elFZMndaeVhnWmRfMVNtaEFPTnQtUXU3QUZCSkZNanl0bHBBSQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFNmeDdBTUNKTDJDWmoxWVZ3Sm85UVI5X1l1V2dWQS1jUzVPb2pEM2hoXzMwTVdtRzBLSndseDc3VE9YWlFMcVM3UDdQOFFpS0YxZVh6QVQ4cFNPd1lYbV9CeF9STFJzUlVyWmxKQzdVWFppV1ZfUWFVVmdrTzFiXzQyaTNCUUVyQmlqYUZyNU9mVWhET19OOVBQOHdIa1pUaUJyWUNINTB6WTJUWS1ndmFsZ2p5X1pFbE"
     },
     {
       "title": "Social Media Day Buenos Aires 2025: la inteligencia artificial redefine la comunicación y el marketing digital - Perfil",
@@ -83,29 +83,37 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
     },
     {
+      "title": "Esta startup argentina logró reducir a la mitad el uso de químicos en el agro y fue premiada por la ONU: el innovador método con desechos de langostinos - Noticias Ambientales",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmlGcGd0andhM0lWeHZTbTUwazVyR19xUVNWMzl5ZVJDVzJIUWVleVlHT3NmbmZWU25uRVpjenUzb2NsZld0c2RmQzVsOU5VZ3ZNcWc3aFM0ZjJ6OTlaTFhhVDA0OXNkNW9ObGNsSXV3Y0MwZlVwekVlMTZXZ3dFUlhEZzlIX0JWY1A4RS1PY1JOMDJhMzlRRUtGUWlGZFdmSjJSdXRzUnVTLTVSQm1DTUlqVS1GZEhJeTBnOXNrNERLdHY4ZjBNRWtZTFBvYTZuNjJqbGNSdU1iS2lWaHVsWDQ3Z05PMkN2SGxhWWVLTUdlUzVYMS0wVks2WVoxZTVKamVqUDlmMExYM0VJN045R3NYbTNDVUhITmN0UHdVdVk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Nov 2025 21:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmlGcGd0andhM0lWeHZTbTUwazVyR19xUVNWMzl5ZVJDVzJIUWVleVlHT3NmbmZWU25uRVpjenUzb2NsZld0c2RmQzVsOU5VZ3ZNcWc3aFM0ZjJ6OTlaTFhhVDA0OXNkNW9ObGNsSXV3Y0MwZlVwekVlMTZXZ3dFUlhEZzlIX0JWY1A4RS1PY1JOMDJhMzlRRUtGUWlGZFdmSjJSdXRzUnVTLTVSQm1DTUlqVS1GZEhJeT"
+    },
+    {
+      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 09 Nov 2025 03:44:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
+    },
+    {
+      "title": "Lanzar una startup tech en la Argentina de Milei, entre expectativas y riesgos - bloomberglinea.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZzNXQW1rdUp0eEsta2MtLUZwUktRd9IB4gFBVV95cUxNTC1YampodzVadGdQZ0Z4MVZUOVFmWTdyZnhNZ0ZWdzFmd2doTlVkWlJ3Tl9GUEdxV0t5TzdOcEdPT09vS1o2Q0VTS0xjbll1c0xkclFMNXdENkY3NTRYNEJaaTRQc1BrUnVaUkhVQS02M1hRNkJKZ1I2WGE4RzBOVUtNTjBmNHRzcTE0TXVsSHpaNWVFbGN4X0tYS0dqbUh3OHRYVmkxdmFWRkpmYVNJTm1JSkEycFlmMVVSVmJXS1dYODctZVRIN0d6WmkyZFI4Qzk4Ym1mVWVXZmprRnhuVEdB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZz"
+    },
+    {
       "title": "BBVA logró su transformación digital enfocada en mejorar la experiencia del cliente - BBVA",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjI4c2k4WkNUeFlGZDJMbGhJREx3ak1fUE9HdmFNOVhJZ1NZTHY3cTJLZFdVbDExRW9ISjJSXzdzQmQyeERIM2lBZ043MmxQVWpJbW9DNjFfN1lvYUxYYkV4WUNDYmlsSW82dHd5TEpDSGtBZU9TVmtJaTh0UTZrQ3plaW04ZHFvTVNaZVhwMDk5ejhWU0xZU3Bsdk5nR2FzN2VkZTc2X2VfSWhPOEpV?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 30 Jun 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjI4c2k4WkNUeFlGZDJMbGhJREx3ak1fUE9HdmFNOVhJZ1NZTHY3cTJLZFdVbDExRW9ISjJSXzdzQmQyeERIM2lBZ043MmxQVWpJbW9DNjFfN1lvYUxYYkV4WUNDYmlsSW82dHd5TEpDSGtBZU9TVmtJaTh0UTZrQ3plaW04ZHFvTVNaZVhwMDk5ejhWU0xZU3Bsdk5nR2FzN2VkZTc2X2VfSWhPOEpV?oc=5\" target="
-    },
-    {
-      "title": "TD e innovación en la participación ciudadana - Argentina - CAF -banco",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORk1WVktoTnVUQXJLNk5XaFVORk44Zk83SFVXMGxDR0R5WGNWelpYcTlzTzh6NXZoamF6YldqbmtqN2FsaGxVOXAxTk5weXFnenEyZTZWcHRNTlhJVEFLOS01R0dXOGF2VUNxeUhBcUJSWnZ3Y3RJSl9ieGlobndncW1aNmQ1VGZGOXJjU0VhOE4wTzlXbVczVS1UYkJkTmRlZ2xsTUdFeVJQMkJJaEZIeG56U2g?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 29 Nov 2024 03:24:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORk1WVktoTnVUQXJLNk5XaFVORk44Zk83SFVXMGxDR0R5WGNWelpYcTlzTzh6NXZoamF6YldqbmtqN2FsaGxVOXAxTk5weXFnenEyZTZWcHRNTlhJVEFLOS01R0dXOGF2VUNxeUhBcUJSWnZ3Y3RJSl9ieGlobndncW1aNmQ1VGZGOXJjU0VhOE4wTzlXbVczVS1UYkJkTmRlZ2xsTUdFeVJQMkJJaEZIeG56U2g?oc=5\" "
-    },
-    {
-      "title": "Mercado Libre busca liderar la moda en Latinoamérica con innovación digital - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDVtc3EzWWJZT2MwNWZ0Nm9KckVjUFdBdWRtU1huMkQxVTBybkI0QTAwNXBpT3Jhak9tNTZoQXh3emZrTGNSdGVKN09CV1ItTk84bmgzYlVjcWVON0pYTVNxMWRHM1lsNGY3TkV6bFNraTF0YkpvSmNSS25rVnJTTXFLdGV1RlBPV3RVYUVGZGZNbkNHNWhza3FtMlJha0VJSWFVTTZ0dkYyOEEwZXZ2Y0Z4VDRwaEFhcG5vbg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 22 Apr 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDVtc3EzWWJZT2MwNWZ0Nm9KckVjUFdBdWRtU1huMkQxVTBybkI0QTAwNXBpT3Jhak9tNTZoQXh3emZrTGNSdGVKN09CV1ItTk84bmgzYlVjcWVON0pYTVNxMWRHM1lsNGY3TkV6bFNraTF0YkpvSmNSS25rVnJTTXFLdGV1RlBPV3RVYUVGZGZNbkNHNWhza3FtMlJha0VJSWFVTTZ0dkYyOEEwZXZ2Y0Z4VDRwaEFhcG"
     }
   ],
-  "count": 13
+  "count": 14
 }
