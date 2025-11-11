@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Telcel, AT&T y OMV enfrentarán reto de registrar líneas de turistas en el mundial",
-      "url": "https://expansion.mx/tecnologia/2025/11/11/telcel-at-t-y-omv-enfrentaran-reto-de-registrar-lineas-de-turistas-en-el-mundial",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 11 Nov 2025 11:55:09 GMT",
-      "summary": "En pleno Mundial de futbol, los operadores deberán registrar más de 160 millones de líneas, incluidas las de turistas que arribarán al país."
-    },
-    {
-      "title": "El Padrón de telefonía aumentará los precios de telefonía móvil en 2026",
-      "url": "https://expansion.mx/tecnologia/2025/11/10/registro-nacional-lineas-moviles-encarecera-servicios-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Nov 2025 23:00:18 GMT",
-      "summary": "El registro de líneas telefónicas implicará una inversión superior a 4,000 mdp por parte de los operadores, cuyos costos se trasladarán a los usuarios, afectando principalmente a los de OMV´s."
-    },
-    {
       "title": "OpenAI enfrenta demandas por suicidios vinculados a ChatGPT",
       "url": "https://expansion.mx/tecnologia/2025/11/10/openai-enfrenta-demandas-por-suicidios-chatgpt",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "Aunque todas las empresas hablan de subirse a la ola de la IA, existen importantes barreras organizacionales que no permiten explotar su potencial."
     },
     {
+      "title": "De Iusacell a Pegaso: las telefónicas que desaparecieron en México (y Movistar puede unirse)",
+      "url": "https://expansion.mx/tecnologia/2025/11/10/telefonicas-que-desaparecieron-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 10 Nov 2025 18:08:16 GMT",
+      "summary": "El mercado de telefonía móvil nacional, con más de 156 millones de líneas activas, es uno de los más grandes del mundo y ha cambiado de forma constante desde los años ochenta."
+    },
+    {
+      "title": "El efecto Walmart: cómo Bait impulsó a los OMV frente a Telcel y AT&T",
+      "url": "https://expansion.mx/tecnologia/2025/11/09/nadie-vio-venir-lo-que-walmart-lograria-con-bait",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 09 Nov 2025 22:08:27 GMT",
+      "summary": "Con la infraestructura minorista de Walmart y su alianza con Altán, Bait ha logrado posicionarse como el tercer jugador de telefonía y competir directamente con Telcel, AT&amp;T y Telefónica."
+    },
+    {
       "title": "La inteligencia digital lidera las prioridades de los nuevos directores en México, según Heidrick & Struggles - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVFByMzVEWHhPbXNKeHdtTUNZQzdrdXl6NUY0ZnV3bDEwelhjREUwd2x4cmdTVjkwa1B1b0JOQ1NKWTUwbTdMTFRoZTJMZlNycTNKSU9MS2ZtUVp4NnJPSk1LV0lBd01qdWVDTXk2dThINHh2cWpCcmJ3Q25fdWttdEhFMHBab095Y1hueEdsQzUwVE8tZmZGcC0wY0pqamt1cDhTaUx3cDdQVnZ3WVpSYnR1QmZDSDkyZ3B6aGR1UVZNS1M5ZUxpY0RQakZFcFVlNi13RElHZkNfeWxJSXdhclE2azM1bVY4OVVkdlhicw?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSkZHcVItNVBDcEF2Q0twYTBuTHo2Wm9BeFlEengtMlRYMy1OcTcya1o1TFRxRnVtT1h0dUVJR1NYUTRXbXVfVExDOU43QlhucGQ1aDM1Qjd5bGwtb1ZLN2FORXc0a291N043dU5hOXlqMlBnT3k2MmJaTGJCY2I3QVB1R083WHY4QUZMeEpTTDBSVldDYlhoS0Q4MFlXR0xoejRwb0Q2WUt2a285N2NRVWVRZ0dJazg4dG"
     },
     {
-      "title": "El MIDE se renueva con robots e inteligencia artificial para llegar a las nuevas generaciones - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGhZMHJwUWd4RzVXVFRIV0ZJN0NTM3hVN3FJakFZWElwQXdYMHRfS2ViQlREQzh5Q3Y4VTZ1R0xjNG9PTWpraTE1U0g0SzVVOGJqUzFERndwWFhDbjNjOHo1cjE2d2xaMDdTc2tiaTd1LUZ6V3hycncxdkk4el9fWXF2MFdIWXFKT0NyZklYUlRzMnZyeURNQ1pfWkN0NDd6YXB4b0YteDU1Uk85Qnk1VUdiOXVvY0w1OVRPZlN2RWczZDV3MWpEUmRWT3puS2dK0gHkAUFVX3lxTFAzMVlaV3Q3WnlNY1A5cEFLX2l2Y2hpOExlZk15VElveFptS2ZQTWQ2UEN1b1dzODllNWNVbml2WnJMZkstNU5uYUhSYXVLR3ljOENWQW1YTmstWnNVYVdQZDJ6SEhRMW9UMWU2bzBQeWtPT0pieS1iTV80MjQxN3FJbjJkQTd1X1pNUkp0SDJ1MXFIUVpvaU42WkRGRnowVXlSVlFySW1WTHR4TWVQaWFFZXRSZjJBdXlyak1kZ2ZLeUZNdHRHaXIwMm9od0d5VFEwMTNXTVoxeGV0TFg5WjVaZFoxUQ?oc=5",
+      "title": "México lanza la escuela pública de IA y código más grande del continente, anuncia el gobierno federal - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWRDUmFtd3dEcjh2TDhWR2RlS3hTeUZEMUg5MUJfVW95VWpta1VjdDF0NXdRdVRTY0VoeGhGMDVsR2xjUWdvZEhLWENYeFhNV0YxMExJdEc0clNrcmVnSVpBRl9XTk1ScGR1MVl5VXhzeUllMXlhdUd1cmhRbjFLYjhIdzVaUTQyNzlFc0FjYmxzY3BwRjlRaWlRdFJxU3NxUHdYX0xiU3BJZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 09 Nov 2025 16:53:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGhZMHJwUWd4RzVXVFRIV0ZJN0NTM3hVN3FJakFZWElwQXdYMHRfS2ViQlREQzh5Q3Y4VTZ1R0xjNG9PTWpraTE1U0g0SzVVOGJqUzFERndwWFhDbjNjOHo1cjE2d2xaMDdTc2tiaTd1LUZ6V3hycncxdkk4el9fWXF2MFdIWXFKT0NyZklYUlRzMnZyeURNQ1pfWkN0NDd6YXB4b0YteDU1Uk85Qnk1VUdiOXVvY0w1OV"
+      "published": "Fri, 07 Nov 2025 20:19:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWRDUmFtd3dEcjh2TDhWR2RlS3hTeUZEMUg5MUJfVW95VWpta1VjdDF0NXdRdVRTY0VoeGhGMDVsR2xjUWdvZEhLWENYeFhNV0YxMExJdEc0clNrcmVnSVpBRl9XTk1ScGR1MVl5VXhzeUllMXlhdUd1cmhRbjFLYjhIdzVaUTQyNzlFc0FjYmxzY3BwRjlRaWlRdFJxU3NxUHdYX0xiU3BJZw?oc=5\" target=\"_blan"
     },
     {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",

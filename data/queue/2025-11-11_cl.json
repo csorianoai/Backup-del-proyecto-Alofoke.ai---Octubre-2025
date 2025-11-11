@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El comentado regalo de Kaiser en pleno debate: ¿qué respondió Matthei?",
+      "url": "https://www.latercera.com/tendencias/noticia/el-comentado-regalo-de-kaiser-en-pleno-debate-que-respondio-matthei/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 11 Nov 2025 14:50:57 +0000",
+      "summary": "Un cordial intercambio protagonizaron los candidatos presidenciales Evelyn Matthei y Johannes Kaiser en el último debate de cara a las elecciones del próximo domingo 16 de noviembre."
+    },
+    {
       "title": "¿Pedro Postal o Palomito? CorreosChile pide ayuda para bautizar a su nueva mascota",
       "url": "https://www.latercera.com/tendencias/noticia/pedro-postal-o-palomito-correoschile-pide-ayuda-para-bautizar-a-su-nueva-mascota/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "En una carta, el equipo legal del mandatario advirtió que demandaría a la cadena británica si no se retractaba formalmente, pedía disculpas y lo compensaba. La BBC reconoció que se cometió un error en la edición del documental, pero negó que exista intención de manipulación o parcialidad editorial."
     },
     {
-      "title": "Cuáles son los únicos sectores de Chile que tendrán lluvia esta semana, según el tiempo",
-      "url": "https://www.latercera.com/tendencias/noticia/cuales-son-los-unicos-sectores-de-chile-que-tendran-lluvia-esta-semana-segun-el-tiempo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 11 Nov 2025 09:03:00 +0000",
-      "summary": "Esta será una semana marcada por la escasez de sistemas frontales en el territorio, sin embargo, habrían precipitaciones débiles en el sur del país."
-    },
-    {
       "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5",
       "source": "Google News",
@@ -67,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5\" target=\"_blank\">Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Arti"
     },
     {
-      "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1hJYmk4MU1ZY0x1RVpKZDR6bVIxYUhjR1U5eEcwUTlOLWJ2WGVEd3NWVzhsSFYzamRZaWlZVTE1aFdsMHdOOUlySGVKb1lyaGlDZkZINEVqRHFwUlI4SVg5SlpPWFE2cG53NVBvTjBsbmZpQXJWdlFKYThZdXJsN19kUUkyY2VwUHkta3Uzek9mOURvQXZkbTdjRm05cjV1RlJSdDJoalhOYzdvSThJV19QNDRoX1JBMjQ3NVRIVmFuVGZYMmc?oc=5",
+      "title": "Conoce de dónde viene la información de la inteligencia artificial que usas: Gemini de Google, ChatGPT, Meta y más - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQnVhWVJoQnVUbjU0LXBGS0F6WGk5T09IbjFGWllkaXJiVFpyRXRNbFFDQmJaemNoVXNxWVctaF8xX0t0TFBmY1lRS3l4VFBXVG5yMEtqSzMxbTd5WHgxVEpKeXZDeVF5Tk9yblFSY1FvTVpwSXZPdG9iZXNoM0h6dGZ1MG1kVnRKazlQX3NtUWRVYXJibVpoMnhJc1Y1Qkk1eVNMRmthNmVRRkNkTGkxRnBWUHEtYWlhZDMxaUFhdl85TzFST0Z5dUl1UlFRaEhpY180a0VDRlVTaU4zem9pS1Zjd3g5OXZ50gGDAkFVX3lxTE02emRyRm91UTV4R0RjM0dTZF9ZMS0yQmRyTXg1V0dlTERHZTRxeTUxQzhEaHlBV2pzbnk1NnVkVmEzVHRnSzdpVzFmWUFkc2R1MUkwcExxQU0tYjFtVkRUcm10d3N5VHp2NWV1bUc4MXNzTXN3Y0FDd3FkNC1zQ00zMlJIcjJQdnNDY0s5MENpdHNZOF9SYTlrc2pOQlpYSXpORUtEWll2bnNiYlJhRnlFY1drNDExNjhRYVMxQ0NpRnF3TmFjVnZMWldESm1kLXg5LWxlbTBveXo5b3lHQmVyelZpalRoNHkwOURzZU5aZXlTVDZuVHhTbEtWcDBDQmE0X1E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 10 Nov 2025 13:47:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
+      "published": "Mon, 10 Nov 2025 20:02:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQnVhWVJoQnVUbjU0LXBGS0F6WGk5T09IbjFGWllkaXJiVFpyRXRNbFFDQmJaemNoVXNxWVctaF8xX0t0TFBmY1lRS3l4VFBXVG5yMEtqSzMxbTd5WHgxVEpKeXZDeVF5Tk9yblFSY1FvTVpwSXZPdG9iZXNoM0h6dGZ1MG1kVnRKazlQX3NtUWRVYXJibVpoMnhJc1Y1Qkk1eVNMRmthNmVRRkNkTGkxRnBWUHEtYWlhZD"
     },
     {
       "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnF0aGlNYWJjOWJZZFZWb25ydmFzZ1FlQU1DMGltWllaWEhIMmxOOFc5UGowVzVTU1BmLV9NdXgzYk9aREt4YnlQU21JOEEwR0xWVkdJc3hZNnJwN3dFV0YxU19VLW1tVERRTklJTXpWZGpjbUlma2hHNWRld0ZBS09MM1VUN3h2TGZLQm9Nd0ZYQjNydDBGRFdTWTdnZnRlRVHSAacBQVVfeXFMTnlpb042MHlZTHRoek"
     },
     {
+      "title": "Tres chilenos premiados por MIT: Innovadores menores de 35 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFpkQ21OVm9jNkV4ZGZLTGoyRXhKeksxN1RxRDNoMW40UkZ1aTBDTU1lSXBFWHNpWEtrZl8tcEV5YzM1YjdsWGtQNUNldHRRUkJid1RHbnB1WDY1a1gwanVLcGJ2T3NrRWhqZW12S2JrTGplOWo3cGJyb216bjNNV01fZ1ZueWhsRWxFOEJrdXJQUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 11 Nov 2025 15:04:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFpkQ21OVm9jNkV4ZGZLTGoyRXhKeksxN1RxRDNoMW40UkZ1aTBDTU1lSXBFWHNpWEtrZl8tcEV5YzM1YjdsWGtQNUNldHRRUkJid1RHbnB1WDY1a1gwanVLcGJ2T3NrRWhqZW12S2JrTGplOWo3cGJyb216bjNNV01fZ1ZueWhsRWxFOEJrdXJQUQ?oc=5\" target=\"_blank\">Tres chilenos premiados por M"
+    },
+    {
       "title": "Start-Up Chile lanza nueva convocatoria para emprendimientos de base tecnológica de todo el mundo - EntrepreNerd",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2l6Vi0zMVhtcjhLQTB1TmtwM0plN0M5M2JzNEtMbTZOVjIxTV9pR1FWRElId09UMGE4Ynd4TDFNM19wZGZRNC1zVlVKTUYtNy1TRnhVaHdsVllBU0k3dVgzdmJXMGlwWXhsWXQ0M09PWFBhaks1S01DYU9MZXFqc1FBRmlxTTdhZUwyQ3BXd3pmMXJ0S2w5OXV2NHVjb3U2WnlvWnZWd3NzSzhRQUQ3cDR2WG9zbWFmWlR6Nm9HMA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 07 Nov 2025 03:55:30 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2l6Vi0zMVhtcjhLQTB1TmtwM0plN0M5M2JzNEtMbTZOVjIxTV9pR1FWRElId09UMGE4Ynd4TDFNM19wZGZRNC1zVlVKTUYtNy1TRnhVaHdsVllBU0k3dVgzdmJXMGlwWXhsWXQ0M09PWFBhaks1S01DYU9MZXFqc1FBRmlxTTdhZUwyQ3BXd3pmMXJ0S2w5OXV2NHVjb3U2WnlvWnZWd3NzSzhRQUQ3cDR2WG9zbWFmWl"
-    },
-    {
-      "title": "UDD Ventures abre convocatoria Go Startup para emprendimientos tecnológicos - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRE1Qd3M0X2dmU0o5NTFXUUNLb21BdUE1dmFXaGxzWGdUSzNwMm9Hbi1ncGI0VldDRTd5VkFTeVAxcGVkS3lWOVBUR3ZHOTZtaURlYnkxZ1dNcmQtclFvblFsYk9vY2lWYzlYVXFFX3BaVjBGbTFFcU5zOGpZSXpFdTBaMmRPN2tvZ3gzY2pTdXBOZ3FxdGk4YlBxc0hzOXhxbU1QajZJTDlVdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 06 Nov 2025 00:22:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRE1Qd3M0X2dmU0o5NTFXUUNLb21BdUE1dmFXaGxzWGdUSzNwMm9Hbi1ncGI0VldDRTd5VkFTeVAxcGVkS3lWOVBUR3ZHOTZtaURlYnkxZ1dNcmQtclFvblFsYk9vY2lWYzlYVXFFX3BaVjBGbTFFcU5zOGpZSXpFdTBaMmRPN2tvZ3gzY2pTdXBOZ3FxdGk4YlBxc0hzOXhxbU1QajZJTDlVdw?oc=5\" target=\"_blan"
     },
     {
       "title": "Chile impulsa sus servicios de base tecnológica en Colombia con ocho startups del programa GoGlobal - Technocio",
