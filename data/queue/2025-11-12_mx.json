@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "SICT niega plan para abrir aeropuertos a Uber y DiDi rumbo al Mundial 2026",
-      "url": "https://expansion.mx/tecnologia/2025/11/11/sict-niega-plan-abrir-aeropuertos-uber-y-didi-mundial-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 11 Nov 2025 23:00:15 GMT",
-      "summary": "La SICT aclaró que no pretende permitir el ingreso de taxis por aplicación a los aeropuertos del país rumbo al Mundial 2026."
-    },
-    {
       "title": "Cómo Lenovo convierte la tecnología en una herramienta de inclusión",
       "url": "https://expansion.mx/tecnologia/2025/11/11/lenovo-brecha-digital-comunidades-vulnerables",
       "source": "Expansión Tecnología",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Tue, 11 Nov 2025 17:00:04 GMT",
       "summary": "La empresa anunció el polémico accesorio como parte de una colaboración con el diseñador japonés Yoshiyuki Miyamae."
+    },
+    {
+      "title": "Desde 2015, Amazon tiene invertidos 145,000 mdp en México",
+      "url": "https://expansion.mx/tecnologia/2025/11/11/amazon-empezo-mexico-un-centro-de-envio-10-anos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 11 Nov 2025 15:30:44 GMT",
+      "summary": "La empresa tiene una inversión acumulada en estos diez años de operación en el país que se diversifican entre nube, infraestructura y creación de empleos."
     },
     {
       "title": "Gobierno presenta Centro Público de Formación en Inteligencia Artificial: “Será el más grande del continente” - Infobae",
