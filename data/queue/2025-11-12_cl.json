@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "“Safaris humanos”: Italia investiga viajes pagados para disparar a civiles en la guerra de Bosnia",
+      "url": "https://www.latercera.com/tendencias/noticia/safaris-humanos-italia-investiga-viajes-pagados-para-disparar-a-civiles-en-la-guerra-de-bosnia/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 12 Nov 2025 20:00:00 +0000",
+      "summary": "30 años después del asedio de Sarajevo, que dejó más de 11.000 muertos, fiscales italianos investigan si ciudadanos de su país pagaron por disparar desde las colinas que rodeaban la ciudad."
+    },
+    {
       "title": "Los nuevos correos que vincularían a Trump con Epstein: qué dicen",
       "url": "https://www.latercera.com/tendencias/noticia/los-nuevos-correos-que-vincularian-a-trump-con-epstein-que-dicen/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Entre algunas de sus características, cuenta con una tasa de refresco de hasta 240 Hz, pantalla de 27 pulgadas y un gancho para cargar los controles DualSense."
     },
     {
-      "title": "Los anuncios de State of Play para PlayStation 5: juegos, DLC y otros lanzamientos",
-      "url": "https://www.latercera.com/tendencias/noticia/los-anuncios-de-state-of-play-para-playstation-5-juegos-dlc-y-otros-lanzamientos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 12 Nov 2025 12:01:00 +0000",
-      "summary": "Desde Japón fueron anunciados nuevos videojuegos, gameplays y confirmaciones de fechas de lanzamiento para la consola de Sony."
+      "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Nov 2025 08:40:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligenc"
     },
     {
       "title": "El Ejército de Chile firma convenio con el Cenia para impulsar la IA en procesos operacionales, formativos y estratégicos - Infodefensa",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Wed, 12 Nov 2025 16:35:40 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSnRfLWZ4dXJKSEdlVzBDN2N1b3Ryd3VfTlhLRTdRZDVRSXFLSmI2T1hvRnZNQmZBSzJOYm5ZbW5EeWpJQ09rQS1ON0V6dUZaMkh4M2ZVRlNSZlN3XzItZHlLUElmYmxRQmp4bkVsODZWeGtoUlQydW85VVhSMV84Zkc1TmNoM2o2XzQ4c3kzRDc5SzFLU1B2ZnpHbnBDb2lidENJUndSYTRKX1RMaUFzT0xQdjRSU1VhRT"
-    },
-    {
-      "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 06 Nov 2025 08:40:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligenc"
     },
     {
       "title": "Premio Nacional de Inteligencia Artificial: Chile PotencIA 2025 y el impulso a startups IA - El Ecosistema Startup",
@@ -83,12 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
-      "title": "La Iglesia ante la IA: “Creer no es fruto de un algoritmo” - Vida Nueva",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnF0aGlNYWJjOWJZZFZWb25ydmFzZ1FlQU1DMGltWllaWEhIMmxOOFc5UGowVzVTU1BmLV9NdXgzYk9aREt4YnlQU21JOEEwR0xWVkdJc3hZNnJwN3dFV0YxU19VLW1tVERRTklJTXpWZGpjbUlma2hHNWRld0ZBS09MM1VUN3h2TGZLQm9Nd0ZYQjNydDBGRFdTWTdnZnRlRVHSAacBQVVfeXFMTnlpb042MHlZTHRoekRhUWxoOTByTzU0VGF5RGRHbTgxVmVhOTEtaUdXMEp1MlZldk5WLTZqTXZDTnFlSzJoNUhPZEVUVEhUTEptNnQyeklMc2ZyWmQ2WnNnZ0VHYTBTTV9XR1RyQzhYOGR4X2VSVjZxSzRwMTNFOW9Mb2ZwVW5YZ3ViYzlXcTUwc3JpcTJCUWc5TWFGNmhlSWhBZU15Vk0?oc=5",
+      "title": "Microsoft elige Santiago para lanzar su AI Tour en Latinoamérica y debatir el futuro de la inteligencia artificial - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl9VX3NIZEZCNXV4YUhSaXVtRm1RZUNaNFNLbTR5U0NjSE9rcWs1OXlLTWlrbjlBYXRYQl9CNXl1TFBFTFJua0ZoUG1FbmxoTWprTjJMZlM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 07 Nov 2025 13:00:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnF0aGlNYWJjOWJZZFZWb25ydmFzZ1FlQU1DMGltWllaWEhIMmxOOFc5UGowVzVTU1BmLV9NdXgzYk9aREt4YnlQU21JOEEwR0xWVkdJc3hZNnJwN3dFV0YxU19VLW1tVERRTklJTXpWZGpjbUlma2hHNWRld0ZBS09MM1VUN3h2TGZLQm9Nd0ZYQjNydDBGRFdTWTdnZnRlRVHSAacBQVVfeXFMTnlpb042MHlZTHRoek"
+      "published": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl"
+    },
+    {
+      "title": "Santander X Award Chile 2025: startups y tecnología en el certamen global - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUozMG9xQ1h1SHM5T0pSS0RkMGxaLXpWWVpnSVVRSFk5dlNyaHpubzZQUzFKSVlNeERtRE1CVnVGejlzZ1hmRFFhamw5TXlzWkRsSlB5OUJ2cHhTTjRiVDFzSXJrMk84NkZPa3NWN3FnQWJoU1UwZlNSMnhTU3IwaWJZeDlwbmJXTThDWHJMVTA2XzdjNVpSUFhLalQzZVA0emJMMHZ3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 12 Nov 2025 20:33:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUozMG9xQ1h1SHM5T0pSS0RkMGxaLXpWWVpnSVVRSFk5dlNyaHpubzZQUzFKSVlNeERtRE1CVnVGejlzZ1hmRFFhamw5TXlzWkRsSlB5OUJ2cHhTTjRiVDFzSXJrMk84NkZPa3NWN3FnQWJoU1UwZlNSMnhTU3IwaWJZeDlwbmJXTThDWHJMVTA2XzdjNVpSUFhLalQzZVA0emJMMHZ3?oc=5\" target=\"_blank\">San"
     },
     {
       "title": "Start-Up Chile lanza nueva convocatoria para emprendimientos de base tecnológica de todo el mundo - EntrepreNerd",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 04 Nov 2025 00:41:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdUN4UUdrM25lUF9RcFBlYV9CWXVvdnhicnloNm1lcC1IZ3VyY2wwZ01Zdnl1MUNZMlhqY3BsQmZCRXdGaFZ2bkxtWlBmWWwzZWFKZWFTSHVRREMzZmd4dFVwcHBaYXJONWVOcUhveDdqYWUzVzRtNVRWMGpOb1VTdS1SRDlBWWV0bGtjQnd3a1BFdEs0czMxMG8tRlE2cnoxbkFXbENXbjduWmVaaTJ1Vk41cmQ1QmN3QT"
-    },
-    {
-      "title": "Mercado Libre lanza innovador modelo de monetización para medios digitales en Chile - diarioestrategia.cl",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlk1bFpEZUpfYk1meFVwdDRsVlgzUDhsODJLT0tyWm5vNWdESTRaVS0wdFhFbXhQQUdDbWo3UDZmMUoyQkJUN0RpalJmT3VhTTNJWXhzSjFpTE5ZWHBlSm1Da0pteWJ5TVBxR0tXSW9Dd1dwdnAyd19za29iQlhpa0VVWUVxbzNhOTVHdmNvZmd1dDRHYUVpWXRkUGhhYzBvbG9nS1Qya3l6RUo3WktVWHBmRGM2UVNveHN2alctS1RQVUkwSmZzUTlaMlI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 11 Nov 2025 17:20:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlk1bFpEZUpfYk1meFVwdDRsVlgzUDhsODJLT0tyWm5vNWdESTRaVS0wdFhFbXhQQUdDbWo3UDZmMUoyQkJUN0RpalJmT3VhTTNJWXhzSjFpTE5ZWHBlSm1Da0pteWJ5TVBxR0tXSW9Dd1dwdnAyd19za29iQlhpa0VVWUVxbzNhOTVHdmNvZmd1dDRHYUVpWXRkUGhhYzBvbG9nS1Qya3l6RUo3WktVWHBmRGM2UVNveH"
     }
   ],
   "count": 14
