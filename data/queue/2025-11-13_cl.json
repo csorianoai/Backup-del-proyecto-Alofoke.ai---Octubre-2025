@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Por qué Colombia dejará de compartir información de inteligencia con EEUU y cuáles podrían ser los efectos",
+      "url": "https://www.latercera.com/tendencias/noticia/por-que-colombia-dejara-de-compartir-informacion-de-inteligencia-con-eeuu-y-cuales-podrian-ser-los-efectos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Nov 2025 14:46:08 +0000",
+      "summary": "El presidente Petro anunció que la medida se mantendrá hasta que Estados Unidos detenga los ataques contra embarcaciones en aguas del Caribe y el Pacífico. Washington ha sostenido que estas operaciones tienen el objetivo de combatir el narcotráfico."
+    },
+    {
       "title": "Qué se sabe del objeto no identificado que cayó en un cerro de Río Hurtado",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-objeto-no-identificado-que-cayo-en-un-cerro-de-rio-hurtado/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "La capital vivirá una jornada calurosa con cielos despejados en la mañana y nubosidad parcial durante la tarde, según la Dirección Meteorológica de Chile."
     },
     {
-      "title": "El príncipe Guillermo reveló cómo manejaron el cáncer de Kate Middleton con sus hijos",
-      "url": "https://www.latercera.com/tendencias/noticia/el-principe-guillermo-revelo-como-manejaron-el-cancer-de-kate-middleton-con-sus-hijos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 13 Nov 2025 09:01:00 +0000",
-      "summary": "Durante una entrevista con la televisión brasileña, el heredero al trono británico contó las estrategias que usó para hablar del tema a sus hijos."
+      "title": "Regular la Inteligencia Artificial: ¿Qué modelo debe seguir Chile?, Ignacio Vallejos Acevedo - Diario Constitucional",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEo0TFIxM2VDS2V6QzJGRFhVY3FmeDFSd1cyTHRUeHRIU2wyRkxreFZlQTdRUGpKdW0yUTVrazJiYUhmbU5uUGJTaFdIT3l0TU9lejRwQWpacFpmOERYeEx4eVE5WXBoNm5tcTRBbHhFZFg2SFZ5czFxcUZIN3JPU2l3Nk1kTXlrcmhySVhPVHlXX3FjWEV2OFFabmdzdS02OGhsZ19kRWhENXIteEVCbHhRM3RTM3kwa2VPLVR3emVfOEdFOWg3dWZ4YW4xRkNQMWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 16:32:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEo0TFIxM2VDS2V6QzJGRFhVY3FmeDFSd1cyTHRUeHRIU2wyRkxreFZlQTdRUGpKdW0yUTVrazJiYUhmbU5uUGJTaFdIT3l0TU9lejRwQWpacFpmOERYeEx4eVE5WXBoNm5tcTRBbHhFZFg2SFZ5czFxcUZIN3JPU2l3Nk1kTXlrcmhySVhPVHlXX3FjWEV2OFFabmdzdS02OGhsZ19kRWhENXIteEVCbHhRM3RTM3kwa2"
     },
     {
       "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 10 Nov 2025 22:03:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZnZ6SFNhUl80dHl3d1NnaF9Id244ZXpLYzYwTk5rSklGLTZBNV8yeUFjdVdyZkpPQ0RzNkNQY2h0MU9pNlVTZWNhbUt4Z2NFWWR1YWxTbVp6NVlGY0dpaGprRUttT1ViUkd6QUtMNFlKVS1hRXRHNHBTQWJ0Ync3d0ZfN24tRE9NLV9zWE9sYVdoZllSUEg2cW1MZE1IVmFYa3NoTUVjODZ3V3NOYjBhUnBUSldUSXJmZX"
-    },
-    {
-      "title": "Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Artificial de la CEPAL - MINTIC Colombia",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRFo3RFdyVG9lQ3dRN0FqbS1CdER1V3Z0RjBtUE02V1gzbXZjSXhUeXBWN2pvTG9BaWVBNkM1ZVBGNmYzV0VXZHRwYjU4X3pZemNVcUVSYXV5b2VNYXlyYllGcXAwRFBMYjJj?oc=5\" target=\"_blank\">Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Arti"
     },
     {
       "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",

@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Arranca Nerdearla España con Donald Knuth, el “padre de los algoritmos”",
+      "url": "https://www.clarin.com/tecnologia/arranco-nerdearla-espana-donald-knuth-padre-algoritmos_0_wvMc9oriR9.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Nov 2025 15:09:29 +0000",
+      "summary": "<ul><li>La primera edición madrileña del evento de tecnología gratuito debuta en Europa.</li><li>Sigue viernes y sábado de forma presencial en La Nave, el hub de innovación del Ayuntamiento de Madrid, con entrada gratuita y registro previo.</li></ul>"
+    },
+    {
       "title": "El furor por el Bitcoin, el blockchain y Web3 se volvió a adueñar de Buenos Aires con los principales referentes del sector en América Latina",
       "url": "https://www.clarin.com/tecnologia/furor-bitcoin-blockchain-web3-volvio-aduenar-buenos-aires-principales-referentes-sector-america-latina_0_uNhAj1bvKD.html",
       "source": "Clarín Tecnología",
@@ -35,12 +43,20 @@
       "summary": "<ul><li>La idea es resguardar la información personal, los equipos y la estabilidad del sistema.</li><li>La misma lógica se puede aplicar para comercios que atienden al público.</li></ul>"
     },
     {
-      "title": "La industria del software, un proyecto de país",
-      "url": "https://www.clarin.com/clarin80/industria-software-proyecto-pais_0_A6azq3T5tC.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 12 Nov 2025 00:47:10 +0000",
-      "summary": "<ul><li>En 2024, la facturación total alcanzó los US$ 22.221 millones, con un incremento interanual del 13,1%. </li><li>Las exportaciones marcaron récord con US$ 2.570 millones, un aumento interanual del 2,6% y emplea  a 160.000 personas.</li><li>Los desafíos con la irrupción de la IA.</li></ul>"
+      "title": "Empleados digitales: cómo la inteligencia artificial está cambiando el oficio en las Estaciones de Servicio - Surtidores LATAM",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnNPSDBtZnZ4Qk8xcXpkVTVlQXlZRy1jaFRwVDlRcDlpTWp6YzhGTHRfRWRZWDJwRnJwYzl3Q0V6eWw5RFlRa0k0MFFpR1B1OFhqNHYtVjFhZl82XzNJR09PcFJwMk9ieGd5MEJkVFdjRnRSVGdqV0lFaVFGVDliWGFfbzhjUjlQQWJvX2tKQlJGaGlRb3cxV0FqMy1MY2RNazR3d2NlUEY4eHdkQXM4Z1pTTFpGbDRGOHFKLUZFVTY5eTUxOWJ6clVmYU5XaGhY?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 10:39:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnNPSDBtZnZ4Qk8xcXpkVTVlQXlZRy1jaFRwVDlRcDlpTWp6YzhGTHRfRWRZWDJwRnJwYzl3Q0V6eWw5RFlRa0k0MFFpR1B1OFhqNHYtVjFhZl82XzNJR09PcFJwMk9ieGd5MEJkVFdjRnRSVGdqV0lFaVFGVDliWGFfbzhjUjlQQWJvX2tKQlJGaGlRb3cxV0FqMy1MY2RNazR3d2NlUEY4eHdkQXM4Z1pTTFpGbDRGOH"
+    },
+    {
+      "title": "Las empresas que más ganan con la inteligencia artificial (y podés comprar en Argentina) - iProfesional",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPclB5VFRfNUhnOEV5SFI4RklwVkx1WWR2cUZXNlV4aWNRdHBkOVJTajExajlKem4yTF9YeUhmLVA0MkFEc3d6UXlxU0Q5MmJiRzVSVU9YWG9IeFM2MmxDV1BTeTM1NmduaTAzRl9VX2gzc19kczBBX1N3elo1UVNxNGpoNk54dDVkbHRDaHJNNWh6dkJJVHVELUhrSUo5MEZHZER0Q3NiUXlZc0dVZi0zaXR4a1J6ZnJjd1VveThrN2VJYnROaG9XWlBYSdIB0AFBVV95cUxQVXF1cGNac0VLVDZubWRZcXd1RkswdTZVTElXcy1ndEZhdXRqTFNBdDQ0ejEwZ2tDV0xtN1ZQUDJ2Y1JiWktnQmlaa2tfS3ZTV3A5Mm11MVVkb1lMendJRlpKMi0wZXg2NnI1UGZpU0Y3Zk1hS2VlY3JvVmNMeXNmdjBTaFB3UFNadkdDNHlYdmo4djYybEVNVXpEWDVGMnFhRVNpeWQtRzhlTEZ5WmlwT0Fvd3FHUlYtamRQLTFUbUZBY0dSMWhVZF9BVUVqekdI?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 13:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPclB5VFRfNUhnOEV5SFI4RklwVkx1WWR2cUZXNlV4aWNRdHBkOVJTajExajlKem4yTF9YeUhmLVA0MkFEc3d6UXlxU0Q5MmJiRzVSVU9YWG9IeFM2MmxDV1BTeTM1NmduaTAzRl9VX2gzc19kczBBX1N3elo1UVNxNGpoNk54dDVkbHRDaHJNNWh6dkJJVHVELUhrSUo5MEZHZER0Q3NiUXlZc0dVZi0zaXR4a1J6ZnJjd1"
     },
     {
       "title": "La Inteligencia Artificial predijo qué artistas internacionales podrían llegar a Argentina en 2026 - Ambito",
@@ -51,28 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVVIeERPTmJVa0Z1clItT1FGQnAwTW5vQ3EwS3pfY3o3THpaeVRVdmhJTUxhUXJsMWZsaWdhekJEQTlhUjNSTHlvOFRJNUY2bzJBdzZhY00yNmwxRGdpOS0yc3JoekpIMlgwMXhHVTBOdngtSF9vVkVSa192TDVPMUpqdWlydWNJbGxQaHpwemxqemxiLTZ3R0dTS3Z4U2tTN2FIMURvaDdQZFh5M1hFWlJ3Z0NDS3FLNF"
     },
     {
-      "title": "SAIACONF 2025: Argentina debate el impacto geopolítico y ético de la inteligencia artificial en la región - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDNyRDRGd1ZCeDFCbWxjNnhYQnRCQjQwRmNuRW1LcHBYbEtkcEhRODlpQ3YzZldvNmVXb2RlZy1ZUVdyajZIQmhFMFUzTHROM3draGdwNE1DQ2d2azMtaGVRWjlsUGFoRzhyeU5CRzZVeEVndmlNT0hPR3BDb2tOdjZjTkVENzRVS2ZhTDFXMm5ZY2xzM0ZjOGR5VEktY0dmczF3TGhRSEpMVEptN2NRbGJnQ3NCV2Y5bUp2cG9wQTFMSkc0VXh0ald6dkQ3djkxb3k4a3R30gHbAUFVX3lxTE1GdlBnTnBtVWM3bW9ueDlTdEJ0NEdUUzdUVGpkTktXNUtyQ0htVjNaUFE1V0o2b2JIc29kNUxYOHFnTkM3VXd4M1dJSjRyWGZ1STJoOEd0Y2VLU3B0eENqV0xDS2s4dzhacUFFU0dMcnU0X3VGaXozQVlxZHBsNTFyQ2VGRENZVVY5UDFNY0hjU0ZhRFZ1eHJtM2NtUnhEeHdMYm56MVEtSXRoNFlXbS1ER2RnYTZBT0lfWm1ZLVFod0VWMFhaMUQtNEpyS0NkVUZoZXhFNndFektETQ?oc=5",
+      "title": "El Social Media Day Buenos Aires adelantó las tendencias sobre Innovación y Creatividad con IA - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbGw5Q2ZqY2I0WVhEOU5tQ0JEUWNNT0h5WEdNX0F6Ny1xeVZzX1EyUWVGbjBlSzNQR3VmWWtMZHUwdy1CZ0EzMlBmT2JxallZOGlfS2NjV2Zob2dCZ3JIVHE4eS1kMGxpdnBHRVE1MHdWTUtiQkItRFZfTU9MZ3FMN1dicm5xZWcyZ20yLW1LNnNoaFNYSDFuWTl6bnlYbzc2YkVrVzEtbGNxQUFPeEpmRTFGc1NJb2FjVTkwcm5HZ1VTMTJic0w3OGpXdW9EVE1YUjhfSmJadlJrRUJ0WGZkMngtdmJmQ2dHTHFhb1Vn0gHzAUFVX3lxTE44b3EyaTg2TmJFUUFpbFh6SWFUek5Cd2NTOTB3REI4TnNHd2pMV3RGbDRMc2xDSHZwX0pjZHBEZGEyenRyWmlodHlJU1hieHl3MmoybTRJWWd4ME5oQnlxTDY1d2QtVjhKS2VjMVFrT25yUDU5ZjhJV25BRWZXNE5nZmplQWdnei1DbU5iSHpERW1POXg4T1EtNlVqTUpFRDBlLU1md2JJLWlIdDRKemcxV2ZydmVUeTVuRXo2LVZQT2QyM2VoYjhsWEdxb1ljblNZTDNUMk1qTEtHWlBkVy1qUTdiNlNVRWJhdjh2Sk5zSjUtQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 12 Nov 2025 19:31:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZDNyRDRGd1ZCeDFCbWxjNnhYQnRCQjQwRmNuRW1LcHBYbEtkcEhRODlpQ3YzZldvNmVXb2RlZy1ZUVdyajZIQmhFMFUzTHROM3draGdwNE1DQ2d2azMtaGVRWjlsUGFoRzhyeU5CRzZVeEVndmlNT0hPR3BDb2tOdjZjTkVENzRVS2ZhTDFXMm5ZY2xzM0ZjOGR5VEktY0dmczF3TGhRSEpMVEptN2NRbGJnQ3NCV2Y5bU"
+      "published": "Thu, 13 Nov 2025 14:12:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbGw5Q2ZqY2I0WVhEOU5tQ0JEUWNNT0h5WEdNX0F6Ny1xeVZzX1EyUWVGbjBlSzNQR3VmWWtMZHUwdy1CZ0EzMlBmT2JxallZOGlfS2NjV2Zob2dCZ3JIVHE4eS1kMGxpdnBHRVE1MHdWTUtiQkItRFZfTU9MZ3FMN1dicm5xZWcyZ20yLW1LNnNoaFNYSDFuWTl6bnlYbzc2YkVrVzEtbGNxQUFPeEpmRTFGc1NJb2FjVT"
     },
     {
-      "title": "AI in Latam 2025: la inteligencia artificial como motor del cambio en la región - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPblRnSFlySzJuZGVlLXQ2U3FCUFNJNnd1aDRhVzlwVWR5MUVUV3M3VGY2X0hlSmQwZnppanYybERncjNaUzBBS3ZOQnVSSjd4YWNtUjFfTWdQWTZZYXd4TU5MRHltVWxKMDUxTURsOVJOTFdUTG5Jc1VpS2V4ZHVnRXVCc0ZTMDFySlpiMXYyTWgyRUpkcmFlZGJKam15OVVRM2ZhWk45Y2t4akVwazFRVnhNdThIcTFVcFh1NmhWVURIUVFMS2VNVVhR?oc=5",
+      "title": "El Social Media Day Buenos Aires pone a la IA en el centro de la estrategia digital - EXTRADIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYlptLUozS3VXRHgwelNnOGlrOXFZaUxacnd2X3k4VjZ2cG5iS05MXzd4NzVSajdYeWlpcUQ4OTR5OEFpeENKQmMyamJhc2NWb0UxbEl6STRyNTVMbE1qOGc2QTMyT2lLa25yQldEQlJBbFJfcWgwSnpCR1ZKcDRfSVZtRjJCSTM5OGp4WTBtMTZpb0dCamlzb1o4YWhRbWxyR0U3cWg4enliVVU4ZlRzVkJmSlo5ZlF2OW9wMy04MA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 12 Nov 2025 16:02:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPblRnSFlySzJuZGVlLXQ2U3FCUFNJNnd1aDRhVzlwVWR5MUVUV3M3VGY2X0hlSmQwZnppanYybERncjNaUzBBS3ZOQnVSSjd4YWNtUjFfTWdQWTZZYXd4TU5MRHltVWxKMDUxTURsOVJOTFdUTG5Jc1VpS2V4ZHVnRXVCc0ZTMDFySlpiMXYyTWgyRUpkcmFlZGJKam15OVVRM2ZhWk45Y2t4akVwazFRVnhNdThIcTFVcF"
-    },
-    {
-      "title": "El Social Media Day Buenos Aires adelantó tendencias de Innovación y Creatividad con IA - TOTAL MEDIOS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3VDbXlNcWpWTGs4N1NXYXNYUVVCb0p5c1hVWTBMNkhGVW5sRHRYSmFYWHpMX2hKeEJTUGdLYkVxUGlMVU9aajBLR2ZYcmhfSnctektJM21WbmpKVGJhNnpYWi01bDNVRHNpUEk0NjFGWllrZTBCeGxqMGdGV0dCRjQ1UzBBNjZCaUcwVklkMk82dmhTNFRfU09fcEFtMmNuMzVnRXV6UFl0QnpnUzdMNHZIS0I5NFBadHBzemtITko1WFp0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 13 Nov 2025 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQS3VDbXlNcWpWTGs4N1NXYXNYUVVCb0p5c1hVWTBMNkhGVW5sRHRYSmFYWHpMX2hKeEJTUGdLYkVxUGlMVU9aajBLR2ZYcmhfSnctektJM21WbmpKVGJhNnpYWi01bDNVRHNpUEk0NjFGWllrZTBCeGxqMGdGV0dCRjQ1UzBBNjZCaUcwVklkMk82dmhTNFRfU09fcEFtMmNuMzVnRXV6UFl0QnpnUzdMNHZIS0I5NFBadH"
+      "published": "Thu, 13 Nov 2025 17:10:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOYlptLUozS3VXRHgwelNnOGlrOXFZaUxacnd2X3k4VjZ2cG5iS05MXzd4NzVSajdYeWlpcUQ4OTR5OEFpeENKQmMyamJhc2NWb0UxbEl6STRyNTVMbE1qOGc2QTMyT2lLa25yQldEQlJBbFJfcWgwSnpCR1ZKcDRfSVZtRjJCSTM5OGp4WTBtMTZpb0dCamlzb1o4YWhRbWxyR0U3cWg4enliVVU4ZlRzVkJmSlo5ZlF2OW"
     },
     {
       "title": "Tecweek IA: el día que la inteligencia artificial se puso en el centro de la conversación - Buenos Aires Ciudad",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Wed, 12 Nov 2025 19:55:52 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXY1bHJEVV9FaE1vZFBvT0xYdXU1UE95T3JEWmdnNTcxWmRzUDdXUjlyazNNQkdSYnFQa2l4b1ZkeGJjeTlJaW9xOURUWXpyUzNTNFE3YktSMU5JR0QtTndhQkc0TmlkUFA5cEJTV2NKX2pCUkwtb3dFYUM1bmpYd1dMZE10QjVqUGo1dzNXcE1ZUmdFQ21JdHNMZnFURGg1c0prb202alVHQWJfSnNQZ2Zia3ptd0Ja?o"
-    },
-    {
-      "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aUlpdXRiNFc0TFE1Uzk4ZXRRcWdRRHpsTGZ1Q2Uta2RsakJFQzhyVdIB6AFBVV95cUxPQy1VNFF1VktzZXlJWWROaEk1TmFsN0ZtTHdhVzhocFRtTzJsS3lYMU95NF9veXp2Tld2WS1JbkFWZ0J2dnFteUw3ZklmLThGenhndERWQXZCTV9tUHd4cEZITjJ4ZjNKdlc4ODV3Ul81UmZMMzJMQ1p1YzF6djRmaFdJVVY2RnBWNk9GUjhBNmlRbGdaaHh1QWh4UjVqRHNPTy1IUGR2V2ZHMGlYR3U4VnJSaTk0Y3EtdHp2aGxZaXZRMkNpdEJsM3EzXzRjVUdURVV6ckZRa0FoUXZCYXhMdU1WQk9YdmlL?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 13 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
     },
     {
       "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZz"
     },
     {
-      "title": "Esta startup argentina logró reducir a la mitad el uso de químicos en el agro y fue premiada por la ONU: el innovador método con desechos de langostinos - Noticias Ambientales",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmlGcGd0andhM0lWeHZTbTUwazVyR19xUVNWMzl5ZVJDVzJIUWVleVlHT3NmbmZWU25uRVpjenUzb2NsZld0c2RmQzVsOU5VZ3ZNcWc3aFM0ZjJ6OTlaTFhhVDA0OXNkNW9ObGNsSXV3Y0MwZlVwekVlMTZXZ3dFUlhEZzlIX0JWY1A4RS1PY1JOMDJhMzlRRUtGUWlGZFdmSjJSdXRzUnVTLTVSQm1DTUlqVS1GZEhJeTBnOXNrNERLdHY4ZjBNRWtZTFBvYTZuNjJqbGNSdU1iS2lWaHVsWDQ3Z05PMkN2SGxhWWVLTUdlUzVYMS0wVks2WVoxZTVKamVqUDlmMExYM0VJN045R3NYbTNDVUhITmN0UHdVdVk?oc=5",
+      "title": "Startup argentina Wizor conquista la NASA: Impacto y tecnología - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmNwNkJ1bEs2dE1FclNlTWE3Q1JWWGFuSmVoTVNyWnJ4Y2l6a19BM3ZXM2FPVmZlU3JyUlBxMTJ0S1hOT2gwN3I0THZ3RUtKSHgtZldCRUotV21TVmlJRTFhRGM2VVQ3d18yUlhaZDRidUJ2WnlWMWtOb1JyMVI3U3dGbG9RWUlQdmhvZERCMnM5YldFWHVaVg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 06 Nov 2025 21:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmlGcGd0andhM0lWeHZTbTUwazVyR19xUVNWMzl5ZVJDVzJIUWVleVlHT3NmbmZWU25uRVpjenUzb2NsZld0c2RmQzVsOU5VZ3ZNcWc3aFM0ZjJ6OTlaTFhhVDA0OXNkNW9ObGNsSXV3Y0MwZlVwekVlMTZXZ3dFUlhEZzlIX0JWY1A4RS1PY1JOMDJhMzlRRUtGUWlGZFdmSjJSdXRzUnVTLTVSQm1DTUlqVS1GZEhJeT"
+      "published": "Sat, 01 Nov 2025 17:10:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONmNwNkJ1bEs2dE1FclNlTWE3Q1JWWGFuSmVoTVNyWnJ4Y2l6a19BM3ZXM2FPVmZlU3JyUlBxMTJ0S1hOT2gwN3I0THZ3RUtKSHgtZldCRUotV21TVmlJRTFhRGM2VVQ3d18yUlhaZDRidUJ2WnlWMWtOb1JyMVI3U3dGbG9RWUlQdmhvZERCMnM5YldFWHVaVg?oc=5\" target=\"_blank\">Startup argentina Wiz"
     }
   ],
   "count": 14
