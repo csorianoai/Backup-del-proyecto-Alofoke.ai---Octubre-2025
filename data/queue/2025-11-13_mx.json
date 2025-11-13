@@ -3,30 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "OpenAI lucha contra la orden de entregar conversaciones de ChatGPT",
-      "url": "https://expansion.mx/tecnologia/2025/11/13/openai-se-rehusa-entregar-conversaciones-chatgpt",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 13 Nov 2025 18:29:57 GMT",
-      "summary": "OpenAI debe entregar 20 millones de registros de ChatGPT por una demanda por infracción de derechos de autor presentada por diversos medios, entre ellos The New York Times."
-    },
-    {
-      "title": "No, Nvidia no invertirá en Nuevo León, pero sí llegará con su tecnología de IA",
-      "url": "https://expansion.mx/tecnologia/2025/11/13/nvidia-no-invertira-nuevo-leon-pero-si-llegara-tecnologia-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 13 Nov 2025 18:00:30 GMT",
-      "summary": "Aunque el gobernador Samuel García anunció una inversión de 1,000 mdd por parte de Nvidia, la empresa aclaró que no destinará capital al proyecto, este correrá a cargo de CIPRE Holding y D1-GDC."
-    },
-    {
-      "title": "Disney pierde 4 mdd a diario por disputa con YouTube TV",
-      "url": "https://expansion.mx/tecnologia/2025/11/13/disney-pierde-millones-de-dolares-disputa-youtube-tv",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 13 Nov 2025 15:00:24 GMT",
-      "summary": "Analistas prevén que el conflicto, limitado al mercado estadounidense, podría marcar un precedente para futuras negociaciones entre plataformas y estudios."
-    },
-    {
       "title": "La nube será la verdadera sede del Mundial 2026",
       "url": "https://expansion.mx/tecnologia/2025/11/13/la-nube-verdadera-sede-mundial-2026-prueba-de-estres",
       "source": "Expansión Tecnología",
@@ -43,6 +19,38 @@
       "summary": "Quien tenga una Uber Pro Card  podrá acceder a sus ganancias de forma inmediata, solicitar créditos personales y financiar smartphones desde la app."
     },
     {
+      "title": "Sheinbaum pide a la CIRT reunirse con Comisión para hablar de la reforma electoral",
+      "url": "https://expansion.mx/tecnologia/2025/11/12/sheinbaum-pide-a-la-cirt-reunirse-con-comision-para-hablar-de-la-reforma-electoral",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 12 Nov 2025 22:04:17 GMT",
+      "summary": "La mandataria pidió a los afiliados de la CIRT, que agrupa a empresas como Televisa y TV Azteca, para hablar de los tiempos en medios de comunicación de la reforma electoral."
+    },
+    {
+      "title": "AT&T no comprará espectro para ampliar cobertura en el país por altos costos",
+      "url": "https://expansion.mx/tecnologia/2025/11/12/at-t-no-comprara-espectro-para-ampliar-cobertura-en-el-pais-por-altos-costos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 12 Nov 2025 19:30:19 GMT",
+      "summary": "Mónica Aspe, CEO de la empresa, dijo que el esquema actual de precios de espectro hace imposible adquirir bandas para 5G, a pesar de el nuevo regulador propone descuentos, pero sin mayores detalles."
+    },
+    {
+      "title": "Nuevo León tendrá un nuevo data center e inversión de 1,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2025/11/12/nvidia-apuesta-por-nuevo-leon-construccion-data-center-verde",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 12 Nov 2025 18:30:56 GMT",
+      "summary": "Samuel García, gobernador de la entidad, anunció una inversión de 1,000 mdd, al tiempo que el gobierno federal anunció una iniciativa para impulsar la industria de IA en el país."
+    },
+    {
+      "title": "México vs Argentina Sub-17: la inteligencia artificial proyecta un duelo desigual en Qatar 2025 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmNzX1AtMWFkcGtvMjdJLThVNkdEbHc0NlVYNG5tUU1JbW1qYkx2T0xMdDB1UjlQWFprRi10RkR5aWtTUUh2OXhyd2g0M2xrZFZRclgzV1hGS3lZaEFudV9yek1VRjRlVVdraG5pQjdoOHJWSjNtenFQWTkxd0pONWoybXFma3dYeWVncDBtcXQyV010V2NLalFyUklmS3pmLTBlN2VTaEFycEdCNFBSalR1cG9wWjFEVFB5Nk91aFZkNHAyeUk4dEF5Mi1YbVJHZHNnWXlmUExaZW1naE1j0gH6AUFVX3lxTE5pZFFIMDVHVi1DUmdxQjVEV3NqTEpqTFB5OXhMT3BDLWVrLUFJbEJQRXgxdThQd2JqVkRtNzdrYkZhaDFkUkZHOTc0ZzF1M2V5clRIMTBrMWxuYzlTeV9BNzNIelJLMmFDRDF3bXlaaExjVUZRcnRPVlZOQTdTWDd3QTV1ZUVIcXpJRFktc254ZFRtRjR2blRad1R3eUVLQUEwN2JRYS14czVfeWlLdHMzWlBicFJyZ3VYbWwtd1R4bVNycjRRZjhYbU1ENnVzOXc0S3JMUlp6bk5xZS1CQTVvREZha2tjVmpibzlyV1RuZmxDZExBZEpBQ1E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 21:40:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmNzX1AtMWFkcGtvMjdJLThVNkdEbHc0NlVYNG5tUU1JbW1qYkx2T0xMdDB1UjlQWFprRi10RkR5aWtTUUh2OXhyd2g0M2xrZFZRclgzV1hGS3lZaEFudV9yek1VRjRlVVdraG5pQjdoOHJWSjNtenFQWTkxd0pONWoybXFma3dYeWVncDBtcXQyV010V2NLalFyUklmS3pmLTBlN2VTaEFycEdCNFBSalR1cG9wWjFEVF"
+    },
+    {
       "title": "Trabajadores mexicanos consideran que análisis de datos y elaboración de reportes serán las tareas más reemplazables por la IA - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQlJGa3VIOHpnSXYtMzA3eVc3VFhVQWd2cDI0OS1qR2FTN3RNLVlGWnl3V0toaWk5LVdZWVlFY1FpeTNlTEFCMFdLbXNweHlZQ0g3cmFHTWhWSFhtLUgwV3BwOVNrZmVxTXByMWFZbS1QazA4RmFYTEdtcHNiWnAyZnAxNUwtQ1BxLXpUVFE2bnRpbnZQVENDdEJNWG5lcXlZcFlhMlpWaHJlRWNBM2lyaFVreGRQem5KTHVoUjJwZmo0SFVRcTBoRkFRa3FIalBjcm5SbkJmRU1qM3NsVThQYVRZV2pvM2x2all4NWhpN0ttaXI2WGdYZ3NqeUZyQkRCRkFKa1RCN2JIQQ?oc=5",
       "source": "Google News",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNQlJGa3VIOHpnSXYtMzA3eVc3VFhVQWd2cDI0OS1qR2FTN3RNLVlGWnl3V0toaWk5LVdZWVlFY1FpeTNlTEFCMFdLbXNweHlZQ0g3cmFHTWhWSFhtLUgwV3BwOVNrZmVxTXByMWFZbS1QazA4RmFYTEdtcHNiWnAyZnAxNUwtQ1BxLXpUVFE2bnRpbnZQVENDdEJNWG5lcXlZcFlhMlpWaHJlRWNBM2lyaFVreGRQem5KTH"
     },
     {
-      "title": "Empleabilidad en inteligencia artificial México guía 2025: - KeepCoding",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ09GLTdDeHJXcUl6c0Vld3hWZTA0RlFFYnVVQ0loTVFETDdWYWlNMDRMZmlheElJTlVQa1lDa0Y2LTRReVV5SnFaMXpvZzFsZWR0bm9leUJkUlJZd1k3TmtfZnU0cmd3UDBLZFpPVmhaRVRzRlFDY1ZzSVVTYVpQRQ?oc=5",
+      "title": "IA, gaming y omnicanalidad: las fuerzas que impulsan el consumo digital en México - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUQwZHJZUXFvWVpQU1hEekJyellrTTRlUlJOLUFudGhiZUR4SUVMeG5XZGhsTFdoQ24xdFBzY19RNkZXbmVoVURrbUlWT3hHTTlXMVA2cHRGMGpZRVdDckxWTGJKNktTWnREQ04xUlUzWU0zVTNyZFhoZlR6a2p2eTlBU1VOWHVwSUtqSFlFLVVoU0xkaFdWclZfQjViRE13N0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 11 Nov 2025 13:24:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ09GLTdDeHJXcUl6c0Vld3hWZTA0RlFFYnVVQ0loTVFETDdWYWlNMDRMZmlheElJTlVQa1lDa0Y2LTRReVV5SnFaMXpvZzFsZWR0bm9leUJkUlJZd1k3TmtfZnU0cmd3UDBLZFpPVmhaRVRzRlFDY1ZzSVVTYVpQRQ?oc=5\" target=\"_blank\">Empleabilidad en inteligencia artificial México guía "
-    },
-    {
-      "title": "Inteligencia artificial que replica el sistema inmune de los tiburones: México innova en biotecnología - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUFIakl6VEJVY2V1UjRTdXZhSFVNUDh2aXBlazd4X2lSQVloSXlHdmFPa3MzcDdHb2JuTTRuRldkTXhHdnNJUDByUFlTVTY1T2NRVUREci1PQm9hd0lzeHhBLXo2Q2wxMjE0Nmw0cTBieERWS3UxZFBqdGZGQUpHdklxMVpManVhWktsNEMzTHdQSHFRMEhLdjhkUl9iVTdaekJBY192bTZjR0s1NEZta19vOVlwYUVUQlFkNnI3VUF6bjB4T01sWTBVblBWM3lxVVJBR0prQlNEazB1RXFwdjRFVkJud9IB-gFBVV95cUxPU2x0eWd0Z01UZVBlMmNaRUVxWHdGSWVXNjJLR1BaSXd6aTRHWlR4dnUyY2ZvMDdGUkpQRDQ1Q2swQ1UyUnI3czRJYWpGSjBvalhoaVJOcGNxV2dBN0RCaGhJQnJfZjFjYVhtZGlncjVndWlpVXFKNTU1NnlOYlBmSHU2UXVwX0JVTFN3YVl0M2IzVTBMc3lBQVI1NGpuTXgxR203UDBBeW8zeFROeEZkbU1OZG94VE1Ja25jWWxQdGQ4UkZrcnRMVUlnR1hqYTBoVnZGc3pJNXBGTVpQLXg3cXB2MUdVdW94XzlFUGxsZXdsblYzUTBzd2Z3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 03 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRUFIakl6VEJVY2V1UjRTdXZhSFVNUDh2aXBlazd4X2lSQVloSXlHdmFPa3MzcDdHb2JuTTRuRldkTXhHdnNJUDByUFlTVTY1T2NRVUREci1PQm9hd0lzeHhBLXo2Q2wxMjE0Nmw0cTBieERWS3UxZFBqdGZGQUpHdklxMVpManVhWktsNEMzTHdQSHFRMEhLdjhkUl9iVTdaekJBY192bTZjR0s1NEZta19vOVlwYUVUQl"
+      "published": "Thu, 13 Nov 2025 20:15:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQeUQwZHJZUXFvWVpQU1hEekJyellrTTRlUlJOLUFudGhiZUR4SUVMeG5XZGhsTFdoQ24xdFBzY19RNkZXbmVoVURrbUlWT3hHTTlXMVA2cHRGMGpZRVdDckxWTGJKNktTWnREQ04xUlUzWU0zVTNyZFhoZlR6a2p2eTlBU1VOWHVwSUtqSFlFLVVoU0xkaFdWclZfQjViRE13N0E?oc=5\" target=\"_blank\">IA, gami"
     },
     {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
