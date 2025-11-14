@@ -3,36 +3,20 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Bet365 y Betano, bloqueados en México: ¿por qué no se puede entrar a su sitio web y qué pasa?",
-      "url": "https://expansion.mx/tecnologia/2025/11/13/bet365-y-betano-bloqueados-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 14 Nov 2025 14:35:18 GMT",
-      "summary": "No se cayeron. 13 casas de apuestas fueron bloqueadas por la Unidad de Inteligencia Financiera en México."
-    },
-    {
-      "title": "Personalización del sueño, la clave de la tecnología para el bienestar",
-      "url": "https://expansion.mx/tecnologia/2025/11/14/personalizar-sueno-combatir-insomnio-tecnologia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 14 Nov 2025 11:55:33 GMT",
-      "summary": "Para dormir bien no basta con obtener métricas, sino también usarlas para personalizar toda la experiencia nocturna, una propuesta que asumió Eight Sleep con su ecosistema de productos para mejorar la calidad del sueño."
-    },
-    {
-      "title": "La tecnología transformó la vida en NL; la IA es el paso que sigue",
-      "url": "https://expansion.mx/tecnologia/2025/11/13/la-tecnologia-transformo-la-vida-en-nl-la-ia-es-el-paso-que-sigue",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 14 Nov 2025 01:15:55 GMT",
-      "summary": "Pagos sin contacto, una cultura de innovación y la ejecución de alianzas para tener una visión fresca son las claves para tener innovación constante."
-    },
-    {
       "title": "Nokia revive con la IA de Nvidia para telecomunicaciones y Data Centers",
       "url": "https://expansion.mx/tecnologia/2025/11/13/nokia-ya-no-fabrica-celulares-busca-infraestructura-ia",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Thu, 13 Nov 2025 21:00:08 GMT",
       "summary": "Nokia renace en el mapa con el apoyo de Nvidia, desarrollando nuevas tecnologías en telecomunicaciones y data centers que serán probadas en su nuevo laboratorio."
+    },
+    {
+      "title": "Bet365 y Betano, bloqueados en México: ¿por qué no se puede entrar a su sitio web y qué pasa?",
+      "url": "https://expansion.mx/tecnologia/2025/11/13/bet365-y-betano-bloqueados-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Nov 2025 20:57:18 GMT",
+      "summary": "No se cayeron. 13 casas de apuestas fueron bloqueadas por la Unidad de Inteligencia Financiera en México."
     },
     {
       "title": "Google es demandada por usar Gemini en Gmail y otros canales privados en secreto",
@@ -43,6 +27,22 @@
       "summary": "Google enfrenta una demanda por activar Gemini AI en Gmail, Chat y Meet sin consentimiento de los usuarios, lo que puede rastrear ilegalmente las comunicaciones privadas."
     },
     {
+      "title": "OpenAI lucha contra la orden de entregar conversaciones de ChatGPT",
+      "url": "https://expansion.mx/tecnologia/2025/11/13/openai-se-rehusa-entregar-conversaciones-chatgpt",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Nov 2025 18:29:57 GMT",
+      "summary": "OpenAI debe entregar 20 millones de registros de ChatGPT por una demanda por infracción de derechos de autor presentada por diversos medios, entre ellos The New York Times."
+    },
+    {
+      "title": "No, Nvidia no invertirá en Nuevo León, pero sí llegará con su tecnología de IA",
+      "url": "https://expansion.mx/tecnologia/2025/11/13/nvidia-no-invertira-nuevo-leon-pero-si-llegara-tecnologia-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Nov 2025 18:00:30 GMT",
+      "summary": "Aunque el gobernador Samuel García anunció una inversión de 1,000 mdd por parte de Nvidia, la empresa aclaró que no destinará capital al proyecto, este correrá a cargo de CIPRE Holding y D1-GDC."
+    },
+    {
       "title": "Lenovo y NVIDIA impulsan la IA híbrida en México con soluciones escalables y retorno de inversión acelerado - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVDI4N2xDa0RHLV9Nd3h6TDhMX2wtaGh0dEJkN0ZSclVzZUFyT1RnLVF4dm5RVXNLM2ZCVU9hSFhhY0NXNGNpeUhvNnpOVncwcmdHVW9PaEhDX2s0aFA1SXRFM1RidkFjdTN3YjRFblM4YzhQRDhJR0pWaVBLU0Q4MzFidU5sSmF0cTRrbHJIeEw3aHRpNG10OGE5cEtNSk9uTEE2WDE2RGN0ZGZ4aG9CdTlLb0U5aUpRVURJeEp2ZWVFbHBHWDdkeWlnMDFkUkhDc2tyZi1PdjZ5ZkVaVWo2NmpzTTFmSmFjY3FFMWl6TXE?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVDI4N2xDa0RHLV9Nd3h6TDhMX2wtaGh0dEJkN0ZSclVzZUFyT1RnLVF4dm5RVXNLM2ZCVU9hSFhhY0NXNGNpeUhvNnpOVncwcmdHVW9PaEhDX2s0aFA1SXRFM1RidkFjdTN3YjRFblM4YzhQRDhJR0pWaVBLU0Q4MzFidU5sSmF0cTRrbHJIeEw3aHRpNG10OGE5cEtNSk9uTEE2WDE2RGN0ZGZ4aG9CdTlLb0U5aUpRVU"
     },
     {
-      "title": "México vs Argentina Sub-17: la inteligencia artificial proyecta un duelo desigual en Qatar 2025 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmNzX1AtMWFkcGtvMjdJLThVNkdEbHc0NlVYNG5tUU1JbW1qYkx2T0xMdDB1UjlQWFprRi10RkR5aWtTUUh2OXhyd2g0M2xrZFZRclgzV1hGS3lZaEFudV9yek1VRjRlVVdraG5pQjdoOHJWSjNtenFQWTkxd0pONWoybXFma3dYeWVncDBtcXQyV010V2NLalFyUklmS3pmLTBlN2VTaEFycEdCNFBSalR1cG9wWjFEVFB5Nk91aFZkNHAyeUk4dEF5Mi1YbVJHZHNnWXlmUExaZW1naE1j0gH6AUFVX3lxTE5pZFFIMDVHVi1DUmdxQjVEV3NqTEpqTFB5OXhMT3BDLWVrLUFJbEJQRXgxdThQd2JqVkRtNzdrYkZhaDFkUkZHOTc0ZzF1M2V5clRIMTBrMWxuYzlTeV9BNzNIelJLMmFDRDF3bXlaaExjVUZRcnRPVlZOQTdTWDd3QTV1ZUVIcXpJRFktc254ZFRtRjR2blRad1R3eUVLQUEwN2JRYS14czVfeWlLdHMzWlBicFJyZ3VYbWwtd1R4bVNycjRRZjhYbU1ENnVzOXc0S3JMUlp6bk5xZS1CQTVvREZha2tjVmpibzlyV1RuZmxDZExBZEpBQ1E?oc=5",
+      "title": "La IA y los agentes inteligentes marcan un punto de inflexión en la ciberseguridad de las grandes empresas en México - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMmQ2MkRZTWJqYWh2emJnQWxlY0xPTGZlSXoxWDBCZ1VvY0ZOLTdGMkxQWFF3WVdvLTNuZjBXSVNScF9TZDBnU1dVdGlZbGdKQW1LbDlSYy1PcGRnX0NzdG9nOE15X0JnLWdTLWJ4TWNpdDIzT3luWTJ0WWlnOGtQenRzYzFpdFF3d25SQjYzb2dGZm9fSU1VQ2lscnF6YXRJaVJSaUxhUzFPQXZna2VKLVg3Y284VmhEdy0wa2dxdEpkc3JWbWRGNEhYbV9Ob2VPN3BZLTBXc2Q5eUhDRTJwUHVUT0FJcGhnR0RNMmVJdzkyaXdPUUJNSk51WHV1bXZ4cGQteGQ1TENObDQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 13 Nov 2025 21:40:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWmNzX1AtMWFkcGtvMjdJLThVNkdEbHc0NlVYNG5tUU1JbW1qYkx2T0xMdDB1UjlQWFprRi10RkR5aWtTUUh2OXhyd2g0M2xrZFZRclgzV1hGS3lZaEFudV9yek1VRjRlVVdraG5pQjdoOHJWSjNtenFQWTkxd0pONWoybXFma3dYeWVncDBtcXQyV010V2NLalFyUklmS3pmLTBlN2VTaEFycEdCNFBSalR1cG9wWjFEVF"
+      "published": "Thu, 13 Nov 2025 22:50:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMmQ2MkRZTWJqYWh2emJnQWxlY0xPTGZlSXoxWDBCZ1VvY0ZOLTdGMkxQWFF3WVdvLTNuZjBXSVNScF9TZDBnU1dVdGlZbGdKQW1LbDlSYy1PcGRnX0NzdG9nOE15X0JnLWdTLWJ4TWNpdDIzT3luWTJ0WWlnOGtQenRzYzFpdFF3d25SQjYzb2dGZm9fSU1VQ2lscnF6YXRJaVJSaUxhUzFPQXZna2VKLVg3Y284VmhEdy"
     },
     {
-      "title": "Mercado de inteligencia artificial en México alcanzará un valor de 32,884 millones de pesos en 2025 - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNTNUb2pxbWNVOVc5anBjM0hlSTdpTW1seTV2ejY5ZUJRWDVOcTJ5UWdUOXRvLUJDVmNSMm1rV1NiWjB1OXlhN1dkNmRGUjlWT044QUYxLWprQlRVakRRdlZsXy1TZDQxeWxneWtFLVBKYkYxMmFoZDRQcG1tYnVuMlJrZzVqSW9yV0QtWkxPTEpNX0JyU2J3eWluVmRseWJHR0JuYVFZeEVlLXRFdkg0RXVCUlNyY2I5dFo4Nmh3X3QxUDlkSzFOLVlORDlGLUFtX3NaOFl1ONIB3AFBVV95cUxQQ0RNd1pGNUdUTmgzcTdRaVI0TlNRVzVHNXRTWVpCYUFwOHB4NW1lZV9CVDU0ZHZ5Sm9GRFR4TE1CTHl4ZDdVMXRCNElwRFpPOWZua1JMQmVra3VEaFlBVWpaWXRqZ3B0U2JNZFZuWG9aTGhORzljNXN0b0xxaUpCdXI1M2hHU2x4TUg3MVJHT2tkZ1ZCdWRmTUItblZ6Zm5ha01IaF9oWExBSm5lOExSWlZwWFo2WDhnSk1qZExQakFiTWtYSkd1OHNvMWFCRjkzZVNaMDNCZk01WFZj?oc=5",
+      "title": "Centros de datos e inteligencia artificial, desafío energético de la era digital - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUtSSm83MFB1SmZoamRRSUFfcXlONURXRV9OTjZpcko0VEFwRFF0ZDBLZHBTQnM1emlHOUwzdnpKbkE0WEpnbWNDTXRyVVBDZTZLMGxpZjQ4cWhTVWRvcEhTcnVhdVZ2dS0yVEIyTFN3aDQ2a0RrN1IyeTNYVDF2RjlDd0xXNlJhbUg0TUlLcUxLYUF3MVNabGZQSkJ4Q3lnRVl6MFFvek0yUkJQWnZsbnhFWjFNYi1USnI2OTNBMmZ3ZC1hYldZU2JR0gHPAUFVX3lxTE5Dd0NvUWdjcldqdllFcmZyeDRDaWs0cUdLS1NBSjBmRE1VaXhFbjQ3M0FsYjM5T0dXRGl2cUNla21wVk5TWldTS0hGeWVDd2lrQldGYmthLVFQSkJLV253UzcwRHFFWnNPN1Y2WHRtbXhGOFROY0dLcUJuVUNuMzlGdG10SVZsTVBQRzg3bFF1SVFNUTNaSEduWUUzQXpEcDFlbXhKcFp2Q0xMSnQyRE5Ca1BMNFMzM0ZrLWl5WHRqeXB3RlRHNFB6NVZUbW5BSQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 10 Nov 2025 19:09:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNTNUb2pxbWNVOVc5anBjM0hlSTdpTW1seTV2ejY5ZUJRWDVOcTJ5UWdUOXRvLUJDVmNSMm1rV1NiWjB1OXlhN1dkNmRGUjlWT044QUYxLWprQlRVakRRdlZsXy1TZDQxeWxneWtFLVBKYkYxMmFoZDRQcG1tYnVuMlJrZzVqSW9yV0QtWkxPTEpNX0JyU2J3eWluVmRseWJHR0JuYVFZeEVlLXRFdkg0RXVCUlNyY2I5dF"
+      "published": "Fri, 14 Nov 2025 21:09:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUtSSm83MFB1SmZoamRRSUFfcXlONURXRV9OTjZpcko0VEFwRFF0ZDBLZHBTQnM1emlHOUwzdnpKbkE0WEpnbWNDTXRyVVBDZTZLMGxpZjQ4cWhTVWRvcEhTcnVhdVZ2dS0yVEIyTFN3aDQ2a0RrN1IyeTNYVDF2RjlDd0xXNlJhbUg0TUlLcUxLYUF3MVNabGZQSkJ4Q3lnRVl6MFFvek0yUkJQWnZsbnhFWjFNYi1USn"
     },
     {
       "title": "PotencIA MX: Tec lanza la 1a. aceleradora de IA de Meta en México - Tecnológico de Monterrey",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEw0SVVlVm1UR3ZqNmJiMmpkYVBfdmhlS3lrMWV5c1l0dk4zd3Q0eGJ2c2xKQnZPdERYazh5ckx2VksxOXRuZUdscUIxb0VMeDI0V0k0ckdSemRkbG5SMDJ4eWpxdklwOEhYWVI2SUw0NG1mTC1WSlYzQTlyLU1QaWV3N1VTdWhzbXNCTHpwV2dwV3NQalBwOXNnaXc1ZkxrMzdKRXJ4bm8yb0ZFVldPbTdlWGlHTDJzb0"
     },
     {
+      "title": "Legaltech en México impulsan el futuro de los servicios jurídicos - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTFlWnkzM2J0TURlNVR6SmtJY094bVR2bXBleFRLZ0pZd2pNamk4QmpxTFp6T3c5ZGl5S1dudHZMZUsxOElmM1JBMmsyS3B4d1Rmalg0dlJSSG41R2QtTmRmY29aNXM3Uk51ZzU0c0taV3dGdGhnOWkzU3VnLWRCLVg2QW1WWDRHdi1weUNUOS1ScVVOZ0NNaktwZ3ZjZTF5VTEtNTFuNWg0ZzlfdG9sLW81a1NmSnN0MkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 22 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTFlWnkzM2J0TURlNVR6SmtJY094bVR2bXBleFRLZ0pZd2pNamk4QmpxTFp6T3c5ZGl5S1dudHZMZUsxOElmM1JBMmsyS3B4d1Rmalg0dlJSSG41R2QtTmRmY29aNXM3Uk51ZzU0c0taV3dGdGhnOWkzU3VnLWRCLVg2QW1WWDRHdi1weUNUOS1ScVVOZ0NNaktwZ3ZjZTF5VTEtNTFuNWg0ZzlfdG9sLW81a1NmSnN0Mk"
+    },
+    {
       "title": "México será sede del mayor evento de inteligencia artificial e inversión en Latinoamérica: MÉXICO IA+ 2025 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHd5X1UtUVlLd2JFT3hEU0J0YUxEV1VUZnNCdXdMY2Z2SUlqUU9DWjM1bTM4T09kQ2ZSV2xla3lxbkNDVHdmV0JvRHBPUE50V2RJckh1NGZwZWJvRmV2N1VQWWxyV05wZ2UyV1gwYzBzSzFSeUFUUTgtRjl5SnlEY2FaWHdDZGJWZmM0Sm5ZZktBcm5lUTV4U1Z3Z0dIbE1xUzhxd29yMVBzU3plTVFIYUlOWVZUbGNqRnFXMGt6R0QxUTd5SnVCVEVWQ0FFU0NkVUdYcmpacGJrMFJJcHlRTNIB-wFBVV95cUxOVVJzT19TU1dyMnN3S1laS2pZRk9TQV9jZ2JJcW9VNjAzYWZqQ3pVVC1VQUJ1NE45d3J4Szc1WF9QeEFwWksySzYyNi1ScFhSQ3V3Q21tMTFTUlhaLTJrLTZHVXZVV2Q5WjVlTzdYY3NBZ1RURlgwel9GU1NtdXNtZWphU0xzdW81R3l4VTdFTHpkOXF5XzluZUF6emN2TTgtY3RKMXBuM0psLU9YLXlCbTgtQXRtS0hJaVBnR2hHMmYzemFreW9KZy1ra2o4MkJRQ2V2RHhOOUhFTHp6Um9ueERaRC1SRmtQaF9oVjVMZ0FiWXViTDVtS0hnYw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 05 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUHd5X1UtUVlLd2JFT3hEU0J0YUxEV1VUZnNCdXdMY2Z2SUlqUU9DWjM1bTM4T09kQ2ZSV2xla3lxbkNDVHdmV0JvRHBPUE50V2RJckh1NGZwZWJvRmV2N1VQWWxyV05wZ2UyV1gwYzBzSzFSeUFUUTgtRjl5SnlEY2FaWHdDZGJWZmM0Sm5ZZktBcm5lUTV4U1Z3Z0dIbE1xUzhxd29yMVBzU3plTVFIYUlOWVZUbGNqRn"
-    },
-    {
-      "title": "La startup Yalo presenta su nuevo agente de ventas basado en IA • Contxto - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTFDTGx1Sk52eENTY2gtWk1fSF9uVkhOMFhlTkk2QjZ2d1FfVExRa3RHaFFQNXlLcDZRZThKekdydkN6OGRLOTdKZkdDQUlCbVRwM1ZQOHRnOF96STdnTjYzWE9KMVhzQnFDZDN0d0ZVcExMV0hFMmd6Q0dtYmNqckJ2bzVURHVPc1drVUp3V2dubTl5aWJR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 16 May 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTFDTGx1Sk52eENTY2gtWk1fSF9uVkhOMFhlTkk2QjZ2d1FfVExRa3RHaFFQNXlLcDZRZThKekdydkN6OGRLOTdKZkdDQUlCbVRwM1ZQOHRnOF96STdnTjYzWE9KMVhzQnFDZDN0d0ZVcExMV0hFMmd6Q0dtYmNqckJ2bzVURHVPc1drVUp3V2dubTl5aWJR?oc=5\" target=\"_blank\">La startup Yalo present"
     },
     {
       "title": "Tec promueve soluciones de innovación con IA en el encuentro Tech Week - Tecnológico de Monterrey",
