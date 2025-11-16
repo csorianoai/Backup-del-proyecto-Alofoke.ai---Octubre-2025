@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El método Kramer: los candidatos presidenciales, según el comediante",
+      "url": "https://www.latercera.com/tendencias/noticia/el-metodo-kramer-los-candidatos-presidenciales-segun-el-comediante/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sun, 16 Nov 2025 16:45:59 +0000",
+      "summary": "“Cuánto vale el voto” es el nombre del especial que el imitador viene publicando en redes sociales con miras a las elecciones presidenciales, y que cuenta con la participación del histórico animador Leo Caprile, el encargado de entrevistar a cada “candidato” en los distintos episodios. ¿Cómo constru"
+    },
+    {
       "title": "Cómo estará el tiempo en Santiago durante este domingo de elecciones",
       "url": "https://www.latercera.com/tendencias/noticia/como-estara-el-tiempo-en-santiago-durante-este-domingo-de-elecciones/",
       "source": "La Tercera Tecnología",
@@ -35,20 +43,20 @@
       "summary": "Una investigación desarrollada por David Dunning y Justin Kruger aborda este fenómeno, el cual explica por qué algunas personas con poca experiencia o conocimientos en un área presumen saberlo todo y se muestran confiadas de sí mismas."
     },
     {
-      "title": "“Chile está extremadamente atemorizado”: qué dice un reportaje de la BBC sobre la delincuencia en el país",
-      "url": "https://www.latercera.com/tendencias/noticia/chile-esta-extremadamente-atemorizado-que-dice-un-reportaje-de-la-bbc-sobre-la-delincuencia-en-el-pais/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 12 Nov 2025 14:21:10 +0000",
-      "summary": "En una entrevista con el medio, el director de la Fundación Paz Ciudadana analiza por qué Chile, pese a tener una de las tasas de homicidios más bajas de la región, figura entre los países con más miedo del mundo."
-    },
-    {
       "title": "Navidad y fin de Año sin estrés: deja que la inteligencia artificial simplifique tus tareas - samsung.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2twVTJIdDdkZTlRSGh6b2RZQlNUVm5oZDZ5T1hEQU80Ym5xQmNOc3hJbGRDelRKdm5KVjZralVkLWxBdkhPRUgyR2lXUGhmcXRrZXhjaC0zZ3RZLWNnbjRTa0RMTVY1M051U2l1TXYzNnF5ZDZZTWkyY2p4Y05VMGR4bXpiUTdNRzc1YXB2QlhScFdVdVZYRHJoX3Z2TTJ0MEdpTXMtR01pYUNWdmtuaVAwSHR6NTdqa0E?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 14 Nov 2025 13:12:07 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQN2twVTJIdDdkZTlRSGh6b2RZQlNUVm5oZDZ5T1hEQU80Ym5xQmNOc3hJbGRDelRKdm5KVjZralVkLWxBdkhPRUgyR2lXUGhmcXRrZXhjaC0zZ3RZLWNnbjRTa0RMTVY1M051U2l1TXYzNnF5ZDZZTWkyY2p4Y05VMGR4bXpiUTdNRzc1YXB2QlhScFdVdVZYRHJoX3Z2TTJ0MEdpTXMtR01pYUNWdmtuaVAwSHR6NTdqa0"
+    },
+    {
+      "title": "La lucha por el agua, la energía y el futuro de la IA en el desierto de datos de Chile - LatinAmerican Post",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY3pweWdEZ183T255cmQ5SEE1eTZ6dDFid2hmYV9jUDhGM0x6YlpqUE9YUThWWXZyQk9xVU5VQkMtMUZfRGxEMEMxYUdfU0tsdjB2ekNvZ1JOS3pGYzB0MzFROVlFQjRPenRlZy03b3FQM1c1OEw2U1lBQTVUdktvQ3ZCUkk2cTZpZUhNb2xLcTVLdHdDZmwtdUI2emkxZnNsSks0NjRWdjhkSzR1YldoM3ViUDhybU1GcVRSb1hicnhwUGhpdTZxdTFOSVA3b0dnSHNBZGV3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 16 Nov 2025 15:02:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY3pweWdEZ183T255cmQ5SEE1eTZ6dDFid2hmYV9jUDhGM0x6YlpqUE9YUThWWXZyQk9xVU5VQkMtMUZfRGxEMEMxYUdfU0tsdjB2ekNvZ1JOS3pGYzB0MzFROVlFQjRPenRlZy03b3FQM1c1OEw2U1lBQTVUdktvQ3ZCUkk2cTZpZUhNb2xLcTVLdHdDZmwtdUI2emkxZnNsSks0NjRWdjhkSzR1YldoM3ViUDhybU1GcV"
     },
     {
       "title": "Inteligencia artificial: Chile destaca en el desarrollo regional - EMB Gerencia",
@@ -59,16 +67,8 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXFsVVAtVk5oclVnLWNDNjFaQi1sQ3h5RFd5clV2VEt2cWJIN0Ruc3pQSEJVUU1rQmRYbzB1ZWxwMzBzdXBzck1qLUhHVXhFZmJnWl9Zb0FnUmZvZEhTYnBfWWRQRUY2RUo1VW11TDMxdTFiT2VDOXJIQUVTa3pBQXU1NG5mSGd5Skc3WHE4cGJETU5NaEhUbVIxY0hWMnl2TFdyYWtTYm9nOFJZLTdSUWtn?oc=5\" tar"
     },
     {
-      "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligenc"
-    },
-    {
       "title": "Conoce de dónde viene la información de la inteligencia artificial que usas: Gemini de Google, ChatGPT, Meta y más - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQnVhWVJoQnVUbjU0LXBGS0F6WGk5T09IbjFGWllkaXJiVFpyRXRNbFFDQmJaemNoVXNxWVctaF8xX0t0TFBmY1lRS3l4VFBXVG5yMEtqSzMxbTd5WHgxVEpKeXZDeVF5Tk9yblFSY1FvTVpwSXZPdG9iZXNoM0h6dGZ1MG1kVnRKazlQX3NtUWRVYXJibVpoMnhJc1Y1Qkk1eVNMRmthNmVRRkNkTGkxRnBWUHEtYWlhZDMxaUFhdl85TzFST0Z5dUl1UlFRaEhpY180a0VDRlVTaU4zem9pS1Zjd3g5OXZ5?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQnVhWVJoQnVUbjU0LXBGS0F6WGk5T09IbjFGWllkaXJiVFpyRXRNbFFDQmJaemNoVXNxWVctaF8xX0t0TFBmY1lRS3l4VFBXVG5yMEtqSzMxbTd5WHgxVEpKeXZDeVF5Tk9yblFSY1FvTVpwSXZPdG9iZXNoM0h6dGZ1MG1kVnRKazlQX3NtUWRVYXJibVpoMnhJc1Y1Qkk1eVNMRmthNmVRRkNkTGkxRnBWUHEtYWlhZDMxaUFhdl85TzFST0Z5dUl1UlFRaEhpY180a0VDRlVTaU4zem9pS1Zjd3g5OXZ50gGDAkFVX3lxTE02emRyRm91UTV4R0RjM0dTZF9ZMS0yQmRyTXg1V0dlTERHZTRxeTUxQzhEaHlBV2pzbnk1NnVkVmEzVHRnSzdpVzFmWUFkc2R1MUkwcExxQU0tYjFtVkRUcm10d3N5VHp2NWV1bUc4MXNzTXN3Y0FDd3FkNC1zQ00zMlJIcjJQdnNDY0s5MENpdHNZOF9SYTlrc2pOQlpYSXpORUtEWll2bnNiYlJhRnlFY1drNDExNjhRYVMxQ0NpRnF3TmFjVnZMWldESm1kLXg5LWxlbTBveXo5b3lHQmVyelZpalRoNHkwOURzZU5aZXlTVDZuVHhTbEtWcDBDQmE0X1E?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 10 Nov 2025 20:02:00 GMT",
