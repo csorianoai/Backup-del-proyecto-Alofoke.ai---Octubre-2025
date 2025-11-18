@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple pierde al diseñador del iPhone Air",
+      "url": "https://expansion.mx/tecnologia/2025/11/18/apple-pierde-al-disenador-del-iphone-air",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 18 Nov 2025 21:00:47 GMT",
+      "summary": "Abidur Chowdhury se encargó de presentar el nuevo dispositivo, mismo que si bien no ha tenido el mejor comportamiento en el mercado, es una de las apuestas para el futuro de Apple."
+    },
+    {
+      "title": "La UE cuestiona concentración de mercado de AWS y Azure",
+      "url": "https://expansion.mx/tecnologia/2025/11/18/aws-y-microsoft-azure-bajo-lupa-union-europea",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 18 Nov 2025 19:00:32 GMT",
+      "summary": "La Comisión Europea inició una nueva investigación hacia este par de empresas por la concentración del mercado europeo de nube, pues se cuestiona que limitan la competencia."
+    },
+    {
       "title": "Qué es Cloudflare y por qué su caída afecta desde redes sociales hasta servicios de inteligencia artificial",
       "url": "https://expansion.mx/tecnologia/2025/11/18/que-es-cloudflare-y-como-funciona",
       "source": "Expansión Tecnología",
@@ -27,20 +43,20 @@
       "summary": "Las tiendas online de origen chino, como Temu y Shein, enfrentan su mayor desaceleración. La causa no es la competencia, sino los cambios regulatorios."
     },
     {
-      "title": "AI slop, el spam que asfixia a internet",
-      "url": "https://expansion.mx/tecnologia/2025/11/17/negocio-del-ai-slop-nuevo-spam-internet",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 17 Nov 2025 14:00:43 GMT",
-      "summary": "El término refiere a una oleada de contenido basura que provoca diversos problemas para las plataformas, como desinformación y reducción en la calidad."
+      "title": "México apuesta por la inteligencia artificial y la nube, pero su infraestructura energética se queda corta - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWVNSHphLVVweEhVcGFTR1FlcFQ5RTZpV042NkhiQUhwbUk1aVBvaG1pajQ4Xy10SWNwSzNTYmpJRVJ4NERVM3VVemhhTXByVzhPX2xKYUt3eEtoSHRQUFRBNGVTdnFOOE5uTEozd3pxam9McjZ2Q3FYN3R6Q2RVbDZLTnY5cGx4aGZGNy1wOHdkdDF0eW81b2xucnFuUnpZQnBFLVItdmlPS2o1SWpPUi1kR2d4NDBEbERYaHc1clM2T3RWcnIycjhRZ2ZOQWRHU1F4cnlCMUZuLUpWTDZqLXFrMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 18 Nov 2025 18:14:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWVNSHphLVVweEhVcGFTR1FlcFQ5RTZpV042NkhiQUhwbUk1aVBvaG1pajQ4Xy10SWNwSzNTYmpJRVJ4NERVM3VVemhhTXByVzhPX2xKYUt3eEtoSHRQUFRBNGVTdnFOOE5uTEozd3pxam9McjZ2Q3FYN3R6Q2RVbDZLTnY5cGx4aGZGNy1wOHdkdDF0eW81b2xucnFuUnpZQnBFLVItdmlPS2o1SWpPUi1kR2d4NDBEbE"
     },
     {
-      "title": "TV Azteca enfrenta fallos, deudas y litigios que amenazan su futuro",
-      "url": "https://expansion.mx/tecnologia/2025/11/16/la-crisis-que-rodea-a-tv-azteca",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sun, 16 Nov 2025 13:30:54 GMT",
-      "summary": "La sentencia de la SCJN podría ser el punto de quiebre para la televisora que arrastraba un deterioro financiero y la presión de acreedores extranjeros y litigios con AT&amp;T."
+      "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 18 Nov 2025 19:47:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
     },
     {
       "title": "Doble certificación en IA sin costo, disponibles en CDMX y en nueve estados - Infobae",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Sun, 16 Nov 2025 17:49:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZU5yOVdDV2x5UE9EY3ZSeGtIWU9WREU5b0ZaVEV5NzE3NThDQUZKSnU3VktrekVBVGN2M3E2VjQteElORGlHVjI1QllZUGQ3MFhZX3N0UEZOSjlFcHNvODdFZkR0M1ZDWDlxX2Fja3laR1hzMjhwbG9WRExDMWlmdWtFN0Y2UWxLQmNkZl9rQXBLcjBvUVBBT2dQbkNGXzNTamJ0UFZtaHpacmV2WnRNMEtTOFpEQUxL0g"
-    },
-    {
-      "title": "40% de los trabajadores mexicanos aún no domina la inteligencia artificial en sus empleos - THE LOGISTICS WORLD",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05RaWp1MS1rT0xaMUhsX0xFME9hRkNzQjFlUFBvMi1qYWk2dVlHT2E3NkMtRlNMMGdXM0o4c2JKUHFKWjBONjB2cm9Qalh1ZWdJMmtFelFrd0tHbGVMT0JxVWl2WDNmb25Kb2ZJbjZGSm9OeWdRYUtvc1dMLTdqZzdjaV9hX0lyaGZtRzRfeDA5U3FmTWFVVWY2dW1HVEd5UHZBT3FzbVFQenVRMWxWZnZBZjJCZmIxTUF3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 17 Nov 2025 11:02:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX05RaWp1MS1rT0xaMUhsX0xFME9hRkNzQjFlUFBvMi1qYWk2dVlHT2E3NkMtRlNMMGdXM0o4c2JKUHFKWjBONjB2cm9Qalh1ZWdJMmtFelFrd0tHbGVMT0JxVWl2WDNmb25Kb2ZJbjZGSm9OeWdRYUtvc1dMLTdqZzdjaV9hX0lyaGZtRzRfeDA5U3FmTWFVVWY2dW1HVEd5UHZBT3FzbVFQenVRMWxWZnZBZjJCZmIxTU"
-    },
-    {
-      "title": "La IA y los agentes inteligentes marcan un punto de inflexión en la ciberseguridad de las grandes empresas en México - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMmQ2MkRZTWJqYWh2emJnQWxlY0xPTGZlSXoxWDBCZ1VvY0ZOLTdGMkxQWFF3WVdvLTNuZjBXSVNScF9TZDBnU1dVdGlZbGdKQW1LbDlSYy1PcGRnX0NzdG9nOE15X0JnLWdTLWJ4TWNpdDIzT3luWTJ0WWlnOGtQenRzYzFpdFF3d25SQjYzb2dGZm9fSU1VQ2lscnF6YXRJaVJSaUxhUzFPQXZna2VKLVg3Y284VmhEdy0wa2dxdEpkc3JWbWRGNEhYbV9Ob2VPN3BZLTBXc2Q5eUhDRTJwUHVUT0FJcGhnR0RNMmVJdzkyaXdPUUJNSk51WHV1bXZ4cGQteGQ1TENObDQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 13 Nov 2025 22:50:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMmQ2MkRZTWJqYWh2emJnQWxlY0xPTGZlSXoxWDBCZ1VvY0ZOLTdGMkxQWFF3WVdvLTNuZjBXSVNScF9TZDBnU1dVdGlZbGdKQW1LbDlSYy1PcGRnX0NzdG9nOE15X0JnLWdTLWJ4TWNpdDIzT3luWTJ0WWlnOGtQenRzYzFpdFF3d25SQjYzb2dGZm9fSU1VQ2lscnF6YXRJaVJSaUxhUzFPQXZna2VKLVg3Y284VmhEdy"
     },
     {
       "title": "Crea Jeff Bezos una startup de IA, donde será CEO - El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
