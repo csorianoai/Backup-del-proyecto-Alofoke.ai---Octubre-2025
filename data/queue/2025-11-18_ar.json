@@ -3,44 +3,44 @@
   "country": "ar",
   "articles": [
     {
-      "title": "Una falla en Cloudflare paraliza media internet: por ahora afecta a la red social X y ChatGPT",
-      "url": "https://www.clarin.com/tecnologia/falla-cloudflare-paraliza-media-internet-ahora-afecta-red-social-x-chatgpt_0_e4OB7B7cZX.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 18 Nov 2025 12:57:24 +0000",
-      "summary": "<ul><li>Todavía no está claro el alcance del incidente. </li><li>Cloudflare es un intermediario entre los servidores web y los usuarios.</li></ul>"
-    },
-    {
       "title": "Qué es \"challenges.cloudflare.com\": el escudo de seguridad de Cloudflare que a veces falla y cómo solucionarlo",
       "url": "https://www.clarin.com/estados-unidos/challengescloudflarecom-escudo-seguridad-cloudflare-veces-falla-solucionarlo_0_HBAdAkPMLO.html",
       "source": "Clarín Tecnología",
       "category": "tech",
-      "published": "Tue, 18 Nov 2025 12:14:03 +0000",
+      "published": "Tue, 18 Nov 2025 15:08:00 +0000",
       "summary": "<ul><li>Cloudflare sufre problemas que afectan a servicios web globales y los usuarios reportan las caídas en diversas plataformas.</li><li>El dominio challenges.cloudflare.com es la primera línea de defensa activa contra ataques DDoS y bots maliciosos.</li><li>Analizamos cómo este servicio de la CD"
     },
     {
-      "title": "Un hallazgo del telescopio Webb en la Gran Nube de Magallanes reaviva la pregunta por vida extraterrestre",
-      "url": "https://www.clarin.com/tecnologia/hallazgo-telescopio-webb-gran-nube-magallanes-reaviva-pregunta-vida-extraterrestre_0_1diMseSHAT.html",
+      "title": "Se cayó League of Legends y VALORANT por Cloudfare: qué pasó con los juegos y cuándo se restablece el servicio",
+      "url": "https://www.clarin.com/estados-unidos/cayo-league-of-legends-valorant-cloudfare-paso-juegos-restablece-servicio_0_bNNkFyXJ4M.html",
       "source": "Clarín Tecnología",
       "category": "tech",
-      "published": "Tue, 18 Nov 2025 08:45:25 +0000",
-      "summary": "<ul><li>El telescopio Webb identifica moléculas orgánicas complejas en un rincón remoto.</li><li>Plantea que la química vital podría haberse iniciado en condiciones más primitivas de lo pensado.</li><li>Lo que resta averiguar es cuántas veces el universo repitió esta misma receta.</li></ul>"
+      "published": "Tue, 18 Nov 2025 15:03:24 +0000",
+      "summary": "<ul><li>Cloudflare registró una falla que dejó sin acceso a League of Legends y VALORANT en plena actividad matutina en Estados Unidos.</li></ul>"
     },
     {
-      "title": "Jeff Bezos crea una startup de Inteligencia Artificial y será su codirector ejecutivo",
-      "url": "https://www.clarin.com/tecnologia/jeff-bezos-crea-startup-inteligencia-artificial-codirector-ejecutivo_0_YmgVw7a33E.html",
+      "title": "Cloudflare: qué es, cómo funciona y por qué cuando se cae el servicio pone en jaque a la web",
+      "url": "https://www.clarin.com/tecnologia/cloudflare-funciona-cae-servicio-pone-jaque-web_0_Ouy4HQMtV4.html",
       "source": "Clarín Tecnología",
       "category": "tech",
-      "published": "Mon, 17 Nov 2025 22:31:59 +0000",
-      "summary": "<ul><li>La empresa del fundador de Amazon y uno de los máximos multimillonarios del mundo se llama Proyecto Prometeo.</li><li>Se centra en IA aplicada a ingeniería y fabricación de computadoras, automóviles y naves espaciales.</li></ul>"
+      "published": "Tue, 18 Nov 2025 14:52:58 +0000",
+      "summary": "<ul><li>Una falla en el distribuidor de contenido dejó inaccesibles durante horas servicios como ChatGPT, X, Canva, Spotify y decenas de miles de sitios. </li><li>Qué hace la empresa y por qué e stan usada en todo el mundo.</li></ul>"
     },
     {
-      "title": "Acuerdo bilateral: qué es la “transferencia de datos personales” con Estados Unidos y cómo puede afectar a los argentinos",
-      "url": "https://www.clarin.com/tecnologia/acuerdo-bilateral-transferencia-datos-personales-estados-unidos-puede-afectar-argentinos_0_New49CsAiB.html",
+      "title": "Las mejores 3 técnicas para que no espíen tu teléfono: protegé tu celular hoy mismo",
+      "url": "https://www.clarin.com/tecnologia/mejores-3-tecnicas-espien-telefono-protege-celular-hoy-mismo_0_IlCVzpnlpZ.html",
       "source": "Clarín Tecnología",
       "category": "tech",
-      "published": "Mon, 17 Nov 2025 08:45:13 +0000",
-      "summary": ""
+      "published": "Tue, 18 Nov 2025 14:43:30 +0000",
+      "summary": "<ul><li>El celular puede ser también una fuente de espionaje.</li><li>Paso a paso para proteger tus datos personales.</li></ul>"
+    },
+    {
+      "title": "Falla de Cloudflare: Spotify, ChatGPT, X y todos los sitios web afectados",
+      "url": "https://www.clarin.com/tecnologia/spotify-chatgpt-x-sitios-web-caidos-gran-falla-cloudflare_0_zMagY5ZiJM.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 18 Nov 2025 14:04:55 +0000",
+      "summary": "<ul><li>La caída del gigante de la infraestructura web afecta a millones de usuarios en todo el mundo. </li><li>Cuáles son los programas y plataformas afectadas.</li></ul>"
     },
     {
       "title": "Cómo y para qué usamos la inteligencia artificial en Argentina, según un estudio académico - La Nación",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPNURzcUE3Mjc3Sk1VX0xhRGNGS3dQTmxubnZsZXhyOUo1eXRrVlZuZ3NpVVY4d044N0pUbTBuUE9rTlg4OVprdEU2REJMSFRfUEVXYVkta0lsWlFiWnhOTXNadlNOdjdtLVZfRWpybnk4dHNZOGhXaVE3VkwtZXJQWXcwRHJnel9pcTZuMVBJbHM3YmwzUWp4NVYxcHRXQWxnaktkR0tvTXc2LXlYREU3NElVLU5jdDdmQ3"
     },
     {
-      "title": "La Inteligencia Artificial redefine el empleo tecnológico en Latinoamérica: México lidera, Argentina se estanca y Perú acelera - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdmxyOHM2R3d0NVQwNHdkaG9lWUdrVWR2TGVpN19BLXFJcWEwZm5GcHdKRFpQWFhFNGhtMTRqZVdMVE9QNzVFblBwUzFsd9IBmAJBVV95cUxQVVdtNkQxVXNxdFYtYnZsZUxXTGhSaWRvWExvZDZLMEVRakNONW82QUpxQUVLOTJRQ01sYW11Nmx1T1hkWVZ0Vkg3YmxZTEJqQ2Q4RmNNVi1fOUU1RVFzNlA4S0hDY2NUdTN4b2xUajRjbVotTUg5UEs0ajk2aGRldVZLTTFUS29xbkpvWGlnQUpFME9SVmRCODQ3MHRZRUVsNmg4cTEtUWZRX2UtWDhfSE8tR0V6aE9ocF9YLUZHUldSenZmOU9WckZlb0pfQWVVYV9DN3R3U21HRXBzQ1g5NzJpQS1SNkRaT1c2aG9NY2dSWUViQ2pEMlN6Um40U1QzVVRXVnRTbDBQeG9adDc5dF82UWhzNmxf?oc=5",
+      "title": "Argentina | La ANLIS Malbrán desarrolló un algoritmo de inteligencia artificial para la identificación rápida y precisa de patógenos alimentarios - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGhlWmJFclFXeTlSaWVPNGw0US1sOTRKVExadEItQWRBRHNyRW1JRnM2cEdMOWZFZ21BVndfUmlhdG02RHpPM0Z6by1uRWxrbTVXZTdpMGFyWEFjWldDb3U1amR5X3lFWFJybmtyMWI2ZjhfTEwzM2tIMFdROHlidlhrWnVncTFrYm5zUnRyU1RDVldzSm5Wb1oydHVsT0l0eXgtNWJCU2tBTGpYVjlUakxlQUJ3R3hlbWZVaW9Ma194UnREQ0ZQRUJXS3c0b0h5WFhGOWswd0hxOWJ6cEZYZEZjY3N5UU5UaTd4dGJUYkN5SkdpVFc4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdm"
+      "published": "Tue, 18 Nov 2025 15:53:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTGhlWmJFclFXeTlSaWVPNGw0US1sOTRKVExadEItQWRBRHNyRW1JRnM2cEdMOWZFZ21BVndfUmlhdG02RHpPM0Z6by1uRWxrbTVXZTdpMGFyWEFjWldDb3U1amR5X3lFWFJybmtyMWI2ZjhfTEwzM2tIMFdROHlidlhrWnVncTFrYm5zUnRyU1RDVldzSm5Wb1oydHVsT0l0eXgtNWJCU2tBTGpYVjlUakxlQUJ3R3hlbW"
     },
     {
       "title": "El Social Media Day Buenos Aires adelantó las tendencias sobre innovación y creatividad con IA - produ",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbGw5Q2ZqY2I0WVhEOU5tQ0JEUWNNT0h5WEdNX0F6Ny1xeVZzX1EyUWVGbjBlSzNQR3VmWWtMZHUwdy1CZ0EzMlBmT2JxallZOGlfS2NjV2Zob2dCZ3JIVHE4eS1kMGxpdnBHRVE1MHdWTUtiQkItRFZfTU9MZ3FMN1dicm5xZWcyZ20yLW1LNnNoaFNYSDFuWTl6bnlYbzc2YkVrVzEtbGNxQUFPeEpmRTFGc1NJb2FjVT"
     },
     {
-      "title": "Buenos Aires será el epicentro del debate sobre inteligencia artificial en América Latina - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2FOWl81WkhsdXludE5Sc1hzbmZHWDllYnMtM3U3bVBPd1YxNWZCa1AxYnVBU1NfTVRUMDdYVlc2YkRaTnRPRUxxbFJLRlhVeUlHSHRYeE1Mc0NMbUI2a3duNHJaNF9SWmpxX1llVTBja2E5UlZUQWJDYThJZzFNdjdrRmpuSDAtWmd1eW1HamdSN3Q1aTRPQjVpNnUyU1Z4ZXp5dW5Wa09DMUh0aWZSUTRRZ3NSWU1PbTN1S0JQTk9DdjRhOFJkWDkxMHU4QdIB6AFBVV95cUxQemt6QVg4OWpmX2cySHE0S1dOd3lyY3A2NGtqN2dBbEYyRVo3bUxXUzNFUTU0WmF3aC1WRkVSaDZIQWoySEFPc3k2d0dNQWdqMGdGQ1hLQkkzY2Zsa0h2YkVvT09KWnl4aGQ4d2pRZmM5UmRRSkJzNm9EMF91aFZwTGpEZjdzM0tKMU82UVlCeW9rM3cyUmZaR29tbkZpZ2lMWFMwUFd2UjV3czRWY2N2Wl92OFRkTW9yd0dTVDNyeEJOMDJQOFN2MEgtT3BFWEpYcDVVTElpV3VpdENjQTRyQUQ4bkpleXM4?oc=5",
+      "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aUlpdXRiNFc0TFE1Uzk4ZXRRcWdRRHpsTGZ1Q2Uta2RsakJFQzhyVdIB6AFBVV95cUxPQy1VNFF1VktzZXlJWWROaEk1TmFsN0ZtTHdhVzhocFRtTzJsS3lYMU95NF9veXp2Tld2WS1JbkFWZ0J2dnFteUw3ZklmLThGenhndERWQXZCTV9tUHd4cEZITjJ4ZjNKdlc4ODV3Ul81UmZMMzJMQ1p1YzF6djRmaFdJVVY2RnBWNk9GUjhBNmlRbGdaaHh1QWh4UjVqRHNPTy1IUGR2V2ZHMGlYR3U4VnJSaTk0Y3EtdHp2aGxZaXZRMkNpdEJsM3EzXzRjVUdURVV6ckZRa0FoUXZCYXhMdU1WQk9YdmlL?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2FOWl81WkhsdXludE5Sc1hzbmZHWDllYnMtM3U3bVBPd1YxNWZCa1AxYnVBU1NfTVRUMDdYVlc2YkRaTnRPRUxxbFJLRlhVeUlHSHRYeE1Mc0NMbUI2a3duNHJaNF9SWmpxX1llVTBja2E5UlZUQWJDYThJZzFNdjdrRmpuSDAtWmd1eW1HamdSN3Q1aTRPQjVpNnUyU1Z4ZXp5dW5Wa09DMUh0aWZSUTRRZ3NSWU1PbT"
+      "published": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
     },
     {
       "title": "Lanzar una startup tech en la Argentina de Milei, entre expectativas y riesgos - bloomberglinea.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORUJFRXk2bjJodDVaMXg2S0NxdEV6NW0yVnZxYXctXzlDRzNsWGNwU3VsQlpGWDF5Y2hZQ2lwczJHNmF4Z3FoRm9wcUJBcWtOdklvcUd1a0txbV80NDlQYmxWX185UkJiZWNJMS00UUJ3MjAxRjl2TkZWOG8xWHhTc2tISWxFY1pKQUdBUjUtOFRoeVlJM3NRbGpqZXpJOWJnYjNjRkxONTY0OTYzV3RkU0h2X2hyZWxBSS"
     },
     {
-      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
+      "title": "Esta startup argentina logró reducir a la mitad el uso de químicos en el agro y fue premiada por la ONU: el innovador método con desechos de langostinos - Noticias Ambientales",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmlGcGd0andhM0lWeHZTbTUwazVyR19xUVNWMzl5ZVJDVzJIUWVleVlHT3NmbmZWU25uRVpjenUzb2NsZld0c2RmQzVsOU5VZ3ZNcWc3aFM0ZjJ6OTlaTFhhVDA0OXNkNW9ObGNsSXV3Y0MwZlVwekVlMTZXZ3dFUlhEZzlIX0JWY1A4RS1PY1JOMDJhMzlRRUtGUWlGZFdmSjJSdXRzUnVTLTVSQm1DTUlqVS1GZEhJeTBnOXNrNERLdHY4ZjBNRWtZTFBvYTZuNjJqbGNSdU1iS2lWaHVsWDQ3Z05PMkN2SGxhWWVLTUdlUzVYMS0wVks2WVoxZTVKamVqUDlmMExYM0VJN045R3NYbTNDVUhITmN0UHdVdVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
+      "published": "Thu, 06 Nov 2025 21:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxPUmlGcGd0andhM0lWeHZTbTUwazVyR19xUVNWMzl5ZVJDVzJIUWVleVlHT3NmbmZWU25uRVpjenUzb2NsZld0c2RmQzVsOU5VZ3ZNcWc3aFM0ZjJ6OTlaTFhhVDA0OXNkNW9ObGNsSXV3Y0MwZlVwekVlMTZXZ3dFUlhEZzlIX0JWY1A4RS1PY1JOMDJhMzlRRUtGUWlGZFdmSjJSdXRzUnVTLTVSQm1DTUlqVS1GZEhJeT"
     }
   ],
   "count": 14
