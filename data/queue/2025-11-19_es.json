@@ -3,12 +3,20 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la actualidad política, en directo | Santos Cerdán, a su salida de prisión: “Se están hablando muchas mentiras. Confío en que la verdad se imponga y se haga justicia”",
-      "url": "https://elpais.com/espana/2025-11-19/ultima-hora-de-la-actualidad-politica-en-directo.html",
+      "title": "Cerdán al salir de la cárcel: “Hay muchas manipulaciones. Confío en que la verdad se imponga”",
+      "url": "https://elpais.com/espana/2025-11-19/cerdan-al-salir-de-la-carcel-hay-muchas-manipulaciones-confio-que-la-verdad-se-imponga.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Wed, 19 Nov 2025 18:30:24 GMT",
-      "summary": "Feijóo ataca a Sánchez por las comisiones del 2% del ex secretario de Organización de los socialistas y el presidente del Gobierno critica la “respuesta cero” del PP ante sus casos"
+      "published": "Wed, 19 Nov 2025 19:08:19 GMT",
+      "summary": "El Supremo deja en libertad al ex secretario de Organización del PSOE al considerar mitigado el riesgo de destrucción de pruebas"
+    },
+    {
+      "title": "El Supremo deja en libertad a Cerdán al considerar mitigado el riesgo de destrucción de pruebas",
+      "url": "https://elpais.com/espana/2025-11-19/el-supremo-deja-en-libertad-a-cerdan-al-considerar-mitigado-el-riesgo-de-fuga.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 19 Nov 2025 18:43:47 GMT",
+      "summary": "El juez Puente advierte que se han “robustecido” los indicios tras el informe de la UCO, pero ya no está justificada una medida tan “excepcional” como la prisión preventiva"
     },
     {
       "title": "Anticorrupción pide 24 años de prisión para Ábalos por la trama de las mascarillas",
@@ -27,20 +35,12 @@
       "summary": "El juez Puente advirtió del riesgo “creciente” de fuga a medida que se acercaba la fecha del juicio"
     },
     {
-      "title": "Ocho claves del nuevo informe de la UCO contra Cerdán: de la conexión con Acciona a gastos en Ibiza",
-      "url": "https://elpais.com/espana/2025-11-19/ocho-claves-del-nuevo-informe-de-la-uco-contra-cerdan-de-la-conexion-con-acciona-a-gastos-en-ibiza.html",
+      "title": "Las hermanas y la psicoterapeuta de Jonathan Andic declaran como testigos por la muerte del fundador de Mango",
+      "url": "https://elpais.com/espana/2025-11-19/las-hermanas-y-la-psicoterapeuta-de-jonathan-andic-declaran-como-testigos-por-la-muerte-del-fundador-de-mango.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Wed, 19 Nov 2025 04:30:01 GMT",
-      "summary": "Los agentes desgranan en más de 200 páginas una batería de indicios recabados contra el ex secretario de Organización del PSOE"
-    },
-    {
-      "title": "La estafa de Santos Cerdán a los militantes del PSOE",
-      "url": "https://elpais.com/espana/2025-11-19/la-estafa-de-santos-cerdan-a-los-militantes-del-psoe.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 15:49:55 GMT",
-      "summary": "Las primarias de 2017 fueron para el dirigente navarro una oportunidad para ampliar el perímetro de sus andanzas"
+      "published": "Wed, 19 Nov 2025 20:30:34 GMT",
+      "summary": "Los Mossos interrogan a personas del entorno familiar y laboral de Isak Andic, incluido el presidente de la compañía, para aclarar la relación con su hijo mayor, investigado por la policía por homicidio"
     },
     {
       "title": "La regulación excesiva frena la innovación en inteligencia artificial en Europa - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZll2cU5vQXBna0V5Zkdlc0xGLXFmUW5XTFNfTnVmQmZfZ1Itb1VBdjVDQnBleVhaUDlRbEhTbFBpLUZfQ3Ata1ZDVDlub2ZIZ1Z5a005NUlQQm1wR01takNPX3I0cG9mMHNOSlVKQ09mUFg4VjVLZldxZHl1RmJHdEtXNzVOWWxOTjI4NC11NGt6STRlYXNzVUlzQXhOeGI3Sm50TzM5U01aeV9keEJsVnhMYmFPWUFDT3"
     },
     {
-      "title": "Una nueva era con Gemini 3 - The Keyword",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVVBBc1hpQTdWWWZNTGJlR1p3V0lMSG13Uzh5NFhUaHJDUDlsWnM2Z1RudUJRdmNab0pOSmdUZDJ6UWVGOVRfOFJ4d0Vtb0JkY0E?oc=5",
+      "title": "Google lanza Gemini 3 en España, su IA más potente para entenderte con una precisión nunca antes vista - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTnpKM1pPdFNfdlFhUHFYR2RjaVBwRUFocFlqQVJnWDFVbXBXalJjLWZuWHh1QU8yZmVfS2JmczgwNFAtWThPblU4T3cxb3VkMkpxMFFmekoyOWxZdVJTY1JDMjdtU0JCWGM1cHYyUUlSejB6blk3eHdJdUVyb3FnVFczU3FRLTg1YkxObXlxV1VvR1oyeG9pemxyVThIVklPUGEzV083djdEckpyXzdVZXMyVm9hVm1JRUJfUVRPSVVnWlVkMEJlNGZhVTBCUDczWW9QMVJvdlB0V2xGYjF2R2w1em4tTG5hc0dYY08zc09XS3Zfc2E4d0xKM0ttVXdJYVhJ0gGIAkFVX3lxTFByZGRRNHdMVkRqeW9IR3VxVGFHalNhWkk4dGlPdVFhckVMV3djZmR4dXVOdGdKMEZvUzAzVFlQVkNER3hKMTVFVkJsVXRycU9DaEJhaEYwdmk1Q3hwVHZNMy1jbDd1YmdSX3BHVHgwRmt6eTRJLXJXN0k5ZkVlak1yMzkyQXJUa2Z3bzdqQnE0eUgyeGczTEItVDdoWFhRUVZoY3dSTFZpVWkxUGo4cDZBNXBqa3hRREVnalRxcXFiQmhhTjRMT0twakZwcE51TWZ2Y3ZiOTZ1cmY0LU43M0p3ZDBaWDVzV2xSMnBBQXhPNFZjOEwtblFtZDRLaW5kYTd1ME5jUVhWOQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 18 Nov 2025 16:15:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVVBBc1hpQTdWWWZNTGJlR1p3V0lMSG13Uzh5NFhUaHJDUDlsWnM2Z1RudUJRdmNab0pOSmdUZDJ6UWVGOVRfOFJ4d0Vtb0JkY0E?oc=5\" target=\"_blank\">Una nueva era con Gemini 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Keyword</font>"
+      "published": "Tue, 18 Nov 2025 16:13:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPTnpKM1pPdFNfdlFhUHFYR2RjaVBwRUFocFlqQVJnWDFVbXBXalJjLWZuWHh1QU8yZmVfS2JmczgwNFAtWThPblU4T3cxb3VkMkpxMFFmekoyOWxZdVJTY1JDMjdtU0JCWGM1cHYyUUlSejB6blk3eHdJdUVyb3FnVFczU3FRLTg1YkxObXlxV1VvR1oyeG9pemxyVThIVklPUGEzV083djdEckpyXzdVZXMyVm9hVm1JRU"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para El Clásico entre Real Madrid y Barcelona - beIN SPORTS",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW"
     },
     {
-      "title": "6 razones para reemplazar tecnología en startups (guía 2025) - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3VydDE3dEhKb3NubnBQZVFpS1Y5Z3BpaWVaekI5a3dTZHo4S3BMVi1odWVxVFhHaUZFaFd3LTY2b0dVUkRwMzB0LWY1dHB6Wng5QXI0czJuNk1Ha0RnVENmWHE3cFl2UDhFc3hiUFMzRzhiOWJfVHpEVTVDc1lkVTVUanBTblFWTThqa19lNmJKRDg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 18 Nov 2025 20:44:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3VydDE3dEhKb3NubnBQZVFpS1Y5Z3BpaWVaekI5a3dTZHo4S3BMVi1odWVxVFhHaUZFaFd3LTY2b0dVUkRwMzB0LWY1dHB6Wng5QXI0czJuNk1Ha0RnVENmWHE3cFl2UDhFc3hiUFMzRzhiOWJfVHpEVTVDc1lkVTVUanBTblFWTThqa19lNmJKRDg?oc=5\" target=\"_blank\">6 razones para reemplazar te"
-    },
-    {
       "title": "Emprendimiento femenino: Women Startup Awards 2025 - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJQbDkxOExLdWhBcnpnRU5Ia2Y1V2xMTWRJV0EweGlOb1ZWeERYSWZ3bkFqY0FnYURyX2lWdHpUVzRTcDhJcFgyc3YxcV96MFd0ZzF6VHVvdmpDbkNoSXE5dk5KTi1WY0dkTUVkaVgtTXFqRFJJbXNBUGFkeWljd0NSUldMYlE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 19 Nov 2025 16:43:36 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJQbDkxOExLdWhBcnpnRU5Ia2Y1V2xMTWRJV0EweGlOb1ZWeERYSWZ3bkFqY0FnYURyX2lWdHpUVzRTcDhJcFgyc3YxcV96MFd0ZzF6VHVvdmpDbkNoSXE5dk5KTi1WY0dkTUVkaVgtTXFqRFJJbXNBUGFkeWljd0NSUldMYlE?oc=5\" target=\"_blank\">Emprendimiento femenino: Women Startup Award"
+    },
+    {
+      "title": "6 razones para reemplazar tecnología en startups (guía 2025) - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3VydDE3dEhKb3NubnBQZVFpS1Y5Z3BpaWVaekI5a3dTZHo4S3BMVi1odWVxVFhHaUZFaFd3LTY2b0dVUkRwMzB0LWY1dHB6Wng5QXI0czJuNk1Ha0RnVENmWHE3cFl2UDhFc3hiUFMzRzhiOWJfVHpEVTVDc1lkVTVUanBTblFWTThqa19lNmJKRDg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 18 Nov 2025 20:44:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3VydDE3dEhKb3NubnBQZVFpS1Y5Z3BpaWVaekI5a3dTZHo4S3BMVi1odWVxVFhHaUZFaFd3LTY2b0dVUkRwMzB0LWY1dHB6Wng5QXI0czJuNk1Ha0RnVENmWHE3cFl2UDhFc3hiUFMzRzhiOWJfVHpEVTVDc1lkVTVUanBTblFWTThqa19lNmJKRDg?oc=5\" target=\"_blank\">6 razones para reemplazar te"
     },
     {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
