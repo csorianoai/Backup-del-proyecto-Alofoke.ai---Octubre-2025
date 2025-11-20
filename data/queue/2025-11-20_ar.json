@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Histórico fallo contra Meta: condenaron a la empresa de Mark Zuckerberg a pagarle más de US$ 500 millones a medios de España",
+      "url": "https://www.clarin.com/mundo/historico-fallo-meta-condenaron-empresa-mark-zuckerberg-pagarle-us-500-millones-medios-espana_0_fL43miHIoo.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 15:54:58 +0000",
+      "summary": "<ul><li>La Justicia ibérica consideró que el gigante tecnológico estadounidense incurrió en \"competencia desleal\".</li><li>La sentencia obliga a la compañía propietaria de Facebook, Instagram y WhatsApp a pagar la millonaria suma en concepto de resarcimiento a 87 editoras de prensa digital.</li></ul"
+    },
+    {
       "title": "Lavavajillas inteligentes: cómo es el electrodoméstico que te devuelve una semana de vida al año y ahorra miles de litros de agua",
       "url": "https://www.clarin.com/tecnologia/lavavajillas-inteligentes-electrodomestico-devuelve-semana-vida-ano-ahorra-miles-litros-agua_0_yNUsXJ5VdO.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>Cloudflare sufre problemas que afectan a servicios web globales y los usuarios reportan las caídas en diversas plataformas.</li><li>El dominio challenges.cloudflare.com es la primera línea de defensa activa contra ataques DDoS y bots maliciosos.</li><li>Analizamos cómo este servicio de la CD"
     },
     {
-      "title": "Se cayó League of Legends y VALORANT por Cloudfare: qué pasó con los juegos y cuándo se restablece el servicio",
-      "url": "https://www.clarin.com/estados-unidos/cayo-league-of-legends-valorant-cloudfare-paso-juegos-restablece-servicio_0_bNNkFyXJ4M.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 18 Nov 2025 15:03:24 +0000",
-      "summary": "<ul><li>Cloudflare registró una falla que dejó sin acceso a League of Legends y VALORANT en plena actividad matutina en Estados Unidos.</li></ul>"
-    },
-    {
       "title": "La logística argentina acelera inversiones en tecnología e inteligencia artificial - FashionNetwork Colombia",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNURzcUE3Mjc3Sk1VX0xhRGNGS3dQTmxubnZsZXhyOUo1eXRrVlZuZ3NpVVY4d044N0pUbTBuUE9rTlg4OVprdEU2REJMSFRfUEVXYVkta0lsWlFiWnhOTXNadlNOdjdtLVZfRWpybnk4dHNZOGhXaVE3VkwtZXJQWXcwRHJnel9pcTZuMVBJbHM3YmwzUWp4NVYxcHRXQWxnaktkR0tvTXc2LXlYREU3NElVLU5jdDdmQ3RKVFVIeWJMbjYtMWtUMG93?oc=5",
       "source": "Google News",
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTBWMGFCMFdhNFhoOG4xaDdUWnZVVzRuaFlxbEN2eWwwVkZnNi1VeTU5V0lkSHpicWVKR3NtZ2JEV0lIRF9jTEZGNVpLQnRfSVpmT0JSU0l0ajByRzlmeXFBeEZTQ2FaSEpYejFWYlhVOUZJY0MtdnhwYnZ3b3NEYlN5RlEyU3cxcGNOR1dEUTZMVXFXXzdyaHpyOXVmZ2hnTG1BOHVtdHlGbU9LVHk2a2VzZTFpdlBuMU"
     },
     {
-      "title": "Google amenaza a vendedores de vuelos al mejorar su agencia con IA - REPORTUR.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS01weVloWGN1LW1WNmlLSWhQT0w0clBjUmNkQVFSMEswQ0FGM0JraGRSYmxSLS00RVJwVnVpSTVfbTNfNFVOSVNfUTBITWNkNHo5b3B3T29KSmkwTW5tcEN5cGF2Tzd0ZHloZGM0X3I3OEd4N183SFFjOFZxcFc5bVA1ZndDM2FUODhMTE1meEZEdGY3akU5bklMcEV1bWJuVkZDeVBIa09FV2RrendBRWJxZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Nov 2025 05:55:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOS01weVloWGN1LW1WNmlLSWhQT0w0clBjUmNkQVFSMEswQ0FGM0JraGRSYmxSLS00RVJwVnVpSTVfbTNfNFVOSVNfUTBITWNkNHo5b3B3T29KSmkwTW5tcEN5cGF2Tzd0ZHloZGM0X3I3OEd4N183SFFjOFZxcFc5bVA1ZndDM2FUODhMTE1meEZEdGY3akU5bklMcEV1bWJuVkZDeVBIa09FV2RrendBRWJxZw?oc=5\" t"
-    },
-    {
       "title": "La provincia de Buenos Aires aprobó reglas para el desarrollo y uso responsable de inteligencia artificial en el Estado - Ambito",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3lLWjV1ZFF5SW9pM2tlUkYtLWJ2UFE5Sk53dXNtekVXaXpkb1ltQWJKcDF1eURYS3ljbl8xb0F2V3Y5UHRQY0FpUGNBb2tFOVRobnNPOHgteVlBRFpRb1M4SVBOc0FJOWt2clJ0T3JHaWtMeDZJOXN1Qk55a08zT1pKNkNVa0EwVzhzYWJDZmlLbWtNQkpUOVdvbFhON0tRTmkySVFmaE1PNndIX3ExZnJFWEJYSE9QSzhmVDRLRFkzYUl6YzdBMnYzZXowNVV6TkhF0gHYAUFVX3lxTFBsWHRiLWc3TFlJR2c3QVhXM1VNSTdsUFBPaUd0OFMtdDNqVmxoREpuZjFucGxTZzgxQlp6SmR4bzVlaGxMeE9xWHZZcmFTV2VFUHJCR0JGdV82TE9GbHE0QjBjZWRicDNYd0tsVGN2NFNTemNQM2g2U2dtQkxlei15OXpVTTFYUEtGVHE4WnlhMDRWQWc4UVRSVFh1RXl1eXJiSkh4Ql85cDg2cnVEaUlTRDFnZ21WdTZMVDBhQzFEU3l3b3AxVFlDX19FdVkzN3l2QjlYZndqOQ?oc=5",
       "source": "Google News",
@@ -91,6 +83,22 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzYyb0RxNjltd2tFc0RTeUt3T0JCMmdIS2tleFd2TXU5MWY4anl1WW5FOHI1UGJDb0lacVNCQ3o5Y282YWJKTWZ1bUJwT3ZHVWkzcXZMcmhaMDJUd0ZaVEtQaHllVmF0cW9HWGpZSVFqYkx2V2dWRFl3TTBMWWNRUVotcWhXalVKYjJVOWFMTVY1blQxVGotaU94c2tRZWdsdHdHUkZVMTR1M3Y4YlFzdnBYNHVDQm4za2"
     },
     {
+      "title": "Buenos Aires avanza con su primer marco para regular la Inteligencia Artificial: qué implica y cómo impacta en el debate nacional - InfoPlatense",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORFZSZzF3SHVRSXJ1QnVhWjhvS2JCd3BLc2VVMGlnTXkwZWhueG5zZFRzZ05CMW9HVWROdV9qTXNSU2VHU0JzN185Y0c2S3RjTVNEOWFDSGVQSS05OFZMdFNTMXRKVHJmSXdfb185Y2t4MDk4RXozS1lGbUsxeXc0XzhrenhyanJzbklsTzZfU2h2TTZLbF81MDBndllEeHhBcEhBY09KMklRbXVsUDNzSC1hc1pHNFp4ZnBuTWU5WExzQTdQVDEyQkZYb1d6bldqRlhBLTN0NjRYMUtibkdSNUtUSGFIWjZhWnlMb0k5cG1kRWM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 16:09:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxORFZSZzF3SHVRSXJ1QnVhWjhvS2JCd3BLc2VVMGlnTXkwZWhueG5zZFRzZ05CMW9HVWROdV9qTXNSU2VHU0JzN185Y0c2S3RjTVNEOWFDSGVQSS05OFZMdFNTMXRKVHJmSXdfb185Y2t4MDk4RXozS1lGbUsxeXc0XzhrenhyanJzbklsTzZfU2h2TTZLbF81MDBndllEeHhBcEhBY09KMklRbXVsUDNzSC1hc1pHNFp4Zn"
+    },
+    {
+      "title": "Startup argentina Flips revoluciona la compraventa con inversión u$s 500.000 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlJFdXdNenE0dC0wNWtsX2x6X3pGVDlrbjFUdGkwUWNmQWJ4ckpVYXJmT20zbllCNm5qc0J6cHNyUHVmbFhOZGhlQ0RBdWZKTHRhakpzSnBVaHV3Z0RvU3JDSmd2RzFJRTNXaWRYbUJNckVJRHZMVzVSa1JEMHhucTNZRlZ3ay1vVkF2SWN3aG9ON1gxTlhrS29XSndWaHFjNVl4cldVV1lYUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 17:12:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlJFdXdNenE0dC0wNWtsX2x6X3pGVDlrbjFUdGkwUWNmQWJ4ckpVYXJmT20zbllCNm5qc0J6cHNyUHVmbFhOZGhlQ0RBdWZKTHRhakpzSnBVaHV3Z0RvU3JDSmd2RzFJRTNXaWRYbUJNckVJRHZMVzVSa1JEMHhucTNZRlZ3ay1vVkF2SWN3aG9ON1gxTlhrS29XSndWaHFjNVl4cldVV1lYUQ?oc=5\" target=\"_blan"
+    },
+    {
       "title": "Una startup argentina redujo hasta 50% el uso de químicos y ganó un reconocido premio mundial - Economía Sustentable",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSFVyV0RXS1BLZm81aVlSNHZWc2FscTRaS2tfZ2sxeHNnZnl1dE81VmY2cnhKbmFNdGdQSk1sOENUMUdGSUdfRF9SODlqODJqQjktbWlkRU1fNVprVFFzWjVVR01XeFljSi05dFN0WkZsYi1ldmxwNU8wQTFvS3lPc0RGVXNwRlBjVGc4enRTMG8tdXFYME00RHBaMlBacDFyUUhjOVQ4ZVVvMWdlRzNaUmZycVE3bTVqSl9veVdoOHFBck9wSzVyZFhuMDVlSFXSAdQBQVVfeXFMT194akxNX1R4UWFqREhLWVQxU3FnSGt3dnBTYTVHM2lWc2hER2w0NzJNSG1TQjVEYURfel95YWNrLWEwM2EyaVdKU2F4TEZmelpzYzJxYXZEaURrTnJFd0ljNlBDU1Z0TWVNa0I0V0czWDBmRThKRnlLNEh6MVZVb2hrZms0NEo5TkZqVnZkVDg5S1JXNm1HZENMWGVsNWg5UWVZWnM5VFB2eFJFc2w4bjBTaUpjSUVnWVpSdE5KcTVlZE5MV1hiZFk1UE5OYlRsQ0I0LV8?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Fri, 22 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZz"
-    },
-    {
-      "title": "Busup lleva su tecnología de movilidad a Colombia y Argentina: expansión global de startups - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUJFRXk2bjJodDVaMXg2S0NxdEV6NW0yVnZxYXctXzlDRzNsWGNwU3VsQlpGWDF5Y2hZQ2lwczJHNmF4Z3FoRm9wcUJBcWtOdklvcUd1a0txbV80NDlQYmxWX185UkJiZWNJMS00UUJ3MjAxRjl2TkZWOG8xWHhTc2tISWxFY1pKQUdBUjUtOFRoeVlJM3NRbGpqZXpJOWJnYjNjRkxONTY0OTYzV3RkU0h2X2hyZWxBSS1MSEF3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORUJFRXk2bjJodDVaMXg2S0NxdEV6NW0yVnZxYXctXzlDRzNsWGNwU3VsQlpGWDF5Y2hZQ2lwczJHNmF4Z3FoRm9wcUJBcWtOdklvcUd1a0txbV80NDlQYmxWX185UkJiZWNJMS00UUJ3MjAxRjl2TkZWOG8xWHhTc2tISWxFY1pKQUdBUjUtOFRoeVlJM3NRbGpqZXpJOWJnYjNjRkxONTY0OTYzV3RkU0h2X2hyZWxBSS"
     }
   ],
   "count": 14
