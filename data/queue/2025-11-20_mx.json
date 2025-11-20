@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Tim Cook: el CEO de Apple que diversificó sus ganancias",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/tim-cook-el-ceo-de-apple-que-diversifico-sus-ganancias",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 21:00:17 GMT",
+      "summary": "Tras casi 14 años al frente de Apple, Cook convirtió eficiencia en ganancias, pero ahora enfrenta la posibilidad del final de una era."
+    },
+    {
+      "title": "La nube crece, pero la cultura laboral limita su verdadero impacto",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/gran-freno-para-nube-no-es-tecnologia-sino-cultura-laboral",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 19:00:31 GMT",
+      "summary": "La nube promete acelerar la innovación, pero la cultura sigue siendo el principal cuello de botella para que se consolide completamente"
+    },
+    {
+      "title": "Nvidia bate otro récord y aumenta sus ingresos un 62%",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/nvidia-bate-otro-record-y-aumenta-sus-ingresos-un-62",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 15:00:59 GMT",
+      "summary": "La tecnológica pulverizó expectativas y reforzó que la explosión de la IA probablemente no sea sólo un destello."
+    },
+    {
       "title": "Google presenta Gemini 3, su modelo “más cercano a la IA general”",
       "url": "https://expansion.mx/tecnologia/2025/11/19/google-lanza-gemini-3",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Wed, 19 Nov 2025 23:00:05 GMT",
       "summary": "El registro iniciaría en 2026, ya que las reglas para su implementación están en consulta pública. Por ahora, los operadores no deben validar la identidad para activar o mantener una línea."
-    },
-    {
-      "title": "En adopción de IA, México reprueba en talento y regulación",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/mexico-esta-reprobado-adopcion-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 21:00:31 GMT",
-      "summary": "Aunque el entusiasmo por el uso de esta tecnología, un reporte de Salesforce señaló que en comparación con el mundo, el país no tiene una buena calificación."
-    },
-    {
-      "title": "Roblox utilizará selfies para verificar la edad de los usuarios",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/roblox-exigira-usuarios-verificar-edad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 16:00:33 GMT",
-      "summary": "En próximas semanas, la plataforma implementará a nivel global nuevas medidas de seguridad que usan inteligencia artifical para estimar la edad de los usuarios con sus rostros y así reducir el grooming."
-    },
-    {
-      "title": "Meta gana juicio antimonopolio y no deberá vender WhatsApp o Instagram",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/meta-gana-juicio-antimonopolio-whatsapp-instagram",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 15:00:40 GMT",
-      "summary": "Un juez desestimó el caso de la FTC por no poder demostrar su dominio en el terreno de las redes sociales en la actualidad."
     },
     {
       "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
@@ -67,6 +67,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDR6WHd3ZzR6MmRkWGNBc0JkQTBURV9ScjlUMzNwa1lBbUxSb1h0cWVXcjk0cXBCcDN4NGNPMU8xeWZNelUxWFRwVmNtMjA0N3M3NVJNRkRWRlc3RGw4c0F1c1V1ZXNCSlZQN04zdGMtMGU2YWVyQkgwNzk2akRGb1F4Nm1Qelh0bjBxMk9iY0cyaFJHSnBrVkdZX0tRTjlMT0dCbDlCZDFhdlhwUkc2V0FSd1FRNm9YUG"
     },
     {
+      "title": "Asistentes de investigación Kagi: IA para búsquedas avanzadas - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 21:02:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5\" target=\"_blank\">Asistentes de investigac"
+    },
+    {
       "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
       "source": "Google News",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Thu, 20 Nov 2025 14:19:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeE"
-    },
-    {
-      "title": "Crea Jeff Bezos una startup de IA, donde será CEO - El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94dENpUW5JZmM1TDQ0bFdrRW0xb2kzV3htMlFXUVZJS19qY3I2aHcza0VXY3Y5S2VvTS1nNkV5UFUxUlM1VnV0dlI5V2xQQlR5ZHBnNjE2WFZxOE8wT1BBT0RrYUpXQnBMM2VwVm9fcFJzVGNBdDJoS1FKUkw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 17 Nov 2025 20:37:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE94dENpUW5JZmM1TDQ0bFdrRW0xb2kzV3htMlFXUVZJS19qY3I2aHcza0VXY3Y5S2VvTS1nNkV5UFUxUlM1VnV0dlI5V2xQQlR5ZHBnNjE2WFZxOE8wT1BBT0RrYUpXQnBMM2VwVm9fcFJzVGNBdDJoS1FKUkw?oc=5\" target=\"_blank\">Crea Jeff Bezos una startup de IA, donde será CEO</a>&nbsp;&"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
