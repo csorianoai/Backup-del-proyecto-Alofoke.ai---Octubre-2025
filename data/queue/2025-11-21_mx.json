@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Netflix y ViX apuestan por microcontenidos para atraer a la generación Z",
-      "url": "https://expansion.mx/tecnologia/2025/11/21/netflix-y-vix-apuestan-microcontenidos-para-generacion-z",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 21 Nov 2025 18:03:07 GMT",
-      "summary": "Las plataformas enfrentan el reto de conquistar a audiencias habituadas al consumo de redes sociales. Netflix y ViX apuestan por videos verticales y microdramas para recuperar su atención."
-    },
-    {
       "title": "Todos los mexicanos deberán registrar su número celular con su CURP: cuándo inicia el Padrón de telefonía",
       "url": "https://expansion.mx/tecnologia/2025/11/21/mexicanos-deberan-registrar-numero-celular-curp",
       "source": "Expansión Tecnología",
@@ -43,6 +35,14 @@
       "summary": "La tecnológica pulverizó expectativas y reforzó que la explosión de la IA probablemente no sea sólo un destello."
     },
     {
+      "title": "Google presenta Gemini 3, su modelo “más cercano a la IA general”",
+      "url": "https://expansion.mx/tecnologia/2025/11/19/google-lanza-gemini-3",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 00:00:27 GMT",
+      "summary": "El anuncio llega tras meses de controversias por sesgos, restricciones en respuestas políticas y cuestionamientos sobre privacidad"
+    },
+    {
       "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
       "source": "Google News",
@@ -59,11 +59,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjVOenJnTUNuTXkwR2cxa3ZOTUhHblFjZDdXOUlpSzdaQ0wwOEkxY0Rqc1M3bG45dnBISVBscnlIXzVjNGg5ZnZDU2haUUZTY2VNRldiUS01UmFBRjRRcE1iZ2tDMFp5Q3d3NkRLU043OHVhdXRxQ19XUlVHVEswTDZyUjBjQ0I5ampLVjdqZDdwMms4Vnduc1V0RkxhQUNxV05NRHlJNkJsNk9BS3RPTDhB?oc=5\" tar"
     },
     {
-      "title": "SEP presenta Saberes MX, plataforma de educación gratuita: estos son los cursos y grados escolares disponibles - Infobae",
+      "title": "SEP presenta SaberesMX, plataforma de educación gratuita: estos son los cursos y grados escolares disponibles - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVJjT3FKYWpPaVlxdnhua0tQU2UzTDlOeUUyRWQza2l2SG1yNmRoSzJxdzMzZTFVcUM4TkJSLWFTV09zMW5zX2tEZ1Y5b3M0U1lldnZHUjd6a1VTOHBobzBFcDg2XzM2TDlWMEw1UGM2TklSbTU1VFV2RDRRNHZYRDZSeGhpUXRJbnd5Sm9oMXItd1c1UnRFZUFxaG1GeWNKeDZlaTVjcTBsTFhkLU4zcFNrVk1TeFlhT0d2b1ZpUzRfUTl6dHVpNlpSZU4yNGd1ODhtUGd0cDBsQTJPQm1TUUlHdFZPZ9IBgAJBVV95cUxPVmZYazhjSjJVLUQxcFdUa3ZLMC03NURoRUJla1dzWkJuQk9IT2x5M1ZnNjJVSXQxNjgwdFZmZXRudGcya3ZuWE9BUzR1cjN6VlZmRk5JV25WRDdQRWkxUjZvU1pVeWRjVnJUWXJ2YUwyZ3Z1WjJtNk1UNFYtVzRnVU9vVkVMQWoza1JLeDB3ZmVtZmZmQTJfMlVfRXJWMHEwZ1UwbXB3VTNWRkNuLXVfNDNVUDF4SU5vZ2tmSmJncFNJNzRjTjFpU0cwLURPVWdhTVNrWVhLa2Z6SzNBMnZubFFuTXF2RHNFMEo5MlFyNm15em9BVmIwaU85TFNHa2Nu?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 21 Nov 2025 14:52:00 GMT",
+      "published": "Fri, 21 Nov 2025 18:33:45 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVJjT3FKYWpPaVlxdnhua0tQU2UzTDlOeUUyRWQza2l2SG1yNmRoSzJxdzMzZTFVcUM4TkJSLWFTV09zMW5zX2tEZ1Y5b3M0U1lldnZHUjd6a1VTOHBobzBFcDg2XzM2TDlWMEw1UGM2TklSbTU1VFV2RDRRNHZYRDZSeGhpUXRJbnd5Sm9oMXItd1c1UnRFZUFxaG1GeWNKeDZlaTVjcTBsTFhkLU4zcFNrVk1TeFlhT0"
     },
     {
@@ -75,7 +75,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5\" target=\"_blank\">Asistentes de investigac"
     },
     {
-      "title": "Domingo Salazar: Boom de IA mexicana exige políticas públicas claras - El Financiero",
+      "title": "Domingo Salazar: Boom de IA mexicana exige políticas públicas claras - elfinanciero.com.mx",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeERBbFdB?oc=5",
       "source": "Google News",
       "category": "news",
