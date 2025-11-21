@@ -3,6 +3,38 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Netflix y ViX apuestan por microcontenidos para atraer a la generación Z",
+      "url": "https://expansion.mx/tecnologia/2025/11/21/netflix-y-vix-apuestan-microcontenidos-para-generacion-z",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Nov 2025 18:03:07 GMT",
+      "summary": "Las plataformas enfrentan el reto de conquistar a audiencias habituadas al consumo de redes sociales. Netflix y ViX apuestan por videos verticales y microdramas para recuperar su atención."
+    },
+    {
+      "title": "Todos los mexicanos deberán registrar su número celular con su CURP: cuándo inicia el Padrón de telefonía",
+      "url": "https://expansion.mx/tecnologia/2025/11/21/mexicanos-deberan-registrar-numero-celular-curp",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Nov 2025 13:38:05 GMT",
+      "summary": "El registro iniciaría en 2026, ya que las reglas para su implementación están en consulta pública. Por ahora, los operadores no deben validar la identidad para activar o mantener una línea."
+    },
+    {
+      "title": "Tim Cook: el CEO de Apple que diversificó sus ganancias",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/tim-cook-el-ceo-de-apple-que-diversifico-sus-ganancias",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 21:00:17 GMT",
+      "summary": "Tras casi 14 años al frente de Apple, Cook convirtió eficiencia en ganancias, pero ahora enfrenta la posibilidad del final de una era."
+    },
+    {
+      "title": "La nube crece, pero la cultura laboral limita su verdadero impacto",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/gran-freno-para-nube-no-es-tecnologia-sino-cultura-laboral",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 19:00:31 GMT",
+      "summary": "La nube promete acelerar la innovación, pero la cultura sigue siendo el principal cuello de botella para que se consolide completamente"
+    },
+    {
       "title": "Nvidia bate otro récord y aumenta sus ingresos un 62%",
       "url": "https://expansion.mx/tecnologia/2025/11/20/nvidia-bate-otro-record-y-aumenta-sus-ingresos-un-62",
       "source": "Expansión Tecnología",
@@ -11,36 +43,12 @@
       "summary": "La tecnológica pulverizó expectativas y reforzó que la explosión de la IA probablemente no sea sólo un destello."
     },
     {
-      "title": "Google presenta Gemini 3, su modelo “más cercano a la IA general”",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/google-lanza-gemini-3",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Nov 2025 00:00:27 GMT",
-      "summary": "El anuncio llega tras meses de controversias por sesgos, restricciones en respuestas políticas y cuestionamientos sobre privacidad"
-    },
-    {
-      "title": "Registro de líneas telefónicas: ¿cuándo iniciará y qué documentos pedirán?",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/registro-telefonia-movil-con-curp-fecha",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 23:00:05 GMT",
-      "summary": "El registro iniciaría en 2026, ya que las reglas para su implementación están en consulta pública. Por ahora, los operadores no deben validar la identidad para activar o mantener una línea."
-    },
-    {
-      "title": "En adopción de IA, México reprueba en talento y regulación",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/mexico-esta-reprobado-adopcion-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 21:00:31 GMT",
-      "summary": "Aunque el entusiasmo por el uso de esta tecnología, un reporte de Salesforce señaló que en comparación con el mundo, el país no tiene una buena calificación."
-    },
-    {
-      "title": "Roblox utilizará selfies para verificar la edad de los usuarios",
-      "url": "https://expansion.mx/tecnologia/2025/11/19/roblox-exigira-usuarios-verificar-edad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Nov 2025 16:00:33 GMT",
-      "summary": "En próximas semanas, la plataforma implementará a nivel global nuevas medidas de seguridad que usan inteligencia artifical para estimar la edad de los usuarios con sus rostros y así reducir el grooming."
+      "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Nov 2025 14:12:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
     },
     {
       "title": "Un país que ya usa IA, pero aún construye sus reglas: el momento regulatorio de México - THE LOGISTICS WORLD",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMjVOenJnTUNuTXkwR2cxa3ZOTUhHblFjZDdXOUlpSzdaQ0wwOEkxY0Rqc1M3bG45dnBISVBscnlIXzVjNGg5ZnZDU2haUUZTY2VNRldiUS01UmFBRjRRcE1iZ2tDMFp5Q3d3NkRLU043OHVhdXRxQ19XUlVHVEswTDZyUjBjQ0I5ampLVjdqZDdwMms4Vnduc1V0RkxhQUNxV05NRHlJNkJsNk9BS3RPTDhB?oc=5\" tar"
     },
     {
-      "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
+      "title": "SEP presenta Saberes MX, plataforma de educación gratuita: estos son los cursos y grados escolares disponibles - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVJjT3FKYWpPaVlxdnhua0tQU2UzTDlOeUUyRWQza2l2SG1yNmRoSzJxdzMzZTFVcUM4TkJSLWFTV09zMW5zX2tEZ1Y5b3M0U1lldnZHUjd6a1VTOHBobzBFcDg2XzM2TDlWMEw1UGM2TklSbTU1VFV2RDRRNHZYRDZSeGhpUXRJbnd5Sm9oMXItd1c1UnRFZUFxaG1GeWNKeDZlaTVjcTBsTFhkLU4zcFNrVk1TeFlhT0d2b1ZpUzRfUTl6dHVpNlpSZU4yNGd1ODhtUGd0cDBsQTJPQm1TUUlHdFZPZ9IBgAJBVV95cUxPVmZYazhjSjJVLUQxcFdUa3ZLMC03NURoRUJla1dzWkJuQk9IT2x5M1ZnNjJVSXQxNjgwdFZmZXRudGcya3ZuWE9BUzR1cjN6VlZmRk5JV25WRDdQRWkxUjZvU1pVeWRjVnJUWXJ2YUwyZ3Z1WjJtNk1UNFYtVzRnVU9vVkVMQWoza1JLeDB3ZmVtZmZmQTJfMlVfRXJWMHEwZ1UwbXB3VTNWRkNuLXVfNDNVUDF4SU5vZ2tmSmJncFNJNzRjTjFpU0cwLURPVWdhTVNrWVhLa2Z6SzNBMnZubFFuTXF2RHNFMEo5MlFyNm15em9BVmIwaU85TFNHa2Nu?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 20 Nov 2025 14:14:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
-    },
-    {
-      "title": "Pablo Estevez: MIA la tecnología de Time to Hire que quiere transformar la forma en que el mundo contrata talento - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMktBXzAxS2RMNDlFRzRmNlJZRDk3WVV4YUZIRm5xazR0V095MzQ4ei1MNkVHQXBqaXBDMzhGbHpGMHpnTTA0eWhWVnRnTTB6WWlvRWQ0V0RrbUpOWDBRRUpmRGlSVXY0c3V2SG95cTBEQ2hOZWpIOFdkNWFYb0lkNVhYZVlOejBLd0ZxZFpKYU13WXZPNWRja3FuRm9oSGNKZHZNYlBIamxmdHozZ0ZRZEtWcWJHVmNjbDhXVnlOUk5kcVFJS25EUFVQTHpScTNDV0RhQjByUGlJQVZxWXFYX3hrOGNfbU1xdTlnX2lwVDY2U0djUDVn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Nov 2025 21:49:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMktBXzAxS2RMNDlFRzRmNlJZRDk3WVV4YUZIRm5xazR0V095MzQ4ei1MNkVHQXBqaXBDMzhGbHpGMHpnTTA0eWhWVnRnTTB6WWlvRWQ0V0RrbUpOWDBRRUpmRGlSVXY0c3V2SG95cTBEQ2hOZWpIOFdkNWFYb0lkNVhYZVlOejBLd0ZxZFpKYU13WXZPNWRja3FuRm9oSGNKZHZNYlBIamxmdHozZ0ZRZEtWcWJHVmNjbD"
+      "published": "Fri, 21 Nov 2025 14:52:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVJjT3FKYWpPaVlxdnhua0tQU2UzTDlOeUUyRWQza2l2SG1yNmRoSzJxdzMzZTFVcUM4TkJSLWFTV09zMW5zX2tEZ1Y5b3M0U1lldnZHUjd6a1VTOHBobzBFcDg2XzM2TDlWMEw1UGM2TklSbTU1VFV2RDRRNHZYRDZSeGhpUXRJbnd5Sm9oMXItd1c1UnRFZUFxaG1GeWNKeDZlaTVjcTBsTFhkLU4zcFNrVk1TeFlhT0"
     },
     {
       "title": "Asistentes de investigación Kagi: IA para búsquedas avanzadas - El Ecosistema Startup",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWElVVEFrblEyOF9EdjY0T2JvTFRIcjV1RzVZbUgtWVNncW5jSnVfQUNDaWs0QnR5eXEzRXdLTzRoMlA0Y3hlcWV2N1p4dmdQRVhTckdUWXF5NmZIa0x5MkEtUnUtSmE5cEV0Yk42S3ZYZllTbW5ybWU3eElCbzJ4UG9vdjNlcEdORXl6dUpkaGlWWGlkSGtjelgzMXhiS19wWHBLWlh3YmtlcjBieXlyZnRBTQ?oc=5\" t"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - Unesco",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",

@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
+      "title": "Trump da a Zelenski una semana para responder sobre el plan de paz para Ucrania",
+      "url": "https://elpais.com/internacional/2025-11-21/trump-da-a-zelenski-una-semana-para-responder-sobre-el-plan-de-paz-para-ucrania.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Nov 2025 16:30:56 GMT",
+      "summary": "El presidente de Estados Unidos considera que el jueves, el día de Acción de Gracias, sería un “momento apropiado” para que Kiev decida"
+    },
+    {
+      "title": "Zelenski, ante el nuevo plan de paz de Trump: “Ucrania puede verse en el riesgo de perder su dignidad o a un aliado clave”",
+      "url": "https://elpais.com/internacional/2025-11-21/el-plan-de-ee-uu-traspasa-lineas-rojas-de-ucrania-y-cede-ante-las-exigencias-de-rusia.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Nov 2025 17:36:39 GMT",
+      "summary": "La propuesta para finalizar la guerra que han negociado los enviados de Trump y Putin da por hecho que Kiev renunciará a la soberanía en Donbás y Crimea"
+    },
+    {
       "title": "Ayuso eleva la crispación: “No es el fiscal general sino Sánchez quien está en el banquillo. Es propio de una dictadura”",
       "url": "https://elpais.com/espana/madrid/2025-11-21/ayuso-sobre-la-condena-a-garcia-ortiz-no-es-el-fiscal-general-sino-sanchez-quien-se-ha-sentado-en-el-banquillo.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Fri, 21 Nov 2025 12:58:21 GMT",
-      "summary": "La presidenta de Madrid los acusa a ambos de orquestar un complot en su contra y borrar “todo dispositivo digital con el ánimo de obstruir la labor judicial"
+      "summary": "La presidenta de Madrid los acusa a ambos de orquestar un complot en su contra y borrar “todo dispositivo digital con el ánimo de obstruir la labor judicial”"
     },
     {
       "title": "¿Afecta la condena al Fiscal General a las dos causas contra el novio de Ayuso?",
@@ -27,20 +43,20 @@
       "summary": "Con el argumento de evitar filtraciones, los magistrados decidieron dar a conocer el fallo antes que la sentencia"
     },
     {
-      "title": "El Gobierno mide sus pasos mientras estalla en privado contra el Supremo: “Lo tenían decidido, es un fallo político”",
-      "url": "https://elpais.com/espana/2025-11-21/el-gobierno-mide-sus-pasos-mientras-estalla-en-privado-contra-el-supremo-lo-tenian-decidido-es-un-fallo-politico.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 21 Nov 2025 04:30:01 GMT",
-      "summary": "El Ejecutivo prepara un rápido relevo con un nombre con autoridad para dar un mensaje fuerte, mientras la indignación reunifica a la mayoría"
+      "title": "La inteligencia artificial pone a prueba a la nueva generación de profesionales en España - RRHH Digital",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDlxRTA4Q0xkNzRuYmVyQWZjRWRNTE5lNGNVcHJxVXRoVnBrSi1NbFh1SUJEeno5RktOOXh5WXdEWW9wSDJpYzlpWFRoUy0tTUlBMlNtWUZualdXZnJGZzIyNDZqcEFpZTlILVpaZWp5cUxRdmJfYWNub3BLOWt6S294T0daRXRHSXVRdnR3aFFsRFJ6MHFpR1pMaTM5QlVsOUZ1MjByOU9PVkN2U3VKelpRY3RIYmwweWJMaTdIRk81cmNkLUtuZzZzVTdQWExkRnp5bXhBd19QRjhXV0JZ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Nov 2025 10:01:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDlxRTA4Q0xkNzRuYmVyQWZjRWRNTE5lNGNVcHJxVXRoVnBrSi1NbFh1SUJEeno5RktOOXh5WXdEWW9wSDJpYzlpWFRoUy0tTUlBMlNtWUZualdXZnJGZzIyNDZqcEFpZTlILVpaZWp5cUxRdmJfYWNub3BLOWt6S294T0daRXRHSXVRdnR3aFFsRFJ6MHFpR1pMaTM5QlVsOUZ1MjByOU9PVkN2U3VKelpRY3RIYmwweW"
     },
     {
-      "title": "Los partidos de izquierda cargan unánimemente contra el fallo sobre el fiscal general: “Golpe judicial en toda regla”",
-      "url": "https://elpais.com/espana/2025-11-20/los-partidos-de-izquierda-cargan-unanimemente-contra-el-fallo-sobre-el-fiscal-general-golpe-judicial-en-toda-regla.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Nov 2025 19:14:52 GMT",
-      "summary": "El PNV recibe la decisión del Supremo con “perplejidad” y Junts acusa a la justicia de depender del bipartidismo"
+      "title": "España y Turquía alían sus ecosistemas empresariales para impulsar la Inteligencia Artificial como motor de crecimiento y competitividad - Empresa Exterior",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWTBGY3hQcUFXTHpjQTFKRDVuZF9OSURMRXJ3ekx1UVg2WjgtbFhnVkNPOHJNczFsRXNxOTFnbGlIWERlcm02QWpjYW5xRjRFQlgzeTVueTZqSHlOZXZaRzRmSnBnQjdwTUJYb2htZ2FVZnI5NHBncHRIR0RaaDVBTnAxNURZOHE4OEl3d0dwMUxva0Vpek1JSm1iQjFWRWlXaVBFdC1RQTk1ZFgta1VtcUFQYzk4T3NTWVJrazJFZExjUGxaQVowcDA2aE1MZnNFQ0M2TnkwaW1jYWhfLUljYm55dGM1S1lBakduY0ZIR3VZUzRwdVJKaFhOc3o1QXRxMGxmLThn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Nov 2025 18:00:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQWTBGY3hQcUFXTHpjQTFKRDVuZF9OSURMRXJ3ekx1UVg2WjgtbFhnVkNPOHJNczFsRXNxOTFnbGlIWERlcm02QWpjYW5xRjRFQlgzeTVueTZqSHlOZXZaRzRmSnBnQjdwTUJYb2htZ2FVZnI5NHBncHRIR0RaaDVBTnAxNURZOHE4OEl3d0dwMUxva0Vpek1JSm1iQjFWRWlXaVBFdC1RQTk1ZFgta1VtcUFQYzk4T3NTWV"
     },
     {
       "title": "La inteligencia artificial redefine la estrategia del retail en España de cara al Black Friday - itreseller.es",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Fri, 21 Nov 2025 09:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbThLcjJuaDE3ems5WHZjZVdMS0VtQWFuWm9HdjkzcDJfQUZkNGRSNEdLOGdUNllSZTZuTzJyM1h0UnpwMmpXdXpoUko1NWctR2NWbVdxOHJzU1VOd0tZZnBVWHA2eTliaEFpdm1uZzgxMnVqQTk0d3dnelJhM1JjNVBMSWFjeEJEVGtaLVFHOWtqdlM3ZmpnOEFUMUU3RjRFdDNGbDhkaEd5OXJaWlBERVlEVUtYLWhYMj"
-    },
-    {
-      "title": "La regulación excesiva frena la innovación en inteligencia artificial en Europa - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVng5a2J5WVJFR2hlWEJad2lIY29BaHlnSDdrQjJkZTJBQUhmcFktWXlNYXhMajFTYTRnVWptNWVFdWxhektZcWdwUkN0NnI2cy10QVB4S3BSOGNhV1RMMzhsTlZRWTZaaTRZOGE4dXA4aS1nTzVNQTcxWXhWaW05R21KTXZ1S0pNZVBCRXRob3VpcXF2Ujd2R05ZcVRld1Nna05CUU05U1RnR01wTkhDM0kxcDBVQXkxdDBxeHlTa9IB2gFBVV95cUxOVEhCNHRoc0M1cVZSRlAtVDNHVVhPZGV2bG5qdmpzU1QybmFGNXUzYlg2UkRwa01PcGFEOVlacVBIMHZYME1BdVItZGxTX3FwRUxaUVYxa1ptUnRaaHdOOHo1QUVIT1d6dnZMQWZleHRsV0dOVVJVQmtYakFjMEJ1U292Y01SblhtaS01bDFNcFlaWlNpaEJVYzE5TXdvRTB6dkpFemZ3RmFEMEs5NGc1eks2S3hsXzRlR2FaeFNBdkZLNktJV3pYS2lCdDVZWGxLVXZ6Mk9sTlFaQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 19 Nov 2025 12:23:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVng5a2J5WVJFR2hlWEJad2lIY29BaHlnSDdrQjJkZTJBQUhmcFktWXlNYXhMajFTYTRnVWptNWVFdWxhektZcWdwUkN0NnI2cy10QVB4S3BSOGNhV1RMMzhsTlZRWTZaaTRZOGE4dXA4aS1nTzVNQTcxWXhWaW05R21KTXZ1S0pNZVBCRXRob3VpcXF2Ujd2R05ZcVRld1Nna05CUU05U1RnR01wTkhDM0kxcDBVQXkxdD"
-    },
-    {
-      "title": "La inteligencia artificial marca el rumbo del XX Congreso de Hoteleros Españoles en Cartagena - Smart Travel News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTRIRG1aVFJEUm9xMnFacVZfYTZlMXFzOG9tMjlfeS0xazN4NmF5b2lNZTk2NlItNGctdDRna28zVUpxeWJtb3doczdCdklFcHZHcnRva2Z5UFpTczY1LWN6cUdzNkx6Tl9hajktR2xqU2RFeVlJc010blotRXVTNkl0ck4yQ3dyUEtYODZWUXk3elpXT2k5Y19GLXZOMlg2RkVvM1dDZ0otcUdZX3BjY0RlZkJTV0lfZW52cHh5VHI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Nov 2025 18:07:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTRIRG1aVFJEUm9xMnFacVZfYTZlMXFzOG9tMjlfeS0xazN4NmF5b2lNZTk2NlItNGctdDRna28zVUpxeWJtb3doczdCdklFcHZHcnRva2Z5UFpTczY1LWN6cUdzNkx6Tl9hajktR2xqU2RFeVlJc010blotRXVTNkl0ck4yQ3dyUEtYODZWUXk3elpXT2k5Y19GLXZOMlg2RkVvM1dDZ0otcUdZX3BjY0RlZkJTV0lfZW"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para El Clásico entre Real Madrid y Barcelona - beIN SPORTS",
@@ -83,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0phY0JCNDB6RmNIZnQ3d09YY3RfdGFCXzV5dV9PZG1WYW01akN0SWZ4WnEzMHhOZ0pvYWZ5eUJyRmFrak5tZTluQk8ycWxJUk9MQnlOOWJrYkdOaDctYl96Q1BlWHp3THJRbE5OMjRwcG9xMVVDdG1MWFUwNC1HZjJvOEt0aVZfVjVuMy1wUTdXQlBNWnlRcG1HVS1kUGg5SDhKVTIxSm9RQlFvaVFZdDM0cmlQOVg5Tk"
     },
     {
-      "title": "Barcelona vs Real Madrid: quién ganará el clásico español según la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUQtTEFmWDNnTTVycmpnZXd4RmE4QUZmX3h0aHMxVjl0YkQyZU5JWVRIeVFFNnpHRGR3MVVpZVl4ZFYwUVB5d05PZldHRzlTX1Z2UVl4NFFsQk5VbldUOVFhVFFCcGtNWmlTNkxPYzlKdEsyaW1fR1RLcU1vcm5SaUJQQUNzMU9oSmN1MWVmYlBxZy10MHpET0g3WnRRY25qM0U0NTQ2MEV6WFdvcDVB0gHKAUFVX3lxTE5BOUNYdXJkMmUyTDdzUXA2aTdqeTRidEpENWZrSjJCY1lQNFRmREhmODM1cGNsSFJKSHluMXprRUVPVk1WckZJMEw5TE0wWGp3eFFmTW9CU2dhZzYtRmJKU2ZCUkxTVDZJTWtMVW4yVGhscUw5eFhRbk1Wc3hXWWc5N2tBQW9ldU1zRXFzRVpDWm92aXVlVm1EUEp2VmF0dW9zbnhDNjlKaXpxcFZqbW1CT201S05OQWNSb1BUQ3E1RWlHVGxpNkZIelE?oc=5",
+      "title": "El pronóstico de la Inteligencia Artificial de Opta para el FC Barcelona vs Elche - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1ZWYURHaUVkT1RhYlYxQ3V6dTBJRFhhODZmbHJnNE45UEtHdGRuLUNiTlpDbmNfNUNCT0FDNHJxdlJqRWhDdTE3VkZZeUd3WU9XemJ2NC04QXdxdjYxaFBfN3lyNUFjS09CSnpIa0dYWWFoN3ZKX0xEd3pxNWswbkJkV3pwWDlBU2JVcHdzXzR3emFnVEw4Z2F4dlIxUHAyd2QzZmVHRmI1U1hoSkdSdmw2dw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 10 May 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUQtTEFmWDNnTTVycmpnZXd4RmE4QUZmX3h0aHMxVjl0YkQyZU5JWVRIeVFFNnpHRGR3MVVpZVl4ZFYwUVB5d05PZldHRzlTX1Z2UVl4NFFsQk5VbldUOVFhVFFCcGtNWmlTNkxPYzlKdEsyaW1fR1RLcU1vcm5SaUJQQUNzMU9oSmN1MWVmYlBxZy10MHpET0g3WnRRY25qM0U0NTQ2MEV6WFdvcDVB0gHKAUFVX3lxTE"
-    },
-    {
-      "title": "Vigilancia masiva y tecnología: Implicancias para startups - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3A3NFdmS1NWXzIzXzJJVW1XVVpLOGpoRWNUTWJ1T1d0c19NQXh6bEZwMGpHc3llVnNOTWxsbU9icUlLQ19UeFUzSWhPRk04WE5RVDMxS0xDam9fUXp1MVV6bTlpdGxIdHMydU5UeWJOcUluNUNsM1Rqa1M3b2gtWWROZlI2aUl6WF9rQXVwcTdkUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Nov 2025 19:57:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3A3NFdmS1NWXzIzXzJJVW1XVVpLOGpoRWNUTWJ1T1d0c19NQXh6bEZwMGpHc3llVnNOTWxsbU9icUlLQ19UeFUzSWhPRk04WE5RVDMxS0xDam9fUXp1MVV6bTlpdGxIdHMydU5UeWJOcUluNUNsM1Rqa1M3b2gtWWROZlI2aUl6WF9rQXVwcTdkUQ?oc=5\" target=\"_blank\">Vigilancia masiva y tecnologí"
+      "published": "Sun, 02 Nov 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1ZWYURHaUVkT1RhYlYxQ3V6dTBJRFhhODZmbHJnNE45UEtHdGRuLUNiTlpDbmNfNUNCT0FDNHJxdlJqRWhDdTE3VkZZeUd3WU9XemJ2NC04QXdxdjYxaFBfN3lyNUFjS09CSnpIa0dYWWFoN3ZKX0xEd3pxNWswbkJkV3pwWDlBU2JVcHdzXzR3emFnVEw4Z2F4dlIxUHAyd2QzZmVHRmI1U1hoSkdSdmw2dw?oc=5\" t"
     },
     {
       "title": "6 razones para reemplazar tecnología en startups (guía 2025) - El Ecosistema Startup",
@@ -105,6 +97,14 @@
       "category": "news",
       "published": "Tue, 18 Nov 2025 20:44:19 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3VydDE3dEhKb3NubnBQZVFpS1Y5Z3BpaWVaekI5a3dTZHo4S3BMVi1odWVxVFhHaUZFaFd3LTY2b0dVUkRwMzB0LWY1dHB6Wng5QXI0czJuNk1Ha0RnVENmWHE3cFl2UDhFc3hiUFMzRzhiOWJfVHpEVTVDc1lkVTVUanBTblFWTThqa19lNmJKRDg?oc=5\" target=\"_blank\">6 razones para reemplazar te"
+    },
+    {
+      "title": "Vigilancia masiva y tecnología: Implicancias para startups - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3A3NFdmS1NWXzIzXzJJVW1XVVpLOGpoRWNUTWJ1T1d0c19NQXh6bEZwMGpHc3llVnNOTWxsbU9icUlLQ19UeFUzSWhPRk04WE5RVDMxS0xDam9fUXp1MVV6bTlpdGxIdHMydU5UeWJOcUluNUNsM1Rqa1M3b2gtWWROZlI2aUl6WF9rQXVwcTdkUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 19:57:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3A3NFdmS1NWXzIzXzJJVW1XVVpLOGpoRWNUTWJ1T1d0c19NQXh6bEZwMGpHc3llVnNOTWxsbU9icUlLQ19UeFUzSWhPRk04WE5RVDMxS0xDam9fUXp1MVV6bTlpdGxIdHMydU5UeWJOcUluNUNsM1Rqa1M3b2gtWWROZlI2aUl6WF9rQXVwcTdkUQ?oc=5\" target=\"_blank\">Vigilancia masiva y tecnologí"
     },
     {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
