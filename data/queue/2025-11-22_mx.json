@@ -3,30 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Estados Unidos intensifica su ofensiva antimonopolio contra Google",
-      "url": "https://expansion.mx/tecnologia/2025/11/22/eu-intensifica-ofensiva-antimonopolio-contra-google",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 22 Nov 2025 14:32:14 GMT",
-      "summary": "El gobierno estadounidense sostiene que Google controla de forma indebida los mercados clave de la publicidad digital."
-    },
-    {
-      "title": "Nano Banana Pro: Cómo hacer todo lo Google que promete hacer en tus fotografías, diseños e infografías",
-      "url": "https://expansion.mx/tecnologia/2025/11/21/nano-banana-pro-google",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 22 Nov 2025 02:42:46 GMT",
-      "summary": "Google presentó a Nano Banana Pro, un modelo más avanzado de Gemini para generar y editar imágenes. Así puedes aprovecharla en tus diseños, infografías y diagramas."
-    },
-    {
-      "title": "Productividad y adopción acelerada: México es clave para HubSpot en la era IA",
-      "url": "https://expansion.mx/tecnologia/2025/11/21/mexico-es-clave-para-hubspot-en-la-era-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 21 Nov 2025 22:33:33 GMT",
-      "summary": "Ricardo Urrea asume la dirección de HubSpot México con una misión clara: llevar la adopción de IA al siguiente nivel. La empresa ya observa aumentos de productividad"
-    },
-    {
       "title": "¿Cuántas personas siguen viendo TV abierta y qué ven cuando la sintonizan en México?",
       "url": "https://expansion.mx/tecnologia/2025/11/21/television-sigue-viva-contenido-favorito-mexicanos",
       "source": "Expansión Tecnología",
@@ -41,6 +17,30 @@
       "category": "tech",
       "published": "Fri, 21 Nov 2025 18:03:07 GMT",
       "summary": "Las plataformas enfrentan el reto de conquistar a audiencias habituadas al consumo de redes sociales. Netflix y ViX apuestan por videos verticales y microdramas para recuperar su atención."
+    },
+    {
+      "title": "Todos los mexicanos deberán registrar su número celular con su CURP: cuándo inicia el Padrón de telefonía",
+      "url": "https://expansion.mx/tecnologia/2025/11/21/mexicanos-deberan-registrar-numero-celular-curp",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Nov 2025 13:38:05 GMT",
+      "summary": "El registro iniciaría en 2026, ya que las reglas para su implementación están en consulta pública. Por ahora, los operadores no deben validar la identidad para activar o mantener una línea."
+    },
+    {
+      "title": "Tim Cook: el CEO de Apple que diversificó sus ganancias",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/tim-cook-el-ceo-de-apple-que-diversifico-sus-ganancias",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 21:00:17 GMT",
+      "summary": "Tras casi 14 años al frente de Apple, Cook convirtió eficiencia en ganancias, pero ahora enfrenta la posibilidad del final de una era."
+    },
+    {
+      "title": "La nube crece, pero la cultura laboral limita su verdadero impacto",
+      "url": "https://expansion.mx/tecnologia/2025/11/20/gran-freno-para-nube-no-es-tecnologia-sino-cultura-laboral",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Nov 2025 19:00:31 GMT",
+      "summary": "La nube promete acelerar la innovación, pero la cultura sigue siendo el principal cuello de botella para que se consolide completamente"
     },
     {
       "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
