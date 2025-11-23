@@ -3,28 +3,28 @@
   "country": "es",
   "articles": [
     {
+      "title": "El plan de Putin y Trump para Ucrania avanza pese a las objeciones europeas",
+      "url": "https://elpais.com/internacional/2025-11-23/europa-busca-blindar-a-ucrania-frente-a-una-nueva-agresion-en-su-enmienda-al-plan-de-ee-uu-y-rusia.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 23 Nov 2025 18:05:29 GMT",
+      "summary": "Kiev y Europa confían todavía en arrancar a Washington concesiones sobre el recorte del ejército ucranio y obtener garantías de seguridad sólidas de sus aliados"
+    },
+    {
+      "title": "Trump acusa a Zelenski de “desagradecido” ante “los esfuerzos” de EE UU en la guerra de Ucrania",
+      "url": "https://elpais.com/internacional/2025-11-23/trump-acusa-a-zelenski-de-desagradecido-por-los-esfuerzos-de-estados-unidos-hacia-ucrania.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 23 Nov 2025 16:30:15 GMT",
+      "summary": "El presidente de EE UU también critica que los países europeos sigan comprando petróleo a Rusia"
+    },
+    {
       "title": "Sánchez cree inocente al fiscal general y apunta a un recurso al Constitucional",
       "url": "https://elpais.com/espana/2025-11-23/comparecencia-de-pedro-sanchez-tras-la-cumbre-del-g-20.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 23 Nov 2025 13:46:58 GMT",
       "summary": "Recuerda que fue el PP el que dijo que controlaría la sala segunda por detrás, una alusión clara a Manuel Marchena"
-    },
-    {
-      "title": "Un golpe en la mesa en forma de otro fiscal netamente progresista",
-      "url": "https://elpais.com/espana/2025-11-23/un-golpe-en-la-mesa-en-forma-de-nuevo-fiscal-tambien-netamente-progresista.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 23 Nov 2025 04:30:01 GMT",
-      "summary": "El Ejecutivo relevará pronto a García Ortiz con un nombre fuerte y cree que los jueces se desacreditan y reunifican a la izquierda. El PP ve a Sánchez acorralado y agónico"
-    },
-    {
-      "title": "Ayuso gana, el PP recela",
-      "url": "https://elpais.com/espana/2025-11-23/ayuso-gana-el-pp-recela.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 23 Nov 2025 04:30:01 GMT",
-      "summary": "La proyección y el poder autónomo de la líder madrileña tras su victoria sobre el fiscal general compite con el liderazgo de Feijóo"
     },
     {
       "title": "MAR a Amador tras la sentencia: “Felicidades, les has destrozado”",
@@ -35,12 +35,12 @@
       "summary": "Víctimas en el PP del jefe de gabinete de Ayuso aseguran que ahora Rodríguez “no tiene límites ni filtro”"
     },
     {
-      "title": "Núcleo Nacional, el movimiento nacido en Ferraz en el que recalan los ultras de extrema derecha",
-      "url": "https://elpais.com/espana/madrid/2025-11-23/nucleo-nacional-el-movimiento-nacido-en-ferraz-en-el-que-recalan-los-ultras-de-extrema-derecha.html",
+      "title": "Ayuso gana, el PP recela",
+      "url": "https://elpais.com/espana/2025-11-23/ayuso-gana-el-pp-recela.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 23 Nov 2025 04:30:01 GMT",
-      "summary": "Isabel Peralta y los hermanos Rico Olivares lideran un colectivo con aspiraciones políticas que se alimenta de las 1.500 cuotas mensuales de sus socios"
+      "summary": "La proyección y el poder autónomo de la líder madrileña tras su victoria sobre el fiscal general compite con el liderazgo de Feijóo"
     },
     {
       "title": "España pide en el G20 más control sobre la inteligencia artificial ante el impacto sobre el mercado laboral - Notimérica",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRXV6NnNGcThWMmlyOVozSGlFeEtzN0NrVEdad0V2YjFNdXNYMmN2UlpXNHJtN3QtZkhVcXVDU2RQVmZsN2hiV01YLWpDc2kycW9YeE1MczNQM0ktMmtMNVNkN3FMaFNvU1MwaVF6NEI0T1psVVpZQ1RrVlJQYmZtYzEydjhWaDZ5aXVDMGNxRzZzTWs3bmJCS0dMSWlicHRsREF2ZDlsWVpEUkFfZ2E4M2QxTjh5alV0LU"
     },
     {
-      "title": "España solicita mayor regulación de la inteligencia artificial en el G20 para proteger el empleo - Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmJlTmFtZjlRbUFZUzlMYW5uYmpUeG05aEY1NGxIeUV5SkltN1RnSGZLdWwwYXR2VUFSbWdRNVFGY2tXbEptcFA4azhKVzNmcUtPUWZfaFVwZHpvNzAwWVdSQVZvbzNyZ1U3ZTlibmQydmtydVRmaHhFUzdOclJZUkFCSUxCSnhMbVRYbXdxNEZPVlJ1Y0FRVHliTGFBcm9Ua1pjX3pzTXpCcjBlSndrQW1vcWZlWU3SAbwBQVVfeXFMTVZTaU1aYnlVd0w3elI3aVJCendpUFlDbzlCZEtDdFROanFoVk1uVVhtNlhOSWFNdnV2MS1qSXNBRzQ3QUNCQUdrXzdWOS1mbEFKdUdsSzVTTk4xZG0wZjVEbWc4NlVKWnBuRndEWHliazRxVkQ1aEM1bk1LMHMyckpsU25xdWZGc2Q3REpiMlBBSmhJS3R2bUxWajNuVTIzb0dlS3pYYm5ZaTBndHY4a3JLSFBMN09lS1RLS0Y?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 23 Nov 2025 11:10:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmJlTmFtZjlRbUFZUzlMYW5uYmpUeG05aEY1NGxIeUV5SkltN1RnSGZLdWwwYXR2VUFSbWdRNVFGY2tXbEptcFA4azhKVzNmcUtPUWZfaFVwZHpvNzAwWVdSQVZvbzNyZ1U3ZTlibmQydmtydVRmaHhFUzdOclJZUkFCSUxCSnhMbVRYbXdxNEZPVlJ1Y0FRVHliTGFBcm9Ua1pjX3pzTXpCcjBlSndrQW1vcWZlWU3SAb"
-    },
-    {
       "title": "La inteligencia artificial pone a prueba a la nueva generación de profesionales en España - RRHH Digital",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDlxRTA4Q0xkNzRuYmVyQWZjRWRNTE5lNGNVcHJxVXRoVnBrSi1NbFh1SUJEeno5RktOOXh5WXdEWW9wSDJpYzlpWFRoUy0tTUlBMlNtWUZualdXZnJGZzIyNDZqcEFpZTlILVpaZWp5cUxRdmJfYWNub3BLOWt6S294T0daRXRHSXVRdnR3aFFsRFJ6MHFpR1pMaTM5QlVsOUZ1MjByOU9PVkN2U3VKelpRY3RIYmwweWJMaTdIRk81cmNkLUtuZzZzVTdQWExkRnp5bXhBd19QRjhXV0JZ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 21 Nov 2025 10:01:12 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDlxRTA4Q0xkNzRuYmVyQWZjRWRNTE5lNGNVcHJxVXRoVnBrSi1NbFh1SUJEeno5RktOOXh5WXdEWW9wSDJpYzlpWFRoUy0tTUlBMlNtWUZualdXZnJGZzIyNDZqcEFpZTlILVpaZWp5cUxRdmJfYWNub3BLOWt6S294T0daRXRHSXVRdnR3aFFsRFJ6MHFpR1pMaTM5QlVsOUZ1MjByOU9PVkN2U3VKelpRY3RIYmwweW"
+    },
+    {
+      "title": "España solicita mayor regulación de la inteligencia artificial en el G20 para proteger el empleo - Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmJlTmFtZjlRbUFZUzlMYW5uYmpUeG05aEY1NGxIeUV5SkltN1RnSGZLdWwwYXR2VUFSbWdRNVFGY2tXbEptcFA4azhKVzNmcUtPUWZfaFVwZHpvNzAwWVdSQVZvbzNyZ1U3ZTlibmQydmtydVRmaHhFUzdOclJZUkFCSUxCSnhMbVRYbXdxNEZPVlJ1Y0FRVHliTGFBcm9Ua1pjX3pzTXpCcjBlSndrQW1vcWZlWU3SAbwBQVVfeXFMTVZTaU1aYnlVd0w3elI3aVJCendpUFlDbzlCZEtDdFROanFoVk1uVVhtNlhOSWFNdnV2MS1qSXNBRzQ3QUNCQUdrXzdWOS1mbEFKdUdsSzVTTk4xZG0wZjVEbWc4NlVKWnBuRndEWHliazRxVkQ1aEM1bk1LMHMyckpsU25xdWZGc2Q3REpiMlBBSmhJS3R2bUxWajNuVTIzb0dlS3pYYm5ZaTBndHY4a3JLSFBMN09lS1RLS0Y?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 23 Nov 2025 11:10:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmJlTmFtZjlRbUFZUzlMYW5uYmpUeG05aEY1NGxIeUV5SkltN1RnSGZLdWwwYXR2VUFSbWdRNVFGY2tXbEptcFA4azhKVzNmcUtPUWZfaFVwZHpvNzAwWVdSQVZvbzNyZ1U3ZTlibmQydmtydVRmaHhFUzdOclJZUkFCSUxCSnhMbVRYbXdxNEZPVlJ1Y0FRVHliTGFBcm9Ua1pjX3pzTXpCcjBlSndrQW1vcWZlWU3SAb"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para El Clásico entre Real Madrid y Barcelona - beIN SPORTS",
