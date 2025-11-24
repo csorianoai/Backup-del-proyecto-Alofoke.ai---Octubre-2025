@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Washington reconsidera la venta de chips de Nvidia a China",
+      "url": "https://expansion.mx/tecnologia/2025/11/24/trump-reconsidera-venta-de-chips-de-nvidia-china",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 24 Nov 2025 16:00:14 GMT",
+      "summary": "Howard Lutnick, secretario de comercio de EU, refirió esta posibilidad a pesar de la prohibición de vender chips Blackwell al país asiático."
+    },
+    {
       "title": "Todos los mexicanos deberán registrar su número celular con su CURP: cuándo inicia el Padrón de telefonía",
       "url": "https://expansion.mx/tecnologia/2025/11/23/mexicanos-deberan-registrar-numero-celular-curp",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Ricardo Urrea asume la dirección de HubSpot México con una misión clara: llevar la adopción de IA al siguiente nivel. La empresa ya observa aumentos de productividad"
     },
     {
-      "title": "¿Cuántas personas siguen viendo TV abierta y qué ven cuando la sintonizan en México?",
-      "url": "https://expansion.mx/tecnologia/2025/11/21/television-sigue-viva-contenido-favorito-mexicanos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 21 Nov 2025 20:57:29 GMT",
-      "summary": "El 50% de la audiencia de TV abierta prefiere los noticiarios, lo que confirma que este medio sigue siendo una referencia informativa para amplios sectores de la población."
-    },
-    {
       "title": "Diputados proponen castigar con cárcel el uso de inteligencia artificial en robo de identidad - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORTNvcHZHNXZqc3JzU2hlazhTOEdJeXhmQ3JVWDRCSG5uX2xoSmlScy12MXpMMlBVcktWZzZJRml6SkNKVWM5MlkzVi12X2NMTUdnQThpWlMxQ0xaeHhJdUFHckNlS0tJMHVZUlVOR2x4RDF4MnVZZXBXZVpLNWk3SkpFRWtxMTg5T0lOSTA4YkQtU1g5SFJRSllMeXI1b2ItLUU3MGg3dUhEd1ZrSlFjYW43QTNTT1Y1NUYwWGVJcWVPOHQycUxSTUlJSHdzbEJTT1HSAewBQVVfeXFMT1NuQ3hWODhMbUx3S3Y2a2RpR0hpbWRDaWs4N004U3VCRXhUamZJNjBQdEdnVk1TMENoOGRUWUVJejhwODh1MGxrbTNBYi1BMF9DY01TZEtGRTlRZDM2TFh3cDhJY0tudTZ0Tld2aXJ5VjRUVkNlYTN2Ni1FZ0xWQTZ4LXlrOV9GdUhjSnpvT1BsVVFlcEhtdEFjMF9WUkxhdFdCS1pXQzRDbi1sYUg5Sno0blIyN0xkSE5NT2UybVk1dWUwVkgtRll3YnJaTlZ5WFFvN19IZUhWdXpyMk9aS2hPRVFxQ1NqaU5ILWQ?oc=5",
       "source": "Google News",
@@ -59,28 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
     },
     {
-      "title": "Smart Retail: cómo la IA está transformando la experiencia del cliente en México - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjgzLXZOSVVZVWV3UWVfYW9VbFUtZkxnbDZEQ1BzQVpIRm5EYU8zY0x3dG1tT0NkS1hZUXJqaEd4UXd0dm1yd0FLazd0bERkWEtFdFN4cWdsSVpUM1h6YlRMUkF1WElBVXdPVXhmSUkwQzQ2S3IzQmVTNWNDamhVOFdYaFk5Y25ycDZpZ3pzRUNXcHk1d0pKWDR0aVBzRmhKanlWWF83aERUU0djMzgzYXp2ZnpTazJ0eFU1OGktMl82TzQ3?oc=5",
+      "title": "México acelera el boom de data centers impulsado por IA, pese a desafíos energéticos - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbTBfQ0RCY2RFLUtZRENieDU3cTE3SzE4VmZudzRWY296NVp4STJKbU5yYk1XdTc3NDRoSWJ5aGZFeTRBLTFucWFId2dYYU45VmllbzUwcFNqRjBEbjc3OWpiN0JwOWc3Wm5mWWhtdFU5UF83MmxIZXZCc3dQNkRSNVdmY09WNi1kbndfc1Ziak5nS0s0Vy14WU5JZ0JMbnFWYjFOR2NQSkFvNUpvamRTTXgxZGIwMVlJYUF5U0JMM3NWOW5IM00yYkRZSjlYRk9DNG9lOHVweVpvYW1FeTJN?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 21 Nov 2025 22:12:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjgzLXZOSVVZVWV3UWVfYW9VbFUtZkxnbDZEQ1BzQVpIRm5EYU8zY0x3dG1tT0NkS1hZUXJqaEd4UXd0dm1yd0FLazd0bERkWEtFdFN4cWdsSVpUM1h6YlRMUkF1WElBVXdPVXhmSUkwQzQ2S3IzQmVTNWNDamhVOFdYaFk5Y25ycDZpZ3pzRUNXcHk1d0pKWDR0aVBzRmhKanlWWF83aERUU0djMzgzYXp2ZnpTazJ0eF"
+      "published": "Mon, 24 Nov 2025 16:37:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbTBfQ0RCY2RFLUtZRENieDU3cTE3SzE4VmZudzRWY296NVp4STJKbU5yYk1XdTc3NDRoSWJ5aGZFeTRBLTFucWFId2dYYU45VmllbzUwcFNqRjBEbjc3OWpiN0JwOWc3Wm5mWWhtdFU5UF83MmxIZXZCc3dQNkRSNVdmY09WNi1kbndfc1Ziak5nS0s0Vy14WU5JZ0JMbnFWYjFOR2NQSkFvNUpvamRTTXgxZGIwMVlJYU"
     },
     {
-      "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - El Ecosistema Startup",
+      "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci0yVF90OE5CSTc4VDZhT2p5TWllVVBFbDFOQUV5THlXbkNMZEtmYzkwQktTVkR3WFJ4R1BRUGRTaVJ0SU1udmZLaWRCVUhnVEsweWdNUnJLT0x0endPOFVjX0lkYmZveTNaeG01cUhRRnQ1cFdMVmtfR3pTcGNmSGtBbGJYV3FGLWpoTC1sR0ctOGVSM2oybWJB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 23 Nov 2025 20:39:08 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQci0yVF90OE5CSTc4VDZhT2p5TWllVVBFbDFOQUV5THlXbkNMZEtmYzkwQktTVkR3WFJ4R1BRUGRTaVJ0SU1udmZLaWRCVUhnVEsweWdNUnJLT0x0endPOFVjX0lkYmZveTNaeG01cUhRRnQ1cFdMVmtfR3pTcGNmSGtBbGJYV3FGLWpoTC1sR0ctOGVSM2oybWJB?oc=5\" target=\"_blank\">Startups y ahorro e"
-    },
-    {
-      "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Nov 2025 17:19:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5\" target=\"_blank\">La acele"
     },
     {
       "title": "Domingo Salazar: Boom de IA mexicana exige políticas públicas claras - El Financiero",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Thu, 20 Nov 2025 14:19:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeE"
+    },
+    {
+      "title": "Asistentes de investigación Kagi: IA para búsquedas avanzadas - ecosistemastartup.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 21:02:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5\" target=\"_blank\">Asistentes de investigac"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
