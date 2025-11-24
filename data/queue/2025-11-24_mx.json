@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Matter, el esquema que prometía unificar los hogares conectados pero no avanza",
+      "url": "https://expansion.mx/tecnologia/2025/11/24/promesa-unificar-dispositivos-inteligentes-hogar-se-estanca",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 24 Nov 2025 21:00:55 GMT",
+      "summary": "A casi dos años de que el estándar se presentó, la industria aún no tiene productos que cumplan al cien por ciento con la iniciativa."
+    },
+    {
+      "title": "Nano Banana Pro: La nueva versión de Gemini promete potenciar tus fotografías y diseños, pero no será gratis",
+      "url": "https://expansion.mx/tecnologia/2025/11/21/nano-banana-pro-google",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 24 Nov 2025 18:42:46 GMT",
+      "summary": "Google presentó a Nano Banana Pro, un modelo más avanzado de Gemini para generar y editar imágenes. Así puedes aprovecharla en tus diseños, infografías y diagramas."
+    },
+    {
       "title": "Washington reconsidera la venta de chips de Nvidia a China",
       "url": "https://expansion.mx/tecnologia/2025/11/24/trump-reconsidera-venta-de-chips-de-nvidia-china",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "El gobierno estadounidense sostiene que Google controla de forma indebida los mercados clave de la publicidad digital."
     },
     {
-      "title": "Nano Banana Pro: Cómo hacer todo lo Google que promete hacer en tus fotografías, diseños e infografías",
-      "url": "https://expansion.mx/tecnologia/2025/11/21/nano-banana-pro-google",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 22 Nov 2025 02:42:46 GMT",
-      "summary": "Google presentó a Nano Banana Pro, un modelo más avanzado de Gemini para generar y editar imágenes. Así puedes aprovecharla en tus diseños, infografías y diagramas."
-    },
-    {
-      "title": "Productividad y adopción acelerada: México es clave para HubSpot en la era IA",
-      "url": "https://expansion.mx/tecnologia/2025/11/21/mexico-es-clave-para-hubspot-en-la-era-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 21 Nov 2025 22:33:33 GMT",
-      "summary": "Ricardo Urrea asume la dirección de HubSpot México con una misión clara: llevar la adopción de IA al siguiente nivel. La empresa ya observa aumentos de productividad"
+      "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Nov 2025 14:12:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
     },
     {
       "title": "Diputados proponen castigar con cárcel el uso de inteligencia artificial en robo de identidad - Infobae",
@@ -51,14 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxORTNvcHZHNXZqc3JzU2hlazhTOEdJeXhmQ3JVWDRCSG5uX2xoSmlScy12MXpMMlBVcktWZzZJRml6SkNKVWM5MlkzVi12X2NMTUdnQThpWlMxQ0xaeHhJdUFHckNlS0tJMHVZUlVOR2x4RDF4MnVZZXBXZVpLNWk3SkpFRWtxMTg5T0lOSTA4YkQtU1g5SFJRSllMeXI1b2ItLUU3MGg3dUhEd1ZrSlFjYW43QTNTT1Y1NU"
     },
     {
-      "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 21 Nov 2025 14:12:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
-    },
-    {
       "title": "México acelera el boom de data centers impulsado por IA, pese a desafíos energéticos - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbTBfQ0RCY2RFLUtZRENieDU3cTE3SzE4VmZudzRWY296NVp4STJKbU5yYk1XdTc3NDRoSWJ5aGZFeTRBLTFucWFId2dYYU45VmllbzUwcFNqRjBEbjc3OWpiN0JwOWc3Wm5mWWhtdFU5UF83MmxIZXZCc3dQNkRSNVdmY09WNi1kbndfc1Ziak5nS0s0Vy14WU5JZ0JMbnFWYjFOR2NQSkFvNUpvamRTTXgxZGIwMVlJYUF5U0JMM3NWOW5IM00yYkRZSjlYRk9DNG9lOHVweVpvYW1FeTJN?oc=5",
       "source": "Google News",
@@ -67,7 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbTBfQ0RCY2RFLUtZRENieDU3cTE3SzE4VmZudzRWY296NVp4STJKbU5yYk1XdTc3NDRoSWJ5aGZFeTRBLTFucWFId2dYYU45VmllbzUwcFNqRjBEbjc3OWpiN0JwOWc3Wm5mWWhtdFU5UF83MmxIZXZCc3dQNkRSNVdmY09WNi1kbndfc1Ziak5nS0s0Vy14WU5JZ0JMbnFWYjFOR2NQSkFvNUpvamRTTXgxZGIwMVlJYU"
     },
     {
-      "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - ecosistemastartup.com",
+      "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci0yVF90OE5CSTc4VDZhT2p5TWllVVBFbDFOQUV5THlXbkNMZEtmYzkwQktTVkR3WFJ4R1BRUGRTaVJ0SU1udmZLaWRCVUhnVEsweWdNUnJLT0x0endPOFVjX0lkYmZveTNaeG01cUhRRnQ1cFdMVmtfR3pTcGNmSGtBbGJYV3FGLWpoTC1sR0ctOGVSM2oybWJB?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeE"
     },
     {
-      "title": "Asistentes de investigación Kagi: IA para búsquedas avanzadas - ecosistemastartup.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5",
+      "title": "PotencIA MX: Tec lanza la 1a. aceleradora de IA de Meta en México - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEw0SVVlVm1UR3ZqNmJiMmpkYVBfdmhlS3lrMWV5c1l0dk4zd3Q0eGJ2c2xKQnZPdERYazh5ckx2VksxOXRuZUdscUIxb0VMeDI0V0k0ckdSemRkbG5SMDJ4eWpxdklwOEhYWVI2SUw0NG1mTC1WSlYzQTlyLU1QaWV3N1VTdWhzbXNCTHpwV2dwV3NQalBwOXNnaXc1ZkxrMzdKRXJ4bm8yb0ZFVldPbTdlWGlHTDJzb0tfU1hxYk5SSG1V?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 20 Nov 2025 21:02:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNNVdESHNCdVl1cENMTXZ5NzlOSldwSzI0SUNoai1UWXlhQTh0QmVUSFdFSlN1Q2ZDUl9rRU41clI0QzMxLWlQN3U0Z1ZQUjJSUnc1dF91UDcxTDBrZUNkWFhqNmVJYmtCb0ptTmtXZ2kyTVVIb1JHQWowaW03T3EzbWUyTEktd0M4bGV1dUxublVScWRwQWc?oc=5\" target=\"_blank\">Asistentes de investigac"
+      "published": "Wed, 29 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEw0SVVlVm1UR3ZqNmJiMmpkYVBfdmhlS3lrMWV5c1l0dk4zd3Q0eGJ2c2xKQnZPdERYazh5ckx2VksxOXRuZUdscUIxb0VMeDI0V0k0ckdSemRkbG5SMDJ4eWpxdklwOEhYWVI2SUw0NG1mTC1WSlYzQTlyLU1QaWV3N1VTdWhzbXNCTHpwV2dwV3NQalBwOXNnaXc1ZkxrMzdKRXJ4bm8yb0ZFVldPbTdlWGlHTDJzb0"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
