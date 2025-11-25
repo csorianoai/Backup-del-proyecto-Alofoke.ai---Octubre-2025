@@ -3,20 +3,28 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Casinos en línea: un mercado millonario sin regulación sólida",
+      "url": "https://expansion.mx/tecnologia/2025/11/25/boom-apuestas-online-quien-regula-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 25 Nov 2025 17:59:28 GMT",
+      "summary": "A pesar del auge de las apuestas en línea, México opera con una ley obsoleta y enfrenta un ecosistema de fraude creciente, deepfakes y operadores ilegales"
+    },
+    {
+      "title": "Google va por el dominio de Nvidia en los chips de IA",
+      "url": "https://expansion.mx/tecnologia/2025/11/25/google-desafia-nvidia-mercado-chips-de-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 25 Nov 2025 16:00:57 GMT",
+      "summary": "Meta sopesa un acuerdo con Google para usar sus TPU en el entrenamiento de sus modelos de lenguaje y así diversificar su tecnología más allá de los chips de Nvidia."
+    },
+    {
       "title": "Iniciativa busca bloquear contenido con IA, pero abre riesgo de censura",
       "url": "https://expansion.mx/tecnologia/2025/11/25/iniciativa-busca-bloquear-contenido-con-ia-pero-abre-riesgo-de-censura",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Tue, 25 Nov 2025 11:55:09 GMT",
       "summary": "El proyecto busca obligar a operadores de telecomunicaciones y firmas digitales a bloquear contenidos creados con IA para proteger a menores, pero especialistas alertan por riesgos de censura."
-    },
-    {
-      "title": "Casinos en línea: un mercado millonario sin regulación sólida",
-      "url": "https://expansion.mx/tecnologia/2025/11/24/casinos-en-linea-un-mercado-millonario-sin-regulacion-solida",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 00:01:28 GMT",
-      "summary": "A pesar del auge de las apuestas en línea, México opera con una ley obsoleta y enfrenta un ecosistema de fraude creciente, deepfakes y operadores ilegales"
     },
     {
       "title": "Matter, el esquema que prometía unificar los hogares conectados pero no avanza",
@@ -35,14 +43,6 @@
       "summary": "Google presentó a Nano Banana Pro, un modelo más avanzado de Gemini para generar y editar imágenes. Así puedes aprovecharla en tus diseños, infografías y diagramas."
     },
     {
-      "title": "Washington reconsidera la venta de chips de Nvidia a China",
-      "url": "https://expansion.mx/tecnologia/2025/11/24/trump-reconsidera-venta-de-chips-de-nvidia-china",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 24 Nov 2025 16:00:14 GMT",
-      "summary": "Howard Lutnick, secretario de comercio de EU, refirió esta posibilidad a pesar de la prohibición de vender chips Blackwell al país asiático."
-    },
-    {
       "title": "10 formas en que las Pymes pueden usar la inteligencia artificial para impulsar su ecommerce en temporada alta - THE LOGISTICS WORLD",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakFxaXRLTVc0a0hPTFc3R1ZLV1lCUEFzZHRZcngtRk9YRDh6MW0yVGZTeW5FUGh4bS1jSVB5NnBIaHA2S0NsU3ZYa1Q1SVpnUlpNSV85WW4wRXRqaDRnZEhTdjFaVGRKc3ZiR1lvZU9CVVN1VDJ0WTUyYkNZVWRXQ1pNak91bE9uZnljZ2pOZkxBWWc5dUU4Y1hPcUdMRFBxYmo1Q3Z6UWxXUWhLTUpOMnNFSHNVcXBJeTFMUnBPeUlxNGhDNzJleHNXTXBScDBfenAyNEdlQTR4MnpUOHZlb1JOblVhTGs?oc=5",
       "source": "Google News",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakFxaXRLTVc0a0hPTFc3R1ZLV1lCUEFzZHRZcngtRk9YRDh6MW0yVGZTeW5FUGh4bS1jSVB5NnBIaHA2S0NsU3ZYa1Q1SVpnUlpNSV85WW4wRXRqaDRnZEhTdjFaVGRKc3ZiR1lvZU9CVVN1VDJ0WTUyYkNZVWRXQ1pNak91bE9uZnljZ2pOZkxBWWc5dUU4Y1hPcUdMRFBxYmo1Q3Z6UWxXUWhLTUpOMnNFSHNVcXBJeT"
     },
     {
-      "title": "¿Hasta cuando podrán inscribirse para estudiar GRATIS Inteligencia Artificial? estos son los requisitos que se piden - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDR6WHd3ZzR6MmRkWGNBc0JkQTBURV9ScjlUMzNwa1lBbUxSb1h0cWVXcjk0cXBCcDN4NGNPMU8xeWZNelUxWFRwVmNtMjA0N3M3NVJNRkRWRlc3RGw4c0F1c1V1ZXNCSlZQN04zdGMtMGU2YWVyQkgwNzk2akRGb1F4Nm1Qelh0bjBxMk9iY0cyaFJHSnBrVkdZX0tRTjlMT0dCbDlCZDFhdlhwUkc2V0FSd1FRNm9YUG9Ob0NHTEFsd3A2Vk0wQkpOZzFGT2J1NVFrdE9nM1NhNWF5QTA4M25yMEtiMEgtUnpmck9n0gGIAkFVX3lxTE1DZ01tMnhDRml5UUxfWVI0RUlaWTR1VVkxVmxaVmRZV2hnRC1fTExmLW02QVJJWjRLMTlpSXVrWnFiLWR0VU5RbVBETGR4Q1J1TTR2Y1VyRlFFelZiVGlMUDVBdGNYa1M4RlpzX1pRc1E2T2txOC1HVUs5S0RYUV9fNzNCc241MllockdRR2thT21VQWtod1ctMXd1NkFKY2IyTzhKc3lQQXp0S202ZnAzV0E3cC1hWHhvNmdiUUp4a1czYjhhVHJXTnNjZTVLNUtCdHJrMHlNYV9qbU5yNGNDZTFqUEhrWFpMa3NEdGdBRUpHZ1QzUXNobE8weU9YNkdJS3dTVjR5Ng?oc=5",
+      "title": "México Digital Summit | Semiconductores e Inteligencia Artificial en el tablero geopolítico - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOanZFS3Y1bGdzc1M4R3d6dXliYy00MWNhRE91UGlWZDVBOVV6R3RmQ0RNOFpEQjRJWlFCOTN3WE1kMEV3VGw1bnpqYmZmYzY2US1FTHVLMExCQzBaZnJydG1UZmY4NDhrM0d4V2hyUlE5MS1YbmpjaXBiWTZPWG9LS1phZVE1d3hWdUIteXYzWTdVRGxoNzIxTE9mSlVqYzg2bGxMQWZleDB4TnFickcw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 19 Nov 2025 19:19:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDR6WHd3ZzR6MmRkWGNBc0JkQTBURV9ScjlUMzNwa1lBbUxSb1h0cWVXcjk0cXBCcDN4NGNPMU8xeWZNelUxWFRwVmNtMjA0N3M3NVJNRkRWRlc3RGw4c0F1c1V1ZXNCSlZQN04zdGMtMGU2YWVyQkgwNzk2akRGb1F4Nm1Qelh0bjBxMk9iY0cyaFJHSnBrVkdZX0tRTjlMT0dCbDlCZDFhdlhwUkc2V0FSd1FRNm9YUG"
+      "published": "Tue, 25 Nov 2025 14:58:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOanZFS3Y1bGdzc1M4R3d6dXliYy00MWNhRE91UGlWZDVBOVV6R3RmQ0RNOFpEQjRJWlFCOTN3WE1kMEV3VGw1bnpqYmZmYzY2US1FTHVLMExCQzBaZnJydG1UZmY4NDhrM0d4V2hyUlE5MS1YbmpjaXBiWTZPWG9LS1phZVE1d3hWdUIteXYzWTdVRGxoNzIxTE9mSlVqYzg2bGxMQWZleDB4TnFickcw?oc=5\" target="
     },
     {
       "title": "Presidenta Claudia Sheinbaum encabeza presentación del nuevo Centro Público de Formación en Inteligencia Artificial - Gob MX",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NW"
     },
     {
-      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?oc=5",
+      "title": "El Tec de Monterrey Laguna reunirá expertos en IA, comunicación y tecnología en el Symposium 2025 - El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVzZGclctTzNiSDdmYVllekcxR2ZsRTBkTTBORlFlbFphX2xfSmNKZUJkQUNmSzBRZ1pFQ3p4VXUwNFg2UGR0YmUzRUtsRlFnSF9SU0ZGeEQ5RV9nNHJvejlmNDNOZzRsV0NnRHQ3eTRlYU93eVZBRTBjQ2xmV2VpOUd6VEVJZGVrQURIWjEwOVIwS3JhZDZ6ck1ZUkowWndCa3BWby1TYkFIT3pzMWV0RFpuS09EQWJGaVktc2xSaU01WklDRDh4VEE1LVJ3bTg0SklHUEhMMU1sUEowbC1Qb2ZCYTJDUXpRcGhHZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?o"
+      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVzZGclctTzNiSDdmYVllekcxR2ZsRTBkTTBORlFlbFphX2xfSmNKZUJkQUNmSzBRZ1pFQ3p4VXUwNFg2UGR0YmUzRUtsRlFnSF9SU0ZGeEQ5RV9nNHJvejlmNDNOZzRsV0NnRHQ3eTRlYU93eVZBRTBjQ2xmV2VpOUd6VEVJZGVrQURIWjEwOVIwS3JhZDZ6ck1ZUkowWndCa3BWby1TYkFIT3pzMWV0RFpuS09EQWJGaV"
     }
   ],
   "count": 14
