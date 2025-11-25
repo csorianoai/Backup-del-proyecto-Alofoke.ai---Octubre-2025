@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Por qué nuestro cerebro no recuerda qué pasó en la temporada pasada de nuestra serie favorita",
+      "url": "https://www.latercera.com/tendencias/noticia/por-que-nuestro-cerebro-no-recuerda-que-paso-en-la-temporada-pasada-de-nuestra-serie-favorita/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 25 Nov 2025 20:35:12 +0000",
+      "summary": "Según un reportaje de The Conversation, la forma en la que consumimos actualmente las series puede alterar la retención de memoria de sus personajes y tramas."
+    },
+    {
       "title": "Por qué una de las finalistas de Miss Universo 2025 decidió renunciar a su título, en medio de la polémica del certamen",
       "url": "https://www.latercera.com/tendencias/noticia/por-que-una-de-las-finalistas-de-miss-universo-2025-decidio-renunciar-a-su-titulo-en-medio-de-la-polemica-del-certamen/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "El creador de contenido compartió un registro desde un parque santiaguino, en medio de su visita al país, que rápidamente se viralizó por el divertido intercambio con un chileno."
     },
     {
-      "title": "MacBook Pro M5, análisis: el mejor portátil para profesionales abraza la IA sin arriesgar en diseño",
-      "url": "https://www.latercera.com/tendencias/noticia/macbook-pro-m5-analisis-el-mejor-portatil-para-profesionales-abraza-la-ia-sin-arriesgar-en-diseno/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 11:25:10 +0000",
-      "summary": "Review del MacBook Pro M5 en Chile. Analizamos su chip M5 con IA, la batería que promete 24 horas de autonomía y si vale la pena actualizar. Descubre su precio y especificaciones."
+      "title": "Supuesto audio de la chilena Jara hablando sobre sus votantes fue creado con inteligencia artificial - AFP Factual",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YSENqbVM4SEFYWmxjbG4wWjF4eWMyeXBiUDVxZkstTXhYaHM1MmxGYVdMSU1yWUxaZ3U0V2tNZUs2OFkxYzNFaFRyUFN2Y2FCb2c2aVN3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Nov 2025 20:17:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YSENqbVM4SEFYWmxjbG4wWjF4eWMyeXBiUDVxZkstTXhYaHM1MmxGYVdMSU1yWUxaZ3U0V2tNZUs2OFkxYzNFaFRyUFN2Y2FCb2c2aVN3?oc=5\" target=\"_blank\">Supuesto audio de la chilena Jara hablando sobre sus votantes fue creado con inteligencia artificial</a>&nbsp;&"
     },
     {
       "title": "¿Ha ganado Alphabet la carrera de la inteligencia artificial? - XTB.com",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Sun, 23 Nov 2025 09:00:21 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORnQ4UTVrVXh2OWc4UnJGQTV5cE5peHRTRHNhRHRaM2kyZnN5bHVGMXZ0Mk5FSmlPeENCU2JnS2YwdnFISzI4QUJaVnR1aVN0eURnRHJqd0RFcUw5S1JkdUYtQTcyWS0yMThqNVF0NHAtRk1mZ3JYSzZ1bDJfdU9qUFpUSVl6TEpnX2NBNGNuSWFTY2E4NHExbU54TUtfMXpabUFfWFozblk2dklhN2dfR3ZscWxpRXJuUV"
-    },
-    {
-      "title": "Universidad de Chile ofrecerá curso gratuito de iniciación en Inteligencia Artificial para la ciudadana - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjdTdDNZaVdXa1lZODNGcF9VRkxCbmNkNGM2ajIwMXp2d21kSVJoRW8yTERKZjlxSWI2Rk02RnFFWEl5TGsxZ3VRNXJOejluWGlmV2pEbWt2UGVmY1RFVVhnbWhvSmE5SUpRWHNOYTluUHNrNFUwOXN0LTl4aTdTOVZR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 18 Nov 2025 19:25:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjdTdDNZaVdXa1lZODNGcF9VRkxCbmNkNGM2ajIwMXp2d21kSVJoRW8yTERKZjlxSWI2Rk02RnFFWEl5TGsxZ3VRNXJOejluWGlmV2pEbWt2UGVmY1RFVVhnbWhvSmE5SUpRWHNOYTluUHNrNFUwOXN0LTl4aTdTOVZR?oc=5\" target=\"_blank\">Universidad de Chile ofrecerá curso gratuito de ini"
     },
     {
       "title": "¡Conéctate! Webinar gratuito: ‘IA para la Comunicación Estratégica’ - Alcaldía de Santiago de Cali",

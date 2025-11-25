@@ -3,30 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Casinos en línea: un mercado millonario sin regulación sólida",
-      "url": "https://expansion.mx/tecnologia/2025/11/25/boom-apuestas-online-quien-regula-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 17:59:28 GMT",
-      "summary": "A pesar del auge de las apuestas en línea, México opera con una ley obsoleta y enfrenta un ecosistema de fraude creciente, deepfakes y operadores ilegales"
-    },
-    {
-      "title": "Google va por el dominio de Nvidia en los chips de IA",
-      "url": "https://expansion.mx/tecnologia/2025/11/25/google-desafia-nvidia-mercado-chips-de-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 16:00:57 GMT",
-      "summary": "Meta sopesa un acuerdo con Google para usar sus TPU en el entrenamiento de sus modelos de lenguaje y así diversificar su tecnología más allá de los chips de Nvidia."
-    },
-    {
-      "title": "Iniciativa busca bloquear contenido con IA, pero abre riesgo de censura",
-      "url": "https://expansion.mx/tecnologia/2025/11/25/iniciativa-busca-bloquear-contenido-con-ia-pero-abre-riesgo-de-censura",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 11:55:09 GMT",
-      "summary": "El proyecto busca obligar a operadores de telecomunicaciones y firmas digitales a bloquear contenidos creados con IA para proteger a menores, pero especialistas alertan por riesgos de censura."
-    },
-    {
       "title": "Matter, el esquema que prometía unificar los hogares conectados pero no avanza",
       "url": "https://expansion.mx/tecnologia/2025/11/24/promesa-unificar-dispositivos-inteligentes-hogar-se-estanca",
       "source": "Expansión Tecnología",
@@ -43,12 +19,36 @@
       "summary": "Google presentó a Nano Banana Pro, un modelo más avanzado de Gemini para generar y editar imágenes. Así puedes aprovecharla en tus diseños, infografías y diagramas."
     },
     {
-      "title": "10 formas en que las Pymes pueden usar la inteligencia artificial para impulsar su ecommerce en temporada alta - THE LOGISTICS WORLD",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakFxaXRLTVc0a0hPTFc3R1ZLV1lCUEFzZHRZcngtRk9YRDh6MW0yVGZTeW5FUGh4bS1jSVB5NnBIaHA2S0NsU3ZYa1Q1SVpnUlpNSV85WW4wRXRqaDRnZEhTdjFaVGRKc3ZiR1lvZU9CVVN1VDJ0WTUyYkNZVWRXQ1pNak91bE9uZnljZ2pOZkxBWWc5dUU4Y1hPcUdMRFBxYmo1Q3Z6UWxXUWhLTUpOMnNFSHNVcXBJeTFMUnBPeUlxNGhDNzJleHNXTXBScDBfenAyNEdlQTR4MnpUOHZlb1JOblVhTGs?oc=5",
+      "title": "Washington reconsidera la venta de chips de Nvidia a China",
+      "url": "https://expansion.mx/tecnologia/2025/11/24/trump-reconsidera-venta-de-chips-de-nvidia-china",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 24 Nov 2025 16:00:14 GMT",
+      "summary": "Howard Lutnick, secretario de comercio de EU, refirió esta posibilidad a pesar de la prohibición de vender chips Blackwell al país asiático."
+    },
+    {
+      "title": "Todos los mexicanos deberán registrar su número celular con su CURP: cuándo inicia el Padrón de telefonía",
+      "url": "https://expansion.mx/tecnologia/2025/11/23/mexicanos-deberan-registrar-numero-celular-curp",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 24 Nov 2025 03:16:05 GMT",
+      "summary": "El registro iniciaría en 2026, ya que las reglas para su implementación están en consulta pública. Por ahora, los operadores no deben validar la identidad para activar o mantener una línea."
+    },
+    {
+      "title": "Estados Unidos intensifica su ofensiva antimonopolio contra Google",
+      "url": "https://expansion.mx/tecnologia/2025/11/22/eu-intensifica-ofensiva-antimonopolio-contra-google",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 22 Nov 2025 14:32:14 GMT",
+      "summary": "El gobierno estadounidense sostiene que Google controla de forma indebida los mercados clave de la publicidad digital."
+    },
+    {
+      "title": "Inteligencia Artificial al servicio del crédito justo y personalizado en México - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZG40RkxJMlhZOXBINXo0OTA1WFhuckFPbmFRZnl2bC11ZHdzZVhJdDNyZFlCS2lCZ0VpUkNDT3c2X2lLWjZpdzl6S1Bxd3RsUk1td1QzNDd2NDBMMndGUjF4bldBT2N4dnhrVVZ5QVl6YktrX2hkbk11RHJZNHdMcG9yVWloQ1hMRjVfSkFGWkdHc0NzTlBhVjkwRHVOdGk3T2tteDFSZXdvLTRib0tCd2xnWGtXVXdkdV9hWGJpZFh2YmNI?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Nov 2025 11:38:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakFxaXRLTVc0a0hPTFc3R1ZLV1lCUEFzZHRZcngtRk9YRDh6MW0yVGZTeW5FUGh4bS1jSVB5NnBIaHA2S0NsU3ZYa1Q1SVpnUlpNSV85WW4wRXRqaDRnZEhTdjFaVGRKc3ZiR1lvZU9CVVN1VDJ0WTUyYkNZVWRXQ1pNak91bE9uZnljZ2pOZkxBWWc5dUU4Y1hPcUdMRFBxYmo1Q3Z6UWxXUWhLTUpOMnNFSHNVcXBJeT"
+      "published": "Tue, 25 Nov 2025 19:22:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZG40RkxJMlhZOXBINXo0OTA1WFhuckFPbmFRZnl2bC11ZHdzZVhJdDNyZFlCS2lCZ0VpUkNDT3c2X2lLWjZpdzl6S1Bxd3RsUk1td1QzNDd2NDBMMndGUjF4bldBT2N4dnhrVVZ5QVl6YktrX2hkbk11RHJZNHdMcG9yVWloQ1hMRjVfSkFGWkdHc0NzTlBhVjkwRHVOdGk3T2tteDFSZXdvLTRib0tCd2xnWGtXVXdkdV"
     },
     {
       "title": "México Digital Summit | Semiconductores e Inteligencia Artificial en el tablero geopolítico - DPL News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOanZFS3Y1bGdzc1M4R3d6dXliYy00MWNhRE91UGlWZDVBOVV6R3RmQ0RNOFpEQjRJWlFCOTN3WE1kMEV3VGw1bnpqYmZmYzY2US1FTHVLMExCQzBaZnJydG1UZmY4NDhrM0d4V2hyUlE5MS1YbmpjaXBiWTZPWG9LS1phZVE1d3hWdUIteXYzWTdVRGxoNzIxTE9mSlVqYzg2bGxMQWZleDB4TnFickcw?oc=5\" target="
     },
     {
-      "title": "Presidenta Claudia Sheinbaum encabeza presentación del nuevo Centro Público de Formación en Inteligencia Artificial - Gob MX",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNa05aUGhyUkhvN19DTlVJazFfek5jeDhwaFNHSzBpS0lRQWpZUllJUk5UbURPM2VVRGpkNVlJdUkwTE9vMUJTSkFfNzRtLUY3b3RMQWNYSE5kOExzU2poeWljbm5heDBaMDBqdVlVTnVNUUp6eG41VTZHS25XQmdlZ1hoSjN3cjNBSEtCN2F6aGRfbFBQaERoc3dIM2xHOEFzNE4yclc2S3FoNjc3a2s1ZTAtV001UThMd1dtc0t0c2JDb3lGSjJwUXY1ZXVhT0hrRU9iLVNqWDVaYU90Y2k4Y0JTUWFHTnpZMDZZbzVxZmZ3U3Mt?oc=5",
+      "title": "10 formas en que las Pymes pueden usar la inteligencia artificial para impulsar su ecommerce en temporada alta - THE LOGISTICS WORLD",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakFxaXRLTVc0a0hPTFc3R1ZLV1lCUEFzZHRZcngtRk9YRDh6MW0yVGZTeW5FUGh4bS1jSVB5NnBIaHA2S0NsU3ZYa1Q1SVpnUlpNSV85WW4wRXRqaDRnZEhTdjFaVGRKc3ZiR1lvZU9CVVN1VDJ0WTUyYkNZVWRXQ1pNak91bE9uZnljZ2pOZkxBWWc5dUU4Y1hPcUdMRFBxYmo1Q3Z6UWxXUWhLTUpOMnNFSHNVcXBJeTFMUnBPeUlxNGhDNzJleHNXTXBScDBfenAyNEdlQTR4MnpUOHZlb1JOblVhTGs?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNa05aUGhyUkhvN19DTlVJazFfek5jeDhwaFNHSzBpS0lRQWpZUllJUk5UbURPM2VVRGpkNVlJdUkwTE9vMUJTSkFfNzRtLUY3b3RMQWNYSE5kOExzU2poeWljbm5heDBaMDBqdVlVTnVNUUp6eG41VTZHS25XQmdlZ1hoSjN3cjNBSEtCN2F6aGRfbFBQaERoc3dIM2xHOEFzNE4yclc2S3FoNjc3a2s1ZTAtV001UThMd1"
+      "published": "Tue, 25 Nov 2025 11:38:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPakFxaXRLTVc0a0hPTFc3R1ZLV1lCUEFzZHRZcngtRk9YRDh6MW0yVGZTeW5FUGh4bS1jSVB5NnBIaHA2S0NsU3ZYa1Q1SVpnUlpNSV85WW4wRXRqaDRnZEhTdjFaVGRKc3ZiR1lvZU9CVVN1VDJ0WTUyYkNZVWRXQ1pNak91bE9uZnljZ2pOZkxBWWc5dUU4Y1hPcUdMRFBxYmo1Q3Z6UWxXUWhLTUpOMnNFSHNVcXBJeT"
     },
     {
       "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - El Ecosistema Startup",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQci0yVF90OE5CSTc4VDZhT2p5TWllVVBFbDFOQUV5THlXbkNMZEtmYzkwQktTVkR3WFJ4R1BRUGRTaVJ0SU1udmZLaWRCVUhnVEsweWdNUnJLT0x0endPOFVjX0lkYmZveTNaeG01cUhRRnQ1cFdMVmtfR3pTcGNmSGtBbGJYV3FGLWpoTC1sR0ctOGVSM2oybWJB?oc=5\" target=\"_blank\">Startups y ahorro e"
     },
     {
-      "title": "Aceleradora PotencIA MX alista bootcamp para PyMEs y startups - Líder Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkY0cjJtNTJZTUw3WWlOa1lnWlFVaW9HeWpacTlaM0xYN0haSGRTTVNld2hLa1pYSmR6c3JVMDIwZ2haTE41ZzZYQk5XTHhBeWF2dFJtSGZxVDlEcVlqSklCODZLX09Yd0hTclRESVF1YzJkX3Zybnp6aXVOLV9DWEV0OC1OcEJhNlVrTnl6SmVLdUkzODdyRGswY9IBoAFBVV95cUxQQjNrUldrWl9lM2lIMXc0aTNIVHRiaWcyY1NBVDctVFlYXzJsUkZvdjhjZzVQTDQzVjlJcWZNYXoxU01GNGVwanBLNm5HUWNPeXR6YVB3czVhMHEyVDNvRVNUNXhNX2pnbTRlaF9YTlNkMnhJb0N5bzZndG9vQ0JSMHFYZnpXaTZwZUNwQlFKX3g3d3VjRDRYUUM1MjhaNk9T?oc=5",
+      "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 24 Nov 2025 11:30:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkY0cjJtNTJZTUw3WWlOa1lnWlFVaW9HeWpacTlaM0xYN0haSGRTTVNld2hLa1pYSmR6c3JVMDIwZ2haTE41ZzZYQk5XTHhBeWF2dFJtSGZxVDlEcVlqSklCODZLX09Yd0hTclRESVF1YzJkX3Zybnp6aXVOLV9DWEV0OC1OcEJhNlVrTnl6SmVLdUkzODdyRGswY9IBoAFBVV95cUxQQjNrUldrWl9lM2lIMXc0aTNIVH"
+      "published": "Thu, 20 Nov 2025 17:19:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5\" target=\"_blank\">La acele"
     },
     {
       "title": "Domingo Salazar: Boom de IA mexicana exige políticas públicas claras - El Financiero",
