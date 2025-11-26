@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "De esto será capaz Coatlicue, la supercomputadora mexicana",
+      "url": "https://expansion.mx/tecnologia/2025/11/26/de-que-sera-capaz-coatlicue-supercomputadora-mexicana",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 26 Nov 2025 16:30:48 GMT",
+      "summary": "A través de la ATDT y la Secihti, el gobierno federal presentó su apuesta por tener más ciencia y soberanía tecnológica en el país."
+    },
+    {
+      "title": "Nvidia responde a Google y afirma que sus chips son más avanzados",
+      "url": "https://expansion.mx/tecnologia/2025/11/26/nvidia-responde-a-google-chips-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 26 Nov 2025 15:30:08 GMT",
+      "summary": "Un día antes se dio a conocer que Meta está considerando usar chips de IA de Google para el entrenamiento de sus modelos de lenguaje."
+    },
+    {
       "title": "Solo tres datos bastan para estafarte online",
       "url": "https://expansion.mx/tecnologia/2025/11/26/solo-tres-datos-bastan-para-estafarte-en-linea",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "La compañía, que por décadas fue símbolo de estabilidad en la industria de hardware, se encuentra ahora ante un reordenamiento profundo."
     },
     {
-      "title": "HBO Max combate ‘la infidelidad de suscriptor’ con series que enganchan",
-      "url": "https://expansion.mx/tecnologia/2025/11/25/hbo-max-encontro-tactica-suscriptores-no-cancelen",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 20:30:43 GMT",
-      "summary": "Casey Bloys, CEO de contenido en HBO y HBO Max, señaló en exclusiva que su estrategia se enfoca en crear producciones industriales pero con ADN premium."
-    },
-    {
-      "title": "Todos los mexicanos deberán registrar su número celular con su CURP: cuándo inicia el Padrón de telefonía",
-      "url": "https://expansion.mx/tecnologia/2025/11/25/mexicanos-deberan-registrar-numero-celular-curp",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Nov 2025 19:45:05 GMT",
-      "summary": "El registro iniciaría en 2026, ya que las reglas para su implementación están en consulta pública. Por ahora, los operadores no deben validar la identidad para activar o mantener una línea."
-    },
-    {
-      "title": "Escapadas decembrinas: descubre qué Pueblo Mágico te espera para Navidad según la inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVW95NmVBUzFBNGY4ZkJxam1KRFY1bU5LaTdtYzFJdC14T3R0cXhCazRtcG9KZExDYVNVVkp5ZTNpdHdodW1SZUdCS05BR1FuVWdoX0RwcF8xeEFTbHdZUEdGaEZpdHNkZHRtSDZYR1JSN1BYVjMxclVZNnFnUHpvVVRXcDVYcll2cEdLVHV4Sm9kTE5McDk2X1RXTkJ2MWJOcnJRTE5UMWZMT3hSckVQNERaQlhBc2lrMDZWYi1ELWNuaExwcFpEdDJxRFoyWTRXczNhRUFPa3Q1b3Q2NndaRtIB-wFBVV95cUxNX3BKV2lmYnBPVlZXeGhPTDBpX2pnOWFRdnJfZlhta3NaQ3E5dllscmh6V1luZHd3OGItcUQzcF9UY0JTWnFrdk4wV1hCX0ZWeWZzYlJJNjhWVktCTGk2MGhEMFpUWHNsUU10dzRFZ01NdG1MTXBVTE1FaHh0ZW9iNlVnQ3JEQkRwa1hKQnpITlg5RHZIOEZ3QjdHMEtoR3M4YW11NzRhN1BWSlFobVh6UlFBajQ3d2JCWlNydTJ0Rl9TZ3cyUzU1V0ZlMjg5d0pab09lenNKQzhYNVdSUEFqazlEalpwX3pvME41eUtLM0hLcjJyUDdvakt4OA?oc=5",
+      "title": "Inteligencia Artificial revela quién será el campeón del Apertura 2025 de la Liga MX - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVhEZGliUFlKREI1YXZNR0Rjam9OdlFiZDc4cmlqQzNtOTdxSnV4bHJqV1UyYkVkVWlIWkNiZkZYdDVLNlVhaHREdTlkVHdlY3VjNC0xaWExX0R0SHZlc1BjQkpOekQzcTJXTXpZQjc2RXFsX2FkeExwQmZ2YUpqU3hoWm9NYjFPNjlOYk1WeXBHMFgyamNsejVFcEtmd1l1N0IwY2wwbTJhRkRSR1A3cHIzYlE0UktfX3ZQQlpacFRMNXNmTWJrRDJFbjRxSkE5aGfSAewBQVVfeXFMTmQzRm9GdFNjZUQ3YmFHOTlPS0Y3YkxUV192TnRTZWJZejJDUURWTXkyUWdQd0taWWw3OVZkT2JPdHdkRkU2dG9BUC1TSnFuTEVXeThHaFMtcnl3YU9nNGJHeW1MdmxsMThpaHZ4dzNzQm5rRGFGenVPYWsyVkJ6MUlNSFdHZ041ZzdvRGZJQy1yY2NyM3poemVINTVHazNXRkltX3EyYjltUEVoNC0tbkRWXy1Qa0hpdnNabkt1S0s1Y3Nwc1BGTFJZTzktWmpUNldpZ3NHcEZTWmhpMld0alB5WGN5YTlBdk40VVc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Nov 2025 16:44:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVW95NmVBUzFBNGY4ZkJxam1KRFY1bU5LaTdtYzFJdC14T3R0cXhCazRtcG9KZExDYVNVVkp5ZTNpdHdodW1SZUdCS05BR1FuVWdoX0RwcF8xeEFTbHdZUEdGaEZpdHNkZHRtSDZYR1JSN1BYVjMxclVZNnFnUHpvVVRXcDVYcll2cEdLVHV4Sm9kTE5McDk2X1RXTkJ2MWJOcnJRTE5UMWZMT3hSckVQNERaQlhBc2lrMD"
+      "published": "Wed, 26 Nov 2025 19:52:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVhEZGliUFlKREI1YXZNR0Rjam9OdlFiZDc4cmlqQzNtOTdxSnV4bHJqV1UyYkVkVWlIWkNiZkZYdDVLNlVhaHREdTlkVHdlY3VjNC0xaWExX0R0SHZlc1BjQkpOekQzcTJXTXpZQjc2RXFsX2FkeExwQmZ2YUpqU3hoWm9NYjFPNjlOYk1WeXBHMFgyamNsejVFcEtmd1l1N0IwY2wwbTJhRkRSR1A3cHIzYlE0UktfX3"
     },
     {
-      "title": "Mexicanos usan IA todos los días, pero solo 3 de cada 10 confían plenamente en ella para su experiencia de cliente - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2NMQ3RnVDAtb0oyaUlQY2lTZWdmTnpKM0p0UjRsNUxZMGNVZjNDRFA3Q0ZldV9yVkN4V01OTWxzUjAwbGI4NE84UFVjUjZwQUUxbUZBdnFXZWZhQU44UWdINGhGSG5WaWt0N0tPWThsV2JGeDZlTjk0cE5WVlZJRHJNS0x5a21oTWlWTkdkZTl5ajBuNWdCRFhHVUVtYmcxUC05SVE4WUxBdGdOLUZuWDc2ZkQwOWt2ejZEdFotb2JrVGN2V19YNDBvONIB0AFBVV95cUxQTVRvdEQxLVNIOU5XYTJNMWFZRTdaMjRQdW9oWW1yTjhSYi1qaE1QLVV3ei1OZS15Y2ZuSThvdnB6cXB2RV9zY1M2M2VScUUxQzd5cGprZWdNOUk1cHJkVlpuTFZjZU1Udy1Qd2RpTGg4UFJtNmhhWUc5WmRROU1YVExBcWxPUmJFdHZMU2Q2NldfNHY4ampxTTlIeEI5UWN0NTBRY0Nydm9aQ29vdDRNaGxUdld5T0ZmWEdSNEtPYXJjcGZiaG5abVlLRjlpV3Yt?oc=5",
+      "title": "PottencIA: Inteligencia artificial transforma la educación en México - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmJpRG01VV9DejROVl95QWRzVWdiUXRtRnk5Y2xKdzEwZE5aeXVsakoxY1hqSkwwZVNSX1VWZkI0dEt0cG9XM3pQU2xJdmhxektzRnVRLV82VlZIbzMwNEFCSGUyM1ctVDQ4WFREQ3VFT2tQUXkzUjFFN2xVVFFnZHdLNUJ0NGZJMmRYWUVBSnlvRzVpTTVwcGpNaTQzMEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Nov 2025 17:55:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2NMQ3RnVDAtb0oyaUlQY2lTZWdmTnpKM0p0UjRsNUxZMGNVZjNDRFA3Q0ZldV9yVkN4V01OTWxzUjAwbGI4NE84UFVjUjZwQUUxbUZBdnFXZWZhQU44UWdINGhGSG5WaWt0N0tPWThsV2JGeDZlTjk0cE5WVlZJRHJNS0x5a21oTWlWTkdkZTl5ajBuNWdCRFhHVUVtYmcxUC05SVE4WUxBdGdOLUZuWDc2ZkQwOWt2ej"
+      "published": "Wed, 26 Nov 2025 20:19:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOWmJpRG01VV9DejROVl95QWRzVWdiUXRtRnk5Y2xKdzEwZE5aeXVsakoxY1hqSkwwZVNSX1VWZkI0dEt0cG9XM3pQU2xJdmhxektzRnVRLV82VlZIbzMwNEFCSGUyM1ctVDQ4WFREQ3VFT2tQUXkzUjFFN2xVVFFnZHdLNUJ0NGZJMmRYWUVBSnlvRzVpTTVwcGpNaTQzMEE?oc=5\" target=\"_blank\">PottencIA: I"
     },
     {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
+      "title": "México Digital Summit | Keynote de Sebastián Barros - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0UnExQVFtTUhmdkZwd0RDOGtSWGFlWWZLNWN1Y3RQYi1GUTQ4dU0tV1E2eFhGRnhoaTdLaHFoUmJKRDlDWjFCZ2tlTEM0QlNMSzkyUWRBd1ZCSjRIc2tzTWE3RVBoZGZ0T25IaUhJOHVUalFLRGk4N3J3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+      "published": "Wed, 26 Nov 2025 21:56:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA0UnExQVFtTUhmdkZwd0RDOGtSWGFlWWZLNWN1Y3RQYi1GUTQ4dU0tV1E2eFhGRnhoaTdLaHFoUmJKRDlDWjFCZ2tlTEM0QlNMSzkyUWRBd1ZCSjRIc2tzTWE3RVBoZGZ0T25IaUhJOHVUalFLRGk4N3J3?oc=5\" target=\"_blank\">México Digital Summit | Keynote de Sebastián Barros</a>&nbsp;&n"
     },
     {
       "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - El Ecosistema Startup",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQci0yVF90OE5CSTc4VDZhT2p5TWllVVBFbDFOQUV5THlXbkNMZEtmYzkwQktTVkR3WFJ4R1BRUGRTaVJ0SU1udmZLaWRCVUhnVEsweWdNUnJLT0x0endPOFVjX0lkYmZveTNaeG01cUhRRnQ1cFdMVmtfR3pTcGNmSGtBbGJYV3FGLWpoTC1sR0ctOGVSM2oybWJB?oc=5\" target=\"_blank\">Startups y ahorro e"
     },
     {
-      "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
+      "title": "Aceleradora PotencIA MX alista bootcamp para PyMEs y startups - Líder Empresarial",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkY0cjJtNTJZTUw3WWlOa1lnWlFVaW9HeWpacTlaM0xYN0haSGRTTVNld2hLa1pYSmR6c3JVMDIwZ2haTE41ZzZYQk5XTHhBeWF2dFJtSGZxVDlEcVlqSklCODZLX09Yd0hTclRESVF1YzJkX3Zybnp6aXVOLV9DWEV0OC1OcEJhNlVrTnl6SmVLdUkzODdyRGswY9IBoAFBVV95cUxQQjNrUldrWl9lM2lIMXc0aTNIVHRiaWcyY1NBVDctVFlYXzJsUkZvdjhjZzVQTDQzVjlJcWZNYXoxU01GNGVwanBLNm5HUWNPeXR6YVB3czVhMHEyVDNvRVNUNXhNX2pnbTRlaF9YTlNkMnhJb0N5bzZndG9vQ0JSMHFYZnpXaTZwZUNwQlFKX3g3d3VjRDRYUUM1MjhaNk9T?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 20 Nov 2025 17:19:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5\" target=\"_blank\">La acele"
+      "published": "Mon, 24 Nov 2025 11:30:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkY0cjJtNTJZTUw3WWlOa1lnWlFVaW9HeWpacTlaM0xYN0haSGRTTVNld2hLa1pYSmR6c3JVMDIwZ2haTE41ZzZYQk5XTHhBeWF2dFJtSGZxVDlEcVlqSklCODZLX09Yd0hTclRESVF1YzJkX3Zybnp6aXVOLV9DWEV0OC1OcEJhNlVrTnl6SmVLdUkzODdyRGswY9IBoAFBVV95cUxQQjNrUldrWl9lM2lIMXc0aTNIVH"
     },
     {
       "title": "Domingo Salazar: Boom de IA mexicana exige políticas públicas claras - El Financiero",
@@ -91,28 +91,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeE"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "title": "Tec promueve soluciones de innovación con IA en el encuentro Tech Week - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHp0bnRiUmtSLVFYY05rdE9IMjRpT0p2RGc1bnlMem1jZmlvWmQxVVF1Nk5RSTBjbnN4Y0tkUkl0c3pVb252R0hmOUxFQVNVbGp4ejROOEtIa0RhTEN0SHdwaERVOHA5T09LdXdkLU9ZMmhEZElxUFBCR1JlMjhwamE5ZXhkVTRGajJHa1pMc0JKUU1ZWEJsaHJzSS1rNUFFdjJqaXpsR2NSTzNXaUVzVklVZENUQ1RKVlNMWml2eUwzTVE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdHp0bnRiUmtSLVFYY05rdE9IMjRpT0p2RGc1bnlMem1jZmlvWmQxVVF1Nk5RSTBjbnN4Y0tkUkl0c3pVb252R0hmOUxFQVNVbGp4ejROOEtIa0RhTEN0SHdwaERVOHA5T09LdXdkLU9ZMmhEZElxUFBCR1JlMjhwamE5ZXhkVTRGajJHa1pMc0JKUU1ZWEJsaHJzSS1rNUFFdjJqaXpsR2NSTzNXaUVzVklVZENUQ1RKVl"
     },
     {
-      "title": "Cursos de Oracle en IA y tecnologías, gratis para la comunidad Tec - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NWFr?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NW"
+      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
     },
     {
-      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?oc=5",
+      "title": "Monterrey Digital Hub presenta nuevo Clúster de Inteligencia Artificial para acelerar innovación industrial - MexicoIndustry",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYlp4V0U5bVhrNTMyTGVHTEhBVTJZTFpOZkktRkQ0SmFLQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?o"
+      "published": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYl"
     }
   ],
   "count": 14
