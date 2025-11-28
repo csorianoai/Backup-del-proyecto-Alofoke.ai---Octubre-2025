@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "SCJN avala impuesto del 2% a plataformas, será más costoso pedir delivery",
+      "url": "https://expansion.mx/tecnologia/2025/11/28/scjn-avala-impuesto-plataformas-sera-mas-costoso-delivery",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 28 Nov 2025 18:17:40 GMT",
+      "summary": "AlianzaIn, que agrupa a aplicaciones como DiDi, Uber y Rappi, advierte que la medida traerá efectos negativos para repartidores, comercios y consumidores en CDMX."
+    },
+    {
+      "title": "Nvidia dejó un vacío en China y ya hay un competidor que busca llenarlo",
+      "url": "https://expansion.mx/tecnologia/2025/11/28/nvidia-dejo-un-vacio-en-china-y-ya-hay-un-competidor-que-busca-llenarlo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 28 Nov 2025 16:00:11 GMT",
+      "summary": "Baidu, el Google chino, es una de las opciones más relevantes para diversificar el mercado de IA, actualmente dominado por Huawei en el país asiático."
+    },
+    {
+      "title": "Pitz, la startup que pondrá un chalán de IA en los talleres mecánicos",
+      "url": "https://expansion.mx/tecnologia/2025/11/28/pitz-startup-pondra-un-chalan-de-ia-talleres-mecanicos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 28 Nov 2025 11:55:15 GMT",
+      "summary": "Con voz, IA y automatización, Pitz busca modernizar miles de talleres en México y Brasil, aumentar sus ingresos y profesionalizar una industria tradicional dominada por hombres."
+    },
+    {
       "title": "Alibaba lanza gafas inteligentes para competir con Meta",
       "url": "https://expansion.mx/tecnologia/2025/11/27/alibaba-lanza-gafas-inteligentes-para-competir-con-meta",
       "source": "Expansión Tecnología",
@@ -19,30 +43,6 @@
       "summary": "La plataforma destacó que México atraviesa un momento histórico para el turismo, impulsado por viajeros nacionales y con expectativas de turistas globales."
     },
     {
-      "title": "Meta es la clave de Chedraui para aumentar rentabilidad en la era de la IA",
-      "url": "https://expansion.mx/tecnologia/2025/11/26/chedraui-en-la-era-de-la-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 26 Nov 2025 23:35:06 GMT",
-      "summary": "Los canales de Meta contribuyen a que la cadena de tiendas de autoservicio consolide su estrategia de hiperpersonalización, traduciéndose en mayor rentabilidad."
-    },
-    {
-      "title": "Solución inteligente contra la sequía gana el Solve for Tomorrow de Samsung",
-      "url": "https://expansion.mx/tecnologia/2025/11/26/solucion-inteligente-contra-la-sequia-gana-el-solve-for-tomorrow-de-samsung",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 26 Nov 2025 21:00:42 GMT",
-      "summary": "Un equipo del CECyTE Morelos ganó el Solve for Tomorrow México 2025 con AtlTec, un sistema autónomo que capta y produce agua en zonas con sequía."
-    },
-    {
-      "title": "El plan de Tubi para capitalizar la fiesta del Mundial de futbol",
-      "url": "https://expansion.mx/tecnologia/2025/11/26/plan-de-tubi-para-capitalizar-mundial-2026-fifa",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 26 Nov 2025 19:00:54 GMT",
-      "summary": "La streaming no contará con los partidos del Mundial, pero planea competir con análisis, recapitulaciones y programación temática para ser una segunda pantalla del torneo de futbol."
-    },
-    {
       "title": "AMD triplica AM5 y apuesta al canal mexicano para dominar la IA en 2026 - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1NrNmJDaDZfcUViSWNuZG94VkJaZFk4MTNVRkdhVDZ0UExNYUllYVU4TnBBb09yQVVmckpINzI4am5wa3FsNmp2aEhjUTRScmpMOW14aURfUUV1SXNMRmdOUXZMQ0Uyall1anBKMjFleXJpVWVPUGxuMUh0c1YycGFJeGFnSXJNdThONkxtN09LNUJBOTAtN2Q3bk9FekJoUkQ5X2l5RmdNcldMcXVjbmMzMkM1cVJzTUU4NmhOdWo?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1NrNmJDaDZfcUViSWNuZG94VkJaZFk4MTNVRkdhVDZ0UExNYUllYVU4TnBBb09yQVVmckpINzI4am5wa3FsNmp2aEhjUTRScmpMOW14aURfUUV1SXNMRmdOUXZMQ0Uyall1anBKMjFleXJpVWVPUGxuMUh0c1YycGFJeGFnSXJNdThONkxtN09LNUJBOTAtN2Q3bk9FekJoUkQ5X2l5RmdNcldMcXVjbmMzMkM1cVJzTU"
     },
     {
+      "title": "Horizontes de investigación sobre la Inteligencia Artificial desde las Ciencias Sociales - Consejo Mexicano de Ciencias Sociales - COMECSO",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzUFJRRHJUczhYN1NHU0M5WVl5MGlpWjZQZHNJTDBNaDdFd0JENkJJTndDWGVjaHZmdzRzV0U0RU9Zay01MzlaQVdPM2xlbW0zY25TTkt6WjZFeGtLeTZUMVRQbFRTSHI3aXdKZDFMUUpBMDg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 28 Nov 2025 19:37:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAzUFJRRHJUczhYN1NHU0M5WVl5MGlpWjZQZHNJTDBNaDdFd0JENkJJTndDWGVjaHZmdzRzV0U0RU9Zay01MzlaQVdPM2xlbW0zY25TTkt6WjZFeGtLeTZUMVRQbFRTSHI3aXdKZDFMUUpBMDg?oc=5\" target=\"_blank\">Horizontes de investigación sobre la Inteligencia Artificial desde las C"
+    },
+    {
       "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWGhQaElpY1FQLUdhZ083U2pjNWVTM0dyNWxYWURocHh3YUUwdnVSYW1ncXBrdkRVTGF2VThnM1cxc0lVNnk0M2Z6WVd0VXhIMEJZamxyTDlkR0HSAaYCQVVfeXFMUEM3Tk5NTHVrSzBEZ1ZWSWZPblNJU3o4bk41Rk5vSXJaZktJa1VYZFJONE4zTkJ1QkE0ZEliM2pZVG9mSGM1QllUMHA5VjhPUXg4RGQ1UzNTX0dvRFRRQVo1US0wSjRMYW9ndExiWDlPaU5fMDBFeTZselVOQmdCalUyaHpyOWhJT1R3WWwwd0tSX2RnaXNveVpXUjBFNHV4NzFsN0xmQXpGUWVFZXFyOWdoYlo5QU02RFMzU3UySWYyMVJ0OWljOW8yY1llSW9sWEdScjVBNHUzZWY1bWxDdUhyTnVtcjVYQzF5Ni10RFByVnJVYXBURWxEYUp1aThNeEpzT3poajlEcWlOeVVkR193WkhJSHdod1M0MGswV0hRV1hNUl9B?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 24 Nov 2025 15:37:12 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
-    },
-    {
-      "title": "Seguridad y responsabilidad en la era de la inteligencia artificial: Un compromiso para México - idconline",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3ZPU21GUDdwczBBcnhGVjhRUjV0bVBCSTBhT3JqRVozNzYtelV0cnR4M3VNM1A0UTNsMnVRSm4zT1lMeUYtbUNUWjVFTkdiQ1Nmc2FJTVR5UkRFREZtUGU0VDktblliakhqRThmUXoyM1ZaVXdoT0dqd2pFYnNiekdTQkZoTXhfME9kNXY4Ti1lQ2poUU9INTJFdllsekNHbl9wcERyU3NxX3M0clFnbVdfVzBGc1Y1OUZfNEFzdThHOVVOY2wwNEJyVjdnVkp3R3Jn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 28 Nov 2025 14:19:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3ZPU21GUDdwczBBcnhGVjhRUjV0bVBCSTBhT3JqRVozNzYtelV0cnR4M3VNM1A0UTNsMnVRSm4zT1lMeUYtbUNUWjVFTkdiQ1Nmc2FJTVR5UkRFREZtUGU0VDktblliakhqRThmUXoyM1ZaVXdoT0dqd2pFYnNiekdTQkZoTXhfME9kNXY4Ti1lQ2poUU9INTJFdllsekNHbl9wcERyU3NxX3M0clFnbVdfVzBGc1Y1OU"
     },
     {
       "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - El Ecosistema Startup",
