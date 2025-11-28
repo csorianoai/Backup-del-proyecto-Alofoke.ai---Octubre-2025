@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Pitz, la startup que pondrá un chalán de IA en los talleres mecánicos",
-      "url": "https://expansion.mx/tecnologia/2025/11/28/pitz-startup-pondra-un-chalan-de-ia-talleres-mecanicos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 28 Nov 2025 11:55:15 GMT",
-      "summary": "Con voz, IA y automatización, Pitz busca modernizar miles de talleres en México y Brasil, aumentar sus ingresos y profesionalizar una industria tradicional dominada por hombres."
-    },
-    {
       "title": "Alibaba lanza gafas inteligentes para competir con Meta",
       "url": "https://expansion.mx/tecnologia/2025/11/27/alibaba-lanza-gafas-inteligentes-para-competir-con-meta",
       "source": "Expansión Tecnología",
@@ -43,12 +35,20 @@
       "summary": "Un equipo del CECyTE Morelos ganó el Solve for Tomorrow México 2025 con AtlTec, un sistema autónomo que capta y produce agua en zonas con sequía."
     },
     {
-      "title": "México el hub regional de Inteligencia Artificial será la sede del Congreso America Digital 2026 - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZk5yVTlEa09UV3BwZkxTdlFnOVNoZ1RGTkxYeGhESkRLZjk2eTM3RnRsQzV0QlE3VUpwN1I4VHp0el9pZ2lxQjBhUndWdE5zd292SjRYNEN1VDlqUnBBU1R1WFBWS0JzaEFtckV3YnFVcDdnUFNWZVJCeEhCYXhacU1xVFlzbUZXR0hpOHQtWDRTRDJqd05VYTA2endWYVRYanlZY0NmWE1sUC1vUWdHUkdSRXNtakhiU1dEUGFMc1NhZHVyOGZJYmhvb2lMd3lONTNVMjNtNzJGT1VySUZzVVZB?oc=5",
+      "title": "El plan de Tubi para capitalizar la fiesta del Mundial de futbol",
+      "url": "https://expansion.mx/tecnologia/2025/11/26/plan-de-tubi-para-capitalizar-mundial-2026-fifa",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 26 Nov 2025 19:00:54 GMT",
+      "summary": "La streaming no contará con los partidos del Mundial, pero planea competir con análisis, recapitulaciones y programación temática para ser una segunda pantalla del torneo de futbol."
+    },
+    {
+      "title": "AMD triplica AM5 y apuesta al canal mexicano para dominar la IA en 2026 - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1NrNmJDaDZfcUViSWNuZG94VkJaZFk4MTNVRkdhVDZ0UExNYUllYVU4TnBBb09yQVVmckpINzI4am5wa3FsNmp2aEhjUTRScmpMOW14aURfUUV1SXNMRmdOUXZMQ0Uyall1anBKMjFleXJpVWVPUGxuMUh0c1YycGFJeGFnSXJNdThONkxtN09LNUJBOTAtN2Q3bk9FekJoUkQ5X2l5RmdNcldMcXVjbmMzMkM1cVJzTUU4NmhOdWo?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 27 Nov 2025 21:19:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZk5yVTlEa09UV3BwZkxTdlFnOVNoZ1RGTkxYeGhESkRLZjk2eTM3RnRsQzV0QlE3VUpwN1I4VHp0el9pZ2lxQjBhUndWdE5zd292SjRYNEN1VDlqUnBBU1R1WFBWS0JzaEFtckV3YnFVcDdnUFNWZVJCeEhCYXhacU1xVFlzbUZXR0hpOHQtWDRTRDJqd05VYTA2endWYVRYanlZY0NmWE1sUC1vUWdHUkdSRXNtakhiU1"
+      "published": "Fri, 28 Nov 2025 15:21:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1NrNmJDaDZfcUViSWNuZG94VkJaZFk4MTNVRkdhVDZ0UExNYUllYVU4TnBBb09yQVVmckpINzI4am5wa3FsNmp2aEhjUTRScmpMOW14aURfUUV1SXNMRmdOUXZMQ0Uyall1anBKMjFleXJpVWVPUGxuMUh0c1YycGFJeGFnSXJNdThONkxtN09LNUJBOTAtN2Q3bk9FekJoUkQ5X2l5RmdNcldMcXVjbmMzMkM1cVJzTU"
     },
     {
       "title": "El Gobierno abrió las inscripciones para estudiar gratis Inteligencia Artificial, Análisis de Datos, Ciberseguridad: requisitos fáciles - El Cronista",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVFZFeUwzVm10cF8zVjNsZkJodFdsZFBqbUYzbjdpVEZ4QkxJeHlDeEVpSTlnaDhZUGxVaXl4Yi1IX1I5T3NCMDFtSnkzR2ItZ3dXVGEyQnJnS3lhRmRwSTZWZHNuWGY3S2FkN3JmWVZCdHh5ZGl4TkVLSHZVdlJmQ1RYUHNPYzhuSGNEbGdQTlkteE8wMGMxTHYtcUJ0aUV0OGk4NmMtVF93UVh2dWhvQjN1RFRUU0hQWG"
     },
     {
-      "title": "Inteligencia Artificial revela quién será el campeón del Apertura 2025 de la Liga MX - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVhEZGliUFlKREI1YXZNR0Rjam9OdlFiZDc4cmlqQzNtOTdxSnV4bHJqV1UyYkVkVWlIWkNiZkZYdDVLNlVhaHREdTlkVHdlY3VjNC0xaWExX0R0SHZlc1BjQkpOekQzcTJXTXpZQjc2RXFsX2FkeExwQmZ2YUpqU3hoWm9NYjFPNjlOYk1WeXBHMFgyamNsejVFcEtmd1l1N0IwY2wwbTJhRkRSR1A3cHIzYlE0UktfX3ZQQlpacFRMNXNmTWJrRDJFbjRxSkE5aGfSAewBQVVfeXFMTmQzRm9GdFNjZUQ3YmFHOTlPS0Y3YkxUV192TnRTZWJZejJDUURWTXkyUWdQd0taWWw3OVZkT2JPdHdkRkU2dG9BUC1TSnFuTEVXeThHaFMtcnl3YU9nNGJHeW1MdmxsMThpaHZ4dzNzQm5rRGFGenVPYWsyVkJ6MUlNSFdHZ041ZzdvRGZJQy1yY2NyM3poemVINTVHazNXRkltX3EyYjltUEVoNC0tbkRWXy1Qa0hpdnNabkt1S0s1Y3Nwc1BGTFJZTzktWmpUNldpZ3NHcEZTWmhpMld0alB5WGN5YTlBdk40VVc?oc=5",
+      "title": "Seguridad y responsabilidad en la era de la inteligencia artificial: Un compromiso para México - idconline",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3ZPU21GUDdwczBBcnhGVjhRUjV0bVBCSTBhT3JqRVozNzYtelV0cnR4M3VNM1A0UTNsMnVRSm4zT1lMeUYtbUNUWjVFTkdiQ1Nmc2FJTVR5UkRFREZtUGU0VDktblliakhqRThmUXoyM1ZaVXdoT0dqd2pFYnNiekdTQkZoTXhfME9kNXY4Ti1lQ2poUU9INTJFdllsekNHbl9wcERyU3NxX3M0clFnbVdfVzBGc1Y1OUZfNEFzdThHOVVOY2wwNEJyVjdnVkp3R3Jn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Nov 2025 19:52:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLVhEZGliUFlKREI1YXZNR0Rjam9OdlFiZDc4cmlqQzNtOTdxSnV4bHJqV1UyYkVkVWlIWkNiZkZYdDVLNlVhaHREdTlkVHdlY3VjNC0xaWExX0R0SHZlc1BjQkpOekQzcTJXTXpZQjc2RXFsX2FkeExwQmZ2YUpqU3hoWm9NYjFPNjlOYk1WeXBHMFgyamNsejVFcEtmd1l1N0IwY2wwbTJhRkRSR1A3cHIzYlE0UktfX3"
+      "published": "Fri, 28 Nov 2025 14:19:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3ZPU21GUDdwczBBcnhGVjhRUjV0bVBCSTBhT3JqRVozNzYtelV0cnR4M3VNM1A0UTNsMnVRSm4zT1lMeUYtbUNUWjVFTkdiQ1Nmc2FJTVR5UkRFREZtUGU0VDktblliakhqRThmUXoyM1ZaVXdoT0dqd2pFYnNiekdTQkZoTXhfME9kNXY4Ti1lQ2poUU9INTJFdllsekNHbl9wcERyU3NxX3M0clFnbVdfVzBGc1Y1OU"
     },
     {
       "title": "Startups y ahorro energético: innovación con IA en Latinoamérica - El Ecosistema Startup",
@@ -83,20 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkY0cjJtNTJZTUw3WWlOa1lnWlFVaW9HeWpacTlaM0xYN0haSGRTTVNld2hLa1pYSmR6c3JVMDIwZ2haTE41ZzZYQk5XTHhBeWF2dFJtSGZxVDlEcVlqSklCODZLX09Yd0hTclRESVF1YzJkX3Zybnp6aXVOLV9DWEV0OC1OcEJhNlVrTnl6SmVLdUkzODdyRGswY9IBoAFBVV95cUxQQjNrUldrWl9lM2lIMXc0aTNIVH"
     },
     {
-      "title": "Domingo Salazar: Boom de IA mexicana exige políticas públicas claras - El Financiero",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeERBbFdB?oc=5",
+      "title": "Las startups lideran la adopción de la IA en México, pero aún queda un largo camino por recorrer - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVlWR3o3N1FBLTBtMXhpYzgtSUExcmU5ZkpTRmZlN2RBeXNfWXUxX21GSElZZEZsQjZyem96cG1XSi01alJTV0NnbDR1azhGRm14NWRoSXh6ZmV3NVlUb1VuQ2RnU01BZm9IXzV4b2N6anpFVjY3Q2xQa3o1cHFBUjNnYTRCWEQybWxCWGhtb25vQVRicDdONw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 20 Nov 2025 14:19:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGxyTDJTRzNSTWxvT1pSZHZMSXBTLTJSRENfVjV5WVVucjJBb3Bua2FYVFF6TUYwZ3ZwXzhqY1FFRUhFVHM5cTRMQ0Z5Ymg1RlJsS3V2UG1OZEJITndhNFZkZE5aVm40cXI5WkVUT3ZCUWFOemRSVGZZcVFYTmc4b3BweU5zUHd3WFItd2dIX3gyT1lFT00wQ2YzQnVIOHRtcGhJVzFHMDBmSGhMLWFNLXpHQU9mWkJzeE"
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVlWR3o3N1FBLTBtMXhpYzgtSUExcmU5ZkpTRmZlN2RBeXNfWXUxX21GSElZZEZsQjZyem96cG1XSi01alJTV0NnbDR1azhGRm14NWRoSXh6ZmV3NVlUb1VuQ2RnU01BZm9IXzV4b2N6anpFVjY3Q2xQa3o1cHFBUjNnYTRCWEQybWxCWGhtb25vQVRicDdONw?oc=5\" target=\"_blank\">Las startups lideran "
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
       "title": "Tec promueve soluciones de innovación con IA en el encuentro Tech Week - Tecnológico de Monterrey",
