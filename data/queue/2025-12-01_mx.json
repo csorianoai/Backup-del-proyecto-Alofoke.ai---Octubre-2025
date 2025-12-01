@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Uno de los mayores inversionistas de Wall Street apuesta por Televisa",
+      "url": "https://expansion.mx/tecnologia/2025/12/01/televisa-nuevo-accionista-mayores-inversionistas-wall-street",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 01 Dec 2025 15:29:53 GMT",
+      "summary": "La llegada de Mario Gabelli se inserta en un momento en el que la empresa busca su rentabilidad, por lo que su presencia podría cambiar la estrategia del Grupo."
+    },
+    {
+      "title": "Netflix elimina función para transmitir series de teléfonos a TV",
+      "url": "https://expansion.mx/tecnologia/2025/12/01/netflix-elimina-funcion-para-transmitir-celular-a-tv",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 01 Dec 2025 15:00:40 GMT",
+      "summary": "La empresa no anunció el cambio con un comunicado, sino que lo publicó en su página de soporte y ahora los usuarios ya no encuentran la forma de transmitir sus series en TV."
+    },
+    {
       "title": "Nintendo apuesta por dos exclusivas para vender Switch 2 estas fiestas",
       "url": "https://expansion.mx/tecnologia/2025/11/29/nintendo-exclusivas-vender-switch-2",
       "source": "Expansión Tecnología",
@@ -19,28 +35,12 @@
       "summary": "Un nombre, un correo y un puesto dentro de una empresa pueden ser suficientes para ejecutar todo un ataque dentro de una organización, y ampliarlo a través de IA."
     },
     {
-      "title": "Uno de los mayores inversionistas de Wall Street apuesta por Televisa",
-      "url": "https://expansion.mx/tecnologia/2025/11/28/uno-de-los-mayores-inversionistas-de-wall-street-apuesta-por-televisa",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 28 Nov 2025 23:44:53 GMT",
-      "summary": "La llegada de Mario Gabelli se inserta en un momento en el que la empresa busca su rentabilidad, por lo que su presencia podría cambiar la estrategia del Grupo."
-    },
-    {
       "title": "Cada vez cuesta más desarrollar videojuegos y hacerlos rentables",
       "url": "https://expansion.mx/tecnologia/2025/11/28/cuesta-mas-desarrollar-videojuegos-hacerlos-rentables",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Fri, 28 Nov 2025 19:30:48 GMT",
       "summary": "La industria del videojuego domina el entretenimiento global, pero su modelo económico muestra grietas. Producir un título AAA cuesta cientos de millones y cada vez es más difícil recuperar la inversión."
-    },
-    {
-      "title": "SCJN da luz verde a impuesto a apps como Rappi o Didi: así afectará a empresas, repartidores y consumidores",
-      "url": "https://expansion.mx/tecnologia/2025/11/28/scjn-luz-verde-impuesto-apss-rappi-didi",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 28 Nov 2025 18:17:40 GMT",
-      "summary": "AlianzaIn, que agrupa a aplicaciones como DiDi, Uber y Rappi, advierte que la medida traerá efectos negativos para repartidores, comercios y consumidores en CDMX."
     },
     {
       "title": "Inteligencia artificial predice el mejor equipo que firmaría a James Rodríguez - Bolavip",
