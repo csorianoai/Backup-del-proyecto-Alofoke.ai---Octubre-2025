@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "YouTube Recap 2025 en Argentina revela cuáles son los videos y creadores más vistos: ¿cuáles viste?",
+      "url": "https://www.clarin.com/tecnologia/youtube-recap-2025-argentina-revela-videos-creadores-vistos-viste_0_fANqjYaTe5.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 03 Dec 2025 17:04:52 +0000",
+      "summary": "<ul><li>YouTube publicó su Recap anual con los mejores videos musicales de este año. </li><li>Además, lanzó el top 10 de creadores de contenido argentinos. </li></ul>"
+    },
+    {
+      "title": "\"Hacé tu propio modelo de IA\", la apuesta de AWS para la próxima etapa de la inteligencia artificial",
+      "url": "https://www.clarin.com/tecnologia/hace-propio-modelo-ia-apuesta-aws-proxima-etapa-inteligencia-artificial_0_53O1RP1J5R.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 03 Dec 2025 14:27:47 +0000",
+      "summary": "<ul><li>La división de Amazon que ofrece servicios en la nube presentó su batería de nuevos lanzamientos en Las Vegas.</li><li>IA a medida, nuevos chips y data centers que salen de la nube.</li><li>Anunciaron también una línea de financiamiento para startups de Argentina.</li></ul>"
+    },
+    {
       "title": "El boom de los robots de cocina: características y precios de los últimos modelos en Argentina",
       "url": "https://www.clarin.com/tecnologia/boom-robots-cocina-caracteristicas-precios-ultimos-modelos-argentina_0_JDgXvrQDcR.html",
       "source": "Clarín Tecnología",
@@ -27,20 +43,12 @@
       "summary": "<ul><li>El gigante chino retoma la venta de smartphones antes de fin de 2025 con el lanzamiento de la serie Pura 80. </li><li>La preventa se hará a través de Mercado Libre, junto con otros equipos de su ecosistema. </li></ul>"
     },
     {
-      "title": "Un joven argentino creó una app que detecta incendios antes que los sistemas de la NASA y ya opera en toda la región",
-      "url": "https://www.clarin.com/tecnologia/joven-argentino-creo-app-detecta-incendios-sistemas-nasa-opera-toda-region_0_ttOQB7RW8E.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 01 Dec 2025 08:45:47 +0000",
-      "summary": "<ul><li>Franco Rodríguez Viau desarrolló una plataforma que integra imágenes satelitales e inteligencia artificial para emitir alertas tempranas.</li><li>\"Satellites on Fire\" ya fue adoptado por brigadas y empresas de alto riesgo en distintos países.</li></ul>"
-    },
-    {
-      "title": "Vitalik Buterin: qué piensa el creador de Ethereum sobre la seguridad cripto, por qué destaca a la Argentina y cuál será el próximo salto de la IA",
-      "url": "https://www.clarin.com/tecnologia/vitalik-buterin-piensa-creador-ethereum-seguridad-cripto-destaca-argentina-proximo-salto-ia_0_SUCpMx8R4w.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 30 Nov 2025 09:01:46 +0000",
-      "summary": "<ul><li>“Si sólo 30 personas entienden el protocolo Ethereum, entonces no es muy descentralizado”, criticó.</li><li>El estado de la Web3, por qué hay tantas criptoestafas y cuán seguro es el ecosistema hoy.</li><li>El fundador de una de las blochckains más usadas del mundo visitó el país durante Dev"
+      "title": "Es argentina, trabaja en Google y reveló cuál es la próxima revolución que traerá la inteligencia artificial - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlc2STczSE80TGhPVVBBbzhfekJNNkVETHZYOTRhU2cwQjBsUU54ejk5QzNraXFYQjJ1LWVQWnNwY1p1OVZqMEhsQThsS2JnUy1xR0NhdWdIWUo1QkNjUXZjdWFuQ3lUREJtNjVmQVEtZUszRzkzVjNzSDkwYWhTRF9LbW15dkhLc2xOaTZjaV9SaGJXdG9GeVBROGdpQ0w5TUZVSnFYbjVNZmxiYWN0eG5QRTRmQ0pEXzZJQVd6SURrZmZfUldnRG1PYm5kMF84MzlnV0lVSl9HRTU1dHY2TVBB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 29 Nov 2025 03:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlc2STczSE80TGhPVVBBbzhfekJNNkVETHZYOTRhU2cwQjBsUU54ejk5QzNraXFYQjJ1LWVQWnNwY1p1OVZqMEhsQThsS2JnUy1xR0NhdWdIWUo1QkNjUXZjdWFuQ3lUREJtNjVmQVEtZUszRzkzVjNzSDkwYWhTRF9LbW15dkhLc2xOaTZjaV9SaGJXdG9GeVBROGdpQ0w5TUZVSnFYbjVNZmxiYWN0eG5QRTRmQ0pEXz"
     },
     {
       "title": "» Conversatorio: “Desafíos de Argentina en la era de la inteligencia artificial: datos para decidir mejor” - Noticias UNSAM",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTVYwRkNrYzZhYWxSWGxHbGMwaHpmX09neEh4UEdFRm14WTRzV0hveUd2VWRzMTh0a2tqa2FFYmh3T0RaV2dTTFlQaHA3dlBXYXplQ0VaVXpsUkt6RGFUNkxwX2o4T2JzYm1seGY0ZlhyS3VsVFpGdG5LR2lQY1lZSV9YNzZxZ2tCSHUwMHdOWVhqdTdad1U4SWtPSkhlYVVxd01aS1RTbzVaQjc5VzlMNHpxb3lEQkQxX1"
     },
     {
-      "title": "Es argentina, trabaja en Google y reveló cuál es la próxima revolución que traerá la inteligencia artificial - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlc2STczSE80TGhPVVBBbzhfekJNNkVETHZYOTRhU2cwQjBsUU54ejk5QzNraXFYQjJ1LWVQWnNwY1p1OVZqMEhsQThsS2JnUy1xR0NhdWdIWUo1QkNjUXZjdWFuQ3lUREJtNjVmQVEtZUszRzkzVjNzSDkwYWhTRF9LbW15dkhLc2xOaTZjaV9SaGJXdG9GeVBROGdpQ0w5TUZVSnFYbjVNZmxiYWN0eG5QRTRmQ0pEXzZJQVd6SURrZmZfUldnRG1PYm5kMF84MzlnV0lVSl9HRTU1dHY2TVBB?oc=5",
+      "title": "El 88% de los empleados argentinos utiliza inteligencia artificial en sus tareas diarias, según IBM - mercado.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNCVGtObEctcHBkVmdSSUU2S24yUE9VYkFSLUpQYnpPUFZMbWFQQnIwc25leWw4dHFEdWlMQ2REYWlQc1VRYTZRaDV3cEFmeU1SMUh3YUtpb2l6OWpNSEZTMkI2dmlmR2RxMHY1NWRESHM2ZkYyVEx1TzNlaHZqNFZZODZMVWRVOGxPb3EtNXdDXzRjR3hWdkthMy1yRkg2Wkx6ZFJvS3U0ek1QMHA1QVZsWDVrVWZBSnI2MS1UZno4aG5yY0I3TDgxd0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 29 Nov 2025 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUlc2STczSE80TGhPVVBBbzhfekJNNkVETHZYOTRhU2cwQjBsUU54ejk5QzNraXFYQjJ1LWVQWnNwY1p1OVZqMEhsQThsS2JnUy1xR0NhdWdIWUo1QkNjUXZjdWFuQ3lUREJtNjVmQVEtZUszRzkzVjNzSDkwYWhTRF9LbW15dkhLc2xOaTZjaV9SaGJXdG9GeVBROGdpQ0w5TUZVSnFYbjVNZmxiYWN0eG5QRTRmQ0pEXz"
-    },
-    {
-      "title": "Argentina frente al desafío de los centros de datos para Inteligencia Artificial: inversiones, energía y futuro digital - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUEQ1YTdaaXUzQWZRYWVlMDJsb3NHdkpyR3hSZ1cwREk4cC1zenRzbWVvVmstc3ZpOHEyNE1oVXpFTkxBc2E3U244VG1uTmVBUjFKWlA4dEszSlpwbEFUZzBZR0F6WW5iN3EzQnh3dERZc1d4b3JwQUdVd216V191SjJZM05XWlJQVmJ5ZzExamZWWjN1c0twWFpwazRGY05POUJmUDEtaFBQMnlXOWtNY1dUcEJEV1JGRHdoSWgzSGtDa2VNQVRhczVQWk0xdC1lNUlsYVBZVWFVNHJ3Vm0yOC1janFCUkRzekl0UDhUQ3owLU5u0gGPAkFVX3lxTE1WTkd5X1VvT0FqTlFKaHoyeHhtbTgxZWJqUWplY0k5Uy1BRHc5ZVhZeDY1V2VObktIX2lGNjJYdmZLR3hsX0RjblhNa0tWVzQwS2xLMnAyMUpJWmVvWU9LQjFhUkdxZDJaR3hMXzJraUEyLW9uT1dSVVhrTGR2WjVkUVpyOVBPSUxlWnVidHBZRTYtR2hkaXNLWWFoajRVVFdzY3JrQnVpTzBXNWRyVTExeXJ4aHZLS0E1TldXa0ZXWEJjYmpsSkV4WXBabmtJM1JUT1NqR1E5MmNaVnItemNPNXZlYVZGczBBWmpiSW1KM2FHSzF4SFRXci1FU2stM1EyRE9hNVFWUEFaRHpUYzA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 22 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUEQ1YTdaaXUzQWZRYWVlMDJsb3NHdkpyR3hSZ1cwREk4cC1zenRzbWVvVmstc3ZpOHEyNE1oVXpFTkxBc2E3U244VG1uTmVBUjFKWlA4dEszSlpwbEFUZzBZR0F6WW5iN3EzQnh3dERZc1d4b3JwQUdVd216V191SjJZM05XWlJQVmJ5ZzExamZWWjN1c0twWFpwazRGY05POUJmUDEtaFBQMnlXOWtNY1dUcEJEV1JGRH"
+      "published": "Wed, 03 Dec 2025 14:22:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjNCVGtObEctcHBkVmdSSUU2S24yUE9VYkFSLUpQYnpPUFZMbWFQQnIwc25leWw4dHFEdWlMQ2REYWlQc1VRYTZRaDV3cEFmeU1SMUh3YUtpb2l6OWpNSEZTMkI2dmlmR2RxMHY1NWRESHM2ZkYyVEx1TzNlaHZqNFZZODZMVWRVOGxPb3EtNXdDXzRjR3hWdkthMy1yRkg2Wkx6ZFJvS3U0ek1QMHA1QVZsWDVrVWZBSn"
     },
     {
       "title": "Cinco provincias y la Ciudad ofrecen US$48 millones en apoyo para impulsar el uso de IA - La Nación",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGx2bjdxeGJlWWU5QWlMWklwQlExT1BDUHBrYl9scUQxZU5FUkNzaG5mRlpGeVl2VTdIUWpyLUtrb0lXbEx6aWF2TmVILXBicS1IREt2Q2MwdUhUTFdaZk1oMmpHQk5HR0lrQ0dpOXRhX09QUXRCUzBRekYwek5rLU1IUy1JdDZiSGxYWkdPbkNjWXdMcm45YTQ3SU1wa1NXYXF6SzRaSXpUR2g4aUVyZTc1UGVCWEowak"
     },
     {
-      "title": "Buenos Aires expuso sus políticas de gobierno abierto e inteligencia artificial en conferencias realizadas en Brasil - Nota al Pie",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmU2M5TFhjRXc2M2w0N3JBUV80THdIRmhkUkdzMkpiZFpudF9IYkstTy1aQWI0LU1fa2lLeTh2NFU0TUxDX0JIeEhsZVRMLUdsczJjZXhqUzhZZVQ1ZUpUcnhmMGxZS3gtaHdtWndjU3FKMTM3VGtKTg?oc=5",
+      "title": "No es Buenos Aires: la inteligencia artificial reveló cuál es el mejor lugar de Argentina para que vivan los jubilados - Vía País",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcUd3SHJrNGlvdWh2THNuOURKbVpGY0V6UmtXcERIellXQlhfVEZnUVAxYTZBLThkdWRINElSQ3BmQlk2VmpUWFNrLW5PS0l2bWhEU0RITDdRa2Z0cjZ0bFVaYUZURkRaTGREcEllQmhCUFdpN0J6dVVvNDJTdkszS1dIcmxzc3U0b1VEVUh0SE9iVHRIT0V5eDNSSzc3elR6UUltWWxBbnJOREpYUi13VG16N3JfM09NandzUExxdHREXzkzN29BbEZ6YVA5dzdJMUlzV0d2R09VblF1OXR3ajJkTFpVM2ItMEx6cF9qT0puQjg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Dec 2025 19:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBmU2M5TFhjRXc2M2w0N3JBUV80THdIRmhkUkdzMkpiZFpudF9IYkstTy1aQWI0LU1fa2lLeTh2NFU0TUxDX0JIeEhsZVRMLUdsczJjZXhqUzhZZVQ1ZUpUcnhmMGxZS3gtaHdtWndjU3FKMTM3VGtKTg?oc=5\" target=\"_blank\">Buenos Aires expuso sus políticas de gobierno abierto e inteligen"
+      "published": "Wed, 03 Dec 2025 14:23:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcUd3SHJrNGlvdWh2THNuOURKbVpGY0V6UmtXcERIellXQlhfVEZnUVAxYTZBLThkdWRINElSQ3BmQlk2VmpUWFNrLW5PS0l2bWhEU0RITDdRa2Z0cjZ0bFVaYUZURkRaTGREcEllQmhCUFdpN0J6dVVvNDJTdkszS1dIcmxzc3U0b1VEVUh0SE9iVHRIT0V5eDNSSzc3elR6UUltWWxBbnJOREpYUi13VG16N3JfM09Nan"
     },
     {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
