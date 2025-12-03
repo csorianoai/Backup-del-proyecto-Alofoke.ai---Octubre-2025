@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Alerta epidemiológica en Chile: qué es el sarampión y cuáles son sus síntomas",
+      "url": "https://www.latercera.com/tendencias/noticia/alerta-epidemiologica-en-chile-que-es-el-sarampion-y-cuales-son-sus-sintomas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 03 Dec 2025 20:00:00 +0000",
+      "summary": "El Ministerio de Salud (Minsal) emitió una alerta epidemiológica por el sarampión, ante un aumento de casos en Argentina. Conoce los síntomas, cómo se contagia y quiénes deben vacunarse."
+    },
+    {
       "title": "Cómo ver tu Spotify Wrapped 2025: lo que debes saber del resumen musical más esperado del año",
       "url": "https://www.latercera.com/tendencias/noticia/como-ver-tu-spotify-wrapped-2025-lo-que-debes-saber-del-resumen-musical-mas-esperado-del-ano/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "El Minsal emitió una alerta alimentaria por un brote de listeria en un lote de sándwiches en la Región de Ñuble. Conoce qué es esta bacteria y sus síntomas."
     },
     {
-      "title": "90% de probabilidad de lluvia en la Región Metropolitana: qué día vuelven las precipitaciones",
-      "url": "https://www.latercera.com/tendencias/noticia/90-de-probabilidad-de-lluvia-en-la-region-metropolitana-que-dia-vuelven-las-precipitaciones/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 03 Dec 2025 09:03:00 +0000",
-      "summary": "Un evento meteorológico terminará con el calor extremo de los últimos días en Santiago. La llegada de una baja segregada podría modificar las temperaturas y traer lluvia a la Región Metropolitana."
-    },
-    {
       "title": "La Armada de Chile firma convenio para impulsar la formación académica en ciencia de datos e inteligencia artificial - Infodefensa",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdjNtTEp2b0NjWG53d1QwekotV2M0SXd5eDVOVUYxTmFYTmpEUi1UMExKTFRiTGg4LUhFdmZlVHBTVzl5QlQzNHdWRldnQ3p5Z0RZUDNMZkJpVnBZVVFMdmZKZFNQSmlBc3ZyWGpWckhqLWxoaFd4dGoyOFA2TXBnSVBoY1ZRcC1TZ19TSk16MlJMZ2ZXUE00cFdZMmU0eU9vS3RNMUZnYmNGbTYycUNrTmhrWHVYM04wbmdrV1NyNDg5b21KRFpBQmY4OG5BV3BsOGdQSzNrWWJ1VVl5MzlMNWM5OXpscVFM?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdjNtTEp2b0NjWG53d1QwekotV2M0SXd5eDVOVUYxTmFYTmpEUi1UMExKTFRiTGg4LUhFdmZlVHBTVzl5QlQzNHdWRldnQ3p5Z0RZUDNMZkJpVnBZVVFMdmZKZFNQSmlBc3ZyWGpWckhqLWxoaFd4dGoyOFA2TXBnSVBoY1ZRcC1TZ19TSk16MlJMZ2ZXUE00cFdZMmU0eU9vS3RNMUZnYmNGbTYycUNrTmhrWHVYM04wbm"
     },
     {
-      "title": "Chile: Claro impulsa IA y agentes generativos en sus canales de atención - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0xZR2JxUEZRWGx6ZTNtNGpJVlk3dXBaQllLN2tYRktBQm5FZm9nVXpObGJpZ3UzXy15RGJlb1NYckY3ZDF5TmstUnpFNHZldmR0Yk5BTzM0WlB4dFJUUWNjV1I0V0FVZldERU1URUx3TjRxVDZsWnM0d2lOZ05sNWlaSEJVeTR4NEl5TGhZa1Y3TmwzdEQyVnpKWFdiNEdlMGVidHgyZlJleVNCLUFzeUZR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 03 Dec 2025 16:40:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0xZR2JxUEZRWGx6ZTNtNGpJVlk3dXBaQllLN2tYRktBQm5FZm9nVXpObGJpZ3UzXy15RGJlb1NYckY3ZDF5TmstUnpFNHZldmR0Yk5BTzM0WlB4dFJUUWNjV1I0V0FVZldERU1URUx3TjRxVDZsWnM0d2lOZ05sNWlaSEJVeTR4NEl5TGhZa1Y3TmwzdEQyVnpKWFdiNEdlMGVidHgyZlJleVNCLUFzeUZR?oc=5\" tar"
-    },
-    {
       "title": "Chile: el costo de alimentar la inteligencia artificial - Pulitzer Center",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdPNWNMekxOYVFXZUhuZ2xOZTlpNFIyTjFZSE8yVW8wVkhaUnR6OHhYbjJHbGM0aVJoREZDdXhnOWt6VXZhVWtNUFZyNWRPWUxPcGE4SEpDdjFRbzU0TEVPT2hpUk9IVmtCTkZ1ejhrMDB1dmltX3NfRjhRNGNwVXpSTE9KWmhRVVRjakpDblhDZ0FSUVFB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 28 Nov 2025 08:03:45 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdPNWNMekxOYVFXZUhuZ2xOZTlpNFIyTjFZSE8yVW8wVkhaUnR6OHhYbjJHbGM0aVJoREZDdXhnOWt6VXZhVWtNUFZyNWRPWUxPcGE4SEpDdjFRbzU0TEVPT2hpUk9IVmtCTkZ1ejhrMDB1dmltX3NfRjhRNGNwVXpSTE9KWmhRVVRjakpDblhDZ0FSUVFB?oc=5\" target=\"_blank\">Chile: el costo de alim"
+    },
+    {
+      "title": "Chile: Claro impulsa IA y agentes generativos en sus canales de atención - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0xZR2JxUEZRWGx6ZTNtNGpJVlk3dXBaQllLN2tYRktBQm5FZm9nVXpObGJpZ3UzXy15RGJlb1NYckY3ZDF5TmstUnpFNHZldmR0Yk5BTzM0WlB4dFJUUWNjV1I0V0FVZldERU1URUx3TjRxVDZsWnM0d2lOZ05sNWlaSEJVeTR4NEl5TGhZa1Y3TmwzdEQyVnpKWFdiNEdlMGVidHgyZlJleVNCLUFzeUZR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 03 Dec 2025 16:40:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0xZR2JxUEZRWGx6ZTNtNGpJVlk3dXBaQllLN2tYRktBQm5FZm9nVXpObGJpZ3UzXy15RGJlb1NYckY3ZDF5TmstUnpFNHZldmR0Yk5BTzM0WlB4dFJUUWNjV1I0V0FVZldERU1URUx3TjRxVDZsWnM0d2lOZ05sNWlaSEJVeTR4NEl5TGhZa1Y3TmwzdEQyVnpKWFdiNEdlMGVidHgyZlJleVNCLUFzeUZR?oc=5\" tar"
     },
     {
       "title": "¡Conéctate! Webinar gratuito: ‘IA para la Comunicación Estratégica’ - Alcaldía de Santiago de Cali",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTXE5dlZHVVRoVkJJR29nZk9rVC1XZnA2NkxiYjhhYTBnNUI4LUFueXNqaGNiZDhqa1MwcXUtZ2xzay1vdkxXbTRKZV9fTFlUdUROQzN6UjdTWDNjOWdCQllTR056WVB6VDIxX0VPM3dXNk55UTJjZVN2MGh0dVJaNmlTRnM3RW1ncjN6UWpKMVU?oc=5\" target=\"_blank\">El desafío de regular la intelig"
     },
     {
-      "title": "Amoníaco verde: avance industrial y oportunidad sostenible en Chile - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVlJMEs2WlFFTWh4T2pTS3A1V2NhWWxiTFBYbUx0dUZDMGVYTkVwZGRXSnF4WFdnRWlYY1hkSVVwU1hkeVdlcEFQaFpmZGU0eFBaeTdzN2U5WXdRSTkwVEhzcGlMVzB1NFJVVExxalJwdEQyOTVpeHJDWGtvVjJsRzk1a2tMa0c2MUw2RzdjVmdUTU92aHFESklXQ2V3Zw?oc=5",
+      "title": "Innovación en Chile: retos de valor agregado y propiedad intelectual - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmVncmdGRWhPTy0wOG93a3BsQThURXp6eWZHc3MwWlAyTE9pNXc2al9BSjBZbE5Vd3JsbEJ5bUphdi02bzlnMjVYLWxJeW1HT1Z1aWJheURLWWdBM1A2MXNQUzU0OFV2Rk9PaDgzOTRGV0diNDNMQkdUQ0pTSHktajg2cTlVZ2lFX2NTSUlCS3pReDFMV2tpSVA5X2Q5M2c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 03 Dec 2025 09:38:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSVlJMEs2WlFFTWh4T2pTS3A1V2NhWWxiTFBYbUx0dUZDMGVYTkVwZGRXSnF4WFdnRWlYY1hkSVVwU1hkeVdlcEFQaFpmZGU0eFBaeTdzN2U5WXdRSTkwVEhzcGlMVzB1NFJVVExxalJwdEQyOTVpeHJDWGtvVjJsRzk1a2tMa0c2MUw2RzdjVmdUTU92aHFESklXQ2V3Zw?oc=5\" target=\"_blank\">Amoníaco verd"
+      "published": "Tue, 02 Dec 2025 15:38:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmVncmdGRWhPTy0wOG93a3BsQThURXp6eWZHc3MwWlAyTE9pNXc2al9BSjBZbE5Vd3JsbEJ5bUphdi02bzlnMjVYLWxJeW1HT1Z1aWJheURLWWdBM1A2MXNQUzU0OFV2Rk9PaDgzOTRGV0diNDNMQkdUQ0pTSHktajg2cTlVZ2lFX2NTSUlCS3pReDFMV2tpSVA5X2Q5M2c?oc=5\" target=\"_blank\">Innovación e"
     },
     {
       "title": "Las razones de la tecnológica noruega Visma para comprar Talana y dos startups chilenas - Diario Financiero",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOR0dfajJwNjk3bGFHMlVwMnQyT1BEcFI3UE9ISGVsRVg2ZkhEdk9WYmRrS1RNRC1TUHlZa3NzanZFMXBidnN1OWNBVGRMSjRNS0hnSDZGbUhoeVZEWEU1UjJmUFowT3ZXQ1Bkb1BuN2F2elZZS2xkMnpYNk1uZVlwdXFYTnE0aFRUekRqRi1Pd0YxYWVQVzRoMnJrb19KQVpNUzJScHk0YXVGdFFpMWxjWEdPeGFrNlU?oc"
     },
     {
-      "title": "Innovación en Chile: retos de valor agregado y propiedad intelectual - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmVncmdGRWhPTy0wOG93a3BsQThURXp6eWZHc3MwWlAyTE9pNXc2al9BSjBZbE5Vd3JsbEJ5bUphdi02bzlnMjVYLWxJeW1HT1Z1aWJheURLWWdBM1A2MXNQUzU0OFV2Rk9PaDgzOTRGV0diNDNMQkdUQ0pTSHktajg2cTlVZ2lFX2NTSUlCS3pReDFMV2tpSVA5X2Q5M2c?oc=5",
+      "title": "Amoníaco verde: avance industrial y oportunidad sostenible en Chile - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVlJMEs2WlFFTWh4T2pTS3A1V2NhWWxiTFBYbUx0dUZDMGVYTkVwZGRXSnF4WFdnRWlYY1hkSVVwU1hkeVdlcEFQaFpmZGU0eFBaeTdzN2U5WXdRSTkwVEhzcGlMVzB1NFJVVExxalJwdEQyOTVpeHJDWGtvVjJsRzk1a2tMa0c2MUw2RzdjVmdUTU92aHFESklXQ2V3Zw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Dec 2025 15:38:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmVncmdGRWhPTy0wOG93a3BsQThURXp6eWZHc3MwWlAyTE9pNXc2al9BSjBZbE5Vd3JsbEJ5bUphdi02bzlnMjVYLWxJeW1HT1Z1aWJheURLWWdBM1A2MXNQUzU0OFV2Rk9PaDgzOTRGV0diNDNMQkdUQ0pTSHktajg2cTlVZ2lFX2NTSUlCS3pReDFMV2tpSVA5X2Q5M2c?oc=5\" target=\"_blank\">Innovación e"
+      "published": "Wed, 03 Dec 2025 09:38:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSVlJMEs2WlFFTWh4T2pTS3A1V2NhWWxiTFBYbUx0dUZDMGVYTkVwZGRXSnF4WFdnRWlYY1hkSVVwU1hkeVdlcEFQaFpmZGU0eFBaeTdzN2U5WXdRSTkwVEhzcGlMVzB1NFJVVExxalJwdEQyOTVpeHJDWGtvVjJsRzk1a2tMa0c2MUw2RzdjVmdUTU92aHFESklXQ2V3Zw?oc=5\" target=\"_blank\">Amoníaco verd"
     }
   ],
   "count": 14
