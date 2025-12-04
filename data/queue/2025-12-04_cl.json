@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Las mejores series del 2025, según el New York Times",
+      "url": "https://www.latercera.com/tendencias/noticia/las-mejores-series-del-2025-segun-el-new-york-times/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 04 Dec 2025 20:00:00 +0000",
+      "summary": "El New York Times reveló su ranking de las mejores series de 2025, con producciones de Disney+, HBO Max, Apple TV y más. Estas son las 10 elegidas."
+    },
+    {
       "title": "Estos son los memes de 2025, según Google",
       "url": "https://www.latercera.com/tendencias/noticia/estos-son-los-memes-de-2025-segun-google/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Un cambio importante en las condiciones meteorológicas se aproxima a la Región Metropolitana tras una semana de intenso calor. Revisa qué se espera para los próximos días y cómo cambiará el tiempo en Santiago."
     },
     {
-      "title": "Alerta epidemiológica en Chile: qué es el sarampión y cuáles son sus síntomas",
-      "url": "https://www.latercera.com/tendencias/noticia/alerta-epidemiologica-en-chile-que-es-el-sarampion-y-cuales-son-sus-sintomas/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 03 Dec 2025 20:00:00 +0000",
-      "summary": "El Ministerio de Salud (Minsal) emitió una alerta epidemiológica por el sarampión, ante un aumento de casos en Argentina. Conoce los síntomas, cómo se contagia y quiénes deben vacunarse."
+      "title": "Así sería el estadio de Universidad de Chile en el año 2040 según la inteligencia artificial - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzdaOWFXYllYMHhhTHRKaWltX19XMUd6UXVWWGc0UDNDZDBzODJBWWY2akNQYmhoMVVQcWJFSmtrZGE1Z0lMWXFZWnE2RUZTdWVfZGx3cEtzWDZnQmRjSWwtcmhic1F2cHJnUHc2QkdPTDlfY2wxLXR0TXdXM0tyb3BXdlFaSmJXQUJpTndGZVJtdTV1VzZxbWlFOGdwZWtoSWMtOTQ4TGMyWS1KS3lqejBzcDdSTV9PbkZmSHExdklqVWdUR0lOUDd5cWlET01tZml6d2hOTmtCeGQ4b2NiS2xBTENzYTloR2k2SFNaY2xnLVBlRXJZWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 04 Dec 2025 14:11:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdzdaOWFXYllYMHhhTHRKaWltX19XMUd6UXVWWGc0UDNDZDBzODJBWWY2akNQYmhoMVVQcWJFSmtrZGE1Z0lMWXFZWnE2RUZTdWVfZGx3cEtzWDZnQmRjSWwtcmhic1F2cHJnUHc2QkdPTDlfY2wxLXR0TXdXM0tyb3BXdlFaSmJXQUJpTndGZVJtdTV1VzZxbWlFOGdwZWtoSWMtOTQ4TGMyWS1KS3lqejBzcDdSTV9Pbk"
     },
     {
       "title": "La Armada de Chile firma convenio para impulsar la formación académica en ciencia de datos e inteligencia artificial - Infodefensa",
@@ -51,14 +59,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdjNtTEp2b0NjWG53d1QwekotV2M0SXd5eDVOVUYxTmFYTmpEUi1UMExKTFRiTGg4LUhFdmZlVHBTVzl5QlQzNHdWRldnQ3p5Z0RZUDNMZkJpVnBZVVFMdmZKZFNQSmlBc3ZyWGpWckhqLWxoaFd4dGoyOFA2TXBnSVBoY1ZRcC1TZ19TSk16MlJMZ2ZXUE00cFdZMmU0eU9vS3RNMUZnYmNGbTYycUNrTmhrWHVYM04wbm"
     },
     {
-      "title": "Así sería el estadio de Universidad de Chile en el año 2040 según la inteligencia artificial - Bolavip",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXd6Z2ptV1ZUWV9Ya2pPSXkyUG5TZlg5eVpKNnFJb3FOVnBhYWktdTdHUGZGQ0dHYnIweEc2c3A4bFV4Tk1SRmUwMS1mVjIwOWJSWXNELTJxVHpqRUdxNnBCdHg2QWNnZzZETXlMQkxieTEwVjNWVFJ4cUZpQ3Q1anpmc1ZTNGcwcDBoY1JrODJOUG9fNnZYQThscHh2OGxHR3FQS1pOMTBhS0hjMkdFSjE5cmNINWg5NHpv0gG7AUFVX3lxTE5hd3pnam1XVlRZX1hrak9JeTJQblNmWDl5Wko2cUlvcU5WcGFhaS11N0dQZkZDR0dicjB4RzZzcDhsVXhOTVJGZTAxLWZWMjA5YlJZc0QtMnFUempFR3E2cEJ0eDZBY2dnNkRNeUxCTGJ5MTBWM1ZUUnhxRmlDdDVqemZzVlM0ZzBwMGhjUms4Mk5Qb182dlhBOGxweHY4bEdHcVBLWk4xMGFLSGMyR0VKMTlyY0g1aDk0em8?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 04 Dec 2025 13:43:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXd6Z2ptV1ZUWV9Ya2pPSXkyUG5TZlg5eVpKNnFJb3FOVnBhYWktdTdHUGZGQ0dHYnIweEc2c3A4bFV4Tk1SRmUwMS1mVjIwOWJSWXNELTJxVHpqRUdxNnBCdHg2QWNnZzZETXlMQkxieTEwVjNWVFJ4cUZpQ3Q1anpmc1ZTNGcwcDBoY1JrODJOUG9fNnZYQThscHh2OGxHR3FQS1pOMTBhS0hjMkdFSjE5cmNINWg5NH"
-    },
-    {
       "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5",
       "source": "Google News",
@@ -67,7 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligenc"
     },
     {
-      "title": "La Catedral de Santiago traduce con IA su misa en tiempo real - Euronews",
+      "title": "La Catedral de Santiago traduce con IA su misa en tiempo real - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0FmYmhnaGJZTlc3VlV1ZjBiajZnSFY4NlVPN0QxdDliN3dTME1LTlpDZ01WTlY4Q1FxRnRQOE0tbkdZQVJxeGs0LUdnZExXLV9hSG5HNjFtLVkwRk93S3R6eFZwa3R1aERqZENhN2daU0t5Sm0tZGFPY1A0bk0yeHR4MmJYZE0?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmVncmdGRWhPTy0wOG93a3BsQThURXp6eWZHc3MwWlAyTE9pNXc2al9BSjBZbE5Vd3JsbEJ5bUphdi02bzlnMjVYLWxJeW1HT1Z1aWJheURLWWdBM1A2MXNQUzU0OFV2Rk9PaDgzOTRGV0diNDNMQkdUQ0pTSHktajg2cTlVZ2lFX2NTSUlCS3pReDFMV2tpSVA5X2Q5M2c?oc=5\" target=\"_blank\">Innovación e"
     },
     {
+      "title": "Ganadores de InnovABB lanzan pilotos de sostenibilidad y tecnología junto a ABB en Chile durante EtMday 2025 - Reporte Minero",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzVhRjlLbktrUHhvR0dwM1BheEVCY1E0MGpRX2RxT2xZTUtFbHpSLXNsalctUGgtQUkzOU9hR1FiYkM5R0VPb20yX2VxUGMzUlp3TkRVM2NuMGVIZ0p2SzVkRW1BUUlzdVh2aVAtbTRybUYxNjJKNUc5TEFaalIyYk5JRmZINlRRMGphYWdOdHY3WElDMGh2MUR4WVFlZEdWRjVlRA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 04 Dec 2025 14:19:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzVhRjlLbktrUHhvR0dwM1BheEVCY1E0MGpRX2RxT2xZTUtFbHpSLXNsalctUGgtQUkzOU9hR1FiYkM5R0VPb20yX2VxUGMzUlp3TkRVM2NuMGVIZ0p2SzVkRW1BUUlzdVh2aVAtbTRybUYxNjJKNUc5TEFaalIyYk5JRmZINlRRMGphYWdOdHY3WElDMGh2MUR4WVFlZEdWRjVlRA?oc=5\" target=\"_blank\">Ganad"
+    },
+    {
       "title": "Start-Up Chile lanza nueva convocatoria para emprendimientos de base tecnológica de todo el mundo - EntrepreNerd",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2l6Vi0zMVhtcjhLQTB1TmtwM0plN0M5M2JzNEtMbTZOVjIxTV9pR1FWRElId09UMGE4Ynd4TDFNM19wZGZRNC1zVlVKTUYtNy1TRnhVaHdsVllBU0k3dVgzdmJXMGlwWXhsWXQ0M09PWFBhaks1S01DYU9MZXFqc1FBRmlxTTdhZUwyQ3BXd3pmMXJ0S2w5OXV2NHVjb3U2WnlvWnZWd3NzSzhRQUQ3cDR2WG9zbWFmWlR6Nm9HMA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 07 Nov 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ2l6Vi0zMVhtcjhLQTB1TmtwM0plN0M5M2JzNEtMbTZOVjIxTV9pR1FWRElId09UMGE4Ynd4TDFNM19wZGZRNC1zVlVKTUYtNy1TRnhVaHdsVllBU0k3dVgzdmJXMGlwWXhsWXQ0M09PWFBhaks1S01DYU9MZXFqc1FBRmlxTTdhZUwyQ3BXd3pmMXJ0S2w5OXV2NHVjb3U2WnlvWnZWd3NzSzhRQUQ3cDR2WG9zbWFmWl"
-    },
-    {
-      "title": "Amoníaco verde: avance industrial y oportunidad sostenible en Chile - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVlJMEs2WlFFTWh4T2pTS3A1V2NhWWxiTFBYbUx0dUZDMGVYTkVwZGRXSnF4WFdnRWlYY1hkSVVwU1hkeVdlcEFQaFpmZGU0eFBaeTdzN2U5WXdRSTkwVEhzcGlMVzB1NFJVVExxalJwdEQyOTVpeHJDWGtvVjJsRzk1a2tMa0c2MUw2RzdjVmdUTU92aHFESklXQ2V3Zw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 03 Dec 2025 09:38:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSVlJMEs2WlFFTWh4T2pTS3A1V2NhWWxiTFBYbUx0dUZDMGVYTkVwZGRXSnF4WFdnRWlYY1hkSVVwU1hkeVdlcEFQaFpmZGU0eFBaeTdzN2U5WXdRSTkwVEhzcGlMVzB1NFJVVExxalJwdEQyOTVpeHJDWGtvVjJsRzk1a2tMa0c2MUw2RzdjVmdUTU92aHFESklXQ2V3Zw?oc=5\" target=\"_blank\">Amoníaco verd"
     }
   ],
   "count": 14
