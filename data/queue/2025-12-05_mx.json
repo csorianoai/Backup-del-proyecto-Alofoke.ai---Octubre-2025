@@ -1,0 +1,119 @@
+{
+  "date": "2025-12-05",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Panduit admite que deberá elevar su inversión en tecnología y desarrollo por la IA",
+      "url": "https://expansion.mx/tecnologia/2025/12/04/panduit-se-prepara-para-la-era-de-data-centers-extremos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 04 Dec 2025 17:00:52 GMT",
+      "summary": "La empresa advierte que la IA obliga a replantear la infraestructura crítica y a aumentar la inversión en investigación para Centros de Datos más eficientes y aptos para entornos complejos."
+    },
+    {
+      "title": "Televisa tiene un nuevo accionista y es uno de los mayores inversionistas de Wall Street",
+      "url": "https://expansion.mx/tecnologia/2025/12/04/televisa-nuevo-accionista-wall-street",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 04 Dec 2025 15:53:53 GMT",
+      "summary": "La llegada de Mario Gabelli se inserta en un momento en el que la empresa busca su rentabilidad, por lo que su presencia podría cambiar la estrategia del Grupo."
+    },
+    {
+      "title": "Tu próximo teléfono ya no tendrá ranura SIM",
+      "url": "https://expansion.mx/tecnologia/2025/12/04/adios-a-la-tarjeta-sim-por-que-la-esim-avanza",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 04 Dec 2025 11:55:02 GMT",
+      "summary": "La transición hacia la eSIM se acelera a nivel global y México no es la excepción, ya que más dispositivos abandonan la ranura física y los operadores amplían su oferta."
+    },
+    {
+      "title": "TikTok anuncia su mayor inversión inversión en Latinoamérica con un data center",
+      "url": "https://expansion.mx/tecnologia/2025/12/03/cerebro-de-tiktok-estara-en-brasil",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 03 Dec 2025 23:00:06 GMT",
+      "summary": "Este será el primer centro de datos de la compañía en Latinoamérica, y lo hará en alianza con Omnia y Casa dos Ventos."
+    },
+    {
+      "title": "AWS presenta Trainium 3 y anticipa un nuevo nivel de competencia",
+      "url": "https://expansion.mx/tecnologia/2025/12/03/aws-chip-trainium-3-para-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 03 Dec 2025 21:00:36 GMT",
+      "summary": "Las empresas de nube ya no sólo construyen arquitecturas para procesar datos, sino que también enfocan sus esfuerzos en el diseño de chips de IA."
+    },
+    {
+      "title": "Trabajadores mexicanos usan la inteligencia artificial, pero no con mucha ética - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkFYODNaRGJIa2N3emZvX211QkRQN0tDcE9rOG96aEl4dDUyUFpEY3plNlJIdEFiYmlNM21SWDRyT0JwVlV3ZmY4Qm9DakljNk1RcE9naDhKS01VMVdnd0RnajVmNWNxQ2IzYkVjQU0xWnlDNEpXaTQzNW5Oa25vS195RVJzNldhWFBkOVlFLUloX0RvaXg5UzhfYnN4ZGxFUlFrZi14ZmRaLWczbzJLdHhna3F6UWPSAbwBQVVfeXFMTzRxS1pIdVhMYk0yaUR4aUt5ZHoweXUydmgzUkVublRqOVpMZnpYVGx1dzE2UmllUmdlSFVBN1MzV1VfUi1lQldEamk0LUpxcTc5LU1ZeVN4YWYxN0RMVEw5M2xmVGdqZ1VVODVxZThVU25UeXBFREFYMVNOYjN2Mkg3clhxZ0JqMlRaNGQtY1paVks3bS1UaE9iVFpERk9kaXN4VlpESm5QQmFsMVRpQkxsUkxPMkgwOUJpWWE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 02 Dec 2025 17:47:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkFYODNaRGJIa2N3emZvX211QkRQN0tDcE9rOG96aEl4dDUyUFpEY3plNlJIdEFiYmlNM21SWDRyT0JwVlV3ZmY4Qm9DakljNk1RcE9naDhKS01VMVdnd0RnajVmNWNxQ2IzYkVjQU0xWnlDNEpXaTQzNW5Oa25vS195RVJzNldhWFBkOVlFLUloX0RvaXg5UzhfYnN4ZGxFUlFrZi14ZmRaLWczbzJLdHhna3F6UWPSAb"
+    },
+    {
+      "title": "La IA pronostica los grupos del Mundial: habría enfrentamiento entre México y Portugal - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzNFekJvaDBleVpiZzNfVnNlenBZMl9qX2NsbEkyb253VzJ4YW15eGxaaVgzZFg5dDF6RlMzeHBYdHZsVFV3LVNLeElNNkc0OVBqdWR5TEpLUm9OcEpETmlkYklhQXdJUzVzUWYxdy1IWnBMWnZnLWRDOFVLa1dwQ2xUemZ1ZmJHaU0xdFFtYUpqSU0ySkZFMjNLWXhycl9wbGVzM3hwaF9GVDVQRDZEMlo1WWV2bEVFTHJCWGN0WjZXc2hhamlNamYwVmF3U0d3V2pJ0gHuAUFVX3lxTE5CcmZuQ2g4c3RKOFJqSjNFVlhjdTE1d3dTRm1yRW52WTMxalBMbkRmN2NQM3RMN1dDdmV1TGc5ampQdlRXMzItM0JPdTRtWmttV0JXY19LbEVPSC1LTW1hOE1sMGpleElTSWtDdzNVWDY2aHpuV1N5bnFLS2ItS0hGM21FWE9YY2o0Tng4Vmx1WU9HOXFoX3BJUWpaYTlFZnI5VUhxdDdUdGFLVmhlbllKVW1aSUZXdEJGdXAya1ZqX2djNzhtWTNmSG45b2tHZkp0a2hwZXVpTERGWG5xMm9lc0JIRVZueG90RUNmemc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 05 Dec 2025 03:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzNFekJvaDBleVpiZzNfVnNlenBZMl9qX2NsbEkyb253VzJ4YW15eGxaaVgzZFg5dDF6RlMzeHBYdHZsVFV3LVNLeElNNkc0OVBqdWR5TEpLUm9OcEpETmlkYklhQXdJUzVzUWYxdy1IWnBMWnZnLWRDOFVLa1dwQ2xUemZ1ZmJHaU0xdFFtYUpqSU0ySkZFMjNLWXhycl9wbGVzM3hwaF9GVDVQRDZEMlo1WWV2bEVFTH"
+    },
+    {
+      "title": "¿Qué es I’AM Chat? La IA que democratiza acceso a IA en México - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3liWlpWdlNLX0RueDMzdUNIT19GdnFjMl9TdkR2WnEzX1IycF9KX3lLN3pwMUVuVzlOa3U4akdRTEZCdjlxSE54OWRxZzBXd0RTUEdhQzgzUE00YTIwTWptbEhESXh6WFFGLUV3eHhYbjlIVEhUMm5NLWhSazVDM19LTENqeTBXTlI0a0ViX0pvM19JRFEwMllpbkVNUVFfSmtONEw1UUZ5cEpTcVZ2aQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 02 Dec 2025 19:08:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3liWlpWdlNLX0RueDMzdUNIT19GdnFjMl9TdkR2WnEzX1IycF9KX3lLN3pwMUVuVzlOa3U4akdRTEZCdjlxSE54OWRxZzBXd0RTUEdhQzgzUE00YTIwTWptbEhESXh6WFFGLUV3eHhYbjlIVEhUMm5NLWhSazVDM19LTENqeTBXTlI0a0ViX0pvM19JRFEwMllpbkVNUVFfSmtONEw1UUZ5cEpTcVZ2aQ?oc=5\" targe"
+    },
+    {
+      "title": "Grupo Bimbo evalúa más de 2,000 startups y celebra su primer Ventures Day en CDMX - emprendedor.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bndvUHlKZ21SUVhpcGtWcGRoeWduclAtNjdKc3FiRXFqRkFYU0tjOFlNd0hYNHpkcl8yMEcybmhLWXlITE81bUE3cUtvY1BxT1JBZmtaMm1kTWw4V25RV3c3Q2hRYkg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 30 Nov 2025 19:09:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bn"
+    },
+    {
+      "title": "Bimbo Ventures Day: startups e innovación alimentaria en CDMX - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjQxaUM4MWxGTlVMREV5SVptbDdYa1dGOXhuS1IxSThKbjVudkdHNWlmeWZXT05tbTMxdkNZRlNfLWVOR1JUbnI4Z2hmcXppSWwwOWlTMTJfLUlmUmtCc2VQWnU0MXc3SWVVeWVNQjdja084bENJZjkwcWxzYUZYY0tSQkxwZFNBM0l5XzJGNW9JTGFNWmc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 30 Nov 2025 23:40:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjQxaUM4MWxGTlVMREV5SVptbDdYa1dGOXhuS1IxSThKbjVudkdHNWlmeWZXT05tbTMxdkNZRlNfLWVOR1JUbnI4Z2hmcXppSWwwOWlTMTJfLUlmUmtCc2VQWnU0MXc3SWVVeWVNQjdja084bENJZjkwcWxzYUZYY0tSQkxwZFNBM0l5XzJGNW9JTGFNWmc?oc=5\" target=\"_blank\">Bimbo Ventures Day: star"
+    },
+    {
+      "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 17:19:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5\" target=\"_blank\">La acele"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "La tecnología transformó la vida en NL; la IA es el paso que sigue - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbmFmZ0hEOUhhZjhkaTFLTWpmTm5Jdm9xSExHSE05blVtajltQ1lKRXNBQ0dIeHlqNC02MHBRQlIwaWlGeUpjbUJrc3ZkUUgzdGhJYVpnZTBmbGxNam5PMk5OVC1VZzZ4TlJscEhoa3B0RmdSMGpwazIyLUVVR0hHRFZpT1pmeldVUTJ0aDhXczRXajhIUFBsT2NaUmJvYXUtTUhnWUlJR2ZIUUF5YnJPOHBsZ2V1LTg0dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbm"
+    },
+    {
+      "title": "Cursos de Oracle en IA y tecnologías, gratis para la comunidad Tec - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NWFr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NW"
+    }
+  ],
+  "count": 14
+}
