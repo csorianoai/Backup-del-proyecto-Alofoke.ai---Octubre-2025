@@ -3,11 +3,35 @@
   "country": "mx",
   "articles": [
     {
-      "title": "La compra de Netflix reescribirá el negocio publicitario y lo hará más ‘techie’",
-      "url": "https://expansion.mx/tecnologia/2025/12/08/la-compra-de-netflix-reescribira-el-negocio-publicitario-y-lo-hara-mas-techie",
+      "title": "Paramount lanza oferta hostil por Warner Bros Discovery",
+      "url": "https://expansion.mx/tecnologia/2025/12/08/paramount-quiere-comprar-warner-bros-discovery-oferta",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Mon, 08 Dec 2025 11:55:44 GMT",
+      "published": "Mon, 08 Dec 2025 16:26:58 GMT",
+      "summary": "Tras la noticia de que Netflix adquirirá Warner, las respuestas de la industria llegaron, ahora Paramount ofreció 103,000 millones de dólares por los activos del estudio."
+    },
+    {
+      "title": "AT&T dará datos gratis a millones de usuarios tras falla masiva y reclamo de Profeco: estos clientes los recibirán",
+      "url": "https://expansion.mx/tecnologia/2025/12/08/att-dara-datos-gratis-a-millones-de-usuarios-profeco",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 08 Dec 2025 16:02:31 GMT",
+      "summary": "Conoce quiénes recibirán megas extra y en qué fechas se aplicará."
+    },
+    {
+      "title": "IBM compra Confluent e incrementa su apuesta por la IA",
+      "url": "https://expansion.mx/tecnologia/2025/12/08/ibm-compra-confluent-apuesta-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 08 Dec 2025 15:00:29 GMT",
+      "summary": "El acuerdo está valuado en 9,300 millones de dólares y fue dado a conocer gracias a un reporte de la misma tecnológica."
+    },
+    {
+      "title": "La compra de Netflix reescribirá el negocio publicitario y lo hará más ‘techie’",
+      "url": "https://expansion.mx/tecnologia/2025/12/08/acuerdo-netflix-warner-tv-de-paga-negocio-publicitario",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 08 Dec 2025 14:35:44 GMT",
       "summary": "Adquirir las franquicias de Warner significa para la plataforma de Los Gatos tener contenido de calidad y conocido por los usuarios, pero también una oportunidad de negocio."
     },
     {
@@ -19,36 +43,12 @@
       "summary": "En CCXP Brasil 2025, la compañía de contenido de anime afirmó que Latam es uno de sus mercados clave y para conservar esa relevancia, apostará por un doblaje sin IA para mantener la conexión con los usuarios."
     },
     {
-      "title": "El Mundial de futbol, un negocio cada vez más caro para las streaming",
-      "url": "https://expansion.mx/tecnologia/2025/12/05/mundial-2026-pondra-a-prueba-bolsillo-plataformas-streaming",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 05 Dec 2025 22:02:34 GMT",
-      "summary": "Para el Mundial de 2026, las plataformas de streaming invertirán 36% más en derechos de transmisión que en Qatar 2022, derivado de la creciente fragmentación de estos contenidos."
-    },
-    {
-      "title": "Meta acuerda usar información de medios para alimentar a su IA",
-      "url": "https://expansion.mx/tecnologia/2025/12/05/meta-alia-medios-comunicacion-para-alimentar-a-su-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 05 Dec 2025 18:00:47 GMT",
-      "summary": "La empresa de Mark Zuckerberg anunció que utilizará fuentes de CNN, Fox y Le Monde, entre otros productores de noticias para robustecer los resultados de su plataforma."
-    },
-    {
-      "title": "Si solo quieres gastar 50 pesos a la semana en telefonía, estas son tus mejores opciones en México",
-      "url": "https://expansion.mx/tecnologia/2025/12/05/50-pesos-a-la-semana-en-telefonia-mejores-opciones-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 05 Dec 2025 15:19:38 GMT",
-      "summary": "Los planes semanales permiten usar datos móviles y redes sociales sin contratar un paquete mensual y pueden activarse desde cualquier operador virtual."
-    },
-    {
-      "title": "Las obras con inteligencia artificial se van al dominio público en México - Law&Trends",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2FvUlR4cWZzekxycVdFS1VVdTZ6aFVaYllrSkdtRVN2NU81eHVrNExld0pMNHVwMTljMUFnRGtBVG9KOGctY1dHV0lZWFdlSlZMRDFBUFV3ODZpWmpiWnJFSnFwa2loRXJBdUNuYlZqc2xVM3pYcGtlc29KUXBRallBbmFfaXlYQ2NPTzhzN3V5UnRfTE1PR2tpOFpodkU4ZHVHcnlDRGxxZVVnb19ROG9lSlVKZkpSa1ctTHNMYlZDSTJHRE1JRlYtZHZ5ZnlP?oc=5",
+      "title": "México | IA para jóvenes: el programa que busca cerrar la brecha digital - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFFZaWR2dEU2TWF3UkpReXl5emh3OC1wV09VLWJRZzJMUW94OTJSRlJfSXB0MlFPcVpCSjh0S2hnQ0cxbG5kUDlCcE9WSjdFS2VmQVduVUlLWkRuMy15WS1aUXFXZEdvM0tISEVyWWxFWnZMMnEzSVZmRVdoNUN1M09nTVRmUE9TNnBaVnVIbHlZUkRJ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 07 Dec 2025 23:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd2FvUlR4cWZzekxycVdFS1VVdTZ6aFVaYllrSkdtRVN2NU81eHVrNExld0pMNHVwMTljMUFnRGtBVG9KOGctY1dHV0lZWFdlSlZMRDFBUFV3ODZpWmpiWnJFSnFwa2loRXJBdUNuYlZqc2xVM3pYcGtlc29KUXBRallBbmFfaXlYQ2NPTzhzN3V5UnRfTE1PR2tpOFpodkU4ZHVHcnlDRGxxZVVnb19ROG9lSlVKZkpSa1"
+      "published": "Mon, 08 Dec 2025 16:16:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFFZaWR2dEU2TWF3UkpReXl5emh3OC1wV09VLWJRZzJMUW94OTJSRlJfSXB0MlFPcVpCSjh0S2hnQ0cxbG5kUDlCcE9WSjdFS2VmQVduVUlLWkRuMy15WS1aUXFXZEdvM0tISEVyWWxFWnZMMnEzSVZmRVdoNUN1M09nTVRmUE9TNnBaVnVIbHlZUkRJ?oc=5\" target=\"_blank\">México | IA para jóvenes: e"
     },
     {
       "title": "Por primera vez en su historia, ONU aprueba resolución presentada por México - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObEJaRUFFVjV3bWdJNV9FeHJhdlJreEEtOXVkQ0QxLV9odTNvMWpBWlQ0NWV4UDdQS2FZU2pVNGF3QzQ2YnJWR2d1bTVCU0xnUDNMcVVhR1VnQ2dnM1VudnRXS1VxNkd3dmtOU0VzeE51Ym9xMmFSOUtYOG5xTXpXSExEeUxaZVZsUXdReldRalVqNm1IbHdaTUNQNGNRNTVHUnZVT2owUkNaX3kzYnhYeHphcEFMenNhdH"
     },
     {
-      "title": "Pepe Aguilar: “Estoy creando mi propia inteligencia artificial para seguir siendo un artista soberano” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmlGYWlIOUhDR013TmFtOTUxMnpRMGRfcGtTamQtb2Z6NTFJQkRtRzF5Snlucmxoa2hRbUt0TzJnZ3JaU01VZFNUOXB3MzJ1blBCckNGNWQwV1k5TjBIa3h6Y3B0LVJpUzVZUndPUno0ekdSdEJzeVNXN2xYMWw1ZTQwNVlzT0xmN3BKOGRtbUJKNnJWb3JuZjh0VnhtNG1FR0ViZDQ3Xy1jaVFRV3hEaUpFM3pRMjBQbHQzNGNYdXlLRlluNjhIemtoVVJVeklVaWNTZmVfeWZ4SEZzSk9Qa3JkaWvSAfgBQVVfeXFMT09nRWhJM09rT0EtaktLd1ZSRWlsMFo0OXRoTVhXOEdhLUJ1bTVkVzZDWXZRZDBKR09NYXljLWM3ZzNwaGx6TklwazJtcXhiX05JNG90ODRpR3p5aDdDYTlBazlGTTI1SHN3bUQ4b3FSS0ttRzhMb3hob182ZmJTc3RsN2tLcVRoZ1E3cWFZQWhqOTdRYlowVUExanNXc19nNUpwM2o5UjdLeG5TeUl5UVhia19PYTMxbjR0ZHcwekczVEVKUUNGX05tUWRERGtDc1phc251TkdySmwyQ3VLcHRlTFQ5OW90Uk1VZUVacFJGbzRzWlExTmw?oc=5",
+      "title": "Así aplica la inteligencia artificial en el negocio de la memoria - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm1kMTRsMTBWZG9zY1RFX1MtdUdzTTJJcUkybEUwWnFZR1NubWc1b25JMEVvMGg2anJ6YndQVTBpdjN1WkxmZm9UTEF4emVUR3BrN3VlQ2d3eVItQmJFQXM3dHNyWGFJSXhlTzVfSGdCZ3NJd21rRHlRbDNDUHVMakhPdi1MOEZ5cUljenVzVy1VQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 07 Dec 2025 04:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYmlGYWlIOUhDR013TmFtOTUxMnpRMGRfcGtTamQtb2Z6NTFJQkRtRzF5Snlucmxoa2hRbUt0TzJnZ3JaU01VZFNUOXB3MzJ1blBCckNGNWQwV1k5TjBIa3h6Y3B0LVJpUzVZUndPUno0ekdSdEJzeVNXN2xYMWw1ZTQwNVlzT0xmN3BKOGRtbUJKNnJWb3JuZjh0VnhtNG1FR0ViZDQ3Xy1jaVFRV3hEaUpFM3pRMjBQbH"
+      "published": "Mon, 08 Dec 2025 15:50:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPcm1kMTRsMTBWZG9zY1RFX1MtdUdzTTJJcUkybEUwWnFZR1NubWc1b25JMEVvMGg2anJ6YndQVTBpdjN1WkxmZm9UTEF4emVUR3BrN3VlQ2d3eVItQmJFQXM3dHNyWGFJSXhlTzVfSGdCZ3NJd21rRHlRbDNDUHVMakhPdi1MOEZ5cUljenVzVy1VQQ?oc=5\" target=\"_blank\">Así aplica la inteligencia ar"
     },
     {
       "title": "Meta, incMTY y el Gobierno de México inician la 1ra edición de Aceleradora PotencIA MX - Mobile Time Latinoamérica",
@@ -75,19 +75,19 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yak5RMWlLYURjM3dKY1U0RzdJX2NjbEJJMXQwRTlBVTNNT1dKODFnV2thcjRMNEJOUk85MXVzUXZWVlRPZ21Yc2F6eHVUNnFPclBpSDQwRmVkZzgzRUFvSTctZDFxUDBkZEE1NDJ2YjAzYlhI?oc=5\" target=\"_blank\">Meta, incMTY y el Gobierno de México inician la 1ra edición de Acelerad"
     },
     {
-      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
+      "title": "Bimbo Ventures Day: startups e innovación alimentaria en CDMX - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjQxaUM4MWxGTlVMREV5SVptbDdYa1dGOXhuS1IxSThKbjVudkdHNWlmeWZXT05tbTMxdkNZRlNfLWVOR1JUbnI4Z2hmcXppSWwwOWlTMTJfLUlmUmtCc2VQWnU0MXc3SWVVeWVNQjdja084bENJZjkwcWxzYUZYY0tSQkxwZFNBM0l5XzJGNW9JTGFNWmc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
+      "published": "Sun, 30 Nov 2025 23:40:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjQxaUM4MWxGTlVMREV5SVptbDdYa1dGOXhuS1IxSThKbjVudkdHNWlmeWZXT05tbTMxdkNZRlNfLWVOR1JUbnI4Z2hmcXppSWwwOWlTMTJfLUlmUmtCc2VQWnU0MXc3SWVVeWVNQjdja084bENJZjkwcWxzYUZYY0tSQkxwZFNBM0l5XzJGNW9JTGFNWmc?oc=5\" target=\"_blank\">Bimbo Ventures Day: star"
     },
     {
       "title": "Grupo Bimbo evalúa más de 2,000 startups y celebra su primer Ventures Day en CDMX - emprendedor.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bndvUHlKZ21SUVhpcGtWcGRoeWduclAtNjdKc3FiRXFqRkFYU0tjOFlNd0hYNHpkcl8yMEcybmhLWXlITE81bUE3cUtvY1BxT1JBZmtaMm1kTWw4V25RV3c3Q2hRYkg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 30 Nov 2025 19:09:16 GMT",
+      "published": "Sun, 30 Nov 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bn"
     },
     {

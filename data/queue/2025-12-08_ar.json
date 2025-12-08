@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Richard Harmon en Buenos Aires: cómo la IA con agentes y el software libre revolucionan las finanzas",
+      "url": "https://www.clarin.com/informacion-general/richard-harmon-buenos-aires-ia-agentes-software-libre-revolucionan-finanzas_0_NaFqimhXBL.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 08 Dec 2025 15:39:03 +0000",
+      "summary": "<ul><li>Es el vicepresidente y director global de servicios financieros en Red Hat.</li><li>Trabajó en el Citibank, JP Morgan, BlackRock y la Reserva Federal de Nueva York,</li></ul>"
+    },
+    {
       "title": "El método más seguro para limpiar la pantalla del televisor sin rayarla ni arruinarla, paso a paso",
       "url": "https://www.clarin.com/tecnologia/metodo-seguro-limpiar-pantalla-televisor-rayarla-arruinarla-paso-paso_0_CpFyWKHhEb.html",
       "source": "Clarín Tecnología",
@@ -35,12 +43,20 @@
       "summary": "<ul><li>Varias marcas ampliaron su oferta local con plegables accesibles, modelos gamer y equipos ultradelgados. </li><li>La competencia sumó pantalla, autonomía y diseño en todas las gamas.</li><li>Características y precios.</li></ul>"
     },
     {
-      "title": "Sin PlayStation ni Xbox: así podés jugar tus juegos favoritos en cualquier pantalla",
-      "url": "https://www.clarin.com/tecnologia/playstation-xbox-podes-jugar-juegos-favoritos-cualquier-pantalla_0_90CUiIalSg.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 04 Dec 2025 18:19:29 +0000",
-      "summary": "<ul><li>La alternativa de muchos gamers para no depender de Playstation o Xbox.</li><li>Cómo jugar a tus videojuegos favoritos sin invertir en consolas de ultima generación.</li></ul><p><br /></p>"
+      "title": "La Argentina obtiene un puntaje crítico en preparación para la inteligencia artificial - Bahía César",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmdpMlRBcXRvNW9kOTh0T0R5SWdFcWNTTDdnQnFlUndTUjE1UVBZYTdwc3FCOEpqcEZzaUZJYmlxdHhvb19MQnluX25uUlpMUnRJTC0wVjJISGtsb0N0blJKUGVCOVpEM0JFX2pSX1daeHZqSGJUVm5qMWwzcWUyblA2eHNwODdTUjI0RnhuQTgySFp6bzNFeVpvbHdwdnJOeXNLbWFJbHZxekp3RUI5bElXYmtPQ2Z5SHZhSU13?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 08 Dec 2025 16:00:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmdpMlRBcXRvNW9kOTh0T0R5SWdFcWNTTDdnQnFlUndTUjE1UVBZYTdwc3FCOEpqcEZzaUZJYmlxdHhvb19MQnluX25uUlpMUnRJTC0wVjJISGtsb0N0blJKUGVCOVpEM0JFX2pSX1daeHZqSGJUVm5qMWwzcWUyblA2eHNwODdTUjI0RnhuQTgySFp6bzNFeVpvbHdwdnJOeXNLbWFJbHZxekp3RUI5bElXYmtPQ2Z5SH"
+    },
+    {
+      "title": "Qué selección ganará el Mundial 2026 y cómo le irá a Argentina, según la inteligencia artificial - Canal26",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWdUekEyemhQSFlwcGhPRWFOMTJjcTdLUGFISUVwQkpjV29YbjNBM1A2VTVJYWpiYms3eEtnR3N1VWlrQmk3TG9ITjBScU9sTVltVGZKZ2t0WExXMEpiSWhDR3VhbEFybENEallLUWItM3k0eEtHWExoUVVsQ2R5bEE5VVFOQjA2b05nLW44QllQUkoyX0pfZWVzR09vZnR3dE0xM3NoZ1JseE1fVEdqdlZIZFNVd2lMOU1EemFILXgyMndpcnc3LWpQNTRXc3RZOWxBbHNMYw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 08 Dec 2025 17:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWdUekEyemhQSFlwcGhPRWFOMTJjcTdLUGFISUVwQkpjV29YbjNBM1A2VTVJYWpiYms3eEtnR3N1VWlrQmk3TG9ITjBScU9sTVltVGZKZ2t0WExXMEpiSWhDR3VhbEFybENEallLUWItM3k0eEtHWExoUVVsQ2R5bEE5VVFOQjA2b05nLW44QllQUkoyX0pfZWVzR09vZnR3dE0xM3NoZ1JseE1fVEdqdlZIZFNVd2lMOU"
     },
     {
       "title": "Natalia Scaliter: “No hay inteligencia artificial sin datos de calidad” - ITSitio",
@@ -51,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjNOWU95bGQ5R0xqZ0JHWEhobFFZcFRNV1JfT0Z0anRHcGx0V3hjYlNjTm03bXdJbjRYcEkwOS1UUVA2cXJqSHdVdng1Q2FQMGlHNjNoNmhyTXVxZ1RCd25vTnlGY0V5aXRrejlqaXdZVGFnUEFrTDVpV1QwWXpJazIxa21zODFxYmdLUGY0UDdFUVNTQlc5ZTlaaG1SUGNMVGVzWEl0Wk50SFBheDd3WE9aWnk1elJpVk"
     },
     {
-      "title": "Mientras FIFA sorteó los grupos de la Copa del Mundo 2026, la Inteligencia Artificial simuló los resultados... - Bolavip",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV0hyeDNVbkRQRGZFb19HMElkUmJKSU5nN1JtY0ozTzlNWUYyRVJJY0hfRWZ6cDZNS3lwVmdSbVZEMk1LVmxZemw1VGctOUZnVmg2YXFFQXhFSXduWG9FWWcwYVRIN2VtNDREV2RXakI5RExZR1E2MnFGaFZqeVg0VTZ0cUFrX2pmNy1LQWUwYXRzWURuR0xVYnhPcUYwYzF2QnctcWpSQURiMGItWEg4Z2pxby1iT2pac2tUV2Z1WHpQQ1dWX2VoQ2g0SFlCc2lCbzJ6WEJ5NzZOLWd1MThhZnN1cFZUanpUeXRYenhGOXB1Y01tSDYtb3pB0gH_AUFVX3lxTE9aNVlzU0tqYkFvb0JKUzlIRFdOOU5Nemg5dnhzZW5jM1lWS3ROTzd1ckFMYlNyV1h0OW51Q1hoMlBrblV4Zl9Rb2YwcnFnUEJWNzlOZF9XeFAxMlBkS0lzRUs0MXMzNGVXZEVhS3BxYTVVNGJYdk9nZEpaYUplTU4zZ2dnYkZQU1BUSWlPUl9uZ2FmcVJkZmZsQjJCQUdzYm1KN2xOeFdpb203aFBaSFk0Q1NRNHhNRDRWU0ZxbmZPRXFPV1BjLU1jam1QRXF0dldISUVCZFFqWGJvQUtPRFo2cTJZMXZTdUdOd2hwZGo4SGh5OHpQeUVtcHBTSUpXQQ?oc=5",
+      "title": "Richard Harmon en Buenos Aires: cómo la IA con agentes y el software libre revolucionan las finanzas - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjZFYTZSZnJEakpGd3BycHRJbEIwQ1JPNlBDbGFPeEhlR0dWbVN0Mkw4NDVOc21pd0xoNjJFbFc0TnVZLUNKZjFKUlhTVHF4WW9PX2hoQ2EyRTcwemRTRmNDU0NuQ2ZrT25VTVhyb1FWLXR5NEN0T0VrU3JnMEdNYU1pczd6UTJQRDJNQUpQWFllVDc3VllVM0JxcHN4cmJRR0ZjbUttb0xvdTBncVNGeDNxazJHOElVM2RHWWJMa3JtNTJVMEtfZjNHU19xOFdBRnfSAdcBQVVfeXFMTjJLajJRX3FsMG10dFFvRUVQS0RYV29kSVRIQ2x4b215NlJndXpqMHJENExfaFV1OFAtaGZJOHNLNHpTN0J3VUhENnFlNC1BQ3lPT2dvU1oxcE52XzBadjlQRXJXYlgwMHFkLXh3aHJRWEhUbzJ6Vm9ESllVQTlyb3RwN0ZQZU41bjd5Uzd6Qmt5amIxRGlEMmEwdzFjQ1FTOUFIYXp6eGhIcHRXS2dvTklmUm15WWptZ3RmcmVUU0trS3hReVRUbURFNmRCNFR4YjRRaWNrSzA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 05 Dec 2025 21:04:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV0hyeDNVbkRQRGZFb19HMElkUmJKSU5nN1JtY0ozTzlNWUYyRVJJY0hfRWZ6cDZNS3lwVmdSbVZEMk1LVmxZemw1VGctOUZnVmg2YXFFQXhFSXduWG9FWWcwYVRIN2VtNDREV2RXakI5RExZR1E2MnFGaFZqeVg0VTZ0cUFrX2pmNy1LQWUwYXRzWURuR0xVYnhPcUYwYzF2QnctcWpSQURiMGItWEg4Z2pxby1iT2pac2"
-    },
-    {
-      "title": "Cómo y para qué usamos la inteligencia artificial en Argentina, según un estudio académico - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTBWMGFCMFdhNFhoOG4xaDdUWnZVVzRuaFlxbEN2eWwwVkZnNi1VeTU5V0lkSHpicWVKR3NtZ2JEV0lIRF9jTEZGNVpLQnRfSVpmT0JSU0l0ajByRzlmeXFBeEZTQ2FaSEpYejFWYlhVOUZJY0MtdnhwYnZ3b3NEYlN5RlEyU3cxcGNOR1dEUTZMVXFXXzdyaHpyOXVmZ2hnTG1BOHVtdHlGbU9LVHk2a2VzZTFpdlBuMUI1OE5MS3JzNHBhX0tmT0tNd29EbDUtZFNScDQyWjg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTBWMGFCMFdhNFhoOG4xaDdUWnZVVzRuaFlxbEN2eWwwVkZnNi1VeTU5V0lkSHpicWVKR3NtZ2JEV0lIRF9jTEZGNVpLQnRfSVpmT0JSU0l0ajByRzlmeXFBeEZTQ2FaSEpYejFWYlhVOUZJY0MtdnhwYnZ3b3NEYlN5RlEyU3cxcGNOR1dEUTZMVXFXXzdyaHpyOXVmZ2hnTG1BOHVtdHlGbU9LVHk2a2VzZTFpdlBuMU"
+      "published": "Mon, 08 Dec 2025 15:39:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjZFYTZSZnJEakpGd3BycHRJbEIwQ1JPNlBDbGFPeEhlR0dWbVN0Mkw4NDVOc21pd0xoNjJFbFc0TnVZLUNKZjFKUlhTVHF4WW9PX2hoQ2EyRTcwemRTRmNDU0NuQ2ZrT25VTVhyb1FWLXR5NEN0T0VrU3JnMEdNYU1pczd6UTJQRDJNQUpQWFllVDc3VllVM0JxcHN4cmJRR0ZjbUttb0xvdTBncVNGeDNxazJHOElVM2"
     },
     {
       "title": "IA y creatividad: Por qué la tecnología no puede innovar como el ser humano - AM 1350 Radio Buenos Aires",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Wed, 13 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
-    },
-    {
-      "title": "Adolescentes y la inteligencia artificial: convivir con herramientas que no deben decidir por ellos - Buenos Aires Ciudad",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNks1NUlxbUl1UzJZUDAwVWxubjAwS0xVMnBULVJxMmVXQkdUN1VORFo0Vkl4RUtaeV9OS0IwTHBZcTBsNEZwYUtaUFh6MmFrejNWMVdITmcyc0tQMmlyVG5NTFFpdFhJdGh1ZFdYZ0pPQzRLU0RXblp1ZDdRUThMcUU5bWVxWXc1ZG9tMV9ESFI3c0dnTVJPZzJmZjQ4emkwRW80UHNwQjBQRGgxR0piQUxiVUt6Vk1IZ1BJSHRxWmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 05 Dec 2025 12:39:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNks1NUlxbUl1UzJZUDAwVWxubjAwS0xVMnBULVJxMmVXQkdUN1VORFo0Vkl4RUtaeV9OS0IwTHBZcTBsNEZwYUtaUFh6MmFrejNWMVdITmcyc0tQMmlyVG5NTFFpdFhJdGh1ZFdYZ0pPQzRLU0RXblp1ZDdRUThMcUU5bWVxWXc1ZG9tMV9ESFI3c0dnTVJPZzJmZjQ4emkwRW80UHNwQjBQRGgxR0piQUxiVUt6Vk1IZ1"
     },
     {
       "title": "Convocatoria BCR Startup Network: Aplica a la sexta edición - El Ecosistema Startup",
