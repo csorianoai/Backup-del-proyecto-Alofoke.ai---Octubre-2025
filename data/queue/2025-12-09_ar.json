@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "\"¿La nueva AI agéntica se va a quedar con tu trabajo? Bueno, quizás\", el desafío del que casi nadie habló durante la mega convención de Amazon",
+      "url": "https://www.clarin.com/tecnologia/nueva-ai-agentica-va-quedar-trabajo-bueno-desafio-nadie-hablo-mega-convencion-amazon_0_7hyzsTPqeI.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Dec 2025 15:43:51 +0000",
+      "summary": "<ul><li>La inteligencia artificial que toma decisiones en tiempo real fue la estrella de re:Invent, el evento que presentó herramientas y tendencias para 2026.</li><li>¿Qué va a pasar con los trabajadores que antes tomaban esas decisiones?</li><li>Capacitación, habilidades blandas y la incertidumbre"
+    },
+    {
       "title": "Celulares, tablets, relojes y TVs: las mejores pantallas del 2025, categoría por categoría",
       "url": "https://www.clarin.com/tecnologia/celulares-tablets-relojes-tvs-mejores-pantallas-2025-categoria-categoria_0_men4YnB1ul.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>Con materiales básicos y sin productos abrasivos, es posible eliminar polvo, huellas y manchas sin dañar el panel. </li><li>Qué hacer y qué evitar para mantener la pantalla como nueva.</li></ul>"
     },
     {
-      "title": "El “IA Ceno”: la era que redefine la inteligencia artificial y un atlas para entender su impacto en América Latina",
-      "url": "https://www.clarin.com/tecnologia/ia-ceno-redefine-inteligencia-artificial-atlas-entender-impacto-america-latina_0_stQ9VKDGEC.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 07 Dec 2025 09:30:51 +0000",
-      "summary": "<ul><li>Una nueva publicación de Siglo XXI Editores plantea los problemas económicos, sociales y ambientales de la IA.</li><li>El impacto en el mundo del trabajo y qué puede implicar el anuncio de OpenAI para construir servidores en Argentina.</li><li>Gustavo Béliz, exfuncionario de Menem, Kirchner "
-    },
-    {
       "title": "Inteligencia artificial predice las probabilidades de las 48 selecciones para ganar la Copa del Mundo: cómo le fue a Colombia - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZzBZV3BlV1E5MFlPbWxjNGdlb1BQT25ockpBRmI0U01RYVdMRDhzM2JLS2NxMnhhci10blpVRTR6OXZiLXhnbXZmdnVfb2FsLWprOU1BTlRiazB2N2Z5TzdNbWthMHBrVDNKclIyUVlLSUFkWTBMNFlBNVJzdlMzY1RNVTBPNE4zTVluZFlWOVJsNjdGdl9WMUZudTRPRThHTHFwcV92VVZZX0kzZWI5WG9SeXlGbVEyMXNQZWhqd3Q2WUsxQzRqNzZUN2RZU0FUd0dHTVhrYnAyaTdCZ1BIQmNfSEJZRFhvMGZpMTR5U2hLUzN0TlpZZkNIS1NuZ9IBmAJBVV95cUxNcVRTQ0g3QVdjX0lRWmdXakZCLXVYZ1NFamRJSWR3UXM1WkdFQkV4M3lVUWRnT2swLTNXUkoxUVM5VThFMWdCMDkwQlk4LUF1dEpCMklHWlY4cGU0blV3WDQ4OEQ1N2JPZ19RazZ6aTB2dkNfcGtzNkNRRVAtNk9qdk1nUVdGaE9sSXBKVXZTdWVkNHMtQjlJb2hHdWF2SWJfNTg0a3lGUlZyTC1Xd0NsWnBDSGxIOVR4YkNkeUdjTmNGRktGUmpjelZLVXJCQm01T2d4bElMbDBNQkpqdEh5VDVPTGpmeGZENU1NSXpaaWhTMzVCSE85MHF5NldDQ2ZWQkc2VkJ2Rk9nVjBJOXVPUGo3WEVfb21K?oc=5",
       "source": "Google News",
@@ -51,28 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZzBZV3BlV1E5MFlPbWxjNGdlb1BQT25ockpBRmI0U01RYVdMRDhzM2JLS2NxMnhhci10blpVRTR6OXZiLXhnbXZmdnVfb2FsLWprOU1BTlRiazB2N2Z5TzdNbWthMHBrVDNKclIyUVlLSUFkWTBMNFlBNVJzdlMzY1RNVTBPNE4zTVluZFlWOVJsNjdGdl9WMUZudTRPRThHTHFwcV92VVZZX0kzZWI5WG9SeXlGbVEyMX"
     },
     {
-      "title": "Mientras FIFA sorteó los grupos de la Copa del Mundo 2026, la Inteligencia Artificial simuló los resultados... - Bolavip",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV0hyeDNVbkRQRGZFb19HMElkUmJKSU5nN1JtY0ozTzlNWUYyRVJJY0hfRWZ6cDZNS3lwVmdSbVZEMk1LVmxZemw1VGctOUZnVmg2YXFFQXhFSXduWG9FWWcwYVRIN2VtNDREV2RXakI5RExZR1E2MnFGaFZqeVg0VTZ0cUFrX2pmNy1LQWUwYXRzWURuR0xVYnhPcUYwYzF2QnctcWpSQURiMGItWEg4Z2pxby1iT2pac2tUV2Z1WHpQQ1dWX2VoQ2g0SFlCc2lCbzJ6WEJ5NzZOLWd1MThhZnN1cFZUanpUeXRYenhGOXB1Y01tSDYtb3pB0gH_AUFVX3lxTE9aNVlzU0tqYkFvb0JKUzlIRFdOOU5Nemg5dnhzZW5jM1lWS3ROTzd1ckFMYlNyV1h0OW51Q1hoMlBrblV4Zl9Rb2YwcnFnUEJWNzlOZF9XeFAxMlBkS0lzRUs0MXMzNGVXZEVhS3BxYTVVNGJYdk9nZEpaYUplTU4zZ2dnYkZQU1BUSWlPUl9uZ2FmcVJkZmZsQjJCQUdzYm1KN2xOeFdpb203aFBaSFk0Q1NRNHhNRDRWU0ZxbmZPRXFPV1BjLU1jam1QRXF0dldISUVCZFFqWGJvQUtPRFo2cTJZMXZTdUdOd2hwZGo4SGh5OHpQeUVtcHBTSUpXQQ?oc=5",
+      "title": "Meta redefine su futuro: recorta el metaverso tras invertir 70 mil millones y apuesta todo por la inteligencia artificial - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVV9mY21lSlpWZnJYSTVPVXpsU2RfQl8weTNOZUZ2ODV4NlR5ZllHSkM2T3BzTmNZT2RBV1c3UUYzaEN5ajFqYmhFZXZ3bHM5Yk1vejFRUlk3NXFLSjBIcTlnTUkwXzFSRnU3ZnhkaWxBSW9yWjV0R3YwMEh6Z3k2VWVJWUhNQjlmeHVCa0tnQnpkb3Q1cm9KSi1XekxibWh1c1NCWUpwdE9JZDNkU01YQ1dwT3B4WEZBYWhhOE5FWlZEME5ET01CLXgwTHA2ZmdJY3FwOFdkbmVxU3JzSWltb0pJaUFJVEpab0o1VlBBNWhFZk1SVFd2YnNoaVg1SXZrLWc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 05 Dec 2025 21:04:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPV0hyeDNVbkRQRGZFb19HMElkUmJKSU5nN1JtY0ozTzlNWUYyRVJJY0hfRWZ6cDZNS3lwVmdSbVZEMk1LVmxZemw1VGctOUZnVmg2YXFFQXhFSXduWG9FWWcwYVRIN2VtNDREV2RXakI5RExZR1E2MnFGaFZqeVg0VTZ0cUFrX2pmNy1LQWUwYXRzWURuR0xVYnhPcUYwYzF2QnctcWpSQURiMGItWEg4Z2pxby1iT2pac2"
+      "published": "Tue, 09 Dec 2025 14:36:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOVV9mY21lSlpWZnJYSTVPVXpsU2RfQl8weTNOZUZ2ODV4NlR5ZllHSkM2T3BzTmNZT2RBV1c3UUYzaEN5ajFqYmhFZXZ3bHM5Yk1vejFRUlk3NXFLSjBIcTlnTUkwXzFSRnU3ZnhkaWxBSW9yWjV0R3YwMEh6Z3k2VWVJWUhNQjlmeHVCa0tnQnpkb3Q1cm9KSi1XekxibWh1c1NCWUpwdE9JZDNkU01YQ1dwT3B4WEZBYW"
     },
     {
-      "title": "Cómo y para qué usamos la inteligencia artificial en Argentina, según un estudio académico - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTBWMGFCMFdhNFhoOG4xaDdUWnZVVzRuaFlxbEN2eWwwVkZnNi1VeTU5V0lkSHpicWVKR3NtZ2JEV0lIRF9jTEZGNVpLQnRfSVpmT0JSU0l0ajByRzlmeXFBeEZTQ2FaSEpYejFWYlhVOUZJY0MtdnhwYnZ3b3NEYlN5RlEyU3cxcGNOR1dEUTZMVXFXXzdyaHpyOXVmZ2hnTG1BOHVtdHlGbU9LVHk2a2VzZTFpdlBuMUI1OE5MS3JzNHBhX0tmT0tNd29EbDUtZFNScDQyWjg?oc=5",
+      "title": "Vision AI: cuando la inteligencia artificial entra al hogar y cambia todo - iProfesional",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmFLVHJYSTlvRkZneWJ5RXNzUG9WMFdwRGp0Ukljb3dFaUUtRlJUTEtqT0lGcTVSdXg3ZVpjT0VleXQtZlE3OC1VNmYzbUo4d3lETUdodWRkeWxBT0dtZmJ6Rk9uSERpT21VNWpISUVKeEI4ZWM4azdhVUNmbUJjaXNseF9hVFhUb2NJdFFhVFdJZURGQ2tDOGNPN2RqcXZDVFhTbUxTNkNCNXRjdWVZenJtdjc2RXfSAbwBQVVfeXFMTUd6U25xb0QyNE5fazFUdG5CaFZZdU13cjF5TFpyZm5Cb1VkTS10YXNmRTJXQ05iVTJxWUZyRks3NlRyTWNKeEh4aHd4Z0hSMkxicm9PYVo1V2ZMN1d5Y19tQmRlNFNlQkhQQ015NWhfZndwajZiQXhJWUt5TVh1MnhaVGJqSVUyZWZHOGFfc0tPTmd6THIxZWJzTUp2cnFOVXNLSWZ1Y3VLZkVYZFVCT0c5c3U0WF9ybU5UMlQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSTBWMGFCMFdhNFhoOG4xaDdUWnZVVzRuaFlxbEN2eWwwVkZnNi1VeTU5V0lkSHpicWVKR3NtZ2JEV0lIRF9jTEZGNVpLQnRfSVpmT0JSU0l0ajByRzlmeXFBeEZTQ2FaSEpYejFWYlhVOUZJY0MtdnhwYnZ3b3NEYlN5RlEyU3cxcGNOR1dEUTZMVXFXXzdyaHpyOXVmZ2hnTG1BOHVtdHlGbU9LVHk2a2VzZTFpdlBuMU"
-    },
-    {
-      "title": "Richard Harmon en Buenos Aires: cómo la IA con agentes y el software libre revolucionan las finanzas - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjZFYTZSZnJEakpGd3BycHRJbEIwQ1JPNlBDbGFPeEhlR0dWbVN0Mkw4NDVOc21pd0xoNjJFbFc0TnVZLUNKZjFKUlhTVHF4WW9PX2hoQ2EyRTcwemRTRmNDU0NuQ2ZrT25VTVhyb1FWLXR5NEN0T0VrU3JnMEdNYU1pczd6UTJQRDJNQUpQWFllVDc3VllVM0JxcHN4cmJRR0ZjbUttb0xvdTBncVNGeDNxazJHOElVM2RHWWJMa3JtNTJVMEtfZjNHU19xOFdBRnfSAdcBQVVfeXFMTjJLajJRX3FsMG10dFFvRUVQS0RYV29kSVRIQ2x4b215NlJndXpqMHJENExfaFV1OFAtaGZJOHNLNHpTN0J3VUhENnFlNC1BQ3lPT2dvU1oxcE52XzBadjlQRXJXYlgwMHFkLXh3aHJRWEhUbzJ6Vm9ESllVQTlyb3RwN0ZQZU41bjd5Uzd6Qmt5amIxRGlEMmEwdzFjQ1FTOUFIYXp6eGhIcHRXS2dvTklmUm15WWptZ3RmcmVUU0trS3hReVRUbURFNmRCNFR4YjRRaWNrSzA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 08 Dec 2025 15:39:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjZFYTZSZnJEakpGd3BycHRJbEIwQ1JPNlBDbGFPeEhlR0dWbVN0Mkw4NDVOc21pd0xoNjJFbFc0TnVZLUNKZjFKUlhTVHF4WW9PX2hoQ2EyRTcwemRTRmNDU0NuQ2ZrT25VTVhyb1FWLXR5NEN0T0VrU3JnMEdNYU1pczd6UTJQRDJNQUpQWFllVDc3VllVM0JxcHN4cmJRR0ZjbUttb0xvdTBncVNGeDNxazJHOElVM2"
+      "published": "Tue, 09 Dec 2025 11:31:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObmFLVHJYSTlvRkZneWJ5RXNzUG9WMFdwRGp0Ukljb3dFaUUtRlJUTEtqT0lGcTVSdXg3ZVpjT0VleXQtZlE3OC1VNmYzbUo4d3lETUdodWRkeWxBT0dtZmJ6Rk9uSERpT21VNWpISUVKeEI4ZWM4azdhVUNmbUJjaXNseF9hVFhUb2NJdFFhVFdJZURGQ2tDOGNPN2RqcXZDVFhTbUxTNkNCNXRjdWVZenJtdjc2RXfSAb"
     },
     {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Wed, 13 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
+    },
+    {
+      "title": "Richard Harmon en Buenos Aires: cómo la IA con agentes y el software libre revolucionan las finanzas - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjZFYTZSZnJEakpGd3BycHRJbEIwQ1JPNlBDbGFPeEhlR0dWbVN0Mkw4NDVOc21pd0xoNjJFbFc0TnVZLUNKZjFKUlhTVHF4WW9PX2hoQ2EyRTcwemRTRmNDU0NuQ2ZrT25VTVhyb1FWLXR5NEN0T0VrU3JnMEdNYU1pczd6UTJQRDJNQUpQWFllVDc3VllVM0JxcHN4cmJRR0ZjbUttb0xvdTBncVNGeDNxazJHOElVM2RHWWJMa3JtNTJVMEtfZjNHU19xOFdBRnfSAdcBQVVfeXFMTjJLajJRX3FsMG10dFFvRUVQS0RYV29kSVRIQ2x4b215NlJndXpqMHJENExfaFV1OFAtaGZJOHNLNHpTN0J3VUhENnFlNC1BQ3lPT2dvU1oxcE52XzBadjlQRXJXYlgwMHFkLXh3aHJRWEhUbzJ6Vm9ESllVQTlyb3RwN0ZQZU41bjd5Uzd6Qmt5amIxRGlEMmEwdzFjQ1FTOUFIYXp6eGhIcHRXS2dvTklmUm15WWptZ3RmcmVUU0trS3hReVRUbURFNmRCNFR4YjRRaWNrSzA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 08 Dec 2025 15:39:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQjZFYTZSZnJEakpGd3BycHRJbEIwQ1JPNlBDbGFPeEhlR0dWbVN0Mkw4NDVOc21pd0xoNjJFbFc0TnVZLUNKZjFKUlhTVHF4WW9PX2hoQ2EyRTcwemRTRmNDU0NuQ2ZrT25VTVhyb1FWLXR5NEN0T0VrU3JnMEdNYU1pczd6UTJQRDJNQUpQWFllVDc3VllVM0JxcHN4cmJRR0ZjbUttb0xvdTBncVNGeDNxazJHOElVM2"
     },
     {
       "title": "IA y creatividad: Por qué la tecnología no puede innovar como el ser humano - AM 1350 Radio Buenos Aires",
