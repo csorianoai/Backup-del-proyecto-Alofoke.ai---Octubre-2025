@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "¿Es bueno trabajar desde casa? El estudio que reveló los beneficios y perjuicios del home office",
+      "url": "https://www.latercera.com/tendencias/noticia/es-bueno-trabajar-desde-casa-el-estudio-que-revelo-los-beneficios-y-perjuicios-del-home-office/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 10 Dec 2025 20:00:00 +0000",
+      "summary": "La investigación, difundida por The Conversation, mostró que el teletrabajo produce resultados muy distintos entre hombres y mujeres."
+    },
+    {
       "title": "Cómo Rusia ha recurrido a agentes en México para espiar a Estados Unidos, según una investigación",
       "url": "https://www.latercera.com/tendencias/noticia/como-rusia-ha-recurrido-a-agentes-en-mexico-para-espiar-a-estados-unidos-segun-una-investigacion/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "“Ha calado en la cultura popular con una velocidad imposible de anticipar”, señaló el medio estadounidense."
     },
     {
-      "title": "Tormentas eléctricas: la DMC emite un aviso para estas 10 regiones de Chile",
-      "url": "https://www.latercera.com/tendencias/noticia/tormentas-electricas-la-dmc-emite-una-aviso-para-estas-10-regiones-de-chile/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 09:01:00 +0000",
-      "summary": "Un nuevo aviso de la Dirección Meteorológica de Chile alerta sobre un evento de inestabilidad que se extenderá por varios días y que incluye la posibilidad de tormentas eléctricas. La DMC detalló la condición sinóptica y la duración estimada del fenómeno."
-    },
-    {
       "title": "Movistar Chile anuncia alianza con Freepik y se consolida como la telco con más beneficios de Inteligencia Artificial - DPL News",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1J2RmtxLUpwaXI5RXRKdnFzZjNMS25nMkZLbnNZUEdSMWpRUEVVaFN6ZjBHREN6dEd5d3R1MXFVTTBIX3VmLWZzcDYwWHlqa3RJTDZXVUxIOW9tYnBYMXdYV25CVjZyX3ZzSkxlM0tvUm5GTXpHZkJZNjUzZC0xTjBsNEsyYUZTS2hOUktzR0hSVDVnc2haQjF2QjdtWUhRX1VIamZMWkJQUUdRR0NUWDBrTVFaY2N3Rk5FbVZFcHR6aHRJQkpnRHE0VHRmWTNsZ3NIVA?oc=5",
       "source": "Google News",
@@ -67,20 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTdPNWNMekxOYVFXZUhuZ2xOZTlpNFIyTjFZSE8yVW8wVkhaUnR6OHhYbjJHbGM0aVJoREZDdXhnOWt6VXZhVWtNUFZyNWRPWUxPcGE4SEpDdjFRbzU0TEVPT2hpUk9IVmtCTkZ1ejhrMDB1dmltX3NfRjhRNGNwVXpSTE9KWmhRVVRjakpDblhDZ0FSUVFB?oc=5\" target=\"_blank\">Chile: el costo de alim"
     },
     {
+      "title": "Santiago Bilinkis, experto en tecnología: \"Prohibir el uso de la IA en las escuelas sería un error enorme, el problema es cómo la usamos\" - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckdMc0ZweXVPRzRJWUlEWVJMd3lrVlFWX1kyMktMM1RvQ0tWUm54RVFEbUVvTllWcE92bGp3XzBUZk84VC1oQmJkdVpqREJzaGJzNURnTUVVOXZITjA5OXlCRUsxTVhKdkwzemprUXZrbDN1QzduTGZ6OWxVUjg2U01WQVNaRThEN0VoUmctdkxXcDlvaFhNdGhHYnlSSDhEbmdNX1pEUkpJbjFrTWF1YnktMHA5a1djLU9hcUVOSHpHd09YUnJnTEEyMWFpZFdVX3o3OTZQOXhySlBSZjRmZVV0bExJVGpvTXZUUFczTmZWV2_SAYACQVVfeXFMTXA0YVVDdUwyRnBFNDlhQkZpUXRFSlE2NjVxVnlfZ0VGVm1EWWVTZllhWS1FVkhpRzRNLUNRN2NWX1MxYS1iTVRXQnh2dWNkOGRaN0FKRWpOYVdsbVkyeXRsRG11eXJ4VW82Tm5sZmxiZWVSYml5WWVkTGZlXzFScVFWWGJfQS10TExYcnVtMm02UkVnWWxXMm1MckN1cGpuT254LTRheXBUcXhFY3NHekdYWnBJMzJCRThxOHpnUnZYdE9HREVTTWd4NU9QSWtKRXUwcTZsMzVMVFBiNEFGWlVrVTNZR0VUR1NqaTF3dU5NVTUxWHZRYzVjNy0zdHgzWA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 10 Dec 2025 19:25:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckdMc0ZweXVPRzRJWUlEWVJMd3lrVlFWX1kyMktMM1RvQ0tWUm54RVFEbUVvTllWcE92bGp3XzBUZk84VC1oQmJkdVpqREJzaGJzNURnTUVVOXZITjA5OXlCRUsxTVhKdkwzemprUXZrbDN1QzduTGZ6OWxVUjg2U01WQVNaRThEN0VoUmctdkxXcDlvaFhNdGhHYnlSSDhEbmdNX1pEUkpJbjFrTWF1YnktMHA5a1djLU"
+    },
+    {
       "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 21 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
-    },
-    {
-      "title": "Santiago Bilinkis, experto en tecnología: \"En unos años no usar bien la IA va a ser como no saber leer en el siglo XX\" - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUk96bmFEWlZaUldtRXJueW1RZnh4NmJPemI3NzRONzBCcXJyQmVjMzhlX3pyWUhSNTlGV25ncFNTT2hybGhCdENQb2ZuQ1dSUWk2YWpmUGMtaWhNcEtlSEw1Q0JiSjRueVNQaWtGQkwxQ2ZRV21pdkR3NXBWSFJqRzhnTWF0REdWWjM2M0dGa0c4WlRZX1VyYlMyNThMUXc5ZFRXOGEzcDM5VU9YTmVXOGNHTW53cXU0SXlsNTZNQzY0QUk2dUstQmlaV3lNNmtMLUlv0gHgAUFVX3lxTFBVMEhLZjZ6REprZFlxQ3FaZUVTZWcxb2hidzFwcGR2eHo5MjU2eVdoRjNLRG1sdGtMS2FNcGdpX3BDV0V6cGNiUjJmMjdvZWFrMmpvckh4VVY5T3Y0N3ljanhtMHM4ZFZSVGdwcUpva2JiTUl4akdxczY3dEU0T1hFTHBQSHlnakpXOWdzV0k4LTZ3ck1rZ3ZVNktnVURsd3dHblpnMUZhdzNSRHBKNFpLQklsVUE1emdWX0RyWHJmWjdTbmtQa2ZOWnRidGFxd0tOemV6VGZmdERpa3NsaHhz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 06 Dec 2025 18:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUk96bmFEWlZaUldtRXJueW1RZnh4NmJPemI3NzRONzBCcXJyQmVjMzhlX3pyWUhSNTlGV25ncFNTT2hybGhCdENQb2ZuQ1dSUWk2YWpmUGMtaWhNcEtlSEw1Q0JiSjRueVNQaWtGQkwxQ2ZRV21pdkR3NXBWSFJqRzhnTWF0REdWWjM2M0dGa0c4WlRZX1VyYlMyNThMUXc5ZFRXOGEzcDM5VU9YTmVXOGNHTW53cXU0SX"
     },
     {
       "title": "¡Conéctate! Webinar gratuito: ‘IA para la Comunicación Estratégica’ - Alcaldía de Santiago de Cali",

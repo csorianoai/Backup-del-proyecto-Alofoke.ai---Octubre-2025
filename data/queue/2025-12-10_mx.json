@@ -3,30 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Instagram por fin te dará control sobre lo que ves",
-      "url": "https://expansion.mx/tecnologia/2025/12/10/instagram-te-dara-control-tu-algoritmo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 17:00:48 GMT",
-      "summary": "La plataforma estrenó una herramienta que te permite editar los temas que influyen en tus Reels para dejar de recibir videos que no te interesan."
-    },
-    {
-      "title": "Netflix quiere comprar Warner Bros: más poder en ‘streaming’, menos opciones para ti",
-      "url": "https://expansion.mx/tecnologia/2025/12/10/netflix-warner-bros-mas-poder-menos-opciones-para-ti",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 16:02:39 GMT",
-      "summary": "La compra marcaría el mayor reacomodo en la industria del entretenimiento, pero su aprobación dependerá de reguladores que advierten riesgos de concentración, afectaciones al cine y para los consumidores."
-    },
-    {
-      "title": "La UE investiga a Google por uso de contenidos de IA sin compensación",
-      "url": "https://expansion.mx/tecnologia/2025/12/10/google-bajo-investigacion-ue-uso-contenidos-sin-compensacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 15:00:16 GMT",
-      "summary": "La Comisión Europea examinará si la empresa impone condiciones injustas a editores y creadores al utilizar sus contenidos en YouTube y en resultados de búsqueda."
-    },
-    {
       "title": "El CEO de Hinge deja la empresa para fundar otra app de citas",
       "url": "https://expansion.mx/tecnologia/2025/12/09/el-ceo-de-hinge-deja-la-empresa-para-fundar-otra-app-de-citas",
       "source": "Expansión Tecnología",
@@ -43,12 +19,28 @@
       "summary": "El plan para levantar una fábrica de chips hacia 2030 enfrenta retos de inversión, talento y cadena de suministro. México tiene ventajas para sumarse, pero necesita una estrategia a largo plazo."
     },
     {
-      "title": "6 razones por las que la inteligencia artificial es la columna vertebral de la logística navideña en México - THE LOGISTICS WORLD",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmIydGdKMmRya0RZTTg2T0JSd25EZU9pQWpCTlN1ZGtnY01xNURqMW1kN2dHV2dNeVNtV1BSazFFMlR1ZTB4b1IwVGhvNkEycEJJYjh1eVN5Yy1DUmlHaHdZVTVnRFhpRW5NbkdLTWhmX1Y0T0VfRnU5bk9LMFhWaTRycmFoSHJzSENwY1lMUmpuclM5VVRPMXplMF9UYWc0eTEzQ3RQZnl5MWhYUXc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 11:03:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmIydGdKMmRya0RZTTg2T0JSd25EZU9pQWpCTlN1ZGtnY01xNURqMW1kN2dHV2dNeVNtV1BSazFFMlR1ZTB4b1IwVGhvNkEycEJJYjh1eVN5Yy1DUmlHaHdZVTVnRFhpRW5NbkdLTWhmX1Y0T0VfRnU5bk9LMFhWaTRycmFoSHJzSENwY1lMUmpuclM5VVRPMXplMF9UYWc0eTEzQ3RQZnl5MWhYUXc?oc=5\" target=\""
+      "title": "Las tecnológicas ‘siembran’ talento que contratan después",
+      "url": "https://expansion.mx/tecnologia/2025/12/09/es-dificil-vacantes-especializadas-empresas-tecnologicas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Dec 2025 21:00:39 GMT",
+      "summary": "Las empresas capacitan el lugar de buscar a su talento, pues la velocidad de algunas herramientas no permite tener talento calificado tan rápido."
+    },
+    {
+      "title": "PlayStation lanza su Wrap Up 2025, ¿cómo explorar tu resumen del año?",
+      "url": "https://expansion.mx/tecnologia/2025/12/09/playstation-lanza-wrap-up-2025-como-explorar-resumen-del-ano",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Dec 2025 19:24:15 GMT",
+      "summary": "El resumen del año de PlayStation seguirá actualizándose hasta el fin de diciembre. Quienes completen la experiencia podrán canjear un avatar exclusivo."
+    },
+    {
+      "title": "La unión Netflix- Warner Bros desafía a reguladores y pone en alerta al cine",
+      "url": "https://expansion.mx/tecnologia/2025/12/09/union-netflix-warner-bros-no-te-conviene-reguladores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Dec 2025 18:00:39 GMT",
+      "summary": "La compra marcaría el mayor reacomodo en la industria del entretenimiento, pero su aprobación dependerá de reguladores que advierten riesgos de concentración, afectaciones al cine y para los consumidores."
     },
     {
       "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
@@ -59,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
+      "title": "6 razones por las que la inteligencia artificial es la columna vertebral de la logística navideña en México - THE LOGISTICS WORLD",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmIydGdKMmRya0RZTTg2T0JSd25EZU9pQWpCTlN1ZGtnY01xNURqMW1kN2dHV2dNeVNtV1BSazFFMlR1ZTB4b1IwVGhvNkEycEJJYjh1eVN5Yy1DUmlHaHdZVTVnRFhpRW5NbkdLTWhmX1Y0T0VfRnU5bk9LMFhWaTRycmFoSHJzSENwY1lMUmpuclM5VVRPMXplMF9UYWc0eTEzQ3RQZnl5MWhYUXc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 10 Dec 2025 11:03:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmIydGdKMmRya0RZTTg2T0JSd25EZU9pQWpCTlN1ZGtnY01xNURqMW1kN2dHV2dNeVNtV1BSazFFMlR1ZTB4b1IwVGhvNkEycEJJYjh1eVN5Yy1DUmlHaHdZVTVnRFhpRW5NbkdLTWhmX1Y0T0VfRnU5bk9LMFhWaTRycmFoSHJzSENwY1lMUmpuclM5VVRPMXplMF9UYWc0eTEzQ3RQZnl5MWhYUXc?oc=5\" target=\""
+    },
+    {
       "title": "La inteligencia artificial se posicionará como infraestructura clave en el sector de la moda, según Modelia - FashionNetwork México",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVERiVGlFWXJXR3hXc2ZXZE9XSktDOGp1Vnd4aUhCeEp4V0pfZi13dEhUMlFOSW5NWm5IVFhnakVGUWtBbE5yQ1VXNWZOQ3QtbGJtR1hVT1loZWVCNmJaN1hJbk1leUxZODVUYmw3bElsRkFGZ3huREJCbVpHbXlyUFV6QzFzMkhmaXFBUVdwTFJKU2prRm1vX2pZQ0lzencxUVgtRlJxTWZ6VG1LMDVSbnF6Y002SHdIcmR0MVlSNkhPQTZTekZSLUZJUlViMTgyX2cycy1aQTdvYjFCNW5oU0V4U0VfZWhNR0E?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 10 Dec 2025 15:17:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVERiVGlFWXJXR3hXc2ZXZE9XSktDOGp1Vnd4aUhCeEp4V0pfZi13dEhUMlFOSW5NWm5IVFhnakVGUWtBbE5yQ1VXNWZOQ3QtbGJtR1hVT1loZWVCNmJaN1hJbk1leUxZODVUYmw3bElsRkFGZ3huREJCbVpHbXlyUFV6QzFzMkhmaXFBUVdwTFJKU2prRm1vX2pZQ0lzencxUVgtRlJxTWZ6VG1LMDVSbnF6Y002SHdIcm"
-    },
-    {
-      "title": "Meta, incMTY y el Gobierno de México inician la 1ra edición de Aceleradora PotencIA MX - Mobile Time Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yak5RMWlLYURjM3dKY1U0RzdJX2NjbEJJMXQwRTlBVTNNT1dKODFnV2thcjRMNEJOUk85MXVzUXZWVlRPZ21Yc2F6eHVUNnFPclBpSDQwRmVkZzgzRUFvSTctZDFxUDBkZEE1NDJ2YjAzYlhI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 05 Dec 2025 19:45:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yak5RMWlLYURjM3dKY1U0RzdJX2NjbEJJMXQwRTlBVTNNT1dKODFnV2thcjRMNEJOUk85MXVzUXZWVlRPZ21Yc2F6eHVUNnFPclBpSDQwRmVkZzgzRUFvSTctZDFxUDBkZEE1NDJ2YjAzYlhI?oc=5\" target=\"_blank\">Meta, incMTY y el Gobierno de México inician la 1ra edición de Acelerad"
     },
     {
       "title": "Bimbo Ventures Day: startups e innovación alimentaria en CDMX - El Ecosistema Startup",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Sun, 30 Nov 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bn"
+    },
+    {
+      "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5\" target=\"_blank\">La acele"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
