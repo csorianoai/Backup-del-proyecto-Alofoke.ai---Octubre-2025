@@ -3,44 +3,44 @@
   "country": "es",
   "articles": [
     {
+      "title": "La UCO detiene a la exmilitante del PSOE Leire Díez y al expresidente de la SEPI Vicente Fernández",
+      "url": "https://elpais.com/espana/2025-12-10/detenida-la-exmilitante-del-psoe-leire-diez.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 10 Dec 2025 18:13:22 GMT",
+      "summary": "La causa se sigue en la Audiencia Nacional en el marco de una operación bajo secreto que continúa abierta y que se centra en delitos de fraude, falsedad documental, malversación, tráfico de influencias y prevaricación"
+    },
+    {
+      "title": "José Tomé presenta su dimisión como presidente de la Diputación de Lugo tras las acusaciones de acoso sexual",
+      "url": "https://elpais.com/espana/2025-12-10/jose-tome-presidente-de-la-diputacion-de-lugo-es-un-montaje-puedo-mandar-una-broma-un-mensaje-pero-de-eso-a-acosar.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 10 Dec 2025 17:28:32 GMT",
+      "summary": "El también alcalde de Monforte niega las denuncias. El PSOE le exige que dimita también como diputado y como primer edil"
+    },
+    {
+      "title": "El Gobierno acusa el golpe en el Congreso por las denuncias de acoso sexual",
+      "url": "https://elpais.com/espana/2025-12-10/feijoo-ataca-con-los-casos-de-acoso-a-mujeres-en-el-psoe-y-sanchez-carga-contra-la-coalicion-negacionista-del-pp-con-vox.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 10 Dec 2025 08:56:57 GMT",
+      "summary": "Feijóo espeta a Sánchez: “A usted le han explicado feminismo en los prostíbulos”"
+    },
+    {
+      "title": "En lancha y con ayuda de EE UU: María Corina Machado huyó de Venezuela hasta la isla de Curazao",
+      "url": "https://elpais.com/america/2025-12-10/el-enigma-de-la-salida-maria-corina-machado-de-venezuela-escapo-en-lancha-segun-el-wsj.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 10 Dec 2025 16:06:27 GMT",
+      "summary": "El diario estadounidense The Wall Street Journal asegura que la líder opositora se marchó el martes por mar"
+    },
+    {
       "title": "La hija de María Corina Machado recibe el Nobel de la Paz en nombre de la opositora: “Venezuela volverá a respirar”",
       "url": "https://elpais.com/internacional/2025-12-10/la-sorpresiva-presencia-de-maria-corina-en-oslo-marca-la-ceremonia-del-nobel-de-la-paz.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Wed, 10 Dec 2025 14:20:30 GMT",
       "summary": "Ana Corina Sosa pronuncia el discurso de aceptación en una ceremonia marcada por la denuncia de la violencia del régimen de Maduro y la llegada de la dirigente venezolana en las próximas horas"
-    },
-    {
-      "title": "La líder opositora María Corina Machado logra salir de Venezuela: “Estaré en Oslo, estoy de camino”",
-      "url": "https://elpais.com/internacional/2025-12-10/maria-corina-machado-sale-de-venezuela-y-estara-en-oslo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 13:32:20 GMT",
-      "summary": "La política venezolana, premio Nobel de la Paz, no logra llegar a tiempo a la ceremonia de entrega del galardón, pero llegará en las próximas horas a la capital noruega"
-    },
-    {
-      "title": "Once juristas analizan la sentencia al fiscal general. ¿Está justificada la condena a Álvaro García Ortiz?",
-      "url": "https://elpais.com/espana/2025-12-10/once-juristas-analizan-la-sentencia-al-fiscal-general-esta-justificada-la-condena-a-alvaro-garcia-ortiz.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 13:36:26 GMT",
-      "summary": "Catedráticos de Derecho Penal de distintas universidades de España se pronuncian sobre los argumentos de la condena por revelación de secretos"
-    },
-    {
-      "title": "Radiografía de la sentencia del Supremo que condena e inhabilita a Álvaro García Ortiz",
-      "url": "https://elpais.com/espana/2025-12-10/radiografia-de-la-sentencia-del-supremo-que-condena-e-inhabilita-a-alvaro-garcia-ortiz.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 04:30:01 GMT",
-      "summary": "Un análisis del texto completo que se dio a conocer 19 días después del anuncio del fallo contra el fiscal general del Estado"
-    },
-    {
-      "title": "Demasiadas dudas en la sentencia contra el fiscal general del Estado",
-      "url": "https://elpais.com/opinion/2025-12-10/demasiadas-dudas.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 04:30:01 GMT",
-      "summary": "La sentencia del Supremo contra García Ortiz carece de la solidez probatoria que merecía un caso de tanta trascendencia"
     },
     {
       "title": "La inteligencia artificial ya afecta a dos de cada diez empleos en España - EL PAÍS",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFFsRENFQTFJbTNmOXlGZWVhNXZNRHdtZl9tUkpxVVg3NWNXY1pxV0JSbnc1aUpYS3N0OFZieXZUeHVaTnlHam5rWnpSS3VzamVNQ2ZiN051ejdhbG9PaDJXZnh3M2FOcjVEdG9YWkxxeVF4ZGdHc3lfNURNdWhQSFpZdWgxaTNUTGdKY2ExeXdjUFhTY2w2d3pUaElBcXluNHRqM0U1emhZcnJkYjFUdkpSN2lmT3Nu0g"
     },
     {
-      "title": "Proyectos TI en España destacan la confianza digital y la IA para potenciar habilidades humanas - Atalayar",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeXo3b0I4cW43bEtoaGRMNTJwSUdJdkNPSVpReVpzVm96S1B3N0tiaUdtRzZzbFd4MUpWREw1SW1acWF6OVVEY3hSVDZ2MGlnOGYxTE83VnpCRWYxenJfRGxZaDBBaGYxRWQzeHJnY0NJd3duc3UxOUFTUVM0eEUta2VWeXAxNUFaZjlJQjR3SFFBanFZVk4tZzVEVnRKeGdXazdieS02SFlKMmxPMnI4bTFFbkFScmtxcTNwN2hsUThCQkJOeXFaN2otQzB6ZjIyTGJES2RLdXI5X3pFZ3BqUXNMT2x6WjdZYU1pS1RHZmVCYkdnWVHSAfsBQVVfeXFMTk9Sc1FDQTlZQnRQRHNFbk0zN3BIalJQMEVDSy1xczY3QUZDRXVXelc4Smc1elM3Q2VVczBDWHNWaHBBYlNiWUVRZ1lvdWY2ZmYtQzJhRmJ6UDRJWS1lOGtfZ1BpN3RKTFRFUWZ5bXlVU25EV3ZFd0VuOFNlby01MTAzNllxaG84dGdfbVlNU1F4LVpDMm1xVG9KbHRDU1BUZ3B4bDFPWEhGNnpMVmYtX1piZlc0bFFIaGU0ak12d0hoOHQ2TWMtbzZpNDRDNngydkE5cDNCVzNmODAyU05TOG1neF82M0NxdzJQbmgzY05zQ2xucHRFVTBhdGs?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 10:45:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeXo3b0I4cW43bEtoaGRMNTJwSUdJdkNPSVpReVpzVm96S1B3N0tiaUdtRzZzbFd4MUpWREw1SW1acWF6OVVEY3hSVDZ2MGlnOGYxTE83VnpCRWYxenJfRGxZaDBBaGYxRWQzeHJnY0NJd3duc3UxOUFTUVM0eEUta2VWeXAxNUFaZjlJQjR3SFFBanFZVk4tZzVEVnRKeGdXazdieS02SFlKMmxPMnI4bTFFbkFScmtxcT"
-    },
-    {
       "title": "Cómo la inteligencia artificial está revolucionando la planificación de la fibra en la red - telefonica.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGdwenNpMk0yZ3p2ZWJEVHE3bk9EbThUQzB0SDRVWU9udmFiOG9uMjZBV3VEM3dGOVB3NVJ4T3ByNjV3bWVta2p6cHNCQ3gyM1RLNEhraDhEZjJ2R3JJWnpBc09FVDJwUkRHRk5LQjRBQ1FpSnRleXdnaV9UejV1V3M0SEhNT2lVZC0yTWp4LVh1TTJBNGdBM2F1UmFOVHpaWnc5OXc4Z2Z5d3RBcEZlVFpaa2pvbmFySUlwSDdR?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 09 Dec 2025 09:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOGdwenNpMk0yZ3p2ZWJEVHE3bk9EbThUQzB0SDRVWU9udmFiOG9uMjZBV3VEM3dGOVB3NVJ4T3ByNjV3bWVta2p6cHNCQ3gyM1RLNEhraDhEZjJ2R3JJWnpBc09FVDJwUkRHRk5LQjRBQ1FpSnRleXdnaV9UejV1V3M0SEhNT2lVZC0yTWp4LVh1TTJBNGdBM2F1UmFOVHpaWnc5OXc4Z2Z5d3RBcEZlVFpaa2pvbmFySU"
+    },
+    {
+      "title": "Proyectos TI en España destacan la confianza digital y la IA para potenciar habilidades humanas - Atalayar",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeXo3b0I4cW43bEtoaGRMNTJwSUdJdkNPSVpReVpzVm96S1B3N0tiaUdtRzZzbFd4MUpWREw1SW1acWF6OVVEY3hSVDZ2MGlnOGYxTE83VnpCRWYxenJfRGxZaDBBaGYxRWQzeHJnY0NJd3duc3UxOUFTUVM0eEUta2VWeXAxNUFaZjlJQjR3SFFBanFZVk4tZzVEVnRKeGdXazdieS02SFlKMmxPMnI4bTFFbkFScmtxcTNwN2hsUThCQkJOeXFaN2otQzB6ZjIyTGJES2RLdXI5X3pFZ3BqUXNMT2x6WjdZYU1pS1RHZmVCYkdnWVHSAfsBQVVfeXFMTk9Sc1FDQTlZQnRQRHNFbk0zN3BIalJQMEVDSy1xczY3QUZDRXVXelc4Smc1elM3Q2VVczBDWHNWaHBBYlNiWUVRZ1lvdWY2ZmYtQzJhRmJ6UDRJWS1lOGtfZ1BpN3RKTFRFUWZ5bXlVU25EV3ZFd0VuOFNlby01MTAzNllxaG84dGdfbVlNU1F4LVpDMm1xVG9KbHRDU1BUZ3B4bDFPWEhGNnpMVmYtX1piZlc0bFFIaGU0ak12d0hoOHQ2TWMtbzZpNDRDNngydkE5cDNCVzNmODAyU05TOG1neF82M0NxdzJQbmgzY05zQ2xucHRFVTBhdGs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 10 Dec 2025 10:45:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeXo3b0I4cW43bEtoaGRMNTJwSUdJdkNPSVpReVpzVm96S1B3N0tiaUdtRzZzbFd4MUpWREw1SW1acWF6OVVEY3hSVDZ2MGlnOGYxTE83VnpCRWYxenJfRGxZaDBBaGYxRWQzeHJnY0NJd3duc3UxOUFTUVM0eEUta2VWeXAxNUFaZjlJQjR3SFFBanFZVk4tZzVEVnRKeGdXazdieS02SFlKMmxPMnI4bTFFbkFScmtxcT"
     },
     {
       "title": "Azora eleva a 20 MW su centro de datos en Madrid y pone en marcha otro proyecto en Barcelona - Demócrata",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVkhUR3h6VTFJVXR2bU5YVmV1VEZhWVpNTzMxckhpVnZ3ZjRzQllyU1B6dmxVWVNsbDhJVU80RG5RaXlsRURqZW5EQ3BQOHlUMUdsQkszd3Jvd3NtZU40RmVJSkN3amFMbUROYzNkNUxEQjVYU0NHZUg0MncxNGdrWldiMzNCbFBZSzVoanI5aG9DMXJfUzg2QTFacVZJY2Y0NE5hbkJR0gGrAUFVX3lxTE1wQ1FUSEd6cm"
     },
     {
-      "title": "El pronóstico de la Inteligencia Artificial para El Clásico entre Real Madrid y Barcelona - beIN SPORTS",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNam5XM0ZyeURPRXgxaGs0VlE3NFFUTkVPWUNRSS10R1dMWTZNUWMyWEdDM2VoTGhkNWdkU3BodnNGTG10bXYyOEhmYUo4RFI4Q25penJZMVQxS2Q3aUM2QXdDYUxiRFEzM2xfMFNxWXY0MlRqSnV2VEJYc0pjcDNDcmd0NGljWWUyUGtzVkRQY0pwdmRCTVE4aTlnRjM3UXpOanY3anFsOUowWVUzLTNaaHF0QTBUMlhSQjVqNV9IZXg4N2o2cWw0UlVMRzAtcE0zV2k0dQ?oc=5",
+      "title": "Real Madrid vs. Barcelona: quién ganará el clásico español de octubre 2025, según la IA - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0phY0JCNDB6RmNIZnQ3d09YY3RfdGFCXzV5dV9PZG1WYW01akN0SWZ4WnEzMHhOZ0pvYWZ5eUJyRmFrak5tZTluQk8ycWxJUk9MQnlOOWJrYkdOaDctYl96Q1BlWHp3THJRbE5OMjRwcG9xMVVDdG1MWFUwNC1HZjJvOEt0aVZfVjVuMy1wUTdXQlBNWnlRcG1HVS1kUGg5SDhKVTIxSm9RQlFvaVFZdDM0cmlQOVg5Tk9Lc3dOSFpLeTk0Y1IweXNCU2xEd2l5V3NpbzUzcXh5eUNwU0hN?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNam5XM0ZyeURPRXgxaGs0VlE3NFFUTkVPWUNRSS10R1dMWTZNUWMyWEdDM2VoTGhkNWdkU3BodnNGTG10bXYyOEhmYUo4RFI4Q25penJZMVQxS2Q3aUM2QXdDYUxiRFEzM2xfMFNxWXY0MlRqSnV2VEJYc0pjcDNDcmd0NGljWWUyUGtzVkRQY0pwdmRCTVE4aTlnRjM3UXpOanY3anFsOUowWVUzLTNaaHF0QTBUMlhSQj"
+      "published": "Sun, 26 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0phY0JCNDB6RmNIZnQ3d09YY3RfdGFCXzV5dV9PZG1WYW01akN0SWZ4WnEzMHhOZ0pvYWZ5eUJyRmFrak5tZTluQk8ycWxJUk9MQnlOOWJrYkdOaDctYl96Q1BlWHp3THJRbE5OMjRwcG9xMVVDdG1MWFUwNC1HZjJvOEt0aVZfVjVuMy1wUTdXQlBNWnlRcG1HVS1kUGg5SDhKVTIxSm9RQlFvaVFZdDM0cmlQOVg5Tk"
     },
     {
-      "title": "Startups en España crecen 12%: tendencias y retos 2025 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjN5UTl3cTVzTFJ6VjBxN1JJQmxmUmJ4dWljTFp1Q1NoQU1lR2pqeHBoRmw4dEEtaVU0OTlvS2FvdExyUE9LYmdXa2huSDZyZ1pMVExKZThQWUtVa3NSOXJqZFdvQjFsTjVXR1d3cmVSM3pJVkpYZXRMdlh2eXlLcmdWNFZIVFpPM2h3?oc=5",
+      "title": "Startups e innovación: lo mejor del Innovafest LATAM 2025 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUk3ZFlhVG9nMUNaMnQwVy1kSjhwSmY0TlpjY1Q5SkNDNFpMSGpTZnZaNThrbUZKZEIyM2pyMlduM2Y3NktLV2RYakdWY1EzQlZyTkY1a0dnOGQ5aUNlU2pWWGxEN2h0WlpVS216Z2o3a3JRVTlnMTlUSzhZMlpXb292NE1JSmRsOGR1YnhiVnY?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Dec 2025 05:40:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSjN5UTl3cTVzTFJ6VjBxN1JJQmxmUmJ4dWljTFp1Q1NoQU1lR2pqeHBoRmw4dEEtaVU0OTlvS2FvdExyUE9LYmdXa2huSDZyZ1pMVExKZThQWUtVa3NSOXJqZFdvQjFsTjVXR1d3cmVSM3pJVkpYZXRMdlh2eXlLcmdWNFZIVFpPM2h3?oc=5\" target=\"_blank\">Startups en España crecen 12%: tendenci"
+      "published": "Sun, 07 Dec 2025 22:39:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUk3ZFlhVG9nMUNaMnQwVy1kSjhwSmY0TlpjY1Q5SkNDNFpMSGpTZnZaNThrbUZKZEIyM2pyMlduM2Y3NktLV2RYakdWY1EzQlZyTkY1a0dnOGQ5aUNlU2pWWGxEN2h0WlpVS216Z2o3a3JRVTlnMTlUSzhZMlpXb292NE1JSmRsOGR1YnhiVnY?oc=5\" target=\"_blank\">Startups e innovación: lo mejor "
     },
     {
       "title": "Las mejores entre las mejores ‘startups’ - EL PAÍS",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYXhGZ0x4enBCdnY5RnkwQ3pPaWVvSXJpaGxaeTNwbXB5RThPUHdsNlBUZU5HekxlZW1vTTUybkRpQllodkZacXlLQjFNM09BYUVhY3g0X1JMSjQwY1dvYUVTcGtiN3M2V3pzUS1RbF9uYnEwQm9KRVktZ2JPZENkaV9KUU4xM1RFQlE0QThYX0JHbmsxbFRr?oc=5\" target=\"_blank\">Startups tecnológicas e"
     },
     {
-      "title": "Telefónica reduce en otro 5% los despidos en Global Solutions, Innovación Digital y Telefónica SA - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVEtwTmtLVmtvQno3NnRTajJGWlhkbWZRNndWRlBHOGlFdzJGaVdYYzBWV1VGcWVUQ3RZRjdWVXVjeV9EZnB2UjhjRnNPUGQ0ZWV3VG1JZC1KOWJvM3M5RmszRWFXbS1reHZ3a25PdEJXczlwMktib2IzZkxBUFRtU2dnUy1pb3BJaGxydTJ0SFNKM2Y1X2J4d296UmE3UjlocWRoZ0VPa2FSYXBfTFZ3V2p2QWNKdWN1VFpEWnZqUDNXbTJBMUYwZlB2SmNyMXVHeGJaRThn0gHqAUFVX3lxTE9DMHBPNmlvVm81ZTFKZkFyZ0JwYzZaT3lnb1dSOWl1d25XRmlKOGFhSkgwendoY0JSRFNHZFVlLXBpMFNFODhabUhNYlNZOWFHNzR1Z0J2SlFqVnN0U0VZVE1TZXdoSjh4cjNvUW1uUk1MeFN1Y25jYmxQaEVoNzBndDVGUW5FWVphMi1LYjZMQ0hFWXBOc2FVUk9TeEJHampBSmdUbXpONXUwVW1UbWo4dG4wWHVGLUNUd2g0WHdrZ2Rfa2FrQU1UWGxnS3hEaXdDbEJBV3F3N1hvelRoMVluakFMSVJrWjhGUQ?oc=5",
+      "title": "Indra sitúa a España como referente en innovación digital - business-people.es",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXo0VmlYSXluTEloS01xa3RhUkNWa0tIWjkxVmpkQ1ZmaVlLN1hWMlhsNWg4aVFITmsydVUzeEJEUGRaWXcwQUlEUVJaMmNyZlVWdW9sR3R0ZmRZQUU0YVdfblZGSS1EMjZHNGdONjY5bGJ4MHZ1RFQzcEExcXEzdzFqalZQWUFKUEE0ZmItbC14Mk1BT3RRaEZSTE4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 09 Dec 2025 17:12:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVEtwTmtLVmtvQno3NnRTajJGWlhkbWZRNndWRlBHOGlFdzJGaVdYYzBWV1VGcWVUQ3RZRjdWVXVjeV9EZnB2UjhjRnNPUGQ0ZWV3VG1JZC1KOWJvM3M5RmszRWFXbS1reHZ3a25PdEJXczlwMktib2IzZkxBUFRtU2dnUy1pb3BJaGxydTJ0SFNKM2Y1X2J4d296UmE3UjlocWRoZ0VPa2FSYXBfTFZ3V2p2QWNKdWN1VF"
+      "published": "Wed, 10 Dec 2025 16:15:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXo0VmlYSXluTEloS01xa3RhUkNWa0tIWjkxVmpkQ1ZmaVlLN1hWMlhsNWg4aVFITmsydVUzeEJEUGRaWXcwQUlEUVJaMmNyZlVWdW9sR3R0ZmRZQUU0YVdfblZGSS1EMjZHNGdONjY5bGJ4MHZ1RFQzcEExcXEzdzFqalZQWUFKUEE0ZmItbC14Mk1BT3RRaEZSTE4?oc=5\" target=\"_blank\">Indra sitúa a Es"
     }
   ],
   "count": 14
