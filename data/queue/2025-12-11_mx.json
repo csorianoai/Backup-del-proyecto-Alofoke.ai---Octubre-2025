@@ -3,11 +3,27 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Registro de líneas afectará a usuarios para cambiar de compañía telefónica",
-      "url": "https://expansion.mx/tecnologia/2025/12/11/registro-de-lineas-afectara-portabilidad",
+      "title": "Disney invierte 1,000 mdd en OpenAI y abre sus íconos a la IA",
+      "url": "https://expansion.mx/tecnologia/2025/12/11/disney-invierte-1000-mdd-en-openai",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Thu, 11 Dec 2025 11:50:21 GMT",
+      "published": "Thu, 11 Dec 2025 18:00:03 GMT",
+      "summary": "La alianza permitirá que OpenAI incorpore propiedad intelectual de las distintas franquicias de Disney en proyectos de video generativo y que la compañía de entretenimiento adopte herramientas de IA."
+    },
+    {
+      "title": "Caso GTA VI. Reino Unido investigará supuesta represión sindical de Rockstar",
+      "url": "https://expansion.mx/tecnologia/2025/12/11/caso-gta-vi-escala-gobierno-revisara-despidos-rockstar",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 11 Dec 2025 16:00:54 GMT",
+      "summary": "El desarrollo del videojuego ha sido polémico por sus retrasos y por el presunto maltrato del estudio a los trabajadores, algo en lo que ya tiene interés el gobierno."
+    },
+    {
+      "title": "Registro de líneas afectará a usuarios para cambiar de compañía telefónica",
+      "url": "https://expansion.mx/tecnologia/2025/12/11/cambiar-de-compania-telefonica-sera-mas-dificil-padron",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 11 Dec 2025 14:29:21 GMT",
       "summary": "El registro de líneas impactará en la portabilidad numérica, ya que podrían vulnerar la continuidad del servicio y la protección de los datos personales de los usuarios."
     },
     {
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Wed, 10 Dec 2025 20:00:59 GMT",
       "summary": "La competencia en el software creativo se complejiza, gracias a la estrategia de Canva, que tras adquirir Affinity apostó por un modelo gratuito que ya tiene impacto sobre la comunidad de creadores."
-    },
-    {
-      "title": "Instagram por fin te dará control sobre lo que ves",
-      "url": "https://expansion.mx/tecnologia/2025/12/10/instagram-te-dara-control-tu-algoritmo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 17:00:48 GMT",
-      "summary": "La plataforma estrenó una herramienta que te permite editar los temas que influyen en tus Reels para dejar de recibir videos que no te interesan."
-    },
-    {
-      "title": "Netflix quiere comprar Warner Bros: más poder en ‘streaming’, menos opciones para ti",
-      "url": "https://expansion.mx/tecnologia/2025/12/10/netflix-warner-bros-mas-poder-menos-opciones-para-ti",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Dec 2025 16:02:39 GMT",
-      "summary": "La compra marcaría el mayor reacomodo en la industria del entretenimiento, pero su aprobación dependerá de reguladores que advierten riesgos de concentración, afectaciones al cine y para los consumidores."
     },
     {
       "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmIydGdKMmRya0RZTTg2T0JSd25EZU9pQWpCTlN1ZGtnY01xNURqMW1kN2dHV2dNeVNtV1BSazFFMlR1ZTB4b1IwVGhvNkEycEJJYjh1eVN5Yy1DUmlHaHdZVTVnRFhpRW5NbkdLTWhmX1Y0T0VfRnU5bk9LMFhWaTRycmFoSHJzSENwY1lMUmpuclM5VVRPMXplMF9UYWc0eTEzQ3RQZnl5MWhYUXc?oc=5\" target=\""
     },
     {
-      "title": "Meta, incMTY y el Gobierno de México inician la 1ra edición de Aceleradora PotencIA MX - Mobile Time Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yak5RMWlLYURjM3dKY1U0RzdJX2NjbEJJMXQwRTlBVTNNT1dKODFnV2thcjRMNEJOUk85MXVzUXZWVlRPZ21Yc2F6eHVUNnFPclBpSDQwRmVkZzgzRUFvSTctZDFxUDBkZEE1NDJ2YjAzYlhI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 05 Dec 2025 19:45:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yak5RMWlLYURjM3dKY1U0RzdJX2NjbEJJMXQwRTlBVTNNT1dKODFnV2thcjRMNEJOUk85MXVzUXZWVlRPZ21Yc2F6eHVUNnFPclBpSDQwRmVkZzgzRUFvSTctZDFxUDBkZEE1NDJ2YjAzYlhI?oc=5\" target=\"_blank\">Meta, incMTY y el Gobierno de México inician la 1ra edición de Acelerad"
-    },
-    {
       "title": "Bimbo Ventures Day: startups e innovación alimentaria en CDMX - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjQxaUM4MWxGTlVMREV5SVptbDdYa1dGOXhuS1IxSThKbjVudkdHNWlmeWZXT05tbTMxdkNZRlNfLWVOR1JUbnI4Z2hmcXppSWwwOWlTMTJfLUlmUmtCc2VQWnU0MXc3SWVVeWVNQjdja084bENJZjkwcWxzYUZYY0tSQkxwZFNBM0l5XzJGNW9JTGFNWmc?oc=5",
       "source": "Google News",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Sun, 30 Nov 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bn"
+    },
+    {
+      "title": "La aceleradora PotencIA MX lanza un bootcamp en CDMX para PyMEs y startups - Insider Latam",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2NJMW9PajVCa0Nlc01wQURiRFNyQ2dXSjU2Wmw3ajFTUjdRbEFVX1gtNDR4WWFaY1FHeFFxc0pvQzJPUjgwMEJ2QzNUQjVBTmJSajNvNkx5T2hqdVVPSDZLTTNwd3dZT0tlWEJ6dkhacWNFNUFYOEE0cFo3MFhUSlFPMEU3a1o4LWV5YWhENW1hRVJ6TWlJamdweGZ2Nm5TVUE?oc=5\" target=\"_blank\">La acele"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",

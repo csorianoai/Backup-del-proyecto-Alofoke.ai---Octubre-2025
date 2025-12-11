@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Guía de regalos de productos de tecnología para Navidad",
+      "url": "https://www.latercera.com/tendencias/noticia/guia-de-regalos-tecnologia-navidad-descuentos-ofertas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 11 Dec 2025 12:53:01 +0000",
+      "summary": "¿Sin ideas para pensar en un buen regalo de fin de año? Esta guía es lo que estabas buscando."
+    },
+    {
       "title": "Los 6 nominados a los Game Awards que compiten hoy por el máximo honor",
       "url": "https://www.latercera.com/tendencias/noticia/los-6-nominados-a-los-game-awards-que-compiten-hoy-por-el-maximo-honor/",
       "source": "La Tercera Tecnología",
@@ -17,14 +25,6 @@
       "category": "tech",
       "published": "Thu, 11 Dec 2025 12:59:25 +0000",
       "summary": "¿Qué dice la ciencia sobre la aparición de las canas en el cabello? Estos son los factores que influyen en que lleguen antes de tiempo y cómo se pueden evitar."
-    },
-    {
-      "title": "Guía de regalos de productos de tecnología para Navidad",
-      "url": "https://www.latercera.com/tendencias/noticia/guia-de-regalos-tecnologia-navidad-descuentos-ofertas/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Dec 2025 12:53:01 +0000",
-      "summary": "¿Sin ideas para pensar en un buen regalo de fin de año? Esta guía es lo que estabas buscando."
     },
     {
       "title": "Cómo EEUU incautó un barco petrolero frente a la costa de Venezuela, según Trump",
@@ -43,12 +43,20 @@
       "summary": "La líder opositora al régimen chavista tenía el objetivo de llegar a Oslo para recibir el Nobel de la Paz. Aunque no alcanzó a participar en la ceremonia, sí llegó a la capital noruega, tras una travesía en la que primero llegó a Curazao en una lancha, antes de viajar a Europa."
     },
     {
-      "title": "Chile a la encrucijada de la Inteligencia Artificial: entre la regulación y la oportunidad - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRW8wX09wUnhxZkIwQzhvQjRNZUtxcXRYaDJyYTVtWUlPWVZ0WW10dDhkdE01ejU1d2hpM0ItWXlLLWRDeVVnM3M3a092ekRIUU9Od1hNWTFneGd4RlVQV2s1ajFWUXRsS3BibGYyRG9lc19NMnlHeG9wSlpRaGpTc3Q3d29BM1ZrTHozckdSdl9nNVFReHVrM0p2cjNOQW9Lb1hfTldBaTVsTlYxZThiMWFSZE5vVnBINGxGZHVQOHhVSXZPUlBBc0RoMkhtTGlBUFE?oc=5",
+      "title": "La Inteligencia Artificial requiere datos de calidad y bien gestionados - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1DNElScVdXQ0M0UlNQNEl0R1FqekFTZkZRNEs2UE54SG5OX3V0emZ0dl9DVTZTWTEwd0haaS1ONVFoalByQ1hWanJid2xmcEdOX25LWmxLc1c0LTFJbzkxWXhTbnZIbFhkRm5Vb1pKY3NBNjJBUjlqa1l4aHoyMUtuRy01cHE2eG1maUtyVUh1bU1kMHdTV19jeXBOQ0pENjVHTmxUUjNiZDdUNUtQcEFCanFlQUI2TmwtU3puQko?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 09 Dec 2025 12:37:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRW8wX09wUnhxZkIwQzhvQjRNZUtxcXRYaDJyYTVtWUlPWVZ0WW10dDhkdE01ejU1d2hpM0ItWXlLLWRDeVVnM3M3a092ekRIUU9Od1hNWTFneGd4RlVQV2s1ajFWUXRsS3BibGYyRG9lc19NMnlHeG9wSlpRaGpTc3Q3d29BM1ZrTHozckdSdl9nNVFReHVrM0p2cjNOQW9Lb1hfTldBaTVsTlYxZThiMWFSZE5vVnBING"
+      "published": "Thu, 11 Dec 2025 15:04:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm1DNElScVdXQ0M0UlNQNEl0R1FqekFTZkZRNEs2UE54SG5OX3V0emZ0dl9DVTZTWTEwd0haaS1ONVFoalByQ1hWanJid2xmcEdOX25LWmxLc1c0LTFJbzkxWXhTbnZIbFhkRm5Vb1pKY3NBNjJBUjlqa1l4aHoyMUtuRy01cHE2eG1maUtyVUh1bU1kMHdTV19jeXBOQ0pENjVHTmxUUjNiZDdUNUtQcEFCanFlQUI2Tm"
+    },
+    {
+      "title": "Brasil, México, Chile y Colombia lideran infraestructura digital - logistica360chile.cl",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEZpMS1UZ0dvM1FJa2hjbHJIcUpJdzZwMl94aE9KU0VLM3I3ZHVxOWJQVnFBWHEwYm44RDEzeFJ0WGVJWE1FNXI2NzhnSFRBaTR1TTBPeU9QdHQ5bjhHUHFtZUlQc1RkNVJlcDUzTDhmQ0FTdDg0THZaVnBqZkN5djk4bGxkeVl2MEtuLTFfb18tNTdWdl9F?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 11 Dec 2025 16:50:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEZpMS1UZ0dvM1FJa2hjbHJIcUpJdzZwMl94aE9KU0VLM3I3ZHVxOWJQVnFBWHEwYm44RDEzeFJ0WGVJWE1FNXI2NzhnSFRBaTR1TTBPeU9QdHQ5bjhHUHFtZUlQc1RkNVJlcDUzTDhmQ0FTdDg0THZaVnBqZkN5djk4bGxkeVl2MEtuLTFfb18tNTdWdl9F?oc=5\" target=\"_blank\">Brasil, México, Chile y"
     },
     {
       "title": "Portal de noticias - UDLA",
@@ -59,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXc3OEVHN2lTX0lCM0t6a1FZVzMtYS1zeDV5dlhkTERjckhzMTZlSVlqM0JzazVYWTliLWt3clFRSnZHcDdMWDRrM3lmUEFBVTk3QUlOUGVJLXdUTGVydnZUT2V0b0xKcVJjZThLbEl4S0RwY2JTN3pzMlE1ZUV5blZQV0VkXzhVRUNUa2ZOcEl1R3paWndtR3J4b3BmNUhMZExSQi1Nei10d0RRRTVVNGJTWDRndTB4bG"
     },
     {
-      "title": "Movistar Chile anuncia alianza con Freepik y se consolida como la telco con más beneficios de Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1J2RmtxLUpwaXI5RXRKdnFzZjNMS25nMkZLbnNZUEdSMWpRUEVVaFN6ZjBHREN6dEd5d3R1MXFVTTBIX3VmLWZzcDYwWHlqa3RJTDZXVUxIOW9tYnBYMXdYV25CVjZyX3ZzSkxlM0tvUm5GTXpHZkJZNjUzZC0xTjBsNEsyYUZTS2hOUktzR0hSVDVnc2haQjF2QjdtWUhRX1VIamZMWkJQUUdRR0NUWDBrTVFaY2N3Rk5FbVZFcHR6aHRJQkpnRHE0VHRmWTNsZ3NIVA?oc=5",
+      "title": "La fábrica de IA de Santiago aspira a impactar en la salud y \"mejorarla\" con supercomputación y algoritmos - Europa Press",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSlFqWWp2dHdPQWctX3c3WjVDQUdyRmpMN2txMVlkWFh3QmF2bXEwdjlrRllfQ2RaSGl5cDJSWnNWMEZYdHF5SVdhV3JSNjdFRmlncnNCQkFFREQ2ZkNRM3BGMTFKVmZxWHduSmNrQndGblFBNFlNcUk3cGxSTlhvQjdVdW9TZGMxY1NtcFdVOXc5SExmOVNrWEFSR3JIMTR5UlhfS3RlaHNXYjhuTzJXNmptMEp0bVljUXp3U2lncnFpWXJNRE9GOUtQbHZOX2JWMHVGdTAzYVkzUHM3NDc0SFFpM2szYXJPT0EwcQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 10 Dec 2025 14:42:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1J2RmtxLUpwaXI5RXRKdnFzZjNMS25nMkZLbnNZUEdSMWpRUEVVaFN6ZjBHREN6dEd5d3R1MXFVTTBIX3VmLWZzcDYwWHlqa3RJTDZXVUxIOW9tYnBYMXdYV25CVjZyX3ZzSkxlM0tvUm5GTXpHZkJZNjUzZC0xTjBsNEsyYUZTS2hOUktzR0hSVDVnc2haQjF2QjdtWUhRX1VIamZMWkJQUUdRR0NUWDBrTVFaY2N3Rk"
-    },
-    {
-      "title": "Santiago Bilinkis, experto en tecnología: \"Prohibir el uso de la IA en las escuelas sería un error enorme, el problema es cómo la usamos\" - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckdMc0ZweXVPRzRJWUlEWVJMd3lrVlFWX1kyMktMM1RvQ0tWUm54RVFEbUVvTllWcE92bGp3XzBUZk84VC1oQmJkdVpqREJzaGJzNURnTUVVOXZITjA5OXlCRUsxTVhKdkwzemprUXZrbDN1QzduTGZ6OWxVUjg2U01WQVNaRThEN0VoUmctdkxXcDlvaFhNdGhHYnlSSDhEbmdNX1pEUkpJbjFrTWF1YnktMHA5a1djLU9hcUVOSHpHd09YUnJnTEEyMWFpZFdVX3o3OTZQOXhySlBSZjRmZVV0bExJVGpvTXZUUFczTmZWV2_SAYACQVVfeXFMTXA0YVVDdUwyRnBFNDlhQkZpUXRFSlE2NjVxVnlfZ0VGVm1EWWVTZllhWS1FVkhpRzRNLUNRN2NWX1MxYS1iTVRXQnh2dWNkOGRaN0FKRWpOYVdsbVkyeXRsRG11eXJ4VW82Tm5sZmxiZWVSYml5WWVkTGZlXzFScVFWWGJfQS10TExYcnVtMm02UkVnWWxXMm1MckN1cGpuT254LTRheXBUcXhFY3NHekdYWnBJMzJCRThxOHpnUnZYdE9HREVTTWd4NU9QSWtKRXUwcTZsMzVMVFBiNEFGWlVrVTNZR0VUR1NqaTF3dU5NVTUxWHZRYzVjNy0zdHgzWA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 19:25:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckdMc0ZweXVPRzRJWUlEWVJMd3lrVlFWX1kyMktMM1RvQ0tWUm54RVFEbUVvTllWcE92bGp3XzBUZk84VC1oQmJkdVpqREJzaGJzNURnTUVVOXZITjA5OXlCRUsxTVhKdkwzemprUXZrbDN1QzduTGZ6OWxVUjg2U01WQVNaRThEN0VoUmctdkxXcDlvaFhNdGhHYnlSSDhEbmdNX1pEUkpJbjFrTWF1YnktMHA5a1djLU"
+      "published": "Thu, 11 Dec 2025 15:14:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSlFqWWp2dHdPQWctX3c3WjVDQUdyRmpMN2txMVlkWFh3QmF2bXEwdjlrRllfQ2RaSGl5cDJSWnNWMEZYdHF5SVdhV3JSNjdFRmlncnNCQkFFREQ2ZkNRM3BGMTFKVmZxWHduSmNrQndGblFBNFlNcUk3cGxSTlhvQjdVdW9TZGMxY1NtcFdVOXc5SExmOVNrWEFSR3JIMTR5UlhfS3RlaHNXYjhuTzJXNmptMEp0bVljUX"
     },
     {
       "title": "IMPIBot: la inteligencia artificial contra la piratería, escribe Santiago Nieto - El Universal",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnVwNEx0aGotbVVXY0VoajFrd0xUMjZuWlBwcF81MWs2Nk9JaFNBeUtQQURLejFtYktBOWhxSzJlM0w4VXRES3l0bnNua2VCT1J5dFAyeWVIVExFZzhURDMtWlFfRWNmVHJ5RWtZbjU0Wmd1TG5aczVWQUgtTXRJU2pYdHBBanlmX0hMYjlyajc4WXNLX1dzbm43REpYU091RHhmd2J1NHM1X1pRNDUxc0dTZ19GdDJ1Uk"
     },
     {
-      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
+      "title": "Santiago Bilinkis, experto en tecnología: \"Prohibir el uso de la IA en las escuelas sería un error enorme, el problema es cómo la usamos\" - Mundo Deportivo",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckdMc0ZweXVPRzRJWUlEWVJMd3lrVlFWX1kyMktMM1RvQ0tWUm54RVFEbUVvTllWcE92bGp3XzBUZk84VC1oQmJkdVpqREJzaGJzNURnTUVVOXZITjA5OXlCRUsxTVhKdkwzemprUXZrbDN1QzduTGZ6OWxVUjg2U01WQVNaRThEN0VoUmctdkxXcDlvaFhNdGhHYnlSSDhEbmdNX1pEUkpJbjFrTWF1YnktMHA5a1djLU9hcUVOSHpHd09YUnJnTEEyMWFpZFdVX3o3OTZQOXhySlBSZjRmZVV0bExJVGpvTXZUUFczTmZWV2_SAYACQVVfeXFMTXA0YVVDdUwyRnBFNDlhQkZpUXRFSlE2NjVxVnlfZ0VGVm1EWWVTZllhWS1FVkhpRzRNLUNRN2NWX1MxYS1iTVRXQnh2dWNkOGRaN0FKRWpOYVdsbVkyeXRsRG11eXJ4VW82Tm5sZmxiZWVSYml5WWVkTGZlXzFScVFWWGJfQS10TExYcnVtMm02UkVnWWxXMm1MckN1cGpuT254LTRheXBUcXhFY3NHekdYWnBJMzJCRThxOHpnUnZYdE9HREVTTWd4NU9QSWtKRXUwcTZsMzVMVFBiNEFGWlVrVTNZR0VUR1NqaTF3dU5NVTUxWHZRYzVjNy0zdHgzWA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
+      "published": "Wed, 10 Dec 2025 19:25:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckdMc0ZweXVPRzRJWUlEWVJMd3lrVlFWX1kyMktMM1RvQ0tWUm54RVFEbUVvTllWcE92bGp3XzBUZk84VC1oQmJkdVpqREJzaGJzNURnTUVVOXZITjA5OXlCRUsxTVhKdkwzemprUXZrbDN1QzduTGZ6OWxVUjg2U01WQVNaRThEN0VoUmctdkxXcDlvaFhNdGhHYnlSSDhEbmdNX1pEUkpJbjFrTWF1YnktMHA5a1djLU"
     },
     {
       "title": "Agenda Startup: el llamado a los candidatos en Chile | Startups - El Ecosistema Startup",
