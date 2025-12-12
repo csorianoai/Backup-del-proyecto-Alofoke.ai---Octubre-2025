@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Trump firma regulación de IA que beneficia a Big Tech y quita poder a estados",
+      "url": "https://expansion.mx/tecnologia/2025/12/12/trump-ia-mas-poder-big-tech-menos-voz-a-los-estados",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 12 Dec 2025 18:00:42 GMT",
+      "summary": "El presidente de EU firmó una orden ejecutiva que emite un marco regulatorio único que socava las legislaciones locales, mismas que no eran atractivas para las grandes empresas."
+    },
+    {
+      "title": "WhatsApp lanza la salida silenciosa: ya puedes abandonar grupos sin que todos se enteren",
+      "url": "https://expansion.mx/tecnologia/2025/12/12/salir-de-grupos-de-whatsapp-sin-que-todos-se-enteren",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 12 Dec 2025 17:46:58 GMT",
+      "summary": "Con esta herramienta, WhatsApp facilita salidas discretas en grupos de amigos lejanos, reuniones familiares incómodas o chats laborales."
+    },
+    {
+      "title": "Anthropic, OpenAI, xAI y Meta fallan en medidas para controlar la IA",
+      "url": "https://expansion.mx/tecnologia/2025/12/12/anthropic-openai-xai-y-meta-reprueban-seguridad-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 12 Dec 2025 15:55:24 GMT",
+      "summary": "El Instituto Future of Life acusa a estas empresas de desarrollar la superinteligencia sin ninguna estrategia sólida para controlar sistemas tan avanzados."
+    },
+    {
+      "title": "Los ganadores y anuncios más importantes de The Game Awards 2025",
+      "url": "https://expansion.mx/tecnologia/2025/12/12/the-game-awards-2025-lista-de-ganadores-y-anuncios",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 12 Dec 2025 15:00:38 GMT",
+      "summary": "Como cada año, The Game Awards reconoce a lo mejor del mundo de los videojuegos y estos fueron los títulos más destacados en 2025."
+    },
+    {
       "title": "México enfrenta un déficit de 25,000 expertos en ciberseguridad",
       "url": "https://expansion.mx/tecnologia/2025/12/12/mexico-enfrenta-deficit-de-expertos-en-ciberseguridad",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Fri, 12 Dec 2025 11:55:15 GMT",
       "summary": "Mientras los ciberataques en el país crecieron más de 200% en un trimestre, aún carece del talento necesario para proteger a sus organizaciones."
-    },
-    {
-      "title": "Apple, sin IA, es el mayor fabricante de smartphones en 2025",
-      "url": "https://expansion.mx/tecnologia/2025/12/11/sin-ia-apple-destrona-a-samsung-fabricante-smartphones",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Dec 2025 20:00:02 GMT",
-      "summary": "La empresa de tecnología logró colocar más equipos que Samsung, quien a inicios del año tuvo un fuerte foco en el uso de IA como herramienta en sus smartphones."
-    },
-    {
-      "title": "Las contraseñas más vulnerables de 2025: revisa si la tuya está en la lista",
-      "url": "https://expansion.mx/tecnologia/2025/12/11/contrasenas-mas-vulnerables-de-2025",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Dec 2025 19:17:32 GMT",
-      "summary": "Listados internacionales revelan patrones que millones de usuarios comparten sin darse cuenta; revisa si tu contraseña no es más común de lo que pensabas."
-    },
-    {
-      "title": "Disney invierte 1,000 mdd en OpenAI y abre sus íconos a la IA",
-      "url": "https://expansion.mx/tecnologia/2025/12/11/disney-invierte-1000-mdd-en-openai",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Dec 2025 18:00:03 GMT",
-      "summary": "La alianza permitirá que OpenAI incorpore propiedad intelectual de las distintas franquicias de Disney en proyectos de video generativo y que la compañía de entretenimiento adopte herramientas de IA."
-    },
-    {
-      "title": "Caso GTA VI. Reino Unido investigará supuesta represión sindical de Rockstar",
-      "url": "https://expansion.mx/tecnologia/2025/12/11/caso-gta-vi-escala-gobierno-revisara-despidos-rockstar",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Dec 2025 16:00:54 GMT",
-      "summary": "El desarrollo del videojuego ha sido polémico por sus retrasos y por el presunto maltrato del estudio a los trabajadores, algo en lo que ya tiene interés el gobierno."
     },
     {
       "title": "México frente al desafío de la IA: solo 1% de las empresas alcanza madurez real rumbo a 2026 - ITSitio",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
-      "title": "La exclusión técnica obstaculiza el futuro de la IA en México - Computer Weekly",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnhSV3NWc3Q3alh2dlBNMHhlN0tkTGxfdFQ1dWZVYVo5ZFlhNU1PaXcwU2tDYURYWkZhUjJhWmxjNW8zaVExQXdfUUx3d0pXQmtiWkE5andtNFhBVlFwN0U0bXVSdlNaOEx5Y0FpbG5sUGZVcnVVSnByNDZUajE0czV3WkVSQUl4OWRqMVpDMkgzZkVmMERRQXU1QTBCc3J3V3llUnduR0p0VFhQRURvRU9IZ1I?oc=5",
+      "title": "Pepe Aguilar busca desafiar a la muerte al crear su propia IA para interactuar con personas fallecidas - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXhOczVWM1FCQTVJYXItTU5fdDJFNFlOWWxBTHAtWWkwOTk4VkpTWXRvcDVkX1llVHhBOGVBcHR0bl84OVVnVWhXc0xFS25hdFVTQ2NJTExhb1RETG9zbVpKRkJIOUdjX3AwXzB6aXo2MHpKdTl6d0RmSW9ZRTUtMmJURXZXRlFzZG4zNmJqYXBQWlZRS19XaWZDQkpFU0MzRjJLRTU1NnRZZXFoaGkwbHVsMXlzSUpSWnluSkxBR1ZhSk44RjJudTY1Z3dRcVBQdEI5UnF6ONIB8gFBVV95cUxNcEN4WG9sU3VCMTdFcVVkSG1oQUt3WnJQRTJUak1BM1FBNkRDczdVNk5oWW93SDZqODNsX0tJbFY2S0lhSXI5OTBwbl9BZThGMTQ4S3lCOU9lSmY0Y2RMamt0bFh0c0Q4V2I1VHZGdk5FM2Z2ekNIQ0o1Q2ZQWVh5dWk1MXVmUmhXNURVMlViU0VRZG45YldTdWJTbnV3UXBVajAxYTVPX1pzNE5jSDJ4blR4enl1SW94MUhXZXhMR3dLUFVGd0x1S1VMMGVVRmF2Vk4yWmllNnRWS1ljT2ZORHJVX0x0S1BVdUJPT0hmTjExQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 12 Dec 2025 00:49:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnhSV3NWc3Q3alh2dlBNMHhlN0tkTGxfdFQ1dWZVYVo5ZFlhNU1PaXcwU2tDYURYWkZhUjJhWmxjNW8zaVExQXdfUUx3d0pXQmtiWkE5andtNFhBVlFwN0U0bXVSdlNaOEx5Y0FpbG5sUGZVcnVVSnByNDZUajE0czV3WkVSQUl4OWRqMVpDMkgzZkVmMERRQXU1QTBCc3J3V3llUnduR0p0VFhQRURvRU9IZ1I?oc=5\" "
+      "published": "Fri, 12 Dec 2025 16:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXhOczVWM1FCQTVJYXItTU5fdDJFNFlOWWxBTHAtWWkwOTk4VkpTWXRvcDVkX1llVHhBOGVBcHR0bl84OVVnVWhXc0xFS25hdFVTQ2NJTExhb1RETG9zbVpKRkJIOUdjX3AwXzB6aXo2MHpKdTl6d0RmSW9ZRTUtMmJURXZXRlFzZG4zNmJqYXBQWlZRS19XaWZDQkpFU0MzRjJLRTU1NnRZZXFoaGkwbHVsMXlzSUpSWn"
     },
     {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
