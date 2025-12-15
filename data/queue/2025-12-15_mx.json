@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "iRobot, creadores de Roomba, se declara en quiebra",
+      "url": "https://expansion.mx/tecnologia/2025/12/15/irobot-fabricante-de-roomba-se-declara-en-bancarrota",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Dec 2025 15:34:09 GMT",
+      "summary": "La compañía solicitó protección bajo el capítulo 11 de la Ley de Quiebras en EU, tras señalar que ya no es rentable."
+    },
+    {
+      "title": "Microsoft se topa con pared y recorta sus objetivos de IA: las empresas no usan Copilot",
+      "url": "https://expansion.mx/tecnologia/2025/12/15/microsoft-recorta-objetivos-de-ia-empresa-no-usan-copilot",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Dec 2025 15:16:25 GMT",
+      "summary": "Ajustes comerciales y escepticismo empresarial contrastan con la inversión sostenida en centros de datos y servicios en la nube."
+    },
+    {
       "title": "Reseña: Xiaomi 15T, una opción fuerte en la gama media-alta sin pagar de más",
       "url": "https://expansion.mx/tecnologia/2025/12/12/resena-xiaomi-15t",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Fri, 12 Dec 2025 17:46:58 GMT",
       "summary": "Con esta herramienta, WhatsApp facilita salidas discretas en grupos de amigos lejanos, reuniones familiares incómodas o chats laborales."
-    },
-    {
-      "title": "Anthropic, OpenAI, xAI y Meta fallan en medidas para controlar la IA",
-      "url": "https://expansion.mx/tecnologia/2025/12/12/anthropic-openai-xai-y-meta-reprueban-seguridad-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Dec 2025 15:55:24 GMT",
-      "summary": "El Instituto Future of Life acusa a estas empresas de desarrollar la superinteligencia sin ninguna estrategia sólida para controlar sistemas tan avanzados."
-    },
-    {
-      "title": "Los ganadores y anuncios más importantes de The Game Awards 2025",
-      "url": "https://expansion.mx/tecnologia/2025/12/12/the-game-awards-2025-lista-de-ganadores-y-anuncios",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Dec 2025 15:00:38 GMT",
-      "summary": "Como cada año, The Game Awards reconoce a lo mejor del mundo de los videojuegos y estos fueron los títulos más destacados en 2025."
     },
     {
       "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
