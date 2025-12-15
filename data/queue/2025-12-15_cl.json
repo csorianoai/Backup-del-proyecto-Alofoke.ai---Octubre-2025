@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Inédito: encuentran la evidencia más antigua de fabricación de fuego por humanos",
+      "url": "https://www.latercera.com/tendencias/noticia/inedito-encuentran-la-evidencia-mas-antigua-de-fabricacion-de-fuego-por-humanos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Dec 2025 20:00:00 +0000",
+      "summary": "Un nuevo estudio reveló que neandertales ya dominaban el fuego hace 400.000 años, mucho antes de lo que se creía."
+    },
+    {
       "title": "Qué se sabe del arresto de Nick Reiner, hijo del cineasta asesinado Rob Reiner",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-arresto-de-nick-reiner-hijo-del-cineasta-asesinado-rob-reiner/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Mon, 15 Dec 2025 13:08:13 +0000",
       "summary": "La DMC emitió un aviso por altas temperaturas en la zona central debido a una dorsal en altura. Revisa qué día será el más caluroso y las regiones afectadas, además de Santiago."
-    },
-    {
-      "title": "Qué se sabe de la muerte de Rob Reiner y su esposa Michele: investigan el caso como un asesinato",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-la-muerte-de-rob-reiner-y-su-esposa-michele-investigan-el-caso-como-un-asesinato/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 15 Dec 2025 12:03:06 +0000",
-      "summary": "Los cuerpos de ambos fueron encontrados en su casa en Los Ángeles, California. El ahora fallecido actor y director, quien tenía 78 años, dirigió películas como This is Spinal Tap (1984), La princesa prometida (1987) y Cuando Harry conoció a Sally (1989)."
     },
     {
       "title": "¿Cómo invertir en Inteligencia Artificial? - XTB.com",
@@ -99,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFBkR0x6R3hQbU9wdGU4d1MyMFU3TVpldUF3ZW5nbS1xNUFlUlVtMWQ2WHNSWXhlenZGRHZqX05rU29VRVJvODljclAxRE9Kclh5MmhyRjVldjVzZkdqUGdva3ZmdDBBN1dHT1EwempnZVBSNGRZcFVxb0I5eTI0YWxyZTFwWEhNMlJPcVpJYm1fQ0xD?oc=5\" target=\"_blank\">Tecnologías chilenas permit"
     },
     {
-      "title": "Visma entra como accionista mayoritario en ComunidadFeliz - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnBoZXdLd3ljcDFwS2VpZFZidTdMZzRyT193WDJEQnhvMU43SG1tTUNiWXhrQzd1ZWVnNXlUZzl5N0hQSDdhQlQ2Y1pRcUdzZnVwaTR3ajBMSjRXZks0WDFzNVdFd0pHNEFjd0c3MUlDb0MzYzdoZ3pBS1pxVzlrUkpBRUYydGVhWXZmOUNxV2Etdw?oc=5",
+      "title": "Agua potable y tecnología rural: startup chilena impacta comunidades - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVg4MjFmVlIwWVBqbHcwX0FYaUh1cVFoQWVLTGZ1RFh0eGx2SFFyaFBQeVk5Y0xHTmFUc1ctZzlSZlJ3VFRBN0liQllIa0VWMnc2d2RmOG5oX1NvNjN2TFBUUVVXbUVmTGdMSzhPNVdsbkFCc1hYSXVpNm9LenU2bmNDWXloR00xTE1jc2VQUGlxSGw3STVSNUhkWVRWTzA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 15 Dec 2025 15:48:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVnBoZXdLd3ljcDFwS2VpZFZidTdMZzRyT193WDJEQnhvMU43SG1tTUNiWXhrQzd1ZWVnNXlUZzl5N0hQSDdhQlQ2Y1pRcUdzZnVwaTR3ajBMSjRXZks0WDFzNVdFd0pHNEFjd0c3MUlDb0MzYzdoZ3pBS1pxVzlrUkpBRUYydGVhWXZmOUNxV2Etdw?oc=5\" target=\"_blank\">Visma entra como accionista m"
+      "published": "Mon, 15 Dec 2025 18:45:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVg4MjFmVlIwWVBqbHcwX0FYaUh1cVFoQWVLTGZ1RFh0eGx2SFFyaFBQeVk5Y0xHTmFUc1ctZzlSZlJ3VFRBN0liQllIa0VWMnc2d2RmOG5oX1NvNjN2TFBUUVVXbUVmTGdMSzhPNVdsbkFCc1hYSXVpNm9LenU2bmNDWXloR00xTE1jc2VQUGlxSGw3STVSNUhkWVRWTzA?oc=5\" target=\"_blank\">Agua potable"
     },
     {
       "title": "66 emprendimientos tecnológicos comienzan su proceso de aceleración en Start-Up Chile - Diario Sustentable",
