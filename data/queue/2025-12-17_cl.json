@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cuál es la palabra del año 2025, según la FundéuRAE",
+      "url": "https://www.latercera.com/tendencias/noticia/cual-es-la-palabra-del-ano-2025-segun-la-fundeurae/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 17 Dec 2025 20:00:00 +0000",
+      "summary": "En años anteriores, la FundéuRAE había destacado palabras como dana (2024), polarización (2023), inteligencia artificial (2022), vacuna (2021), emojis (2019)."
+    },
+    {
       "title": "Cómo aplicar la IA en los negocios: usos prácticos del ecosistema Samsung",
       "url": "https://www.latercera.com/tendencias/noticia/como-aplicar-la-ia-en-los-negocios-usos-practicos-del-ecosistema-samsung/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 17 Dec 2025 14:00:38 +0000",
       "summary": "Pionero del League of Legends en la región, su trayectoria como jugador y luego como coach lo convirtió en una figura clave del desarrollo de los esports en Chile y Latinoamérica."
-    },
-    {
-      "title": "Cómo fue el ataque con drones de Ucrania contra un submarino de Rusia en el mar Negro, según Kiev",
-      "url": "https://www.latercera.com/tendencias/noticia/como-fue-el-ataque-con-drones-de-ucrania-contra-un-submarino-de-rusia-en-el-mar-negro-segun-kiev/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Dec 2025 11:51:14 +0000",
-      "summary": "Según el Servicio de Seguridad de Ucrania (SBU), la ofensiva fue realizada en el puerto ruso de Novorossiysk, en el mar Negro, y dejó fuera de combate al sumergible. La agencia afirma que se utilizaron drones submarinos “Sub Sea Baby” y que el objetivo fue un submarino de clase Kilo."
     },
     {
       "title": "Hacia una regulación responsable de la inteligencia artificial en Chile - EstadoDiario",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFFoWTJYc2h6RnlpSFJTV1hfVVRGLWw1dEZUWjctRzVFYmdINXNyMXNmRkxHRkNlRHlZUGxpLVgyU1JlSkdmdmNIaUhiZkY1cnhTT1RqM0hYNjFSS09RN1F3cGxZaHVVWVctTTBNNVd6bDBqTDNuYWtUZTRtaGVZTHY4SEZ6M1RuaU5qZzNlNjR1dTFNT25kbHY5WlNQcGRQR3dXa3FUc1BYWW5W?oc=5\" target=\"_bl"
     },
     {
-      "title": "Santiago Bilinkis, experto en tecnología: \"Si sientes que la IA te asusta más de lo que te entusiasma, no estás solo\" - Mundo Deportivo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc0x3Qk1fTnBBMjg3cHNIZ0NvT2U4TmtNZUdwOHVoVmcxOXVvbGVWeVd2ZXFCeHpjclRuYzFCNDNwaFBqblRseV9tTVU1R0RnMFlhRWs3MTJyeU1tYlVzODJ5djI4elJWUGI0TFp6djhZVklLQk4zYjM0Y29ZbUdkeThyNXJVaFo5RWx6VlJER0FaUlRXOEtNeUlWcHc0OGlCQ0hJSXU4aHdkenBuUGtvSmF6ZDF6aWVjamxBMzI3azRTV080cGctT0QtMW1tSVdFVVhjR1VnUld0UUNNdHAzMWZTOHJORTTSAfQBQVVfeXFMT3FqZy1MUGk1clJSWjZjMFhsZld0aHZWVGRpZEs2NjJnMElfdktPbnh4Ql9jNGxCcGpFS21oZTBrcWo0UkFJaWZSS0hiQm9aQmNOdHhRMkZDLWF2bEs2ak9jOTFHWXlTRzFOOFplT0tOREtERlV2XzRyOWpEMlRFTGVuRldlRWl6SzBUYzBjQ1RhRzN2bWEzb3pEWGtzQ2h0SlVWblJkSDlxQVhqQWxoWmhnWGdkV3N5RFZ2b3VfcmY1bFd0R2ozZW9zTFlVMGZmRFJJUXpzdkt2cGVreUd6UWpjZ3NxZjFqRWZkZ25hUFVXUEQ0OA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 16 Dec 2025 19:50:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQc0x3Qk1fTnBBMjg3cHNIZ0NvT2U4TmtNZUdwOHVoVmcxOXVvbGVWeVd2ZXFCeHpjclRuYzFCNDNwaFBqblRseV9tTVU1R0RnMFlhRWs3MTJyeU1tYlVzODJ5djI4elJWUGI0TFp6djhZVklLQk4zYjM0Y29ZbUdkeThyNXJVaFo5RWx6VlJER0FaUlRXOEtNeUlWcHc0OGlCQ0hJSXU4aHdkenBuUGtvSmF6ZDF6aWVjam"
-    },
-    {
       "title": "Santiago Méndez: “TD SYNNEX apuesta por la IA y los servicios recurrentes como motor de crecimiento” - COMPUTERWORLD ESPAÑA",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUjhpMWdkX2h0QUxwSmYzZzI4Q205RDhqRGllcUdZUDNzby0tTnFQTHAtTGZxbnktQVNnUnNjLWlGdlQ5SmRZTzI3QURubzlsZEt6emRMSk9SRHJtWnhrdWhjbDNQVVl3bk1Wak1OSHYwRkNSNVlkcm9mYWVsaHkwQ0wwZXJKSkFBU2hjRS1BVkVRTTZZWnQtZUh2RzVUcFhvUnVfZkl4S2pSN1g3cWs4ZnVyWnZwcThvWGhfRVQtSm5qQXlZeHFhdDVuOW5CMEpmVXlkRVpGQklYY0RvVV9rcw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 15 Dec 2025 08:34:53 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUjhpMWdkX2h0QUxwSmYzZzI4Q205RDhqRGllcUdZUDNzby0tTnFQTHAtTGZxbnktQVNnUnNjLWlGdlQ5SmRZTzI3QURubzlsZEt6emRMSk9SRHJtWnhrdWhjbDNQVVl3bk1Wak1OSHYwRkNSNVlkcm9mYWVsaHkwQ0wwZXJKSkFBU2hjRS1BVkVRTTZZWnQtZUh2RzVUcFhvUnVfZkl4S2pSN1g3cWs4ZnVyWnZwcThvWG"
+    },
+    {
+      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
       "title": "5 innovaciones chilenas destacadas por INAPI que buscan escalar - El Ecosistema Startup",
