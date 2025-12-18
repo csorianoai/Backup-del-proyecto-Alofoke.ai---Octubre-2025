@@ -3,20 +3,28 @@
   "country": "es",
   "articles": [
     {
+      "title": "La UE se abre a una solución política para financiar a Ucrania pero retrasa Mercosur a enero",
+      "url": "https://elpais.com/internacional/2025-12-18/la-ue-se-abre-a-una-solucion-politica-para-financiar-a-ucrania-pero-retrasa-mercosur-a-enero.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 18 Dec 2025 21:04:07 GMT",
+      "summary": "Los líderes ultiman una fórmula que convenza a Bélgica de usar los activos rusos congelados y si no saliera adelante recurrirían al presupuesto de la Unión para evitar la quiebra de Kiev"
+    },
+    {
+      "title": "Bruselas propone retrasar la firma del acuerdo de la UE con Mercosur a enero para convencer a Meloni",
+      "url": "https://elpais.com/internacional/2025-12-18/bruselas-propone-retrasar-la-firma-del-acuerdo-de-la-ue-con-mercosur-a-enero-para-convencer-a-meloni.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 18 Dec 2025 21:39:24 GMT",
+      "summary": "La Unión busca salvar el pacto que crearía la mayor zona de libre comercio del mundo"
+    },
+    {
       "title": "Feijóo y Guardiola alimentan la idea del pucherazo en Extremadura por el robo de 124 votos en una oficina de correos",
       "url": "https://elpais.com/espana/elecciones-extremadura/2025-12-18/el-pp-extremeno-denuncia-un-robo-de-votos-por-correo-en-un-municipio-de-badajoz-de-4500-vecinos.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Thu, 18 Dec 2025 13:35:47 GMT",
       "summary": "La Guardia Civil, que lleva la investigación, ha catalogado estos hechos como “delincuencia común” y los afectados podrán volver a votar"
-    },
-    {
-      "title": "Guardiola evita riesgos en la recta final de la campaña y deja la silla vacía en el debate electoral",
-      "url": "https://elpais.com/espana/elecciones-extremadura/2025-12-18/guardiola-evita-riesgos-en-la-recta-final-de-la-campana-y-deja-la-silla-vacia-en-el-debate-electoral.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 18 Dec 2025 04:40:00 GMT",
-      "summary": "Las encuestas del partido colocan a los populares al filo de los 33 escaños, pero la candidata del PP apenas concede entrevistas y reduce los actos de campaña"
     },
     {
       "title": "Trump, historiador: el republicano reescribe el legado de sus predecesores en la Casa Blanca",
@@ -27,20 +35,12 @@
       "summary": "El presidente coloca en una galería de la residencia presidencial placas que recuerdan con insultos y acusaciones sin base los logros de algunos de sus antecesores"
     },
     {
-      "title": "El ERE de Telefónica se firmará el próximo lunes tras llegar a un acuerdo con los sindicatos",
-      "url": "https://elpais.com/economia/2025-12-18/el-ere-de-telefonica-se-firmara-el-proximo-lunes-tras-llegar-a-un-acuerdo-con-los-sindicatos.html",
+      "title": "Alcaraz y Ferrero, entre necesidad y fricciones antes de un final inesperado (o quizá no tanto)",
+      "url": "https://elpais.com/deportes/tenis/2025-12-17/alcaraz-y-ferrero-entre-necesidad-y-fricciones-antes-de-un-final-inesperado-o-quiza-no-tanto.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 18 Dec 2025 15:16:40 GMT",
-      "summary": "El ajuste supondrá la salida mínima de 4.539 trabajadores, después de una última rebaja en Movistar+"
-    },
-    {
-      "title": "Sánchez suaviza la tensión con Sumar: “Pese a las discrepancias, hay muchas cosas que nos unen”",
-      "url": "https://elpais.com/espana/2025-12-18/sanchez-suaviza-la-tension-con-sumar-pese-a-las-discrepancias-hay-muchas-cosas-que-nos-unen.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 18 Dec 2025 12:19:06 GMT",
-      "summary": "El presidente del Gobierno cree que la coalición debe continuar hasta el fin de la legislatura y responsabiliza al PP y a la “derecha mediática” del auge de Vox por blanquearlo"
+      "published": "Wed, 17 Dec 2025 22:41:15 GMT",
+      "summary": "El número uno y el técnico, de caracteres antagónicos pero bien complementados, concluyen un exitoso viaje de siete años que exigía orden y libertad a dosis iguales"
     },
     {
       "title": "Los caminos que abre la inteligencia artificial - EL PAÍS",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUQtTEFmWDNnTTVycmpnZXd4RmE4QUZmX3h0aHMxVjl0YkQyZU5JWVRIeVFFNnpHRGR3MVVpZVl4ZFYwUVB5d05PZldHRzlTX1Z2UVl4NFFsQk5VbldUOVFhVFFCcGtNWmlTNkxPYzlKdEsyaW1fR1RLcU1vcm5SaUJQQUNzMU9oSmN1MWVmYlBxZy10MHpET0g3WnRRY25qM0U0NTQ2MEV6WFdvcDVB0gHKAUFVX3lxTE"
     },
     {
-      "title": "Tecnología ALPR en gobiernos locales: tendencias, startups y privacidad - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2xSbVNHNnhQQk55cy1IOTFOcldGZkJObHVoYk05bjBJSHFsaU9WWlJwLTVsbmNON2xLSjRRcHc2QnBOeFJxazhlWUw0S21yWTlMVjhSLS1PNW5KUWFiQWozSmJBWXhYd29nVnNYVVJUT2s3VjdqUTM5T2Q0MUlhMW11VWFzMU9Nc2JENXl5U3hucVRmNFZlbnBDUHBpS3NabEE?oc=5",
+      "title": "Hysun: hidrógeno limpio con energía solar y sin electricidad - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0s3NEI0UEV6R21YSkVhRXdBeHBuZFlTWDhSaTlsMWpONmlJeXhEc0RYbjdJQ3dNRi04SklUeFBUdnBNYmdSbTlRSlcxRWVZblo4VExTbF9IWVgzd1FzWHZlanRHdTRIZjJkV2RBRTRXRGpqaDNQX0c4YlRyS3dXbjJTMnRSZDVmVUZjY2h0ZjRkUE51?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 16 Dec 2025 17:11:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2xSbVNHNnhQQk55cy1IOTFOcldGZkJObHVoYk05bjBJSHFsaU9WWlJwLTVsbmNON2xLSjRRcHc2QnBOeFJxazhlWUw0S21yWTlMVjhSLS1PNW5KUWFiQWozSmJBWXhYd29nVnNYVVJUT2s3VjdqUTM5T2Q0MUlhMW11VWFzMU9Nc2JENXl5U3hucVRmNFZlbnBDUHBpS3NabEE?oc=5\" target=\"_blank\">Tecnolog"
+      "published": "Thu, 18 Dec 2025 16:58:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0s3NEI0UEV6R21YSkVhRXdBeHBuZFlTWDhSaTlsMWpONmlJeXhEc0RYbjdJQ3dNRi04SklUeFBUdnBNYmdSbTlRSlcxRWVZblo4VExTbF9IWVgzd1FzWHZlanRHdTRIZjJkV2RBRTRXRGpqaDNQX0c4YlRyS3dXbjJTMnRSZDVmVUZjY2h0ZjRkUE51?oc=5\" target=\"_blank\">Hysun: hidrógeno limpio con"
     },
     {
       "title": "Mientras España se estanca en el impulso a las pymes, Dubái se lanza al liderazgo tecnológico con... - Trendencias",
