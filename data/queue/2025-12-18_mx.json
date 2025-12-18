@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La piratería musical migra a plataformas de audio",
+      "url": "https://expansion.mx/tecnologia/2025/12/18/nueva-pirateria-musical-canciones-hechas-con-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 18 Dec 2025 18:00:26 GMT",
+      "summary": "King Gizzard  & The Lizard Wizard descubrió álbumes generados por IA bajo su identidad y aunque las apps luchan contra la suplantación, crece el fraude musical."
+    },
+    {
+      "title": "Los Oscar migran su transmisión a YouTube",
+      "url": "https://expansion.mx/tecnologia/2025/12/18/premios-oscar-transmitiran-youtube",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 18 Dec 2025 16:22:43 GMT",
+      "summary": "La Academia anunció que la ceremonia se transmitirá en exclusiva por YouTube, reflejando el cambio de paradigma en audiencias, publicidad y distribución global del entretenimiento."
+    },
+    {
       "title": "En el Mundial 2026 no habrá forma de escapar de los comerciales",
       "url": "https://expansion.mx/tecnologia/2025/12/18/mundial-2026-no-habra-forma-de-escapar-de-los-comerciales",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Las empresas de contenido como Netflix, HBO o Prime Video tuvieron menos estrenos en este año y la razón es la reducción de costos de producción y una mayor presión."
     },
     {
-      "title": "Las bodas entre humanos e IA crecen en Japón",
-      "url": "https://expansion.mx/tecnologia/2025/12/17/me-case-con-una-ia-japon-matrimonios-personajes-ficticios",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Dec 2025 18:00:22 GMT",
-      "summary": "Un estudio de la Japanese Association for Sexual Education apunta que 2 de cada 10 niñas que están en la secundaria prefieren relaciones tipo ‘fictorromantic’."
-    },
-    {
-      "title": "Seis prompts para ser más productivo y usar la IA a tu favor",
-      "url": "https://expansion.mx/tecnologia/2025/12/17/seis-prompts-para-ser-mas-productivo-y-usar-la-ia-a-tu-favor",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Dec 2025 15:30:17 GMT",
-      "summary": "Los usuarios usan Inteligencia Artificial de manera más constante para realizar tareas laborales, pero muchas veces se desesperan por las respuestas que tienen."
+      "title": "Inteligencia artificial en México: 87 iniciativas impulsan un marco legal para regular su uso - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWVPNndyVG1yUS1PT1lBeUxWMkhwTmJOVkl4aHB4bTlXOEVRNVZWMThvWlg1MF9NWVVjeUtZMXZWZFNLM3ZXcnF0N2hmeEhHWEEyajlRR1hRODJCWm9KQnB3OERXUzlkc1JHVWxrbWhkR2FMckdzbVZubFVYRTA5TmpJWTdDUTJ5NzhJYUQ5Z0NkemVLUHVZaS1QbTN0M1g4SWl5ZGxFR2YxemU1UlpObkY4R3o2azBITzMzVTBTQk1RMzZSdG5oMHVPMkRNd0tTeUluSDZQcERaWDdo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 18 Dec 2025 14:57:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWVPNndyVG1yUS1PT1lBeUxWMkhwTmJOVkl4aHB4bTlXOEVRNVZWMThvWlg1MF9NWVVjeUtZMXZWZFNLM3ZXcnF0N2hmeEhHWEEyajlRR1hRODJCWm9KQnB3OERXUzlkc1JHVWxrbWhkR2FMckdzbVZubFVYRTA5TmpJWTdDUTJ5NzhJYUQ5Z0NkemVLUHVZaS1QbTN0M1g4SWl5ZGxFR2YxemU1UlpObkY4R3o2azBITz"
     },
     {
       "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Thu, 18 Dec 2025 06:00:45 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeDNTUm43LUVFdXRJSXV6WmdnblRFcE5fVTlkQlYyRmdhWW1lOTYxVFlVM1VaT0p1TVNWWU92dUJEbE15SlpZLWQ3V3JSblRsZ0hVdmpYR0V5NThZYzlZc1dWRndlS1VvSEpNem1aV3hMWkxqUEp1ZEFuSW1sV1dYR3I1Y3pNTkxyaEY4aUVxWXctTFdIYmlnaGluY1BKTmNWcTVDWm5zTVp6cG9yUmFqQUFVSnJYUHRFX0"
-    },
-    {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
     },
     {
       "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
