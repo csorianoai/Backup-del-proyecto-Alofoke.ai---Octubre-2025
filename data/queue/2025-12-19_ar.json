@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Exponen datos de argentinos en una filtración masiva en la dark web",
+      "url": "https://www.clarin.com/tecnologia/exponen-datos-argentinos-filtracion-masiva-dark-web_0_fOwQTpNTir.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 19 Dec 2025 15:21:34 +0000",
+      "summary": "<ul><li>Sería más de 1 terabyte de datos personales de millones de argentinos.</li><li>El material estaría vinculado a SudamericaData e incluiría bases atribuidas a organismos como ARCA, ANSES y DNRPA, además de teléfonos, correos electrónicos y código fuente.</li><li>Especialistas advierten sobre l"
+    },
+    {
+      "title": "\"Error 502\": una nueva falla en Cloudflare volvió a poner en jaque a servicios clave de Internet",
+      "url": "https://www.clarin.com/tecnologia/error-502-nueva-falla-cloudflare-volvio-poner-jaque-servicios-clave-internet_0_PlOjvJkrpz.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 19 Dec 2025 14:52:25 +0000",
+      "summary": "<ul><li>Afectó a múltiples servicios digitales, desde plataformas de video y mensajería hasta sitios de noticias.</li><li>El incidente, reconocido por la empresa, volvió a mostrar la dependencia de Internet de un puñado de proveedores clave.</li></ul>"
+    },
+    {
       "title": "Elegoo Centauri Carbon: cómo es la impresora 3D ultrarrápida que convierte ideas en objetos reales",
       "url": "https://www.clarin.com/tecnologia/elegoo-centauri-carbon-impresora-3d-ultrarrapida-convierte-ideas-objetos-reales_0_2qav7dM8ET.html",
       "source": "Clarín Tecnología",
@@ -27,22 +43,6 @@
       "summary": "<ul><li>Propuestas para todos los integrantes de la familia: accesibles y variadas.</li><li>Gadgets útiles y lanzamientos recientes para sumar al arbolito y sin gastar de más. </li></ul>"
     },
     {
-      "title": "ChatGPT mejoró la creación de imágenes: cómo funciona y en qué se diferencia de la nano banana de Google",
-      "url": "https://www.clarin.com/tecnologia/chatgpt-mejoro-creacion-imagenes-funciona-diferencia-nano-banana-google_0_qbzPqF3yPL.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Dec 2025 19:03:09 +0000",
-      "summary": "<ul><li>OpenAI lanzó una versión renovada con ediciones más precisas, mayor velocidad y una experiencia visual dedicada.</li><li>El anuncio llega en plena rivalidad con Gemini, la IA del buscador de Internet. </li></ul>"
-    },
-    {
-      "title": "¿Qué juegos de Fallout debes jugar antes de ver la temporada 2 en Prime Video? Un repaso por el yermo",
-      "url": "https://www.clarin.com/estados-unidos/juegos-debes-jugar-ver-temporada-2-fallout-repaso-yermo_0_u000SnuT5J.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Dec 2025 15:04:34 +0000",
-      "summary": "<ul><li>La segunda temporada de Fallout llegó a Prime Video y miles de nuevos fans se preguntan: \"¿Debo jugar los juegos antes de la serie?\"</li><li>La respuesta corta: no es obligatorio, pero enriquece todo.</li><li>No necesitas ser un gamer para entender la serie, jugar te ayuda a comprender mejor"
-    },
-    {
       "title": "OpenAI lanza Sora en la Argentina: creá videos con inteligencia artificial en minutos - Infobae",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXpuV3RDVGNGTXg1ZUo5NUcwSDJDRjY5cjRnajY5WEN5WENRb2VsUHFEVC1OM09OYzVGTVpFWjBvQ0Q4cGlzWGZkOVlfT0lSQ0JlTVB0bHI2UURwTE9TbDE3U1AzVm5QN3h3ZFBJYnA0VE1qUmNyOXE2V1lSVGMxUWRDai1LaVlIcDBHUEo3RzBFRUtpbjd6Z0VyZmx6dl9rX25LWGNGVEZjTXc1RjNTWV9PZ0FwV2xFX3hYZ252alF6dEJs0gHfAUFVX3lxTFBjU2YzR1hCUm1zLTNHOGFScWVjaGxISGhLTXhQakRXb1Y2NDBkMzEwZXBMeGVWOWgza1QzaW1iaVZLT3pMWjh6c3E5cGtlcmxaZ1ZuT3diNm9yUTdWQTRyNXAwd1hhUy02S3NOQ0V5QmJCOHcxMGlfR0E0SUFXdzNuQWRZR1NsNU1wS3psUnVYeVB3WGVIRnFCMzAxWnlwMzFzc1JDclA4WHBJXzh3RXJ1bnUydEdralZoSmdycm1iWVN1Z08zWXZYM3JtRkRCUC1MN2piNEZWMHI2WkFDZTg?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3M1a0RhdEd4WlVFaHJTUEZoTHlXV2tJTm4zZTdMN0FhZzY0QTRBSzZSNmhaZHAyelpBRmhfbTV2ZDBBSGZOd280aE9KMFYwZFNHX1pwSUw4Q3NDMC1oTVNqT2JmV0JYY1BHY3kwRFIwRHdSMVBhVWlQYUYyQ3FtcTJwcWtsVDRRb0IxeXJrM1pJd1F4RXBaUUstd1cxVkdXNlJ5OW16dm1fSi1nd3BOUm9FdE9hR09pSz"
     },
     {
-      "title": "Sora llega a Argentina: cómo funciona la app que crea videos con inteligencia artificial - iProfesional",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUDl3VmtqTXdfWTRFUlcyLS1wS3R1bWRYclhDMkdWbUlKWHJQc1k2RU41ZnQySmlxRXBfemZPdUp5WXdDRDNxdGNYQjA2TXdkNXpBZnpfN0wzYmxVVFUyMHlSRDM5aGN0ZFNtNTRDTE1ILWdyQURsZkx1bWNzb3FFNHdCTFpMYklnMlpRNDR5YnExbVVqRzhPY21Ua2lxNTdHZl9JMGhTd21SZEhxUFhmRlJBd3c1Tnhla1BjVnhpWlFFYWI0Z2J5MUdCMNIB0AFBVV95cUxNeXJJcjQxR3g5OUtSMDk0LWwyVzVIbDYwNEs3UmE1WGUzQnJudWZIQmRLRDZYS05nYjh0bGhFMnR2WldrZHd4UHQxY192dEI5N3Noa2p2c2F5em9raWVxQ2piZEFNOG5sQkdlR2tBUWd3WVM1cENNOVJGMkJvdlBwdlpoMy1OV3BFZmRibmE2VHJ0aDlMeVdMMkY3TDlmbkVvRkp6RHlKM2I3Y0RLSTB2Q3liVEIwNHNqVnk2QkZJZzc4dTlaRzFJZ1dMc09NMGc2?oc=5",
+      "title": "La inteligencia artificial destacó las mejores siete maravillas de Argentina: cuáles son - MinutoUno",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcmNJdC1KVmp6SFBHc1VWZW05ZnVRVU00S1N1VXRSdGVDZ250MDRQNW03UnljRUViUEtERndIUldoNHlScXZuQXRmNV9MNVdrUExBNW9zMk54aU8wdkFqVkxQd0p6NndtM2RGWk5nNDBMRzhKMVR5NF9xcXZQVWRmekVNamRwbXFhSFZHWEFmWTFfSUN2aFhnbUpxdkdPMy1hQ1g0Tm9lOVNDSi1kVDVfTDV5QlI2Um9KWmtjSEhYUmlWQnZIYy1retIByAFBVV95cUxQcmNJdC1KVmp6SFBHc1VWZW05ZnVRVU00S1N1VXRSdGVDZ250MDRQNW03UnljRUViUEtERndIUldoNHlScXZuQXRmNV9MNVdrUExBNW9zMk54aU8wdkFqVkxQd0p6NndtM2RGWk5nNDBMRzhKMVR5NF9xcXZQVWRmekVNamRwbXFhSFZHWEFmWTFfSUN2aFhnbUpxdkdPMy1hQ1g0Tm9lOVNDSi1kVDVfTDV5QlI2Um9KWmtjSEhYUmlWQnZIYy1reg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 19 Dec 2025 12:25:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNUDl3VmtqTXdfWTRFUlcyLS1wS3R1bWRYclhDMkdWbUlKWHJQc1k2RU41ZnQySmlxRXBfemZPdUp5WXdDRDNxdGNYQjA2TXdkNXpBZnpfN0wzYmxVVFUyMHlSRDM5aGN0ZFNtNTRDTE1ILWdyQURsZkx1bWNzb3FFNHdCTFpMYklnMlpRNDR5YnExbVVqRzhPY21Ua2lxNTdHZl9JMGhTd21SZEhxUFhmRlJBd3c1Tnhla1"
+      "published": "Fri, 19 Dec 2025 21:56:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcmNJdC1KVmp6SFBHc1VWZW05ZnVRVU00S1N1VXRSdGVDZ250MDRQNW03UnljRUViUEtERndIUldoNHlScXZuQXRmNV9MNVdrUExBNW9zMk54aU8wdkFqVkxQd0p6NndtM2RGWk5nNDBMRzhKMVR5NF9xcXZQVWRmekVNamRwbXFhSFZHWEFmWTFfSUN2aFhnbUpxdkdPMy1hQ1g0Tm9lOVNDSi1kVDVfTDV5QlI2Um9KWm"
     },
     {
       "title": "Provincia de Buenos Aires regula el uso de IA - Marval O’Farrell Mairal",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWFlaamF4YTRVX0JsTElaNVhxZFk5bkl5T3QyV1p0Q1pBR015dFZ3ZnBDM1RqLUx1YkxEQkVWN2FyWkNoSHRLZmRwVUR3cHNDVEV0TnZLSGphMXVUdFlqS3lwXzVRVGZ0S2hHN3p4Rm1mSnpiRVlaVHFvQ0lYblNCcU1Ea3lUYVVqSUxESmJqNlM0RjBmTWh5aG9sSHpGemQzTng2MV95aldQdEdHMXVlaXRNZ3QzUDdtNH"
     },
     {
-      "title": "Convocatorias 2026: financiamiento para startups y tecnología - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1FfMUVHcXBuSFA3VVZCcVlfV1JYajVaOC13ZkFjN19aNEczejl6Z0FrWG5XVFZ5WXVCRXl3TWtLc0FtQVJnWUNUMU9peUxUeFBNYi1wRW1keFNMbGJZTmZSNDV2aWxIWXpNcmFuWkwzbFdhQzY0RGRONG14VWNMSjM1ZFZoR0JMX045NXVySHpaZHo1VWc?oc=5",
+      "title": "NASA confía en Boeing tras quiebra de startup en misión Artemis - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcml2YXVsMFJoNGktVllwRlZZb29NUGYzVk11bVBJTHFfdWVkaFI5blFtTm5rVzdPTkJqVFF1dFB1am90WFBSNWVoejI1N2JPU3E5cjF1ZUxaMndmVmplcHlSVzRLLU9LQ3pPUFdGalNnOGRoUDdIYjl3UXdLNDlOOUVqTUxyUEtOYk45QmNXREI2TzFJVFljSC1R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 17 Dec 2025 15:51:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1FfMUVHcXBuSFA3VVZCcVlfV1JYajVaOC13ZkFjN19aNEczejl6Z0FrWG5XVFZ5WXVCRXl3TWtLc0FtQVJnWUNUMU9peUxUeFBNYi1wRW1keFNMbGJZTmZSNDV2aWxIWXpNcmFuWkwzbFdhQzY0RGRONG14VWNMSjM1ZFZoR0JMX045NXVySHpaZHo1VWc?oc=5\" target=\"_blank\">Convocatorias 2026: fina"
+      "published": "Fri, 19 Dec 2025 19:41:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNcml2YXVsMFJoNGktVllwRlZZb29NUGYzVk11bVBJTHFfdWVkaFI5blFtTm5rVzdPTkJqVFF1dFB1am90WFBSNWVoejI1N2JPU3E5cjF1ZUxaMndmVmplcHlSVzRLLU9LQ3pPUFdGalNnOGRoUDdIYjl3UXdLNDlOOUVqTUxyUEtOYk45QmNXREI2TzFJVFljSC1R?oc=5\" target=\"_blank\">NASA confía en Boei"
     },
     {
       "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
