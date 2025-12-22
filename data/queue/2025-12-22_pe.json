@@ -3,14 +3,6 @@
   "country": "pe",
   "articles": [
     {
-      "title": "IA en el Perú: así serán los límites para la publicidad y el consumo desde 2026 - Gestión",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGtWRWJfTXpndXVxdEM2UlF1em41akV4Y2ZUS254SkRoZGY4M0JlWHhkSDNKLXdiejVsSlo0Vy02QWd0Zk02cmhfc3BDd3ZzRXJvcFhFbWhEaWFqVGdRUER3bXQtMzBWWk0xTjZpOHRidFVBZkVGMGVFSHBzUDlwSFZqR2N4dENGaEZSdXZzMU9QZi1CRWRnaENOcHp1MlNid1RxZ2czWGtwdktvWWkzU1VKdGZwSXc5?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 22 Dec 2025 11:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGtWRWJfTXpndXVxdEM2UlF1em41akV4Y2ZUS254SkRoZGY4M0JlWHhkSDNKLXdiejVsSlo0Vy02QWd0Zk02cmhfc3BDd3ZzRXJvcFhFbWhEaWFqVGdRUER3bXQtMzBWWk0xTjZpOHRidFVBZkVGMGVFSHBzUDlwSFZqR2N4dENGaEZSdXZzMU9QZi1CRWRnaENOcHp1MlNid1RxZ2czWGtwdktvWWkzU1VKdGZwSXc5?o"
-    },
-    {
       "title": "Mapa regulatorio de la inteligencia artificial en Perú - Garrigues",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWUwQTVSS3plNHcyZ1dfSS1JWVQtdnZBN2VHNHBsZEp2TlRhQWFjaUhMcWllRU1ZWExVajJhOUNBSmdpdllUbXZqdzViUngzNGdOd0w3enJaWV9KLTBsSzlfcEJzZjFzanAwa3NSQ2dxZk5EajBqVVdxV0hUUWg1ekJCazJGRG8yU0lFZl9B?oc=5",
       "source": "Google News",
@@ -25,6 +17,14 @@
       "category": "news",
       "published": "Sun, 21 Dec 2025 03:29:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05qdGtDa2xjRTZtSUdVZll6RE5UZ0EzajNPeTZVVmxUOUhxS1c4X2dEX3NTZE1PNVpFczlFZlVhTThVX1VXQ2NfcW40VGtBT2U2djY3SGxZNEluMUhPYmlwbFJKaW1ZaVhId0hRd2ExRVNjdTFQMDgwbG9JU2dwOV9DX29YX05JSWJCcXF1a0pJRENKSnJvWHJlLUJGVWJYSW51d24wRDN0UThKalRN0gHKAUFVX3lxTE"
+    },
+    {
+      "title": "IA en el Perú: así serán los límites para la publicidad y el consumo desde 2026 - Gestión",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGtWRWJfTXpndXVxdEM2UlF1em41akV4Y2ZUS254SkRoZGY4M0JlWHhkSDNKLXdiejVsSlo0Vy02QWd0Zk02cmhfc3BDd3ZzRXJvcFhFbWhEaWFqVGdRUER3bXQtMzBWWk0xTjZpOHRidFVBZkVGMGVFSHBzUDlwSFZqR2N4dENGaEZSdXZzMU9QZi1CRWRnaENOcHp1MlNid1RxZ2czWGtwdktvWWkzU1VKdGZwSXc5?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 22 Dec 2025 11:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGtWRWJfTXpndXVxdEM2UlF1em41akV4Y2ZUS254SkRoZGY4M0JlWHhkSDNKLXdiejVsSlo0Vy02QWd0Zk02cmhfc3BDd3ZzRXJvcFhFbWhEaWFqVGdRUER3bXQtMzBWWk0xTjZpOHRidFVBZkVGMGVFSHBzUDlwSFZqR2N4dENGaEZSdXZzMU9QZi1CRWRnaENOcHp1MlNid1RxZ2czWGtwdktvWWkzU1VKdGZwSXc5?o"
     },
     {
       "title": "IA: Inteligencia Actoral frente a la Inteligencia Artificial - Lima Gris",
@@ -83,20 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVdOQjAtN3lHekJkV3dsWElkS2pqQllIcjBqSUhfWkZhSXJyY0lfdGFZMGNqZ2pCREpocUphZV95NG1Ma204dDFjSnl3QlN3SEtGT2pjM3dtV1FCbHNNWVM5bVN0LV9JMDBfaTZPVGItR0F1YXZZX0JvUU9sVHlISS1GNDRuR2hnSWRSSEdOZnhzZ0hZVm42Y3RJMUhORjdnc0lvcEh2d0I0QktBcmJBaHJBMFpBa21oNX"
     },
     {
+      "title": "OPS, Minsa y la Cooperación Alemana impulsan la innovación digital en inmunizaciones y competencias en salud - consultorsalud",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTY0VU9IM2RTU0xtUE5YeWtBcmNaenZlVUU1a0dzcllsMm5ZeVdfSTlZR1hhNlI0ZWc4b3laVUtEeHBFbEw1R1NfSi1ZdWlsdlJtRzZGT1ZPVTk0bEJzNnNsa1JuTEJ4Z3o1blZXbzZPcXB5R3RLZWt0cm1meEEyUg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTY0VU9IM2RTU0xtUE5YeWtBcmNaenZlVUU1a0dzcllsMm5ZeVdfSTlZR1hhNlI0ZWc4b3laVUtEeHBFbEw1R1NfSi1ZdWlsdlJtRzZGT1ZPVTk0bEJzNnNsa1JuTEJ4Z3o1blZXbzZPcXB5R3RLZWt0cm1meEEyUg?oc=5\" target=\"_blank\">OPS, Minsa y la Cooperación Alemana impulsan la innov"
+    },
+    {
       "title": "OPS, Minsa y la Cooperación Alemana al Desarrollo impulsan la innovación digital en inmunizaciones y las competencias digitales para el personal de salud - Pan American Health Organization (PAHO)",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXptalhxSDhya3BYT1E3bmY1Y3R5NTVMeGx2Y0NNb0MxRVRrNFlMR2lCMjhwT2o1VG9VejZRYjRwbUptNm8yZzN1WmdQRmVrUWdkN2FTSUdBU1Bna2E0V2hkaE1TTmFiRnp5a0djYXFfTkFmNVpQbVRpRWdBWGpJWVJVU0VGd2RTM3p3Q0tWSjROWDRWcUE4QjZwdGo5ZzYxcWd3b21FNERHZmxVQU1CcTJ1SFQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 25 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXptalhxSDhya3BYT1E3bmY1Y3R5NTVMeGx2Y0NNb0MxRVRrNFlMR2lCMjhwT2o1VG9VejZRYjRwbUptNm8yZzN1WmdQRmVrUWdkN2FTSUdBU1Bna2E0V2hkaE1TTmFiRnp5a0djYXFfTkFmNVpQbVRpRWdBWGpJWVJVU0VGd2RTM3p3Q0tWSjROWDRWcUE4QjZwdGo5ZzYxcWd3b21FNERHZmxVQU1CcTJ1SFQ?oc=5\" "
-    },
-    {
-      "title": "Tecnología con propósito: cuando la innovación impulsa valor y competitividad - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmJrTU11b0JiRWk4d3dlWEowam40X2tudHY5enJ3NU5yRTM4dVNOSmx2TGo4M1VjWlU3R3lfa3dYZHpfc0FuZzM3UHJJLVdYVDVzSTIwLVFmcTF5cEQ4NGh5THBwLTdSVEVEMTVrUnB1VnRRSk5hTjVIeDdiNGJjUnV6a3lfcmZEMk54ODdMOTV1NGNuWVExUzFzMENxdlc4RHNpSTlnVHRpZ3ljVzdINDVuWlBsTjUz0gHTAUFVX3lxTE1EX1N5RVNGOEJ0YXY5XzRsa2hScFEzRy1zRjc0cmdxajk3NHhrRjhLbGNTdGRRU3ZWN2FHa2R4YVhQN0t4aW9OYjI1aXAtMWFKNWNadnU4MXBnbDZOLUw3VFd1bGpha1ZjSlpzaUVMV3VpR2h6eVluNDZmUHpWQnFKMHBUOFdBVkdkUVdLeWNQNFRVYndBWEhqLW9tNWNDbUVvRmZ5THJXTEpCNUgtWWFqTFVqNlZ6eTB0RjUwXzhwTXFiY2t4cHYyd2JhUU1ObklUZE0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 11 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmJrTU11b0JiRWk4d3dlWEowam40X2tudHY5enJ3NU5yRTM4dVNOSmx2TGo4M1VjWlU3R3lfa3dYZHpfc0FuZzM3UHJJLVdYVDVzSTIwLVFmcTF5cEQ4NGh5THBwLTdSVEVEMTVrUnB1VnRRSk5hTjVIeDdiNGJjUnV6a3lfcmZEMk54ODdMOTV1NGNuWVExUzFzMENxdlc4RHNpSTlnVHRpZ3ljVzdINDVuWlBsTjUz0g"
     }
   ],
   "count": 12
