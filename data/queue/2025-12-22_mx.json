@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Larry Ellison, padre del CEO de Paramount, garantizará la oferta por Warner Bros",
+      "url": "https://expansion.mx/tecnologia/2025/12/22/paramount-quiere-comprar-warner-bros-larry-ellison",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 22 Dec 2025 20:31:55 GMT",
+      "summary": "Esta medida tiene la finalidad de abordar las preocupaciones de Warner en torno a la oferta original de 108,00 mdd por parte de Paramount."
+    },
+    {
+      "title": "En 2025, las big tech cambiaron de bando",
+      "url": "https://expansion.mx/tecnologia/2025/12/22/ia-domino-ano-big-tech-aliaron-poder-conservador-2025",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 22 Dec 2025 19:00:46 GMT",
+      "summary": "Entre lanzamientos de IA, proyectos y cercanía con el gobierno de EU y una regulación más laxa, los tecnólogos cambiaron políticas internas."
+    },
+    {
       "title": "La IA pasó de ser promesa de productividad a amenaza de empleos",
       "url": "https://expansion.mx/tecnologia/2025/12/22/como-la-ia-se-convirtio-en-la-excusa-para-despidos-masivos",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Fri, 19 Dec 2025 18:00:14 GMT",
       "summary": "Pantallas, laptops y celulares y concentran las principales reclamaciones en seguros de hogar, impulsadas por su fragilidad y alto costo de reposición."
-    },
-    {
-      "title": "Ser emprendedor en Silicon Valley fue más difícil en 2025",
-      "url": "https://expansion.mx/tecnologia/2025/12/19/ser-emprendedor-en-silicon-valley-fue-mas-dificil-en-2025",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 19 Dec 2025 11:55:19 GMT",
-      "summary": "El boom del venture capital se desinfló en 2025, pues pasó de tener 357,000 millones de dólares de inversión en 2022 a una caída del 25% en este año."
-    },
-    {
-      "title": "Google y Android ante la CNA, una victoria regulatoria con impacto limitado",
-      "url": "https://expansion.mx/tecnologia/2025/12/18/comision-regulatoria-castiga-google-android",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 18 Dec 2025 21:23:18 GMT",
-      "summary": "El regulador instó a la tecnológica a flexibilizar su sistema operativo, pero deja sin resolver la apertura formal de Android."
     },
     {
       "title": "Se triplicará el gasto en tecnología para 2029 en México: la visión de Dell sobre el impacto en pymes e IA - ITSitio",
