@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "OpenAI lanza una función tipo Wrapped para ChatGPT",
+      "url": "https://expansion.mx/tecnologia/2025/12/23/chatgpt-lanza-wrapped-como-spotify",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 23 Dec 2025 16:05:39 GMT",
+      "summary": "El resumen anual de ChatGPT ya está disponible en la función, aunque no en todo el mundo y levanta las preocupaciones por la privacidad de los usuarios."
+    },
+    {
       "title": "La guía de los impuestos a videojuegos en 2026. Así afectarán tu bolsillo",
       "url": "https://expansion.mx/tecnologia/2025/12/23/2026-playstation-xbox-nintendo-pagaran-impuesto-videojuegos",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Durante los últimos tres años, la industria tech ha recortado miles de empleos; en 2025, el factor común que las grandes compañías señalaron detrás del fenómeno fue la inteligencia artificial."
     },
     {
-      "title": "Una IA toma un negocio real: ofrece descuentos sin control y cae en las trampas de clientes",
-      "url": "https://expansion.mx/tecnologia/2025/12/19/ia-maneja-negocio-real-y-se-sale-de-control",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 19 Dec 2025 22:42:58 GMT",
-      "summary": "La experiencia dejó escenas concretas: precios mal calculados, reglas ignoradas y usuarios que aprendieron a presionar al sistema para obtener beneficios."
-    },
-    {
       "title": "5 formas en que la IA está prediciendo el futuro de la atención médica en México - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjdmZWNCZlNMdFJWVzliWmU3YUhkZTBPb3E3M1JWcHY1UVUtMjR5cFhwdGVxT194TzhqQnpMOXlsU2FFT09xdnZEeTMzTC1PSGtFT0oyMWdxZUJQMFBOU0RGWUFxVC1RMko2QnEyczlwbERydVF1RXFjN3FUYUNSZFp0TGttTlJEdXZNYm1LR19MLTNMRGZZNER5T28xNEphcEtTaHI0QUdBMFBDSF91RGVEYy1NVVZMZFZMMkpKOVpneG1KVmF1aU5fenI?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX25mZjdLVmRIWjFLTGtHUEw3ZG44Um10LUtoVXNQcTRuZjUzQ1YySmtEbHByTXptYnpNbDVWNVhSc01xWlVRUjc3LVFtT3c3OHl4djhKdThPcUYtal8xeWxHc3lIeFhlVGdwY21PcnJQbnMtdEpnUUJPU3c2ZU5saUN0Rzl6azdPQVhfdkNKTDR5a2pFYi1DejlGZzBIbzJ2eGVfT3lPQXZWaTYybVBWa1A0MXlKWE10ZD"
     },
     {
-      "title": "Crea IMSS comisión enfocada a la Inteligencia Artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObl9DcmVRT1BWVlRsRk53cDQta0IwSmYyTkpUVlNUNDBKQVVlTmxTRzcyeEpwQkh3eEtKVTdTNFhSWUZ3UmpHWUh0YlQ5TGlSREZEZEFZdm9MUkI1ZWhNd2xOMFA1N1VVcUpBRWZnUjRpYUVZMHpYT2lBRlpIMnhGWEg4U2VoY3ZWenNIYUZ3RTdxMG1TS3VBUUJoZkJrQXph0gG7AUFVX3lxTE5ocXpUNjVMY0hwRnZmc0tieDhfZXJvcWNMcUkwNUNULWsxZUk0T3V1T1FnMXZrX3N0VTBMc1UyczBFaDBGWGdheHhxSXZzenJpeUdXeUtROUNLd2Z3VEJ1SnR2Q1hRMXIxM0d6UktCZ1FBcUJadTI0dDFRajIxaXJHRWJaLVFXNG4zWDBycVlUYnVJclliUVV4ZFlHWGlrRE8tNDdoTWVKYTBnRlEwdVp5RVAtQWtJdlQySU0?oc=5",
+      "title": "Inteligencia Artificial: Un sector clave por impulsar en México, escribe Julio Alejandro Millán C. - El Universal",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTd6VzdZV0ZuMVBUVUV1bFdpYUwxVzBhX1lvbzVsYXduUVQ3LVpOTHdqVXc3dDZoaE1YdTRhcW9JVnJCR2lQbmJGZFpsdnpuWDRKc3ZuUmt3bFpoVDFaZm4zT1dnQXNYc0pxQ3VjaGhzb1VGbTRCQ21tZml0STJrTnlmRzhTeThnYXQ4N3JfWVdINFUxNmhGV2xjSXNSajVKN2gxc04yUFZ1dFpJVl9ZZWI3VU1HWHd5UjgwdHZ4RVJLUXhjMm5lTDhzMUw1cjdW0gHkAUFVX3lxTE5XSkZWa1NoYzhGMlZlQnZ1b2hNa09WRUFXQ21nTW9MQkxiUXZBR1lhYVM2anpPeGU0bVVOYzZvenB3OUFjMEhGTlIzN2xMV0pJZVlXcU5YRGthSjlDSXo5VHczeXoxejdpb29kRFloZ3c3b2lZQjI3X0hVeFRVbmVVZ0JBamMteUFGMV9oMmtNSnhWd01PeWNOTVlzWkNMcjJkcmxTblA1SktxTjdpcmU2TmdINk9ieFJmTnBEYVBsaVZhQnVuQ1R3RVZmR3dteDJwbTJLZDhpdlRXRGVHWTltZ2o4Mg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 22 Dec 2025 02:26:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObl9DcmVRT1BWVlRsRk53cDQta0IwSmYyTkpUVlNUNDBKQVVlTmxTRzcyeEpwQkh3eEtKVTdTNFhSWUZ3UmpHWUh0YlQ5TGlSREZEZEFZdm9MUkI1ZWhNd2xOMFA1N1VVcUpBRWZnUjRpYUVZMHpYT2lBRlpIMnhGWEg4U2VoY3ZWenNIYUZ3RTdxMG1TS3VBUUJoZkJrQXph0gG7AUFVX3lxTE5ocXpUNjVMY0hwRnZmc0"
+      "published": "Tue, 23 Dec 2025 17:50:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVTd6VzdZV0ZuMVBUVUV1bFdpYUwxVzBhX1lvbzVsYXduUVQ3LVpOTHdqVXc3dDZoaE1YdTRhcW9JVnJCR2lQbmJGZFpsdnpuWDRKc3ZuUmt3bFpoVDFaZm4zT1dnQXNYc0pxQ3VjaGhzb1VGbTRCQ21tZml0STJrTnlmRzhTeThnYXQ4N3JfWVdINFUxNmhGV2xjSXNSajVKN2gxc04yUFZ1dFpJVl9ZZWI3VU1HWHd5Uj"
     },
     {
       "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
