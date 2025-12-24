@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "2025, el año en el que se rompió la confianza digital: \"Los atacantes ya no hackean, inician sesión\"",
+      "url": "https://www.clarin.com/tecnologia/2025-ano-rompio-confianza-digital-atacantes-hackean-inician-sesion_0_LsmHEXYvXb.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Dec 2025 14:50:32 +0000",
+      "summary": "<ul><li>Diversos reportes advierten que el año que se va nos mostró una internet más frágil.</li><li>Referentes como Crowdstrike, Fortinet e IBM explican cómo el robo de credenciales, junto con la IA, bajó la barrera de entrada al cibercrimen.</li><li>Repaso de cifras y un “Wrapped” al estilo Spotif"
+    },
+    {
       "title": "Se filtran los primeros detalles del iPhone 18 Pro y del iPhone Fold, la próxima gran apuesta de Apple",
       "url": "https://www.clarin.com/tecnologia/filtran-primeros-detalles-iphone-18-pro-iphone-fold-proxima-gran-apuesta-apple_0_uuoVwlTEDJ.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>Con el pico de transacciones del comercio electrónico durante las fiestas, los atacantes afinan estrategias para robar datos bancarios y credenciales de usuarios</li><li>Automatización, mercados clandestinos y sitios falsos cada vez más convincentes.</li><li>Cómo evitar caer en la trampa</li"
     },
     {
-      "title": "Andy Kleinman, el talento argentino detrás del nuevo videojuego de fútbol de la FIFA: \"Scaloni lo vio y se entusiasmó mucho\"",
-      "url": "https://www.clarin.com/deportes/andy-kleinman-talento-argentino-detras-nuevo-videojuego-futbol-fifa-scaloni-vio-entusiasmo_0_MmMIhfuB31.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 21 Dec 2025 13:32:39 +0000",
-      "summary": "<ul><li>Es el presidente de Delphi Interactive, que anunció su colaboración con Netflix Games para devolverle al gaming un juego directo del máximo ente mundial.</li><li>Se lo pudo mostrar al entrenador de la Selección Argentina durante el sorteo de los grupos del Mundial 2026.</li></ul>"
-    },
-    {
       "title": "La nueva Inteligencia Artificial que usarán en dos ciudades de Argentina para combatir el crimen - Ambito",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTZFX1lQbmZIUzR5MGhWcDFqY3U1MFpnbkJ5NDJ3WV9CMmQwZlNOZDNsU0lPZTFtaVlRWGdxVnFQNFdNcmZYWC04dHQ4SnJzUDVLVTBWandNa084bmJpclJscS14S3QxeUNjRTBIS3NBbHlNYUVNMzNPSWNkcE1yNVVLbTVkWUFCbUVlOGVUZzhpN3kzcXlNcXIwNUZzZElFVVFOclJBdW9oMThLQU5aLVdVXzFKLURRUThONjVFRDZ4Y21IYkpJ0gHMAUFVX3lxTFAydlJ0VTVrdnJtVVczYUZ5WGMybWJ1dlNuZ0F3YXZ2YmlGWlA0dExvS3dIREw1U0lfR2JrWWJaMDV5RDJQWVRHc1QtMlVxN3ItVzdRdGVZWUVUUmdQUlZkaU9MS1N2TllYT1BTZ3RJZUcwRTNvRzRwT2JGR19PbnF3WDRTQ2NfaEFaYUNBLU0tZjdzOHQ1bHZhSWlUQjh4NGpLTkw3RkRGVG1VeU5yT3FyblBxYzhIUHR2c1QyOVNveVJBbGg2WkZpOVo0bQ?oc=5",
       "source": "Google News",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdm"
     },
     {
-      "title": "La inteligencia artificial reveló hasta dónde llegará Argentina en el Mundial 2026 - Doble Amarilla",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXU3RGlVLTQxMnoycXh0QkJqbDF1NmhGT1ByQlA1LXVIalNLdVFYVHo3c2RyWXdfd0h1RFFQMDhqT01GWGs1R2FGS05Ua3R4WFNpTnJWSmRIZEpxaXBYOUZoVkFwOWJCMW9heXJoQ0JKZUVGMGtac2pVcnhUS1R2Z3ZBcjl1ZkdmZnNmWWZPM1oyMzlTdk5nTml0VklkcnBKMzVvMFRRZjNKdW9uMFRvVC1EYTdyd1ZxM0tNSjQyLUpvQzhZUFR1VzdDSHRvU2VKREhlendNazRtTzNZdURDWFBKUkFRa01w0gH3AUFVX3lxTE9GWmpnRmppNVZKR00wekVoc1h0cnpJZXQxQVYwdnhwZ1RfdFUwdjhmdERFVmxtVTdVaWlDZHBJQV91U1NHeFlSQ01xWFljeWF0RWNvajMyU0g0WjVXQkFTbEs4TGVzcTVGRmd5T1lDQlY1bjlBbmstS2N3X25wa2tJRHpmRkFyaGJ6Z1Rkc3YxTGk1bk1fdmduNHU1cnVfSWVscV9PMmFoLWhMRU50WVBScXQtZlVXLTQ2ZzNaV1M4QWpVX2RuUjN1R2VUdkx2YmxlbjNieTFWYS15YlBVU2Y3Ulg2anozZVR0b2RfdWU5bm9Qa1J0SjQ?oc=5",
+      "title": "La inteligencia artificial gana terreno en hospitales de Argentina y abre debates éticos - TRT Español",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWhYM005dTlfYko0T1Q5OHhqWTNyRy16Y1RDNndRSm92ODBJR3U4M0dpMHdfaWhPZ3haaVlXcUcxSzBZTEdDWEk4RlZ5VnVtWHdpR1pTX0xqSnfSAWBBVV95cUxQZ2JhbmNnYXZMT0FzZXRaT2ZWYVcyRVhmal9WNFpiUFFZajFwcTQtbTJKUTlveDEtZk55bllBc0lBcnYyU3RaVVdUOVQzWFFVWGlVRjQzQ1F4Qjh0X0hpcTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Dec 2025 11:41:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXU3RGlVLTQxMnoycXh0QkJqbDF1NmhGT1ByQlA1LXVIalNLdVFYVHo3c2RyWXdfd0h1RFFQMDhqT01GWGs1R2FGS05Ua3R4WFNpTnJWSmRIZEpxaXBYOUZoVkFwOWJCMW9heXJoQ0JKZUVGMGtac2pVcnhUS1R2Z3ZBcjl1ZkdmZnNmWWZPM1oyMzlTdk5nTml0VklkcnBKMzVvMFRRZjNKdW9uMFRvVC1EYTdyd1ZxM0"
-    },
-    {
-      "title": "Llega a Buenos Aires una app con IA para reparaciones del hogar creada por tres amigos argentinos formados en Silicon Valley - Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEZZRWZQVWRDVDl0VUF3YVhPX1JGMGZBM241bnBKWS0wYVBHRW52TVNJbG1HRG0wc1RfZ08yU1Vnck01eHluc2ZNN0RFcDhBdkxiZWVzem9YOVRHQmh2UWJFZ0R4ZGNNeHZaTkZHTGxXTDhPVXJnbUQ3UmVHM2RsX2F1N1JZd0dXbHF3aE1pcjFOVDZ3Si1ZRkRiNTZRcF8zUE81cXJJY29xR0lRa2JkQ0dSazllR3RTRndESEFXVlhNM1g0RmY3YkgtRmpyQ3VzNXc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Dec 2025 09:01:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEZZRWZQVWRDVDl0VUF3YVhPX1JGMGZBM241bnBKWS0wYVBHRW52TVNJbG1HRG0wc1RfZ08yU1Vnck01eHluc2ZNN0RFcDhBdkxiZWVzem9YOVRHQmh2UWJFZ0R4ZGNNeHZaTkZHTGxXTDhPVXJnbUQ3UmVHM2RsX2F1N1JZd0dXbHF3aE1pcjFOVDZ3Si1ZRkRiNTZRcF8zUE81cXJJY29xR0lRa2JkQ0dSazllR3RTRn"
+      "published": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWhYM005dTlfYko0T1Q5OHhqWTNyRy16Y1RDNndRSm92ODBJR3U4M0dpMHdfaWhPZ3haaVlXcUcxSzBZTEdDWEk4RlZ5VnVtWHdpR1pTX0xqSnfSAWBBVV95cUxQZ2JhbmNnYXZMT0FzZXRaT2ZWYVcyRVhmal9WNFpiUFFZajFwcTQtbTJKUTlveDEtZk55bllBc0lBcnYyU3RaVVdUOVQzWFFVWGlVRjQzQ1F4Qjh0X0"
     },
     {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Wed, 13 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
+    },
+    {
+      "title": "Llega a Buenos Aires una app con IA para reparaciones del hogar creada por tres amigos argentinos formados en Silicon Valley - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEZZRWZQVWRDVDl0VUF3YVhPX1JGMGZBM241bnBKWS0wYVBHRW52TVNJbG1HRG0wc1RfZ08yU1Vnck01eHluc2ZNN0RFcDhBdkxiZWVzem9YOVRHQmh2UWJFZ0R4ZGNNeHZaTkZHTGxXTDhPVXJnbUQ3UmVHM2RsX2F1N1JZd0dXbHF3aE1pcjFOVDZ3Si1ZRkRiNTZRcF8zUE81cXJJY29xR0lRa2JkQ0dSazllR3RTRndESEFXVlhNM1g0RmY3YkgtRmpyQ3VzNXc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Dec 2025 09:01:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEZZRWZQVWRDVDl0VUF3YVhPX1JGMGZBM241bnBKWS0wYVBHRW52TVNJbG1HRG0wc1RfZ08yU1Vnck01eHluc2ZNN0RFcDhBdkxiZWVzem9YOVRHQmh2UWJFZ0R4ZGNNeHZaTkZHTGxXTDhPVXJnbUQ3UmVHM2RsX2F1N1JZd0dXbHF3aE1pcjFOVDZ3Si1ZRkRiNTZRcF8zUE81cXJJY29xR0lRa2JkQ0dSazllR3RTRn"
     },
     {
       "title": "OPS y la Universidad del Hospital Italiano de Buenos Aires cierran curso regional con diálogo sobre IA, educación y salud - Pan American Health Organization (PAHO)",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVl9hek5aRjV0RV9NbTZCUWFVc0dkYVF1MWlQNW5vckxZOTV3WWhjNkJkSHNadkhBYW1BV1daRmtjVVNHbXdPTm1Nd3UydUJMNWRPWlBxRXltYXdaUGNLMkRxcndfSkhLdVlENWh1S3hVLUZKRmkwcjJqay1MM3ZwSV9TSDFwSkpjLUZtaHRXUk9SNHByQzBDUFlsWQ?oc=5\" target=\"_blank\">Convocatoria fina"
     },
     {
-      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 23 Dec 2025 17:26:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
-    },
-    {
       "title": "Convocatoria financiamiento startups: hasta USD 500.000 Argentina - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkx2Sjg0V0M0aFh2a0xBdlVvbDRxQjBZZ0p4S2ZIclV6MnVXY05uMkFtYzRDSEpKRl8zWXNvUkh5bFEybGRQd05NTlh4OHB6bjNnVDRBYU1YZnd5dzUwLWJRRFRrYXN6ZnBxLS1ES2psY09MNkpSczlGS0xQQTRtaWJfYzdtbGxMRm03R0RqSVk2Zm1UQ21rOWFNQQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 21 Dec 2025 23:47:40 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkx2Sjg0V0M0aFh2a0xBdlVvbDRxQjBZZ0p4S2ZIclV6MnVXY05uMkFtYzRDSEpKRl8zWXNvUkh5bFEybGRQd05NTlh4OHB6bjNnVDRBYU1YZnd5dzUwLWJRRFRrYXN6ZnBxLS1ES2psY09MNkpSczlGS0xQQTRtaWJfYzdtbGxMRm03R0RqSVk2Zm1UQ21rOWFNQQ?oc=5\" target=\"_blank\">Convocatoria fina"
+    },
+    {
+      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 23 Dec 2025 17:26:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
     }
   ],
   "count": 14

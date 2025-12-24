@@ -3,6 +3,14 @@
   "country": "pe",
   "articles": [
     {
+      "title": "El nuevo escudo digital en Perú: Cómo la IA hace frente al auge de ciberataques - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWlzbnJDZGJab0NOeURKQ3Z0QnpVQk5XUjJLRG5nZEJsMGl1Sk95OEJXOVd4ekFFVktELUU0dU5VYXVlYldHRERXVExCMHlxaXNEQ1pqYWpTV2JuampBSmpXYXhrd0xIZVN6OHp2VWxhSTNGZllKaWNnV1BEVDJYYllsSnRjbzh2Snh4UmE5S0oyTnBKZTFsbEVXeFJfc2RGWEZSMWFxeWpjMmY5WFpTQjJ5WQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Dec 2025 15:32:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQMWlzbnJDZGJab0NOeURKQ3Z0QnpVQk5XUjJLRG5nZEJsMGl1Sk95OEJXOVd4ekFFVktELUU0dU5VYXVlYldHRERXVExCMHlxaXNEQ1pqYWpTV2JuampBSmpXYXhrd0xIZVN6OHp2VWxhSTNGZllKaWNnV1BEVDJYYllsSnRjbzh2Snh4UmE5S0oyTnBKZTFsbEVXeFJfc2RGWEZSMWFxeWpjMmY5WFpTQjJ5WQ?oc=5\" t"
+    },
+    {
       "title": "Mapa regulatorio de la inteligencia artificial en Perú - Garrigues",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWUwQTVSS3plNHcyZ1dfSS1JWVQtdnZBN2VHNHBsZEp2TlRhQWFjaUhMcWllRU1ZWExVajJhOUNBSmdpdllUbXZqdzViUngzNGdOd0w3enJaWV9KLTBsSzlfcEJzZjFzanAwa3NSQ2dxZk5EajBqVVdxV0hUUWg1ekJCazJGRG8yU0lFZl9B?oc=5",
       "source": "Google News",
@@ -17,14 +25,6 @@
       "category": "news",
       "published": "Tue, 09 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPOHVsX1pCMUNKQWRsTGo5Vzdab1VBVkhBOG1rTEpkR2RwVEhtX2VGRFBoUS1VQi1qeTd2Sl9nZUdEWF9hSTJ6TEpNeExQbUd0RUZJaDdnMWFvUFA2TGtKaS1QMzFtVE0tZE0yNVN1RFVJYVhLQkRrcjAwcVVBMXVYQnRETEdFbkdZSklTR2JlcDZZN2RqaEVZd0xnUFhfSG1LZENfNHZnSUUzTHhZNjFZajhWbnBUXzF3ZW"
-    },
-    {
-      "title": "Agentes IA ya son una realidad en Perú: esta es la hoja de ruta de Microsoft para 2026 - Gestión",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZW9zODE5Ulhpa3NwMklHNG14SVJYOEtMQlN6Zmp2OFBUNHNLZUxOQ1dKXzNJRXBldEpNTE4xb2txTE5oeXF5UUwyalRKaVc4OFBSOW9iWndFOEFlbEpiaTNPa0NEeDRKN09ESDVBZHVoSmxjdUU3NXpjdFdvWkRjYTdCTld5SVk4M0htcjF6a0ZXRnFoNzBWMUV6ekw3WGE2N2NGdFdjTFZuYWVOOEc1VG5xNElVbkNQWnZ2Sk5VSVppczNjdU1mWFlB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Dec 2025 10:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZW9zODE5Ulhpa3NwMklHNG14SVJYOEtMQlN6Zmp2OFBUNHNLZUxOQ1dKXzNJRXBldEpNTE4xb2txTE5oeXF5UUwyalRKaVc4OFBSOW9iWndFOEFlbEpiaTNPa0NEeDRKN09ESDVBZHVoSmxjdUU3NXpjdFdvWkRjYTdCTld5SVk4M0htcjF6a0ZXRnFoNzBWMUV6ekw3WGE2N2NGdFdjTFZuYWVOOEc1VG5xNElVbkNQWn"
     },
     {
       "title": "IA: Inteligencia Actoral frente a la Inteligencia Artificial - Lima Gris",
@@ -67,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSlV5MlJjQU53XzdQLVI4eU5ISEx4T3BIV0RjUWdtZDduY01Ja1dlUmJNSzVWREZUNjhjV0VKdkNtSzBZRldXT2NLVWtEV2oxdnREMWRlWHYteTVrRXpLV2tRMDlXNUZ2aklacTF0N1dlZXpKMl94NW05NmFBSkxxVmxfcGZ1NGJJUlJab3NFdnBmNWJ5djZnT2tUeWk0aDFyRmdJMmZSQUFzVzQwQXJZ?oc=5\" target="
     },
     {
-      "title": "Herramientas tecnológicas y startups ayudan a los emprendedores a incrementar sus ventas - Business Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUR3RTZLRTdlejU4MFFCZmp1NHcxbnBicDJtSDNrc1N2akJuWUwzZzZxejkyWlRlR3gtdDNMaWx0bEgwU1h3RGZkOEV1WDlIS0pOYXlSXzhxVFhjTFVUZm96S2VZNnZVcVE4MUkzRVI2NmdoYVhKWXZxUDJQcHVpaXZ3b3RsT2xxNnZRRWEzdUFEU2VwVndKa3llVzVfb19TOENHZWR6SkV2QXYySlNZZ2l4dE5ITWhOU3Q3SjNWRlFqLWpleDJv?oc=5",
+      "title": "Navidad 2025: herramientas tecnológicas y startups que ayudan a emprendedores a incrementar sus ventas - El Comercio Perú",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0tDUm1uMFA4bWkwbjNzRWc3WUZhUUJIczhuc09kQUczYnRGZHUzOW0zSm9RRnRod25SWWduMTVXUUVfNnM4RjBYNEdWUmFGNUJRcVZPbjhHUjc5ZGJBMVRTQnh3cVh4NFloWGV1elJ3YnhERGxqSkVGQVd0emNOVmI3c24wRm9hV0lnbllFTlkxNVR2MFp5QWhCelVueTNsNktjUm9tTkt2MHNOY3lEcTNkSUFwWWJ3SHFfVmxQOUlMUGVfam1nNHg0dWxOdHRYTmdGaUFxRkdXWlhMYUZqTw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 18 Dec 2025 22:59:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUR3RTZLRTdlejU4MFFCZmp1NHcxbnBicDJtSDNrc1N2akJuWUwzZzZxejkyWlRlR3gtdDNMaWx0bEgwU1h3RGZkOEV1WDlIS0pOYXlSXzhxVFhjTFVUZm96S2VZNnZVcVE4MUkzRVI2NmdoYVhKWXZxUDJQcHVpaXZ3b3RsT2xxNnZRRWEzdUFEU2VwVndKa3llVzVfb19TOENHZWR6SkV2QXYySlNZZ2l4dE5ITWhOU3"
+      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0tDUm1uMFA4bWkwbjNzRWc3WUZhUUJIczhuc09kQUczYnRGZHUzOW0zSm9RRnRod25SWWduMTVXUUVfNnM4RjBYNEdWUmFGNUJRcVZPbjhHUjc5ZGJBMVRTQnh3cVh4NFloWGV1elJ3YnhERGxqSkVGQVd0emNOVmI3c24wRm9hV0lnbllFTlkxNVR2MFp5QWhCelVueTNsNktjUm9tTkt2MHNOY3lEcTNkSUFwWWJ3SH"
     },
     {
       "title": "Innovación tecnológica en Perú: avances en la era digital - VIU España",
@@ -83,20 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVdOQjAtN3lHekJkV3dsWElkS2pqQllIcjBqSUhfWkZhSXJyY0lfdGFZMGNqZ2pCREpocUphZV95NG1Ma204dDFjSnl3QlN3SEtGT2pjM3dtV1FCbHNNWVM5bVN0LV9JMDBfaTZPVGItR0F1YXZZX0JvUU9sVHlISS1GNDRuR2hnSWRSSEdOZnhzZ0hZVm42Y3RJMUhORjdnc0lvcEh2d0I0QktBcmJBaHJBMFpBa21oNX"
     },
     {
-      "title": "OPS, Minsa y la Cooperación Alemana impulsan la innovación digital en inmunizaciones y competencias en salud - consultorsalud",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTY0VU9IM2RTU0xtUE5YeWtBcmNaenZlVUU1a0dzcllsMm5ZeVdfSTlZR1hhNlI0ZWc4b3laVUtEeHBFbEw1R1NfSi1ZdWlsdlJtRzZGT1ZPVTk0bEJzNnNsa1JuTEJ4Z3o1blZXbzZPcXB5R3RLZWt0cm1meEEyUg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTY0VU9IM2RTU0xtUE5YeWtBcmNaenZlVUU1a0dzcllsMm5ZeVdfSTlZR1hhNlI0ZWc4b3laVUtEeHBFbEw1R1NfSi1ZdWlsdlJtRzZGT1ZPVTk0bEJzNnNsa1JuTEJ4Z3o1blZXbzZPcXB5R3RLZWt0cm1meEEyUg?oc=5\" target=\"_blank\">OPS, Minsa y la Cooperación Alemana impulsan la innov"
-    },
-    {
       "title": "OPS, Minsa y la Cooperación Alemana al Desarrollo impulsan la innovación digital en inmunizaciones y las competencias digitales para el personal de salud - Pan American Health Organization (PAHO)",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXptalhxSDhya3BYT1E3bmY1Y3R5NTVMeGx2Y0NNb0MxRVRrNFlMR2lCMjhwT2o1VG9VejZRYjRwbUptNm8yZzN1WmdQRmVrUWdkN2FTSUdBU1Bna2E0V2hkaE1TTmFiRnp5a0djYXFfTkFmNVpQbVRpRWdBWGpJWVJVU0VGd2RTM3p3Q0tWSjROWDRWcUE4QjZwdGo5ZzYxcWd3b21FNERHZmxVQU1CcTJ1SFQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 25 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXptalhxSDhya3BYT1E3bmY1Y3R5NTVMeGx2Y0NNb0MxRVRrNFlMR2lCMjhwT2o1VG9VejZRYjRwbUptNm8yZzN1WmdQRmVrUWdkN2FTSUdBU1Bna2E0V2hkaE1TTmFiRnp5a0djYXFfTkFmNVpQbVRpRWdBWGpJWVJVU0VGd2RTM3p3Q0tWSjROWDRWcUE4QjZwdGo5ZzYxcWd3b21FNERHZmxVQU1CcTJ1SFQ?oc=5\" "
+    },
+    {
+      "title": "Tecnología con propósito: cuando la innovación impulsa valor y competitividad - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmJrTU11b0JiRWk4d3dlWEowam40X2tudHY5enJ3NU5yRTM4dVNOSmx2TGo4M1VjWlU3R3lfa3dYZHpfc0FuZzM3UHJJLVdYVDVzSTIwLVFmcTF5cEQ4NGh5THBwLTdSVEVEMTVrUnB1VnRRSk5hTjVIeDdiNGJjUnV6a3lfcmZEMk54ODdMOTV1NGNuWVExUzFzMENxdlc4RHNpSTlnVHRpZ3ljVzdINDVuWlBsTjUz0gHTAUFVX3lxTE1EX1N5RVNGOEJ0YXY5XzRsa2hScFEzRy1zRjc0cmdxajk3NHhrRjhLbGNTdGRRU3ZWN2FHa2R4YVhQN0t4aW9OYjI1aXAtMWFKNWNadnU4MXBnbDZOLUw3VFd1bGpha1ZjSlpzaUVMV3VpR2h6eVluNDZmUHpWQnFKMHBUOFdBVkdkUVdLeWNQNFRVYndBWEhqLW9tNWNDbUVvRmZ5THJXTEpCNUgtWWFqTFVqNlZ6eTB0RjUwXzhwTXFiY2t4cHYyd2JhUU1ObklUZE0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 11 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmJrTU11b0JiRWk4d3dlWEowam40X2tudHY5enJ3NU5yRTM4dVNOSmx2TGo4M1VjWlU3R3lfa3dYZHpfc0FuZzM3UHJJLVdYVDVzSTIwLVFmcTF5cEQ4NGh5THBwLTdSVEVEMTVrUnB1VnRRSk5hTjVIeDdiNGJjUnV6a3lfcmZEMk54ODdMOTV1NGNuWVExUzFzMENxdlc4RHNpSTlnVHRpZ3ljVzdINDVuWlBsTjUz0g"
     }
   ],
   "count": 12

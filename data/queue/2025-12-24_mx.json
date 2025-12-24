@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Esta Navidad, empleados tech evitan viajar por miedo a perder la visa",
-      "url": "https://expansion.mx/tecnologia/2025/12/24/politicas-eu-grinch-navidad-apple-google-empleados-visas-h1b",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 24 Dec 2025 13:00:26 GMT",
-      "summary": "Este año, las fechas decembrinas serán diferentes para los empleados tech extranjeros en EU debido a las nuevas medidas en torno a las visas H-1B."
-    },
-    {
       "title": "La industria de data centers sufrirá por energía en 2026",
       "url": "https://expansion.mx/tecnologia/2025/12/23/data-centers-mexico-tienen-reto-2026",
       "source": "Expansión Tecnología",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Mon, 22 Dec 2025 20:31:55 GMT",
       "summary": "Esta medida tiene la finalidad de abordar las preocupaciones de Warner en torno a la oferta original de 108,00 mdd por parte de Paramount."
+    },
+    {
+      "title": "En 2025, las big tech cambiaron de bando",
+      "url": "https://expansion.mx/tecnologia/2025/12/22/ia-domino-ano-big-tech-aliaron-poder-conservador-2025",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 22 Dec 2025 19:00:46 GMT",
+      "summary": "Entre lanzamientos de IA, proyectos y cercanía con el gobierno de EU y una regulación más laxa, los tecnólogos cambiaron políticas internas."
     },
     {
       "title": "Inteligencia Artificial: Un sector clave por impulsar en México - El Mañana de Reynosa",
