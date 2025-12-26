@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Predicciones de ciberseguridad 2026. La IA entra al juego y SaaS pierde terreno",
+      "url": "https://expansion.mx/tecnologia/2025/12/26/2026-ciberseguridad-punto-de-quiebre",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Dec 2025 18:00:38 GMT",
+      "summary": "Mientras los ciberataques se vuelven más sofisticados, la defensa predictiva con IA se vuelve clave para la resiliencia digital."
+    },
+    {
+      "title": "Nvidia acumula poder con la compra de activos de Groq, su rival en chips de IA",
+      "url": "https://expansion.mx/tecnologia/2025/12/26/nvidia-acumula-poder-con-compra-de-groq",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Dec 2025 16:00:08 GMT",
+      "summary": "La empresa de Jensen Huang adquirió a la startup por 20,000 millones de dólares consolidando su poder en la industria de componentes para IA."
+    },
+    {
+      "title": "CES 2026: más IA, robots y nuevas fuentes de energía",
+      "url": "https://expansion.mx/tecnologia/2025/12/26/ces-2026-las-vegas-tendencias",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Dec 2025 13:00:29 GMT",
+      "summary": "Para esta edición de la feria más grande de tecnología, las tendencias más relevantes de la industria, una vez más, están relacionadas a la IA."
+    },
+    {
       "title": "Esta Navidad, empleados tech evitan viajar por miedo a perder la visa",
       "url": "https://expansion.mx/tecnologia/2025/12/24/politicas-eu-grinch-navidad-apple-google-empleados-visas-h1b",
       "source": "Expansión Tecnología",
@@ -19,30 +43,6 @@
       "summary": "Uno de los cuellos de botella que existe en la infraestructura de centros de datos es la capacidad energética que existe en la actualidad."
     },
     {
-      "title": "OpenAI lanza una función tipo Wrapped para ChatGPT",
-      "url": "https://expansion.mx/tecnologia/2025/12/23/chatgpt-lanza-wrapped-como-spotify",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 23 Dec 2025 16:05:39 GMT",
-      "summary": "El resumen anual de ChatGPT ya está disponible en la función, aunque no en todo el mundo y levanta las preocupaciones por la privacidad de los usuarios."
-    },
-    {
-      "title": "La guía de los impuestos a videojuegos en 2026. Así afectarán tu bolsillo",
-      "url": "https://expansion.mx/tecnologia/2025/12/23/2026-playstation-xbox-nintendo-pagaran-impuesto-videojuegos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 23 Dec 2025 13:00:17 GMT",
-      "summary": "México aplicará un IEPS del 8% a videojuegos violentos en físico y digital, incluyendo contenido descargable y suscripciones. La medida entrará en vigor el 1 de enero de 2026."
-    },
-    {
-      "title": "Larry Ellison, padre del CEO de Paramount, garantizará la oferta por Warner Bros",
-      "url": "https://expansion.mx/tecnologia/2025/12/22/paramount-quiere-comprar-warner-bros-larry-ellison",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 22 Dec 2025 20:31:55 GMT",
-      "summary": "Esta medida tiene la finalidad de abordar las preocupaciones de Warner en torno a la oferta original de 108,00 mdd por parte de Paramount."
-    },
-    {
       "title": "Inteligencia artificial y logística: ¿Qué tendencias esperan a las empresas en 2026? - THE LOGISTICS WORLD",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEVRejluMFI5N0ZoLTVaTjExTFd2SmRVa19DcWdWdFpEWDdVRlZuNVBJNm5MS3hiSHJXTDhUNFBmc0E0cDhlVWZXTlhqNklscGRwQnJua2ZzWjhWdEJzYkVRbncyM0pacmRMMnNOWWdfNTNkQmhOWGZGb3JaWFVxbVc4UTdLLVlTR1RwWG0yTkphVlRURHJOejB1YkVvUDVKYjJPTmZSc01qbndjT2JPa29NTEVKTWZNNzgxS19KRXRRdw?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdEVRejluMFI5N0ZoLTVaTjExTFd2SmRVa19DcWdWdFpEWDdVRlZuNVBJNm5MS3hiSHJXTDhUNFBmc0E0cDhlVWZXTlhqNklscGRwQnJua2ZzWjhWdEJzYkVRbncyM0pacmRMMnNOWWdfNTNkQmhOWGZGb3JaWFVxbVc4UTdLLVlTR1RwWG0yTkphVlRURHJOejB1YkVvUDVKYjJPTmZSc01qbndjT2JPa29NTEVKTWZNNz"
     },
     {
+      "title": "Inteligencia artificial: Un sector clave por impulsar en México - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZE5KY1BhTmU2RjBJQVRDLTFxc3hjN3gxVS1Yem9Ga29tWjlENTkzZjhjekN4b0JnX1p3RVo3aU12VG85dThGYlJVOGJLY0FxZlJBZjAxQ0J2U3dScmtKMEQwUjMyRzJyeU9QVzczWlJVaDQ4NEluNXRLTWNtUnd2X094UmFiaW50YUIyWkxZVGNualJ2T2ZfTGQ0U3hzVXBuMHhUYkRZTTZhRFR3WWV6cHN2NmZQc2N0d0dKZ1d3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 19:39:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZE5KY1BhTmU2RjBJQVRDLTFxc3hjN3gxVS1Yem9Ga29tWjlENTkzZjhjekN4b0JnX1p3RVo3aU12VG85dThGYlJVOGJLY0FxZlJBZjAxQ0J2U3dScmtKMEQwUjMyRzJyeU9QVzczWlJVaDQ4NEluNXRLTWNtUnd2X094UmFiaW50YUIyWkxZVGNualJ2T2ZfTGQ0U3hzVXBuMHhUYkRZTTZhRFR3WWV6cHN2NmZQc2N0d0"
+    },
+    {
       "title": "Congreso de Coahuila buscará castigar el uso de inteligencia artificial para crear imágenes falsas - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlRVai0zVlVzbDV4dlFFcnc4V2hGSGhyTzQ4MU1zbmtSZldHUHJfeGxCVGVPT2lJc0Fwc3BBYUg3cFdEcU85YnYtdVRIU0VoMnNtY1BrQ1djSEVXZXhaX1kzS3FnbXQwU1hkck5tWU1YMG0yblRfMFotenQtR3ZqOHNleDVwOEJ4MGdYN3BpZThhTWtvZHBhRXJCdFcta2Z5dWFrMkdHZHpBQVFJVGd2U1IwX0dJQTVMU0s1REt2SnFKekVQVVBGdWRSZ2xRR01xYVpkZUowSlDSAfMBQVVfeXFMT2RpaS1WS21pT3ViYzNfYmlTSXRTWmdudl81YmNVNk5qaFR1UzVsaGhQMFNaVkpIczc0SDEwQlN5QkVReTVmSG92TXRWd2FBYzhOcFZQOUF1Qm1uX0NRN0tDZEJiQWZjem9BYTNiSlRockc0VjNxTEc4TVNRQVpkNGhOMTlBMjN3MTByWGhjYWZOWlZSZUNRbG5XdXk0WklMaE9pbGtxcngwWDd6NU9oMU1qMFNMRU84eEtTTjN6d0JhSEppbl9iU0RzLUc0cHZIOVhRUjBTU3Q2R0d4aUFVaTJOakgyUk9TSkxidDNkSEFYM0pB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 25 Dec 2025 15:09:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdlRVai0zVlVzbDV4dlFFcnc4V2hGSGhyTzQ4MU1zbmtSZldHUHJfeGxCVGVPT2lJc0Fwc3BBYUg3cFdEcU85YnYtdVRIU0VoMnNtY1BrQ1djSEVXZXhaX1kzS3FnbXQwU1hkck5tWU1YMG0yblRfMFotenQtR3ZqOHNleDVwOEJ4MGdYN3BpZThhTWtvZHBhRXJCdFcta2Z5dWFrMkdHZHpBQVFJVGd2U1IwX0dJQTVMU0"
-    },
-    {
-      "title": "5 formas en que la IA está prediciendo el futuro de la atención médica en México - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjdmZWNCZlNMdFJWVzliWmU3YUhkZTBPb3E3M1JWcHY1UVUtMjR5cFhwdGVxT194TzhqQnpMOXlsU2FFT09xdnZEeTMzTC1PSGtFT0oyMWdxZUJQMFBOU0RGWUFxVC1RMko2QnEyczlwbERydVF1RXFjN3FUYUNSZFp0TGttTlJEdXZNYm1LR19MLTNMRGZZNER5T28xNEphcEtTaHI0QUdBMFBDSF91RGVEYy1NVVZMZFZMMkpKOVpneG1KVmF1aU5fenI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 23 Dec 2025 12:00:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjdmZWNCZlNMdFJWVzliWmU3YUhkZTBPb3E3M1JWcHY1UVUtMjR5cFhwdGVxT194TzhqQnpMOXlsU2FFT09xdnZEeTMzTC1PSGtFT0oyMWdxZUJQMFBOU0RGWUFxVC1RMko2QnEyczlwbERydVF1RXFjN3FUYUNSZFp0TGttTlJEdXZNYm1LR19MLTNMRGZZNER5T28xNEphcEtTaHI0QUdBMFBDSF91RGVEYy1NVVZMZF"
     },
     {
       "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
     },
     {
-      "title": "Una IA para escuchar mejor: innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 26 Dec 2025 07:27:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: innovació"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
