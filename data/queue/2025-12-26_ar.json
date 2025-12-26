@@ -1,0 +1,119 @@
+{
+  "date": "2025-12-26",
+  "country": "ar",
+  "articles": [
+    {
+      "title": "Una empresa de dos argentinos recuperó un millón de dólares de uno de los robos cripto del año",
+      "url": "https://www.clarin.com/tecnologia/empresa-argentinos-recupero-millon-dolares-robos-cripto-ano_0_PELRipmguu.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Dec 2025 08:46:00 +0000",
+      "summary": "<ul><li>El ataque afectó a Balancer, una de las principales plataformas DeFi de Ethereum.</li><li>Explotaron un error técnico casi imperceptible que pasó varias auditorías.</li><li>Un sistema de monitoreo permitió recuperar fondos antes de que fueran robados.</li></ul>"
+    },
+    {
+      "title": "De Napster a la IA: la descarga del catálogo de Spotify abrió a un nuevo debate por quién controla la música del mundo",
+      "url": "https://www.clarin.com/tecnologia/napster-ia-descarga-catalogo-spotify-abrio-nuevo-debate-controla-musica-mundo_0_qg2AOz8tJ8.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 25 Dec 2025 08:45:50 +0000",
+      "summary": "<ul><li>Anna’s Archive, conocido sitio de descargas de libros, subió 86 millones de canciones en un torrent de 300TB.</li><li>Los temas musicales pueden ser usados para entrenar modelos de inteligencia artificial como Suno.</li><li>La preservación cultural, bajo la mirada de tres expertos.</li></ul>"
+    },
+    {
+      "title": "2025, el año en el que se rompió la confianza digital: \"Los atacantes ya no hackean, inician sesión\"",
+      "url": "https://www.clarin.com/tecnologia/2025-ano-rompio-confianza-digital-atacantes-hackean-inician-sesion_0_LsmHEXYvXb.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Dec 2025 14:50:32 +0000",
+      "summary": "<ul><li>Diversos reportes advierten que el año que se va nos mostró una internet más frágil.</li><li>Referentes como Crowdstrike, Fortinet e IBM explican cómo el robo de credenciales, junto con la IA, bajó la barrera de entrada al cibercrimen.</li><li>Repaso de cifras y un “Wrapped” al estilo Spotif"
+    },
+    {
+      "title": "Se filtran los primeros detalles del iPhone 18 Pro y del iPhone Fold, la próxima gran apuesta de Apple",
+      "url": "https://www.clarin.com/tecnologia/filtran-primeros-detalles-iphone-18-pro-iphone-fold-proxima-gran-apuesta-apple_0_uuoVwlTEDJ.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Dec 2025 08:45:38 +0000",
+      "summary": "<ul><li>Imágenes de diseño y datos de la cadena de suministro anticipan cómo serían el nuevo tope de gama y el primer celular plegable de la compañía. </li><li>Los cambios apuntan a nuevos formatos, pantallas más protagonistas y una revisión profunda del diseño frontal.</li></ul>"
+    },
+    {
+      "title": "La función oculta de Gmail para cancelar suscripciones y limpiar la bandeja de entrada, fácil y rápido",
+      "url": "https://www.clarin.com/tecnologia/funcion-oculta-gmail-cancelar-suscripciones-limpiar-bandeja-entrada-facil-rapido_0_QpseMNDVJy.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 23 Dec 2025 08:45:29 +0000",
+      "summary": "<ul><li>El servicio de correo electrónico incorporó una herramienta que permite ver todas las suscripciones activas y cancelarlas desde un solo lugar. </li><li>La función busca reducir promociones y newsletters acumuladas sin tener que abrir cada correo.</li></ul>"
+    },
+    {
+      "title": "La Inteligencia Artificial del 2026 - Página|12",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXpxMU9kQzA4NmszYnZQSzQxUkRLdkpmRXlsWk9aZUlON3pjY3NObmxsekNsT1lsS3o5eVc0YlFxNnhOWHVTUHJCSmF2dVpiTDVwSGRFSWozeHZBUnBJdlh1Z1JzcmhidlgxRVRFa3hPYTdCVXRqbGkwQmhwWkh2QQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 25 Dec 2025 22:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXpxMU9kQzA4NmszYnZQSzQxUkRLdkpmRXlsWk9aZUlON3pjY3NObmxsekNsT1lsS3o5eVc0YlFxNnhOWHVTUHJCSmF2dVpiTDVwSGRFSWozeHZBUnBJdlh1Z1JzcmhidlgxRVRFa3hPYTdCVXRqbGkwQmhwWkh2QQ?oc=5\" target=\"_blank\">La Inteligencia Artificial del 2026</a>&nbsp;&nbsp;<f"
+    },
+    {
+      "title": "La Inteligencia Artificial redefine el empleo tecnológico en Latinoamérica: México lidera, Argentina se estanca y Perú acelera - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdmxyOHM2R3d0NVQwNHdkaG9lWUdrVWR2TGVpN19BLXFJcWEwZm5GcHdKRFpQWFhFNGhtMTRqZVdMVE9QNzVFblBwUzFsd9IBmAJBVV95cUxQVVdtNkQxVXNxdFYtYnZsZUxXTGhSaWRvWExvZDZLMEVRakNONW82QUpxQUVLOTJRQ01sYW11Nmx1T1hkWVZ0Vkg3YmxZTEJqQ2Q4RmNNVi1fOUU1RVFzNlA4S0hDY2NUdTN4b2xUajRjbVotTUg5UEs0ajk2aGRldVZLTTFUS29xbkpvWGlnQUpFME9SVmRCODQ3MHRZRUVsNmg4cTEtUWZRX2UtWDhfSE8tR0V6aE9ocF9YLUZHUldSenZmOU9WckZlb0pfQWVVYV9DN3R3U21HRXBzQ1g5NzJpQS1SNkRaT1c2aG9NY2dSWUViQ2pEMlN6Um40U1QzVVRXVnRTbDBQeG9adDc5dF82UWhzNmxf?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUU1EQTlBcDNVS0wtMGZieDUtV0k5S1BmYlFwd2cxVmRUb1otSFdJT2hfeTFFdktKRGItTmZWTXZ4NXNxbVd5eDF1X3VwWlVQbE11Nk0zenA3cXdDS1NXTk1URGlaTGg1T3N2U2RKVC1waTBtWVYwZ0lqYzA2d19NRkNvcEozQWc2ZXAyUWp1ZS11ZFJJMkw0QlVQSk01Zm9LbWlFc0VhaHlHZ2tqQWhrYUxfSjJEZUZrdm"
+    },
+    {
+      "title": "Oportunidades para la Argentina en la cadena de valor de la Inteligencia Artificial - Fundar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDhjcUZWc0xkb0t6Y3p6b2ZVV2tPN1hDUmtEeVkxVFZkcllmNFZtTG5ub3AyRUFhbXpya3VoZFhITHdQbXp0QzdPQjJsU0dDUVlOWUhmUlJpd05WUjFWVjBSZXh1WGc5d3dQazJkc3FPaVg0d3gxcmprWGlKQTJwV0hmUWZjdDdaSlh1ZmNPV3FzRzhFVEhlbTNUdm4yMHFvVDRWTXlUNnp2bFI4SHZCWGhB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 13 Oct 2025 18:49:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPTDhjcUZWc0xkb0t6Y3p6b2ZVV2tPN1hDUmtEeVkxVFZkcllmNFZtTG5ub3AyRUFhbXpya3VoZFhITHdQbXp0QzdPQjJsU0dDUVlOWUhmUlJpd05WUjFWVjBSZXh1WGc5d3dQazJkc3FPaVg0d3gxcmprWGlKQTJwV0hmUWZjdDdaSlh1ZmNPV3FzRzhFVEhlbTNUdm4yMHFvVDRWTXlUNnp2bFI4SHZCWGhB?oc=5\" tar"
+    },
+    {
+      "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aUlpdXRiNFc0TFE1Uzk4ZXRRcWdRRHpsTGZ1Q2Uta2RsakJFQzhyVdIB6AFBVV95cUxPQy1VNFF1VktzZXlJWWROaEk1TmFsN0ZtTHdhVzhocFRtTzJsS3lYMU95NF9veXp2Tld2WS1JbkFWZ0J2dnFteUw3ZklmLThGenhndERWQXZCTV9tUHd4cEZITjJ4ZjNKdlc4ODV3Ul81UmZMMzJMQ1p1YzF6djRmaFdJVVY2RnBWNk9GUjhBNmlRbGdaaHh1QWh4UjVqRHNPTy1IUGR2V2ZHMGlYR3U4VnJSaTk0Y3EtdHp2aGxZaXZRMkNpdEJsM3EzXzRjVUdURVV6ckZRa0FoUXZCYXhMdU1WQk9YdmlL?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
+    },
+    {
+      "title": "OPS y la Universidad del Hospital Italiano de Buenos Aires cierran curso regional con diálogo sobre IA, educación y salud - Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTA4dElqb0xnNkNEWVYwcGFZcmd3ZW9JeUY4bFpIVm9McVQzYzA2ZnE3NVd1ekZNcERpZFMyMHI4MHZ0VTM4OExjVkM1UHlrbXZIdzkxYUlRek9VSUFERDY5SEFSbXpQSl9HazY5MkhlZlZkalBmZG42aVBYNkZGUTRVLWVCNTBaSGpHeFFrSGRpemFqODJQLW1mYjBlY2Jmbnd3SzhQZXFtdGRRbUk0aXpHTkExVHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 05 Dec 2025 17:11:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTA4dElqb0xnNkNEWVYwcGFZcmd3ZW9JeUY4bFpIVm9McVQzYzA2ZnE3NVd1ekZNcERpZFMyMHI4MHZ0VTM4OExjVkM1UHlrbXZIdzkxYUlRek9VSUFERDY5SEFSbXpQSl9HazY5MkhlZlZkalBmZG42aVBYNkZGUTRVLWVCNTBaSGpHeFFrSGRpemFqODJQLW1mYjBlY2Jmbnd3SzhQZXFtdGRRbUk0aXpHTkExVHM?oc"
+    },
+    {
+      "title": "Provincia de Buenos Aires regula el uso de IA - Marval O’Farrell Mairal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTlJdjdkUkZhQ25pODI5NmxpQVNIcmp6WnpkdDdtaXNlX2pycDdEMWdqNXVvVWVRMlg5WmFUbXc3QjlpMGVwWjN5QzYtbmFBc2M2MmkxTXh1Y2pXaWRhTy1nbmtCMDh6eUM4TU93U1dfaVpSS1I0RDUyNG12ek5fTzkxeDNxNV8xRUtzOWQxcw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaTlJdjdkUkZhQ25pODI5NmxpQVNIcmp6WnpkdDdtaXNlX2pycDdEMWdqNXVvVWVRMlg5WmFUbXc3QjlpMGVwWjN5QzYtbmFBc2M2MmkxTXh1Y2pXaWRhTy1nbmtCMDh6eUM4TU93U1dfaVpSS1I0RDUyNG12ek5fTzkxeDNxNV8xRUtzOWQxcw?oc=5\" target=\"_blank\">Provincia de Buenos Aires regula "
+    },
+    {
+      "title": "Convocatoria financiamiento startups Argentina: hasta USD 500.000 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVl9hek5aRjV0RV9NbTZCUWFVc0dkYVF1MWlQNW5vckxZOTV3WWhjNkJkSHNadkhBYW1BV1daRmtjVVNHbXdPTm1Nd3UydUJMNWRPWlBxRXltYXdaUGNLMkRxcndfSkhLdVlENWh1S3hVLUZKRmkwcjJqay1MM3ZwSV9TSDFwSkpjLUZtaHRXUk9SNHByQzBDUFlsWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 22 Dec 2025 01:22:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVl9hek5aRjV0RV9NbTZCUWFVc0dkYVF1MWlQNW5vckxZOTV3WWhjNkJkSHNadkhBYW1BV1daRmtjVVNHbXdPTm1Nd3UydUJMNWRPWlBxRXltYXdaUGNLMkRxcndfSkhLdVlENWh1S3hVLUZKRmkwcjJqay1MM3ZwSV9TSDFwSkpjLUZtaHRXUk9SNHByQzBDUFlsWQ?oc=5\" target=\"_blank\">Convocatoria fina"
+    },
+    {
+      "title": "Tecnología al servicio del bienestar animal: una startup argentina apuesta a mejorar la movilidad de mascotas y animales productivos - Agrofy News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV2RnWHlfMzRkdUhRZmVNbWVJcmplYkJpemtiTE5GOWM2NjNhNUMtdmhaQk5aT2paak9lcVJSWnhUaDRGWVItTmtLUWtWcUQ1TXdSc3I5Wlk3V1p3TzE1cnlPblRBTGhsc2toQ1VCNGNrQXNnekpsNDE5M2F1czlSQkFYNzhkb19YZ2I5azNGYkpVUjlyV2xsRHVCd3pLeWJ1QWQxOU5uY2pzRHRhUWxha2xsNTY3d01KeHFkT3VjWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 11:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOV2RnWHlfMzRkdUhRZmVNbWVJcmplYkJpemtiTE5GOWM2NjNhNUMtdmhaQk5aT2paak9lcVJSWnhUaDRGWVItTmtLUWtWcUQ1TXdSc3I5Wlk3V1p3TzE1cnlPblRBTGhsc2toQ1VCNGNrQXNnekpsNDE5M2F1czlSQkFYNzhkb19YZ2I5azNGYkpVUjlyV2xsRHVCd3pLeWJ1QWQxOU5uY2pzRHRhUWxha2xsNTY3d01KeH"
+    },
+    {
+      "title": "Convocatoria financiamiento startups: hasta USD 500.000 Argentina - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkx2Sjg0V0M0aFh2a0xBdlVvbDRxQjBZZ0p4S2ZIclV6MnVXY05uMkFtYzRDSEpKRl8zWXNvUkh5bFEybGRQd05NTlh4OHB6bjNnVDRBYU1YZnd5dzUwLWJRRFRrYXN6ZnBxLS1ES2psY09MNkpSczlGS0xQQTRtaWJfYzdtbGxMRm03R0RqSVk2Zm1UQ21rOWFNQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 21 Dec 2025 23:47:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkx2Sjg0V0M0aFh2a0xBdlVvbDRxQjBZZ0p4S2ZIclV6MnVXY05uMkFtYzRDSEpKRl8zWXNvUkh5bFEybGRQd05NTlh4OHB6bjNnVDRBYU1YZnd5dzUwLWJRRFRrYXN6ZnBxLS1ES2psY09MNkpSczlGS0xQQTRtaWJfYzdtbGxMRm03R0RqSVk2Zm1UQ21rOWFNQQ?oc=5\" target=\"_blank\">Convocatoria fina"
+    }
+  ],
+  "count": 14
+}
