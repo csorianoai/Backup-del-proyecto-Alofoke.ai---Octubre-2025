@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Predicciones de ciberseguridad 2026. La IA entra al juego y SaaS pierde terreno",
+      "url": "https://expansion.mx/tecnologia/2025/12/26/2026-ciberseguridad-punto-de-quiebre",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Dec 2025 18:00:38 GMT",
+      "summary": "Mientras los ciberataques se vuelven más sofisticados, la defensa predictiva con IA se vuelve clave para la resiliencia digital."
+    },
+    {
+      "title": "Nvidia acumula poder con la compra de activos de Groq, su rival en chips de IA",
+      "url": "https://expansion.mx/tecnologia/2025/12/26/nvidia-acumula-poder-con-compra-de-groq",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Dec 2025 16:00:08 GMT",
+      "summary": "La empresa de Jensen Huang adquirió a la startup por 20,000 millones de dólares consolidando su poder en la industria de componentes para IA."
+    },
+    {
       "title": "CES 2026: más IA, robots y nuevas fuentes de energía",
       "url": "https://expansion.mx/tecnologia/2025/12/26/ces-2026-las-vegas-tendencias",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Tue, 23 Dec 2025 19:00:05 GMT",
       "summary": "Uno de los cuellos de botella que existe en la infraestructura de centros de datos es la capacidad energética que existe en la actualidad."
-    },
-    {
-      "title": "OpenAI lanza una función tipo Wrapped para ChatGPT",
-      "url": "https://expansion.mx/tecnologia/2025/12/23/chatgpt-lanza-wrapped-como-spotify",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 23 Dec 2025 16:05:39 GMT",
-      "summary": "El resumen anual de ChatGPT ya está disponible en la función, aunque no en todo el mundo y levanta las preocupaciones por la privacidad de los usuarios."
-    },
-    {
-      "title": "La guía de los impuestos a videojuegos en 2026. Así afectarán tu bolsillo",
-      "url": "https://expansion.mx/tecnologia/2025/12/23/2026-playstation-xbox-nintendo-pagaran-impuesto-videojuegos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 23 Dec 2025 13:00:17 GMT",
-      "summary": "México aplicará un IEPS del 8% a videojuegos violentos en físico y digital, incluyendo contenido descargable y suscripciones. La medida entrará en vigor el 1 de enero de 2026."
     },
     {
       "title": "Chile y México se unen para fomentar el desarrollo responsable de la inteligencia artificial - El Español",
