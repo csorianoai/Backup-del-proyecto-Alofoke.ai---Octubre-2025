@@ -3,6 +3,14 @@
   "country": "es",
   "articles": [
     {
+      "title": "Trump habla con Putin por teléfono antes de reunirse con Zelenski en Florida",
+      "url": "https://elpais.com/internacional/2025-12-28/trump-habla-con-putin-por-telefono-antes-de-reunirse-con-zelenski-en-florida.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 28 Dec 2025 16:55:42 GMT",
+      "summary": "El presidente ucranio busca convencer al estadounidense de un plan de paz para Ucrania que rechaza Rusia"
+    },
+    {
       "title": "Europa entra en estado de alerta ante la embestida estratégica de Trump",
       "url": "https://elpais.com/internacional/2025-12-28/europa-entra-en-estado-de-alerta-ante-la-embestida-estrategica-de-trump.html",
       "source": "El País Tecnología",
@@ -11,20 +19,12 @@
       "summary": "Señales de hostilidad de EE UU como las amenazas a Groenlandia, las sanciones contra personalidades y la nueva estrategia de seguridad elevan la tensión en una Europa todavía dependiente de Washington"
     },
     {
-      "title": "El año de la gran reversión de alianzas",
-      "url": "https://elpais.com/opinion/2025-12-28/el-ano-de-la-gran-reversion-de-alianzas.html",
+      "title": "Hallado el cuerpo sin vida de uno de los tres desaparecidos en Málaga y Granada por las fuertes lluvias",
+      "url": "https://elpais.com/espana/2025-12-28/el-temporal-deja-inundaciones-en-malaga-y-mantiene-en-aviso-naranja-en-cuatro-provincias.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 28 Dec 2025 04:30:01 GMT",
-      "summary": "Trump ha acreditado desde su regreso a la Casa Blanca su hostilidad hacia los europeos y su acercamiento a Rusia"
-    },
-    {
-      "title": "Israel desata una guerra civil en el movimiento MAGA",
-      "url": "https://elpais.com/internacional/2025-12-28/el-apoyo-de-estados-unidos-a-israel-desata-una-guerra-civil-en-el-movimiento-maga.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 28 Dec 2025 04:45:01 GMT",
-      "summary": "El apoyo de Estados Unidos a su aliado provoca un cisma en la extrema derecha y un agrio debate en torno a figuras como Tucker Carlson, los límites de la libertad de expresión y el antisemitismo"
+      "published": "Sun, 28 Dec 2025 12:18:07 GMT",
+      "summary": "La Generalitat envía un segundo Es-Alert a los móviles de la provincia de Valencia. El aeropuerto de Manises está colapsado y desvía vuelos; hay numerosas carreteras cortadas"
     },
     {
       "title": "Muere la actriz Brigitte Bardot, musa del cine francés y controvertida activista, a los 91 años",
@@ -35,12 +35,12 @@
       "summary": "La intérprete fue una de las figuras más emblemáticas de la cultura de su país e icono de moda en las décadas de los cincuenta y sesenta"
     },
     {
-      "title": "Las 10 mejores películas de Brigitte Bardot: de ‘Y Dios creó a la mujer’ a ‘La verdad’ y ‘¡Viva María!’",
-      "url": "https://elpais.com/cultura/cine/2025-12-28/las-10-mejores-peliculas-de-brigitte-bardot-de-y-dios-creo-a-la-mujer-a-la-verdad-y-viva-maria.html",
+      "title": "Brigitte Bardot, una vida en imágenes",
+      "url": "https://elpais.com/cultura/2025-12-28/brigitte-bardot-una-vida-en-imagenes.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 28 Dec 2025 13:06:18 GMT",
-      "summary": "Aunque la intérprete francesa actuara en casi medio centenar de películas, su mito y su imagen aplastaron cualquier reto interpretativo"
+      "published": "Sun, 28 Dec 2025 15:05:43 GMT",
+      "summary": "Fue considerada por la sociedad de esa época como un icono de la sensualidad. La actriz y cantante francesa ha muerto este domingo a los 91 años"
     },
     {
       "title": "Los caminos que abre la inteligencia artificial - EL PAÍS",
@@ -57,6 +57,14 @@
       "category": "news",
       "published": "Thu, 25 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uWGtabkZmMThQeGlWZks3RGtDX3ByY1pFcVF3OEhjSDJiVHJzbmdPSFM5NGNPTzgtck1UVENBNWdhLXJTTTlFT0hxM0lTY1FjcWQ5amRUMA?oc=5\" target=\"_blank\">O gobernamos la IA o la IA nos gobernará: España advierte en la ONU sobre un futuro de ganadores y perdedores"
+    },
+    {
+      "title": "España lidera el uso consciente de la inteligencia artificial - La Ecuación Digital",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWhMR2lZZW5hZ1M4WjJORENKZmk2UXlHR3BoaWVxR0tuN1RhdUNrblc4V3V5RlhWdUpld0VZUV8zQmNpdXExUkZOT2NiTVotZlpxRVp5QnM5eGFJcW1sV0t3MEJiX2YwM0hTVXBUekpNWmVPUWptakhtNWNXaTdiMF90YmxRenVzVDVYSmhjWnBzOU9yY1prR0tKbGxLZFJCTmNqTmlVMTRleGhEZGw3Z25MMjI2Z1I1SHlN?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 09 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWhMR2lZZW5hZ1M4WjJORENKZmk2UXlHR3BoaWVxR0tuN1RhdUNrblc4V3V5RlhWdUpld0VZUV8zQmNpdXExUkZOT2NiTVotZlpxRVp5QnM5eGFJcW1sV0t3MEJiX2YwM0hTVXBUekpNWmVPUWptakhtNWNXaTdiMF90YmxRenVzVDVYSmhjWnBzOU9yY1prR0tKbGxLZFJCTmNqTmlVMTRleGhEZGw3Z25MMjI2Z1I1SH"
     },
     {
       "title": "Adiós a las multas “tradicionales” en España: la inteligencia artificial ya sanciona en Madrid y Barcelona sin intervención policial - Unión Rayo",
@@ -83,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNam5XM0ZyeURPRXgxaGs0VlE3NFFUTkVPWUNRSS10R1dMWTZNUWMyWEdDM2VoTGhkNWdkU3BodnNGTG10bXYyOEhmYUo4RFI4Q25penJZMVQxS2Q3aUM2QXdDYUxiRFEzM2xfMFNxWXY0MlRqSnV2VEJYc0pjcDNDcmd0NGljWWUyUGtzVkRQY0pwdmRCTVE4aTlnRjM3UXpOanY3anFsOUowWVUzLTNaaHF0QTBUMlhSQj"
     },
     {
-      "title": "El agrifoodtech crece en Colombia pese a menor inversión - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHRReFhSZzZQeHFvOWoxZkM5eUxqamRHYTczdTA3d016aTUzemNlODlpSmNWZ29TSmYtallmSnhzT1dXNEpzNzRrZlV2QVpQdGRsckNJbk5vbThsSW03QThCZ25YcGJHSklwc0ZiOTJHSENweEt3bUxvR1JUSmRWUUJ1Yjh1TzBXUnVBZlJnWWs?oc=5",
+      "title": "OpenAI refuerza liderazgo en IA y gestión de riesgos emergentes - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONS1vOE5IempvSlVlNGcxa1NsRzhFam1LRGpQNjVIa2dZdHYta09yYVhQTkNNYXJnQXliaVhtXzZDSkpFdjV5X0gxMnJKaEt2dFYwNFI4Rk1PVFVIaTMzTjZzelNwbi02bUptdC10bEpfdzVhc3pQeDZmdlpzYTlRenk3WnNZYk9ENjBtVDgyMVhWRGhqMjVocURn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Dec 2025 23:47:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHRReFhSZzZQeHFvOWoxZkM5eUxqamRHYTczdTA3d016aTUzemNlODlpSmNWZ29TSmYtallmSnhzT1dXNEpzNzRrZlV2QVpQdGRsckNJbk5vbThsSW03QThCZ25YcGJHSklwc0ZiOTJHSENweEt3bUxvR1JUSmRWUUJ1Yjh1TzBXUnVBZlJnWWs?oc=5\" target=\"_blank\">El agrifoodtech crece en Colombi"
+      "published": "Sun, 28 Dec 2025 15:10:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONS1vOE5IempvSlVlNGcxa1NsRzhFam1LRGpQNjVIa2dZdHYta09yYVhQTkNNYXJnQXliaVhtXzZDSkpFdjV5X0gxMnJKaEt2dFYwNFI4Rk1PVFVIaTMzTjZzelNwbi02bUptdC10bEpfdzVhc3pQeDZmdlpzYTlRenk3WnNZYk9ENjBtVDgyMVhWRGhqMjVocURn?oc=5\" target=\"_blank\">OpenAI refuerza lid"
     },
     {
       "title": "Dos empresas del Parque Tecnológica de Córdoba, entre las 100 mejores 'startups' de los parques de España - Teleprensa",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 23 Dec 2025 10:46:35 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktDSWJjeEw5RHQtQ1dXUWJJNHJXRVNWUk9semFjdlJwOGJ6UEFfa0o3YlBNX0EtdEp3cHhvRDVWNjdLX2s5M3ljRW93T2dsQTVSa0FPYWhjMGc3TWJQRXM4TFl5R3RCWHd3YUswS1dfS192aUNKdTVSNGUxRGdpRGVCbi1HYkJGZXZJUk9XcE5nTVRaaUtpZXlkTXhxdjUzaGpoTUE5emRyOEFNbG9KU3BYZWF4ZnQwVF"
-    },
-    {
-      "title": "Turismo tecnológico: por qué España se ha convertido en un destino clave para los viajeros interesados en la innovación digital - Periódico de Ibiza y Formentera",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVHhhUFczN0JFeXBjQTdTT3Q5YmZhR1FERk5jck12SmxiajFualVuNk1iR3ZER3FuNDZXR2JFNFd3aktPOV90a1hvWGxibXJkbjJ1enhoZFZvTF9oTHNqS3ZaQjdhQXdDOG5PQXdJR3RIQUJFdVVVVkQtVEtJbVNrVGJ6Rl9feldWdlJMRUVnelJGYU5YTVZVb2dZT0Q4NjNJYUZYaHZVcm1YaGZnbXNMaUFZV2V6WWkyaEN1OGM3bjJZS3hBT3NTc2xuYUNfcXc5ZkltaVNUcDczdy1sZjhMc1Eya0tvcGpzdllmam1nZkwtek53N3p3ZGpFM01EMjlsMDNSS9IBhAJBVV95cUxPcXlJQUhLUXFfbC05RFhrTkZkWjR6OXZHX0NFTHJ1MlA5NXptc05BSGF4QVVpSGpvcEo2SE1YdnowMDllVThoUzcxRFFWTHYwUWZFYW5MUmdqZkJYeThWUERNU1BMb3FUdFZSSDAyVGw4TDJpdGhaOFRya0llQXg2ZHVVSVR6M19qRVozOXR1NmpRR3V0SnN4MmpsOWZuU2dsMUViQUg3a1JZMmFyLVFqTkJVZ280ZHVUN3Q4N1ZPM2phanM3dTZqektEWFdsbkR2MW5RbEQwM256R0ctZ0pfVTNwY0gyRmJRTFpPa0hvcExpaXhCMnJCVk1vbW9pZ1J3c19jYQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 23 Dec 2025 11:44:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNVHhhUFczN0JFeXBjQTdTT3Q5YmZhR1FERk5jck12SmxiajFualVuNk1iR3ZER3FuNDZXR2JFNFd3aktPOV90a1hvWGxibXJkbjJ1enhoZFZvTF9oTHNqS3ZaQjdhQXdDOG5PQXdJR3RIQUJFdVVVVkQtVEtJbVNrVGJ6Rl9feldWdlJMRUVnelJGYU5YTVZVb2dZT0Q4NjNJYUZYaHZVcm1YaGZnbXNMaUFZV2V6WWkyaE"
     }
   ],
   "count": 14
