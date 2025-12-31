@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "2025 marcó el fin del delivery barato",
+      "url": "https://expansion.mx/tecnologia/2025/12/31/se-acabo-delivery-barato-2025-pedir-rappi-uber-didi-subio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 31 Dec 2025 13:00:37 GMT",
+      "summary": "Reformas laborales, nuevos impuestos y ajustes regulatorios están transformando el modelo de reparto por apps en México."
+    },
+    {
+      "title": "PlayStation Plus dará menos juegos de PS4 en su catálogo a partir de 2026",
+      "url": "https://expansion.mx/tecnologia/2025/12/30/playstation-plus-2026-ps4",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 30 Dec 2025 21:34:26 GMT",
+      "summary": "Sony reducirá la frecuencia con la que suma juegos de PS4 a PlayStation Plus desde 2026, con ajustes en el catálogo y efectos directos en los planes Essential, Extra y Deluxe."
+    },
+    {
+      "title": "Cómo usar IA para construir un vision board que funcione",
+      "url": "https://expansion.mx/tecnologia/2025/12/30/como-usar-ia-para-crear-un-vision-board",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 30 Dec 2025 21:00:35 GMT",
+      "summary": "Este método de planificación ayuda a poner orden a los propósitos que año con año tienen los usuarios."
+    },
+    {
       "title": "10 propósitos digitales realistas para 2026",
       "url": "https://expansion.mx/tecnologia/2025/12/30/10-propositos-digitales-realistas-para-2026",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "Ya sea por los avances en investigación o porque las decisiones que tomen incidirán en futuros productos, estos personajes configuran el futuro de la tecnología."
     },
     {
-      "title": "Los mejores videojuegos del 2025: aventura, indies y títulos que marcaron el año",
-      "url": "https://expansion.mx/tecnologia/2025/12/29/los-mejores-videojuegos-del-2025-aventura-indies-y-titulos-que-marcaron-el-ano",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Dec 2025 19:00:23 GMT",
-      "summary": "Descubre los 20 videojuegos imprescindibles de 2025, desde Metroid Prime 4 hasta indies sorprendentes, y conoce por qué dominaron la crítica y la comunidad gamer."
-    },
-    {
-      "title": "En Año Nuevo se escriben más de 100,000 millones de mensajes en WhatsApp",
-      "url": "https://expansion.mx/tecnologia/2025/12/29/en-ano-nuevo-se-escriben-mas-de-100-000-millones-de-mensajes-en-whatsapp",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Dec 2025 17:30:39 GMT",
-      "summary": "Más de 3,000 millones de personas usan WhatsApp para celebrar Año Nuevo, en una jornada que supera los 100,000 millones de mensajes y 2,000 millones de llamadas."
-    },
-    {
-      "title": "Más grandes que nunca: 2025 consolidó el poder de las Big Tech",
-      "url": "https://expansion.mx/tecnologia/2025/12/29/amazon-nvidia-meta-microsoft-tienen-mas-poder-2025",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Dec 2025 13:00:36 GMT",
-      "summary": "En 2025, Apple, Microsoft, Alphabet, Amazon, Meta y Nvidia registraron un crecimiento financiero sin precedentes gracias a la IA y se espera un crecimiento aún mayor para 2026."
+      "title": "México | La adopción de la IA obliga a actualizar el marco regulatorio de las fintech: expertos - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3Q3UVNUTVZ4cVRURDBfQ01UY1RzU3FnblEwZGJtTkZfMHR3Q1otOGQyNnFFQXJrdzVhWnVaT1Y2VjZidmNPM2F1dWwzbGtTT2g0d1VCZTVSTHlhT1d3bE53U0ppVHpIOFJqN3N3dS03V09sc05VTFB3SGlHSnBOQXJxcXI0cnpxVXZTdkFHV2NIRUF5MkhvZVIybFl5THFpNEZ2UTdfckVwY0hlWDQ2Z3J3RQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 31 Dec 2025 17:20:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3Q3UVNUTVZ4cVRURDBfQ01UY1RzU3FnblEwZGJtTkZfMHR3Q1otOGQyNnFFQXJrdzVhWnVaT1Y2VjZidmNPM2F1dWwzbGtTT2g0d1VCZTVSTHlhT1d3bE53U0ppVHpIOFJqN3N3dS03V09sc05VTFB3SGlHSnBOQXJxcXI0cnpxVXZTdkFHV2NIRUF5MkhvZVIybFl5THFpNEZ2UTdfckVwY0hlWDQ2Z3J3RQ?oc=5\" t"
     },
     {
       "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxONDF3Szk4OGdTTUg1T2NqMzVvdEwxZHZRcERLRXNhbHYxcHRISFFCeVh4dkVXVU03SFl2NWtsbl9sQUVXZXR1SlZjU05DNVBDbThkV2t3SWpwQ25UNnVXaDJfVFVhclo1QTdsbkJJUTNhS3dPdlpENU1US2M3bFRpbFBIWjUtQjQ3aWFQeW5iYXJrNEpOWUxVNkJ3cnFlbEVDNkhfdFUzWFF3NUIwTUpnYjdjOEdLRWN0N1"
     },
     {
-      "title": "Inteligencia Artificial Generativa y logística 2026, por el ConaLog - THE LOGISTICS WORLD",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmQ0RVNCQ195MHBidnl2MjFNQm1OU2UyeTAzanE5N2NzcVNqcGJWMm91TWRiY09XTjlUSmNxdmthV3BFS2NjM09sQ2lrS0dlakxBSTRsQXFleWdOM1AwUVQ3d3dSN0hVcTc1QndKUmhYdVhTTFBWc2RNTHZTSzdrQ0E4TVZOWGhhbTNTTVEzMTVTZWlQb3Q3N0RoQjJHY0RRbjFTYk5NXy1WNTVrTGhpVG9ETjBtcFk0S01wajZxS01QT3NKMEVyQUVR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 30 Dec 2025 17:08:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcmQ0RVNCQ195MHBidnl2MjFNQm1OU2UyeTAzanE5N2NzcVNqcGJWMm91TWRiY09XTjlUSmNxdmthV3BFS2NjM09sQ2lrS0dlakxBSTRsQXFleWdOM1AwUVQ3d3dSN0hVcTc1QndKUmhYdVhTTFBWc2RNTHZTSzdrQ0E4TVZOWGhhbTNTTVEzMTVTZWlQb3Q3N0RoQjJHY0RRbjFTYk5NXy1WNTVrTGhpVG9ETjBtcFk0S0"
-    },
-    {
       "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam1YNjdJWll3YWVvNUdibEZJQUNleE1TbU40U0lKVTNwYmtPMURkdlRTVmtmU29aS1RiZEdwUzFDMGVmSV9QTnRQNTNBWDNMTXBlSENKZV9hR2JGQ1ZaWjhScHRaZ0xyQVU1UGM5OUJueXp4MFEzLTBaSDJmQktoN0VCcThrb1Ns0gGIAUFVX3lxTE1qbVg2N0laWXdhZW81R2JsRklBQ2V4TVNtTjRTSUpVM3Bia08xRGR2VFNWa2ZTb1pLVGJkR3BTMUMwZWZJX1BOdFA1M0FYM0xNcGVIQ0plX2FHYkZDVlpaOFJwdFpnTHJBVTVQYzk5Qm55engwUTMtMFpIMmZCS2g3RUJxOGtvU2w?oc=5",
       "source": "Google News",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam1YNjdJWll3YWVvNUdibEZJQUNleE1TbU40U0lKVTNwYmtPMURkdlRTVmtmU29aS1RiZEdwUzFDMGVmSV9QTnRQNTNBWDNMTXBlSENKZV9hR2JGQ1ZaWjhScHRaZ0xyQVU1UGM5OUJueXp4MFEzLTBaSDJmQktoN0VCcThrb1Ns0gGIAUFVX3lxTE1qbVg2N0laWXdhZW81R2JsRklBQ2V4TVNtTjRTSUpVM3Bia08xRG"
     },
     {
-      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
+      "title": "Venture capital en LATAM: Brasil lidera con IA y fintech en 2025 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFlZRDN5ZExhYnVGS29wbUdWOE9Pa3VyTDF6YzZGcFFaelJLcXZhdzI5d2o4alhTVGxUZnNvN2J4UndPLTNacUZQY0sybDNIUkQ0Vi1nYlJaTnlUSzdhWldlc1ZkWnpBNGtzb0hGRHJmWHFiaUR5dHJnMTJ1R2pneHlLNk5VV01aZEZiN193RG5BQUZ6aDdCbElR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
+      "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFlZRDN5ZExhYnVGS29wbUdWOE9Pa3VyTDF6YzZGcFFaelJLcXZhdzI5d2o4alhTVGxUZnNvN2J4UndPLTNacUZQY0sybDNIUkQ0Vi1nYlJaTnlUSzdhWldlc1ZkWnpBNGtzb0hGRHJmWHFiaUR5dHJnMTJ1R2pneHlLNk5VV01aZEZiN193RG5BQUZ6aDdCbElR?oc=5\" target=\"_blank\">Venture capital en "
     },
     {
       "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
