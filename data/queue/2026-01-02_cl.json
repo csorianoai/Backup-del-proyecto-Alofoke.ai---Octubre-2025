@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo conseguir que tus objetivos de este año se cumplan, según una científica experta en hábitos",
+      "url": "https://www.latercera.com/tendencias/noticia/como-conseguir-que-tus-objetivos-de-este-ano-se-cumplan-segun-una-cientifica-experta-en-habitos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 02 Jan 2026 19:00:00 +0000",
+      "summary": "La profesora de la Escuela Wharton de la Universidad de Pensilvania y autora del libro Cómo cambiar: la ciencia que te ayuda a ser quien quieres ser (GeoPlaneta, 2021), Katy Milkman, compartió una serie de recomendaciones para crear hábitos y mantenerlos en el tiempo."
+    },
+    {
       "title": "La severa crítica de Donald Trump al actor George Clooney por haber obtenido la nacionalidad francesa",
       "url": "https://www.latercera.com/tendencias/noticia/la-severa-critica-de-donald-trump-al-actor-george-clooney-por-haber-obtenido-la-nacionalidad-francesa/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Fri, 02 Jan 2026 09:02:00 +0000",
       "summary": "Con respaldo de estudios recientes, The New York Times examina creencias comunes sobre los lácteos y lo que hoy sostienen expertos en nutrición sobre su consumo."
-    },
-    {
-      "title": "Qué causa el 50% de los ataques cardíacos en mujeres jóvenes, según un reciente estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/que-causa-el-50-de-los-ataques-cardiacos-en-mujeres-jovenes-segun-un-reciente-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 02 Jan 2026 09:01:00 +0000",
-      "summary": "Un estudio de la Clínica Mayo revela que hasta el 50% de los infartos en mujeres no se debe a arterias tapadas, sino a causas poco reconocidas que cambian el diagnóstico y tratamiento."
     },
     {
       "title": "Colombia asciende al cuarto lugar en el Índice Latinoamericano de Inteligencia Artificial de la CEPAL - MINTIC Colombia",
