@@ -1,0 +1,119 @@
+{
+  "date": "2026-01-04",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "TSMC inicia producción masiva de chips de 2 nanómetros",
+      "url": "https://expansion.mx/tecnologia/2026/01/02/tsmc-inicia-produccion-masiva-de-chips-de-2-nanometros",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 02 Jan 2026 18:30:59 GMT",
+      "summary": "El mayor fabricante de semiconductores del mundo puso en marcha la producción en masa de chips de 2 nanómetros, una tecnología clave para sostener el crecimiento de la IA."
+    },
+    {
+      "title": "Cómo configurar tu Android y iPhone para que reciban la alerta sísmica",
+      "url": "https://expansion.mx/tecnologia/2026/01/02/como-configurar-android-y-iphone-alerta-sismica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 02 Jan 2026 15:38:32 GMT",
+      "summary": "Si el altavoz de tu casa no avisa oportunamente, te explicamos cómo activar la alerta en tu teléfono."
+    },
+    {
+      "title": "Alerta sísmica en celulares despierta a miles en México este 2 de enero",
+      "url": "https://expansion.mx/tecnologia/2026/01/02/alerta-sismica-en-celulares-2-de-enero",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 02 Jan 2026 14:34:35 GMT",
+      "summary": "Con un mensaje de alerta de sismo fuerte, miles de celulares en México se activaron alertando sobre un sismo próximo a desarrollarse."
+    },
+    {
+      "title": "Uso de IA en la oficina: cuatro errores que están comprometiendo datos, talento y cultura laboral",
+      "url": "https://expansion.mx/tecnologia/2026/01/02/cuatro-errores-de-uso-de-ia-en-la-oficina",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 02 Jan 2026 13:00:34 GMT",
+      "summary": "Los expertos advierten que el principal reto en la adopción de esta herramientas es humano, así como una brecha organizacional."
+    },
+    {
+      "title": "La canasta básica de streaming en 2026: cuánto costará ver series y películas en casa",
+      "url": "https://expansion.mx/tecnologia/2026/01/01/cuanto-costara-canasta-basica-streaming-2026-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 01 Jan 2026 14:00:50 GMT",
+      "summary": "En 2026, el entretenimiento bajo demanda se consolidará como un gasto fijo en los hogares mexicanos, pero podrá costar cerca de 2,000 pesos mensuales."
+    },
+    {
+      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
+    },
+    {
+      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+    },
+    {
+      "title": "Inteligencia artificial en México: 87 iniciativas impulsan un marco legal para regular su uso - ITSitio Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWVPNndyVG1yUS1PT1lBeUxWMkhwTmJOVkl4aHB4bTlXOEVRNVZWMThvWlg1MF9NWVVjeUtZMXZWZFNLM3ZXcnF0N2hmeEhHWEEyajlRR1hRODJCWm9KQnB3OERXUzlkc1JHVWxrbWhkR2FMckdzbVZubFVYRTA5TmpJWTdDUTJ5NzhJYUQ5Z0NkemVLUHVZaS1QbTN0M1g4SWl5ZGxFR2YxemU1UlpObkY4R3o2azBITzMzVTBTQk1RMzZSdG5oMHVPMkRNd0tTeUluSDZQcERaWDdo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWVPNndyVG1yUS1PT1lBeUxWMkhwTmJOVkl4aHB4bTlXOEVRNVZWMThvWlg1MF9NWVVjeUtZMXZWZFNLM3ZXcnF0N2hmeEhHWEEyajlRR1hRODJCWm9KQnB3OERXUzlkc1JHVWxrbWhkR2FMckdzbVZubFVYRTA5TmpJWTdDUTJ5NzhJYUQ5Z0NkemVLUHVZaS1QbTN0M1g4SWl5ZGxFR2YxemU1UlpObkY4R3o2azBITz"
+    },
+    {
+      "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam1YNjdJWll3YWVvNUdibEZJQUNleE1TbU40U0lKVTNwYmtPMURkdlRTVmtmU29aS1RiZEdwUzFDMGVmSV9QTnRQNTNBWDNMTXBlSENKZV9hR2JGQ1ZaWjhScHRaZ0xyQVU1UGM5OUJueXp4MFEzLTBaSDJmQktoN0VCcThrb1Ns0gGIAUFVX3lxTE1qbVg2N0laWXdhZW81R2JsRklBQ2V4TVNtTjRTSUpVM3Bia08xRGR2VFNWa2ZTb1pLVGJkR3BTMUMwZWZJX1BOdFA1M0FYM0xNcGVIQ0plX2FHYkZDVlpaOFJwdFpnTHJBVTVQYzk5Qm55engwUTMtMFpIMmZCS2g3RUJxOGtvU2w?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 14 Dec 2025 16:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam1YNjdJWll3YWVvNUdibEZJQUNleE1TbU40U0lKVTNwYmtPMURkdlRTVmtmU29aS1RiZEdwUzFDMGVmSV9QTnRQNTNBWDNMTXBlSENKZV9hR2JGQ1ZaWjhScHRaZ0xyQVU1UGM5OUJueXp4MFEzLTBaSDJmQktoN0VCcThrb1Ns0gGIAUFVX3lxTE1qbVg2N0laWXdhZW81R2JsRklBQ2V4TVNtTjRTSUpVM3Bia08xRG"
+    },
+    {
+      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
+    },
+    {
+      "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1hJYmk4MU1ZY0x1RVpKZDR6bVIxYUhjR1U5eEcwUTlOLWJ2WGVEd3NWVzhsSFYzamRZaWlZVTE1aFdsMHdOOUlySGVKb1lyaGlDZkZINEVqRHFwUlI4SVg5SlpPWFE2cG53NVBvTjBsbmZpQXJWdlFKYThZdXJsN19kUUkyY2VwUHkta3Uzek9mOURvQXZkbTdjRm05cjV1RlJSdDJoalhOYzdvSThJV19QNDRoX1JBMjQ3NVRIVmFuVGZYMmc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
+    },
+    {
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 07:27:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    }
+  ],
+  "count": 14
+}
