@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Wikiflix, la plataforma de Wikipedia para ver películas gratis: así funciona",
+      "url": "https://www.clarin.com/tecnologia/wikiflix-plataforma-wikipedia-ver-peliculas-gratis-funciona_0_QAq4q5rDhp.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 05 Jan 2026 15:33:32 +0000",
+      "summary": "<ul><li>Con una interfaz similar a Netflix, Wikiflix facilita la navegación y la reproducción directa.</li><li>El nuevo servicio ofrece cine de dominio público y funciona sin cuentas ni suscripciones.</li></ul>"
+    },
+    {
       "title": "Los “clones” chinos del iPhone 17: mismo diseño, baterías gigantes y precios más bajos",
       "url": "https://www.clarin.com/tecnologia/clones-chinos-iphone-17-mismo-diseno-baterias-gigantes-precios-bajos_0_9kB01GeWe9.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Sat, 03 Jan 2026 09:01:22 +0000",
       "summary": "<ul><li>Aunque incrementó su fortuna en el último año, el CEO de Meta cayó varios puestos en el top global. </li><li>El avance de Musk, los fundadores de Google y otros gigantes que capitalizaron mejor la fiebre por la inteligencia artificial reordenó el mapa.</li></ul>"
-    },
-    {
-      "title": "Billeteras virtuales en Brasil: qué apps convienen para pagar en reales durante las vacaciones",
-      "url": "https://www.clarin.com/tecnologia/billeteras-virtuales-brasil-apps-convienen-pagar-reales-vacaciones_0_JKavw2SUbh.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 02 Jan 2026 08:45:12 +0000",
-      "summary": "<ul><li>En Brasil casi todo se paga con QR y las billeteras argentinas ahora se conectan directo a PIX.</li><li>Cada aplicación aplica su propia cotización y condiciones, por eso puede variar el total en pesos.</li></ul>"
     },
     {
       "title": "La inteligencia artificial gana terreno en hospitales de Argentina y abre debates éticos - TRT Español",
@@ -75,6 +75,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWRUMlItajdzR0VUM0licDYtTFdBbUsxRUJuUzFvZklxRVV4akhIWHN4YkVpd3phUHo5MlFHUzlKLXctSGNXOUp6azZxY2xrYnBhS0tYbHZUZ1NFXzRDSVJ6OEV1NVgzZXNXSjN5NW9PWEVjU1UzTWlXcmFPTEJ4RjFFWEpWYUpqQV82TjVrd1JpbHdTcGlhMEozLVIyZDBtV252d1Ayc1ptRXFQTHpxLUU1QWk0QmJuWn"
     },
     {
+      "title": "IA en el trabajo: qué es el Shadow AI y cómo afecta a las empresas - AM 1350 Radio Buenos Aires",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUk9JM1ZKOHdoSXZhUUxiN3Ewc3dNMW0xTm9TdzdPdUl0NUdxUGhHQmsyWHVFN2kxT01mLWx2Ql9EQkpvN0tpTWozT1Y1M180QVMyRGxRamtuRjEwaE9LWkU5dU1PbkxkRkFUSnllbFAyV3hjY05BN1JkMWMyN0duYjdfRUNoYXRVNzlWUk1oY2VmS0VldUk3cEgzYlpKZlNvYk4yUEVn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 05 Jan 2026 15:17:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUk9JM1ZKOHdoSXZhUUxiN3Ewc3dNMW0xTm9TdzdPdUl0NUdxUGhHQmsyWHVFN2kxT01mLWx2Ql9EQkpvN0tpTWozT1Y1M180QVMyRGxRamtuRjEwaE9LWkU5dU1PbkxkRkFUSnllbFAyV3hjY05BN1JkMWMyN0duYjdfRUNoYXRVNzlWUk1oY2VmS0VldUk3cEgzYlpKZlNvYk4yUEVn?oc=5\" target=\"_blank\">IA "
+    },
+    {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aUlpdXRiNFc0TFE1Uzk4ZXRRcWdRRHpsTGZ1Q2Uta2RsakJFQzhyVdIB6AFBVV95cUxPQy1VNFF1VktzZXlJWWROaEk1TmFsN0ZtTHdhVzhocFRtTzJsS3lYMU95NF9veXp2Tld2WS1JbkFWZ0J2dnFteUw3ZklmLThGenhndERWQXZCTV9tUHd4cEZITjJ4ZjNKdlc4ODV3Ul81UmZMMzJMQ1p1YzF6djRmaFdJVVY2RnBWNk9GUjhBNmlRbGdaaHh1QWh4UjVqRHNPTy1IUGR2V2ZHMGlYR3U4VnJSaTk0Y3EtdHp2aGxZaXZRMkNpdEJsM3EzXzRjVUdURVV6ckZRa0FoUXZCYXhMdU1WQk9YdmlL?oc=5",
       "source": "Google News",
@@ -83,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
     },
     {
-      "title": "Mosaic Sunset Buenos Aires: Strategy cerró un año con innovación en IA - Prensario TILA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDVYY3ZCWmsxMU5FazE2NnVoZFd0SnZnbDg4Tk9DTC1YMmJ1dC0wVVdlclJ6WHVPcEN2NHZKLTY5RWdlQVh1TDhCdElpeGZjVlQ5NHkySWxHeDRkbGFkVE9mQW4wTUJINXc2cm9jemRTeDI2S0xFa2VISW1GN0kweFFWbjFXc2hEYW5HVWdrTjdsY0JqWl9Wc3Rkdy0?oc=5",
+      "title": "Startups argentinas: biotecnología para sustituir productos tóxicos - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX25OQTR1ZXJwYmo4WlIxUXJrYVBILTN4U2xoQ0tmTTQ2Y3pvNWdvSENMRmNGcnZFT2NhZGE0a0VsZzZkaGwxSVNFZ1BGaWMwa3ZsMll1MXBlODAwbG4wQnF6aU0xc1RwWk9INUhMRzZLcWpTOHVPWG94Um1wM1htMkpGY3REWl9ZdU05aHNhWk5mQXJJalJpS0tTVU9Ddw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 29 Dec 2025 18:22:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDVYY3ZCWmsxMU5FazE2NnVoZFd0SnZnbDg4Tk9DTC1YMmJ1dC0wVVdlclJ6WHVPcEN2NHZKLTY5RWdlQVh1TDhCdElpeGZjVlQ5NHkySWxHeDRkbGFkVE9mQW4wTUJINXc2cm9jemRTeDI2S0xFa2VISW1GN0kweFFWbjFXc2hEYW5HVWdrTjdsY0JqWl9Wc3Rkdy0?oc=5\" target=\"_blank\">Mosaic Sunset Bu"
+      "published": "Sun, 04 Jan 2026 09:15:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPX25OQTR1ZXJwYmo4WlIxUXJrYVBILTN4U2xoQ0tmTTQ2Y3pvNWdvSENMRmNGcnZFT2NhZGE0a0VsZzZkaGwxSVNFZ1BGaWMwa3ZsMll1MXBlODAwbG4wQnF6aU0xc1RwWk9INUhMRzZLcWpTOHVPWG94Um1wM1htMkpGY3REWl9ZdU05aHNhWk5mQXJJalJpS0tTVU9Ddw?oc=5\" target=\"_blank\">Startups arge"
     },
     {
       "title": "Agenda startup 2026: cuáles serán los eventos y convocatorias imperdibles para los emprendedores - Forbes Argentina",
@@ -97,14 +105,6 @@
       "category": "news",
       "published": "Thu, 01 Jan 2026 11:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWRNeF9udFI5MWZBeG5RVE1nUjUycXlQTDhlUVVRaW5DRDJrRnpsTkk0eUVsU3JBSzlzVHU4blFXTDd2UDktMzQwSWN6eDRRTU9CUW9IVGNEdk5DM2NqdFAwQVFZc2JCQUFvV1kwMmdmWlRkOVdpY0duaHFwV210YjJyQVVGOEo4Z0NKeG85bjN2aURGaVM3SHhTTDlxcTRSa0FzbmRZelpWS0JhRnVqeXo5U0VNQ0FVZT"
-    },
-    {
-      "title": "Startups argentinas: biotecnología para sustituir productos tóxicos - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX25OQTR1ZXJwYmo4WlIxUXJrYVBILTN4U2xoQ0tmTTQ2Y3pvNWdvSENMRmNGcnZFT2NhZGE0a0VsZzZkaGwxSVNFZ1BGaWMwa3ZsMll1MXBlODAwbG4wQnF6aU0xc1RwWk9INUhMRzZLcWpTOHVPWG94Um1wM1htMkpGY3REWl9ZdU05aHNhWk5mQXJJalJpS0tTVU9Ddw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 04 Jan 2026 09:15:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPX25OQTR1ZXJwYmo4WlIxUXJrYVBILTN4U2xoQ0tmTTQ2Y3pvNWdvSENMRmNGcnZFT2NhZGE0a0VsZzZkaGwxSVNFZ1BGaWMwa3ZsMll1MXBlODAwbG4wQnF6aU0xc1RwWk9INUhMRzZLcWpTOHVPWG94Um1wM1htMkpGY3REWl9ZdU05aHNhWk5mQXJJalJpS0tTVU9Ddw?oc=5\" target=\"_blank\">Startups arge"
     },
     {
       "title": "Innovación científica argentina: startups que reemplazan químicos tóxicos por soluciones biotecnológicas - La Ribera Web",
