@@ -1,0 +1,119 @@
+{
+  "date": "2026-01-06",
+  "country": "ar",
+  "articles": [
+    {
+      "title": "Revelan cómo será el primer dispositivo de OpenAI: sin pantallas, con IA y un formato conocido que nadie esperaba",
+      "url": "https://www.clarin.com/tecnologia/revelan-primer-dispositivo-openai-pantallas-ia-formato-conocido-nadie-esperaba_0_35xTyTUirk.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 06 Jan 2026 08:45:49 +0000",
+      "summary": "<ul><li>Bocetos filtrados apuntan a un objeto cotidiano que se integra casi sin notarse en la rutina. </li><li>Podría digitalizar notas, transcribirlas y conectarse con ChatGPT mediante escritura o voz.</li></ul>"
+    },
+    {
+      "title": "Wikiflix, la plataforma de Wikipedia para ver películas gratis: así funciona",
+      "url": "https://www.clarin.com/tecnologia/wikiflix-plataforma-wikipedia-ver-peliculas-gratis-funciona_0_QAq4q5rDhp.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 05 Jan 2026 15:33:32 +0000",
+      "summary": "<ul><li>Con una interfaz similar a Netflix, Wikiflix facilita la navegación y la reproducción directa.</li><li>El nuevo servicio ofrece cine de dominio público y funciona sin cuentas ni suscripciones.</li></ul>"
+    },
+    {
+      "title": "Los “clones” chinos del iPhone 17: mismo diseño, baterías gigantes y precios más bajos",
+      "url": "https://www.clarin.com/tecnologia/clones-chinos-iphone-17-mismo-diseno-baterias-gigantes-precios-bajos_0_9kB01GeWe9.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 05 Jan 2026 08:45:39 +0000",
+      "summary": "<ul><li>Fabricantes como HONOR, Xiaomi y Nubia lanzan modelos que buscan competir de igual a igual con Apple. </li><li>La apuesta es clara: capitalizar el parecido y tentar a quienes no quieren pagar por un iPhone.</li></ul>"
+    },
+    {
+      "title": "Plex: cómo se usa el software para ver películas, series y videojuegos desde cualquier dispositivo",
+      "url": "https://www.clarin.com/tecnologia/plex-usa-software-ver-peliculas-series-videojuegos-cualquier-dispositivo_0_fa7MUbGd9V.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 04 Jan 2026 15:57:10 +0000",
+      "summary": "<ul><li>Plex permite ver todo el contenido multimedia a través de una misma aplicación.</li><li>Está disponible en la mayoría de los dispositivos electrónicos.</li></ul>"
+    },
+    {
+      "title": "La humanidad vuelve a la Luna: cómo son las misiones que abren la nueva era espacial en 2026",
+      "url": "https://www.clarin.com/tecnologia/humanidad-vuelve-luna-misiones-abren-nueva-espacial-2026_0_WPFiqbj7j2.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 04 Jan 2026 09:01:30 +0000",
+      "summary": "<ul><li>Este año comienzan las primeras operaciones reales cerca del satélite, con Artemis II como misión bisagra.</li><li>La NASA, SpaceX y otras agencias suman naves, robots e infraestructura para viajes más largos y seguros.</li></ul>"
+    },
+    {
+      "title": "La automatización y la inteligencia artificial sostienen la actividad empresarial en vacaciones en Argentina - mercado.com.ar",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXh6aU1FVjEyUmc1U1lNSGhYeUtILW5vcXZCbWl2ZDQ0N0tmUzhQUmFfWWd6dHhsM1VvMXNBb3ZRMGh4TmNLa0oyYUkwSlNqYzJCY0RnTm5UX0RIdUZKSjREb2xiMW1kMVpCeW05WW90ZTVpOE5QWXF2dGNib0lsaTRDaHNvZ2hPYmZZQTBSOU1xZk0tam5yOEFjWndtZTNSSzdrbjFBNzVDdWRVcktTQUN6ci1JNmdNbGxUbC1DUVRQZWRYZ2x0OTV6c25kUVR5eTJHLWVadm54cXBEd1E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 06 Jan 2026 03:38:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXh6aU1FVjEyUmc1U1lNSGhYeUtILW5vcXZCbWl2ZDQ0N0tmUzhQUmFfWWd6dHhsM1VvMXNBb3ZRMGh4TmNLa0oyYUkwSlNqYzJCY0RnTm5UX0RIdUZKSjREb2xiMW1kMVpCeW05WW90ZTVpOE5QWXF2dGNib0lsaTRDaHNvZ2hPYmZZQTBSOU1xZk0tam5yOEFjWndtZTNSSzdrbjFBNzVDdWRVcktTQUN6ci1JNmdNbG"
+    },
+    {
+      "title": "La inteligencia artificial gana terreno en hospitales de Argentina y abre debates éticos - TRT Español",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWhYM005dTlfYko0T1Q5OHhqWTNyRy16Y1RDNndRSm92ODBJR3U4M0dpMHdfaWhPZ3haaVlXcUcxSzBZTEdDWEk4RlZ5VnVtWHdpR1pTX0xqSnfSAWBBVV95cUxQZ2JhbmNnYXZMT0FzZXRaT2ZWYVcyRVhmal9WNFpiUFFZajFwcTQtbTJKUTlveDEtZk55bllBc0lBcnYyU3RaVVdUOVQzWFFVWGlVRjQzQ1F4Qjh0X0hpcTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWhYM005dTlfYko0T1Q5OHhqWTNyRy16Y1RDNndRSm92ODBJR3U4M0dpMHdfaWhPZ3haaVlXcUcxSzBZTEdDWEk4RlZ5VnVtWHdpR1pTX0xqSnfSAWBBVV95cUxQZ2JhbmNnYXZMT0FzZXRaT2ZWYVcyRVhmal9WNFpiUFFZajFwcTQtbTJKUTlveDEtZk55bllBc0lBcnYyU3RaVVdUOVQzWFFVWGlVRjQzQ1F4Qjh0X0"
+    },
+    {
+      "title": "Di Doménica: “India es una potencia tecnológica y el tercer gran jugador en inteligencia artificial” - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1hqN0RIRlBCOGNhYnFlSGRRRncwQWVUNXZVMVBjZ1Ria0VTNmhBTV84NERLcWNqMEt3SWZVdE04bjJ2WU1JMXFpRy1uNXlGWDFrRHFYUWczV2ZfOGpwQVBLend0WGNvTGtyZld1RzhwR2M0Y250cDhvSnc4VmxBdXpleExjTVBvT0N5Sjd2ZUNYVHd6ZUM1RC1tTkFINU1CZTc4NDdPVUZFRDAyYWZINGRiQXptdEo4Q2tfOE14NGs0cldtdVR5MHpJWUdfalpsb3V1VmpTVllGVEnSAeABQVVfeXFMT29DdzUxYnpmc0haaWNmZ2h4dlJmN0o0NjB1eU1zN3Y2YkxudUhFbmhLamwzNEE2aURocVFlU2JyNHRhTi1BV01Fbml2bmpBUmtvT3g2eHZlT2N5OEE5RHpBbzA0ZndkWXNEZ0VvTnRRR2RxbmdJTlVybzVkQUpCRVBiS2lQdGFJY2pubk56VFpJUGFCeldxaUpmRm9nYktudmpnQlhpc3BBTHk1UzJ4YlUzOW1wRHZ1d0ZIUXVpcjdvZG0wRkJ0RGQ1X2paUUpwR1I4RV9UcWszWDIxMU11ZnE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 05 Jan 2026 20:34:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX1hqN0RIRlBCOGNhYnFlSGRRRncwQWVUNXZVMVBjZ1Ria0VTNmhBTV84NERLcWNqMEt3SWZVdE04bjJ2WU1JMXFpRy1uNXlGWDFrRHFYUWczV2ZfOGpwQVBLend0WGNvTGtyZld1RzhwR2M0Y250cDhvSnc4VmxBdXpleExjTVBvT0N5Sjd2ZUNYVHd6ZUM1RC1tTkFINU1CZTc4NDdPVUZFRDAyYWZINGRiQXptdEo4Q2"
+    },
+    {
+      "title": "Adolescentes y la inteligencia artificial: convivir con herramientas que no deben decidir por ellos - Buenos Aires Ciudad",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkZWZXFMSVExRUg4SFZZWU1JQUt2bkpjczA3OHJsQ2doLWtscEhlZEFURlpCdzNkRm1zcHVUdkxEZVFYbFhLS1hCM3NJaFdjUmh2azNELW9GUXd2V3NQbktvSVpUbWRqZ3FLWV82VEZRUEFTUTg0WmYxTmltSUlDZExNVHBDQ19vd194d3IySjVTb2JEWVo2d3JHUktNV0RZcGsySWQ4dXZRZ3djYTBSZ3RyWHpRbGxUMHBRNzlUUWo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 05 Jan 2026 18:06:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkZWZXFMSVExRUg4SFZZWU1JQUt2bkpjczA3OHJsQ2doLWtscEhlZEFURlpCdzNkRm1zcHVUdkxEZVFYbFhLS1hCM3NJaFdjUmh2azNELW9GUXd2V3NQbktvSVpUbWRqZ3FLWV82VEZRUEFTUTg0WmYxTmltSUlDZExNVHBDQ19vd194d3IySjVTb2JEWVo2d3JHUktNV0RZcGsySWQ4dXZRZ3djYTBSZ3RyWHpRbGxUMH"
+    },
+    {
+      "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aUlpdXRiNFc0TFE1Uzk4ZXRRcWdRRHpsTGZ1Q2Uta2RsakJFQzhyVdIB6AFBVV95cUxPQy1VNFF1VktzZXlJWWROaEk1TmFsN0ZtTHdhVzhocFRtTzJsS3lYMU95NF9veXp2Tld2WS1JbkFWZ0J2dnFteUw3ZklmLThGenhndERWQXZCTV9tUHd4cEZITjJ4ZjNKdlc4ODV3Ul81UmZMMzJMQ1p1YzF6djRmaFdJVVY2RnBWNk9GUjhBNmlRbGdaaHh1QWh4UjVqRHNPTy1IUGR2V2ZHMGlYR3U4VnJSaTk0Y3EtdHp2aGxZaXZRMkNpdEJsM3EzXzRjVUdURVV6ckZRa0FoUXZCYXhMdU1WQk9YdmlL?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 13 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbkNlT1JMbFdJVFhGc1BaSjRISlcwcWl4R3d5eXN2OUYydE9GY3dYMzZnemZNWkRFWEVZN1JhaGtiSGtlanhfRVVYdHdDS0tnOVQ4QjhkbThXSk9jZXB5Q3ZXUEpCRDV1ZFd1QXlzQjUxLU5SQ21iTzRkdHJwQzljNF90RmlDY1VZRzhJZDBOcm5ZTWpDeDUtMXY2dVdpeDhRekVJVXdfeEdVTjNObEtBc2VUYng3MWk1aU"
+    },
+    {
+      "title": "OPS y la Universidad del Hospital Italiano de Buenos Aires cierran curso regional con diálogo sobre IA, educación y salud - Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTA4dElqb0xnNkNEWVYwcGFZcmd3ZW9JeUY4bFpIVm9McVQzYzA2ZnE3NVd1ekZNcERpZFMyMHI4MHZ0VTM4OExjVkM1UHlrbXZIdzkxYUlRek9VSUFERDY5SEFSbXpQSl9HazY5MkhlZlZkalBmZG42aVBYNkZGUTRVLWVCNTBaSGpHeFFrSGRpemFqODJQLW1mYjBlY2Jmbnd3SzhQZXFtdGRRbUk0aXpHTkExVHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 05 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTA4dElqb0xnNkNEWVYwcGFZcmd3ZW9JeUY4bFpIVm9McVQzYzA2ZnE3NVd1ekZNcERpZFMyMHI4MHZ0VTM4OExjVkM1UHlrbXZIdzkxYUlRek9VSUFERDY5SEFSbXpQSl9HazY5MkhlZlZkalBmZG42aVBYNkZGUTRVLWVCNTBaSGpHeFFrSGRpemFqODJQLW1mYjBlY2Jmbnd3SzhQZXFtdGRRbUk0aXpHTkExVHM?oc"
+    },
+    {
+      "title": "Startups argentinas: biotecnología para sustituir productos tóxicos - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX25OQTR1ZXJwYmo4WlIxUXJrYVBILTN4U2xoQ0tmTTQ2Y3pvNWdvSENMRmNGcnZFT2NhZGE0a0VsZzZkaGwxSVNFZ1BGaWMwa3ZsMll1MXBlODAwbG4wQnF6aU0xc1RwWk9INUhMRzZLcWpTOHVPWG94Um1wM1htMkpGY3REWl9ZdU05aHNhWk5mQXJJalJpS0tTVU9Ddw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 04 Jan 2026 09:15:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPX25OQTR1ZXJwYmo4WlIxUXJrYVBILTN4U2xoQ0tmTTQ2Y3pvNWdvSENMRmNGcnZFT2NhZGE0a0VsZzZkaGwxSVNFZ1BGaWMwa3ZsMll1MXBlODAwbG4wQnF6aU0xc1RwWk9INUhMRzZLcWpTOHVPWG94Um1wM1htMkpGY3REWl9ZdU05aHNhWk5mQXJJalJpS0tTVU9Ddw?oc=5\" target=\"_blank\">Startups arge"
+    },
+    {
+      "title": "Agenda startup 2026: cuáles serán los eventos y convocatorias imperdibles para los emprendedores - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWRNeF9udFI5MWZBeG5RVE1nUjUycXlQTDhlUVVRaW5DRDJrRnpsTkk0eUVsU3JBSzlzVHU4blFXTDd2UDktMzQwSWN6eDRRTU9CUW9IVGNEdk5DM2NqdFAwQVFZc2JCQUFvV1kwMmdmWlRkOVdpY0duaHFwV210YjJyQVVGOEo4Z0NKeG85bjN2aURGaVM3SHhTTDlxcTRSa0FzbmRZelpWS0JhRnVqeXo5U0VNQ0FVZTBMZUM4N0JVZ0xfMnhF0gHMAUFVX3lxTFA5M2Z5bHBLbmcxaDMwVjZpWTU4aUxCSjh0Zk9CSmFNMjBQeG9NTHhpQlplaXVnX0hseVRaTVpnLWdBNlVUX2JvN25namRHWl9XQmVvcHhIQk1zamtVYzAxSElSVm5odjB2bWg0cHBrell2cGxhS2QydDl1UW9Ray1vbXJla2E3WHFCSFUyemJhUHA3RXpYcWxFZGpDajY0SXRrZjJralFveVREY0lQXzh0YmJWaHVNdDh6d1luOG9NMVpOZ2xtZk8zeVJXeg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 01 Jan 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPYWRNeF9udFI5MWZBeG5RVE1nUjUycXlQTDhlUVVRaW5DRDJrRnpsTkk0eUVsU3JBSzlzVHU4blFXTDd2UDktMzQwSWN6eDRRTU9CUW9IVGNEdk5DM2NqdFAwQVFZc2JCQUFvV1kwMmdmWlRkOVdpY0duaHFwV210YjJyQVVGOEo4Z0NKeG85bjN2aURGaVM3SHhTTDlxcTRSa0FzbmRZelpWS0JhRnVqeXo5U0VNQ0FVZT"
+    },
+    {
+      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 05 Jan 2026 17:06:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
+    }
+  ],
+  "count": 14
+}
