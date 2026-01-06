@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El negocio detrás del “AI Living” de Samsung y la oportunidad latinoamericana",
+      "url": "https://expansion.mx/tecnologia/2026/01/06/plan-de-samsung-para-transformar-el-hogar-mexicano-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 06 Jan 2026 21:00:17 GMT",
+      "summary": "Para la empresa surcoreana la región es una de las que más impulso genera en su ecosistema, por ello trae al país a un nuevo directivo."
+    },
+    {
+      "title": "El mundo después de la IA generativa: Nvidia en el CES 2026",
+      "url": "https://expansion.mx/tecnologia/2026/01/06/nvidia-ces-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 06 Jan 2026 20:00:25 GMT",
+      "summary": "Nuevas plataformas, vehículos autónomos más inteligentes y agentes de IA que ya interactúan con el mundo físico son parte de la visión de Nvidia hacia el futuro."
+    },
+    {
       "title": "La nueva frontera de Qualcomm está más allá del celular o la computadora",
       "url": "https://expansion.mx/tecnologia/2026/01/06/qualcomm-quiere-competir-amn-nvidia-intel-chips",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Las apuestas presentadas en el CES 2026 abarcan pantallas, tabletas y celulares, pero uno de los focos más importantes fueron los productos enfocados en el Mundial."
     },
     {
-      "title": "AMD revoluciona la IA, el gaming y las PC en CES 2026",
-      "url": "https://expansion.mx/tecnologia/2026/01/06/amd-revoluciona-la-ia-el-gaming-y-las-pc-en-ces-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Jan 2026 13:00:48 GMT",
-      "summary": "En CES 2026, la empresa de Lisa Su presentó nuevos procesadores Ryzen para cómputo personal e IA, además de nuevas tecnologías en gaming, una ofensiva que apunta a profesionales, gamers y empresas."
-    },
-    {
-      "title": "Dell revive esta categoría de computadoras que sacó hace solo un año",
-      "url": "https://expansion.mx/tecnologia/2026/01/05/dell-revive-esta-categoria-e-computadoras-que-saco-hace-solo-un-ano",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 05 Jan 2026 23:01:03 GMT",
-      "summary": "Dell rectifica su estrategia y devuelve a la vida a XPS, una marca que sus clientes nunca quisieron perder."
+      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
       "title": "Cofundador de Genia Uno deplora falta de ética en la animación digital en México - El Cronista",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Tue, 06 Jan 2026 12:00:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQWnRiSVFEbzdrRzN6VExTX0FDbnJBSlJxQkJPblI2a1RnbXlNUDdKVnZsS1Y5bVBSejY3Z18xODNJWjRoLXRuWEh6Z3dtWl84SFRXNmFpYjJJTVBWZ0dpalg2a0dDa2hfMi1tOGtHOVBWMmZvTkZXbHBoaUZFNkR5ME1wYkZaU29YRjE4dzZ2c1RELWIzMXUzcXhtczJyMndZc1pBUlRON1BoX3VYd3ZqZ1JHS1hUcE9BMU"
-    },
-    {
-      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
       "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
