@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Qira, la apuesta de Lenovo para que la IA viva en todos tus dispositivos",
+      "url": "https://expansion.mx/tecnologia/2026/01/07/lenovo-lanza-qira-agente-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Jan 2026 15:30:33 GMT",
+      "summary": "En CES 2026, la empresa presentó su sistema de IA transversal, acuerdos estratégicos con Nvidia, AMD, Intel y Qualcomm para acelerar la adopción de la tecnología empresarial y de consumo."
+    },
+    {
       "title": "El caso Grok no es aislado, la pornografía hecha con IA se expande",
       "url": "https://expansion.mx/tecnologia/2026/01/07/grok-destapa-el-negocio-de-la-pornografia-con-ia",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Para la empresa surcoreana la región es una de las que más impulso genera en su ecosistema, por ello trae al país a un nuevo directivo."
     },
     {
-      "title": "El mundo después de la IA generativa: Nvidia en el CES 2026",
-      "url": "https://expansion.mx/tecnologia/2026/01/06/nvidia-ces-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Jan 2026 20:00:25 GMT",
-      "summary": "Nuevas plataformas, vehículos autónomos más inteligentes y agentes de IA que ya interactúan con el mundo físico son parte de la visión de Nvidia hacia el futuro."
-    },
-    {
       "title": "Inteligencia Artificial, clave para la supervivencia de la logística en México: Konfront - T21",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3ZNUzlzdTFGb1RmWWFJenN4LTRzTVRGTEZRb1pOTmJPNm4zWmxkR1dWV2RBNGJTSjh0MXFlc3dsMHBDSDZMTG10RWViZW1IUDg4Q01qOEVHYlFkU0hPanpHZ2pQMkNON2piV1R4cV9kU1pTczZFUDgyQzdvRDlLQnJfLTNKMDRlRklBaktUSDY3cTZYOXVodndacGszQlFOMkZfZzFJQi1tUQ?oc=5",
       "source": "Google News",
@@ -59,12 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
-      "title": "Citlalli Hernández Mora acusa falta de filtros en la IA Grok ante casos de violencia digital contra las mujeres - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTzhQeUFuRTFoTDRNLVMtRVlHTmNVcTMwbF9vQ1RpY0JlcmgxRDNKeF9BZWpMNlpnMi1BOGU1RVFDY0VBX2hzb2pUcWg2UWJZQ1FmUkZxZlVMWU9zNDZ1OEstNVpXNzJXSm8tZE93Z1hYZHdGd2YzblZGVlV3dHljeVRJLXducE9OVnhISEhUampkbmwxc0VxSlp1Ul84YVo1TXBPbUtDMko5aWhPVXlIcEVoSGk2MXpPN3REczhfX0lSVmNDMnpTRzZNREZteGtpdGVDTjJaVm9VSzRRUlJ2djYzUVBjcXFEY3fSAYQCQVVfeXFMTVp1SnhITnI4THBBVFQwcFh6UUxwXzhGZ1NBN1dfNGdoeFVsclNNQnpHMVNHa3FGcmdWbDBOckZ4VklOV0RUUGlwRkFGTl9xcnN4d0hES0ZHNzhVQUZwY3RlVEJ0WkpTLUR3TU00VExOZ1RDOVZBV1gxVjFhUkdvamFWUE1qRkUyMFRvUGdTRnZMRG9jNk9xaFlzQkJHRmNrMmw2a0g0emd1VmVjZ0lJTDRZN003cVhuNi1vdURKUTVkT09rUHFzRlpXTFIxV1lieWpmZ094UTZSSXV3LVNwVFBCd29MNnU4Zi1yVjNCWDVESWxaTS1fbDZ2UXlrQzJjYTVaTkI?oc=5",
+      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Jan 2026 02:35:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTzhQeUFuRTFoTDRNLVMtRVlHTmNVcTMwbF9vQ1RpY0JlcmgxRDNKeF9BZWpMNlpnMi1BOGU1RVFDY0VBX2hzb2pUcWg2UWJZQ1FmUkZxZlVMWU9zNDZ1OEstNVpXNzJXSm8tZE93Z1hYZHdGd2YzblZGVlV3dHljeVRJLXducE9OVnhISEhUampkbmwxc0VxSlp1Ul84YVo1TXBPbUtDMko5aWhPVXlIcEVoSGk2MXpPN3"
+      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+    },
+    {
+      "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Jan 2026 16:45:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
     },
     {
       "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Thu, 25 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDhxczhnTXBpN2JCWWF0ek1YYng2T283em03VzBzXzFDajVNUHZUZmN3QXl1cEd0RDFEblB4dmlsOTdUMHVaZUc2RW1Vc1ZqMUJVN1hjeHp1UWMwQnZ1UDBUVVdZNEpTOTZ1RFdZQzRYeE9CaldyZFlfTXpuUmZ0ZUw1SDMyTjFBbFZhMXB6T2JnWk9HSXVrYQ?oc=5\" target=\"_blank\">Nvidia adquiere Groq "
-    },
-    {
-      "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1hJYmk4MU1ZY0x1RVpKZDR6bVIxYUhjR1U5eEcwUTlOLWJ2WGVEd3NWVzhsSFYzamRZaWlZVTE1aFdsMHdOOUlySGVKb1lyaGlDZkZINEVqRHFwUlI4SVg5SlpPWFE2cG53NVBvTjBsbmZpQXJWdlFKYThZdXJsN19kUUkyY2VwUHkta3Uzek9mOURvQXZkbTdjRm05cjV1RlJSdDJoalhOYzdvSThJV19QNDRoX1JBMjQ3NVRIVmFuVGZYMmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
