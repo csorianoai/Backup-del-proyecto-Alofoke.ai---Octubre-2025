@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "UNAM detecta hackeo a sus sistemas informáticos",
+      "url": "https://expansion.mx/tecnologia/2026/01/08/unam-admite-hackeo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Jan 2026 13:33:42 GMT",
+      "summary": "La UNAM afirma que se activaron los protocolos de seguridad y que ya se preparan las denuncias legales correspondientes."
+    },
+    {
+      "title": "Nvidia, AMD e Intel ahora pelearán por la ‘IA física’",
+      "url": "https://expansion.mx/tecnologia/2026/01/08/nvidia-amd-intel-ces-2026-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Jan 2026 11:55:24 GMT",
+      "summary": "Los lanzamientos que cada una de las empresas hizo durante el CES 2026 tuvieron un foco en el siguiente paso de la IA."
+    },
+    {
       "title": "El hardware toma forma humana en el CES 2026",
       "url": "https://expansion.mx/tecnologia/2026/01/07/tendencias-ces-2026",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Los usos de la Inteligencia Artificial generativa plantean desafíos en materia regulatoria, uno de los casos más recientes es el protagonizado por xAI."
     },
     {
-      "title": "Motorola lanza un Razr Fold y un Signature, alejándose de la gama media",
-      "url": "https://expansion.mx/tecnologia/2026/01/06/gama-media-smartphones-no-alcanza-motorola-razr-fold",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 07 Jan 2026 01:00:09 GMT",
-      "summary": "Los nuevos dispositivos, uno tipo libro y uno más con características que competirán con marcas como Samsung y Apple, quienes dominan la gama premium."
-    },
-    {
-      "title": "La IA rediseña desde computadoras hasta la nube: Intel",
-      "url": "https://expansion.mx/tecnologia/2026/01/06/intel-presenta-core-ultra-series-3",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Jan 2026 23:00:12 GMT",
-      "summary": "La compañía anunció los Core Ultra Series 3, capaces de ejecutar tareas de IA directamente en el equipo, mejorar la duración de la batería y ofrecer gráficos de alto nivel."
+      "title": "AMA y Púrpura IA impulsan inteligencia artificial en seguros y fianzas - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNal9VN2RxSkR5M0VHRmVsSU1jdUpPSG5VV3JiZVd2dE81QVpLUWlsWWY3N19NY1FiSEZTTl9HbEZubXU1WHZRRUpGWC1hekh0cHNnV1g0b2pWekhnalY3b2N4Mm90NlY1bko5QkdLaHVzdTRBWklxcnVNSnFycC16ZlpzSUo5ZFJxXzgySk5aYnRLZUlSemxQaFA2bW9XM0VleVZUcE1jZW9XWmtHU0lVX3ZVdkFrTXFTd0xpbnUwQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 08 Jan 2026 15:31:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNal9VN2RxSkR5M0VHRmVsSU1jdUpPSG5VV3JiZVd2dE81QVpLUWlsWWY3N19NY1FiSEZTTl9HbEZubXU1WHZRRUpGWC1hekh0cHNnV1g0b2pWekhnalY3b2N4Mm90NlY1bko5QkdLaHVzdTRBWklxcnVNSnFycC16ZlpzSUo5ZFJxXzgySk5aYnRLZUlSemxQaFA2bW9XM0VleVZUcE1jZW9XWmtHU0lVX3ZVdkFrTXFTd0"
     },
     {
       "title": "Iniciativas en Nuevo México para regular la inteligencia artificial - Telemundo Nuevo México",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Thu, 08 Jan 2026 00:27:51 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1NkRUNNdzN1VFNpSjI5NFpYZ1B2dUlobEViUmM1X3JWYWdNMkdINllOM21UQU5KemdjekRWVGtJcUc0aUV4aExEZUQ5R1BPVmhIVEFISFNOcE1xa2EzYUh2clpuVXJNYU1tQVg4NklQeFBOUVJqck9ZVDJ5bGpLM1k1ME9pOWlSVUMwVXQxT2xmN1B5N29wWEJkM2V3OXdzSmUwcS1adHE?oc=5\" target=\"_blank\">"
-    },
-    {
-      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
