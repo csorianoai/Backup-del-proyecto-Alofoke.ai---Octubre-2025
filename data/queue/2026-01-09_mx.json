@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La salud en forma de tecnología: los dispositivos que marcaron el CES 2026",
+      "url": "https://expansion.mx/tecnologia/2026/01/09/salud-dispositivos-que-marcaron-el-ces-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 09 Jan 2026 20:15:05 GMT",
+      "summary": "Exoesqueletos, robots de salud, dispositivos de lactancia inteligente y nuevos estándares de IA médica marcaron el rumbo de la salud en el CES 2026."
+    },
+    {
       "title": "Detrás del boicot de Café Tacvba a Spotify: ¿tu suscripción realmente financia la guerra?",
       "url": "https://expansion.mx/tecnologia/2026/01/09/boicot-cafe-tacvba-spotify-tu-suscripcion-financia-guerra",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Detener la circulación de imágenes íntimas sin consentimiento es posible mediante un procedimiento que prioriza la privacidad y limita nuevas publicaciones del mismo contenido."
     },
     {
-      "title": "El hackeo de la UNAM evidencia la falta de ciberseguridad en universidades",
-      "url": "https://expansion.mx/tecnologia/2026/01/08/hackeo-unam-prende-alertas-ciberseguridad-universidades",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Jan 2026 19:45:01 GMT",
-      "summary": "Aunque oficialmente la institución académica señaló que se trata de un hackeo a pocos sistemas, las universidades son atractivas para el cibercrimen por varias razones."
+      "title": "Call AI y el reto de llevar la inteligencia artificial a entornos donde la nube no es una opción - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnJJVzBtSlhxekZRQTMzY19YczZ5UWdMS2NKMzNyNWNyaXQyWVFYXzJfQlVnU2lHQTJKQmZqSTBicDIyQndzdnpRYWtja1BXeHFyTnFUeHdaeU5qdDJLV0JhNTZJWVF4WWZYY2FOWmtxT2g0LVVmSzFxbnVWcUtEekE5RHV0N3lDUDR1MHRoYjlhZGR2RE81eVBVc2ZHUGxSTHlFS0xSZWE0VmFYR0dXaWpYX2NUZ0VGVjhUSExEczJwOXQ4TUlMREtKVDJlWlRZeWVHQUNMbk11VVpLcWFYcVBR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 09 Jan 2026 19:19:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnJJVzBtSlhxekZRQTMzY19YczZ5UWdMS2NKMzNyNWNyaXQyWVFYXzJfQlVnU2lHQTJKQmZqSTBicDIyQndzdnpRYWtja1BXeHFyTnFUeHdaeU5qdDJLV0JhNTZJWVF4WWZYY2FOWmtxT2g0LVVmSzFxbnVWcUtEekE5RHV0N3lDUDR1MHRoYjlhZGR2RE81eVBVc2ZHUGxSTHlFS0xSZWE0VmFYR0dXaWpYX2NUZ0VGVj"
     },
     {
       "title": "Tammy Parra desata críticas tras sugerir usar la IA como asesor psicológico: “Te da unas buenas cachetadas” - Infobae",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Fri, 09 Jan 2026 15:44:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ3YxSEkzYURCcXQyTkxMc2Z0LVBseW9xYWVjaHlHRm5qTTBjNUQzTXpJSWVMZk5PQjY5OXdrWUhIbDJfWjNHc0ZKUkxvcWxQUTU2Q0E2bHZWajJPTmN1WE9qLXZsd2NJTkdkRmpTMklQQnBjZE5VemVqNmpGLTBkT0FNa05aS1k1Q0xqR2h5bmtxUDFNZGtMRW9pNUdpNXE2UzZGZjFYVVBOTnRheE1DU0pBVDBNbk5mc1"
-    },
-    {
-      "title": "AMA y Púrpura IA impulsan inteligencia artificial en seguros y fianzas - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNal9VN2RxSkR5M0VHRmVsSU1jdUpPSG5VV3JiZVd2dE81QVpLUWlsWWY3N19NY1FiSEZTTl9HbEZubXU1WHZRRUpGWC1hekh0cHNnV1g0b2pWekhnalY3b2N4Mm90NlY1bko5QkdLaHVzdTRBWklxcnVNSnFycC16ZlpzSUo5ZFJxXzgySk5aYnRLZUlSemxQaFA2bW9XM0VleVZUcE1jZW9XWmtHU0lVX3ZVdkFrTXFTd0xpbnUwQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 08 Jan 2026 15:07:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNal9VN2RxSkR5M0VHRmVsSU1jdUpPSG5VV3JiZVd2dE81QVpLUWlsWWY3N19NY1FiSEZTTl9HbEZubXU1WHZRRUpGWC1hekh0cHNnV1g0b2pWekhnalY3b2N4Mm90NlY1bko5QkdLaHVzdTRBWklxcnVNSnFycC16ZlpzSUo5ZFJxXzgySk5aYnRLZUlSemxQaFA2bW9XM0VleVZUcE1jZW9XWmtHU0lVX3ZVdkFrTXFTd0"
     },
     {
       "title": "Iniciativas en Nuevo México para regular la inteligencia artificial - Telemundo Nuevo México",
