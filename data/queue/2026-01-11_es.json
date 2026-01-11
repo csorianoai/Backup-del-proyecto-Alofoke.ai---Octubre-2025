@@ -3,6 +3,14 @@
   "country": "es",
   "articles": [
     {
+      "title": "Las protestas se recrudecen en Irán con cientos de muertos y miles de detenidos",
+      "url": "https://elpais.com/internacional/2026-01-11/las-protestas-en-iran-desafian-al-regimen-pese-a-la-dura-represion.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 11 Jan 2026 17:11:57 GMT",
+      "summary": "El presidente iraní acusa a Estados Unidos e Israel de querer “sembrar el caos y el desorden” en Irán con el despliegue de “terroristas”"
+    },
+    {
       "title": "Trump impone su ley",
       "url": "https://elpais.com/internacional/2026-01-11/trump-quiere-imponer-su-ley.html",
       "source": "El País Tecnología",
@@ -11,28 +19,12 @@
       "summary": "Tras la intervención en Venezuela, el presidente de Estados Unidos se siente cada vez más libre para actuar sin cortapisas frente a otros gobiernos"
     },
     {
-      "title": "Del asalto en Caracas al reparto del petróleo: siete días que sacudieron al mundo",
-      "url": "https://elpais.com/internacional/2026-01-11/del-asalto-en-caracas-al-reparto-del-petroleo-siete-dias-que-sacudieron-al-mundo.html",
+      "title": "Trump lanza un ultimátum a Cuba: “Pacten con Estados Unidos antes de que sea demasiado tarde”",
+      "url": "https://elpais.com/internacional/2026-01-11/trump-lanza-un-ultimatum-a-cuba-pacten-con-estados-unidos-antes-de-que-sea-demasiado-tarde.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 11 Jan 2026 04:30:01 GMT",
-      "summary": "Donald Trump tomó la decisión de bombardear puntos estratégicos de Venezuela y capturar al presidente Maduro a las 22.46 del 3 de enero. Acababa de nacer un nuevo orden mundial"
-    },
-    {
-      "title": "Vértigo en la ‘nueva Venezuela’ de Delcy Rodríguez",
-      "url": "https://elpais.com/america/2026-01-11/el-vertigo-de-la-vida-en-venezuela-con-delcy-rodriguez.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 11 Jan 2026 04:30:01 GMT",
-      "summary": "El país cumple una semana en ‘shock’ y con cambios a velocidad de la luz tras la captura de Maduro, un líder omnipresente en la vida cotidiana de los venezolanos"
-    },
-    {
-      "title": "Maduro se enfrenta a un calvario judicial mientras espera en la cárcel conocida como el “infierno en la tierra”",
-      "url": "https://elpais.com/internacional/2026-01-11/maduro-se-enfrenta-a-un-calvario-judicial-mientras-espera-en-la-carcel-conocida-como-el-infierno-en-la-tierra.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 11 Jan 2026 04:30:01 GMT",
-      "summary": "El expresidente de Venezuela espera en Nueva York un juicio en el que previsiblemente argumentará que se vulneró la legislación internacional y que debe respetarse la inmunidad diplomática"
+      "published": "Sun, 11 Jan 2026 18:20:43 GMT",
+      "summary": "El presidente cubano responde desafiante al republicano, que considera que el Gobierno de la isla caerá sin el crudo de Caracas"
     },
     {
       "title": "La vida en Cuba tras la amenaza de Trump: “Esto es un barco a la deriva”",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Sun, 11 Jan 2026 04:30:01 GMT",
       "summary": "La Habana, sumida en una profunda crisis estructural, aguarda con incertidumbre y ansiedad los próximos movimientos de Estados Unidos tras atacar Venezuela"
+    },
+    {
+      "title": "Crece la incertidumbre por la lenta excarcelación de presos políticos en Venezuela",
+      "url": "https://elpais.com/america/2026-01-11/crece-la-incertidumbre-por-la-lenta-excarcelacion-de-presos-politicos-en-venezuela.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 11 Jan 2026 16:56:31 GMT",
+      "summary": "Desde el anuncio de una liberación masiva apenas se han confirmado 16 salidas de prisión. Las familias denuncian la falta de información"
     },
     {
       "title": "Se acelera la adopción global de la Inteligencia Artificial y España consolida su posición entre los países líderes - Microsoft Source",
@@ -83,20 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUxpWi13Q3dwS2tDci03a1BFRXJMWW14cjE5Z0d3UDhGUXpHQmhTXzFLVkFIVnozd09TblVFd0hOSHluaHNrY29rWVoxZ3lqVkJWS3dGd3ZjMWEtMFNTZW9TZlRRQ0lPVUJ0aDJsN0NFWEhTODBkMk16eHRsSTBzR2hRbnFKYmR6c283S29rVmZzS0x1R3Y4am5NSmU?oc=5\" target=\"_blank\">Jakaton Ventures"
     },
     {
-      "title": "Carlos Mateo: “La inmensa mayoría de ‘startups’ que hay en España son tecnológicas” - COMPUTERWORLD ESPAÑA",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktDSWJjeEw5RHQtQ1dXUWJJNHJXRVNWUk9semFjdlJwOGJ6UEFfa0o3YlBNX0EtdEp3cHhvRDVWNjdLX2s5M3ljRW93T2dsQTVSa0FPYWhjMGc3TWJQRXM4TFl5R3RCWHd3YUswS1dfS192aUNKdTVSNGUxRGdpRGVCbi1HYkJGZXZJUk9XcE5nTVRaaUtpZXlkTXhxdjUzaGpoTUE5emRyOEFNbG9KU3BYZWF4ZnQwVFM0Z3lLaVp0OVpmSXhZ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktDSWJjeEw5RHQtQ1dXUWJJNHJXRVNWUk9semFjdlJwOGJ6UEFfa0o3YlBNX0EtdEp3cHhvRDVWNjdLX2s5M3ljRW93T2dsQTVSa0FPYWhjMGc3TWJQRXM4TFl5R3RCWHd3YUswS1dfS192aUNKdTVSNGUxRGdpRGVCbi1HYkJGZXZJUk9XcE5nTVRaaUtpZXlkTXhxdjUzaGpoTUE5emRyOEFNbG9KU3BYZWF4ZnQwVF"
-    },
-    {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm16U3liWXljLWwydi1hQ05OWC02Vll1N2s00gHYAUFVX3lxTE1nU2tjbXpDZFpIb2lXdGF2TEM5eXNSWWI4QjJJSUZKWjNKWlZkVlZMRTZwLURiODcwRDBzZEVDV3R4UElKeU9la0FmanNBTW5yWW5UM1JKWjRMbXhKX2FVYVFRNGpIR19qUEwwYjVwVW16SEI2WmZReUJrSk1PNEFUaTFMM1BvRDhjY0VnSTB3eG02SjJHcDlBQlNQWE1RWDVXUlRDS3RCM2FNZkV2OTZ5UTdoYnFFZEZtb1R5VmtYS20zTU1ZanNvLWRfeDljNGFBQnFUa2dKcw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 31 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
+    },
+    {
+      "title": "Carlos Mateo: “La inmensa mayoría de ‘startups’ que hay en España son tecnológicas” - COMPUTERWORLD ESPAÑA",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktDSWJjeEw5RHQtQ1dXUWJJNHJXRVNWUk9semFjdlJwOGJ6UEFfa0o3YlBNX0EtdEp3cHhvRDVWNjdLX2s5M3ljRW93T2dsQTVSa0FPYWhjMGc3TWJQRXM4TFl5R3RCWHd3YUswS1dfS192aUNKdTVSNGUxRGdpRGVCbi1HYkJGZXZJUk9XcE5nTVRaaUtpZXlkTXhxdjUzaGpoTUE5emRyOEFNbG9KU3BYZWF4ZnQwVFM0Z3lLaVp0OVpmSXhZ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUktDSWJjeEw5RHQtQ1dXUWJJNHJXRVNWUk9semFjdlJwOGJ6UEFfa0o3YlBNX0EtdEp3cHhvRDVWNjdLX2s5M3ljRW93T2dsQTVSa0FPYWhjMGc3TWJQRXM4TFl5R3RCWHd3YUswS1dfS192aUNKdTVSNGUxRGdpRGVCbi1HYkJGZXZJUk9XcE5nTVRaaUtpZXlkTXhxdjUzaGpoTUE5emRyOEFNbG9KU3BYZWF4ZnQwVF"
     },
     {
       "title": "La Comunidad de Madrid lanza una nueva convocatoria de los Centros Europeos de Innovación Digital con protagonismo de la IA - Comunidad de Madrid |",
