@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Salud femenina y tecnología: un mercado de 100,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/01/12/vacio-salud-femenina-mercado-global-tecnologia-medica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Jan 2026 19:00:40 GMT",
+      "summary": "La falta de datos y atención en la salud de las mujeres abrió la puerta a una nueva economía impulsada por tecnología."
+    },
+    {
+      "title": "Fallas en Movistar México este lunes 12 de enero afectan llamadas e internet móvil",
+      "url": "https://expansion.mx/tecnologia/2026/01/12/falla-movistar-hoy-12-de-enero",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Jan 2026 18:52:18 GMT",
+      "summary": "La empresa reconoce los problemas a través de su cuenta en X y asegura que ya trabaja para restablecer el servicio en las zonas afectadas."
+    },
+    {
       "title": "Alphabet supera capitalización de 4 billones de dólares",
       "url": "https://expansion.mx/tecnologia/2026/01/12/alphabet-supera-capitalizacion-de-4-billones-de-dolares",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Detener la circulación de imágenes íntimas sin consentimiento es posible mediante un procedimiento que prioriza la privacidad y limita nuevas publicaciones del mismo contenido."
     },
     {
-      "title": "La salud en forma de tecnología: los dispositivos que marcaron el CES 2026",
-      "url": "https://expansion.mx/tecnologia/2026/01/09/salud-dispositivos-que-marcaron-el-ces-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Jan 2026 20:15:05 GMT",
-      "summary": "Exoesqueletos, robots de salud, dispositivos de lactancia inteligente y nuevos estándares de IA médica marcaron el rumbo de la salud en el CES 2026."
-    },
-    {
-      "title": "Detrás del boicot de Café Tacvba a Spotify: ¿tu suscripción realmente financia la guerra?",
-      "url": "https://expansion.mx/tecnologia/2026/01/09/boicot-cafe-tacvba-spotify-tu-suscripcion-financia-guerra",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Jan 2026 18:28:08 GMT",
-      "summary": "En un video, Rubén Albarrán explicó que la banda no quiere vincularse con empresas que promuevan guerras o vulneren los derechos de los migrantes."
-    },
-    {
       "title": "México moderniza sus bachilleratos técnicos con nuevas carreras en inteligencia artificial, robótica y nanotecnología - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUzU2Z2tvTDM3Z1pKQ0F5aTJUSTJyRWpmMUlZUXVMZzlHek9weC12ZWlMamRIeTY3TmtYZzBtM19FeGtDNEt6blpKYW0?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUz"
     },
     {
-      "title": "PotencIA Mx, la apuesta de México por impulsar la inteligencia artificial en las pymes y startups - El Español",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQblBHaUt5aExQRktRTS0zS0JpV0Iwd1lpRVUtTTREMkw2UGZLVE9aVnFaaG9sQ3pBMXoxRVhDeHRDMU5SZmF6WlMxRndkelh3YUJ2ZjZfb2xGVHFPaElNaXY2OHhrRVpJTHItSGI5N1hnb21VYjktVGhhY2g1ZG9PZEVON1dSVTdhNmtpNjYxUDhjMDRtZlhFRnJMcUVQRV9mRy04bmtvRGNsWGZvNFZPeHNKY2NDVWZBYzgyQVpXWnA2bkZfZEFnYXo4T2Q2cks2dVk3a21oMk1HQUtaU1U1clhvSVdPQVhTdmtZMDhFTGxYd9IB9wFBVV95cUxPazl6MDE0V0VBNFRJc05ONXg3QlBuQ0tkM3cyWGlZang0TVFZWTdNekUxSE1iajE2bzRSWjk2QlRubnVDNm9zV2xybW5sNjlfQXd0c19CQ3hHaTUyUkFMbHNqTXR3LUU3dzJMVHU0NmttYmE2NXNjdDB4V3htTXVCTUFtOGVVeHFCMFpQcGtNYkFBQmdPaHhmWV9KQVlxWWcyZ1VFOEtKQnFReTlOLXhMbDl4Y1Ffek9SaWU5Skg5cjJ2aXM5cHpQNHF3Rmp2S1ZCMkNaQ1k1bE9ubG0wYVh0Mmw1eHhlbWhQNmhUSGlfckl1cVVFa19Z?oc=5",
+      "title": "Chile y México se unen para fomentar el desarrollo responsable de la inteligencia artificial - El Español",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZkZxZWFJUVBuNFB4aFVLMEZtcFMyTTdoTVNIdWN0OVlsdFlXMWFFQS1Lc1UxQ0sycWJ6ZW8tb3J1TmxvMmF6Z3Y5R3VGdXNtSXFxXzlYNVY3RzF4eE9VYXkwTlJLOVRZYUdxQjZNVDAyekt1M3VRSHkwMFZ2Nl9zNUJjaWlYdGZIWTk2dVFtZ1J2NEQweHA0ZF9TakJrUnNSbnoyYVFkMVkxRkJUTV9GU0Z1bXN1VW9heUs5Vmc1cWRvMDRBUjlhbzJQWF9xWXAybEYzUDJLREVwV2pPU2ktaWZGLUthQU5BUHJ1UmUyeFXSAfYBQVVfeXFMUEdvWmlnM0xHR01EZmdLcWZMUDhVR2ZlQmh5eDktNDZwZDd3TEtkR1FaU3pZQnFwNXU2WlRlaDRXcWZhTHJLSmdxeS1tb3NuaTRUb1c5OVBaTGVLVzdFRWkyUTBBRVBBckxhYnBESFN0TUdPeklSbWVRMnpqekVJN0pwaV93NkJtckdCLWJMT1pFNkFYRmdXckxiS1RSVGZZR0xCbk5HdnhCZHc2VF84bFB2X1RoZlFybzdfTlJsQ3I4QjdhZHhFYUszWWNuYkR2ZHVWeDR5Q3RqeTd1ZHR3WXduaDZaR2hkeTdMa25ZUGM4WTVEX1l3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 12 Jan 2026 11:46:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQblBHaUt5aExQRktRTS0zS0JpV0Iwd1lpRVUtTTREMkw2UGZLVE9aVnFaaG9sQ3pBMXoxRVhDeHRDMU5SZmF6WlMxRndkelh3YUJ2ZjZfb2xGVHFPaElNaXY2OHhrRVpJTHItSGI5N1hnb21VYjktVGhhY2g1ZG9PZEVON1dSVTdhNmtpNjYxUDhjMDRtZlhFRnJMcUVQRV9mRy04bmtvRGNsWGZvNFZPeHNKY2NDVWZBYz"
+      "published": "Mon, 12 Jan 2026 17:14:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZkZxZWFJUVBuNFB4aFVLMEZtcFMyTTdoTVNIdWN0OVlsdFlXMWFFQS1Lc1UxQ0sycWJ6ZW8tb3J1TmxvMmF6Z3Y5R3VGdXNtSXFxXzlYNVY3RzF4eE9VYXkwTlJLOVRZYUdxQjZNVDAyekt1M3VRSHkwMFZ2Nl9zNUJjaWlYdGZIWTk2dVFtZ1J2NEQweHA0ZF9TakJrUnNSbnoyYVFkMVkxRkJUTV9GU0Z1bXN1VW9heU"
     },
     {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
+      "title": "Walmart Connect México eligió Advertima para el mayor despliegue global de IA en tienda - Insider Latam",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazVaU2twTVJwekNIVkVNV0M1WU9maTlhS05FR3pJWlZqdkZJanU1amRzTEl1Y2hWazc1dGpZYnRpUUZZTHFXY3JCSXpDRXRWcVVKSmh1MVFjYzFlNW4tTENMYkVIRzNleWc0TGl2dW13WEQzTmJ1b3V2d3Y3TGxWUWpBZkJWVFVpcGkzMkhjTnpnb2FPQUt2T2d1bExHU1hfaWdWRFhuVHkzY0xlRkVpRVIwTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+      "published": "Mon, 12 Jan 2026 19:29:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOazVaU2twTVJwekNIVkVNV0M1WU9maTlhS05FR3pJWlZqdkZJanU1amRzTEl1Y2hWazc1dGpZYnRpUUZZTHFXY3JCSXpDRXRWcVVKSmh1MVFjYzFlNW4tTENMYkVIRzNleWc0TGl2dW13WEQzTmJ1b3V2d3Y3TGxWUWpBZkJWVFVpcGkzMkhjTnpnb2FPQUt2T2d1bExHU1hfaWdWRFhuVHkzY0xlRkVpRVIwTQ?oc=5\" t"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
