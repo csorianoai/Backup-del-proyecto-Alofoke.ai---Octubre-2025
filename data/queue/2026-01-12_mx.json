@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Alphabet supera capitalización de 4 billones de dólares",
+      "url": "https://expansion.mx/tecnologia/2026/01/12/alphabet-supera-capitalizacion-de-4-billones-de-dolares",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Jan 2026 17:00:20 GMT",
+      "summary": "La empresa recién presentó una serie de herramientas que ayudarán a retailers a vender más a agentes de IA, por lo que logró rebasar este hito."
+    },
+    {
+      "title": "Reseña: HP ProBook 440 G11, una laptop hecha para el trabajo diario",
+      "url": "https://expansion.mx/tecnologia/2026/01/12/resena-hp-probook-440-g11",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Jan 2026 15:00:04 GMT",
+      "summary": "Una laptop para estudiantes, profesionistas y oficinas que necesitan trabajar sin interrupciones. Analizamos su desempeño tras dos semanas de uso continuo."
+    },
+    {
       "title": "Si alguien usó tu foto para un desnudo falso con IA, así puedes bajarla de Facebook, X e Instagram",
       "url": "https://expansion.mx/tecnologia/2026/01/11/desnudo-falso-ia-eliminar-fotos-facebook-x-instagram",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "En un video, Rubén Albarrán explicó que la banda no quiere vincularse con empresas que promuevan guerras o vulneren los derechos de los migrantes."
     },
     {
-      "title": "Sin cargador, sin jack, sin SIM: todo lo que el teléfono perdió para convertirse en smartphone",
-      "url": "https://expansion.mx/tecnologia/2026/01/09/sin-cargador-sin-jack-sin-sim-todo-lo-que-el-telefono-perdio-para-convertirse-en-smartphone",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Jan 2026 11:55:25 GMT",
-      "summary": "Desde el teclado físico hasta la tarjeta SIM, el smartphone moderno se construyó eliminando piezas que alguna vez fueron esenciales."
-    },
-    {
-      "title": "Tu laptop será más costosa en 2026",
-      "url": "https://expansion.mx/tecnologia/2026/01/08/laptops-mas-caras-nvidia-rubin-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Jan 2026 23:12:41 GMT",
-      "summary": "Las innovaciones en torno a muchos de los insumos de laptops y la fiebre por la IA disparan los precios de este tipo de gadgets."
+      "title": "México moderniza sus bachilleratos técnicos con nuevas carreras en inteligencia artificial, robótica y nanotecnología - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUzU2Z2tvTDM3Z1pKQ0F5aTJUSTJyRWpmMUlZUXVMZzlHek9weC12ZWlMamRIeTY3TmtYZzBtM19FeGtDNEt6blpKYW0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 12 Jan 2026 15:32:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUz"
     },
     {
       "title": "PotencIA Mx, la apuesta de México por impulsar la inteligencia artificial en las pymes y startups - El Español",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQblBHaUt5aExQRktRTS0zS0JpV0Iwd1lpRVUtTTREMkw2UGZLVE9aVnFaaG9sQ3pBMXoxRVhDeHRDMU5SZmF6WlMxRndkelh3YUJ2ZjZfb2xGVHFPaElNaXY2OHhrRVpJTHItSGI5N1hnb21VYjktVGhhY2g1ZG9PZEVON1dSVTdhNmtpNjYxUDhjMDRtZlhFRnJMcUVQRV9mRy04bmtvRGNsWGZvNFZPeHNKY2NDVWZBYz"
     },
     {
-      "title": "Call AI y el reto de llevar la inteligencia artificial a entornos donde la nube no es una opción - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnJJVzBtSlhxekZRQTMzY19YczZ5UWdMS2NKMzNyNWNyaXQyWVFYXzJfQlVnU2lHQTJKQmZqSTBicDIyQndzdnpRYWtja1BXeHFyTnFUeHdaeU5qdDJLV0JhNTZJWVF4WWZYY2FOWmtxT2g0LVVmSzFxbnVWcUtEekE5RHV0N3lDUDR1MHRoYjlhZGR2RE81eVBVc2ZHUGxSTHlFS0xSZWE0VmFYR0dXaWpYX2NUZ0VGVjhUSExEczJwOXQ4TUlMREtKVDJlWlRZeWVHQUNMbk11VVpLcWFYcVBR?oc=5",
+      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 09 Jan 2026 19:19:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnJJVzBtSlhxekZRQTMzY19YczZ5UWdMS2NKMzNyNWNyaXQyWVFYXzJfQlVnU2lHQTJKQmZqSTBicDIyQndzdnpRYWtja1BXeHFyTnFUeHdaeU5qdDJLV0JhNTZJWVF4WWZYY2FOWmtxT2g0LVVmSzFxbnVWcUtEekE5RHV0N3lDUDR1MHRoYjlhZGR2RE81eVBVc2ZHUGxSTHlFS0xSZWE0VmFYR0dXaWpYX2NUZ0VGVj"
-    },
-    {
-      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
+      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
