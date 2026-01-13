@@ -3,6 +3,38 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple nada contracorriente en la carrera de la IA y sigue sin perder",
+      "url": "https://expansion.mx/tecnologia/2026/01/13/por-que-apple-rechazo-la-carrera-de-la-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Jan 2026 18:00:46 GMT",
+      "summary": "Las grandes empresas de tecnología apostaron en los últimos meses por adquirir infraestructura de IA o fortalecer sus equipos, pero Cupertino no ha tenido este impulso."
+    },
+    {
+      "title": "Reino Unido y EU se suman a gobiernos que presionan a Musk por pornografia en X",
+      "url": "https://expansion.mx/tecnologia/2026/01/13/reino-unido-y-eu-endurecen-presion-contra-musk-porno-ia-x",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Jan 2026 16:00:43 GMT",
+      "summary": "Este caso, una vez más, pone a Elon Musk en el centro del debate global sobre regulación de IA, seguridad digital y responsabilidad de las plataformas."
+    },
+    {
+      "title": "Twitter se cayó hoy: usuarios reportan fallas en 𝕏 este 13 de enero",
+      "url": "https://expansion.mx/tecnologia/2026/01/13/se-cayo-x-hoy-13-de-enero",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Jan 2026 15:03:46 GMT",
+      "summary": "La red social de Elon Musk presenta fallas en diversas partes de México."
+    },
+    {
+      "title": "El software convirtió al automóvil en una nueva plataforma de ingresos",
+      "url": "https://expansion.mx/tecnologia/2026/01/13/negocio-ya-no-es-auto-es-software-suscripcion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Jan 2026 11:55:51 GMT",
+      "summary": "La integración de software en los automóviles permite que las actualizaciones, nuevos productos tecnológicos y servicios extra se comercialicen después de la venta."
+    },
+    {
       "title": "Salud femenina y tecnología: un mercado de 100,000 mdd",
       "url": "https://expansion.mx/tecnologia/2026/01/12/vacio-salud-femenina-mercado-global-tecnologia-medica",
       "source": "Expansión Tecnología",
@@ -11,36 +43,12 @@
       "summary": "La falta de datos y atención en la salud de las mujeres abrió la puerta a una nueva economía impulsada por tecnología."
     },
     {
-      "title": "Fallas en Movistar México este lunes 12 de enero afectan llamadas e internet móvil",
-      "url": "https://expansion.mx/tecnologia/2026/01/12/falla-movistar-hoy-12-de-enero",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 12 Jan 2026 18:52:18 GMT",
-      "summary": "La empresa reconoce los problemas a través de su cuenta en X y asegura que ya trabaja para restablecer el servicio en las zonas afectadas."
-    },
-    {
-      "title": "Alphabet supera capitalización de 4 billones de dólares",
-      "url": "https://expansion.mx/tecnologia/2026/01/12/alphabet-supera-capitalizacion-de-4-billones-de-dolares",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 12 Jan 2026 17:00:20 GMT",
-      "summary": "La empresa recién presentó una serie de herramientas que ayudarán a retailers a vender más a agentes de IA, por lo que logró rebasar este hito."
-    },
-    {
-      "title": "Reseña: HP ProBook 440 G11, una laptop hecha para el trabajo diario",
-      "url": "https://expansion.mx/tecnologia/2026/01/12/resena-hp-probook-440-g11",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 12 Jan 2026 15:00:04 GMT",
-      "summary": "Una laptop para estudiantes, profesionistas y oficinas que necesitan trabajar sin interrupciones. Analizamos su desempeño tras dos semanas de uso continuo."
-    },
-    {
-      "title": "Si alguien usó tu foto para un desnudo falso con IA, así puedes bajarla de Facebook, X e Instagram",
-      "url": "https://expansion.mx/tecnologia/2026/01/11/desnudo-falso-ia-eliminar-fotos-facebook-x-instagram",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sun, 11 Jan 2026 16:03:36 GMT",
-      "summary": "Detener la circulación de imágenes íntimas sin consentimiento es posible mediante un procedimiento que prioriza la privacidad y limita nuevas publicaciones del mismo contenido."
+      "title": "Google lanza su estándar \"universal\" para el comercio impulsado por inteligencia artificial - FashionNetwork México",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRDk4cEpHTkJnZU81bVh3YVlyR0ZlUmo0MG1CRzd5R3BtSExlX1JPUWlIMnNGVy10VFhfZ3JOX2tQdzNrU0xzUXNtYS1RUEFOd0NlWE01YURESEt2QUtFNmZRcDZVSzZmZU5DdkJ0T3dsOHJrNERqY3F3Z0k3RTlfYnBhVk12VkNCNElLNEJ5ZWM4Y09kQ0xCTTdhUHRIQnA3ZHNQU3pSbmNRclEzV0lCNzBOaGpxajY5cmp6c3Nmc25PVzNtcTM2QWphTjFhanIxZVBR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 13 Jan 2026 14:39:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRDk4cEpHTkJnZU81bVh3YVlyR0ZlUmo0MG1CRzd5R3BtSExlX1JPUWlIMnNGVy10VFhfZ3JOX2tQdzNrU0xzUXNtYS1RUEFOd0NlWE01YURESEt2QUtFNmZRcDZVSzZmZU5DdkJ0T3dsOHJrNERqY3F3Z0k3RTlfYnBhVk12VkNCNElLNEJ5ZWM4Y09kQ0xCTTdhUHRIQnA3ZHNQU3pSbmNRclEzV0lCNzBOaGpxajY5cm"
     },
     {
       "title": "Cyberpeace crece 25% y pone al canal en el centro de su estrategia de ciberseguridad - ITSitio",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Tue, 13 Jan 2026 14:12:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMTJ1bnNxYXVPbENUay0wUFljN1J0R0JPdHJJTk5XQ0FwZDl6elFvSkVsakZXUUZKNmhVRzdoQUNodDlMQjYwREoxcHkzTkRaWU9OM2VpdHE2am9pMWt2ZWdkQ2dXTmlPbU8tSG1RS204ODFVRGdsbjE5VUdWVjZzRVg3RXFDdFJJMXpVZ05wLUxWWGoyY21GVWNRSTlMd3dna0hfMGtvNGZ3Q016b2ROUUtEb3l4U3p1SD"
-    },
-    {
-      "title": "Así es como los bancos mexicanos recurren a la IA para combatir fraudes a sus clientes - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMERxbHVaVmRvaThudGM2LWpyNFZRMzVxQl84dnJyZlBGZ0wtTHhPeXgxaUpBczBKbHZ0U09GQ3lJRU1uN2habWtfSDhSR0lPWFBmRnNtTkYzeFJCWjRzRkRtd0s4RlhsU0JRd2F5OU5WOG9PZWZWYUVCMHM5MkpwSzBNT2ctTGxET0F3MlZrLUpiMUloV3lKeXRrRU5hQlhHREUxRG9lVzhMRmtFN1E1TEpaVkJ1dVBFWk1yLThyRG9GSS14bVZXTzZteUdCUkhlSGdR0gHuAUFVX3lxTE9ERjdxdm9RVlNpcmRMZUl4NkxEaXFxeUxMOHNDTjFCdVpkUzRMak44R3RXclNJM240OEJBNVozblFHNDlYOUdSbVI1ZjFodjBaelZDb0FMSG16akMwVkZNdmZVV1IyUGE2ck9tOWlnRHJOc0JaMm1EMlBXLWw1b2RnLUs2VzdyMjlpb3FWcVZCUF9OMGpneGFOMFpJRUhHS282UnJVQ3k4VVdOZ2Y4VV9xakR2LTViUnZOSjBla0lRQWJtS25JcmF5TUtJLTBidFJSVnY4V3RlTDVhY1VYZ2FZWDJWYW11QWpUdERwdmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 13 Jan 2026 12:00:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMERxbHVaVmRvaThudGM2LWpyNFZRMzVxQl84dnJyZlBGZ0wtTHhPeXgxaUpBczBKbHZ0U09GQ3lJRU1uN2habWtfSDhSR0lPWFBmRnNtTkYzeFJCWjRzRkRtd0s4RlhsU0JRd2F5OU5WOG9PZWZWYUVCMHM5MkpwSzBNT2ctTGxET0F3MlZrLUpiMUloV3lKeXRrRU5hQlhHREUxRG9lVzhMRmtFN1E1TEpaVkJ1dVBFWk"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
-    },
-    {
       "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 07 Jan 2026 18:54:26 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5\" t"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
