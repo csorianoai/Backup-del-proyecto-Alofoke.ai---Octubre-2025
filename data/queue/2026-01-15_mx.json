@@ -3,52 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Sebastián Valverde es el nuevo director de Google México",
+      "url": "https://expansion.mx/tecnologia/2026/01/15/sebastian-valverde-nuevo-director-de-google-mexico-quien-es",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 15 Jan 2026 17:48:33 GMT",
+      "summary": "Su operación empezará de forma remota desde Miami a partir del 26 de enero, para integrarse próximamente de manera presencial en las oficinas de Ciudad de México."
+    },
+    {
+      "title": "Después de semanas, por fin X prohíbe la generación de imágenes sexuales",
+      "url": "https://expansion.mx/tecnologia/2026/01/15/grok-prohibe-generar-imagenes-sexuales-x",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 15 Jan 2026 14:45:23 GMT",
+      "summary": "Luego de que se anunciaron investigaciones en diferentes países a nivel mundial, Elon Musk decidió bloquear esta función de Grok incluso para usuarios premium."
+    },
+    {
+      "title": "Fallas en Izzi hoy: usuarios reportan problemas en su servicio de internet",
+      "url": "https://expansion.mx/tecnologia/2026/01/15/fallas-en-izzi-hoy",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 15 Jan 2026 13:39:53 GMT",
+      "summary": "Las quejas por fallas en izzi han persistido desde las 20:00 hrs del miércoles 14 de enero. Este es el estatus del servicio de internet al momento."
+    },
+    {
+      "title": "Padres ya podrán limitar el tiempo que sus hijos ven shorts en YouTube",
+      "url": "https://expansion.mx/tecnologia/2026/01/14/youtube-shorts-limites-de-tiempo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 14 Jan 2026 23:00:21 GMT",
+      "summary": "YouTube anunció nuevas herramientas para cuentas supervisadas que permitirán a madres y padres establecer límites específicos al consumo de videos cortos (Shorts)."
+    },
+    {
       "title": "Apple lanza Creator Studio, su apuesta para capturar más en Servicios",
       "url": "https://expansion.mx/tecnologia/2026/01/14/apple-lanza-creator-studio-apps-mexico",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Wed, 14 Jan 2026 19:30:21 GMT",
       "summary": "La empresa de Cupertino presentó una nueva colección de apps enfocadas en los creadores de contenido."
-    },
-    {
-      "title": "De la crisis a la reinvención: Intel está listo para la reorganización",
-      "url": "https://expansion.mx/tecnologia/2026/01/14/intel-de-la-crisis-a-la-reinvencion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 14 Jan 2026 18:00:53 GMT",
-      "summary": "Tras un 2025 marcado por reestructuración, Intel llegó al CES 2026 con una hoja de ruta marcada por la IA integrada al hardware."
-    },
-    {
-      "title": "Google se adelanta a la industria y lanza la Inteligencia Personal de Gemini",
-      "url": "https://expansion.mx/tecnologia/2026/01/14/google-se-adelanta-a-la-industria-y-lanza-la-inteligencia-personal-de-gemini",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 14 Jan 2026 16:00:27 GMT",
-      "summary": "Esta nueva función personalizará cada vez más la IA y la hará mucho más útil para el contexto de cada persona."
-    },
-    {
-      "title": "Jüsto, el super digital, retomará operaciones en México tras acuerdo entre OMNi y General Atlantic",
-      "url": "https://expansion.mx/tecnologia/2026/01/13/justo-logra-impensable-reabre-omni-general-atlantic",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 13 Jan 2026 23:02:56 GMT",
-      "summary": "General Atlantic, FEMSA y otros inversionistas respaldaron la transacción, mientras que HSBC validó el proceso para reanudar el servicio."
-    },
-    {
-      "title": "Meta recorta a cerca de 10% de su división de Reality Labs",
-      "url": "https://expansion.mx/tecnologia/2026/01/13/meta-despide-1500-empleados-reality-labs",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 13 Jan 2026 22:00:37 GMT",
-      "summary": "El metaverso, que alguna vez fue presentado como el futuro de internet, pierde prioridad frente a la Inteligencia Artificial."
-    },
-    {
-      "title": "¿Real o IA? La verdad detrás de la foto de La Chilindrina que conmocionó a sus fans - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXFEVWJ2R0VPYUJSNTlLdUlSbU5vUVliVnBnZ1Y1a2hmOHZSOUF5QUFFZERDbVB3MW1GaHFOejlLQ2lTS0F2Ty1IeTF3Z2J3MlBvbG1TVFExb0JxXzBfR3E0MXRLZWJaWGVEdl82SlJPTS1pZDBiZEtwOGFYeUpORjl2WWkwMWtCa1ZyRjhiVnlWam9SSnRETmdmWnRHUmthc0JZUGpueFRXN01SNVp1SlRnYmdCLXdFMWZNdmVNN25NZ9IB3AFBVV95cUxQS2J4RkZNendBNHdPS0k4Z3B2ZnlIYi1jU2VNS0diT3JtYlpSSFU1bVZQcVRoRVBGTzg4SmMxaFI4ZHJOc28wNVNjTGN6OWVaWXJ3LUFLSFVzak11XzBDUGV5eUlETjhsU05MSWZxemxxV2FTYXRsaHh0NE9aNTZqUFJkNDE2OHhHZlVwSjVrSGRkV2hYcGtIR2lPWF9KczlyNFVfaDNnMm05aFRkazVLV2xzeWpDbVo0ZWY4eTJVWktqRjNVdllEaWVlTXJGaGpHaWZCa2hJM3lXMDRp?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 15 Jan 2026 14:53:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXFEVWJ2R0VPYUJSNTlLdUlSbU5vUVliVnBnZ1Y1a2hmOHZSOUF5QUFFZERDbVB3MW1GaHFOejlLQ2lTS0F2Ty1IeTF3Z2J3MlBvbG1TVFExb0JxXzBfR3E0MXRLZWJaWGVEdl82SlJPTS1pZDBiZEtwOGFYeUpORjl2WWkwMWtCa1ZyRjhiVnlWam9SSnRETmdmWnRHUmthc0JZUGpueFRXN01SNVp1SlRnYmdCLXdFMW"
     },
     {
       "title": "Monterrey Digital Hub anuncia el Clúster de Inteligencia Artificial de México - El Español",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Mon, 12 Jan 2026 15:32:52 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUz"
+    },
+    {
+      "title": "Gimnasio mexicano derrota a la IA con show en vivo al ritmo de Kabah: video se vuelve viral - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhrUWV4Z2hFTmJMQlFsTlo2SkxFQ2dlWHhyNGJGeUFYa2lRNVozRnllSzV1VkdUVDdxeXpqcFNpaHE0aU1LNDdKRmMyem9hZ3JuRXZxcHdhaV9ITlphUVpGWFMwS0xtbFgyeGwyYzdMTk9HX1UyQUlwVDhXUVlmUC1sT1ZtZnJraXJlSDNJNWN2N21RRThGRFE0eWVnZU1QaXZoeElxcHNyN0ZTOTdsWmNhU3piU3c2UU00T1kwUUVuSmV5RFZTVFo1aTFOd9IB6AFBVV95cUxNRHI1MDdxSFdJZy1qTFhNZ1pIdGE0VlRJOVdrZUgyeS1YTG1QVVhwclQ1elFOYVo3VU5IeDNuWWlWMGRHdUx5WVdWQXpxZThmYkkzU0xkdXBfTHNfZWlWTVEyTTNPVEhwc0d6TktsQVNrYWRKTXN5WkRMR3hScGZpUTFSbWNvc3RWVkhza1JCV004VVdxZUdrZ0JobjlKakRGQ0ZTbFh0NENNMVNjbGI4ZzZrT1hKUTNhczJJazVLMW5NWUtKTW5URlFrWndOekR4UGdRZXlwZzI4Z1h5a0pqRUR4dzVvdEk1?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 15 Jan 2026 17:55:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhrUWV4Z2hFTmJMQlFsTlo2SkxFQ2dlWHhyNGJGeUFYa2lRNVozRnllSzV1VkdUVDdxeXpqcFNpaHE0aU1LNDdKRmMyem9hZ3JuRXZxcHdhaV9ITlphUVpGWFMwS0xtbFgyeGwyYzdMTk9HX1UyQUlwVDhXUVlmUC1sT1ZtZnJraXJlSDNJNWN2N21RRThGRFE0eWVnZU1QaXZoeElxcHNyN0ZTOTdsWmNhU3piU3c2UU"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
