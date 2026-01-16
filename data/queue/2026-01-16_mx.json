@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El Mundial 2026 se juega también con IA: la apuesta tecnológica de la FIFA y Lenovo",
+      "url": "https://expansion.mx/tecnologia/2026/01/16/ia-no-elimina-incertidumbre-futbol-lenovo-usara-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 16 Jan 2026 11:55:30 GMT",
+      "summary": "La Copa Mundial 2026 será un despliegue masivo de tecnología. Lenovo y la FIFA usarán IA, análisis de datos y visualización para optimizar decisiones, operaciones y experiencias."
+    },
+    {
+      "title": "Motorola y Xiaomi tienen más equipos premium y esto es respuesta al mercado",
+      "url": "https://expansion.mx/tecnologia/2026/01/15/mexicanos-prefieren-celulares-premium-motorola-xiaomi",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 15 Jan 2026 22:35:00 GMT",
+      "summary": "La Inteligencia Artificial es un factor decisivo para el 30% de los compradores de gama alta, mientras que su peso es casi marginal en los segmentos más económicos."
+    },
+    {
       "title": "Sebastián Valverde es el nuevo director de Google México",
       "url": "https://expansion.mx/tecnologia/2026/01/15/sebastian-valverde-nuevo-director-de-google-mexico-quien-es",
       "source": "Expansión Tecnología",
@@ -27,20 +43,20 @@
       "summary": "Las quejas por fallas en izzi han persistido desde las 20:00 hrs del miércoles 14 de enero. Este es el estatus del servicio de internet al momento."
     },
     {
-      "title": "Padres ya podrán limitar el tiempo que sus hijos ven shorts en YouTube",
-      "url": "https://expansion.mx/tecnologia/2026/01/14/youtube-shorts-limites-de-tiempo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 14 Jan 2026 23:00:21 GMT",
-      "summary": "YouTube anunció nuevas herramientas para cuentas supervisadas que permitirán a madres y padres establecer límites específicos al consumo de videos cortos (Shorts)."
+      "title": "Edomex presenta sistema de IA para identificar a presuntos delincuentes y personas desaparecidas durante el Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5RmpIQm5xQlM5SEhmMnNNNHVLdVU2MUJSOEcteXlRSjBEczRsTzc5SWhCUHMxZGc0czdaVEc3LTQ0QTZEelHSAZACQVVfeXFMTjVHdEJOX0VXR1FGSEVUUC1jNm9CSkF5MldLRXI3THBlWDZ2Y0xmMThHYmZXMWFFZXJSUkVkY25WUkMycVFkbEJMSnlINWxTT0o5cmFWWi14LVQxQjl1eVIzVTF2UVk3MUp1eEgwTmlPdkRRdURLNm5TRlJvMHdOMzN1WEpqWXE3V2g3cXVVa2xwZXh2a1BjR1JFUW9HMmF2T21ReGhvdFJzUEQwZjUxbkdMc3k2b2FRQUNRSWFhdGFtcjZ5cGE1S09QQ3R1THRJUVU4VGgzUnJ0MzU2eWJ4NDdxQXN2TEF3YkFoZFotT1hFbngyZ1dINTQwNEVRWTZiVjd5SnkwSDZrTUpzUjBZUEs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 16 Jan 2026 15:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5Rm"
     },
     {
-      "title": "Apple lanza Creator Studio, su apuesta para capturar más en Servicios",
-      "url": "https://expansion.mx/tecnologia/2026/01/14/apple-lanza-creator-studio-apps-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 14 Jan 2026 19:30:21 GMT",
-      "summary": "La empresa de Cupertino presentó una nueva colección de apps enfocadas en los creadores de contenido."
+      "title": "Estado de México invertirá en inteligencia artificial para reforzar seguridad durante el Mundial de Futbol - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQamNPcGJUc0pSSlVMNzN3ZHZyRldsUzRTQS1Sa2paWmV6ZGhXWEljVFNCZlJGalV1V2dVMkdyMjdXeFlSUXVQYTNjZklMUkNWVEpKU3pUbnR5SjMzRXZpS1hWZmthQ0xtUHZWVDJrSG53U3E0SkhfVDhOc3RKMWNzYmdnUC1MbUtqYm9aVUtiOWRKdlNBaFUxeXZfempDd2V3NXJQRHVxSE9Vb0RxN0VZa2Q5cFNkUHNNWmlxSHU5UEJCUTNQX0xtTXhiOW0tY3dabU5RT3hsOG40RXpUdkJOc2F4ZzRuNDZYeGVuU0pQLUk2VkRlY3hvOVpKSnDSAYICQVVfeXFMTXN2dFJERUtkd0VkY2YtWVUwVjQ4cXRJNDhUWG55RTdIUHpkUFpPZ0s1emp4c21kSU9udG9sbmtGVVFiVm5XR2FYYlZuNkRwSFF0eGgwX2FmVkNmaDFpNlVIQkZfWlgzNmVJOGZkTEhKejRkMlZBcm94NHZkeV9rWFJFTFRrRzl0SU9yNVI0dGdZQ0ZpQWNVeENFMXE4ZFBNZEZYbTRsaS1lT0FKanN6elZkZERYQy1LNFJJRUYxYWxXVGNrRk01ZjlidGkxOWpyaHd5MkVhZTRvQUQ0UnEwN09hN3E2NW5PRl9aM25GR0QwbXFzM3RqT1pNaTlNUlJrUHB3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 16 Jan 2026 14:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQamNPcGJUc0pSSlVMNzN3ZHZyRldsUzRTQS1Sa2paWmV6ZGhXWEljVFNCZlJGalV1V2dVMkdyMjdXeFlSUXVQYTNjZklMUkNWVEpKU3pUbnR5SjMzRXZpS1hWZmthQ0xtUHZWVDJrSG53U3E0SkhfVDhOc3RKMWNzYmdnUC1MbUtqYm9aVUtiOWRKdlNBaFUxeXZfempDd2V3NXJQRHVxSE9Vb0RxN0VZa2Q5cFNkUHNNWm"
     },
     {
       "title": "Monterrey Digital Hub anuncia el Clúster de Inteligencia Artificial de México - El Español",
@@ -51,22 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEF5VEhVYVZvU1E2bVZBZXhKRWNYcmtodXlZbEo0MW9yUmtfODB0dUUxZGdYMnRZQWtQdGNWNThMZEI5SWhobmVXX3c0YjhIRXdPTjB4dThmRXBqLTFDNGwzZFNNY3VuMlVOdW1TWDZLLUFHU1RWLVJrYWVZUlRRVERPU08wbVdKX3BMZTl1VWtvdVJTUnNlbVpkeFk5MFZoMkRzbTVzYXZnSmx1V2tXOTRUYzZnd01TQU"
     },
     {
-      "title": "México moderniza sus bachilleratos técnicos con nuevas carreras en inteligencia artificial, robótica y nanotecnología - ITSitio Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUzU2Z2tvTDM3Z1pKQ0F5aTJUSTJyRWpmMUlZUXVMZzlHek9weC12ZWlMamRIeTY3TmtYZzBtM19FeGtDNEt6blpKYW0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 12 Jan 2026 15:32:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRHVHY2VMN2F0bXRaUGpJcjlFSW1BczZORkRIT3BKc1k0RjJsTHZXTG4yOGNkV0l3SkQ3bVpQT0ZYaVJnQ2RnYTdRajV0RVdrYmJJNzZPc2RDbENrM0RSVmRJSVNHY1B0OEpDNk9kbWJUbjRyZ29HT1dFNTQ2VEJVS09vVnFtWjZfWVdvd1RRbXRYa3dCSVRZQk9mQ2dCUlM2bnF0XzUxZHdudTVQM240bGs4Q0J0em1qUz"
-    },
-    {
-      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
-    },
-    {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
     },
     {
+      "title": "Inversión de Riesgo en CX: Por qué los fondos de VC están apostando millones por ‘startups’ de ... - Parada Visual",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam1YNjdJWll3YWVvNUdibEZJQUNleE1TbU40U0lKVTNwYmtPMURkdlRTVmtmU29aS1RiZEdwUzFDMGVmSV9QTnRQNTNBWDNMTXBlSENKZV9hR2JGQ1ZaWjhScHRaZ0xyQVU1UGM5OUJueXp4MFEzLTBaSDJmQktoN0VCcThrb1Ns0gGIAUFVX3lxTE1qbVg2N0laWXdhZW81R2JsRklBQ2V4TVNtTjRTSUpVM3Bia08xRGR2VFNWa2ZTb1pLVGJkR3BTMUMwZWZJX1BOdFA1M0FYM0xNcGVIQ0plX2FHYkZDVlpaOFJwdFpnTHJBVTVQYzk5Qm55engwUTMtMFpIMmZCS2g3RUJxOGtvU2w?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 14 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam1YNjdJWll3YWVvNUdibEZJQUNleE1TbU40U0lKVTNwYmtPMURkdlRTVmtmU29aS1RiZEdwUzFDMGVmSV9QTnRQNTNBWDNMTXBlSENKZV9hR2JGQ1ZaWjhScHRaZ0xyQVU1UGM5OUJueXp4MFEzLTBaSDJmQktoN0VCcThrb1Ns0gGIAUFVX3lxTE1qbVg2N0laWXdhZW81R2JsRklBQ2V4TVNtTjRTSUpVM3Bia08xRG"
+    },
+    {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 12 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
-    },
-    {
-      "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1hJYmk4MU1ZY0x1RVpKZDR6bVIxYUhjR1U5eEcwUTlOLWJ2WGVEd3NWVzhsSFYzamRZaWlZVTE1aFdsMHdOOUlySGVKb1lyaGlDZkZINEVqRHFwUlI4SVg5SlpPWFE2cG53NVBvTjBsbmZpQXJWdlFKYThZdXJsN19kUUkyY2VwUHkta3Uzek9mOURvQXZkbTdjRm05cjV1RlJSdDJoalhOYzdvSThJV19QNDRoX1JBMjQ3NVRIVmFuVGZYMmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
