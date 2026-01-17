@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "¿Por qué el repartidor te llama antes de llegar? La razón logística detrás",
+      "url": "https://expansion.mx/tecnologia/2026/01/16/truco-logistico-mercado-libre-estrategia-detras-llamada",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 16 Jan 2026 20:30:10 GMT",
+      "summary": "Detrás del aviso del repartidor hay una estrategia logística para reducir fallas, optimizar rutas y enfrentar los retos de seguridad de la última milla en México."
+    },
+    {
       "title": "El Mundial 2026 se juega también con IA: la apuesta tecnológica de la FIFA y Lenovo",
       "url": "https://expansion.mx/tecnologia/2026/01/16/ia-no-elimina-incertidumbre-futbol-lenovo-usara-ia",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Luego de que se anunciaron investigaciones en diferentes países a nivel mundial, Elon Musk decidió bloquear esta función de Grok incluso para usuarios premium."
     },
     {
-      "title": "Fallas en Izzi hoy: usuarios reportan problemas en su servicio de internet",
-      "url": "https://expansion.mx/tecnologia/2026/01/15/fallas-en-izzi-hoy",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 15 Jan 2026 13:39:53 GMT",
-      "summary": "Las quejas por fallas en izzi han persistido desde las 20:00 hrs del miércoles 14 de enero. Este es el estatus del servicio de internet al momento."
+      "title": "Edomex presenta sistema de IA para identificar a presuntos delincuentes y personas desaparecidas durante el Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5RmpIQm5xQlM5SEhmMnNNNHVLdVU2MUJSOEcteXlRSjBEczRsTzc5SWhCUHMxZGc0czdaVEc3LTQ0QTZEelHSAZACQVVfeXFMTjVHdEJOX0VXR1FGSEVUUC1jNm9CSkF5MldLRXI3THBlWDZ2Y0xmMThHYmZXMWFFZXJSUkVkY25WUkMycVFkbEJMSnlINWxTT0o5cmFWWi14LVQxQjl1eVIzVTF2UVk3MUp1eEgwTmlPdkRRdURLNm5TRlJvMHdOMzN1WEpqWXE3V2g3cXVVa2xwZXh2a1BjR1JFUW9HMmF2T21ReGhvdFJzUEQwZjUxbkdMc3k2b2FRQUNRSWFhdGFtcjZ5cGE1S09QQ3R1THRJUVU4VGgzUnJ0MzU2eWJ4NDdxQXN2TEF3YkFoZFotT1hFbngyZ1dINTQwNEVRWTZiVjd5SnkwSDZrTUpzUjBZUEs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 16 Jan 2026 15:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5Rm"
     },
     {
       "title": "Mundial 2026: Estado de México prepara inteligencia artificial para garantizar seguridad - Sopitas.com",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHdEWV93RFBGTDVnV3Y3UWNRZXZJTVRFZGpTbjhPRWFINlFiQXNQTGhiWVBwajJ4Q1pON1Npek1nek0tem1KNW9vMjBiWUE3WmJpbHhMWTJWb2NybF9YTHhPN3ZEdmdfQkxsYnRBTUFDOFhDeXhzV2hNT25tRXlFenhhYVNTMXNYakI4THgwTm1WTVlhSmhDRTIzdlRzbWg4RHg3ZElQTTZGQ3ZqRXpfTmFKY19sOC1qRD"
     },
     {
-      "title": "Sebastián Valverde es el nuevo director de Google México - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjNBekRUMHZScXJ4RjR1dG16bGx2dXhYeFJGRUQtLTk1elYxVUk0ak1qLXBINTVLWVNDRFZkYU5qUUp4aGJTTnFXTnpoMFZiNHdtWXN5eHJYYXoyajNTV0E2c2owTjZYOTJ1Q043d21BM1UtdE05N19GNnkzZkJETjJYMDZyb2luWFJIc0FOdkp6SFlRWkZiMFZoM25LUFA0?oc=5",
+      "title": "Monterrey Digital Hub anuncia el Clúster de Inteligencia Artificial de México - El Español",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEF5VEhVYVZvU1E2bVZBZXhKRWNYcmtodXlZbEo0MW9yUmtfODB0dUUxZGdYMnRZQWtQdGNWNThMZEI5SWhobmVXX3c0YjhIRXdPTjB4dThmRXBqLTFDNGwzZFNNY3VuMlVOdW1TWDZLLUFHU1RWLVJrYWVZUlRRVERPU08wbVdKX3BMZTl1VWtvdVJTUnNlbVpkeFk5MFZoMkRzbTVzYXZnSmx1V2tXOTRUYzZnd01TQU0tM1QxWmljU0pVeTNDZVJrLWlyUVRrY01aZWlkeEtFempBZGRJNjZKNWk2MHp3QXfSAe8BQVVfeXFMTy1WMXcwLUhtakhvTHd0Yks5bXJkaEYyWFBjWUNBSkJDdVBHRmtnNFp0OGJrclBkYmhLODk2WE9LajlYSExnMFFOeDJTbG8yTVlHYXJ2blVuMzE4WFQwdWRUOTlGMkhIT2x3VlI0dE80NU9FWGswTThDdTcxRjBFT1UzMlhqb0xyXzdLYV90MnVFRnBPdXFlUGNVWjZEa3RZR2tpdW9WSmdjRjZjaXBiT2xtOG1ielZkT21pWTczc3ZjYm9PV25ZYXQtV2NraFFzTlFja0tNa2lzMzJUUVdXcVpiZmxlM05oQXU4ZHdYRHM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Jan 2026 17:14:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjNBekRUMHZScXJ4RjR1dG16bGx2dXhYeFJGRUQtLTk1elYxVUk0ak1qLXBINTVLWVNDRFZkYU5qUUp4aGJTTnFXTnpoMFZiNHdtWXN5eHJYYXoyajNTV0E2c2owTjZYOTJ1Q043d21BM1UtdE05N19GNnkzZkJETjJYMDZyb2luWFJIc0FOdkp6SFlRWkZiMFZoM25LUFA0?oc=5\" target=\"_blank\">Sebastián V"
-    },
-    {
-      "title": "Edomex presenta sistema de IA para identificar a presuntos delincuentes y personas desaparecidas durante el Mundial 2026 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5RmpIQm5xQlM5SEhmMnNNNHVLdVU2MUJSOEcteXlRSjBEczRsTzc5SWhCUHMxZGc0czdaVEc3LTQ0QTZEelHSAZACQVVfeXFMTjVHdEJOX0VXR1FGSEVUUC1jNm9CSkF5MldLRXI3THBlWDZ2Y0xmMThHYmZXMWFFZXJSUkVkY25WUkMycVFkbEJMSnlINWxTT0o5cmFWWi14LVQxQjl1eVIzVTF2UVk3MUp1eEgwTmlPdkRRdURLNm5TRlJvMHdOMzN1WEpqWXE3V2g3cXVVa2xwZXh2a1BjR1JFUW9HMmF2T21ReGhvdFJzUEQwZjUxbkdMc3k2b2FRQUNRSWFhdGFtcjZ5cGE1S09QQ3R1THRJUVU4VGgzUnJ0MzU2eWJ4NDdxQXN2TEF3YkFoZFotT1hFbngyZ1dINTQwNEVRWTZiVjd5SnkwSDZrTUpzUjBZUEs?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 16 Jan 2026 15:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5Rm"
+      "published": "Mon, 12 Jan 2026 11:30:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEF5VEhVYVZvU1E2bVZBZXhKRWNYcmtodXlZbEo0MW9yUmtfODB0dUUxZGdYMnRZQWtQdGNWNThMZEI5SWhobmVXX3c0YjhIRXdPTjB4dThmRXBqLTFDNGwzZFNNY3VuMlVOdW1TWDZLLUFHU1RWLVJrYWVZUlRRVERPU08wbVdKX3BMZTl1VWtvdVJTUnNlbVpkeFk5MFZoMkRzbTVzYXZnSmx1V2tXOTRUYzZnd01TQU"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
