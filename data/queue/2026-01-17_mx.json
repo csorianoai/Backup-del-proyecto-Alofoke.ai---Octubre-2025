@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "ChatGPT empezará a mostrar publicidad: ¿a qué cuentas les tocará y en qué país?",
+      "url": "https://expansion.mx/tecnologia/2026/01/17/chatgpt-empezara-mostrar-publicidad",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 17 Jan 2026 15:56:13 GMT",
+      "summary": "OpenAI ajusta su estrategia en un contexto de altos costos operativos y una carrera tecnológica que exige nuevas fuentes de ingresos."
+    },
+    {
       "title": "¿Por qué el repartidor te llama antes de llegar? La razón logística detrás",
       "url": "https://expansion.mx/tecnologia/2026/01/16/truco-logistico-mercado-libre-estrategia-detras-llamada",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Su operación empezará de forma remota desde Miami a partir del 26 de enero, para integrarse próximamente de manera presencial en las oficinas de Ciudad de México."
     },
     {
-      "title": "Después de semanas, por fin X prohíbe la generación de imágenes sexuales",
-      "url": "https://expansion.mx/tecnologia/2026/01/15/grok-prohibe-generar-imagenes-sexuales-x",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 15 Jan 2026 14:45:23 GMT",
-      "summary": "Luego de que se anunciaron investigaciones en diferentes países a nivel mundial, Elon Musk decidió bloquear esta función de Grok incluso para usuarios premium."
-    },
-    {
       "title": "Edomex presenta sistema de IA para identificar a presuntos delincuentes y personas desaparecidas durante el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDhWQjlYa1M5SlRMa2ttSkctUEJnZHRmNm5aMUpHVkxwNERjdDZ2X0MxZ1psMXFIbUk2VktOQkFkTlpCRmdLLTRoYS1HQ0p4LXBSZ2VCVWNjdjAzQS1ZOXN4Mks4cjVhLVQyRUphNFV4RTVpLS0tdU9YdjNkMWo0M2owQ0hlQWc2c3BrdlRRTUxKU1hFaWxaNllGN0pQQ1YwMWgyZFh5T21XRGVWa054dV9sUTdHdGd5RmpIQm5xQlM5SEhmMnNNNHVLdVU2MUJSOEcteXlRSjBEczRsTzc5SWhCUHMxZGc0czdaVEc3LTQ0QTZEelHSAZACQVVfeXFMTjVHdEJOX0VXR1FGSEVUUC1jNm9CSkF5MldLRXI3THBlWDZ2Y0xmMThHYmZXMWFFZXJSUkVkY25WUkMycVFkbEJMSnlINWxTT0o5cmFWWi14LVQxQjl1eVIzVTF2UVk3MUp1eEgwTmlPdkRRdURLNm5TRlJvMHdOMzN1WEpqWXE3V2g3cXVVa2xwZXh2a1BjR1JFUW9HMmF2T21ReGhvdFJzUEQwZjUxbkdMc3k2b2FRQUNRSWFhdGFtcjZ5cGE1S09QQ3R1THRJUVU4VGgzUnJ0MzU2eWJ4NDdxQXN2TEF3YkFoZFotT1hFbngyZ1dINTQwNEVRWTZiVjd5SnkwSDZrTUpzUjBZUEs?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHdEWV93RFBGTDVnV3Y3UWNRZXZJTVRFZGpTbjhPRWFINlFiQXNQTGhiWVBwajJ4Q1pON1Npek1nek0tem1KNW9vMjBiWUE3WmJpbHhMWTJWb2NybF9YTHhPN3ZEdmdfQkxsYnRBTUFDOFhDeXhzV2hNT25tRXlFenhhYVNTMXNYakI4THgwTm1WTVlhSmhDRTIzdlRzbWg4RHg3ZElQTTZGQ3ZqRXpfTmFKY19sOC1qRD"
     },
     {
-      "title": "Monterrey Digital Hub anuncia el Clúster de Inteligencia Artificial de México - El Español",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEF5VEhVYVZvU1E2bVZBZXhKRWNYcmtodXlZbEo0MW9yUmtfODB0dUUxZGdYMnRZQWtQdGNWNThMZEI5SWhobmVXX3c0YjhIRXdPTjB4dThmRXBqLTFDNGwzZFNNY3VuMlVOdW1TWDZLLUFHU1RWLVJrYWVZUlRRVERPU08wbVdKX3BMZTl1VWtvdVJTUnNlbVpkeFk5MFZoMkRzbTVzYXZnSmx1V2tXOTRUYzZnd01TQU0tM1QxWmljU0pVeTNDZVJrLWlyUVRrY01aZWlkeEtFempBZGRJNjZKNWk2MHp3QXfSAe8BQVVfeXFMTy1WMXcwLUhtakhvTHd0Yks5bXJkaEYyWFBjWUNBSkJDdVBHRmtnNFp0OGJrclBkYmhLODk2WE9LajlYSExnMFFOeDJTbG8yTVlHYXJ2blVuMzE4WFQwdWRUOTlGMkhIT2x3VlI0dE80NU9FWGswTThDdTcxRjBFT1UzMlhqb0xyXzdLYV90MnVFRnBPdXFlUGNVWjZEa3RZR2tpdW9WSmdjRjZjaXBiT2xtOG1ielZkT21pWTczc3ZjYm9PV25ZYXQtV2NraFFzTlFja0tNa2lzMzJUUVdXcVpiZmxlM05oQXU4ZHdYRHM?oc=5",
+      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 12 Jan 2026 11:30:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMEF5VEhVYVZvU1E2bVZBZXhKRWNYcmtodXlZbEo0MW9yUmtfODB0dUUxZGdYMnRZQWtQdGNWNThMZEI5SWhobmVXX3c0YjhIRXdPTjB4dThmRXBqLTFDNGwzZFNNY3VuMlVOdW1TWDZLLUFHU1RWLVJrYWVZUlRRVERPU08wbVdKX3BMZTl1VWtvdVJTUnNlbVpkeFk5MFZoMkRzbTVzYXZnSmx1V2tXOTRUYzZnd01TQU"
+      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
