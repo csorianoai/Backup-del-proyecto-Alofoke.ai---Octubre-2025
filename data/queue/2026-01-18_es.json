@@ -3,44 +3,44 @@
   "country": "es",
   "articles": [
     {
-      "title": "Los países amenazados por Trump advierten de que los aranceles suponen una “peligrosa espiral” y “socavan” las relaciones transatlánticas",
+      "title": "Al menos 10 muertos y 25 heridos graves por el descarrilamiento de dos trenes de alta velocidad en Adamuz (Córdoba)",
+      "url": "https://elpais.com/espana/2026-01-18/renfe-suspende-el-servicio-entre-madrid-y-andalucia-tras-el-descarrilamiento-de-dos-trenes-en-cordoba.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 18 Jan 2026 21:54:12 GMT",
+      "summary": "El accidente entre un tren Iryo y un Alvia provoca una suspensión del servicio entre Andalucía y Madrid en el que viajaban 300 personas. Uno de los fallecidos es un maquinista"
+    },
+    {
+      "title": "Última hora del descarrilamiento de dos trenes en Adamuz | Una víctima del accidente ferroviario: “Hay muchos heridos, sigo temblando”",
+      "url": "https://elpais.com/espana/2026-01-18/ultima-hora-del-descarrilamiento-de-dos-trenes-en-adamuz.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 18 Jan 2026 22:14:12 GMT",
+      "summary": "Al menos 10 muertos y 25 heridos graves tras al accidente, que provoca la suspensión del servicio entre Madrid y Andalucía | Puente asegura que el impacto “ha sido terrible”"
+    },
+    {
+      "title": "Europa planta cara a Trump y se plantea respuestas comerciales contundentes ante la amenaza arancelaria por Groenlandia",
       "url": "https://elpais.com/internacional/2026-01-18/macron-pedira-a-la-ue-la-activacion-del-instrumento-anticoercion-frente-a-la-nueva-amenaza-arancelaria-de-trump.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 18 Jan 2026 17:10:20 GMT",
-      "summary": "Francia quiere que la UE active el instrumento anticoerción frente a la nueva amenaza de la Casa Blanca. Reunión de los embajadores de la Unión para analizar la crisis sobre Groenlandia. El secretario general de la OTAN habla con Trump"
+      "published": "Sun, 18 Jan 2026 20:36:39 GMT",
+      "summary": "Los Veintisiete se reunirán de emergencia esta semana. Se plantean activar el instrumento anticoerción, pero también levantar la suspensión de aranceles adicionales a las importaciones de EE UU por valor de 93.000 millones de euros"
     },
     {
-      "title": "Desconcierto de Europa ante las amenazas de Trump",
-      "url": "https://elpais.com/internacional/2026-01-18/desconcierto-de-europa-ante-las-amenazas-de-trump.html",
+      "title": "El socialista Seguro y el ultra Ventura se disputarán la segunda vuelta en las presidenciales de Portugal",
+      "url": "https://elpais.com/internacional/2026-01-18/los-sondeos-en-portugal-apuntan-a-una-victoria-del-candidato-socialista-en-las-elecciones-presidenciales.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 18 Jan 2026 04:40:00 GMT",
-      "summary": "La UE endurece su posición ante las bravatas del trumpismo sobre Groenlandia, pero teme las consecuencias sobre Ucrania"
+      "published": "Sun, 18 Jan 2026 22:11:46 GMT",
+      "summary": "António José Seguro se impone con más del 30%, mientras que el candidato del centroderecha apoyado por el primer ministro recibe un gran varapalo"
     },
     {
-      "title": "El año en el que el mundo se asomó al abismo autoritario de Donald Trump",
-      "url": "https://elpais.com/internacional/2026-01-18/el-ano-en-el-que-el-mundo-se-asomo-al-abismo-autoritario-de-donald-trump.html",
+      "title": "Salvador Illa estará hospitalizado al menos dos semanas por una pérdida de fuerza en las piernas que aún no tiene diagnóstico",
+      "url": "https://elpais.com/espana/catalunya/2026-01-18/salvador-illa-estara-hospitalizado-al-menos-dos-semanas-por-una-perdida-de-fuerza-en-las-piernas-que-aun-no-tiene-diagnostico.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 18 Jan 2026 04:40:00 GMT",
-      "summary": "El primer aniversario del segundo mandato del republicano deja un país roto y una escena internacional a merced del ‘show’ impredecible de la Casa Blanca"
-    },
-    {
-      "title": "Un año de terror del ICE, el brazo ejecutor antiinmigrante de Trump",
-      "url": "https://elpais.com/us/migracion/2026-01-18/un-ano-de-terror-del-ice-el-brazo-ejecutor-antiinmigrante-de-trump.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 18 Jan 2026 04:40:00 GMT",
-      "summary": "La policía migratoria de Estados Unidos opera con “inmunidad absoluta” mientras persigue, violenta, detiene, deporta y hasta mata"
-    },
-    {
-      "title": "Feijóo amarra a todos sus barones en un frente común contra la financiación de Sánchez",
-      "url": "https://elpais.com/espana/2026-01-18/feijoo-cita-a-sus-barones-en-zaragoza-para-hacer-un-frente-comun-contra-la-financiacion-de-sanchez.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 18 Jan 2026 12:37:36 GMT",
-      "summary": "Los 14 barones populares suscriben un documento conjunto, llamado la ‘Declaración de Zaragoza’, en el que se comprometen a “no normalizar ni blanquear” el nuevo sistema “aceptando sobrantes como contraprestación”"
+      "published": "Sun, 18 Jan 2026 18:51:04 GMT",
+      "summary": "Los médicos descartan las causas “más graves” de la dolencia del ‘president’, que permanece en la UCI del Hospital Vall d’Hebron, aunque apuntan a una “causa inflamatoria”"
     },
     {
       "title": "De los muros físicos a los algoritmos: cómo la IA convierte las fronteras europeas en “un negocio más opaco y privatizado” - Infobae",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUttUU5rYnY2RTBmUTJMLWtBb1ZOZFdTanV5bEFacWdHYW1JWTJ0azBIUk12aVEyZjZBbm5DMVo4dEJ4SEV0Qkw4UjNrbU1pZGxKVndaSDdMRDJ1VnpxRl83SUVVSkZEeFNRRS1IbUZ0X19teEY1ZnZjbEQ4ZzlxMUVqeC1rQXlJejk2QzNqNU9SOFA0Y1Rpbmx4QVJLLVBTWjRRSkRpdDktVDdjNzd2SDRMcndEbWtpWH"
     },
     {
+      "title": "Startups del Parque Científico de Murcia entre el top 100 España - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1V5YkU3U0VTMTZ2SXlGMjdWcV9FMTBOeVRISkhaaXVCYVFXUFlTLUF0dDVOeVc3REUwbi1OakRPYV9Tc2hJTWJLengwVGszYjBaUW5vbjhWZVpXbjJ3a0xaVktmbHRvdzk4R2FjTjk2LVRRdXhwUlBaWEt0YWhzVjhWSGtxS0MtNk1WNWJtclZtWDhSNjR5ZnVHUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 18 Jan 2026 19:48:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1V5YkU3U0VTMTZ2SXlGMjdWcV9FMTBOeVRISkhaaXVCYVFXUFlTLUF0dDVOeVc3REUwbi1OakRPYV9Tc2hJTWJLengwVGszYjBaUW5vbjhWZVpXbjJ3a0xaVktmbHRvdzk4R2FjTjk2LVRRdXhwUlBaWEt0YWhzVjhWSGtxS0MtNk1WNWJtclZtWDhSNjR5ZnVHUQ?oc=5\" target=\"_blank\">Startups del Parq"
+    },
+    {
       "title": "El fondo Samaipata cierra 2025 con 17 millones invertidos y foco en la IA de Europa - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bUx0V1I0VjZlLTd4aTJ5c0t3cDJPZjNnTUHSAewBQVVfeXFMUHJlOFVHWDhIWjlyeWVxSGE2RE5GaHROSVhGSmIxVVFZTWZfSXN5MVdUUHhmQkVKUHRtN3JBVzY3bmdDSmMtTW5yZVUwV0ZhUjcyQzdBYWZfaWFTZm5heWhaaGNUd3lseWZFemxXQmxyMm5wQU5ra3RKVTd5Ym9QWXNXZFpsLUpweHNWR2FsQURYV1JfUUJFUHpVQmUzN3d6RTc2T1hLaXFOX2gxTzNTQURLUFpYbkdTZTFuSmhBcTlldENoTnJqc211ZTAySVVDYjNnd0c4Z2pUQ3I4eWx5UlktbXNvS3ZxNTkyZGs?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 15 Jan 2026 07:46:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bU"
-    },
-    {
-      "title": "Cehta Capital amplía su fondo de inversión para startups y tecnología - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0dZNkM5UlBHNndzaHkzT1h5NGRiMmU0d2Z2ckd6Q1pxNEZfNUxPZUJfUzVwUFc2Zko5Y1hPRU9OUktvbkl6TWI3OElGNVdMZEc3bDlibGhqQ3VtZEFZVWNXd2ZzaEQ1bE5yNTFodlZfWnFSeXNKV1BTNnRoY1d4OElqUUVIZHN0V3c4b3BCR3lqY1NuYXYzaXRoRFBHaGVVdFE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 05 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPM0dZNkM5UlBHNndzaHkzT1h5NGRiMmU0d2Z2ckd6Q1pxNEZfNUxPZUJfUzVwUFc2Zko5Y1hPRU9OUktvbkl6TWI3OElGNVdMZEc3bDlibGhqQ3VtZEFZVWNXd2ZzaEQ1bE5yNTFodlZfWnFSeXNKV1BTNnRoY1d4OElqUUVIZHN0V3c4b3BCR3lqY1NuYXYzaXRoRFBHaGVVdFE?oc=5\" target=\"_blank\">Cehta Ca"
     },
     {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
