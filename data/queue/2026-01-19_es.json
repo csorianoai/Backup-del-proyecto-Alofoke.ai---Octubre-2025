@@ -3,30 +3,6 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora del accidente de tren en Adamuz, Córdoba, en directo | Asciende a 40 la cifra de muertos en el accidente de trenes en Adamuz",
-      "url": "https://elpais.com/espana/2026-01-18/ultima-hora-del-descarrilamiento-de-dos-trenes-en-adamuz.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 19 Jan 2026 18:24:45 GMT",
-      "summary": "Sánchez decreta tres días de luto oficial: “Vamos a dar con la verdad” | 12 heridos permanecen en la UCI | Moreno afirma que el trabajo de identificación será “intenso, duro y complicado”"
-    },
-    {
-      "title": "El accidente de tren en Adamuz, en imágenes",
-      "url": "https://elpais.com/espana/2026-01-18/el-accidente-de-adamuz-en-imagenes.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 19 Jan 2026 16:45:25 GMT",
-      "summary": "Un tren Iryo descarriló en el término municipal cordobés impactando con otro tren de Alvia"
-    },
-    {
-      "title": "Renfe habilita cambios y anulaciones gratuitos para todos sus trenes con Andalucía",
-      "url": "https://elpais.com/economia/2026-01-19/renfe-habilita-cambios-y-anulaciones-gratuitos-para-todos-sus-trenes-con-andalucia.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 19 Jan 2026 14:21:41 GMT",
-      "summary": "Las tres compañías que conectan Madrid con el sur por alta velocidad suspenden sus viajes este lunes. Iberia y Air Europa refuerzan su oferta con 1.886 asientos más a Málaga y Sevilla"
-    },
-    {
       "title": "¿Qué ha pasado? Reconstrucción visual del accidente y las principales hipótesis",
       "url": "https://elpais.com/espana/2026-01-19/que-ha-pasado-una-primera-reconstruccion-visual-del-accidente-de-adamuz.html",
       "source": "El País Tecnología",
@@ -35,7 +11,7 @@
       "summary": "Qué se sabe sobre el lugar y el modo en el que se produjo el terrible choque entre los trenes de Iryo y Renfe"
     },
     {
-      "title": "La investigación del siniestro de Adamuz apunta a un fallo en las vías sin cerrar otras hipótesis",
+      "title": "La investigación del siniestro de Adamuz apunta a una rotura de la vía",
       "url": "https://elpais.com/espana/2026-01-19/la-investigacion-del-siniestro-de-adamuz-apunta-a-un-fallo-en-las-vias-y-da-minimas-opciones-al-sabotaje.html",
       "source": "El País Tecnología",
       "category": "tech",
@@ -43,11 +19,35 @@
       "summary": "El Alvia de Renfe apenas tuvo 20 segundos, insuficientes para reaccionar, entre el descarrilamiento del tren de Iryo y la fatal colisión"
     },
     {
+      "title": "Última hora del accidente de tren en Adamuz, Córdoba, en directo | Al menos 40 muertos en el choque de dos trenes de alta velocidad",
+      "url": "https://elpais.com/espana/2026-01-18/ultima-hora-del-descarrilamiento-de-dos-trenes-en-adamuz.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 19 Jan 2026 22:15:25 GMT",
+      "summary": "41 personas hospitalizadas, 12 de ellas en la UCI | El ministro de Transportes apunta al 2 de febrero como la fecha para la reapertura del servicio entre Madrid y Andalucía | Cinco fallecidos en el accidente, identificados a través de sus huellas dactilares"
+    },
+    {
+      "title": "El periodista Óscar Toro y la fotógrafa María Clauss, y al menos un funcionario de prisiones entre los fallecidos del Alvia Madrid-Huelva",
+      "url": "https://elpais.com/espana/2026-01-19/el-periodista-oscar-toro-y-la-fotografa-maria-clauss-entre-los-fallecidos-del-alvia-madrid-huelva.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 19 Jan 2026 13:27:47 GMT",
+      "summary": "Consternación en los medios de comunicación onubenses y las academias de preparación de los opositores a la función pública"
+    },
+    {
+      "title": "El peregrinaje cruel de quienes buscan a los desaparecidos: “Es un infierno, no podemos más”",
+      "url": "https://elpais.com/espana/2026-01-19/el-via-crucis-de-los-familiares-que-buscan-a-sus-desaparecidos-en-el-accidente-de-tren-de-adamuz-llevamos-toda-la-noche-buscando-en-hospitales-y-no-sabemos-nada.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 19 Jan 2026 15:20:57 GMT",
+      "summary": "El descarrilamiento deja al menos 39 fallecidos y más de 150 heridos"
+    },
+    {
       "title": "España se afianza como referencia digital europea - Computing BPS",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVJeWpaanNWcmdOWnNZOXpkNUFkNnNvQU9tWHNjS3pyeEZqaHQ2Sm5oQlVqTko5NmdyTjJ6UTFYRi1hLUxyNWdlTlhiRXZ4S0EzeThfeE9ER3B4a3NHRmYtRUk2VGdURzBxYlBNd194X2xnWkJrcWVwUVIxVjRpTjhBWWxHNElqcUU3SGt1cFAxbGs?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 19 Jan 2026 14:44:35 GMT",
+      "published": "Mon, 19 Jan 2026 14:44:32 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObHVJeWpaanNWcmdOWnNZOXpkNUFkNnNvQU9tWHNjS3pyeEZqaHQ2Sm5oQlVqTko5NmdyTjJ6UTFYRi1hLUxyNWdlTlhiRXZ4S0EzeThfeE9ER3B4a3NHRmYtRUk2VGdURzBxYlBNd194X2xnWkJrcWVwUVIxVjRpTjhBWWxHNElqcUU3SGt1cFAxbGs?oc=5\" target=\"_blank\">España se afianza como refer"
     },
     {
@@ -67,6 +67,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZklIVEtTNmxQY0MxMl92UDE0VWZvellsV0hzS2YxcU1KMURZdFo0UEc2Y0ZVVnNibVRnWU9YdFZDWUZBY0dBUktoc19mbVlBV24yZjZUMHZWcnJ2aWVlb05Md3BrOWlrMHFETnA3X28xZnFzSllHUWlTemtSTE9XZmRHdjAtV0JHZnF3TVBqZVBvWFBTOEE?oc=5\" target=\"_blank\">Se acelera la adopción g"
     },
     {
+      "title": "El pronóstico de la Inteligencia Artificial de Opta para el 'Clásico' de la Supercopa de España - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU85MlMtNVZmTmM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 10 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU"
+    },
+    {
       "title": "El Gobierno presentará a Madrid y Barcelona como candidatas para la próxima gigafactoría de IA de Europa, con una inversión de 4.000 millones - Infobae",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcklXUDYzbWF3dEdZS1F1eXpqMmhtU0w4Rzl1OGZUdmxCRmhibUlTOEtkVFpjbTNrQnNrNTQwM1BUck9zRkd6dm1DSjN5ckFnd2FMY0FUMW1SMkdSd1o1OU1YeVJTYnhMS2p1NDRYLWM3Mmpsa25DZFNOMHlFdFRmcVlXamVMYkdyX01SNFY0ek1RcTlwVnRNcWRidHc2Z05rLTY0WVR2VHdYdzFOZ3lTQ1VtMXhyY293cjc5blNMTEV6QnNhVm8zeGF1MTFmQ2YxT2t3Y2VOMXZFUjlpVi1WYTdnbk1DbkY5YjJCb052OVI0dTBSV3YzN2lQZEJDdXhRblUtelJtWXlPWEljQkFR0gGqAkFVX3lxTE5QbzZoOHU2ekNPNmJGd0pzU1dWLTNJSDBaRVBjc0pKREQ2SEJudEgycUhaMnFtTHpCLTVCbGEzVklndjAtZEMzUTFtOHhEeHduZ2xsX1R1WWQzSmc2Q0dsWXhvMUp5TjRrUVJ0VWduSnRSSGp0VGtqMzZJOG9hQTZLQWRQREtuVkhOUnRra21QRnAyUmdnOUh3eXhhQjdvM3pSN2dXaFpTY21IVTJJWndQUFcyMGJtQzdaNGtNWmF0cVFLOTlzZGhBVlRxaTZfYzJ1M1dGZ3pBTkFocXpsMUcwTEh2ampOVVc1OW03UVliX25IaGpGWDZtSmVkeGRHby1Cb2piN0NSdnVFT3NRZFpDcUtBMW1ocnlqYzhkSWtma2NWMVc1dG9TckE?oc=5",
       "source": "Google News",
@@ -83,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9STEZWa3g3SURLSHU0aHV1VE1XdjVKVlpHemYtSUZBRjJOcWJiSEVITjQ1RkJESlEzcVllRzUxTnJqdXNuSHMwYU5lNUFOcWxYYXc4enltUXFuS29QWjBvSG9LTnpCQ0ZDaGlnOF9rNTlQbFhERU9lYmoxejgwVUU?oc=5\" target=\"_blank\">Barcelona vs Real Madrid: Pronósticos según la IA en la "
     },
     {
-      "title": "Barcelona vs Real Madrid: ¿quién es el favorito de la IA para la Supercopa? - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUttUU5rYnY2RTBmUTJMLWtBb1ZOZFdTanV5bEFacWdHYW1JWTJ0azBIUk12aVEyZjZBbm5DMVo4dEJ4SEV0Qkw4UjNrbU1pZGxKVndaSDdMRDJ1VnpxRl83SUVVSkZEeFNRRS1IbUZ0X19teEY1ZnZjbEQ4ZzlxMUVqeC1rQXlJejk2QzNqNU9SOFA0Y1Rpbmx4QVJLLVBTWjRRSkRpdDktVDdjNzd2SDRMcndEbWtpWHfSAc4BQVVfeXFMTk1ycUhFcVFJUjByQ01hT29wdmtHSVZvQndOOXZtTlgyeDJwR25YbDRpcEZxMnNIZVpCMWRIeHV3YXZvSU5sVEJCaVhCdUJsU29uU1I5T01kV1o2ajRFXzhTb0ZfQTA5RDNfalpkcVcxRjlMQ0pvRmtEMV96NzBITk9oMm9lemVtbGV6ZHpSR1NmLWN2X1dwX2NGZnhMOFVLTmhwWjNYV3gwSlZuMHNiQkZFVnFpTVduc09SSnotZ0F4OWMwTTVfVHZEcWtSR3c?oc=5",
+      "title": "Cómo las startups pueden reinventar la propiedad tecnológica - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN294bklkWHZ5azNLaUtwMFdXODFJZ0JPTnpiWDdhb2VDeW5zd0NjLVExOUVreGp0cG9Da2h6ei1JWW9zbVYwd1NNNHNSSXNOYXk1UzlPRFBDV0toZnBuZElma2VuN19pejctNUs4TGx0cXl2aWFHOGl3WGNTcHktU1huQnQtQ3lmSWFSWVFwaWU1VGx1Q1E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 10 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUttUU5rYnY2RTBmUTJMLWtBb1ZOZFdTanV5bEFacWdHYW1JWTJ0azBIUk12aVEyZjZBbm5DMVo4dEJ4SEV0Qkw4UjNrbU1pZGxKVndaSDdMRDJ1VnpxRl83SUVVSkZEeFNRRS1IbUZ0X19teEY1ZnZjbEQ4ZzlxMUVqeC1rQXlJejk2QzNqNU9SOFA0Y1Rpbmx4QVJLLVBTWjRRSkRpdDktVDdjNzd2SDRMcndEbWtpWH"
-    },
-    {
-      "title": "Startups del Parque Científico de Murcia entre el top 100 España - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1V5YkU3U0VTMTZ2SXlGMjdWcV9FMTBOeVRISkhaaXVCYVFXUFlTLUF0dDVOeVc3REUwbi1OakRPYV9Tc2hJTWJLengwVGszYjBaUW5vbjhWZVpXbjJ3a0xaVktmbHRvdzk4R2FjTjk2LVRRdXhwUlBaWEt0YWhzVjhWSGtxS0MtNk1WNWJtclZtWDhSNjR5ZnVHUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 18 Jan 2026 19:48:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOU1V5YkU3U0VTMTZ2SXlGMjdWcV9FMTBOeVRISkhaaXVCYVFXUFlTLUF0dDVOeVc3REUwbi1OakRPYV9Tc2hJTWJLengwVGszYjBaUW5vbjhWZVpXbjJ3a0xaVktmbHRvdzk4R2FjTjk2LVRRdXhwUlBaWEt0YWhzVjhWSGtxS0MtNk1WNWJtclZtWDhSNjR5ZnVHUQ?oc=5\" target=\"_blank\">Startups del Parq"
+      "published": "Sun, 18 Jan 2026 01:25:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQN294bklkWHZ5azNLaUtwMFdXODFJZ0JPTnpiWDdhb2VDeW5zd0NjLVExOUVreGp0cG9Da2h6ei1JWW9zbVYwd1NNNHNSSXNOYXk1UzlPRFBDV0toZnBuZElma2VuN19pejctNUs4TGx0cXl2aWFHOGl3WGNTcHktU1huQnQtQ3lmSWFSWVFwaWU1VGx1Q1E?oc=5\" target=\"_blank\">Cómo las startups pueden"
     },
     {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",

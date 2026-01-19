@@ -3,8 +3,16 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El uso de IA en el periodismo se extiende y los usuarios deben saber identificarlo",
+      "url": "https://expansion.mx/tecnologia/2026/01/19/el-uso-de-ia-en-el-periodismo-se-extiende-y-los-usuarios-deben-saber-identificarlo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 19 Jan 2026 20:00:26 GMT",
+      "summary": "Dentro del informe sobre tendencias de periodismo del Instituto Reuters, la IA se impuso como una herramienta más común, pero también el desarrollo de código."
+    },
+    {
       "title": "Apple lidera, Samsung resiste y China presiona en el mercado global de smartphones",
-      "url": "https://expansion.mx/tecnologia/2026/01/19/venta-global-smartphones-crece-apple-lidera-samsung-pisa",
+      "url": "https://expansion.mx/tecnologia/2026/01/19/tercer-jugador-se-planta-apple-samsung-venta-smartphones",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Mon, 19 Jan 2026 18:00:36 GMT",
@@ -35,20 +43,12 @@
       "summary": "OpenAI ajusta su estrategia en un contexto de altos costos operativos y una carrera tecnológica que exige nuevas fuentes de ingresos."
     },
     {
-      "title": "¿Por qué el repartidor te llama antes de llegar? La razón logística detrás",
-      "url": "https://expansion.mx/tecnologia/2026/01/16/truco-logistico-mercado-libre-estrategia-detras-llamada",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 16 Jan 2026 20:30:10 GMT",
-      "summary": "Detrás del aviso del repartidor hay una estrategia logística para reducir fallas, optimizar rutas y enfrentar los retos de seguridad de la última milla en México."
-    },
-    {
-      "title": "Impacto energético de la IA que obliga a repensar en renovables para data centers - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2JldFV0MXlWbzdwR0R6ZEo1Z0xyYjdHLURtSm83VWxDNGFyS2tmX3YyUjF4STJrQkZLU05DZFZvLVdJbFhMRGMyVmRNakNfVFNmbUdoZmVpS041TGVzMTVVM0RGa1hzTFJPMFdmX3U4eDJzRW5iRFpvRW9scTJoaHdPbC1Ja29WUkx2S3BFWE1RUFJBVzZRenBYUnVVSUJIUHVvZ1ZycmpMaFc2U013dGwxWEZsVmo0UjNQSHRhQ0Rqd00?oc=5",
+      "title": "Dos de cada tres mexicanos ya usan inteligencia artificial para aprender y ser más productivos, revela Google - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUFpkWFlJZzJGMlMzcE1jTzdCdjVYdnYwaEVCVGE0LWpUZVlpUkZYXzBoQXJTZGFmVU1BQ3B2aFgyUzBpYmIxVVRvdG9DTGpnMDd5VFNLV1k1X0lfNVY4LS04STNtMmFZWTV6dEZERVJVdXI4R2NDT3NxY0pUZ000ZHhnbWlnV2FFalJxTm5ma1Vlc2FtcGwyY2ZJOFBXckV3RGJyai1mR1pGRHVLTV9fVlRQWHNVQzNlaFdvVnNKMkhzTnRqMEdhVUNzNExzalFOU0s5VWdNcElkdzhsbWRVTUZLb0RaTHczRFpSQWQ5aFREUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 19 Jan 2026 15:32:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2JldFV0MXlWbzdwR0R6ZEo1Z0xyYjdHLURtSm83VWxDNGFyS2tmX3YyUjF4STJrQkZLU05DZFZvLVdJbFhMRGMyVmRNakNfVFNmbUdoZmVpS041TGVzMTVVM0RGa1hzTFJPMFdmX3U4eDJzRW5iRFpvRW9scTJoaHdPbC1Ja29WUkx2S3BFWE1RUFJBVzZRenBYUnVVSUJIUHVvZ1ZycmpMaFc2U013dGwxWEZsVmo0Uj"
+      "published": "Mon, 19 Jan 2026 18:59:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUFpkWFlJZzJGMlMzcE1jTzdCdjVYdnYwaEVCVGE0LWpUZVlpUkZYXzBoQXJTZGFmVU1BQ3B2aFgyUzBpYmIxVVRvdG9DTGpnMDd5VFNLV1k1X0lfNVY4LS04STNtMmFZWTV6dEZERVJVdXI4R2NDT3NxY0pUZ000ZHhnbWlnV2FFalJxTm5ma1Vlc2FtcGwyY2ZJOFBXckV3RGJyai1mR1pGRHVLTV9fVlRQWHNVQzNlaF"
     },
     {
       "title": "Tendencias de marketing 2026: un año entre inteligencia artificial, emoción y ética - InformaBTL",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmJfWjNaS3FOQS1pamp5b3pzMmJTMlgzY0p3NXd4YkdQSGVwYTZyR1VHa3ktejMwc19MMHg5UkpxZHV3YlIyU2JRczBCOGJxTzlSQjI2OU1oNjQxS0oybGh3bFd0Y2xoNllJTnJQSUxJQ3o1QWZHd0tzOTgxMjhCaVFJVEtBV0dwYmFTSHFTYzlncGh5UVZvZFhlaXpKTERNWnA2SkxVUFhmbWE5X3c?oc=5\" target=\""
     },
     {
-      "title": "Grey México nombra a Daniela Valentine para liderar la innovación y la integración de inteligencia artificial - mercado.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ2RPVEQyX21VTGNZYlFtYmNfMUdxUEhSYlRpd3RaUFZRbzZWdFAzR0tLdjAtQTB1aG1zZ1hfdlFRd3hIQ2ZfU0tmam9KSGxiT2Q3RHNUckw5OElTTFVGQ25xd29tZ2I5ejVaWEdGbHlSbG1VQ3NjUmxqa3NEallEc3M4N0lsQXJnd2tsc2lfVkVzRjFTalJnSWdQM2F6VnRaaE1fTnFlT25tUkpHbUlucXZEZW1sdl91eUJlWHl0dTFXallDelVEZ0Z6Q3N2blpJNnhqaHJVV0tYSm1ueXVrQUdESXNMb1RF?oc=5",
+      "title": "El Estado de México integrará cámaras con IA a su estrategia de seguridad para el Mundial 2026 - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclFBanFqLUF1X0ZZdEZVdU9LaWFXaFo1OG00T3M2WVVVenhZN2dXYXdsbzFELUxaeXJrWGFBZ1ZfWEZpV1Z4STFjNUtmVVBQYXVaQ1hmS2s4VVVoYWRtVkZZajlPdFMzN2NfbEZrdWF2Ti1fNEhtc0ZoOXFBREdLN3hGOW5aNDkyanFJYWgtSWV4dno0eHMzYjBkd28zdDlyWXhtWmFvM0RseS1lYVpadjM0d3hPRzVSbWtlMnl3U2JpRDg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 19 Jan 2026 13:56:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ2RPVEQyX21VTGNZYlFtYmNfMUdxUEhSYlRpd3RaUFZRbzZWdFAzR0tLdjAtQTB1aG1zZ1hfdlFRd3hIQ2ZfU0tmam9KSGxiT2Q3RHNUckw5OElTTFVGQ25xd29tZ2I5ejVaWEdGbHlSbG1VQ3NjUmxqa3NEallEc3M4N0lsQXJnd2tsc2lfVkVzRjFTalJnSWdQM2F6VnRaaE1fTnFlT25tUkpHbUlucXZEZW1sdl91eU"
+      "published": "Sun, 18 Jan 2026 15:34:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclFBanFqLUF1X0ZZdEZVdU9LaWFXaFo1OG00T3M2WVVVenhZN2dXYXdsbzFELUxaeXJrWGFBZ1ZfWEZpV1Z4STFjNUtmVVBQYXVaQ1hmS2s4VVVoYWRtVkZZajlPdFMzN2NfbEZrdWF2Ti1fNEhtc0ZoOXFBREdLN3hGOW5aNDkyanFJYWgtSWV4dno0eHMzYjBkd28zdDlyWXhtWmFvM0RseS1lYVpadjM0d3hPRzVSbW"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
