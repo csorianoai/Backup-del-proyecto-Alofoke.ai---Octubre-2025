@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "OpenAI predecirá la edad de los usuarios de ChatGPT para proteger a los menores",
+      "url": "https://expansion.mx/tecnologia/2026/01/21/openai-predecira-la-edad-de-los-usuarios-de-chatgpt-para-proteger-a-los-menores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Jan 2026 17:00:01 GMT",
+      "summary": "La empresa implementó este sistema en medio de las polémicas y críticas por el impacto de la IA en los niños y adolescentes."
+    },
+    {
       "title": "Sony y TCL, la nueva gran alianza en la industria de TV y audio",
       "url": "https://expansion.mx/tecnologia/2026/01/20/sony-deja-manos-tcl-fabricacion-tv-audio-alianza",
       "source": "Expansión Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Tue, 20 Jan 2026 11:55:52 GMT",
       "summary": "La tecnología promete compras más rápidas, personalizadas y sin fricciones, pero la realidad es otra. El problema no está en descubrir productos, sino en todo lo que ocurre después."
-    },
-    {
-      "title": "Motorola y Xiaomi tienen más equipos premium y esto es respuesta al mercado",
-      "url": "https://expansion.mx/tecnologia/2026/01/19/mexicanos-prefieren-celulares-premium-motorola-xiaomi",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 19 Jan 2026 22:48:00 GMT",
-      "summary": "La Inteligencia Artificial es un factor decisivo para el 30% de los compradores de gama alta, mientras que su peso es casi marginal en los segmentos más económicos."
     },
     {
       "title": "Dos de cada tres mexicanos ya usan inteligencia artificial para aprender y ser más productivos, revela Google - ITSitio",
