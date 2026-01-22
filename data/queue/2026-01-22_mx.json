@@ -3,30 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "México es líder en OnlyFans, tanto para producir como para consumir",
-      "url": "https://expansion.mx/tecnologia/2026/01/22/mexico-domina-onlyfans-no-es-casualidad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 22 Jan 2026 15:00:59 GMT",
-      "summary": "Los mexicanos gastaron 291 millones de dólares en 2025, pero cada día las ganancias que generan los creadores de la plataforma ascienden a casi 1 mdd por día."
-    },
-    {
-      "title": "Corea del Sur se convierte en el primer país en regular el uso de la inteligencia artificial",
-      "url": "https://expansion.mx/tecnologia/2026/01/22/corea-del-sur-primer-pais-regular-inteligencia-artificial",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 22 Jan 2026 14:35:54 GMT",
-      "summary": "Corea del Sur aspira a unirse a Estados Unidos y China como una de las tres principales potencias de la IA."
-    },
-    {
-      "title": "Alexa+ ya disponible en México: así puedes usar la IA más avanzada de Amazon",
-      "url": "https://expansion.mx/tecnologia/2026/01/22/alexa-ya-esta-mexico-ia-mas-avanzada-amazon-precio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 22 Jan 2026 14:31:47 GMT",
-      "summary": "El nuevo servicio de Amazon finalmente llega a los hogares mexicanos y aquí te contamos todas sus funciones, características, disponibilidad y precio."
-    },
-    {
       "title": "Wikipedia lucha contra la desinformación, la IA y por sobrevivir",
       "url": "https://expansion.mx/tecnologia/2026/01/22/wikipedia-lucha-contra-la-desinformacion-la-ia-y-por-sobrevivir",
       "source": "Expansión Tecnología",
@@ -41,6 +17,30 @@
       "category": "tech",
       "published": "Thu, 22 Jan 2026 01:50:55 GMT",
       "summary": "Wallet, o la Billetera de Google, tiene una función para convertir una imagen con un código QR en un pase rápido para facilitar la entrada a funciones, usar la tarjeta de lealtad o una membresía."
+    },
+    {
+      "title": "Netflix creció 18% y reafirma su interés por Warner Bros",
+      "url": "https://expansion.mx/tecnologia/2026/01/21/netflix-crecio-18-y-reafirma-su-interes-por-warner-bros",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 22 Jan 2026 00:21:52 GMT",
+      "summary": "La empresa presentó su último reporte trimestral con ingresos por 12,051 millones de dólares y más de 325 millones de suscriptores de pago."
+    },
+    {
+      "title": "México es líder en OnlyFans, tanto para producir como para consumir",
+      "url": "https://expansion.mx/tecnologia/2026/01/21/mexico-domina-onlyfans-no-es-casualidad",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Jan 2026 21:00:59 GMT",
+      "summary": "Los mexicanos gastaron 291 millones de dólares en 2025, pero cada día las ganancias que generan los creadores de la plataforma ascienden a casi 1 mdd por día."
+    },
+    {
+      "title": "¿No sabes quién es quién en el grupo? WhatsApp ya tiene una solución",
+      "url": "https://expansion.mx/tecnologia/2026/01/21/whatsapp-nuevas-etiquetas-grupos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Jan 2026 19:00:11 GMT",
+      "summary": "Los cambios buscan reducir el caos en los grupos grandes y dar más herramientas para personalizar la forma en la que los usuarios se comunican."
     },
     {
       "title": "Enrique Perezyera: Los datos son el “nuevo petróleo” de las empresas mexicanas - ITSitio",
