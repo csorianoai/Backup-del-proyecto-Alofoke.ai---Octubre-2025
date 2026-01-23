@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "La NASA compartió una impactante imagen de los incendios forestales en Ñuble y Biobío que captó uno de sus satélites",
+      "url": "https://www.latercera.com/tendencias/noticia/la-nasa-compartio-una-impactante-imagen-de-los-incendios-forestales-en-nuble-y-biobio-que-capto-uno-de-sus-satelites/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 23 Jan 2026 15:34:09 +0000",
+      "summary": "La NASA difundió una alarmante imagen satelital de los incendios forestales en las regiones de  Biobío y Ñuble en Chile, donde se aprecia una columna de humo visible desde el espacio."
+    },
+    {
       "title": "TikTok ya no se va de Estados Unidos: en qué consiste el acuerdo que le permitirá operar con normalidad",
       "url": "https://www.latercera.com/tendencias/noticia/tiktok-ya-no-se-va-de-estados-unidos-en-que-consiste-el-acuerdo-que-le-permitira-operar-con-normalidad/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Fri, 23 Jan 2026 09:15:00 +0000",
       "summary": "Acaba de aterrizar en Chile el nuevo plegable de la marca china. Un teléfono que compensa sus carencias de software con pura fuerza bruta de hardware. Acá te explicamos por qué es una joya para el usuario techie y, al mismo tiempo, una declaración de principios."
-    },
-    {
-      "title": "Cambio climático: cómo los pingüinos están cambiando por las altas temperaturas, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/cambio-climatico-como-los-pinguinos-estan-cambiando-por-las-altas-temperaturas-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Jan 2026 09:03:00 +0000",
-      "summary": "Cámaras instaladas en colonias de la Antártida muestran cómo el aumento de las temperaturas está obligando a estas aves a adelantar uno de los momentos más importantes de su ciclo de vida."
     },
     {
       "title": "Ultreon 2.0 llega a Chile: la innovadora tecnología de inteligencia artificial para combatir las enfermedades cardiovasculares - latam.abbott",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWkyR1FWc21VS2dwcHFtZDcxbG5CRktaN0Q4TVRQalBIdVpPb0tqY3dIWGZNUnpuQlB4WWowU2YwR3czalhDVjNqalRpb0w2b3NGa0pIOUpJUmFuZ3NzLTNtdlpEQ084b3JaTzQ0NlBmY2V6NURUVXBhSWtLV3Z1Mi1JYlo5YnJWVXFCeFdIRlVyNGxfdnBoQ29QOWxJVzgzU29sUjRGN19aZw?oc=5\" target=\"_blan"
     },
     {
-      "title": "Santiago Kovadloff sobre la inteligencia artificial: No puede reemplazar la fragilidad humana - laopinionline.ar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajdhcTJjZGs5T19xUmZIT0FjdHdLekNQZ0Z3TGI1Z21sSTloYm1heHF5YllPeVB2ZGE4dW12MFRXZHItdFdINGxIOXpyWW9ZN3VXUXEybVh2LTNxT3RZRTl2NUthcWIyS1lJQkJpWXJBWDVVSGNxeG1zam1wQ2dyME5aQlk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 22 Jan 2026 15:43:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNajdhcTJjZGs5T19xUmZIT0FjdHdLekNQZ0Z3TGI1Z21sSTloYm1heHF5YllPeVB2ZGE4dW12MFRXZHItdFdINGxIOXpyWW9ZN3VXUXEybVh2LTNxT3RZRTl2NUthcWIyS1lJQkJpWXJBWDVVSGNxeG1zam1wQ2dyME5aQlk?oc=5\" target=\"_blank\">Santiago Kovadloff sobre la inteligencia artific"
-    },
-    {
       "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 21 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
+    },
+    {
+      "title": "Santiago Kovadloff sobre la inteligencia artificial: No puede reemplazar la fragilidad humana - laopinionline.ar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajdhcTJjZGs5T19xUmZIT0FjdHdLekNQZ0Z3TGI1Z21sSTloYm1heHF5YllPeVB2ZGE4dW12MFRXZHItdFdINGxIOXpyWW9ZN3VXUXEybVh2LTNxT3RZRTl2NUthcWIyS1lJQkJpWXJBWDVVSGNxeG1zam1wQ2dyME5aQlk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 22 Jan 2026 15:43:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNajdhcTJjZGs5T19xUmZIT0FjdHdLekNQZ0Z3TGI1Z21sSTloYm1heHF5YllPeVB2ZGE4dW12MFRXZHItdFdINGxIOXpyWW9ZN3VXUXEybVh2LTNxT3RZRTl2NUthcWIyS1lJQkJpWXJBWDVVSGNxeG1zam1wQ2dyME5aQlk?oc=5\" target=\"_blank\">Santiago Kovadloff sobre la inteligencia artific"
     },
     {
       "title": "Startuplab.01: nuevo polo de innovación y startups en Chile - El Ecosistema Startup",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3dPWVVCN25QV0x4VGRoLUNZQVo5V3RQcEFTSXdiVUZDdVpZNnh6TmhNb0ZqSDdLVHAxcmVXZFRGeF8xSHdoV0t1LTBJYVBiVDdnZC03Qmp4RWdVUU5WbVJmbkE3SHBRb1NQVW4tZUhndG9sNXkzY1F0UWQzcTdJMGNNS3djbUhtWTJwTzN5STQ5c2s?oc=5\" target=\"_blank\">Startuplab.01: nuevo polo de"
     },
     {
+      "title": "Startups tecnológicas chilenas participarán de encuentro mundial en Punta del Este - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMWpjTW16aVRQYmxBWDlJQTlCRkxIV3pSZHBPZ2xmRHE0ZHdRdDJNMHo3UEs4Wmp4b1ppTnNNMGdFNnFzenBvQUs3MVVwR2p2eTVmeF9LV2xLVEJ4Wk05NHEtendlOERVR1F2Vl93UjVDSVF2eUZWWFVDbkE4WGJRZFBITlNwOTlpNkdUNHo5LW5teWpFUTJDX294djRPMGx4cUNOdU9XbXI0Y0Rqd2hnN2RqOGxDeTRkRDV6STlOVklOemN1MUVURDRsSWZwVloxV1VSNERzR2lKM2pKY2c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 19 Jan 2026 08:42:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMWpjTW16aVRQYmxBWDlJQTlCRkxIV3pSZHBPZ2xmRHE0ZHdRdDJNMHo3UEs4Wmp4b1ppTnNNMGdFNnFzenBvQUs3MVVwR2p2eTVmeF9LV2xLVEJ4Wk05NHEtendlOERVR1F2Vl93UjVDSVF2eUZWWFVDbkE4WGJRZFBITlNwOTlpNkdUNHo5LW5teWpFUTJDX294djRPMGx4cUNOdU9XbXI0Y0Rqd2hnN2RqOGxDeTRkRD"
+    },
+    {
       "title": "Project Cybersyn: innovación y automatización en economía planificada - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDVIVTBmbnJKRlFYTDJ5N0Y0ZzBaR2dPRnRaQkowS3E1c0ZmUThMa05KN3RCNEJJVml0WTZWQ0RPWG5NcFNjUlFLWEI0MHJ6c1ZteUNqamlOV2VPZkVaX0xCQ2xLdUJqNDBuWmFPa3RSSmxvNGVaWHEyZ0ZFMy1VdVJ4ZjBwVHplSmY2dHhXREQ3SzJadjhOQXV6ZGFseUlo?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 19 Jan 2026 17:18:27 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDVIVTBmbnJKRlFYTDJ5N0Y0ZzBaR2dPRnRaQkowS3E1c0ZmUThMa05KN3RCNEJJVml0WTZWQ0RPWG5NcFNjUlFLWEI0MHJ6c1ZteUNqamlOV2VPZkVaX0xCQ2xLdUJqNDBuWmFPa3RSSmxvNGVaWHEyZ0ZFMy1VdVJ4ZjBwVHplSmY2dHhXREQ3SzJadjhOQXV6ZGFseUlo?oc=5\" target=\"_blank\">Project Cyb"
-    },
-    {
-      "title": "Destacado en prensa: Chile se la juega en Dubái con 12 startups tecnológicas que buscan conquistar Medio Oriente - prochile.gob.cl",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUUxBSkU2SEd6UUFjclNNVjFQMzBPWjR4MEpaYUxERDN2UTk0dS1nYXNfa0JLZVpsYng4RHZyVXoxZHJjYVBjd0NKQW9MelpVbHdINWI2UWJSVEZVN0tpSFF5XzZWNnZoVXBfWmJPdTR0V3J0WUlhVVpQVDVqb3FTM1A1dUw4eVdQWEJiWWVuY05RTFYzc2FYMEE3OWpjNmtaQjZ1LVJFNUtlZXhPMF80Y3lZOEJVSGRobTdHWllPdTRqcFNjZ1pRNXc3YUhuY2hybUo0Uzl3MV91aVg5aEtvckVyNkdsU0RuQXFLT1ExVGZ3b3FmNU9ucnJGTW56NlZsSGo0YjVlTGwwc0dZMEV4Y2V5NjE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 16 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQUUxBSkU2SEd6UUFjclNNVjFQMzBPWjR4MEpaYUxERDN2UTk0dS1nYXNfa0JLZVpsYng4RHZyVXoxZHJjYVBjd0NKQW9MelpVbHdINWI2UWJSVEZVN0tpSFF5XzZWNnZoVXBfWmJPdTR0V3J0WUlhVVpQVDVqb3FTM1A1dUw4eVdQWEJiWWVuY05RTFYzc2FYMEE3OWpjNmtaQjZ1LVJFNUtlZXhPMF80Y3lZOEJVSGRobT"
     }
   ],
   "count": 14

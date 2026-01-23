@@ -3,14 +3,6 @@
   "country": "pe",
   "articles": [
     {
-      "title": "Rediseñar el trabajo desde las habilidades: liderar en la era de la inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3drN0NJbXhGcGlVMXByUWZpejRkbUt0dFdTY0pUdGQwckdCVzFVcTRuTF9oNGVKcGlwN0lIWV9OdlNYQzU2VDduZExpWFlSa3hlNXlVOHQ2MzNUeWJsWUp0dEpGWkx6LTZndi1KbWk0cW5qNnhZbnJHaVpDQ1BJcXFmQVZkaE9BLThFNHZITGFESGk4Y0lJSG95U0FYV196OXNNdWdEM1YzOS1fa1hvWGZkNE5jR3RsMmMwZkNBQTVydGFvMHEtei0tMNIB5gFBVV95cUxQc25MNVhZM3EybDlySXE1YlNRZ1hGRnlqc3V6Rk5PcHRmSkRzSG8zNVVlOTUyM3JGWXFBQi1MMWFPUGg5TkRsX1ZQUDk2UGJWQ3lVLWJkaWZiT3ktU1FTZWFPdEJwQmtJakpzb1U0SGc5ZkwzNzBvcGdNYlBWWGhyTmZzRTNYM1FqT0ZmM00xdzU5NFZ6b2RIOENmVWFINjhwMzNQRGZEUElRcTZNZ1M4ZWpMbGcyeW8xenVrSGlTQXV2UTBOVWJPVlJ2aXZZVFdVeEhteVhwWXFTem8zRTh1LUdrT1R5QQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 22 Jan 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3drN0NJbXhGcGlVMXByUWZpejRkbUt0dFdTY0pUdGQwckdCVzFVcTRuTF9oNGVKcGlwN0lIWV9OdlNYQzU2VDduZExpWFlSa3hlNXlVOHQ2MzNUeWJsWUp0dEpGWkx6LTZndi1KbWk0cW5qNnhZbnJHaVpDQ1BJcXFmQVZkaE9BLThFNHZITGFESGk4Y0lJSG95U0FYV196OXNNdWdEM1YzOS1fa1hvWGZkNE5jR3RsMm"
-    },
-    {
       "title": "Indra presenta en Chile y Perú su nueva plataforma de inteligencia artificial ciberresiliente - Infodefensa",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVhyR0wwVFRwNERrSHFDSVE4UHRSREpjZXhKMG40b0F1NG9RX3pFZURRM2QtRmx0Qnk0X1ItM01QT0VBMzFPLUR3bF9sSmcyTXVrYVhOTzJsSHpfMnVaWTBQZm9Va0hNczAySF9zaVc0Umd3bWJGVldMcUpMSzJHMEowWEtPOFgxODl5TWFqZEVtS25wVDdRTXkxaS11Rm82Zm5ScW9XQzMwdUU3M1hoMTNmOGh2WFNEUU90eS1CSFBPRGEtZ1RhZmxkTUtNWkxiaGpvT3RUdGpPQUhTUVAycVlfT0Qzem8?oc=5",
       "source": "Google News",
@@ -19,20 +11,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVhyR0wwVFRwNERrSHFDSVE4UHRSREpjZXhKMG40b0F1NG9RX3pFZURRM2QtRmx0Qnk0X1ItM01QT0VBMzFPLUR3bF9sSmcyTXVrYVhOTzJsSHpfMnVaWTBQZm9Va0hNczAySF9zaVc0Umd3bWJGVldMcUpMSzJHMEowWEtPOFgxODl5TWFqZEVtS25wVDdRTXkxaS11Rm82Zm5ScW9XQzMwdUU3M1hoMTNmOGh2WFNEUU"
     },
     {
-      "title": "Perú | San Marcos lanza la carrera profesional de Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWtJRktjNkpTdk1VeUpNOVNOZS1XWnFLbVRDVVVrZUZ6UFZXSnl5SHNHcVZWS2g5NzJrUzkydi1qbEdudmxNOEZIQlJCUFRCcUxjWThfQWJkTVQwSnRjT21YTDdHVU1XOU12RENTMXk3WUx2LUQxdHBaaDI3aXJDQ0xRZUJoT0t5eW9zbFpmOVpxZFpaODdF?oc=5",
+      "title": "Rediseñar el trabajo desde las habilidades: liderar en la era de la inteligencia artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3drN0NJbXhGcGlVMXByUWZpejRkbUt0dFdTY0pUdGQwckdCVzFVcTRuTF9oNGVKcGlwN0lIWV9OdlNYQzU2VDduZExpWFlSa3hlNXlVOHQ2MzNUeWJsWUp0dEpGWkx6LTZndi1KbWk0cW5qNnhZbnJHaVpDQ1BJcXFmQVZkaE9BLThFNHZITGFESGk4Y0lJSG95U0FYV196OXNNdWdEM1YzOS1fa1hvWGZkNE5jR3RsMmMwZkNBQTVydGFvMHEtei0tMNIB5gFBVV95cUxQc25MNVhZM3EybDlySXE1YlNRZ1hGRnlqc3V6Rk5PcHRmSkRzSG8zNVVlOTUyM3JGWXFBQi1MMWFPUGg5TkRsX1ZQUDk2UGJWQ3lVLWJkaWZiT3ktU1FTZWFPdEJwQmtJakpzb1U0SGc5ZkwzNzBvcGdNYlBWWGhyTmZzRTNYM1FqT0ZmM00xdzU5NFZ6b2RIOENmVWFINjhwMzNQRGZEUElRcTZNZ1M4ZWpMbGcyeW8xenVrSGlTQXV2UTBOVWJPVlJ2aXZZVFdVeEhteVhwWXFTem8zRTh1LUdrT1R5QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 22 Jan 2026 15:17:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWtJRktjNkpTdk1VeUpNOVNOZS1XWnFLbVRDVVVrZUZ6UFZXSnl5SHNHcVZWS2g5NzJrUzkydi1qbEdudmxNOEZIQlJCUFRCcUxjWThfQWJkTVQwSnRjT21YTDdHVU1XOU12RENTMXk3WUx2LUQxdHBaaDI3aXJDQ0xRZUJoT0t5eW9zbFpmOVpxZFpaODdF?oc=5\" target=\"_blank\">Perú | San Marcos lanza"
+      "published": "Thu, 22 Jan 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3drN0NJbXhGcGlVMXByUWZpejRkbUt0dFdTY0pUdGQwckdCVzFVcTRuTF9oNGVKcGlwN0lIWV9OdlNYQzU2VDduZExpWFlSa3hlNXlVOHQ2MzNUeWJsWUp0dEpGWkx6LTZndi1KbWk0cW5qNnhZbnJHaVpDQ1BJcXFmQVZkaE9BLThFNHZITGFESGk4Y0lJSG95U0FYV196OXNNdWdEM1YzOS1fa1hvWGZkNE5jR3RsMm"
+    },
+    {
+      "title": "Mapa regulatorio de la inteligencia artificial en Perú - Garrigues",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWUwQTVSS3plNHcyZ1dfSS1JWVQtdnZBN2VHNHBsZEp2TlRhQWFjaUhMcWllRU1ZWExVajJhOUNBSmdpdllUbXZqdzViUngzNGdOd0w3enJaWV9KLTBsSzlfcEJzZjFzanAwa3NSQ2dxZk5EajBqVVdxV0hUUWg1ekJCazJGRG8yU0lFZl9B?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 12 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWUwQTVSS3plNHcyZ1dfSS1JWVQtdnZBN2VHNHBsZEp2TlRhQWFjaUhMcWllRU1ZWExVajJhOUNBSmdpdllUbXZqdzViUngzNGdOd0w3enJaWV9KLTBsSzlfcEJzZjFzanAwa3NSQ2dxZk5EajBqVVdxV0hUUWg1ekJCazJGRG8yU0lFZl9B?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligencia"
     },
     {
       "title": "Decepciones, amenazas y furia: crónica del día oscuro en Alianza Lima tras denuncia por abuso sexual a tres futbolistas - El Comercio Perú",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNb3JhVWJ3c0xmeUFfck9PTU8wMnh1VzhRU3ZDWjhaS3ZBOHprS0EtRFBydnozRTZNUzNXZ1hBaXMwTUhPbWNzYzZMYVdvOEpKOTkteGJqa0M5Nlh3c3hkR2xRMEJJM3o0YkRVclUySk5GRWw2ZzVSVHFoY2pJVmpWQ3pUNllYU2Vkb2czRGd6X2FuVUl4SGNxaUVRbWpYSk05TE1ORVFnR3ZjZ3U0bVdXY3BISllmTndVQjg5MTloM2tDdkZTOUVTbmlZUGVJTk5yeTZKenhGQVBhM2tUMWJLalJzeUVvTWZ1a1pIc0ZaWkUwUUxJQ0xKYjZxY2w2UGtvSld2dFhMYVNjeVlLTXp0ZFMxVDY3M0lIenFIX1UxMjRCMUt3ZmZuSTJGNEtlMDNLTlhQbVAyajI2M1FIT2RJcnJqVkdhYkN3M05SZzhnQ244akFBOWpDU05Xc3ZNeFlEZ0RIa2tpS0Y?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 23 Jan 2026 12:52:04 GMT",
+      "published": "Fri, 23 Jan 2026 17:49:13 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxNb3JhVWJ3c0xmeUFfck9PTU8wMnh1VzhRU3ZDWjhaS3ZBOHprS0EtRFBydnozRTZNUzNXZ1hBaXMwTUhPbWNzYzZMYVdvOEpKOTkteGJqa0M5Nlh3c3hkR2xRMEJJM3o0YkRVclUySk5GRWw2ZzVSVHFoY2pJVmpWQ3pUNllYU2Vkb2czRGd6X2FuVUl4SGNxaUVRbWpYSk05TE1ORVFnR3ZjZ3U0bVdXY3BISllmTndVQj"
+    },
+    {
+      "title": "Alianza Lima vs Inter Miami de Lionel Messi: día, hora y canal TV del histórico duelo por la Noche Blanquiazul 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSkY3RVBfc2lfVmdjR3hCYUJMWk9JWHdKT2E3Y3RaX2VYR1ZpcWVVZ0dicHFfbWtzQTF3OEhIRzVWSElobTg2UTlwZEZMS2xmM05TcnpOUkZDNE5HdFljNThvNTJYX1BTNC1lRUlYT0FrS183MEd6a0E5Ym1EY1lXZHI3QkE5X0FtMkRRVkdodXV5aDQ4QktvT2s3QzlkVUN1cjdIcUNJdE16RFhRSWZzZzByOEFrNUhnbW9NclVaTEpOa3VOUXh2ZVNfNmhibm5RV3VjN0YwTjB5eW5UVm5KdDlwdVUxQmtxQUo4NFU1alluYlhUYWfSAZACQVVfeXFMT2RsQXgtck9kNG5LcjBCUXF5RWJ2Q0lQcEx6LV9xUllEZzlaSjVzZFFvV3ZtT2JIaWVrWEZ2ODhjWVRzTkZWNXBITkVJQnNrX09UNlpFd2RlWFY5RDdfVHc0bFZ1eUxDX3o2TllrY1A0T3FBZFJ2emMyX2xpeGVqYnYtRmhSY3lxVGtrTkxpbXFHT1lTTk9sLWVRTHZpVGo2TGZ1djNWRTVUN3VXTlNDTnlsbUhXOG12MHZmQ2ZJMTJENFREZDY1Umw3YXMwMXZOUzFnM1U0Tm42Wl92c3NJNUZRWWFPa2ZCSUEzNnl2NHdWb2VHdVM4Y2VmczVUNVVoOFlRQVdHOU1BN3c5NUdQa0c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 21 Jan 2026 13:56:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSkY3RVBfc2lfVmdjR3hCYUJMWk9JWHdKT2E3Y3RaX2VYR1ZpcWVVZ0dicHFfbWtzQTF3OEhIRzVWSElobTg2UTlwZEZMS2xmM05TcnpOUkZDNE5HdFljNThvNTJYX1BTNC1lRUlYT0FrS183MEd6a0E5Ym1EY1lXZHI3QkE5X0FtMkRRVkdodXV5aDQ4QktvT2s3QzlkVUN1cjdIcUNJdE16RFhRSWZzZzByOEFrNUhnbW"
     },
     {
       "title": "70ª Comisión Regional de ONU Turismo para las Américas y Seminario: Inteligencia Artificial y Turismo en las Américas - UN Tourism",
@@ -41,14 +49,6 @@
       "category": "news",
       "published": "Sat, 02 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5VZmFhaHJmLWhiQkxiVU8zd1gzWXNXT3hSSjJfSWlDQlV6Y0tpNTJHRmVSVC1DM0lweHRJWUQ2RGJkM182T3RRa0dEQk5neHVSMUgwVWZGOThtWHliZ2VYaGYxRGVSYjNuQ3hnZ2tXUTBubG8?oc=5\" target=\"_blank\">70ª Comisión Regional de ONU Turismo para las Américas y Seminario: Inte"
-    },
-    {
-      "title": "Inteligencia artificial: expertos debatirán en Lima su impacto en las organizaciones - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzkzV3JfMWRoOTR0ajFDYloxQ0xSU00xTTlHd00zRTk3TGNzWUZmTDIwNUpWOTExZHNzZXNqQldmNTFLejAyb19uaWlWRTZ2eHZOQWpBSHdZLVNHZFVlaXMzcUlrWEJHYnd1bnBDMGM0YXV2VGxIWXZhY18ySVdZaFEtRW40dE1DdTFUZ1pVRkZlTmVaUnZzbHJnc0xiQ0E2RU5oSmg2by1Ob0dDek5lX1lUZnhHS1dvU2JxTkxYdVpHcVdfTVZfaGNkbm1CWTZh0gHrAUFVX3lxTFBsMXBZck5sR3Q3RWVIb0lRVko4dDhsdnF4Q0VZb0pZeG5OUUw0bUZqLU5NcklsNWhWZTJTbmZqcEVQLVRkUzJiLTM2ZGQ1VWRzWUhGQmpETllXOE4zUzlZbFFaaXo5Vkt4clFJdm1ka3NTbHN3bXlycXFhR0xydHFOYzlEdElkTDlpZDhTSHpJR09kalRZbTFVeWFiTTlSXzcyaTJ6VzVRQm1tMHNGZGJCNlREQ3d6TlpUNDd2OHAyVHZKckZmUE9USzlnV2tKclNOVkFRcFRlMEZKampSaFZzU0FUb204d3B4ckE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzkzV3JfMWRoOTR0ajFDYloxQ0xSU00xTTlHd00zRTk3TGNzWUZmTDIwNUpWOTExZHNzZXNqQldmNTFLejAyb19uaWlWRTZ2eHZOQWpBSHdZLVNHZFVlaXMzcUlrWEJHYnd1bnBDMGM0YXV2VGxIWXZhY18ySVdZaFEtRW40dE1DdTFUZ1pVRkZlTmVaUnZzbHJnc0xiQ0E2RU5oSmg2by1Ob0dDek5lX1lUZnhHS1dvU2"
     },
     {
       "title": "Startup minera de Aster proyecta expansión: Perú, Brasil y Canadá - El Ecosistema Startup",
@@ -75,6 +75,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbGR1WGhTZU1VVDJwSEdrR3hhNExYNDVIUExLdGhxdExFT1doemxacWtQWk93enl1UTFVbmxtemxiMkRyTW15bFFJby1WYW1SNVJFdnJPdjlNaVJ5WDBzQ19kblJYYWtyS0tndHR0VUZ5dUhuci03MHVhbEFRM2tqbEJpbVV4bThxRzJQUDg1bVRBY0VRbG5scU9NT1g3YnNWdkRDT0Nrd0dJVnJqVy1FTUt3UGJHaHV2Rm"
     },
     {
+      "title": "La OPS impulsa la innovación digital para mejorar el registro de vacunación en comunidades con conectividad limitada - paho.org",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUVtNkNKZkFSV2RlZDhUVkpvakZSMERYeW1jLVZQVW5rajhRNVhRTnlBdXV6d0lCcjUwNjJGZldlZkEwd19abngyaDZKNkwzSTNGRUkzUWo5RXcyelp1RGlvUEVIYm14M013Mm5YekV0SzhCLXBoYlFQRklVUHJUdk5aLUVMZHZGYm1lREY2Z3RadnNyRTQ5VjJaSnpMeS0tbjNOc2V0elhYZUROaldSdDNSakxKRTNfeG83Z3JRTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 05 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUVtNkNKZkFSV2RlZDhUVkpvakZSMERYeW1jLVZQVW5rajhRNVhRTnlBdXV6d0lCcjUwNjJGZldlZkEwd19abngyaDZKNkwzSTNGRUkzUWo5RXcyelp1RGlvUEVIYm14M013Mm5YekV0SzhCLXBoYlFQRklVUHJUdk5aLUVMZHZGYm1lREY2Z3RadnNyRTQ5VjJaSnpMeS0tbjNOc2V0elhYZUROaldSdDNSakxKRTNfeG"
+    },
+    {
       "title": "Innovación tecnológica en Perú: avances en la era digital - VIU España",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVdOQjAtN3lHekJkV3dsWElkS2pqQllIcjBqSUhfWkZhSXJyY0lfdGFZMGNqZ2pCREpocUphZV95NG1Ma204dDFjSnl3QlN3SEtGT2pjM3dtV1FCbHNNWVM5bVN0LV9JMDBfaTZPVGItR0F1YXZZX0JvUU9sVHlISS1GNDRuR2hnSWRSSEdOZnhzZ0hZVm42Y3RJMUhORjdnc0lvcEh2d0I0QktBcmJBaHJBMFpBa21oNXl3?oc=5",
       "source": "Google News",
@@ -83,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVdOQjAtN3lHekJkV3dsWElkS2pqQllIcjBqSUhfWkZhSXJyY0lfdGFZMGNqZ2pCREpocUphZV95NG1Ma204dDFjSnl3QlN3SEtGT2pjM3dtV1FCbHNNWVM5bVN0LV9JMDBfaTZPVGItR0F1YXZZX0JvUU9sVHlISS1GNDRuR2hnSWRSSEdOZnhzZ0hZVm42Y3RJMUhORjdnc0lvcEh2d0I0QktBcmJBaHJBMFpBa21oNX"
     },
     {
-      "title": "OPS, Minsa y la Cooperación Alemana al Desarrollo impulsan la innovación digital en inmunizaciones y las competencias digitales para el personal de salud - paho.org",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXptalhxSDhya3BYT1E3bmY1Y3R5NTVMeGx2Y0NNb0MxRVRrNFlMR2lCMjhwT2o1VG9VejZRYjRwbUptNm8yZzN1WmdQRmVrUWdkN2FTSUdBU1Bna2E0V2hkaE1TTmFiRnp5a0djYXFfTkFmNVpQbVRpRWdBWGpJWVJVU0VGd2RTM3p3Q0tWSjROWDRWcUE4QjZwdGo5ZzYxcWd3b21FNERHZmxVQU1CcTJ1SFQ?oc=5",
+      "title": "OPS, Minsa y la Cooperación Alemana impulsan la innovación digital en inmunizaciones y competencias en salud - consultorsalud",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTY0VU9IM2RTU0xtUE5YeWtBcmNaenZlVUU1a0dzcllsMm5ZeVdfSTlZR1hhNlI0ZWc4b3laVUtEeHBFbEw1R1NfSi1ZdWlsdlJtRzZGT1ZPVTk0bEJzNnNsa1JuTEJ4Z3o1blZXbzZPcXB5R3RLZWt0cm1meEEyUg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 25 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXptalhxSDhya3BYT1E3bmY1Y3R5NTVMeGx2Y0NNb0MxRVRrNFlMR2lCMjhwT2o1VG9VejZRYjRwbUptNm8yZzN1WmdQRmVrUWdkN2FTSUdBU1Bna2E0V2hkaE1TTmFiRnp5a0djYXFfTkFmNVpQbVRpRWdBWGpJWVJVU0VGd2RTM3p3Q0tWSjROWDRWcUE4QjZwdGo5ZzYxcWd3b21FNERHZmxVQU1CcTJ1SFQ?oc=5\" "
-    },
-    {
-      "title": "Tecnología con propósito: cuando la innovación impulsa valor y competitividad - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmJrTU11b0JiRWk4d3dlWEowam40X2tudHY5enJ3NU5yRTM4dVNOSmx2TGo4M1VjWlU3R3lfa3dYZHpfc0FuZzM3UHJJLVdYVDVzSTIwLVFmcTF5cEQ4NGh5THBwLTdSVEVEMTVrUnB1VnRRSk5hTjVIeDdiNGJjUnV6a3lfcmZEMk54ODdMOTV1NGNuWVExUzFzMENxdlc4RHNpSTlnVHRpZ3ljVzdINDVuWlBsTjUz0gHTAUFVX3lxTE1EX1N5RVNGOEJ0YXY5XzRsa2hScFEzRy1zRjc0cmdxajk3NHhrRjhLbGNTdGRRU3ZWN2FHa2R4YVhQN0t4aW9OYjI1aXAtMWFKNWNadnU4MXBnbDZOLUw3VFd1bGpha1ZjSlpzaUVMV3VpR2h6eVluNDZmUHpWQnFKMHBUOFdBVkdkUVdLeWNQNFRVYndBWEhqLW9tNWNDbUVvRmZ5THJXTEpCNUgtWWFqTFVqNlZ6eTB0RjUwXzhwTXFiY2t4cHYyd2JhUU1ObklUZE0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 11 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmJrTU11b0JiRWk4d3dlWEowam40X2tudHY5enJ3NU5yRTM4dVNOSmx2TGo4M1VjWlU3R3lfa3dYZHpfc0FuZzM3UHJJLVdYVDVzSTIwLVFmcTF5cEQ4NGh5THBwLTdSVEVEMTVrUnB1VnRRSk5hTjVIeDdiNGJjUnV6a3lfcmZEMk54ODdMOTV1NGNuWVExUzFzMENxdlc4RHNpSTlnVHRpZ3ljVzdINDVuWlBsTjUz0g"
+      "published": "Fri, 26 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTY0VU9IM2RTU0xtUE5YeWtBcmNaenZlVUU1a0dzcllsMm5ZeVdfSTlZR1hhNlI0ZWc4b3laVUtEeHBFbEw1R1NfSi1ZdWlsdlJtRzZGT1ZPVTk0bEJzNnNsa1JuTEJ4Z3o1blZXbzZPcXB5R3RLZWt0cm1meEEyUg?oc=5\" target=\"_blank\">OPS, Minsa y la Cooperación Alemana impulsan la innov"
     }
   ],
   "count": 12
