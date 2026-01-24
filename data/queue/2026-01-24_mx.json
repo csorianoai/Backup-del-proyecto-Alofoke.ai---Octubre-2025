@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Así cambiaron las laptops, son más delgadas, más potentes y menos tuyas",
+      "url": "https://expansion.mx/tecnologia/2026/01/23/laptops-mas-delgadas-potentes-y-menos-tuyas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 23 Jan 2026 21:00:35 GMT",
+      "summary": "En dos décadas, las computadoras portátiles pasaron de carcasas de colores y piezas intercambiables a cuerpos ultradelgados, chips de alto rendimiento y diseño sellado."
+    },
+    {
+      "title": "Así es como Apple Music hizo del Super Bowl su vitrina mundial",
+      "url": "https://expansion.mx/tecnologia/2026/01/23/apple-music-invirtio-fuerte-super-bowl-medio-tiempo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 23 Jan 2026 19:00:03 GMT",
+      "summary": "Una de las verticales más rentables de la tecnológica de Cupertino es la de \"Servicios\". Music aprovecha el escenario del Super Bowl para ganar visibilidad masiva y reforzar el área."
+    },
+    {
       "title": "Tras el primer año de Trump, qué pasará con TikTok en EU y sus usuarios",
       "url": "https://expansion.mx/tecnologia/2026/01/23/tras-el-primer-ano-de-trump-que-pasara-con-tiktok-en-eu-y-sus-usuarios",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "TikTok USDS Joint Venture LLC atenderá a más de 200 millones de usuarios y 7.5 millones de empresas, al tiempo que implementará estrictas medidas para la protección de datos."
     },
     {
-      "title": "Canva y Apple acechan el liderazgo creativo de Adobe",
-      "url": "https://expansion.mx/tecnologia/2026/01/23/canva-y-apple-acechan-el-liderazgo-creativo-de-adobe",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Jan 2026 11:55:08 GMT",
-      "summary": "Mientras Canva libera Affinity y Apple lanza Creator Studio, Adobe busca diferenciarse como un hub de IA creativa con flujos profesionales y modelos abiertos."
-    },
-    {
-      "title": "La IA eleva la productividad hasta 40%, pero solo si los humanos siguen al mando",
-      "url": "https://expansion.mx/tecnologia/2026/01/22/la-ia-eleva-la-productividad-hasta-40-pero-solo-si-los-humanos-siguen-al-mando",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 22 Jan 2026 19:00:58 GMT",
-      "summary": "La coordinación entre humanos y agentes de IA es uno de los retos que las organizaciones presentan en la actualidad, porque hay resistencia al cambio y sobre todo una delegación de tareas poco consciente."
-    },
-    {
       "title": "El boom de la inteligencia artificial en México dispara el consumo de energía fósil y agrava el impacto ambiental - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUUFyZm9jVXlCenJXWDFNLUNzTHQ0ZFg1bC1uRkpnRnJKMVpESmNwRGtzRnZnU0NzNVdxcHMxYzBQZzhJOVU3bDB4NEpLTnFqVlE0dm9TY2JnT3l6WktTNllWa2VpcldOTDlHN0k2dFNlUkRHanB3YVc2b1RQWFpicmZUQmZQcGNHakdpTEJscXFNbEF6aGNESFBneDVUWlFuWEN1WUkwZzFhR2JsMkRHT2FoSGZFb1RPcDczR0FGMGNvTTdhODAycmpTcF9haGsxNmVmSUIyUkFqbGRRNW5FMWtEY0x0WFRhcUJJbGQ5OFRCb0dWQW16Vg?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa0k1cF93Y2RvMFg4bGZ5V3JLaUhGN2FMdTRsbWpGNnBEY0RHTHpBNTFLUk90ZGxqV1dfbWVrWTg1YkNYbURtMWh0Y1NETURzQTVMWVZkWVF4dmxiREwzSWRZOXVvVjFpRmMxLXNlUFhYd1IyNktxWVltUjBmSEgxN3gzeEl0VFk2TF9uS0pES0RXbm5Pc0FvcHMyMk1XZ2xyenNrNXduMjlFd2laTjJXMFFDQWc4SDExZX"
     },
     {
-      "title": "BBVA México regalará licencias de ChatGPT Go a sus 34 millones de clientes - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5",
+      "title": "México podría liderar el crecimiento de la IA en América Latina, apunta el Foro Económico Mundial - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1g4Vmt0Vmh1SnVvdktMWGJVa2JVN2NHbldHUi02V1plMFRreG5Id2ZoTmR2Mkhzb0pYNTg1dDlNR29mTUJYblRSMUt3VWpzVFNWai1JTUlBQmVKSnp3SVF5LVA2REJabUxaeTlFbDU1ZFVuRW54SEEyMUhsV3VTR24yZGdrMG15X1pGNE04TkdXdFBGdEdfYUdkNElZaXgzZWR3dnBSemQ2T2Q0czVhdlhKSlZyaE1KcTBKZ3E4MTFYbXJILXc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 22 Jan 2026 17:20:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5\" t"
+      "published": "Wed, 21 Jan 2026 23:31:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1g4Vmt0Vmh1SnVvdktMWGJVa2JVN2NHbldHUi02V1plMFRreG5Id2ZoTmR2Mkhzb0pYNTg1dDlNR29mTUJYblRSMUt3VWpzVFNWai1JTUlBQmVKSnp3SVF5LVA2REJabUxaeTlFbDU1ZFVuRW54SEEyMUhsV3VTR24yZGdrMG15X1pGNE04TkdXdFBGdEdfYUdkNElZaXgzZWR3dnBSemQ2T2Q0czVhdlhKSlZyaE1KcT"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFptQXBzd0N6N1A2akxEd0dBZnJPcVQ3MnBFSmtOWF9xY01sNGpMUmc4X18xTjNCdzY5SWRoSGlYS0xwRDlITWw2Ukx2YlpVNGFva2RqQVJlQ2pRbUlZWGZNMDNMZmdpemR6SEJMem16QWhFM25ndTU5U0I0MTRTaUxzMjVXTnJWSjFKYVptZ1BRNEVTcklaLVV6ZUQxdGlyZ0NCZnBkbnNzM0VhQjdRbDdkOUc?oc=5\" "
     },
     {
-      "title": "4 tendencias tecnológicas del 2026 para el aula del futuro - conecta.tec.mx",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEEzbTZ3WGRKSkdWd295WUpJMTVGSTg0SnJ2c0p4bjc3bHVMLWZpVGRXWlJ0blcyamxwcTc2MlZqeFBBZmNLRzZWUGRhNDBkR2dwVWxobW55ZjVCQktRWm12TElWc25GWDJjd3NwY3B5VzBmZlI3ZDhfejZ2Sm1GRURFTnlJbXVyRlk4ZTRsVGctaE5NZF9LU3pBekl1aE85TmNYWHhya0RaWi1yb05nMEVB?oc=5",
+      "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - conecta.tec.mx",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEEzbTZ3WGRKSkdWd295WUpJMTVGSTg0SnJ2c0p4bjc3bHVMLWZpVGRXWlJ0blcyamxwcTc2MlZqeFBBZmNLRzZWUGRhNDBkR2dwVWxobW55ZjVCQktRWm12TElWc25GWDJjd3NwY3B5VzBmZlI3ZDhfejZ2Sm1GRURFTnlJbXVyRlk4ZTRsVGctaE5NZF9LU3pBekl1aE85TmNYWHhya0RaWi1yb05nMEVB?oc=5\" tar"
+      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5\" t"
     }
   ],
   "count": 14
