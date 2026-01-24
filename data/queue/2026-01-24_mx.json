@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Así cambiaron las laptops, son más delgadas, más potentes y menos tuyas",
-      "url": "https://expansion.mx/tecnologia/2026/01/23/laptops-mas-delgadas-potentes-y-menos-tuyas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Jan 2026 21:00:35 GMT",
-      "summary": "En dos décadas, las computadoras portátiles pasaron de carcasas de colores y piezas intercambiables a cuerpos ultradelgados, chips de alto rendimiento y diseño sellado."
-    },
-    {
-      "title": "Así es como Apple Music hizo del Super Bowl su vitrina mundial",
-      "url": "https://expansion.mx/tecnologia/2026/01/23/apple-music-invirtio-fuerte-super-bowl-medio-tiempo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Jan 2026 19:00:03 GMT",
-      "summary": "Una de las verticales más rentables de la tecnológica de Cupertino es la de \"Servicios\". Music aprovecha el escenario del Super Bowl para ganar visibilidad masiva y reforzar el área."
-    },
-    {
       "title": "Tras el primer año de Trump, qué pasará con TikTok en EU y sus usuarios",
       "url": "https://expansion.mx/tecnologia/2026/01/23/tras-el-primer-ano-de-trump-que-pasara-con-tiktok-en-eu-y-sus-usuarios",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "TikTok USDS Joint Venture LLC atenderá a más de 200 millones de usuarios y 7.5 millones de empresas, al tiempo que implementará estrictas medidas para la protección de datos."
     },
     {
+      "title": "Canva y Apple acechan el liderazgo creativo de Adobe",
+      "url": "https://expansion.mx/tecnologia/2026/01/23/canva-y-apple-acechan-el-liderazgo-creativo-de-adobe",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 23 Jan 2026 11:55:08 GMT",
+      "summary": "Mientras Canva libera Affinity y Apple lanza Creator Studio, Adobe busca diferenciarse como un hub de IA creativa con flujos profesionales y modelos abiertos."
+    },
+    {
+      "title": "La IA eleva la productividad hasta 40%, pero solo si los humanos siguen al mando",
+      "url": "https://expansion.mx/tecnologia/2026/01/22/la-ia-eleva-la-productividad-hasta-40-pero-solo-si-los-humanos-siguen-al-mando",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 22 Jan 2026 19:00:58 GMT",
+      "summary": "La coordinación entre humanos y agentes de IA es uno de los retos que las organizaciones presentan en la actualidad, porque hay resistencia al cambio y sobre todo una delegación de tareas poco consciente."
+    },
+    {
       "title": "El boom de la inteligencia artificial en México dispara el consumo de energía fósil y agrava el impacto ambiental - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUUFyZm9jVXlCenJXWDFNLUNzTHQ0ZFg1bC1uRkpnRnJKMVpESmNwRGtzRnZnU0NzNVdxcHMxYzBQZzhJOVU3bDB4NEpLTnFqVlE0dm9TY2JnT3l6WktTNllWa2VpcldOTDlHN0k2dFNlUkRHanB3YVc2b1RQWFpicmZUQmZQcGNHakdpTEJscXFNbEF6aGNESFBneDVUWlFuWEN1WUkwZzFhR2JsMkRHT2FoSGZFb1RPcDczR0FGMGNvTTdhODAycmpTcF9haGsxNmVmSUIyUkFqbGRRNW5FMWtEY0x0WFRhcUJJbGQ5OFRCb0dWQW16Vg?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa0k1cF93Y2RvMFg4bGZ5V3JLaUhGN2FMdTRsbWpGNnBEY0RHTHpBNTFLUk90ZGxqV1dfbWVrWTg1YkNYbURtMWh0Y1NETURzQTVMWVZkWVF4dmxiREwzSWRZOXVvVjFpRmMxLXNlUFhYd1IyNktxWVltUjBmSEgxN3gzeEl0VFk2TF9uS0pES0RXbm5Pc0FvcHMyMk1XZ2xyenNrNXduMjlFd2laTjJXMFFDQWc4SDExZX"
     },
     {
-      "title": "México podría liderar el crecimiento de la IA en América Latina, apunta el Foro Económico Mundial - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1g4Vmt0Vmh1SnVvdktMWGJVa2JVN2NHbldHUi02V1plMFRreG5Id2ZoTmR2Mkhzb0pYNTg1dDlNR29mTUJYblRSMUt3VWpzVFNWai1JTUlBQmVKSnp3SVF5LVA2REJabUxaeTlFbDU1ZFVuRW54SEEyMUhsV3VTR24yZGdrMG15X1pGNE04TkdXdFBGdEdfYUdkNElZaXgzZWR3dnBSemQ2T2Q0czVhdlhKSlZyaE1KcTBKZ3E4MTFYbXJILXc?oc=5",
+      "title": "BBVA México regalará licencias de ChatGPT Go a sus 34 millones de clientes - BBVA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 21 Jan 2026 23:31:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1g4Vmt0Vmh1SnVvdktMWGJVa2JVN2NHbldHUi02V1plMFRreG5Id2ZoTmR2Mkhzb0pYNTg1dDlNR29mTUJYblRSMUt3VWpzVFNWai1JTUlBQmVKSnp3SVF5LVA2REJabUxaeTlFbDU1ZFVuRW54SEEyMUhsV3VTR24yZGdrMG15X1pGNE04TkdXdFBGdEdfYUdkNElZaXgzZWR3dnBSemQ2T2Q0czVhdlhKSlZyaE1KcT"
+      "published": "Thu, 22 Jan 2026 17:20:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5\" t"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
     },
     {
-      "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1hJYmk4MU1ZY0x1RVpKZDR6bVIxYUhjR1U5eEcwUTlOLWJ2WGVEd3NWVzhsSFYzamRZaWlZVTE1aFdsMHdOOUlySGVKb1lyaGlDZkZINEVqRHFwUlI4SVg5SlpPWFE2cG53NVBvTjBsbmZpQXJWdlFKYThZdXJsN19kUUkyY2VwUHkta3Uzek9mOURvQXZkbTdjRm05cjV1RlJSdDJoalhOYzdvSThJV19QNDRoX1JBMjQ3NVRIVmFuVGZYMmc?oc=5",
+      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
