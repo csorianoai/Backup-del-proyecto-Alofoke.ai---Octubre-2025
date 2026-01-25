@@ -3,6 +3,38 @@
   "country": "es",
   "articles": [
     {
+      "title": "Los vídeos contradicen la versión del Gobierno de Trump sobre la muerte a tiros de un manifestante en Minneapolis",
+      "url": "https://elpais.com/us/migracion/2026-01-25/el-gobierno-de-trump-difunde-mentiras-para-justificar-la-muerte-de-alex-pretti-en-minneapolis.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 25 Jan 2026 16:33:16 GMT",
+      "summary": "Las imágenes tomadas por testigos muestran que agentes de la policía migratoria dispararon a bocajarro a la víctima sin mediar amenaza ni ataque previo. El hombre grababa con su móvil las protestas y trató de proteger a una mujer"
+    },
+    {
+      "title": "La muerte a tiros de un manifestante a manos de la policía migratoria de Trump inflama la tensión en Minneapolis",
+      "url": "https://elpais.com/us/migracion/2026-01-25/la-muerte-a-tiros-de-un-manifestante-a-manos-de-la-policia-migratoria-de-trump-dispara-la-tension-en-minneapolis.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 25 Jan 2026 04:38:17 GMT",
+      "summary": "Los vídeos del momento en el que los agentes matan a Alex Pettri, enfermero estadounidense de 37 años, desmienten la versión oficial, que acusa a la víctima de “terrorista”"
+    },
+    {
+      "title": "La secuencia del asesinato de Alex Pretti por el ICE en Minneapolis, desde diferentes ángulos",
+      "url": "https://elpais.com/videos/2026-01-25/la-secuencia-del-asesinato-de-alex-pretti-por-el-ice-en-minneapolis-desde-diferentes-angulos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 25 Jan 2026 11:07:46 GMT",
+      "summary": "Las imágenes desmienten la versión del Gobierno de Estados Unidos, que acusa a la víctima de querer “provocar una masacre”"
+    },
+    {
+      "title": "Gregory Bovino, el rostro de las tácticas más violentas en la cruzada de Trump contra la inmigración",
+      "url": "https://elpais.com/us/migracion/2026-01-25/gregory-bovino-el-rostro-de-las-tacticas-mas-violentas-en-la-cruzada-de-trump-contra-la-inmigracion.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 25 Jan 2026 04:40:00 GMT",
+      "summary": "El comandante en jefe de la Patrulla Fronteriza disfruta de la imagen de ‘tipo duro’ que le ha hecho ganarse el favor del presidente"
+    },
+    {
       "title": "Los nueve segundos que acabaron con 45 vidas: reconstrucción vagón a vagón, según los testigos y la investigación",
       "url": "https://elpais.com/espana/2026-01-25/los-nueve-segundos-que-acabaron-con-45-vidas-reconstruccion-vagon-a-vagon-segun-los-testigos-y-la-investigacion.html",
       "source": "El País Tecnología",
@@ -11,36 +43,12 @@
       "summary": "EL PAÍS reconstruye los instantes fatales entre el descarrilamiento del Iryo y el choque con el Alvia"
     },
     {
-      "title": "La interventora del Alvia: “Es un golpe superimportante. He perdido el conocimiento”; Renfe: “No te preocupes, te voy a mandar sanitarios”",
-      "url": "https://elpais.com/espana/2026-01-24/la-interventora-del-alvia-es-un-golpe-superimportante-he-perdido-el-conocimiento-renfe-no-te-preocupes-te-voy-mandar-sanitarios.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 24 Jan 2026 18:55:31 GMT",
-      "summary": "La trabajadora trasladó a las 19.50 la gravedad del accidente y Renfe le dijo que enviaba ya los sanitarios. EL PAÍS accede a nuevas grabaciones del siniestro"
-    },
-    {
-      "title": "Óscar Puente: “Cualquier comparación con Mazón es ofensiva. Yo estaba en mi puesto”",
-      "url": "https://elpais.com/espana/2026-01-25/oscar-puente-cualquier-comparacion-con-mazon-es-ofensiva-yo-estaba-en-mi-puesto.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 25 Jan 2026 04:30:01 GMT",
-      "summary": "Transportes revisará protocolos de Adif y el gasto en mantenimiento de la red ferroviaria, pero descarta una situación de inseguridad en la  alta velocidad"
-    },
-    {
-      "title": "Sánchez reivindica a Puente por su gestión de la crisis ferroviaria: “Desgraciadamente, en la vida las tragedias suceden, pero no es igual cómo se responde”",
-      "url": "https://elpais.com/espana/2026-01-25/sanchez-reivindica-a-puente-por-su-gestion-de-la-crisis-ferroviaria-desgraciadamente-en-la-vida-las-tragedias-suceden-pero-no-es-igual-como-se-responde.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 25 Jan 2026 12:08:45 GMT",
-      "summary": "El presidente tilda a Abascal como el “lacayo” de Trump y advierte contra el “despotismo transatlántico” del presidente de EE UU"
-    },
-    {
-      "title": "Las debilidades de la alta velocidad que afloran tras el accidente de Adamuz",
-      "url": "https://elpais.com/espana/2026-01-25/las-debilidades-de-la-alta-velocidad-que-afloran-tras-el-accidente-de-adamuz.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 25 Jan 2026 07:46:20 GMT",
-      "summary": "Los expertos consultados coinciden en que el sistema es seguro en términos generales, pero ven necesario invertir más en mantenimiento por el aumento del tráfico"
+      "title": "El sector TIC en España premia el dominio de la IA y la ciberseguridad con sueldos de hasta 130.000 euros - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQV9saENGakg1dnk4Q2Y4WmJXRVBRTmFVdUQ3Y1ptdGQ5cWJ3Snpub29BMWpVbVJzc09LX2t5cXkxbm81QjJXeENSWmVYLWNCZVFNVzlVYTNlZXU1QmtINkFXNHdTWC1OOFQxQ2JvTmYtc1hMdUZCZVJyMG1nNXkzZFRnbHpvbWFxc251UGJnSGhuUzMxSnZQQTkzQVZFcFpudC1ERlNncG1heUhGcFoyOHBMY2hGcWc1NXpJaGRiY3RTUDZvOExUTDViamVqSERNUE1tQ0hoc2xVOEpiU3A5ZDYyQVI4ZlB0Sy1YM01n0gGIAkFVX3lxTE45VlJRNUFpRkVGWDUzT3FIMnRHblN2SUNWa3dLVWlWSjZaTTZPdS1wakdvOF9uTGxJdkhXRXRxTnAtc1lTT1lsNi1jdnM3LVRUZHU5SzlWcmVBNlpzTFc0WFYwZEpfanhOT09SVmt1MTVyamhrXzYwLVBqZmNXRkQzQmdaVkFZQVJFb2ROUTVjZ0ZFeVEyWFBlbVdGNmVEaW9rZGhYMXEyNTA4amtwM2djeUhlWks2UjFnMTl5OW9GRWNYalFQbEhLd1dqRF81LThQOUd4VGtYN2JCa1dEQThBbGxqODNQcEd0R2JrQXNjX3JTMzZyV2RkazlwdHRtd0tnYm1HcXBTTw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 25 Jan 2026 14:03:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQV9saENGakg1dnk4Q2Y4WmJXRVBRTmFVdUQ3Y1ptdGQ5cWJ3Snpub29BMWpVbVJzc09LX2t5cXkxbm81QjJXeENSWmVYLWNCZVFNVzlVYTNlZXU1QmtINkFXNHdTWC1OOFQxQ2JvTmYtc1hMdUZCZVJyMG1nNXkzZFRnbHpvbWFxc251UGJnSGhuUzMxSnZQQTkzQVZFcFpudC1ERlNncG1heUhGcFoyOHBMY2hGcWc1NX"
     },
     {
       "title": "Se acelera la adopción global de la Inteligencia Artificial y España consolida su posición entre los países líderes - Microsoft Source",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNZklIVEtTNmxQY0MxMl92UDE0VWZvellsV0hzS2YxcU1KMURZdFo0UEc2Y0ZVVnNibVRnWU9YdFZDWUZBY0dBUktoc19mbVlBV24yZjZUMHZWcnJ2aWVlb05Md3BrOWlrMHFETnA3X28xZnFzSllHUWlTemtSTE9XZmRHdjAtV0JHZnF3TVBqZVBvWFBTOEE?oc=5\" target=\"_blank\">Se acelera la adopción g"
     },
     {
-      "title": "El sector TIC en España premia el dominio de la IA y la ciberseguridad con sueldos de hasta 130.000 euros - Forbes España",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnhMTUpHbmNCSTcwRVRtdmFINUpRTDI3LXdkcmFzVWtIN2xoc05OTkhzT2VDMU9tV2FIbzk4TXg3R3dDTUdIc0xMU05EWm1sc3Jsd09MMnBleFRGelhEV05YWGZIN3VjOTBJSnJESTRJMzVHQ2gwWVJid3R5UExZR0xRWFpzVmlGZnZGcTJSWlk3UUgwYXpyeDFpdUVRdHFiWHowb1VrZTQwNHB4VkxiakpBVzNQWU5fQ0FiWnNnWW1Zd3NjaWlMMUdaYlJhTG1SUmFVSGkyTQ?oc=5",
+      "title": "El 59% de los jóvenes españoles ya utiliza inteligencia artificial para aprender - Zonamovilidad.es",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVZlaWM3VDNIVUg1Nl83eFlLZHVueTRVb1VkR3IyM0p5V0RCMm03NlNwOWJXRHJLU1VvbW12dlZUU3BIN2JPel9uX0dObjdQTnNRbndyTjdyTTY3S1FiM25mMzJPS0dYUnBOWFI5bmJCYlFMakFxVTIwVnpNemhDdGNzYTcwQUM1NVVWN3pNeEcwZ0RrU0VSdWU3bURhM3E3d0R4aWl5bDI1aW1l?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 25 Jan 2026 12:25:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcnhMTUpHbmNCSTcwRVRtdmFINUpRTDI3LXdkcmFzVWtIN2xoc05OTkhzT2VDMU9tV2FIbzk4TXg3R3dDTUdIc0xMU05EWm1sc3Jsd09MMnBleFRGelhEV05YWGZIN3VjOTBJSnJESTRJMzVHQ2gwWVJid3R5UExZR0xRWFpzVmlGZnZGcTJSWlk3UUgwYXpyeDFpdUVRdHFiWHowb1VrZTQwNHB4VkxiakpBVzNQWU5fQ0"
-    },
-    {
-      "title": "Suplantan la identidad del rey Felipe de Bélgica con IA: los estafadores contactaron con dignatarios extranjeros para sacarles dinero - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSVoxbzY5RzA5RVlROFhjeHFHZ3N2VTNaYnBzT25tcjFLMzBxY0RvYUl6V3g1S3duSWZrdHhoT2llS01BNmVUelBEV180c0RkRnlxeS1fQlVPQms3ckpoQnlfMkt0bjZNb0RGcGc5VVZIN0tza0ZTaE01VVhqdVhuc1dwdUI4R0pyR0ZSaFBxc0hITnd3OFhKOVZ1V1VKaDhCaWY0dkMtWW8zM3NLc0N0dWRwLWZJd21UZWg1d05qamJKWjFnTFlUYkpMVFJJeE1tUUliYTdIX2pmQkNKWE5zOXRjU3pSa3RQRVdYSnBVSUlvbThFd1oxeTJxQVlYa3ZBc1NDcUl30gGgAkFVX3lxTE5jdWZvOFQ1R3F0LUNmcUdkenAyb1g0TUtGNFhCck85T2VqaUpoTDh2eHhLQnphTE13Z1NCbGVhdmFtbGRqSjVDcXdDZnFsZC00ODl5RXJaeWFfbFVWRTFfWENvOTFSVXZqUURTMHA1cmF4cDV4ek5NTnNlTnVIcjIxVm9NUVdRalZxUUhxTXlLRXJZS2Y0VVVlRG5kcFhqa1FKNnEtaEdxUGxTUzFxS0p6WHVrTHlMQWtfLTN5UXZSdTNDcUlxS3FBMUhjT2Q3Z3lYV3VydjExck9kcXd5Q3hxX3VaYng5ZVlweWVhM0JkUjlBejA4ZkdtSmh4TVVrVi1VUTFWMnA3a2ZrakIxbDU1R2xwRlBIbVBncnFCSWZMTA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 25 Jan 2026 13:08:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNSVoxbzY5RzA5RVlROFhjeHFHZ3N2VTNaYnBzT25tcjFLMzBxY0RvYUl6V3g1S3duSWZrdHhoT2llS01BNmVUelBEV180c0RkRnlxeS1fQlVPQms3ckpoQnlfMkt0bjZNb0RGcGc5VVZIN0tza0ZTaE01VVhqdVhuc1dwdUI4R0pyR0ZSaFBxc0hITnd3OFhKOVZ1V1VKaDhCaWY0dkMtWW8zM3NLc0N0dWRwLWZJd21UZW"
+      "published": "Sun, 25 Jan 2026 17:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVZlaWM3VDNIVUg1Nl83eFlLZHVueTRVb1VkR3IyM0p5V0RCMm03NlNwOWJXRHJLU1VvbW12dlZUU3BIN2JPel9uX0dObjdQTnNRbndyTjdyTTY3S1FiM25mMzJPS0dYUnBOWFI5bmJCYlFMakFxVTIwVnpNemhDdGNzYTcwQUM1NVVWN3pNeEcwZ0RrU0VSdWU3bURhM3E3d0R4aWl5bDI1aW1l?oc=5\" target=\"_bl"
     },
     {
       "title": "Barcelona vs Real Madrid: ¿quién es el favorito de la IA para la Supercopa? - Diario AS",
@@ -73,14 +73,6 @@
       "category": "news",
       "published": "Sat, 10 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUttUU5rYnY2RTBmUTJMLWtBb1ZOZFdTanV5bEFacWdHYW1JWTJ0azBIUk12aVEyZjZBbm5DMVo4dEJ4SEV0Qkw4UjNrbU1pZGxKVndaSDdMRDJ1VnpxRl83SUVVSkZEeFNRRS1IbUZ0X19teEY1ZnZjbEQ4ZzlxMUVqeC1rQXlJejk2QzNqNU9SOFA0Y1Rpbmx4QVJLLVBTWjRRSkRpdDktVDdjNzd2SDRMcndEbWtpWH"
-    },
-    {
-      "title": "El Gobierno presentará a Madrid y Barcelona como candidatas para la próxima gigafactoría de IA de Europa, con una inversión de 4.000 millones - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcklXUDYzbWF3dEdZS1F1eXpqMmhtU0w4Rzl1OGZUdmxCRmhibUlTOEtkVFpjbTNrQnNrNTQwM1BUck9zRkd6dm1DSjN5ckFnd2FMY0FUMW1SMkdSd1o1OU1YeVJTYnhMS2p1NDRYLWM3Mmpsa25DZFNOMHlFdFRmcVlXamVMYkdyX01SNFY0ek1RcTlwVnRNcWRidHc2Z05rLTY0WVR2VHdYdzFOZ3lTQ1VtMXhyY293cjc5blNMTEV6QnNhVm8zeGF1MTFmQ2YxT2t3Y2VOMXZFUjlpVi1WYTdnbk1DbkY5YjJCb052OVI0dTBSV3YzN2lQZEJDdXhRblUtelJtWXlPWEljQkFR0gGqAkFVX3lxTE5QbzZoOHU2ekNPNmJGd0pzU1dWLTNJSDBaRVBjc0pKREQ2SEJudEgycUhaMnFtTHpCLTVCbGEzVklndjAtZEMzUTFtOHhEeHduZ2xsX1R1WWQzSmc2Q0dsWXhvMUp5TjRrUVJ0VWduSnRSSGp0VGtqMzZJOG9hQTZLQWRQREtuVkhOUnRra21QRnAyUmdnOUh3eXhhQjdvM3pSN2dXaFpTY21IVTJJWndQUFcyMGJtQzdaNGtNWmF0cVFLOTlzZGhBVlRxaTZfYzJ1M1dGZ3pBTkFocXpsMUcwTEh2ampOVVc1OW03UVliX25IaGpGWDZtSmVkeGRHby1Cb2piN0NSdnVFT3NRZFpDcUtBMW1ocnlqYzhkSWtma2NWMVc1dG9TckE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQcklXUDYzbWF3dEdZS1F1eXpqMmhtU0w4Rzl1OGZUdmxCRmhibUlTOEtkVFpjbTNrQnNrNTQwM1BUck9zRkd6dm1DSjN5ckFnd2FMY0FUMW1SMkdSd1o1OU1YeVJTYnhMS2p1NDRYLWM3Mmpsa25DZFNOMHlFdFRmcVlXamVMYkdyX01SNFY0ek1RcTlwVnRNcWRidHc2Z05rLTY0WVR2VHdYdzFOZ3lTQ1VtMXhyY293cj"
     },
     {
       "title": "Pronóstico de la IA para Barcelona vs Real Madrid por la final de la Supercopa de España 2026 - extra.ec",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Wed, 14 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bU"
+    },
+    {
+      "title": "AstraZeneca y Microsoft firman una alianza estratégica para impulsar la innovación y la IA en salud - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRG5RRmtoaEpmR1gzOHRSWjJkQlg3VGRnNUE0Zk9DeW9CdE84RXNPM3RSSVNaNWtwMU1VTGE1TlJieEZEV1BjUVJiUFZqd1dxUHI1TDdfSXZ3ZGNBYU9vMGd3cG0xWDhUOGNMM2hOVVZ6VEh3aEFYdTdPel9jdm95UF9hdEU3UDJmN1k0RFpwQzdqcHdNZXNjdjdBTXQ0Y29QYmIzNWpGVUhVWmNEUTVVNElZWU93aTVNeDNFdVNxOC1pZGVHaGtZVThCWlRBdC1XeGd6UVJBVmZoWVgyQUt6Nzh6dExQMk10ZVRWdQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRG5RRmtoaEpmR1gzOHRSWjJkQlg3VGRnNUE0Zk9DeW9CdE84RXNPM3RSSVNaNWtwMU1VTGE1TlJieEZEV1BjUVJiUFZqd1dxUHI1TDdfSXZ3ZGNBYU9vMGd3cG0xWDhUOGNMM2hOVVZ6VEh3aEFYdTdPel9jdm95UF9hdEU3UDJmN1k0RFpwQzdqcHdNZXNjdjdBTXQ0Y29QYmIzNWpGVUhVWmNEUTVVNElZWU93aTVNeD"
     }
   ],
   "count": 14
