@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "¿Por qué se formó un arcoíris en Santiago durante la lluvia y tormentas eléctricas?",
+      "url": "https://www.latercera.com/tendencias/noticia/por-que-se-formo-un-arcoiris-en-santiago-durante-la-lluvia-y-tormentas-electricas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 26 Jan 2026 15:13:49 +0000",
+      "summary": "Un inusual arcoíris completo sorprendió a Santiago tras las tormentas eléctricas de verano. Un climatólogo explica por qué se formó este fenómeno meteorológico poco común en la capital."
+    },
+    {
       "title": "Quién era Alex Pretti, el hombre de 37 años asesinado por agentes federales en Estados Unidos",
       "url": "https://www.latercera.com/tendencias/noticia/quien-era-alex-pretti-el-hombre-de-37-anos-asesinado-por-agentes-federales-en-estados-unidos/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "En una entrevista con el New York Post, el mandatario se refirió a los motivos de su ausencia al encuentro deportivo a realizarse en febrero y a las respectivas presentaciones del cantante puertorriqueño y la banda estadounidense."
     },
     {
-      "title": "Cómo es Alexa+, la nueva asistente virtual de Amazon que utilizará IA para servirte",
-      "url": "https://www.latercera.com/tendencias/noticia/como-es-alexa-la-nueva-asistente-virtual-de-amazon-que-utilizara-ia-para-servirte/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 26 Jan 2026 11:17:31 +0000",
-      "summary": "El nuevo asistente conversacional de Amazon debuta en español con México como primer mercado de la región."
+      "title": "Xepelin y la revolución fintech en LATAM: financiamiento para pymes - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTVF0bVVaNFFnUnRZOVBtbHRxM2RKVEs4ZkVlN0FUYWhsY2w0LTcyQWhSbm5ELU5lOGo1b3pkUk52aFNpUHdQM294VnlwSU1oWXZGdmkwMUZDQmIzVkc0YTdGMnVWcklrMzZqd3ZXN2JUT1NYRlhjRXNMV0IxUjJ4UWgtb04tNG5QdmtPZnJZUmlkOWJxellLbGdpUnF4dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 26 Jan 2026 17:40:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTVF0bVVaNFFnUnRZOVBtbHRxM2RKVEs4ZkVlN0FUYWhsY2w0LTcyQWhSbm5ELU5lOGo1b3pkUk52aFNpUHdQM294VnlwSU1oWXZGdmkwMUZDQmIzVkc0YTdGMnVWcklrMzZqd3ZXN2JUT1NYRlhjRXNMV0IxUjJ4UWgtb04tNG5QdmtPZnJZUmlkOWJxellLbGdpUnF4dw?oc=5\" target=\"_blank\">Xepelin y la "
     },
     {
       "title": "Indra presenta en Chile y Perú su nueva plataforma de inteligencia artificial ciberresiliente - Infodefensa",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVhyR0wwVFRwNERrSHFDSVE4UHRSREpjZXhKMG40b0F1NG9RX3pFZURRM2QtRmx0Qnk0X1ItM01QT0VBMzFPLUR3bF9sSmcyTXVrYVhOTzJsSHpfMnVaWTBQZm9Va0hNczAySF9zaVc0Umd3bWJGVldMcUpMSzJHMEowWEtPOFgxODl5TWFqZEVtS25wVDdRTXkxaS11Rm82Zm5ScW9XQzMwdUU3M1hoMTNmOGh2WFNEUU"
     },
     {
-      "title": "Ultreon 2.0 llega a Chile: la innovadora tecnología de inteligencia artificial para combatir las enfermedades cardiovasculares - latam.abbott",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQcVZRdWhMQTI3Vnl5NHZxYXdmdEhyQlI1TUdrc3E3dVJZcDNUTENROHoxYmwzOVQwV09iTUxCNDRiYXowT2JscTZITEpSeG5DQ2NRSzcya1dpc3NVYTU0TnVyUnRyT2JBMXVhMHBtN1BHZFYtS3JWSkE3U1JsRm02Rk96NkYtazdPbURocWtFSGNZeVJkZHJRS2lDOG02eThkVV9WTl9MUHQtMlRuY1pWejFXVWc3dTVLOGg0VnpvbVRDNGx3RFdPVUIwckhIRDYyYXctampLZGFzN0ladUFwRG1RR1BBMkFpbzB4Z1JETFEzaWtyR2RMeFAtRWIxUkRHVzZnNkYzcUwzakQyN0RuZg?oc=5",
+      "title": "Mapa regulatorio de la inteligencia artificial en Chile - Garrigues",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Jan 2026 13:20:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQcVZRdWhMQTI3Vnl5NHZxYXdmdEhyQlI1TUdrc3E3dVJZcDNUTENROHoxYmwzOVQwV09iTUxCNDRiYXowT2JscTZITEpSeG5DQ2NRSzcya1dpc3NVYTU0TnVyUnRyT2JBMXVhMHBtN1BHZFYtS3JWSkE3U1JsRm02Rk96NkYtazdPbURocWtFSGNZeVJkZHJRS2lDOG02eThkVV9WTl9MUHQtMlRuY1pWejFXVWc3dTVLOG"
-    },
-    {
-      "title": "El 74% de los trabajadores en Chile siente confianza en su capacidad para usar la IA en su trabajo - diarioestrategia.cl",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeElKUlpLQ01VSGRtQ3Q0dDRZMkF0c2RZc1Z6U1VEMkFlLVQ1N0VTY0dPZXBWdE44RHNEdm1YeG9IeHpLeHV2aVJ6cFFPQ3NzZF9hMEVvTjBjVU5tcWNRSEVWMjdseHJkTC0yc2hQa2J3emREMDZmcTNySWRSYXN4d1MxT0dlM2ZVcDFiQW9vQXF4N2xkYjl2dVJ2dC16OF9DTUlRUWt2U290c1k3R2ZQRXVzYzV5cWY3bXZsSjdoYmp2MlU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Jan 2026 13:39:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeElKUlpLQ01VSGRtQ3Q0dDRZMkF0c2RZc1Z6U1VEMkFlLVQ1N0VTY0dPZXBWdE44RHNEdm1YeG9IeHpLeHV2aVJ6cFFPQ3NzZF9hMEVvTjBjVU5tcWNRSEVWMjdseHJkTC0yc2hQa2J3emREMDZmcTNySWRSYXN4d1MxT0dlM2ZVcDFiQW9vQXF4N2xkYjl2dVJ2dC16OF9DTUlRUWt2U290c1k3R2ZQRXVzYzV5cWY3bX"
+      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFFiUVlBbWE2Y05NRnRWYnRmVWxyUFZjYXdQNVFlYXRkdk1nMER0NTdSSHQzRGFlWkplT0dBdV95UmlHRUhFUmVSc1ZoWlVyZzlVU0syU2pIcER3Y29YYlcxT3pfU3gtSkJrM2NLa0pldE5qM2puT2oxVllZUGZzemROVTdJVC1kYTBiY2xTQQ?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligenc"
     },
     {
       "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
