@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La tecnología aspiracional es inmune a la inflación",
+      "url": "https://expansion.mx/tecnologia/2026/01/26/comprar-iphone-17-o-comida-razon-siguen-ventas-tech-premium",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 26 Jan 2026 21:00:12 GMT",
+      "summary": "Los usuarios ven en la compra de este tipo de productos la entrada a más estatus social, pues un lujo más costoso es casi imposible de adquirir."
+    },
+    {
       "title": "Probamos Resident Evil Requiem: 5 cosas que debes saber",
       "url": "https://expansion.mx/tecnologia/2026/01/26/resident-evil-requiem-impresiones-resena",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "El negocio de la tranquilidad ya no sólo se traduce en más ahorros y visibilidad de inversiones, sino en ciberseguridad para estas transacciones."
     },
     {
-      "title": "Así cambiaron las laptops, son más delgadas, más potentes y menos tuyas",
-      "url": "https://expansion.mx/tecnologia/2026/01/23/laptops-mas-delgadas-potentes-y-menos-tuyas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Jan 2026 21:00:35 GMT",
-      "summary": "En dos décadas, las computadoras portátiles pasaron de carcasas de colores y piezas intercambiables a cuerpos ultradelgados, chips de alto rendimiento y diseño sellado."
-    },
-    {
       "title": "El boom de la inteligencia artificial en México dispara el consumo de energía fósil y agrava el impacto ambiental - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUUFyZm9jVXlCenJXWDFNLUNzTHQ0ZFg1bC1uRkpnRnJKMVpESmNwRGtzRnZnU0NzNVdxcHMxYzBQZzhJOVU3bDB4NEpLTnFqVlE0dm9TY2JnT3l6WktTNllWa2VpcldOTDlHN0k2dFNlUkRHanB3YVc2b1RQWFpicmZUQmZQcGNHakdpTEJscXFNbEF6aGNESFBneDVUWlFuWEN1WUkwZzFhR2JsMkRHT2FoSGZFb1RPcDczR0FGMGNvTTdhODAycmpTcF9haGsxNmVmSUIyUkFqbGRRNW5FMWtEY0x0WFRhcUJJbGQ5OFRCb0dWQW16Vg?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUUFyZm9jVXlCenJXWDFNLUNzTHQ0ZFg1bC1uRkpnRnJKMVpESmNwRGtzRnZnU0NzNVdxcHMxYzBQZzhJOVU3bDB4NEpLTnFqVlE0dm9TY2JnT3l6WktTNllWa2VpcldOTDlHN0k2dFNlUkRHanB3YVc2b1RQWFpicmZUQmZQcGNHakdpTEJscXFNbEF6aGNESFBneDVUWlFuWEN1WUkwZzFhR2JsMkRHT2FoSGZFb1RPcD"
     },
     {
+      "title": "Educación superior y uso ético de la inteligencia artificial en México - siete24.mx",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajZlblBYZ0xLZWY3VG5TUEFBaUx1YWR6UmhjTHl5SmNHckRxV2pKQldzNmdoUEZPSERIQlRpaU5VZEQzcHFXUF9JTE1qNzVkSGtFOENmbkJqVUpxbzY3alpEVk91SGRadGdfelRPbnl5RlhQbDdTU0JURGxYTW5uMEZzX1B1U3ozWFhORnNHNXFoaGFMTElfcW1hbThMQUVtZVU0bUdOSW1hUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 26 Jan 2026 21:02:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajZlblBYZ0xLZWY3VG5TUEFBaUx1YWR6UmhjTHl5SmNHckRxV2pKQldzNmdoUEZPSERIQlRpaU5VZEQzcHFXUF9JTE1qNzVkSGtFOENmbkJqVUpxbzY3alpEVk91SGRadGdfelRPbnl5RlhQbDdTU0JURGxYTW5uMEZzX1B1U3ozWFhORnNHNXFoaGFMTElfcW1hbThMQUVtZVU0bUdOSW1hUQ?oc=5\" target=\"_blan"
+    },
+    {
       "title": "Tecnología, IA y seguridad redefinen la gestión de flotillas en México - T21",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVS1GcjE0X3A4VkNFUUdGQ0o4MlRMWTNnbVhzakpPX0Q3MDBRVFdFM0FpRHgtZWdmVXgyN0pKT0dUa3JENi1tMWhzb0VheTBSN2czYkQwRWxZVkx5YkY3S0ZVX2xHVW81RW9yeGtabHU1SVF1TGZWbERPSG14OW5pRWNuaWxGaWlkczdJQ21Xcnkwem8?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 26 Jan 2026 13:55:02 GMT",
+      "published": "Mon, 26 Jan 2026 13:15:02 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVS1GcjE0X3A4VkNFUUdGQ0o4MlRMWTNnbVhzakpPX0Q3MDBRVFdFM0FpRHgtZWdmVXgyN0pKT0dUa3JENi1tMWhzb0VheTBSN2czYkQwRWxZVkx5YkY3S0ZVX2xHVW81RW9yeGtabHU1SVF1TGZWbERPSG14OW5pRWNuaWxGaWlkczdJQ21Xcnkwem8?oc=5\" target=\"_blank\">Tecnología, IA y seguridad r"
-    },
-    {
-      "title": "Inteligencia Artificial en México: ética, soberanía y el ejemplo de Querétaro - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajNOdTEyMVBrYUJCZFNPZ184WHRpLVJOc2VGUmVrUldxZGpOX1lnRDJyUnZ4SmNsSGhRa0p6RWxGcm5nUnNvV0lfTGVKVkpGSlN1QXRBcFBSOHloX2pTTlF3ZUhGOFZ5SEFjcG9sMnpMTHBGU2tTMzZXZG5oTlBnOHNDNVAyRGxoN2Nsc1pYS19uRFctMldVclJLLW01R2JxYzBPQnY1UTUyWEJMMURqRDZCay1iaWVtM1E2Slg3T1dtQ09reXl6S3UyUEVyX2xUZ000?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Jan 2026 12:03:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajNOdTEyMVBrYUJCZFNPZ184WHRpLVJOc2VGUmVrUldxZGpOX1lnRDJyUnZ4SmNsSGhRa0p6RWxGcm5nUnNvV0lfTGVKVkpGSlN1QXRBcFBSOHloX2pTTlF3ZUhGOFZ5SEFjcG9sMnpMTHBGU2tTMzZXZG5oTlBnOHNDNVAyRGxoN2Nsc1pYS19uRFctMldVclJLLW01R2JxYzBPQnY1UTUyWEJMMURqRDZCay1iaWVtM1"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
