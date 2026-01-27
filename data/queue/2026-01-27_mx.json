@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Amazon cerrará sus tiendas Fresh y Go",
+      "url": "https://expansion.mx/tecnologia/2026/01/27/amazon-cerrara-sus-tiendas-fresh-y-go",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 27 Jan 2026 20:01:19 GMT",
+      "summary": "La empresa apostó desde 2018 por la opción de tener productos frescos dentro de su plataforma en EU, pero este plan no despuntó."
+    },
+    {
       "title": "WhatsApp revisa tus mensajes a pesar del cifrado extremo, según una demanda contra Meta",
       "url": "https://expansion.mx/tecnologia/2026/01/27/whatsapp-revisa-mensajes-a-pesar-cifrado-demanda-meta",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "La tecnología gana terreno en nómina, contratación y cumplimiento legal, donde reduce errores, baja costos y abre espacio para crecer."
     },
     {
-      "title": "Para BanBajío, la innovación va más allá de la tecnología",
-      "url": "https://expansion.mx/tecnologia/2026/01/26/para-banbajio-la-innovacion-va-mas-alla-de-la-tecnologia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 26 Jan 2026 22:44:29 GMT",
-      "summary": "Ernesto Borbón, director de Soluciones de Pago de BanBajío, destacó que las necesidades del cliente deben estar al centro de la innovación."
+      "title": "México y Argentina lideran la adopción global de IA y transforman su uso, según Google - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWZhRTh6ckpvWE1aNlMzNWpZa2lOcnFQNUlyYWtMOTUzTnpqQXBVN2ZMQjlwa0p6TUVhdmJUdUNzUzUtU19WTU1LSWFocE9iMUZ4bUlLczVmbTFTSUFfYVBFc3JpSzJsSUZUeTB4bkJZMmg2UGIyM2w4MEFxSmh2RXo2Z0JHeW95OEdqVnBRT1UwdGRRbnNnRjM4VFlHNlhYek50ak93UmNGNG1XVjN5OXBCcUJqNEtoUlp1Q2x3dk1yT0k0UWfSAeABQVVfeXFMTUE4eTBDc3BTalMzQlZXWnpsR3ZxaU1IQU5Rb3hmXzR0blV0aEZQYzJiUzdwYnAxems3WnlzZ0haS2VtajBsbEtHZnl6aGdYdnpSQ2FweF9zeDZQWjQ1Sm95S21xYlZDTi1VRndPSFg0TzBpYmlIY0JwbFNzMXZLdTRxSkNKbkdjMDZyakw2Y0NUMXZZbFBCT2FpWHhubmlUQy10cGZ6Vm9KYXhlcDR5RkdTSm5LUWdveGlLa0FKTV85dWptME1QRWcxVVJUNXRNR3JoVkRWdHEtYWYybGlHc3c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 27 Jan 2026 20:28:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWZhRTh6ckpvWE1aNlMzNWpZa2lOcnFQNUlyYWtMOTUzTnpqQXBVN2ZMQjlwa0p6TUVhdmJUdUNzUzUtU19WTU1LSWFocE9iMUZ4bUlLczVmbTFTSUFfYVBFc3JpSzJsSUZUeTB4bkJZMmg2UGIyM2w4MEFxSmh2RXo2Z0JHeW95OEdqVnBRT1UwdGRRbnNnRjM4VFlHNlhYek50ak93UmNGNG1XVjN5OXBCcUJqNEtoUl"
     },
     {
       "title": "México inicia actividades del mayor Centro de Formación en Inteligencia Artificial de Latinoamérica - La Crónica de Hoy",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV0ZFSkV5b2k4YWF2aUotdjZTZk5oNUYtU2lHakthTUVDbWlXaDl5ZkhPSzRKRzdlMDN4YWJQYUdGS0lxejlJTGxCbjBRaHczNnpBRnNQMXZzTTlJQzhGQ00wU0wwWC1ZQVQ0aEFna3pEbVBrZEZDWHJqeDUyTTlUdDl1eTNnV3ZPNWN4YXF3OE1wVU1WdWxjaF9PTy0tTXZEV196MFlUUzhWSzZDb0hHNHZHM2s2WjVhaT"
     },
     {
-      "title": "Sheinbaum niega que foto de Ryan Wedding frente a embajda de EEUU haya sido creada con IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXJXQ3B2aUVpVXBVbDMzYmVhcy1TNzV6UmlYVFFFXzhsYUFJZUwtSGFJcnJraC1CWWw0czhTaE5xM2lVMl92THRLSzluNTk1RXNCS2p6dlZIMkhuY2xIZEhsLWlldW02aWlldjR6SVRtY2lCTFkxWVVDVExWY1E1Snc0c1M3V3Voc2RWUTlxQVFwVTh2aG5NYTFYYUpja3JCWE1KOHcyMVdkRXVWZ1JvQ1E0RzdkZ3JGRDZEYmRwM0hlRzBLd2tqRGUxRWLSAecBQVVfeXFMTXQ0VW8wVU9qOGlUdUtqV3M3Tk1kX0lQR2ZXT29OSkdLUl93N0R6blFwazlkZUdxY2lsYS1yZjlBRGgzS0ZaWkFlMnlYREoyRzYzLTJFbFBhOWhlVU9SUDV1cWtXSmNxRXZ3aldjSFljRXdjUy1HQl95RlVvMWlWNGZDVkNZUHJ3Rnd4YkozbndKeEZUWThJRU14NldWX0VJbnpUVzNndzBZV2VfYjBvQ291OGpPUFgxT3BQLTlVVmJpMjhlUVBjN3lURVpkb2VaWWFJSkk5WTVEMk1nVXJ1bWVqZWp2NHpZ?oc=5",
+      "title": "México pone en marcha el mayor Centro de Formación en Inteligencia Artificial de Latinoamérica - alcanzandoelconocimiento.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHlOTWxHZk9kVHlOVFlYMEMxcEl2VzI4VVdielBJNzRXcDdWaDNKTUhwbGxlTWl2NjNhVXdWbXF2T3M2S2JnU0wxX0RnWndFalpzRkpIb3ppT01ieVBKWU9uNkxNRmtFYThSOGdpbFF5c242NTBkUGEtSFJuU184MlM2M1lhd29SOGFkOTRQazQzbmNqbEI3Mng4SkxEeGxMcktER0RJZ3JIQWR5T2Y0VXBkdlJqUldUVVRPVXcxV1Q0NUlsR1hUcTJ5bVpkVEV3dnprYm5uamNJZDA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 27 Jan 2026 16:11:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNLXJXQ3B2aUVpVXBVbDMzYmVhcy1TNzV6UmlYVFFFXzhsYUFJZUwtSGFJcnJraC1CWWw0czhTaE5xM2lVMl92THRLSzluNTk1RXNCS2p6dlZIMkhuY2xIZEhsLWlldW02aWlldjR6SVRtY2lCTFkxWVVDVExWY1E1Snc0c1M3V3Voc2RWUTlxQVFwVTh2aG5NYTFYYUpja3JCWE1KOHcyMVdkRXVWZ1JvQ1E0RzdkZ3JGRD"
-    },
-    {
-      "title": "Inteligencia artificial en los discursos de diputados y senadores en México - Nexos",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWZIY0VUcVRHc2lYVVI5Q0ZkbTNwMzd0Tk9jQ0FpM1gtT1pWdklCVG9ya2RBSWlhbjBNUkNSQTB5UjlzZ3gxdlVpOFp5OFAzRGtnVWE5NlR5V1pBSlg4YmI4VmhXcXhRcy1ncEpqc042Szh1TkxId1RpQnF1TjZGSGhMUEpmS1YyTlJyeDVJMF9qRTJfTnRMczhENERVTFhEVTJITXpfNU94bk1rMnpYMDh3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 27 Jan 2026 15:07:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWZIY0VUcVRHc2lYVVI5Q0ZkbTNwMzd0Tk9jQ0FpM1gtT1pWdklCVG9ya2RBSWlhbjBNUkNSQTB5UjlzZ3gxdlVpOFp5OFAzRGtnVWE5NlR5V1pBSlg4YmI4VmhXcXhRcy1ncEpqc042Szh1TkxId1RpQnF1TjZGSGhMUEpmS1YyTlJyeDVJMF9qRTJfTnRMczhENERVTFhEVTJITXpfNU94bk1rMnpYMDh3?oc=5\" tar"
+      "published": "Tue, 27 Jan 2026 20:34:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHlOTWxHZk9kVHlOVFlYMEMxcEl2VzI4VVdielBJNzRXcDdWaDNKTUhwbGxlTWl2NjNhVXdWbXF2T3M2S2JnU0wxX0RnWndFalpzRkpIb3ppT01ieVBKWU9uNkxNRmtFYThSOGdpbFF5c242NTBkUGEtSFJuU184MlM2M1lhd29SOGFkOTRQazQzbmNqbEI3Mng4SkxEeGxMcktER0RJZ3JIQWR5T2Y0VXBkdlJqUldUVV"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
     },
     {
-      "title": "Estás son las mejores ciudades de Latinoamérica de acuerdo a la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1hJYmk4MU1ZY0x1RVpKZDR6bVIxYUhjR1U5eEcwUTlOLWJ2WGVEd3NWVzhsSFYzamRZaWlZVTE1aFdsMHdOOUlySGVKb1lyaGlDZkZINEVqRHFwUlI4SVg5SlpPWFE2cG53NVBvTjBsbmZpQXJWdlFKYThZdXJsN19kUUkyY2VwUHkta3Uzek9mOURvQXZkbTdjRm05cjV1RlJSdDJoalhOYzdvSThJV19QNDRoX1JBMjQ3NVRIVmFuVGZYMmc?oc=5",
+      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 10 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhJcVNCT1ZfMlR3VGdEbzlITWFXekxNRi1VTC1BTGFRaGxuUEh2eWJ2ZXhIZng1RzhDSWFpak01cHhtT3o4M2p6T2hKakdEeEZidTkxa291UlI2c2FtSUs0bm1TbnNpT0gzXzRZV0tTRnF0RTUyRlJySFJ6aXhJeHZUaW1HOGdiSThpYm9TU0N3R21SekJ2c3hPTGFzQUdNNlZKRVZlYTE1TTVq0gHHAUFVX3lxTE5kV1"
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Las tecnologías que marcarán el futuro de la educación, según el Tec de Monterrey - Líder Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFptQXBzd0N6N1A2akxEd0dBZnJPcVQ3MnBFSmtOWF9xY01sNGpMUmc4X18xTjNCdzY5SWRoSGlYS0xwRDlITWw2Ukx2YlpVNGFva2RqQVJlQ2pRbUlZWGZNMDNMZmdpemR6SEJMem16QWhFM25ndTU5U0I0MTRTaUxzMjVXTnJWSjFKYVptZ1BRNEVTcklaLVV6ZUQxdGlyZ0NCZnBkbnNzM0VhQjdRbDdkOUc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 22 Jan 2026 17:11:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFptQXBzd0N6N1A2akxEd0dBZnJPcVQ3MnBFSmtOWF9xY01sNGpMUmc4X18xTjNCdzY5SWRoSGlYS0xwRDlITWw2Ukx2YlpVNGFva2RqQVJlQ2pRbUlZWGZNMDNMZmdpemR6SEJMem16QWhFM25ndTU5U0I0MTRTaUxzMjVXTnJWSjFKYVptZ1BRNEVTcklaLVV6ZUQxdGlyZ0NCZnBkbnNzM0VhQjdRbDdkOUc?oc=5\" "
-    },
-    {
       "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - conecta.tec.mx",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 07 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5\" t"
+    },
+    {
+      "title": "La tecnología transformó la vida en NL; la IA es el paso que sigue - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbmFmZ0hEOUhhZjhkaTFLTWpmTm5Jdm9xSExHSE05blVtajltQ1lKRXNBQ0dIeHlqNC02MHBRQlIwaWlGeUpjbUJrc3ZkUUgzdGhJYVpnZTBmbGxNam5PMk5OVC1VZzZ4TlJscEhoa3B0RmdSMGpwazIyLUVVR0hHRFZpT1pmeldVUTJ0aDhXczRXajhIUFBsT2NaUmJvYXUtTUhnWUlJR2ZIUUF5YnJPOHBsZ2V1LTg0dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbm"
     }
   ],
   "count": 14
