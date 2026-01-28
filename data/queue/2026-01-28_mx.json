@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Meta, Google o Microsoft son clientes de la energía nuclear",
+      "url": "https://expansion.mx/tecnologia/2026/01/28/ia-gasta-electricidad-meta-google-microsoft-energia-nuclear",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Jan 2026 22:00:06 GMT",
+      "summary": "Las tecnológicas comparten una problemática a partir de sus apuestas por l IA generativa y esto es la falta de fuentes de energía."
+    },
+    {
+      "title": "Celulares por menos de 10,000 pesos: capacidades premium sin pagar gama alta",
+      "url": "https://expansion.mx/tecnologia/2026/01/28/celulares-por-menos-de-10-000-pesos-capacidades-premium-sin-pagar-gama-alta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Jan 2026 20:00:38 GMT",
+      "summary": "Por menos de 10,000 pesos, hoy es posible tener buena cámara, batería que dura todo el día, pantallas de alta fluidez y funciones de IA sin pagar precios de gama premium."
+    },
+    {
       "title": "Los mexicanos ya prefieren celulares premium y Motorola y Xiaomi cambian su estrategia para adaptarse",
       "url": "https://expansion.mx/tecnologia/2026/01/28/mexicanos-prefieren-celulares-premium-motorola-xiaomi",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "La tecnología se vuelve infraestructura crítica para corregir rezagos históricos, enfocada en tener menos fragmentación, más prevención y un modelo de acompañamiento."
     },
     {
-      "title": "Amazon cerrará sus tiendas Fresh y Go",
-      "url": "https://expansion.mx/tecnologia/2026/01/27/amazon-cerrara-sus-tiendas-fresh-y-go",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Jan 2026 20:01:19 GMT",
-      "summary": "La empresa apostó desde 2018 por la opción de tener productos frescos dentro de su plataforma en EU, pero este plan no despuntó."
-    },
-    {
-      "title": "WhatsApp revisa tus mensajes a pesar del cifrado extremo, según una demanda contra Meta",
-      "url": "https://expansion.mx/tecnologia/2026/01/27/whatsapp-revisa-mensajes-a-pesar-cifrado-demanda-meta",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Jan 2026 15:11:54 GMT",
-      "summary": "Más allá del cifrado, la acusación apunta a procesos internos y capacidades técnicas que podrían redefinir la confianza de los usuarios en la plataforma."
-    },
-    {
       "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTDZDLWNaYkFCTUdsNUVqWFdpRDJBX1hxT2pOOU9rVk1tU012S0pFbXhzdnhzQmRDeTUyTThvanVFYTZCN3BZMEtVYmJZWEJLc1JfZFktMnRYaUprV0VzQ0thaDBsQ0hja2Z0aFcxRjdfeXF4dk9NOW1uUmlwXzJWQWpZSHlKc3hXRWdrcWZWM0pBTmJEVlo0bEdTQlQzb3dTbzNPYzNTNDdmMmkxWHc?oc=5\" target=\""
     },
     {
-      "title": "México pone en marcha el mayor Centro de Formación en Inteligencia Artificial de Latinoamérica - Hoja de Ruta Digital",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc1lLaWtGaUpsMVlYZjV4YUFOUGY1elFIRE1SWGNRZFgyTlJaZGJabzVneExiajZnYU8zZmkwaEkwLXFzM3FXM0xpTnF5aGJfN2hyVVBvT2NHekVfU1lUeXRxWm1fVkRYckJva1lEVXpVenIzZy1lanUySUlfRzYxQmdvTl9OVC1MSGJLYXNpa1ZuNThGWWp0NEdtVXotQnNrR0JzX1d4a3prUkF2TVlpUE5XeUVkSk5yaWI4NmVvUjFsZw?oc=5",
+      "title": "México lidera formación en Inteligencia Artificial en América Latina - MILENIO",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3JSejJhV2hmckVnaGZRb0JFVndPeUF4Y0x5RzNVaGpJUE53R2l4X2h1U1ZxYl9kOUtJWDJ5Sjk3M0FRaVk5Y05zbjU2ZGphMEVTSmRfX0VZbWdvZmxWNmxsMlYtVHFBUm1TVGF5cWhRYndsaEtRdVZQUlhtQ0VVMU5NRUNYUkFTTGMwdC1nUTdWZlVYLUtOVHdUSGhtaXRCLUdma2pvNNIBpwFBVV95cUxNNUpWMEZtbFRrWUpEUVgzNlJMbm1LVFhoYXUtbHNaT2liekdZVjFOVlR0MlF0eWtYdE5HSXFpVkZFajgxSjFGcEwxcmVZeDBzY1EwUnhWWDRWWWgxaW1QVGRtdGlUNTB2amdFdlpqUERHWTF2VTVCMW9SNXJpZkFuVkpVeVl4M0M5dk5OM0ppVzgyVElPcUpSWTl5emFJeDlfRXBOY2Niaw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Jan 2026 05:44:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc1lLaWtGaUpsMVlYZjV4YUFOUGY1elFIRE1SWGNRZFgyTlJaZGJabzVneExiajZnYU8zZmkwaEkwLXFzM3FXM0xpTnF5aGJfN2hyVVBvT2NHekVfU1lUeXRxWm1fVkRYckJva1lEVXpVenIzZy1lanUySUlfRzYxQmdvTl9OVC1MSGJLYXNpa1ZuNThGWWp0NEdtVXotQnNrR0JzX1d4a3prUkF2TVlpUE5XeUVkSk5yaW"
+      "published": "Wed, 28 Jan 2026 17:59:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3JSejJhV2hmckVnaGZRb0JFVndPeUF4Y0x5RzNVaGpJUE53R2l4X2h1U1ZxYl9kOUtJWDJ5Sjk3M0FRaVk5Y05zbjU2ZGphMEVTSmRfX0VZbWdvZmxWNmxsMlYtVHFBUm1TVGF5cWhRYndsaEtRdVZQUlhtQ0VVMU5NRUNYUkFTTGMwdC1nUTdWZlVYLUtOVHdUSGhtaXRCLUdma2pvNNIBpwFBVV95cUxNNUpWMEZtbF"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
