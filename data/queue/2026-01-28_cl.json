@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué se sabe del ataque armado que dejó al menos 11 muertos tras un partido de fútbol amateur en México",
+      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-ataque-armado-que-dejo-al-menos-11-muertos-tras-un-partido-de-futbol-amateur-en-mexico/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Jan 2026 14:39:46 +0000",
+      "summary": "El ataque ocurrió en el municipio de Salamanca, en el estado de Guanajuato. Otras 12 personas resultaron heridas, entre ellas un menor de edad, según reportan las autoridades locales."
+    },
+    {
       "title": "Pese a que Trump le dio una visa temporal, Gustavo Petro volvió a cargar en su contra: “Deben devolver a Maduro”",
       "url": "https://www.latercera.com/tendencias/noticia/pese-a-que-trump-le-dio-una-visa-temporal-gustavo-petro-volvio-a-cargar-en-su-contra-deben-devolver-a-maduro/",
       "source": "La Tercera Tecnología",
@@ -35,15 +43,7 @@
       "summary": "Fuentes con conocimiento de la planificación dijeron a CNN que las conversaciones entre la Agencia Central de Inteligencia y el Departamento de Estado han considerado tanto el corto como el largo plazo. Esperan que las labores de la CIA sean fundamentales para las siguientes gestiones diplomáticas."
     },
     {
-      "title": "Por qué condenaron a prisión a Kim Keon Hee, ex primera dama de Corea del Sur",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-condenaron-a-prision-a-kim-keon-hee-ex-primera-dama-de-corea-del-sur/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Jan 2026 10:06:37 +0000",
-      "summary": "La esposa del expresidente surcoreano Yoon Suk Yeol, quien fue condenado a mediados de este mes a cinco años de prisión en uno de sus procesos judiciales, recibió una condena de un año y ocho meses de cárcel. La pena corresponde a solo uno de los tres juicios penales en su contra."
-    },
-    {
-      "title": "Implementar Inteligencia Artificial sin estrategia: el error que está costando tiempo y recursos a las empresas - ITSitio Argentina",
+      "title": "Implementar Inteligencia Artificial sin estrategia: el error que está costando tiempo y recursos a las empresas - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUTBpc3AzRW5jUmdaeElLREpCVGFjdVh1TzloVjFobDhjQXExSFY0dXplVldBRzdvNjc2c1d6WlhXZmRmemFId3hsZnVZUjJHU1dtS3lZSVpvZllWajh5ZWl1X3ItN1RtRUxJeWQwZ3VHX2RRZGQya0xrZHpQM3cydVcyTFRjRzI2R3lGVHhTOS1BT19CZzF3elFGak9Ga0tuSmJLWUF1VUJ3dnNQN21HRkVISVhNTDZuR2p3ekd2Tm9XVWtUakFmSlljei1DRFJLWkQtTUtrVEhvcnBBSzNUZzdTdHoxWEVrQ0ljMzF3?oc=5",
       "source": "Google News",
       "category": "news",

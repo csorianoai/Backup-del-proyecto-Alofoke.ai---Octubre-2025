@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la borrasca ‘Kristin’, en directo | El temporal complica la circulación en Ávila, Segovia y Cáceres y deja fuertes lluvias en Andalucía y Castilla-La Mancha",
+      "title": "José Luis Ábalos renuncia a su acta de diputado en el Congreso",
+      "url": "https://elpais.com/espana/2026-01-28/jose-luis-abalos-renuncia-a-su-acta-de-diputado.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Jan 2026 11:45:31 GMT",
+      "summary": "El exministro socialista de Transportes lo ha anunciado en un mensaje en la red social X, que gestiona su hijo"
+    },
+    {
+      "title": "El traspaso de la inmigración a Cataluña se abre paso: Junts acepta cambiar el preámbulo de la ley que rechazaba Podemos",
+      "url": "https://elpais.com/espana/catalunya/2026-01-28/el-traspaso-de-la-inmigracion-a-cataluna-se-abre-paso-junts-acepta-cambiar-el-preambulo-de-la-ley-que-rechazaba-podemos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Jan 2026 17:07:38 GMT",
+      "summary": "Ione Belarra, que acusó de “racista” al partido de Puigdemont, matiza el rechazo y Míriam Nogueras descarta tocar “un pelo” del articulado"
+    },
+    {
+      "title": "Última hora de la borrasca ‘Kristin’, en directo | Las fuertes lluvias causan desalojos en Jaén y Málaga tras las crecidas de varios ríos",
       "url": "https://elpais.com/espana/2026-01-28/ultima-hora-de-los-efectos-de-la-borrasca-kristin-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Wed, 28 Jan 2026 14:18:47 GMT",
-      "summary": "El temporal provoca suspensiones y demoras en la red ferroviaria y retrasos de vuelos | La DGT desactiva el nivel negro en la A-6 a su paso por Madrid | Jaén desaloja una zona residencial con 5.000 viviendas por la crecida de los ríos"
+      "published": "Wed, 28 Jan 2026 18:37:13 GMT",
+      "summary": "La Comunidad Valenciana tiene una decena de carreteras afectadas por la nieve | Andalucía envía un mensaje de alerta a 36 municipios de Almería por rachas de viento huracanadas"
     },
     {
       "title": "77 municipios sin colegio en Andalucía y 250 personas desalojadas preventivamente en San Roque (Cádiz)",
@@ -16,7 +32,7 @@
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Wed, 28 Jan 2026 11:01:40 GMT",
-      "summary": "Unas 170.000 personas se han quedado sin luz en las ocho provincias andaluzas"
+      "summary": "El Ayuntamiento de Jaén ha ordenado el desalojo de un residencial de 5.000 viviendas en las que viven 3.500 familias"
     },
     {
       "title": "La nieve sorprende a Madrid, con las tiendas medio vacías y clases y citas canceladas: “Fue bonito, pero no estaba preparada”",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Wed, 28 Jan 2026 13:01:50 GMT",
       "summary": "Los distritos de Fuencarral-El Pardo, Hortaleza y Moncloa han registrado la mañana de este miércoles las mayores nevadas en el término municipal"
-    },
-    {
-      "title": "¿Qué carreteras están afectadas por la borrasca ‘Kristin’? Consulte el mapa de la DGT",
-      "url": "https://elpais.com/espana/2026-01-28/que-carreteras-estan-afectadas-por-la-borrasca-kristin-consulte-el-mapa-de-la-dgt.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Jan 2026 10:18:22 GMT",
-      "summary": "Varias carreteras de la Península se encuentran en nivel rojo y negro"
-    },
-    {
-      "title": "El temporal ‘Kristin’ llega a gran parte de España con lluvias muy intensas, nieve y viento fuerte",
-      "url": "https://elpais.com/el-tiempo/2026-01-28/el-temporal-kristin-llega-a-gran-parte-de-espana-con-lluvias-muy-intensas-nieve-y-viento-fuerte.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Jan 2026 09:58:28 GMT",
-      "summary": "Andalucía, Galicia y la meseta norte concentran los fenómenos más adversos de una jornada marcada por precipitaciones generalizadas y nieve a cotas bajas, sobre todo en el norte"
     },
     {
       "title": "Se acelera la adopción global de la Inteligencia Artificial y España consolida su posición entre los países líderes - Microsoft Source",
@@ -67,20 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSkY5NEFoNHNrVldsb20tdVhLZHl2ZVRHaURPTmJubGhLSW8yYVNNUEQzajFYZ0loSTE5NU5Jcjk3azhWc3MzM2hyN2Vabjg5RDVlTUVlQ2p6RFMxWGlKZ0p2cjYwcmF2enhjMk5XTndHV0htNW5LYzJaU0tCNjNrd3dNVGZ2YlZuTXRRcHNBd3lfd1l5Rk04VTBnbWRQOUxFYVdxN3dUbV80ZXA4MFNSOFFDTGZQM01XeV"
     },
     {
-      "title": "Así quedará la Champions según la IA - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaTh0MTlUcTFWdzJmZi10aTlJWDV4eTJxSTFzZE5mcFZxQVUzbE9ScmU3eFZBSGJlMVM3WmJTTlhfSkRXQWFHZ0lGRWpta016Z3FNbGJ2QTZieVZ4cXJuQWZtb1EwVUlzVFVDdFY5bFlSZU1SNVZWd0NHZHRlNk1uQTJVRjh2Z9IBmgFBVV95cUxPX21ZdmVJODJQVzU4czdjSF9jZlhsZlJNb2J2VW5rbklHTVdZVEVVeHJWRE5KWWtmV0xNdXRwWDI5SzVYY1VpalQ2S0EyVktmRGdUU2N1R2tXN1JCd3o2UWxzZTUyUWZ2TGwwZEo4TlNUb1paT0pCY1RjY1FtaksteWs3WUo1NVllTU9GeWRvcl9SMTFSWHlqRHRB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 28 Jan 2026 10:41:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNaTh0MTlUcTFWdzJmZi10aTlJWDV4eTJxSTFzZE5mcFZxQVUzbE9ScmU3eFZBSGJlMVM3WmJTTlhfSkRXQWFHZ0lGRWpta016Z3FNbGJ2QTZieVZ4cXJuQWZtb1EwVUlzVFVDdFY5bFlSZU1SNVZWd0NHZHRlNk1uQTJVRjh2Z9IBmgFBVV95cUxPX21ZdmVJODJQVzU4czdjSF9jZlhsZlJNb2J2VW5rbklHTVdZVEVVeH"
-    },
-    {
       "title": "El sector TIC en España premia el dominio de la IA y la ciberseguridad con sueldos de hasta 130.000 euros - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQV9saENGakg1dnk4Q2Y4WmJXRVBRTmFVdUQ3Y1ptdGQ5cWJ3Snpub29BMWpVbVJzc09LX2t5cXkxbm81QjJXeENSWmVYLWNCZVFNVzlVYTNlZXU1QmtINkFXNHdTWC1OOFQxQ2JvTmYtc1hMdUZCZVJyMG1nNXkzZFRnbHpvbWFxc251UGJnSGhuUzMxSnZQQTkzQVZFcFpudC1ERlNncG1heUhGcFoyOHBMY2hGcWc1NXpJaGRiY3RTUDZvOExUTDViamVqSERNUE1tQ0hoc2xVOEpiU3A5ZDYyQVI4ZlB0Sy1YM01n0gGIAkFVX3lxTE45VlJRNUFpRkVGWDUzT3FIMnRHblN2SUNWa3dLVWlWSjZaTTZPdS1wakdvOF9uTGxJdkhXRXRxTnAtc1lTT1lsNi1jdnM3LVRUZHU5SzlWcmVBNlpzTFc0WFYwZEpfanhOT09SVmt1MTVyamhrXzYwLVBqZmNXRkQzQmdaVkFZQVJFb2ROUTVjZ0ZFeVEyWFBlbVdGNmVEaW9rZGhYMXEyNTA4amtwM2djeUhlWks2UjFnMTl5OW9GRWNYalFQbEhLd1dqRF81LThQOUd4VGtYN2JCa1dEQThBbGxqODNQcEd0R2JrQXNjX3JTMzZyV2RkazlwdHRtd0tnYm1HcXBTTw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 25 Jan 2026 14:03:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQV9saENGakg1dnk4Q2Y4WmJXRVBRTmFVdUQ3Y1ptdGQ5cWJ3Snpub29BMWpVbVJzc09LX2t5cXkxbm81QjJXeENSWmVYLWNCZVFNVzlVYTNlZXU1QmtINkFXNHdTWC1OOFQxQ2JvTmYtc1hMdUZCZVJyMG1nNXkzZFRnbHpvbWFxc251UGJnSGhuUzMxSnZQQTkzQVZFcFpudC1ERlNncG1heUhGcFoyOHBMY2hGcWc1NX"
+    },
+    {
+      "title": "Barcelona vs Real Madrid: ¿quién es el favorito de la IA para la Supercopa? - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUttUU5rYnY2RTBmUTJMLWtBb1ZOZFdTanV5bEFacWdHYW1JWTJ0azBIUk12aVEyZjZBbm5DMVo4dEJ4SEV0Qkw4UjNrbU1pZGxKVndaSDdMRDJ1VnpxRl83SUVVSkZEeFNRRS1IbUZ0X19teEY1ZnZjbEQ4ZzlxMUVqeC1rQXlJejk2QzNqNU9SOFA0Y1Rpbmx4QVJLLVBTWjRRSkRpdDktVDdjNzd2SDRMcndEbWtpWHfSAc4BQVVfeXFMTk1ycUhFcVFJUjByQ01hT29wdmtHSVZvQndOOXZtTlgyeDJwR25YbDRpcEZxMnNIZVpCMWRIeHV3YXZvSU5sVEJCaVhCdUJsU29uU1I5T01kV1o2ajRFXzhTb0ZfQTA5RDNfalpkcVcxRjlMQ0pvRmtEMV96NzBITk9oMm9lemVtbGV6ZHpSR1NmLWN2X1dwX2NGZnhMOFVLTmhwWjNYV3gwSlZuMHNiQkZFVnFpTVduc09SSnotZ0F4OWMwTTVfVHZEcWtSR3c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 10 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeUttUU5rYnY2RTBmUTJMLWtBb1ZOZFdTanV5bEFacWdHYW1JWTJ0azBIUk12aVEyZjZBbm5DMVo4dEJ4SEV0Qkw4UjNrbU1pZGxKVndaSDdMRDJ1VnpxRl83SUVVSkZEeFNRRS1IbUZ0X19teEY1ZnZjbEQ4ZzlxMUVqeC1rQXlJejk2QzNqNU9SOFA0Y1Rpbmx4QVJLLVBTWjRRSkRpdDktVDdjNzd2SDRMcndEbWtpWH"
     },
     {
       "title": "Pronóstico de la IA para Barcelona vs Real Madrid por la final de la Supercopa de España 2026 - extra.ec",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUxpWi13Q3dwS2tDci03a1BFRXJMWW14cjE5Z0d3UDhGUXpHQmhTXzFLVkFIVnozd09TblVFd0hOSHluaHNrY29rWVoxZ3lqVkJWS3dGd3ZjMWEtMFNTZW9TZlRRQ0lPVUJ0aDJsN0NFWEhTODBkMk16eHRsSTBzR2hRbnFKYmR6c283S29rVmZzS0x1R3Y4am5NSmU?oc=5\" target=\"_blank\">Jakaton Ventures"
     },
     {
-      "title": "El fondo Samaipata cierra 2025 con 17 millones invertidos y foco en la IA de Europa - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bUx0V1I0VjZlLTd4aTJ5c0t3cDJPZjNnTUHSAewBQVVfeXFMUHJlOFVHWDhIWjlyeWVxSGE2RE5GaHROSVhGSmIxVVFZTWZfSXN5MVdUUHhmQkVKUHRtN3JBVzY3bmdDSmMtTW5yZVUwV0ZhUjcyQzdBYWZfaWFTZm5heWhaaGNUd3lseWZFemxXQmxyMm5wQU5ra3RKVTd5Ym9QWXNXZFpsLUpweHNWR2FsQURYV1JfUUJFUHpVQmUzN3d6RTc2T1hLaXFOX2gxTzNTQURLUFpYbkdTZTFuSmhBcTlldENoTnJqc211ZTAySVVDYjNnd0c4Z2pUQ3I4eWx5UlktbXNvS3ZxNTkyZGs?oc=5",
+      "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm16U3liWXljLWwydi1hQ05OWC02Vll1N2s00gHYAUFVX3lxTE1nU2tjbXpDZFpIb2lXdGF2TEM5eXNSWWI4QjJJSUZKWjNKWlZkVlZMRTZwLURiODcwRDBzZEVDV3R4UElKeU9la0FmanNBTW5yWW5UM1JKWjRMbXhKX2FVYVFRNGpIR19qUEwwYjVwVW16SEI2WmZReUJrSk1PNEFUaTFMM1BvRDhjY0VnSTB3eG02SjJHcDlBQlNQWE1RWDVXUlRDS3RCM2FNZkV2OTZ5UTdoYnFFZEZtb1R5VmtYS20zTU1ZanNvLWRfeDljNGFBQnFUa2dKcw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bU"
+      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
     }
   ],
   "count": 14
