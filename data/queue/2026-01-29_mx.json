@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Microsoft Azure rebasa los 50,000 mdd en un trimestre",
+      "url": "https://expansion.mx/tecnologia/2026/01/29/microsoft-2q45-azure-rebasa-los-50-000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Jan 2026 15:00:20 GMT",
+      "summary": "Microsoft tuvo un trimestre positivo, pues creció 17% y logró ingresos por 81,300 millones de dólares."
+    },
+    {
       "title": "Ola de despidos en Amazon: 16,000 trabajadores perderán su empleo en el gigante minorista",
       "url": "https://expansion.mx/tecnologia/2026/01/29/amazon-confirma-despidos-masivos",
       "source": "Expansión Tecnología",
@@ -12,7 +20,7 @@
     },
     {
       "title": "Sin que lo notaras, Alexa tiene más independencia y puede hacer cosas por ti",
-      "url": "https://expansion.mx/tecnologia/2026/01/29/sin-que-lo-notaras-alexa-tiene-mas-independencia-y-puede-hacer-cosas-por-ti",
+      "url": "https://expansion.mx/tecnologia/2026/01/29/amazon-ha-hecho-mas-independiente-alexa-sin-que-te-dieras-cuenta",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Thu, 29 Jan 2026 11:55:40 GMT",
@@ -35,12 +43,12 @@
       "summary": "Las tecnológicas comparten una problemática a partir de sus apuestas por l IA generativa y esto es la falta de fuentes de energía."
     },
     {
-      "title": "Celulares por menos de 10,000 pesos: capacidades premium sin pagar gama alta",
-      "url": "https://expansion.mx/tecnologia/2026/01/28/celulares-samsung-motorola-xiaomi-menos-de-10000-pesos-funciones-premium",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Jan 2026 20:00:38 GMT",
-      "summary": "Por menos de 10,000 pesos, hoy es posible tener buena cámara, batería que dura todo el día, pantallas de alta fluidez y funciones de IA sin pagar precios de gama premium."
+      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 28 Jan 2026 00:22:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
     },
     {
       "title": "Arrancan las clases para formar miles de especialistas en la escuela de IA más grande de México - WIRED",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Thu, 29 Jan 2026 11:04:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXI1ZFdoazNtSC14RzhLU3Y4bENpbFN6UHdBRUFqWUkzUTFQWUtqdUVyd2ZFWDM0Nmg0dE0zanVyeHJWcVlSSU8tWEpUSnFkYkphZGlSNjJqbWx1T1M3eGpqeWgxTlpSYkIzc2s0VFUtLW1LZWNfVXJRcVg4RXBmMnZKYXF5OHVHeWwyRUJlSVR3Wk5XM0RTcmlBcUpZNWRTX1BZRm5vV0thNndrMWJDOTlpMFlnVWtkY2"
-    },
-    {
-      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 28 Jan 2026 00:22:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
     },
     {
       "title": "Startup coreana revoluciona energía eólica urbana con datos ambientales - El Ecosistema Startup",
