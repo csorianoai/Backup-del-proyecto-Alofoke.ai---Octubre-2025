@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "iPhone 17 potencia crecimiento de Apple en un 16%",
+      "url": "https://expansion.mx/tecnologia/2026/01/29/iphone-17-potencia-crecimiento-de-apple-en-un-16",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Jan 2026 22:15:14 GMT",
+      "summary": "La empresa reportó ingresos trimestrales por 143,800 millones de dólares , en gran medida a los nuevos iPhone Air y Pro Max, además de su división de Servicios."
+    },
+    {
+      "title": "Elon Musk sacrifica los autos más emblemáticos de Tesla para dar vida a los robots Optimus",
+      "url": "https://expansion.mx/tecnologia/2026/01/29/tesla-deja-model-s-x-para-fabricar-robots-optimus",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Jan 2026 19:05:16 GMT",
+      "summary": "Musk dirige a la compañía hacia la movilidad autónoma y la robótica, aunque estos proyectos aún tienen mucho camino por recorrer."
+    },
+    {
       "title": "Microsoft Azure rebasa los 50,000 mdd en un trimestre",
       "url": "https://expansion.mx/tecnologia/2026/01/29/microsoft-2q45-azure-rebasa-los-50-000-mdd",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "En medio de la competencia de los asistentes inteligentes, Amazon busca diferenciarse con más capacidades para que Alexa también actúe y complemente tu vida cotidiana."
     },
     {
-      "title": "La publicidad e IA impulsan a Meta, mientras Reality Labs amplía pérdida",
-      "url": "https://expansion.mx/tecnologia/2026/01/28/la-publicidad-e-ia-impulsan-a-meta-mientras-reality-labs-amplia-perdida",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Jan 2026 00:00:58 GMT",
-      "summary": "Meta cerró 2025 con fuerte crecimiento en ingresos y ganancias impulsado por la publicidad y la IA, pero su división Reality Labs volvió a registrar pérdidas multimillonarias."
-    },
-    {
-      "title": "Meta, Google o Microsoft son clientes de la energía nuclear",
-      "url": "https://expansion.mx/tecnologia/2026/01/28/ia-gasta-electricidad-meta-google-microsoft-energia-nuclear",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Jan 2026 22:00:06 GMT",
-      "summary": "Las tecnológicas comparten una problemática a partir de sus apuestas por l IA generativa y esto es la falta de fuentes de energía."
-    },
-    {
-      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
+      "title": "BUAP crea agencia de IA para liderar el mercado - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnI0YW1sazRpeFBzbXNRck9oN0xfRENQZmJ1YnNaUGp5MWZIcWRaM3hXRWc1Qzh0eGZMMjE4NjNpN0JpdWdNdkdEQVhVdEtpWlVBMDRRTzFwd0dmSlFEYmpmNFRJTUNOYzg4UVZJWllvcVpZY0I0TVkxaExOakNUQXAtQlB5c05ab0lLMFVXTkEwTTcybFozMGRIeHE5YnREeS1DWEZ0MnhNT2pMUl9jSkVwczVWNE43a3ozT0xWT2c5b3V4dDM1UtIB4wFBVV95cUxNREV0VDU3dWN4NDI1bHlFUU1pa1M2Rkdfb0pIOGVqNmNka3E4SGRiUmJHYUdqRF9ZQlhoXy1EWHh5MzFNeEw2S2RUY3habUJ2NG1UVjRvdHhiZzdXXzRtYTlsVmJZWW1GRVF2cFlkVTFRM2lDQ3pnQUF0dHhJTFZRZGJZeFhpUGo5cVdDMnNndHlHVGd6XzA5Y2xzMFBWa3RhTUlyYUhneWZWcHZCdkJQVjFLcDZmSk5pNkhZa0hJZXVXMERDRzYzWFRWd3k0ZC1jMS0ycnplX1ZTSlM3QlB4RkRMTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Jan 2026 00:22:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
+      "published": "Thu, 29 Jan 2026 19:12:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnI0YW1sazRpeFBzbXNRck9oN0xfRENQZmJ1YnNaUGp5MWZIcWRaM3hXRWc1Qzh0eGZMMjE4NjNpN0JpdWdNdkdEQVhVdEtpWlVBMDRRTzFwd0dmSlFEYmpmNFRJTUNOYzg4UVZJWllvcVpZY0I0TVkxaExOakNUQXAtQlB5c05ab0lLMFVXTkEwTTcybFozMGRIeHE5YnREeS1DWEZ0MnhNT2pMUl9jSkVwczVWNE43a3"
     },
     {
-      "title": "Arrancan las clases para formar miles de especialistas en la escuela de IA más grande de México - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0tua3JSSUVic3EzTlFYSjZrb2ZmYVdCeWNqa3ZRZUZHMmhWcXIyWDN1bjJnTVFhWnd5MkVXaElJVGVKcWpzay0wU1M2TjJpM0xkVEJud0laMk1FNzI0UUpKOFRyelhLTE5EQkZzdF9WNTUtejd0QUpGcGY3NjV4QlRpaFJHMXhCVFpDQWtJVzZyenlsRmxCalZFQmdia29UM2F6X3E0ZG1RNXVIeWJPbDlBbHpaQzlfb2tUWlRjcWhubnJq?oc=5",
+      "title": "México presenta decálogo ético para regular el uso de la IA en el país - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFEyNTN5eDJERmVfUy14UGExZWtQVXBweHd0NGNxU2otbGRRaWVya2JaR1loTjd3Zkc3R2tGT1dTZWNfQmNGeHRMMXpyUXdtM3JpVmpsSFVXNC01VFQxMnhWZUtobTBqSmIwWkU4NTlPaUJKMUJVNk9adnhJMkdhNV9Ha01NNDlBZ1I1RFpkMGRsVFQyQktDYUdJZVZmbFJwYUpZ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Jan 2026 23:01:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0tua3JSSUVic3EzTlFYSjZrb2ZmYVdCeWNqa3ZRZUZHMmhWcXIyWDN1bjJnTVFhWnd5MkVXaElJVGVKcWpzay0wU1M2TjJpM0xkVEJud0laMk1FNzI0UUpKOFRyelhLTE5EQkZzdF9WNTUtejd0QUpGcGY3NjV4QlRpaFJHMXhCVFpDQWtJVzZyenlsRmxCalZFQmdia29UM2F6X3E0ZG1RNXVIeWJPbDlBbHpaQzlfb2"
+      "published": "Thu, 29 Jan 2026 22:18:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFEyNTN5eDJERmVfUy14UGExZWtQVXBweHd0NGNxU2otbGRRaWVya2JaR1loTjd3Zkc3R2tGT1dTZWNfQmNGeHRMMXpyUXdtM3JpVmpsSFVXNC01VFQxMnhWZUtobTBqSmIwWkU4NTlPaUJKMUJVNk9adnhJMkdhNV9Ha01NNDlBZ1I1RFpkMGRsVFQyQktDYUdJZVZmbFJwYUpZ?oc=5\" target=\"_blank\">México "
     },
     {
-      "title": "Alexis Mabille lleva la alta costura al mundo de la inteligencia artificial - FashionNetwork México",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXI1ZFdoazNtSC14RzhLU3Y4bENpbFN6UHdBRUFqWUkzUTFQWUtqdUVyd2ZFWDM0Nmg0dE0zanVyeHJWcVlSSU8tWEpUSnFkYkphZGlSNjJqbWx1T1M3eGpqeWgxTlpSYkIzc2s0VFUtLW1LZWNfVXJRcVg4RXBmMnZKYXF5OHVHeWwyRUJlSVR3Wk5XM0RTcmlBcUpZNWRTX1BZRm5vV0thNndrMWJDOTlpMFlnVWtkY2ViX0gtdEc?oc=5",
+      "title": "México inauguró el mayor centro de formación en Inteligencia Artificial de Latinoamérica - Televen",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2kxR3QzS2U0d2Q3NXlaY3hOdmFvdUlGR2NKU0FGSk5aR0hBRGwweTluVjFOVG1MTDlvc1BQQzE0WXhIR1NXZUlaTUh3LWVXbTVBYUwtZ3VFUlMxNWkwTUdQNEZqaEgwWndGRy1MZk0xUlo3UEtuTm9FeFVxcWVDZ3R3R2lxVHc1T2RwTTRuUU1mM1BVNnlVa3hZM0NrdW5XcTZIY3FUZVQxWENWandWYnlYY3VoSnI5UGF0LTllWlpIZzJ5SlBIeWZ2LTg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 29 Jan 2026 11:04:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXI1ZFdoazNtSC14RzhLU3Y4bENpbFN6UHdBRUFqWUkzUTFQWUtqdUVyd2ZFWDM0Nmg0dE0zanVyeHJWcVlSSU8tWEpUSnFkYkphZGlSNjJqbWx1T1M3eGpqeWgxTlpSYkIzc2s0VFUtLW1LZWNfVXJRcVg4RXBmMnZKYXF5OHVHeWwyRUJlSVR3Wk5XM0RTcmlBcUpZNWRTX1BZRm5vV0thNndrMWJDOTlpMFlnVWtkY2"
+      "published": "Thu, 29 Jan 2026 20:31:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2kxR3QzS2U0d2Q3NXlaY3hOdmFvdUlGR2NKU0FGSk5aR0hBRGwweTluVjFOVG1MTDlvc1BQQzE0WXhIR1NXZUlaTUh3LWVXbTVBYUwtZ3VFUlMxNWkwTUdQNEZqaEgwWndGRy1MZk0xUlo3UEtuTm9FeFVxcWVDZ3R3R2lxVHc1T2RwTTRuUU1mM1BVNnlVa3hZM0NrdW5XcTZIY3FUZVQxWENWandWYnlYY3VoSnI5UG"
     },
     {
       "title": "Startup coreana revoluciona energía eólica urbana con datos ambientales - El Ecosistema Startup",
