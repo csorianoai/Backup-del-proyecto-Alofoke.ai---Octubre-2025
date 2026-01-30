@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La escasez de RAM podrá encarecer el iPhone, prevé Cook",
+      "url": "https://expansion.mx/tecnologia/2026/01/30/la-escasez-de-ram-podra-encarecer-el-iphone-preve-cook",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Jan 2026 15:00:48 GMT",
+      "summary": "Tim Cook, CEO de Apple, aceptó que la falta de componentes y sus aumentos de precios resultan un tema que afectará a la empresa a lo largo del año."
+    },
+    {
+      "title": "La inteligencia artificial avanza, pero deja atrás a los adultos mayores",
+      "url": "https://expansion.mx/tecnologia/2026/01/30/la-inteligencia-artificial-avanza-pero-deja-atras-a-los-adultos-mayores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Jan 2026 11:55:33 GMT",
+      "summary": "Sin alfabetización digital ni acompañamiento, la expansión de la IA amenaza con profundizar la exclusión de los adultos mayores en México."
+    },
+    {
       "title": "iPhone 17 potencia crecimiento de Apple en un 16%",
       "url": "https://expansion.mx/tecnologia/2026/01/29/iphone-17-potencia-crecimiento-de-apple-en-un-16",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Microsoft tuvo un trimestre positivo, pues creció 17% y logró ingresos por 81,300 millones de dólares."
     },
     {
-      "title": "Ola de despidos en Amazon: 16,000 trabajadores perderán su empleo en el gigante minorista",
-      "url": "https://expansion.mx/tecnologia/2026/01/29/amazon-confirma-despidos-masivos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Jan 2026 13:16:42 GMT",
-      "summary": "Amazon es una de las principales empleadoras de Estados Unidos con 1.5 millones de trabajadores. La mayor parte de su mano de obra labora en los almacenes."
-    },
-    {
-      "title": "Sin que lo notaras, Alexa tiene más independencia y puede hacer cosas por ti",
-      "url": "https://expansion.mx/tecnologia/2026/01/29/amazon-ha-hecho-mas-independiente-alexa-sin-que-te-dieras-cuenta",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Jan 2026 11:55:40 GMT",
-      "summary": "En medio de la competencia de los asistentes inteligentes, Amazon busca diferenciarse con más capacidades para que Alexa también actúe y complemente tu vida cotidiana."
-    },
-    {
       "title": "BUAP crea agencia de IA para liderar el mercado - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnI0YW1sazRpeFBzbXNRck9oN0xfRENQZmJ1YnNaUGp5MWZIcWRaM3hXRWc1Qzh0eGZMMjE4NjNpN0JpdWdNdkdEQVhVdEtpWlVBMDRRTzFwd0dmSlFEYmpmNFRJTUNOYzg4UVZJWllvcVpZY0I0TVkxaExOakNUQXAtQlB5c05ab0lLMFVXTkEwTTcybFozMGRIeHE5YnREeS1DWEZ0MnhNT2pMUl9jSkVwczVWNE43a3ozT0xWT2c5b3V4dDM1UtIB4wFBVV95cUxNREV0VDU3dWN4NDI1bHlFUU1pa1M2Rkdfb0pIOGVqNmNka3E4SGRiUmJHYUdqRF9ZQlhoXy1EWHh5MzFNeEw2S2RUY3habUJ2NG1UVjRvdHhiZzdXXzRtYTlsVmJZWW1GRVF2cFlkVTFRM2lDQ3pnQUF0dHhJTFZRZGJZeFhpUGo5cVdDMnNndHlHVGd6XzA5Y2xzMFBWa3RhTUlyYUhneWZWcHZCdkJQVjFLcDZmSk5pNkhZa0hJZXVXMERDRzYzWFRWd3k0ZC1jMS0ycnplX1ZTSlM3QlB4RkRMTQ?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnI0YW1sazRpeFBzbXNRck9oN0xfRENQZmJ1YnNaUGp5MWZIcWRaM3hXRWc1Qzh0eGZMMjE4NjNpN0JpdWdNdkdEQVhVdEtpWlVBMDRRTzFwd0dmSlFEYmpmNFRJTUNOYzg4UVZJWllvcVpZY0I0TVkxaExOakNUQXAtQlB5c05ab0lLMFVXTkEwTTcybFozMGRIeHE5YnREeS1DWEZ0MnhNT2pMUl9jSkVwczVWNE43a3"
     },
     {
+      "title": "México también aboga por el uso ético de la IA, pero con lineamientos no vinculantes - TeleSemana.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTB4X3BYbEZrODVWY2o5eW5CTWtfY3lUQWZvWWFWRWhlbHJWRnhhX3QycFIwa1VORThMOEdFMGhmUDJlbW9JQVNaNndVWEV5MTVTWDgwV3RHeWN6UHpweHJ5d1lDVFFBVGpoUlJaTU5ZR2lyRWhtcVl2WUwyZ0tMTU54ZGtiaFRWTk4tRnJSMGJKZllVa3hmcS00VDlfMlVjU1RUdVhUVzU2SWRUSW5Vc3d1VktIV3dDSEs5SVdQVE5UUEM1eHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Jan 2026 17:29:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTB4X3BYbEZrODVWY2o5eW5CTWtfY3lUQWZvWWFWRWhlbHJWRnhhX3QycFIwa1VORThMOEdFMGhmUDJlbW9JQVNaNndVWEV5MTVTWDgwV3RHeWN6UHpweHJ5d1lDVFFBVGpoUlJaTU5ZR2lyRWhtcVl2WUwyZ0tMTU54ZGtiaFRWTk4tRnJSMGJKZllVa3hmcS00VDlfMlVjU1RUdVhUVzU2SWRUSW5Vc3d1VktIV3dDSE"
+    },
+    {
       "title": "México presenta decálogo ético para regular el uso de la IA en el país - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFEyNTN5eDJERmVfUy14UGExZWtQVXBweHd0NGNxU2otbGRRaWVya2JaR1loTjd3Zkc3R2tGT1dTZWNfQmNGeHRMMXpyUXdtM3JpVmpsSFVXNC01VFQxMnhWZUtobTBqSmIwWkU4NTlPaUJKMUJVNk9adnhJMkdhNV9Ha01NNDlBZ1I1RFpkMGRsVFQyQktDYUdJZVZmbFJwYUpZ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 29 Jan 2026 22:18:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFEyNTN5eDJERmVfUy14UGExZWtQVXBweHd0NGNxU2otbGRRaWVya2JaR1loTjd3Zkc3R2tGT1dTZWNfQmNGeHRMMXpyUXdtM3JpVmpsSFVXNC01VFQxMnhWZUtobTBqSmIwWkU4NTlPaUJKMUJVNk9adnhJMkdhNV9Ha01NNDlBZ1I1RFpkMGRsVFQyQktDYUdJZVZmbFJwYUpZ?oc=5\" target=\"_blank\">México "
-    },
-    {
-      "title": "México inauguró el mayor centro de formación en Inteligencia Artificial de Latinoamérica - Televen",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2kxR3QzS2U0d2Q3NXlaY3hOdmFvdUlGR2NKU0FGSk5aR0hBRGwweTluVjFOVG1MTDlvc1BQQzE0WXhIR1NXZUlaTUh3LWVXbTVBYUwtZ3VFUlMxNWkwTUdQNEZqaEgwWndGRy1MZk0xUlo3UEtuTm9FeFVxcWVDZ3R3R2lxVHc1T2RwTTRuUU1mM1BVNnlVa3hZM0NrdW5XcTZIY3FUZVQxWENWandWYnlYY3VoSnI5UGF0LTllWlpIZzJ5SlBIeWZ2LTg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 29 Jan 2026 20:31:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2kxR3QzS2U0d2Q3NXlaY3hOdmFvdUlGR2NKU0FGSk5aR0hBRGwweTluVjFOVG1MTDlvc1BQQzE0WXhIR1NXZUlaTUh3LWVXbTVBYUwtZ3VFUlMxNWkwTUdQNEZqaEgwWndGRy1MZk0xUlo3UEtuTm9FeFVxcWVDZ3R3R2lxVHc1T2RwTTRuUU1mM1BVNnlVa3hZM0NrdW5XcTZIY3FUZVQxWENWandWYnlYY3VoSnI5UG"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - conecta.tec.mx",
+      "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5",
       "source": "Google News",
       "category": "news",
