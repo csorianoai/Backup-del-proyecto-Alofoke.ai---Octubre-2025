@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Nintendo Switch ya es el dispositivo más exitoso en la historia de Nintendo",
+      "url": "https://expansion.mx/tecnologia/2026/02/03/nintendo-switch-dispositivo-mas-exitoso-nintendo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Feb 2026 17:00:56 GMT",
+      "summary": "La primera generación de la consola híbrida alcanzó las 155.37 millones de unidades, superando a Nintendo DS ubicándose como la segunda consola más vendida de todos los tiempos."
+    },
+    {
+      "title": "El teléfono que quiere durarte años: así llega el Redmi Note 15 a México",
+      "url": "https://expansion.mx/tecnologia/2026/02/03/xiaomi-redmi-note-15-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Feb 2026 15:00:02 GMT",
+      "summary": "Con la serie Redmi Note 15, Xiaomi actualiza su oferta de gama media en México y apuesta por durabilidad, fotografía avanzada y funciones de IA en un rango de precio accesible."
+    },
+    {
       "title": "Elon Musk anuncia la fusión de xAI con SpaceX en un intento para construir centros de datos especiales",
       "url": "https://expansion.mx/tecnologia/2026/02/02/elon-musk-anuncia-la-fusion-de-xai-con-spacex",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Tim Cook, CEO de Apple, aceptó que la falta de componentes y sus aumentos de precios resultan un tema que afectará a la empresa a lo largo del año."
     },
     {
-      "title": "La inteligencia artificial avanza, pero deja atrás a los adultos mayores",
-      "url": "https://expansion.mx/tecnologia/2026/01/30/la-inteligencia-artificial-avanza-pero-deja-atras-a-los-adultos-mayores",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Jan 2026 11:55:33 GMT",
-      "summary": "Sin alfabetización digital ni acompañamiento, la expansión de la IA amenaza con profundizar la exclusión de los adultos mayores en México."
-    },
-    {
-      "title": "iPhone 17 potencia crecimiento de Apple en un 16%",
-      "url": "https://expansion.mx/tecnologia/2026/01/29/iphone-17-potencia-crecimiento-de-apple-en-un-16",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Jan 2026 22:15:14 GMT",
-      "summary": "La empresa reportó ingresos trimestrales por 143,800 millones de dólares , en gran medida a los nuevos iPhone Air y Pro Max, además de su división de Servicios."
+      "title": "Con la ayuda de AI, los desaparecidos de México nos cuentan sus historias al resto de nosotros - Aconcagua.lat",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWThrcDdBaUZHNjJDS0NiOUp2V1ltTGlJZ2c2SkJsM2lQVEE5aVY5ZUp5aXJjWE5ORWhDX0cyX0tyVWFQTEs1X0laODNYS0RwRzVDSFpCdzRZZDB5blpzN0hzQU9IUjY2Zzhoa3hMcy14eEVJcXlrekVSVk10WVBQNjVVLVFrMTJzekNUREtSQ1ZHM1h5MHFqN01TbXZEWDJ4eWNVMGRqeGt6MnoxYlBtNGNjbEdMUU0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Feb 2026 18:30:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWThrcDdBaUZHNjJDS0NiOUp2V1ltTGlJZ2c2SkJsM2lQVEE5aVY5ZUp5aXJjWE5ORWhDX0cyX0tyVWFQTEs1X0laODNYS0RwRzVDSFpCdzRZZDB5blpzN0hzQU9IUjY2Zzhoa3hMcy14eEVJcXlrekVSVk10WVBQNjVVLVFrMTJzekNUREtSQ1ZHM1h5MHFqN01TbXZEWDJ4eWNVMGRqeGt6MnoxYlBtNGNjbEdMUU0?oc"
     },
     {
       "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
     },
     {
-      "title": "México lidera formación en Inteligencia Artificial en América Latina - MILENIO",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFFiQUlpNXFSNVhjMGdwcFZ0NW45anpTUHl6YVdENENPZjJJYlNNWWFwMXJ3ajlhNzJWV1IyWUp1NUdhcmd6QVgwa25fd3N4aXRhVHA5RWhhSzYteE9FNU95STFZck85eENJSEhpLVc2Uk4wTzlYQ1dUXzQ0UTFEZHdfeE0tYk9ad1hFMnQ2aFRObnRjNDJ6MmFJN3FhUdIBngFBVV95cUxPblB6NXVuYXROYWdXOC1fQmpvQ3I0NlI4S2ZoUE9JM2RXcWhpN3hhTEV4RVR1S3hEd2pkRS1iUVNCdHFpa2J5dWQ4cEhMUG0xMWk1SzA2X3ZHc0JDYU81YTBPZTNFaFdXQ3NRSWhTbkxGWDdxaEptVnotSnNGS2pockJ3UW42WU1lUkVpQWFMZDVtbHZQTnhXbzJaT3Rrdw?oc=5",
+      "title": "La inteligencia artificial y el mundo del trabajo - SinEmbargo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2S09EdzYwNDNuejFWOEhBWENBWVFRUXdSNWhNWTNuVmFjMmlRX094WlVMVXhEZ1dFVUFIWF84VXhTa21wRVcwLXdwMkFSSUpEaWI4elNaLXpWeDZCTE5peEEzWVBQZ2xKZEN2YXV3ak4yMUY3amdfWE1MNk9GSm9Ka09wajAtZ2I4bw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 02 Feb 2026 20:08:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWFFiQUlpNXFSNVhjMGdwcFZ0NW45anpTUHl6YVdENENPZjJJYlNNWWFwMXJ3ajlhNzJWV1IyWUp1NUdhcmd6QVgwa25fd3N4aXRhVHA5RWhhSzYteE9FNU95STFZck85eENJSEhpLVc2Uk4wTzlYQ1dUXzQ0UTFEZHdfeE0tYk9ad1hFMnQ2aFRObnRjNDJ6MmFJN3FhUdIBngFBVV95cUxPblB6NXVuYXROYWdXOC1fQm"
-    },
-    {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+      "published": "Tue, 03 Feb 2026 06:03:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2S09EdzYwNDNuejFWOEhBWENBWVFRUXdSNWhNWTNuVmFjMmlRX094WlVMVXhEZ1dFVUFIWF84VXhTa21wRVcwLXdwMkFSSUpEaWI4elNaLXpWeDZCTE5peEEzWVBQZ2xKZEN2YXV3ak4yMUY3amdfWE1MNk9GSm9Ka09wajAtZ2I4bw?oc=5\" target=\"_blank\">La inteligencia artificial y el mundo"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
-      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 31 Jan 2026 03:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
-    },
-    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    },
+    {
+      "title": "Monterrey Digital Hub presenta nuevo Clúster de Inteligencia Artificial para acelerar innovación industrial - MexicoIndustry",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYlp4V0U5bVhrNTMyTGVHTEhBVTJZTFpOZkktRkQ0SmFLQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYl"
     }
   ],
   "count": 14
