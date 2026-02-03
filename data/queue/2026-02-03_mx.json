@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "ChatGPT presentó fallas este martes 3 de febrero; el servicio ya opera con normalidad",
+      "url": "https://expansion.mx/tecnologia/2026/02/03/chatgpt-falla-este-martes-3-de-febrero",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Feb 2026 21:03:23 GMT",
+      "summary": "Ciudad de México, Estado de México, Jalisco, Nuevo León, Tijuana y Mérida registraron la mayoría de los reportes en territorio mexicano."
+    },
+    {
+      "title": "España prohibirá acceso a redes sociales a menores de 16 años",
+      "url": "https://expansion.mx/tecnologia/2026/02/03/espana-prohibira-redes-sociales-menores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Feb 2026 20:45:38 GMT",
+      "summary": "El gobierno de Pedro Sánchez anunció que seguirá el ejemplo de Australia a través de una propuesta de ley para evitar que este sector acceda a las plataformas digitales."
+    },
+    {
       "title": "Nintendo Switch ya es el dispositivo más exitoso en la historia de Nintendo",
       "url": "https://expansion.mx/tecnologia/2026/02/03/nintendo-switch-dispositivo-mas-exitoso-nintendo",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Mon, 02 Feb 2026 23:10:47 GMT",
       "summary": "La operación combinará la capacidad de lanzamiento de cohetes con la tecnología de Inteligencia Artificial de ambas empresas."
-    },
-    {
-      "title": "Netflix, Disney+ y Prime Video empatan en México",
-      "url": "https://expansion.mx/tecnologia/2026/02/02/netflix-disney-y-prime-video-empatan-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 02 Feb 2026 14:00:51 GMT",
-      "summary": "Las plataformas en México tienen una cuota de mercado casi igual en el país, donde cualquier factor puede apuntalar a uno u otro."
-    },
-    {
-      "title": "La escasez de RAM podrá encarecer el iPhone, prevé Cook",
-      "url": "https://expansion.mx/tecnologia/2026/01/30/la-escasez-de-ram-podra-encarecer-el-iphone-preve-cook",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Jan 2026 15:00:48 GMT",
-      "summary": "Tim Cook, CEO de Apple, aceptó que la falta de componentes y sus aumentos de precios resultan un tema que afectará a la empresa a lo largo del año."
     },
     {
       "title": "Con la ayuda de AI, los desaparecidos de México nos cuentan sus historias al resto de nosotros - Aconcagua.lat",
