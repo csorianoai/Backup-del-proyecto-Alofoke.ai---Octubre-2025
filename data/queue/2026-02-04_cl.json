@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo la NASA se prepara para el primer viaje a la Luna desde 1972",
+      "url": "https://www.latercera.com/tendencias/noticia/como-la-nasa-se-prepara-para-el-primer-viaje-a-la-luna-desde-1972/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Feb 2026 20:00:00 +0000",
+      "summary": "Más de medio siglo después de la última huella humana en la Luna, la NASA vuelve a mirar al satélite natural con el objetivo de regresar. Para lograrlo, la agencia espacial ya puso en marcha una serie de ensayos clave que definirán si el próximo viaje tripulado está listo para despegar."
+    },
+    {
       "title": "Cómo ciudadanos de Kenia son atraídos con empleo a Rusia y luego enviados a la guerra en Ucrania, según reportes",
       "url": "https://www.latercera.com/tendencias/noticia/como-ciudadanos-de-kenia-son-atraidos-con-empleo-a-rusia-y-luego-enviados-a-la-guerra-en-ucrania-segun-reportes/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 04 Feb 2026 11:12:07 +0000",
       "summary": "Las autoridades estadounidenses afirmaron que el vehículo aéreo no tripulado, identificado como un Shahed-139, volaba con intenciones poco claras y se acercó al portaaviones a pesar de que su personal empleó medidas de desescalada. Fue derribado por un avión de combate F-35C."
-    },
-    {
-      "title": "“Funcionalidad y elegancia”: cómo se diseñaron los uniformes del Team Chile para la ceremonia de los JJ.OO. de Invierno",
-      "url": "https://www.latercera.com/tendencias/noticia/funcionalidad-y-elegancia-como-se-disenaron-los-uniformes-del-team-chile-para-la-ceremonia-de-los-jjoo-de-invierno/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 04 Feb 2026 09:02:00 +0000",
-      "summary": "Javiera Jordán, en colaboración con Basement, fue la encargada de desarrollar el look. Será presentado en una exhibición en Milán, en la antesala de la competición. Chile será el único país latinoamericano en el desfile, en el que participarán Trinidad de la Noi y Esteban Grimalt en representación."
     },
     {
       "title": "Panamá y Chile establecen vínculos de cooperación en el campo de la Inteligencia Artificial - La Web de la Salud",
@@ -83,20 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZEtiN2FzNHJSclY4R28xdXNsOHlpTjRHdG1yWTByN0w4WDEwRElJTEZrelZwVTBmdzVUYmZKV2oySUg0a243Ui0xYzlfWTY4VGxrYlpUZElpRm1BSmdRcVd2dzdMdjU2NUV2bFFQRWF6UXJSUjdOLU5TNnlUYm9wdzJjajZCNjdrWHM2S2lYbUFHWTNuSlhBazNXdTlLM3luMV9idmloeXg5WTV0MldYMHRaSi10a2htNV"
     },
     {
-      "title": "Cerrada la vía Santiago – El Encano por retiro de vehículo accidentado - miputumayo.com.co",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWkyR1FWc21VS2dwcHFtZDcxbG5CRktaN0Q4TVRQalBIdVpPb0tqY3dIWGZNUnpuQlB4WWowU2YwR3czalhDVjNqalRpb0w2b3NGa0pIOUpJUmFuZ3NzLTNtdlpEQ084b3JaTzQ0NlBmY2V6NURUVXBhSWtLV3Z1Mi1JYlo5YnJWVXFCeFdIRlVyNGxfdnBoQ29QOWxJVzgzU29sUjRGN19aZw?oc=5",
+      "title": "Microsoft elige Santiago para lanzar su AI Tour en Latinoamérica y debatir el futuro de la inteligencia artificial - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl9VX3NIZEZCNXV4YUhSaXVtRm1RZUNaNFNLbTR5U0NjSE9rcWs1OXlLTWlrbjlBYXRYQl9CNXl1TFBFTFJua0ZoUG1FbmxoTWprTjJMZlM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 22 Jan 2026 20:15:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWkyR1FWc21VS2dwcHFtZDcxbG5CRktaN0Q4TVRQalBIdVpPb0tqY3dIWGZNUnpuQlB4WWowU2YwR3czalhDVjNqalRpb0w2b3NGa0pIOUpJUmFuZ3NzLTNtdlpEQ084b3JaTzQ0NlBmY2V6NURUVXBhSWtLV3Z1Mi1JYlo5YnJWVXFCeFdIRlVyNGxfdnBoQ29QOWxJVzgzU29sUjRGN19aZw?oc=5\" target=\"_blan"
+      "published": "Fri, 17 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl"
     },
     {
-      "title": "INNPACTA 2026: CCU busca startups B2B con US$10.000 y piloto - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3JBRXNyNmxhQlh3UThsRTRyVGhBd2U1R0xIU2w3N2JGTUVKWlZVbFBuODhwSUVqOU96Y1NUazJ1YXVyS3prTTQ1TUF3dk1wQ1ZJdjJoLWdnMldOa2hORWl3Y3BqaGt1dlU4TkQwc2hoMGNCM09kQmtMeHFKOExvaFBOU1gyUVE2TlBqTGVUQmdFWXc?oc=5",
+      "title": "Caja Los Andes invierte en Soyio: debut en startups Chile - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1d3YmxpelZIRlI4cUw5SGh4UW5LWDdYNklNYWd2ZU00RUxkbk50T2RBUGFMZThWaDNhZ1JnelNhYXZfT1k1YUF3Uk9vMWxTWGRhUGRMXzZqX05kYmF2R3EzcVdKejJybExjdFppZTNPYkk2c0ZZdFFrQUhuaDBLZFNjRHZOR2RDMFpVd25FTlA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 04 Feb 2026 11:28:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3JBRXNyNmxhQlh3UThsRTRyVGhBd2U1R0xIU2w3N2JGTUVKWlZVbFBuODhwSUVqOU96Y1NUazJ1YXVyS3prTTQ1TUF3dk1wQ1ZJdjJoLWdnMldOa2hORWl3Y3BqaGt1dlU4TkQwc2hoMGNCM09kQmtMeHFKOExvaFBOU1gyUVE2TlBqTGVUQmdFWXc?oc=5\" target=\"_blank\">INNPACTA 2026: CCU busca sta"
+      "published": "Wed, 04 Feb 2026 15:53:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNX1d3YmxpelZIRlI4cUw5SGh4UW5LWDdYNklNYWd2ZU00RUxkbk50T2RBUGFMZThWaDNhZ1JnelNhYXZfT1k1YUF3Uk9vMWxTWGRhUGRMXzZqX05kYmF2R3EzcVdKejJybExjdFppZTNPYkk2c0ZZdFFrQUhuaDBLZFNjRHZOR2RDMFpVd25FTlA?oc=5\" target=\"_blank\">Caja Los Andes invierte en Soyio"
     },
     {
       "title": "Nueva generación de Start-Up Chile concentra soluciones innovadoras para agricultura y recursos naturales - Diario Sustentable",
