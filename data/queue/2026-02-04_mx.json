@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La biometría entra a la lucha contra la trata de personas",
+      "url": "https://expansion.mx/tecnologia/2026/02/04/la-biometria-entra-a-la-lucha-contra-la-trata-de-personas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Feb 2026 11:55:41 GMT",
+      "summary": "La identidad digital permite cerrar brechas que aprovechan las redes de explotación, aunque su uso abre un debate sobre privacidad, soberanía de datos y protección de los más vulnerables."
+    },
+    {
       "title": "ChatGPT presentó fallas este martes 3 de febrero; el servicio ya opera con normalidad",
       "url": "https://expansion.mx/tecnologia/2026/02/03/chatgpt-falla-este-martes-3-de-febrero",
       "source": "Expansión Tecnología",
@@ -35,36 +43,28 @@
       "summary": "Con la serie Redmi Note 15, Xiaomi actualiza su oferta de gama media en México y apuesta por durabilidad, fotografía avanzada y funciones de IA en un rango de precio accesible."
     },
     {
-      "title": "Elon Musk anuncia la fusión de xAI con SpaceX en un intento para construir centros de datos especiales",
-      "url": "https://expansion.mx/tecnologia/2026/02/02/elon-musk-anuncia-la-fusion-de-xai-con-spacex",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 02 Feb 2026 23:10:47 GMT",
-      "summary": "La operación combinará la capacidad de lanzamiento de cohetes con la tecnología de Inteligencia Artificial de ambas empresas."
-    },
-    {
-      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
+      "title": "Captan a conductor viajando en auto con forma de ataúd y causa furor: “México le gana otra vez a la IA” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORTR5clpVenR1WllWQ1ZnZHJrQy1HU0VvQVl3bGZZQXRZSk5CRkc5Skd6cG56UHJ1cTdaanBXdTdsSGdpUjJEMV9Qb2xHYk5aSW5CcXZPVEFwekFxWFdSdGNRODBYWWFLSlItZi1KLWZBbXdZeUJkZGJJVGMwZzVxQ1hqR2Nkc2llVFFQc1FvUWdLTTdSaVBJT25hQTdMRkM4bkQzakFLcU1qdnZNNk1pdEltTTBuREpLSldEYllmZktzVTM5NjFObkEwb200YVU4WVcyakJhMEVEc2fSAfYBQVVfeXFMT2I5RXdnZU9hMERvWU84RG5aN3NKMWFUV3Q3Vy10UlQ5STl1ZGFWU1pfTDVJaWNmOEtYcll5WWxIdllRWVlvLWl1UVROLUcxVlVrM1N3OXpxYkkxNmVjdHZUdFNKbkRvaDQzbmV5elpZT3l5bkdYbmNQTnRPclh1Q0tRWmhadS1mU2k3VWFkbm9IU293dnIzQ2J2TTFRSjFqbzB2cjIwOHVuMmttYWZoZWdzeWhGYWo2anJyZ2ZibENvU2tkc3I0TG5lMjRtWUNubHRkalloSHl5aWVUSXlBUXp5am11R3hJaTc5c2JxVG1tTE1DUHFR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
+      "published": "Wed, 04 Feb 2026 15:21:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxORTR5clpVenR1WllWQ1ZnZHJrQy1HU0VvQVl3bGZZQXRZSk5CRkc5Skd6cG56UHJ1cTdaanBXdTdsSGdpUjJEMV9Qb2xHYk5aSW5CcXZPVEFwekFxWFdSdGNRODBYWWFLSlItZi1KLWZBbXdZeUJkZGJJVGMwZzVxQ1hqR2Nkc2llVFFQc1FvUWdLTTdSaVBJT25hQTdMRkM4bkQzakFLcU1qdnZNNk1pdEltTTBuREpLSl"
     },
     {
-      "title": "Con la ayuda de AI, los desaparecidos de México nos cuentan sus historias al resto de nosotros - Aconcagua.lat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWThrcDdBaUZHNjJDS0NiOUp2V1ltTGlJZ2c2SkJsM2lQVEE5aVY5ZUp5aXJjWE5ORWhDX0cyX0tyVWFQTEs1X0laODNYS0RwRzVDSFpCdzRZZDB5blpzN0hzQU9IUjY2Zzhoa3hMcy14eEVJcXlrekVSVk10WVBQNjVVLVFrMTJzekNUREtSQ1ZHM1h5MHFqN01TbXZEWDJ4eWNVMGRqeGt6MnoxYlBtNGNjbEdMUU0?oc=5",
+      "title": "Nuevas herramientas de inteligencia artificial de Anthropic intensifican la caída de las acciones de análisis de datos y software, según inversionistas - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeG5VYlFlNjNRQ3pyOUhNbGROXzdJNXFiVXJhSzFtVHRubTRQblVsYTlkaWNEc1cwT3BCNzRLRHpXRkNFWWNVX3NoTE5XVTdoTHVZMzhnWXFFYzJYZU1IZUZBLTFUQWk5U2YyM29rYmZsUnpqWW1vU0ZZM2dRTTBwUE9zcWR1eFNjTHhTWDB5bGVEMHdlTU1ZdzN0WE1WcVNiaGNHYXQtZ0ZSTUdNc3BkT0lHZjRqQTU0VUhiVlZBdFFYM1Q3UUtVUlZfOENwenJ4RDc0dE9qb3N0Y3ZFZkVhV1pkMl8tdURCUWRwTFlIV0djYUpENl9fWV9BQTFVdjE3T2Nj?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 03 Feb 2026 18:30:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWThrcDdBaUZHNjJDS0NiOUp2V1ltTGlJZ2c2SkJsM2lQVEE5aVY5ZUp5aXJjWE5ORWhDX0cyX0tyVWFQTEs1X0laODNYS0RwRzVDSFpCdzRZZDB5blpzN0hzQU9IUjY2Zzhoa3hMcy14eEVJcXlrekVSVk10WVBQNjVVLVFrMTJzekNUREtSQ1ZHM1h5MHFqN01TbXZEWDJ4eWNVMGRqeGt6MnoxYlBtNGNjbEdMUU0?oc"
+      "published": "Wed, 04 Feb 2026 16:58:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPeG5VYlFlNjNRQ3pyOUhNbGROXzdJNXFiVXJhSzFtVHRubTRQblVsYTlkaWNEc1cwT3BCNzRLRHpXRkNFWWNVX3NoTE5XVTdoTHVZMzhnWXFFYzJYZU1IZUZBLTFUQWk5U2YyM29rYmZsUnpqWW1vU0ZZM2dRTTBwUE9zcWR1eFNjTHhTWDB5bGVEMHdlTU1ZdzN0WE1WcVNiaGNHYXQtZ0ZSTUdNc3BkT0lHZjRqQTU0VU"
     },
     {
-      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
+      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
+      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
-      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 31 Jan 2026 03:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
-    },
-    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "title": "IA en la enseñanza: especialista Tec habla de sus retos y beneficios - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVGZQZE9hcw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+      "published": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
+    },
+    {
+      "title": "La tecnología transformó la vida en NL; la IA es el paso que sigue - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbmFmZ0hEOUhhZjhkaTFLTWpmTm5Jdm9xSExHSE05blVtajltQ1lKRXNBQ0dIeHlqNC02MHBRQlIwaWlGeUpjbUJrc3ZkUUgzdGhJYVpnZTBmbGxNam5PMk5OVC1VZzZ4TlJscEhoa3B0RmdSMGpwazIyLUVVR0hHRFZpT1pmeldVUTJ0aDhXczRXajhIUFBsT2NaUmJvYXUtTUhnWUlJR2ZIUUF5YnJPOHBsZ2V1LTg0dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbm"
     }
   ],
   "count": 14
