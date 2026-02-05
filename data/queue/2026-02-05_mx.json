@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Meta rompe el modelo gratuito: Facebook e Instagram se preparan para cobrar",
-      "url": "https://expansion.mx/tecnologia/2026/02/05/acebook-instagram-dejaran-de-ser-gratis-meta-suscripciones",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Feb 2026 11:55:16 GMT",
-      "summary": "Tras años dependiendo de la publicidad, la compañía de Zuckerberg prueba un modelo híbrido con suscripciones premium que prometen menos anuncios, más privacidad y funciones avanzadas impulsadas por IA."
-    },
-    {
-      "title": "Google reporta 113,800 mdd y la IA ya es su segundo mayor negocio",
-      "url": "https://expansion.mx/tecnologia/2026/02/04/google-reporta-113-800-mdd-y-la-ia-ya-es-su-segundo-mayor-negocio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 04 Feb 2026 23:00:05 GMT",
-      "summary": "La IA impulsa el crecimiento de Google. La nube ya es su segundo mayor negocio, Gemini suma 750 millones de usuarios y la compañía refuerza su infraestructura para sostener la demanda."
-    },
-    {
       "title": "Uber cierra 2025 con un crecimiento del 22%",
       "url": "https://expansion.mx/tecnologia/2026/02/04/uber-cierra-2025-con-un-crecimiento-del-22",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "En medio de su transformación y del auge de la Inteligencia Artificial, la empresa hace un esfuerzo en un mercado dominado por Nvidia."
     },
     {
+      "title": "Resiste, dura y cumple: así es el Honor Magic8 Lite bajo uso real",
+      "url": "https://expansion.mx/tecnologia/2026/02/04/resena-honor-magic8-lite-bajo-uso-real",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Feb 2026 15:00:53 GMT",
+      "summary": "Tras casi dos meses de uso real, el Honor Magic8 Lite muestra sus fortalezas en batería, pantalla y resistencia, justo en el segmento donde la marca acelera su crecimiento en Latinoamérica."
+    },
+    {
+      "title": "La biometría entra a la lucha contra la trata de personas",
+      "url": "https://expansion.mx/tecnologia/2026/02/04/la-biometria-entra-a-la-lucha-contra-la-trata-de-personas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Feb 2026 11:55:41 GMT",
+      "summary": "La identidad digital permite cerrar brechas que aprovechan las redes de explotación, aunque su uso abre un debate sobre privacidad, soberanía de datos y protección de los más vulnerables."
+    },
+    {
       "title": "El futuro de la IA en México no depende de los algoritmos, sino de la confianza en los datos - expansion.mx",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlZXaDFxYjRYTlhEemZoTDVldDhPS3UwNWJCZXdrbm5hU2FUdTJXZG56Q0hobXpvRU9IVzQ1SGxlbG5ySGhfRUh2MGtDeV9sR0tLMi1iQ2NZNnRPY1FqT1M0YUIyWEc0STY4djN6d05GZUlrMWM1RWYwLXotUzV6anc3QkxYTEZlekZDdHBkSFk3LTVTVWlRN1IwbWZWVGFoTjZ1UWRVcXM0OVVMSjRpbE8ycUUzdnM4RjFhVElOTzIxVmhyWUtxT3N0ONIB2AFBVV95cUxQa003WTRDWkRWNTZyUi1Wbi1nVEY0MVpXUGkxYnVsVUx6djdWSXdmT245VnRRTTMtc2xhbTExdVg3dTRBMmtyeVFybW9nSXU3RG8tMFZ1NnZSd2VNZ0NkeTRzb3VtVzdUY2xwbkVvT1UyaTFMOWYway1DRnlwUzZlUlJCdDhLWUZMZlpQbXJiV2RpWjhWZ1JTQ1dIZHN4VnB1VjV3OG1KWXJnNFpYR2hScUlSVjh2UTdEdHVCSnFWRkRNZ1BzUzYzdG5JV2w0UlNDb0wzOVpOZDY?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlZXaDFxYjRYTlhEemZoTDVldDhPS3UwNWJCZXdrbm5hU2FUdTJXZG56Q0hobXpvRU9IVzQ1SGxlbG5ySGhfRUh2MGtDeV9sR0tLMi1iQ2NZNnRPY1FqT1M0YUIyWEc0STY4djN6d05GZUlrMWM1RWYwLXotUzV6anc3QkxYTEZlekZDdHBkSFk3LTVTVWlRN1IwbWZWVGFoTjZ1UWRVcXM0OVVMSjRpbE8ycUUzdnM4Rj"
     },
     {
-      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
+      "title": "El estándar de la Inteligencia Artificial en las finanzas digitales - AmericaMalls & Retail",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORjNZX0hDOHJjYmV0S1NVbzNyc2s0V2ZOZTdwbzdrTExDWFdUMC1fbjh1UWE4NWhQcE9YUVk0MGhUUy0xQ2FwRWZOcVh3QTc0aVR1M2hpNGMxenlsQVNQOG50c3hHMW9zV2NYdDVfZmtPaktPMlFIUFBxQkhSYmN4Mk1oc1dLNEdsN09wdWh2VnpNRUgtSFBhLUNFd3hyUU5OUndTT3FITmtPX0hBQU9rQnNmWDc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
+      "published": "Thu, 05 Feb 2026 13:59:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORjNZX0hDOHJjYmV0S1NVbzNyc2s0V2ZOZTdwbzdrTExDWFdUMC1fbjh1UWE4NWhQcE9YUVk0MGhUUy0xQ2FwRWZOcVh3QTc0aVR1M2hpNGMxenlsQVNQOG50c3hHMW9zV2NYdDVfZmtPaktPMlFIUFBxQkhSYmN4Mk1oc1dLNEdsN09wdWh2VnpNRUgtSFBhLUNFd3hyUU5OUndTT3FITmtPX0hBQU9rQnNmWDc?oc=5\" "
     },
     {
-      "title": "TITAN, plataforma de IA agéntica para toma de decisiones empresariales, llega a México - Mobile Time Latinoamérica",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EQUFHYVZQcGdHTUJGVERURXVQVWw0cGtxMnFPMEo5SEFsOWlZc1Q2UlotNFJyWDhHMXZodEFxSk9mUkk1NU5KZ0hvdmVaM1BlV1BkWU92T3VPNXBWeXVkWE1CLXo4ckktdWg1N21FMWM1VXpuWGc?oc=5",
+      "title": "SafeBrok México debuta en el mercado fintech con una plataforma integral basada en IA - RankiaPro",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDZZcjNYUzd0NjBKOGVUUVIxdFRleDR1d1JzYmlyOFQ4d0o0TUF6R01oMFJHNXhIamQzXzQ2VjJwZVdmSGE4VWdNZEtDc0oxeFFXOEVYSXRyVmhMWTNEVVM3WHhLQlBaODJfeGh5bktHdlV4cEZfU0gwTlBRaEVzTnlVMVpFVFVqazVra3RIdjdmcmNoYmFkaV9NdHVfay1FZGxSSnZHVFdFQldSYThhNjl1LUF4eHQwR3cyTkowSVA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 04 Feb 2026 20:40:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9EQUFHYVZQcGdHTUJGVERURXVQVWw0cGtxMnFPMEo5SEFsOWlZc1Q2UlotNFJyWDhHMXZodEFxSk9mUkk1NU5KZ0hvdmVaM1BlV1BkWU92T3VPNXBWeXVkWE1CLXo4ckktdWg1N21FMWM1VXpuWGc?oc=5\" target=\"_blank\">TITAN, plataforma de IA agéntica para toma de decisiones empresarial"
+      "published": "Thu, 05 Feb 2026 16:00:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDZZcjNYUzd0NjBKOGVUUVIxdFRleDR1d1JzYmlyOFQ4d0o0TUF6R01oMFJHNXhIamQzXzQ2VjJwZVdmSGE4VWdNZEtDc0oxeFFXOEVYSXRyVmhMWTNEVVM3WHhLQlBaODJfeGh5bktHdlV4cEZfU0gwTlBRaEVzTnlVMVpFVFVqazVra3RIdjdmcmNoYmFkaV9NdHVfay1FZGxSSnZHVFdFQldSYThhNjl1LUF4eHQwR3"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
     },
     {
-      "title": "Monterrey Digital Hub presenta nuevo Clúster de Inteligencia Artificial para acelerar innovación industrial - MexicoIndustry",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYlp4V0U5bVhrNTMyTGVHTEhBVTJZTFpOZkktRkQ0SmFLQQ?oc=5",
+      "title": "La tecnología transformó la vida en NL; la IA es el paso que sigue - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbmFmZ0hEOUhhZjhkaTFLTWpmTm5Jdm9xSExHSE05blVtajltQ1lKRXNBQ0dIeHlqNC02MHBRQlIwaWlGeUpjbUJrc3ZkUUgzdGhJYVpnZTBmbGxNam5PMk5OVC1VZzZ4TlJscEhoa3B0RmdSMGpwazIyLUVVR0hHRFZpT1pmeldVUTJ0aDhXczRXajhIUFBsT2NaUmJvYXUtTUhnWUlJR2ZIUUF5YnJPOHBsZ2V1LTg0dw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 14 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYl"
+      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbm"
     }
   ],
   "count": 14
