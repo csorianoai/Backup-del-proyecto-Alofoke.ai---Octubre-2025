@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La IA anticipa estrés y desgaste laboral",
+      "url": "https://expansion.mx/tecnologia/2026/02/06/la-ia-anticipa-estres-y-desgaste-laboral",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 21:30:36 GMT",
+      "summary": "Los gemelos digitales son capaces de simular decisiones laborales y anticipar estrés, sobrecarga y burnout antes de llevar cambios a la operación."
+    },
+    {
+      "title": "El sector tecnológico es castigado por Wall Street",
+      "url": "https://expansion.mx/tecnologia/2026/02/06/ia-esta-costando-tanto-dinero-afecta-alphabet-amazon-microsoft",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 19:30:12 GMT",
+      "summary": "Las empresas reportaron sus ingresos en las últimas semanas, aunque han sido positivos, la fiebre por la IA se reduce entre los inversionistas."
+    },
+    {
       "title": "Resiste, dura y cumple: así es el Honor Magic8 Lite bajo uso real",
       "url": "https://expansion.mx/tecnologia/2026/02/06/honor-magic-8-lite-precio-caracteristicas",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Aunque solo 10% de quienes trabajan en plataformas son mujeres, las reglas de acceso al IMSS les exigen generar hasta 147% más ingresos, lo que en la práctica se traduce en jornadas de 12 a 14 horas diarias."
     },
     {
-      "title": "Compras en un clic, fraudes en minutos: el error que expone tus datos bancarios en internet",
-      "url": "https://expansion.mx/tecnologia/2026/02/05/esta-configuracion-deja-expuesta-informacion-bancaria",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Feb 2026 22:49:53 GMT",
-      "summary": "Pequeñas decisiones de comodidad digital abren puertas que luego cuesta cerrar cuando hay dinero de por medio."
-    },
-    {
-      "title": "Amazon no logra los ingresos esperados y sus acciones caen 10%",
-      "url": "https://expansion.mx/tecnologia/2026/02/05/amazon-no-logra-los-ingresos-esperados-y-sus-acciones-caen-10",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Feb 2026 22:15:24 GMT",
-      "summary": "La firma liderada por Andy Jessy proyectó un gasto de capital de 200,000 millones de dólares en 2026 lo que incrementó el nerviosismo de los inversionistas."
-    },
-    {
       "title": "Un paso hacia la regulación ética de la inteligencia artificial en México - La Crónica de Hoy",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVBUVBYV01VRGJ6bFY4OVB6NF95OGpQR1dfNG5QVURmek1VdGtSZG9pOWloaDhUeFBWVXhvRWk3NWJ6WlNfYzJkNEVaVV8tUGZfUHc0SjVzdEdCYXhvY1Q4d1duOWJ6X0kxaTNVVkxWU1VpNkRrd2NNUmdHRk1RNXNDaXFENVBNMkQzTlp3YXh5MExUZmZwSllJNm1nQWFWNFh3OVJHQW5zMmhYSVZ3Wm1uQU16WVBMUl9UYQ?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVBUVBYV01VRGJ6bFY4OVB6NF95OGpQR1dfNG5QVURmek1VdGtSZG9pOWloaDhUeFBWVXhvRWk3NWJ6WlNfYzJkNEVaVV8tUGZfUHc0SjVzdEdCYXhvY1Q4d1duOWJ6X0kxaTNVVkxWU1VpNkRrd2NNUmdHRk1RNXNDaXFENVBNMkQzTlp3YXh5MExUZmZwSllJNm1nQWFWNFh3OVJHQW5zMmhYSVZ3Wm1uQU16WVBMUl"
     },
     {
-      "title": "G-Star despide a 75 empleados y apuesta por la inteligencia artificial - FashionNetwork México",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTml2b2dXQ1ozZjZCT3FCQjVFQTl3Mk5sRzd3LWhzalkwSkVzczZSQjA3SEtPMTA2cjRaRXhUZzFtbEhFVEFxSE01akVvLUdGS2xVRlNUV2tRSlZQT3g5UTlDMzJhWFh1MkJxVTBSdmRHUW9HLXpPWnZOVHQ3Y0RhbHVXRmdNNnNKaEgzOHJ1NThvYVRpUlY4MTQwUGZCRXM0LVdSZFVlNTV5YTZqWXp2ekNXTXdib05oVHc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Feb 2026 10:31:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTml2b2dXQ1ozZjZCT3FCQjVFQTl3Mk5sRzd3LWhzalkwSkVzczZSQjA3SEtPMTA2cjRaRXhUZzFtbEhFVEFxSE01akVvLUdGS2xVRlNUV2tRSlZQT3g5UTlDMzJhWFh1MkJxVTBSdmRHUW9HLXpPWnZOVHQ3Y0RhbHVXRmdNNnNKaEgzOHJ1NThvYVRpUlY4MTQwUGZCRXM0LVdSZFVlNTV5YTZqWXp2ekNXTXdib05oVH"
-    },
-    {
       "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 27 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
+    },
+    {
+      "title": "G-Star despide a 75 empleados y apuesta por la inteligencia artificial - FashionNetwork México",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTml2b2dXQ1ozZjZCT3FCQjVFQTl3Mk5sRzd3LWhzalkwSkVzczZSQjA3SEtPMTA2cjRaRXhUZzFtbEhFVEFxSE01akVvLUdGS2xVRlNUV2tRSlZQT3g5UTlDMzJhWFh1MkJxVTBSdmRHUW9HLXpPWnZOVHQ3Y0RhbHVXRmdNNnNKaEgzOHJ1NThvYVRpUlY4MTQwUGZCRXM0LVdSZFVlNTV5YTZqWXp2ekNXTXdib05oVHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Feb 2026 10:31:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTml2b2dXQ1ozZjZCT3FCQjVFQTl3Mk5sRzd3LWhzalkwSkVzczZSQjA3SEtPMTA2cjRaRXhUZzFtbEhFVEFxSE01akVvLUdGS2xVRlNUV2tRSlZQT3g5UTlDMzJhWFh1MkJxVTBSdmRHUW9HLXpPWnZOVHQ3Y0RhbHVXRmdNNnNKaEgzOHJ1NThvYVRpUlY4MTQwUGZCRXM0LVdSZFVlNTV5YTZqWXp2ekNXTXdib05oVH"
     },
     {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
     },
     {
-      "title": "Humanidades Digitales: nueva carrera del Tec de Monterrey que integra tecnología y humanismo para abordar desafíos de la IA - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyNDVHdEV5WTY1Q2lGbTJRMEtKY0owdHkzUGJVMnJoUlhwSUF3M255TzNNdXJDNmwyTzRON1RKYXczUU5WTWRHZDA4V3ZzTnZXNEtjQzNnR1lSbmtjNk5ySFRkaG9fekVs?oc=5",
+      "title": "Monterrey Digital Hub presenta nuevo Clúster de Inteligencia Artificial para acelerar innovación industrial - MexicoIndustry",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYlp4V0U5bVhrNTMyTGVHTEhBVTJZTFpOZkktRkQ0SmFLQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyND"
+      "published": "Mon, 14 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYl"
     }
   ],
   "count": 14
