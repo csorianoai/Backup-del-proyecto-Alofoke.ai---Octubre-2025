@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "El alcalde de Móstoles, a la exedil: “Efectivamente tú no me has pedido nada... ni ser teniente de alcalde ni nada”",
+      "title": "El PP ataca a la denunciante de acoso de Móstoles con bulos y la amenaza de acciones legales",
+      "url": "https://elpais.com/espana/2026-02-06/el-pp-en-bloque-ataca-a-la-victima-de-acoso-de-mostoles-en-lo-laboral-lo-personal-y-lo-politico.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 15:06:54 GMT",
+      "summary": "Miembros del partido denigran el trabajo que desempeñaba la exedil y la acusan de deslealtad por haber grabado conversaciones"
+    },
+    {
+      "title": "El audio que desmiente la versión del alcalde de Móstoles: “Efectivamente tú no me has pedido nada... ni ser teniente de alcalde ni nada”",
       "url": "https://elpais.com/espana/2026-02-06/el-alcalde-de-mostoles-a-la-exedil-de-mostoles-efectivamente-tu-no-me-has-pedido-ser-teniente-de-alcalde-ni-nada.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Fri, 06 Feb 2026 10:08:09 GMT",
       "summary": "El regidor aparece en una conversación con la exconcejala reconociendo que ella nunca le había pedido ningún cargo, pese a que ayer aseguró lo contrario para defenderse de las acusaciones de acoso sobre él"
+    },
+    {
+      "title": "La concejala de Móstoles insistió a Ana Millán en que el partido actuara tras llevar “siete meses” denunciando: “Un presunto caso de acoso sexual y laboral, y tú no activas nada”",
+      "url": "https://elpais.com/espana/2026-02-06/la-concejala-de-mostoles-insistio-a-ana-millan-en-que-el-partido-actuara-tras-llevar-siete-meses-denunciando-un-presunto-caso-de-acoso-sexual-y-laboral-y-tu-no-activas-nada.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 18:27:13 GMT",
+      "summary": "En un audio de una reunión al que ha tenido acceso EL PAÍS, la denunciante insistió a la vicesecretaria de Organización del PP madrileño en que necesitaba “amparo”"
+    },
+    {
+      "title": "Alfonso Serrano, número dos de Ayuso, defiende al alcalde de Móstoles en el caso de acoso sexual y laboral: “Y tú, ¿cómo ligas?”",
+      "url": "https://elpais.com/espana/2026-02-06/alfonso-serrano-comparece-tras-la-denuncia-de-acoso-de-una-exconcejal-de-mostoles-contra-el-alcalde-manuel-bautista.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 11:54:26 GMT",
+      "summary": "El secretario general del PP madrileño amenaza con denunciar a la exconcejala por grabar las reuniones con él y otra compañera"
     },
     {
       "title": "El alcalde de Móstoles se presenta como víctima tras las acusaciones de acoso sexual y laboral y amenaza con medidas legales",
@@ -19,36 +43,20 @@
       "summary": "“Todo es absolutamente falso. Es una campaña absoluta de desprestigio. Un chantaje”, asegura el regidor después de que este periódico publicara un audio que desmiente su versión inicial de supuesta venganza política por parte de la edil"
     },
     {
-      "title": "El PP de Madrid se lanza al ataque contra la denunciante del acoso del alcalde de Móstoles",
-      "url": "https://elpais.com/espana/2026-02-06/alfonso-serrano-comparece-tras-la-denuncia-de-acoso-de-una-exconcejal-de-mostoles-contra-el-alcalde-manuel-bautista.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Feb 2026 11:54:26 GMT",
-      "summary": "El ‘número dos’ de Isabel Díaz Ayuso amenaza con denunciar a la exconcejala por la grabación de las reuniones con los cargos del partido"
-    },
-    {
-      "title": "El equipo de Ayuso lanza un bulo para difamar a la mujer que ha denunciado por acoso sexual a un alcalde del PP",
-      "url": "https://elpais.com/espana/madrid/2026-02-06/el-equipo-de-ayuso-lanza-un-bulo-para-difamar-a-la-mujer-que-ha-denunciado-por-acoso-sexual-a-un-alcalde-del-pp.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Feb 2026 11:28:33 GMT",
-      "summary": "Los asesores de la presidenta sostienen que ya denunció con anterioridad por acoso sexual a un compañero de trabajo en Fuenlabrada, pero se trataba de un delito de coacciones que quedó acreditado"
-    },
-    {
-      "title": "La exconcejala de Móstoles denunciará por acoso al alcalde Manuel Bautista en los tribunales",
-      "url": "https://elpais.com/espana/2026-02-06/la-exconcejala-de-mostoles-denunciara-por-acoso-al-alcalde-manuel-bautista.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Feb 2026 10:25:55 GMT",
-      "summary": "El letrado que la acompañó a una de las reuniones anuncia que prepara una acción legal por varios delitos que apuntan a tres altos cargos del PP de Madrid"
-    },
-    {
-      "title": "Más de 30 Estados firman un manifiesto para que la IA en defensa contribuya a la paz - UDG TV",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWlhpZ3dfbkFadFdiTHRvNlFGS2RlX2hyYXhIQ0Rtc1ZGZG4zQmZBZGlVdGhFeXYzV25RNUlBWGg0WjZjUjF0NXdybWM2a194T1JMOFVaX2hDZld0MVQ2SU12T05Nby14a1NyekVBUER5OFp4ZERvbFBXdXgxMW5nTlliX21lY3FzTTRBbEgzVGlUN1pSNUUwT0lTRHBpcTZPVzZv?oc=5",
+      "title": "El Banco de España pide información al sector sobre el uso de la inteligencia artificial - Cinco Días",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzZjZzNuX19zeXRuZ1dCU0NZb1FMMnZmVjV4aDNFeTU3WllHZDQ5cXlWOXBfTzN3aDlIOF9hcjNtQl8wRkxudXFPeHh2QmFvMXVMWk95cjByOW4xaG9MaFotWmNKVlZYZGZpZDJTM3NObjNZdk9lNkVBVW1aQTdKSHo4cTRZMTYwU0VzRVNTUnRGaHV0RzNFN09MamFibUxYRTkyc3BaXzc3eEFVamlTU3FqekZ1d2E0bFJoVGdlcjBQdmZVSDk5RFRKSGxVUV9udmZuUlJmbEpTUzjSAe8BQVVfeXFMUGNtRFNMWk9XbHlRSFNFdjVRU1M2eXhUVG9oalVSblc5aWlGOVFTQVFMX1lZd0Z5emREeUg1Y1I5NnhWR0xrOHA1SWZiamN0YXh3cmd6WE5YeTF5MlMwTDU5OFhVWTJPWnJZeC1NcTJhSktVZE5KbzhEb3ZCajdIeGxKQmhoeXNYZG5CMWNmNmJwcjdsNXFNeERjc1gtNnFFS0Y3WXRIcFBPT194Ung2WmM4N2pyNjRSXzRfOWF5TFMyQ3RuS25CclRyclZZT2dVcGFfVmRkODhJaXBDUnoxclZiMDhUS0gtRUlNQlg4UjA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Feb 2026 18:38:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWlhpZ3dfbkFadFdiTHRvNlFGS2RlX2hyYXhIQ0Rtc1ZGZG4zQmZBZGlVdGhFeXYzV25RNUlBWGg0WjZjUjF0NXdybWM2a194T1JMOFVaX2hDZld0MVQ2SU12T05Nby14a1NyekVBUER5OFp4ZERvbFBXdXgxMW5nTlliX21lY3FzTTRBbEgzVGlUN1pSNUUwT0lTRHBpcTZPVzZv?oc=5\" target=\"_blank\">Más de "
+      "published": "Tue, 03 Feb 2026 04:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzZjZzNuX19zeXRuZ1dCU0NZb1FMMnZmVjV4aDNFeTU3WllHZDQ5cXlWOXBfTzN3aDlIOF9hcjNtQl8wRkxudXFPeHh2QmFvMXVMWk95cjByOW4xaG9MaFotWmNKVlZYZGZpZDJTM3NObjNZdk9lNkVBVW1aQTdKSHo4cTRZMTYwU0VzRVNTUnRGaHV0RzNFN09MamFibUxYRTkyc3BaXzc3eEFVamlTU3FqekZ1d2E0bF"
+    },
+    {
+      "title": "Repindex.AI lanza el primer sistema de reputación corporativa para empresas del IBEX basado en Inteligencia Artificial - El Diario de Madrid",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNakhCRkRndVBmMjlvZUh4cE5VUXhXc3J4NXE4Ql9wcWFIdFgtbWUyMk0xMkM2cTdDWlM3WHJWaFo2a05vLXpQZzFSMUZBTlJjSnFEUVJneDkxMTFFVEVXeXZ4Zjg0eVEwWGFtOUE5WVFfQ1ZvOUNoTE1LZ3VlRnFtdEJIOU9qWTRMalM4Rm5qZzFQNTd2eTV5VEZhZVpZcWRMOGhKTTZNell5LUJGcUJGU202cUwyNGY0YUM4N0ZsX2RNVl9wVFE3eGtueEY0NHR1SWVad1Ytbl81YXJibjRDR1k5V3JSZzJVN0hHbEo3cHpvaDJ2VlhFaWJJcWF0ckNMZm5uSWRCNNIBjAJBVV95cUxQTm9qTFJ2YUlHcGNqUWhTRF9QdFl4bG1pOXpxQW9sZnZvdFpDTTktVHFIbklITUFqNlEwRG8xenJOeG9ib3B6bXF0ZHJnd0xtRzI4SVZfS2d6ZGRiOUZfa205R1U0b3BNWEpMQUYySVp6SldsSjZNYjM2ek9JZi1sNXRPMlVKZUtiNTJRbmRXRUN6UTRYNUcybm5USlljN2d4dmpwRDJ1Sk51dEVFMm5OLUVuQ0g3bXpmeTlCV25lRWN1V0ozYmh1Q24wcTQwUkR4ZTdtUzdUWTYwa0lDVG5QN3VXV0VjZWxZVGw5bllhdFBkeDU2ZEx6Z2NtVDdiS3FyNTNPNUd3bTluR3Fu?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Feb 2026 15:35:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNakhCRkRndVBmMjlvZUh4cE5VUXhXc3J4NXE4Ql9wcWFIdFgtbWUyMk0xMkM2cTdDWlM3WHJWaFo2a05vLXpQZzFSMUZBTlJjSnFEUVJneDkxMTFFVEVXeXZ4Zjg0eVEwWGFtOUE5WVFfQ1ZvOUNoTE1LZ3VlRnFtdEJIOU9qWTRMalM4Rm5qZzFQNTd2eTV5VEZhZVpZcWRMOGhKTTZNell5LUJGcUJGU202cUwyNGY0YU"
     },
     {
       "title": "España reivindica el papel de Naciones Unidas para impulsar un uso responsable de la IA en defensa - Infobae",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQenpldC01dVJHb012X2JwSVNlWnNkUWVqSWVoOXd6SlJkaVAxejZqM3NKa19XR0V6VnBOSDRZWDJyeVFDOXdxaTNlY0labnRVMWRrX245aFJtMDZKLXh5Z25RSnhjdU5hbjRhOEhYODBDUTRoTlk4bE1BVERZU0FYdzYwZFdHdHg0cEY4Z3h3T1hyRW83V0FCb3QwcXJGUUhyVkpQU2NFN200NTRjeGhZaHdVWGl3ZWViN0"
     },
     {
-      "title": "El Banco de España pide información al sector sobre el uso de la inteligencia artificial - Cinco Días",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzZjZzNuX19zeXRuZ1dCU0NZb1FMMnZmVjV4aDNFeTU3WllHZDQ5cXlWOXBfTzN3aDlIOF9hcjNtQl8wRkxudXFPeHh2QmFvMXVMWk95cjByOW4xaG9MaFotWmNKVlZYZGZpZDJTM3NObjNZdk9lNkVBVW1aQTdKSHo4cTRZMTYwU0VzRVNTUnRGaHV0RzNFN09MamFibUxYRTkyc3BaXzc3eEFVamlTU3FqekZ1d2E0bFJoVGdlcjBQdmZVSDk5RFRKSGxVUV9udmZuUlJmbEpTUzjSAe8BQVVfeXFMUGNtRFNMWk9XbHlRSFNFdjVRU1M2eXhUVG9oalVSblc5aWlGOVFTQVFMX1lZd0Z5emREeUg1Y1I5NnhWR0xrOHA1SWZiamN0YXh3cmd6WE5YeTF5MlMwTDU5OFhVWTJPWnJZeC1NcTJhSktVZE5KbzhEb3ZCajdIeGxKQmhoeXNYZG5CMWNmNmJwcjdsNXFNeERjc1gtNnFFS0Y3WXRIcFBPT194Ung2WmM4N2pyNjRSXzRfOWF5TFMyQ3RuS25CclRyclZZT2dVcGFfVmRkODhJaXBDUnoxclZiMDhUS0gtRUlNQlg4UjA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 03 Feb 2026 04:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzZjZzNuX19zeXRuZ1dCU0NZb1FMMnZmVjV4aDNFeTU3WllHZDQ5cXlWOXBfTzN3aDlIOF9hcjNtQl8wRkxudXFPeHh2QmFvMXVMWk95cjByOW4xaG9MaFotWmNKVlZYZGZpZDJTM3NObjNZdk9lNkVBVW1aQTdKSHo4cTRZMTYwU0VzRVNTUnRGaHV0RzNFN09MamFibUxYRTkyc3BaXzc3eEFVamlTU3FqekZ1d2E0bF"
-    },
-    {
       "title": "El pronóstico de la Inteligencia Artificial de Opta para el 'Clásico' de la Supercopa de España - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU85MlMtNVZmTmM?oc=5",
       "source": "Google News",
@@ -75,28 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU"
     },
     {
-      "title": "La IA rediseña los estadios de Real Madrid, Barcelona, PSG, Benfica y muchos más con resultados espectaculares - as.com",
+      "title": "El pronóstico de la inteligencia artificial para la final de la Supercopa entre Barcelona y Real Madrid - El Debate",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWFwdm0wdVVCRVgxdzVVZnB6NEpCRkdXbm8wV1J6U3dHRnVPTHFMdEFMM2tKUXNjYThidjlqdk8yaXhqYURiR2ZTcWxVYlp0RDRWNU96VDRMM0twbERyb2ItWDhBYWRCTWZwVUI0b2lzdFdvVGFET1owOEc0TUlfRTYxbHR5OVluS2hYRGZSUllXTkh2blNyYzhJckdkRFRLNmxUMDY0dGZCZUdNWlIwaTRKUFFhVzZFc1hHaWpiazlSaE1YcU9mZFFxaHRhYWYwYXZaOEtLQdIB3AFBVV95cUxQZWNFZGwxb2l1dDdUa284d1FoaWt3R2VXdzdNVVg4U3ZTTnR0T2xBY0RGZ19kT2VMbmhoQnJGVXg2Y2UweHM3aUt1a3ptZ3JjODgyek5rZUZhMkh2dG1POUNyUXRFMmhTZTE5dUhubFRpdHR0aVBNV3hkRnVfWTJBR1BuUDJHZjRtR3paOVhDYXVnOVoxbEJ2bEhEcFhSVW5VbnRYcTJVWXpROGt5MklaRGt1bjhDUE51eFdzc3g0Q3RjMEFSOE12cWpMYzNJbVJuQ1ZyY0M5S1hqTl9w?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdWFwdm0wdVVCRVgxdzVVZnB6NEpCRkdXbm8wV1J6U3dHRnVPTHFMdEFMM2tKUXNjYThidjlqdk8yaXhqYURiR2ZTcWxVYlp0RDRWNU96VDRMM0twbERyb2ItWDhBYWRCTWZwVUI0b2lzdFdvVGFET1owOEc0TUlfRTYxbHR5OVluS2hYRGZSUllXTkh2blNyYzhJckdkRFRLNmxUMDY0dGZCZUdNWlIwaTRKUFFhVzZFc1"
+    },
+    {
+      "title": "La IA rediseña los estadios de Real Madrid, Barcelona, PSG, Benfica y muchos más con resultados espectaculares - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW9ka2NnU1k3NWd2Y05uR1ZmVnIteVBzTVNwX2hnQnk5aDFM0gHwAUFVX3lxTE9EaVVwS2ViZG9oSDI0enNpMFlVVkNTQlBWVGlrQzZBV0NqZmNSQVpXbzRfR0pabXlzc3NERXJEb2l6Mlg2R250R3VLMjJYNjhLNXIyLXFLWTVjY2tCWG42cktfbzdXN2l3dG5fX2VLOFlKQktLZDhyX21Fb0JfaGtxcFMzSUZQM2pJVUpmblJGOVhlT1pyLTRUTzRVbVBfVjN3UFJaWW81RXhCSHlyUlhXd2RtS0VlVDlhaDRoVjNKWnpmNzFFSWNOZHBSVDY0b3dhLWZCRTJUaGpBbkhMNlZjN0gzVEI1MUJ6eG9ZXzJrcA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 05 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW"
-    },
-    {
-      "title": "El corredor Madrid-Barcelona pierde los últimos trenes del día para mejorar el mantenimiento - Revista Travel Manager",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSENNM1dXS0lHUkdTMkZ6Z0xKTW11eWNmY05HRFI0N3ladEQ3blZwYzVHVm0zV2ZGTWs2VGtvV0I2d21aUHBRMHZTeFA5OTZDQUNCZm8wUzJpZjZXem84NTNBLWljV3hXczJWY0pfM0tTR1lCbDZRb04xclFsUU9NYUxNY3htRWhTd25ISEhtVHp5RmFlWkVRbUVfbEJKVTQwWlZuTFhzb1M2dHRJeEZLQ3Bob0dJZW9GMV9RNkpVVkFOT1RN?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 03 Feb 2026 09:47:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSENNM1dXS0lHUkdTMkZ6Z0xKTW11eWNmY05HRFI0N3ladEQ3blZwYzVHVm0zV2ZGTWs2VGtvV0I2d21aUHBRMHZTeFA5OTZDQUNCZm8wUzJpZjZXem84NTNBLWljV3hXczJWY0pfM0tTR1lCbDZRb04xclFsUU9NYUxNY3htRWhTd25ISEhtVHp5RmFlWkVRbUVfbEJKVTQwWlZuTFhzb1M2dHRJeEZLQ3Bob0dJZW9GMV"
-    },
-    {
-      "title": "Convocatoria para startups tecnológicas en el Caribe 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1hBbzBoV29wbzhUMWZmOS1wbTBGcUppR3J6dDc5TW5RWThZV0R3N3VXQjQyWkFnTWctNTJqMmZhZmF1RkZsVzJSQWU4T3ZCYnI4QTlFRGk2M1ptcV9YV21QUU1nWFZ2SjZaOWRaOWQyQlZNYzd2OXc5THhaVEFITGdqLWxWaWxVTEQxOFNGQzBsQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 01 Feb 2026 05:25:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1hBbzBoV29wbzhUMWZmOS1wbTBGcUppR3J6dDc5TW5RWThZV0R3N3VXQjQyWkFnTWctNTJqMmZhZmF1RkZsVzJSQWU4T3ZCYnI4QTlFRGk2M1ptcV9YV21QUU1nWFZ2SjZaOWRaOWQyQlZNYzd2OXc5THhaVEFITGdqLWxWaWxVTEQxOFNGQzBsQQ?oc=5\" target=\"_blank\">Convocatoria para startups te"
     },
     {
       "title": "Colombia lidera el funding en startups tecnológicas de 2026 - El Ecosistema Startup",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Thu, 31 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
+    },
+    {
+      "title": "El fondo Samaipata cierra 2025 con 17 millones invertidos y foco en la IA de Europa - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bUx0V1I0VjZlLTd4aTJ5c0t3cDJPZjNnTUHSAewBQVVfeXFMUHJlOFVHWDhIWjlyeWVxSGE2RE5GaHROSVhGSmIxVVFZTWZfSXN5MVdUUHhmQkVKUHRtN3JBVzY3bmdDSmMtTW5yZVUwV0ZhUjcyQzdBYWZfaWFTZm5heWhaaGNUd3lseWZFemxXQmxyMm5wQU5ra3RKVTd5Ym9QWXNXZFpsLUpweHNWR2FsQURYV1JfUUJFUHpVQmUzN3d6RTc2T1hLaXFOX2gxTzNTQURLUFpYbkdTZTFuSmhBcTlldENoTnJqc211ZTAySVVDYjNnd0c4Z2pUQ3I4eWx5UlktbXNvS3ZxNTkyZGs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWpPM2JBWFZkNmR5QjJtMGpXYW4xMVM5MDlKOFZDLTk1YnFOZ09lMDVZM0F4YmpLY091MWkyNnozMmp1Vm50UzIwTnZvRmN5cGdjRHQwd2xRSVF5TE5TLTdCS1NrR3FCekIwaldvX3Ewd3lydFNaRUpoSHYwS1dFTTF4Z21qSjZlTmh4M2ZqZVNvQ2c0VzhCNmw5ZG50OGxkTzBpSnY5ZU91dEpDMzFlRzNQUjVsbTN5bU"
     }
   ],
   "count": 14

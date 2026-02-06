@@ -3,11 +3,27 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Para acceder al IMSS, repartidoras deben trabajar jornadas de hasta 14 horas",
-      "url": "https://expansion.mx/tecnologia/2026/02/06/repartidoras-quieran-imss-deben-trabajar-mas-de-14-horas-dia",
+      "title": "Resiste, dura y cumple: así es el Honor Magic8 Lite bajo uso real",
+      "url": "https://expansion.mx/tecnologia/2026/02/06/honor-magic-8-lite-precio-caracteristicas",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Fri, 06 Feb 2026 11:55:32 GMT",
+      "published": "Fri, 06 Feb 2026 16:30:53 GMT",
+      "summary": "Tras casi dos meses de uso real, el Honor Magic8 Lite muestra sus fortalezas en batería, pantalla y resistencia, justo en el segmento donde la marca acelera su crecimiento en Latinoamérica."
+    },
+    {
+      "title": "Google lo confirma: Android será compatible con Airdrop en más dispositivos",
+      "url": "https://expansion.mx/tecnologia/2026/02/06/google-lo-confirma-android-sera-compatible-con-airdrop-en-mas-dispositivos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 16:00:57 GMT",
+      "summary": "El servicio cruzado de QuickShare a AirDrop estuvo disponible por primera vez en Pixel y ahora se ampliará a más teléfonos y gadgets con el sistema operativo Android."
+    },
+    {
+      "title": "Para acceder al IMSS, repartidoras deben trabajar jornadas de hasta 14 horas",
+      "url": "https://expansion.mx/tecnologia/2026/02/06/seguro-imss-repartidores-no-es-igual-mujeres-deben-trabajar-14-horas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Feb 2026 14:43:32 GMT",
       "summary": "Aunque solo 10% de quienes trabajan en plataformas son mujeres, las reglas de acceso al IMSS les exigen generar hasta 147% más ingresos, lo que en la práctica se traduce en jornadas de 12 a 14 horas diarias."
     },
     {
@@ -27,22 +43,6 @@
       "summary": "La firma liderada por Andy Jessy proyectó un gasto de capital de 200,000 millones de dólares en 2026 lo que incrementó el nerviosismo de los inversionistas."
     },
     {
-      "title": "Creadores sin millones de fans ya facturan hasta 250,000 dólares al año",
-      "url": "https://expansion.mx/tecnologia/2026/02/05/creadores-sin-millones-de-fans-ya-facturan-hasta-250-000-dolares-al-ano",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Feb 2026 19:30:24 GMT",
-      "summary": "La economía de los creadores en Latam crece 27.8% al año y ya no depende de redes, sino de vender conocimiento con productos digitales escalables."
-    },
-    {
-      "title": "Meta rompe el modelo gratuito: Facebook e Instagram se preparan para cobrar",
-      "url": "https://expansion.mx/tecnologia/2026/02/05/acebook-instagram-dejaran-de-ser-gratis-meta-suscripciones",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Feb 2026 11:55:16 GMT",
-      "summary": "Tras años dependiendo de la publicidad, la compañía de Zuckerberg prueba un modelo híbrido con suscripciones premium que prometen menos anuncios, más privacidad y funciones avanzadas impulsadas por IA."
-    },
-    {
       "title": "Un paso hacia la regulación ética de la inteligencia artificial en México - La Crónica de Hoy",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVBUVBYV01VRGJ6bFY4OVB6NF95OGpQR1dfNG5QVURmek1VdGtSZG9pOWloaDhUeFBWVXhvRWk3NWJ6WlNfYzJkNEVaVV8tUGZfUHc0SjVzdEdCYXhvY1Q4d1duOWJ6X0kxaTNVVkxWU1VpNkRrd2NNUmdHRk1RNXNDaXFENVBNMkQzTlp3YXh5MExUZmZwSllJNm1nQWFWNFh3OVJHQW5zMmhYSVZ3Wm1uQU16WVBMUl9UYQ?oc=5",
       "source": "Google News",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTml2b2dXQ1ozZjZCT3FCQjVFQTl3Mk5sRzd3LWhzalkwSkVzczZSQjA3SEtPMTA2cjRaRXhUZzFtbEhFVEFxSE01akVvLUdGS2xVRlNUV2tRSlZQT3g5UTlDMzJhWFh1MkJxVTBSdmRHUW9HLXpPWnZOVHQ3Y0RhbHVXRmdNNnNKaEgzOHJ1NThvYVRpUlY4MTQwUGZCRXM0LVdSZFVlNTV5YTZqWXp2ekNXTXdib05oVH"
     },
     {
-      "title": "Critican a la Secretaría de Cultura por la publicación de un video del Santo hecho con IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa1g5XzltUXBneTE3RzZMWTBickstMGl1bmZYdV9tblN5a3JEUF9zbHdrLXY5bDcyVTF2NXlla2wwODRqbVREX0hsaFhRcU1JdjloTkVQVHZWaEI5RnVOYWFHd0F4VFFjX0FwSjNQa3ZaeTFtVkdDdmhGWDZlN0YyVXFRaEdBbjBvNEtvWWpLa1pkbGJRejBIYmttblJMd0p1bHpmYU1EM0phS0tjUkljVmRKaURsYk12TUhiREtCaHB5RTVXYkwxQTF6T1FFNGdjQ0RHdTRZSUzSAfMBQVVfeXFMUFdIaDRtMnloSV9WTlhwVndOZnh0am9GNWI3MHdHb2RZVGdkX0FLNDVPWWYwVUpkZ2dQMllYRWxmUjk1cGt2eTFVTEs4QUZVWmU5WXB4RXRlR1NMdWxEYl85TUpnMEVYMGI0endPM1BQam9hN2pvWlJxUXl3bzUwLWI1akZ5aE9yWHpnUmJ3XzhLNldaS1cyYlV3TDdody1KS2xYcF9vM3pFT2w2Mlc5LTNPNW9qMEJuMzNJMjl6aDhKNlZUVWd2WU5pTUs3RDRlVmh1Wmgyb0kxWUkwQUFtY2M5d25TeTBISFYyYXM1Rll4QWV3?oc=5",
+      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Feb 2026 00:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa1g5XzltUXBneTE3RzZMWTBickstMGl1bmZYdV9tblN5a3JEUF9zbHdrLXY5bDcyVTF2NXlla2wwODRqbVREX0hsaFhRcU1JdjloTkVQVHZWaEI5RnVOYWFHd0F4VFFjX0FwSjNQa3ZaeTFtVkdDdmhGWDZlN0YyVXFRaEdBbjBvNEtvWWpLa1pkbGJRejBIYmttblJMd0p1bHpmYU1EM0phS0tjUkljVmRKaURsYk12TU"
-    },
-    {
-      "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
     },
     {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - El Ecosistema Startup",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Tue, 12 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
+    },
+    {
+      "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
     },
     {
       "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
     },
     {
-      "title": "Monterrey Digital Hub presenta nuevo Clúster de Inteligencia Artificial para acelerar innovación industrial - MexicoIndustry",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYlp4V0U5bVhrNTMyTGVHTEhBVTJZTFpOZkktRkQ0SmFLQQ?oc=5",
+      "title": "Humanidades Digitales: nueva carrera del Tec de Monterrey que integra tecnología y humanismo para abordar desafíos de la IA - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyNDVHdEV5WTY1Q2lGbTJRMEtKY0owdHkzUGJVMnJoUlhwSUF3M255TzNNdXJDNmwyTzRON1RKYXczUU5WTWRHZDA4V3ZzTnZXNEtjQzNnR1lSbmtjNk5ySFRkaG9fekVs?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 14 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRW5rbGhOcWVYOWFHNERHZC15bng5bDBHRTdRWmZiQVp4UlJCSWhHQks1a1AtWkhYbkozdHdueGRkWThnZXN0YTJhallROE9ad3BUV3RGbl9OOTlOaTRtTVhFUVJrb3NlRjRULWVveDZiTlJFRG1mWDBHQ1hjRU8tckZaeXkwaGVRZ0VVYWh4VkRLQUxIajI5RnR6TFpuWThvRGYwdlNZV0Q4T3JmOWF4ejhmeUxlWmhTYl"
+      "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQa0xpUEUtXzROZlhSMjd1d3ZPNnRLRS1ySXdSVHhCRFhvLVJqZnBIbk5kbTJuTFRoWmpudjlBQTh1YlQ0eVl4cHdKalBkMGo0U1gydExONWN1MFhFUnVaamVBQXo3VXN0TkdaSmRld1B0aDJWNDZTWmJFeWhqcE84R1BmUGxEN1ZUQlFtcXMxYUJzUGJhSFlscm5HOUNfNlBvaGRNLVMza2lfZzFhM1NQcThhOVZWSDcyND"
     }
   ],
   "count": 14
