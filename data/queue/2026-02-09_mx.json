@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Más de 4,300 sitios falsos del Mundial ya operan para robar datos y dinero",
+      "url": "https://expansion.mx/tecnologia/2026/02/09/mas-4-300-sitios-falsos-mundial-buscan-robar-datos-usuarios",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Feb 2026 11:55:41 GMT",
+      "summary": "Desde boletos y paquetes turísticos hasta falsas plataformas de streaming, los fraudes digitales ligados al Mundial ya buscan robar datos bancarios y credenciales de usuarios en México y Latinoamérica."
+    },
+    {
+      "title": "Cómo configurar tu Android y iPhone para que reciban la alerta sísmica",
+      "url": "https://expansion.mx/tecnologia/2025/09/19/como-configurar-android-y-iphone-alerta-sismica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 08 Feb 2026 10:50:32 GMT",
+      "summary": "Si el altavoz de tu casa no avisa oportunamente, te explicamos cómo activar la alerta en tu teléfono."
+    },
+    {
       "title": "La IA anticipa estrés y desgaste laboral",
       "url": "https://expansion.mx/tecnologia/2026/02/06/la-ia-anticipa-estres-y-desgaste-laboral",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Tras casi dos meses de uso real, el Honor Magic8 Lite muestra sus fortalezas en batería, pantalla y resistencia, justo en el segmento donde la marca acelera su crecimiento en Latinoamérica."
     },
     {
-      "title": "Google lo confirma: Android será compatible con Airdrop en más dispositivos",
-      "url": "https://expansion.mx/tecnologia/2026/02/06/google-lo-confirma-android-sera-compatible-con-airdrop-en-mas-dispositivos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Feb 2026 16:00:57 GMT",
-      "summary": "El servicio cruzado de QuickShare a AirDrop estuvo disponible por primera vez en Pixel y ahora se ampliará a más teléfonos y gadgets con el sistema operativo Android."
-    },
-    {
-      "title": "Para acceder al IMSS, repartidoras deben trabajar jornadas de hasta 14 horas",
-      "url": "https://expansion.mx/tecnologia/2026/02/06/seguro-imss-repartidores-no-es-igual-mujeres-deben-trabajar-14-horas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Feb 2026 14:43:32 GMT",
-      "summary": "Aunque solo 10% de quienes trabajan en plataformas son mujeres, las reglas de acceso al IMSS les exigen generar hasta 147% más ingresos, lo que en la práctica se traduce en jornadas de 12 a 14 horas diarias."
+      "title": "Inteligencia artificial, turismo y ganadería: tres amenazas para la fauna silvestre - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWFpVU9nd0RTOXZHenFwX3ZkUXRmSC1vWlJXVHJFTEYxZkJIRDlCSnkyY0JQS3VyeWFWYWpvQTVzZ1NBU001WFhHYTFHUDQ0TnRvRWRoUlJzVUs5amd4YlRBQnFzd0pOUE5GTS1oSDNDcGU1Ni00NW5FWTQtdnNUZlp2QUlwODA1OExOZDE1V1pHSGl0ZUMwSFZGUUZGNFlv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 07 Feb 2026 13:24:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWFpVU9nd0RTOXZHenFwX3ZkUXRmSC1vWlJXVHJFTEYxZkJIRDlCSnkyY0JQS3VyeWFWYWpvQTVzZ1NBU001WFhHYTFHUDQ0TnRvRWRoUlJzVUs5amd4YlRBQnFzd0pOUE5GTS1oSDNDcGU1Ni00NW5FWTQtdnNUZlp2QUlwODA1OExOZDE1V1pHSGl0ZUMwSFZGUUZGNFlv?oc=5\" target=\"_blank\">Inteligenci"
     },
     {
       "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
@@ -51,20 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
     },
     {
-      "title": "Google Pixel 10a llega a México para competir fuerte en la gama media-alta - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWJTMUdGMVlDMG5ycDZNMEVoeFZoSkN0dGQwWGRHaS1CcWxsQW15Z1RBd2I4V3c5dDdLSVVmYVpmS3g2NTAwVURBYjdUNGNDSThVRWhhRElyUzR2RDdzY0w4WFNaM25YVURWNFg3Um42d0lYRjlpNlEwUGRjQ3h1S1lHcDNPcW5VMV9PVGpzMENra0lEeW41Yi1yTnR5MEdKSGtDM0ttWXYtN05aN1ZMcFhXVkpoQQ?oc=5",
+      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - unesco.org",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Feb 2026 12:23:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWJTMUdGMVlDMG5ycDZNMEVoeFZoSkN0dGQwWGRHaS1CcWxsQW15Z1RBd2I4V3c5dDdLSVVmYVpmS3g2NTAwVURBYjdUNGNDSThVRWhhRElyUzR2RDdzY0w4WFNaM25YVURWNFg3Um42d0lYRjlpNlEwUGRjQ3h1S1lHcDNPcW5VMV9PVGpzMENra0lEeW41Yi1yTnR5MEdKSGtDM0ttWXYtN05aN1ZMcFhXVkpoQQ?oc="
+      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
     },
     {
-      "title": "Mapa regulatorio de la inteligencia artificial en México - Garrigues",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5",
+      "title": "IA en Startups LATAM: Insights de Riverwood Capital 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0ZqcDVnbTlzRUpZLXFWQVdNMGRCNW1HV0ZkMVNFOGlYSzQyUzhQaEt0bWhpY00tQWFCbU40MXhRQTR6b2xiemVqVTJrbVhjdEtXb2lKaTJQa19IVnBVRkpuejZuVGJTcmZvNTJVVG0yYVZtM0JuWDlmUUYtdXBHcHRvbXhDcG9CVC1KQmZ1NA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPRkU4dkFxSDJBTFlnc3A4OUdEcW1KazhhbThzM0t3WVprLU9YNFk0aWM1eUgzXzRQdHdGcFNZbmh3dE9CSkkxTVh4SFlfVFlKRGZWVWdQWU1pVEc4VFJVbWtGakhLdWpnUERhZWtzOFQ5T2tvd19XdzNsTi1KNnNjcVB0d1dDempid19ibndraDI?oc=5\" target=\"_blank\">Mapa regulatorio de la inteligen"
+      "published": "Mon, 09 Feb 2026 17:49:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0ZqcDVnbTlzRUpZLXFWQVdNMGRCNW1HV0ZkMVNFOGlYSzQyUzhQaEt0bWhpY00tQWFCbU40MXhRQTR6b2xiemVqVTJrbVhjdEtXb2lKaTJQa19IVnBVRkpuejZuVGJTcmZvNTJVVG0yYVZtM0JuWDlmUUYtdXBHcHRvbXhDcG9CVC1KQmZ1NA?oc=5\" target=\"_blank\">IA en Startups LATAM: Insights de"
     },
     {
       "title": "Vambe suma ejecutivos de Cornershop, TikTok y Uber - El Ecosistema Startup",
@@ -83,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
     },
     {
-      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
-    },
-    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
     },
     {
-      "title": "La tecnología transformó la vida en NL; la IA es el paso que sigue - expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbmFmZ0hEOUhhZjhkaTFLTWpmTm5Jdm9xSExHSE05blVtajltQ1lKRXNBQ0dIeHlqNC02MHBRQlIwaWlGeUpjbUJrc3ZkUUgzdGhJYVpnZTBmbGxNam5PMk5OVC1VZzZ4TlJscEhoa3B0RmdSMGpwazIyLUVVR0hHRFZpT1pmeldVUTJ0aDhXczRXajhIUFBsT2NaUmJvYXUtTUhnWUlJR2ZIUUF5YnJPOHBsZ2V1LTg0dw?oc=5",
+      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 13 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmRoN3Z1WGxOUUlpOGhoN1pjSlBiRDFSQkZrOXktT0JnVHBpUlZmSFJpREFsV0xqUGx0eU5mV09mRnNLbnJwakFFQkFEOEZwcVk1TlhVMVU5WU8zbV95cElVcXpvaFJNS19TSmVrM3o0c2RIOE9HTXRoQzliWFp2enByY0hKUkFWYzN3clJFaHc1YTRDaktiWldZWExLMFpVTFp0dkVPc3J3LXhM0gG6AUFVX3lxTFBLbm"
+      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?o"
     }
   ],
   "count": 14
