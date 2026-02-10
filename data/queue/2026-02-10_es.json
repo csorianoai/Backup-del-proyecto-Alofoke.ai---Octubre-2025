@@ -3,12 +3,12 @@
   "country": "es",
   "articles": [
     {
-      "title": "Emmanuel Macron: “La estrategia de doblegarse ante Estados Unidos no da resultados”",
-      "url": "https://elpais.com/internacional/2026-02-10/emmanuel-macron-la-estrategia-de-doblegarse-ante-ee-uu-no-da-resultados.html",
+      "title": "Feijóo defiende sus acuerdos con Vox: “La gente quiere que haya un cambio y lo expresa cada vez que se le consulta”",
+      "url": "https://elpais.com/espana/2026-02-10/el-pp-prefiere-perder-escanos-en-el-congreso-si-una-subida-de-vox-garantiza-la-mayoria-absoluta.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 10 Feb 2026 06:00:00 GMT",
-      "summary": "El presidente francés defiende una Europa soberana ante los ataques de Trump y un panorama de “inestabilidad permanente”"
+      "published": "Tue, 10 Feb 2026 14:22:29 GMT",
+      "summary": "Génova ve preferible perder diputados en beneficio de la ultraderecha y poder gobernar que quedarse en la oposición como en 2023"
     },
     {
       "title": "Felipe González votaría en blanco si sigue Sánchez y ve peor pactar con Bildu que con Vox",
@@ -17,14 +17,6 @@
       "category": "tech",
       "published": "Tue, 10 Feb 2026 11:28:54 GMT",
       "summary": "Defiende que el mejor antídoto para frenar los populismos es que “España funcione, que no funciona”"
-    },
-    {
-      "title": "La paradoja de Aragón: ¿Por qué la derecha no ganaría escaños en unas generales?",
-      "url": "https://elpais.com/espana/elecciones-aragon/2026-02-10/la-paradoja-de-aragon-por-que-la-derecha-no-ganaria-escanos-en-unas-generales.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 10 Feb 2026 04:45:00 GMT",
-      "summary": "La interpolación de las autonómicas a unas generales arroja un resultado curioso: el PSOE cae 7 puntos en votos sin perder escaños, mientras que el PP pierde 2 escaños cayendo solo 2 puntos"
     },
     {
       "title": "Elisa Mouliaá rectifica y mantiene su acusación contra Errejón: “¡Ahora sí voy a ir hasta el final!”",
@@ -40,31 +32,39 @@
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Tue, 10 Feb 2026 12:31:33 GMT",
-      "summary": "El texto, que tiene complicado salir adelante en el Congreso, veta la gestión privada de hospitales públicos con algunas excepciones"
+      "summary": "El texto, que tiene complicado salir adelante en el Congreso, pone la lupa en los conciertos con empresas privadas y los restringe a casos excepcionales"
     },
     {
-      "title": "España ante el reto del talento en la era de la inteligencia artificial - ituser.es",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmdhTm43SVVRLWxSWWFNR3htV2tmXzBhSy1Qbm9mZXVjMldaZHZlNl9XRmlHRkp3amhFaC1Gay1Dajc4TWY0UmRQc0prUnRyUDYwcWM5TXRCbTBsUjg5dHBEcC1iMi0yMk5nWnBjR1laTlJnNld5VWFKblhCMC1Va0xvUW1lZzdteFFQOU5lTldydDVMUERHVlhpRm03STZtN1p2enFJckdPVUF0ZlNBSFVR?oc=5",
+      "title": "Guerra entre el Gobierno y Ayuso por la ley contra la privatización de la sanidad",
+      "url": "https://elpais.com/espana/madrid/2026-02-10/ayuso-acusa-al-gobierno-de-sanchez-de-querer-acabar-con-la-sanidad-con-su-ley-contra-la-privatizacion.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 10 Feb 2026 13:00:36 GMT",
+      "summary": "La presidenta sostiene que el Ejecutivo quiere acabar con el sistema madrileño y Mónica García contesta que solo quiere sacarlo de las “garras especuladoras”"
+    },
+    {
+      "title": "España, a las puertas de sumar otro unicornio de IA: Multiverse negocia una ronda para superar los 1.500... - Xataka",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWS1OdVcxY0hMSlMyejlTejgtcEdoYUJDU0FzbzhSeXFrUTF3VXdZY0FwVFBnNFdhaTZCTlJGMHNMS2w0QXNWTjA3YjRfMWFRQzhObVFqN3ZVd3hEZ1Mzek5lXzdRcjUybFhIZUNGSjA1cHp6VzltcXFRaVZtRDZER3A2NXNwZExpZXJLM3B3Rk9FSS0yTG1kLVVTLVpGZWNxRUljM1E3QzFOYmloM2lEanVTUUUzMV9WWThib0c1US1fMXc1aG0tcEJIYlRJM2c0Z3lpYWVucDlMd9IB3wFBVV95cUxQdEZGSV85Zy1ORXBHcnhrMmZraUhtRGJHcHpHMDNPVE84cmpObmtNcVhWMXFKX0hjLUdETmtURFBwaU1HNHFScmlPUVltNTFsRDlNdFlrMjNDTlNGRXFRMGx0TVpqaEdNc1c3MHNuemFLcmZYczVvT2QyMzJJWWhRVFF2UWlCdFpyYjl6RVpLNVZVaTBpV2hLQWhKaXpKYmFBVllyeW1WN1loSUtWSzNyYmZmOUtOZTVPQ0NQdk9nMGdBVTN1YjZRWGlpbHIxNjhwQVZNeVBGU0lrRDkyUkM4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 10 Feb 2026 09:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmdhTm43SVVRLWxSWWFNR3htV2tmXzBhSy1Qbm9mZXVjMldaZHZlNl9XRmlHRkp3amhFaC1Gay1Dajc4TWY0UmRQc0prUnRyUDYwcWM5TXRCbTBsUjg5dHBEcC1iMi0yMk5nWnBjR1laTlJnNld5VWFKblhCMC1Va0xvUW1lZzdteFFQOU5lTldydDVMUERHVlhpRm03STZtN1p2enFJckdPVUF0ZlNBSFVR?oc=5\" tar"
+      "published": "Tue, 10 Feb 2026 16:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWS1OdVcxY0hMSlMyejlTejgtcEdoYUJDU0FzbzhSeXFrUTF3VXdZY0FwVFBnNFdhaTZCTlJGMHNMS2w0QXNWTjA3YjRfMWFRQzhObVFqN3ZVd3hEZ1Mzek5lXzdRcjUybFhIZUNGSjA1cHp6VzltcXFRaVZtRDZER3A2NXNwZExpZXJLM3B3Rk9FSS0yTG1kLVVTLVpGZWNxRUljM1E3QzFOYmloM2lEanVTUUUzMV9WWT"
+    },
+    {
+      "title": "Los equipos de ventas en España apuestan por la IA - Periodico PublicidAD",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVBzOG1pS1BJdDFTNDYxbzMwemJZYXJITWJicUNIaHJCRlhrM0p1MWFuZzF3cUVaeXI1cjl1Y20xOWFaM0NwcTk0UkNodFhZZjAwbWZDZGVUUDdtOUJZQTZxdzVfbTlLWThCMmJiY25tVWQ1VkVTN1oxVzQzRkl0NTZKS0FSQlBiS2JzT2ZJbDhheDJPdTdMRnV4QVI2MDhybFRBSk01X3JTSDhGam1oNzlJMNIBuAFBVV95cUxPMXBsSVpucmJSb1FseTdqRlY0THVwbzVQb3BVNWlFdmY2OFlJSlhVZTBOODFlWC1jTmFUQkQ2R2pIUXhOWnU5UkcwT24wUmdMczlVWUFnTkZmX19SbjJGZDgxaS1iU0s0VFJQWGN3bjdxcHJqOGlDbV9Ec0pXdHBFZjFmT0NBVk8xMTFrd2tqOThKUnctU2c4bDJPTE9HSmhwSFY0bHFkRC1vdlFrdm1uSXBFcjhsb2JE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 10 Feb 2026 11:18:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVBzOG1pS1BJdDFTNDYxbzMwemJZYXJITWJicUNIaHJCRlhrM0p1MWFuZzF3cUVaeXI1cjl1Y20xOWFaM0NwcTk0UkNodFhZZjAwbWZDZGVUUDdtOUJZQTZxdzVfbTlLWThCMmJiY25tVWQ1VkVTN1oxVzQzRkl0NTZKS0FSQlBiS2JzT2ZJbDhheDJPdTdMRnV4QVI2MDhybFRBSk01X3JTSDhGam1oNzlJMNIBuAFBVV"
     },
     {
       "title": "La inteligencia artificial entra en la decisión de compra del coche eléctrico en España - Redes & Telecom",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlZtLW55c195WVA0Q1JlOXhINnRYM09fZ3N3WXlTNGZBTnNpRkphbnBYMDZZUzZpTFpncHdSN2pmbFV0QkhTUUNvRXdDTGY0TVIwV0xLMHdtNkE2NEJRYkRrc2U1OTJvdGpDODEwZ1M0S2pLSkN5OWNDa1oyUDludGlWeW91QS1DQ0lQUzFkaThJMmpCUUxTSk5uZ1J4Uml6a3o4eDBVazlMbHRKamdWMHh2bXJMM3RkOG1xbU1XUDVYaVlnY09hWmFkSEVMZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 10 Feb 2026 12:20:08 GMT",
+      "published": "Tue, 10 Feb 2026 17:30:19 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTlZtLW55c195WVA0Q1JlOXhINnRYM09fZ3N3WXlTNGZBTnNpRkphbnBYMDZZUzZpTFpncHdSN2pmbFV0QkhTUUNvRXdDTGY0TVIwV0xLMHdtNkE2NEJRYkRrc2U1OTJvdGpDODEwZ1M0S2pLSkN5OWNDa1oyUDludGlWeW91QS1DQ0lQUzFkaThJMmpCUUxTSk5uZ1J4Uml6a3o4eDBVazlMbHRKamdWMHh2bXJMM3RkOG"
-    },
-    {
-      "title": "Escuela de cocina revoluciona su menú con inteligencia artificial en España - Telemundo",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTWsyYlVBZW1ZV2lQNjR4MEZWem50Rkw2V2s4TEZWMDJkUU56SEtlLXgydl9sbkxJeU8tbTVEd0ktWDBqUGdJYTNOTnV6eFRUMk1ud3U2cDFpZ3oxNlkwSmdVX0c4WE1mcC1Ob25WeEZ1dTBSaFF2eGpZMXJ2VjQ2UlNEeWJSaS16aDRvcms3cUFHSVBhN3EyREJMWVIwR2l4eksxUTR6LXc1ZEVqMWYwbTE0aFA0Z0tTV2E5NnJzaG11ZWEwUkdveHJ2S3luQ1FrY0JNTWZVSTFoN3VaWDk5LXp4WjZPZk3SAWRBVV95cUxQYUt1NTdRWEh0a0ZQYkVWd1lraWdsODBhNVo0NVhMak95TExJRDl2UlBpVUY3dUJKV3ZIWmtMYkZJZ2pzY3hYRmZzS3cxay1hWUpJcWdWYzh0VUdqcm9DNEZLMm40?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 09 Feb 2026 05:35:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTWsyYlVBZW1ZV2lQNjR4MEZWem50Rkw2V2s4TEZWMDJkUU56SEtlLXgydl9sbkxJeU8tbTVEd0ktWDBqUGdJYTNOTnV6eFRUMk1ud3U2cDFpZ3oxNlkwSmdVX0c4WE1mcC1Ob25WeEZ1dTBSaFF2eGpZMXJ2VjQ2UlNEeWJSaS16aDRvcms3cUFHSVBhN3EyREJMWVIwR2l4eksxUTR6LXc1ZEVqMWYwbTE0aFA0Z0tTV2"
     },
     {
       "title": "Ni Madrid ni Barcelona: la ciudad donde más va a subir el alquiler según la Inteligencia Artificial - OkDiario",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU"
     },
     {
-      "title": "Cemex invierte en WtEnergy: startup de energía limpia - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMml2YkF3aXUtWnRzS2tkaUhoU0hrVUk1b3VKMDBfY2dQZDRwVEFyc0QwMEJVUlgwWko5d3dLZFBob2VPRW1YYWNwakJSc3NPckthUEFCem5sZDhSVS1wQ3luU0wyZ2k0Wlg5UXNMTmpmY2Q1TE5YQUVWY29VWUtuZ25VcHJTYVh3Zl9z?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 09 Feb 2026 21:28:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMml2YkF3aXUtWnRzS2tkaUhoU0hrVUk1b3VKMDBfY2dQZDRwVEFyc0QwMEJVUlgwWko5d3dLZFBob2VPRW1YYWNwakJSc3NPckthUEFCem5sZDhSVS1wQ3luU0wyZ2k0Wlg5UXNMTmpmY2Q1TE5YQUVWY29VWUtuZ25VcHJTYVh3Zl9z?oc=5\" target=\"_blank\">Cemex invierte en WtEnergy: startup de "
-    },
-    {
       "title": "Cemex invierte en WtEnergy: startup que convierte residuos en energía - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0xFby1Vd0lyaE4xSnR3OFBTUkRjZDhSaHRLam1qaEV5UnZCWWRiU3FZd1hTUE9xNmQ4MGFJZzVtUVpub3lHOWRtX2xGMlRZTjBlTkRSTzFJUDN0UjFVQi1UaGJPcHo0MGs5aEJiVTl5U1E4bVJfOHI4c3hwSzJVOFVTR1FMaWNDeTh3SnBJLTFEMkdIeWxHd0E1SUhzMktR?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 09 Feb 2026 23:52:07 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0xFby1Vd0lyaE4xSnR3OFBTUkRjZDhSaHRLam1qaEV5UnZCWWRiU3FZd1hTUE9xNmQ4MGFJZzVtUVpub3lHOWRtX2xGMlRZTjBlTkRSTzFJUDN0UjFVQi1UaGJPcHo0MGs5aEJiVTl5U1E4bVJfOHI4c3hwSzJVOFVTR1FMaWNDeTh3SnBJLTFEMkdIeWxHd0E1SUhzMktR?oc=5\" target=\"_blank\">Cemex invie"
+    },
+    {
+      "title": "Cemex invierte en WtEnergy: startup de energía limpia - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMml2YkF3aXUtWnRzS2tkaUhoU0hrVUk1b3VKMDBfY2dQZDRwVEFyc0QwMEJVUlgwWko5d3dLZFBob2VPRW1YYWNwakJSc3NPckthUEFCem5sZDhSVS1wQ3luU0wyZ2k0Wlg5UXNMTmpmY2Q1TE5YQUVWY29VWUtuZ25VcHJTYVh3Zl9z?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 09 Feb 2026 21:28:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMml2YkF3aXUtWnRzS2tkaUhoU0hrVUk1b3VKMDBfY2dQZDRwVEFyc0QwMEJVUlgwWko5d3dLZFBob2VPRW1YYWNwakJSc3NPckthUEFCem5sZDhSVS1wQ3luU0wyZ2k0Wlg5UXNMTmpmY2Q1TE5YQUVWY29VWUtuZ25VcHJTYVh3Zl9z?oc=5\" target=\"_blank\">Cemex invierte en WtEnergy: startup de "
     },
     {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
