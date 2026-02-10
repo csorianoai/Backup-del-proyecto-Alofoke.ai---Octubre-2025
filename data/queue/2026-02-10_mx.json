@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Spotify crece 11% en usuarios, gracias al Wrapped 2025",
-      "url": "https://expansion.mx/tecnologia/2026/02/10/spotify-crece-11-en-usuarios-gracias-wrapped-2025",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 10 Feb 2026 16:00:15 GMT",
-      "summary": "La empresa informó un mayor número de usuarios e ingresos, además de admitir que la recopilación anual del 2025 fue la más exitosa en toda la historia de la compañía."
-    },
-    {
       "title": "Moltbook: Cuando las máquinas prefieren hablar entre sí",
       "url": "https://expansion.mx/tecnologia/2026/02/09/moltbook-cuando-las-maquinas-prefieren-hablar-entre-si",
       "source": "Expansión Tecnología",
@@ -43,12 +35,28 @@
       "summary": "La empresa bloqueó el acceso a otros chatbots el mes pasado, lo que la UE considera un movimiento anticompetitivo para priorizar su propio chatbot en su plataforma."
     },
     {
+      "title": "Cómo configurar tu Android y iPhone para que reciban la alerta sísmica",
+      "url": "https://expansion.mx/tecnologia/2025/09/19/como-configurar-android-y-iphone-alerta-sismica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 08 Feb 2026 10:50:32 GMT",
+      "summary": "Si el altavoz de tu casa no avisa oportunamente, te explicamos cómo activar la alerta en tu teléfono."
+    },
+    {
       "title": "Adobe AI Forum México analizó el impacto de la inteligencia artificial en marketing, creatividad y eficiencia empresarial - produ",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNby13VlNsT1VfMi04VkpqRGNyVXQwcVltelJLNEFFS2p2UkFtUDNXaUItZ1lDZVhhUTdqcmY2elROc0NVMWMxdnA5TnVEcG9QV2Z1V3ZSeURVMFVRUHVQMXpIdFQ5ZjhaZ1BuZ180am0zWlFDSE1sMnBXSDd2SVY0TUFSemoza09fS09wbVMwYVVZS0c1V3JTb0wwZUlwbVY0QndMbk1oTmNzaGppN2tLWHJwX3JxX0RzYUdSMzZOYTdvNUhXdjdsa0lhQjBoVHI0cHJIb0NuWDI0dW1ObE1HUWFRM1ZwU29MWlR5NWdHdG01clE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 09 Feb 2026 21:12:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNby13VlNsT1VfMi04VkpqRGNyVXQwcVltelJLNEFFS2p2UkFtUDNXaUItZ1lDZVhhUTdqcmY2elROc0NVMWMxdnA5TnVEcG9QV2Z1V3ZSeURVMFVRUHVQMXpIdFQ5ZjhaZ1BuZ180am0zWlFDSE1sMnBXSDd2SVY0TUFSemoza09fS09wbVMwYVVZS0c1V3JTb0wwZUlwbVY0QndMbk1oTmNzaGppN2tLWHJwX3JxX0RzYU"
+    },
+    {
+      "title": "La resistencia comunitaria crece en el valle de los centros de datos de México - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdkV19fTm5Edm9xVFJ1OElmNEhFRHV2VjB5S3ZTdF9pbjVHWGE2bEp6RW16b3pMNnd2TVZoU2paSkhOUVlWZ0xSLUptODVNR3IwQ21vWHE5LTBFM3ZyVnJPcnZ0ZHl2dXFHOHJfc0lhR3VpMFZ1amgzQlZnZjZ2b05ZeU5xSnlhOEZWazVHN0t1WmpSRDBwQ1c1aUV4dmhGU3VmeHBubURqY2NlRWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 10 Feb 2026 22:21:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXdkV19fTm5Edm9xVFJ1OElmNEhFRHV2VjB5S3ZTdF9pbjVHWGE2bEp6RW16b3pMNnd2TVZoU2paSkhOUVlWZ0xSLUptODVNR3IwQ21vWHE5LTBFM3ZyVnJPcnZ0ZHl2dXFHOHJfc0lhR3VpMFZ1amgzQlZnZjZ2b05ZeU5xSnlhOEZWazVHN0t1WmpSRDBwQ1c1aUV4dmhGU3VmeHBubURqY2NlRWc?oc=5\" target=\""
     },
     {
       "title": "Solo 6% de empresas captura valor alto con inteligencia artificial en América Latina - El Economista",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTHVyYVhBMzZQX0JUN0c1aU82UzFsOXBsbkNHOEhrSDRaTDd3S29VeEhqOXNhUE5GdEJZampFcTBsV3lzTXF6Yi1NU0FCOVhkOU9Tanp4QldSamNIQkZ2T0YxLVpmRURfZ0pSc3NjTlpLZTJtQkJuQWtJVTJMWVV6cXNURnlhMEhuN1VHSzd4dVRQV2JfYk5UTWE4dVNkYkwwUnVUYWxtcVpfZFFCYzNIOXpnX25TQm1RZE"
     },
     {
-      "title": "México pone en marcha el mayor Centro Público de Formación en Inteligencia Artificial de Latinoamérica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk53NW5wZDFFYWtrSnNnSDVfTng0QWpZOG1UNEdpMUZTV3NpWlHSAfgBQVVfeXFMTnRPd3dsRXJMYVJkQzBCMXFHQW1RdWk3N0pRUDhMMjB5c0VrTlRTM2o5d0Uwa2padEJ3X0F4U2Q4VFpQR2FRYVF3dXBwNHBXZ1poWkNpNHNyMDE5a1NLSl9tczExTFFoTVRTZHJ4LTRuT241c1ZLbUwtNG01M2kwazZ5Qy12cVRYWXV4SFlSdkRzLWdSWURaaC1CNkNEOXplRGNYN2JVZEVMNm1kaFZRSEJMcWpPMVNJVUFMbWdSWVhtXzFRamcwbnh1S1RCN1U3a3hEeTF1cDhrcEhaLW1fZF8ySDh1Vk5Rci1POHU4TTMwMkNNdmNUcjc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTU15d3VvTmtCS09HSnFmNi05QmpiSjluc3g0MUswTGlOcm9xbDlWbGRRSGFrb2tpVk1XVzhVT2FrcDc2MkFOSmlqN0JrTzktWXhOcWE5RmdGQzJpd2ozRkNlbDNaWElJbi02OE1HTG4zaVZ5ODZ3U28xdFFwV1JKM2xvaUtVM3JFbU1EUUpkcE9QN0F5QjFKQmpGS0xqVGVBeVBLdXdWeFg4WnZteEE1VVBSclowQ3BjRk"
-    },
-    {
       "title": "IA en Startups LATAM: Insights de Riverwood Capital 2026 - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0ZqcDVnbTlzRUpZLXFWQVdNMGRCNW1HV0ZkMVNFOGlYSzQyUzhQaEt0bWhpY00tQWFCbU40MXhRQTR6b2xiemVqVTJrbVhjdEtXb2lKaTJQa19IVnBVRkpuejZuVGJTcmZvNTJVVG0yYVZtM0JuWDlmUUYtdXBHcHRvbXhDcG9CVC1KQmZ1NA?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa0ZqcDVnbTlzRUpZLXFWQVdNMGRCNW1HV0ZkMVNFOGlYSzQyUzhQaEt0bWhpY00tQWFCbU40MXhRQTR6b2xiemVqVTJrbVhjdEtXb2lKaTJQa19IVnBVRkpuejZuVGJTcmZvNTJVVG0yYVZtM0JuWDlmUUYtdXBHcHRvbXhDcG9CVC1KQmZ1NA?oc=5\" target=\"_blank\">IA en Startups LATAM: Insights de"
     },
     {
-      "title": "Vambe suma ejecutivos de Cornershop, TikTok y Uber - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWkwX2hNelFFbW5WdTNyVUVzU1BEQm5TWGk4MFRBTmFvc2pBVkk0UHFaandKbWRsWm1uUHhSdXhMQXNaeTlRU2FnWU5lTjlXZ01Yb0JUajdVeGNJN3g0Q3FQdkMwZkYtRHdkbVRoajNZSmwxcGs1YlRKMGxqUUVtb0k1ZGhLUVk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Feb 2026 18:24:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWkwX2hNelFFbW5WdTNyVUVzU1BEQm5TWGk4MFRBTmFvc2pBVkk0UHFaandKbWRsWm1uUHhSdXhMQXNaeTlRU2FnWU5lTjlXZ01Yb0JUajdVeGNJN3g0Q3FQdkMwZkYtRHdkbVRoajNZSmwxcGs1YlRKMGxqUUVtb0k1ZGhLUVk?oc=5\" target=\"_blank\">Vambe suma ejecutivos de Cornershop, TikTok "
-    },
-    {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 07 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
+    },
+    {
+      "title": "Velocitor X-1: El Vehículo Aéreo Autónomo Contra Atascos - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWZYSUhwOVJRRmUtUXZsZWxWdW42eEE3SWJJYXh1LW1rdF91bkNiNmlWbjd4dG9ZdVRDaW5mN2YyQUMzTHBONldwYzdvdGtRRWd6V1czRnI4UjhhUFFGekdpeXJ1ZldSVlU1cENWcjh5UDNnN2NrenlFbDZkZkVwS3RWcU53VHZiejNZRXJxMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 07 Feb 2026 21:53:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWZYSUhwOVJRRmUtUXZsZWxWdW42eEE3SWJJYXh1LW1rdF91bkNiNmlWbjd4dG9ZdVRDaW5mN2YyQUMzTHBONldwYzdvdGtRRWd6V1czRnI4UjhhUFFGekdpeXJ1ZldSVlU1cENWcjh5UDNnN2NrenlFbDZkZkVwS3RWcU53VHZiejNZRXJxMA?oc=5\" target=\"_blank\">Velocitor X-1: El Vehículo Aéreo "
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco.org",
