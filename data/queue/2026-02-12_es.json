@@ -3,6 +3,30 @@
   "country": "es",
   "articles": [
     {
+      "title": "Delcy Rodríguez, sobre María Corina Machado: “Si vuelve, tendrá que responder ante Venezuela”",
+      "url": "https://elpais.com/america/2026-02-12/delcy-rodriguez-sobre-maria-corina-machado-si-vuelve-tendra-que-responder-ante-venezuela.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Feb 2026 16:38:49 GMT",
+      "summary": "La sucesora de Nicolás Maduro afirma que ya contempla una visita a Estados Unidos"
+    },
+    {
+      "title": "Sheinbaum responde a Ayuso, que equiparó el Gobierno de México con la dictadura cubana: “Es totalmente falso lo que dice”",
+      "url": "https://elpais.com/mexico/2026-02-12/sheinbaum-responde-a-ayuso-por-su-comparacion-del-gobierno-de-mexico-con-la-dictadura-cubana-es-absolutamente-falso.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Feb 2026 14:37:06 GMT",
+      "summary": "La presidenta mexicana defiende el proyecto político de la Cuarta Transformación como propio y recuerda que en su país hay libertad de expresión y de prensa"
+    },
+    {
+      "title": "El infierno de Salma, secuestrada en Murcia: 22 meses de golpes, agresiones sexuales y vejaciones",
+      "url": "https://elpais.com/sociedad/2026-02-12/una-mujer-secuestrada-en-murcia-logra-escapar-tras-dos-anos-desaparecida.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Feb 2026 13:01:34 GMT",
+      "summary": "Una mujer denuncia que ha estado dos años retenida en una vivienda de la huerta murciana. La Policía detiene al captor y a dos vecinos por encubrimiento"
+    },
+    {
       "title": "El PSOE hace un gesto a Junts y aprueba la norma que endurece el castigo a la reincidencia de delitos leves",
       "url": "https://elpais.com/espana/2026-02-12/el-congreso-aprueba-la-ley-que-castiga-la-multirreincidencia-de-delitos-leves.html",
       "source": "El País Tecnología",
@@ -11,36 +35,20 @@
       "summary": "Los socialistas sacan la reforma con la derecha entre duras críticas de Sumar y la abstención de ERC"
     },
     {
-      "title": "Igualdad propone demandar a las webs de vientres de alquiler señaladas por la Fiscalía",
-      "url": "https://elpais.com/sociedad/2026-02-12/igualdad-propone-demandar-a-las-webs-de-vientres-de-alquiler-senaladas-por-la-fiscalia.html",
+      "title": "Pedro Sánchez hará su cuarto viaje a China a mediados de abril para buscar alternativas a Trump",
+      "url": "https://elpais.com/espana/2026-02-12/sanchez-hara-su-cuarto-viaje-a-china-a-mediados-de-abril-para-buscar-alternativas-a-trump.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 12 Feb 2026 12:35:25 GMT",
-      "summary": "El ministerio público pidió esta semana al departamento de Ana Redondo que bloquee esas páginas por considerar que incurren en “publicidad ilícita” de una práctica prohibida en España"
+      "published": "Thu, 12 Feb 2026 17:54:25 GMT",
+      "summary": "El presidente opta por una gran conexión con el régimen de Xi Jinping para abrir paso a las empresas españolas y buscar inversiones"
     },
     {
-      "title": "Gabriel Rufián: “Soy independentista, pero tengo miedo como demócrata”",
-      "url": "https://elpais.com/espana/2026-02-12/gabriel-rufian-soy-independentista-pero-tengo-miedo-como-democrata.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Feb 2026 04:30:01 GMT",
-      "summary": "El portavoz de ERC en el Congreso promete hacer “todo lo posible” para frenar a la derecha. Y asume los riesgos políticos: “Si me cuesta el cargo, peores trabajos he tenido”"
-    },
-    {
-      "title": "Operación Rufián: pros y contras de un frente de izquierdas con nombre y apellido",
-      "url": "https://elpais.com/videos/2026-02-12/operacion-rufian-pros-y-contras-de-un-frente-de-izquierdas-con-nombre-y-apellido.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Feb 2026 04:15:00 GMT",
-      "summary": "El ascenso de la ultraderecha pone el foco en la necesidad de una movilización del espacio político a la izquierda del PSOE, agitada ahora por el portavoz de ERC en el Congreso"
-    },
-    {
-      "title": "Ayuso hace cantar a la bancada del PP para defenderse de las críticas por el alcalde de Móstoles: “Son unos tristes”",
-      "url": "https://elpais.com/espana/madrid/2026-02-12/ayuso-comparece-en-la-asamblea-en-plena-guerra-con-pedro-sanchez-y-tras-enviar-un-video-a-mar-a-lago.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Feb 2026 08:44:25 GMT",
-      "summary": "La presidenta reniega ahora de Trump y dice que la medalla no se la otorga a él sino a una nación “ya sea de republicanos o democrátas”"
+      "title": "Portaltic.-Lenovo lidera la venta de PC en España con un 35,2% y destaca los ingresos generados por los dispositivos con IA - Notimérica",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZEZZdGVLbVdkVEMxRVg3UzEydTdZTWZiOGpNcm93NWJCWmxrTnVQR2l3SlpVcGoxY3RoVTVmcWduVUJQeENLdm85YWVpVlJRWWw5cElKOWVUX2RXY3FKaGdQSklxeEtCemxyRk9ZcjNYNm5TY1pDLWQ3TGhiazdjY3JMOHFFSTZfNkpYSkhDN1g0QjJMZE5MWVdpSFlFdUFKN25UQVBpdUtwc0tmVTdQTGtWeHVQQzFFYzZEYTgzRF9OZVF6cXVKZkFFcG5LcDNkUk5lRVpYSDl4VU1tbm56Tkd2RHNyWFVnWUd4OVNMakFDZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Feb 2026 15:44:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZEZZdGVLbVdkVEMxRVg3UzEydTdZTWZiOGpNcm93NWJCWmxrTnVQR2l3SlpVcGoxY3RoVTVmcWduVUJQeENLdm85YWVpVlJRWWw5cElKOWVUX2RXY3FKaGdQSklxeEtCemxyRk9ZcjNYNm5TY1pDLWQ3TGhiazdjY3JMOHFFSTZfNkpYSkhDN1g0QjJMZE5MWVdpSFlFdUFKN25UQVBpdUtwc0tmVTdQTGtWeHVQQzFFYz"
     },
     {
       "title": "Que no te engañen haciéndose pasar por Brad Pitt: el Banco de España avisa del auge de estafas amorosas con inteligencia artificial en redes sociales - Infobae",
@@ -51,36 +59,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQNFVNY1U0R2xkTUdQLUx3ZzlmMWJHenh4QWtMSG5mUXhBQV9zVnBYZ2FQX0E1Z2Y5a2c3NllDMnVBNUsyNjgyOXg1a0ZmWnRJWGVxZlNVTUdKNHdxN1kzUWFsX1gzcWFHa1I2MG40MUJWaTFnZF9abWZvb0xCbXdUaFNMcUVtVjhfNkJ3WGctaFBYZnBsTmVySnN1dWpzN1RaMjF0dnBkQ3RnYVNXeDJRZEw4YXg5bTVHUW"
     },
     {
-      "title": "Amazon Ads lanza “Creative Agent” en España, un chatbot para crear anuncios - Reason Why",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFpzVzk3bHBCRk1yVjFXNjRfTG9JSWdfeWxyczJlek01M3VRdnFveEk2WGYzZ2N1eEl3SDZXTE1uWVNBeFlBUmswZmlyR1RfUlE4OHY1UGxKdnhqS0xvcHhLckNRdVByN0U0QURWZ0dZUVZEbl8zYTdHYjZfNUx2Q2lnSnJXR19vZUx0Y0oyaUo4TXhMa1pkYjJpaEJ2T011Sy04M2djeThBSnJ2LWF6cFFTb3ZqUFJwdmRUZUJUZUt0TEh6cnc?oc=5",
+      "title": "De Colombia a España: lecciones comparadas para la regulación del uso judicial de la inteligencia artificial - Economist & Jurist",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcGZTQmIzMExuR1FYeHpuWFlkM2daMnVKbk1ES0RTUE9MSVF4UGUwUHdMamtfYjhEWjJ6cGpKbHZaZ2dnLW56SmE0ZGZOaHdZbm5Rc3VKRTZ5LWJwZTY0T01wTFZXc1VfVVF2V3VTZjhyT21ISnRrRVFJdHdFNmZRTDgzRERmaU5adDNraGZVQnN4R3VzaGhoNVpwNlFUZHpMZ0lqRklIajEwNEU1Z0FaUEdNZWVacTN3Rm9sSDVaZkkybTgzQjVyZ0owWThMbzYzVFpPLWs2ZnNISkRCNUl6T2w2eXFuNUpLRXFXcFJWZHhObEVzbXRjSHpUeU1tY3c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Feb 2026 07:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFpzVzk3bHBCRk1yVjFXNjRfTG9JSWdfeWxyczJlek01M3VRdnFveEk2WGYzZ2N1eEl3SDZXTE1uWVNBeFlBUmswZmlyR1RfUlE4OHY1UGxKdnhqS0xvcHhLckNRdVByN0U0QURWZ0dZUVZEbl8zYTdHYjZfNUx2Q2lnSnJXR19vZUx0Y0oyaUo4TXhMa1pkYjJpaEJ2T011Sy04M2djeThBSnJ2LWF6cFFTb3ZqUFJwdm"
-    },
-    {
-      "title": "El Banco de España pide información al sector sobre el uso de la inteligencia artificial - Cinco Días",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzZjZzNuX19zeXRuZ1dCU0NZb1FMMnZmVjV4aDNFeTU3WllHZDQ5cXlWOXBfTzN3aDlIOF9hcjNtQl8wRkxudXFPeHh2QmFvMXVMWk95cjByOW4xaG9MaFotWmNKVlZYZGZpZDJTM3NObjNZdk9lNkVBVW1aQTdKSHo4cTRZMTYwU0VzRVNTUnRGaHV0RzNFN09MamFibUxYRTkyc3BaXzc3eEFVamlTU3FqekZ1d2E0bFJoVGdlcjBQdmZVSDk5RFRKSGxVUV9udmZuUlJmbEpTUzjSAe8BQVVfeXFMUGNtRFNMWk9XbHlRSFNFdjVRU1M2eXhUVG9oalVSblc5aWlGOVFTQVFMX1lZd0Z5emREeUg1Y1I5NnhWR0xrOHA1SWZiamN0YXh3cmd6WE5YeTF5MlMwTDU5OFhVWTJPWnJZeC1NcTJhSktVZE5KbzhEb3ZCajdIeGxKQmhoeXNYZG5CMWNmNmJwcjdsNXFNeERjc1gtNnFFS0Y3WXRIcFBPT194Ung2WmM4N2pyNjRSXzRfOWF5TFMyQ3RuS25CclRyclZZT2dVcGFfVmRkODhJaXBDUnoxclZiMDhUS0gtRUlNQlg4UjA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 03 Feb 2026 04:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzZjZzNuX19zeXRuZ1dCU0NZb1FMMnZmVjV4aDNFeTU3WllHZDQ5cXlWOXBfTzN3aDlIOF9hcjNtQl8wRkxudXFPeHh2QmFvMXVMWk95cjByOW4xaG9MaFotWmNKVlZYZGZpZDJTM3NObjNZdk9lNkVBVW1aQTdKSHo4cTRZMTYwU0VzRVNTUnRGaHV0RzNFN09MamFibUxYRTkyc3BaXzc3eEFVamlTU3FqekZ1d2E0bF"
+      "published": "Thu, 12 Feb 2026 13:52:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcGZTQmIzMExuR1FYeHpuWFlkM2daMnVKbk1ES0RTUE9MSVF4UGUwUHdMamtfYjhEWjJ6cGpKbHZaZ2dnLW56SmE0ZGZOaHdZbm5Rc3VKRTZ5LWJwZTY0T01wTFZXc1VfVVF2V3VTZjhyT21ISnRrRVFJdHdFNmZRTDgzRERmaU5adDNraGZVQnN4R3VzaGhoNVpwNlFUZHpMZ0lqRklIajEwNEU1Z0FaUEdNZWVacTN3Rm"
     },
     {
       "title": "¿Cuándo juega, cómo y dónde ver al Barcelona? Día, hora, canal de TV y streaming online del partido vs. Atlético de Madrid por la Copa del Rey - sportingnews.com",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi1rSUZBVDdqeGluZEs4TFJVazcwRW5ncW1oMHU1d1lTTUlYNlhuT3Y4WThOTEYzNXM1S1U2emdkUk02Nnd0M2QzZF9GN3d1b1MwRUhacWl3R1lFWm0wLXFHYjA4TGxxWXRVdWJMOGdpQlZPM3kxdHlWV3c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Feb 2026 12:51:15 GMT",
+      "published": "Thu, 12 Feb 2026 11:21:09 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi"
     },
     {
-      "title": "La clasificación final de LaLiga de España según la Inteligencia Artificial, tras el empate del Real Madrid - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhzTHZNTjVITmVndlAtRVpkeHZ4aFlkUlY3dVV2bFo0VDNxNjUtWXBaMF9vTHUzaEQtandfd0pOd1RiU1lZbUg3blhRZkxTbDJyTEVGTE5aQU5kaEtMaHo2WnFqYXQ2M0Z2ZGZaVk1IM3J5S3A2OC00dnZXTFpzT1o1V2JRN0xTVmZQQzU2ZENSaXB1LW5Rdnc3dDFCb3YtcWhpUzl4bHpJaUFCM0JDSGhZaWZMRHJONk9Wajlwak0tVGlmM1FFV2V2bVpwNkdQdVRaQg?oc=5",
+      "title": "El pronóstico de la Inteligencia Artificial de Opta para el 'Clásico' de la Supercopa de España - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU85MlMtNVZmTmM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 01 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNzhzTHZNTjVITmVndlAtRVpkeHZ4aFlkUlY3dVV2bFo0VDNxNjUtWXBaMF9vTHUzaEQtandfd0pOd1RiU1lZbUg3blhRZkxTbDJyTEVGTE5aQU5kaEtMaHo2WnFqYXQ2M0Z2ZGZaVk1IM3J5S3A2OC00dnZXTFpzT1o1V2JRN0xTVmZQQzU2ZENSaXB1LW5Rdnc3dDFCb3YtcWhpUzl4bHpJaUFCM0JDSGhZaWZMRHJONk"
+      "published": "Sat, 10 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU"
     },
     {
       "title": "La IA rediseña los estadios de Real Madrid, Barcelona, PSG, Benfica y muchos más con resultados espectaculares - Diario AS",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
     },
     {
-      "title": "Cinco startups 'insurtech' que reinventan el sector seguros con tecnología e innovación - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeklhSXY4dVJhUE03SEdCckwtd2t3eExqMUdhNGdtVDZaQjJjQmllQTVDWVZ2Tk5PTVo3eTRyNDAtbGVOeGxGdEVfd3owREc0MlJlQU5ZQkJ5NXA4NE5QNXRpVW9tSnRJVEVmTXBFdU1wemNqYmpybkhkMU14d1lya09hX2QtWTRRMlhVeDZJb1FCUXlMMTdoXzM1NTIzMnF4OVI0RUdCbHRfU1lERGxEbmtwWk5tTE50R1hkUV9n?oc=5",
+      "title": "Cemex invierte en WtEnergy: startup que convierte residuos en energía - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0xFby1Vd0lyaE4xSnR3OFBTUkRjZDhSaHRLam1qaEV5UnZCWWRiU3FZd1hTUE9xNmQ4MGFJZzVtUVpub3lHOWRtX2xGMlRZTjBlTkRSTzFJUDN0UjFVQi1UaGJPcHo0MGs5aEJiVTl5U1E4bVJfOHI4c3hwSzJVOFVTR1FMaWNDeTh3SnBJLTFEMkdIeWxHd0E1SUhzMktR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 24 May 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNeklhSXY4dVJhUE03SEdCckwtd2t3eExqMUdhNGdtVDZaQjJjQmllQTVDWVZ2Tk5PTVo3eTRyNDAtbGVOeGxGdEVfd3owREc0MlJlQU5ZQkJ5NXA4NE5QNXRpVW9tSnRJVEVmTXBFdU1wemNqYmpybkhkMU14d1lya09hX2QtWTRRMlhVeDZJb1FCUXlMMTdoXzM1NTIzMnF4OVI0RUdCbHRfU1lERGxEbmtwWk5tTE50R1"
+      "published": "Mon, 09 Feb 2026 23:52:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ0xFby1Vd0lyaE4xSnR3OFBTUkRjZDhSaHRLam1qaEV5UnZCWWRiU3FZd1hTUE9xNmQ4MGFJZzVtUVpub3lHOWRtX2xGMlRZTjBlTkRSTzFJUDN0UjFVQi1UaGJPcHo0MGs5aEJiVTl5U1E4bVJfOHI4c3hwSzJVOFVTR1FMaWNDeTh3SnBJLTFEMkdIeWxHd0E1SUhzMktR?oc=5\" target=\"_blank\">Cemex invie"
     }
   ],
   "count": 14
