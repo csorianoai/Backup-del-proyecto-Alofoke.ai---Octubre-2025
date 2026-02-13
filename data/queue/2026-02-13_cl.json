@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Tragedia en Brasil: funcionario de Itumbiara mata a su hijo mayor, hiere al menor y se suicida",
+      "url": "https://www.latercera.com/tendencias/noticia/tragedia-en-brasil-funcionario-de-itumbiara-mata-a-su-hijo-mayor-hiere-al-menor-y-se-suicida/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Feb 2026 19:03:10 +0000",
+      "summary": "El secretario de Gobierno del municipio de Itumbiara disparó contra sus dos hijos durante la madrugada, el menor permanece en estado grave. Antes del crimen, publicó mensajes en redes sociales en los que aludía a una crisis matrimonial y a una presunta infidelidad."
+    },
+    {
       "title": "Caso Nancy Guthrie: los nuevos detalles que entregó el FBI sobre el sospechoso de su desaparición",
       "url": "https://www.latercera.com/tendencias/noticia/caso-nancy-guthrie-los-nuevos-detalles-que-entrego-el-fbi-sobre-el-sospechoso-de-su-desaparicion/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "El portaaviones ha sido descrito por la Marina estadounidense como “la plataforma de combate más capaz, versátil y letal del mundo”. Se unirá al USS Abraham Lincoln y a otros nueve buques de guerra que ya operan en la región."
     },
     {
-      "title": "Cómo saber si me relaciono con un narcisista patológico para evitar vínculos dañinos, según la psicóloga Lita Donoso",
-      "url": "https://www.latercera.com/tendencias/noticia/como-saber-si-me-relaciono-con-un-narcisista-patologico-para-evitar-vinculos-daninos-segun-la-psicologa-lita-donoso/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Feb 2026 09:03:00 +0000",
-      "summary": "En su nuevo libro, Narcisismo: la pandemia del siglo XXI, la autora hace un análisis exhaustivo de este fenómeno en la sociedad y comparte una serie de claves para “sanar heridas y recuperar el poder personal”. En esta entrevista, aborda cómo identificar los vínculos que afectan a nuestro bienestar."
-    },
-    {
       "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
