@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El agotamiento digital golpea a las dating apps: crecen los ingresos, cae el entusiasmo",
+      "url": "https://expansion.mx/tecnologia/2026/02/13/el-agotamiento-digital-golpea-a-las-dating-apps-crecen-los-ingresos-cae-el-entusiasmo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Feb 2026 11:55:29 GMT",
+      "summary": "Match y Bumble sostienen ingresos monetizando a menos usuarios, en un entorno de caída de suscriptores y mayores costos de adquisición."
+    },
+    {
+      "title": "Jüsto volvió: así es comprar en la app tras su regreso a México",
+      "url": "https://expansion.mx/tecnologia/2026/02/12/que-cambio-comprar-justo-supermercado",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Feb 2026 23:15:14 GMT",
+      "summary": "La app cerró en diciembre y regresó tras una ronda de financiamiento; con algunos productos aún ausentes, esta fue la experiencia de volver a comprar."
+    },
+    {
       "title": "Sony va por Apple: así son los nuevos WF-1000XM6",
       "url": "https://expansion.mx/tecnologia/2026/02/12/sony-va-por-apple-nuevos-wf-1000xm6",
       "source": "Expansión Tecnología",
@@ -27,23 +43,7 @@
       "summary": "Los anillos inteligentes apuestan por tener data exacta desde tu dedo y no tu muñeca, pues la precisión es mayor y el rendimiento de batería."
     },
     {
-      "title": "Las redes sociales no crean adicción, solo enganchan, dice el líder de Instagram",
-      "url": "https://expansion.mx/tecnologia/2026/02/12/redes-sociales-adiccion-enganchan-lider-instagram",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Feb 2026 16:15:45 GMT",
-      "summary": "En el juicio contra Meta y Google, Adam Mosseri rechazó que Instagram genere “adicción clínica” en menores y defendió que el uso problemático es algo personal."
-    },
-    {
-      "title": "La healthtech en México acelera: apuesta por bajar costos en obesidad y diabetes",
-      "url": "https://expansion.mx/tecnologia/2026/02/12/salud-tecnologia-diabetes-reducen-costo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Feb 2026 11:55:07 GMT",
-      "summary": "El mercado mexicano de tecnologías aplicadas a la salud ya vale 1,200 millones de dólares. Startups como Clivi usan datos e IA para reducir costos y mejorar el control metabólico en enfermedades crónicas."
-    },
-    {
-      "title": "Iniciativa de ley busca proteger a actores de doblaje contra la Inteligencia Artificial en México - Infobae",
+      "title": "Iniciativa de ley busca proteger a actores de doblaje en México contra la Inteligencia Artificial - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0lvRmhKR2dNWUVNamJFbVF0LXNqSGRLNHNhbk1vcW5RR3dHTWZkRGhHbkxuSm81N3pWQjJ2UVc2dGhmekdzS3RNbXJobl9PRGVjWGxicG1mR0xzLWNkM2tOclp3ZjEwUElXa295OTF3SUhHWlpsbWRsMXlKeF9qSWxRSlItdXFqTUw0NDNaQmE5V1dEZ3FDWGhub3NiNmNrUDlFbVFSYUlLYUFOTDZNbXlTcVZ2YTVBNEJQUWozNkVYeEhTOWpZZE91MFhJaE9KUDgyZDZwa9IB8gFBVV95cUxOQkEzU3ZfY29IOWE5Z2xDa3dzdE1yNVFyVkNSSnp1bEpva2dmVXFKTXdFZ1ZXYXJrdUNIaUk0SFRvRzZoczhFUTZWWGlpZGhQNU1lWW5xcE9LV0pOdGJWZjJqWnRLdkFjSlk2Sk1NcVp4UFQ4U0VCc3VLdmdPbVlWZDlJM2pncFVieEFaRzUyUC1VR3diMXNhdXZTVXdrUzV6V003Q0libGdSNC1fN0FtUVdOTnVWOGxMdUUwVnhSNkV0VTM4cjFJTmRPZ3RoTWpsNTdSWmVpRkc1aTROdzk5R1Z1eEtVVjRfRzJWYVlSWVFqQQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -51,28 +51,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0lvRmhKR2dNWUVNamJFbVF0LXNqSGRLNHNhbk1vcW5RR3dHTWZkRGhHbkxuSm81N3pWQjJ2UVc2dGhmekdzS3RNbXJobl9PRGVjWGxicG1mR0xzLWNkM2tOclp3ZjEwUElXa295OTF3SUhHWlpsbWRsMXlKeF9qSWxRSlItdXFqTUw0NDNaQmE5V1dEZ3FDWGhub3NiNmNrUDlFbVFSYUlLYUFOTDZNbXlTcVZ2YTVBNE"
     },
     {
-      "title": "México presenta decálogo ético para regular el uso de la inteligencia artificial - Alianza de Medios MX",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzRFTTBmekFoQl85ZzRvQVVtcFVYRXNBbDR5R3RpRUpocGx4VDRjc1h2a29zc0NlY3hZb3Q0aHFmdlpES0Y5eE42X19EQkVRa3MwT1VtdGpBbkIwdVRISTN5T0JDSXM2LXFab0ZRYkxTOGJSZXA3UzVTWjFNVWZiMXhEOEVMVkpGQ1c0STZpYlZXbFBjb1lIU21nUnUydHY1YUlVS1lHcUFTQVNRWFVj?oc=5",
+      "title": "México impulsa nueva ley de cine y protección a dobladores ante la Inteligencia Artificial - Hola News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDU2Y1A1dHhHUElZbmI5eUVQVmE4bE9SWkRnVDJ3czFncV9UeEw3eXR6c3Mtb0MxWlFlSjlSSHZOcW5nbVZlWC1qSDdsd0lhZEhpbm1MeFlxTUNlckM2WVJGOG4yWjA2SGRiSGg3b1hDeVhORGVhVWlxbFlZdkwzWXdCMnA1R0ppcEVFRlVtYkd4a3Y1WC1SODRDWFppYVNtc0hrNWliMG44UVl5dmp5aDN3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Feb 2026 18:40:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVzRFTTBmekFoQl85ZzRvQVVtcFVYRXNBbDR5R3RpRUpocGx4VDRjc1h2a29zc0NlY3hZb3Q0aHFmdlpES0Y5eE42X19EQkVRa3MwT1VtdGpBbkIwdVRISTN5T0JDSXM2LXFab0ZRYkxTOGJSZXA3UzVTWjFNVWZiMXhEOEVMVkpGQ1c0STZpYlZXbFBjb1lIU21nUnUydHY1YUlVS1lHcUFTQVNRWFVj?oc=5\" target="
+      "published": "Fri, 13 Feb 2026 15:11:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDU2Y1A1dHhHUElZbmI5eUVQVmE4bE9SWkRnVDJ3czFncV9UeEw3eXR6c3Mtb0MxWlFlSjlSSHZOcW5nbVZlWC1qSDdsd0lhZEhpbm1MeFlxTUNlckM2WVJGOG4yWjA2SGRiSGg3b1hDeVhORGVhVWlxbFlZdkwzWXdCMnA1R0ppcEVFRlVtYkd4a3Y1WC1SODRDWFppYVNtc0hrNWliMG44UVl5dmp5aDN3?oc=5\" tar"
     },
     {
-      "title": "¿El doblaje en México quedará blindado ante la inteligencia artificial? Esto dice la secretaria de Cultura - Revista Merca2.0",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa29Zc0U2OGEwLWQ2V2dSaWNGVE9teXVQMGVrcm9iYzZhc0ZMUWlHVlRubjh5S0NBeElqQjlMOTBsWHNmOE9tVlFVWTBaa1JRakxRdGk5VjB3OUlYazdXcmFxcUp5Q3FUQllrTHFub1hvZHFEeXBwVFN1R3p1N29weVdjRzhzeGZfVGdGS1J1elFCVlV2MXFZWG5VS0dWVVRHV2RFTW1BYmNUbVJxX0JkRFFBSzhkbjV1TC1RZ2Z1WDg0X2FUWGlmSA?oc=5",
+      "title": "México impulsa nueva ley de cine y de protección a dobladores ante Inteligencia Artificial - ABC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGxfZlVhU2ZTV2tZN0JtSzVrVTBXbGd4TzZCT0tfdHE4M2k1ZnVVb0RRTXV4MS1ZdG5UUEIyRXMyejcwaThocGg5TC1Nc2hVRGMtMW00RzN3X0VwdVhvVFBoNFBjcHd3MGoyS1g3VTRsRi1wejZ6MGhfdUhxNV9KSWJJMmhtZXBZeERGMWVGODBMUHkyNmpDTGlaYlFSNGd4U3BKaV9n0gGrAUFVX3lxTE1vNldlYUxfVk9ETERtd19SZUFhMVl0M1d5OHRDR0kwdkpFb2l0WndnVW9Ob2RneElRVUlpS0QzX3hfVTdFbk1aOGdwT0ZrSEk5QnpqODVTVGx1Z3AwR0U2WkVrNU9sRl9ua0ZnLVlMQUZGVjZ4aUs5ZHNBeHFDOEh0UldxcmNwRTNSYm52M2VQTTBtRmFIUlFZUEdBai04a1FGMkMwbWdJUU1ZNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 13 Feb 2026 14:13:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa29Zc0U2OGEwLWQ2V2dSaWNGVE9teXVQMGVrcm9iYzZhc0ZMUWlHVlRubjh5S0NBeElqQjlMOTBsWHNmOE9tVlFVWTBaa1JRakxRdGk5VjB3OUlYazdXcmFxcUp5Q3FUQllrTHFub1hvZHFEeXBwVFN1R3p1N29weVdjRzhzeGZfVGdGS1J1elFCVlV2MXFZWG5VS0dWVVRHV2RFTW1BYmNUbVJxX0JkRFFBSzhkbjV1TC"
+      "published": "Fri, 13 Feb 2026 16:42:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGxfZlVhU2ZTV2tZN0JtSzVrVTBXbGd4TzZCT0tfdHE4M2k1ZnVVb0RRTXV4MS1ZdG5UUEIyRXMyejcwaThocGg5TC1Nc2hVRGMtMW00RzN3X0VwdVhvVFBoNFBjcHd3MGoyS1g3VTRsRi1wejZ6MGhfdUhxNV9KSWJJMmhtZXBZeERGMWVGODBMUHkyNmpDTGlaYlFSNGd4U3BKaV9n0gGrAUFVX3lxTE1vNldlYUxfVk"
     },
     {
-      "title": "Vambe suma ejecutivos de Cornershop, TikTok y Uber - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWkwX2hNelFFbW5WdTNyVUVzU1BEQm5TWGk4MFRBTmFvc2pBVkk0UHFaandKbWRsWm1uUHhSdXhMQXNaeTlRU2FnWU5lTjlXZ01Yb0JUajdVeGNJN3g0Q3FQdkMwZkYtRHdkbVRoajNZSmwxcGs1YlRKMGxqUUVtb0k1ZGhLUVk?oc=5",
+      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Feb 2026 18:24:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWkwX2hNelFFbW5WdTNyVUVzU1BEQm5TWGk4MFRBTmFvc2pBVkk0UHFaandKbWRsWm1uUHhSdXhMQXNaeTlRU2FnWU5lTjlXZ01Yb0JUajdVeGNJN3g0Q3FQdkMwZkYtRHdkbVRoajNZSmwxcGs1YlRKMGxqUUVtb0k1ZGhLUVk?oc=5\" target=\"_blank\">Vambe suma ejecutivos de Cornershop, TikTok "
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
     },
     {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
