@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "4 cambios en la alimentación que pueden ayudar a reducir el riesgo de cáncer, según un oncólogo",
+      "url": "https://www.latercera.com/tendencias/noticia/4-cambios-en-la-alimentacion-que-pueden-ayudar-a-reducir-el-riesgo-de-cancer-segun-un-oncologo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Feb 2026 15:21:08 +0000",
+      "summary": "El Dr. Mikkael Sekeres aseguró en una reciente columna para el Washington Post que “tomar decisiones deliberadas sobre los alimentos y bebidas que consumes, y los que evitas, puede ayudar a reducir el riesgo de cáncer”. El especialista compartió una serie de recomendaciones."
+    },
+    {
       "title": "Qué es Ring, la empresa de seguridad de Amazon que causó polémica por su comercial en el Super Bowl",
       "url": "https://www.latercera.com/tendencias/noticia/que-es-ring-la-empresa-de-seguridad-de-amazon-que-causo-polemica-por-su-comercial-en-el-super-bowl/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Aunque la mayoría de los casos se dan en personas mayores de 50 años, especialistas reportan que las muertes por esta enfermedad han aumentado entre los adultos menores de dicha edad. Generalmente, los signos no se manifiestan en etapas iniciales, por lo que los exámenes periódicos son clave."
     },
     {
-      "title": "Por qué la memoria empeora con la edad, según un reciente estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-la-memoria-empeora-con-la-edad-segun-un-reciente-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 16 Feb 2026 09:02:00 +0000",
-      "summary": "Es sabido que recordar, con el paso de los años, se vuelve una tarea cada vez más complicada, pero hasta ahora no se entendía con precisión cómo ocurría este deterioro a nivel cerebral."
-    },
-    {
       "title": "Latam-GPT: lanzan modelo de inteligencia artificial diseñado desde y para América Latina - Univision",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDV0SHo1cnZQNm01OFFMRXp6Uld5UkJ0SXh6NGZJU2ptWE5lLTU2XzhCbFc0VzVZcmxDTlNSV0JESUlmU2pvd2YxekFEcVVxUmExa0VPRDhXYWJwVnZPOXV0TTk5b010T1d2TXRIRHNPMmtHTnJ2WjgxdFZic2l1MHdpQ1Q2cnNDUGFvaTNjRk1UZ1lJOFE?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDV0SHo1cnZQNm01OFFMRXp6Uld5UkJ0SXh6NGZJU2ptWE5lLTU2XzhCbFc0VzVZcmxDTlNSV0JESUlmU2pvd2YxekFEcVVxUmExa0VPRDhXYWJwVnZPOXV0TTk5b010T1d2TXRIRHNPMmtHTnJ2WjgxdFZic2l1MHdpQ1Q2cnNDUGFvaTNjRk1UZ1lJOFE?oc=5\" target=\"_blank\">Latam-GPT: lanzan modelo"
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
