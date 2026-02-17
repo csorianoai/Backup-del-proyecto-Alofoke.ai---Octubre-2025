@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El cerebro se hace más joven cuando haces ejercicio, según reveló un ensayo clínico",
+      "url": "https://www.latercera.com/tendencias/noticia/el-cerebro-se-hace-mas-joven-cuando-haces-ejercicio-segun-revelo-un-ensayo-clinico/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Feb 2026 20:00:00 +0000",
+      "summary": "¿Puede el ejercicio rejuvenecer tu cerebro? Un nuevo ensayo clínico exploró durante un año qué ocurre en la mente cuando el cuerpo se mueve."
+    },
+    {
       "title": "Quién era Jesse Jackson, el reconocido activista de derechos civiles que falleció a los 84 años",
       "url": "https://www.latercera.com/tendencias/noticia/quien-era-jesse-jackson-el-reconocido-activista-de-derechos-civiles-que-fallecio-a-los-84-anos/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Tue, 17 Feb 2026 10:11:00 +0000",
       "summary": "El incidente ocurrió en la pista del Dennis M. Lynch Arena, en Pawtucket, y también dejó al menos tres personas en estado crítico. Las autoridades identificaron al tirador, quien presuntamente atentó contra su vida tras el ataque."
-    },
-    {
-      "title": "Recorrer Chile en tren: las 10 rutas para viajar por el país este verano",
-      "url": "https://www.latercera.com/tendencias/noticia/recorrer-chile-en-tren-las-10-rutas-para-viajar-por-el-pais-este-verano/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 17 Feb 2026 09:03:00 +0000",
-      "summary": "Servicios patrimoniales, rutas del vino, viajes nocturnos y recorridos por el desierto y el sur del país forman parte de la programación estival 2026 de EFE."
     },
     {
       "title": "Chile frente al avance de la IA: ¿Qué modelo seguir y cómo manejar sus efectos sociales? - Computer Weekly",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE5PNk1aR0FybjR1NGhseTlGcUNadjRQdlJ5Ynd3QW9CVUcxU2l5R0tlSDJxZXhZbWREeHFOMC1BNVJHdFVSejc3ZG13cnFnQjZKT1U5c0xTcUx5ZzFkb2hOTXNNYVNFLVRMb1JfeW9nSGVCQnBvTWJaZWhkMjhKX2U3QVhtd21sWlQ2VkxB?oc=5\" target=\"_blank\">Startups Validan Sostenibilidad en "
     },
     {
-      "title": "ABB Chile cierra InnovABB: 3 startups validan pilotos tech - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1FadGRQMEtubUJWOXppaUtULTNGcGk0aDdKLVFCRV9vVkNYQ0FQQ3ZmVlhkWWJxUms3YlQ2T1JNUG9NcXBzTEt4cWRCY2xjZ2FpbVBSRlBXOUVUM01fR1NmQ0Y2NWJPTG4xTFlabnZqOV9sWHhoZDc0cFo1UkRjVnNzOTc2dXo5NlFIQnRIRUxYQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Feb 2026 19:08:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1FadGRQMEtubUJWOXppaUtULTNGcGk0aDdKLVFCRV9vVkNYQ0FQQ3ZmVlhkWWJxUms3YlQ2T1JNUG9NcXBzTEt4cWRCY2xjZ2FpbVBSRlBXOUVUM01fR1NmQ0Y2NWJPTG4xTFlabnZqOV9sWHhoZDc0cFo1UkRjVnNzOTc2dXo5NlFIQnRIRUxYQQ?oc=5\" target=\"_blank\">ABB Chile cierra InnovABB: 3 "
-    },
-    {
       "title": "Start-Up Chile selecciona a 64 emprendimientos tecnológicos para acelerar desde marzo - Diario Financiero",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjg0eVBYeV9UcGd4U1Nid2RPZ2xPRG5kdVM4U2wwVWtrdk05Q0lXSjF2UUVSS1ZFbTB2MmxxUmw3UlQ1Nk9NMzBwN0otOWFnX1NRQmNneUUzNVVvWlVQVjhSYXBpbHdDNlZXRUNQUUtmY2pjQ3FvZFhJWEJIOGlJWDBTZDFYR0stckNSdkQ3c0pkWlZtNTJfOGhHTXp3UW5kb1BxOWc2a2kxVm1CLWdLRVNudVNMaTdSRjVjXw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 02 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjg0eVBYeV9UcGd4U1Nid2RPZ2xPRG5kdVM4U2wwVWtrdk05Q0lXSjF2UUVSS1ZFbTB2MmxxUmw3UlQ1Nk9NMzBwN0otOWFnX1NRQmNneUUzNVVvWlVQVjhSYXBpbHdDNlZXRUNQUUtmY2pjQ3FvZFhJWEJIOGlJWDBTZDFYR0stckNSdkQ3c0pkWlZtNTJfOGhHTXp3UW5kb1BxOWc2a2kxVm1CLWdLRVNudVNMaTdSRj"
+    },
+    {
+      "title": "Nueva generación de Start-Up Chile concentra soluciones innovadoras para agricultura y recursos naturales - Diario Sustentable",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNel9oREpwM1VFM1R2RUxWc3ZNUWFaenQ2S0ptVzZrdTNoS1lvcURmSVhHRndveEM1NE9xdlU5Tl95RFl2bFphNWxpdnBvWHJpY0ROcURYUTNaMkJUMVdsRzRnVzRiMGlnYXlOSndveWx5dFY5TzV0cVBwLUlWRzRnREZwNTllUC13cUdsSzRFWHhpaTNCYTlMTXA2YnJqZk54cnltZW9WNjIwODM1bG9GN0lUalhFdFBkNmwzRDNST3FaNmZ6VENvVWZOTkdQVllRNThfWWZQLXpyOXFmYS1HNHVn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 02 Feb 2026 19:34:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNel9oREpwM1VFM1R2RUxWc3ZNUWFaenQ2S0ptVzZrdTNoS1lvcURmSVhHRndveEM1NE9xdlU5Tl95RFl2bFphNWxpdnBvWHJpY0ROcURYUTNaMkJUMVdsRzRnVzRiMGlnYXlOSndveWx5dFY5TzV0cVBwLUlWRzRnREZwNTllUC13cUdsSzRFWHhpaTNCYTlMTXA2YnJqZk54cnltZW9WNjIwODM1bG9GN0lUalhFdFBkNm"
     }
   ],
   "count": 14
