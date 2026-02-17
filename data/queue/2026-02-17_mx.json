@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple Event: esto es lo que se espera del evento de Apple en marzo",
+      "url": "https://expansion.mx/tecnologia/2026/02/17/apple-event-esto-es-lo-que-se-espera-del-evento-de-apple-en-marzo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Feb 2026 17:00:50 GMT",
+      "summary": "El 4 de marzo se realizará el evento de Apple, donde se esperan nuevas versiones de las MacBook, del iPad y un nuevo iPhone económico."
+    },
+    {
+      "title": "¿Ahora sí conviene vender en Amazon? Anuncian menos comisiones para vender",
+      "url": "https://expansion.mx/tecnologia/2026/02/17/amazon-anuncian-menos-comisiones-para-vender",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Feb 2026 14:00:16 GMT",
+      "summary": "Amazon anunció una reducción en sus comisiones para vendedores en México y ajustes en su esquema de suscripción."
+    },
+    {
+      "title": "Anthropic, el gigante de 380,000 mdd que desafía la agenda antirregulación de Trump",
+      "url": "https://expansion.mx/tecnologia/2026/02/17/anthropic-startup-claude-quiere-poner-reglas-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Feb 2026 11:55:50 GMT",
+      "summary": "La firma detrás de Claude impulsa una coalición para apoyar candidatos pro regulación, mientras alcanza 19 millones de usuarios y una valuación récord."
+    },
+    {
       "title": "El creador de OpenClaw puso a competir a OpenAI y Anthropic: la diferencia que lo hizo elegir",
       "url": "https://expansion.mx/tecnologia/2026/02/16/creador-de-openclaw-puso-a-competir-openai-y-anthropic",
       "source": "Expansión Tecnología",
@@ -19,36 +43,20 @@
       "summary": "Una función de esas características genera preocupaciones por su potencial en tareas de vigilancia, aunque la empresa argumenta que ayudaría en labores de accesibilidad."
     },
     {
-      "title": "Se cayó X hoy, 16 de febrero 2026: usuarios reportan fallas en Twitter",
-      "url": "https://expansion.mx/tecnologia/2026/02/16/se-cayo-x-twitter-hoy-16-de-febrero",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 16 Feb 2026 14:41:48 GMT",
-      "summary": "Los usuarios de la red social 𝕏 se quejan sobre las fallas que tienen al tratar de realizar búsquedas o actualizar el feed."
-    },
-    {
-      "title": "PS5 y Nintendo Switch 2 podrán ser 15% más caras a causa de la IA",
-      "url": "https://expansion.mx/tecnologia/2026/02/16/ps5-y-nintendo-switch-2-podran-ser-15-mas-caras-a-causa-de-la-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 16 Feb 2026 11:55:55 GMT",
-      "summary": "La escasez de los componentes afectará tanto la disponibilidad como el precio de las consolas, incluso de aquellas que están a mitad de su ciclo de vida, un periodo donde los precios suelen bajar."
-    },
-    {
-      "title": "Reseña Redmi Note 15 Pro 5G: lo bueno, lo mejorable y para quién sí es",
-      "url": "https://expansion.mx/tecnologia/2026/02/14/resena-redmi-note-15-pro-5g-caracteristicas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sun, 15 Feb 2026 02:00:11 GMT",
-      "summary": "En un mercado dominado por la gama media, Xiaomi refuerza su apuesta con un modelo que privilegia la batería y resistencia por encima de todo."
-    },
-    {
-      "title": "La Inteligencia Artificial: revolución entre generaciones y el futuro del trabajo - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUd0NUprYXpoeWFRYTNrejdMY0VvR3g1MkRQOEtqZUlWV1AxRll4MmR4UVFXb011Rm9tSHlyak02QW44bW9xQWtRbksyZ0QtVDBvSDFDNF9qNExHbHVYcEY3TDd1MC1LQkZ6dVpUd21SSGVhOEVrWmNQbkpEX29tcENDeDFOWnNFU01wbUV0bmxXSFB4RHV5eGVQRWJRZGhTQW9FVHhnQm9oMzBiLUJuUFk3ZXdzTVc3S0cwbzd6NGjSAdsBQVVfeXFMUDQ5X01jNFdTYS1vNk1RWHBnYW9DMWdKZnE5Mm55U20wMXQ1TU1ZZ2d6akZoR2dFU0lZUkdNdEZvZS12RXFSTUVhN0ZCakVvaGhjcFZSdVhRMDg5NVdaa0k5Ukx5RmpRMlpzWDJ1TWU5UXl5dnJwZ3VkemxabS1nby1Wc2VKOWxyUHI0ZjAtTGFGU2lMdElQNWwyTlRTXzhnMVpGQVhYZjJSWFZzT1NSdEZ3TmVIaGttdGZRM0lvMjFPNXBRVW8tMVZKQVctU0c4bXBsN3lEMmhHNENJ?oc=5",
+      "title": "Legisladores usan inteligencia artificial en sus intervenciones en el Congreso - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjBhS2dFVkxiZ3lVNjlRY2lVR2czVENBNWhBZjR3WVpuQjhPUGxlTzA5TDdJUXUtTURPTzNJbDNxN240WGR3Vjloc0trSWpXb2pQYU1BWjk0VU5wSDVRbldhMFV1SVkwYTI3alVyNjJJZVpDVHJfUmlvekxoV1BCQXFsZFozOXJDZWdXc3QyaDE2bzV1Z3lxd0FnS1lzNmpaNHhaQzRySmdBWDBRMENaSTd3RnNHT0tUS1lGbkhfODhyd9IBxwFBVV95cUxQa1ZsUjZMTGZXRVFhSVdJWlhSTWxpN1N0TE90U0JacUJjbmdTb1FmMnQtd1A4NnM3b01rVzVmOXQ4THJrRmxfQ1RQSk1PT21JdGtRMzRSRDAzdVBraEJHTDc1WVplRy1yT2c4cjRqU04zV2sxUGRPUDJCUnhQUHFGMWFCMHBVc01MUXU0UHRteFgzTHhmRlVJNk1NR09zOU9TNU1IZGpWSUNvZmxOdTlEWjFKZnRSQnFMck1CYnRxRThNb1V1dUlz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 14 Feb 2026 17:03:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUd0NUprYXpoeWFRYTNrejdMY0VvR3g1MkRQOEtqZUlWV1AxRll4MmR4UVFXb011Rm9tSHlyak02QW44bW9xQWtRbksyZ0QtVDBvSDFDNF9qNExHbHVYcEY3TDd1MC1LQkZ6dVpUd21SSGVhOEVrWmNQbkpEX29tcENDeDFOWnNFU01wbUV0bmxXSFB4RHV5eGVQRWJRZGhTQW9FVHhnQm9oMzBiLUJuUFk3ZXdzTVc3S0"
+      "published": "Tue, 17 Feb 2026 17:20:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjBhS2dFVkxiZ3lVNjlRY2lVR2czVENBNWhBZjR3WVpuQjhPUGxlTzA5TDdJUXUtTURPTzNJbDNxN240WGR3Vjloc0trSWpXb2pQYU1BWjk0VU5wSDVRbldhMFV1SVkwYTI3alVyNjJJZVpDVHJfUmlvekxoV1BCQXFsZFozOXJDZWdXc3QyaDE2bzV1Z3lxd0FnS1lzNmpaNHhaQzRySmdBWDBRMENaSTd3RnNHT0tUS1"
+    },
+    {
+      "title": "Casos reales de IA en producción centran conversatorio de Baufest en el Microsoft AI Tour México - eSemanal",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmw4LVVwclo1SnZfSmk4SF9vdHl3djRMN1pNc0JFZWRwelVoanJVb1otZ1p1cGw3TmE5LUpjODA3X21La3NtRjlsZUxSUzJ4UjdhRXR1VXB5dUxPbkdvQTdoN3FUV0Z6UGxYdjIzclZKUEJvaGZOV1p4UkRzeVBnd0Z4ZURpdEU0ZzM1RzZINGM5LWxxZXBEakplQ3Z6YWFBUzNQc29obFRpYWphTzhDLVNGd2R2WHdNWWpyMWJXcUFXQUU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 17:31:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQmw4LVVwclo1SnZfSmk4SF9vdHl3djRMN1pNc0JFZWRwelVoanJVb1otZ1p1cGw3TmE5LUpjODA3X21La3NtRjlsZUxSUzJ4UjdhRXR1VXB5dUxPbkdvQTdoN3FUV0Z6UGxYdjIzclZKUEJvaGZOV1p4UkRzeVBnd0Z4ZURpdEU0ZzM1RzZINGM5LWxxZXBEakplQ3Z6YWFBUzNQc29obFRpYWphTzhDLVNGd2R2WHdNWW"
     },
     {
       "title": "Del reconocimiento de tatuajes a la progresión de edad: así se utiliza la IA en la crisis de desaparecidos en México - CNN en Español",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Sun, 15 Feb 2026 02:45:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWdlQ3VaX2ZteGlLVzkyUGpIZ1BEWWo4SlBCeENhNjFsbnkyeDZlRDBTci00dzN3a1dIUlV3cTRRX1VyZDh0bU1BNEFHYXFTRFpyWVNiU2NUM1BiQmtZZnVFRS02QWlENEhET0I1YVhiYUR1N1ZaRm1CbjRwb3VlSTgtUzZUNklGOXFiU2pNV3JtTUdVcEZpX0Zic1plcnd6MDVB?oc=5\" target=\"_blank\">Del rec"
-    },
-    {
-      "title": "Del piloto al valor real: lo que define el éxito (o fracaso) de la IA generativa en los negocios - Infochannel",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWFLc3BaeUJsMF9UTk9WQnV3NXAwV1UyQXBkNU5LcnFwajB3QUQ0U0QzRjVaazZjMG1UTE45MUY4SmZ2dE4wZnl1bTQxSVFnalJ6RjRrTHVuWXdJUnpBWEhhcG5xeVM2dnlmSDBrR2FHVEJ0XzFPSFNhTFR0djBvV1cwRVZlcVFKNDJN?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 15 Feb 2026 13:45:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWFLc3BaeUJsMF9UTk9WQnV3NXAwV1UyQXBkNU5LcnFwajB3QUQ0U0QzRjVaazZjMG1UTE45MUY4SmZ2dE4wZnl1bTQxSVFnalJ6RjRrTHVuWXdJUnpBWEhhcG5xeVM2dnlmSDBrR2FHVEJ0XzFPSFNhTFR0djBvV1cwRVZlcVFKNDJN?oc=5\" target=\"_blank\">Del piloto al valor real: lo que define"
     },
     {
       "title": "Vambe suma ejecutivos de Cornershop, TikTok y Uber - Ecosistema Startup",
@@ -95,7 +95,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5\" target=\"_blank\">Cómo lucirá Monterrey en 200"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
+      "title": "Ingeniería en Inteligencia Artificial y Ciencia de Datos - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
+      "published": "Mon, 04 Aug 2025 19:23:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5\" target=\"_blank\">Ingeniería en In"
     }
   ],
   "count": 14
