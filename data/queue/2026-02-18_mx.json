@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "El IMSS le gana tiempo al daño cerebral, gracias a la IA",
-      "url": "https://expansion.mx/tecnologia/2026/02/18/imss-usa-inteligencia-artificial-para-tratar-pacientes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 18 Feb 2026 11:55:45 GMT",
-      "summary": "Esta herramienta y los equipos de imagen ayudan a tratar más rápido los accidentes cerebrovasculares, salvando vidas y reduciendo secuelas."
-    },
-    {
-      "title": "El CES, la feria más grande de tecnología, tiene nueva directora",
-      "url": "https://expansion.mx/tecnologia/2026/02/17/el-ces-la-feria-mas-grande-de-tecnologia-tiene-nueva-directora",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 17 Feb 2026 23:00:32 GMT",
-      "summary": "La CTA, el organismo responsable de la organización del CES, anunció a Kinsley Fabrizio como la nueva presidenta y directora general de la asociación, en sustitución de Gary Shapiro."
-    },
-    {
       "title": "¿Las ofertas de Temu son reales? Profeco revela qué tan confiable es la plataforma y sus promociones",
       "url": "https://expansion.mx/tecnologia/2026/02/17/regalos-de-temu-son-reales-esto-dice-profeco",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "El 4 de marzo se realizará el evento de Apple, donde se esperan nuevas versiones de las MacBook, del iPad y un nuevo iPhone económico."
     },
     {
+      "title": "¿Ahora sí conviene vender en Amazon? Anuncian menos comisiones para vender",
+      "url": "https://expansion.mx/tecnologia/2026/02/17/amazon-anuncian-menos-comisiones-para-vender",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Feb 2026 14:00:16 GMT",
+      "summary": "Amazon anunció una reducción en sus comisiones para vendedores en México y ajustes en su esquema de suscripción."
+    },
+    {
+      "title": "Anthropic, el gigante de 380,000 mdd que desafía la agenda antirregulación de Trump",
+      "url": "https://expansion.mx/tecnologia/2026/02/17/anthropic-startup-claude-quiere-poner-reglas-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Feb 2026 11:55:50 GMT",
+      "summary": "La firma detrás de Claude impulsa una coalición para apoyar candidatos pro regulación, mientras alcanza 19 millones de usuarios y una valuación récord."
+    },
+    {
       "title": "El uso de la inteligencia artificial es indispensable para fortalecer la administración tributaria: CEPAL - Naciones Unidas en México",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGlDSF9SZ2FLQ2ZRVmF3ZC1KTS1KWFhhYXBGUnc1Tlh6WEZUUVJVVDVnT1BmSlloWjFjejVmbjRxWEZUQUpUYy1VSkl3MXNkTEg3cGpraHJmM3libDhNbEdiY1R3Mm9SOE5FLU15Q3lGYlZFTHVMUmJrN29HaDBoQzAxR29FRklTN2FEc1RYZ1MzNndQRUFWcXdBVU9XQWhoMkEzaU9EQk81Nk81amNBb2F0UE45a09EdjFQeFJ5RVhvUQ?oc=5",
       "source": "Google News",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGlDSF9SZ2FLQ2ZRVmF3ZC1KTS1KWFhhYXBGUnc1Tlh6WEZUUVJVVDVnT1BmSlloWjFjejVmbjRxWEZUQUpUYy1VSkl3MXNkTEg3cGpraHJmM3libDhNbEdiY1R3Mm9SOE5FLU15Q3lGYlZFTHVMUmJrN29HaDBoQzAxR29FRklTN2FEc1RYZ1MzNndQRUFWcXdBVU9XQWhoMkEzaU9EQk81Nk81amNBb2F0UE45a09Edj"
     },
     {
-      "title": "Del piloto al valor real: lo que define el éxito (o fracaso) de la IA generativa en los negocios - Infochannel",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWFLc3BaeUJsMF9UTk9WQnV3NXAwV1UyQXBkNU5LcnFwajB3QUQ0U0QzRjVaazZjMG1UTE45MUY4SmZ2dE4wZnl1bTQxSVFnalJ6RjRrTHVuWXdJUnpBWEhhcG5xeVM2dnlmSDBrR2FHVEJ0XzFPSFNhTFR0djBvV1cwRVZlcVFKNDJN?oc=5",
+      "title": "Del reconocimiento de tatuajes a la progresión de edad: así se utiliza la IA en la crisis de desaparecidos en México - CNN en Español",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWdlQ3VaX2ZteGlLVzkyUGpIZ1BEWWo4SlBCeENhNjFsbnkyeDZlRDBTci00dzN3a1dIUlV3cTRRX1VyZDh0bU1BNEFHYXFTRFpyWVNiU2NUM1BiQmtZZnVFRS02QWlENEhET0I1YVhiYUR1N1ZaRm1CbjRwb3VlSTgtUzZUNklGOXFiU2pNV3JtTUdVcEZpX0Zic1plcnd6MDVB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 15 Feb 2026 13:45:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcWFLc3BaeUJsMF9UTk9WQnV3NXAwV1UyQXBkNU5LcnFwajB3QUQ0U0QzRjVaazZjMG1UTE45MUY4SmZ2dE4wZnl1bTQxSVFnalJ6RjRrTHVuWXdJUnpBWEhhcG5xeVM2dnlmSDBrR2FHVEJ0XzFPSFNhTFR0djBvV1cwRVZlcVFKNDJN?oc=5\" target=\"_blank\">Del piloto al valor real: lo que define"
+      "published": "Sun, 15 Feb 2026 02:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWdlQ3VaX2ZteGlLVzkyUGpIZ1BEWWo4SlBCeENhNjFsbnkyeDZlRDBTci00dzN3a1dIUlV3cTRRX1VyZDh0bU1BNEFHYXFTRFpyWVNiU2NUM1BiQmtZZnVFRS02QWlENEhET0I1YVhiYUR1N1ZaRm1CbjRwb3VlSTgtUzZUNklGOXFiU2pNV3JtTUdVcEZpX0Zic1plcnd6MDVB?oc=5\" target=\"_blank\">Del rec"
     },
     {
       "title": "México presenta decálogo ético para regular el uso de la IA en el país - WIRED",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5\" target=\"_blank\">Cómo lucirá Monterrey en 200"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
+      "title": "Ingeniería en Inteligencia Artificial y Ciencia de Datos - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
+      "published": "Mon, 04 Aug 2025 19:23:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5\" target=\"_blank\">Ingeniería en In"
     }
   ],
   "count": 14
