@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Shadow AI: 3 de cada 10 herramientas de IA en empresas no están autorizadas",
+      "url": "https://expansion.mx/tecnologia/2026/02/19/shadow-ai-3-de-cada-10-herramientas-de-ia-en-empresas-no-estan-autorizadas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Feb 2026 21:00:46 GMT",
+      "summary": "El fenómeno “Shadow AI” crece en las organizaciones. Aunque 80% de las grandes empresas usa agentes de IA, solo 47% implementa controles específicos, abriendo la puerta a filtraciones y ataques."
+    },
+    {
       "title": "“Podríamos haberlo hecho antes”: Zuckerberg sobre medidas para proteger menores",
       "url": "https://expansion.mx/tecnologia/2026/02/19/podriamos-haberlo-hecho-antes-zuckerberg-sobre-medidas-para-proteger-menores",
       "source": "Expansión Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 18 Feb 2026 19:46:41 GMT",
       "summary": "Los comparativos revelan diferencias clave entre modelos líderes. Este desglose traduce las métricas en decisiones prácticas para elegir con base en el tipo de tarea."
-    },
-    {
-      "title": "¿Ahora sí conviene vender en Amazon? Anuncian menos comisiones para vender",
-      "url": "https://expansion.mx/tecnologia/2026/02/18/amazon-baja-comisiones-para-vender-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 18 Feb 2026 18:45:16 GMT",
-      "summary": "Amazon anunció una reducción en sus comisiones para vendedores en México y ajustes en su esquema de suscripción."
     },
     {
       "title": "Google impulsa la resiliencia del agua en México con inteligencia artificial - produ",
