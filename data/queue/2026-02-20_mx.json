@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Comprar autos en redes eleva hasta 70% el riesgo de fraude; una startup lo evita",
+      "url": "https://expansion.mx/tecnologia/2026/02/20/comprar-auto-en-redes-eleva-70-el-riesgo-de-fraude",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Feb 2026 11:55:08 GMT",
+      "summary": "Ante la falta de mecanismos de pago seguros en marketplaces, una startup mexicana desarrolla una plataforma con validación legal y cuentas de custodia digital para reducir el riesgo en la compraventa de autos usados."
+    },
+    {
+      "title": "Seedance 2.0 vs Hollywood, la IA pone en jaque la producción de videos",
+      "url": "https://expansion.mx/tecnologia/2026/02/19/hollywood-vs-ia-bytedance-seedance",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Feb 2026 23:00:54 GMT",
+      "summary": "Un video viral de una pelea entre Brad Pitt y Tom Cruise puso a algunos creativos de la industria del cine a pensar en el futuro cercano."
+    },
+    {
       "title": "Shadow AI: 3 de cada 10 herramientas de IA en empresas no están autorizadas",
       "url": "https://expansion.mx/tecnologia/2026/02/19/shadow-ai-3-de-cada-10-herramientas-de-ia-en-empresas-no-estan-autorizadas",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Especialistas advierten que imponer verificaciones de edad y restricciones generales alteraría reglas del comercio digital, generaría riesgos legales y enfrentaría obstáculos institucionales para su aplicación."
     },
     {
-      "title": "Nvidia y Meta sellan alianza para escalar la infraestructura global de IA",
-      "url": "https://expansion.mx/tecnologia/2026/02/18/nvidia-meta-alianza-infraestra-global-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Feb 2026 00:00:46 GMT",
-      "summary": "La colaboración multianual y multigeneracional contempla millones de GPU, centros de datos a hiperescala y nuevas capacidades de IA con foco en eficiencia energética."
-    },
-    {
-      "title": "¿Qué IA rinde mejor hoy? Sonnet 4.6 frente a Opus, GPT-5.2 y Gemini",
-      "url": "https://expansion.mx/tecnologia/2026/02/18/que-ia-rinde-mejor-hoy-sonnet-4-6-frente-a-opus-gpt-5-2-y-gemini",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 18 Feb 2026 19:46:41 GMT",
-      "summary": "Los comparativos revelan diferencias clave entre modelos líderes. Este desglose traduce las métricas en decisiones prácticas para elegir con base en el tipo de tarea."
-    },
-    {
       "title": "Google impulsa la resiliencia del agua en México con inteligencia artificial - produ",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1VIdWIxZkMyeEFpcDl0bUpSNllmVHF6VjBDa1JVZnotQXQtY3U5dWJiREdJUHlfZWpOS01JOERneEpnWDlwQlNHX21obzU5eEtBWlRBRXBQRDgwTkNSV3BmVmpyWVpPcnNORXZrTFNNaVRXX0NvUktLNFB1TW9WRENBdVRtZEZuM2g4YjdYNkxmTldLckszVHBBQXV1RVhINmNuTWlOZElUYVlVVnlaQThKSEdhd0xOTE41dE5ZWQ?oc=5",
       "source": "Google News",
@@ -59,12 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGlDSF9SZ2FLQ2ZRVmF3ZC1KTS1KWFhhYXBGUnc1Tlh6WEZUUVJVVDVnT1BmSlloWjFjejVmbjRxWEZUQUpUYy1VSkl3MXNkTEg3cGpraHJmM3libDhNbEdiY1R3Mm9SOE5FLU15Q3lGYlZFTHVMUmJrN29HaDBoQzAxR29FRklTN2FEc1RYZ1MzNndQRUFWcXdBVU9XQWhoMkEzaU9EQk81Nk81amNBb2F0UE45a09Edj"
     },
     {
-      "title": "Desarrollo de IA para producción virtual, una realidad en México: Simplemente - Prensario Internacional",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFRoOERqbThQb1hUQ2J0OGcweEdJeTRpX1E1UndOWmZtS3NRUGxRVUhUVDM5SkNoZ05VM2dnaEVUbko2cnc3MF90b1RiUy0zMElZZ0h2bGFOSnRPemZ1b3hBT0xpUzUxb1RwdEpnek9wU083Yk9NMjRCRlZBVGRMNGNScGFELUhGUWkxRWhFM2NJdjR5ckhTYXZtYTJpTjZWYTdGVmlCZ2VpSFZxQVJfTnl6WDdEdnp2?oc=5",
+      "title": "México presenta decálogo ético para regular el uso de la IA en el país - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFEyNTN5eDJERmVfUy14UGExZWtQVXBweHd0NGNxU2otbGRRaWVya2JaR1loTjd3Zkc3R2tGT1dTZWNfQmNGeHRMMXpyUXdtM3JpVmpsSFVXNC01VFQxMnhWZUtobTBqSmIwWkU4NTlPaUJKMUJVNk9adnhJMkdhNV9Ha01NNDlBZ1I1RFpkMGRsVFQyQktDYUdJZVZmbFJwYUpZ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 19 Feb 2026 16:41:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFRoOERqbThQb1hUQ2J0OGcweEdJeTRpX1E1UndOWmZtS3NRUGxRVUhUVDM5SkNoZ05VM2dnaEVUbko2cnc3MF90b1RiUy0zMElZZ0h2bGFOSnRPemZ1b3hBT0xpUzUxb1RwdEpnek9wU083Yk9NMjRCRlZBVGRMNGNScGFELUhGUWkxRWhFM2NJdjR5ckhTYXZtYTJpTjZWYTdGVmlCZ2VpSFZxQVJfTnl6WDdEdnp2?o"
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFEyNTN5eDJERmVfUy14UGExZWtQVXBweHd0NGNxU2otbGRRaWVya2JaR1loTjd3Zkc3R2tGT1dTZWNfQmNGeHRMMXpyUXdtM3JpVmpsSFVXNC01VFQxMnhWZUtobTBqSmIwWkU4NTlPaUJKMUJVNk9adnhJMkdhNV9Ha01NNDlBZ1I1RFpkMGRsVFQyQktDYUdJZVZmbFJwYUpZ?oc=5\" target=\"_blank\">México "
+    },
+    {
+      "title": "La startup donde la IA crea embriones - El Financiero",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjNYanBWc2VTQWJ2Ym5YWDhNVUROenB2MzZuN05uOFdjOUxjSVhmZFVzbkRfVi05cjZxaE5VNWxWalZ2MDNIaE8xZ1VUaXJiQW9YZTI5Yk1mcTFWazk5dXdZQVlyRWVHYzMxa0pueFR3dWdFUjV5S0xaeXczWjBOOXhzVVZBREVsYWVVTEZqVmlrX1doc3dsMXlWSUZmWl81SmU0aHlLZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 20 Feb 2026 17:11:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjNYanBWc2VTQWJ2Ym5YWDhNVUROenB2MzZuN05uOFdjOUxjSVhmZFVzbkRfVi05cjZxaE5VNWxWalZ2MDNIaE8xZ1VUaXJiQW9YZTI5Yk1mcTFWazk5dXdZQVlyRWVHYzMxa0pueFR3dWdFUjV5S0xaeXczWjBOOXhzVVZBREVsYWVVTEZqVmlrX1doc3dsMXlWSUZmWl81SmU0aHlLZw?oc=5\" target=\"_blank\">L"
     },
     {
       "title": "Vambe suma ejecutivos de Cornershop, TikTok y Uber - Ecosistema Startup",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Wed, 07 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
-    },
-    {
-      "title": "PotencIA MX: Meta invita a startups y PyMEs mexicanas a su primer programa de IA - emprendedor.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSlNJUXBiQUNCN19GcW9yYzJoeUVXOXNDQkNrVHVkdFF2dlhyeVk2d21kYngtMUw5TUJyenZpMnhRM2hMWXVDaUdqX1k2NGJsVGJCM1dwLVkzMkgzYk9rdzR1dS0zZmZxWTFKaTZMOTRrY1EyT09JM3Z6ampJSWtlbDF4aGZHZndjNU9uM2lKVlphN1hfTVh2VTBWNUtJQg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSl"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
