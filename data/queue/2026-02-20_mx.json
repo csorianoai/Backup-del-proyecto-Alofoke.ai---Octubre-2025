@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-20",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Shadow AI: 3 de cada 10 herramientas de IA en empresas no están autorizadas",
+      "url": "https://expansion.mx/tecnologia/2026/02/19/shadow-ai-3-de-cada-10-herramientas-de-ia-en-empresas-no-estan-autorizadas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Feb 2026 21:00:46 GMT",
+      "summary": "El fenómeno “Shadow AI” crece en las organizaciones. Aunque 80% de las grandes empresas usa agentes de IA, solo 47% implementa controles específicos, abriendo la puerta a filtraciones y ataques."
+    },
+    {
+      "title": "“Podríamos haberlo hecho antes”: Zuckerberg sobre medidas para proteger menores",
+      "url": "https://expansion.mx/tecnologia/2026/02/19/podriamos-haberlo-hecho-antes-zuckerberg-sobre-medidas-para-proteger-menores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Feb 2026 16:30:03 GMT",
+      "summary": "El CEO de Meta, Mark Zuckerberg, admitió que Instagram pudo actuar antes para detectar usuarios menores de 13 años, pero defendió las mejores actuales de sus plataformas en seguridad infantil."
+    },
+    {
+      "title": "Prohibir redes sociales a menores pondría a México en conflicto con el T-MEC",
+      "url": "https://expansion.mx/tecnologia/2026/02/19/t-mec-impide-mexico-prohibir-redes-sociales-razon",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Feb 2026 11:55:05 GMT",
+      "summary": "Especialistas advierten que imponer verificaciones de edad y restricciones generales alteraría reglas del comercio digital, generaría riesgos legales y enfrentaría obstáculos institucionales para su aplicación."
+    },
+    {
+      "title": "Nvidia y Meta sellan alianza para escalar la infraestructura global de IA",
+      "url": "https://expansion.mx/tecnologia/2026/02/18/nvidia-meta-alianza-infraestra-global-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Feb 2026 00:00:46 GMT",
+      "summary": "La colaboración multianual y multigeneracional contempla millones de GPU, centros de datos a hiperescala y nuevas capacidades de IA con foco en eficiencia energética."
+    },
+    {
+      "title": "¿Qué IA rinde mejor hoy? Sonnet 4.6 frente a Opus, GPT-5.2 y Gemini",
+      "url": "https://expansion.mx/tecnologia/2026/02/18/que-ia-rinde-mejor-hoy-sonnet-4-6-frente-a-opus-gpt-5-2-y-gemini",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 18 Feb 2026 19:46:41 GMT",
+      "summary": "Los comparativos revelan diferencias clave entre modelos líderes. Este desglose traduce las métricas en decisiones prácticas para elegir con base en el tipo de tarea."
+    },
+    {
+      "title": "Google impulsa la resiliencia del agua en México con inteligencia artificial - produ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1VIdWIxZkMyeEFpcDl0bUpSNllmVHF6VjBDa1JVZnotQXQtY3U5dWJiREdJUHlfZWpOS01JOERneEpnWDlwQlNHX21obzU5eEtBWlRBRXBQRDgwTkNSV3BmVmpyWVpPcnNORXZrTFNNaVRXX0NvUktLNFB1TW9WRENBdVRtZEZuM2g4YjdYNkxmTldLckszVHBBQXV1RVhINmNuTWlOZElUYVlVVnlaQThKSEdhd0xOTE41dE5ZWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Feb 2026 08:44:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1VIdWIxZkMyeEFpcDl0bUpSNllmVHF6VjBDa1JVZnotQXQtY3U5dWJiREdJUHlfZWpOS01JOERneEpnWDlwQlNHX21obzU5eEtBWlRBRXBQRDgwTkNSV3BmVmpyWVpPcnNORXZrTFNNaVRXX0NvUktLNFB1TW9WRENBdVRtZEZuM2g4YjdYNkxmTldLckszVHBBQXV1RVhINmNuTWlOZElUYVlVVnlaQThKSEdhd0xOTE"
+    },
+    {
+      "title": "El uso de la inteligencia artificial es indispensable para fortalecer la administración tributaria: CEPAL - Naciones Unidas en México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGlDSF9SZ2FLQ2ZRVmF3ZC1KTS1KWFhhYXBGUnc1Tlh6WEZUUVJVVDVnT1BmSlloWjFjejVmbjRxWEZUQUpUYy1VSkl3MXNkTEg3cGpraHJmM3libDhNbEdiY1R3Mm9SOE5FLU15Q3lGYlZFTHVMUmJrN29HaDBoQzAxR29FRklTN2FEc1RYZ1MzNndQRUFWcXdBVU9XQWhoMkEzaU9EQk81Nk81amNBb2F0UE45a09EdjFQeFJ5RVhvUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Feb 2026 00:21:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGlDSF9SZ2FLQ2ZRVmF3ZC1KTS1KWFhhYXBGUnc1Tlh6WEZUUVJVVDVnT1BmSlloWjFjejVmbjRxWEZUQUpUYy1VSkl3MXNkTEg3cGpraHJmM3libDhNbEdiY1R3Mm9SOE5FLU15Q3lGYlZFTHVMUmJrN29HaDBoQzAxR29FRklTN2FEc1RYZ1MzNndQRUFWcXdBVU9XQWhoMkEzaU9EQk81Nk81amNBb2F0UE45a09Edj"
+    },
+    {
+      "title": "Desarrollo de IA para producción virtual, una realidad en México: Simplemente - Prensario Internacional",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFRoOERqbThQb1hUQ2J0OGcweEdJeTRpX1E1UndOWmZtS3NRUGxRVUhUVDM5SkNoZ05VM2dnaEVUbko2cnc3MF90b1RiUy0zMElZZ0h2bGFOSnRPemZ1b3hBT0xpUzUxb1RwdEpnek9wU083Yk9NMjRCRlZBVGRMNGNScGFELUhGUWkxRWhFM2NJdjR5ckhTYXZtYTJpTjZWYTdGVmlCZ2VpSFZxQVJfTnl6WDdEdnp2?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Feb 2026 16:41:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFRoOERqbThQb1hUQ2J0OGcweEdJeTRpX1E1UndOWmZtS3NRUGxRVUhUVDM5SkNoZ05VM2dnaEVUbko2cnc3MF90b1RiUy0zMElZZ0h2bGFOSnRPemZ1b3hBT0xpUzUxb1RwdEpnek9wU083Yk9NMjRCRlZBVGRMNGNScGFELUhGUWkxRWhFM2NJdjR5ckhTYXZtYTJpTjZWYTdGVmlCZ2VpSFZxQVJfTnl6WDdEdnp2?o"
+    },
+    {
+      "title": "Vambe suma ejecutivos de Cornershop, TikTok y Uber - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWkwX2hNelFFbW5WdTNyVUVzU1BEQm5TWGk4MFRBTmFvc2pBVkk0UHFaandKbWRsWm1uUHhSdXhMQXNaeTlRU2FnWU5lTjlXZ01Yb0JUajdVeGNJN3g0Q3FQdkMwZkYtRHdkbVRoajNZSmwxcGs1YlRKMGxqUUVtb0k1ZGhLUVk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Feb 2026 18:24:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWkwX2hNelFFbW5WdTNyVUVzU1BEQm5TWGk4MFRBTmFvc2pBVkk0UHFaandKbWRsWm1uUHhSdXhMQXNaeTlRU2FnWU5lTjlXZ01Yb0JUajdVeGNJN3g0Q3FQdkMwZkYtRHdkbVRoajNZSmwxcGs1YlRKMGxqUUVtb0k1ZGhLUVk?oc=5\" target=\"_blank\">Vambe suma ejecutivos de Cornershop, TikTok "
+    },
+    {
+      "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
+    },
+    {
+      "title": "PotencIA MX: Meta invita a startups y PyMEs mexicanas a su primer programa de IA - emprendedor.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSlNJUXBiQUNCN19GcW9yYzJoeUVXOXNDQkNrVHVkdFF2dlhyeVk2d21kYngtMUw5TUJyenZpMnhRM2hMWXVDaUdqX1k2NGJsVGJCM1dwLVkzMkgzYk9rdzR1dS0zZmZxWTFKaTZMOTRrY1EyT09JM3Z6ampJSWtlbDF4aGZHZndjNU9uM2lKVlphN1hfTVh2VTBWNUtJQg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXdvZXhaREZ4NmN3UFg5NzJaRk1TMDdObTctdV9UUmxhb2JGNUV5OTJIelh4VVVpR3dLZWRSNl9CTGJGb3FvcVU3WlBLaWRyOHBGaGVCUTJZcXhUZ1ZUUk5jN3EyNV84WkVUcmhpT29TNGFJYU9YU3pQVG1GMzdPM2s4WUVHSXMtMkhyZjlpbUJmYndJdmJSWm1vOUpzUFBERkFn0gGoAUFVX3lxTE5ndTVBR1FaajlSSl"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "IA en la enseñanza: especialista Tec habla de sus retos y beneficios - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVGZQZE9hcw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
+    },
+    {
+      "title": "Cómo lucirá Monterrey en 200 años, según la IA - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 13 Feb 2026 04:42:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5\" target=\"_blank\">Cómo lucirá Monterrey en 200"
+    }
+  ],
+  "count": 14
+}
