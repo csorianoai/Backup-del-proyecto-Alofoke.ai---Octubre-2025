@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Reseña: Mario Tennis Fever acelera el ritmo del catálogo de Switch 2",
+      "url": "https://expansion.mx/tecnologia/2026/02/21/resena-mario-tennis-fever",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 21 Feb 2026 16:00:09 GMT",
+      "summary": "Con más de 35 personajes y canchas dinámicas, Mario Tennis Fever apuesta por partidas rápidas y multijugador competitivo para fortalecer el catálogo de Switch 2."
+    },
+    {
       "title": "De Netflix al Game Pass: los hogares ya pagan hasta $12,000 al año por estar conectados",
       "url": "https://expansion.mx/tecnologia/2026/02/21/precio-netflix-spotify-app-ronda-12-mil-pesos-suscripciones",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Ante la falta de mecanismos de pago seguros en marketplaces, una startup mexicana desarrolla una plataforma con validación legal y cuentas de custodia digital para reducir el riesgo en la compraventa de autos usados."
     },
     {
-      "title": "Seedance 2.0 vs Hollywood, la IA pone en jaque la producción de videos",
-      "url": "https://expansion.mx/tecnologia/2026/02/19/hollywood-vs-ia-bytedance-seedance",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Feb 2026 23:00:54 GMT",
-      "summary": "Un video viral de una pelea entre Brad Pitt y Tom Cruise puso a algunos creativos de la industria del cine a pensar en el futuro cercano."
-    },
-    {
       "title": "Greg Peters, codirector ejecutivo de Netflix: “La gente malentiende cómo la inteligencia artificial influirá en la creación de contenido” - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzFQeWd3UkdMSFVPOHlJZTBMc3pDQ0JmbFNhNEd6ZVBnWVlBbEloaWJMa2Qxek8wUE43TmtaZWFudlpQeU4xVE9TVk5DdHhpZk1wZ3UwdkFYWDdHQ3lRUHpxdE11SXExR1hIQUUwTHVVR0poaE8yd0RzdTNadTl6MUEyZlNOVDN6RWdNT1VjRVNWdy1yZlllWUJUM0QtTzZHQmRUOVlQRkxQcF8yMWdTUDA3NVFvMm1zQkR5NUR6YjlwckhFWEpSU0dIT2hzN29Xb25LLTlpOVNVOXdTQUJJakdWSjNkblkxNXJTQVhSMDVzbjZWNmVmTkc4bnMzWDRZMldTeEVB0gGaAkFVX3lxTE9mNWd3RUdON3RjcEpud1ZId3FMd0h6OW44WEZnNGhIU3VHaTBxeVFUWjNuc1Nvd0ZQMkE4dGpKRVRZandocTNiSXJ3VU1pSUhybnp3R1hnbkp5TktRYU1MZHhzVkhKTWxISDVxaXZ5Q000amdZZUpYbi1oeWpKVmF0NXdON3pGemYzSFZYYllzemlPMDFySC1BMjRVaENjMnNMVk5JeTZydThfMWgzbk5vR201VXFqSjBfUW5WQ3FXTXZzRHBnd0M1T3A1XzEwQkNOYkRhY3lWZFVXaDg1MHdzTnBrLXBHTk11NHhRdjFsemhTdC0zY2o0a2tucWFkV3RGcUIwSXpUbEZGLUhSWW01bVVaN2h2VmFmUQ?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxObU9PSkw5dkxHZmcwY05YRk1NSlYyS3dnRV9ZZWZDNE1nSUVzQlB6WjJMRnNrWTdSS0NZNVBuZ0xkT0l6amg2anBLREVNUUpFSDBUdjFPMXRNLWlXQU5GZFJzQU1FVEhNaW16M3B4NUpoemp0aXFJY3B1ams4TGlmNV9KVkRINEREZUo2SXRta0tXblVOMkZlSVZ3Ni03bXFvQ3FIZG1EbnBiLWlSbjQ3b1FseVMwWi02ZH"
     },
     {
-      "title": "¿Qué está pasando con la inteligencia artificial en México y el mundo empresarial? - MexicoIndustry",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzRKN0JaaTVsM0tqVHQtR1Y3dHFGVjh2Y3VraU9ya3JwdThrdV9WV2pfZ282M01WWXl3RXVTRjlwMVhYVl9sZ3k0dHNMdzl1aHV3MEtMMnNkeXNkRmtOX0pzQmU3OTZRTVZodFE5YTJ4QkNaZENacnE2QjllYWVLcEV0U184MXd2TEZScksxaVdjMjhPRnBlYURDYXBpUVhxYklxSE8yZWpFdjlXY2l4MFdfTHhpQQ?oc=5",
+      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 20 Feb 2026 21:05:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzRKN0JaaTVsM0tqVHQtR1Y3dHFGVjh2Y3VraU9ya3JwdThrdV9WV2pfZ282M01WWXl3RXVTRjlwMVhYVl9sZ3k0dHNMdzl1aHV3MEtMMnNkeXNkRmtOX0pzQmU3OTZRTVZodFE5YTJ4QkNaZENacnE2QjllYWVLcEV0U184MXd2TEZScksxaVdjMjhPRnBlYURDYXBpUVhxYklxSE8yZWpFdjlXY2l4MFdfTHhpQQ?oc="
+      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
     },
     {
       "title": "La startup donde la IA crea embriones - El Financiero",
