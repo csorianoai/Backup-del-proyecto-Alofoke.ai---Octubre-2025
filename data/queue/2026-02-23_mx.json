@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Con 100,000 canciones nuevas al día, ganar en Spotify es imposible",
-      "url": "https://expansion.mx/tecnologia/2026/02/23/con-100-000-canciones-nuevas-al-dia-ganar-en-spotify-es-imposible",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Feb 2026 11:55:33 GMT",
-      "summary": "Músicos del mundo no solo deben lidiar con ganar la atención de los usuarios, ahora buscan un espacio de visibilidad casi imposible de tener en las plataformas on demand."
-    },
-    {
-      "title": "Uber pausa operación en Jalisco, Didi mantiene servicio en zonas clave",
-      "url": "https://expansion.mx/tecnologia/2026/02/22/uber-pausa-viajes-jalisco-didi-mantiene-servicio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Feb 2026 00:11:54 GMT",
-      "summary": "Las plataformas de movilidad tendrán algunas restricciones de movilidad en zonas de alto conflicto como Jalisco, pero en otras entidades operan servicios de comida y viajes."
-    },
-    {
       "title": "Reseña: Mario Tennis Fever acelera el ritmo del catálogo de Switch 2",
       "url": "https://expansion.mx/tecnologia/2026/02/21/resena-mario-tennis-fever",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "Satya Nadella, CEO de Microsoft, anunció el cambio de dirección, y anunció a Asha Sharma como la nueva directora de Microsoft Gaming."
     },
     {
+      "title": "En el mercado de audífonos, la calidad de audio todavía le gana a la IA",
+      "url": "https://expansion.mx/tecnologia/2026/02/20/audifonos-calidad-de-audio-gana-a-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Feb 2026 20:00:52 GMT",
+      "summary": "En un mercado donde más del 40% de los nuevos audífonos premium integran funciones de IA, Sony defiende que la prioridad sigue siendo el sonido y la cancelación de ruido."
+    },
+    {
+      "title": "Comprar autos en redes eleva hasta 70% el riesgo de fraude; una startup lo evita",
+      "url": "https://expansion.mx/tecnologia/2026/02/20/comprar-auto-en-redes-eleva-70-el-riesgo-de-fraude",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Feb 2026 11:55:08 GMT",
+      "summary": "Ante la falta de mecanismos de pago seguros en marketplaces, una startup mexicana desarrolla una plataforma con validación legal y cuentas de custodia digital para reducir el riesgo en la compraventa de autos usados."
+    },
+    {
       "title": "Entidades de Reino Unido, México y Medellín trabajarán para hallar a los desaparecidos - Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3dxVmp2YVNmYUFqb2NXUWdER0I2eDJNcmR0Z2ZjbF9oXzlsYWVKbHA0QnNuUmtTbTd4aUVPalJWR050bHo0Ukt6QW85ZmZTV2tOWUNFaEtpay1maExZR3ZoSnlKNWl0QjlOVFBBalR6MGI5MXUxXzBfYjZ2UlpXVktuYnZYMmFCdGFLV052Vno0NE1ORzNvNElQaVhCbDJvTmFlV3hZcFdFTnEwSl9zZzF1OUNHSFZsYmtLQ9IB0AFBVV95cUxPRThfTW5nX2c5NjRBeXlSdnRtcXFuMlpVRjBCVTd1T0oxcW0ybkhULU9tYVV5eDZYT25jdUFXNWZubzI0djJnNmdodlBXd3R6a3c0d1VDSEtIejZyNWQzZ0liNTd6SGFIT2trTGV5R2xVVDlMeUNBcVMwa05UX0pyQkdRRnQwRmhwNHJNU2N0QkRYSDlqTTZYZ1ZpOC0tR1JzQ2JEMkFHMmt0WDJ1eUZFeUJadnBSNV9fQ2FaOWlEMGl5YnprTWZwQmJQbEV5VW9a?oc=5",
       "source": "Google News",
@@ -55,16 +55,16 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzFQeWd3UkdMSFVPOHlJZTBMc3pDQ0JmbFNhNEd6ZVBnWVlBbEloaWJMa2Qxek8wUE43TmtaZWFudlpQeU4xVE9TVk5DdHhpZk1wZ3UwdkFYWDdHQ3lRUHpxdE11SXExR1hIQUUwTHVVR0poaE8yd0RzdTNadTl6MUEyZlNOVDN6RWdNT1VjRVNWdy1yZlllWUJUM0QtTzZHQmRUOVlQRkxQcF8yMWdTUDA3NVFvMm1zQkR5NUR6YjlwckhFWEpSU0dIT2hzN29Xb25LLTlpOVNVOXdTQUJJakdWSjNkblkxNXJTQVhSMDVzbjZWNmVmTkc4bnMzWDRZMldTeEVB0gGaAkFVX3lxTE9mNWd3RUdON3RjcEpud1ZId3FMd0h6OW44WEZnNGhIU3VHaTBxeVFUWjNuc1Nvd0ZQMkE4dGpKRVRZandocTNiSXJ3VU1pSUhybnp3R1hnbkp5TktRYU1MZHhzVkhKTWxISDVxaXZ5Q000amdZZUpYbi1oeWpKVmF0NXdON3pGemYzSFZYYllzemlPMDFySC1BMjRVaENjMnNMVk5JeTZydThfMWgzbk5vR201VXFqSjBfUW5WQ3FXTXZzRHBnd0M1T3A1XzEwQkNOYkRhY3lWZFVXaDg1MHdzTnBrLXBHTk11NHhRdjFsemhTdC0zY2o0a2tucWFkV3RGcUIwSXpUbEZGLUhSWW01bVVaN2h2VmFmUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 21 Feb 2026 04:40:00 GMT",
+      "published": "Mon, 23 Feb 2026 02:18:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNNzFQeWd3UkdMSFVPOHlJZTBMc3pDQ0JmbFNhNEd6ZVBnWVlBbEloaWJMa2Qxek8wUE43TmtaZWFudlpQeU4xVE9TVk5DdHhpZk1wZ3UwdkFYWDdHQ3lRUHpxdE11SXExR1hIQUUwTHVVR0poaE8yd0RzdTNadTl6MUEyZlNOVDN6RWdNT1VjRVNWdy1yZlllWUJUM0QtTzZHQmRUOVlQRkxQcF8yMWdTUDA3NVFvMm1zQk"
     },
     {
-      "title": "UNESCO presenta Reporte de Evaluación del Estadio de Preparación de Inteligencia Artificial de México - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LTEtN0xSZzItT21ENk5EVWxPUzgxY0lZLTFubzZn?oc=5",
+      "title": "ODATA enciende QR03 y consolida el mayor campus de data centers de México para la era de la IA - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHRJai1IZm9mOGs0MnNrek8tVW1rRWMwNWJFakp4ZFpxejc0NmkwNVAwZE1mck5oMk1iLU92Qmo0Snh0WjJfT2xySjRjbUNxSDRXWlJzSmpCbHBZMmJpS003M25WUmctM3Vfem1TS2M0RDNRM3VDck9hSFk0WGE3R3lBQkZNcXllOFVyck1VTWRabEJoZXVCVlZvemh6TUFOLVljNHdaNmF1ckNsUEdJLU1VbWNLVzY1bmpmcnBJbmdCdUFJMUoxRXNCNHp5Zmg2SjVobWs1dTVfMWFVbkk4eg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 15:26:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzZoVnl6OGZoaEJpOHpuVDZoRXR6OXczZ3JKc0VqeGJQMS0wTGNiQk8zWkFHN0owLUljR3JPYXpIbEs4ZFlJS2lNSVVtMWh2enJTbHZCSzJQQU1FNlBBVzdEWUdSX3lTRWVoM2tkOEZQZjgtRWdaSXRENlJLUG9KQTlfbkJKVzFncmtfeE55ZGl0RGRLWC1iYWxxaVBvQkxjUVZOQTB3N2s0X3gxMkdyU2o5aFdaXzV1LT"
+      "published": "Mon, 23 Feb 2026 17:26:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHRJai1IZm9mOGs0MnNrek8tVW1rRWMwNWJFakp4ZFpxejc0NmkwNVAwZE1mck5oMk1iLU92Qmo0Snh0WjJfT2xySjRjbUNxSDRXWlJzSmpCbHBZMmJpS003M25WUmctM3Vfem1TS2M0RDNRM3VDck9hSFk0WGE3R3lBQkZNcXllOFVyck1VTWRabEJoZXVCVlZvemh6TUFOLVljNHdaNmF1ckNsUEdJLU1VbWNLVzY1bm"
     },
     {
       "title": "La startup donde la IA crea embriones - El Financiero",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjNYanBWc2VTQWJ2Ym5YWDhNVUROenB2MzZuN05uOFdjOUxjSVhmZFVzbkRfVi05cjZxaE5VNWxWalZ2MDNIaE8xZ1VUaXJiQW9YZTI5Yk1mcTFWazk5dXdZQVlyRWVHYzMxa0pueFR3dWdFUjV5S0xaeXczWjBOOXhzVVZBREVsYWVVTEZqVmlrX1doc3dsMXlWSUZmWl81SmU0aHlLZw?oc=5\" target=\"_blank\">L"
     },
     {
-      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
-    },
-    {
       "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 07 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
+    },
+    {
+      "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 12 Aug 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
