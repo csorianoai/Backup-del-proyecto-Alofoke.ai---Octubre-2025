@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "¿Por qué los millennials se convirtieron en la generación con mayor riesgo de padecer cáncer?",
+      "url": "https://www.latercera.com/tendencias/noticia/por-que-los-millennials-se-convirtieron-en-la-generacion-con-mayor-riesgo-de-padecer-cancer/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Feb 2026 20:00:00 +0000",
+      "summary": "No solo enfrentan más deudas y ansiedad, según investigaciones. Ahora, expertos advierten que los millennials también podrían ser la generación con mayor riesgo de desarrollar cáncer antes de los 50 años."
+    },
+    {
       "title": "Por qué la NASA volvió a retrasar la misión a la Luna “Artemis II”",
       "url": "https://www.latercera.com/tendencias/noticia/por-que-la-nasa-volvio-a-retrasar-la-mision-a-la-luna-artemis-ii/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Sin dietas extremas ni conteo de calorías, una investigación científica detectó pérdidas de grasa y mejoras metabólicas con un cambio fácil de incorporar a la rutina diaria."
     },
     {
-      "title": "Por qué las mujeres suelen tener más problemas para dormir que los hombres, según la ciencia",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-las-mujeres-suelen-tener-mas-problemas-para-dormir-que-los-hombres-segun-la-ciencia/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Feb 2026 09:02:00 +0000",
-      "summary": "Aunque no hay evidencia de que necesiten dormir más horas que los hombres, distintos estudios muestran que las mujeres suelen tener un descanso de peor calidad."
-    },
-    {
       "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
@@ -75,6 +75,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUmlQa2ZnOWV2bTRfSzg3c3R4LUdDZjMyMU5PSGZURGktd2I1S2wwYW9rRkdRTGpFcm1SVGN3WExUSFc5eEJrYzZZX0pDN2syZDQyNG9TcEY0NDF1VlplRld4X29WM3huWDBETnMzWVc1OXRYNnpBZHlHX0hwblcxcGxpSTY5bk0taHJMZHg1MjctUnl2a2RZcmVVUTBOeVBQQ010RTUwOVY3Qlh5WFNuano5LXFYcDRBOU"
     },
     {
+      "title": "¿Unión Española, Cobreloa o Santiago Wanderers? La Inteligencia Artificial define quién es el más grande de... - bolavip.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQUEwNWZDM1R4Qkw4d082bmF3YThOVjFWYjkweXJvMFVPTmlTUVJCdGc1TkVUU2R4NzR0RTdaUFlIYkJkX3ZmekpwV2dQQVJfMk1ELTJma19jdUsxSDg3MURRSC1zcDhkSGY5ZWNsM0dfb0VtdmRrdjVxQ2p4NUpwNFpISDkzRG8yT0d2am5HNDdwcndPZ2NoOVlRYXhJcGFmTGUxUTNwU2FIbjc1RXM3WGdOQmxIa2RKSk1BM2dNYmlQRm50TldUb19GVUJZTDAxUnFEZ2tEd2hKQmotN1NuMXdWVdIB4wFBVV95cUxQQUEwNWZDM1R4Qkw4d082bmF3YThOVjFWYjkweXJvMFVPTmlTUVJCdGc1TkVUU2R4NzR0RTdaUFlIYkJkX3ZmekpwV2dQQVJfMk1ELTJma19jdUsxSDg3MURRSC1zcDhkSGY5ZWNsM0dfb0VtdmRrdjVxQ2p4NUpwNFpISDkzRG8yT0d2am5HNDdwcndPZ2NoOVlRYXhJcGFmTGUxUTNwU2FIbjc1RXM3WGdOQmxIa2RKSk1BM2dNYmlQRm50TldUb19GVUJZTDAxUnFEZ2tEd2hKQmotN1NuMXdWVQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Feb 2026 19:26:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQUEwNWZDM1R4Qkw4d082bmF3YThOVjFWYjkweXJvMFVPTmlTUVJCdGc1TkVUU2R4NzR0RTdaUFlIYkJkX3ZmekpwV2dQQVJfMk1ELTJma19jdUsxSDg3MURRSC1zcDhkSGY5ZWNsM0dfb0VtdmRrdjVxQ2p4NUpwNFpISDkzRG8yT0d2am5HNDdwcndPZ2NoOVlRYXhJcGFmTGUxUTNwU2FIbjc1RXM3WGdOQmxIa2RKSk"
+    },
+    {
       "title": "Microsoft elige Santiago para lanzar su AI Tour en Latinoamérica y debatir el futuro de la inteligencia artificial - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl9VX3NIZEZCNXV4YUhSaXVtRm1RZUNaNFNLbTR5U0NjSE9rcWs1OXlLTWlrbjlBYXRYQl9CNXl1TFBFTFJua0ZoUG1FbmxoTWprTjJMZlM?oc=5",
       "source": "Google News",
@@ -83,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUZmSWxTalcxaG1TU1pVWXd2MEo0SzdxV0JiZHdmU1lOQldza0RncjJCbkRNQWVDMmVXTm9tUU9RUGk4Vmc0N1VrMjlYN1N3eFVXSXRIM0k5NGhOYnZlSkZPZWh1b2dmaGl0Q2VMRUhHTi1mRG9LNktxUEItc0VGeElDS0s2NEdtRmpRc2xfWGZpRDEwdGQzY3hxaXpRb29YV0xrSG9sZ09SX25SdHE1VGVtWGdsd25Ibl"
     },
     {
-      "title": "Santiago Niño Becerra, economista, alerta: “Las empresas de IA están despidiendo a informáticos porque las herramientas que crearon se están programando a sí mismas para ser más inteligentes” - Lecturas",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPLUxYVDlrSVlnOFA5NkFiWmRhRzlpMGhBakxlamNQRXgzcFk3QlRMMGZSRzhEa0syMXA4VllSbi1fYVM3SXJsM3RWLWJOTGVUU2w0YlhmMURMR1JSc1hKcUROVlZiN1cya2sxamZaVkFDMFg2UmVOMTlKMmxzMVdKY0NTNjhOS2kybXAyc24tSW5uVGc3cWJtVmxXa2dNUEw2QkYyeUx0OExoWm0tWUhodHdIVTdLNXBvQ0hWQklYVG1GX0g3aDRKSnh4WlNMaVRGakVfVENkSS0xODNGdkdaWkNBYms1RTVaaWU2a0pwd3dHVm9wc2kxSDVpR1V0SGpVYU5jVmVwRy1IUTNkYnhlMk1TRTdXWGtoU2g0S0k4TDg1VFRSVUhHYWFIZWRLeWcxcEU2MDRSa2dzZw?oc=5",
+      "title": "InnPacta 2026: CCU ofrece US$10.000 a startups en Chile - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWFFNXdkMDJDX1hXRDBfMVp5NUZMekIzWmpKWVRHZDNTcXNWTFlpMVFPTHhlYkxKeWFDZWxlTm51VUZJLU51TlNSU0VTcXRGdm13VU8wa1BURUVZMHZMeUxGUmVacU1vRnN2NW1mOHJOS01MN01iX3kyRHRia2lQQlZwTzQyY0tGdDRJVw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 18 Feb 2026 10:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugJBVV95cUxPLUxYVDlrSVlnOFA5NkFiWmRhRzlpMGhBakxlamNQRXgzcFk3QlRMMGZSRzhEa0syMXA4VllSbi1fYVM3SXJsM3RWLWJOTGVUU2w0YlhmMURMR1JSc1hKcUROVlZiN1cya2sxamZaVkFDMFg2UmVOMTlKMmxzMVdKY0NTNjhOS2kybXAyc24tSW5uVGc3cWJtVmxXa2dNUEw2QkYyeUx0OExoWm0tWUhodHdIVTdLNXBvQ0"
+      "published": "Mon, 23 Feb 2026 20:49:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVWFFNXdkMDJDX1hXRDBfMVp5NUZMekIzWmpKWVRHZDNTcXNWTFlpMVFPTHhlYkxKeWFDZWxlTm51VUZJLU51TlNSU0VTcXRGdm13VU8wa1BURUVZMHZMeUxGUmVacU1vRnN2NW1mOHJOS01MN01iX3kyRHRia2lQQlZwTzQyY0tGdDRJVw?oc=5\" target=\"_blank\">InnPacta 2026: CCU ofrece US$10.000 a"
     },
     {
-      "title": "Viper en StartCO 2026: scaleup chilena de seguridad operacional - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaU1kY09GSU93T1gyN0pTQnF5WU5wU25FeFFqdVpMQXBoYzc5Wk1PalZmc1dLZkk4anBUTUFsU01TMTNYZXVlbURLMnExRWk1OGVIbmthYUhUdUdaeXpobVgzSGRiWE5nQXdnZ2JzdFFsZzNZcVdQNzZfZnVoTzRpLWU4M3lWU04zc0wxeDNXV2NJbVdMUGE0Qw?oc=5",
+      "title": "Startup chilena automatiza compliance normativo en gobierno - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEZ6U1pHX01BMkIxRURvXzhuWmtwb0pWYlpqVlQ5NVBFWFVVX2VWa1pfVTdfY1h0VHR3UHF3OWNVTFg5OTJsaXJJbUE0Z05VTVBuMGVRYVluSnpNYi1pS3NCWWZXWWU3RVZiN05XN2thNVBOcGFTV1BlbGk4SWJXUDRsQzFfbnJsaWVSbDJzUjkwblZi?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 23 Feb 2026 15:28:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaU1kY09GSU93T1gyN0pTQnF5WU5wU25FeFFqdVpMQXBoYzc5Wk1PalZmc1dLZkk4anBUTUFsU01TMTNYZXVlbURLMnExRWk1OGVIbmthYUhUdUdaeXpobVgzSGRiWE5nQXdnZ2JzdFFsZzNZcVdQNzZfZnVoTzRpLWU4M3lWU04zc0wxeDNXV2NJbVdMUGE0Qw?oc=5\" target=\"_blank\">Viper en StartCO 2026"
+      "published": "Mon, 23 Feb 2026 18:47:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcEZ6U1pHX01BMkIxRURvXzhuWmtwb0pWYlpqVlQ5NVBFWFVVX2VWa1pfVTdfY1h0VHR3UHF3OWNVTFg5OTJsaXJJbUE0Z05VTVBuMGVRYVluSnpNYi1pS3NCWWZXWWU3RVZiN05XN2thNVBOcGFTV1BlbGk4SWJXUDRsQzFfbnJsaWVSbDJzUjkwblZi?oc=5\" target=\"_blank\">Startup chilena automatiza "
     },
     {
       "title": "Start-Up Chile selecciona a 64 emprendimientos tecnológicos para acelerar desde marzo - Diario Financiero",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Mon, 02 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjg0eVBYeV9UcGd4U1Nid2RPZ2xPRG5kdVM4U2wwVWtrdk05Q0lXSjF2UUVSS1ZFbTB2MmxxUmw3UlQ1Nk9NMzBwN0otOWFnX1NRQmNneUUzNVVvWlVQVjhSYXBpbHdDNlZXRUNQUUtmY2pjQ3FvZFhJWEJIOGlJWDBTZDFYR0stckNSdkQ3c0pkWlZtNTJfOGhHTXp3UW5kb1BxOWc2a2kxVm1CLWdLRVNudVNMaTdSRj"
-    },
-    {
-      "title": "Conoce a la fundadora de una nueva startup en DC nombrada nueva ministra de innovación en Chile - Technical.ly",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5\" target=\"_blank\">Conoce a la fundadora de una nueva startup "
     }
   ],
   "count": 14
