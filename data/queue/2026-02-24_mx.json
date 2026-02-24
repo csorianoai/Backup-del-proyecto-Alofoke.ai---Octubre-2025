@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Aguascalientes va por impuesto a apps de reparto y abre debate por su impacto",
+      "url": "https://expansion.mx/tecnologia/2026/02/24/aguascalientes-impuesto-apps-reparto-debate-impacto",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Feb 2026 22:00:48 GMT",
+      "summary": "AlianzaIn México advierte que la medida es discriminatoria, afecta a repartidores, pequeños comercios y consumidores."
+    },
+    {
+      "title": "Las personas pierden hasta 3 horas al día en redes sociales",
+      "url": "https://expansion.mx/tecnologia/2026/02/24/las-personas-pierden-hasta-3-horas-al-dia-en-redes-sociales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Feb 2026 19:00:03 GMT",
+      "summary": "En un entorno donde el diseño se enfoca en distraer es difícil medir el costo diario, pero en el caso de México, la adicción a las redes sociales tiene un tiempo promedio."
+    },
+    {
       "title": "No solo con Nvidia, Meta hace acuerdo de IA con AMD",
       "url": "https://expansion.mx/tecnologia/2026/02/24/no-solo-con-nvidia-meta-hace-acuerdo-de-ia-con-amd",
       "source": "Expansión Tecnología",
@@ -27,28 +43,20 @@
       "summary": "Con apenas un especialista por cada 10,000 habitantes —por debajo de lo recomendado por la OMS—, la rehabilitación opera limitada ante el envejecimiento y la alta prevalencia de discapacidad."
     },
     {
-      "title": "El Mundial moverá 3,000 mdd y la batalla tecnológica será por retener al fan",
-      "url": "https://expansion.mx/tecnologia/2026/02/23/el-mundial-movera-3-000-mdd-y-la-batalla-tecnologica-sera-por-retener-al-fan",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Feb 2026 22:00:05 GMT",
-      "summary": "La Copa del Mundo no solo se juega en la cancha, ya que las empresas tecnológicas analizan el comportamiento del fan para impulsar conciertos, Fan Fest y turismo."
-    },
-    {
-      "title": "Tras caída de “El Mencho” se registrarían entre 200 y 500 fake news en 48 horas",
-      "url": "https://expansion.mx/tecnologia/2026/02/23/caida-el-mencho-provoca-200-y-500-fake-news-en-48-horas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Feb 2026 19:30:35 GMT",
-      "summary": "Usuarios de redes sociales son clave en la desinformación, pues posterior a un evento como el sucedido el fin de semana, se amplifican fake news."
-    },
-    {
-      "title": "México está en pañales en adopción de inteligencia artificial - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmpVWEdmWTgwTnctWTk2MWV6aEdxcW5pQ1NJcU5wc3M5LTEyZ2JzX0NWeE5DWElWLWxXNGRHNVhRM0hnRURXbmpMSm9mdjllWHA1dUxOcjlJbjlORDBHZXpQZHBxUnZkUUNXY1lXYmdKYUZsYTNraWdIU2pzSGlkNUhJamltc3I2NmVUQURuWVZPUS1MZTRnWHJJUWZXMDdCNjdIVmZSZFVtOWtnTXJHOdIBtgFBVV95cUxQWU5aeWlBV25qeGpQeE94bXdtZ2s0RmI5M00xTkE4QjZyVGNSYV9IejZPY0dwVlBkbUNEai05MFBoSnQ0TlVJVExKdUpsV0VXNFBDLWVQN0YwV2UtTjlONEtUaHVTZFpIaDVSYWk0NUtGX0M2bE5NZFJqcXRhTmxCSWJnbmw0Wk9rZVIyWE5TMmRtZjdlQjJTUXA0V0o2RktFdWdlOVNWeUJ0MW5RLVFBUFNBaXBCQQ?oc=5",
+      "title": "NOVA es la inteligencia artificial que transforma los pagos fallidos en oportunidades de crecimiento - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLXpxMkVqRHJOaHM1QkVwdkJjcEx0dmRQUEZZelg5ZkI4eUNKcWd5Tmh5RFVpT25WQmkwa09ELWluWnByTHpaYjlQb1JlaWN6RF9pa29qRE1GR2pqdWRKSXRjZVJseTBHZHZfZGRJODlvTmZPUmQtS19sY1BOSlN4VzRvYzR1eUh6cmRkVWNxemFacjI2ck00cGxETkZPU05uMjZFVkF5ajhONHEyTmlPMGs4dnpZb2dWRGRLTFoxVG5UMUpiN3RkTlZpWDE0WHNEeU1ibTBqeHlnZzdrY1ZVM0VKRWRLbm8?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Feb 2026 18:09:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmpVWEdmWTgwTnctWTk2MWV6aEdxcW5pQ1NJcU5wc3M5LTEyZ2JzX0NWeE5DWElWLWxXNGRHNVhRM0hnRURXbmpMSm9mdjllWHA1dUxOcjlJbjlORDBHZXpQZHBxUnZkUUNXY1lXYmdKYUZsYTNraWdIU2pzSGlkNUhJamltc3I2NmVUQURuWVZPUS1MZTRnWHJJUWZXMDdCNjdIVmZSZFVtOWtnTXJHOdIBtgFBVV95cU"
+      "published": "Tue, 24 Feb 2026 19:32:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLXpxMkVqRHJOaHM1QkVwdkJjcEx0dmRQUEZZelg5ZkI4eUNKcWd5Tmh5RFVpT25WQmkwa09ELWluWnByTHpaYjlQb1JlaWN6RF9pa29qRE1GR2pqdWRKSXRjZVJseTBHZHZfZGRJODlvTmZPUmQtS19sY1BOSlN4VzRvYzR1eUh6cmRkVWNxemFacjI2ck00cGxETkZPU05uMjZFVkF5ajhONHEyTmlPMGs4dnpZb2dWRG"
+    },
+    {
+      "title": "Inteligencia Artificial: el tren que México no puede perder - Infochannel",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUkzNmJfTUthby00Q3ZSTVNfYTczVWJNak1Va25hd2wwcEF1TmdzLWN3QzRJaEpXTTVMNzBwM3dydXZuYjFZcFBHa09NaGdsTXhmd08tR05XWm5qYUFMRmxQZldVR1Z6aWRudEVqT0JVS1BJZXVyWXFBTE9vSmZCTFRtNWdZNERBU3c4dg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 24 Feb 2026 14:48:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUkzNmJfTUthby00Q3ZSTVNfYTczVWJNak1Va25hd2wwcEF1TmdzLWN3QzRJaEpXTTVMNzBwM3dydXZuYjFZcFBHa09NaGdsTXhmd08tR05XWm5qYUFMRmxQZldVR1Z6aWRudEVqT0JVS1BJZXVyWXFBTE9vSmZCTFRtNWdZNERBU3c4dg?oc=5\" target=\"_blank\">Inteligencia Artificial: el tren que "
     },
     {
       "title": "Búsqueda de desaparecidos: Medellín se conecta con Reino Unido y México usando inteligencia artificial - Hora 13 Noticias",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 23 Feb 2026 19:21:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnN3bURZSnBIRmRaZExBYXFhQ1k1alE2eldQMGo3T2V3SV9tSVVpaVBGTUVQYVRfLV9BbWYweHlrUklDazhRMDM1NzdKNjRudE9pMXVPblJ2UnZWRFJwb1dBZEx2eXVsVktibkhIM2NHdXdvVmRrTkFBMmN1N2FweUtrN0JrZ3h3aXAtUGdsb1ZPa1EzMDV3bkRsVW55SWxxbWFMZUFidEdLQkEwNTBxOTg1MEdUb2Jpbm"
-    },
-    {
-      "title": "México debe eliminar cuellos de botella y definir una política integral de IA: CMD - MILENIO",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LaFFEVi1COWRQNkQ5ZlUyMjgzQ0t4aU1pUWpTOXEtdWJXSEw4aUVMbnZSLXJLN25vVlJrSlY1UzVmWUpSR1RCZnFHNktaNGlGeTBUZWlNR0VzQXJ6ZERXUTBFSUZDVFlqbmkxeDJ0ajFGaHVSNkRBU0ZR0gF6QVVfeXFMTWJNX0JQS0tKcHhhX09jZnQ1ckgwRjBiZGVyUk5VaFFYdHh1OWZZREVmRllpM3lodE1zSTBPaE9vVktBbG9mZEl3LUR2cVJUVHRic0lSam52Z0xyUk0zcVBfT1dNMlU1bHgwNHdieng5QXNLQXZuTTR1Y1E?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 24 Feb 2026 17:56:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1LaFFEVi1COWRQNkQ5ZlUyMjgzQ0t4aU1pUWpTOXEtdWJXSEw4aUVMbnZSLXJLN25vVlJrSlY1UzVmWUpSR1RCZnFHNktaNGlGeTBUZWlNR0VzQXJ6ZERXUTBFSUZDVFlqbmkxeDJ0ajFGaHVSNkRBU0ZR0gF6QVVfeXFMTWJNX0JQS0tKcHhhX09jZnQ1ckgwRjBiZGVyUk5VaFFYdHh1OWZZREVmRllpM3lodE1zSTBPaE"
     },
     {
       "title": "La startup donde la IA crea embriones - El Financiero",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
-    },
-    {
       "title": "IA en la enseñanza: especialista Tec habla de sus retos y beneficios - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVGZQZE9hcw?oc=5",
       "source": "Google News",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Tue, 02 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
+    },
+    {
+      "title": "Cómo lucirá Monterrey en 200 años, según la IA - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5\" target=\"_blank\">Cómo lucirá Monterrey en 200"
     }
   ],
   "count": 14
