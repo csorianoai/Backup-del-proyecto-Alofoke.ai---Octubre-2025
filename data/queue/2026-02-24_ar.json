@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Samsung presenta su nueva línea de celulares Galaxy S26 en el evento Unpacked 2026: todos los rumores",
+      "url": "https://www.clarin.com/tecnologia/samsung-presenta-nueva-linea-celulares-galaxy-s26-evento-unpacked-2026-rumores_0_ey8kC1DUAv.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Feb 2026 16:45:19 +0000",
+      "summary": "<ul><li>La compañía surcoreana revelará desde San Francisco los detalles de sus nuevos smartphones premium y sus funciones basadas en inteligencia artificial. </li><li>El evento puede seguirse en directo desde las 15 (hora argentina) a través de sus canales oficiales.</li></ul>"
+    },
+    {
+      "title": "Cómo ver televisión en vivo gratis desde tu celular o tablet",
+      "url": "https://www.clarin.com/tecnologia/ver-television-vivo-gratis-celular-tablet_0_0MUOiK5bxb.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Feb 2026 15:22:05 +0000",
+      "summary": "<ul><li>Estas opciones cuentan con anuncios publicitarios en su programación.</li><li>Servicios como Plex o Samsung TV Plus, entre las alternativas.</li></ul>"
+    },
+    {
       "title": "Vehículos conectados: qué datos recopilan los autos de hoy, quién puede acceder y para qué se usan",
       "url": "https://www.clarin.com/tecnologia/vehiculos-conectados-datos-recopilan-autos-hoy-puede-acceder-usan_0_drNvrTV2QL.html",
       "source": "Clarín Tecnología",
@@ -27,22 +43,6 @@
       "summary": "<ul><li>El proyecto de SpaceX prevé instalar una base autosustentable que pueda expandirse con misiones sucesivas. </li><li>La meta es convertir al satélite en un laboratorio clave antes de avanzar hacia Marte.</li></ul>"
     },
     {
-      "title": "\"La transparencia es la mayor seguridad\": Narendra Modi aboga por una IA de código abierto para que sirva como un bien común global",
-      "url": "https://www.clarin.com/mundo/transparencia-mayor-seguridad-narendra-modi-aboga-ia-codigo-abierto-sirva-bien-comun-global_0_6uDih5Pr60.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 21 Feb 2026 21:41:07 +0000",
-      "summary": "<ul><li>El pedido surgió durante la Cumbre de Impacto de la IA 2026, en India</li><li>Con el acrónimo Manav, que significa humano en hindi, proponen aplicar conceptos éticos y soberanos al uso de la inteligencia artificial.</li><li>También reclamó etiquetas de autenticidad para evitar engaños al púb"
-    },
-    {
-      "title": "Mendoza: ordenan a una madre dejar de publicar fotos de su hija adolescente en redes sociales",
-      "url": "https://www.clarin.com/tecnologia/mendoza-ordenan-madre-dejar-publicar-fotos-hija-adolescente-redes-sociales_0_HJcg3urFVG.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 21 Feb 2026 08:46:48 +0000",
-      "summary": "<ul><li>El fallo es del Juzgado de Familia de Gestión Asociada de Las Heras.</li><li>La adolescente inició la acción por derecho propio y con abogados.</li><li>La Justicia prohibió difundir su imagen y ordenó eliminar los contenidos ya publicados.</li></ul>"
-    },
-    {
       "title": "Cómo la Inteligencia Artificial está transformando la industria editorial - inteligenciaargentina.ar",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUtuNERlWk53SjFveFFPenhSZWx0WWpSTU1peGpDZDhLcm10V0FyYnRrMDFNcEh5RGZlRWJxMm5jUWplZUsxN3pmZTVLYV9YeVN0YVdOekNiY0lLM3F5dW1VMGZ3aGN6c1Z0V1JzOHdXYkNzMVptcjItcFBDNkk0UDBPNWZORkR5MFBqT3BESlF6ZEt6STA5c2cteld0VHVEWVVUY0xtR0JjOGZ4UWhTMER5TFFSSE1iOWVHblFpZzM1UDMtUU0zLWNR?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaXZRN1VUNWpYNlVnMHRvbXU0MVF2NnBGeHE0cXhoRlZDckl1WkJlMXBkUW1iOTFpNktKR1pmUndzQ0FJVVdIVjNXY1VFUnozaDlkb0kxTm5mUjF4MG80dkI1VGZjR1l2UU45OWU5Z3RRenpNajZIbFR2d3lDRkNtbEM4T1pDbjRVWnlLcTdIamhodFo2SGZrYXFMX3NkaU9EZHBnZlVVQ0NrTDNNdEowUTZmdTdxcU1kZE"
     },
     {
-      "title": "¿De qué manera la inteligencia artificial está transformando al campo argentino? - La Nueva Provincia",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2FaOFJMZkRidW9iQ3RxdE5pTVdhWGxENnNVOFpLdkpGU3ZHQVo1OGNNNkRha3hPWHNydElBek9VeXgyTXh4RFJCVXVQWHZmTjQyaTMzT3lROG1xSEV4R1BKclhCUzBFdTZsUUJkWU9kUjN5bEROdjJIcC01cElnR09YLVZ4Nnh2ZkFrdnJuWWxPRF9kNG5IWklzTGpidGtnUGtLZTA1dlRvOVp5SjQ5LXlHQnlPN0pwbm5VU2ZQNDFtdw?oc=5",
+      "title": "Argentinos crean una Inteligencia Artificial que jubila la búsqueda de fallos judiciales - iProfesional",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1JORWxzRW9vQ2dUNjdtY0dib256UXZLOGF3RGUwWlJzTEtZT255dkF6dzRrUWM0bFdDRlBaTHFJWXNrMnZUdlE0R18wc0M3Z1RiWGRtN0pKTzNPTnpBZDB5MzhTek1NM2pOYW56Tl90RFNNYkVubXNlenJkVkh1UXFSZV9zbDRGUldkcE9xNTlXdk1ZU0NZQ3F6eGlYNHAxTWx0aEVScy0temVCZmdXeW1sVDEwZy1ONmZSalBHWVo1RXZiVUo2WE1vNnhydGVj0gHWAUFVX3lxTFBDY0lMTHVvNVNGWXRNazdLbF96MTNnQW1iSE5WbVdIVU1PcmNVNDNlTEdEMHMyVi1KR2dmUzBYRFdkZWRGMjBaM0pKUEV6STB4Zy1ISTBqQ3cya0RvMnJjZm5WSUFSeWcyTEhNZ0V0WDQ5U0pYclpoakg3c3UzNm5ZcXFfanZEbTZfUkRWeWJ0VWkwVkwta1lUazdLX29RVU5JM1BzVTlIcVl6ZlhNT3B3LXhNcEtDcnlvaW1kRWFmZGlMYVZENGVzY1VubGJ2RnRQTUpvMlE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Feb 2026 08:03:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2FaOFJMZkRidW9iQ3RxdE5pTVdhWGxENnNVOFpLdkpGU3ZHQVo1OGNNNkRha3hPWHNydElBek9VeXgyTXh4RFJCVXVQWHZmTjQyaTMzT3lROG1xSEV4R1BKclhCUzBFdTZsUUJkWU9kUjN5bEROdjJIcC01cElnR09YLVZ4Nnh2ZkFrdnJuWWxPRF9kNG5IWklzTGpidGtnUGtLZTA1dlRvOVp5SjQ5LXlHQnlPN0pwbm"
+      "published": "Sun, 22 Feb 2026 09:22:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1JORWxzRW9vQ2dUNjdtY0dib256UXZLOGF3RGUwWlJzTEtZT255dkF6dzRrUWM0bFdDRlBaTHFJWXNrMnZUdlE0R18wc0M3Z1RiWGRtN0pKTzNPTnpBZDB5MzhTek1NM2pOYW56Tl90RFNNYkVubXNlenJkVkh1UXFSZV9zbDRGUldkcE9xNTlXdk1ZU0NZQ3F6eGlYNHAxTWx0aEVScy0temVCZmdXeW1sVDEwZy1ONm"
     },
     {
       "title": "La Ciudad de Buenos Aires fortalece vínculos tecnológicos con la Universidad Ben-Gurión de Israel - Infobae",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXVhNkpieURiTFQ5NHFDOENQN0NOM0E0Vm1WRUc2Zmd2aGVZajdiMVRhSWVCUjRzeGxyREt0Uzd2WUp0clNjUHI4THIwRmYtcTBQM0F1Vlcwa2NPSnRGT2FWck1LTWMxMUZudmpnZkZEck5aYUxON2Foc1R4TWs3akFLZzN2RXdp?oc=5\" target=\"_blank\">Humand levanta US$66M Serie A con Kaszek y "
     },
     {
+      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 24 Feb 2026 12:08:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
+    },
+    {
       "title": "La startup argentina que recaudó USD 4 millones para ponerle fin al “caos del Excel” y digitalizar el negocio de la construcción - Infobae",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOU2VpektwYkg3TjRSb2FlenNpZXRtb1BOU0ZkOHl0TzVqSDEwaWFuOWNlc0xOWFBOTjRTY3VqZF92NXBtZHFYT0Y4dHJjUVFMS1JLVk00eTFtZEVQTVBfaEMyWXBFSWtlVXo2TXZfZzF5U3FaYmhzRmZGdmxpTm5jaXBaVGpqM0RGMkN3c3hsM2kzUlBsazZTYkdqaDdsbEsweFJJZUhzaHJRbWh1Y29nYVlneWNCMUE3bUgxd0VrQkFzNExod0haelBRV1M0RFJ2WDZOVGxpc0JKbjh5OTdVRUdTdEVxeEZ6SmlCYUpWUE5aMnIzbGNiMUlUMElENTRt0gGbAkFVX3lxTE9OaGcyMHdmTjRhcmdheDY4TEcxbF8tRHNZQlFSb3c4T3JRTC1lbEtIU3lZMWE2WWYtQmRSRXRtSWt6TERuZDVVTF9ZTEJjSlRCM0NrbDFrQTNRcEhmWXAxU0FCZlJaQUcySjVtRUwxd2FTVjVsVGNFaVdFdDVrWXY2bE1JZkhDTDMxRDJ3Vm9YanVBTk0yaDQ0eGptVHYzTUtfYUhGZDFSdVRFN1RCRlF3OUhYeV9CTHlVOVBIc2NvRTNoSTYwSDl0U1RnVnZGVXpGdjNqd2dPUzFsRU9oN2NUZVFwRm9Sa1EzYXBYN1N6RFdjc1N1cWlIOG1jeDN0enFlMmFmWkVQU2xyaHpxUFduUWh3MFdFTnlyTkE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 18 Feb 2026 03:56:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOU2VpektwYkg3TjRSb2FlenNpZXRtb1BOU0ZkOHl0TzVqSDEwaWFuOWNlc0xOWFBOTjRTY3VqZF92NXBtZHFYT0Y4dHJjUVFMS1JLVk00eTFtZEVQTVBfaEMyWXBFSWtlVXo2TXZfZzF5U3FaYmhzRmZGdmxpTm5jaXBaVGpqM0RGMkN3c3hsM2kzUlBsazZTYkdqaDdsbEsweFJJZUhzaHJRbWh1Y29nYVlneWNCMUE3bU"
-    },
-    {
-      "title": "Lanzar una startup tech en la Argentina de Milei, entre expectativas y riesgos - bloomberglinea.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZzNXQW1rdUp0eEsta2MtLUZwUktRd9IB4gFBVV95cUxNTC1YampodzVadGdQZ0Z4MVZUOVFmWTdyZnhNZ0ZWdzFmd2doTlVkWlJ3Tl9GUEdxV0t5TzdOcEdPT09vS1o2Q0VTS0xjbll1c0xkclFMNXdENkY3NTRYNEJaaTRQc1BrUnVaUkhVQS02M1hRNkJKZ1I2WGE4RzBOVUtNTjBmNHRzcTE0TXVsSHpaNWVFbGN4X0tYS0dqbUh3OHRYVmkxdmFWRkpmYVNJTm1JSkEycFlmMVVSVmJXS1dYODctZVRIN0d6WmkyZFI4Qzk4Ym1mVWVXZmprRnhuVEdB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 22 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZz"
     }
   ],
   "count": 14

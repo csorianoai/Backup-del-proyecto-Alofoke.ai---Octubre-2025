@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "No solo con Nvidia, Meta hace acuerdo de IA con AMD",
+      "url": "https://expansion.mx/tecnologia/2026/02/24/no-solo-con-nvidia-meta-hace-acuerdo-de-ia-con-amd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Feb 2026 16:00:49 GMT",
+      "summary": "Meta busca no depender exclusivamente de Nvidia y refuerza su infraestructura con GPUs MI450 de AMD, en una alianza que podría extenderse por al menos cuatro años."
+    },
+    {
       "title": "Mercado Libre lanza Meli Mega para que ahorres hasta 50% en Netflix, Disney+, HBO Max y Apple TV",
       "url": "https://expansion.mx/tecnologia/2026/02/24/mercado-libre-meli-mega-netflix-disney-hbo-max-apple-tv",
       "source": "Expansión Tecnología",
@@ -27,7 +35,7 @@
       "summary": "La Copa del Mundo no solo se juega en la cancha, ya que las empresas tecnológicas analizan el comportamiento del fan para impulsar conciertos, Fan Fest y turismo."
     },
     {
-      "title": "Tras caída de “El Mencho” se registraron entre 200 y 500 fake news en 48 horas",
+      "title": "Tras caída de “El Mencho” se registrarían entre 200 y 500 fake news en 48 horas",
       "url": "https://expansion.mx/tecnologia/2026/02/23/caida-el-mencho-provoca-200-y-500-fake-news-en-48-horas",
       "source": "Expansión Tecnología",
       "category": "tech",
@@ -35,12 +43,12 @@
       "summary": "Usuarios de redes sociales son clave en la desinformación, pues posterior a un evento como el sucedido el fin de semana, se amplifican fake news."
     },
     {
-      "title": "Sam Altman minimiza preocupaciones por gasto de agua de la IA: son “falsas”",
-      "url": "https://expansion.mx/tecnologia/2026/02/23/sam-altman-minimiza-preocupaciones-por-gasto-de-agua-de-la-ia-son-falsas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Feb 2026 16:00:15 GMT",
-      "summary": "El director ejecutivo de OpenAI desestimó las críticas hacia los sistemas de IA e incluso señaló que el costo energético de “entrenar” humanos es equiparable al de las máquinas."
+      "title": "México está en pañales en adopción de inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmpVWEdmWTgwTnctWTk2MWV6aEdxcW5pQ1NJcU5wc3M5LTEyZ2JzX0NWeE5DWElWLWxXNGRHNVhRM0hnRURXbmpMSm9mdjllWHA1dUxOcjlJbjlORDBHZXpQZHBxUnZkUUNXY1lXYmdKYUZsYTNraWdIU2pzSGlkNUhJamltc3I2NmVUQURuWVZPUS1MZTRnWHJJUWZXMDdCNjdIVmZSZFVtOWtnTXJHOdIBtgFBVV95cUxQWU5aeWlBV25qeGpQeE94bXdtZ2s0RmI5M00xTkE4QjZyVGNSYV9IejZPY0dwVlBkbUNEai05MFBoSnQ0TlVJVExKdUpsV0VXNFBDLWVQN0YwV2UtTjlONEtUaHVTZFpIaDVSYWk0NUtGX0M2bE5NZFJqcXRhTmxCSWJnbmw0Wk9rZVIyWE5TMmRtZjdlQjJTUXA0V0o2RktFdWdlOVNWeUJ0MW5RLVFBUFNBaXBCQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 24 Feb 2026 18:09:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmpVWEdmWTgwTnctWTk2MWV6aEdxcW5pQ1NJcU5wc3M5LTEyZ2JzX0NWeE5DWElWLWxXNGRHNVhRM0hnRURXbmpMSm9mdjllWHA1dUxOcjlJbjlORDBHZXpQZHBxUnZkUUNXY1lXYmdKYUZsYTNraWdIU2pzSGlkNUhJamltc3I2NmVUQURuWVZPUS1MZTRnWHJJUWZXMDdCNjdIVmZSZFVtOWtnTXJHOdIBtgFBVV95cU"
     },
     {
       "title": "Búsqueda de desaparecidos: Medellín se conecta con Reino Unido y México usando inteligencia artificial - Hora 13 Noticias",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnN3bURZSnBIRmRaZExBYXFhQ1k1alE2eldQMGo3T2V3SV9tSVVpaVBGTUVQYVRfLV9BbWYweHlrUklDazhRMDM1NzdKNjRudE9pMXVPblJ2UnZWRFJwb1dBZEx2eXVsVktibkhIM2NHdXdvVmRrTkFBMmN1N2FweUtrN0JrZ3h3aXAtUGdsb1ZPa1EzMDV3bkRsVW55SWxxbWFMZUFidEdLQkEwNTBxOTg1MEdUb2Jpbm"
     },
     {
-      "title": "No, esta imagen de varios incendios simultáneos en la ciudad mexicana de Vallarta no es real: está generada con inteligencia artificial - Maldita.es",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUGJHcmcwb1B5a0N5SkpmaW10cjBfWFduQTZHTmIxMzlvQ3NQTjVlT1BKQ0V5SnpUVG1STm9tNUtUSnRDZDVscUdqaEJLQUFLdWVkTTc2aGZCbXFpdVc2OExmZ3FvbGJ0bXpaMzQ2aXZoNXNuZ1pGaDVWem9zSlQzQ0hkX293VDRGaEV1aEhldDNaY3JwdVdxYUc4OXlVVktCbU9RQzBnNm9HZG82a09QdkVtOXA1WVA1NUh5X19USlNDRzRlRU1JWW9aNVZ5RFl6ODd6NlM4d0ttaTl2N3hrd09B?oc=5",
+      "title": "México debe eliminar cuellos de botella y definir una política integral de IA: CMD - MILENIO",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LaFFEVi1COWRQNkQ5ZlUyMjgzQ0t4aU1pUWpTOXEtdWJXSEw4aUVMbnZSLXJLN25vVlJrSlY1UzVmWUpSR1RCZnFHNktaNGlGeTBUZWlNR0VzQXJ6ZERXUTBFSUZDVFlqbmkxeDJ0ajFGaHVSNkRBU0ZR0gF6QVVfeXFMTWJNX0JQS0tKcHhhX09jZnQ1ckgwRjBiZGVyUk5VaFFYdHh1OWZZREVmRllpM3lodE1zSTBPaE9vVktBbG9mZEl3LUR2cVJUVHRic0lSam52Z0xyUk0zcVBfT1dNMlU1bHgwNHdieng5QXNLQXZuTTR1Y1E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Feb 2026 09:05:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUGJHcmcwb1B5a0N5SkpmaW10cjBfWFduQTZHTmIxMzlvQ3NQTjVlT1BKQ0V5SnpUVG1STm9tNUtUSnRDZDVscUdqaEJLQUFLdWVkTTc2aGZCbXFpdVc2OExmZ3FvbGJ0bXpaMzQ2aXZoNXNuZ1pGaDVWem9zSlQzQ0hkX293VDRGaEV1aEhldDNaY3JwdVdxYUc4OXlVVktCbU9RQzBnNm9HZG82a09QdkVtOXA1WVA1NU"
-    },
-    {
-      "title": "Entidades de Reino Unido, México y Medellín trabajarán para hallar a los desaparecidos - Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3dxVmp2YVNmYUFqb2NXUWdER0I2eDJNcmR0Z2ZjbF9oXzlsYWVKbHA0QnNuUmtTbTd4aUVPalJWR050bHo0Ukt6QW85ZmZTV2tOWUNFaEtpay1maExZR3ZoSnlKNWl0QjlOVFBBalR6MGI5MXUxXzBfYjZ2UlpXVktuYnZYMmFCdGFLV052Vno0NE1ORzNvNElQaVhCbDJvTmFlV3hZcFdFTnEwSl9zZzF1OUNHSFZsYmtLQ9IB0AFBVV95cUxPRThfTW5nX2c5NjRBeXlSdnRtcXFuMlpVRjBCVTd1T0oxcW0ybkhULU9tYVV5eDZYT25jdUFXNWZubzI0djJnNmdodlBXd3R6a3c0d1VDSEtIejZyNWQzZ0liNTd6SGFIT2trTGV5R2xVVDlMeUNBcVMwa05UX0pyQkdRRnQwRmhwNHJNU2N0QkRYSDlqTTZYZ1ZpOC0tR1JzQ2JEMkFHMmt0WDJ1eUZFeUJadnBSNV9fQ2FaOWlEMGl5YnprTWZwQmJQbEV5VW9a?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 23 Feb 2026 07:23:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3dxVmp2YVNmYUFqb2NXUWdER0I2eDJNcmR0Z2ZjbF9oXzlsYWVKbHA0QnNuUmtTbTd4aUVPalJWR050bHo0Ukt6QW85ZmZTV2tOWUNFaEtpay1maExZR3ZoSnlKNWl0QjlOVFBBalR6MGI5MXUxXzBfYjZ2UlpXVktuYnZYMmFCdGFLV052Vno0NE1ORzNvNElQaVhCbDJvTmFlV3hZcFdFTnEwSl9zZzF1OUNHSFZsYm"
+      "published": "Tue, 24 Feb 2026 17:56:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1LaFFEVi1COWRQNkQ5ZlUyMjgzQ0t4aU1pUWpTOXEtdWJXSEw4aUVMbnZSLXJLN25vVlJrSlY1UzVmWUpSR1RCZnFHNktaNGlGeTBUZWlNR0VzQXJ6ZERXUTBFSUZDVFlqbmkxeDJ0ajFGaHVSNkRBU0ZR0gF6QVVfeXFMTWJNX0JQS0tKcHhhX09jZnQ1ckgwRjBiZGVyUk5VaFFYdHh1OWZZREVmRllpM3lodE1zSTBPaE"
     },
     {
       "title": "La startup donde la IA crea embriones - El Financiero",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjNYanBWc2VTQWJ2Ym5YWDhNVUROenB2MzZuN05uOFdjOUxjSVhmZFVzbkRfVi05cjZxaE5VNWxWalZ2MDNIaE8xZ1VUaXJiQW9YZTI5Yk1mcTFWazk5dXdZQVlyRWVHYzMxa0pueFR3dWdFUjV5S0xaeXczWjBOOXhzVVZBREVsYWVVTEZqVmlrX1doc3dsMXlWSUZmWl81SmU0aHlLZw?oc=5\" target=\"_blank\">L"
     },
     {
-      "title": "Automotus, la startup que usa IA para automatizar ciudades, recibe una nueva ronda de 9 millones de dólares - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VVAwQWZVNDlTQVBDbzJKb190TEg1a0M2SlJxblNwQnYyRkZLN0ZkTTg4OGZQdDMtQmNwMTZB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUpuUEcxVkFzbldrVW1tMFMwQXRKdG1tQmdMU2hIVHo3ZmJQU0pxUUoxNFQxX1podDBQUnNzUVFwX2M5YWxUTGNsaE5WbFFvUnB0UlA3RUZCeEVSWHdlN09BdFk2akwydXJVaGhIajY1b2Mydl9KSUNpbDJreHlwczUzQkNSNjRJcGhpVnI1V3dQMGJXRkkxRWZsYjFVcUF1Ql9DVi0yZFgzel9PU1VKODY4ODBLV0t0VV"
-    },
-    {
       "title": "Las startups latinoamericanas de inteligencia artificial que prometen ser unicornios en 2025 - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTWpSOUZfOGU?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 12 Aug 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUzZMVmpXZFlMb1Y1QmhVVDBkZkVGaE5jaGRnNVlHSktDbXV5b1h3Nl9pcmhjdFprWER0SC1nblRfV05Db1pYbnNTVXVoQUpydS1DWlFPbWZ2OUZzRzlYVFBDcUV4OHFjQktrd185dnJnb2xLRGkyUUhGbF9PTmt5ODI0b0NmTXp0MVJrUjBFNU43LVpaSk5ReWY0VE5jei0wZ0ZUS3B3ZVI4Mi02MGdQX3F2S2dPUnFMTW"
+    },
+    {
+      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
