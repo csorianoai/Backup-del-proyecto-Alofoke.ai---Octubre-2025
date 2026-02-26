@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Galaxy Buds 4 traducen en tiempo real y llevan IA a tus oídos",
-      "url": "https://expansion.mx/tecnologia/2026/02/26/galaxy-buds-4-samsung-compite-nuevo-segmento-audifonos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 26 Feb 2026 18:00:43 GMT",
-      "summary": "En un mercado de audífonos que crece con menor dinamismo, la compañía busca diferenciarse con una experiencia integrada que combina IA, sonido adaptativo y diseño."
-    },
-    {
-      "title": "Sin tarifas dinámicas, inDrive reporta ingresos 30% mayores para sus conductores",
-      "url": "https://expansion.mx/tecnologia/2026/02/26/indrive-reporta-ingresos-30-mayores-para-conductores",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 26 Feb 2026 16:00:19 GMT",
-      "summary": "Un estudio sobre inDrive muestra que la reducción del margen de intermediación y el abandono de tarifas dinámicas centralizadas pueden ampliar el mercado sin encarecer el servicio."
-    },
-    {
       "title": "México discute una Ley de IA en medio de un vacío institucional",
       "url": "https://expansion.mx/tecnologia/2026/02/26/mexico-discute-una-ley-de-ia-en-medio-de-un-vacio-institucional",
       "source": "Expansión Tecnología",
@@ -43,6 +27,30 @@
       "summary": "La empresa surcoreana presentó la nueva familia del Galaxy S26, donde el principal enfoque es la IA integrada en tareas."
     },
     {
+      "title": "Reseña Resident Evil Requiem: Un buen juego, pero una secuela decepcionante",
+      "url": "https://expansion.mx/tecnologia/2026/02/25/resena-resident-evil-requiem",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 25 Feb 2026 15:00:09 GMT",
+      "summary": "Resident Evil Requiem alcanza la excelencia en varios aspectos, pero como sucesor a los remakes y Village se queda corto y desperdicia el potencial que tenía hacia la segunda mitad del juego."
+    },
+    {
+      "title": "Los lentes inteligentes están de moda, pero enfrenta un reto de ecosistema",
+      "url": "https://expansion.mx/tecnologia/2026/02/25/lentes-inteligentes-tienen-reto-ecosistema-interoperable",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 25 Feb 2026 11:55:53 GMT",
+      "summary": "El mercado de lentes inteligentes creció 116% en 2025 y Meta concentra 66% de participación, pero el desafío es construir un ecosistema interoperable con tus demás gadgets."
+    },
+    {
+      "title": "Ley Nacional para Regular el Uso de la Inteligencia Artificial - BASHAM",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUlXNHNsQzh5R196dm1USC1yR1NyOC11eTV5aVZMblNuSVVtbE9GSkFkbERhY1BETlh6ZTAyQ1oxLWVJYzRTbi1QYWJ5bjFEYkJkWFlkd0Y1TU9KNHlnN1N3NjhxZ3N0LUFYTnp3QWR5RU9vU1BsQ1dJc1E3U2FtXzF3QjVlWlNTYjUzOXVlRUgwdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 26 Feb 2026 18:48:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONUlXNHNsQzh5R196dm1USC1yR1NyOC11eTV5aVZMblNuSVVtbE9GSkFkbERhY1BETlh6ZTAyQ1oxLWVJYzRTbi1QYWJ5bjFEYkJkWFlkd0Y1TU9KNHlnN1N3NjhxZ3N0LUFYTnp3QWR5RU9vU1BsQ1dJc1E3U2FtXzF3QjVlWlNTYjUzOXVlRUgwdw?oc=5\" target=\"_blank\">Ley Nacional para Regular el "
+    },
+    {
       "title": "SAT niega haber sido blanco de un ciberataque con Inteligencia Artificial - DPL News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SS3dQVm9Ec1pqZmZJUlFzd0dqTXRUQmZ6aEpHakRTMUwyZnFFa1ZDLVJVazNQWlJMWG4xSUprNUNCRi1mYjBWRUpwWlNSTEpZVzR0cTVoSFYwNlRnREMzYVpOU1RMMHBUdk9HVkVtUHNSUjJpZGRZSEx3?oc=5",
       "source": "Google News",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5SS3dQVm9Ec1pqZmZJUlFzd0dqTXRUQmZ6aEpHakRTMUwyZnFFa1ZDLVJVazNQWlJMWG4xSUprNUNCRi1mYjBWRUpwWlNSTEpZVzR0cTVoSFYwNlRnREMzYVpOU1RMMHBUdk9HVkVtUHNSUjJpZGRZSEx3?oc=5\" target=\"_blank\">SAT niega haber sido blanco de un ciberataque con Inteligencia "
     },
     {
-      "title": "América Latina adopta la inteligencia artificial en servicios públicos - Los Ángeles Press",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZGTHBZT0FCeTNUczFVX0JVVEVJNS1zVjVQU3JPQ0NYbllyaXZWcXdiSHN5VWF1RndaZnBPZXlLeWtQeGRHUmUwZkVDLURHajdJclBBRTBLVHAtZGNraVpxVnAydDhsbU0wNHlNeG91T2pXYTdDOGVoMG9VUHNCd29YdklhbWJXTTZBNGZqUWZ1TFBYOEZwTlcyYTNyaEJLbmhKUEVtcjRybFI4aVRNWHY1OHNUYjJqRmd6MWFjQThDaWJBQkHSAcsBQVVfeXFMUFNwcTR0UkNXbmcwYUpISGNBOTBKa0FIb3ZHV092cllXMC1DWmd4TkctTFNKUGFYQ2NNY2kwR1M4WTNmdXZuN3Z6aWtfTnZrRWZOQlZvYUxDOVpfVV9JM0NRdXExdzVjazhhQ1l5WkJKcGplcTZ3bXFEZnVuLV9EQUVhWFZnVlNTRUNZR2FHYnhKMGJ0QVBNYUJEbFdrM0hfeFpQN0kyWHNFR0QwTEVJLXRqNVBiVndOc0h4N1VmNl92N2tBdUJXcmZCeWs?oc=5",
+      "title": "Colombia y México se unen para regular el 5G y la IA - Impacto TIC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWdUcnQ4TE94RDNCbWRJeXFRdzJFZjBLaldqaHkxQkhLclNIREVNcmU4bm11aEczREt2R2tDXzVhT3AwU1pCZDRuOFhxVHZZUWNpMmNuOEFhM1hjS0RoTzNBUzB1eDNybWlyUE45b3ZiemF3REloMG5oTHlHaHVmeU5Kb2I1WmgtSkN1cC1YQlNvZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 26 Feb 2026 09:11:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZGTHBZT0FCeTNUczFVX0JVVEVJNS1zVjVQU3JPQ0NYbllyaXZWcXdiSHN5VWF1RndaZnBPZXlLeWtQeGRHUmUwZkVDLURHajdJclBBRTBLVHAtZGNraVpxVnAydDhsbU0wNHlNeG91T2pXYTdDOGVoMG9VUHNCd29YdklhbWJXTTZBNGZqUWZ1TFBYOEZwTlcyYTNyaEJLbmhKUEVtcjRybFI4aVRNWHY1OHNUYjJqRm"
-    },
-    {
-      "title": "¿En qué punto real está la IA en la logística de México y América Latina? - THE LOGISTICS WORLD",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzBJRkk0RXJoYlhZZTFRbDY0d0VZNUxlRGFIOTRpbWNBd2xBa0FjcE9uTk1RS1BLQzREbnZSXy1MTjA1Tnk5Ukh4NnJUaDlhNl94eVdSSTdwNk5XeWlDbnZFVzZDMnI4WmhRZzhCazdYOTVpekhIQmhkWVFvRUVPUmY1OGxmcTRqVzFQanM5YVI3ZWxDalFBMmdNWFppRnJKMmJNaF9faVBDeVltSHU2OFo3UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 26 Feb 2026 11:04:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzBJRkk0RXJoYlhZZTFRbDY0d0VZNUxlRGFIOTRpbWNBd2xBa0FjcE9uTk1RS1BLQzREbnZSXy1MTjA1Tnk5Ukh4NnJUaDlhNl94eVdSSTdwNk5XeWlDbnZFVzZDMnI4WmhRZzhCazdYOTVpekhIQmhkWVFvRUVPUmY1OGxmcTRqVzFQanM5YVI3ZWxDalFBMmdNWFppRnJKMmJNaF9faVBDeVltSHU2OFo3UQ?oc=5\" t"
+      "published": "Tue, 24 Feb 2026 23:41:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWdUcnQ4TE94RDNCbWRJeXFRdzJFZjBLaldqaHkxQkhLclNIREVNcmU4bm11aEczREt2R2tDXzVhT3AwU1pCZDRuOFhxVHZZUWNpMmNuOEFhM1hjS0RoTzNBUzB1eDNybWlyUE45b3ZiemF3REloMG5oTHlHaHVmeU5Kb2I1WmgtSkN1cC1YQlNvZw?oc=5\" target=\"_blank\">Colombia y México se unen par"
     },
     {
       "title": "Nvidia rompe récords: qué significa para tu startup tech - Ecosistema Startup",

@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué se sabe del expiloto de la Fuerza Aérea de EEUU acusado de conspirar para entrenar al Ejército de China",
+      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-expiloto-de-la-fuerza-aerea-de-eeuu-acusado-de-conspirar-para-entrenar-al-ejercito-de-china/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Feb 2026 20:00:00 +0000",
+      "summary": "La Fiscalía para el Distrito de Columbia informó que se trata de Gerald Eddie Brown Jr., de 65 años, quien se presume que violó la Ley de Control de Exportación de Armas al entrenar a pilotos de las Fuerza Aérea del gigante asiático."
+    },
+    {
       "title": "Cómo las autoridades de México capturaron a “El Hacha”, presunto operador clave del Cartel Jalisco Nueva Generación",
       "url": "https://www.latercera.com/tendencias/noticia/como-las-autoridades-de-mexico-capturaron-a-el-hacha-presunto-operador-clave-del-cartel-jalisco-nueva-generacion/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Un nuevo análisis sugiere que la calidad de los alimentos, más que la cantidad, podría jugar un rol clave en la ingesta diaria de calorías."
     },
     {
-      "title": "4 recomendaciones para envejecer bien, según un especialista en longevidad",
-      "url": "https://www.latercera.com/tendencias/noticia/4-recomendaciones-para-envejecer-bien-segun-un-especialista-en-longevidad/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 26 Feb 2026 09:01:00 +0000",
-      "summary": "El cardiólogo y fundador del Scripps Research Translational Institute, Eric Topol, compartió una serie de recomendaciones basadas en investigaciones científicas, las cuales según afirma, pueden reducir el riesgo de padecer ciertas enfermedades."
-    },
-    {
       "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFAzNXd2S21QekZFZkNqbE9jWGxVZmxEajVnT0RrV1o1S0tyZDBVUFliTlR4MmN4NWtsbU5yWThFdVZCdE5ZX2t2TUhqN082QmRhbDdKbEEwVXVOcGNXNFFEaXRVWXlkYVItWTFBZi1GY1RrcEJja0Y0aEpjeHVVMkRicEJPSUdPcmVrMENQT1VfQWM?oc=5\" target=\"_blank\">En Chile, la IA desata debat"
     },
     {
-      "title": "Ecosistema emprendedor del Biobío se fortalece en Expo Socabio - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXdZejBFZVNoRF9KdlE0VjRYdzVVWVBGLTZoRE0yc05vYTBQWnN0ZDZVdU1kaVdQYUxFc0NhZmlrZU05Q0duN1lyS3ltOGxRbzZFT3Q2RnItY1dBSjBEYlBzVGl5dmxWZVk2dlZKMlZMeERPUlF6dlJrYl81aW1kM0IycUpIMzZTckd6bFJuSDJvWFB6NXN5Yw?oc=5",
+      "title": "2025: Año Histórico para Biotecnología Agrícola y Agtech - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFhscXFSTEtmUmhhMTNlVWExZTQtbXZLcXhEZkZka2Y3cXM4YlNVdEZfN1dlQ3BWdHd1MWpBQnM2SmgtZXB6RXZoMjhQWTlsV01qMm5aWE5WSzVzT0NuT1ZTU0tmdDJaSmt5UTBVeVkxRDU0aURINzNFMlZMQjJUT0YyU1p4bWFRbnB5QlBSYw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 26 Feb 2026 16:50:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXdZejBFZVNoRF9KdlE0VjRYdzVVWVBGLTZoRE0yc05vYTBQWnN0ZDZVdU1kaVdQYUxFc0NhZmlrZU05Q0duN1lyS3ltOGxRbzZFT3Q2RnItY1dBSjBEYlBzVGl5dmxWZVk2dlZKMlZMeERPUlF6dlJrYl81aW1kM0IycUpIMzZTckd6bFJuSDJvWFB6NXN5Yw?oc=5\" target=\"_blank\">Ecosistema emprendedo"
+      "published": "Mon, 23 Feb 2026 22:49:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFhscXFSTEtmUmhhMTNlVWExZTQtbXZLcXhEZkZka2Y3cXM4YlNVdEZfN1dlQ3BWdHd1MWpBQnM2SmgtZXB6RXZoMjhQWTlsV01qMm5aWE5WSzVzT0NuT1ZTU0tmdDJaSmt5UTBVeVkxRDU0aURINzNFMlZMQjJUT0YyU1p4bWFRbnB5QlBSYw?oc=5\" target=\"_blank\">2025: Año Histórico para Biotecno"
     },
     {
       "title": "Start-Up Chile selecciona a 64 emprendimientos tecnológicos para acelerar desde marzo - Diario Financiero",
