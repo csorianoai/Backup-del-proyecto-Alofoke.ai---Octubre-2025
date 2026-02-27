@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Por 24 horas: el guiño de YouTube a Pokémon en su aniversario 30",
+      "url": "https://www.latercera.com/tendencias/noticia/por-24-horas-el-guino-de-youtube-a-pokemon-en-su-aniversario-30/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 27 Feb 2026 21:05:27 +0000",
+      "summary": "A tres décadas de su debut en Japón, la saga creada en 1996 se mantiene como uno de los fenómenos más influyentes de la cultura pop."
+    },
+    {
+      "title": "¿Son saludables los azúcares naturales como la miel o el jarabe de agave? Esto responden los expertos",
+      "url": "https://www.latercera.com/tendencias/noticia/son-saludables-los-azucares-naturales-como-la-miel-o-el-jarabe-de-agave-esto-responden-los-expertos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 27 Feb 2026 19:00:00 +0000",
+      "summary": "En medio de la recomendación de limitar los azúcares añadidos, muchos optan por edulcorantes etiquetados como “naturales”. Especialistas explican qué tan distinta es su acción en el organismo."
+    },
+    {
       "title": "Qué está pasando entre Pakistán y Afganistán: las claves de una nueva escalada militar",
       "url": "https://www.latercera.com/tendencias/noticia/que-esta-pasando-entre-pakistan-y-afganistan-las-claves-de-una-nueva-escalada-militar/",
       "source": "La Tercera Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Fri, 27 Feb 2026 09:02:00 +0000",
       "summary": "La experta en carreras profesionales y autora del libro The Secret Language of Work (Portfolio, 2026), Erin McGoff, compartió una serie de recomendaciones sobre qué evitar y cómo responder de manera eficiente en estas instancias."
-    },
-    {
-      "title": "Lentes que reconocen caras con IA: el presunto plan de Meta para diferenciarse de otras gafas inteligentes",
-      "url": "https://www.latercera.com/tendencias/noticia/lentes-que-reconocen-caras-con-ia-el-presunto-plan-de-meta-para-diferenciarse-de-otras-gafas-inteligentes/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Feb 2026 09:01:00 +0000",
-      "summary": "La compañía estudia incorporar identificación de rostros en sus gafas inteligentes para potenciar su asistente con IA, en medio de cuestionamientos por privacidad y seguridad."
-    },
-    {
-      "title": "Qué se sabe del expiloto de la Fuerza Aérea de EEUU acusado de conspirar para entrenar al Ejército de China",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-expiloto-de-la-fuerza-aerea-de-eeuu-acusado-de-conspirar-para-entrenar-al-ejercito-de-china/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 26 Feb 2026 20:00:00 +0000",
-      "summary": "La Fiscalía para el Distrito de Columbia informó que se trata de Gerald Eddie Brown Jr., de 65 años, quien se presume que violó la Ley de Control de Exportación de Armas al entrenar a pilotos de las Fuerza Aérea del gigante asiático."
     },
     {
       "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGlvSXB1al9td2NjOVlHcGY4MGZUVkhJNnJtanlSR1ZIM2xhVlN0Y1hyVXB0ZGE2ZXhCcU0tdVhaRjJZMW54d3hnbWZwZWRJT1BId21ETUNfS1ZSYlpwWmdVbXI5dTBkMkFlR0h0TFA2YzhhM1VxeVh5UEU1dDcwcEh4ZDlETGFFNDdVZU5Rck12QVlsMUE?oc=5\" target=\"_blank\">Startup Chilena Revoluci"
     },
     {
+      "title": "Chile, LATAM, Reino Unido, España, Alemania, Ecuador y Brasil: 64 startups integrarán la Generación BIG 11 - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmhlWW1tRUtNLVBHUllZd3RxcmV4cUJiZUpOcXYyV3JHYjhONjhuLTA1cTNBVFU2eVFXeFNoSWZqUkdGYnIyZmdJRThlNmFBT0RvNElqYl90enV6eklJWlE5OGcxc0U1UHNQWGZQbDA4YmpnV1RQcTF0Nl9INWN3aVpqMUUwdE5lOUJ3ci1peGN2bVh2YjVxWDFRR0tDcXVOYmhhYVdCWGx2dVA5SXhsN0pxTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTmhlWW1tRUtNLVBHUllZd3RxcmV4cUJiZUpOcXYyV3JHYjhONjhuLTA1cTNBVFU2eVFXeFNoSWZqUkdGYnIyZmdJRThlNmFBT0RvNElqYl90enV6eklJWlE5OGcxc0U1UHNQWGZQbDA4YmpnV1RQcTF0Nl9INWN3aVpqMUUwdE5lOUJ3ci1peGN2bVh2YjVxWDFRR0tDcXVOYmhhYVdCWGx2dVA5SXhsN0pxTQ?oc=5\" t"
+    },
+    {
       "title": "Start-Up Chile selecciona a 64 emprendimientos tecnológicos para acelerar desde marzo - Diario Financiero",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjg0eVBYeV9UcGd4U1Nid2RPZ2xPRG5kdVM4U2wwVWtrdk05Q0lXSjF2UUVSS1ZFbTB2MmxxUmw3UlQ1Nk9NMzBwN0otOWFnX1NRQmNneUUzNVVvWlVQVjhSYXBpbHdDNlZXRUNQUUtmY2pjQ3FvZFhJWEJIOGlJWDBTZDFYR0stckNSdkQ3c0pkWlZtNTJfOGhHTXp3UW5kb1BxOWc2a2kxVm1CLWdLRVNudVNMaTdSRjVjXw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 02 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjg0eVBYeV9UcGd4U1Nid2RPZ2xPRG5kdVM4U2wwVWtrdk05Q0lXSjF2UUVSS1ZFbTB2MmxxUmw3UlQ1Nk9NMzBwN0otOWFnX1NRQmNneUUzNVVvWlVQVjhSYXBpbHdDNlZXRUNQUUtmY2pjQ3FvZFhJWEJIOGlJWDBTZDFYR0stckNSdkQ3c0pkWlZtNTJfOGhHTXp3UW5kb1BxOWc2a2kxVm1CLWdLRVNudVNMaTdSRj"
-    },
-    {
-      "title": "Nueva generación de Start-Up Chile concentra soluciones innovadoras para agricultura y recursos naturales - Diario Sustentable",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNel9oREpwM1VFM1R2RUxWc3ZNUWFaenQ2S0ptVzZrdTNoS1lvcURmSVhHRndveEM1NE9xdlU5Tl95RFl2bFphNWxpdnBvWHJpY0ROcURYUTNaMkJUMVdsRzRnVzRiMGlnYXlOSndveWx5dFY5TzV0cVBwLUlWRzRnREZwNTllUC13cUdsSzRFWHhpaTNCYTlMTXA2YnJqZk54cnltZW9WNjIwODM1bG9GN0lUalhFdFBkNmwzRDNST3FaNmZ6VENvVWZOTkdQVllRNThfWWZQLXpyOXFmYS1HNHVn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNel9oREpwM1VFM1R2RUxWc3ZNUWFaenQ2S0ptVzZrdTNoS1lvcURmSVhHRndveEM1NE9xdlU5Tl95RFl2bFphNWxpdnBvWHJpY0ROcURYUTNaMkJUMVdsRzRnVzRiMGlnYXlOSndveWx5dFY5TzV0cVBwLUlWRzRnREZwNTllUC13cUdsSzRFWHhpaTNCYTlMTXA2YnJqZk54cnltZW9WNjIwODM1bG9GN0lUalhFdFBkNm"
     }
   ],
   "count": 14
