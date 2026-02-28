@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
+      "title": "Última hora del conflicto en Oriente Próximo, en directo | Trump confirma la muerte del líder supremo iraní en el ataque",
+      "url": "https://elpais.com/internacional/2026-02-28/ultima-hora-del-conflicto-en-oriente-proximo-en-directo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 28 Feb 2026 21:55:30 GMT",
+      "summary": "El presidente estadounidense anuncia que los bombardeos continuarán, pese a la muerte de Jameneí | La Media Luna Roja confirma más de 200 muertos y 700 heridos en Irán | Irán responde atacando a Israel y bases militares estadounidenses"
+    },
+    {
       "title": "Ataque masivo de Estados Unidos e Israel a Irán para derribar el régimen",
       "url": "https://elpais.com/internacional/2026-02-28/israel-lanza-un-ataque-contra-iran.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sat, 28 Feb 2026 17:34:31 GMT",
-      "summary": "Trump anima a los iraníes a tomar el poder cuando acabe la operación, que ha causado al menos 200 muertos, según la Media Luna Roja. Teherán responde con bombardeos contra Israel y las bases estadounidenses en Oriente Próximo"
+      "published": "Sat, 28 Feb 2026 21:58:51 GMT",
+      "summary": "Trump anuncia la muerte del líder supremo, Alí Jameneí, y anima a los iraníes a tomar el poder cuando acabe la operación, que ha causado al menos 200 muertos, según la Media Luna Roja. Teherán responde con bombardeos contra Israel y las bases de EE UU en Oriente Próximo"
+    },
+    {
+      "title": "Un ataque mata a decenas de niñas en una escuela de primaria en el sur de Irán",
+      "url": "https://elpais.com/internacional/2026-02-28/un-ataque-mata-a-decenas-de-ninas-en-una-escuela-de-primaria-en-el-sur-de-iran.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 28 Feb 2026 18:25:51 GMT",
+      "summary": "Las autoridades iraníes informan de 85 muertes, muchas de ellas de menores que asistían a clase"
     },
     {
       "title": "Trump vuelve a meter a EE UU en una guerra sin buscar la autorización del Congreso o el apoyo de la opinión pública",
@@ -27,22 +43,6 @@
       "summary": "Muchos ciudadanos hacen colas para comprar alimentos y combustible y se preparan para resistir días de ataques"
     },
     {
-      "title": "Irán bombardea bases militares de Estados Unidos en Oriente Próximo en respuesta a la ofensiva contra la República Islámica",
-      "url": "https://elpais.com/internacional/2026-02-28/iran-ataca-bases-militares-de-estados-unidos-en-oriente-proximo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 28 Feb 2026 09:53:41 GMT",
-      "summary": "Se han registrado explosiones en Baréin, Qatar, Emiratos Árabes Unidos, Kuwait y Arabia Saudí. Varios ataques han sido interceptados, pero hay al menos una víctima en Abu Dabi"
-    },
-    {
-      "title": "Operación Furia Épica: qué se sabe del ataque de Estados Unidos e Israel contra Irán",
-      "url": "https://elpais.com/internacional/2026-02-28/operacion-furia-epica-que-se-sabe-del-ataque-de-estados-unidos-e-israel-contra-iran.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 28 Feb 2026 18:23:36 GMT",
-      "summary": "Los bombardeos, que han causado al menos 200 muertos, dinamitan las negociaciones sobre el programa nuclear iraní y ponen en estado de alerta a Oriente Próximo"
-    },
-    {
       "title": "El 58% de las grandes empresas españolas ya utilizan la inteligencia artificial - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2NfWUkzYl9TNEV5V0ZWZWU1SXRwSHBlbUxBbjdZMGJLZGI5RWJOYlBhcW1ROV8zOUdkaXJDYW1Pd1BoSTNSR0ozd2U2SFd3MEppZEJoM1VZa0hZMUNxZC1TbU5pYlBPUkRpbDdZSGRiZFVNZnFHMEN3OTdnSnkyS1N2TExoQk9SWmg0TGJfTkdjT053a0xHOExrcThRSGFMMGdEWElzWFJsYmpYb0NUQ0RiU1lqRlU4Y3ExbzVfTdIB0wFBVV95cUxOQmZhU0E2SU5hZmdaQzBFOFdzd2FUTnEyWF9LUFQxdUpkTkhRbk5reGhHYWVqWThPNDkzVFpNNHJZNnp4RU5pSTU3OE9YNVF4a1YzYmdLWGVSY3Jya0VOalB2SWVVaVhSOGtPaG9HWFBidGR4YWU3eUc2ZE1rVVVwNFdOMVctS2NBQS1CcXhqRi1DWkpXdUg4ak10U01lLTBjSFh4OHVrYl81cU9iY0Q2Q0ZiQXNkcXhHVHBua0dxT3VTWFlFNHpsZ05Dd1E5OV9KbDNr?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2NfWUkzYl9TNEV5V0ZWZWU1SXRwSHBlbUxBbjdZMGJLZGI5RWJOYlBhcW1ROV8zOUdkaXJDYW1Pd1BoSTNSR0ozd2U2SFd3MEppZEJoM1VZa0hZMUNxZC1TbU5pYlBPUkRpbDdZSGRiZFVNZnFHMEN3OTdnSnkyS1N2TExoQk9SWmg0TGJfTkdjT053a0xHOExrcThRSGFMMGdEWElzWFJsYmpYb0NUQ0RiU1lqRlU4Y3"
     },
     {
-      "title": "El boletín semanal del inversor: La inteligencia artificial pierde brillo - MarketScreener España",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQS1INUw2Mk9QMF9xc3NzbXJIYkUzVjhkSVJvczdpSkRrRmRaWk5wV0dkY0lValpySGlaQ05RNmZ6VlNBRzZ4SVkzZWtkdTlacjl1RWhKNVdsdzZlaUVlVWdRdjVHMENIWlZPTXFJa1pQd3hLYjFBRkpXYXQ1c0h1NTdvZ3kxX3hNWFhub0dUWUhKdDVWWWlhZHlCeU5yM3NTOENtTm9sMVpqOW5WU3U5S2x1RkZ2VHNFdmNhREE3QTBlV3ZDSkhv?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 28 Feb 2026 08:39:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQS1INUw2Mk9QMF9xc3NzbXJIYkUzVjhkSVJvczdpSkRrRmRaWk5wV0dkY0lValpySGlaQ05RNmZ6VlNBRzZ4SVkzZWtkdTlacjl1RWhKNVdsdzZlaUVlVWdRdjVHMENIWlZPTXFJa1pQd3hLYjFBRkpXYXQ1c0h1NTdvZ3kxX3hNWFhub0dUWUhKdDVWWWlhZHlCeU5yM3NTOENtTm9sMVpqOW5WU3U5S2x1RkZ2VHNFdm"
-    },
-    {
       "title": "El secretario general iberoamericano urge a actuar para proteger la lengua española en la IA - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaU4yQktLSnZ5ZFFESGprR1Vnb2dZY0FkVGVSVnBFY1RRVkJ0QXNTU0pUcGxpaGtyQzBlejBlN1pKZlpMTkR4d192Mnc3TVdQV2p5N09PMEZ1bERneDZmRGlHWElsNnJmdjUtSUtPN0xFODF0ZWprbkdEYl9DdE1uU1cwcHlDQkY1NzJSdl9FaEkyQUF4SUhZdENaNF9rV3Z1R0NxWFIwNE5qNENoNl9pS1IzWE9VQnhBdmJGblhOZEdWZi10bWVEcFRyOFYwbWJ6Qjk4LVh6eHR2djZqSUHSAfgBQVVfeXFMTmMxX3RjbkV3ck1xMHNZSjhRS3FGcUtQY3VZcVJEOHFaNkJhZk5oUVhZMlFyb1haMGYzYWRxX255TFk4OElYcWtSNHg0eTFMNllUV19VOER5V2tyTWJyNlZEN0RMeU5EMTh3T1ptOHR5aUZONjBhcEtramFQYWstdDlxNVRSaUszTzdaUXg1dGdUZS1rTmw5dmlvVUxHM0hiX2FhcXhpa0dUZDVrdFpka2h2WHNOSG52ZWFGd2RTYnVJNVVGNnMteGpQTUhkemlxa2VvVlpZRXVvRGhtaGhhOXhHelNzeHBBcHQzQzhHcGt4UEFiRW5iRFI?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 26 Feb 2026 15:46:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaU4yQktLSnZ5ZFFESGprR1Vnb2dZY0FkVGVSVnBFY1RRVkJ0QXNTU0pUcGxpaGtyQzBlejBlN1pKZlpMTkR4d192Mnc3TVdQV2p5N09PMEZ1bERneDZmRGlHWElsNnJmdjUtSUtPN0xFODF0ZWprbkdEYl9DdE1uU1cwcHlDQkY1NzJSdl9FaEkyQUF4SUhZdENaNF9rV3Z1R0NxWFIwNE5qNENoNl9pS1IzWE9VQnhBdm"
+    },
+    {
+      "title": "El boletín semanal del inversor: La inteligencia artificial pierde brillo - MarketScreener España",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQS1INUw2Mk9QMF9xc3NzbXJIYkUzVjhkSVJvczdpSkRrRmRaWk5wV0dkY0lValpySGlaQ05RNmZ6VlNBRzZ4SVkzZWtkdTlacjl1RWhKNVdsdzZlaUVlVWdRdjVHMENIWlZPTXFJa1pQd3hLYjFBRkpXYXQ1c0h1NTdvZ3kxX3hNWFhub0dUWUhKdDVWWWlhZHlCeU5yM3NTOENtTm9sMVpqOW5WU3U5S2x1RkZ2VHNFdmNhREE3QTBlV3ZDSkhv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 28 Feb 2026 08:39:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPQS1INUw2Mk9QMF9xc3NzbXJIYkUzVjhkSVJvczdpSkRrRmRaWk5wV0dkY0lValpySGlaQ05RNmZ6VlNBRzZ4SVkzZWtkdTlacjl1RWhKNVdsdzZlaUVlVWdRdjVHMENIWlZPTXFJa1pQd3hLYjFBRkpXYXQ1c0h1NTdvZ3kxX3hNWFhub0dUWUhKdDVWWWlhZHlCeU5yM3NTOENtTm9sMVpqOW5WU3U5S2x1RkZ2VHNFdm"
     },
     {
       "title": "La IA condena a Madrid, Atlético y Barça - Diario AS",
