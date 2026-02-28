@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Reseña: Redmi Buds 8 Lite, sonido accesible que no sacrifica experiencia",
+      "url": "https://expansion.mx/tecnologia/2026/02/28/resena-redmi-buds-8-lite",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 28 Feb 2026 16:00:06 GMT",
+      "summary": "Durante un mes de uso continuo, los Redmi Buds 8 Lite pusieron a prueba lo que hoy puede ofrecer la gama accesible en audio inalámbrico."
+    },
+    {
+      "title": "Reseña: Crisol Theater of Idols, un juego de horror que usa simbolismo católico y pagano",
+      "url": "https://expansion.mx/tecnologia/2026/02/28/resena-crisol-theater-of-idols",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 28 Feb 2026 13:57:30 GMT",
+      "summary": "El estudio español Vermila Studios lanza Crisol: Theater of Idols, una experiencia de horror y acción que se distingue por imágenes inspiradas en la ascendencia católico-cristiana y el paganismo"
+    },
+    {
+      "title": "Paramount le gana la partida a Netflix y adquiere Warner por 110,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/02/27/paramount-compra-warner-bros-por-110-000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 27 Feb 2026 23:26:35 GMT",
+      "summary": "En un inicio, Netflix ofertó 83,000 mdd, pero no resistió la opción de Paramount; se espera que la transacción se cierre en el tercer trimestre del año."
+    },
+    {
       "title": "Uber se prepara para despegar con taxis voladores",
       "url": "https://expansion.mx/tecnologia/2026/02/27/uber-hace-realidad-taxis-voladores",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "Los usuarios buscan tener contacto con sus especialistas y la mejor forma es en la app de mensajería, pero esto deja a los doctores agotados."
     },
     {
-      "title": "¿Qué puede hacer Nano Banana 2? La nueva IA de Google para imágenes",
-      "url": "https://expansion.mx/tecnologia/2026/02/27/nano-banana-2-nueva-ia-de-google-imagenes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Feb 2026 18:00:18 GMT",
-      "summary": "Google presentó Nano Banana 2, su nuevo modelo de generación y edición de imágenes con IA, que promete mayor velocidad, fidelidad visual y mejor interpretación de instrucciones dentro de Gemini."
-    },
-    {
-      "title": "HBO Max intensificará pelea para frenar el uso de cuentas compartidas",
-      "url": "https://expansion.mx/tecnologia/2026/02/27/hbo-max-intensificara-plan-cuentas-compartidas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Feb 2026 17:00:51 GMT",
-      "summary": "HBO Max sumó 3.5 millones de nuevos usuarios en el mundo la cierre del 2025, para alcanzar un total de 131.6 millones."
-    },
-    {
-      "title": "OpenAI cierra ronda de financiación de 110,000 mdd, la más grande de la historia",
-      "url": "https://expansion.mx/tecnologia/2026/02/27/openai-cierra-ronda-de-financiacion-de-110-000-mdd-la-mas-grande-de-la-historia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Feb 2026 16:00:48 GMT",
-      "summary": "La empresa cerró esta inversión respaldada por Amazon, que inyectará 50,000 mdd, y por Nvidia y Softbank, que invertirán 30,000 millones de dólares cada una."
+      "title": "Inteligencia Artificial y empleo en México: una invitación estratégica para el canal TIC - Infochannel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDR4VXhjNVFOWGxwS1A4T2ZlUnlnVTVVd0NTeUg3c2thSi05TnJIYXJOSjlTRVRPZm1KdEJJOTJtUjljSUNnaDlYcVRzZnBSV2dzVGFNWHVhVDBLOS1DUEZMS3lnMHlMWmhKNTVHT2VxU3d5N0NTYTN2Q2Izd1RCSmU4eEQ4Uk9ibV80MTBwSkhuNTZDS2tIbG1zYnNjYWhHa09LdnFuRlVqcGRZVmlwMUJhYw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 28 Feb 2026 14:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaDR4VXhjNVFOWGxwS1A4T2ZlUnlnVTVVd0NTeUg3c2thSi05TnJIYXJOSjlTRVRPZm1KdEJJOTJtUjljSUNnaDlYcVRzZnBSV2dzVGFNWHVhVDBLOS1DUEZMS3lnMHlMWmhKNTVHT2VxU3d5N0NTYTN2Q2Izd1RCSmU4eEQ4Uk9ibV80MTBwSkhuNTZDS2tIbG1zYnNjYWhHa09LdnFuRlVqcGRZVmlwMUJhYw?oc=5\" t"
     },
     {
       "title": "México se consolida como hub tecnológico para empresas globales en la nueva era de la IA - Entrepreneur",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNbi1iV3NfOTVZc0RlSF9TYngwbUxYY3ItdC15NWdKWEM0MEhVVVh1Y1hEU2pUdTFLY1pYMDlFdHQ0Nk94UlRtTWxaa05XcTEtc05LQUhVaTNSY2xISktWQjMtWThaQ01pZkh0M3FNbTNwRmtsR0MtcGN2NVJNSnZkX0ZBTkxIck1uUTRnYUlhMnF0YUUySlhKMDVfbVJRcGtURDJacHY1RVhlSW9OajV2MzIyMWtiaHNHTU"
     },
     {
-      "title": "Norton revela que 66% de usuarios de apps de citas en México saldría con una IA - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0xTRFRIOFcwYmd0eWlpb1VnR3psczd2TGJlSDdhU2FPdWt5TVJSaEdUbVBLTWhrRHZTaDBxQnRrdXlxMWU4a3djaVpQdWYzZ3VZalc2TkJPdVJkTkYtN2o0b0VIOHpCRkVwVUc3dGJWWDRSWUdLaUU5bTlqMFkyNjltLTJ2NjROeFE5eER1dnU4elQ3YmVnMWxobVRrVW5RZllxUHp0Rm43amlmZVljVzVlUE5wbndWRlpvMnpJckV1QUczQlRXLVR3?oc=5",
+      "title": "SAT niega hackeo y robo de información con Inteligencia Artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblN0NHoyQkNsZ3B1a2xlbjhFN0hsd0t4UnR5MGdsQXA2ZkdzTHJRUm1hdXhsQy1FM3hVLWtrbm5rSkhGMDdES2VfMk5sVHVQOUtrd29QY2QtWDF5ZVYxN19GOEdJdFNEQm9jU3FzQ0N1Qm9aRFhubmFWa1JZVDFHZUJxYkg0Y3QyZ0lzcWFTSFhNM1RLTlFPOUd2bG9RazYybFZXcE5NTGRrdl9tZ0HSAcgBQVVfeXFMUF9Jd19Wd3ZnNHEyS0d0UnlfOVA3V2xPSUZ4T0ZRRTB5OUZ6dkd0dUM0NTIzQVdxSnZYeGI4Vmd6RHJqbDlUT0NBVnVRdWh5S3hFWmZ1YTFheF8wV1lTUUpNMXVub0RULXJNX0sxT0dOSTY0QUdyQVNJV0NYanZkZm96VDhuSHRBbGFfZ050WWpXa3FReU1iZU84X3ZTN0daNUlabFJRZWdFcFJtSVptSVRrUE5jNnVWV1g4LUI2UlItay14NGhCbWc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 27 Feb 2026 18:30:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0xTRFRIOFcwYmd0eWlpb1VnR3psczd2TGJlSDdhU2FPdWt5TVJSaEdUbVBLTWhrRHZTaDBxQnRrdXlxMWU4a3djaVpQdWYzZ3VZalc2TkJPdVJkTkYtN2o0b0VIOHpCRkVwVUc3dGJWWDRSWUdLaUU5bTlqMFkyNjltLTJ2NjROeFE5eER1dnU4elQ3YmVnMWxobVRrVW5RZllxUHp0Rm43amlmZVljVzVlUE5wbndWRl"
-    },
-    {
-      "title": "México: evaluación del estadio de preparación de la inteligencia artificial - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5\" target=\""
+      "published": "Thu, 26 Feb 2026 02:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPblN0NHoyQkNsZ3B1a2xlbjhFN0hsd0t4UnR5MGdsQXA2ZkdzTHJRUm1hdXhsQy1FM3hVLWtrbm5rSkhGMDdES2VfMk5sVHVQOUtrd29QY2QtWDF5ZVYxN19GOEdJdFNEQm9jU3FzQ0N1Qm9aRFhubmFWa1JZVDFHZUJxYkg0Y3QyZ0lzcWFTSFhNM1RLTlFPOUd2bG9RazYybFZXcE5NTGRrdl9tZ0HSAcgBQVVfeXFMUF"
     },
     {
       "title": "Nvidia rompe récords: qué significa para tu startup tech - Ecosistema Startup",
