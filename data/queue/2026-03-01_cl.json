@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Seis cuentas en Polymarket ganan millones apostando al bombardeo de EE.UU. sobre Irán",
+      "url": "https://www.latercera.com/tendencias/noticia/seis-cuentas-en-polymarket-ganan-millones-apostando-al-bombardeo-de-eeuu-sobre-iran/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sun, 01 Mar 2026 18:36:17 +0000",
+      "summary": "Aunque utilizar inteligencia de defensa para beneficio personal es un delito grave, la naturaleza anónima de estos ecosistemas dificulta la identificación y persecución de los involucrados."
+    },
+    {
       "title": "Soy ortopedista y estas son las 4 formas con las que puedes mantener tus articulaciones sanas, pese a tu edad",
       "url": "https://www.latercera.com/tendencias/noticia/soy-ortopedista-y-estas-son-las-4-formas-con-las-que-puedes-mantener-tus-articulaciones-sanas-pese-a-tu-edad/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "A los 66 años no pudo correr una milla. Hoy, con 82, tiene un récord mundial y una edad biológica comparable a la de alguien de 20. ¿Qué cambió en el camino? Esto dice una investigación."
     },
     {
-      "title": "Por 24 horas: el guiño de YouTube a Pokémon en su aniversario 30",
-      "url": "https://www.latercera.com/tendencias/noticia/por-24-horas-el-guino-de-youtube-a-pokemon-en-su-aniversario-30/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Feb 2026 21:05:27 +0000",
-      "summary": "A tres décadas de su debut en Japón, la saga creada en 1996 se mantiene como uno de los fenómenos más influyentes de la cultura pop."
-    },
-    {
       "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
