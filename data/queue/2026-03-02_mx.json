@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La seguridad y la IA son los motores de Grindr",
+      "url": "https://expansion.mx/tecnologia/2026/03/02/la-seguridad-y-la-ia-son-los-motores-de-grindr",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Mar 2026 11:55:44 GMT",
+      "summary": "La plataforma de citas tiene el reto de unir a personas de la comunidad LGBTQ+ en momentos donde el odio y la polarización crecen. AJ Balance, Chief Product Officer, habla sobre las acciones que toma la app."
+    },
+    {
       "title": "Samsung Galaxy S26 Ultra con pantalla anti espías y acceso a Perplexity",
       "url": "https://expansion.mx/tecnologia/2026/03/01/samsung-galaxy-s-26-quiere-que-nadie-vea-pantalla",
       "source": "Expansión Tecnología",
@@ -35,12 +43,20 @@
       "summary": "En un inicio, Netflix ofertó 83,000 mdd, pero no resistió la opción de Paramount; se espera que la transacción se cierre en el tercer trimestre del año."
     },
     {
-      "title": "Uber se prepara para despegar con taxis voladores",
-      "url": "https://expansion.mx/tecnologia/2026/02/27/uber-hace-realidad-taxis-voladores",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Feb 2026 21:51:02 GMT",
-      "summary": "Uber anunció que permitirá reservar taxis aéreos eléctricos de Joby Aviation desde su app, con Dubái como primera ciudad en operar el servicio a finales de 2026."
+      "title": "La IA acelera los ciberataques y presiona la seguridad de la infraestructura crítica en México - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU1HTThqa200N1JRVWIyUnN4OWUxYUdoVHhKVzRXOFQzd0pyQ3NYY3NobFlQVlY4VmxWRVY3cUJrT3l6emI3SF96QlZib2V6RE8tLXFSX201UURkdmRtUU5rV1FsaldMLTE1SUQ3QURfNnU2NnBJT2NvOVhuVmozTU1DRUU5aUR5Q0lEOG00V3BmWW1qclNZNU03RlhHWGJOcHh1S0R4WVNSTGNFd2w2T1RNS29QODV3aE03a0RLSS1oYkpQcnNfUzVuT2I4dTFRWGRV0gHYAUFVX3lxTFBOd3pfTVlkNU1Edl9vb0ZlV3FDWXRHdGZhNzF1NW1kNEpmOUJyNVBCTkFxY1lDSjlVZ005ZXVmWlBnWDNteE1LVmNiS2FmS0trcnJpcGgzU2J3MnNRY1c4VHBUNmM5TEljZEt5YTFlcmplM2hIT3ZwcEZJMEFCU01OOEczVDlRLTF5emlBZ1VneHBOVERPTW9CRTd2MDBqeWtVY3EwNzkyWVFEUDM0RVFQaWs1QjBiSmRyNGpXdWJIMG13UVNEemY4cVNZOUtUSTFsMjZQZk9Fdg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 02 Mar 2026 18:21:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU1HTThqa200N1JRVWIyUnN4OWUxYUdoVHhKVzRXOFQzd0pyQ3NYY3NobFlQVlY4VmxWRVY3cUJrT3l6emI3SF96QlZib2V6RE8tLXFSX201UURkdmRtUU5rV1FsaldMLTE1SUQ3QURfNnU2NnBJT2NvOVhuVmozTU1DRUU5aUR5Q0lEOG00V3BmWW1qclNZNU03RlhHWGJOcHh1S0R4WVNSTGNFd2w2T1RNS29QODV3aE"
+    },
+    {
+      "title": "México define principios de gobernanza de la IA, pero sin estrategia ni ruta de implementación, advierten expertas - Alianza de Medios MX",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjRpRGRZTU9nTFlFR2RqS1I5V0N1UHJvX2NxZnZsRHFUR2JTLWVFT05ERXROSGhMZklsTEJwWVppTHdtSnZLeFpJQ2VOTW1tSmQ3YThxVnFaUWMxZHo5N005VHJLUUJyZExhU0thdjlJLVJNamFVZi1RZ0xTN1ZUZnVnbmRvdTNTQ1FnVVRjZGJTS3I4NGhjMWoxRXY5Uzc0RTZhTU1OUzJJQVp4ZjA5Yw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 02 Mar 2026 18:15:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjRpRGRZTU9nTFlFR2RqS1I5V0N1UHJvX2NxZnZsRHFUR2JTLWVFT05ERXROSGhMZklsTEJwWVppTHdtSnZLeFpJQ2VOTW1tSmQ3YThxVnFaUWMxZHo5N005VHJLUUJyZExhU0thdjlJLVJNamFVZi1RZ0xTN1ZUZnVnbmRvdTNTQ1FnVVRjZGJTS3I4NGhjMWoxRXY5Uzc0RTZhTU1OUzJJQVp4ZjA5Yw?oc=5\" targe"
     },
     {
       "title": "México: evaluación del estadio de preparación de la inteligencia artificial - UNESCO",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Mon, 19 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5\" target=\""
-    },
-    {
-      "title": "Norton revela que 66% de usuarios de apps de citas en México saldría con una IA - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0xTRFRIOFcwYmd0eWlpb1VnR3psczd2TGJlSDdhU2FPdWt5TVJSaEdUbVBLTWhrRHZTaDBxQnRrdXlxMWU4a3djaVpQdWYzZ3VZalc2TkJPdVJkTkYtN2o0b0VIOHpCRkVwVUc3dGJWWDRSWUdLaUU5bTlqMFkyNjltLTJ2NjROeFE5eER1dnU4elQ3YmVnMWxobVRrVW5RZllxUHp0Rm43amlmZVljVzVlUE5wbndWRlpvMnpJckV1QUczQlRXLVR3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 27 Feb 2026 18:30:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0xTRFRIOFcwYmd0eWlpb1VnR3psczd2TGJlSDdhU2FPdWt5TVJSaEdUbVBLTWhrRHZTaDBxQnRrdXlxMWU4a3djaVpQdWYzZ3VZalc2TkJPdVJkTkYtN2o0b0VIOHpCRkVwVUc3dGJWWDRSWUdLaUU5bTlqMFkyNjltLTJ2NjROeFE5eER1dnU4elQ3YmVnMWxobVRrVW5RZllxUHp0Rm43amlmZVljVzVlUE5wbndWRl"
-    },
-    {
-      "title": "Así se vería la CDMX si hoy fuera parte de los Estados Unidos, según la Inteligencia Artificial - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTZ5aXZ1MlY4Wi1Cak1USkVVWXAxUnR2eVpndmhoam1ac284eWMtUmZ0RHlBUHZCak5KbG5PaHlCR3JTVGtzZWtWMDhZR2hVYlI2eDVZWDRQSUFWbjlfTkFKMkhWZEtQbGZJUzh4cWVSX2ZObXEwYVp2MU5KQXI4OGJScjhweU1pTXBwekxvS0JtSUxkZXdJc2hQSF9vcmJsR3ZvcGY3V2VlSUxuU0JCUGZvVC0ybV81RkJnWmdlSDZQRlF6LUpRZUpNdDk3aVo4dXppVXVSNXTSAd4BQVVfeXFMTlpQR3hpSzlDTTFGZWJZd1VoSEVuU3Z4X0U1T0Q1NkRJbTZfakxXRHNJc04zQnB5MmN2UDVfYzRKeExJOVdZRllZTmJlUzdWTDQ2SUV1Skh2Y2lvUVo4Ry1tNXMyVVFJOXVLSTh5SmloY1M5Qkk3MFhpb1I2ck1EeVFxc2pNSWk5TFpQUEs0ZjFMUUVhNEFpZEctVW0zZXlZaVpPTURtRXZFOEhzc3NCZllfbWRIWXRqX3l6Z1F5WExmc2RZVm5SV0dhLTZsYUszUEdOZmlteFh5SnFRbG9n?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 01 Mar 2026 23:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTZ5aXZ1MlY4Wi1Cak1USkVVWXAxUnR2eVpndmhoam1ac284eWMtUmZ0RHlBUHZCak5KbG5PaHlCR3JTVGtzZWtWMDhZR2hVYlI2eDVZWDRQSUFWbjlfTkFKMkhWZEtQbGZJUzh4cWVSX2ZObXEwYVp2MU5KQXI4OGJScjhweU1pTXBwekxvS0JtSUxkZXdJc2hQSF9vcmJsR3ZvcGY3V2VlSUxuU0JCUGZvVC0ybV81Rk"
     },
     {
       "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",

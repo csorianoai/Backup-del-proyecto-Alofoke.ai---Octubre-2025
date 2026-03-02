@@ -3,44 +3,44 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | La guerra con Irán se extiende por Oriente Próximo y suma ya 600 muertos",
+      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump advierte de que la “gran ola” de la ofensiva aún está por llegar",
       "url": "https://elpais.com/internacional/2026-03-02/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 02 Mar 2026 14:20:17 GMT",
-      "summary": "La Media Luna Roja eleva a 555 las víctimas en Irán desde el sábado | El Gobierno de Líbano anuncia la prohibición total de la actividad militar de Hezbolá tras el ataque a Israel | Teherán asegura que no negociará con Washington"
+      "published": "Mon, 02 Mar 2026 18:45:00 GMT",
+      "summary": "El presidente estadounidense asegura que van “muy adelantados” con respecto a las previsiones en la operación contra Irán | La guerra con Irán se extiende por Oriente Próximo y alcanza Chipre, territorio UE"
+    },
+    {
+      "title": "Trump envía más tropas a Oriente Próximo y anuncia que la guerra durará “todo el tiempo que sea necesario”",
+      "url": "https://elpais.com/internacional/2026-03-02/el-regimen-de-iran-asegura-que-no-negociara-con-estados-unidos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Mar 2026 18:28:06 GMT",
+      "summary": "Irán contradice al presidente republicano al asegurar que no negociará con EE UU."
     },
     {
       "title": "Irán ataca una base del Reino Unido en Chipre, país de la UE, tras anunciar Starmer que dará más ayuda a Washington",
       "url": "https://elpais.com/internacional/2026-03-02/iran-ataca-una-base-del-reino-unido-en-chipre-tras-el-anuncio-de-starmer-de-que-ofrecera-mas-ayuda-a-estados-unidos.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 02 Mar 2026 12:25:51 GMT",
-      "summary": "Un dron impacta contra las instalaciones militares de Akrotiri, sin causar víctimas"
+      "published": "Mon, 02 Mar 2026 17:35:56 GMT",
+      "summary": "El Gobierno chipriota carga contra Londres y le exige que le aclare el uso que van a dar a las instalaciones militares que tiene en la isla"
     },
     {
-      "title": "Israel causa más de 30 muertos en Líbano tras sumarse Hezbolá a la guerra",
-      "url": "https://elpais.com/internacional/2026-03-02/hezbola-se-suma-a-la-batalla-con-sus-primeros-proyectiles-desde-2024-e-israel-bombardea-libano.html",
+      "title": "Derribados tres cazas F-15 de EE UU en Kuwait por “fuego amigo”",
+      "url": "https://elpais.com/internacional/2026-03-02/derribados-tres-cazas-f-15-de-ee-uu-en-kuwait-por-fuego-amigo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 02 Mar 2026 10:36:08 GMT",
-      "summary": "El Gobierno prohíbe las actividades militares del grupo tras lanzar proyectiles contra el país vecino por vez primera vez desde 2024, en represalia por la muerte del líder iraní"
+      "published": "Mon, 02 Mar 2026 13:37:00 GMT",
+      "summary": "El ejército de Estados Unidos confirma que sus aviones de combate fueron alcanzados por error por las defensas aéreas kuwaitíes. Sus seis tripulantes militares están a salvo"
     },
     {
-      "title": "La clave de la réplica militar iraní: las ciudades de misiles ocultas en montañas",
-      "url": "https://elpais.com/internacional/2026-03-02/la-clave-de-la-replica-militar-irani-las-ciudades-de-misiles-ocultas-en-montanas.html",
+      "title": "Así ha sido derribado uno de los tres cazas F-15 de EE UU por fuego amigo en Kuwait",
+      "url": "https://elpais.com/videos/2026-03-02/un-caza-se-estrella-en-kuwait-durante-los-bombardeos-de-iran.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 02 Mar 2026 08:53:10 GMT",
-      "summary": "Teherán dispone de un importante arsenal de esas armas, cuyos sitios de lanzamiento quieren inutilizar Israel y Estados Unidos"
-    },
-    {
-      "title": "El precio del gas en Europa se dispara casi el 50% al paralizarse la producción en Qatar",
-      "url": "https://elpais.com/economia/2026-03-02/el-precio-del-petroleo-sube-con-fuerza-tras-el-ataque-a-iran.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 02 Mar 2026 14:03:37 GMT",
-      "summary": "Los ataques iraníes a infraestructuras petroleras aceleran la subida de los precios. El barril de Brent avanza el 9% hasta los 79 dólares y los analistas temen que suba a 90"
+      "published": "Mon, 02 Mar 2026 11:05:24 GMT",
+      "summary": "Durante los combates entre Washington y Teherán, las defensas aéreas kuwaitíes alcanzan “por error” los aviones, según el mando central militar de EE UU"
     },
     {
       "title": "La inteligencia artificial impulsa un nuevo modelo de negocio en España, según IAgency Master - Notimérica",
@@ -91,12 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW"
     },
     {
-      "title": "MWC Barcelona 2026: 6G, IA y Oportunidades para Startups Tech - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0tfczdORUNlS0h4WkFGWU9GSVFUYzczTzZMZzJONEZOV2NJSGVpb2VlQXBqYjFFemo4NElPRjhUdGZxMjR2cXRpRnF2WWM4cUNYSGZ4dWc0V1AySG9KR04yUXNEM0pMQS1nVXVKeFMzOWVWVTNCdmlXQ0Zjak5WRmtTbVVwOElwOTQteGI0eUx6Y2xm?oc=5",
+      "title": "La Cámara de España potencia el ecosistema startup y la innovación tecnológica en el 4YFN 2026 - Empresa Exterior",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX01zS2FHdVJXNDBiRk9wQWdUYVZGVk13NGtNcFRBTFRWbWpQYjI5S3FvNndfam4xeTROWF9hbDc0LTRldGFsang4TDk2R3c4RjRXMGdxcXYwQlJpRzNNdzB0SHQwNVNtNXJ0NFVXNjFOd2E1bkFyMkpYWWV4elhmQTVnR3RPWmtTa1J2aGdHM3NKeVlqY1NkWWllblFXTHFvNmZkREI4SXFhMXpMenhDdFJoRi00Qzk4QUxSWnFaNnYtMXNLQzV4ZWZsVm16dw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 01 Mar 2026 18:11:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0tfczdORUNlS0h4WkFGWU9GSVFUYzczTzZMZzJONEZOV2NJSGVpb2VlQXBqYjFFemo4NElPRjhUdGZxMjR2cXRpRnF2WWM4cUNYSGZ4dWc0V1AySG9KR04yUXNEM0pMQS1nVXVKeFMzOWVWVTNCdmlXQ0Zjak5WRmtTbVVwOElwOTQteGI0eUx6Y2xm?oc=5\" target=\"_blank\">MWC Barcelona 2026: 6G, IA "
+      "published": "Mon, 02 Mar 2026 14:16:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPX01zS2FHdVJXNDBiRk9wQWdUYVZGVk13NGtNcFRBTFRWbWpQYjI5S3FvNndfam4xeTROWF9hbDc0LTRldGFsang4TDk2R3c4RjRXMGdxcXYwQlJpRzNNdzB0SHQwNVNtNXJ0NFVXNjFOd2E1bkFyMkpYWWV4elhmQTVnR3RPWmtTa1J2aGdHM3NKeVlqY1NkWWllblFXTHFvNmZkREI4SXFhMXpMenhDdFJoRi00Qzk4QU"
+    },
+    {
+      "title": "Encomenda Seed II recibe 9,5M€ de SETT para startups tech - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVk1kNmlPY3FUY1I0MElEUDJDYWhSQXJwRE5BR2VCVTRuNDJyeGZBR3pzcU1YUWhzUkJQd1k4YVdBRHdSUHpxcFJ1VVlmeE1ZelZCZldzdk96OGNaSVhVUHFJaTUzdFRwei14M2w4dlotb3RiY3hETXU0RnJTMnFXWDEtSlhZUWFibUVRRDIwZG8?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 28 Feb 2026 07:04:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVk1kNmlPY3FUY1I0MElEUDJDYWhSQXJwRE5BR2VCVTRuNDJyeGZBR3pzcU1YUWhzUkJQd1k4YVdBRHdSUHpxcFJ1VVlmeE1ZelZCZldzdk96OGNaSVhVUHFJaTUzdFRwei14M2w4dlotb3RiY3hETXU0RnJTMnFXWDEtSlhZUWFibUVRRDIwZG8?oc=5\" target=\"_blank\">Encomenda Seed II recibe 9,5M€ d"
     },
     {
       "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Thu, 31 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
-    },
-    {
-      "title": "Más de 1.200 millones en startups sitúan a Madrid a la cabeza del emprendimiento tecnológico en España - El Diario de Madrid",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2hLZmNwZ0lZcXlPM3lBYTloOUhZOTI4cXNWSFdJR1JnN3g0ZVdkbDFJV0xKVHFtazdkbnNMTlk5SVZRSy1JbzNyVy11SGlzcXVFdEVLWWVxam14Ym5Hb2VuWDkyWHgwbmlheG83QlFGWnp4NXdyRV9CMVFFUlRwYzZYdUFhMWladUt4RnJjYkZKVENxMmFyQVNVVnNWUGhKa3VkQk42Y2hENy1jR2Jr0gG0AUFVX3lxTE1xVndkYi1DNzM3QUNYMVFtaTF3aEp2ZHJVSnB3QXUzNVV4dGh0djRIRWxGcVkxOTl6bzlVXzZ3QjJsUGo5NE5mQzh6WmkyYm1VYlpKLXlhMzJ3YVp2MTk2RDVNNzlxT080R1loMEsyQXNSX0RjUV9xekRoYWpyUlVLOF93YV93LS1Qam82OUttVFdkVkZWNVBkWUZCWDZqQ3JRbHdMN25jQXFySDFJeHRVckJOWA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 20 Feb 2026 08:02:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2hLZmNwZ0lZcXlPM3lBYTloOUhZOTI4cXNWSFdJR1JnN3g0ZVdkbDFJV0xKVHFtazdkbnNMTlk5SVZRSy1JbzNyVy11SGlzcXVFdEVLWWVxam14Ym5Hb2VuWDkyWHgwbmlheG83QlFGWnp4NXdyRV9CMVFFUlRwYzZYdUFhMWladUt4RnJjYkZKVENxMmFyQVNVVnNWUGhKa3VkQk42Y2hENy1jR2Jr0gG0AUFVX3lxTE"
     }
   ],
   "count": 14
