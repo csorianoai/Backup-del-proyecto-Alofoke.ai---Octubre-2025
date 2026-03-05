@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "inDrive apuesta por la negociación para convertirse en superapp en México",
+      "url": "https://expansion.mx/tecnologia/2026/03/05/indrive-apuesta-convertirse-superapp-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 05 Mar 2026 11:55:50 GMT",
+      "summary": "La plataforma busca ampliar su oferta con envíos y préstamos digitales, usando la movilidad como puerta de entrada en un mercado con baja bancarización y alta informalidad."
+    },
+    {
+      "title": "Tu banco ya tiene tus datos, pero 18 de 20 los piden otra vez",
+      "url": "https://expansion.mx/tecnologia/2026/03/04/tu-banco-ya-tiene-tus-datos-pero-18-de-20-los-piden-otra-vez",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Mar 2026 23:00:05 GMT",
+      "summary": "Aunque los usuarios cada vez confían más en los bancos, el actuar de estas instituciones reflejan una infraestructura interna desconectada que complica la experiencia digital."
+    },
+    {
       "title": "De cara al Mundial, 4 de cada 10 usuarios sufren ataques en wifi público",
       "url": "https://expansion.mx/tecnologia/2026/03/04/4-de-10-usuarios-sufren-ataques-wifi-publico-como-usar",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Wed, 04 Mar 2026 15:47:14 GMT",
       "summary": "La empresa de la manzana lanzó varios productos en estos días, entre ellos la MacBook Neo un dispositivo que marca un guiño a la estrategia por masificar verticales de negocio."
-    },
-    {
-      "title": "Solo 2 de 14 chatbots venden en el e-commerce mexicano",
-      "url": "https://expansion.mx/tecnologia/2026/03/03/solo-2-de-14-chatbots-venden-en-el-e-commerce-mexicano",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Mar 2026 22:30:24 GMT",
-      "summary": "Las empresas de retail tienen que sortear distintos retos, desde una mayor inflación, hasta la llegada de tecnologías que hacen más exigente al usuario."
-    },
-    {
-      "title": "Apple renueva su Macbook Pro y Air con el chip M5",
-      "url": "https://expansion.mx/tecnologia/2026/03/03/apple-renueva-macbook-pro-y-air-con-chip-m5",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Mar 2026 20:00:15 GMT",
-      "summary": "Con la llegada del M5 y sus variantes profesionales, Apple fortalece su portafolio de cómputo con mayor potencia, memoria y capacidades de procesamiento de IA en el equipo."
     },
     {
       "title": "Al gobierno de México le encanta la IA, pero las reglas van a la zaga en la práctica - LatinAmerican Post",
@@ -68,11 +68,11 @@
     },
     {
       "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjhZWHNfdjB6VElWZnFzNzBOcllKaFFscTBDZGliSWZOSXRCWVMyUVJLSXJuQ3QzeE5oZlJaVjN1MkZKQ1VBSUdvSnBTR19rbjJmRmp2MUlNUU96ZzJGcmZfU3lUUnpQMmRyVE1pRmJPZWpaVElzNHFSbHNPa0hfd1E1emtxdlh4QzkySHRKa0tpLUFiczZNLVBrWFlPYTZ0X0pvMnpsQTduc0NDaVBJQTJMWi0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa2hhMk8zUTJOODhlZnlrUFkxZ1BkTFIzVUt3WVJzanVRclZ0TFN6VkZyX2JmSDdNanlPVVJiS3dRZmptQ19UMU1TcTNuQV9lYnNxSEJrQzN6eEE4Mm9JZ0tqcDZJSXpHSUU2Mko4d2E0dXdzcG1fRV93d0oxMExBTmREOUZpZ0hNTjVoVGxFbzUzTXJBLThKX3pxeTNKT0FvSnFWVTIxMGJ0Q0FjdmluemZlWENxdnVhZ0E?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 02 Mar 2026 16:11:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjhZWHNfdjB6VElWZnFzNzBOcllKaFFscTBDZGliSWZOSXRCWVMyUVJLSXJuQ3QzeE5oZlJaVjN1MkZKQ1VBSUdvSnBTR19rbjJmRmp2MUlNUU96ZzJGcmZfU3lUUnpQMmRyVE1pRmJPZWpaVElzNHFSbHNPa0hfd1E1emtxdlh4QzkySHRKa0tpLUFiczZNLVBrWFlPYTZ0X0pvMnpsQTduc0NDaVBJQTJMWi0?oc=5\" "
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPa2hhMk8zUTJOODhlZnlrUFkxZ1BkTFIzVUt3WVJzanVRclZ0TFN6VkZyX2JmSDdNanlPVVJiS3dRZmptQ19UMU1TcTNuQV9lYnNxSEJrQzN6eEE4Mm9JZ0tqcDZJSXpHSUU2Mko4d2E0dXdzcG1fRV93d0oxMExBTmREOUZpZ0hNTjVoVGxFbzUzTXJBLThKX3pxeTNKT0FvSnFWVTIxMGJ0Q0FjdmluemZlWENxdnVhZ0"
     },
     {
       "title": "Orion Startups: 10 años de venture capital en Chihuahua - Ecosistema Startup",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXhxV1BITkozWlRtaTRHTnRVNHNYWDZlNXFxLUl1SEdUMHh1enVEQ3BTUHQyeWhNNjB1bXAzNkpsTmRiczViM18zR2RmeFVFNmVYWWM3UHZmVWVQUW1oa3RpSkxCeU5jSWcydG5GYmcwWW92OVFpZTgxZndfYUJtZzdsWXJzTlhZUUc5eGNR?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture "
     },
     {
-      "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5",
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 04 Mar 2026 16:08:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture capit"
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
+      "title": "Ingeniería en Inteligencia Artificial y Ciencia de Datos - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 04 Aug 2025 19:23:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5\" target=\"_blank\">Ingeniería en In"
+    },
+    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 02 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
-    },
-    {
-      "title": "Cursos de Oracle en IA y tecnologías, gratis para la comunidad Tec - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NWFr?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NW"
     }
   ],
   "count": 14

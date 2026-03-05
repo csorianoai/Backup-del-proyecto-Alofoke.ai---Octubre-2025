@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Nuevos celulares y tablets de TCL con pantallas \"tipo papel\" que cuidan la vista: cómo funcionan y cuándo llegan a la Argentina",
+      "url": "https://www.clarin.com/tecnologia/nuevos-celulares-tablets-tcl-pantallas-tipo-papel-cuidan-vista-funcionan-llegan-argentina_0_oWAXgKSJ1c.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 05 Mar 2026 15:16:44 +0000",
+      "summary": "<ul><li>La marca china los presentó en el Mobile World Congress de Barcelona.</li><li>Tienen una tecnología que combina hardware y software para reducir el impacto visual.</li></ul>"
+    },
+    {
+      "title": "Personal ganó el premio a la mejor red de internet fija y móvil de la Argentina",
+      "url": "https://www.clarin.com/informacion-general/personal-gano-premio-mejor-red-internet-fija-movil-argentina_0_vAMWoXzccW.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 05 Mar 2026 14:23:39 +0000",
+      "summary": "<ul><li>La empresa de conectividad fue galardonada por Ookla, compañía que mide las conexiones de internet.</li><li>Fue en el marco del Mobile World Congress 2026, en Barcelona.</li></ul>"
+    },
+    {
       "title": "Apple lanza la MacBook Neo, la Mac más barata hasta la fecha: precio, cuándo sale a la venta y en qué se diferencia del resto",
       "url": "https://www.clarin.com/estados-unidos/apple-lanza-macbook-neo-mac-barata-fecha-precio-sale-venta-diferencia-resto_0_t5iu8Y9kI2.html",
       "source": "Clarín Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Wed, 04 Mar 2026 13:22:27 +0000",
       "summary": "<ul><li>Una de las causas más comunes es la señal de Wi-Fi insuficiente.</li><li>El uso del cable Ethernet también puede generar problemas de conectividad.</li></ul>"
-    },
-    {
-      "title": "iPhone 17e, la nueva versión del celular más barato de Apple: características y precio",
-      "url": "https://www.clarin.com/tecnologia/apple-presento-iphone-17e-nueva-version-celular-barato-caracteristicas-precio_0_SSFmMPErMF.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Mar 2026 13:06:00 +0000",
-      "summary": "<ul><li>El nuevo modelo incorpora chip A19, cámara de 48 megapíxeles y funciones satelitales.</li><li>Además, la compañía actualizó el iPad Air con chip M4 y mejoras en rendimiento, conectividad y herramientas de productividad.</li></ul>"
-    },
-    {
-      "title": "Un informe advirtió sobre una “crisis mundial de la inteligencia” en 2028 y sacudió Wall Street: qué dice sobre el futuro del trabajo",
-      "url": "https://www.clarin.com/tecnologia/informe-advirtio-crisis-mundial-inteligencia-2028-sacudio-wall-street-dice-futuro-trabajo_0_E4cOTBQfwZ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Mar 2026 08:45:39 +0000",
-      "summary": "<ul><li>Un ensayo de una firma financiera de bajo perfil planteó que el éxito masivo de la inteligencia artificial podría erosionar el valor del trabajo calificado.</li><li>Alertó sobre una espiral de automatización, caída del consumo y crecimiento cada vez más concentrado en el capital.</li></ul>"
     },
     {
       "title": "La inteligencia artificial transforma las condiciones laborales - Iruya.com",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNllZSmRTREhQYklsQk4wR0pZWDNZU2YyLWZzZHQ4UUtGWExGUHZTc3kxVUNULU90bkxncUo2VXFsWG52c1JoZFNFX19DWDlpZ2FyanF6VEZBY2Z0NVhKbnBMVHE1R0lia0FZaFpxUmhHYS1NLVRoUkpEbEd5THFCZ04xREtmMUk5NGlIQl8ySmdCdGtYMjMya2gwd2JOVnB1MThKYU5R?oc=5\" target=\"_blank\">Arg"
     },
     {
-      "title": "Microsoft y el Ministerio Público de la Provincia de Buenos Aires firman el primer acuerdo de colaboración en Inteligencia Artificial para la justicia en Latinoamérica - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQbzJlMmx4Y2ZwS19QZFdyNE1MeGY5QThUNFdBeVB5bVpITFB6NGhFQkJVX1FtTGpFUkVEXzVJamNrVFB6SGZmUDJVRi1DbWdLdFFnT2ZmaHU4UmlvandGMURXNkNWUGQxalBCenNDQUk2c18xNmlOYy04cHlaTWRDY3BrdjBHTFRXV1hnSk5OaHV5X2M3Vmp2STViZHRaQkxkOENnQ0w0dXZnU1Z3SGtzWmY1dzY3Tzctc0I4UFQ1X2RrbGFPbG5uaTFxeHNIb0JGOVV4Wi1MUEJMRFZBVU40bnhmYzBVYWlOdUtnSl9CV3I2ZGVDOElOaG9Ld0NBV3hEZkZsM2RQUW44UmNyYUptZjZLX0hvc01ZUjFIOGdTQ1ZHbGFCZElPT0lidG9oOUphQlA2UUR3dnZXMkNWTUtNZGh5Ul9nM2hWcWtyaWtWSQ?oc=5",
+      "title": "Ciudad de Buenos Aires apuesta por IA con nuevo distrito - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2pDQTVwbVZHY0k4cmNaSG9BTDRaWTJDTzlTVHg5SzR1STBGU1o0NkVEb056VXJydzhRM2RxaWRTX0VvOVdpSXN5T2gwamQxR0lRaEc2RnlQNnVOblBtdXB4d3BjR1JOWG91d0FyNW5ONXAwZjJTV3RTc3dhVFFCQzdSUnNMUXROay1FLUVmeUU4bGN6TDRNWFA0OA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 06 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxQbzJlMmx4Y2ZwS19QZFdyNE1MeGY5QThUNFdBeVB5bVpITFB6NGhFQkJVX1FtTGpFUkVEXzVJamNrVFB6SGZmUDJVRi1DbWdLdFFnT2ZmaHU4UmlvandGMURXNkNWUGQxalBCenNDQUk2c18xNmlOYy04cHlaTWRDY3BrdjBHTFRXV1hnSk5OaHV5X2M3Vmp2STViZHRaQkxkOENnQ0w0dXZnU1Z3SGtzWmY1dzY3Tzctc0"
+      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2pDQTVwbVZHY0k4cmNaSG9BTDRaWTJDTzlTVHg5SzR1STBGU1o0NkVEb056VXJydzhRM2RxaWRTX0VvOVdpSXN5T2gwamQxR0lRaEc2RnlQNnVOblBtdXB4d3BjR1JOWG91d0FyNW5ONXAwZjJTV3RTc3dhVFFCQzdSUnNMUXROay1FLUVmeUU4bGN6TDRNWFA0OA?oc=5\" target=\"_blank\">Ciudad de Buenos "
     },
     {
       "title": "Agtech en Expoagro 2026: Startups y universidades tecnológicas - Ecosistema Startup",
