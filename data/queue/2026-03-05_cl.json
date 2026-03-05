@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Los microbios de Marte podrían viajar a la Tierra, según un reciente experimento",
+      "url": "https://www.latercera.com/tendencias/noticia/los-microbios-de-marte-podrian-viajar-a-la-tierra-segun-un-reciente-experimento/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 05 Mar 2026 20:01:14 +0000",
+      "summary": "La idea de que la vida pudo llegar a la Tierra dentro de meteoritos expulsados desde otros planetas ha intrigado durante décadas a los científicos. Un nuevo estudio vuelve a poner esa hipótesis bajo la lupa."
+    },
+    {
       "title": "Fin del verano: consejos de una experta para comer colaciones saludables sin impactar al bolsillo",
       "url": "https://www.latercera.com/tendencias/noticia/fin-del-verano-consejos-de-una-experta-para-comer-colaciones-saludables-sin-impactar-al-bolsillo/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "El show de Bad Bunny en el Super Bowl LX rompió récords de audiencia global. Revisa cuántas personas vieron su presentación, cuánto dinero generó y las repercusiones que tuvo después."
     },
     {
-      "title": "El extraño efecto secundario del paracetamol que registró un estudio en más de 500 estudiantes",
-      "url": "https://www.latercera.com/tendencias/noticia/el-extrano-efecto-secundario-del-paracetamol-que-registro-un-estudio-en-mas-de-500-estudiantes/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 04 Mar 2026 09:03:00 +0000",
-      "summary": "Es accesible y usual de encontrar en los hogares. Sin embargo, el medicamento podría tener un efecto inesperado en nuestras emociones, de acuerdo a una investigación."
-    },
-    {
       "title": "La UNESCO y CENIA consolidan alianza para impulsar una inteligencia - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNlVXeEJPcUE1MFRNelNscFdMaUp6QQ?oc=5",
       "source": "Google News",
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNeVBJdmE3b1RFWTBRSXFxVXVqT2o0R19sSmc5UXRKRXU5YV9BaGprRVR6aTc3VXlYakRZTEZnQVNmTDJEOTdWZ0V1dlhPdzk5WVVxNVdBbVc1RS1Namt6X0RQTGhUX3BzNVVkNDZZRDA2WG9TVlk3QnZwcERtY1lYcllTSXBPcXJBTGh3aU5rLTB3NXFUN29zVjFjb3Y2WDg?oc=5\" target=\"_blank\">Marcelo Pust"
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
-      "title": "Agtech en Expoagro 2026: Startups y universidades tecnológicas - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5",
+      "title": "Fondo Pyme²: 6 startups reciben financiamiento en Chile - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzd0N0JaLWowZHZMcFBOWlFIVm8xM1FXdmM3TGJPY1hPblhPYU81V3Q0SEhDM2tKdFpTbDdiSXpPLWF1azBXdXBCSXpWZnMzQ2oxYmhEN191VzU5RGRINjdaM3haV1VQQ0tWUFV3Yi1iSTY3cXJ4YXJVT2J4VW8zSXlsVUR6ZEt5aE0zR2IxZDI4X3lu?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 02 Mar 2026 20:02:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5\" target=\"_blank\">Agtech en Expoagro 2026"
+      "published": "Thu, 05 Mar 2026 20:51:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzd0N0JaLWowZHZMcFBOWlFIVm8xM1FXdmM3TGJPY1hPblhPYU81V3Q0SEhDM2tKdFpTbDdiSXpPLWF1azBXdXBCSXpWZnMzQ2oxYmhEN191VzU5RGRINjdaM3haV1VQQ0tWUFV3Yi1iSTY3cXJ4YXJVT2J4VW8zSXlsVUR6ZEt5aE0zR2IxZDI4X3lu?oc=5\" target=\"_blank\">Fondo Pyme²: 6 startups rec"
     },
     {
       "title": "Conoce a la fundadora de una nueva startup en DC nombrada nueva ministra de innovación en Chile - Technical.ly",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5\" target=\"_blank\">Conoce a la fundadora de una nueva startup "
     },
     {
-      "title": "Fondo Pyme²: 6 startups chilenas reciben financiamiento - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDIyTFhJSjRDNG9zakRFb010LWRSSFpvUXZ2NmE4QUZ6WEJpV3hqcFFGbG43WHZUaWVtNjVfV1pjUXV3eld2SXBLNkdpb3B1M2tMYVJOU3VFMXItQW9UeDFYRmI2NXBCX1l6R1JhOWc2alNkQTVoZ1dKaVIyMkVqTVlCbkhMc2ZXQU9wSy1udmJlWXV3?oc=5",
+      "title": "Agtech en Expoagro 2026: Startups y universidades tecnológicas - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Mar 2026 01:23:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDIyTFhJSjRDNG9zakRFb010LWRSSFpvUXZ2NmE4QUZ6WEJpV3hqcFFGbG43WHZUaWVtNjVfV1pjUXV3eld2SXBLNkdpb3B1M2tMYVJOU3VFMXItQW9UeDFYRmI2NXBCX1l6R1JhOWc2alNkQTVoZ1dKaVIyMkVqTVlCbkhMc2ZXQU9wSy1udmJlWXV3?oc=5\" target=\"_blank\">Fondo Pyme²: 6 startups chi"
+      "published": "Mon, 02 Mar 2026 20:02:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5\" target=\"_blank\">Agtech en Expoagro 2026"
     }
   ],
   "count": 14
