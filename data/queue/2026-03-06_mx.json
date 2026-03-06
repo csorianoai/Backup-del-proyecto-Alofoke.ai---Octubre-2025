@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Samsung habla por primera vez de sus próximos lentes inteligentes",
+      "url": "https://expansion.mx/tecnologia/2026/03/06/samsung-habla-por-primera-vez-de-sus-proximos-lentes-inteligentes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Mar 2026 16:00:01 GMT",
+      "summary": "Con este dispositivo, la empresa surcoreana conectará su ecosistema de gadgets para tener una oferta más amplia y competir con Meta."
+    },
+    {
       "title": "El 26% de las líderes tech en México no recibe apoyo; la sororidad emerge como clave",
       "url": "https://expansion.mx/tecnologia/2026/03/06/el-26-de-las-lideres-tech-en-mexico-no-recibe-apoyo-la-sororidad-emerge-como-clave",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "La plataforma busca ampliar su oferta con envíos y préstamos digitales, usando la movilidad como puerta de entrada en un mercado con baja bancarización y alta informalidad."
     },
     {
-      "title": "Tu banco ya tiene tus datos, pero 18 de 20 los piden otra vez",
-      "url": "https://expansion.mx/tecnologia/2026/03/04/tu-banco-ya-tiene-tus-datos-pero-18-de-20-los-piden-otra-vez",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 04 Mar 2026 23:00:05 GMT",
-      "summary": "Aunque los usuarios cada vez confían más en los bancos, el actuar de estas instituciones reflejan una infraestructura interna desconectada que complica la experiencia digital."
-    },
-    {
       "title": "Gobierno de México ya utiliza Inteligencia Artificial sin regulación ni estrategia clara, advierten expertos - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWG9yZnU5VU16ODFvR0h1Ylc2T3hHSE45OG12SUVQcjZjaXRNYURnMG1NVHVuZDlkb3NXYl9hQUwzY1ZMTmw2NjQxSWxZbnFNWWVvcXh5OXpMQTZsVkVROWkwdzV0SThGNVliY09STE5xU0l1MkpibGVOUnVyQ2NuQUI2QURYeHF5dXplams4WUNfUXIzWEVOZlllZk9seHNJbFZLcDdjMWs5VE9wRV9KWjJEUUVpc3FicXdSUUcwSFQyRlU5Y2tWbi1PNG9rY1FwcjZSeUJ3NTlRMHNhbW1QcnJjcXRDSU1DOUJjMGxfRzM?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWG9yZnU5VU16ODFvR0h1Ylc2T3hHSE45OG12SUVQcjZjaXRNYURnMG1NVHVuZDlkb3NXYl9hQUwzY1ZMTmw2NjQxSWxZbnFNWWVvcXh5OXpMQTZsVkVROWkwdzV0SThGNVliY09STE5xU0l1MkpibGVOUnVyQ2NuQUI2QURYeHF5dXplams4WUNfUXIzWEVOZlllZk9seHNJbFZLcDdjMWs5VE9wRV9KWjJEUUVpc3FicX"
     },
     {
-      "title": "Estafadores usan inteligencia artificial para engañar a inmigrantes y robar - Telemundo Nuevo México",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekFTaTVFNjRNZjBTdGdtV0M5ZFE2OUx0azFXNVBTNjUzbkRkclF5WlA4WGF4NUk2em13RlA2em1IUjZ6dTJQMXZRN2xPQzV5X1BGNnFQbG9lb0J3ZThybldodXF5NzB4QU9XWTdMSmRvWlJ1Z0RtaXZVM1FISHRvbWtuN2xnQVNGZ1NRaTRZOU5rWDBoeW4wbkxhM2hvbXBfLWk1R1QwSFJNVUNUNXoyYXp3cHFwU1FuQm52dlljTmliSGFIMHlWTVRLSU1TUdIB1gFBVV95cUxOUHFlRUZGZ1F2T3pmd09GWXozY1h6dnVkdy1aSlRzWG9vQUhrMWd5V1M3cEpnY3RyQUhIdTI3UUNvYTRrQnR6eHZtUGhndFFyS2dJejV1Snd1ZDFySmJjMXVQUWloejVYbGVZSS1aZTczZFpVWjJXbGRxTTBMNFBFR3ozWXBzNDh1Nnd1ejRWTDdNa3ZlMFYzQVo3NUxvR1pMSnY0SUdPRTRVY3kwNEp3ajI1UFd2LVIzQ05rUG1oUmdCTWNGZzdPcGItSmtuYWFmb2J2SWtB?oc=5",
+      "title": "Inteligencia artificial: estadios de EEUU mucho más inseguros que los de México - sdpnoticias",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVc0eTZ2Qk8wSnM4RzBaZjAyTVB0VXo1QVJKdnNZd3VkaVRfNjF3bk9Fdld6cDlaYTQtaHRaZTg5VE9tX3BsUUt5TzB0ZUxDRnJES3pkQUJPNlJTOEJmU2RweFBHb2toalJTN1Rqa2tldWFlRy1TdmRUZEJpSFdMNU1UMF9iTGRkTmZ2cmxETHNTbDdnMm1kYWlFRTJOc19FSUZjSVVkOUlDLVF5NXEwMEVTRW14Zw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Mar 2026 21:51:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOekFTaTVFNjRNZjBTdGdtV0M5ZFE2OUx0azFXNVBTNjUzbkRkclF5WlA4WGF4NUk2em13RlA2em1IUjZ6dTJQMXZRN2xPQzV5X1BGNnFQbG9lb0J3ZThybldodXF5NzB4QU9XWTdMSmRvWlJ1Z0RtaXZVM1FISHRvbWtuN2xnQVNGZ1NRaTRZOU5rWDBoeW4wbkxhM2hvbXBfLWk1R1QwSFJNVUNUNXoyYXp3cHFwU1FuQm"
+      "published": "Fri, 06 Mar 2026 16:02:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTVc0eTZ2Qk8wSnM4RzBaZjAyTVB0VXo1QVJKdnNZd3VkaVRfNjF3bk9Fdld6cDlaYTQtaHRaZTg5VE9tX3BsUUt5TzB0ZUxDRnJES3pkQUJPNlJTOEJmU2RweFBHb2toalJTN1Rqa2tldWFlRy1TdmRUZEJpSFdMNU1UMF9iTGRkTmZ2cmxETHNTbDdnMm1kYWlFRTJOc19FSUZjSVVkOUlDLVF5NXEwMEVTRW14Zw?oc="
     },
     {
-      "title": "Las apps bancarias en México presumen inteligencia artificial, pero todavía fallan en seguridad - Xataka México",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXMtbnBURkY3R2pMdEJCbUthOVlxU3AzZ0pkTW9LeHFNcFRpUjVkNGlKbllmbEhJNHNaTmg1NEtPNGtERWtPR0YzbHBGdlBHWUR3NlBGLXc3bnNQcnhhczV3aDVNaFpFT3cxMkFRa2FHaEdXQ0xlSi1vUlJkUE9Hc09jeXdab0xNbkRGWFhIZExKSmVlZ1lMSmRJZ2VTMFFzUDhuMy1xdkQ1V0JuanBJU0J1OEhqQ19qLWRn0gHAAUFVX3lxTE1JMjFRcGhNQVdhMGRQa085SUZQUEdGS21IVjlhYUNuUXlRUlhxREV1OFhDQmNMLU01RU4tVlBaTWFlYkZBa2FsbUJmdHRVSFc5bGZ4dFEtOGFsVEZLT3FaUEJFZ1BFZ3RtMzJlTUM5ZmdBa3FieWRpTGJwaEFhdzQ4d0tYc0dKZm5XZ0xVdFJrYUI3OGlwREI3eDJjTDBnYmUyRjVJQzY4NVBPR21EM0NVUDdXR1RSVTNQMEZvRXMxZQ?oc=5",
+      "title": "¿Es machista la IA? Firmas financieras en México entrenan a sus algoritmos para cerrar la brecha de género - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDNySmxJVTZXRXNzTklKWmZzUlYzeXg2NVBXRkcxNEtVZ3U2TldpM1hvQ05TYUhGRGg1UFZsYTZKb1Vzd3ZGaG5XaHJUU001UlBnakxINjNUZTRvUGpPMEYxLWtGVFBfbDUwd1JBdDdPdlBSZHdBaG9XU1RscU5SRHNtSENnTkJVbVhhVVUtb3J4bjI5aXVWd2gwckZINGs0SDN6ME1lcWY3emNTbk0zV3JXRE56dkxjYUU3UEtmMXZtZ0g4S19oMFpRcW5jYUtSTUJ5UzBOU2ZMY250aWxN0gHzAUFVX3lxTFAwOVNHYzRKcG5jUzhGcVRlZ3NoV0lhWlkwaEtncHdjUVhJaXExR0ZyaWpkX0tEdWp3NEViT3dUeXJnZjZtTGhlT2plMEJ2T0lNWXlHSnJvMUVfVFB3YTdST3BzbVo1T3pSQUhLeHRyVm9wUlc0T3kwRzMxUi1UcVpWeVc2ZWRhSE9CYmk1QTBaQm84cnk2QWlGc0dxTm80RzdRallaQ0Y1a1RzLUxZQktneUY3MURWWi1RYzZrdUpTZWFydEpDd3NzTFlKNE9zTVBLT1ZmTGZyNzE0V3QwQ1FxT1U2czlpWFFjeFNCaXdPOUFxbw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Mar 2026 16:01:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXMtbnBURkY3R2pMdEJCbUthOVlxU3AzZ0pkTW9LeHFNcFRpUjVkNGlKbllmbEhJNHNaTmg1NEtPNGtERWtPR0YzbHBGdlBHWUR3NlBGLXc3bnNQcnhhczV3aDVNaFpFT3cxMkFRa2FHaEdXQ0xlSi1vUlJkUE9Hc09jeXdab0xNbkRGWFhIZExKSmVlZ1lMSmRJZ2VTMFFzUDhuMy1xdkQ1V0JuanBJU0J1OEhqQ19qLW"
+      "published": "Thu, 05 Mar 2026 04:40:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSDNySmxJVTZXRXNzTklKWmZzUlYzeXg2NVBXRkcxNEtVZ3U2TldpM1hvQ05TYUhGRGg1UFZsYTZKb1Vzd3ZGaG5XaHJUU001UlBnakxINjNUZTRvUGpPMEYxLWtGVFBfbDUwd1JBdDdPdlBSZHdBaG9XU1RscU5SRHNtSENnTkJVbVhhVVUtb3J4bjI5aXVWd2gwckZINGs0SDN6ME1lcWY3emNTbk0zV3JXRE56dkxjYU"
     },
     {
       "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5\" target=\"_blank\">Ingeniería en In"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre impactos, retos y oportunidades de las tecnologías y de la IA para la educación - Naciones Unidas en México",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMHlVYXBhRno3dFE?oc=5",
+      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUnVIMXprX1l6aTR5UW9Xd181NUgtRDVuNzhtLVZkeHlPZTJvLUNoMFdyTTV6dmdnN3pzV29MUjl6WXhTZHRybnM5TXp5M2w4RUM3M3duU2NoWFBwT2ZiNklTS25NSUd1WVFjVldyS1ltdFRzVEk5UC1QS1VjSUJYMVBOZjJmU1lPRy1tRUdwWk1oMDNDQVZfM2psRkFrdHpuZ1I2SGhtakZhY3pPRHJfdE5vcWY2WWFsMH"
+      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?o"
     }
   ],
   "count": 14

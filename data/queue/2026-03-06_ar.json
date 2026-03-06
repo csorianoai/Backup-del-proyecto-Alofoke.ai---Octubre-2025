@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "No hay luz y tu celular está por morir: la forma poco conocida de cargar la batería",
+      "url": "https://www.clarin.com/tecnologia/luz-celular-morir-forma-conocida-cargar-bateria_0_rrYa3nLRZ4.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Mar 2026 18:20:03 +0000",
+      "summary": "<ul><li>Contar con una batería portátil podría ser de gran ayuda en caso de cortes de luz.</li><li>Tambien existe una gran alternativa para quienes buscan una solución ecológica.</li></ul>"
+    },
+    {
       "title": "\"Algoritmos adictivos\": el padre de la web pidió prohibir las redes sociales a menores de 16 y apuntó contra TikTok",
       "url": "https://www.clarin.com/tecnologia/algoritmos-adictivos-padre-web-pidio-prohibir-redes-sociales-menores-16-apunto-tiktok_0_SuNydAewOI.html",
       "source": "Clarín Tecnología",
@@ -35,12 +43,12 @@
       "summary": "<ul><li>Apple rompe la barrera del precio con la MacBook Neo para conquistar las aulas y a los usuarios de Windows que buscan potencia sin gastar mil dólares.</li><li>La nueva notebook estrena el chip A18 Pro y macOS Tahoe, además de que saldrá con cuatro colores vibrantes a elegir  y un diseño ultr"
     },
     {
-      "title": "Más pantallas, menos papel: de ebooks a impresoras, cuánto cuestan los dispositivos esenciales para la vuelta a clases",
-      "url": "https://www.clarin.com/tecnologia/pantallas-papel-ebooks-impresoras-cuestan-dispositivos-esenciales-vuelta-clases_0_eaq7sJ9PQh.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Mar 2026 08:46:10 +0000",
-      "summary": "<ul><li>El inicio del ciclo lectivo impulsó la demanda tecnológica en los hogares. </li><li>Impresoras, notebooks y lectores electrónicos encabezan un ecosistema que combina conectividad y ahorro.</li></ul>"
+      "title": "Un estudio sobre Inteligencia Artificial advierte que los chatbots refuerzan estereotipos de género entre jóvenes - inteligenciaargentina.ar",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzM0SS16THR2RTFZYlpEblVoV1VZNW5qd1dtVlNVbG9iOGhIS1pzTGpIaTlQalRiandScWlHWGo2SnFQMkswVzNPdkE2eXMyZDhBNHI3TjJXc2s1bXNyVTZxOGFNdVU3eERpd3dDLUtnbnc1N1IxanlSQkNRYmNGeFNVMG9lTFh1WUV1enF4cHVrSXFMQ25sRFdjWFJncXM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Mar 2026 18:27:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzM0SS16THR2RTFZYlpEblVoV1VZNW5qd1dtVlNVbG9iOGhIS1pzTGpIaTlQalRiandScWlHWGo2SnFQMkswVzNPdkE2eXMyZDhBNHI3TjJXc2s1bXNyVTZxOGFNdVU3eERpd3dDLUtnbnc1N1IxanlSQkNRYmNGeFNVMG9lTFh1WUV1enF4cHVrSXFMQ25sRFdjWFJncXM?oc=5\" target=\"_blank\">Un estudio s"
     },
     {
       "title": "La Ciudad integra IA con Google Gemini en escuelas primarias - ITSitio",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHZISi1kaUktTDlZc2ZHd0dQemxVNnhLMk1DVHZlNmlTVU1KaDlXQVBld3hyZ1JHRU9ITXB6clcyM2VkZ2dkSlk0TFNMeklUOWxpTmN1N1FFMWUtR3EtVFBhRkRXeUktWjJGZV8yaFZjQVJkN1hKRWNJa3gyN2FGZkMzZTNQWHktWnU5LXZTQmFpSDJY0gGvAUFVX3lxTE9fdzhYRFNjSTlPZHBfT3habTB2aENKTTlULW"
     },
     {
-      "title": "Argentina | Corte Suprema moderniza su buscador de fallos con Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFhEV1NwRGdvaEpSaGtTUlU1aWtKOVZELTh3bTF0Y3N0QXVmOVl1eXM2em5DQW5oQ2xwSnJuaUc1VGlHWDRnNXR2eGlaTXBVZ0hiOG16V21FU2RHVzQ1SHdWRTFpNzk2Q3U3bXpWNTJYaWFSbmZMWEZLWkVRRWVRMDZVNmd4MVhlV1h4cWJGRWZrWVBQRGg4Wk1Obkw2ZGxRMUktWHY0TQ?oc=5",
+      "title": "La Ciudad de Buenos Aires acelera la implementación de inteligencia artificial para trámites, seguridad y educación - Pura Ciudad",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXlwcmVvR29qRDdaRk1QblJJZjdtSHFFNm9YNHdwdmJzVWxIazFCSmVoSFFocDZ6S1Z0WFlvb0lRUnJqelR6RVlyTEVUSGtZVUtpbUhpd0V1OUctTG5UTmxqX19ZWVdOcklvZXZKcFVHUzRFZWxIYWFPRHBZTjVlMmNIVGpQWm5YR19rTUQwMjN6VjBBaUlVZnF0V1o1bXliTWNiWHJzOVI4MFRHWjVwMFVJenhhNmJxS2cyVEZZYzJYLWZEWWtWTndMY2tSV3lMNmpsWkx2ZmFxSWtRWkE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 03 Mar 2026 13:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFhEV1NwRGdvaEpSaGtTUlU1aWtKOVZELTh3bTF0Y3N0QXVmOVl1eXM2em5DQW5oQ2xwSnJuaUc1VGlHWDRnNXR2eGlaTXBVZ0hiOG16V21FU2RHVzQ1SHdWRTFpNzk2Q3U3bXpWNTJYaWFSbmZMWEZLWkVRRWVRMDZVNmd4MVhlV1h4cWJGRWZrWVBQRGg4Wk1Obkw2ZGxRMUktWHY0TQ?oc=5\" target=\"_blank\">A"
+      "published": "Fri, 06 Mar 2026 20:39:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWXlwcmVvR29qRDdaRk1QblJJZjdtSHFFNm9YNHdwdmJzVWxIazFCSmVoSFFocDZ6S1Z0WFlvb0lRUnJqelR6RVlyTEVUSGtZVUtpbUhpd0V1OUctTG5UTmxqX19ZWVdOcklvZXZKcFVHUzRFZWxIYWFPRHBZTjVlMmNIVGpQWm5YR19rTUQwMjN6VjBBaUlVZnF0V1o1bXliTWNiWHJzOVI4MFRHWjVwMFVJenhhNmJxS2"
     },
     {
       "title": "SAP NOW AI Tour Argentina 2025: el poder transformador de la inteligencia artificial llega a Buenos Aires - SAP News Center",
@@ -83,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNllZSmRTREhQYklsQk4wR0pZWDNZU2YyLWZzZHQ4UUtGWExGUHZTc3kxVUNULU90bkxncUo2VXFsWG52c1JoZFNFX19DWDlpZ2FyanF6VEZBY2Z0NVhKbnBMVHE1R0lia0FZaFpxUmhHYS1NLVRoUkpEbEd5THFCZ04xREtmMUk5NGlIQl8ySmdCdGtYMjMya2gwd2JOVnB1MThKYU5R?oc=5\" target=\"_blank\">Arg"
     },
     {
-      "title": "Ciudad de Buenos Aires apuesta por IA con nuevo distrito - BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2pDQTVwbVZHY0k4cmNaSG9BTDRaWTJDTzlTVHg5SzR1STBGU1o0NkVEb056VXJydzhRM2RxaWRTX0VvOVdpSXN5T2gwamQxR0lRaEc2RnlQNnVOblBtdXB4d3BjR1JOWG91d0FyNW5ONXAwZjJTV3RTc3dhVFFCQzdSUnNMUXROay1FLUVmeUU4bGN6TDRNWFA0OA?oc=5",
+      "title": "Humand: la startup argentina con Serie A récord de $66M - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalZGN3gwLUJXSFhKY2VpNGlCRmFycjRqak1PX1JsWE5RWmQ3NloxckZFVWhFeUNiZ2VkcWdydUdWQmp5eWFIYWt1TWtMWldkQ0dWcy1mVlc5WVJMQjlyUUlJVzBhUTZEZE1uVWxPZmVEZWJmck5panNaeVN3UXBQZ3NnOWVScDl6bjBGQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 30 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2pDQTVwbVZHY0k4cmNaSG9BTDRaWTJDTzlTVHg5SzR1STBGU1o0NkVEb056VXJydzhRM2RxaWRTX0VvOVdpSXN5T2gwamQxR0lRaEc2RnlQNnVOblBtdXB4d3BjR1JOWG91d0FyNW5ONXAwZjJTV3RTc3dhVFFCQzdSUnNMUXROay1FLUVmeUU4bGN6TDRNWFA0OA?oc=5\" target=\"_blank\">Ciudad de Buenos "
-    },
-    {
-      "title": "Agtech en Expoagro 2026: Startups y universidades tecnológicas - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Mar 2026 20:02:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5\" target=\"_blank\">Agtech en Expoagro 2026"
+      "published": "Fri, 06 Mar 2026 20:04:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNalZGN3gwLUJXSFhKY2VpNGlCRmFycjRqak1PX1JsWE5RWmQ3NloxckZFVWhFeUNiZ2VkcWdydUdWQmp5eWFIYWt1TWtMWldkQ0dWcy1mVlc5WVJMQjlyUUlJVzBhUTZEZE1uVWxPZmVEZWJmck5panNaeVN3UXBQZ3NnOWVScDl6bjBGQQ?oc=5\" target=\"_blank\">Humand: la startup argentina con Seri"
     },
     {
       "title": "Lanzar una startup tech en la Argentina de Milei, entre expectativas y riesgos - bloomberglinea.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQUGNlNk8ySmFzcFlXbmJIdHR0OUNWd1J3UFFxX0RkSEhGQ2t3SVJnVTlrOWhxSzh5Q3FPQWJxREFocmRGdmNwNmZMWGpETGFKRTFrYlpxUXQ4QXdiTTlVVmxfMndOTlI3WWtIWlR6eDdWS19jZWNJeHVzc01uRVBCNGQ0dVZsTnpKMVg3Tzk0VDZSM1VVMjZCanJQVnNYNkVzUTNiQUJLU3FGeE9BeXJ3N013STBOQnZEZz"
     },
     {
-      "title": "Efficast: IA para fábricas y ronda de US$1,5M - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44Y050ZzJJRFM4YUJSZGg5ZGJxMHF3UXhIS0VCck1jOXU1bTJTTndDeEVPV2tSY0RuS1pmLTdJSnRzUjNyYkwwVDMwOHVpRVoyZzktZC1taV9ObVkzYWxtQlNwSjVxdUZEd2R6WHdERlptcHR6QTV1WVBTQTJRdw?oc=5",
+      "title": "Agtech en Expoagro 2026: Startups y universidades tecnológicas - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Mar 2026 18:20:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE44Y050ZzJJRFM4YUJSZGg5ZGJxMHF3UXhIS0VCck1jOXU1bTJTTndDeEVPV2tSY0RuS1pmLTdJSnRzUjNyYkwwVDMwOHVpRVoyZzktZC1taV9ObVkzYWxtQlNwSjVxdUZEd2R6WHdERlptcHR6QTV1WVBTQTJRdw?oc=5\" target=\"_blank\">Efficast: IA para fábricas y ronda de US$1,5M</a>&nbsp;&n"
+      "published": "Mon, 02 Mar 2026 20:02:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWU1NcmJPcElHalVNcG5EVDRSNjNqdGNqX09tb3ZrQzcxRzN1ZWR0a0RZMnBuSE1fc3NpQUc0cXdLYU1XY055Y3pvRmMwMzN3bWEtdVRhcERqdEkyTEhhVmEyVGdzcF9abjIxcHhIOWlYTUIzX2dWZjNwc29kWU9jVFJuY0JDQVB4RXRDWDFzY1pGRUliQVow?oc=5\" target=\"_blank\">Agtech en Expoagro 2026"
     }
   ],
   "count": 14
