@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Anthropic demanda al gobierno de Trump por vetar su IA en defensa",
+      "url": "https://expansion.mx/tecnologia/2026/03/09/anthropic-demanda-gobierno-trump-por-vetar-su-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Mar 2026 17:30:38 GMT",
+      "summary": "La startup de IA demandó a agencias del gobierno estadounidense luego de que el Pentágono la incluyera en su “lista negra” de riesgo para la cadena de suministro."
+    },
+    {
+      "title": "Trump invirtió más de 1 mdd en bonos de Netflix mientras cuestionaba la compra de Warner Bros",
+      "url": "https://expansion.mx/tecnologia/2026/03/09/trump-invirtio-mas-de-1-mdd-en-bonos-de-netflix",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Mar 2026 16:29:40 GMT",
+      "summary": "La compra de bonos de Netflix y Warner Bros por parte de Trump coincidió con el proceso de revisión de una de las mayores operaciones del sector."
+    },
+    {
+      "title": "Microsoft lanza una nueva suscripción a Office con agentes de IA",
+      "url": "https://expansion.mx/tecnologia/2026/03/09/microsoft-lanza-una-nueva-suscripcion-a-office-con-agentes-de-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Mar 2026 16:00:11 GMT",
+      "summary": "El nuevo paquete integrará herramientas de Copilot y Claude, así como herramientas de agentes y seguridad para los usuarios."
+    },
+    {
       "title": "Eight Sleep alcanza valoración de 1,500 mdd y apuesta por su expansión global en 2026",
       "url": "https://expansion.mx/tecnologia/2026/03/09/eight-sleep-alcanza-valoracion-de-1-500-mdd-y-apuesta-por-su-expansion-global-en-2026",
       "source": "Expansión Tecnología",
@@ -19,30 +43,6 @@
       "summary": "Sin las mujeres el negocio de las apps de delivery no se sostendría igual. Ellas reparten, conducen, gastan más en apps y fundan seis de cada 10 nuevos restaurantes."
     },
     {
-      "title": "Samsung habla por primera vez de sus próximos lentes inteligentes",
-      "url": "https://expansion.mx/tecnologia/2026/03/06/samsung-habla-por-primera-vez-de-sus-proximos-lentes-inteligentes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Mar 2026 16:00:01 GMT",
-      "summary": "Con este dispositivo, la empresa surcoreana conectará su ecosistema de gadgets para tener una oferta más amplia y competir con Meta."
-    },
-    {
-      "title": "El 26% de las líderes tech en México no recibe apoyo; la sororidad emerge como clave",
-      "url": "https://expansion.mx/tecnologia/2026/03/06/el-26-de-las-lideres-tech-en-mexico-no-recibe-apoyo-la-sororidad-emerge-como-clave",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Mar 2026 11:55:18 GMT",
-      "summary": "Ante la exclusión de redes de poder, comunidades de mujeres y programas de mentoría buscan impulsar emprendimientos tecnológicos liderados por ellas."
-    },
-    {
-      "title": "ChatGPT o Gemini de pago, ¿qué cambia entre usarlas gratis y pagar?",
-      "url": "https://expansion.mx/tecnologia/2026/03/05/chatgpt-vs-gemini-conviene-usar-gratis-o-pago",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Mar 2026 23:47:00 GMT",
-      "summary": "La IA adopta el modelo de suscripción que domina otros servicios digitales, pero qué ofrecen los modelos de pago en comparación con los gratuitos."
-    },
-    {
       "title": "Gobierno de México ya utiliza Inteligencia Artificial sin regulación ni estrategia clara, advierten expertos - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWG9yZnU5VU16ODFvR0h1Ylc2T3hHSE45OG12SUVQcjZjaXRNYURnMG1NVHVuZDlkb3NXYl9hQUwzY1ZMTmw2NjQxSWxZbnFNWWVvcXh5OXpMQTZsVkVROWkwdzV0SThGNVliY09STE5xU0l1MkpibGVOUnVyQ2NuQUI2QURYeHF5dXplams4WUNfUXIzWEVOZlllZk9seHNJbFZLcDdjMWs5VE9wRV9KWjJEUUVpc3FicXdSUUcwSFQyRlU5Y2tWbi1PNG9rY1FwcjZSeUJ3NTlRMHNhbW1QcnJjcXRDSU1DOUJjMGxfRzM?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWG9yZnU5VU16ODFvR0h1Ylc2T3hHSE45OG12SUVQcjZjaXRNYURnMG1NVHVuZDlkb3NXYl9hQUwzY1ZMTmw2NjQxSWxZbnFNWWVvcXh5OXpMQTZsVkVROWkwdzV0SThGNVliY09STE5xU0l1MkpibGVOUnVyQ2NuQUI2QURYeHF5dXplams4WUNfUXIzWEVOZlllZk9seHNJbFZLcDdjMWs5VE9wRV9KWjJEUUVpc3FicX"
     },
     {
+      "title": "Hospital Oncológico de la Mujer implementa la IA para tratamientos médicos - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXRkUjRoVFdKd1Zya18yQ0s4UENaTmJUWTZhS0R1djZoMDN1eWdtZTV5aTJ1bEhHSDhlMUFDM1FpVDFOS0hEMmxFS01oWlFXQUZnSnBfdm43RlJsc3VhcllSRmZBejNneTRxclhMcC1Sa3dPUGRpQzlKeWNCNkNTNnlsNkdnWWhfd0lpWlVxanJ2dE9ucGhfZlo0bnVFc3lZMVM4cUpsYUFJcW8tMWRheG9jRHhjR2h40gHTAUFVX3lxTE9VcWNiMGM4YU9QZUdzQUpUWU13aE51ZjlsN2pYWUM2ZzE4Rmc0OWE2Z0QxRVU5d2VPd0p0Rl9Fa19xaW1UQ1dpYlo1b1hDR1h3dmtVeUNkelhfNDZTZXkyMmdIdTBBYU1vQVBaeTZWUzFzWjRZLTJTN3ZOTVRPNTNJc2o0MzI2OHdTRTdneXBVVXBqNTJfeDlsOElSOFhrd3JPZVkwYzJWNFU3cGl0MHBQM19DYVNXWmdRMmhMUlEyd0JUekFtMmFOZy05aVJQcHQtVXM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 09 Mar 2026 15:16:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXRkUjRoVFdKd1Zya18yQ0s4UENaTmJUWTZhS0R1djZoMDN1eWdtZTV5aTJ1bEhHSDhlMUFDM1FpVDFOS0hEMmxFS01oWlFXQUZnSnBfdm43RlJsc3VhcllSRmZBejNneTRxclhMcC1Sa3dPUGRpQzlKeWNCNkNTNnlsNkdnWWhfd0lpWlVxanJ2dE9ucGhfZlo0bnVFc3lZMVM4cUpsYUFJcW8tMWRheG9jRHhjR2h40g"
+    },
+    {
       "title": "Inteligencia artificial y activos digitales, claves en la madurez del ecosistema ‘fintech’ mexicano - El Español",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHpjV2NxTkVfMW1QT3IyVHpNaHQ3VkE5anY0ZExPZkNXSGxkT0Q1S2NkTFJNdkdobExiRnRPU1V2X3ltN3RfaDRjNVRpbkZvLXptek1DNHFqdm5adkRoOE9fSDB2R2h4X3U5RnRpaEZodkpGWDhIRllJdWkzT1F0b21RbkI1Y1F1ZTF6cnZWOVJhZVpRVUFfaG00MUlYd2dDaTYzTDd5ZlBfckJQd25hQVA4WWNVMkVwWnp1QW9jdzA3Rk9DYVFMUExQeHpJWDdHcE92bDZrYmdZTEJOU0VGRXQ3LV9KcjVNMXFTcXNCMlpCamU1eTRlWXl5bWpFVHPSAYQCQVVfeXFMTmxFS044MzR6eFA1UkdGTTJDUjBnSzA3UnhRMzdMRHRBWW9lalVaS3BYZFYwQS15MTk5SXp6UktKMFJ1cWt1TW9RQzFtWURHTHhnQy1Gd29TSWYwUHhzRE1kTUFvOGpsdS1OMzE1Ny1BWi0zN0NPTVFBSFZhbmZjbFExUExieFEtUVFCNDdHSkN5VWFWcHBYdHpRNDYxQ0hEdXB1U2VhNmFsd1JCWGt4TlNsQWEyYmo4V25pYmYwcGJJdkZYZ081TEtlM2dzamVxdjdPX0QyRHgyNVN3V3haMW9RUGhSeTBHdkF0NThiMHpzaEJZVkROM1hIVUM3M2NrQzByZVQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 09 Mar 2026 01:53:27 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHpjV2NxTkVfMW1QT3IyVHpNaHQ3VkE5anY0ZExPZkNXSGxkT0Q1S2NkTFJNdkdobExiRnRPU1V2X3ltN3RfaDRjNVRpbkZvLXptek1DNHFqdm5adkRoOE9fSDB2R2h4X3U5RnRpaEZodkpGWDhIRllJdWkzT1F0b21RbkI1Y1F1ZTF6cnZWOVJhZVpRVUFfaG00MUlYd2dDaTYzTDd5ZlBfckJQd25hQVA4WWNVMkVwWn"
-    },
-    {
-      "title": "Estafadores usan inteligencia artificial para engañar a inmigrantes y robar - Telemundo Nuevo México",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOekFTaTVFNjRNZjBTdGdtV0M5ZFE2OUx0azFXNVBTNjUzbkRkclF5WlA4WGF4NUk2em13RlA2em1IUjZ6dTJQMXZRN2xPQzV5X1BGNnFQbG9lb0J3ZThybldodXF5NzB4QU9XWTdMSmRvWlJ1Z0RtaXZVM1FISHRvbWtuN2xnQVNGZ1NRaTRZOU5rWDBoeW4wbkxhM2hvbXBfLWk1R1QwSFJNVUNUNXoyYXp3cHFwU1FuQm52dlljTmliSGFIMHlWTVRLSU1TUdIB1gFBVV95cUxOUHFlRUZGZ1F2T3pmd09GWXozY1h6dnVkdy1aSlRzWG9vQUhrMWd5V1M3cEpnY3RyQUhIdTI3UUNvYTRrQnR6eHZtUGhndFFyS2dJejV1Snd1ZDFySmJjMXVQUWloejVYbGVZSS1aZTczZFpVWjJXbGRxTTBMNFBFR3ozWXBzNDh1Nnd1ejRWTDdNa3ZlMFYzQVo3NUxvR1pMSnY0SUdPRTRVY3kwNEp3ajI1UFd2LVIzQ05rUG1oUmdCTWNGZzdPcGItSmtuYWFmb2J2SWtB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 05 Mar 2026 21:51:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOekFTaTVFNjRNZjBTdGdtV0M5ZFE2OUx0azFXNVBTNjUzbkRkclF5WlA4WGF4NUk2em13RlA2em1IUjZ6dTJQMXZRN2xPQzV5X1BGNnFQbG9lb0J3ZThybldodXF5NzB4QU9XWTdMSmRvWlJ1Z0RtaXZVM1FISHRvbWtuN2xnQVNGZ1NRaTRZOU5rWDBoeW4wbkxhM2hvbXBfLWk1R1QwSFJNVUNUNXoyYXp3cHFwU1FuQm"
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
