@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "China supera las 1,000 millones de conexiones 5G, México alcanza 16.9 millones",
+      "url": "https://expansion.mx/tecnologia/2026/03/09/china-supera-las-1-000-millones-de-conexiones-5g-mexico-alcanza-16-9-millones",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Mar 2026 21:00:59 GMT",
+      "summary": "El despliegue de redes de última generación se detuvo en el país lo que significa que el riesgo por tener menos adopción digital es latente."
+    },
+    {
       "title": "Anthropic demanda al gobierno de Trump por vetar su IA en defensa",
       "url": "https://expansion.mx/tecnologia/2026/03/09/anthropic-demanda-gobierno-trump-por-vetar-su-ia",
       "source": "Expansión Tecnología",
@@ -35,36 +43,28 @@
       "summary": "Tras una nueva ronda de inversión liderada por Tether Investments, la startup de colchones inteligentes se expandirá a nuevos mercados y desarrollar herramientas de IA para predecir problemas de salud a partir del sueño."
     },
     {
-      "title": "Las mujeres sostienen una parte clave de las apps de movilidad y delivery",
-      "url": "https://expansion.mx/tecnologia/2026/03/06/mujeres-sostienen-las-apps-movilidad-delivery",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Mar 2026 22:30:17 GMT",
-      "summary": "Sin las mujeres el negocio de las apps de delivery no se sostendría igual. Ellas reparten, conducen, gastan más en apps y fundan seis de cada 10 nuevos restaurantes."
-    },
-    {
-      "title": "Gobierno de México ya utiliza Inteligencia Artificial sin regulación ni estrategia clara, advierten expertos - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWG9yZnU5VU16ODFvR0h1Ylc2T3hHSE45OG12SUVQcjZjaXRNYURnMG1NVHVuZDlkb3NXYl9hQUwzY1ZMTmw2NjQxSWxZbnFNWWVvcXh5OXpMQTZsVkVROWkwdzV0SThGNVliY09STE5xU0l1MkpibGVOUnVyQ2NuQUI2QURYeHF5dXplams4WUNfUXIzWEVOZlllZk9seHNJbFZLcDdjMWs5VE9wRV9KWjJEUUVpc3FicXdSUUcwSFQyRlU5Y2tWbi1PNG9rY1FwcjZSeUJ3NTlRMHNhbW1QcnJjcXRDSU1DOUJjMGxfRzM?oc=5",
+      "title": "Lenovo e Intel impulsan una nueva generación de AI PCs en Tech World México 2026 - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnZlWXozdUs0TVdGem1UXzZTbEI0Yk90RG1zRWd1R1hzalFtblVhTjhjcm04bmtqZndTekJZanJibDMzVEdWbzdLRXRqNkNoaTR4NkhxRm9YRkpMNkc4ZE5mZHFGTmI2VkNzSnVBMTRYSWVoUmE0bkNJYkRkcndTaDBPZWNSRERZTmpCRUQ0NVBQNF9sSDR6VkMyOFpkSnpqRThWQ09Dbm9ld0ZCUzVFa2tMSFAybFU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 04 Mar 2026 15:01:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWG9yZnU5VU16ODFvR0h1Ylc2T3hHSE45OG12SUVQcjZjaXRNYURnMG1NVHVuZDlkb3NXYl9hQUwzY1ZMTmw2NjQxSWxZbnFNWWVvcXh5OXpMQTZsVkVROWkwdzV0SThGNVliY09STE5xU0l1MkpibGVOUnVyQ2NuQUI2QURYeHF5dXplams4WUNfUXIzWEVOZlllZk9seHNJbFZLcDdjMWs5VE9wRV9KWjJEUUVpc3FicX"
+      "published": "Mon, 09 Mar 2026 18:21:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnZlWXozdUs0TVdGem1UXzZTbEI0Yk90RG1zRWd1R1hzalFtblVhTjhjcm04bmtqZndTekJZanJibDMzVEdWbzdLRXRqNkNoaTR4NkhxRm9YRkpMNkc4ZE5mZHFGTmI2VkNzSnVBMTRYSWVoUmE0bkNJYkRkcndTaDBPZWNSRERZTmpCRUQ0NVBQNF9sSDR6VkMyOFpkSnpqRThWQ09Dbm9ld0ZCUzVFa2tMSFAybFU?oc"
     },
     {
-      "title": "Hospital Oncológico de la Mujer implementa la IA para tratamientos médicos - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXRkUjRoVFdKd1Zya18yQ0s4UENaTmJUWTZhS0R1djZoMDN1eWdtZTV5aTJ1bEhHSDhlMUFDM1FpVDFOS0hEMmxFS01oWlFXQUZnSnBfdm43RlJsc3VhcllSRmZBejNneTRxclhMcC1Sa3dPUGRpQzlKeWNCNkNTNnlsNkdnWWhfd0lpWlVxanJ2dE9ucGhfZlo0bnVFc3lZMVM4cUpsYUFJcW8tMWRheG9jRHhjR2h40gHTAUFVX3lxTE9VcWNiMGM4YU9QZUdzQUpUWU13aE51ZjlsN2pYWUM2ZzE4Rmc0OWE2Z0QxRVU5d2VPd0p0Rl9Fa19xaW1UQ1dpYlo1b1hDR1h3dmtVeUNkelhfNDZTZXkyMmdIdTBBYU1vQVBaeTZWUzFzWjRZLTJTN3ZOTVRPNTNJc2o0MzI2OHdTRTdneXBVVXBqNTJfeDlsOElSOFhrd3JPZVkwYzJWNFU3cGl0MHBQM19DYVNXWmdRMmhMUlEyd0JUekFtMmFOZy05aVJQcHQtVXM?oc=5",
+      "title": "David Garza aborda IA y liderazgo en el libro México Exponencial - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGl1bk02US1IVF9PMmt1Zk5pU3c0a0gySm5yRUEwWlFjQXBUUFNISV9ycDdacHEtamtvYlBJelV5aFpWY1kxWDNGNmtsMmNpbEdkdjRuSUc3WC1QZFgxWVd4a0xWYUNCZmdpSzF4c25vb05ZakRMRmdxQ0d1dVluR3YyR1JxYlBuX2JicnZtSlBYTHBIUFl5WmNYMVNnYVFDaklyZEl2UmotTnpvMFNIUUVHTGZBcVl5QkRXeA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Mar 2026 15:16:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXRkUjRoVFdKd1Zya18yQ0s4UENaTmJUWTZhS0R1djZoMDN1eWdtZTV5aTJ1bEhHSDhlMUFDM1FpVDFOS0hEMmxFS01oWlFXQUZnSnBfdm43RlJsc3VhcllSRmZBejNneTRxclhMcC1Sa3dPUGRpQzlKeWNCNkNTNnlsNkdnWWhfd0lpWlVxanJ2dE9ucGhfZlo0bnVFc3lZMVM4cUpsYUFJcW8tMWRheG9jRHhjR2h40g"
+      "published": "Mon, 09 Mar 2026 19:13:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGl1bk02US1IVF9PMmt1Zk5pU3c0a0gySm5yRUEwWlFjQXBUUFNISV9ycDdacHEtamtvYlBJelV5aFpWY1kxWDNGNmtsMmNpbEdkdjRuSUc3WC1QZFgxWVd4a0xWYUNCZmdpSzF4c25vb05ZakRMRmdxQ0d1dVluR3YyR1JxYlBuX2JicnZtSlBYTHBIUFl5WmNYMVNnYVFDaklyZEl2UmotTnpvMFNIUUVHTGZBcVl5Qk"
     },
     {
-      "title": "Inteligencia artificial y activos digitales, claves en la madurez del ecosistema ‘fintech’ mexicano - El Español",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHpjV2NxTkVfMW1QT3IyVHpNaHQ3VkE5anY0ZExPZkNXSGxkT0Q1S2NkTFJNdkdobExiRnRPU1V2X3ltN3RfaDRjNVRpbkZvLXptek1DNHFqdm5adkRoOE9fSDB2R2h4X3U5RnRpaEZodkpGWDhIRllJdWkzT1F0b21RbkI1Y1F1ZTF6cnZWOVJhZVpRVUFfaG00MUlYd2dDaTYzTDd5ZlBfckJQd25hQVA4WWNVMkVwWnp1QW9jdzA3Rk9DYVFMUExQeHpJWDdHcE92bDZrYmdZTEJOU0VGRXQ3LV9KcjVNMXFTcXNCMlpCamU1eTRlWXl5bWpFVHPSAYQCQVVfeXFMTmxFS044MzR6eFA1UkdGTTJDUjBnSzA3UnhRMzdMRHRBWW9lalVaS3BYZFYwQS15MTk5SXp6UktKMFJ1cWt1TW9RQzFtWURHTHhnQy1Gd29TSWYwUHhzRE1kTUFvOGpsdS1OMzE1Ny1BWi0zN0NPTVFBSFZhbmZjbFExUExieFEtUVFCNDdHSkN5VWFWcHBYdHpRNDYxQ0hEdXB1U2VhNmFsd1JCWGt4TlNsQWEyYmo4V25pYmYwcGJJdkZYZ081TEtlM2dzamVxdjdPX0QyRHgyNVN3V3haMW9RUGhSeTBHdkF0NThiMHpzaEJZVkROM1hIVUM3M2NrQzByZVQ?oc=5",
+      "title": "México: evaluación del estadio de preparación de la inteligencia artificial - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Mar 2026 01:53:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbHpjV2NxTkVfMW1QT3IyVHpNaHQ3VkE5anY0ZExPZkNXSGxkT0Q1S2NkTFJNdkdobExiRnRPU1V2X3ltN3RfaDRjNVRpbkZvLXptek1DNHFqdm5adkRoOE9fSDB2R2h4X3U5RnRpaEZodkpGWDhIRllJdWkzT1F0b21RbkI1Y1F1ZTF6cnZWOVJhZVpRVUFfaG00MUlYd2dDaTYzTDd5ZlBfckJQd25hQVA4WWNVMkVwWn"
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5\" target=\""
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
