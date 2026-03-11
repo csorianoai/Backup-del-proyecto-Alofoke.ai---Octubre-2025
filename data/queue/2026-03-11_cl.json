@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "“Extraordinario”: el inusual hallazgo que encontró un estudio sobre las abejorro reinas",
+      "url": "https://www.latercera.com/tendencias/noticia/extraordinario-el-inusual-hallazgo-que-encontro-un-estudio-sobre-las-abejorro-reinas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 11 Mar 2026 20:00:00 +0000",
+      "summary": "Para el reciente trabajo científico, los investigadores utilizaron cámaras y sensores especializados y analizaron sus mecanismos fisiológicos. Presumen que su hallazgo será clave en el desarrollo de nuevos estudios."
+    },
+    {
       "title": "Qué se sabe del tiroteo contra la casa de Rihanna y quién es la acusada por intento de asesinato",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-tiroteo-contra-la-casa-de-rihanna-y-quien-es-la-acusada-por-intento-de-asesinato/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "La doctora en psicología del deporte, Cindra Kamphoff, quien ha trabajado como entrenadora mental con los Minnesota Vikings de la NFL y el equipo olímpico de atletismo de Estados Unidos, detalló los aspectos que considera esenciales para favorecer a su desarrollo y aprendizaje."
     },
     {
-      "title": "¿Tenía razón Timothée Chalamet? Editora de arte asegura que la opinión del actor no está tan alejada de la realidad",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-la-opinion-de-timothee-chalamet-sobre-el-ballet-y-la-opera-no-esta-tan-alejada-de-la-realidad-segun-una-editora-de-artes/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 11 Mar 2026 09:02:00 +0000",
-      "summary": "En una columna publicada en Los Angeles Times, la editora de arte Jessica Gelt abordó la polémica generada por los comentarios del actor sobre la ópera y el ballet, y explicó por qué tocan un problema real para las artes escénicas."
-    },
-    {
       "title": "Regulación, inteligencia artificial y nuevos modelos de negocio marcan los desafíos de las fintech en 2026 - FinteChile",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1JLcnoycmlaNnMwc1dNMFQtTjN4NjdFVG9pd2N2cFJUai1TYjZUWl9MSHMyMEpSajVtYk9MaFV3dnRrMkR5RlRvUWpmX1U2ajlISXZrWmtiVVdneXFpS2JSSXY3dV9uX2swRnAzeGwzZG9kX1Jma2RPcEt1ajNzQTNHNEdWamFhdG5DVDh2Sko5bWtfNms3ZVV1RmY4QjJzZ0xiREZTLTVhOFViRS1YYmxPc3F0WTRFSk4zdGM4SlM5T0c2bmdQb0d2S0ZDaFFrRW5HTFgxcFI?oc=5",
       "source": "Google News",
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNl"
     },
     {
-      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - dw.com",
+      "title": "Lanza Chile el modelo de inteligencia artificial Latam-GPT - DW.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHd1b2dBczlFbWZJeGI4dEVZM0VUQm5QNXRKcjVMLVlRUUFValBJaTI3YTl3cHBnZ1lXMjdOUzkxWGc2ZC02NFoycWQwUkhYSTFXNHVxUFYtTHlSeklRUVBwVnFFUlJxU210aThZMENIUTh0THlydUs3VVlQVUFlVmpOeHU1WWpEc3hlN3lGaFN6TVRjWmfSAZYBQVVfeXFMTmlFcWphcUJJdnFMVV9OZ3ZZcU5pdG12M1J3Zlp4dWZFbHZmNjFKUGRvZGc0c3FlMmw2b1o5R0RxZXFsYzBfeTZYZWltbjJSelpsWkRxVHc5bzczb0Z0d1VlVGNxZ0RsS1FKMW5fbWZhbkxFeUNvWFFQN08xcHhJV0F2YzVSVHNhZXlDbkI5a1FEWnRncWx3?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
     },
     {
-      "title": "FIDAE y Fuerza Aérea Chile convocan startups con foco en tecnología espacial - Defensa.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZvZGdETUo1d1dNcnhtMm51UFNsNElETTdTNFIwRW54OWZ0LXUyRENPbVl2Q3NWbUZnV3BEUlo1YUtWNElzbExoeWNwVXltUE5CRDNqZEktU1haMVNqS01meXRuejNFNHFtRGo1VkJvejhab29MQUREMy1rYzU1SndoSnp4bGs5TnJ5c2c1R2VvUkF0Qy1F?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 11 Mar 2026 11:26:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZvZGdETUo1d1dNcnhtMm51UFNsNElETTdTNFIwRW54OWZ0LXUyRENPbVl2Q3NWbUZnV3BEUlo1YUtWNElzbExoeWNwVXltUE5CRDNqZEktU1haMVNqS01meXRuejNFNHFtRGo1VkJvejhab29MQUREMy1rYzU1SndoSnp4bGs5TnJ5c2c1R2VvUkF0Qy1F?oc=5\" target=\"_blank\">FIDAE y Fuerza Aérea Ch"
-    },
-    {
       "title": "Convocan a startups chilenas a presentar proyectos tecnológicos en FIDAE 2026 - Diario Sustentable",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXlCdjF1YzF5LS1uV0JFdy1BQ0hFVkJvQldodER4dTVHdnNRcDhYRVIzWUJ1YkdHVzFMYjBMZWFHUUVCc2t2WnRoQzF3OFNDM1o0QjRicW9xRk1lc3NNUHJpZ245dkZ4TUVvaXFRejhDWm5ETkdmMGNmZ2dRRFFNMzlsenh5aVh4UFVZQTVMbXB0V3pwSEk5WTFXTkRKV1drbXFTVXBDYlgtanV2ZWVaZzBvVmx2aWRWVjNPcQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 11 Mar 2026 13:26:54 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXlCdjF1YzF5LS1uV0JFdy1BQ0hFVkJvQldodER4dTVHdnNRcDhYRVIzWUJ1YkdHVzFMYjBMZWFHUUVCc2t2WnRoQzF3OFNDM1o0QjRicW9xRk1lc3NNUHJpZ245dkZ4TUVvaXFRejhDWm5ETkdmMGNmZ2dRRFFNMzlsenh5aVh4UFVZQTVMbXB0V3pwSEk5WTFXTkRKV1drbXFTVXBDYlgtanV2ZWVaZzBvVmx2aWRWVj"
+    },
+    {
+      "title": "FIDAE y Fuerza Aérea Chile convocan startups con foco en tecnología espacial - Defensa.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZvZGdETUo1d1dNcnhtMm51UFNsNElETTdTNFIwRW54OWZ0LXUyRENPbVl2Q3NWbUZnV3BEUlo1YUtWNElzbExoeWNwVXltUE5CRDNqZEktU1haMVNqS01meXRuejNFNHFtRGo1VkJvejhab29MQUREMy1rYzU1SndoSnp4bGs5TnJ5c2c1R2VvUkF0Qy1F?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Mar 2026 11:26:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZvZGdETUo1d1dNcnhtMm51UFNsNElETTdTNFIwRW54OWZ0LXUyRENPbVl2Q3NWbUZnV3BEUlo1YUtWNElzbExoeWNwVXltUE5CRDNqZEktU1haMVNqS01meXRuejNFNHFtRGo1VkJvejhab29MQUREMy1rYzU1SndoSnp4bGs5TnJ5c2c1R2VvUkF0Qy1F?oc=5\" target=\"_blank\">FIDAE y Fuerza Aérea Ch"
     }
   ],
   "count": 14
