@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "9 obras del arquitecto chileno Smiljan Radić, el nuevo ganador del Pritzker 2026",
+      "url": "https://www.latercera.com/tendencias/noticia/9-obras-del-arquitecto-chileno-smiljan-radic-el-nuevo-ganador-del-pritzker-2026/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Mar 2026 20:00:00 +0000",
+      "summary": "Entre sus proyectos más conocidos figuran el restaurante Mestizo en Santiago, la extensión del Museo Chileno de Arte Precolombino y la Bodega VIK, además de colaboraciones internacionales como un proyecto para la tienda de Alexander McQueen en Londres."
+    },
+    {
       "title": "El secretario de Estados Unidos dice que las bebidas de Dunkin’ Donuts tienen 180 gramos de azúcar: ¿es cierto?",
       "url": "https://www.latercera.com/tendencias/noticia/el-secretario-de-estados-unidos-dice-que-las-bebidas-de-dunkin-donuts-tienen-180-gramos-de-azucar-es-cierto/",
       "source": "La Tercera Tecnología",
@@ -35,28 +43,12 @@
       "summary": "Según datos de la Clínica Cleveland, las hernias inguinales son el tipo más común y representan el 75% de todas las hernias. Afectan principalmente a los hombres y pueden presentarse tanto en recién nacidos como en niños y adultos. El riesgo de padecerlas aumenta con la edad."
     },
     {
-      "title": "¿Necesitas lavar la ropa nueva antes de usarla? Esto dicen los expertos",
-      "url": "https://www.latercera.com/tendencias/noticia/necesitas-lavar-la-ropa-nueva-antes-de-usarla-esto-dicen-los-expertos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Mar 2026 09:03:00 +0000",
-      "summary": "Un artículo de The New York Times consultó a dermatólogos y expertos en textiles para explicar qué sustancias pueden quedar en las prendas recién compradas."
-    },
-    {
       "title": "Latam-GPT: La apuesta de Chile por una IA para la región - Computer Weekly",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnZfMXAwc0J4dVdMRDRpbUhXS2hiS3RQa19LdkJJNFIwel9GQ0lSSFdiZmRkMTc3TFAxczVkajk2R25fMWYwUGlGQ0dzWU1BTFJZaGlMRDdNcjFWemtsUzVSdDBUN0d5aWNPRFFMSXJ4bzlKTG9SYklGUDkyTHU1V2RzR2NjU1dxZGV3MUZGLThLeGNTQWFNZF9rbW9SZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 11 Mar 2026 21:31:08 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZnZfMXAwc0J4dVdMRDRpbUhXS2hiS3RQa19LdkJJNFIwel9GQ0lSSFdiZmRkMTc3TFAxczVkajk2R25fMWYwUGlGQ0dzWU1BTFJZaGlMRDdNcjFWemtsUzVSdDBUN0d5aWNPRFFMSXJ4bzlKTG9SYklGUDkyTHU1V2RzR2NjU1dxZGV3MUZGLThLeGNTQWFNZF9rbW9SZw?oc=5\" target=\"_blank\">Latam-GPT: La"
-    },
-    {
-      "title": "La sed invisible de la Inteligencia Artificial en Chile - BioBioChile",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXJXb2p1dlBnT1BsNGU0eHdiU0tFRElmOVlNQk5Cd29xR2x6dXc1SjFaUENwMGtNTU9WVU9LcVV3WVNEYjV2RjVDUUpHOXB3d3FUaU15NXhjZi1uTEFOa1NJNEo3R194UmhCZUFHYU1PZ0Z5R2dmYmlaRGNyX1hSM0puYTVKbHFaMlpLTFN6QzQzMW5hcE53bXVCZ3NlY2stbjhXVXlOYzZtN1h2R2c2dDJlRDZvbjJuUEtGeVZ4VTk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Mar 2026 14:51:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXJXb2p1dlBnT1BsNGU0eHdiU0tFRElmOVlNQk5Cd29xR2x6dXc1SjFaUENwMGtNTU9WVU9LcVV3WVNEYjV2RjVDUUpHOXB3d3FUaU15NXhjZi1uTEFOa1NJNEo3R194UmhCZUFHYU1PZ0Z5R2dmYmlaRGNyX1hSM0puYTVKbHFaMlpLTFN6QzQzMW5hcE53bXVCZ3NlY2stbjhXVXlOYzZtN1h2R2c2dDJlRDZvbjJuUE"
     },
     {
       "title": "Plataforma busca monitorear la fauna silvestre con inteligencia artificial y ciencia ciudadana - Cooperativa Ciencia",
@@ -67,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1U1VkFGeFNROXRINlBkQlJ0SWJ4UWtONXZBbGt2dFN3WWZnaGxfNEpOeXlPY0U1dTRNZkV4dnM3UkhJa1A0RlZkTDg0VTA1WU5LVDk3M1paUE9RZjQycFNEVi12R1daYVltVnpQMkxUWlkzbzlzaVhwYURLX3lrRWdDQ2tsYkJsclVCaTAwZTN3d1RTTGpKdjVCa0F5ZHpHX1YzYlhuVlhiMG8tU3dnaFRvMzUxZGwySX"
     },
     {
-      "title": "¿Qué profesiones van a desaparecer con la IA? La respuesta de uno de los expertos argentinos más escuchados - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmU0MWFzNENtMEVxRmQwa1ZMUFpuekl5c2xERUo0ZVJLT202Q1N4QTNpOFdRaU5feElxTERqcERkckphRW1qZ2pKa2V1QmJ0ZTVubTZHV1ZYZ2k0ZVRzcWZIbXlsaFZmazlKZnBfaVRwc0pSeXFvMXZFZVZKZ1hnRExfanhGOFNKWnVuMDZUd2N5aUYzQjJwV01mUExYR21TSGxSRlloMUNLQ21TNmwyUWZXUkZjdUNzSFJlNHFxZGMwOTZUNUZvMDM0SndiU2p1NjJfc1VxVkxoNUxCQWxNaWhmWm4?oc=5",
+      "title": "La UNESCO y CENIA consolidan alianza para impulsar una inteligencia - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNlVXeEJPcUE1MFRNelNscFdMaUp6QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Mar 2026 15:01:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbmU0MWFzNENtMEVxRmQwa1ZMUFpuekl5c2xERUo0ZVJLT202Q1N4QTNpOFdRaU5feElxTERqcERkckphRW1qZ2pKa2V1QmJ0ZTVubTZHV1ZYZ2k0ZVRzcWZIbXlsaFZmazlKZnBfaVRwc0pSeXFvMXZFZVZKZ1hnRExfanhGOFNKWnVuMDZUd2N5aUYzQjJwV01mUExYR21TSGxSRlloMUNLQ21TNmwyUWZXUkZjdUNzSF"
+      "published": "Mon, 02 Mar 2026 23:30:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNl"
     },
     {
       "title": "Microsoft elige Santiago para lanzar su AI Tour en Latinoamérica y debatir el futuro de la inteligencia artificial - Microsoft Source",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Mon, 21 Jul 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
+    },
+    {
+      "title": "Santiago Íñiguez (IE University): “Debemos volver a las humanidades para aprender a trabajar con la IA” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnBJYm1BOUlwVGRQY0I3YnpSamdidDVLcjlvSFdZdU1ZSVotd1FObk9SenF2Z3pINTNyZjdwWUlVMF81bllnNVRNUDB5YVZ6Mko3THloWWxadnI4QWtKUmNZcExYTGNpd2tuVm9feUx4UzJScTROUms0aDZmT3FISGRrQWtWV2ZOWGM3dGdDUjN4ank0SE9CNnY4ZGpyYU4zb0xOa2FCa0hBTU4xU05aZFZFWmswUXE0WElkVWlveFJCTWNnSjlzQUFZSElxVTZiQ3RoOGU4STBjVUgwdklvQWxOX2VQUjBL0gH8AUFVX3lxTE5HTlQ4UWpOUlg2djI4VkpQNl9ac2lrX0tRWE95MFZFT0dYaXZzeElJR3RRZ0hobDVBMlF0d053VDY3T21aR3dPUW9CazBfajdseTFwNHo3b05pcFoydFlVOXV5MWJJR1laTXNQNG1GeV9GeGYxVEhRcVZQZ3A0TGpKamdyY3NXM29zTzBBZEo3RTZlRTdNc3JONWhfSk5PdWxDTzRIQzN5eTlRRm13U19pcGxJdzRyTFVRdm9kamZERGdhLWltSjJyWFU4N2IySHFQZFlNWU5HSGdiNnE1Z0U3Sml5aFFFX1lEZWUtdk11MGtMZWo1US1WWVRDMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 14 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnBJYm1BOUlwVGRQY0I3YnpSamdidDVLcjlvSFdZdU1ZSVotd1FObk9SenF2Z3pINTNyZjdwWUlVMF81bllnNVRNUDB5YVZ6Mko3THloWWxadnI4QWtKUmNZcExYTGNpd2tuVm9feUx4UzJScTROUms0aDZmT3FISGRrQWtWV2ZOWGM3dGdDUjN4ank0SE9CNnY4ZGpyYU4zb0xOa2FCa0hBTU4xU05aZFZFWmswUXE0WE"
     },
     {
       "title": "Startups y FIDAE 2026: Convocatoria IA y datos satelitales - Ecosistema Startup",
