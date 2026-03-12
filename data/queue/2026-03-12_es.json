@@ -3,44 +3,52 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo”",
+      "title": "El nuevo líder supremo de Irán, Mojtaba Jameneí, promete venganza y anuncia que el estrecho de Ormuz seguirá cerrado",
+      "url": "https://elpais.com/internacional/2026-03-12/el-nuevo-lider-supremo-de-iran-mojtaba-jamenei-promete-venganza-y-anuncia-que-el-estrecho-de-ormuz-seguira-cerrado.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Mar 2026 18:52:27 GMT",
+      "summary": "La televisión estatal iraní divulga un mensaje del dirigente sin que este comparezca ni siquiera en vídeo, en medio de dudas sobre su estado de salud"
+    },
+    {
+      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump cambia de idea: “No me interesa el Nobel de la Paz”",
       "url": "https://elpais.com/internacional/2026-03-12/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 12 Mar 2026 14:17:23 GMT",
-      "summary": "Mojtaba Jameneí amenaza las bases estadounidenses en su primer mensaje público, leído en la televisión iraní: “O las cierran o serán atacadas” | El crudo vuelve a escalar por encima de los 100 dólares"
+      "published": "Thu, 12 Mar 2026 18:55:00 GMT",
+      "summary": "La policía ordena el confinamiento de una sinagoga en Míchigan por un tiroteo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo” en su primer mensaje público, leído en la televisión iraní"
     },
     {
-      "title": "Un proyectil cae sobre una base militar italiana en Irak, sin causar heridos ni daños graves",
-      "url": "https://elpais.com/internacional/2026-03-12/un-misil-cae-sobre-una-base-militar-italiana-en-irak-sin-causar-heridos-ni-danos-graves.html",
+      "title": "Israel mata a más de 30 personas en Líbano y amenaza con ampliar su invasión terrestre",
+      "url": "https://elpais.com/internacional/2026-03-12/israel-bombardea-el-centro-de-beirut-y-amenaza-con-ampliar-su-ocupacion-en-libano.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 12 Mar 2026 13:35:37 GMT",
-      "summary": "El bombardeo en Erbil, en el Kurdistán iraquí, afectó a varios vehículos del Campamento Singara, situado cerca de un destacamento estadounidense"
+      "published": "Thu, 12 Mar 2026 16:28:46 GMT",
+      "summary": "Netanyahu lanza una ofensiva a gran escala tras el mayor ataque de Hezbolá desde que se sumó a la guerra y amplía las órdenes de desalojo hasta a 40 kilómetros de la frontera"
     },
     {
-      "title": "El petróleo vuelve a tocar los 100 dólares el barril",
-      "url": "https://elpais.com/economia/2026-03-12/el-petroleo-vuelve-a-tocar-los-100-dolares-el-barril.html",
+      "title": "¿Cómo se investiga un crimen de guerra? Análisis independientes intentan reconstruir el ataque a la escuela de niñas de Irán",
+      "url": "https://elpais.com/internacional/2026-03-12/como-se-investiga-un-crimen-de-guerra-analisis-independientes-intentan-reconstruir-el-ataque-a-la-escuela-de-ninas-de-iran.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 12 Mar 2026 14:39:42 GMT",
-      "summary": "El nerviosismo del mercado se acentúa ante el aumento de la violencia. Las dudas sobre los detalles del plan de emergencia de la AIE pesan en la cotización"
+      "published": "Thu, 12 Mar 2026 16:36:32 GMT",
+      "summary": "Imágenes satelitales, vídeos geolocalizados y el estudio de datos son algunas de las herramientas que utilizan investigadores y periodistas para verificar información cuando la verdad está en disputa"
     },
     {
-      "title": "Por qué la guerra en Irán dispara el precio del diésel por encima de la gasolina",
-      "url": "https://elpais.com/economia/2026-03-12/por-que-la-guerra-en-iran-dispara-el-precio-del-diesel-por-encima-de-la-gasolina.html",
+      "title": "Irán mantiene su ofensiva para extender el caos en la economía global",
+      "url": "https://elpais.com/internacional/2026-03-12/iran-globaliza-el-caos-al-alterar-los-mercados-energeticos-y-aleja-el-final-de-la-guerra-que-anuncio-trump.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 12 Mar 2026 04:45:00 GMT",
-      "summary": "La dependencia europea de importaciones, los bajos inventarios y el freno exportador de China amplifican el impacto del conflicto de Oriente Próximo en el mercado del gasóleo"
+      "published": "Thu, 12 Mar 2026 18:01:36 GMT",
+      "summary": "El bloqueo del estrecho de Ormuz impacta en los mercados mientras Israel y Estados Unidos siguen lejos de los objetivos estratégicos que se habían marcado"
     },
     {
-      "title": "Crece la presión republicana para que Trump dé por terminada la guerra en Irán",
-      "url": "https://elpais.com/internacional/2026-03-12/crece-la-presion-republicana-para-que-trump-de-por-terminada-la-guerra-en-iran.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Mar 2026 04:45:01 GMT",
-      "summary": "El coste de la gasolina y la opción de un conflicto largo complican el apoyo de su partido al presidente. La ofensiva amenaza la campaña de los congresistas que aspiran a la reelección este año"
+      "title": "Dos menores preguntan a la inteligencia artificial cómo llevar a cabo un robo para atracar una joyería de lujo: se enfrentan a 20 años de cárcel - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbWg2ckV4Skw5WVRya2FZMm02dVd0S1FhTXluNHlBV2pmY2lNdV9BWG52Tjc0czN1c2pSdTBLNGFuLWQwNmNOR1NuZHE0OThRc2g0RzNXLW1tNkZVSGplZ2dQNVloYVkzdmJmTjE0ZE43TTdFb0hyRjVGTXNDMmg2RnJ2eTNvVjVMMGVyWFN1QU1ydnFxUnJXSmJXcUR1ZXFiaEFyUjlKTXEwYm50TVNEZEk3OXJ3STRZTFJxdjZaT3lyZWtleE9nV2hzOTVaNHFLUWZFdmZEMllFVnJ6cmFHcWl4RUVOdlNSZXJDRzRKT2dub1pCV25wZGM2c01BZlljY0tuU3Z1YXpkdDBHYm1UWnhqWkzSAa8CQVVfeXFMTnJxQ0QtbHFvUThaazN6QkRvY3EzLXlpQkpsakJfTmMxY25JWUhPNEhPd0hzU0pNVUMzUHFKQlltOUtfOEdVVWxmOFRTM0JLWW5FanlpazF4ZTZCWmI1eVZESi0wZ3Zmam9vRi1xSkR0X2lCOXVMX1lmeEFQQ3RpS2x2dl8xMGVCSjZ3TkxIMEw1ckJDQVdXTUFBREZPSEp2dlZlMGlLenc5VTRxVDE5TjZ5X3c5OF9Dd3VUdExiVzlWYm40cU1aeXBPNWc4TThHVEdwZ2V1NmxnYXRuZ2hEQnlJbkI1RUUwWTJ5ZG9MbEVrem5zSWc2aU1obkQ2TWt0OFRJZXlISjhSR1Y1MGlwcUhqeWpjd0QwRE9aX0Vka0MwR2NybjRjaS1zRkpMSFc4?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Mar 2026 17:12:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQbWg2ckV4Skw5WVRya2FZMm02dVd0S1FhTXluNHlBV2pmY2lNdV9BWG52Tjc0czN1c2pSdTBLNGFuLWQwNmNOR1NuZHE0OThRc2g0RzNXLW1tNkZVSGplZ2dQNVloYVkzdmJmTjE0ZE43TTdFb0hyRjVGTXNDMmg2RnJ2eTNvVjVMMGVyWFN1QU1ydnFxUnJXSmJXcUR1ZXFiaEFyUjlKTXEwYm50TVNEZEk3OXJ3STRZTF"
     },
     {
       "title": "La adopción de la IA avanza en España y se orienta hacia su integración en la operativa empresarial - Interempresas.net",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6TWVNemJiM2ZkQklCSDdIaWNWVzc0V3lMcXo0TEhlQjRvcl9DMF9NZUR2ZnMzRmg4eXozODg0SFp5Yy13MU13TjdwVlFtdw?oc=5\" target=\"_blank\">La adopción de la IA avanza en España y se orienta hacia su integración en la operativa empresarial</a>&nbsp;&nbsp;<font "
     },
     {
-      "title": "La IA transforma la educación superior online: 8 de cada 10 centros educativos ya la incorporan en sus programas - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaktkdzBPMGxIVWFzOWV2ZHhQdERoQUFqQWRWZGxaWVFzaUVHYUdwWGUyYXIzUzhWQjNTbHlIWGdSLWF5V2NUdnhrUEZqaExhWWU2THBObnJuaWNPQWtmWnFLeGR3b25MWTl0WTB4Sy1VUWhXUzVzcDJuSWlHLVVtOElSZFR6eEJUOWp3emZMTFRqOE40TXpOSFJ2dHU4bzZfMy1wM1ZJNEVwc3RndXRFbHlXakNjWHRzelpQQ09GVTVDcEdYRVNKSnZmMmlfaUF0MlBIRjd3eXRWVmlfcXlrdWsxdUNud2J0RFHSAYQCQVVfeXFMT3FmQVJ2cG5aVWZrbUtOVE9jZUtMTFdxc0xSbTREaVhjSlJxRVdrbDRrYm1YSlIwb0swdVlwVzFvT0d1LS02UU5Ma0hOTDFGZnlNSTBEdWVOcG00MXY1ODhlaGJGWkhLeTh2X0ZzUlU4dFNSX0ZGWHlqc1Rsay04Y051Z2tRLXJDY3hJOVpWcS1uQkJsdEs5N2tOTWhkczRiaU9SSmhENXZDY0VKSDZMazdET0JyVVl3QVdyT3hycVNRMWxnMmhqalpJZm5kejdqSFQycHlJNzdSYXdHV0J3cnV2a01kc0xKM3A5MjU0andQMjRwcXM3UlV4M0x1R29vaWpxWk8?oc=5",
+      "title": "De la libreta a la inteligencia artificial: una cámara española analiza en tiempo real cómo juegas al tenis - Antena 3",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ0dTbnBkaHE4X0FZUndMeEFrcUdPYnNsRzZGTUd3a3AxMWJmRkNlVWZNaDl2Mi1PQnY1SVRVRzBTWDM5WnJMUWZzSFlDZGxmR3pCS2VUY29ac2VZMFlTb1pkaEJXVkluaFkzbGZsWXc3dlE4UTJ5dEZhMkZUY0pDOE1SQnVFci1JMktCY0FYSDFZNE5ob2JlQmlRdnFtNHJUWWRjRDRwNm54NTRJUnJmMXdtQ25iRjVWTGhrVjBuenJqR0hraFlpTTNZbVlFTjRPVEhCOHpJbVpCUmltZTA4WVdWWlVDWlJGV1FheldNeXlXcmhjd096aGhjZ0NfZjVl0gGAAkFVX3lxTFBoSWJJUThGZEJhTUpOZ18xSlB5a0FhdHgzTktoQl8ySVlWclhTdEJTOU83RHY3RkdpSlU5RzhrYmVJZ0NzeVZsT3NHbGpFdVlERmJscDlPbHNwTHpIUWJrV0RmYjdjQzRCandjRXk4c0ZmVm90UXRobUY5c0Vib28tVXk3R0VqT3FGWnplOEVKN3RWbl9KRVZ3TFIyNUQ2OGlSOHpyaUhmY2NhWGtqeFdPY2oyS2JMLWhtVGRtcEVvZlZmYkpWY2N4LTE5SXpjRnNzRmpSSHIzZUFqY0RpS0E2UHpZdjBxQjM3bzNEaE81d29RbE44a0NHNFhMR19GM2Q?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Mar 2026 17:46:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaktkdzBPMGxIVWFzOWV2ZHhQdERoQUFqQWRWZGxaWVFzaUVHYUdwWGUyYXIzUzhWQjNTbHlIWGdSLWF5V2NUdnhrUEZqaExhWWU2THBObnJuaWNPQWtmWnFLeGR3b25MWTl0WTB4Sy1VUWhXUzVzcDJuSWlHLVVtOElSZFR6eEJUOWp3emZMTFRqOE40TXpOSFJ2dHU4bzZfMy1wM1ZJNEVwc3RndXRFbHlXakNjWHRzel"
-    },
-    {
-      "title": "Europa busca un lugar donde colocar su gigafactoría de IA. España y Portugal le están enseñando todo su... - Xataka",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOE5hUjZ5Ylk4aEViV1V0ZVBYZW1Ddl9QbHNFSTNWZWNNdXN1TE4tRy12ZGdQaEdOUk54UVN1S0U2aU5qWTJzempkR2xRS1Y4eUp3SW51WVVaQ1dZVGNkcDBpY3Y2UmF6dnlrUWR1RzV0ekdaSnpsb2VvMVF5UGhrbjAweUhjLUtQUzhrOXV3VDQ4eFFldkZIWnJKNlhsWHQ1RkVINnY0eVZSeWVpNDdfLUh6TEYzem0tYUhNUzFWUkRTU2VlSHBoS1BIdWdlbG84aG5BQ1RobnJRbndYTDFTTkxDc9IB6AFBVV95cUxOVXBmNmk2T0dCRFp1bS1ybmNjRzQxNmtoRVNwWXI3ZFpzSEoxRjdvRnIyTVhhMHpvOXB6MG5Mb09MY1hSdFJvXzZiOEJxazRwM3huUUhwM1ExUnU0MV95Wi1iZC1CYnNYQjFHajVraGt0UTlaTzRZUFVOVnVfMGprM3RJeGFtZWNGLUhZOEo4TnlCREFmXzR3Q09RTWxiQUh2d1MtWF9TNWtfWHVtdVVkMkFLSDF0VFdZWF9rTndscHMyblM1NVpEelNkRkpjcEtZXzNWbGM3MS1vZUdrcWJBa1picWE0WEFl?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 09 Mar 2026 16:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOE5hUjZ5Ylk4aEViV1V0ZVBYZW1Ddl9QbHNFSTNWZWNNdXN1TE4tRy12ZGdQaEdOUk54UVN1S0U2aU5qWTJzempkR2xRS1Y4eUp3SW51WVVaQ1dZVGNkcDBpY3Y2UmF6dnlrUWR1RzV0ekdaSnpsb2VvMVF5UGhrbjAweUhjLUtQUzhrOXV3VDQ4eFFldkZIWnJKNlhsWHQ1RkVINnY0eVZSeWVpNDdfLUh6TEYzem0tYU"
+      "published": "Thu, 12 Mar 2026 16:02:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ0dTbnBkaHE4X0FZUndMeEFrcUdPYnNsRzZGTUd3a3AxMWJmRkNlVWZNaDl2Mi1PQnY1SVRVRzBTWDM5WnJMUWZzSFlDZGxmR3pCS2VUY29ac2VZMFlTb1pkaEJXVkluaFkzbGZsWXc3dlE4UTJ5dEZhMkZUY0pDOE1SQnVFci1JMktCY0FYSDFZNE5ob2JlQmlRdnFtNHJUWWRjRDRwNm54NTRJUnJmMXdtQ25iRjVWTG"
     },
     {
       "title": "La IA rediseña los estadios de Real Madrid, Barcelona, PSG, Benfica y muchos más con resultados espectaculares - Diario AS",

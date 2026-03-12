@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La nueva función de Mercado Play ya permite alquilar películas",
+      "url": "https://expansion.mx/tecnologia/2026/03/12/mercado-libre-nueva-funcion-mercado-play-rentar-peliculas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Mar 2026 18:52:14 GMT",
+      "summary": "Los suscriptores que deseen alquilar películas dentro de la plataforma de Mercado Play tendrán descuentos en el lanzamiento de esta nueva modalidad de la plataforma de streaming."
+    },
+    {
+      "title": "La Ibero lanza nueva ingeniería para formar especialistas en IA",
+      "url": "https://expansion.mx/tecnologia/2026/03/12/la-ibero-lanza-nueva-ingenieria-para-formar-especialistas-en-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Mar 2026 16:00:15 GMT",
+      "summary": "Ante la creciente demanda de talento en inteligencia artificial, universidades mexicanas comienzan a abrir nuevos programas académicos para preparar a los especialistas que impulsarán la economía digital."
+    },
+    {
+      "title": "53% de las pymes carece de tiempo para operar su negocio; la IA emerge como solución",
+      "url": "https://expansion.mx/tecnologia/2026/03/12/53-de-las-pymes-carece-de-tiempo-para-operar-su-negocio-la-ia-emerge-como-solucion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Mar 2026 11:55:48 GMT",
+      "summary": "Estudios del sector indican que la automatización de tareas administrativas, análisis de datos y generación de reportes puede ahorrar cientos de horas al año a las pequeñas empresas y mejorar su productividad."
+    },
+    {
       "title": "inDrive suma publicidad a su plataforma y acelera su estrategia de superapp",
       "url": "https://expansion.mx/tecnologia/2026/03/11/indrive-suma-publicidad-a-su-plataforma-y-acelera-su-estrategia-de-superapp",
       "source": "Expansión Tecnología",
@@ -19,28 +43,20 @@
       "summary": "La inteligencia artificial entra al debate en el país, lo que podría redefinir las campañas digitales."
     },
     {
-      "title": "El e-commerce en el retail  pasó de 3.7% en 2018 a 15.8% en 2024",
-      "url": "https://expansion.mx/tecnologia/2026/03/11/el-e-commerce-en-el-retail-paso-de-3-7-en-2018-a-15-8-en-2024",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 11 Mar 2026 16:00:37 GMT",
-      "summary": "El informe NubeCommerce 2026 de Tiendanube muestra cómo las marcas impulsan sus tiendas en línea, adoptan IA y exploran nuevos canales digitales."
+      "title": "Inteligencia artificial en la investigación científica en México: desafíos éticos y regulatorios que exigen una respuesta urgente - consultorsalud.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Mar 2026 17:18:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5\" target=\"_blank\">Inteligencia artificial en la investigación científic"
     },
     {
-      "title": "La guerra tecnológica entre EU y China amenaza 20,000 mdd para Nvidia",
-      "url": "https://expansion.mx/tecnologia/2026/03/11/la-guerra-tecnologica-entre-eu-y-china-amenaza-20-000-mdd-para-nvidia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 11 Mar 2026 11:55:49 GMT",
-      "summary": "La pérdida del mercado chino le cuesta a Nvidia entre 5,000 y 6,000 mdd por trimestre. La empresa busca volver a vender chips de IA mientras crece la competencia tecnológica local."
-    },
-    {
-      "title": "La IA será clave en el Mundial 2026 para proteger aficionados",
-      "url": "https://expansion.mx/tecnologia/2026/03/10/ia-videovigilancia-mundial-2026-fifa-c5",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 10 Mar 2026 23:00:28 GMT",
-      "summary": "Con millones de visitantes previstos con motivo de la Copa del Mundo, las cámaras inteligentes y centros de monitoreo serán clave para la seguridad y operación urbana."
+      "title": "La inteligencia artificial llega al tenis en México: el Mexico City Open utilizará asistentes para hablar con los fans - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcW5WXzVJVDF5YzJ0bUIzREpyaFZpRVE5QjNyNjZtdDZsS1FEN1FwbjhUOGdZWmlwNnhYM25DQ1dXa2l1UTVJMWhaaWpIWmt2bHlFbFhZTUh1V0psaW5hNFluZ01xbHNiek9JTDJfY3FPR1ZUNDExRDJkeUJQVHQyQm91VDJoajluSjBhNHJIZWZEODFQa1oxZjlIMUlnZy1KZ3I4ZUZzU195NUtGam5jNk1hUjBTMXhScTVWa3lEUmY5QlNhTkFFektGdXFCOEt5OHRWRnFiSWRhUTMtTFFHSklCLTFkZzNMZEhhOThWQ1lRMGJ4OWhVR0kzMGx4dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Mar 2026 18:00:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcW5WXzVJVDF5YzJ0bUIzREpyaFZpRVE5QjNyNjZtdDZsS1FEN1FwbjhUOGdZWmlwNnhYM25DQ1dXa2l1UTVJMWhaaWpIWmt2bHlFbFhZTUh1V0psaW5hNFluZ01xbHNiek9JTDJfY3FPR1ZUNDExRDJkeUJQVHQyQm91VDJoajluSjBhNHJIZWZEODFQa1oxZjlIMUlnZy1KZ3I4ZUZzU195NUtGam5jNk1hUjBTMXhScT"
     },
     {
       "title": "OpenAI ‘borra’ a la competencia en México: ya se queda con 75 de cada 100 pesos que las empresas gastan en IA - El Cronista",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Thu, 12 Mar 2026 14:28:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZTZBX0pLZ012MnVjbzBWamtNemE3dUR1RTEtZnRSV1gyNThKZVc4TTVOY0htQzVUM1Y1dm9sU2UwVXoybklNSUJ0MGJmc1hSM19jd2JkZGNWc3JkS1lxTjE5ZGhnaVNoc1h5T0IwY2xfeEJMVTNFOGk0blNWSk9DZDdCbnlVTFU1dVVzRnpTTFpYWElaQkNFRjd4TmRRNWJvQjVoZ3JxOW1JRjJISzFwZEl4dmhHZkhMSn"
-    },
-    {
-      "title": "Google apuesta por la seguridad multicloud con la compra de Wiz - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFBOZjc5clM2eTZWLWNxMmR4T01NZ0U1WU9MVG5jYXp2YV9qamF1WVpSMmtPUXQ0T0ZtSEg2WS1tZS1HeEdOeThfSkJGc2s3MVFFNE43Q0Z5aTlIblJuWkoxRGVsdklTYnp3QTVWVGhXY09pdUUzQlEyMFNBX1d0ZXY3ZjI1OUxzc2libDUyMjJTcU5HRW9zNEV2U2kweHNQaXNhX1dzUHk2dTR4bG5wOC1vWWVuUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 11 Mar 2026 18:13:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFBOZjc5clM2eTZWLWNxMmR4T01NZ0U1WU9MVG5jYXp2YV9qamF1WVpSMmtPUXQ0T0ZtSEg2WS1tZS1HeEdOeThfSkJGc2s3MVFFNE43Q0Z5aTlIblJuWkoxRGVsdklTYnp3QTVWVGhXY09pdUUzQlEyMFNBX1d0ZXY3ZjI1OUxzc2libDUyMjJTcU5HRW9zNEV2U2kweHNQaXNhX1dzUHk2dTR4bG5wOC1vWWVuUQ?oc="
-    },
-    {
-      "title": "Violencia digital e inteligencia artificial - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NSXVIYVRsa2xXemdfYWZVN3dWLWdVQXFQWGhqcVdaeFNpZVYyVHZMaWZhRVJaam10MlU3VExjX2RWUVpZRHVnSUh1TGZacGtmMFdJMUlZWmt0MGxMa1BnYlZCYlV6RzRXTGFwaENHNUhHeExD?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Mar 2026 13:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1NSXVIYVRsa2xXemdfYWZVN3dWLWdVQXFQWGhqcVdaeFNpZVYyVHZMaWZhRVJaam10MlU3VExjX2RWUVpZRHVnSUh1TGZacGtmMFdJMUlZWmt0MGxMa1BnYlZCYlV6RzRXTGFwaENHNUhHeExD?oc=5\" target=\"_blank\">Violencia digital e inteligencia artificial</a>&nbsp;&nbsp;<font color="
     },
     {
       "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
