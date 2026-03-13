@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Los audífonos para sueño mueven 12,800 millones de dólares",
+      "url": "https://expansion.mx/tecnologia/2026/03/13/audifonos-sueno-mueven-12-800-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 18:00:24 GMT",
+      "summary": "La tecnología cada vez se obsesiona más con el sueño, prueba de ello es que hay desde audífonos para dormir hasta colchones y almohadas inteligentes."
+    },
+    {
+      "title": "ChatGPT, Claude o Gemini: ¿cuál es la IA que más miente en sus respuestas?",
+      "url": "https://expansion.mx/tecnologia/2026/03/13/chatgpt-claude-gemini-cual-ia-miente-en-sus-respuestas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 16:26:56 GMT",
+      "summary": "Un análisis técnico revela qué asistentes de inteligencia artificial ofrecen respuestas más precisas y cuáles presentan mayor riesgo de información incorrecta."
+    },
+    {
       "title": "Apple usa el chip del iPhone en la MacBook Neo para competir con Intel, AMD y Qualcomm",
       "url": "https://expansion.mx/tecnologia/2026/03/13/apple-lleva-chip-iphone-nueva-macbook-neo",
       "source": "Expansión Tecnología",
@@ -27,28 +43,20 @@
       "summary": "Tinder, con sede en Los Ángeles, actualmente prueba la opción \"Química\", que les presentará a los usuarios un único perfil al día. El sistema \"swipe\" (deslizar), permite observar diversos perfiles."
     },
     {
-      "title": "Ticket Delay, la nueva barrera de Ticketmaster contra la reventa",
-      "url": "https://expansion.mx/tecnologia/2026/03/12/ticketmaster-nuevo-candado-digital-reventa-boletos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Mar 2026 21:15:16 GMT",
-      "summary": "La empresa presentó innovaciones a su boleto digital con el fin de evitar casos como el de BTS."
-    },
-    {
-      "title": "La nueva función de Mercado Play ya permite alquilar películas",
-      "url": "https://expansion.mx/tecnologia/2026/03/12/mercado-libre-nueva-funcion-mercado-play-rentar-peliculas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Mar 2026 18:52:14 GMT",
-      "summary": "Los suscriptores que deseen alquilar películas dentro de la plataforma de Mercado Play tendrán descuentos en el lanzamiento de esta nueva modalidad de la plataforma de streaming."
-    },
-    {
       "title": "La inteligencia artificial se integra al journey de compra del ecommerce mexicano - THE LOGISTICS WORLD",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU19VWmJxaWNTQ3BjY2tXUHREcFZNRU8tZ094bmxXOXpneGhUZHZLTDZ0UHdDeVQ1MEdVSDhRSFluV1h6R3hrNWlfS0tDV09fZGNVa0NRYlFGemZxWF9Jd2l5WnZaQWJwNGNWdFl6aXpWcjZ2QWFzbVZWTVNJTVpEaEI0VXdUQV9YVVFzR3hFYVhVdFd6Q1JUU3pvMXdpSFBPSzdHMDBSVlpuQVNoNng1M09KVHk1SVJkTTFoa0JXeERLOEdvakhELVhBM09wUGR0N3oyVFBKanpSdTA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 13 Mar 2026 13:48:37 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU19VWmJxaWNTQ3BjY2tXUHREcFZNRU8tZ094bmxXOXpneGhUZHZLTDZ0UHdDeVQ1MEdVSDhRSFluV1h6R3hrNWlfS0tDV09fZGNVa0NRYlFGemZxWF9Jd2l5WnZaQWJwNGNWdFl6aXpWcjZ2QWFzbVZWTVNJTVpEaEI0VXdUQV9YVVFzR3hFYVhVdFd6Q1JUU3pvMXdpSFBPSzdHMDBSVlpuQVNoNng1M09KVHk1SVJkTT"
+    },
+    {
+      "title": "Infraestructura e inteligencia artificial lideran agenda de inversión financiera en 2026 - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWVoYTJFeUNmZ1ZRTDQ3WHVPd3VwOHJDWlI3TzZlUFJtWHQxRkV3ZDB5OGhaWXFEZzVleFJjRVhwUGZTRFg1bFB0dU94S2w0Z3VDYmNsNWk5RUFfT3I3ekVLLUh2aW4yVE0tZ2Vrc2haZGQwbkxVYnhkZjRmSWhBdXZoRXlkX29uWnpmbGhvVGtULW9ybDRGTE9aOEI0aTVKaEI0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 13 Mar 2026 15:33:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQWVoYTJFeUNmZ1ZRTDQ3WHVPd3VwOHJDWlI3TzZlUFJtWHQxRkV3ZDB5OGhaWXFEZzVleFJjRVhwUGZTRFg1bFB0dU94S2w0Z3VDYmNsNWk5RUFfT3I3ekVLLUh2aW4yVE0tZ2Vrc2haZGQwbkxVYnhkZjRmSWhBdXZoRXlkX29uWnpmbGhvVGtULW9ybDRGTE9aOEI0aTVKaEI0?oc=5\" target=\"_blank\">Infraes"
     },
     {
       "title": "Inteligencia artificial en la investigación científica en México: desafíos éticos y regulatorios que exigen una respuesta urgente - consultorsalud.com.mx",
@@ -59,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5\" target=\"_blank\">Inteligencia artificial en la investigación científic"
     },
     {
-      "title": "La inteligencia artificial llega al tenis en México: el Mexico City Open utilizará asistentes para hablar con los fans - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcW5WXzVJVDF5YzJ0bUIzREpyaFZpRVE5QjNyNjZtdDZsS1FEN1FwbjhUOGdZWmlwNnhYM25DQ1dXa2l1UTVJMWhaaWpIWmt2bHlFbFhZTUh1V0psaW5hNFluZ01xbHNiek9JTDJfY3FPR1ZUNDExRDJkeUJQVHQyQm91VDJoajluSjBhNHJIZWZEODFQa1oxZjlIMUlnZy1KZ3I4ZUZzU195NUtGam5jNk1hUjBTMXhScTVWa3lEUmY5QlNhTkFFektGdXFCOEt5OHRWRnFiSWRhUTMtTFFHSklCLTFkZzNMZEhhOThWQ1lRMGJ4OWhVR0kzMGx4dw?oc=5",
+      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Mar 2026 18:00:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcW5WXzVJVDF5YzJ0bUIzREpyaFZpRVE5QjNyNjZtdDZsS1FEN1FwbjhUOGdZWmlwNnhYM25DQ1dXa2l1UTVJMWhaaWpIWmt2bHlFbFhZTUh1V0psaW5hNFluZ01xbHNiek9JTDJfY3FPR1ZUNDExRDJkeUJQVHQyQm91VDJoajluSjBhNHJIZWZEODFQa1oxZjlIMUlnZy1KZ3I4ZUZzU195NUtGam5jNk1hUjBTMXhScT"
-    },
-    {
-      "title": "IA en el Mexico City Open: Vambe y el fan engagement - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWdsYkt5UEE0LXhiTXZmcE5PWmZ1ZzhvVlZ4LUpGWnV1c2w2NUtMLVZjM3dSUkxCeGJiOHYtUTB0dFVtRVRaakNES3NfdTBwMW8tU2RyQVdGQndrdURET21KXzlrTTRfSWJ2VnFPTXAxMmp2UG1MdTVldk9zeWpzN2l0OVZIZU9TOXc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 13 Mar 2026 02:11:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWdsYkt5UEE0LXhiTXZmcE5PWmZ1ZzhvVlZ4LUpGWnV1c2w2NUtMLVZjM3dSUkxCeGJiOHYtUTB0dFVtRVRaakNES3NfdTBwMW8tU2RyQVdGQndrdURET21KXzlrTTRfSWJ2VnFPTXAxMmp2UG1MdTVldk9zeWpzN2l0OVZIZU9TOXc?oc=5\" target=\"_blank\">IA en el Mexico City Open: Vambe y el fa"
+      "published": "Wed, 11 Mar 2026 20:46:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
     },
     {
       "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQz"
     },
     {
-      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
+      "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Mar 2026 20:46:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
+      "published": "Wed, 04 Mar 2026 16:08:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture capit"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Ingeniería en Inteligencia Artificial y Ciencia de Datos - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 04 Aug 2025 19:23:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVdqb3RMMWhEckxsb19yRFBfa2tHV3lsczVxUWNXcU5yRE9CQU1ubm01UXJmazFrczNycEpUbEVDNGpFa01objRmN25KNDc4cGxISjJXRl91OV9Pd0JCTlV4V0VUd3BMTlM2ZWpJM01sNzRVQjFTb1R2LUlVdFRzWkxxTVRUYkpFU01Uei13NU1BRkRxMXduTlEyMEg?oc=5\" target=\"_blank\">Ingeniería en In"
-    },
-    {
       "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 06 Mar 2026 21:44:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
+    },
+    {
+      "title": "Cursos de Oracle en IA y tecnologías, gratis para la comunidad Tec - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NWFr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHN6S2R6WEVkVnRld2ZOSnF6Z1RWUmJLREUwYWRkYXBJcVo1YVdweWVMMVlVSnRZd2YxNWFhRHNSMWV6cnJqcDZkX1AwYXVPLWlOWk1LSTRCTzBETGNKRTgtNmpWZEJOMHJOOXFUQlJ1RWg1RnBuc21zbXRGLXk5T21Ec1JDbkFYME1pX0NYR1hhSkt3eTZMQWtDZ2cycHd2ejg4WjJWVWNsUnN6dFlPSk5udE9OQUs4NW"
     }
   ],
   "count": 14

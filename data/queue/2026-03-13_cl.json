@@ -3,7 +3,7 @@
   "country": "cl",
   "articles": [
     {
-      "title": "Qué se sabe del avión de la Fuerza Aérea de EE.UU. que se estrelló en Irak y dejó 4 fallecidos",
+      "title": "Qué se sabe del avión de la Fuerza Aérea de EE.UU. que se estrelló en Irak y dejó 6 fallecidos",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-avion-de-la-fuerza-aerea-de-eeuu-que-se-estrello-en-irak-y-dejo-4-fallecidos/",
       "source": "La Tercera Tecnología",
       "category": "tech",
@@ -43,6 +43,14 @@
       "summary": "Entre sus proyectos más conocidos figuran el restaurante Mestizo en Santiago, la extensión del Museo Chileno de Arte Precolombino y la Bodega VIK, además de colaboraciones internacionales como un proyecto para la tienda de Alexander McQueen en Londres."
     },
     {
+      "title": "Tecnologías cuánticas: sistemas abiertos, control e inteligencia artificial - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRjMmxjU2xjWTQ0YWhXYW1yMnRzZndvWi1ZaDlGczYzRmVwdDVfbXpIQmZHeGJPdDFLXzJsLXh0TmkwR3NwS21mS0s1NG9mMWRiWnFtUVlYeHZKMzBQQ3BCUDBJWmE1dF9zYW9iX2tUZUhFX3lZblNyMWl6QWd1N1ljdHdnQjlIZkIyYw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 13 Mar 2026 15:27:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRjMmxjU2xjWTQ0YWhXYW1yMnRzZndvWi1ZaDlGczYzRmVwdDVfbXpIQmZHeGJPdDFLXzJsLXh0TmkwR3NwS21mS0s1NG9mMWRiWnFtUVlYeHZKMzBQQ3BCUDBJWmE1dF9zYW9iX2tUZUhFX3lZblNyMWl6QWd1N1ljdHdnQjlIZkIyYw?oc=5\" target=\"_blank\">Tecnologías cuánticas: sistemas abier"
+    },
+    {
       "title": "Latam-GPT: La apuesta de Chile por una IA para la región - Computer Weekly",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnZfMXAwc0J4dVdMRDRpbUhXS2hiS3RQa19LdkJJNFIwel9GQ0lSSFdiZmRkMTc3TFAxczVkajk2R25fMWYwUGlGQ0dzWU1BTFJZaGlMRDdNcjFWemtsUzVSdDBUN0d5aWNPRFFMSXJ4bzlKTG9SYklGUDkyTHU1V2RzR2NjU1dxZGV3MUZGLThLeGNTQWFNZF9rbW9SZw?oc=5",
       "source": "Google News",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 02 Mar 2026 23:30:41 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNl"
-    },
-    {
-      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
     },
     {
       "title": "El Proxecto Nós impulsa en Santiago un gran polo atlántico de tecnologías del lenguaje e IA con Portugal - Diario de Santiago",
