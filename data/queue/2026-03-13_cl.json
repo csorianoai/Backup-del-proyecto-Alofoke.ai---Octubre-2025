@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "La historia secreta del “gemido de WhatsApp”",
+      "url": "https://www.latercera.com/tendencias/noticia/la-historia-secreta-del-gemido-de-whatsapp/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 21:01:05 +0000",
+      "summary": "Todo comenzó con una broma al aire en televisión, donde un ex jugador fue timado con un celular oculto en el set, desde donde provino el sonido en directo."
+    },
+    {
+      "title": "Cómo el segundo embarazo cambia de forma única a una mujer, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/como-el-segundo-embarazo-cambia-de-forma-unica-a-una-mujer-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 19:06:09 +0000",
+      "summary": "El embarazo no solo transforma el cuerpo: también modifica el cerebro. Científicos descubrieron que cuando una mujer espera a su segundo hijo, su mente cambia para adaptarse a nuevas exigencias de la maternidad."
+    },
+    {
       "title": "Qué se sabe del avión de la Fuerza Aérea de EE.UU. que se estrelló en Irak y dejó 6 fallecidos",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-avion-de-la-fuerza-aerea-de-eeuu-que-se-estrello-en-irak-y-dejo-4-fallecidos/",
       "source": "La Tercera Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Qué es el método de sueño escandinavo: la técnica viral para las parejas que no logran conciliar el sueño cuando duermen juntas."
     },
     {
-      "title": "Cómo es el renovado showroom de H&M en Santiago donde adelantó su colección otoño/invierno",
-      "url": "https://www.latercera.com/tendencias/noticia/como-es-el-renovado-showroom-de-hm-en-santiago-donde-adelanto-su-coleccion-otonoinvierno/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Mar 2026 09:01:00 +0000",
-      "summary": "El espacio fue reabierto este miércoles 11 de marzo en un evento que reunió a figuras de la moda y creadores de contenido, y donde se exhibió parte de su próxima colección."
-    },
-    {
-      "title": "9 obras del arquitecto chileno Smiljan Radić, el nuevo ganador del Pritzker 2026",
-      "url": "https://www.latercera.com/tendencias/noticia/9-obras-del-arquitecto-chileno-smiljan-radic-el-nuevo-ganador-del-pritzker-2026/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Mar 2026 20:00:00 +0000",
-      "summary": "Entre sus proyectos más conocidos figuran el restaurante Mestizo en Santiago, la extensión del Museo Chileno de Arte Precolombino y la Bodega VIK, además de colaboraciones internacionales como un proyecto para la tienda de Alexander McQueen en Londres."
-    },
-    {
       "title": "Tecnologías cuánticas: sistemas abiertos, control e inteligencia artificial - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRjMmxjU2xjWTQ0YWhXYW1yMnRzZndvWi1ZaDlGczYzRmVwdDVfbXpIQmZHeGJPdDFLXzJsLXh0TmkwR3NwS21mS0s1NG9mMWRiWnFtUVlYeHZKMzBQQ3BCUDBJWmE1dF9zYW9iX2tUZUhFX3lZblNyMWl6QWd1N1ljdHdnQjlIZkIyYw?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRjMmxjU2xjWTQ0YWhXYW1yMnRzZndvWi1ZaDlGczYzRmVwdDVfbXpIQmZHeGJPdDFLXzJsLXh0TmkwR3NwS21mS0s1NG9mMWRiWnFtUVlYeHZKMzBQQ3BCUDBJWmE1dF9zYW9iX2tUZUhFX3lZblNyMWl6QWd1N1ljdHdnQjlIZkIyYw?oc=5\" target=\"_blank\">Tecnologías cuánticas: sistemas abier"
     },
     {
-      "title": "Latam-GPT: La apuesta de Chile por una IA para la región - Computer Weekly",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnZfMXAwc0J4dVdMRDRpbUhXS2hiS3RQa19LdkJJNFIwel9GQ0lSSFdiZmRkMTc3TFAxczVkajk2R25fMWYwUGlGQ0dzWU1BTFJZaGlMRDdNcjFWemtsUzVSdDBUN0d5aWNPRFFMSXJ4bzlKTG9SYklGUDkyTHU1V2RzR2NjU1dxZGV3MUZGLThLeGNTQWFNZF9rbW9SZw?oc=5",
+      "title": "EdTech en Chile: startups que innovan en educacion - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDlZcUdrNm1HTzliYTNDVTBEdm54SmhzaklmUDFOVzZ6YzUtRGZxeUdjbkJtZlpkUUxwaGNBWmhVbUlzeUFkM01DSHE3S0U2LXg3ckhnbjN2bUkxazNyWkRudEhheExxM1V4Z09kS1BhNjM2YkEzd2dEZVNPMHBpcTg3ODhEVXM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Mar 2026 21:31:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZnZfMXAwc0J4dVdMRDRpbUhXS2hiS3RQa19LdkJJNFIwel9GQ0lSSFdiZmRkMTc3TFAxczVkajk2R25fMWYwUGlGQ0dzWU1BTFJZaGlMRDdNcjFWemtsUzVSdDBUN0d5aWNPRFFMSXJ4bzlKTG9SYklGUDkyTHU1V2RzR2NjU1dxZGV3MUZGLThLeGNTQWFNZF9rbW9SZw?oc=5\" target=\"_blank\">Latam-GPT: La"
+      "published": "Fri, 13 Mar 2026 20:59:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDlZcUdrNm1HTzliYTNDVTBEdm54SmhzaklmUDFOVzZ6YzUtRGZxeUdjbkJtZlpkUUxwaGNBWmhVbUlzeUFkM01DSHE3S0U2LXg3ckhnbjN2bUkxazNyWkRudEhheExxM1V4Z09kS1BhNjM2YkEzd2dEZVNPMHBpcTg3ODhEVXM?oc=5\" target=\"_blank\">EdTech en Chile: startups que innovan en edu"
     },
     {
-      "title": "La UNESCO y CENIA consolidan alianza para impulsar una inteligencia - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNlVXeEJPcUE1MFRNelNscFdMaUp6QQ?oc=5",
+      "title": "Inteligencia Artificial: el nuevo desafío de la facturación electrónica en Chile - Portal Innova",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEh0WnNfSlFpdGlGMFJIcFVxTFpHal9QaDFqOHRXSi1lcWd3TW9ZMndUeTJKWVFpTWhHbU5Xa21aZ3dCbzlYaVo4TzZhR2E5Z2hWdGxPZ3prZFk1WF90eF9GZ3VqSjQxb0txdWtNZG5nLVhsaEhPZXVkb0s5VmVVa2wwemxjdXRnT2F5b0RZZ25NalRnOUpyZkZpaUxDSWs5cWhTNFpUNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 02 Mar 2026 23:30:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNl"
+      "published": "Fri, 13 Mar 2026 17:52:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEh0WnNfSlFpdGlGMFJIcFVxTFpHal9QaDFqOHRXSi1lcWd3TW9ZMndUeTJKWVFpTWhHbU5Xa21aZ3dCbzlYaVo4TzZhR2E5Z2hWdGxPZ3prZFk1WF90eF9GZ3VqSjQxb0txdWtNZG5nLVhsaEhPZXVkb0s5VmVVa2wwemxjdXRnT2F5b0RZZ25NalRnOUpyZkZpaUxDSWs5cWhTNFpUNA?oc=5\" target=\"_blank\">I"
     },
     {
       "title": "El Proxecto Nós impulsa en Santiago un gran polo atlántico de tecnologías del lenguaje e IA con Portugal - Diario de Santiago",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
     },
     {
-      "title": "Ximena Lincolao: innovacion como forma de vida - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3puTWp2c1JfaUptNW1ZLXFEcnF6UjVGdEZPSlNjU0NFc0pOOHNLMlVTd2NSbS1GVmE4VERwdjdvZG1DbGN0X2dYLTB5TUdsZzNsTGRicGJwTDhVaC1OVmNqcmlSbS15Tnp1N3kzTDh1bHd0RE9ZUnFmMm1zbEk1SWFB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 10 Mar 2026 21:50:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ3puTWp2c1JfaUptNW1ZLXFEcnF6UjVGdEZPSlNjU0NFc0pOOHNLMlVTd2NSbS1GVmE4VERwdjdvZG1DbGN0X2dYLTB5TUdsZzNsTGRicGJwTDhVaC1OVmNqcmlSbS15Tnp1N3kzTDh1bHd0RE9ZUnFmMm1zbEk1SWFB?oc=5\" target=\"_blank\">Ximena Lincolao: innovacion como forma de vida</a>&"
-    },
-    {
       "title": "FIDAE y Fuerza Aérea Chile convocan startups con foco en tecnología espacial - Defensa.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZvZGdETUo1d1dNcnhtMm51UFNsNElETTdTNFIwRW54OWZ0LXUyRENPbVl2Q3NWbUZnV3BEUlo1YUtWNElzbExoeWNwVXltUE5CRDNqZEktU1haMVNqS01meXRuejNFNHFtRGo1VkJvejhab29MQUREMy1rYzU1SndoSnp4bGs5TnJ5c2c1R2VvUkF0Qy1F?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 11 Mar 2026 11:26:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZvZGdETUo1d1dNcnhtMm51UFNsNElETTdTNFIwRW54OWZ0LXUyRENPbVl2Q3NWbUZnV3BEUlo1YUtWNElzbExoeWNwVXltUE5CRDNqZEktU1haMVNqS01meXRuejNFNHFtRGo1VkJvejhab29MQUREMy1rYzU1SndoSnp4bGs5TnJ5c2c1R2VvUkF0Qy1F?oc=5\" target=\"_blank\">FIDAE y Fuerza Aérea Ch"
+    },
+    {
+      "title": "Microsoft inaugura su primera Región de Datacenters en Chile para acelerar la innovación y el desarrollo económico local - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUzY4bzhGaHpLbEtXZzVieWQ4bjlUY2VjVUttamFJNk02akxZV1dpX09JRnVMYUhXaVlGb3NmTlpSQmltUElBSFR6RnJSMmJWUDJXUWRIa0FLWWR3aVQ2Rm1wZ2ZMOXRyLURyTnZSTG1fTGtmamxKYTA5bWFVTjJrS1hiZkRaWVVSdVdFWUFHT2pfbWdvR1k1MGFQUUI2ak92M2Z3Ullyall3Y3dOXzR5TkNsQjhId2xmRVRtRWhDcE5zeEkwSnk1WVZWbFZ3emkyQlBkclEtb1hZaERjZkdkRHBxSGpXNEU3V0E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Jun 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUzY4bzhGaHpLbEtXZzVieWQ4bjlUY2VjVUttamFJNk02akxZV1dpX09JRnVMYUhXaVlGb3NmTlpSQmltUElBSFR6RnJSMmJWUDJXUWRIa0FLWWR3aVQ2Rm1wZ2ZMOXRyLURyTnZSTG1fTGtmamxKYTA5bWFVTjJrS1hiZkRaWVVSdVdFWUFHT2pfbWdvR1k1MGFQUUI2ak92M2Z3Ullyall3Y3dOXzR5TkNsQjhId2xmRV"
     }
   ],
   "count": 14
