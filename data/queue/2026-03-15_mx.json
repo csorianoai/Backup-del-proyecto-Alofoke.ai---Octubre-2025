@@ -1,0 +1,119 @@
+{
+  "date": "2026-03-15",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Tus datos viajan en autos que impulsan un mercado de 568,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/03/13/datos-viajan-autos-impulsan-mercado-568-000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 21:00:40 GMT",
+      "summary": "Los vehículos conectados recopilan información sobre cómo manejas, qué aplicaciones usas y cómo interactúas con el auto. Estos datos hacen del auto una plataforma digital clave para la industria."
+    },
+    {
+      "title": "Los audífonos para sueño mueven 12,800 millones de dólares",
+      "url": "https://expansion.mx/tecnologia/2026/03/13/audifonos-sueno-mueven-12-800-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 18:00:24 GMT",
+      "summary": "La tecnología cada vez se obsesiona más con el sueño, prueba de ello es que hay desde audífonos para dormir hasta colchones y almohadas inteligentes."
+    },
+    {
+      "title": "ChatGPT, Claude o Gemini: ¿cuál es la IA que más miente en sus respuestas?",
+      "url": "https://expansion.mx/tecnologia/2026/03/13/chatgpt-claude-gemini-cual-ia-miente-en-sus-respuestas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 16:26:56 GMT",
+      "summary": "Un análisis técnico revela qué asistentes de inteligencia artificial ofrecen respuestas más precisas y cuáles presentan mayor riesgo de información incorrecta."
+    },
+    {
+      "title": "Apple usa el chip del iPhone en la MacBook Neo para competir con Intel, AMD y Qualcomm",
+      "url": "https://expansion.mx/tecnologia/2026/03/13/apple-lleva-chip-iphone-nueva-macbook-neo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Mar 2026 11:55:22 GMT",
+      "summary": "La laptop de 599 dólares incorpora el A18 Pro de los iPhone de gama alta, una apuesta por eficiencia que genera dudas por sus 8 GB de RAM."
+    },
+    {
+      "title": "Los trámites funerarios avanzan hacia un ecosistema digital en México",
+      "url": "https://expansion.mx/tecnologia/2026/03/12/los-tramites-funerarios-avanzan-hacia-un-ecosistema-digital-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Mar 2026 23:00:33 GMT",
+      "summary": "La digitalización del certificado médico, los registros civiles en línea y nuevas plataformas funerarias están transformando los procesos que se activan tras una muerte."
+    },
+    {
+      "title": "Inteligencia artificial en la investigación científica en México: desafíos éticos y regulatorios que exigen una respuesta urgente - consultorsalud.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Mar 2026 17:18:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5\" target=\"_blank\">Inteligencia artificial en la investigación científic"
+    },
+    {
+      "title": "La inteligencia artificial se integra al journey de compra del ecommerce mexicano - THE LOGISTICS WORLD",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU19VWmJxaWNTQ3BjY2tXUHREcFZNRU8tZ094bmxXOXpneGhUZHZLTDZ0UHdDeVQ1MEdVSDhRSFluV1h6R3hrNWlfS0tDV09fZGNVa0NRYlFGemZxWF9Jd2l5WnZaQWJwNGNWdFl6aXpWcjZ2QWFzbVZWTVNJTVpEaEI0VXdUQV9YVVFzR3hFYVhVdFd6Q1JUU3pvMXdpSFBPSzdHMDBSVlpuQVNoNng1M09KVHk1SVJkTTFoa0JXeERLOEdvakhELVhBM09wUGR0N3oyVFBKanpSdTA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 13 Mar 2026 13:48:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU19VWmJxaWNTQ3BjY2tXUHREcFZNRU8tZ094bmxXOXpneGhUZHZLTDZ0UHdDeVQ1MEdVSDhRSFluV1h6R3hrNWlfS0tDV09fZGNVa0NRYlFGemZxWF9Jd2l5WnZaQWJwNGNWdFl6aXpWcjZ2QWFzbVZWTVNJTVpEaEI0VXdUQV9YVVFzR3hFYVhVdFd6Q1JUU3pvMXdpSFBPSzdHMDBSVlpuQVNoNng1M09KVHk1SVJkTT"
+    },
+    {
+      "title": "La inteligencia artificial llega al tenis en México: el Mexico City Open utilizará asistentes para hablar con los fans - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcW5WXzVJVDF5YzJ0bUIzREpyaFZpRVE5QjNyNjZtdDZsS1FEN1FwbjhUOGdZWmlwNnhYM25DQ1dXa2l1UTVJMWhaaWpIWmt2bHlFbFhZTUh1V0psaW5hNFluZ01xbHNiek9JTDJfY3FPR1ZUNDExRDJkeUJQVHQyQm91VDJoajluSjBhNHJIZWZEODFQa1oxZjlIMUlnZy1KZ3I4ZUZzU195NUtGam5jNk1hUjBTMXhScTVWa3lEUmY5QlNhTkFFektGdXFCOEt5OHRWRnFiSWRhUTMtTFFHSklCLTFkZzNMZEhhOThWQ1lRMGJ4OWhVR0kzMGx4dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Mar 2026 18:00:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcW5WXzVJVDF5YzJ0bUIzREpyaFZpRVE5QjNyNjZtdDZsS1FEN1FwbjhUOGdZWmlwNnhYM25DQ1dXa2l1UTVJMWhaaWpIWmt2bHlFbFhZTUh1V0psaW5hNFluZ01xbHNiek9JTDJfY3FPR1ZUNDExRDJkeUJQVHQyQm91VDJoajluSjBhNHJIZWZEODFQa1oxZjlIMUlnZy1KZ3I4ZUZzU195NUtGam5jNk1hUjBTMXhScT"
+    },
+    {
+      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Mar 2026 20:46:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
+    },
+    {
+      "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQzVOMENoVUNYX1Y4?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 02 Mar 2026 16:11:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQz"
+    },
+    {
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    },
+    {
+      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Mar 2026 21:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
+    }
+  ],
+  "count": 14
+}
