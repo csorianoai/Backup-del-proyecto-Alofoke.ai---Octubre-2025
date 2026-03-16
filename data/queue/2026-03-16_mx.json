@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Nvidia ve mercado de un billón de dólares en la nueva fase de la IA",
+      "url": "https://expansion.mx/tecnologia/2026/03/16/nvidia-ve-mercado-de-un-billon-de-dolares-en-la-nueva-fase-de-la-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Mar 2026 21:28:15 GMT",
+      "summary": "El CEO de la empresa Jensen Huang dice que la industria pasa del entrenamiento a la inferencia de modelos, lo que impulsará la demanda de chips y centros de datos."
+    },
+    {
       "title": "Reseña Oura Ring 4: el bienestar deja de ser intuición y se vuelve dato",
       "url": "https://expansion.mx/tecnologia/2026/03/16/resena-oura-ring-4-bienestar",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Un análisis técnico revela qué asistentes de inteligencia artificial ofrecen respuestas más precisas y cuáles presentan mayor riesgo de información incorrecta."
     },
     {
-      "title": "Apple usa el chip del iPhone en la MacBook Neo para competir con Intel, AMD y Qualcomm",
-      "url": "https://expansion.mx/tecnologia/2026/03/13/apple-lleva-chip-iphone-nueva-macbook-neo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Mar 2026 11:55:22 GMT",
-      "summary": "La laptop de 599 dólares incorpora el A18 Pro de los iPhone de gama alta, una apuesta por eficiencia que genera dudas por sus 8 GB de RAM."
-    },
-    {
       "title": "Inteligencia artificial ayuda a conservar lenguas indígenas mexicanas en riesgo de extinción - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTNQQkNBNG9aNFpVd2p6Z3VhU0ZBN0syVThnTTJvaHdsWDkxWFp2UHZIRXJOSEpnZjRJck1uVzJwMWNzS1pzZ29PVWhQelJndVdFY3hQa2lWUXBIUXhpazA4WS1vWjR4T0xfUHVFNG1QR1pwcTlFU0dhaFN2SFVNU1h0T1BxM2U5THdGLUhjSXd6c2h5SnRpV0RseXcybkpWQk5iSjM3WHBTOHhka3U4VUY3Y014TUk2cnQ1WG01d0FOZE1VRWhENHplbW1WR0Vh0gHrAUFVX3lxTE10Z2NydHY1SVFwOGpSdGJlSTlBS3dzRGIxbkd4Qk9EZGhqMmx3WlVQcVBoa1liYmxTTUEwcEVlWndBd0lyQ2otQmxJZ0RUUDhYNGIwRTdBZjNucEo2ZkVHTk1xalJISFo0SzNBNnB4VWQ0bVY3Qnp2U0ZQcmZFa0hCZjQ0VzZOV0VzVUF5Rkk3Z0VzWmVYNU9tOVFNbDRvYjcyMTc1c1ZCal9HX2laeU9meGtfb09xQTk4MmRhVWJ2S1Nhc2R2Q2VhZGFJeWhUSUdsZHhUUEdISkl1bUg5TEV2bHEwLUt0cEw1UVk?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTNQQkNBNG9aNFpVd2p6Z3VhU0ZBN0syVThnTTJvaHdsWDkxWFp2UHZIRXJOSEpnZjRJck1uVzJwMWNzS1pzZ29PVWhQelJndVdFY3hQa2lWUXBIUXhpazA4WS1vWjR4T0xfUHVFNG1QR1pwcTlFU0dhaFN2SFVNU1h0T1BxM2U5THdGLUhjSXd6c2h5SnRpV0RseXcybkpWQk5iSjM3WHBTOHhka3U4VUY3Y014TUk2cn"
     },
     {
-      "title": "Expertos de universidad en México utilizan IA para preservar lenguas indígenas nacionales - La Patria",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDFoQkJzVGhDOW0wZzV5dWpKY2I1ZWktU0xfRVczQmU2OTFPQ2RTTnJtVFVGcWdSSmowSC1kaHNnbFIxQTNVOTJYYXB4TVhaVEZ3QXJUOS1jRVJ1SDREMjVvbDV1eGdldHM5anR4NEFqWVhCbzVycHF5dFhKWVB4TmhIZDViSGNLYVR4NGhQV0UxVVEzUUd1SXBGRk5FRzJGSVZmUmNuWFlybnFVZEJXdko2SHRsRFdo?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 15 Mar 2026 22:18:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDFoQkJzVGhDOW0wZzV5dWpKY2I1ZWktU0xfRVczQmU2OTFPQ2RTTnJtVFVGcWdSSmowSC1kaHNnbFIxQTNVOTJYYXB4TVhaVEZ3QXJUOS1jRVJ1SDREMjVvbDV1eGdldHM5anR4NEFqWVhCbzVycHF5dFhKWVB4TmhIZDViSGNLYVR4NGhQV0UxVVEzUUd1SXBGRk5FRzJGSVZmUmNuWFlybnFVZEJXdko2SHRsRFdo?o"
-    },
-    {
       "title": "Jeanologia presenta una nueva inteligencia artificial para el diseño de denim - FashionNetwork México",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTQ2TzlXV1haX3F1X0dYN29vV2RjUXcxQUY5QXBMS0RJZUVjZG1UYS1hVmNQN3Q5MXNLdHB2aGhUS2t4bFVDZ0VYQ3FvTWNuLURFYmZHYXlGUFVkOVZmLXkzeG4zVFVfMGJ5VWFld3BabzVCcy1BUkVfeVk0azczVUNRR3FldkNkRlE2QVJ0d3ZPWVVFeDdqQWdjNEdaNXduNWRKYkgzVVd3cjdNR2EzUHI5Z0hvQjRhTEJKUWU1QlZtaUU?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 16 Mar 2026 11:39:35 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTQ2TzlXV1haX3F1X0dYN29vV2RjUXcxQUY5QXBMS0RJZUVjZG1UYS1hVmNQN3Q5MXNLdHB2aGhUS2t4bFVDZ0VYQ3FvTWNuLURFYmZHYXlGUFVkOVZmLXkzeG4zVFVfMGJ5VWFld3BabzVCcy1BUkVfeVk0azczVUNRR3FldkNkRlE2QVJ0d3ZPWVVFeDdqQWdjNEdaNXduNWRKYkgzVVd3cjdNR2EzUHI5Z0hvQjRhTE"
+    },
+    {
+      "title": "Expertos de universidad en México utilizan IA para preservar lenguas indígenas nacionales - La Patria",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDFoQkJzVGhDOW0wZzV5dWpKY2I1ZWktU0xfRVczQmU2OTFPQ2RTTnJtVFVGcWdSSmowSC1kaHNnbFIxQTNVOTJYYXB4TVhaVEZ3QXJUOS1jRVJ1SDREMjVvbDV1eGdldHM5anR4NEFqWVhCbzVycHF5dFhKWVB4TmhIZDViSGNLYVR4NGhQV0UxVVEzUUd1SXBGRk5FRzJGSVZmUmNuWFlybnFVZEJXdko2SHRsRFdo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 15 Mar 2026 22:18:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDFoQkJzVGhDOW0wZzV5dWpKY2I1ZWktU0xfRVczQmU2OTFPQ2RTTnJtVFVGcWdSSmowSC1kaHNnbFIxQTNVOTJYYXB4TVhaVEZ3QXJUOS1jRVJ1SDREMjVvbDV1eGdldHM5anR4NEFqWVhCbzVycHF5dFhKWVB4TmhIZDViSGNLYVR4NGhQV0UxVVEzUUd1SXBGRk5FRzJGSVZmUmNuWFlybnFVZEJXdko2SHRsRFdo?o"
     },
     {
       "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",

@@ -3,6 +3,14 @@
   "country": "es",
   "articles": [
     {
+      "title": "Trump asegura que será “un gran honor” para él “tomar Cuba”",
+      "url": "https://elpais.com/us/2026-03-16/trump-asegura-que-sera-un-gran-honor-para-el-tomar-cuba.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Mar 2026 22:01:05 GMT",
+      "summary": "El presidente de Estados Unidos responde preguntas a periodistas en el Salón Oval de la Casa Blanca"
+    },
+    {
       "title": "Europa rechaza las amenazas de Trump para forzar su ayuda en el estrecho de Ormuz: “No es nuestra guerra”",
       "url": "https://elpais.com/internacional/2026-03-16/la-ue-estudia-como-ayudar-a-reabrir-el-estrecho-de-ormuz-pero-rechaza-las-amenazas-de-trump.html",
       "source": "El País Tecnología",
@@ -11,20 +19,12 @@
       "summary": "El presidente de EE UU insiste en la presión a sus aliados y afirma que hay países que se han comprometido a ayudarle a desatascar esa vía vital para el petróleo global, pero no especifica cuáles"
     },
     {
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump: “No sabemos si el líder supremo de Irán está muerto”",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Líbano supera la barrera del millón de desplazados forzosos por la ofensiva israelí",
       "url": "https://elpais.com/internacional/2026-03-16/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 16 Mar 2026 18:45:00 GMT",
-      "summary": "Bruselas se resiste a la petición de ayuda del presidente estadounidense en el estrecho de Ormuz: “Esta no es la guerra de Europa” | Trump presiona a sus aliados para formar una coalición militar que permita reabrir el corredor"
-    },
-    {
-      "title": "Cuba se queda sin luz por el colapso del 100% de su sistema eléctrico",
-      "url": "https://elpais.com/america/2026-03-16/cuba-se-queda-sin-luz-por-el-colapso-del-100-de-su-sistema-electrico.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 16 Mar 2026 18:31:23 GMT",
-      "summary": "La empresa estatal anuncia que el Sistema Electroenergético Nacional sufrió una “desconexión total”"
+      "published": "Mon, 16 Mar 2026 22:07:33 GMT",
+      "summary": "Un dron impacta en la sede de la misión de la Unión Europea en Bagdad sin causar víctimas | Bruselas se resiste a la petición de ayuda de Trump en el estrecho de Ormuz: “Esta no es la guerra de Europa”"
     },
     {
       "title": "Vox exige blindar su participación en gobiernos de coalición con el PP pero se niega a darles cuatro años de aval",
@@ -43,36 +43,28 @@
       "summary": "El líder del PP deja abierta la fórmula de Gobierno con los ultras. Mañueco quiere gobernar en solitario"
     },
     {
-      "title": "La inteligencia artificial llegó a los aeropuertos españoles para optimizar operaciones en plataforma - Aviacionline",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbWRKX3BwQUlBWUdvVHZtMWRHMzFTc3oyblIybWp3aXRlUjlQR2stMlIzekJyZklPMVZSQUdlOUFNNU9rYXROekxHWWFra0VNY1J6VkVNS1c5MmFSVFFzZWFmNUJOdE9GQTJYRzdfRl9KWUwxakxQRWYwWGd4SVlIZm9CZmQ5M1RHNXd2QXY2dnZuMHNvd1g4blRXQTYweGtTckdBa29obWN1YU9zMWZjTVFDSGQ4bk55bXp2eUVYQW1MTGVsZUo0MDkwaG1HTENkQTNsWmxXbHoyN1JJM2d4empQVkhYOTNtd1NCMnJCZ3hNTllpa2s1UlFZVFJmakh6bEhrYmpUc21NZjZ6aTh1dWI4VmdQYmxxUk15YTRYb2ZaUHV2ckZPLWlXeUo0LU5yMlJGWUstZnhiMm15VmI2WElTYlI5ZGs?oc=5",
+      "title": "El interés de los creativos españoles por formarse en IA crece un 52% en 2025 - RRHH Digital",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVTlOcFB3QkR6TVV6VjM3OHYweWlDdWk4QUdhZlJEcU1WcktHZXJNRUd0TXQ5a2RKQl9wTHowNUstVk04azBtZ0dMeEZDSlZaVnBBdUxFVnFPVnNMWW1KdWJUWDlUOHJQWU1VblVveUVlWnljRGVsN052MkpDSWJDQmtLYk55T0FKWkZ3ZDR5V1hrcVdVd00tRkpTM0Y2YXM4UTh2eEFnMmhLVzR2eFVQUEpsXzc2YjZDODRXd1VXWjRVVUltcG1NT0lYMnhYQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 16 Mar 2026 12:56:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNbWRKX3BwQUlBWUdvVHZtMWRHMzFTc3oyblIybWp3aXRlUjlQR2stMlIzekJyZklPMVZSQUdlOUFNNU9rYXROekxHWWFra0VNY1J6VkVNS1c5MmFSVFFzZWFmNUJOdE9GQTJYRzdfRl9KWUwxakxQRWYwWGd4SVlIZm9CZmQ5M1RHNXd2QXY2dnZuMHNvd1g4blRXQTYweGtTckdBa29obWN1YU9zMWZjTVFDSGQ4bk55bX"
+      "published": "Mon, 16 Mar 2026 16:04:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVTlOcFB3QkR6TVV6VjM3OHYweWlDdWk4QUdhZlJEcU1WcktHZXJNRUd0TXQ5a2RKQl9wTHowNUstVk04azBtZ0dMeEZDSlZaVnBBdUxFVnFPVnNMWW1KdWJUWDlUOHJQWU1VblVveUVlWnljRGVsN052MkpDSWJDQmtLYk55T0FKWkZ3ZDR5V1hrcVdVd00tRkpTM0Y2YXM4UTh2eEFnMmhLVzR2eFVQUEpsXzc2YjZDOD"
     },
     {
       "title": "España lidera la adopción de la IA Generativa en Europa - Computing BPS",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTTQweEMySFd5OEw4MVRuSW5zTnFxRmJnd0hMQWpVblRqc3Y0am43Mnc3di11c2NKbWotd2xfeWRYZ2lCdnAxa2xUOVhsUWd2TmxNYzNzSkxXbk1leFg4VlRTdGxoazRrNGhTMFltYzRXZlhXMDMwQXRjS0xWbjVwcGpTM1hpVkdvR3RiWVJRYjlJeXhjSFlmaVRweU8?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 16 Mar 2026 13:49:22 GMT",
+      "published": "Mon, 16 Mar 2026 19:04:03 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTTQweEMySFd5OEw4MVRuSW5zTnFxRmJnd0hMQWpVblRqc3Y0am43Mnc3di11c2NKbWotd2xfeWRYZ2lCdnAxa2xUOVhsUWd2TmxNYzNzSkxXbk1leFg4VlRTdGxoazRrNGhTMFltYzRXZlhXMDMwQXRjS0xWbjVwcGpTM1hpVkdvR3RiWVJRYjlJeXhjSFlmaVRweU8?oc=5\" target=\"_blank\">España lidera la"
     },
     {
-      "title": "El 58% de las grandes empresas españolas ya utilizan la inteligencia artificial - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2NfWUkzYl9TNEV5V0ZWZWU1SXRwSHBlbUxBbjdZMGJLZGI5RWJOYlBhcW1ROV8zOUdkaXJDYW1Pd1BoSTNSR0ozd2U2SFd3MEppZEJoM1VZa0hZMUNxZC1TbU5pYlBPUkRpbDdZSGRiZFVNZnFHMEN3OTdnSnkyS1N2TExoQk9SWmg0TGJfTkdjT053a0xHOExrcThRSGFMMGdEWElzWFJsYmpYb0NUQ0RiU1lqRlU4Y3ExbzVfTdIB0wFBVV95cUxOQmZhU0E2SU5hZmdaQzBFOFdzd2FUTnEyWF9LUFQxdUpkTkhRbk5reGhHYWVqWThPNDkzVFpNNHJZNnp4RU5pSTU3OE9YNVF4a1YzYmdLWGVSY3Jya0VOalB2SWVVaVhSOGtPaG9HWFBidGR4YWU3eUc2ZE1rVVVwNFdOMVctS2NBQS1CcXhqRi1DWkpXdUg4ak10U01lLTBjSFh4OHVrYl81cU9iY0Q2Q0ZiQXNkcXhHVHBua0dxT3VTWFlFNHpsZ05Dd1E5OV9KbDNr?oc=5",
+      "title": "La inteligencia artificial llegó a los aeropuertos españoles para optimizar operaciones en plataforma - Aviacionline",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbWRKX3BwQUlBWUdvVHZtMWRHMzFTc3oyblIybWp3aXRlUjlQR2stMlIzekJyZklPMVZSQUdlOUFNNU9rYXROekxHWWFra0VNY1J6VkVNS1c5MmFSVFFzZWFmNUJOdE9GQTJYRzdfRl9KWUwxakxQRWYwWGd4SVlIZm9CZmQ5M1RHNXd2QXY2dnZuMHNvd1g4blRXQTYweGtTckdBa29obWN1YU9zMWZjTVFDSGQ4bk55bXp2eUVYQW1MTGVsZUo0MDkwaG1HTENkQTNsWmxXbHoyN1JJM2d4empQVkhYOTNtd1NCMnJCZ3hNTllpa2s1UlFZVFJmakh6bEhrYmpUc21NZjZ6aTh1dWI4VmdQYmxxUk15YTRYb2ZaUHV2ckZPLWlXeUo0LU5yMlJGWUstZnhiMm15VmI2WElTYlI5ZGs?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2NfWUkzYl9TNEV5V0ZWZWU1SXRwSHBlbUxBbjdZMGJLZGI5RWJOYlBhcW1ROV8zOUdkaXJDYW1Pd1BoSTNSR0ozd2U2SFd3MEppZEJoM1VZa0hZMUNxZC1TbU5pYlBPUkRpbDdZSGRiZFVNZnFHMEN3OTdnSnkyS1N2TExoQk9SWmg0TGJfTkdjT053a0xHOExrcThRSGFMMGdEWElzWFJsYmpYb0NUQ0RiU1lqRlU4Y3"
-    },
-    {
-      "title": "Ni Madrid ni Barça: la Inteligencia Artificial augura el futuro campeón de la Champions - OkDiario",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVB0eHNaMUxlSHFPLV9TaWxoeHBkVjJ3dzJXaHVLUDVPZHBZeTQtZ191MUN6T3BPZE5oLTdoYjdHZGdTclUteDZsWnVtNnZIZ1FwRS1wMzJ5SHp2S2lHTjFZS1FNeDl5MnhOVVpBVk05VWhhSkRlYWlYTzVpZnVUcFY3cEp0aFpmb2ZDVmVhcDlGMFVRM0pMcm1CVVp6QkV5dU1zV1BRUmNHdXljUGFPd2pYd9IBuAFBVV95cUxQQWJGc24yZUdrWDdXa1JwYW1tTDFjMjNFRGt3bW1wdGY5aG9CbllROXNVMVZKWmd2bTk3blVGSGZlT2VwRzhfMkdXWVowX3FTc2Q4RUpJbzVRRGZTWFhuQmVBYmxpc1I0SWg1MlFwLXQ1SXpOMHdILXdBTlRRNWRBNDV4NEhvd0MteDRhdkU4OVpxbUFCYXZjNGJvTDRweUVZdmFxaEh1eDlwUzlXVHlQU2RnQ21yV2hy?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 28 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVB0eHNaMUxlSHFPLV9TaWxoeHBkVjJ3dzJXaHVLUDVPZHBZeTQtZ191MUN6T3BPZE5oLTdoYjdHZGdTclUteDZsWnVtNnZIZ1FwRS1wMzJ5SHp2S2lHTjFZS1FNeDl5MnhOVVpBVk05VWhhSkRlYWlYTzVpZnVUcFY3cEp0aFpmb2ZDVmVhcDlGMFVRM0pMcm1CVVp6QkV5dU1zV1BRUmNHdXljUGFPd2pYd9IBuAFBVV"
+      "published": "Mon, 16 Mar 2026 12:56:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNbWRKX3BwQUlBWUdvVHZtMWRHMzFTc3oyblIybWp3aXRlUjlQR2stMlIzekJyZklPMVZSQUdlOUFNNU9rYXROekxHWWFra0VNY1J6VkVNS1c5MmFSVFFzZWFmNUJOdE9GQTJYRzdfRl9KWUwxakxQRWYwWGd4SVlIZm9CZmQ5M1RHNXd2QXY2dnZuMHNvd1g4blRXQTYweGtTckdBa29obWN1YU9zMWZjTVFDSGQ4bk55bX"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial de Opta para el 'Clásico' de la Supercopa de España - Sports Illustrated",
@@ -83,12 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa05XVXd5cS12RmxCNzNQbUMzandrU0Z4Qkp0Q0EwOTMya1VhN3c0MVAxZk9TbVQ5cnl6WFdLSVhQaHl2VEpfSkNocXluV3lLaFFSM1ZjMG1WTDVwQUhMUmVXSUp1M29obnpuWmZzN3FHangzWFhBeUZQRkVJYWR1bklTb3ZkRE9ka1VrTENkc2RQV2NwNUU2ZnJtcGdfSFFoU1QzSExQeU9vWDdhYUd0aGdNLTVBXy1XNU"
     },
     {
-      "title": "¿Cuándo juega, cómo y dónde ver al Barcelona? Día, hora, canal de TV y streaming online del partido vs. Newcastle por la Champions League - sportingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdnZxV1FVRDRuT1RGenQ3eE5faWxtZmZsSjFNMzJwVGhmVWN5UHpUbElsT3VXQ3V1bWNkaTl2U3JyYXZ6MWUtNHNxazk2TmFBLUNRWEs2b2NYOF9XMFlnNFktS1RvQWVYODNQcmFLZmZ6ZGh6cHhUS0FvdkR2R2R5eEpOMVhyWk1UdHVCZlFnWVVaWFJmQkFqVWx5a1VvS2ozUF9ZTHkzSlg3V3NzaFlpQVU0S0NlckRnbkJ1ei1sd0U0Mi1wOE9lQnZIb3I4dVliZU8yZDFpdWoySFB1XzU1clltQktBMUNkVHpzT3hQcGJFdEh4ZkxwdkRVUG5rWnJzRkRTS0luUWxRWENpVWd3RXREdkJwTGNablVIcmtTbFN2Yk9lRURUc04yTFFrZ0Jj?oc=5",
+      "title": "Ni Madrid ni Barça: la Inteligencia Artificial augura el futuro campeón de la Champions - OkDiario",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVB0eHNaMUxlSHFPLV9TaWxoeHBkVjJ3dzJXaHVLUDVPZHBZeTQtZ191MUN6T3BPZE5oLTdoYjdHZGdTclUteDZsWnVtNnZIZ1FwRS1wMzJ5SHp2S2lHTjFZS1FNeDl5MnhOVVpBVk05VWhhSkRlYWlYTzVpZnVUcFY3cEp0aFpmb2ZDVmVhcDlGMFVRM0pMcm1CVVp6QkV5dU1zV1BRUmNHdXljUGFPd2pYd9IBuAFBVV95cUxQQWJGc24yZUdrWDdXa1JwYW1tTDFjMjNFRGt3bW1wdGY5aG9CbllROXNVMVZKWmd2bTk3blVGSGZlT2VwRzhfMkdXWVowX3FTc2Q4RUpJbzVRRGZTWFhuQmVBYmxpc1I0SWg1MlFwLXQ1SXpOMHdILXdBTlRRNWRBNDV4NEhvd0MteDRhdkU4OVpxbUFCYXZjNGJvTDRweUVZdmFxaEh1eDlwUzlXVHlQU2RnQ21yV2hy?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 15 Mar 2026 17:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxOdnZxV1FVRDRuT1RGenQ3eE5faWxtZmZsSjFNMzJwVGhmVWN5UHpUbElsT3VXQ3V1bWNkaTl2U3JyYXZ6MWUtNHNxazk2TmFBLUNRWEs2b2NYOF9XMFlnNFktS1RvQWVYODNQcmFLZmZ6ZGh6cHhUS0FvdkR2R2R5eEpOMVhyWk1UdHVCZlFnWVVaWFJmQkFqVWx5a1VvS2ozUF9ZTHkzSlg3V3NzaFlpQVU0S0NlckRnbk"
+      "published": "Sat, 28 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVB0eHNaMUxlSHFPLV9TaWxoeHBkVjJ3dzJXaHVLUDVPZHBZeTQtZ191MUN6T3BPZE5oLTdoYjdHZGdTclUteDZsWnVtNnZIZ1FwRS1wMzJ5SHp2S2lHTjFZS1FNeDl5MnhOVVpBVk05VWhhSkRlYWlYTzVpZnVUcFY3cEp0aFpmb2ZDVmVhcDlGMFVRM0pMcm1CVVp6QkV5dU1zV1BRUmNHdXljUGFPd2pYd9IBuAFBVV"
+    },
+    {
+      "title": "El Gobierno presentará a Madrid y Barcelona como candidatas para la próxima gigafactoría de IA de Europa, con una inversión de 4.000 millones - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcklXUDYzbWF3dEdZS1F1eXpqMmhtU0w4Rzl1OGZUdmxCRmhibUlTOEtkVFpjbTNrQnNrNTQwM1BUck9zRkd6dm1DSjN5ckFnd2FMY0FUMW1SMkdSd1o1OU1YeVJTYnhMS2p1NDRYLWM3Mmpsa25DZFNOMHlFdFRmcVlXamVMYkdyX01SNFY0ek1RcTlwVnRNcWRidHc2Z05rLTY0WVR2VHdYdzFOZ3lTQ1VtMXhyY293cjc5blNMTEV6QnNhVm8zeGF1MTFmQ2YxT2t3Y2VOMXZFUjlpVi1WYTdnbk1DbkY5YjJCb052OVI0dTBSV3YzN2lQZEJDdXhRblUtelJtWXlPWEljQkFR0gGqAkFVX3lxTE5QbzZoOHU2ekNPNmJGd0pzU1dWLTNJSDBaRVBjc0pKREQ2SEJudEgycUhaMnFtTHpCLTVCbGEzVklndjAtZEMzUTFtOHhEeHduZ2xsX1R1WWQzSmc2Q0dsWXhvMUp5TjRrUVJ0VWduSnRSSGp0VGtqMzZJOG9hQTZLQWRQREtuVkhOUnRra21QRnAyUmdnOUh3eXhhQjdvM3pSN2dXaFpTY21IVTJJWndQUFcyMGJtQzdaNGtNWmF0cVFLOTlzZGhBVlRxaTZfYzJ1M1dGZ3pBTkFocXpsMUcwTEh2ampOVVc1OW03UVliX25IaGpGWDZtSmVkeGRHby1Cb2piN0NSdnVFT3NRZFpDcUtBMW1ocnlqYzhkSWtma2NWMVc1dG9TckE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQcklXUDYzbWF3dEdZS1F1eXpqMmhtU0w4Rzl1OGZUdmxCRmhibUlTOEtkVFpjbTNrQnNrNTQwM1BUck9zRkd6dm1DSjN5ckFnd2FMY0FUMW1SMkdSd1o1OU1YeVJTYnhMS2p1NDRYLWM3Mmpsa25DZFNOMHlFdFRmcVlXamVMYkdyX01SNFY0ek1RcTlwVnRNcWRidHc2Z05rLTY0WVR2VHdYdzFOZ3lTQ1VtMXhyY293cj"
     },
     {
       "title": "Startups logísticas: Lanzadera y Marina de Empresas - Ecosistema Startup",
