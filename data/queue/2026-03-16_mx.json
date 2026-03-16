@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Reseña Oura Ring 4: el bienestar deja de ser intuición y se vuelve dato",
+      "url": "https://expansion.mx/tecnologia/2026/03/16/resena-oura-ring-4-bienestar",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Mar 2026 14:00:51 GMT",
+      "summary": "El anillo inteligente ayuda a dormir mejor, entender el estrés y leer señales del cuerpo con más claridad, pero también nos vuelve más exigentes."
+    },
+    {
       "title": "Tus datos viajan en autos que impulsan un mercado de 568,000 mdd",
       "url": "https://expansion.mx/tecnologia/2026/03/13/datos-viajan-autos-impulsan-mercado-568-000-mdd",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "La laptop de 599 dólares incorpora el A18 Pro de los iPhone de gama alta, una apuesta por eficiencia que genera dudas por sus 8 GB de RAM."
     },
     {
-      "title": "Los trámites funerarios avanzan hacia un ecosistema digital en México",
-      "url": "https://expansion.mx/tecnologia/2026/03/12/los-tramites-funerarios-avanzan-hacia-un-ecosistema-digital-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 12 Mar 2026 23:00:33 GMT",
-      "summary": "La digitalización del certificado médico, los registros civiles en línea y nuevas plataformas funerarias están transformando los procesos que se activan tras una muerte."
+      "title": "Inteligencia artificial ayuda a conservar lenguas indígenas mexicanas en riesgo de extinción - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTNQQkNBNG9aNFpVd2p6Z3VhU0ZBN0syVThnTTJvaHdsWDkxWFp2UHZIRXJOSEpnZjRJck1uVzJwMWNzS1pzZ29PVWhQelJndVdFY3hQa2lWUXBIUXhpazA4WS1vWjR4T0xfUHVFNG1QR1pwcTlFU0dhaFN2SFVNU1h0T1BxM2U5THdGLUhjSXd6c2h5SnRpV0RseXcybkpWQk5iSjM3WHBTOHhka3U4VUY3Y014TUk2cnQ1WG01d0FOZE1VRWhENHplbW1WR0Vh0gHrAUFVX3lxTE10Z2NydHY1SVFwOGpSdGJlSTlBS3dzRGIxbkd4Qk9EZGhqMmx3WlVQcVBoa1liYmxTTUEwcEVlWndBd0lyQ2otQmxJZ0RUUDhYNGIwRTdBZjNucEo2ZkVHTk1xalJISFo0SzNBNnB4VWQ0bVY3Qnp2U0ZQcmZFa0hCZjQ0VzZOV0VzVUF5Rkk3Z0VzWmVYNU9tOVFNbDRvYjcyMTc1c1ZCal9HX2laeU9meGtfb09xQTk4MmRhVWJ2S1Nhc2R2Q2VhZGFJeWhUSUdsZHhUUEdISkl1bUg5TEV2bHEwLUt0cEw1UVk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 16 Mar 2026 16:59:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTNQQkNBNG9aNFpVd2p6Z3VhU0ZBN0syVThnTTJvaHdsWDkxWFp2UHZIRXJOSEpnZjRJck1uVzJwMWNzS1pzZ29PVWhQelJndVdFY3hQa2lWUXBIUXhpazA4WS1vWjR4T0xfUHVFNG1QR1pwcTlFU0dhaFN2SFVNU1h0T1BxM2U5THdGLUhjSXd6c2h5SnRpV0RseXcybkpWQk5iSjM3WHBTOHhka3U4VUY3Y014TUk2cn"
     },
     {
       "title": "Expertos de universidad en México utilizan IA para preservar lenguas indígenas nacionales - La Patria",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 16 Mar 2026 11:39:35 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTQ2TzlXV1haX3F1X0dYN29vV2RjUXcxQUY5QXBMS0RJZUVjZG1UYS1hVmNQN3Q5MXNLdHB2aGhUS2t4bFVDZ0VYQ3FvTWNuLURFYmZHYXlGUFVkOVZmLXkzeG4zVFVfMGJ5VWFld3BabzVCcy1BUkVfeVk0azczVUNRR3FldkNkRlE2QVJ0d3ZPWVVFeDdqQWdjNEdaNXduNWRKYkgzVVd3cjdNR2EzUHI5Z0hvQjRhTE"
-    },
-    {
-      "title": "El plan de la UNAM para preservar lenguas originarias con Inteligencia Artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFVpUktpQi1rNXdlWFpibFBVYURXRThjUHVsbUxoS2ZHTGFFUWx6OFQ5Y2JKTHM0Yi1LQk1wTTdBVWQxVG1PNjNFVVI2VlZSNHlwLW1TZ3ZQbDRVamlZckxYRGl5MzI3X2YzaWRKTVdMZzlEa3ctTENVUDBVaFdYMUlFTHZnRVNGVzE3bkxXUXdtRnJ0WVhSenNNNWR0SkJRTkN6UngxTXVTbWNjQ01ZT1pTZmdNMlJVMzFvWHhycUJ4Z9IB3AFBVV95cUxOWUl3eWxfQ0puT21ncFBSOWRXRFlHLWtuMDZjZXY5bEJzeE9vdXV0dUZtblpSYVVOXzBxWHJQQkJxcDIwcVpySFA3Q1Y4QjJIOTZjWlpCdXE3aUJMLWRQczdlQThPZW1Sb19JUTE3S0NZNldudExyUkRfeHlaTUJSaDlZWjJaQndXd1NNcDcxWjY5V3dKZjl0VnlESEUzNHRZN2ZhR2ZGd3VYWVZYZ1dObDVuQ3lGVzZ1ODB6THZSSXJiaXd3Y3h4V29Ra1g5N3p4ZHZZS3g2aTVTS1R6?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 16 Mar 2026 03:24:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFVpUktpQi1rNXdlWFpibFBVYURXRThjUHVsbUxoS2ZHTGFFUWx6OFQ5Y2JKTHM0Yi1LQk1wTTdBVWQxVG1PNjNFVVI2VlZSNHlwLW1TZ3ZQbDRVamlZckxYRGl5MzI3X2YzaWRKTVdMZzlEa3ctTENVUDBVaFdYMUlFTHZnRVNGVzE3bkxXUXdtRnJ0WVhSenNNNWR0SkJRTkN6UngxTXVTbWNjQ01ZT1pTZmdNMlJVMz"
     },
     {
       "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
@@ -99,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5",
+      "title": "¿Qué tecnologías marcarán el rumbo en 2026? - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYk5PdlNsMFhvZEZMYlJ2VThtRVk1SlN0SEo5dkNmX0UtVl9Iak5lRVNFNnZqc24wWU1CRlZRaHlRZVo3YXRmVUxxczBVdjN3a0EwWURFR3RRN3kySGNVTWNtSVNMYnhQdkhHcUN5aThzM2ItbnlJV2xscUlFVlJST2pxS19SSGZvdGp0MVUycmV4amtIQjE0aG5n?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5\" t"
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYk5PdlNsMFhvZEZMYlJ2VThtRVk1SlN0SEo5dkNmX0UtVl9Iak5lRVNFNnZqc24wWU1CRlZRaHlRZVo3YXRmVUxxczBVdjN3a0EwWURFR3RRN3kySGNVTWNtSVNMYnhQdkhHcUN5aThzM2ItbnlJV2xscUlFVlJST2pxS19SSGZvdGp0MVUycmV4amtIQjE0aG5n?oc=5\" target=\"_blank\">¿Qué tecnologías ma"
     },
     {
       "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
