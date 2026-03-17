@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La crisis de memoria seguirá hasta 2030, prevé uno de los líderes del sector",
+      "url": "https://expansion.mx/tecnologia/2026/03/17/crisis-memoria-seguira-hasta-2030",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Mar 2026 21:00:28 GMT",
+      "summary": "La surcoreana SK Hynix, líder en la fabricación de estos chips, también dijo que el suministro para este año quedará 30% por debajo de la demanda."
+    },
+    {
+      "title": "YouTube transmitirá los primeros 10 minutos de cada partido del Mundial 2026",
+      "url": "https://expansion.mx/tecnologia/2026/03/17/fifa-elige-youtube-favorita-transmitir-mundial-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Mar 2026 19:06:10 GMT",
+      "summary": "La plataforma tendrá una cancha paralela de transmisión de algunos de los partidos, así como contenidos especiales."
+    },
+    {
       "title": "Samsung dejará de vender su Galaxy Z TriFold tras tres meses en el mercado",
       "url": "https://expansion.mx/tecnologia/2026/03/17/samsung-dejara-de-vender-galaxy-z-trifold",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Mon, 16 Mar 2026 21:28:15 GMT",
       "summary": "El CEO de la empresa Jensen Huang dice que la industria pasa del entrenamiento a la inferencia de modelos, lo que impulsará la demanda de chips y centros de datos."
-    },
-    {
-      "title": "Reseña Oura Ring 4: el bienestar deja de ser intuición y se vuelve dato",
-      "url": "https://expansion.mx/tecnologia/2026/03/16/resena-oura-ring-4-bienestar",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 16 Mar 2026 14:00:51 GMT",
-      "summary": "El anillo inteligente ayuda a dormir mejor, entender el estrés y leer señales del cuerpo con más claridad, pero también nos vuelve más exigentes."
-    },
-    {
-      "title": "Tus datos viajan en autos que impulsan un mercado de 568,000 mdd",
-      "url": "https://expansion.mx/tecnologia/2026/03/13/datos-viajan-autos-impulsan-mercado-568-000-mdd",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Mar 2026 21:00:40 GMT",
-      "summary": "Los vehículos conectados recopilan información sobre cómo manejas, qué aplicaciones usas y cómo interactúas con el auto. Estos datos hacen del auto una plataforma digital clave para la industria."
     },
     {
       "title": "¿Cuál es la utilidad de la inteligencia artificial en el sector salud? Esto dice Kershenobich - Infobae",
@@ -67,20 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDFoQkJzVGhDOW0wZzV5dWpKY2I1ZWktU0xfRVczQmU2OTFPQ2RTTnJtVFVGcWdSSmowSC1kaHNnbFIxQTNVOTJYYXB4TVhaVEZ3QXJUOS1jRVJ1SDREMjVvbDV1eGdldHM5anR4NEFqWVhCbzVycHF5dFhKWVB4TmhIZDViSGNLYVR4NGhQV0UxVVEzUUd1SXBGRk5FRzJGSVZmUmNuWFlybnFVZEJXdko2SHRsRFdo?o"
     },
     {
-      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 11 Mar 2026 20:46:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
-    },
-    {
       "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 24 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+    },
+    {
+      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Mar 2026 20:46:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture capit"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     },
     {
       "title": "10 tendencias educativas 2026: hacia dónde va el aprendizaje - Tecnológico de Monterrey",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ09PQk5QYUdYS1lXQTB5SWpxY3l5Sld6bW1hOTdLbjRnT3EzdkRsSmxiN1hfMmloWW9ubVBiaVFzakZUeVZyLTJacGdiazhaMVUtWkpBRUczT09vY0xkOWdIOGIxeFdUSTNSTWZveWJpaTFETWhYa2JrUnBEZHR1SFNrbVJTazVyRzltZXJBNTlmVUlBOFhPOWpuR0pkc29ONnA1RHg3UlBTc1dUcVN2bkdXTQ?oc=5\" t"
     },
     {
-      "title": "Tec de Monterrey: Licenciatura en Humanidades Digitales e Inteligencia Artificial - noticiasneo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?oc=5",
+      "title": "La democracia no puede delegarse a la IA: Audrey Tang en el Tec de Monterrey - diariodetabasco.mx",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXpfUEd4d2tjUTBNX09OMEs5N3JBT1hoX09qOWpOQzBjdTNEQXFMSHlxLWhqM2tEYkxIQkhNYm9ibThzZ3hCSFoyamlBN3N2RXVrMTVaVFpLVWhSU3hSSDc2dEQ1a2t1SHNKLS1JYkpyZUd4Z2NMNG9lWEU3Z2JOckpJYUVtY3pMSmRDQVNmcVhyQlJVM2V2MkkxSG8wZV9jTkktbnJqbWxWZVBSU0F5am5faG5KZXpSYi1jSmt3b3ZTbUpOSHNxRQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Oct 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWdHREhtT1lGcjVHNHBtQnBSMDRyLTRtQzQyd2dhYjd2THBTQXNTdl9jR0ROb0JlRzN3OWZwWW92U1k3WWQ5ZG96OGptdk9xWHdpc2tLZlZMaV9fVzJQekVmT1J2NnFDOWFJSjBfVTZxaEJQYmw5R3FXbmEyREtzTkxFVnJYRGNlOVhycF9MR0ppU0pnX3lqMjZFSkxoakJBRFQ2V1ZPRWdrMEc1NUtMdkNSckRfTWZ0?o"
+      "published": "Fri, 06 Mar 2026 18:47:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXpfUEd4d2tjUTBNX09OMEs5N3JBT1hoX09qOWpOQzBjdTNEQXFMSHlxLWhqM2tEYkxIQkhNYm9ibThzZ3hCSFoyamlBN3N2RXVrMTVaVFpLVWhSU3hSSDc2dEQ1a2t1SHNKLS1JYkpyZUd4Z2NMNG9lWEU3Z2JOckpJYUVtY3pMSmRDQVNmcVhyQlJVM2V2MkkxSG8wZV9jTkktbnJqbWxWZVBSU0F5am5faG5KZXpSYi"
     }
   ],
   "count": 14
