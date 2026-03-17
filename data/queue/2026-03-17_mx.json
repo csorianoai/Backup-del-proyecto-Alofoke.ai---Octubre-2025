@@ -3,11 +3,19 @@
   "country": "mx",
   "articles": [
     {
-      "title": "El primer empleo está en riesgo: la IA reduce 14% los puestos junior",
-      "url": "https://expansion.mx/tecnologia/2026/03/17/el-primer-empleo-esta-en-riesgo-la-ia-reduce-14-los-puestos-junior",
+      "title": "Samsung dejará de vender su Galaxy Z TriFold tras tres meses en el mercado",
+      "url": "https://expansion.mx/tecnologia/2026/03/17/samsung-dejara-de-vender-galaxy-z-trifold",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Tue, 17 Mar 2026 11:55:22 GMT",
+      "published": "Tue, 17 Mar 2026 17:04:16 GMT",
+      "summary": "Samsung suspende la venta del Galaxy Z TriFold tras agotar inventario a tres meses de su lanzamiento, mientras enfrenta una caída en participación de mercado."
+    },
+    {
+      "title": "El primer empleo está en riesgo: la IA reduce 14% los puestos junior",
+      "url": "https://expansion.mx/tecnologia/2026/03/17/primeras-victimas-ia-empleos-junior-en-riesgo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 17 Mar 2026 14:55:22 GMT",
       "summary": "Consultoras, empresas tecnológicas y áreas administrativas empiezan a frenar la contratación de perfiles de entrada, mientras modelos de IA asumen tareas que antes servían como campo de aprendizaje para recién graduados."
     },
     {
@@ -35,12 +43,20 @@
       "summary": "Los vehículos conectados recopilan información sobre cómo manejas, qué aplicaciones usas y cómo interactúas con el auto. Estos datos hacen del auto una plataforma digital clave para la industria."
     },
     {
-      "title": "Los audífonos para sueño mueven 12,800 millones de dólares",
-      "url": "https://expansion.mx/tecnologia/2026/03/13/audifonos-sueno-mueven-12-800-mdd",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Mar 2026 18:00:24 GMT",
-      "summary": "La tecnología cada vez se obsesiona más con el sueño, prueba de ello es que hay desde audífonos para dormir hasta colchones y almohadas inteligentes."
+      "title": "¿Cuál es la utilidad de la inteligencia artificial en el sector salud? Esto dice Kershenobich - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVVvcW1HdHpaQkpSVXlkT21BSFZYeXZ0bmFVNUJZSEhPWHZrUHF4amxydE9tblRSZzdXX0NZX2dBV3BFU3B1TEFabVBESXp2M1VjMUt2ZGZobHdNeU16NFNXbjl3YWhnRzZhNUF1X1V0ZVdnV2tPMENISzY4VTBHVTF4bVlpV1NCS3BZQmJHVjVCUzJ6OHZ5SW4teVJTbWw5Zm9zYnN3aXVuS3JYUHBoS2t3amJJWGhFMzg3bDJ2cTNMQUhfZTRDamxZbmg0eUHSAeoBQVVfeXFMTWZtcnlMN3oxSlljWkZYOC00bWt5Q3IzWlZYWVdEVGZkeXR0Mkp0VWQ1cVJBVHZQSG45aUt0Y1d1TEx3VHBlX2VtRGEydnhmVDQwR09jTWFYZFllTFNXeEQ3Z21fTE1WdjRNcEJDX3RKdHZMUVo5d2pOZjhSLTVJNGpxM05pX2dRclB2cDJpYWNTLUhiV0xxVFBKQzloZXh2VWplZFAzOUVZUDltblRhWnFrWWdGZGdxS0xiZU1FQ3BVUFN2TFl4T3hxQkczM1JoZy1idUVMeERSalhXX3dNREJDclFHalVPU2lB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Mar 2026 17:34:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVVvcW1HdHpaQkpSVXlkT21BSFZYeXZ0bmFVNUJZSEhPWHZrUHF4amxydE9tblRSZzdXX0NZX2dBV3BFU3B1TEFabVBESXp2M1VjMUt2ZGZobHdNeU16NFNXbjl3YWhnRzZhNUF1X1V0ZVdnV2tPMENISzY4VTBHVTF4bVlpV1NCS3BZQmJHVjVCUzJ6OHZ5SW4teVJTbWw5Zm9zYnN3aXVuS3JYUHBoS2t3amJJWGhFMz"
+    },
+    {
+      "title": "UNAM a la vanguardia: crea su Consejo Coordinador de Inteligencia Artificial - dgcs.unam.mx",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOc3BhOEUwWENJZDBQLXdoSnNfTDRHREFYVnc4UG5RTEtjUDNyZXR3UFZ1UFZuSThUS1lVckdNTVB6VHFQU0VIY3hTaHQyOHNpXzk0emVCcFd6amJKdW9iQnZPUnhkbTg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Mar 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOc3BhOEUwWENJZDBQLXdoSnNfTDRHREFYVnc4UG5RTEtjUDNyZXR3UFZ1UFZuSThUS1lVckdNTVB6VHFQU0VIY3hTaHQyOHNpXzk0emVCcFd6amJKdW9iQnZPUnhkbTg?oc=5\" target=\"_blank\">UNAM a la vanguardia: crea su Consejo Coordinador de Inteligencia Artificial</a>&nbsp;&n"
     },
     {
       "title": "Expertos de universidad en México utilizan IA para preservar lenguas indígenas nacionales - La Patria",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Sun, 15 Mar 2026 22:18:24 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONDFoQkJzVGhDOW0wZzV5dWpKY2I1ZWktU0xfRVczQmU2OTFPQ2RTTnJtVFVGcWdSSmowSC1kaHNnbFIxQTNVOTJYYXB4TVhaVEZ3QXJUOS1jRVJ1SDREMjVvbDV1eGdldHM5anR4NEFqWVhCbzVycHF5dFhKWVB4TmhIZDViSGNLYVR4NGhQV0UxVVEzUUd1SXBGRk5FRzJGSVZmUmNuWFlybnFVZEJXdko2SHRsRFdo?o"
-    },
-    {
-      "title": "Inteligencia artificial ayuda a conservar lenguas indígenas mexicanas en riesgo de extinción - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTNQQkNBNG9aNFpVd2p6Z3VhU0ZBN0syVThnTTJvaHdsWDkxWFp2UHZIRXJOSEpnZjRJck1uVzJwMWNzS1pzZ29PVWhQelJndVdFY3hQa2lWUXBIUXhpazA4WS1vWjR4T0xfUHVFNG1QR1pwcTlFU0dhaFN2SFVNU1h0T1BxM2U5THdGLUhjSXd6c2h5SnRpV0RseXcybkpWQk5iSjM3WHBTOHhka3U4VUY3Y014TUk2cnQ1WG01d0FOZE1VRWhENHplbW1WR0Vh0gHrAUFVX3lxTE10Z2NydHY1SVFwOGpSdGJlSTlBS3dzRGIxbkd4Qk9EZGhqMmx3WlVQcVBoa1liYmxTTUEwcEVlWndBd0lyQ2otQmxJZ0RUUDhYNGIwRTdBZjNucEo2ZkVHTk1xalJISFo0SzNBNnB4VWQ0bVY3Qnp2U0ZQcmZFa0hCZjQ0VzZOV0VzVUF5Rkk3Z0VzWmVYNU9tOVFNbDRvYjcyMTc1c1ZCal9HX2laeU9meGtfb09xQTk4MmRhVWJ2S1Nhc2R2Q2VhZGFJeWhUSUdsZHhUUEdISkl1bUg5TEV2bHEwLUt0cEw1UVk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 16 Mar 2026 16:59:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZTNQQkNBNG9aNFpVd2p6Z3VhU0ZBN0syVThnTTJvaHdsWDkxWFp2UHZIRXJOSEpnZjRJck1uVzJwMWNzS1pzZ29PVWhQelJndVdFY3hQa2lWUXBIUXhpazA4WS1vWjR4T0xfUHVFNG1QR1pwcTlFU0dhaFN2SFVNU1h0T1BxM2U5THdGLUhjSXd6c2h5SnRpV0RseXcybkpWQk5iSjM3WHBTOHhka3U4VUY3Y014TUk2cn"
-    },
-    {
-      "title": "Inteligencia artificial en la investigación científica en México: desafíos éticos y regulatorios que exigen una respuesta urgente - consultorsalud.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Mar 2026 17:18:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPLVV4cWRaV3N4WUZXY1E0cjU2a2wyeFdEQi1HblJ0Mk8taXdQZzRYb1locnF3eXZzWG04TFRBV2JLemxfRTNsQ0s2NjlTdHBQZnVxbGRlMzMtY2pNSmFPWEQyMEstaVNjdmVPdERRZ3lxdWptQzh4bV9JUVNyYUFYTA?oc=5\" target=\"_blank\">Inteligencia artificial en la investigación científic"
     },
     {
       "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
