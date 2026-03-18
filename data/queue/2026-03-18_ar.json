@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Estafa del TelePASE: así usan tus datos personales para sacarte plata y cómo evitar caer en la trampa",
+      "url": "https://www.clarin.com/tecnologia/estafa-telepase-usan-datos-personales-sacarte-plata-evitar-caer-trampa_0_W16BBVPsFn.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 18 Mar 2026 13:51:37 +0000",
+      "summary": "<ul><li>Los ciberdelincuentes utilizan sitios web falsos y correos electrónicos apócrifos para capturar información bancaria de los usuarios.</li><li>Se detectaron consumos frecuentes de montos bajos en peajes de localidades que las víctimas nunca visitaron con sus vehículos.</li><li>Las autoridades"
+    },
+    {
       "title": "Sam Altman dijo que la IA “está cambiando el capitalismo”: por qué cree que será “un servicio como el agua”",
       "url": "https://www.clarin.com/tecnologia/sam-altman-dijo-ia-cambiando-capitalismo-cree-servicio-agua_0_Eo9w3JR7qJ.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Mon, 16 Mar 2026 14:56:36 +0000",
       "summary": "<ul><li>La sentencia del juez penal Carlos Rogelio Richeri había sido anulada, pero ahora le dieron la razón.</li><li>La resolución establece que el uso de IA no invalida una condena si los fundamentos son lógicos y verificables.</li><li>Qué sigue en la causa y qué precedente sienta.</li></ul>"
-    },
-    {
-      "title": "Tu DNI por menos de 4 dólares: advierten que bots de Telegram rematan datos del Renaper, domicilios y hasta historiales financieros",
-      "url": "https://www.clarin.com/tecnologia/dni-4-dolares-advierten-bots-telegram-rematan-datos-renaper-domicilios-historiales-financieros_0_AGqRvuQT0d.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 16 Mar 2026 08:46:54 +0000",
-      "summary": "<ul><li>La organización Derechos Digitales investigó el mercado negro de datos personales en América Latina en la aplicación.</li><li>Datos biométricos, registros médicos e historiales financieros, bajo la lupa en Argentina luego de las filtraciones del Renaper.</li><li>Para qué se usan los datos pe"
     },
     {
       "title": "“La IA podría elevar la productividad laboral argentina en 1,2% por año”, asegura UIA y Accenture - DPL News",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2pDQTVwbVZHY0k4cmNaSG9BTDRaWTJDTzlTVHg5SzR1STBGU1o0NkVEb056VXJydzhRM2RxaWRTX0VvOVdpSXN5T2gwamQxR0lRaEc2RnlQNnVOblBtdXB4d3BjR1JOWG91d0FyNW5ONXAwZjJTV3RTc3dhVFFCQzdSUnNMUXROay1FLUVmeUU4bGN6TDRNWFA0OA?oc=5\" target=\"_blank\">Ciudad de Buenos "
     },
     {
-      "title": "Cómo adaptarse a la inteligencia artificial en el mercado laboral argentino - AM 1350 Radio Buenos Aires",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0dnMnVONVhQZ3BDUnpDelBpYjhvLXNBLVNMeTk1bHB0Y2VMYUJPMjVlWlRnaW8zNnF5WkxLNWQ4RjdqeUwwNlZFVGN2REo1ekpqVE9xZjctalZnMGFOZVBZczVNY2pQNkNiZWFXNmxUWFNFX3ZCTDA5SDhFY3UzR3o0S0F0SlBtUVljRGZZMEkzUTZPWUlzd1ROTU5fbmc1M0lTQmYxNW1aZ0lST1R4aA?oc=5",
+      "title": "Argentina | Buenos Aires establece regulación para el uso de IA en el sector público - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNllZSmRTREhQYklsQk4wR0pZWDNZU2YyLWZzZHQ4UUtGWExGUHZTc3kxVUNULU90bkxncUo2VXFsWG52c1JoZFNFX19DWDlpZ2FyanF6VEZBY2Z0NVhKbnBMVHE1R0lia0FZaFpxUmhHYS1NLVRoUkpEbEd5THFCZ04xREtmMUk5NGlIQl8ySmdCdGtYMjMya2gwd2JOVnB1MThKYU5R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Mar 2026 19:12:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0dnMnVONVhQZ3BDUnpDelBpYjhvLXNBLVNMeTk1bHB0Y2VMYUJPMjVlWlRnaW8zNnF5WkxLNWQ4RjdqeUwwNlZFVGN2REo1ekpqVE9xZjctalZnMGFOZVBZczVNY2pQNkNiZWFXNmxUWFNFX3ZCTDA5SDhFY3UzR3o0S0F0SlBtUVljRGZZMEkzUTZPWUlzd1ROTU5fbmc1M0lTQmYxNW1aZ0lST1R4aA?oc=5\" targe"
+      "published": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNllZSmRTREhQYklsQk4wR0pZWDNZU2YyLWZzZHQ4UUtGWExGUHZTc3kxVUNULU90bkxncUo2VXFsWG52c1JoZFNFX19DWDlpZ2FyanF6VEZBY2Z0NVhKbnBMVHE1R0lia0FZaFpxUmhHYS1NLVRoUkpEbEd5THFCZ04xREtmMUk5NGlIQl8ySmdCdGtYMjMya2gwd2JOVnB1MThKYU5R?oc=5\" target=\"_blank\">Arg"
     },
     {
       "title": "De pasante a lider tech a los 23: Clara Thays y Darwin AI - Ecosistema Startup",
