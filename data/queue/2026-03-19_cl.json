@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "No son energéticas: la bebida saludable que potencia la concentración por horas, según un reciente estudio.",
+      "url": "https://www.latercera.com/tendencias/noticia/no-son-energeticas-la-bebida-saludable-que-potencia-la-concentracion-por-horas-segun-un-reciente-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Mar 2026 20:00:00 +0000",
+      "summary": "En momentos de cansancio o estrés, las bebidas energéticas o el café suelen presentarse como una solución rápida. Pero, un estudio demostró que existe una alternativa mucho más saludable que podría tener un efecto similar."
+    },
+    {
       "title": "¿Desenmascararon a Banksy, el misterioso artista callejero? Esto se sabe hasta ahora",
       "url": "https://www.latercera.com/tendencias/noticia/desenmascararon-a-banksy-el-misterioso-artista-callejero-esto-se-sabe-hasta-ahora/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,28 @@
       "summary": "El documental \"Remeber The Summit\" recoge el testimonio de Chris Bonington, uno de los grandes exponentes del montañismo mundial, de su odisea para convertirse -junto a su compañero, Don Whillans- en los primeros en llegar a la Torre Central de Torres del Paine."
     },
     {
-      "title": "Qué es “el juicio del siglo” en el Vaticano y por qué se volverá a repetir",
-      "url": "https://www.latercera.com/tendencias/noticia/que-es-el-juicio-del-siglo-en-el-vaticano-y-por-que-se-volvera-a-repetir/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Mar 2026 09:01:00 +0000",
-      "summary": "Giovanni Angelo Becciu, el primer cardenal condenado por la justicia del Vaticano, enfrentará un nuevo juicio tras la anulación del proceso por “errores y pruebas ocultas” de la fiscalía. Esto es lo que se sabe del caso."
+      "title": "Chile | MinCiencia invita a Municipalidades a sumarse a la Coalición de Ciudades por la Inteligencia Artificial - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLUVCNmNBTjF3QjlRV0VBYTJKYVAxdWNXVkxPb1ZULTQ1RWY2c3NTa1lDd0JYYWU3bkVCNFUyUUF5Q212SmZNMDFNdHduYzNfQVFWX3hZX2JvMmN3RG9Mc3RLeHdjalVmamZGNE5uX3gwaHR3d0ZCUWpXMHpVMTRQVVFFU1RWemd2LXZIanZRbUMtdlVaYnBSVWxCajRZZmNTUUUwa21Dc0tOZFRXTzdNNnk2Mm5xRU02ckRzd0ZyMkxKQ0pnZ1dXaU53?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Mar 2026 15:38:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOLUVCNmNBTjF3QjlRV0VBYTJKYVAxdWNXVkxPb1ZULTQ1RWY2c3NTa1lDd0JYYWU3bkVCNFUyUUF5Q212SmZNMDFNdHduYzNfQVFWX3hZX2JvMmN3RG9Mc3RLeHdjalVmamZGNE5uX3gwaHR3d0ZCUWpXMHpVMTRQVVFFU1RWemd2LXZIanZRbUMtdlVaYnBSVWxCajRZZmNTUUUwa21Dc0tOZFRXTzdNNnk2Mm5xRU02ck"
+    },
+    {
+      "title": "Tecnología satelital e inteligencia artificial podrían elevar hasta en 40% la extracción de oro en Chile - Revista Nueva Minería & Energía",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGN1NVV6bzRfeWhhWHV4cUZzWlFJOXZ0U0VmbnpKUVZMQnVEcXUzZXo1SkJQa3RNUm1vcW5YLUJHNnJlSkItTDZSVkU5c2xnSFc5ZWRpSGJScGNkdkNJdTBDQ1RxM05tX0tCdEFDMWpFRXdKNm5LZDUwbEtvWDFadWVnekpXNUJ2UGxVNUhQMnhYOHAtMkxuWTBjWjkwamEzWGlIVGlLY0RLVkl4M0RvQl9pSUtfTTloZzhORTcxaXdqLXRYcEFOczV3ZFFGeTAtUDVMSTdyUDY?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Mar 2026 14:07:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGN1NVV6bzRfeWhhWHV4cUZzWlFJOXZ0U0VmbnpKUVZMQnVEcXUzZXo1SkJQa3RNUm1vcW5YLUJHNnJlSkItTDZSVkU5c2xnSFc5ZWRpSGJScGNkdkNJdTBDQ1RxM05tX0tCdEFDMWpFRXdKNm5LZDUwbEtvWDFadWVnekpXNUJ2UGxVNUhQMnhYOHAtMkxuWTBjWjkwamEzWGlIVGlLY0RLVkl4M0RvQl9pSUtfTTloZz"
+    },
+    {
+      "title": "Solo el 30% de empresas domina IA: factores clave y soluciones - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUJpcEYyOFFzNmFGSkNXMWdOTEdnR0JBTDlRendYYWczNlR3OHEyM2w2NjUzb1M3Z1I3Y3A0b3VMZGJWLTB4QWFMS2J0TVppRXE0SWR2ZzBHOFl1WG80M3cyR05NX0xNbUNzQjZrSU51ekdOM3dIVU54OEoxMHJDNGVfc01pZkdURkxxVTg0VUhHRlBVTnc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Mar 2026 19:31:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUJpcEYyOFFzNmFGSkNXMWdOTEdnR0JBTDlRendYYWczNlR3OHEyM2w2NjUzb1M3Z1I3Y3A0b3VMZGJWLTB4QWFMS2J0TVppRXE0SWR2ZzBHOFl1WG80M3cyR05NX0xNbUNzQjZrSU51ekdOM3dIVU54OEoxMHJDNGVfc01pZkdURkxxVTg0VUhHRlBVTnc?oc=5\" target=\"_blank\">Solo el 30% de empresas "
     },
     {
       "title": "Santiago quiere liderar la IA del gallego y el portugués - Diario Compostela",
@@ -51,20 +75,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLXJrVDlsbVJDUERSZE9RUHNIaDBZWkxKVXIxUG5sUXAzbllDdzZBVzdtbml2SHZ6SEZOcFpoajBaRnRxLTdoTWs1aW9lOVBTWTBudVJ6NkZtclk0bDUxNVp3akFaYUh0Y18tNHVscVRMS3ZkcmVoSmpCQ1RiSWo0MTloU0NuRGYtQnMxVEw3YXBLR0ExOTRSNWxxTlJqLUJQamNTa1ZCTmhNajh3VXdrMGljRnB0eUxKYn"
     },
     {
-      "title": "La revolución de la Inteligencia Artificial - Espazo +60 Santiago - Afundación - Obra Social ABANCA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTVpcmU5emxPeldVT0FoU3NmT3JPQi0zb2Q3aFd0UFk5NDR0dVFGODVleGRFdUtESFBBcmI4U1pFdUNEVFdiOGJ6NXBXSmpFNEJmY3ZhUnZhdENienUybzAzMDU0X2czRmN0QXhUY3B4RTI3cHJ2VVhlLVhiTVlCa2l3U3dyZ0NoTi02YVVtSDc2dGF0aFFwUDFPOHlhejgtT3E1eUFPYjlLdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Mar 2026 11:59:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTVpcmU5emxPeldVT0FoU3NmT3JPQi0zb2Q3aFd0UFk5NDR0dVFGODVleGRFdUtESFBBcmI4U1pFdUNEVFdiOGJ6NXBXSmpFNEJmY3ZhUnZhdENienUybzAzMDU0X2czRmN0QXhUY3B4RTI3cHJ2VVhlLVhiTVlCa2l3U3dyZ0NoTi02YVVtSDc2dGF0aFFwUDFPOHlhejgtT3E1eUFPYjlLdw?oc=5\" target=\"_blan"
-    },
-    {
       "title": "Santiago Bilinkis, especialista en tecnología: \"Apoyarte en la IA y dejar de pensar por uno mismo tiene secuelas cognitivas importantes\" - adn40.mx",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamtSWWZfZnR3ZEVydzRyQVJreDRvT294Vnd3RWFDbGloSG1tSlB6Qkw0RTBQN0NFYVVPeTVpWjZfLS1PZWdwcVgtWmg0UE95aXdfT081alJ4azFrWjRIS0FmeHFzYTNIR3NtdFZkWXJYeWh2MVR5WTFTUEpabFAxQ0M1UmtCUzE4bnA0WHVkS0EzZnMxbEphbGZMMDBiV0VWWXlqNW5YWGdIOGhHQnJOdkZ6Nnp6cHZUQTZjTk5YVXg3cmZkQU1relNpRl8?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 05 Mar 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQamtSWWZfZnR3ZEVydzRyQVJreDRvT294Vnd3RWFDbGloSG1tSlB6Qkw0RTBQN0NFYVVPeTVpWjZfLS1PZWdwcVgtWmg0UE95aXdfT081alJ4azFrWjRIS0FmeHFzYTNIR3NtdFZkWXJYeWh2MVR5WTFTUEpabFAxQ0M1UmtCUzE4bnA0WHVkS0EzZnMxbEphbGZMMDBiV0VWWXlqNW5YWGdIOGhHQnJOdkZ6Nnp6cHZUQT"
+    },
+    {
+      "title": "Expertos alertan desde Santiago sobre la influencia de la IA en la polarización política global - Diario de Santiago",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLTF0YzZaVVdQaEoyUkpoaWxDRHlhcWs5eXM4Q0RYRTZlRV9fTmNUZmp6ci04eVV0MFZkNFVEUHd0bXpsbl8tVWtyb0lWTDR5QzlVRkNXdXREQnREeFZ6eE5CSy1xQ2FNcUJyYklYZFFvR3VUaTFDTHlEMGNGTXFIN0xDaWhaeE9JYUVya3lPNDVJeFJQSEViTGQ0aDdHbERYTVFxVUdSR3hkenFabHMtQXh5eWlLTEFvalhzdGlWNmcxb0hxMlUxcTZ2QzZWZWxXTG5r?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 09 Mar 2026 18:47:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLTF0YzZaVVdQaEoyUkpoaWxDRHlhcWs5eXM4Q0RYRTZlRV9fTmNUZmp6ci04eVV0MFZkNFVEUHd0bXpsbl8tVWtyb0lWTDR5QzlVRkNXdXREQnREeFZ6eE5CSy1xQ2FNcUJyYklYZFFvR3VUaTFDTHlEMGNGTXFIN0xDaWhaeE9JYUVya3lPNDVJeFJQSEViTGQ0aDdHbERYTVFxVUdSR3hkenFabHMtQXh5eWlLTEFval"
+    },
+    {
+      "title": "Start-Up Chile lanza su nueva generación con 70 emprendimientos tecnológicos de nueve países - Diario Sustentable",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkNQOXdRQzR3ZTY5d2RjNncwWC1iZ1otNUdlenRZTVoxVjk1UDYxZ2xfQkdMamhGX2tXTFFUb3F2UmdsZ1RLOTcwRWZnUmVfQXUwcFYxcGdmYTVXNWwtQ1poalJzMzBVVnNrUWtkX1U5Z0FWZkJkZlR3WnZtMDZzWjNYSGpiWjVoM25OWWpnLTdKbDQzX1didWZ5SVJBN0JiOGRWeGNwdVBkWktNQlVTcGJIcEZ6MVl5S3llSUZfUkZYRk03WjlIVE5uMm1hRVdU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Mar 2026 19:35:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbkNQOXdRQzR3ZTY5d2RjNncwWC1iZ1otNUdlenRZTVoxVjk1UDYxZ2xfQkdMamhGX2tXTFFUb3F2UmdsZ1RLOTcwRWZnUmVfQXUwcFYxcGdmYTVXNWwtQ1poalJzMzBVVnNrUWtkX1U5Z0FWZkJkZlR3WnZtMDZzWjNYSGpiWjVoM25OWWpnLTdKbDQzX1didWZ5SVJBN0JiOGRWeGNwdVBkWktNQlVTcGJIcEZ6MVl5S3"
     },
     {
       "title": "Start-Up Chile lanza aceleración para 64 startups tecnológicas - Ecosistema Startup",
@@ -81,38 +113,6 @@
       "category": "news",
       "published": "Thu, 19 Mar 2026 03:13:54 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQYmxyLURRNFRoQlE3RmhZRktweTVLMTFsUllNRl9oWEFVZGRQcnhudVBhWHpnT3dOM3VMSE5VNEdIV2FIREkyb2ptSlRReG83R3ZxUzVhYXFSVGhIYXN6REFxR2lwNTd6cXd0NjQ3ZmM1bkgxUWE1OUs2elJMRVhPRzhFM2h1SEFPcUtFclo5dTdiREVzaWw3dnpybmRWVWlpVnFKcFhUbHZkU2pMVFVkYlJadGN3NTBBa0"
-    },
-    {
-      "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - Infodefensa",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YXlEenBwNnpqcGdRS2VoZE4xQzlvTlFKbnhWTmhxOVNMS2xSQnYxaTRBbDlpWjQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
-    },
-    {
-      "title": "INNPACTA 2026: Convocatoria para Startups B2B en Chile - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWhNc2daUzJEam9qcGlXYml2eXYwUGNmVnpRcjVNTVJiMkJxanZya1lURWplaHFrRG14S25NNEV6b2JzbEg3eVhDTjVZMEl3bFQ3OU5aVzNSSWJxcTJiQnhMMDU5ODNub254XzdVLWgxdXBvaTQ3U18zMnp4MUtMQ2lNY1FpMEQ3SWdzdg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWhNc2daUzJEam9qcGlXYml2eXYwUGNmVnpRcjVNTVJiMkJxanZya1lURWplaHFrRG14S25NNEV6b2JzbEg3eVhDTjVZMEl3bFQ3OU5aVzNSSWJxcTJiQnhMMDU5ODNub254XzdVLWgxdXBvaTQ3U18zMnp4MUtMQ2lNY1FpMEQ3SWdzdg?oc=5\" target=\"_blank\">INNPACTA 2026: Convocatoria para Star"
-    },
-    {
-      "title": "Innovación pública y transformación digital: funcionarios de Chile visitaron la UNCUYO - Universidad Nacional de Cuyo",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3ZpWGxpX05pem9wQnB1cWg2b3Q5bTlGWmRiQU9XOTJOWl9wNVkwUl9kZWNkWW91YjF2WFUyZVEzeUdEMHY5SGlSampJMlVWUVc1S2dWR1pxeXZHT2tGNndZV2VBYW5rU3BuTVFwc3hSa1ZDZWx3UUltZnEzZjFmaUduSG1RVTRjRVU4aWhSMUVSbVJSY1NLMkZNT2lBOEJtNE12bXNJUG9Vc2VDRTktNmEyVVRYTjdFcWc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 18 Aug 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPM3ZpWGxpX05pem9wQnB1cWg2b3Q5bTlGWmRiQU9XOTJOWl9wNVkwUl9kZWNkWW91YjF2WFUyZVEzeUdEMHY5SGlSampJMlVWUVc1S2dWR1pxeXZHT2tGNndZV2VBYW5rU3BuTVFwc3hSa1ZDZWx3UUltZnEzZjFmaUduSG1RVTRjRVU4aWhSMUVSbVJSY1NLMkZNT2lBOEJtNE12bXNJUG9Vc2VDRTktNmEyVVRYTjdFcW"
-    },
-    {
-      "title": "Transformación digital en CorreosChile: innovación con propósito - EMB Gerencia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU9yWE02elp1YTZIeFRkWGlYMFB6WDEtVFpWUWxPQnRpNlp2TXhaQWZGLXZEZ3ZnUlVGT3cxZ3VqenZhRnRaODBIcHdCMU1Fb0tkM1owNlNfdTdXNUdKUFMzc0VQNllrcGZ1a0x1YlBGVElCS0RrbHotamdHQy1idzBsX2ZzdEE1ZjVWNHR4ZEN2Uy1aLXpkdVZaU2RGN0RxeExNU2dnZXpOWHNmcl9kVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQOU9yWE02elp1YTZIeFRkWGlYMFB6WDEtVFpWUWxPQnRpNlp2TXhaQWZGLXZEZ3ZnUlVGT3cxZ3VqenZhRnRaODBIcHdCMU1Fb0tkM1owNlNfdTdXNUdKUFMzc0VQNllrcGZ1a0x1YlBGVElCS0RrbHotamdHQy1idzBsX2ZzdEE1ZjVWNHR4ZEN2Uy1aLXpkdVZaU2RGN0RxeExNU2dnZXpOWHNmcl9kVQ?oc=5\" targe"
     }
   ],
   "count": 14
