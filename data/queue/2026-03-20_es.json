@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump ve bien retirarse de las bases de España y otros países de la OTAN que no colaboren en la seguridad de Ormuz",
+      "url": "https://elpais.com/internacional/2026-03-20/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Mar 2026 22:10:03 GMT",
+      "summary": "El presidente llama “cobardes” a los socios de la Alianza por no sumarse a la guerra contra Irán | El Reino Unido permite a EE UU usar sus bases militares contra emplazamientos de misiles iraníes que ataquen el estrecho"
+    },
+    {
       "title": "Sánchez destina 5.000 millones a paliar la subida de precios y concede a Sumar la congelación de alquileres tras su plante",
       "url": "https://elpais.com/espana/2026-03-20/el-gobierno-acuerda-dividir-las-medidas-contra-la-guerra-en-dos-decretos-para-salvar-la-crisis-entre-psoe-y-sumar.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Fri, 20 Mar 2026 13:40:19 GMT",
       "summary": "El Consejo de Ministros, que se paró más de dos horas por la crisis entre socios, aprueba dos textos: uno con la gran reducción de impuestos en energía y otro con las medidas que exigían los de Díaz"
+    },
+    {
+      "title": "¿Qué descuentos ha aprobado el Gobierno y cuándo se hacen efectivos?",
+      "url": "https://elpais.com/videos/2026-03-20/que-descuentos-ha-aprobado-el-gobierno-y-cuando-se-hacen-efectivos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Mar 2026 17:58:11 GMT",
+      "summary": "El escudo social acordado por el ejecutivo en dos reales decretos afectará a la factura de la luz, el gas, las empresas y, de aprobarse, también a los alquileres"
     },
     {
       "title": "El Gobierno baja al 10% el IVA de gasolina, gasóleo, luz y gas y da ayudas al combustible de los profesionales",
@@ -19,14 +35,6 @@
       "summary": "Entre las medidas aprobadas por el Ejecutivo también se encuentra la prohibición de despidos a empresas que reciban ayudas públicas y la suspensión del impuesto de producción eléctrica"
     },
     {
-      "title": "¿Qué descuentos ha aprobado el gobierno y cuándo se hacen efectivos?",
-      "url": "https://elpais.com/videos/2026-03-20/que-descuentos-ha-aprobado-el-gobierno-y-cuando-se-hacen-efectivos.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Mar 2026 17:58:11 GMT",
-      "summary": "El escudo social acordado por el ejecutivo en dos reales decretos afectará a la factura de la luz, el gas, las empresas y, de aprobarse, también a los alquileres"
-    },
-    {
       "title": "Así fue el pulso con el Consejo de Ministros paralizado: “Este plan tiene que salir sí o sí”",
       "url": "https://elpais.com/espana/2026-03-20/asi-fue-el-pulso-con-el-consejo-de-ministros-paralizado-este-plan-tiene-que-salir-si-o-si.html",
       "source": "El País Tecnología",
@@ -35,15 +43,7 @@
       "summary": "Sánchez y Díaz, con los ministros de Sumar delante, cerraron el acuerdo que evita la ruptura del Gobierno y permite a todos exhibir su triunfos políticos"
     },
     {
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump llama “cobardes” a los socios de la OTAN por no sumarse a la guerra contra Irán",
-      "url": "https://elpais.com/internacional/2026-03-20/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Mar 2026 18:34:03 GMT",
-      "summary": "EE UU planea desplegar miles de soldados más en Oriente Próximo | Muere el portavoz de la Guardia Revolucionaria de Irán en un ataque aéreo | El Reino Unido permite a EE UU usar sus bases militares contra emplazamientos de misiles iraníes que ataquen el estrecho de Ormuz"
-    },
-    {
-      "title": "Europa busca convertir talento e IA en una ventaja competitiva frente a EE.UU. y China - Euronews.com",
+      "title": "Europa busca convertir talento e IA en una ventaja competitiva frente a EE.UU. y China - Euronews",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSXBFZkZzSmNlVzcyeEd6OEt5Q3NxdUQ2SkV2LVl3cHA5UjlGS3JJUVdMdW43S19ocE5EXzR3ejhvRmhEVHhsX2xMcjZNYV90UzY2WXkwV1FxWm5wamJtNk1DWFBDYXhkeFVTQmNSVFg0SlJDN1NuakpxZHdtRVZxdEtIMjVQRVlHQy1DZzdUMVZSUHMxZVQ3ZC05ckwyWjY2bHo2N2JhQWFNYXhlMVkwTElvZDlqN0YybWxCWEJ6clpRdw?oc=5",
       "source": "Google News",
       "category": "news",
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBKV0VWWjhBczh3MklTUU1mZnNZREFldnJOWnJBYjdKdEgyR2JSNlJ4d1ljeURkTm5WdmlMZ1FxNDdncEZzeGhrWEUzZC1YME9aY3ZpQ0xQeUtOLTVuM0lKd3JwNkZQc0dKZDhsakVMU0dFV25BMWFsbEN30gF6QVVfeXFMT0c0Vmc1YkhjUjV2ZGhCWUQwX1hfSHJVTzZ4aGdVaERJYWdGQnpmX2oxdmU3c1hSNzFSTjNvTG"
     },
     {
-      "title": "La Inteligencia Artificial predijo el resultado de Manchester City vs. Real Madrid por la Champions League - bolavip.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQTFUbFpYbFdTWmtaWUcxRFFyU1hDcWIyaXQ0V0p4SmF5ZU8weFFzTXdXeU5UcEk2OExUU1FYTjd6dlJXQmptRlNFcWFTU3NtbEx3Q2xVU2ltVm5WX2tWSy12bWpqUmYyeEs5ekdkMi1nVXQ5aVh5Y0x6N0Q0SVNMWFAzN19lUmlRdExicnVZbnVhTE5ONmVSMEJ6VzY0a2NZaGwzejVKcEV2elhxRFdGQ0pCM2w5OUxLMDFBRm00bU9SanRJQUI3S0k4dTU2ZTF2M1FBYk1PS1RabWJTWkHSAeMBQVVfeXFMT1R4aUktdENpNnBjX0t0YUJxdTdRNFBXeHpRX2k2NTJLcXM1MlNnT3NCcGg5QV9BR0JkRWRhV0M3RHBtbGxDRGZtZmVjSnFxcm4xWk0xMDQ5OGdUUjJ5WGtkRkRlcExpbHotTHhlbWJuelRNX0RMamRQdThUT1Z0dWlOaHo2dkJYeERvcmxmQ0RrZVNzZmlHMlhFcjk5R2ZiYjJsODF4aU5QTDZ1X1hKZ2NyMFE5QWtDUzliRHFkRThubjVLMl9QcUJRcUZTSGNWcFhGLWdEell2cFZaR0Y2SlMzYWc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 17 Mar 2026 03:35:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQTFUbFpYbFdTWmtaWUcxRFFyU1hDcWIyaXQ0V0p4SmF5ZU8weFFzTXdXeU5UcEk2OExUU1FYTjd6dlJXQmptRlNFcWFTU3NtbEx3Q2xVU2ltVm5WX2tWSy12bWpqUmYyeEs5ekdkMi1nVXQ5aVh5Y0x6N0Q0SVNMWFAzN19lUmlRdExicnVZbnVhTE5ONmVSMEJ6VzY0a2NZaGwzejVKcEV2elhxRFdGQ0pCM2w5OUxLMD"
-    },
-    {
       "title": "La IA rediseña los estadios de Real Madrid, Barcelona, PSG, Benfica y muchos más con resultados espectaculares - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW9ka2NnU1k3NWd2Y05uR1ZmVnIteVBzTVNwX2hnQnk5aDFM0gHwAUFVX3lxTE9EaVVwS2ViZG9oSDI0enNpMFlVVkNTQlBWVGlrQzZBV0NqZmNSQVpXbzRfR0pabXlzc3NERXJEb2l6Mlg2R250R3VLMjJYNjhLNXIyLXFLWTVjY2tCWG42cktfbzdXN2l3dG5fX2VLOFlKQktLZDhyX21Fb0JfaGtxcFMzSUZQM2pJVUpmblJGOVhlT1pyLTRUTzRVbVBfVjN3UFJaWW81RXhCSHlyUlhXd2RtS0VlVDlhaDRoVjNKWnpmNzFFSWNOZHBSVDY0b3dhLWZCRTJUaGpBbkhMNlZjN0gzVEI1MUJ6eG9ZXzJrcA?oc=5",
       "source": "Google News",
@@ -91,6 +83,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi"
     },
     {
+      "title": "El IV Congreso Internacional de Compliance Officers llega a Madrid y Barcelona: IA, geopolítica y regulación empresarial - Confilegal",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWU5WFZCZkd5Ulc3ZnhBb0FOR0NvbjQ2SG9kcTcxYmotY3ZzZDZ1MTNIZV83ZGN1N0tkbnhnbTZkR2RWQkd1cDMxNTZvVldCeExfWlZTNE5rZEFQUW8yUmNxM00zSVFHZDZyWFdvSHhMMFhBRXRPNzlfMkRfMGNiblhDSWtxaUNWMDNiY0g4TXpTZkZWdWdUSXdyUGJVUldhVVZ1VkRBV2otUXlMdDFYVGplc3oybklQbDc4eEY2MmdrMUswNjBEX3lkNFNybG4yWVZweEF6QXh4cktGYXphaUJLRko1Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Mar 2026 04:49:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcWU5WFZCZkd5Ulc3ZnhBb0FOR0NvbjQ2SG9kcTcxYmotY3ZzZDZ1MTNIZV83ZGN1N0tkbnhnbTZkR2RWQkd1cDMxNTZvVldCeExfWlZTNE5rZEFQUW8yUmNxM00zSVFHZDZyWFdvSHhMMFhBRXRPNzlfMkRfMGNiblhDSWtxaUNWMDNiY0g4TXpTZkZWdWdUSXdyUGJVUldhVVZ1VkRBV2otUXlMdDFYVGplc3oybklQbD"
+    },
+    {
       "title": "Manfacter seleccionada por Nvidia: aceleración global IA para startups - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWpaZktUQ3F4RHFaXzNqTUE4bjNIM09aR2VMb2pFVmhFTkwzYVpTQ1VGam02UmhrdjhVRWQ3amFGRmpMRVlTLU9aUTBNbzVEV01HM1llLXlDQnNqcWhtYnpKQlVXLTNTVVFEU1RGWTEyV1VpeFhZUE44d3JYenRPQ0YwX2ZCd0picFBFZmN1dlRkVDV4Q253M1dicm40bEg3UGc?oc=5",
       "source": "Google News",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWpaZktUQ3F4RHFaXzNqTUE4bjNIM09aR2VMb2pFVmhFTkwzYVpTQ1VGam02UmhrdjhVRWQ3amFGRmpMRVlTLU9aUTBNbzVEV01HM1llLXlDQnNqcWhtYnpKQlVXLTNTVVFEU1RGWTEyV1VpeFhZUE44d3JYenRPQ0YwX2ZCd0picFBFZmN1dlRkVDV4Q253M1dicm40bEg3UGc?oc=5\" target=\"_blank\">Manfacte"
     },
     {
-      "title": "España impulsa la soberanía tecnológica con satélites militares VLEO - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVhkdklhUDhYUzVOTldKSXRyNnhDRmpjQThTWTJYX0Mzb2xNdER2NjNJMjBGaF93SDg2UXZ4MFMtUk1kNzlFQmhnMWNMRFpmSmZrVUtyb3JXZFJrUm11SXZIblJGdzRFdURQZUU5ZkVwUEoxM1MxdEozYld0S1c1UGE3OVR3TTk0QnppeEQtQ19NcXl5bHdtbDBmd0QxLTE5?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 20 Mar 2026 17:37:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVhkdklhUDhYUzVOTldKSXRyNnhDRmpjQThTWTJYX0Mzb2xNdER2NjNJMjBGaF93SDg2UXZ4MFMtUk1kNzlFQmhnMWNMRFpmSmZrVUtyb3JXZFJrUm11SXZIblJGdzRFdURQZUU5ZkVwUEoxM1MxdEozYld0S1c1UGE3OVR3TTk0QnppeEQtQ19NcXl5bHdtbDBmd0QxLTE5?oc=5\" target=\"_blank\">España impu"
-    },
-    {
       "title": "La Comunidad de Madrid señala a las startups de salud madrileñas como el motor de la innovación tecnológica en España - Revista Pharma Market",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUxLWVNrQWhfRldsX29jX2Q0aE0wZGRuYXpsUHZWcFQyLXRLWExnQ3FGQUxEdm1EcUszSXdaQVROSTJiM0FiekNzSDJTbjMtVndKYkJCcklNUGx2ek42anZneE1zQVpSWjZ4WkRnb0tFVDNCLU13U1A3c3ktb1pJLTh2TWoxLTlhX3dBZVlWRTFHRE1zNEFlQ3EyXzRTZ2tKX2g3RTlSVkx6TVIxR05lQ3E4WXhVeDdCM2czMXdGMEdHalVPLTNJVjh4RGcxbEp6U1FEbTl0T0twbHRuNWhOX2p4ZVJMWF9zNm12Yw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 18 Mar 2026 11:02:49 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZUxLWVNrQWhfRldsX29jX2Q0aE0wZGRuYXpsUHZWcFQyLXRLWExnQ3FGQUxEdm1EcUszSXdaQVROSTJiM0FiekNzSDJTbjMtVndKYkJCcklNUGx2ek42anZneE1zQVpSWjZ4WkRnb0tFVDNCLU13U1A3c3ktb1pJLTh2TWoxLTlhX3dBZVlWRTFHRE1zNEFlQ3EyXzRTZ2tKX2g3RTlSVkx6TVIxR05lQ3E4WXhVeDdCM2"
+    },
+    {
+      "title": "España impulsa la soberanía tecnológica con satélites militares VLEO - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVhkdklhUDhYUzVOTldKSXRyNnhDRmpjQThTWTJYX0Mzb2xNdER2NjNJMjBGaF93SDg2UXZ4MFMtUk1kNzlFQmhnMWNMRFpmSmZrVUtyb3JXZFJrUm11SXZIblJGdzRFdURQZUU5ZkVwUEoxM1MxdEozYld0S1c1UGE3OVR3TTk0QnppeEQtQ19NcXl5bHdtbDBmd0QxLTE5?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 20 Mar 2026 17:37:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVhkdklhUDhYUzVOTldKSXRyNnhDRmpjQThTWTJYX0Mzb2xNdER2NjNJMjBGaF93SDg2UXZ4MFMtUk1kNzlFQmhnMWNMRFpmSmZrVUtyb3JXZFJrUm11SXZIblJGdzRFdURQZUU5ZkVwUEoxM1MxdEozYld0S1c1UGE3OVR3TTk0QnppeEQtQ19NcXl5bHdtbDBmd0QxLTE5?oc=5\" target=\"_blank\">España impu"
     }
   ],
   "count": 14
