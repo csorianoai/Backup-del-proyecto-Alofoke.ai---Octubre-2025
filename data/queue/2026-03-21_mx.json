@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Fiscalía de París sospecha que Musk fomentó 'deepfakes' para aumentar el valor de X",
+      "url": "https://expansion.mx/tecnologia/2026/03/21/fiscalia-de-paris-sospecha-que-musk-fomento-deepfakes-para-aumentar-el-valor-de-x",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 21 Mar 2026 16:17:36 GMT",
+      "summary": "La  Fiscalía aseguró que la política de deepfakes habría ocurrido de esa forma ante la inminente salida a bolsa en junio de este año de la nueva entidad creada por la fusión entre SpaceX y X AI."
+    },
+    {
       "title": "Elon Musk engañó a los accionistas de Twitter, determina un jurado en EU",
       "url": "https://expansion.mx/tecnologia/2026/03/20/elon-musk-engana-a-los-accionistas-de-twitter",
       "source": "Expansión Tecnología",
@@ -35,12 +43,20 @@
       "summary": "El avance de las imágenes hechas con IA no se detiene y ante las posibilidades de fraude y desinformación, la industria fotográfica responde con funciones para atacarlas desde el origen."
     },
     {
-      "title": "Uber nombra nuevo director en México",
-      "url": "https://expansion.mx/tecnologia/2026/03/19/uber-nuevo-director-en-mexico-antesala-mundial-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Mar 2026 18:04:12 GMT",
-      "summary": "La compañía reconfiguró su liderazgo en el país en un momento clave para la movilidad urbana y el turismo, con la Copa del Mundo como catalizador de demanda."
+      "title": "México se une al Día de la Inteligencia Artificial en Educación - noticiasneo.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1kyVFlfdjFBVDVmNGpudkI1Sm56TWRPZGxaSU5pZml1cG9YNDJ6M0ozeHBzVzNibnhudkhIWjJMRzNXTEVYaS1ObmI5NE9fZXp5WlBBcTJ0ZXpMa0Eya3dqVGxMUUh5eXlyTHlVdURXeUdaLW01ZXdiNkpuZDllMUMzMnpqS2J2c296ZmtPeVAzaDVEcXZ0TE5hSGgyOWVGcWFmWVQ2dmd5S1JZNkxR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Mar 2026 20:19:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1kyVFlfdjFBVDVmNGpudkI1Sm56TWRPZGxaSU5pZml1cG9YNDJ6M0ozeHBzVzNibnhudkhIWjJMRzNXTEVYaS1ObmI5NE9fZXp5WlBBcTJ0ZXpMa0Eya3dqVGxMUUh5eXlyTHlVdURXeUdaLW01ZXdiNkpuZDllMUMzMnpqS2J2c296ZmtPeVAzaDVEcXZ0TE5hSGgyOWVGcWFmWVQ2dmd5S1JZNkxR?oc=5\" target="
+    },
+    {
+      "title": "UNAM crea Consejo Coordinador de Inteligencia Artificial para fortalecer innovación y ética tecnológica - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHV1YkNUalF1dzhvVWt4VjZBN3h0dHprbEZBRENWVlBGa0t0NTZsanN4TUNMcUZGODVWT3NyMGYtX2dWZG1naVhKZ1lWZjgxNnNrY0ktUW94SDhFZEF1THFRWmstRXJFMWNtbHQ2dGZrNGxIaFJlMk1iQWRTbFdyTndqNGM5elhIRFdpVURUZ20ydmtLOVg4YmRaVE50MldhT3ZCajZQdC1uMEREY3hIaVI0R0ktZUpPbG8zXzNkZ25MTmNCYlVKUzF4NlRhMmo1N3dDVFZobFhtY1kyRlNV0gH6AUFVX3lxTE4tTlNTUlJhTGdwNi0walNwUDNKZ0N6Q0lWRDNuWm03Qy1BQkw2OFlPdTY0c05rMENGU1QwM0lPcmNWNXNpeElQbWJXQm95LVdCSDRjR1JuLVFBWEhzZHhrUFJmUV9HbEEyNTV0cTdqMExGVzVyMEl3SUstaEZHNU5pZUI5dVUxOVJsaUcwZTBISjdSWFI2cXJ6U0JfQTFqOHY0WlktOVN6VnJSaXFIZ25BZVRJRFpjWkJoRTgwUHphcktVd19abDluQkJhR2N3SEFVV0dkOG5xTFBRR0c0YWJ3TmtjekQxRXYzQkxqUVgyOEdScmczSVRlTkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Mar 2026 20:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHV1YkNUalF1dzhvVWt4VjZBN3h0dHprbEZBRENWVlBGa0t0NTZsanN4TUNMcUZGODVWT3NyMGYtX2dWZG1naVhKZ1lWZjgxNnNrY0ktUW94SDhFZEF1THFRWmstRXJFMWNtbHQ2dGZrNGxIaFJlMk1iQWRTbFdyTndqNGM5elhIRFdpVURUZ20ydmtLOVg4YmRaVE50MldhT3ZCajZQdC1uMEREY3hIaVI0R0ktZUpPbG"
     },
     {
       "title": "De chatbots a decisiones autónomas: así funciona el modelo AI First en América Latina - ITSitio",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Fri, 20 Mar 2026 20:50:16 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW1vZ1h2WVlNWjl6WmFqd19pcVJmYzM2YU4xUWFKZUtSajNMLXZDX09kQWZINDd3ZlQwcllTc09YVnU2OElyaWhwc3J5QzMyVHZCSFcyQ2lVaHJ3ci0wUVRQdWxUcHNfeENBRmJqc1BkbkExZ3F4SnU2RklFUE9MUEVwaVItQzFhY2k3LVNUVEZGQ0F4dVhnTTRWeWVXTElHdkZiTzhVNXFNTmlkTWlMWF9uaU9menBZZ0"
-    },
-    {
-      "title": "Video de mujer asoléandose en Palacio Nacional pudo haberse creado con IA, afirma Infodemia - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ29qcEdiRmEtWk92bEZybGQwTWZRdlo4dm42UmJsNkktdGo1M18wWHhSU0tGbFh3RFd4UUpmcndHNG9SckRLdHYzeFJxS1lnME44amFHcEQ4Xy1MMENkTjZ2MkU2b2JHcUhtTXRrTkRla1dDYjl4aTZJRWdTVThza3pwUVVlY29EcXF2S3BJcVY0WmhDQ1JBWEd5U2hFdmNUZ3BUVm9mZHlHaElhSWVxTTdGWEZRT0EydnU0R29QSVlBcThicEp5SXVDRzczd9IB6AFBVV95cUxOT3pTNXJUUUdFV194SVJfLV96RGlRWEhmbmlxWndpNFFqNHk4NXo5ZkhMM3FsSnlUbUJQVGNYWjZRVXNWUGM3U0E1ZHNudDZBRUNsYTQ2QmxqbVNON2NYNmk4dGluYjZ5c1cxd1hHdFhUdUdjR2hUckNBQmRpYm9CNlh5NTRyVE5vaWI3bE9ZMTd2Q0Iyb19yVlgxN0M4Q0I2a2hnb2RUOXdQNXN2SV9wa29KVjZYTl9xcmR0dVdPbkN1cEVhZEVfUmF5VUNtY1F5cE52NnZ2elkxNENiN3hIWW1XaFZxVjF5?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 20 Mar 2026 20:52:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ29qcEdiRmEtWk92bEZybGQwTWZRdlo4dm42UmJsNkktdGo1M18wWHhSU0tGbFh3RFd4UUpmcndHNG9SckRLdHYzeFJxS1lnME44amFHcEQ4Xy1MMENkTjZ2MkU2b2JHcUhtTXRrTkRla1dDYjl4aTZJRWdTVThza3pwUVVlY29EcXF2S3BJcVY0WmhDQ1JBWEd5U2hFdmNUZ3BUVm9mZHlHaElhSWVxTTdGWEZRT0Eydn"
-    },
-    {
-      "title": "México se une al Día de la Inteligencia Artificial en Educación - noticiasneo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1kyVFlfdjFBVDVmNGpudkI1Sm56TWRPZGxaSU5pZml1cG9YNDJ6M0ozeHBzVzNibnhudkhIWjJMRzNXTEVYaS1ObmI5NE9fZXp5WlBBcTJ0ZXpMa0Eya3dqVGxMUUh5eXlyTHlVdURXeUdaLW01ZXdiNkpuZDllMUMzMnpqS2J2c296ZmtPeVAzaDVEcXZ0TE5hSGgyOWVGcWFmWVQ2dmd5S1JZNkxR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 19 Mar 2026 20:19:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1kyVFlfdjFBVDVmNGpudkI1Sm56TWRPZGxaSU5pZml1cG9YNDJ6M0ozeHBzVzNibnhudkhIWjJMRzNXTEVYaS1ObmI5NE9fZXp5WlBBcTJ0ZXpMa0Eya3dqVGxMUUh5eXlyTHlVdURXeUdaLW01ZXdiNkpuZDllMUMzMnpqS2J2c296ZmtPeVAzaDVEcXZ0TE5hSGgyOWVGcWFmWVQ2dmd5S1JZNkxR?oc=5\" target="
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
