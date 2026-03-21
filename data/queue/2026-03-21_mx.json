@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Fiscalía de París sospecha que Musk fomentó 'deepfakes' para aumentar el valor de X",
-      "url": "https://expansion.mx/tecnologia/2026/03/21/fiscalia-de-paris-sospecha-que-musk-fomento-deepfakes-para-aumentar-el-valor-de-x",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 21 Mar 2026 16:17:36 GMT",
-      "summary": "La  Fiscalía aseguró que la política de deepfakes habría ocurrido de esa forma ante la inminente salida a bolsa en junio de este año de la nueva entidad creada por la fusión entre SpaceX y X AI."
-    },
-    {
-      "title": "Elon Musk engañó a los accionistas de Twitter, determina un jurado en EU",
-      "url": "https://expansion.mx/tecnologia/2026/03/20/elon-musk-engana-a-los-accionistas-de-twitter",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 21 Mar 2026 00:10:18 GMT",
-      "summary": "Un jurado federal determina que Elon Musk engañó a los accionistas de Twitter al criticar a la red social cuando estaba a punto de comprarla por 44,000 millones de dólares."
-    },
-    {
       "title": "La industria musical quiere ponerle precio, permiso y límites a la IA",
       "url": "https://expansion.mx/tecnologia/2026/03/20/industria-musical-quiere-poner-limites-ia",
       "source": "Expansión Tecnología",
@@ -43,28 +27,52 @@
       "summary": "El avance de las imágenes hechas con IA no se detiene y ante las posibilidades de fraude y desinformación, la industria fotográfica responde con funciones para atacarlas desde el origen."
     },
     {
-      "title": "México se une al Día de la Inteligencia Artificial en Educación - noticiasneo.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1kyVFlfdjFBVDVmNGpudkI1Sm56TWRPZGxaSU5pZml1cG9YNDJ6M0ozeHBzVzNibnhudkhIWjJMRzNXTEVYaS1ObmI5NE9fZXp5WlBBcTJ0ZXpMa0Eya3dqVGxMUUh5eXlyTHlVdURXeUdaLW01ZXdiNkpuZDllMUMzMnpqS2J2c296ZmtPeVAzaDVEcXZ0TE5hSGgyOWVGcWFmWVQ2dmd5S1JZNkxR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 19 Mar 2026 20:19:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1kyVFlfdjFBVDVmNGpudkI1Sm56TWRPZGxaSU5pZml1cG9YNDJ6M0ozeHBzVzNibnhudkhIWjJMRzNXTEVYaS1ObmI5NE9fZXp5WlBBcTJ0ZXpMa0Eya3dqVGxMUUh5eXlyTHlVdURXeUdaLW01ZXdiNkpuZDllMUMzMnpqS2J2c296ZmtPeVAzaDVEcXZ0TE5hSGgyOWVGcWFmWVQ2dmd5S1JZNkxR?oc=5\" target="
+      "title": "Uber nombra nuevo director en México",
+      "url": "https://expansion.mx/tecnologia/2026/03/19/uber-nuevo-director-en-mexico-antesala-mundial-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Mar 2026 18:04:12 GMT",
+      "summary": "La compañía reconfiguró su liderazgo en el país en un momento clave para la movilidad urbana y el turismo, con la Copa del Mundo como catalizador de demanda."
     },
     {
-      "title": "UNAM crea Consejo Coordinador de Inteligencia Artificial para fortalecer innovación y ética tecnológica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHV1YkNUalF1dzhvVWt4VjZBN3h0dHprbEZBRENWVlBGa0t0NTZsanN4TUNMcUZGODVWT3NyMGYtX2dWZG1naVhKZ1lWZjgxNnNrY0ktUW94SDhFZEF1THFRWmstRXJFMWNtbHQ2dGZrNGxIaFJlMk1iQWRTbFdyTndqNGM5elhIRFdpVURUZ20ydmtLOVg4YmRaVE50MldhT3ZCajZQdC1uMEREY3hIaVI0R0ktZUpPbG8zXzNkZ25MTmNCYlVKUzF4NlRhMmo1N3dDVFZobFhtY1kyRlNV0gH6AUFVX3lxTE4tTlNTUlJhTGdwNi0walNwUDNKZ0N6Q0lWRDNuWm03Qy1BQkw2OFlPdTY0c05rMENGU1QwM0lPcmNWNXNpeElQbWJXQm95LVdCSDRjR1JuLVFBWEhzZHhrUFJmUV9HbEEyNTV0cTdqMExGVzVyMEl3SUstaEZHNU5pZUI5dVUxOVJsaUcwZTBISjdSWFI2cXJ6U0JfQTFqOHY0WlktOVN6VnJSaXFIZ25BZVRJRFpjWkJoRTgwUHphcktVd19abDluQkJhR2N3SEFVV0dkOG5xTFBRR0c0YWJ3TmtjekQxRXYzQkxqUVgyOEdScmczSVRlTkE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 18 Mar 2026 20:44:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbHV1YkNUalF1dzhvVWt4VjZBN3h0dHprbEZBRENWVlBGa0t0NTZsanN4TUNMcUZGODVWT3NyMGYtX2dWZG1naVhKZ1lWZjgxNnNrY0ktUW94SDhFZEF1THFRWmstRXJFMWNtbHQ2dGZrNGxIaFJlMk1iQWRTbFdyTndqNGM5elhIRFdpVURUZ20ydmtLOVg4YmRaVE50MldhT3ZCajZQdC1uMEREY3hIaVI0R0ktZUpPbG"
+      "title": "Nothing lanza Phone 4a Pro en México para dejar de ser marca de nicho",
+      "url": "https://expansion.mx/tecnologia/2026/03/19/nothing-lanza-phone-4a-pro-en-mexico-para-dejar-de-ser-marca-de-nicho",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 19 Mar 2026 18:00:52 GMT",
+      "summary": "Con menos del 1% de participación, la firma apuesta por diseño y software para crecer en el competido segmento de gama media. Además, no descarta la posibilidad de abrir una tienda en el país."
     },
     {
-      "title": "De chatbots a decisiones autónomas: así funciona el modelo AI First en América Latina - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW1vZ1h2WVlNWjl6WmFqd19pcVJmYzM2YU4xUWFKZUtSajNMLXZDX09kQWZINDd3ZlQwcllTc09YVnU2OElyaWhwc3J5QzMyVHZCSFcyQ2lVaHJ3ci0wUVRQdWxUcHNfeENBRmJqc1BkbkExZ3F4SnU2RklFUE9MUEVwaVItQzFhY2k3LVNUVEZGQ0F4dVhnTTRWeWVXTElHdkZiTzhVNXFNTmlkTWlMWF9uaU9menBZZ0JBMnRlSlNXS3p0bUhadHg1YkRKNWR4alE?oc=5",
+      "title": "Alejandra Vera habla de “IA: Instrucciones para un ascenso”, la obra de teatro sobre Inteligencia Artificial y el mundo “godín” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ1Zma0ktT0tCLXV5dXhDTTVtUFNtWmlVZnYwYVZyc1hiSldOUkdnaW84TU8xLVpDb1dpWWt5MUpSQllnTlRRWWdaNmxvWm9CQWpiS2ZXMVR6bWVpZ2ZpWHUwTVltdWl1UUFxRGNkRnhMaTNoRWt4d0ZYSGRHbGtXcnRsSnZUWjJvMEFZQy04dVlRbXk5QzNyOF83MnlSaG15RENQRjloMFM5LTZjX3h5d2dMekp5QXhpeG8zS1lzeTVrdVRGZEhLQjJRRW5kdnNhOWtRcjJPZktoVHlZMVoyTGNGbGw2Sk11Y3hxLTdTdlFYQkhGdVpz0gGSAkFVX3lxTFByQ3FBbnpJTDNBVDVqRDBkUko5SEVFczFNSWNHUmdqVFNraHBGS3NBdU4ydHlEazZIbkE4UTdmVzlYU1BJV1pEV0VlMS1ULXNjRUw1ZDJuTXA5d2xDOEJVbTRMQWFuQTB0dnc5LWJqYTVpaXRiVG1GQk5xc2FPOFR2WVhvS2Y1UlhNbXNmQ1lBT3p4c256T0dPc1VieVhNQ0dKSGVyQVV4MGRXaDZsSjBIVG8tZXk5dmNrMWNNbU5LaE5IT2NiTzI2algwU3NJN2lrY09rMnlJVGdSaVpxUXdXbnV0S1BKbG9aakJpd0FzNXllWmduRzc2RG1HaU9ZYW1qSThwYnpDMzhjZWpnVUcyeEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 20 Mar 2026 20:50:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW1vZ1h2WVlNWjl6WmFqd19pcVJmYzM2YU4xUWFKZUtSajNMLXZDX09kQWZINDd3ZlQwcllTc09YVnU2OElyaWhwc3J5QzMyVHZCSFcyQ2lVaHJ3ci0wUVRQdWxUcHNfeENBRmJqc1BkbkExZ3F4SnU2RklFUE9MUEVwaVItQzFhY2k3LVNUVEZGQ0F4dVhnTTRWeWVXTElHdkZiTzhVNXFNTmlkTWlMWF9uaU9menBZZ0"
+      "published": "Sat, 21 Mar 2026 22:10:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZ1Zma0ktT0tCLXV5dXhDTTVtUFNtWmlVZnYwYVZyc1hiSldOUkdnaW84TU8xLVpDb1dpWWt5MUpSQllnTlRRWWdaNmxvWm9CQWpiS2ZXMVR6bWVpZ2ZpWHUwTVltdWl1UUFxRGNkRnhMaTNoRWt4d0ZYSGRHbGtXcnRsSnZUWjJvMEFZQy04dVlRbXk5QzNyOF83MnlSaG15RENQRjloMFM5LTZjX3h5d2dMekp5QXhpeG"
+    },
+    {
+      "title": "México: evaluación del estadio de preparación de la inteligencia artificial - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5\" target=\""
+    },
+    {
+      "title": "El dilema oculto de la inteligencia artificial legal en México que podría disparar el consumo de agua - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTHpxNVQ0SFhhdzBuUkhWS3JqRWRSdjNlWTBzSXh2Ujg2Z2pOWUxZaGVMNGl6cGhaSmw5LWFBbWRIanpYeTExWlJXRTh3NUxaM1J3ZEVaNzQyRHZKamFtOUJuNjBLWmZsUEYwTWx3Q1QxWk0tcHBhSzI1Tk50UFJLSzdWRk00aEotcUlrVHNodGl4LTkxVnFuZVFpcFNUTnZ4QkJzc1F0WXpZenBIMDlZTkl5TGFGc3R1SlVGV04xYnp6MG9XZG16TkhJRGI1Xy1ULU1Famd0VE5uZE5jRGlzUndqNmFaWFHSAYICQVVfeXFMUEZHaXFrZTJlYV9hY01fNFFyUmN3ZDhMWkZSWXN5NTc2VENVSDdLOXU2eUdlRmQzYm9lVDctMFVydE95WDhqSEU4UkFxeFVZLUJlNDU4UFk1MTF5MVp2NWNvVWx4VG1TTVVNendUWnY3TmZnUm8wUUdCbm1ES3RMY0FtdEo5U0hLYTJFdjhGWTNHVE1iV05pQmNrUW53M2NwYzJ5SGR3LUljQTVUQVdLR2lhVXNDX0NmUllwbVJDYnBCZmZ6UTVLM2ZMLWZKWlpKbmpFSjJSdHZKZUtXTVM5NEZuWlIzSjFpdlRRcGRhaUtES0ZVLXZXVkRtbUVobDZtVi1R?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Mar 2026 12:00:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTHpxNVQ0SFhhdzBuUkhWS3JqRWRSdjNlWTBzSXh2Ujg2Z2pOWUxZaGVMNGl6cGhaSmw5LWFBbWRIanpYeTExWlJXRTh3NUxaM1J3ZEVaNzQyRHZKamFtOUJuNjBLWmZsUEYwTWx3Q1QxWk0tcHBhSzI1Tk50UFJLSzdWRk00aEotcUlrVHNodGl4LTkxVnFuZVFpcFNUTnZ4QkJzc1F0WXpZenBIMDlZTkl5TGFGc3R1Sl"
+    },
+    {
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
@@ -75,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture capit"
     },
     {
-      "title": "Cumple Ley Fintech 8 años con 795 startups y auge de inteligencia artificial - NotiPress",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjFGakZpVE9MQno4cTV5SW5vanlmOXIwYTVnM1pnODlwZWJmOERTWU9fX1JQcUxyeTM0SVgzeUdobjRWREJHNjRfcW9IdWRidHB6RlB4bnR1MG5jODQ0NmwyRks4d3I3VW1HcEk1RW44aXM5RERuaFB5dW53ZWtKRldOM0dBOVhOejhkTXlkSFdnWDc3NGNDSFFKQl90RHB4T1FBZndB0gGrAUFVX3lxTFBXbW9MeVFtazhnNjVTYnFid3YtNmQ1NEktLTRqZy1HNUNaRktkeXFuRExJWGZ2TUNvQWlNOWU2QkRnbVF4NVlTelhkbHBhbFZfaHlwc0cxTW9wRUdNOVk4YjladDIydUhSZzRqck9taUNJRUtBS1ZSUk1lc3VRamw1UUJEZ2Z4NDU4S3NMYUlzSjNiSjlwc3ctVGdpRUtmV0hOMjZfNTJWYjB0bw?oc=5",
+      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 26 Feb 2026 14:43:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjFGakZpVE9MQno4cTV5SW5vanlmOXIwYTVnM1pnODlwZWJmOERTWU9fX1JQcUxyeTM0SVgzeUdobjRWREJHNjRfcW9IdWRidHB6RlB4bnR1MG5jODQ0NmwyRks4d3I3VW1HcEk1RW44aXM5RERuaFB5dW53ZWtKRldOM0dBOVhOejhkTXlkSFdnWDc3NGNDSFFKQl90RHB4T1FBZndB0gGrAUFVX3lxTFBXbW9MeVFtaz"
-    },
-    {
-      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
       "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
