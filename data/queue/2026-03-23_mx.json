@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Combatir 4.5 millones de ataques por hora: el reto del nuevo VP de Cloudflare",
+      "url": "https://expansion.mx/tecnologia/2026/03/23/combatir-4-5-millones-de-ataques-por-hora-el-reto-del-nuevo-vp-de-cloudflare",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Mar 2026 18:00:06 GMT",
+      "summary": "El nuevo vicepresidente para Latinoamérica de Cloudflare, Bert Milán,  enfrenta el reto de proteger a las empresas en un entorno donde la IA es un arma de doble filo."
+    },
+    {
+      "title": "Muere el dueño de OnlyFans, Leonid Radvinsky",
+      "url": "https://expansion.mx/tecnologia/2026/03/23/muere-el-dueno-de-onlyfans-leonid-radvinsky",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Mar 2026 15:47:24 GMT",
+      "summary": "La muerte de Radvinsky deja incertidumbre sobre el futuro de OnlyFans, tras consolidar un modelo de suscripción que redefinió la economía de creadores entre rentabilidad y controversia."
+    },
+    {
       "title": "Nvidia apuesta a los robots como el próximo gran negocio de la IA",
       "url": "https://expansion.mx/tecnologia/2026/03/23/nvidia-apuesta-a-los-robots-como-el-proximo-gran-negocio-de-la-ia",
       "source": "Expansión Tecnología",
@@ -27,20 +43,20 @@
       "summary": "Un jurado federal determina que Elon Musk engañó a los accionistas de Twitter al criticar a la red social cuando estaba a punto de comprarla por 44,000 millones de dólares."
     },
     {
-      "title": "La industria musical quiere ponerle precio, permiso y límites a la IA",
-      "url": "https://expansion.mx/tecnologia/2026/03/20/industria-musical-quiere-poner-limites-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Mar 2026 20:00:46 GMT",
-      "summary": "Sir Lucian Grainge, CEO de Universal Music Group, habló con Richard Kerris, vicepresidente de Nvidia sobre el futuro de esta tecnología en la música."
+      "title": "Ciberataques e inteligencia artificial: el reto digital en México - Grupo en Concreto",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJtR29mR2wtSDViczNobGVrVHcxcXpkZ0N0TzkyeWtWMmhQaFVZWTVTakRWOVE4Yzg1Tm50TkxYdkJsN3FtODJLMm5DRGFXR04wNXFTUGdldzdaQU5KUVBlMERJM3pxTTJUNnU3eHZxRkliRUtNU2dFbHZZb1p2dU9FMkU2RlFDWFhOdm1wSExZNUplcHpKeEd6RHBKSEY3bi0xRHFiRlNVZTZUWkpsU0ln?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Mar 2026 17:54:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJtR29mR2wtSDViczNobGVrVHcxcXpkZ0N0TzkyeWtWMmhQaFVZWTVTakRWOVE4Yzg1Tm50TkxYdkJsN3FtODJLMm5DRGFXR04wNXFTUGdldzdaQU5KUVBlMERJM3pxTTJUNnU3eHZxRkliRUtNU2dFbHZZb1p2dU9FMkU2RlFDWFhOdm1wSExZNUplcHpKeEd6RHBKSEY3bi0xRHFiRlNVZTZUWkpsU0ln?oc=5\" tar"
     },
     {
-      "title": "Hackeos, evasión y decisiones propias: agentes de IA ya operan solos y es cada vez más difícil entenderlos",
-      "url": "https://expansion.mx/tecnologia/2026/03/20/agentes-de-ia-operan-solos-y-es-dificil-entenderlos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Mar 2026 16:03:20 GMT",
-      "summary": "Sistemas capaces de planear, ejecutar acciones y modificar su conducta sin supervisión directa ya encendieron alertas entre expertos, gobiernos y laboratorios de IA."
+      "title": "La inteligencia artificial ayuda a México a manejar la escasez de agua - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTgwcHFLdTdHRU5qRENnMndFelA3Vkp6UzhnSEpnVE9hWlVzSS0xcHROcThiSnQ5aHo2Q1hXZG5nMUF0UWFMZ1A3bTBXS3Q5WWVsLXFxSS02X2ZTNldzVkRRVmpPNnJ2TkJJLVdDUVRNc3NTN2FTMHVoWjVDbHBXNFM2ZkVwNjdhY1lnLW92QnFsaXJo0gGUAUFVX3lxTE5pZVMyTmtuQXdPTzFycTgtMnZRUExWendIdWs1Yy1FUG15TDZqR1pCa1JKdFVfb0xEQU5KajJGWm5UOE96Mzh1Y0gtdGR3SktBN3d3akNWQ29xZ2JXMkVMN19wOERZU2RPaGlQVGRnbFZ3QjZfZE1DT0pRc1pvcDRxWmg3U29yTzA3NklCTXBidWtVTko?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Mar 2026 16:38:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTgwcHFLdTdHRU5qRENnMndFelA3Vkp6UzhnSEpnVE9hWlVzSS0xcHROcThiSnQ5aHo2Q1hXZG5nMUF0UWFMZ1A3bTBXS3Q5WWVsLXFxSS02X2ZTNldzVkRRVmpPNnJ2TkJJLVdDUVRNc3NTN2FTMHVoWjVDbHBXNFM2ZkVwNjdhY1lnLW92QnFsaXJo0gGUAUFVX3lxTE5pZVMyTmtuQXdPTzFycTgtMnZRUExWendIdW"
     },
     {
       "title": "Empresa de IA levanta millones de inversionistas mexicanos y pone a México en el centro de su expansión - El Cronista",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Mon, 23 Mar 2026 12:00:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeUI4YVk5U3ZYMW11T1BZVkV2Ujl2LUFzdjVnZDBLcjZrRGVPRXpydE5sQXh2N3lfTjYxVEtWT1FuV0R4Rmp3MkotTU5BSG5qaEU5ZzJqSDd5NzJ5WDVpQVdZbUFtVll2V0VIQlNja3hhTkludmdyU1JkRndFZW83bl8xSFVlZmcwNDJkZjNvNk1lUEJWSUpyY3FxUHhrUGFPLV9saWYyMU9wU3lsMmlVNzczaDJOLVZWYj"
-    },
-    {
-      "title": "Predicciones de IA empresarial 2026 para la alta dirección - PwC",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDMxYU1EUUVwbm95TjZXRFNrajQ3cVVYTFA1QmlYYVVnR1p5RU1ibE56QjRPMGhKal95ZTUwRG9JRGNsc09RbU13U3hLbE5LMHpYTlJvZF94dXpuSkRGVk96THF1VHIzZURUOXE2bG1Zc0RQekd4S1I4R1RZVkNXV2d2UGtMcnpVRUxsbXljbS1uX1pPZkNvUmZGRmdINndFLUM3bmJ3VU5Tenc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 19 Mar 2026 23:16:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDMxYU1EUUVwbm95TjZXRFNrajQ3cVVYTFA1QmlYYVVnR1p5RU1ibE56QjRPMGhKal95ZTUwRG9JRGNsc09RbU13U3hLbE5LMHpYTlJvZF94dXpuSkRGVk96THF1VHIzZURUOXE2bG1Zc0RQekd4S1I4R1RZVkNXV2d2UGtMcnpVRUxsbXljbS1uX1pPZkNvUmZGRmdINndFLUM3bmJ3VU5Tenc?oc=5\" target=\"_bla"
-    },
-    {
-      "title": "Guerra, chips, inteligencia artificial… y México - Revista IMEF",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajNxVE56c19DSkxDT1Q4T3dDdFJBdy1Sa2cwYjF5dTZfZV9YSWV4M2I3VkQ5d3VZY2pKYXJJY09MQ0lWSmNJWHpLR0hNbjdCZjdHNENvTnoyNlRvVllIVU95c1BnWXpUeTlzV2psdlBvZWtDMTAycDQ4d25FR3JsNm95U0ZUN2Z5TGpoOWRvSDU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 20 Mar 2026 18:48:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQajNxVE56c19DSkxDT1Q4T3dDdFJBdy1Sa2cwYjF5dTZfZV9YSWV4M2I3VkQ5d3VZY2pKYXJJY09MQ0lWSmNJWHpLR0hNbjdCZjdHNENvTnoyNlRvVllIVU95c1BnWXpUeTlzV2psdlBvZWtDMTAycDQ4d25FR3JsNm95U0ZUN2Z5TGpoOWRvSDU?oc=5\" target=\"_blank\">Guerra, chips, inteligencia arti"
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
