@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Combatir 4.5 millones de ataques por hora: el reto del nuevo VP de Cloudflare",
-      "url": "https://expansion.mx/tecnologia/2026/03/23/combatir-4-5-millones-de-ataques-por-hora-el-reto-del-nuevo-vp-de-cloudflare",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Mar 2026 18:00:06 GMT",
-      "summary": "El nuevo vicepresidente para Latinoamérica de Cloudflare, Bert Milán,  enfrenta el reto de proteger a las empresas en un entorno donde la IA es un arma de doble filo."
-    },
-    {
-      "title": "Muere el dueño de OnlyFans, Leonid Radvinsky",
-      "url": "https://expansion.mx/tecnologia/2026/03/23/muere-el-dueno-de-onlyfans-leonid-radvinsky",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Mar 2026 15:47:24 GMT",
-      "summary": "La muerte de Radvinsky deja incertidumbre sobre el futuro de OnlyFans, tras consolidar un modelo de suscripción que redefinió la economía de creadores entre rentabilidad y controversia."
-    },
-    {
       "title": "Nvidia apuesta a los robots como el próximo gran negocio de la IA",
       "url": "https://expansion.mx/tecnologia/2026/03/23/nvidia-apuesta-a-los-robots-como-el-proximo-gran-negocio-de-la-ia",
       "source": "Expansión Tecnología",
@@ -43,6 +27,30 @@
       "summary": "Un jurado federal determina que Elon Musk engañó a los accionistas de Twitter al criticar a la red social cuando estaba a punto de comprarla por 44,000 millones de dólares."
     },
     {
+      "title": "La industria musical quiere ponerle precio, permiso y límites a la IA",
+      "url": "https://expansion.mx/tecnologia/2026/03/20/industria-musical-quiere-poner-limites-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Mar 2026 20:00:46 GMT",
+      "summary": "Sir Lucian Grainge, CEO de Universal Music Group, habló con Richard Kerris, vicepresidente de Nvidia sobre el futuro de esta tecnología en la música."
+    },
+    {
+      "title": "Hackeos, evasión y decisiones propias: agentes de IA ya operan solos y es cada vez más difícil entenderlos",
+      "url": "https://expansion.mx/tecnologia/2026/03/20/agentes-de-ia-operan-solos-y-es-dificil-entenderlos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Mar 2026 16:03:20 GMT",
+      "summary": "Sistemas capaces de planear, ejecutar acciones y modificar su conducta sin supervisión directa ya encendieron alertas entre expertos, gobiernos y laboratorios de IA."
+    },
+    {
+      "title": "Académicos de la UNAM advierten que la inteligencia artificial no nos reemplazará, pero afecta la creatividad humana - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb19tYXJSLURqcTFHSXRQd0t2YlktSUNDdXoyTklFVlFka0dlT3dFeFl1ektPa1lpa0ktX1dyM2VlRGplSFluelF0OHNISVJnTnlLZFlCcVVFbHBKVmR5cGVMTVg5Y3Y5V0t1V0FjaWR4dWxBZUxzM3djZ3pEWlBzYWllUkVNYm12czZaNjdXNGk4LW8zZEFnd3FtdWhVTEFQZFNYZXdtNm1lajhkSmJacl91bGZNa0VSSzdCbC1TdDUtdldkc0liS3ZIYmhIMTB5Qi1ZOHZ2RWZzakV6TzktcDdFTXRlZWdCNEpuQ0xxTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Mar 2026 19:43:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb19tYXJSLURqcTFHSXRQd0t2YlktSUNDdXoyTklFVlFka0dlT3dFeFl1ektPa1lpa0ktX1dyM2VlRGplSFluelF0OHNISVJnTnlLZFlCcVVFbHBKVmR5cGVMTVg5Y3Y5V0t1V0FjaWR4dWxBZUxzM3djZ3pEWlBzYWllUkVNYm12czZaNjdXNGk4LW8zZEFnd3FtdWhVTEFQZFNYZXdtNm1lajhkSmJacl91bGZNa0VSSz"
+    },
+    {
       "title": "Ciberataques e inteligencia artificial: el reto digital en México - Grupo en Concreto",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJtR29mR2wtSDViczNobGVrVHcxcXpkZ0N0TzkyeWtWMmhQaFVZWTVTakRWOVE4Yzg1Tm50TkxYdkJsN3FtODJLMm5DRGFXR04wNXFTUGdldzdaQU5KUVBlMERJM3pxTTJUNnU3eHZxRkliRUtNU2dFbHZZb1p2dU9FMkU2RlFDWFhOdm1wSExZNUplcHpKeEd6RHBKSEY3bi0xRHFiRlNVZTZUWkpsU0ln?oc=5",
       "source": "Google News",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJtR29mR2wtSDViczNobGVrVHcxcXpkZ0N0TzkyeWtWMmhQaFVZWTVTakRWOVE4Yzg1Tm50TkxYdkJsN3FtODJLMm5DRGFXR04wNXFTUGdldzdaQU5KUVBlMERJM3pxTTJUNnU3eHZxRkliRUtNU2dFbHZZb1p2dU9FMkU2RlFDWFhOdm1wSExZNUplcHpKeEd6RHBKSEY3bi0xRHFiRlNVZTZUWkpsU0ln?oc=5\" tar"
     },
     {
-      "title": "La inteligencia artificial ayuda a México a manejar la escasez de agua - Milenio",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTgwcHFLdTdHRU5qRENnMndFelA3Vkp6UzhnSEpnVE9hWlVzSS0xcHROcThiSnQ5aHo2Q1hXZG5nMUF0UWFMZ1A3bTBXS3Q5WWVsLXFxSS02X2ZTNldzVkRRVmpPNnJ2TkJJLVdDUVRNc3NTN2FTMHVoWjVDbHBXNFM2ZkVwNjdhY1lnLW92QnFsaXJo0gGUAUFVX3lxTE5pZVMyTmtuQXdPTzFycTgtMnZRUExWendIdWs1Yy1FUG15TDZqR1pCa1JKdFVfb0xEQU5KajJGWm5UOE96Mzh1Y0gtdGR3SktBN3d3akNWQ29xZ2JXMkVMN19wOERZU2RPaGlQVGRnbFZ3QjZfZE1DT0pRc1pvcDRxWmg3U29yTzA3NklCTXBidWtVTko?oc=5",
+      "title": "México entra al mapa de Rubin y de las AI Factories de NVIDIA - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVN2dzZiX3M3U1pxXzF5X2ctVGdnN3Y1UHdnMWt3Q2daeUlXWGs0eVg4UkxkRFNKYjZNMGdOWEtfX1B4c2tzcnpwWURzZW1XcERnc3M0VnY3cG5yU3ZNVkx0SllKUkNoSVhLMmo4UUJEMnlxTWNSS1ZoQ2VKb0p2V1EtVWtScE9UdktFTEQzUXJPel83c2N0LVkzcmFmZl9tSl9ESnVUb1hqUDDSAbABQVVfeXFMTzRvYWhPSUl5QkFrV2hTWENsR0h2SnF6cHE0eXE5YjdpNnhPWEZlNWR3SFhKd2dBQ25MUUhpUDlCUEVOVGxJSXJRQnNBRlI1Q0JwRDhmalhWVW9LQTdBZ2hPelBYRGJTc0JEYkFETzBERVhOSndZNGhLZ2cxQmcwajVQYS12X0loSE9tNndhc3p0UTlua05EYXAydDVrMWlsNGhUZ2YtZHBGSXBUeDJHMnM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 23 Mar 2026 16:38:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcTgwcHFLdTdHRU5qRENnMndFelA3Vkp6UzhnSEpnVE9hWlVzSS0xcHROcThiSnQ5aHo2Q1hXZG5nMUF0UWFMZ1A3bTBXS3Q5WWVsLXFxSS02X2ZTNldzVkRRVmpPNnJ2TkJJLVdDUVRNc3NTN2FTMHVoWjVDbHBXNFM2ZkVwNjdhY1lnLW92QnFsaXJo0gGUAUFVX3lxTE5pZVMyTmtuQXdPTzFycTgtMnZRUExWendIdW"
-    },
-    {
-      "title": "Empresa de IA levanta millones de inversionistas mexicanos y pone a México en el centro de su expansión - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeUI4YVk5U3ZYMW11T1BZVkV2Ujl2LUFzdjVnZDBLcjZrRGVPRXpydE5sQXh2N3lfTjYxVEtWT1FuV0R4Rmp3MkotTU5BSG5qaEU5ZzJqSDd5NzJ5WDVpQVdZbUFtVll2V0VIQlNja3hhTkludmdyU1JkRndFZW83bl8xSFVlZmcwNDJkZjNvNk1lUEJWSUpyY3FxUHhrUGFPLV9saWYyMU9wU3lsMmlVNzczaDJOLVZWYjNjcEJIdGJYb0RJTGNmc29mWkpfbXZWdEJ2ZDZQWkFGWWZ2cXJzS240X3dkUTNHcnfSAYQCQVVfeXFMT1VuTXF1X21FcjVNWnBhb2xHaVRiQzBoSmNZb3hsXzFQeFBnNkEtQ0tNczRiRTh3T0ZFTGRCamJhLVZlZEYtdWVLcnRDdGpET2R5WU1OaWVkalpzcG1ySVJ0MFpLQ0RrSC13ODc2ZFhZdmdUSGVJUnhOTTZDX1FGMDUtcTdUWDdUb3FJZDg5azlXN0FPU1Z3dXJ6R19CWkVHTl9FRTB5dEFVYzZlUDR2Z3dhM3o3RTdmXzRGSjYwZ2Jmb3djdHlUbVZEcUFCT3J6ZnVNcERpMmV2YTdLbHZuZXBmR3ozdjdxUTQwaGN4bkd1TG5MdjlmeTR5X28zUWZ6UUVZUzg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 23 Mar 2026 12:00:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeUI4YVk5U3ZYMW11T1BZVkV2Ujl2LUFzdjVnZDBLcjZrRGVPRXpydE5sQXh2N3lfTjYxVEtWT1FuV0R4Rmp3MkotTU5BSG5qaEU5ZzJqSDd5NzJ5WDVpQVdZbUFtVll2V0VIQlNja3hhTkludmdyU1JkRndFZW83bl8xSFVlZmcwNDJkZjNvNk1lUEJWSUpyY3FxUHhrUGFPLV9saWYyMU9wU3lsMmlVNzczaDJOLVZWYj"
+      "published": "Mon, 23 Mar 2026 20:10:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVN2dzZiX3M3U1pxXzF5X2ctVGdnN3Y1UHdnMWt3Q2daeUlXWGs0eVg4UkxkRFNKYjZNMGdOWEtfX1B4c2tzcnpwWURzZW1XcERnc3M0VnY3cG5yU3ZNVkx0SllKUkNoSVhLMmo4UUJEMnlxTWNSS1ZoQ2VKb0p2V1EtVWtScE9UdktFTEQzUXJPel83c2N0LVkzcmFmZl9tSl9ESnVUb1hqUDDSAbABQVVfeXFMTzRvYW"
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
@@ -91,12 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjFGakZpVE9MQno4cTV5SW5vanlmOXIwYTVnM1pnODlwZWJmOERTWU9fX1JQcUxyeTM0SVgzeUdobjRWREJHNjRfcW9IdWRidHB6RlB4bnR1MG5jODQ0NmwyRks4d3I3VW1HcEk1RW44aXM5RERuaFB5dW53ZWtKRldOM0dBOVhOejhkTXlkSFdnWDc3NGNDSFFKQl90RHB4T1FBZndB0gGrAUFVX3lxTFBXbW9MeVFtaz"
     },
     {
-      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "IA en la enseñanza: especialista Tec habla de sus retos y beneficios - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVGZQZE9hcw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 11 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
     },
     {
       "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
-    },
-    {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14

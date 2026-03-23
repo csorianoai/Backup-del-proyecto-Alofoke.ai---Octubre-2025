@@ -3,20 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "Trump anuncia conversaciones “productivas” con Irán y pospone cinco días los posibles ataques a su infraestructura energética",
+      "title": "Moreno convoca las elecciones en Andalucía para el 17 de mayo",
+      "url": "https://elpais.com/espana/2026-03-23/juanma-moreno-convoca-las-elecciones-en-andalucia-para-el-17-de-mayo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Mar 2026 19:32:33 GMT",
+      "summary": "El presidente de la Junta ha anunciado la fecha en una comparecencia este lunes"
+    },
+    {
+      "title": "La convocatoria precipita el cambio de Gobierno más difícil: sustituir a María Jesús Montero",
+      "url": "https://elpais.com/espana/2026-03-23/la-convocatoria-precipita-el-cambio-de-gobierno-mas-dificil-sustituir-a-maria-jesus-montero.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Mar 2026 20:21:52 GMT",
+      "summary": "Diversas fuentes creen que Bolaños y Cuerpo aumentarán su poder pero la incógnita es si habrá otra vicepresidenta"
+    },
+    {
+      "title": "Trump asegura que hay conversaciones “productivas” con Irán y aplaza cinco días los ataques que anunció contra su red energética",
       "url": "https://elpais.com/internacional/2026-03-23/trump-anuncia-conversaciones-productivas-con-iran-y-pospone-durante-cinco-dias-posibles-ataques-a-su-infraestructura-energetica.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Mon, 23 Mar 2026 15:40:59 GMT",
-      "summary": "El presidente de Estados Unidos sostiene que hay un diálogo abierto “constructivo” que continuará esta semana. Teherán lo niega e Israel oficialmente guarda silencio"
+      "summary": "El presidente de Estados Unidos sostiene que se ha abierto un diálogo “constructivo” que continuará esta semana. Teherán lo niega y Netanyahu dice que “salvaguadará los intereses vitales” de Israel"
     },
     {
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump dice que fue Irán quien hizo el primer acercamiento para una negociación con EE UU y que no reconoce a Jameneí como líder supremo iraní",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump dice que fue Irán quien hizo el primer acercamiento para negociar y que no reconoce a Jameneí como líder",
       "url": "https://elpais.com/internacional/2026-03-23/ultima-hora-del-ataque-de-estados-unidos-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 23 Mar 2026 18:38:25 GMT",
-      "summary": "El presidente pospone durante cinco días los ataques a las instalaciones energéticas de Irán | El régimen de los ayatolás niega el diálogo con Washington y atribuye el paso atrás a sus propias amenazas bélicas | Israel ignora el anuncio y lanza nuevos ataques contra Teherán"
+      "published": "Mon, 23 Mar 2026 22:28:24 GMT",
+      "summary": "Netanyahu asegura que el estadounidense cree poder alcanzar los objetivos de la guerra con un pacto | La Casa Blanca ve al presidente del parlamento iraní como un potencial socio"
     },
     {
       "title": "Los anuncios de Trump desatan otra jornada caótica en las Bolsas, que deja al petróleo al filo de los 100 dólares",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Mon, 23 Mar 2026 16:54:29 GMT",
       "summary": "La pausa de EE UU en los ataques a instalaciones energéticas iraníes termina con una mañana negra en los mercados, que frenan su euforia a la espera de noticias de Teherán"
-    },
-    {
-      "title": "“Narcisista maligno” o “presidente sobrehumano”: el debate sobre la salud mental de Trump",
-      "url": "https://elpais.com/internacional/2026-03-23/hitler-con-demencia-o-presidente-sobrehumano-el-debate-sobre-la-salud-mental-de-trump.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Mar 2026 12:31:00 GMT",
-      "summary": "Frente a quienes alertan de que el mandatario sufre “trastornos” agravados por una supuesta demencia, los médicos de la Casa Blanca subrayan su buen estado de salud y su entorno achaca sus salidas de tono a una personalidad iconoclasta"
-    },
-    {
-      "title": "Un avión de la Fuerza Aérea colombiana se estrella con 121 personas a bordo: hay al menos 77 sobrevivientes y un muerto",
-      "url": "https://elpais.com/america-colombia/2026-03-23/un-avion-de-la-fuerza-aerea-colombiana-se-accidenta-en-putumayo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Mar 2026 16:14:44 GMT",
-      "summary": "La aeronave, un C-130 Hércules, se desplomó en Putumayo, en el suroccidente del país. Se desconoce todavía el estado de 43 personas"
     },
     {
       "title": "Inteligencia artificial y automatización en pymes industriales 2026 - Ecosistema Startup",
@@ -68,11 +68,19 @@
     },
     {
       "title": "¿Cuándo juega, cómo y dónde ver al Barcelona? Día, hora, canal de TV y streaming online del partido vs. Atlético de Madrid por La Liga - sportingnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi1rSUZBVDdqeGluZEs4TFJVazcwRW5ncW1oMHU1d1lTTUlYNlhuT3Y4WThOTEYzNXM1S1U2emdkUk02Nnd0M2QzZF9GN3d1b1MwRUhacWl3R1lFWm0wLXFHYjA4TGxxWXRVdWJMOGdpQlZPM3kxdHlWV3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdnZxV1FVRDRuT1RGenQ3eE5faWxtZmZsSjFNMzJwVGhmVWN5UHpUbElsT3VXQ3V1bWNkaTl2U3JyYXZ6MWUtNHNxazk2TmFBLUNRWEs2b2NYOF9XMFlnNFktS1RvQWVYODNQcmFLZmZ6ZGh6cHhUS0FvdkR2R2R5eEpOMVhyWk1UdHVCZlFnWVVaWFJmQkFqVWx5a1VvS2ozUF9ZTHkzSlg3V3NzaFlpQVU0S0NlckRnbkJ1ei1sd0U0Mi1wOE9lQnZIb3I4dVliZU8yZDFpdWoySFB1XzU1clltQktBMUNkVHpzT3hQcGJFdEh4ZkxwdkRVUG5rWnJzRkRTS0luUWxRWENpVWd3RXREdkJwTGNablVIcmtTbFN2Yk9lRURUc04yTFFrZ0Jj?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 22 Mar 2026 15:42:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxNdmhpOFkyT2ZHdTlZekR0LTFhS1JLQ0JiWnpiSTFmS0VabWQ4VkpLM2loRU9YWDd0Y1VLZEliMHdLQ0ZlMy1ocFUtSmdLMzNUeUFuaml5LVVTdHd5ZFM3VU4wZnFJNmd0YTdXemctcnozVGJmeFBjQ19hejVDeXZrNDJKMUl1LU1GRi1qMFR4cWFqdVB4X21GdHRRb3Q2a182bzNHRnVTU0YxM3RGaWpZSWZyUEpHdndCRi"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxOdnZxV1FVRDRuT1RGenQ3eE5faWxtZmZsSjFNMzJwVGhmVWN5UHpUbElsT3VXQ3V1bWNkaTl2U3JyYXZ6MWUtNHNxazk2TmFBLUNRWEs2b2NYOF9XMFlnNFktS1RvQWVYODNQcmFLZmZ6ZGh6cHhUS0FvdkR2R2R5eEpOMVhyWk1UdHVCZlFnWVVaWFJmQkFqVWx5a1VvS2ozUF9ZTHkzSlg3V3NzaFlpQVU0S0NlckRnbk"
+    },
+    {
+      "title": "La IA lo tiene claro: esta es la ciudad española mejor preparada para el coche eléctrico en 2026 - Motor EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYThJTFE3MVlvTXBIX2dUYmlreVRSQklKaFg4am1ZRWw3c19CYVNBYjZVWUM2NEJWNzNpTG41YlZpY25DbGpMRFM0a2htTXVPWkRfV2l2Q1hEbnRkTTIxTXVnZzFraS1ldmZjNi04NUxWQTBKTjVtSjM3X1BCZFRTb3JpWGRpa0Viay1UNi1FYTZoT0tySUN5Tkk5Q253S3VFZVV0bW40eDdPU2JTUmZUMENKaTFLYnZ5U1A1TTllZGR2NU9FZjhlcjRDX09LS2RYUW9IZjJR0gHbAUFVX3lxTE5PWHhTUk1OazhfZFlEX1l1SWdxRzcxTlNCTW5XVkNoWV82MTBQQ18tY2M4R0RPQnQtQVRXSVFRbHNSZkxmWkhKYVZfa2FGMDNKQ0Y4ZHMwQUtlMWZRNWFGSjNBeUx2SzFEY1FieTBDTnFiOXBUc0xmdFNvV05zdzJGVW1CeEhvRGdVOGNDbHJZeVp0ZFpUbFYwMHdxTHFpb2o3ajRtMmlKZ3VlaDMzbHhIam05elhNVUQxYWpfOWVMcHNXR0dqMjJEb0t2UllNUTVTX3kyaThmZV9HMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 21 Mar 2026 09:11:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYThJTFE3MVlvTXBIX2dUYmlreVRSQklKaFg4am1ZRWw3c19CYVNBYjZVWUM2NEJWNzNpTG41YlZpY25DbGpMRFM0a2htTXVPWkRfV2l2Q1hEbnRkTTIxTXVnZzFraS1ldmZjNi04NUxWQTBKTjVtSjM3X1BCZFRTb3JpWGRpa0Viay1UNi1FYTZoT0tySUN5Tkk5Q253S3VFZVV0bW40eDdPU2JTUmZUMENKaTFLYnZ5U1"
     },
     {
       "title": "¿Cómo estaría la clasificación final de LaLiga según la Inteligencia Artificial tras la jornada 25? - Sports Illustrated",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Tue, 24 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGdCeGZON3hlSFNLaXE3bHFzdFdXWXNqVlNNR182Ml9MV1ZmaE1mR0pNZERJeGZsdVA0b2VBalBLWjR4X3VjRnhnMno0R1hwUUxQbG1DTlpxMFJkY1BubElYVnNnaG1XNllwdWIyV0VlNk05bVpuRTRyblNfZkJKMXRtVnkzd2h4VVRwM1plQ3JEb2RKdUc4RE5WOUVPYnFBNTFXa294d0ZPOXZ6UkJkX2NPdU9YankyYX"
-    },
-    {
-      "title": "La IA rediseña los estadios de Real Madrid, Barcelona, PSG, Benfica y muchos más con resultados espectaculares - Diario AS",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW9ka2NnU1k3NWd2Y05uR1ZmVnIteVBzTVNwX2hnQnk5aDFM0gHwAUFVX3lxTE9EaVVwS2ViZG9oSDI0enNpMFlVVkNTQlBWVGlrQzZBV0NqZmNSQVpXbzRfR0pabXlzc3NERXJEb2l6Mlg2R250R3VLMjJYNjhLNXIyLXFLWTVjY2tCWG42cktfbzdXN2l3dG5fX2VLOFlKQktLZDhyX21Fb0JfaGtxcFMzSUZQM2pJVUpmblJGOVhlT1pyLTRUTzRVbVBfVjN3UFJaWW81RXhCSHlyUlhXd2RtS0VlVDlhaDRoVjNKWnpmNzFFSWNOZHBSVDY0b3dhLWZCRTJUaGpBbkhMNlZjN0gzVEI1MUJ6eG9ZXzJrcA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 05 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGNmNjhzQmUyZTg4Wmg4aEtQR2FVRlV4NWhMVXcxdDNEejdVOGFub3NPWHF6al81RWRVc0h2TFJ6VE5zMUNwN0Nlb3RiSUg1elUzZm1FQW5XVHJsYUExRDhnMmR4V29ITXp2a0p2TWtPb0RTMWNuYWthREF1OFJGZFAyNVZ4eEl1cTFFM2RrS2RJekdNeklURXdta2w3VUhXTDY5a0NOVHYxZ2xLU3owbkpFYk14N3EtSW"
     },
     {
       "title": "Transparencia en IA: claves para startups tecnológicas - Ecosistema Startup",
