@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Cobra pagos sin contacto usando sólo tu iPhone; así funciona Tap to Pay de Apple en México",
+      "url": "https://expansion.mx/tecnologia/2026/03/24/tap-to-pay-apple-como-funciona-cobrar-celular",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Mar 2026 18:46:18 GMT",
+      "summary": "Apple habilitó esta función en el país y permitirá a negocios aceptar tarjetas, celulares y relojes inteligentes con tecnología NFC desde su propio dispositivo."
+    },
+    {
+      "title": "La IA acelera proyectos de TI de 12 a 3 meses y redefine la consultoría",
+      "url": "https://expansion.mx/tecnologia/2026/03/24/la-ia-acelera-proyectos-de-ti-de-12-a-3-meses-y-redefine-la-consultoria",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Mar 2026 11:55:53 GMT",
+      "summary": "La adopción de IA generativa y agentes acelera la entrega de resultados y obliga a las consultoras a demostrar valor en menos tiempo, en medio de retos de talento y rentabilidad."
+    },
+    {
       "title": "Xiaomi invertirá 8,700 mdd en IA y acelera su carrera frente a Samsung y Apple",
       "url": "https://expansion.mx/tecnologia/2026/03/23/xiaomi-invertira-8-700-mdd-en-ia",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "El nuevo vicepresidente para Latinoamérica de Cloudflare, Bert Milán,  enfrenta el reto de proteger a las empresas en un entorno donde la IA es un arma de doble filo."
     },
     {
-      "title": "Muere el dueño de OnlyFans, Leonid Radvinsky",
-      "url": "https://expansion.mx/tecnologia/2026/03/23/muere-el-dueno-de-onlyfans-leonid-radvinsky",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Mar 2026 15:47:24 GMT",
-      "summary": "La muerte de Radvinsky deja incertidumbre sobre el futuro de OnlyFans, tras consolidar un modelo de suscripción que redefinió la economía de creadores entre rentabilidad y controversia."
-    },
-    {
-      "title": "Nvidia apuesta a los robots como el próximo gran negocio de la IA",
-      "url": "https://expansion.mx/tecnologia/2026/03/23/nvidia-apuesta-a-los-robots-como-el-proximo-gran-negocio-de-la-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Mar 2026 11:55:49 GMT",
-      "summary": "La empresa ve en sistemas capaces de entender el mundo físico —como vehículos autónomos y automatización industrial— la siguiente fase del desarrollo tecnológico, impulsada por simulación y nuevas plataformas de cómputo."
-    },
-    {
-      "title": "CDMX prepara Mega Clase de IA y Publicidad Digital para mujeres: fecha, hora y lugar del evento - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2JmaV9VZDBvOVcwd2dsQTF6MF9DR054S01YY0xuN2tYckRoUTkzOVBVTGhvZVV6NWdHcTFMUHpTdmxaMWRsSUUtaHZjYjJIQnV5YlFtR25vQnhZLUpFdnBsSlV1MEpsNHI2eGtVWmpMX1g1aS1pZEFYS0EwZmNtVHBhLU05ZGdqVFNudWVYSy02a3VwaFkzY3BDTVFxOEZkRkN4SVE0NUI5N2Fxb0lSTHJXZHFQMml5STJDMmdnTm9USUNvRkNhajN1VGZrbFhCLUHSAewBQVVfeXFMT096LVB1NDVKN0lwWXRoVldBd3ZBWkVOSmdQT3Fmd2JOZmdMNTFFNVFGS2hIbHEwZnVHN2tyU2NPSEY1MnZKdF9lVm9GNnIwREZtWjN4NkROd3E4MndmNGF6ejVMeEhDSDRBNTVnd0R4RXBKWHFZa3NnOFZFMmo5MWdjUXZsWDhjSlJXZGVTX3B0TXFZLTJzRWRqV3NOendqWUxuX0tYdHllVC1Ld0tiWGlYeEZJVjNIblNXQVA3OHMzTGUxckFjWTV5MlRTOV9UNDZmYXVTenQ3RjhUQWZXbmJ4eERmd0M1WUR6OFg?oc=5",
+      "title": "¿La inteligencia artificial puede remplazar a un terapeuta? Esto dice la UNAM - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcU1zU3JZbGxYdWwxc21aY19oVTdxakhSNk0wNFJicGpwdHptRXo3RGVHa0FpTEhEREhYOE5fc0tkX2w5am1PRjFxWHJMZ1B1MC01UGduYjV5Q1hETkxxbWZqV0pnOC15Q2hBMkEzM0gzT2lRYmVEN3A1cTIzX2FBUjdvWHlYaHhJM1hqR0tDR2hVWTF6RXRRV3BqTDFEN1BqNHJFZ2NfejlNS0FGaGhPQk5ueVR4akJEenfSAdQBQVVfeXFMTXlfc3hzLVJfa1A1Yk5aNkpCYTJuSEU1VlQxZHhZTkR0YVBVbTl3ZXRWN2FRaEIyc1dIeGE0RDByMV9vclcyWFMxYTFNLTZWSjJZbFhMQ1M2b2lTeHJnMlFvNGhYZnJaNVpoV3ZrLVdpREF5N1hYMmtlejRoRDRjeXJ5Tzl4d3NkX2JFbTY1RUtYSmFpME9vVXcyVXZQSUVRVUotODlnS1hnXzJlcVFtR2l3cEQyR1VvYnVod1I1Q2hxcktMSkVYUlRuWXZDX3BqbHFfVXQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Mar 2026 04:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2JmaV9VZDBvOVcwd2dsQTF6MF9DR054S01YY0xuN2tYckRoUTkzOVBVTGhvZVV6NWdHcTFMUHpTdmxaMWRsSUUtaHZjYjJIQnV5YlFtR25vQnhZLUpFdnBsSlV1MEpsNHI2eGtVWmpMX1g1aS1pZEFYS0EwZmNtVHBhLU05ZGdqVFNudWVYSy02a3VwaFkzY3BDTVFxOEZkRkN4SVE0NUI5N2Fxb0lSTHJXZHFQMml5ST"
+      "published": "Tue, 24 Mar 2026 17:54:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcU1zU3JZbGxYdWwxc21aY19oVTdxakhSNk0wNFJicGpwdHptRXo3RGVHa0FpTEhEREhYOE5fc0tkX2w5am1PRjFxWHJMZ1B1MC01UGduYjV5Q1hETkxxbWZqV0pnOC15Q2hBMkEzM0gzT2lRYmVEN3A1cTIzX2FBUjdvWHlYaHhJM1hqR0tDR2hVWTF6RXRRV3BqTDFEN1BqNHJFZ2NfejlNS0FGaGhPQk5ueVR4akJEen"
     },
     {
-      "title": "Samsung México presenta el primer workshop de Samsung Academy enfocado en Inteligencia Artificial y todos los avances de Galaxy AI - samsung.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWkRkNmFVNmxjVTJpOHRHMW4wQXc4TlhIMm5xbnE5LVpmNHlaV0pERVVjNG1KdnZwZk5CekdqQ3Y5QWp2aHZnWXY3NW1lRDJEV1dOSVdpOERXbFcwUXpYU2RoSUJZZ1lUeE9DQ3FsSkI4SjVXc3FIalRSSDZwWUFyWlQzcWtzTEFoU0gxQ010ZDZickdpYkYtb29qZlQtQnhYQWE5QUNsc0MtcGoyNFJualFoRml2X1FWeEJZUzFoaDhEQ01GM2NtT0hjaVhiVTFsOXNQdW5XWHBpc1Y2X3Q5dTJYTHB1b0k2VXJSTXh0TQ?oc=5",
+      "title": "Hey Banco lanza Hey Tech, su rama tecnológica para vender IA, tesorería y pagos en México y América Latina - Latam Fintech Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdThJeHB1VGxUeExUX3RRalkyMVpmYXY2RTBtT2tMNHk0RzItbHI3WDFZQmxvalQ0cnNmMUFwVmFSYUpMaFl3OElJQmdZb3UtMmN5Vk1zU2FsU1VwVGFRZzJWSksyUDVNZEk5eFo4cnhCeVAxZHJZYXdNUjFRTWV4QkF1ak44V3hjS1QyVVFFUHRGWGlmTURxbDNBU3RMMWFQZDE5dnBKRFdzVV81bjZFRHVCaXlGUW1ueE5lOHdQT2FVNXJrLUdrdA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Mar 2026 00:17:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWkRkNmFVNmxjVTJpOHRHMW4wQXc4TlhIMm5xbnE5LVpmNHlaV0pERVVjNG1KdnZwZk5CekdqQ3Y5QWp2aHZnWXY3NW1lRDJEV1dOSVdpOERXbFcwUXpYU2RoSUJZZ1lUeE9DQ3FsSkI4SjVXc3FIalRSSDZwWUFyWlQzcWtzTEFoU0gxQ010ZDZickdpYkYtb29qZlQtQnhYQWE5QUNsc0MtcGoyNFJualFoRml2X1FWeE"
+      "published": "Tue, 24 Mar 2026 16:56:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdThJeHB1VGxUeExUX3RRalkyMVpmYXY2RTBtT2tMNHk0RzItbHI3WDFZQmxvalQ0cnNmMUFwVmFSYUpMaFl3OElJQmdZb3UtMmN5Vk1zU2FsU1VwVGFRZzJWSksyUDVNZEk5eFo4cnhCeVAxZHJZYXdNUjFRTWV4QkF1ak44V3hjS1QyVVFFUHRGWGlmTURxbDNBU3RMMWFQZDE5dnBKRFdzVV81bjZFRHVCaXlGUW1ueE"
     },
     {
-      "title": "Ciberataques e inteligencia artificial: el reto digital en México - Grupo en Concreto",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJtR29mR2wtSDViczNobGVrVHcxcXpkZ0N0TzkyeWtWMmhQaFVZWTVTakRWOVE4Yzg1Tm50TkxYdkJsN3FtODJLMm5DRGFXR04wNXFTUGdldzdaQU5KUVBlMERJM3pxTTJUNnU3eHZxRkliRUtNU2dFbHZZb1p2dU9FMkU2RlFDWFhOdm1wSExZNUplcHpKeEd6RHBKSEY3bi0xRHFiRlNVZTZUWkpsU0ln?oc=5",
+      "title": "Hacker - México, mercado clave para Cloudflare en la era de la inteligencia artificial - DineroenImagen",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFgzZUxnWW85dGhfSzVuSEZvaG9CaVFZTnh0Qkpmc1U4b0RBcVRsUU1YRW5KdjE2RzIwWDYxMUdXbjZvV1pvdkE3V2VvZnk3ZmpmbGxmZnFLODF4TE5JSlRsYTJQR1M5ZVVmdjFsQ01LN191WFRTS3BUQ25yeDU0Z2lxaF9td1VlamF4ZVk3RVYxYWo1Yk5TYnoxS2p1RnhPSk1kZkhNRDVSU2h3UWc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 23 Mar 2026 23:00:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDJtR29mR2wtSDViczNobGVrVHcxcXpkZ0N0TzkyeWtWMmhQaFVZWTVTakRWOVE4Yzg1Tm50TkxYdkJsN3FtODJLMm5DRGFXR04wNXFTUGdldzdaQU5KUVBlMERJM3pxTTJUNnU3eHZxRkliRUtNU2dFbHZZb1p2dU9FMkU2RlFDWFhOdm1wSExZNUplcHpKeEd6RHBKSEY3bi0xRHFiRlNVZTZUWkpsU0ln?oc=5\" tar"
+      "published": "Tue, 24 Mar 2026 17:11:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFgzZUxnWW85dGhfSzVuSEZvaG9CaVFZTnh0Qkpmc1U4b0RBcVRsUU1YRW5KdjE2RzIwWDYxMUdXbjZvV1pvdkE3V2VvZnk3ZmpmbGxmZnFLODF4TE5JSlRsYTJQR1M5ZVVmdjFsQ01LN191WFRTS3BUQ25yeDU0Z2lxaF9td1VlamF4ZVk3RVYxYWo1Yk5TYnoxS2p1RnhPSk1kZkhNRDVSU2h3UWc?oc=5\" target=\""
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
