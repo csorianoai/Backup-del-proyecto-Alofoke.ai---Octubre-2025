@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple profundiza la fabricación en EU con una inversión de 400 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/03/26/apple-profundiza-la-fabricacion-en-eu-con-una-inversion-de-400-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Mar 2026 16:00:59 GMT",
+      "summary": "La empresa sigue cumpliendo el deseo de Trump de trasladar la producción de sus dispositivos al país y para ello también anunció más relaciones comerciales con socios."
+    },
+    {
       "title": "Usuarios abandonan ChatGPT tras choque entre OpenAI y Anthropic",
       "url": "https://expansion.mx/tecnologia/2026/03/26/usuarios-abandonan-chatgpt-tras-choque-entre-openai-y-anthropic",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Un jurado de Los Ángeles ordenó a las empresas pagar 3 millones de dólares en daños."
     },
     {
-      "title": "Trump suma a Mark Zuckerberg a su consejo de ciencia",
-      "url": "https://expansion.mx/tecnologia/2026/03/25/trump-da-mas-poder-zuckerberg-consejo-ciencia-ceo-nvidia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 25 Mar 2026 17:41:32 GMT",
-      "summary": "Zuckerberg se suma al consejo científico de Trump junto a otros líderes tecnológicos, en una apuesta por fortalecer la estrategia de EU en IA."
-    },
-    {
       "title": "Profesor UAO fortalece redes internacionales en robótica e inteligencia artificial en México - Universidad Autónoma de Occidente",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnJjZW1YVnQzNzVwZlk3aXZYcWFFdWJBekZ4Unk3bTBESE9JNU4tRnBnYS1YTll6c2FaYWtpVXl0SnhtSXVENWZNYlN4Z05iNU1GRXJ3cTBYSlA5VXp2VENOOWVqelI5Rmp0VjVmTUl3YWxkNmdfOHNvYzRObE05THROWFgtV05fNk1fcEZXVkFyTS1xNHp6SE8xY2ZXLVB1NWczY3hoRVlrUFZ4TERsOE9FeTVTSTFNeHVvU3JQOTZfRTB3V0E?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnJjZW1YVnQzNzVwZlk3aXZYcWFFdWJBekZ4Unk3bTBESE9JNU4tRnBnYS1YTll6c2FaYWtpVXl0SnhtSXVENWZNYlN4Z05iNU1GRXJ3cTBYSlA5VXp2VENOOWVqelI5Rmp0VjVmTUl3YWxkNmdfOHNvYzRObE05THROWFgtV05fNk1fcEZXVkFyTS1xNHp6SE8xY2ZXLVB1NWczY3hoRVlrUFZ4TERsOE9FeTVTSTFNeH"
     },
     {
-      "title": "México cada vez usa más IA, pero la usa para hacer tareas, no para innovar - Xataka México",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkR4S24wOUFIUXRmbDE4dXFzV21lYmtoTnFEZUgwRVREMHFKcC1jODVjOWV0Zm42N2I0SmYtaTRfNjV2VjBlcHM1UU5jc1hYZjBnamdIRTJtenZEcWJyZ05XaExSSVQ5MUpya2RJUmhUcFVheVUtMkZtTnV3R2ZRcnJkbGw1YWhZbmlWd0ZXdGhQUkdEckRqVlpndnktTFI5RUHSAacBQVVfeXFMTkJYbGFacDlpYWxTaFgzU2tkVnZScGV4UERrWGlnLU1QWVIxQjgtRHBJQ29pR05uZVlxZTVVUVc4X2g1RDUzSnBMcGlLaXpJbk1ONko0ZXN6VC1nRXRXbUpuLVRVUUp1Q1NwU2lkUXZmQmVQQmlXSkFfNTM5bUxCc3RSQ3ZHUFVZNk9Pb1ZzcmdPOWE2bVR4M1ZURG9KQzgyMndPT0tlbW8?oc=5",
+      "title": "Inteligencia Artificial y Justicia en México. Innovación necesaria, un avance responsable - Expansión Política",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDNQdWhpVmxLb1pxcWZKejFLM3R2QjF3SDdFS3dKYXk2bjRBdU9OTVhOUzJWMWN4MkM3VjgwVG56U0Q5eVRWNnl4T1pZSjdtN1N4WndmSFJWNnkydTNyNnF4ZTI3SlIyZlpfd0ZBWEtRUFZMSXZ2SGZOeUpIUFRvWkNDaFRyb2VWUTA0M1Q2Q2psSUptMnRwRGJGMVltd0s5RzBiQ3Z0MUpUYmQwVFk0emhYMFF1ZTZHSjFoWW5ldHZzTElXcUFSMERfQ3BBUVHSAdwBQVVfeXFMTWhnX2pUSE16OWF2ZlZmb3V1UFNPd3BhdXVoSTVFak44d05vc1gzX1pzUkh6TDJqNDd0TlVDUFctNlNiV2pIWEhvQlZ0ZGcwZGZTOWdqMmZjNUE0d21nTmVjN2NWUExZUmFqMjNuaDQ5QUs1SEdXOGhaWDJjRUhJNHlaTWVyRkVuQVJBQWduM1Q1N01JUFRYRXBpTGdkWEhwVWp6WUdBb3R5M2xxUHZEME4xR3d2cjYyZVdJNWsxVldGVDEzM3RqdlNaT3NhUTJYVkpoNlYwN2NvZFN0RQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 26 Mar 2026 12:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDNQdWhpVmxLb1pxcWZKejFLM3R2QjF3SDdFS3dKYXk2bjRBdU9OTVhOUzJWMWN4MkM3VjgwVG56U0Q5eVRWNnl4T1pZSjdtN1N4WndmSFJWNnkydTNyNnF4ZTI3SlIyZlpfd0ZBWEtRUFZMSXZ2SGZOeUpIUFRvWkNDaFRyb2VWUTA0M1Q2Q2psSUptMnRwRGJGMVltd0s5RzBiQ3Z0MUpUYmQwVFk0emhYMFF1ZTZHSj"
+    },
+    {
+      "title": "México blinda el cine hecho en el país: la Cámara de Diputados aprueba ley que favorece las producciones locales frente a Hollywood y la inteligencia artificial - Espinof",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPek5iSks0a3hLdEI5Rk5PeDczR2J6Q3JxcmRIVkZsVVNwTUIyT2VNY2QxSDZ0andOTUpQRW9oLU9MZG52RXNkbThYUW9xSmRVRXRHSkg1ZVM1U1JveF9fSzdZZkViOHRqVURiYVRaT1hBQkpDcEpPYVQ0SGxhY1hyd0JVQU9NWTgwRkdjbHZ3Q252SGFoZ1hhbXoxRFdZcE4xaC1TcFpiU1M5MVVob2owOTBFSTFZVTVFcGlHZmxOa0ZXa1ZhSEI0WUFGV1E4eHFnWC1OYXNpR2dLLWVYYUVwdGVCaU9RbEVXX1BMQlBwVDNXb0lsZTNkZ9IB_gFBVV95cUxOTlJrcEJpdzhJZlA3Rlh6Ql82aWN5X21ac3NhZ3VhdHVaVU9YVzZ6QUVOM2V1eUlmZkNaV2ZZT2VEOGhtUTRRSkVWSlczX2tLZi1WenFKME9qQnBRS0FMS2xVcFd5VmpEcE44T0hVWmhHSnVCNXVwZFphSDF4MFhoOHItX19xZVRZdHFpTVMzOW1RS1BoWk9JSUlCdEUzTHpmR0NaT0wzcm1ZVkVCQWV2a2JUXzZRT2MzdzFhRHBmM2Z5V2swc0RRQTlubU5FUFBtUWIzTG05UUFpdXBmbGF4bGl0ckFvaTNBenNUZzgxMnEzZl9nNlAxNmhKZkcyQQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 26 Mar 2026 13:00:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkR4S24wOUFIUXRmbDE4dXFzV21lYmtoTnFEZUgwRVREMHFKcC1jODVjOWV0Zm42N2I0SmYtaTRfNjV2VjBlcHM1UU5jc1hYZjBnamdIRTJtenZEcWJyZ05XaExSSVQ5MUpya2RJUmhUcFVheVUtMkZtTnV3R2ZRcnJkbGw1YWhZbmlWd0ZXdGhQUkdEckRqVlpndnktTFI5RUHSAacBQVVfeXFMTkJYbGFacDlpYWxTaF"
-    },
-    {
-      "title": "Académicos de la UNAM advierten que la inteligencia artificial no nos reemplazará, pero afecta la creatividad humana - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb19tYXJSLURqcTFHSXRQd0t2YlktSUNDdXoyTklFVlFka0dlT3dFeFl1ektPa1lpa0ktX1dyM2VlRGplSFluelF0OHNISVJnTnlLZFlCcVVFbHBKVmR5cGVMTVg5Y3Y5V0t1V0FjaWR4dWxBZUxzM3djZ3pEWlBzYWllUkVNYm12czZaNjdXNGk4LW8zZEFnd3FtdWhVTEFQZFNYZXdtNm1lajhkSmJacl91bGZNa0VSSzdCbC1TdDUtdldkc0liS3ZIYmhIMTB5Qi1ZOHZ2RWZzakV6TzktcDdFTXRlZWdCNEpuQ0xxTdIBigJBVV95cUxOM0FLS291am5kclZEUGVNWGhoSGo5dkxidjAxOTF6OGhHaFpubm1TLUphaGZkWnVCT1dvSDBHQkUwWU5nZkp4cTU4XzlUbzRmZVJSTHA0R0hESkZXa3NYWGdmSU9YNWotTUdMNVl5SEhRcnJSY3lORzdHOHM3dmZBdWM3aWs2V180NXlVa1Nxb2RESUhXS1p2b1RXaWYzQ2xoTlJqRktMd2FIRHVVQ0luQmNwYTVIM2UtbDZQNERQcF8wN2NLREJSaVN0ZkNSblJCbnFDazdFMWkzVG92N2VtdTNoZFJxeGpYemdjZDBTdFVwT2haVUpYeE1JLUVGaWhOOVlQNTZFMG14Zw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 23 Mar 2026 20:40:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb19tYXJSLURqcTFHSXRQd0t2YlktSUNDdXoyTklFVlFka0dlT3dFeFl1ektPa1lpa0ktX1dyM2VlRGplSFluelF0OHNISVJnTnlLZFlCcVVFbHBKVmR5cGVMTVg5Y3Y5V0t1V0FjaWR4dWxBZUxzM3djZ3pEWlBzYWllUkVNYm12czZaNjdXNGk4LW8zZEFnd3FtdWhVTEFQZFNYZXdtNm1lajhkSmJacl91bGZNa0VSSz"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPek5iSks0a3hLdEI5Rk5PeDczR2J6Q3JxcmRIVkZsVVNwTUIyT2VNY2QxSDZ0andOTUpQRW9oLU9MZG52RXNkbThYUW9xSmRVRXRHSkg1ZVM1U1JveF9fSzdZZkViOHRqVURiYVRaT1hBQkpDcEpPYVQ0SGxhY1hyd0JVQU9NWTgwRkdjbHZ3Q252SGFoZ1hhbXoxRFdZcE4xaC1TcFpiU1M5MVVob2owOTBFSTFZVTVFcG"
     },
     {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture capit"
     },
     {
-      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
+      "title": "Orion Startups: 10 años de venture capital en Chihuahua - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXhxV1BITkozWlRtaTRHTnRVNHNYWDZlNXFxLUl1SEdUMHh1enVEQ3BTUHQyeWhNNjB1bXAzNkpsTmRiczViM18zR2RmeFVFNmVYWWM3UHZmVWVQUW1oa3RpSkxCeU5jSWcydG5GYmcwWW92OVFpZTgxZndfYUJtZzdsWXJzTlhZUUc5eGNR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
+      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXhxV1BITkozWlRtaTRHTnRVNHNYWDZlNXFxLUl1SEdUMHh1enVEQ3BTUHQyeWhNNjB1bXAzNkpsTmRiczViM18zR2RmeFVFNmVYWWM3UHZmVWVQUW1oa3RpSkxCeU5jSWcydG5GYmcwWW92OVFpZTgxZndfYUJtZzdsWXJzTlhZUUc5eGNR?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture "
     },
     {
       "title": "Cumple Ley Fintech 8 años con 795 startups y auge de inteligencia artificial - NotiPress",
