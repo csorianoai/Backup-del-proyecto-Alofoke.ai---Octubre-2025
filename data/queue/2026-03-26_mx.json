@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Aspiradoras que suben escalones: la apuesta de Dreame en México",
+      "url": "https://expansion.mx/tecnologia/2026/03/26/dreame-mexico-lanzamiento-aspiradora-escalones",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Mar 2026 22:00:36 GMT",
+      "summary": "Dreame alista en México el lanzamiento de su portafolio presentado en el CES 2026. Incluye un robot que sube escaleras y un purificador de aire premiado."
+    },
+    {
+      "title": "Hogares inteligentes: el negocio de 1.4 bdd que redefine el mercado tech",
+      "url": "https://expansion.mx/tecnologia/2026/03/26/hogares-inteligentes-negocio-1-4-billones-mercado-tech",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Mar 2026 19:00:16 GMT",
+      "summary": "Los hogares inteligentes se consolidan como uno de los mercados más prometedores del sector tecnológico, impulsados por la conectividad, la IA y nuevos modelos de suscripción"
+    },
+    {
       "title": "Apple profundiza la fabricación en EU con una inversión de 400 mdd",
       "url": "https://expansion.mx/tecnologia/2026/03/26/apple-profundiza-la-fabricacion-en-eu-con-una-inversion-de-400-mdd",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Wed, 25 Mar 2026 22:20:26 GMT",
       "summary": "La feria reunirá en Ciudad de México a líderes de la industria de electrónica y electrodomésticos, en un contexto donde el mercado nacional mantiene un crecimiento superior al consumo masivo."
-    },
-    {
-      "title": "Servicios, el blindaje de 112,831 mdd de Apple frente a la crisis de la RAM",
-      "url": "https://expansion.mx/tecnologia/2026/03/25/crisis-ram-apenas-afecta-apple-servicios-respaldan-empresa",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 25 Mar 2026 21:00:11 GMT",
-      "summary": "Aunque los precios de RAM aumentarán a lo largo del 2026, la empresa tiene una estrategia en su software que le permite no subir los costos de sus equipos."
-    },
-    {
-      "title": "Meta y YouTube son declarados culpables por adicción a redes",
-      "url": "https://expansion.mx/tecnologia/2026/03/25/meta-youtube-pierden-juicio-son-declarados-culpables-adiccion-redes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 25 Mar 2026 19:20:32 GMT",
-      "summary": "Un jurado de Los Ángeles ordenó a las empresas pagar 3 millones de dólares en daños."
     },
     {
       "title": "Profesor UAO fortalece redes internacionales en robótica e inteligencia artificial en México - Universidad Autónoma de Occidente",
@@ -67,6 +67,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPek5iSks0a3hLdEI5Rk5PeDczR2J6Q3JxcmRIVkZsVVNwTUIyT2VNY2QxSDZ0andOTUpQRW9oLU9MZG52RXNkbThYUW9xSmRVRXRHSkg1ZVM1U1JveF9fSzdZZkViOHRqVURiYVRaT1hBQkpDcEpPYVQ0SGxhY1hyd0JVQU9NWTgwRkdjbHZ3Q252SGFoZ1hhbXoxRFdZcE4xaC1TcFpiU1M5MVVob2owOTBFSTFZVTVFcG"
     },
     {
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+    },
+    {
       "title": "Orion Startups: 10 años de venture capital en México - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5",
       "source": "Google News",
@@ -75,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRlBFeXVyOVl3T0hrWjVlOEV6cmpSb2hRMndaLV9GVWo1bTEtT0dlVm9XZkxPUXFsdlNQX3JmM05SOHhJenMzdkNLcl9xNlFVZFhiNE1kdzBkWXVyZjh0d1hlYXEtVXpBR05BWVhRMERXLTVfMFhuMnVFLUdINlpKakoxWDNraDd4cnc?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture capit"
     },
     {
-      "title": "Orion Startups: 10 años de venture capital en Chihuahua - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXhxV1BITkozWlRtaTRHTnRVNHNYWDZlNXFxLUl1SEdUMHh1enVEQ3BTUHQyeWhNNjB1bXAzNkpsTmRiczViM18zR2RmeFVFNmVYWWM3UHZmVWVQUW1oa3RpSkxCeU5jSWcydG5GYmcwWW92OVFpZTgxZndfYUJtZzdsWXJzTlhZUUc5eGNR?oc=5",
+      "title": "Mexico Tech Week 2025: innovación, startups e inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MDR0UFZLTXN2Q0RydmJvRmpLONIB0AFBVV95cUxQMjdwSlFnMWRhOFdiUmlMRmZNZktmaTJBSzVnMDZOVjh4NFZGbmt3MWpvTkJYVXoyNEVYc2JUdlF4c0hfQzFTa1lrQUNmdzFqdFU4b3JMR3RrZWJHbC1IVUtJSTVWYXk5bjBodERHQ21XdkFQVUQ5M2toSi05N0Y2dlJLMkU0Ql9USjJyWjhXQTdvVDE3REZ0b2ZYeUxIeUxCeUdlbS15alpMUmVYckthNDB6dklfMnNwMDhBbmJDOFJiVW5VNmhBblA2dnRhdlVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 04 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXhxV1BITkozWlRtaTRHTnRVNHNYWDZlNXFxLUl1SEdUMHh1enVEQ3BTUHQyeWhNNjB1bXAzNkpsTmRiczViM18zR2RmeFVFNmVYWWM3UHZmVWVQUW1oa3RpSkxCeU5jSWcydG5GYmcwWW92OVFpZTgxZndfYUJtZzdsWXJzTlhZUUc5eGNR?oc=5\" target=\"_blank\">Orion Startups: 10 años de venture "
-    },
-    {
-      "title": "Cumple Ley Fintech 8 años con 795 startups y auge de inteligencia artificial - NotiPress",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjFGakZpVE9MQno4cTV5SW5vanlmOXIwYTVnM1pnODlwZWJmOERTWU9fX1JQcUxyeTM0SVgzeUdobjRWREJHNjRfcW9IdWRidHB6RlB4bnR1MG5jODQ0NmwyRks4d3I3VW1HcEk1RW44aXM5RERuaFB5dW53ZWtKRldOM0dBOVhOejhkTXlkSFdnWDc3NGNDSFFKQl90RHB4T1FBZndB0gGrAUFVX3lxTFBXbW9MeVFtazhnNjVTYnFid3YtNmQ1NEktLTRqZy1HNUNaRktkeXFuRExJWGZ2TUNvQWlNOWU2QkRnbVF4NVlTelhkbHBhbFZfaHlwc0cxTW9wRUdNOVk4YjladDIydUhSZzRqck9taUNJRUtBS1ZSUk1lc3VRamw1UUJEZ2Z4NDU4S3NMYUlzSjNiSjlwc3ctVGdpRUtmV0hOMjZfNTJWYjB0bw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 26 Feb 2026 14:43:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjFGakZpVE9MQno4cTV5SW5vanlmOXIwYTVnM1pnODlwZWJmOERTWU9fX1JQcUxyeTM0SVgzeUdobjRWREJHNjRfcW9IdWRidHB6RlB4bnR1MG5jODQ0NmwyRks4d3I3VW1HcEk1RW44aXM5RERuaFB5dW53ZWtKRldOM0dBOVhOejhkTXlkSFdnWDc3NGNDSFFKQl90RHB4T1FBZndB0gGrAUFVX3lxTFBXbW9MeVFtaz"
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGxzZHVNTklUQks5Y3RJWFFmVlpmT0xlcG1aZmJaZDBFR3ZvbFpMVjZ2MGtKMXlTM3JaOUZMQmQ0YUFqbE1ta0xVQVhEYWs5ejJaSVE2RWwybDd3Y3FaVEZFUXJRX2djZ3RkS2ZHOUVSMVg2X0xXSVBTUWtVRVRFWmNHSzJYRGxNUEdValh1TDRGMS0zMF9NbEtud0pNcktrX1NydV9VUW8wZTMtTTN0Z0o1ek0xR1A1MD"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "IA en la enseñanza: especialista Tec habla de sus retos y beneficios - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVGZQZE9hcw?oc=5",
+      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     },
     {
-      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14
