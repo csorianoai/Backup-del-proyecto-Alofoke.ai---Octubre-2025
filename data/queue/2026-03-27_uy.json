@@ -3,14 +3,6 @@
   "country": "uy",
   "articles": [
     {
-      "title": "Google financia con USD 5 millones la educación en inteligencia artificial de América Latina - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzVoSDN5OHllWWRGbGxLcUZiYVZSdG9Ub1g0dTF6VFMxSGZKTDVBVHRUNVlvci11MGNSVnZnVzRMWFNjUUN4RFVmYl9ISk9HYVZxdDJvOGRLNHNZQ04xUTBYSzRxeXVZV3piNHhNZTF0SUlNMkdUMkFUX1FjalBVMmtFUExVaEVXY0QwTlBJY0JWX19fZXpLMUtTRU9nWmxXeHpVVWJtX2tidHJGQ1NYNW1iSTBVbTVZaUtuOGM0T1F6ZkJKWDdOYWw3c1E5dW_SAeoBQVVfeXFMUG12ZUlkdWxjeWxramlwaktfRnJSSURkWklMbXp2NjVfTjV4NEFENzllZmRqT2puWEpuN2N6emJJMzRLbGpBNnR6QVNCWHhNTndKN0c4LWV1VEs3dUZkU19tTzdwZ2xHY0gwY1hHLWJHTzVyTFVwMDRWdVF6NC1zdmc0V19fa2RjYjl1bmt5dm1SUjR0NHk5UWx4QktRUlpUMWFpQWdRSHlfdW1KeFRLMWI1OUF1UkZ2OGxxS1NoUnBXUG9Nbm1sVFdJQnlBaDF5Ukw4dGhrazlLTzBHZTFhYUNBZ0otN19ZWWhR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 27 Mar 2026 18:13:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzVoSDN5OHllWWRGbGxLcUZiYVZSdG9Ub1g0dTF6VFMxSGZKTDVBVHRUNVlvci11MGNSVnZnVzRMWFNjUUN4RFVmYl9ISk9HYVZxdDJvOGRLNHNZQ04xUTBYSzRxeXVZV3piNHhNZTF0SUlNMkdUMkFUX1FjalBVMmtFUExVaEVXY0QwTlBJY0JWX19fZXpLMUtTRU9nWmxXeHpVVWJtX2tidHJGQ1NYNW1iSTBVbTVZaU"
-    },
-    {
       "title": "Microsoft y el gobierno de Uruguay lanzan el Laboratorio de inteligencia artificial para el bien en una nueva etapa de colaboración público-privada - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZDVFM2JSV19VUk9kSXRnUVVWVENEbzlLOGhFbWtPTGFNbmRISXRFNWFidGRNcmpfbXg4VE5KUVU0UC1KQTdDVUR5ZHZ3eEc4Z1ZRbV9mUUxfVnI5emNlbFE4Y2R5aXRPQzdSMlMtVktQRVYtYVJ0ZG1IaWFlaHFKMWlyelZxamlsTnp1U2w3cm5qMHluRnFkN0g0MUNESTlSbk1naV9vaUtDVU5iWU9QM2NMSjFyZU1qYjRZT2RNbG1CV0ZLZWgtcThqQngwX1BtYXo5dmJrU1BpMG1GX2JKSnppSnB4Y004eEZISXlKWi1hOGJ6dHFMbzJoNjd4cVBSQldfNklKOEdscW1MTkEyMG0xbmZ6LTlQRFNOLTZFangxNXRaY0NSSmR5LXB0VEQ5TE05dg?oc=5",
       "source": "Google News",
@@ -19,12 +11,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxOZDVFM2JSV19VUk9kSXRnUVVWVENEbzlLOGhFbWtPTGFNbmRISXRFNWFidGRNcmpfbXg4VE5KUVU0UC1KQTdDVUR5ZHZ3eEc4Z1ZRbV9mUUxfVnI5emNlbFE4Y2R5aXRPQzdSMlMtVktQRVYtYVJ0ZG1IaWFlaHFKMWlyelZxamlsTnp1U2w3cm5qMHluRnFkN0g0MUNESTlSbk1naV9vaUtDVU5iWU9QM2NMSjFyZU1qYj"
     },
     {
+      "title": "Google financia con USD 5 millones la educación en inteligencia artificial de América Latina - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzVoSDN5OHllWWRGbGxLcUZiYVZSdG9Ub1g0dTF6VFMxSGZKTDVBVHRUNVlvci11MGNSVnZnVzRMWFNjUUN4RFVmYl9ISk9HYVZxdDJvOGRLNHNZQ04xUTBYSzRxeXVZV3piNHhNZTF0SUlNMkdUMkFUX1FjalBVMmtFUExVaEVXY0QwTlBJY0JWX19fZXpLMUtTRU9nWmxXeHpVVWJtX2tidHJGQ1NYNW1iSTBVbTVZaUtuOGM0T1F6ZkJKWDdOYWw3c1E5dW_SAeoBQVVfeXFMUG12ZUlkdWxjeWxramlwaktfRnJSSURkWklMbXp2NjVfTjV4NEFENzllZmRqT2puWEpuN2N6emJJMzRLbGpBNnR6QVNCWHhNTndKN0c4LWV1VEs3dUZkU19tTzdwZ2xHY0gwY1hHLWJHTzVyTFVwMDRWdVF6NC1zdmc0V19fa2RjYjl1bmt5dm1SUjR0NHk5UWx4QktRUlpUMWFpQWdRSHlfdW1KeFRLMWI1OUF1UkZ2OGxxS1NoUnBXUG9Nbm1sVFdJQnlBaDF5Ukw4dGhrazlLTzBHZTFhYUNBZ0otN19ZWWhR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 27 Mar 2026 18:14:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzVoSDN5OHllWWRGbGxLcUZiYVZSdG9Ub1g0dTF6VFMxSGZKTDVBVHRUNVlvci11MGNSVnZnVzRMWFNjUUN4RFVmYl9ISk9HYVZxdDJvOGRLNHNZQ04xUTBYSzRxeXVZV3piNHhNZTF0SUlNMkdUMkFUX1FjalBVMmtFUExVaEVXY0QwTlBJY0JWX19fZXpLMUtTRU9nWmxXeHpVVWJtX2tidHJGQ1NYNW1iSTBVbTVZaU"
+    },
+    {
       "title": "La primera IA sobre salud mental en América Latina es entrerriana - Diario Río Uruguay",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0k0eVk1Vkl3aVo5VlplSGdyOXZpUGY2d01LdmgyTC10Rk5YN2RhakcwX084RDQ4RllNUVBNZkVLYkZDak41R08yVjg1dUZxcm1PT0dLZURBYjBVS3ByRUlhV0c0NFlTclVfREJFSk1fSXpPdHBXMV85cGdNWDRaY202eVZudUJaZU1OelU4dVRpMUlkYTNWTXQyZUx0VmZSTmdXelhjT3A2ZkpENFZtV21fMXgwVDNxSW9JcVNBckZPLWNjTzJIMVFGRFlEYUZt0gHAAUFVX3lxTFBfWVlMNlBxQXBwQ2p6dDdvdHpkbFFqQmQwYlV6MnZXbmxhS3BMU1FOOGtZVmJ2a1RraDVWTUE2OU5MX0xzNFlMSzVKbGg4dTl4TWY5MTZLZ0VDZ01HSUxzaTVISXBlbDFCNFRDUnNlWVZNdXJZWVFwZ196YkxxNnZwRFhaQjRjejVOWjBoZEZKVm45ZVNiUFhqbndmVkd4SEYxRThTMWdlaFNOUTR4OU5GZlVyeWE5cFBJZGh1SzkxVg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVNZMWV2OVVvSmJabE5rdFgyLWwzWUhNQkpvOVp2YjlPV0pMY1M5dXNmSzhIZ2RCSFZ6MGI0Xy1rLTNmcU9pZEx1Zk1UMFN2ck4zcUp5NndxbzVpRVFobkp2LUx3U2V3Q2l3ckR3emtvRm9YeHBOeWZNc1B4NXdRdGZrdTlNQU1OaWxwRUJnXzNiaHo5SGR0eDdTbkxQei1XUWNlbEtkbE94NjdOWEFKUk12Qk5JVks4YnBzdllVV1pLM3oxUzUzcVNuNTZPX2hEb3J4X3RB0gHGAUFVX3lxTE95LU1XOUo5T0lQYWV6Qk84Q0VPeVVyZ1JVelNISTFfT1JURmQzMFhXVWhjalpxODlXaXNHVDJodGxvWDFOY0g3bFNTOEhleFJMZDF2S08tRFpWQU1tWWU1SzRZUkhyTE9WOWp2cFhzeFltYVhfRE1sMXlaVEZob21sUFp2ODV2cVhsNnVoU0t5RkozazBwbDR2SXhvNUx1QjV0c2VLdnFKeGRDQTZDVmJyYTZSb2RMUVBGSU53OHpEcGhRR2taZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 26 Mar 2026 17:00:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV0k0eVk1Vkl3aVo5VlplSGdyOXZpUGY2d01LdmgyTC10Rk5YN2RhakcwX084RDQ4RllNUVBNZkVLYkZDak41R08yVjg1dUZxcm1PT0dLZURBYjBVS3ByRUlhV0c0NFlTclVfREJFSk1fSXpPdHBXMV85cGdNWDRaY202eVZudUJaZU1OelU4dVRpMUlkYTNWTXQyZUx0VmZSTmdXelhjT3A2ZkpENFZtV21fMXgwVDNxSW"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRVNZMWV2OVVvSmJabE5rdFgyLWwzWUhNQkpvOVp2YjlPV0pMY1M5dXNmSzhIZ2RCSFZ6MGI0Xy1rLTNmcU9pZEx1Zk1UMFN2ck4zcUp5NndxbzVpRVFobkp2LUx3U2V3Q2l3ckR3emtvRm9YeHBOeWZNc1B4NXdRdGZrdTlNQU1OaWxwRUJnXzNiaHo5SGR0eDdTbkxQei1XUWNlbEtkbE94NjdOWEFKUk12Qk5JVks4Yn"
     },
     {
       "title": "Cortitas y el pie: cuánta tecnología - Montevideo Portal",
@@ -51,28 +51,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalMzdF84VW11Qk5ORWg1UWFkZHRzTUwxWFQ4bkc2dWdTcVNLNnVYd3dNZHlGSndzRWtIXzNCY0FsMWJZR1JqajZBbEYtNzRmYWlSRjF3RFBtZVJxOVczeU42MVVhamRSM1o0R0hVZ3ZJVTM2Q0NJZklNc0NkaGsxaE5IMWtVQnNjbTc0eEZFQjRPei1VUElBTmoyQ3N2T0RtSndVaTRvSGw4Q3lneFZwb2VTMnFyeEFQa2"
     },
     {
-      "title": "Startup uruguaya desarrolló agente de IA que vende y resuelve consultas: en tres meses uno de sus clientes logró vender más de $10 millones - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcV91LW9MUDNHblVtZjdUZVkxdDI4Sk9VLUJpZzI5ZVM2UUczeks5S1BiWFY5dlI0Mmg1ODJrcTE0c2U5Q2R3aXdZb3Byb0R2ZTlsTXlqVGlTdFBXUHJUanBTUVR4UXFyclliQmlGMHhDamE2YkNXekFDS3BNcFBxUm9ZLTlBekNtUHBFQmxFV0hFek9W?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 23 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQcV91LW9MUDNHblVtZjdUZVkxdDI4Sk9VLUJpZzI5ZVM2UUczeks5S1BiWFY5dlI0Mmg1ODJrcTE0c2U5Q2R3aXdZb3Byb0R2ZTlsTXlqVGlTdFBXUHJUanBTUVR4UXFyclliQmlGMHhDamE2YkNXekFDS3BNcFBxUm9ZLTlBekNtUHBFQmxFV0hFek9W?oc=5\" target=\"_blank\">Startup uruguaya desarrolló"
-    },
-    {
-      "title": "La startup uruguaya Horizon AI cierra una ronda de inversión semilla por 3,5 millones de dólares - fundssociety.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSktZeFhoMUNiZHZNSVMybFM2c1NqeEl5NkQtTEg1OC1HUEltc0xETExKUmlVZXdHaS1rQlN1REJUblMxSHhFOU1VaHBZTFVuZ3pMWnFrSU0tbkNYQmgyVlp6cngyNE03bGFwNVFXY1I1b2VoRUh2elk2MW13WDNVbFdCdWhfbUJIdXNZS0xFeW40NHVHU0ZKUU5wSjltZEFvRV9uczFpdjAwYzUwekJza2NrRVUyMzl5dnd2c09rMjVYLTVTVjNKUWlPQkVEOU5CY2YtcURrZm4zeGNQT3lKZFNsUVU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSktZeFhoMUNiZHZNSVMybFM2c1NqeEl5NkQtTEg1OC1HUEltc0xETExKUmlVZXdHaS1rQlN1REJUblMxSHhFOU1VaHBZTFVuZ3pMWnFrSU0tbkNYQmgyVlp6cngyNE03bGFwNVFXY1I1b2VoRUh2elk2MW13WDNVbFdCdWhfbUJIdXNZS0xFeW40NHVHU0ZKUU5wSjltZEFvRV9uczFpdjAwYzUwekJza2NrRVUyMzl5dn"
-    },
-    {
       "title": "nutrIA: build in public con IA y 3.000 suscriptores - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEhTcHlRRHFiVHV5UGlYdkJLM1VZUHJLYVp4bUZXYUI3T1RFekNWME1oYkF5TEt1MW5ZdlhHX2NDb1lrRVU5bm43b1NlVWpPNmQwWEVvYUJtV1UxUl8xQkZYWGx6NkF3LVVOSXQ5UlAwRlpOc0NzLXpMVkYxZm5IekZZaXFvWkQw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sat, 14 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEhTcHlRRHFiVHV5UGlYdkJLM1VZUHJLYVp4bUZXYUI3T1RFekNWME1oYkF5TEt1MW5ZdlhHX2NDb1lrRVU5bm43b1NlVWpPNmQwWEVvYUJtV1UxUl8xQkZYWGx6NkF3LVVOSXQ5UlAwRlpOc0NzLXpMVkYxZm5IekZZaXFvWkQw?oc=5\" target=\"_blank\">nutrIA: build in public con IA y 3.000 susc"
+    },
+    {
+      "title": "Brasil detectó que Meta violó una orden regulatoria que afectaba a una startup uruguaya de IA - elobservador.com.uy",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc3M0SUJiWFpWRE12cS1pMVF4MW5MUmdSbklaSGFOT1BabUZvNmF1dUlnQTlsQ19BYmZBOVQtc0pEcllmTGpLeEp5UnpPaXE0STdLUnc5VFJGRm4xc2tEMlRXVFF0WGpuRXVBNEJocnlBQUlxbUgxOWFrZmxoVU5WQlMzdldLLWJ0eWFVU1BXX1pXSDkwR3ZzR3Jnc2NHUjI0WEhsbW95N0x1N29MZlVZYXFWZldTbExDclIxaDd3TndQV0xvTGVwUnkzTnp0OHlPLVNXU1NISWt4TENEdml4U2ZsUGvSAeoBQVVfeXFMT2kta3A0dTdpTm14cjlSNjJ4bE16RGI3aDhFUnp0QVNhNHFLaWx2V0JrZm9CMC0ySm1VeS1BLWxzOGttaGltLWlNbHRUUk1URkg4MC1wRFhZMWJFMHRaNEVIRGo1OHplcm1IQl81Q2hiaWVacDRwYWVSWGVZV2hCS0NMdkVMV054SC1ZWkNNNVB5ajVKcTRMM0hSVmhPclU5X3FDdnRJX3ZjYVB2YWwzZlNENjI4MWppeHVyUUFjUmEwNTNCVEp5WXh6MTJwM0VCN0xXRWVLY3VVS3dsWkhGUkVySW81Mnhlc3Zn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Mar 2026 17:29:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc3M0SUJiWFpWRE12cS1pMVF4MW5MUmdSbklaSGFOT1BabUZvNmF1dUlnQTlsQ19BYmZBOVQtc0pEcllmTGpLeEp5UnpPaXE0STdLUnc5VFJGRm4xc2tEMlRXVFF0WGpuRXVBNEJocnlBQUlxbUgxOWFrZmxoVU5WQlMzdldLLWJ0eWFVU1BXX1pXSDkwR3ZzR3Jnc2NHUjI0WEhsbW95N0x1N29MZlVZYXFWZldTbExDcl"
+    },
+    {
+      "title": "Startup argentina que transforma fábricas tradicionales con IA busca levantar ronda de US$ 1,5 millones para desembarcar en Uruguay - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGVyNF9VdWpoaFFodDhrWTB5VS1iYnRlQ2RqOVZwZHZBU3dhdHFNYTFmQWVvRlNHUy1oZkt0YU56TS1jZHcwTGxUY1l3N2JCQk9iLTlMdXdfb1ctcFBmWGFXZnlJanU5dzNxSUJCdEtrSXJETHdsNW5HenRzR1J0ZE5aRVUta3hlVjFmZ2dMVFMxX0RSSk5tWmRMZjFsM2ZaWHlUMEF0MA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeGVyNF9VdWpoaFFodDhrWTB5VS1iYnRlQ2RqOVZwZHZBU3dhdHFNYTFmQWVvRlNHUy1oZkt0YU56TS1jZHcwTGxUY1l3N2JCQk9iLTlMdXdfb1ctcFBmWGFXZnlJanU5dzNxSUJCdEtrSXJETHdsNW5HenRzR1J0ZE5aRVUta3hlVjFmZ2dMVFMxX0RSSk5tWmRMZjFsM2ZaWHlUMEF0MA?oc=5\" target=\"_blank\">S"
     },
     {
       "title": "Uruguay en la economía del conocimiento: desafíos ante la transición verde y digital - United Nations Development Programme",
