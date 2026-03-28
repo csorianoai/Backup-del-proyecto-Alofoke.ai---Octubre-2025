@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Crisis en xAI: Elon Musk perdió a su último cofundador y corre desde atrás en la carrera por la inteligencia artificial",
+      "url": "https://www.clarin.com/tecnologia/crisis-xai-elon-musk-perdio-ultimo-cofundador-corre-carrera-ia_0_l8vcemWjli.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 28 Mar 2026 17:30:17 +0000",
+      "summary": "<ul><li>Ross Nordeen, uno de los 11 cofundadores originales de xAI, dejó la compañía esta semana.</li><li>Con su salida, Elon Musk se queda sin integrantes del equipo fundador que lanzó la startup en 2023.</li><li>Ola de renuncias, en medio de críticas a Grok porque generó imágenes sexuales de menor"
+    },
+    {
       "title": "Google Maps ofrece una pista clave sobre la misteriosa desaparición de la piloto Amelia Earhart",
       "url": "https://www.clarin.com/tecnologia/google-maps-ofrece-pista-clave-misteriosa-desaparicion-piloto-amelia-earhart_0_6JTf9LnV6H.html",
       "source": "Clarín Tecnología",
@@ -35,15 +43,7 @@
       "summary": "<ul><li>La certificación médica en Europa habilitó el uso clínico de prótesis dentales impresas en 3D.</li><li>Marca un avance clave en la digitalización de la salud y los tratamientos personalizados</li></ul>"
     },
     {
-      "title": "Hackeo a Aerolíneas Argentinas: el acusado pidió quedar libre y podría enfrentar hasta 6 años de prisión",
-      "url": "https://www.clarin.com/tecnologia/hackeo-aerolineas-argentinas-acusado-pidio-quedar-libre-podria-enfrentar-6-anos-prision_0_gptALyrnkN.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 25 Mar 2026 23:17:13 +0000",
-      "summary": "<ul><li>Juan Ignacio Veltri está con preventiva en una comisaría de la Ciudad porque todavía no hay cupo para trasladarlo a un penal.</li><li>Lo investigan por presunta estafa por comprar el equivalente a 500 mil dólares en pasajes .</li><li>Le trabaron un embargo por 910 millones de pesos y la defe"
-    },
-    {
-      "title": "La sede argentina del hackathon de salud enfocará su trabajo en inteligencia artificial y startups - Infobae",
+      "title": "La sede argentina del hackathon de salud enfocará su trabajo en inteligencia artificial y startups - infobae.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmI5enR4ZmR2QjRiV2pLdGZzQ2h3aVJjV28tbng1alBPaUU5SkFVcXJTTGZfVmdpS3N6a012VzhlT2pDZ3FraW1Ga1dCQ3NGcndoYjFmdzl4NmtsUk5QWUtzOWh6YWIzY21tLWJKOXFkZ3lmbkgyTjdLZ01hS2VnQ09jS1Y1akpnTVBWc01XVnlMVXRzMjhOMWZ6eG1tWm5KRnhwQ1g3enp6cEpCc2FoT2Rac1FYd2ZMaEJWUnJRakh1NjdUdjd6RUxyUS1TcG92dHM4dDhCTFhVUXdVQzVLUG5n0gH8AUFVX3lxTE4yZFExeFVtOGlzNWpXcmxRa1FzcVFVcjZ5UWJqOTJReEw5N0hmNzVMLVJ1eGpDMG9zTFQtUFJNVkpDTUZFWHB5cGZoWkFqZkhlc2FwY0V6c2l5ckNyN0p5aGdwY2gxNkRiRmYtcllMUXo5TGZYVEl2UFJtcW9NNWdqNU00QWd0QWZzeXR4UGtxUGFJZjVUYTJtTWNTWXoxMm5RWlc3Z0k3RUwxWWY1TjZWSkdEbmtlOFZPSzViWmVpWW4zY0l0NmlsMXhxcWdZTl9CRDZkYTRVZEJfa1RfTjJHeGRRb3ZYaVBaNEhLb0pNNU5LNHdSQlNQa3YzdA?oc=5",
       "source": "Google News",
       "category": "news",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmI5enR4ZmR2QjRiV2pLdGZzQ2h3aVJjV28tbng1alBPaUU5SkFVcXJTTGZfVmdpS3N6a012VzhlT2pDZ3FraW1Ga1dCQ3NGcndoYjFmdzl4NmtsUk5QWUtzOWh6YWIzY21tLWJKOXFkZ3lmbkgyTjdLZ01hS2VnQ09jS1Y1akpnTVBWc01XVnlMVXRzMjhOMWZ6eG1tWm5KRnhwQ1g3enp6cEpCc2FoT2Rac1FYd2ZMaE"
     },
     {
-      "title": "Google habilita Search Live en Argentina: la búsqueda se convierte en conversación - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZng3V3VHNTRPQ0REdEEyYkZ4RFF4MXVUQTRmaHl3X0RDU09idFc5QmNtaWZFMlZhcWczN2F3Nk9UV1NOZzJRN3o1RjBDOGVONUpYdmRZUzZKLUVxZGJDWDRqekF2SkxCbU5odnhnTUlBVlItMnFhUjRTR2g1WDQzN3pVVEtyNk1FSmppTjlPNkNPWGxHSmNveExMX3pQZ1Y2eFBNRlRQWWhYRnRnNkhRTnlDTEhTdG5hOTJudnducXdZeHRIRmFZbW04d1RUZw?oc=5",
+      "title": "Las empresas están adoptando la IA, pero muy pocas están preparadas para asumir esta responsabilidad - itsitio.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeVRhaS1iTXAweWVTNUxwLW9hakd1Qkx2aGdwUU9nSS1Wb1J4YUI0QzZ4bDY3NEFZRFFQU01fajY3MERKNWpTOXJOZllGcXlIWi1yNDFVZFFwQ0gwVEhNRVVwZGotNXcyZWtKbFhMTjhIWDJfTlhMel9mU1I3UmZFcU9MMXZ1Uml2MVJDcjV6WXhjTHB6TmdEWEVqVEIxd2lrcmVPT3FvQzBMXzl3bDBpZ3hYN3JoQnlZOUVnUWRRSWRTMTZBZHktTlRxU1FuVl96aFU0WHN0enFNc0c3V3RqNFJJd0I2QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 27 Mar 2026 19:29:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZng3V3VHNTRPQ0REdEEyYkZ4RFF4MXVUQTRmaHl3X0RDU09idFc5QmNtaWZFMlZhcWczN2F3Nk9UV1NOZzJRN3o1RjBDOGVONUpYdmRZUzZKLUVxZGJDWDRqekF2SkxCbU5odnhnTUlBVlItMnFhUjRTR2g1WDQzN3pVVEtyNk1FSmppTjlPNkNPWGxHSmNveExMX3pQZ1Y2eFBNRlRQWWhYRnRnNkhRTnlDTEhTdG5hOT"
+      "published": "Fri, 27 Mar 2026 13:22:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeVRhaS1iTXAweWVTNUxwLW9hakd1Qkx2aGdwUU9nSS1Wb1J4YUI0QzZ4bDY3NEFZRFFQU01fajY3MERKNWpTOXJOZllGcXlIWi1yNDFVZFFwQ0gwVEhNRVVwZGotNXcyZWtKbFhMTjhIWDJfTlhMel9mU1I3UmZFcU9MMXZ1Uml2MVJDcjV6WXhjTHB6TmdEWEVqVEIxd2lrcmVPT3FvQzBMXzl3bDBpZ3hYN3JoQnlZOU"
     },
     {
       "title": "Argentina | Buenos Aires tendrá su distrito de Inteligencia Artificial en el microcentro - DPL News",
@@ -75,7 +75,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VpbHA5OEdHcG0wd0ZVU1hyUEtOT3VYMXA1LTBSemNqNjNTWUxxa2c4UGR3QlBvLTI3bEdQUGhSekVQNFZDTjRQZE5hM3JkRlZyMk9MR3pwMTAyU3RxdnlfU3Bsc1V0THd1bHBTRkttV2xuN0poVTZaN21aRXBHTEllbFpZcFV1TC1MT2VMUnBGZGQ3NDAwS0dnUVhzdU5DY29fZld3Z0JkVmg4bnc1RlNob0IxMGZ5NX"
     },
     {
-      "title": "Harvard impulsa startups de salud en Buenos Aires con hackathon de IA - ecosistemastartup.com",
+      "title": "Harvard impulsa startups de salud en Buenos Aires con hackathon de IA - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2ZFYXZSbHVpLVY5MVJqWlBoOFZjX2ZlSmJCOFp4aUVEUlplczBRaE5CeTlXV2llc0FhME96YjhEeGRiWnFjMUxNa0h0ZDNuMHM1T3ZEOWRnYnptTk00TTBRanc3Yzl4TUpGOWJhM1I1eU40OS1yS3IxbndIem4yRjlYTnY5QVhSX09vcEVjNFBUeDdVVDNaU01WbXlnN2NRa1E?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,15 +83,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2ZFYXZSbHVpLVY5MVJqWlBoOFZjX2ZlSmJCOFp4aUVEUlplczBRaE5CeTlXV2llc0FhME96YjhEeGRiWnFjMUxNa0h0ZDNuMHM1T3ZEOWRnYnptTk00TTBRanc3Yzl4TUpGOWJhM1I1eU40OS1yS3IxbndIem4yRjlYTnY5QVhSX09vcEVjNFBUeDdVVDNaU01WbXlnN2NRa1E?oc=5\" target=\"_blank\">Harvard "
     },
     {
-      "title": "Ciudad sandbox: la apuesta de Buenos Aires por la IA - Agroempresario.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenBRcDNRMHExMlBJOE9yN3BtTDVCSWhJazlyTDNuUEs3WTBNeURiRFR0TkcydTRGbzhUNnZpX0R6cTdYZGxFOWlFbDZmVDZNUG9zU3p3ZE5QcnlDakFNX1NRNzRZRDRDbWt5YkNSNDA4WXJDSDdmbk5pd2p0cURYYWpUUS1GcUQtcjUzS0FSWC1pUzhHeXdPekY0bEVVamtOcWtRVkwxYVY?oc=5",
+      "title": "Buenos Aires tendrá un distrito de inteligencia artificial, ¿qué se espera lograr? - Gestión",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejB1THFuR0EteE1jRTBFQWNjdC11eVQ4Q3V5X29PTGtrN2Y3SkMxaGllWWJUejFfZFRSQVk2Snk0Ymp5NTFPYzV6SGVUVEVjTlNKOWluVlhIU1NpOVpTY0w1XzNfbWVxOTFWRFlYSWJMRVpXelVEUFotTnlLS1NYVm1IX0V5TnFzdWthSElITnNmUVBLYi1DUlZ1SXc3Zi02SGxXYmlONVlsOS0ycHVxc3hhcjVoSXpWNnl2RnZsVGpsYUk0Z2c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 28 Mar 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenBRcDNRMHExMlBJOE9yN3BtTDVCSWhJazlyTDNuUEs3WTBNeURiRFR0TkcydTRGbzhUNnZpX0R6cTdYZGxFOWlFbDZmVDZNUG9zU3p3ZE5QcnlDakFNX1NRNzRZRDRDbWt5YkNSNDA4WXJDSDdmbk5pd2p0cURYYWpUUS1GcUQtcjUzS0FSWC1pUzhHeXdPekY0bEVVamtOcWtRVkwxYVY?oc=5\" target=\"_blank\">"
+      "published": "Thu, 26 Mar 2026 02:31:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPejB1THFuR0EteE1jRTBFQWNjdC11eVQ4Q3V5X29PTGtrN2Y3SkMxaGllWWJUejFfZFRSQVk2Snk0Ymp5NTFPYzV6SGVUVEVjTlNKOWluVlhIU1NpOVpTY0w1XzNfbWVxOTFWRFlYSWJMRVpXelVEUFotTnlLS1NYVm1IX0V5TnFzdWthSElITnNmUVBLYi1DUlZ1SXc3Zi02SGxXYmlONVlsOS0ycHVxc3hhcjVoSXpWNn"
     },
     {
-      "title": "Startups argentinas: gas, datos y ronda Serie B en Vaca Muerta - ecosistemastartup.com",
+      "title": "Startups argentinas: gas, datos y ronda Serie B en Vaca Muerta - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUFvVldCU2l1M0FPZ1hBN294X2E3bUpPaWw4UkQ3QW9KUFlWbG1QcDFBMHRCY045WFE5MHVLVVRCSW9sQXFTdVZid0dPSzJuVTlnZU11ajhFRk5jWkRnVnUxUDFOYnh2QlY1S0VGVzZCRlkyVWpmX1FrLUZsVHpOdmJjbXZGZFhfV3FiVkZaRkZTTnRRckE?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUFvVldCU2l1M0FPZ1hBN294X2E3bUpPaWw4UkQ3QW9KUFlWbG1QcDFBMHRCY045WFE5MHVLVVRCSW9sQXFTdVZid0dPSzJuVTlnZU11ajhFRk5jWkRnVnUxUDFOYnh2QlY1S0VGVzZCRlkyVWpmX1FrLUZsVHpOdmJjbXZGZFhfV3FiVkZaRkZTTnRRckE?oc=5\" target=\"_blank\">Startups argentinas: gas"
     },
     {
-      "title": "Digitalización eléctrica: Siemens lidera en Argentina - ecosistemastartup.com",
+      "title": "Digitalización eléctrica: Siemens lidera en Argentina - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkdhUXZ0SVkwVnQyOVJ2dXFqWHVyeDl3cXdNLU4zMkN6YXF0VGxFMFdla29ianA0a0ZTMW4zSWNjV2NfaF8wVDdQbnVSRklmRTltSjd2aXBraE5pQmVkSU9jWElOOGhZT0Q4bnloQkpndzlMem9OcjFiQlVBbUhLRjQ4Z1dUakdvSHlv?oc=5",
       "source": "Google News",
       "category": "news",
