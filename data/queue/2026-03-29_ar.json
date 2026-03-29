@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Tu Android no enciende ni carga: estos tips pueden revivirlo",
+      "url": "https://www.clarin.com/tecnologia/android-enciende-carga-tips-pueden-revivirlo_0_oO9pkoOMIx.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 29 Mar 2026 16:14:09 +0000",
+      "summary": "<ul><li>Cuáles son los problemas comunes y cómo resolverlos.</li><li>En caso de que el teléfono no responda con estos pasos, lo ideal es acudir a un servicio técnico.</li></ul>"
+    },
+    {
       "title": "El secreto mejor guardado de Windows 10: su fondo de pantalla no fue hecho por computadora, sino con una ventana real",
       "url": "https://www.clarin.com/tecnologia/secreto-mejor-guardado-windows-10-fondo-pantalla-hecho-computadora-ventana-real_0_EkxbePUu8R.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Fri, 27 Mar 2026 19:35:14 +0000",
       "summary": "<ul><li>Kash Patel fue atacado a través de su cuenta personal de Gmail y el Departamento de Justicia de EE.UU. confirmó el incidente.</li><li>Los hackers dijeron que fue una represalia después de que el funcionario prometiera “cazarlos” y ofreciera una recompensa de hasta US$ 10 millones.</li></ul>"
-    },
-    {
-      "title": "Celulares “eternos”: los modelos gama media que prometen durar muchos años sin quedar obsoletos",
-      "url": "https://www.clarin.com/tecnologia/celulares-eternos-modelos-gama-media-prometen-durar-anos-quedar-obsoletos_0_dVUFoSglLu.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Mar 2026 08:45:32 +0000",
-      "summary": "<ul><li>Samsung, Xiaomi y Motorola buscan romper el ciclo de recambio constante en su segmento más popular.</li><li>Qué equipos se consiguen en Argentina y por qué la longevidad se volvió clave.</li></ul>"
     },
     {
       "title": "Adaptarse o ser adaptado: detectan un bajo nivel de aplicación de IA en la industria argentina - Infobae",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNajJVeWdZclVmTjNvM0xXbDFHVXNpUW8teklHbFBPUWVfQmJyVlFCemlMRzdVaG4tdDEtdVBUYi1BOEc0ZS12RXBqeGxyak1SV3pXZGhwb2c0eVR3WXpaWTFNWTdjM0VQd25BbjNUZzY2dXJNZU15MkRyekJVUVZicVlNdzFsUkQ0SjdCTUJIMmVRZkcwc1ZzaTYxdm1kT0REZDBOc3k5emlmR2VnQmpBVEhnWFFzbVJ5Zm"
     },
     {
-      "title": "Buenos Aires tendrá un distrito de inteligencia artificial, ¿qué se espera lograr? - Gestión",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejB1THFuR0EteE1jRTBFQWNjdC11eVQ4Q3V5X29PTGtrN2Y3SkMxaGllWWJUejFfZFRSQVk2Snk0Ymp5NTFPYzV6SGVUVEVjTlNKOWluVlhIU1NpOVpTY0w1XzNfbWVxOTFWRFlYSWJMRVpXelVEUFotTnlLS1NYVm1IX0V5TnFzdWthSElITnNmUVBLYi1DUlZ1SXc3Zi02SGxXYmlONVlsOS0ycHVxc3hhcjVoSXpWNnl2RnZsVGpsYUk0Z2c?oc=5",
+      "title": "Argentina | Buenos Aires tendrá su distrito de Inteligencia Artificial en el microcentro - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTEpXZTY2a1dmNW00c1VJOVJvUHg3RGVDQkN0c2xWUFcwWjlwNWsxYS11R2xGTXc2X20zOC1FRlBMbGk4elR3MC1uY2tOTmdGcHZ0SlBrSzNvY01iRFdobERoYk5iaW9OY1ctYXdoanE2UFdqZTJMcmw2V01jd2ozbHlDLUIyQTExQmFIX3o3V3VvRXU0aEZvRkM3YWNiQjRYNFoxaHl5bXlocXM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 26 Mar 2026 02:31:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPejB1THFuR0EteE1jRTBFQWNjdC11eVQ4Q3V5X29PTGtrN2Y3SkMxaGllWWJUejFfZFRSQVk2Snk0Ymp5NTFPYzV6SGVUVEVjTlNKOWluVlhIU1NpOVpTY0w1XzNfbWVxOTFWRFlYSWJMRVpXelVEUFotTnlLS1NYVm1IX0V5TnFzdWthSElITnNmUVBLYi1DUlZ1SXc3Zi02SGxXYmlONVlsOS0ycHVxc3hhcjVoSXpWNn"
+      "published": "Thu, 26 Mar 2026 15:42:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTEpXZTY2a1dmNW00c1VJOVJvUHg3RGVDQkN0c2xWUFcwWjlwNWsxYS11R2xGTXc2X20zOC1FRlBMbGk4elR3MC1uY2tOTmdGcHZ0SlBrSzNvY01iRFdobERoYk5iaW9OY1ctYXdoanE2UFdqZTJMcmw2V01jd2ozbHlDLUIyQTExQmFIX3o3V3VvRXU0aEZvRkM3YWNiQjRYNFoxaHl5bXlocXM?oc=5\" target=\"_bla"
     },
     {
       "title": "La sede argentina del hackathon de salud enfocará su trabajo en inteligencia artificial y startups - Infobae",
