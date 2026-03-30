@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Mistral AI, el competidor europeo de OpenAI, instalará un data center en París",
+      "url": "https://expansion.mx/tecnologia/2026/03/30/mistral-ai-el-competidor-europeo-de-openai-instalara-un-data-center-en-paris",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 30 Mar 2026 16:00:17 GMT",
+      "summary": "La startup francesa recaudó 830 mdd para esta instalación que funcionará con chips de IA avanzados de Nvidia."
+    },
+    {
       "title": "Pinterest reestructura su operación en América Latina y apuesta por México",
       "url": "https://expansion.mx/tecnologia/2026/03/30/pinterest-reestructura-su-operacion-en-america-latina-y-apuesta-por-mexico",
       "source": "Expansión Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Fri, 27 Mar 2026 19:01:08 GMT",
       "summary": "A pesar de que la consola lleva seis años en el mercado, la empresa incrementará el costo de la consola hasta en 100 dólares."
-    },
-    {
-      "title": "Los gamers en PC superarán a los de consolas en 2028",
-      "url": "https://expansion.mx/tecnologia/2026/03/27/los-gamers-en-pc-superaran-a-los-de-consolas-en-2028",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 27 Mar 2026 11:55:11 GMT",
-      "summary": "El gaming está en constante evolución y la comodidad de las consolas en un futuro se verá superada por otras ventajas de las computadoras tanto en experiencia como en oferta."
     },
     {
       "title": "Profesor UAO fortalece redes internacionales en robótica e inteligencia artificial en México - Universidad Autónoma de Occidente",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
-    },
-    {
       "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
+    },
+    {
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14
