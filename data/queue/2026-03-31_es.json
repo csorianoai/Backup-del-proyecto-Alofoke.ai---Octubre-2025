@@ -3,12 +3,20 @@
   "country": "es",
   "articles": [
     {
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Estados Unidos se retirará “en dos o tres semanas” de la guerra de Irán",
+      "url": "https://elpais.com/internacional/2026-03-31/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 31 Mar 2026 22:09:42 GMT",
+      "summary": "Teherán afirma a la UE que está dispuesto a frenar la guerra si recibe garantías de que terminarán los ataques | EE UU responde a la amenaza de Irán contra las compañías estadounidenses en Oriente Próximo: “Estamos preparados para frenar cualquier ataque”"
+    },
+    {
       "title": "Trump se desentiende del estrecho de Ormuz, pese a que puso su reapertura como condición para el fin de la guerra",
       "url": "https://elpais.com/internacional/2026-03-31/trump-se-desentiende-del-estrecho-de-ormuz-pese-a-que-puso-su-reapertura-como-condicion-para-el-fin-de-la-guerra.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 31 Mar 2026 15:06:12 GMT",
-      "summary": "“Hagan acopio de valentía y tomen el petróleo ustedes mismos”, dice el presidente de EE UU a los países que usan la estratégica vía marítima"
+      "published": "Tue, 31 Mar 2026 22:22:23 GMT",
+      "summary": "El presidente de Estados Unidos prevé la salida de sus tropas “en dos o tres semanas”, algo que asegura que “desplomará” los precios del petróleo"
     },
     {
       "title": "Israel anuncia que demolerá “todas las viviendas” en las localidades libanesas fronterizas “siguiendo el modelo de Gaza”",
@@ -19,20 +27,12 @@
       "summary": "Los centenares de miles de desplazados del sur de Líbano tendrán “absolutamente prohibido” volver a sus hogares, según el ministro de Defensa"
     },
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán amenaza con atacar compañías estadounidenses en Oriente Próximo a partir de mañana",
-      "url": "https://elpais.com/internacional/2026-03-31/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 31 Mar 2026 18:41:54 GMT",
-      "summary": "Netanyahu dice que Israel está forjando nuevas alianzas contra la “amenaza iraní” | El Reino Unido enviará más recursos para reforzar la defensa aérea en Oriente Próximo | Trump insta a los países que sufren la crisis energética a ir al estrecho de Ormuz y a “conseguir” su propio petróleo"
-    },
-    {
       "title": "Secuestrada en Irak la periodista estadounidense Shelly Kittleson",
       "url": "https://elpais.com/internacional/2026-03-31/secuestrada-en-irak-la-periodista-estadounidense-shelly-kittleson.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 31 Mar 2026 17:57:46 GMT",
-      "summary": "Las autoridades han detenido a uno de los sospechosos, pero la reportera sigue sin ser localizada"
+      "published": "Tue, 31 Mar 2026 20:16:35 GMT",
+      "summary": "Las autoridades locales han detenido a uno de los sospechosos, que el Departamento de Estado de EE UU señala como vinculado a la milicia proiraní Kataeb Hezbolá"
     },
     {
       "title": "La aprobación en Israel de la pena de muerte para palestinos indigna a Europa y a la ONU",
