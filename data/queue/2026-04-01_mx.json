@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-01",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "E-commerce en tiendas propias crece 57% en México ante presión fiscal a marketplaces",
+      "url": "https://expansion.mx/tecnologia/2026/04/01/ecommerce-fuera-marketplaces-crece-mexico-cambios-fiscales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Apr 2026 11:55:31 GMT",
+      "summary": "El aumento en retenciones reduce la liquidez de los vendedores en plataformas y acelera la apuesta por canales propios con mayor control financiero."
+    },
+    {
+      "title": "Irán amenaza a Microsoft, Apple y otras Big Tech",
+      "url": "https://expansion.mx/tecnologia/2026/03/31/iran-amenaza-a-microsoft-apple-y-otras-big-tech",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 31 Mar 2026 23:30:51 GMT",
+      "summary": "La Guardia Revolucionaria de Irán advirtió que instalaciones de 18 compañías estadounidenses están en la mira a partir de este 1 de abril."
+    },
+    {
+      "title": "OpenAI cierra una ronda de financiación récord de 122,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/03/31/openai-cierra-una-ronda-de-financiacion-record-de-122-000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 31 Mar 2026 22:00:07 GMT",
+      "summary": "Con esta cifra, la empresa alcanzó una valoración de 852,000 mdd y se acerca a una salida a bolsa llena de expectativa por la rentabilidad de la IA."
+    },
+    {
+      "title": "Reseña: MacBook Neo es una laptop para oficinistas y estudiantes",
+      "url": "https://expansion.mx/tecnologia/2026/03/31/resena-macbook-neo-es-una-laptop-para-oficinistas-y-estudiantes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 31 Mar 2026 20:00:18 GMT",
+      "summary": "Apple quiere conquistar a las masas sin dejar de vender exclusividad, pues tiene un enfoque en la batería, la portabilidad y fluidez en su ecosistema."
+    },
+    {
+      "title": "Oracle despide a miles de personas, pero aumenta su gasto en IA",
+      "url": "https://expansion.mx/tecnologia/2026/03/31/oracle-despide-a-miles-de-personas-pero-aumenta-su-gasto-en-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 31 Mar 2026 18:30:35 GMT",
+      "summary": "La empresa está invirtiendo en la construcción de centros de datos para la IA, pero a través de deuda."
+    },
+    {
+      "title": "Talent Land México 2026: fecha, sede y ponentes en el evento tecnológico de CDMX - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEhZRDYweWl0RS1rUHFDVGNaaGJ3ZncxY01pQU5uOWVZQjFlSmVXMWo4ZHN1VkhqVUNoZlNCWmVTUFEyWFpyLU8wT3RMV2E4RVN2ejFpTU9yQ01oMXAyZ3NQV3dnbFBsYnRRb213TWRwWFVrMDFTYmllYlNNaXFVcXlmOWZ6Mmx2UEJlVThKMlJSTFBaYjRFNXA0OHI0MWRCZ2gxZm5QRk5tU3pWbUVXMjZ5OEM3ckZpalFTMWhR0gHYAUFVX3lxTE5CXzR3R20xejV2cDliMUhNa3lXLUdVbjZSUXRhV05hTWpHclJLSHl1Tlp1Y0dCUGdIUkh6U05QZ0o0THBUQUNqNHVFLWdmNFpncXA3dG1zRXBOakNwWjNpU0NEZmRrRjd1SUhoZFh6UEhrS3hUWHpBVEg5SjNHZkVzcjd6ZEo3QUFZSWVRaXFiUlpDYURrR1JPeUEyNERvLXlqR3dSdWFZcHFobTYtaUladmI5WUMxcWg5RlM5NW0yTlNSV2pHaDgwYll3VWVYdWVvbnp3LThEMw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Apr 2026 08:39:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEhZRDYweWl0RS1rUHFDVGNaaGJ3ZncxY01pQU5uOWVZQjFlSmVXMWo4ZHN1VkhqVUNoZlNCWmVTUFEyWFpyLU8wT3RMV2E4RVN2ejFpTU9yQ01oMXAyZ3NQV3dnbFBsYnRRb213TWRwWFVrMDFTYmllYlNNaXFVcXlmOWZ6Mmx2UEJlVThKMlJSTFBaYjRFNXA0OHI0MWRCZ2gxZm5QRk5tU3pWbUVXMjZ5OEM3ckZpal"
+    },
+    {
+      "title": "La Inteligencia Artificial predijo el resultado de México vs. Bélgica por el amistoso internacional - bolavip.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmx5Zk9hUUdXUGExWE1oekgtSG0tRFYxdmZTcWp0aEk4QWp3T1RkREFTVmRISGZ4R2lHRE02T2lmZDd1TDFYTkQtMXYtazVUamNucjNBUnJwUFhnb0w4dTlUMGVzQks5aU9fU3ZkSG5VZGRLc09QazB4eHVXaF9QSWExcTB0VU9OYUtGdGNjVHFxVllqZ2Z5ZF9qa3FhUWZYNTMxaV8wd3BSaWhCZ05CSElGSmFxekdyOGJkbzgtdklpdEZicXlreGs2Yks0ZjFmbW9qa0dDb0x0UdIB3wFBVV95cUxQTzIzOUJqSnBjeGMtYVdLdVl0bGpQQTdzdmlmNGNhODBaLTdWeDM0ZF9UTU0zSWxzaXlWOUlDM25FWWdVZWF0TUtxUVpEcUE0eHZjc1FrR05SeWM1ZF9vOWdPd2M1Y1ZNY1VBNDkxbUxhZWlIWG9STTAtOUt0Ti1PekZZLXd6UXJub0pER1FzWmZDZkVCMjI3cUd2Uks3cl9pY1NRWWtacW9SREtKZkpER3k1TWRZZlFtaEdROXUwSE5JQ25PRTZiMUN3RHdNdkFENC1kWl9ha1o3RmJhbFZF?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 30 Mar 2026 20:17:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmx5Zk9hUUdXUGExWE1oekgtSG0tRFYxdmZTcWp0aEk4QWp3T1RkREFTVmRISGZ4R2lHRE02T2lmZDd1TDFYTkQtMXYtazVUamNucjNBUnJwUFhnb0w4dTlUMGVzQks5aU9fU3ZkSG5VZGRLc09QazB4eHVXaF9QSWExcTB0VU9OYUtGdGNjVHFxVllqZ2Z5ZF9qa3FhUWZYNTMxaV8wd3BSaWhCZ05CSElGSmFxekdyOG"
+    },
+    {
+      "title": "Franck Maillet: De llamadas a datos inteligentes Aircall impulsa la comunicación empresarial en México - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOU53WDgtMXVvMFRaLUduMFZ2bjVzMlhocm54Sks3VDVKUVBLQjV5X25YWmt4cTA2VWxwUEFod1Y4ZXpDY3Nkbnpwbl9wVVBUeTd0SVBhcnVNbEVNMjY0dkFUcnp2U0VGM2g1T3pxVzZCTVNLMGxkWDVwaDVmNWtrMVpZTmN6QXNOUmtMbEZ0NjVEcENBNDZPc3ZLRnBacUdDMjZhTlJzRjJUeWluOW43VjJxODJQUTc2VTFrZ2VCckV5bFBSVEd0YWZYNjZ4SnhP?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 31 Mar 2026 21:09:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOU53WDgtMXVvMFRaLUduMFZ2bjVzMlhocm54Sks3VDVKUVBLQjV5X25YWmt4cTA2VWxwUEFod1Y4ZXpDY3Nkbnpwbl9wVVBUeTd0SVBhcnVNbEVNMjY0dkFUcnp2U0VGM2g1T3pxVzZCTVNLMGxkWDVwaDVmNWtrMVpZTmN6QXNOUmtMbEZ0NjVEcENBNDZPc3ZLRnBacUdDMjZhTlJzRjJUeWluOW43VjJxODJQUTc2VT"
+    },
+    {
+      "title": "Qualcomm abre el plazo de inscripción para el Programa de Innovadores en IA 2026/2027 en América Latina, centrado en startups de México y Brasil - Edomex Al Día",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWDlTaVJTdThwYjFXdG1QdWVmQWJublVfazdaQnM5M1c2dmxYUVEyOUtTaFluV2ZEMnlTbGt5V3Z2RE5IRFJMYTN4WjlnOWpMNW54Rkhyb0tpN2VMVkY4bnNBaERpMEtENXhnMWJYS200N2FXZHJpOHlGMTFSWlB5ZWdBNEZFTjRtbk01ZUJEYWNicEEyZ1hYOHBmV1NwcFlpWUtfcDduVkhpSVZVb0ZSUFd2X2hDaUhjemdNeUcyZVEwY0IxYWhfS0RyZ1VVR3RuUTJBZTA4UGtxX092dlE0YmI3NUxkWXRZazVlSU41dUN5ejdXRDgzSkU2Y2Q?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 31 Mar 2026 21:15:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWDlTaVJTdThwYjFXdG1QdWVmQWJublVfazdaQnM5M1c2dmxYUVEyOUtTaFluV2ZEMnlTbGt5V3Z2RE5IRFJMYTN4WjlnOWpMNW54Rkhyb0tpN2VMVkY4bnNBaERpMEtENXhnMWJYS200N2FXZHJpOHlGMTFSWlB5ZWdBNEZFTjRtbk01ZUJEYWNicEEyZ1hYOHBmV1NwcFlpWUtfcDduVkhpSVZVb0ZSUFd2X2hDaUhjem"
+    },
+    {
+      "title": "Kigüi: startup argentina de IA para retail llega a EE.UU. - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtHbmN5ODByQWMzN0pETkd1a3p4dmtQUERrak5TVUpQX2MyTnFyMS1KMTltMlRvbHN3bHg3YVJ6cVcxeGFKUzdURjVrWmt0VjU5UnF6aXBUVFBraVhIU2h1Y3NVVy1kcm50SHBldUVYX3JrZXNHWkxURmcyTVBZMmNBZVRGMWRTV0VXeW1LQQ?oc=5\" target=\"_blank\">Kigüi: startup argentina de IA pa"
+    },
+    {
+      "title": "Grupo Bimbo evalúa más de 2,000 startups y celebra su primer Ventures Day en CDMX - emprendedor.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bndvUHlKZ21SUVhpcGtWcGRoeWduclAtNjdKc3FiRXFqRkFYU0tjOFlNd0hYNHpkcl8yMEcybmhLWXlITE81bUE3cUtvY1BxT1JBZmtaMm1kTWw4V25RV3c3Q2hRYkg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 30 Nov 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWlObUtVazRWM25idjBnSmd6UVZOTk5tcnlHQTcwNy1nX2FLLTJxM1FwNmJkOWoxWGpod3pDY1RCZVBLQ3U3WXoxU3NEWnk4ZmJLYk8zZS1CY2tFNjhRWjJaRXNLUXQtZlcweGduVGFidXd1SW1IaEFKTE5XaXp3QnlnaEhITTTSAYwBQVVfeXFMT3VJTWlyY3g4UmRYbkxFNG9fNnlvNzh5by1HMzM4YzZOa2xqbU02bn"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    },
+    {
+      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
+    }
+  ],
+  "count": 14
+}
