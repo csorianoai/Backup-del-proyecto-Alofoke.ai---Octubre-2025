@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "En vivo: sigue el viaje del Artemis II alrededor de la Luna",
+      "url": "https://www.latercera.com/tendencias/noticia/lanzamiento-artemis-2-a-la-luna/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Apr 2026 18:59:48 +0000",
+      "summary": "Este miércoles, la NASA tiene programada la realización de Artemis II, la misión que lanzará a cuatro astronautas -Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen- alrededor del satélite natural. Se trata de la primera misión lunar tripulada en más de 50 años."
+    },
+    {
+      "title": "¿Qué es la “bimboficación”? El fetiche sexual que involucra al esposo de la exsecretaria de seguridad de Trump",
+      "url": "https://www.latercera.com/tendencias/noticia/que-es-la-bimboficacion-el-fetiche-sexual-que-involucra-al-esposo-de-la-exsecretaria-de-seguridad-de-trump/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Apr 2026 17:34:32 +0000",
+      "summary": "El periódico británico Daily Mail reveló fotografías y mensajes que Bryon Noem, esposo de Kristi Noem, compartió con mujeres ajenas al matrimonio. De acuerdo al reportaje, solía enviarles dinero de manera frecuente, aparentemente, sin que su cónyuge estuviera al tanto."
+    },
+    {
+      "title": "Cómo fue la reunión entre María Corina Machado y Marco Rubio, el secretario de Estado de EEUU",
+      "url": "https://www.latercera.com/tendencias/noticia/como-fue-la-reunion-entre-maria-corina-machado-y-marco-rubio-el-secretario-de-estado-de-eeuu/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Apr 2026 15:23:55 +0000",
+      "summary": "Tras el encuentro en Washington con el representante de la administración Trump, la líder opositora aseguró a los ciudadanos de su país que “se acerca el día en que reuniremos a nuestras familias en Venezuela”."
+    },
+    {
       "title": "El misterioso robo de 12 toneladas de chocolate KitKat y cómo reaccionaron otras marcas icónicas",
       "url": "https://www.latercera.com/tendencias/noticia/el-misterioso-robo-de-12-toneladas-de-chocolate-kitkat-y-como-reaccionaron-otras-marcas-iconicas/",
       "source": "La Tercera Tecnología",
@@ -11,36 +35,12 @@
       "summary": "El asalto a un cargamento de más de 400 mil chocolates en Europa no solo encendió las alertas por el aumento del robo de mercancías, sino que también desató una ola de comentarios y publicaciones de empresas globales en redes sociales."
     },
     {
-      "title": "En vivo: sigue el viaje del Artemis II alrededor de la Luna",
-      "url": "https://www.latercera.com/tendencias/noticia/lanzamiento-artemis-2-a-la-luna/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Apr 2026 14:14:23 +0000",
-      "summary": "Este miércoles, la NASA tiene programada la realización de Artemis II, la misión que lanzará a cuatro astronautas -Reid Wiseman, Victor Glover, Christina Koch y Jeremy Hansen- alrededor del satélite natural. Se trata de la primera misión tripulada al satélite natural en 50 años."
-    },
-    {
       "title": "Reportan el primer caso humano de la gripe aviar H9N2 en Europa: qué se sabe sobre el virus y cuáles son sus síntomas",
       "url": "https://www.latercera.com/tendencias/noticia/reportan-el-primer-caso-humano-de-la-gripe-aviar-h9n2-en-europa-que-se-sabe-sobre-el-virus-y-cuales-son-sus-sintomas/",
       "source": "La Tercera Tecnología",
       "category": "tech",
       "published": "Wed, 01 Apr 2026 14:10:10 +0000",
       "summary": "Italia reportó el primer caso humano de gripe aviar H9N2 en Europa. Un virólogo explica qué es el virus, sus síntomas y el riesgo real de contagio en humanos."
-    },
-    {
-      "title": "Por qué los trajes de los astronautas de Artemis II son de color naranja",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-los-trajes-de-los-astronautas-de-artemis-ii-son-de-color-naranja/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Apr 2026 14:01:45 +0000",
-      "summary": "El color es descrito como “naranja internacional” y figura en la mayor parte de los trajes, que también lucen franjas azules. La misión se presenta como el vuelo espacial tripulado más profundo desde el último alunizaje del programa Apolo en 1972."
-    },
-    {
-      "title": "Por qué EEUU evalúa el uso de láseres antidrones en el espacio aéreo de Washington, según reportes",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-eeuu-evalua-el-uso-de-laseres-antidrones-en-el-espacio-aereo-de-washington-segun-reportes/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Apr 2026 12:28:02 +0000",
-      "summary": "Fuentes familiarizadas con la situación declararon que las conversaciones en desarrollo consideran Fort Lesley J. McNair, la base militar en la que residen los secretarios Pete Hegseth y Marco Rubio en el suroeste de Washington."
     },
     {
       "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - UNESCO",
@@ -91,12 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzIycUpDQklzdjlBV1VIcFg4OTQ4ME9uQWhWYVVyRzZZN3JwRkV4TTNQQ2VpOEt3OEZpZmxCZzI2dmNCNU5IMWRlS2JoRl9XZHVBR1VPYnNaM0t1Qk5URTRFRlptenY5dFMydFdNUUctd0ZucU1xR2V5aWxTcVFMZUhrT183RGR5bmZXRHF5aVV3SDQ?oc=5\" target=\"_blank\">Santiago Orduz de AWS afirma"
     },
     {
-      "title": "Automatización de bodegas en Chile: guía estratégica y claves de inversión - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZE9lWFAydVBFa1BDd1dKWHRLTnEyY0V4U0Q0T3hKMGhKZGhRYjBZNjlCbVRINl81T1ozRkxEMFd6SUVZcmcxOW9ubHhMWmtpVHExb0NCem5CTXVNSXZOci1FbDExZlZvQnpfc09ycWQtMlRZcnhQcTRFc09RQnlRR0hQd2s4NTFLQ0sxR0x5N1FwTmhEVjZ6NEFucWJuVUJOYnBIcXNKMA?oc=5",
+      "title": "Convocatoria de Startuplab.01: hub científico para startups en Chile - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGpXdXNJNHE4cmFXTEZYdF8wZFRIYkFFN19CalZIa2MycGhTdDAwbFdvMWl3SU1YSWRrcWRVNlR3Nlo4dnU2Z2pJOXJtNGZsalF3MWlqYkVmamxIV3UwOEdYLVBpN3FnazF2dHFrbWZldFhpQ1lEX3JPb3p1YjlDN2dLRjBKMXlBSms4WnJuU0xFWW5ocEJnb3d1Z3V0dEk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 31 Mar 2026 21:05:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNZE9lWFAydVBFa1BDd1dKWHRLTnEyY0V4U0Q0T3hKMGhKZGhRYjBZNjlCbVRINl81T1ozRkxEMFd6SUVZcmcxOW9ubHhMWmtpVHExb0NCem5CTXVNSXZOci1FbDExZlZvQnpfc09ycWQtMlRZcnhQcTRFc09RQnlRR0hQd2s4NTFLQ0sxR0x5N1FwTmhEVjZ6NEFucWJuVUJOYnBIcXNKMA?oc=5\" target=\"_blank\">A"
+      "published": "Wed, 01 Apr 2026 18:57:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGpXdXNJNHE4cmFXTEZYdF8wZFRIYkFFN19CalZIa2MycGhTdDAwbFdvMWl3SU1YSWRrcWRVNlR3Nlo4dnU2Z2pJOXJtNGZsalF3MWlqYkVmamxIV3UwOEdYLVBpN3FnazF2dHFrbWZldFhpQ1lEX3JPb3p1YjlDN2dLRjBKMXlBSms4WnJuU0xFWW5ocEJnb3d1Z3V0dEk?oc=5\" target=\"_blank\">Convocatoria"
+    },
+    {
+      "title": "Conoce a la fundadora de una nueva startup en DC nombrada nueva ministra de innovación en Chile - technical.ly",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5\" target=\"_blank\">Conoce a la fundadora de una nueva startup "
     },
     {
       "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - Infodefensa",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
-    },
-    {
-      "title": "Feriados irrenunciables: automatización y tecnología clave en cumplimiento - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDBEdmJzT1lBMUZ6TEdmTDlzZWxPNlc3YXFKMXZ4alJ2aUx1dV9tblZOYmw0VVM2M1p4SV8wQnFWWTlrUVJ6QV83bmRvZFcxaE1CYWdCbmYyTG5QenBIVmY5OVhYTHJjejlRRzlQU1Z2X19MNkh1eUh6TmRvU0NFTTN1WDBoczhTWmVjc0RnZEtDWkE1cENqcFJmbmdYYlh0LUE1cXZOMA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 07:58:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDBEdmJzT1lBMUZ6TEdmTDlzZWxPNlc3YXFKMXZ4alJ2aUx1dV9tblZOYmw0VVM2M1p4SV8wQnFWWTlrUVJ6QV83bmRvZFcxaE1CYWdCbmYyTG5QenBIVmY5OVhYTHJjejlRRzlQU1Z2X19MNkh1eUh6TmRvU0NFTTN1WDBoczhTWmVjc0RnZEtDWkE1cENqcFJmbmdYYlh0LUE1cXZOMA?oc=5\" target=\"_blank\">F"
     }
   ],
   "count": 14
