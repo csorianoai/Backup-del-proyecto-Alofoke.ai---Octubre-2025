@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "iPhone 17e vs. Pixel 10a: ¿vale más el ecosistema de Apple o la IA de Google?",
+      "url": "https://expansion.mx/tecnologia/2026/04/03/iphone-17e-vs-google-pixel-10a",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 03 Apr 2026 12:00:55 GMT",
+      "summary": "Apple y Google se enfrentan en la gama media premium con el iPhone 17e y el Pixel 10a. Probamos ambos y esto es lo que realmente importa al elegir."
+    },
+    {
       "title": "Tu WhatsApp ya cambió: estas son las nuevas funciones que usan IA en tus chats",
       "url": "https://expansion.mx/tecnologia/2026/04/02/whatsapp-nuevas-funciones-usan-ia-chats",
       "source": "Expansión Tecnología",
@@ -35,15 +43,15 @@
       "summary": "Lo que empezó como una empresa de computadoras, hoy es todo un ecosistema de servicios y productos que llega al medio siglo como un referente en la industria tecnológica."
     },
     {
-      "title": "Ya podrás hacerle preguntas a YouTube desde tu televisor",
-      "url": "https://expansion.mx/tecnologia/2026/04/01/ya-podras-hacerle-preguntas-a-youtube-desde-tu-televisor",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Apr 2026 21:00:59 GMT",
-      "summary": "La nueva herramienta convertirá el consumo de video en una experiencia más interactiva, permitiendo obtener contexto, resolver dudas y profundizar en el contenido sin salir de la reproducción."
+      "title": "Inteligencia artificial en México: salto tecnológico post-COVID - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjR2SWxaMVRqT2dLWGtmY2VZTW5FdWhKVFZDZWpSNGdkQ0JmNm9LT3o0cmxrOGxfcG1tN0lBWjNVM0wxMG5VT2NJZmRpNHpTVHpDSzV1UHBpTW1GbzZ6NHZEd1pzclBVME5TZkRrZzhvMlV1MGFIWFRBX2psNlVnZWs2Q0QwRldDSVY2dHA2LW4xODVvZzJtQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 03 Apr 2026 15:03:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjR2SWxaMVRqT2dLWGtmY2VZTW5FdWhKVFZDZWpSNGdkQ0JmNm9LT3o0cmxrOGxfcG1tN0lBWjNVM0wxMG5VT2NJZmRpNHpTVHpDSzV1UHBpTW1GbzZ6NHZEd1pzclBVME5TZkRrZzhvMlV1MGFIWFRBX2psNlVnZWs2Q0QwRldDSVY2dHA2LW4xODVvZzJtQQ?oc=5\" target=\"_blank\">Inteligencia artifici"
     },
     {
-      "title": "Herramienta de inteligencia artificial desarrollada en México permite contar huevos del mosquito del dengue y anticipar brotes - ELTIEMPO.com",
+      "title": "Herramienta de inteligencia artificial desarrollada en México permite contar huevos del mosquito del dengue y anticipar brotes - eltiempo.com",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVm9hQktwMUlDbW9JQ2RkZ0dRTnBmRnhVSlVZR0tPTUFFNHU0TTNYZGVuMEF1TkoxUlVya01SNUhmOXJXck9kemVta2ZjNnFZRm1weW1oTlh1am9qa2ZYOEtycDRiRkkycjNMdENXVFljVXVKZ3h4bVNTV2tIOTBVREs0RVhqUnFVVFZNMW85RFdWZ2lzeWZYbzZuenhKNFhOLVV6dnJnSlV2UmNJaGxSOTdHNFRFeThpVDJnU0xCNEVLa1J3VWlVczNxOVJiT2tPNnFwVjhoa01hRUN0VGN4dFBXR1U0ektWZmN6R1RQYWZQODJuVTJqM9IB_gFBVV95cUxPLTNnMDg0a1l3Q01XYmZYWmROTjlZazg3UzlEeExKaWRIZ3RHTi1xQkxUamhXcVpELUdvMUxGanZjeHFFa2R2bmI4RnVwZkJJX1VRVk1LcUFRRW9TaU10MGxoRE9RZUhGbjVKektDNEE1bU0yZ19BU0RMelh0dWpaNm5ody1hMEtXS0kxOVdFb3Ruek83cVdjNURrTkFGamJPNi1QX0FhcFpaVGYxbXFDVUxBVFFTclJUNG0wY3htZDBwSTZqeHRwc1pNMEZpcTJfc1RGUVNQc3RiNmJMX1BEN3d2TFdreW54WUljSVlDaUZWbWduSGJJT090SEFWUQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 01 Apr 2026 17:31:05 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
-    },
-    {
-      "title": "Profesor UAO fortalece redes internacionales en robótica e inteligencia artificial en México - Universidad Autónoma de Occidente",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnJjZW1YVnQzNzVwZlk3aXZYcWFFdWJBekZ4Unk3bTBESE9JNU4tRnBnYS1YTll6c2FaYWtpVXl0SnhtSXVENWZNYlN4Z05iNU1GRXJ3cTBYSlA5VXp2VENOOWVqelI5Rmp0VjVmTUl3YWxkNmdfOHNvYzRObE05THROWFgtV05fNk1fcEZXVkFyTS1xNHp6SE8xY2ZXLVB1NWczY3hoRVlrUFZ4TERsOE9FeTVTSTFNeHVvU3JQOTZfRTB3V0E?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 25 Mar 2026 17:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnJjZW1YVnQzNzVwZlk3aXZYcWFFdWJBekZ4Unk3bTBESE9JNU4tRnBnYS1YTll6c2FaYWtpVXl0SnhtSXVENWZNYlN4Z05iNU1GRXJ3cTBYSlA5VXp2VENOOWVqelI5Rmp0VjVmTUl3YWxkNmdfOHNvYzRObE05THROWFgtV05fNk1fcEZXVkFyTS1xNHp6SE8xY2ZXLVB1NWczY3hoRVlrUFZ4TERsOE9FeTVTSTFNeH"
     },
     {
       "title": "Somos Internet levanta Serie B para expandirse a México - Ecosistema Startup",
@@ -83,7 +83,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWDlTaVJTdThwYjFXdG1QdWVmQWJublVfazdaQnM5M1c2dmxYUVEyOUtTaFluV2ZEMnlTbGt5V3Z2RE5IRFJMYTN4WjlnOWpMNW54Rkhyb0tpN2VMVkY4bnNBaERpMEtENXhnMWJYS200N2FXZHJpOHlGMTFSWlB5ZWdBNEZFTjRtbk01ZUJEYWNicEEyZ1hYOHBmV1NwcFlpWUtfcDduVkhpSVZVb0ZSUFd2X2hDaUhjem"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - Unesco",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
