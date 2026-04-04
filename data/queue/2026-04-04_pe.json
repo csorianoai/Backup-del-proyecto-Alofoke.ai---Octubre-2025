@@ -3,20 +3,12 @@
   "country": "pe",
   "articles": [
     {
-      "title": "Liderar en tiempos de inteligencia artificial, por Gonzalo Montón - El Comercio Perú",
+      "title": "Liderar en tiempos de inteligencia artificial, por Gonzalo Montón - elcomercio.pe",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWFMM2k3TEtEZHFxVDhVVTRINlV2RE9HQy13cl8zUVhBRk1adGVLbXc5Z0VoVnV1R01MZDJFUFJCRkd4M2ppRDZIZVgtSmNOS1EyQ1RwV01XQVVIci03M3JEQUFoYVB5WDZ2MFBtQmMtNkVRVTR0TzhjWGtjd0o3TTdGRFJ2bU9aOXF2Yko2c3ZiMF9WMnFBUWpZX1VBa2RXdjBTeUd1Q3I0ZkVTX1ZsUUVLaUI0dw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 03 Apr 2026 11:48:09 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNSWFMM2k3TEtEZHFxVDhVVTRINlV2RE9HQy13cl8zUVhBRk1adGVLbXc5Z0VoVnV1R01MZDJFUFJCRkd4M2ppRDZIZVgtSmNOS1EyQ1RwV01XQVVIci03M3JEQUFoYVB5WDZ2MFBtQmMtNkVRVTR0TzhjWGtjd0o3TTdGRFJ2bU9aOXF2Yko2c3ZiMF9WMnFBUWpZX1VBa2RXdjBTeUd1Q3I0ZkVTX1ZsUUVLaUI0dw?oc="
-    },
-    {
-      "title": "Perú | AWS: “La inteligencia artificial podría añadir 1% al PBI del país cada año” - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2hvTV82Q0htUXlWNndpWGZRRTJmb1hWeHIwTDJlb0MxenMtdTU0OWtndjQwY1Q5dm9YS1VjOEVxVUtHWTVPdk54RFhZYjYxanJ3MHh2TGpyZUpYQXhvT1JVQVUwSGwwOEprU09BZ0Ribnh1TDdkYzhLSUNPYzdRODg3WFU0cy1IQ0xEdGtlYjN4dERYTC13d3lHUE5HQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 20 Mar 2026 17:43:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPS2hvTV82Q0htUXlWNndpWGZRRTJmb1hWeHIwTDJlb0MxenMtdTU0OWtndjQwY1Q5dm9YS1VjOEVxVUtHWTVPdk54RFhZYjYxanJ3MHh2TGpyZUpYQXhvT1JVQVUwSGwwOEprU09BZ0Ribnh1TDdkYzhLSUNPYzdRODg3WFU0cy1IQ0xEdGtlYjN4dERYTC13d3lHUE5HQQ?oc=5\" target=\"_blank\">Perú | AWS: “"
     },
     {
       "title": "Perú es el país que más usa IA en la región, pero ignora que ya hay talento siendo reemplazado - Infobae",
@@ -25,6 +17,14 @@
       "category": "news",
       "published": "Tue, 24 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPeno2ZGNyS2ZWX0pYYUpNdUJ3RGVCNTZTTEpYS3I2N0J2OU1wUnZyQm5OT0dSTHlobGRDLWhkaExvcTFYMnhnRFBDdDlIc0RMWEU3M2JhaDRhZmJ2MWNTQUxycm1YT25RUmZqN0RQdGc2WHdMSnBjTlVTNl9yMVRsTll3VFFTaUdNd3ZYaXVSU01uLVNDMjVKX0dKMERadHNFMmZ3akRySUZuaXg1YVFDSEpfUVZqVzBXMG"
+    },
+    {
+      "title": "Perú | AWS: “La inteligencia artificial podría añadir 1% al PBI del país cada año” - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2hvTV82Q0htUXlWNndpWGZRRTJmb1hWeHIwTDJlb0MxenMtdTU0OWtndjQwY1Q5dm9YS1VjOEVxVUtHWTVPdk54RFhZYjYxanJ3MHh2TGpyZUpYQXhvT1JVQVUwSGwwOEprU09BZ0Ribnh1TDdkYzhLSUNPYzdRODg3WFU0cy1IQ0xEdGtlYjN4dERYTC13d3lHUE5HQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPS2hvTV82Q0htUXlWNndpWGZRRTJmb1hWeHIwTDJlb0MxenMtdTU0OWtndjQwY1Q5dm9YS1VjOEVxVUtHWTVPdk54RFhZYjYxanJ3MHh2TGpyZUpYQXhvT1JVQVUwSGwwOEprU09BZ0Ribnh1TDdkYzhLSUNPYzdRODg3WFU0cy1IQ0xEdGtlYjN4dERYTC13d3lHUE5HQQ?oc=5\" target=\"_blank\">Perú | AWS: “"
     },
     {
       "title": "Sky presentó su nueva ruta diaria a Miami vía Lima - reportnews.la",
@@ -43,12 +43,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjVmYzZLOHlmd2J4dVp0UzZNV205dGh0c1drRkxVcy1FcW1RUGpMVTZEc0VqX29uOTdjeVYtdzRJTG9RcktOeGkwUzNSSjQyQ25semU2ZW1lSXlLMk1LcUdvaF9JM1N6NDE4ZlBXTHlIbERSX2lpZUpqSDNEODduUDBuMlBySFNDOTRlZg?oc=5\" target=\"_blank\">Municipalidad Metropolitana de Lima y"
     },
     {
-      "title": "NTT DATA presenta el Digital & AI Summit Lima 2026 para abordar el impacto de la IA y la transformación digital empresarial - Business Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdjItLS1xQ1RHVmZzaGJIN2VIRGtLb09LRHlSSVVNQWpiZGItUUUzV1c4N3BFaThVTW1rTDVOVjVXalVpWFk3Tlc3RFhsOGczOVVnRURRODNUeG53a1IybW14MWQ1ZGhYQkdUa0JDVG1aOVc3RUhfcUJkN2djV1pwVmMxTldKV01OTy01QlBrVmstQXRaUmRsODQyVDU1QVd4eUczNnFGdFRVSmdJUzhibFIwcU1BeU5UMkxSOW85c0g2TGFtdUZ3am9HelF0NUhSUHhGcWRvWWE3aUQxLXJRR2RGSFpiSnU2Nll0dkhVdHFDRGs?oc=5",
+      "title": "Solo el 13 % de los jóvenes en Lima se siente preparado para trabajar con IA - Revista Economía",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE4yaUh3dWd0U3FXSDFnNGptY3hVYnB2ZXJCN1VvVXJsR3hIaFNCTGlZQ2xUR0ZJZWZSTWdORWRNYmxTRURacFRuTUJmSWpLTDFBc1JmblNOalZJaE1fcndfRVhLcDVJZlFDQkpTbFFaa2t1UGM5elJqdmNvSkZEZk8tS0RTRVVVUGdsMzlZSUV0ZXNKb0NwQnJ6U1llbkRzbzR3Z3VvX0FMVGs?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 22 Mar 2026 01:17:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdjItLS1xQ1RHVmZzaGJIN2VIRGtLb09LRHlSSVVNQWpiZGItUUUzV1c4N3BFaThVTW1rTDVOVjVXalVpWFk3Tlc3RFhsOGczOVVnRURRODNUeG53a1IybW14MWQ1ZGhYQkdUa0JDVG1aOVc3RUhfcUJkN2djV1pwVmMxTldKV01OTy01QlBrVmstQXRaUmRsODQyVDU1QVd4eUczNnFGdFRVSmdJUzhibFIwcU1BeU5UMk"
+      "published": "Thu, 26 Mar 2026 17:19:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUE4yaUh3dWd0U3FXSDFnNGptY3hVYnB2ZXJCN1VvVXJsR3hIaFNCTGlZQ2xUR0ZJZWZSTWdORWRNYmxTRURacFRuTUJmSWpLTDFBc1JmblNOalZJaE1fcndfRVhLcDVJZlFDQkpTbFFaa2t1UGM5elJqdmNvSkZEZk8tS0RTRVVVUGdsMzlZSUV0ZXNKb0NwQnJ6U1llbkRzbzR3Z3VvX0FMVGs?oc=5\" target=\"_bla"
     },
     {
       "title": "Las 10 startups más prometedoras de Perú en 2026, según expertos del ecosistema - Gestión",
@@ -67,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ1gwX1N4VzVRQmRhbUFkWUFobEdPWDA5TjRKVjBSXzVaRldIYWc1WnEwQ2RPYjZuNjNhMTNYdTBlbF9RLUZEYkhpWTNhXy1CVWptVDA0X3ZXYVJjXzFFU1BSb1NYcTk5NWVZYnZWOXh6RnNTLW10bU1ZR1NzRjJHSU1HNk5Sb096NmtCOWxiMlNmOWFKb3dvMFpKVXc?oc=5\" target=\"_blank\">Costa Rica impul"
     },
     {
-      "title": "Navidad 2025: herramientas tecnológicas y startups que ayudan a emprendedores a incrementar sus ventas - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0tDUm1uMFA4bWkwbjNzRWc3WUZhUUJIczhuc09kQUczYnRGZHUzOW0zSm9RRnRod25SWWduMTVXUUVfNnM4RjBYNEdWUmFGNUJRcVZPbjhHUjc5ZGJBMVRTQnh3cVh4NFloWGV1elJ3YnhERGxqSkVGQVd0emNOVmI3c24wRm9hV0lnbllFTlkxNVR2MFp5QWhCelVueTNsNktjUm9tTkt2MHNOY3lEcTNkSUFwWWJ3SHFfVmxQOUlMUGVfam1nNHg0dWxOdHRYTmdGaUFxRkdXWlhMYUZqTw?oc=5",
+      "title": "Innova Exporta 2026: PROMPERÚ impulsa hackatón para integrar startups tecnológicas a la agroexportación peruana - Revista Economía",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVBLSjcyREQya1VQaGFPaDBqaTV6bGRqNjdkeGxYVDV0VFhQdGo1TzNKNkVaeUJFUjZrRVUwUkZFdjFXNG5ueWVaQy1zZjY1UW84OUpUc1J0UFNEMHZjZnhYZ29uZGRoRXVCR1VLNHU1QTVYcjc4STAxczBFaDdPY1Z3MXo0VURVS3Vsel9XQ0N1T3pWbk5VZ0JSQ3FkWG1ka1VuVDRNbG5DZGFnT2t2ek9vUFhJWlZTSUxEalBQQkVoOG5wZy14X2ZKbUJpRjNHRHc0OVhZSXdkZlE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0tDUm1uMFA4bWkwbjNzRWc3WUZhUUJIczhuc09kQUczYnRGZHUzOW0zSm9RRnRod25SWWduMTVXUUVfNnM4RjBYNEdWUmFGNUJRcVZPbjhHUjc5ZGJBMVRTQnh3cVh4NFloWGV1elJ3YnhERGxqSkVGQVd0emNOVmI3c24wRm9hV0lnbllFTlkxNVR2MFp5QWhCelVueTNsNktjUm9tTkt2MHNOY3lEcTNkSUFwWWJ3SH"
+      "published": "Wed, 01 Apr 2026 19:30:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVBLSjcyREQya1VQaGFPaDBqaTV6bGRqNjdkeGxYVDV0VFhQdGo1TzNKNkVaeUJFUjZrRVUwUkZFdjFXNG5ueWVaQy1zZjY1UW84OUpUc1J0UFNEMHZjZnhYZ29uZGRoRXVCR1VLNHU1QTVYcjc4STAxczBFaDdPY1Z3MXo0VURVS3Vsel9XQ0N1T3pWbk5VZ0JSQ3FkWG1ka1VuVDRNbG5DZGFnT2t2ek9vUFhJWlZTSU"
     },
     {
       "title": "La OPS impulsa la innovación digital para mejorar el registro de vacunación en comunidades con conectividad limitada - Pan American Health Organization (PAHO)",
