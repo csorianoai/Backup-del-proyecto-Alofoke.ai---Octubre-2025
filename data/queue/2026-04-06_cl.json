@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El “secreto” para tener un corazón sano que reveló un estudio científico masivo",
+      "url": "https://www.latercera.com/tendencias/noticia/el-secreto-para-tener-un-corazon-sano-que-revelo-un-estudio-cientifico-masivo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 21:00:00 +0000",
+      "summary": "¿Y si cuidar el corazón no dependiera de comer menos, sino que de comer mejor? Una investigación realizada por expertos de Harvard planteó un nuevo enfoque sobre la alimentación y la salud del corazón."
+    },
+    {
       "title": "“Fue bastante duro”: qué piensan las familias de los astronautas de Artemis II sobre su viaje a la órbita lunar",
       "url": "https://www.latercera.com/tendencias/noticia/fue-bastante-duro-que-piensan-las-familias-de-los-astronautas-de-artemis-ii-sobre-su-viaje-a-la-orbita-lunar/",
       "source": "La Tercera Tecnología",
@@ -35,22 +43,6 @@
       "summary": "Luego de que un presentador de televisión le preguntara si deseaba compartir una reflexión sobre la Pascua con quienes nos encontramos en la Tierra, Victor Glover entregó unas palabras que han sido ampliamente calificadas como inspiradoras."
     },
     {
-      "title": "Cómo EEUU rescató al piloto de su Fuerza Aérea tras el derribo de uno de sus aviones en Irán",
-      "url": "https://www.latercera.com/tendencias/noticia/como-eeuu-rescato-al-aviador-de-su-fuerza-aerea-tras-el-derribo-de-uno-de-sus-aviones-en-iran/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 06 Apr 2026 12:05:49 +0000",
-      "summary": "El primero de los dos tripulantes del F-15E Strike Eagle fue rescatado poco después del ataque, el cual desencadenó que salieran eyectados en paracaídas. Pasaron casi dos días hasta que pudieron rescatar al segundo, quien permaneció herido en una montaña, mientras era acorralado."
-    },
-    {
-      "title": "Cómo la innovación tecnológica está redefiniendo el consumo en Chile - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVJhaFYzQlJZUnVZZFFOWS1EYzVQUUhXREdONlUxSnJfXzFQeUNyZ3AxYkI5YnJ1SndNVHo4R29DWWpZU3NzZHdheDFrenVMUl9hQmk2cmp5SmxpWGRsUGNlanZFejk4V2RSbXhWODF0WmNFSDAxbkdLdGRCMEJVQmJ1NVFfNVhUTDB1dk9fbjJFaWhYeVVLU2VRQURJLUlrUUtRdVdXZHVpTS1icFlhS2tUZDRXdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 03 Apr 2026 14:28:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVJhaFYzQlJZUnVZZFFOWS1EYzVQUUhXREdONlUxSnJfXzFQeUNyZ3AxYkI5YnJ1SndNVHo4R29DWWpZU3NzZHdheDFrenVMUl9hQmk2cmp5SmxpWGRsUGNlanZFejk4V2RSbXhWODF0WmNFSDAxbkdLdGRCMEJVQmJ1NVFfNVhUTDB1dk9fbjJFaWhYeVVLU2VRQURJLUlrUUtRdVdXZHVpTS1icFlhS2tUZDRXdw?oc="
-    },
-    {
       "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Mon, 09 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
+    },
+    {
+      "title": "La Inteligencia Artificial ya cambió la forma en que los chilenos compran y trabajan, según un estudio de Ipsos y Google - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPelhKSEU4MHMyWTd6OFlnYk4yak56TWFzWWp6NUgyOWZBSWJfN0ZGODV3ZDVrODdGWjROWXRuRUV3ZGYxb1lycXUwd0dOeDBIcFBSZ2pVdEVpZ1pXOTRlcy1SZDlfYnNvTFV2ejdzZlhSZXBXQk81WjRKdVdTVlAtbUNYWmh0WUptZDJsaFRuRUdkWXItbFFESnhFTWV1NlMzRUlQdkU2V2dCZ2UxLUN1Mk5xSTAtSTYzTXVpcGZMY0pWLWt5eWJWVUFIZlNYOHAyYzdNZkNoRkhhMk1GMTRKU0pOWGx0OUpDeWpoa2d3TWxPclBoR0VKUdIBmgJBVV95cUxPUVp5a2J4Q1hZQWpkaXpSejBWMUVMX2JpWF9JTnZFUEdoRHpqVUFOWWlDTVRkcjZMUENGNmJBenpHYXc4UE5NVXFzNmRsT2pMQm03RENGdHZjU3dMYVRDSlJvM2NUNVJaakVHaHBwM1ZVaHRjSjlTZFlrdXNrNzFwWDdQMFluRl9fZ3pXYllkdGI5TGFKWkJ0MVBwaTBya1lGZDBUWWZ1NXBHcXhGV0sxQ2phcXlTNTlUSGZDZnVKQkNhdU93amVaYkQtNlZjeExqTWtLa3dpY0VMYldVblY2eUdmOTYtQzZIVnFXOUJaM1FSQ2VhRVNfUzVPa0tLT1VlWFZVSFh4b0FaVWRiZ3V0RVlhTVFRbXVxbGc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPelhKSEU4MHMyWTd6OFlnYk4yak56TWFzWWp6NUgyOWZBSWJfN0ZGODV3ZDVrODdGWjROWXRuRUV3ZGYxb1lycXUwd0dOeDBIcFBSZ2pVdEVpZ1pXOTRlcy1SZDlfYnNvTFV2ejdzZlhSZXBXQk81WjRKdVdTVlAtbUNYWmh0WUptZDJsaFRuRUdkWXItbFFESnhFTWV1NlMzRUlQdkU2V2dCZ2UxLUN1Mk5xSTAtSTYzTX"
     },
     {
       "title": "¿Puede la IA pensar? Lo que la filosofía le dice a los gerentes - LaRepublica.co",

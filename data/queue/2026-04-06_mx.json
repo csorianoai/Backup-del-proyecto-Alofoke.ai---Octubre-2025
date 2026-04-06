@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Sam Altman alerta: en un año la IA traerá riesgos en el empleo, ciberseguridad y crimen",
+      "url": "https://expansion.mx/tecnologia/2026/04/06/sam-altman-alerta-en-un-ano-la-ia-traera-riesgos-en-el-empleo-ciberseguridad-y-crimen",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 21:31:02 GMT",
+      "summary": "El líder tecnológico revela la propuesta de OpenAI sobre impuestos, acceso a la IA y nuevas reglas para repartir su impacto económico."
+    },
+    {
+      "title": "¿Quieres estudiar una carrera en IA? Estas son tus opciones en México",
+      "url": "https://expansion.mx/tecnologia/2026/04/06/quieres-estudiar-una-carrera-en-ia-estas-son-tus-opciones-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 21:00:26 GMT",
+      "summary": "Las carreras en Inteligencia Artificial están en auge y en México existen universidades públicas, privadas e incluso cursos gratuitos con los que puedes iniciar o actualizarte."
+    },
+    {
       "title": "El Mundial será laboratorio para smart venues",
       "url": "https://expansion.mx/tecnologia/2026/04/06/el-mundial-sera-laboratorio-para-smart-venues",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "El modelo, que combina procesamiento local y nube, promete reducir la carga operativa y mejorar la eficiencia sin depender de la conexión a internet."
     },
     {
-      "title": "iPhone 17e vs. Pixel 10a: ¿vale más el ecosistema de Apple o la IA de Google?",
-      "url": "https://expansion.mx/tecnologia/2026/04/03/iphone-17e-vs-google-pixel-10a",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 03 Apr 2026 12:00:55 GMT",
-      "summary": "Apple y Google se enfrentan en la gama media premium con el iPhone 17e y el Pixel 10a. Probamos ambos y esto es lo que realmente importa al elegir."
-    },
-    {
-      "title": "Tu WhatsApp ya cambió: estas son las nuevas funciones que usan IA en tus chats",
-      "url": "https://expansion.mx/tecnologia/2026/04/02/whatsapp-nuevas-funciones-usan-ia-chats",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 02 Apr 2026 21:05:49 GMT",
-      "summary": "La app sumó funciones con inteligencia artificial, mejora la gestión de archivos y permite usar dos cuentas en un mismo iPhone para hacer más fácil el día a día."
-    },
-    {
       "title": "Ni IA ni ‘soft skills’: estas son las habilidades que realmente están buscando las empresas en México - El Cronista",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFRRbHZkS25XRFE4Q2ZCOXFCZjhYQ2JRbGJYY05IQjlWUHNNVDA5ak1kb2g1cHEzUjZPM0VnR3FZeHZiVF9rY2NXSFBjbGNST2V5X2UtdkNJY0dSRnJpUGlSdHhNajhKMmJhdlV4ZWVQRzlOZmdFRldVZlJtWFNxTUNRT0Z2YWRINWJCZnFiazdPM1huem1Da0Vab1NRQzBoTmZGbGFaWEhta2NmZjgtVHVadEsyamxCRF9xSU5pTjVIcnhqRThFRG54VDBua25rSVU0OGFXNU9wYmNGdmdQRFRzSdIB_gFBVV95cUxOb3p5QXZjbS1CN3VJbm92dm02Uzh1Qkh6RW12MGJGQXJiV3BwT29XNjhJdllyaXJtZ0Exa3pzSnRnanZnc0tCODh5enlzNEVLR2FHM3BtLXBPUXZWN0lzSU5KbjFLY1d4RlFSYnBJSHpWQWM3UkR1Vm00Z3FpSjFqWGdTY21OZGUtVTFiVDZmMUxibGVnM2dHTXhzWjBHX01WSUFlVUY3OG1nZTBFbWl0SWZiNHZwbkZhQUhVUVBNTkZQSDRjTjFYZG14TTBIVG5WOXR0SXBpQk5kQmo5RFItUzRCdGRPbkVJeWlXeWNiTEZZRXVEZWZVanFBaFQxUQ?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaFRRbHZkS25XRFE4Q2ZCOXFCZjhYQ2JRbGJYY05IQjlWUHNNVDA5ak1kb2g1cHEzUjZPM0VnR3FZeHZiVF9rY2NXSFBjbGNST2V5X2UtdkNJY0dSRnJpUGlSdHhNajhKMmJhdlV4ZWVQRzlOZmdFRldVZlJtWFNxTUNRT0Z2YWRINWJCZnFiazdPM1huem1Da0Vab1NRQzBoTmZGbGFaWEhta2NmZjgtVHVadEsyamxCRF"
     },
     {
-      "title": "Profesor UAO fortalece redes internacionales en robótica e inteligencia artificial en México - uao.edu.co",
+      "title": "Profesor UAO fortalece redes internacionales en robótica e inteligencia artificial en México - Universidad Autónoma de Occidente",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnJjZW1YVnQzNzVwZlk3aXZYcWFFdWJBekZ4Unk3bTBESE9JNU4tRnBnYS1YTll6c2FaYWtpVXl0SnhtSXVENWZNYlN4Z05iNU1GRXJ3cTBYSlA5VXp2VENOOWVqelI5Rmp0VjVmTUl3YWxkNmdfOHNvYzRObE05THROWFgtV05fNk1fcEZXVkFyTS1xNHp6SE8xY2ZXLVB1NWczY3hoRVlrUFZ4TERsOE9FeTVTSTFNeHVvU3JQOTZfRTB3V0E?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,15 +59,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnJjZW1YVnQzNzVwZlk3aXZYcWFFdWJBekZ4Unk3bTBESE9JNU4tRnBnYS1YTll6c2FaYWtpVXl0SnhtSXVENWZNYlN4Z05iNU1GRXJ3cTBYSlA5VXp2VENOOWVqelI5Rmp0VjVmTUl3YWxkNmdfOHNvYzRObE05THROWFgtV05fNk1fcEZXVkFyTS1xNHp6SE8xY2ZXLVB1NWczY3hoRVlrUFZ4TERsOE9FeTVTSTFNeH"
     },
     {
-      "title": "Inteligencia artificial en México: salto tecnológico post-COVID - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjR2SWxaMVRqT2dLWGtmY2VZTW5FdWhKVFZDZWpSNGdkQ0JmNm9LT3o0cmxrOGxfcG1tN0lBWjNVM0wxMG5VT2NJZmRpNHpTVHpDSzV1UHBpTW1GbzZ6NHZEd1pzclBVME5TZkRrZzhvMlV1MGFIWFRBX2psNlVnZWs2Q0QwRldDSVY2dHA2LW4xODVvZzJtQQ?oc=5",
+      "title": "78 millones de empleos en juego: ¿Dónde estudiar Inteligencia Artificial en México este 2026? - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQy0wY05uMFo3MURPVkp1V2xXWXdmMWtPOGhjNU1HUjBMa1hIRDh3bG1MV2VPWlkyeTliNzhnaDdzbVFENm51N2ZYd2ViWVhGUWp6NTdiOU1DdXZVcEx6ajZuVFVISmtGMElEVllMOUVBbEtsay1fNjAxZmQxRHhNd1REMDQtekpsaEt4anNFX0tUblMxdWVNTXlTOWR6TlIwQnRqY0VhNUJ1RG9seE1z0gG8AUFVX3lxTE5QbVRJTFYyY0dZRWFSd2tSQTdoOFJHbjFBdkNYemprYndqX3A3UF94b3dTVmtvNWZvRUEwbGJYaEE2aG1NM0wtMHdYM1FOeEZsa2ZEbWc3QjRETC01aXNUWGFBUFNGSWJRa2ZMWUNNWlFrd2hKZjJOZ3RuclhDWXNTaFBvMC1YUUZVTVFYbTFVX3V3NXl0VE00QndUYnlqeXpPLVZOeGh6MHJKNE9WeHNYT245UmtscGhCSGhn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 03 Apr 2026 15:03:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYjR2SWxaMVRqT2dLWGtmY2VZTW5FdWhKVFZDZWpSNGdkQ0JmNm9LT3o0cmxrOGxfcG1tN0lBWjNVM0wxMG5VT2NJZmRpNHpTVHpDSzV1UHBpTW1GbzZ6NHZEd1pzclBVME5TZkRrZzhvMlV1MGFIWFRBX2psNlVnZWs2Q0QwRldDSVY2dHA2LW4xODVvZzJtQQ?oc=5\" target=\"_blank\">Inteligencia artifici"
+      "published": "Mon, 06 Apr 2026 21:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQy0wY05uMFo3MURPVkp1V2xXWXdmMWtPOGhjNU1HUjBMa1hIRDh3bG1MV2VPWlkyeTliNzhnaDdzbVFENm51N2ZYd2ViWVhGUWp6NTdiOU1DdXZVcEx6ajZuVFVISmtGMElEVllMOUVBbEtsay1fNjAxZmQxRHhNd1REMDQtekpsaEt4anNFX0tUblMxdWVNTXlTOWR6TlIwQnRqY0VhNUJ1RG9seE1z0gG8AUFVX3lxTE"
     },
     {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - elcolombiano.com",
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
