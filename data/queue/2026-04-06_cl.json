@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "“Fue bastante duro”: qué piensan las familias de los astronautas de Artemis II sobre su viaje a la órbita lunar",
+      "url": "https://www.latercera.com/tendencias/noticia/fue-bastante-duro-que-piensan-las-familias-de-los-astronautas-de-artemis-ii-sobre-su-viaje-a-la-orbita-lunar/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 16:07:33 +0000",
+      "summary": "Miembros de la tripulación y familiares de los astronautas se han referido al periodo previo al lanzamiento y a las instancias en las que se han comunicado durante el transcurso de la misión. El comandante, Reid Wiseman, describió cuando habló con sus hijas como “el mejor momento” de toda su vida."
+    },
+    {
+      "title": "Qué es el metotrexato, el medicamento retirado por el ISP tras haber detectado endotoxinas en su contenido",
+      "url": "https://www.latercera.com/tendencias/noticia/que-es-el-metotrexato-el-medicamento-retirado-por-el-isp-tras-haber-detectado-endotoxinas-en-su-contenido/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 14:45:05 +0000",
+      "summary": "El Instituto de Salud Pública ordenó el retiro de un lote específico del fármaco tras detectar endotoxinas en un control de calidad, una contaminación que puede provocar fiebre y malestar."
+    },
+    {
       "title": "Lluvia, frío, calor y viento: el pronóstico de tiempo inestable que marcará la semana en Chile",
       "url": "https://www.latercera.com/tendencias/noticia/lluvia-frio-calor-y-viento-el-pronostico-de-tiempo-inestable-que-marcara-la-semana-en-chile/",
       "source": "La Tercera Tecnología",
@@ -27,22 +43,6 @@
       "summary": "El primero de los dos tripulantes del F-15E Strike Eagle fue rescatado poco después del ataque, el cual desencadenó que salieran eyectados en paracaídas. Pasaron casi dos días hasta que pudieron rescatar al segundo, quien permaneció herido en una montaña, mientras era acorralado."
     },
     {
-      "title": "El ejercicio que mejora más la calidad del sueño, según un reciente estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/el-ejercicio-que-mejora-mas-la-calidad-del-sueno-segun-un-reciente-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 06 Apr 2026 10:03:00 +0000",
-      "summary": "Una revisión de ensayos en más de 2.500 personas reveló cuál es la rutina física más eficaz para dormir mejor y reducir los trastornos del sueño."
-    },
-    {
-      "title": "La contaminación puede provocar ansiedad y depresión, advierte la Agencia Europea de Medio Ambiente",
-      "url": "https://www.latercera.com/tendencias/noticia/la-contaminacion-puede-provocar-ansiedad-y-depresion-advierte-la-agencia-europea-de-medio-ambiente/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 06 Apr 2026 10:02:00 +0000",
-      "summary": "La contaminación no solo afecta a tus pulmones. Un informe advirtió que la exposición al aire sucio, al ruido y a las sustancias químicas podrían estar causando un deterioro en la salud mental y causar depresión y ansiedad."
-    },
-    {
       "title": "Cómo la innovación tecnológica está redefiniendo el consumo en Chile - AmericaMalls & Retail",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVJhaFYzQlJZUnVZZFFOWS1EYzVQUUhXREdONlUxSnJfXzFQeUNyZ3AxYkI5YnJ1SndNVHo4R29DWWpZU3NzZHdheDFrenVMUl9hQmk2cmp5SmxpWGRsUGNlanZFejk4V2RSbXhWODF0WmNFSDAxbkdLdGRCMEJVQmJ1NVFfNVhUTDB1dk9fbjJFaWhYeVVLU2VRQURJLUlrUUtRdVdXZHVpTS1icFlhS2tUZDRXdw?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVJhaFYzQlJZUnVZZFFOWS1EYzVQUUhXREdONlUxSnJfXzFQeUNyZ3AxYkI5YnJ1SndNVHo4R29DWWpZU3NzZHdheDFrenVMUl9hQmk2cmp5SmxpWGRsUGNlanZFejk4V2RSbXhWODF0WmNFSDAxbkdLdGRCMEJVQmJ1NVFfNVhUTDB1dk9fbjJFaWhYeVVLU2VRQURJLUlrUUtRdVdXZHVpTS1icFlhS2tUZDRXdw?oc="
     },
     {
-      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - unesco.org",
+      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
       "source": "Google News",
       "category": "news",
@@ -75,11 +75,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2lXTG8yMDBoWWxNNlYxbTBkYlE5NHdYU3BaTFNfNUxzLUNOWWJxb2h6all1MzkxUndtSE1zY055Y0Z6VFdFWjZuYndWR25hdTdfdXVEY25Id1VyLXc3bnI2aHVWZUFFOVhubldUak9fMThwTkJ6UWZfQ2RLd0h6M2U1SWxoSDVvNlpOUUdaUHJ2MmJPOGRodFM2djdOYzZqdWczSm1lSXlFOWxlQnlUT0RfRWlRUU1la3"
     },
     {
-      "title": "Bill Gates lanza advertencia: estos son los únicos trabajos que sobrevivirán a la IA - infobae.com",
+      "title": "Bill Gates lanza advertencia: estos son los únicos trabajos que sobrevivirán a la IA - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWRla0h6ZHVFcE9KVG9md2xnY3pPVXgwSnpzbHFsdzQ4aWpSM3VQWHZiNHl4SEVNb01VSFZ6bFZBTW5BUHN4OV9mMl93aW8zVElQaHhGekF4YmF2Z3NOZW5ZR0VTMnQzbmNEeXJsSzl3ZFZ4NnAxbmVBNVZOeVBxMkw4WHVxMkpEcXhsU2xmWGN2TFV6XzJmWEJjOGNyVHI0X0cxMGlvaEY0TDg0UzR2Yy1ZTGE3YXlJT0U5aWVDS04yUlnSAd4BQVVfeXFMT3J6aXlYWHVEU1VNUkhZUWlQSEU4WWUxQXFKdHhmV1hibGg5Q3M0NVJFa3MxdTV5RExxT2UzaUxraEludE5nbFFLOFBVUGsycDg5MDQ5bEhWZTBid0kxWXpQc1pjdkR0V1BzY3ZfcWVWY2ZHdGhiV0lBelAxYk1aTEZOTFJfU0Z2b1NpQTRUM0NzaDZZclZBUVdOLUJObGtzRi1IUmpwaHdUdVctNWo3eHJ1dkhKOU5qVE94Rm5nRHV2VzFZX0cxYkNfX3BnSkczNlJXODRVTUdWU1hCVzJB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 29 Mar 2026 14:44:00 GMT",
+      "published": "Sun, 29 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWRla0h6ZHVFcE9KVG9md2xnY3pPVXgwSnpzbHFsdzQ4aWpSM3VQWHZiNHl4SEVNb01VSFZ6bFZBTW5BUHN4OV9mMl93aW8zVElQaHhGekF4YmF2Z3NOZW5ZR0VTMnQzbmNEeXJsSzl3ZFZ4NnAxbmVBNVZOeVBxMkw4WHVxMkpEcXhsU2xmWGN2TFV6XzJmWEJjOGNyVHI0X0cxMGlvaEY0TDg0UzR2Yy1ZTGE3YXlJT0"
     },
     {
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzIycUpDQklzdjlBV1VIcFg4OTQ4ME9uQWhWYVVyRzZZN3JwRkV4TTNQQ2VpOEt3OEZpZmxCZzI2dmNCNU5IMWRlS2JoRl9XZHVBR1VPYnNaM0t1Qk5URTRFRlptenY5dFMydFdNUUctd0ZucU1xR2V5aWxTcVFMZUhrT183RGR5bmZXRHF5aVV3SDQ?oc=5\" target=\"_blank\">Santiago Orduz de AWS afirma"
     },
     {
-      "title": "Litio en Chile: clave para la energía renovable y sostenibilidad - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTno5bVBjMDNrcXEzTXJBODZLQThYU2J1cDBTVlV4NjJJbDZxalZRVmE1M0lBM2hpa3FfWHpYWkJIVEtISWhTQmExVGdhTFhJN2RocWdhM3hKeGM2TFRWdGk1ZlBuV29BN1d0WGplLTU2SDU3UVRGQkNVTTRHNEJhUF9pZXJCbkVvYTROaFN2S0FIQnFnd19TNDBR?oc=5",
+      "title": "Araucaria Venture levanta fondo de inversión para startups tecnológicas - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXdob2RBZXQ3X25JY0RnNmJxLWpWR3o0NVNLcURVNnFsaHNwRmFhU291TXU0UzBKNDBiTjFhMEdCU2QtdFFmeVhTcWpza0JJeVQ5ZDR5SWFlQ1gxWV9VTGJJcEhhTkxPdW5IN1hsWnVHclRDbGdWTEdVWTVPVFpQUGRHd2R6U0Y0ZTdsX2dTUlZLMjg2Sl9nalh1MWtvbU1SRldSZQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 06 Apr 2026 10:08:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTno5bVBjMDNrcXEzTXJBODZLQThYU2J1cDBTVlV4NjJJbDZxalZRVmE1M0lBM2hpa3FfWHpYWkJIVEtISWhTQmExVGdhTFhJN2RocWdhM3hKeGM2TFRWdGk1ZlBuV29BN1d0WGplLTU2SDU3UVRGQkNVTTRHNEJhUF9pZXJCbkVvYTROaFN2S0FIQnFnd19TNDBR?oc=5\" target=\"_blank\">Litio en Chile: cla"
+      "published": "Mon, 06 Apr 2026 15:54:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXdob2RBZXQ3X25JY0RnNmJxLWpWR3o0NVNLcURVNnFsaHNwRmFhU291TXU0UzBKNDBiTjFhMEdCU2QtdFFmeVhTcWpza0JJeVQ5ZDR5SWFlQ1gxWV9VTGJJcEhhTkxPdW5IN1hsWnVHclRDbGdWTEdVWTVPVFpQUGRHd2R6U0Y0ZTdsX2dTUlZLMjg2Sl9nalh1MWtvbU1SRldSZQ?oc=5\" target=\"_blank\">Arauc"
     },
     {
       "title": "PRIMER HUB CIENTÍFICO DE CHILE ABRE NUEVA CONVOCATORIA PARA STARTUPS TECNOLÓGICAS - Radio Polar",
