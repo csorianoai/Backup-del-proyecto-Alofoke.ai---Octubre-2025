@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cuándo y cómo será el regreso de Artemis II a la Tierra, después de haber explorado la Luna",
+      "url": "https://www.latercera.com/tendencias/noticia/cuando-y-como-sera-el-regreso-de-artemis-ii-a-la-tierra-despues-de-haber-explorado-la-luna/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 07 Apr 2026 15:16:59 +0000",
+      "summary": "Luego de marcar un récord histórico al alejarse más de 400 mil kilómetros de la Tierra, la tripulación inicia el tramo final de su viaje."
+    },
+    {
       "title": "Cómo el tipo de trabajo que tienes puede aumentar el riesgo de padecer demencia, según investigaciones",
       "url": "https://www.latercera.com/tendencias/noticia/como-el-tipo-de-trabajo-que-tienes-puede-aumentar-el-riesgo-de-padecer-demencia-segun-investigaciones/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Tue, 07 Apr 2026 10:02:00 +0000",
       "summary": "La norma entrará en vigor este año e implementará cambios en cuanto a su protección y tratamiento. También considera la creación de la Agencia de Protección de Datos Personales. Acá, especialistas descifran los puntos esenciales de la nueva ley."
-    },
-    {
-      "title": "Cuándo llegan y cómo serán los dos sistemas frontales que afectarán al sur y centro-sur de Chile",
-      "url": "https://www.latercera.com/tendencias/noticia/cuando-llegan-y-como-seran-los-dos-sistemas-frontales-que-afectaran-al-sur-y-centro-sur-de-chile/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 07 Apr 2026 10:01:00 +0000",
-      "summary": "Dos sistemas frontales traerán lluvias y viento al sur de Chile este fin de semana. Revisa el pronóstico, las regiones afectadas y cuándo llegarán."
     },
     {
       "title": "Cámara Chilena de Inteligencia Artificial elige nuevo Directorio - EMB Gerencia",
@@ -75,7 +75,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2lXTG8yMDBoWWxNNlYxbTBkYlE5NHdYU3BaTFNfNUxzLUNOWWJxb2h6all1MzkxUndtSE1zY055Y0Z6VFdFWjZuYndWR25hdTdfdXVEY25Id1VyLXc3bnI2aHVWZUFFOVhubldUak9fMThwTkJ6UWZfQ2RLd0h6M2U1SWxoSDVvNlpOUUdaUHJ2MmJPOGRodFM2djdOYzZqdWczSm1lSXlFOWxlQnlUT0RfRWlRUU1la3"
     },
     {
-      "title": "Bill Gates lanza advertencia: estos son los únicos trabajos que sobrevivirán a la IA - Infobae",
+      "title": "Santiago Orduz de AWS afirma que la Nube es la gran democratizadora de la Inteligencia Artificial - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzIycUpDQklzdjlBV1VIcFg4OTQ4ME9uQWhWYVVyRzZZN3JwRkV4TTNQQ2VpOEt3OEZpZmxCZzI2dmNCNU5IMWRlS2JoRl9XZHVBR1VPYnNaM0t1Qk5URTRFRlptenY5dFMydFdNUUctd0ZucU1xR2V5aWxTcVFMZUhrT183RGR5bmZXRHF5aVV3SDQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 25 Mar 2026 12:14:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzIycUpDQklzdjlBV1VIcFg4OTQ4ME9uQWhWYVVyRzZZN3JwRkV4TTNQQ2VpOEt3OEZpZmxCZzI2dmNCNU5IMWRlS2JoRl9XZHVBR1VPYnNaM0t1Qk5URTRFRlptenY5dFMydFdNUUctd0ZucU1xR2V5aWxTcVFMZUhrT183RGR5bmZXRHF5aVV3SDQ?oc=5\" target=\"_blank\">Santiago Orduz de AWS afirma"
+    },
+    {
+      "title": "Bill Gates lanza advertencia: estos son los únicos trabajos que sobrevivirán a la IA - infobae.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWRla0h6ZHVFcE9KVG9md2xnY3pPVXgwSnpzbHFsdzQ4aWpSM3VQWHZiNHl4SEVNb01VSFZ6bFZBTW5BUHN4OV9mMl93aW8zVElQaHhGekF4YmF2Z3NOZW5ZR0VTMnQzbmNEeXJsSzl3ZFZ4NnAxbmVBNVZOeVBxMkw4WHVxMkpEcXhsU2xmWGN2TFV6XzJmWEJjOGNyVHI0X0cxMGlvaEY0TDg0UzR2Yy1ZTGE3YXlJT0U5aWVDS04yUlnSAd4BQVVfeXFMT3J6aXlYWHVEU1VNUkhZUWlQSEU4WWUxQXFKdHhmV1hibGg5Q3M0NVJFa3MxdTV5RExxT2UzaUxraEludE5nbFFLOFBVUGsycDg5MDQ5bEhWZTBid0kxWXpQc1pjdkR0V1BzY3ZfcWVWY2ZHdGhiV0lBelAxYk1aTEZOTFJfU0Z2b1NpQTRUM0NzaDZZclZBUVdOLUJObGtzRi1IUmpwaHdUdVctNWo3eHJ1dkhKOU5qVE94Rm5nRHV2VzFZX0cxYkNfX3BnSkczNlJXODRVTUdWU1hCVzJB?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWRla0h6ZHVFcE9KVG9md2xnY3pPVXgwSnpzbHFsdzQ4aWpSM3VQWHZiNHl4SEVNb01VSFZ6bFZBTW5BUHN4OV9mMl93aW8zVElQaHhGekF4YmF2Z3NOZW5ZR0VTMnQzbmNEeXJsSzl3ZFZ4NnAxbmVBNVZOeVBxMkw4WHVxMkpEcXhsU2xmWGN2TFV6XzJmWEJjOGNyVHI0X0cxMGlvaEY0TDg0UzR2Yy1ZTGE3YXlJT0"
     },
     {
-      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
+      "title": "FIDAE 2026 y la Fuerza Aérea de Chile abren la convocatoria para startups “Despega al Futuro” con el foco en tecnologías aeroespacial - Defensa.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
+      "published": "Tue, 07 Apr 2026 15:08:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
     },
     {
-      "title": "AgTech y ClimateTech: 40 startups agro innovan ante el cambio climático - ecosistemastartup.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3BZaHBhSS11WURMVFNZdUxZeEgwaFZzR0F5YllWd2F6V1Bjb2tKWHFyQkpESDNrLUlwOElaVDJEeFJ1cm01bVhvbUdTR01TOW4xQVpjcDh5dDRPR1pWYWZOZko5cG9KYU5HZFQxUFBsbkpjZV9ic01KN0dHZVBjbWgxUXBHcXZ2RUhSeGhva3NObXE5TWduOHIxd0s5bWd6Nkww?oc=5",
+      "title": "Araucaria Venture levanta fondo de inversión para startups tecnológicas - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXdob2RBZXQ3X25JY0RnNmJxLWpWR3o0NVNLcURVNnFsaHNwRmFhU291TXU0UzBKNDBiTjFhMEdCU2QtdFFmeVhTcWpza0JJeVQ5ZDR5SWFlQ1gxWV9VTGJJcEhhTkxPdW5IN1hsWnVHclRDbGdWTEdVWTVPVFpQUGRHd2R6U0Y0ZTdsX2dTUlZLMjg2Sl9nalh1MWtvbU1SRldSZQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 02 Apr 2026 11:07:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3BZaHBhSS11WURMVFNZdUxZeEgwaFZzR0F5YllWd2F6V1Bjb2tKWHFyQkpESDNrLUlwOElaVDJEeFJ1cm01bVhvbUdTR01TOW4xQVpjcDh5dDRPR1pWYWZOZko5cG9KYU5HZFQxUFBsbkpjZV9ic01KN0dHZVBjbWgxUXBHcXZ2RUhSeGhva3NObXE5TWduOHIxd0s5bWd6Nkww?oc=5\" target=\"_blank\">AgTech "
+      "published": "Mon, 06 Apr 2026 15:54:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXdob2RBZXQ3X25JY0RnNmJxLWpWR3o0NVNLcURVNnFsaHNwRmFhU291TXU0UzBKNDBiTjFhMEdCU2QtdFFmeVhTcWpza0JJeVQ5ZDR5SWFlQ1gxWV9VTGJJcEhhTkxPdW5IN1hsWnVHclRDbGdWTEdVWTVPVFpQUGRHd2R6U0Y0ZTdsX2dTUlZLMjg2Sl9nalh1MWtvbU1SRldSZQ?oc=5\" target=\"_blank\">Arauc"
     },
     {
       "title": "PRIMER HUB CIENTÍFICO DE CHILE ABRE NUEVA CONVOCATORIA PARA STARTUPS TECNOLÓGICAS - Radio Polar",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Sun, 05 Apr 2026 13:03:36 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3R4UkI2RW01RXRYNDBRNzc2dFdFc0RrbFNxN0w0WVNnYUJ1WlNadmpac1RzUnJJZExGcUJ0cmVLZmtCendVR1RJb3N2aG4wVjFMTVdoY0t4dGM0dERKWmhRa0pMMVNTbm9VNHAwelVtTXpaUHA2NWE5TENyS1d4RVdtN2JVeW9WR1Y0Z2diX2s?oc=5\" target=\"_blank\">PRIMER HUB CIENTÍFICO DE CHILE A"
-    },
-    {
-      "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - infodefensa.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YXlEenBwNnpqcGdRS2VoZE4xQzlvTlFKbnhWTmhxOVNMS2xSQnYxaTRBbDlpWjQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
     }
   ],
   "count": 14
