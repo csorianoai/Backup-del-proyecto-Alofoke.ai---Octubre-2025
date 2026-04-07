@@ -3,12 +3,20 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump eleva la presión sobre Irán: “Esta noche morirá toda una civilización”",
+      "title": "Trump eleva la presión a pocas horas de que expire el ultimátum a Irán: “Esta noche morirá toda una civilización”",
+      "url": "https://elpais.com/internacional/2026-04-07/israel-y-ee-uu-lanzan-una-oleada-de-ataques-contra-instalaciones-civiles-de-iran.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 07 Apr 2026 20:32:30 GMT",
+      "summary": "Israel y EE UU lanzan una oleada de ataques contra instalaciones civiles de Irán. Pakistán ha propuesto una prórroga de dos semanas al ultimátum de Trump"
+    },
+    {
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pakistán pide a EE UU que aplace dos semanas el ultimátum a Irán y Trump dice que responderá pronto",
       "url": "https://elpais.com/internacional/2026-04-07/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 07 Apr 2026 19:05:18 GMT",
-      "summary": "Teherán denuncia ataques contra la estratégica isla de Jarg a horas de que expire el ultimátum de Trump | El ejército israelí amenaza la red ferroviaria de la República Islámica y pide a la población que evite viajar en tren"
+      "published": "Tue, 07 Apr 2026 21:59:54 GMT",
+      "summary": "Teherán estudia la propuesta, que evalúa “positivamente” | El estadounidense añade que está en “intensas negociaciones” con el régimen"
     },
     {
       "title": "Claves sobre el ultimátum de Trump: ¿Qué podría atacar Estados Unidos en Irán? ¿Existe el riesgo del uso de un arma nuclear?",
@@ -25,14 +33,6 @@
       "category": "tech",
       "published": "Tue, 07 Apr 2026 16:09:12 GMT",
       "summary": "Los ataques a infraestructuras civiles y centrales eléctricas en Irán violan el derecho internacional, según varios especialistas consultados. Teherán también ha golpeado al sector energético en el Golfo"
-    },
-    {
-      "title": "Israel y EE UU lanzan una oleada de ataques contra instalaciones civiles de Irán",
-      "url": "https://elpais.com/internacional/2026-04-07/israel-y-ee-uu-lanzan-una-oleada-de-ataques-contra-instalaciones-civiles-de-iran.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 07 Apr 2026 16:48:39 GMT",
-      "summary": "El ejército israelí ataca por primera vez la red ferroviaria, a horas de que expire el ultimátum de Washington. Trump amenaza con matar esta noche “una civilización entera”"
     },
     {
       "title": "Dos heridos y el atacante muerto en un tiroteo junto al consulado de Israel en Estambul",
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaWNhUnJRcGJiWFJoSmhLMlB4RVRkbHhkOEI2dUFkcmlKYWE2dEY3VnVRMm5lRnVuWUlhZ3NOSS1qUUhFUmdzc3pTb19Kb1FBWEVQN0Q5OVQ2VlJycWNWejAzMGJUYmk4VTN3YnQyekp3LUNtRGhFUjRRMDJsSTYwd1FBZ09IZzFoQjJ6b0JVZjZmRGZ3M29hTG5uVE05bEo2bFVXWlF3U3ExQmk3QjlLQjR0SkM1bm9V?o"
     },
     {
-      "title": "Este es el mejor destino de España para pasar las vacaciones de verano en 2026, según la inteligencia artificial: «Está menos masificado» - abc.es",
+      "title": "Este es el mejor destino de España para pasar las vacaciones de verano en 2026, según la inteligencia artificial: «Está menos masificado» - ABC",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjZSRVhMcFlyRVYyYXYxSlQzaThBbzYzS2piSEkxMjY3SC1CRTZDa1lkZ3FaWGNkdTdaX1lsdXpqcDUxNWZhZjBHUEtienhDRmhJMm15dTBBaXdUdTdSQnZTV3NaOGlPSW9KbGxlZ0Z2NlpXYm5CSFZfaDE2c0Z5bEJNVEx1ZmZDT0ZCM1NLWG9sRHNRaXRpQkU4bDd4YW_SAaQBQVVfeXFMTXllTTVQME1YOGlVekt4Vm1pZ0lwM193Y294d2pvS2dlVkpfNURmWGdWV0R1b2tSQWJqOG5IZlp4ZV9ubV9udXlBS21Pa19pMWpzRFJwSnhFWDVOTkxNY1FVdE95N2RkUUdUSUNLX3hhaEg5SkhRN2tHeEgyaHBWYUxzU1JOSkN5OTB3cEZUMnUycmpqNlhBSDh1VXBFVDJ0S05VZ2Q?oc=5",
       "source": "Google News",
       "category": "news",
