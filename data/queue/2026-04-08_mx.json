@@ -3,20 +3,12 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Bezos, Ellison y los gigantes tech avanzan en el control de los medios de comunicación",
-      "url": "https://expansion.mx/tecnologia/2026/04/08/bezos-ellison-y-los-gigantes-tech-avanzan-en-el-control-de-los-medios-de-comunicacion",
+      "title": "¿Tu laptop se alenta? Posiblemente la culpable es la RAM soldada",
+      "url": "https://expansion.mx/tecnologia/2026/04/07/tu-laptop-se-alenta-posiblemente-la-culpable-es-la-ram-soldada",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 08 Apr 2026 10:00:58 GMT",
-      "summary": "Compras de medios, acuerdos de IA y control de plataformas explican la creciente influencia de las tecnológicas en la distribución de noticias y los ingresos de los publishers."
-    },
-    {
-      "title": "Apple lanzará su iPhone plegable en septiembre de este año",
-      "url": "https://expansion.mx/tecnologia/2026/04/07/apple-lanzara-su-iphone-plegable-en-septiembre-de-este-ano",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 07 Apr 2026 23:00:59 GMT",
-      "summary": "A pesar de los informes de posibles retrasos del dispositivo, se prevé que la empresa debute con este nuevo factor de forma en el evento de septiembre."
+      "published": "Tue, 07 Apr 2026 22:00:52 GMT",
+      "summary": "Aunque se trata de una medida para optimizar el espacio en los equipos, también representa un problema de reparabilidad para los usuarios."
     },
     {
       "title": "Apps vencen a taxis: 17% contra 10% en el uso de transporte",
@@ -43,6 +35,14 @@
       "summary": "El auge del IoT en México abre espacio a electrodomésticos inteligentes, donde Dreame apuesta por IA, precio y adopción para competir con una Dyson ya consolidada."
     },
     {
+      "title": "Sam Altman alerta: en un año la IA traerá riesgos en el empleo, ciberseguridad y crimen",
+      "url": "https://expansion.mx/tecnologia/2026/04/06/sam-altman-alerta-en-un-ano-la-ia-traera-riesgos-en-el-empleo-ciberseguridad-y-crimen",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 21:31:02 GMT",
+      "summary": "El líder tecnológico revela la propuesta de OpenAI sobre impuestos, acceso a la IA y nuevas reglas para repartir su impacto económico."
+    },
+    {
       "title": "México se suma a la Declaración de Delhi sobre IA; especialistas advierten retos estructurales - Mobile Time Latinoamérica",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wNFpKbnY0czJQSTVXcDc1ZVFzbXFCTFVWOG5ZMlZfUVdUNVFPZk1fQy1qNGt0MU5EeEs3Rk41WS1uRlViYldKeUlYdUVxYmhBQndPMDFlMkdnbEVmYnFKeEJERTUzR2tvY0h3b3dHc1BnWGdiejk1bGZJLU1vZw?oc=5",
       "source": "Google News",
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFdTRFBVWjNUZlB5TXRQbno4dnl4Rk5TaDZjc2VYVXZzRGlzd2x4YURGLWdfMVRtMjF2M2lEWDRWS09tVVJDVS16c29VdGdqenh5dGhXTWhicmxzMnRHNmdpeHdKWndzVnJianhtSzBSODVOTFpfMWo5enA3bm1idk5MaEVUanB5WVpsMWlRajA1MVlFcGVoTUh5NjVrVE5q0gGuAUFVX3lxTE9VQ0dvN2EtemVIemU1Sz"
     },
     {
-      "title": "Startup Weekend Mérida 2026: guía para emprendedores - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9jcjVoM1REaFlLWmNRckFZWjN3eDNxVm9uT3BRdE1QOV95TWJyNGcxZEt0a2RDVVhDWTljcFc1VTdDS1g3djJzWUhxTWJfWkxxV205eG5IdWt4YksxeGpLdk1FUGFwWF95dzZRb3VNWlVJVWxpMjNzQklTVjFzanlPR2p5dzFsOHc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 07 Apr 2026 22:17:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9jcjVoM1REaFlLWmNRckFZWjN3eDNxVm9uT3BRdE1QOV95TWJyNGcxZEt0a2RDVVhDWTljcFc1VTdDS1g3djJzWUhxTWJfWkxxV205eG5IdWt4YksxeGpLdk1FUGFwWF95dzZRb3VNWlVJVWxpMjNzQklTVjFzanlPR2p5dzFsOHc?oc=5\" target=\"_blank\">Startup Weekend Mérida 2026: guía para e"
-    },
-    {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
@@ -83,7 +75,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Qualcomm abre el plazo de inscripción para el Programa de Innovadores en IA 2026/2027 en América Latina, centrado en startups de México y Brasil - Edomex Al Día",
+      "title": "Startup Weekend Mérida 2026: guía para emprendedores - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9jcjVoM1REaFlLWmNRckFZWjN3eDNxVm9uT3BRdE1QOV95TWJyNGcxZEt0a2RDVVhDWTljcFc1VTdDS1g3djJzWUhxTWJfWkxxV205eG5IdWt4YksxeGpLdk1FUGFwWF95dzZRb3VNWlVJVWxpMjNzQklTVjFzanlPR2p5dzFsOHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Apr 2026 22:17:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYW9jcjVoM1REaFlLWmNRckFZWjN3eDNxVm9uT3BRdE1QOV95TWJyNGcxZEt0a2RDVVhDWTljcFc1VTdDS1g3djJzWUhxTWJfWkxxV205eG5IdWt4YksxeGpLdk1FUGFwWF95dzZRb3VNWlVJVWxpMjNzQklTVjFzanlPR2p5dzFsOHc?oc=5\" target=\"_blank\">Startup Weekend Mérida 2026: guía para e"
+    },
+    {
+      "title": "Qualcomm abre el plazo de inscripción para el Programa de Innovadores en IA 2026/2027 en América Latina, centrado en startups de México y Brasil - edomexaldia.com",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWDlTaVJTdThwYjFXdG1QdWVmQWJublVfazdaQnM5M1c2dmxYUVEyOUtTaFluV2ZEMnlTbGt5V3Z2RE5IRFJMYTN4WjlnOWpMNW54Rkhyb0tpN2VMVkY4bnNBaERpMEtENXhnMWJYS200N2FXZHJpOHlGMTFSWlB5ZWdBNEZFTjRtbk01ZUJEYWNicEEyZ1hYOHBmV1NwcFlpWUtfcDduVkhpSVZVb0ZSUFd2X2hDaUhjemdNeUcyZVEwY0IxYWhfS0RyZ1VVR3RuUTJBZTA4UGtxX092dlE0YmI3NUxkWXRZazVlSU41dUN5ejdXRDgzSkU2Y2Q?oc=5",
       "source": "Google News",
       "category": "news",
