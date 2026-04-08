@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo hacer la dieta DASH que ayuda a reducir los riesgos de demencia, según un reciente estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/como-hacer-la-dieta-dash-que-ayuda-a-reducir-los-riesgos-de-demencia-segun-un-reciente-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Apr 2026 21:00:00 +0000",
+      "summary": "A falta de una cura para la demencia, la prevención se ha vuelto clave. En ese contexto, un estudio reciente analizó el impacto de la dieta DASH y encontró una asociación significativa con un menor riesgo de deterioro cognitivo."
+    },
+    {
       "title": "Qué se sabe sobre el acuerdo de alto al fuego entre Estados Unidos e Irán",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-acuerdo-de-alto-al-fuego-entre-estados-unidos-e-iran/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Un análisis a gran escala en Europa encendió las alertas sobre una enfermedad que puede avanzar durante décadas sin síntomas."
     },
     {
-      "title": "Marzo fue históricamente lluvioso: qué ciudades de Chile rompieron récords, según la DMC",
-      "url": "https://www.latercera.com/tendencias/noticia/marzo-fue-historicamente-lluvioso-que-ciudades-de-chile-rompieron-records-segun-la-dmc/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 08 Apr 2026 10:01:00 +0000",
-      "summary": "Marzo de 2026 se convirtió en uno de los más lluviosos en Chile: revisa las ciudades que rompieron récords de precipitaciones y el ranking completo de Meteochile."
-    },
-    {
       "title": "Lo que le contamos a la inteligencia artificial - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVfQWlvdjMzYVpVM1JpNEZmRUhuaXh4c2dwR0ZpZi0tcHZSTWwxcDdFcXdSM0EyTGVFS0toZnc1T1FmenJBamE4bDFXZ0VQVGU4OWlYUkg4RmRrS283bW1aM3hoT1NENFV6UDhjcE5UUUdXdndvVEgzSDJYaktKRGVmOTVoUC15elRRSmVVekhsQdIBpgFBVV95cUxPVEJFNlVyOEtYOFNacWFDRlFqNnpHUnZrY3NxZV9ReGUtUmpjZ0pTWXk3R1F0aDlPLWNiUUxxMVdDcVhyNldWdHNvbUFWTU9NNFJPWHFjcUFvUi1jVTY2aS1BNmxwSlA0aUgtSUhFVFVNYXczZ0YtN0MtX0VEdTdLRXV5NURHSUVSTW5KZEpXSlBpMVhtd0NjUGgwTkdVRFZaTWVsSHhB?oc=5",
       "source": "Google News",
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbF"
     },
     {
-      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
+      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - mintic.gov.co",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
       "category": "news",

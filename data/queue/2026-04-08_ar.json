@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Estafa a Aerolíneas Argentinas: el fiscal pidió indagar a otros 53 acusados por viajes ligados a las millas del principal imputado",
+      "url": "https://www.clarin.com/tecnologia/estafa-aerolineas-argentinas-fiscal-pidio-indagar-53-acusados-viajes-ligados-millas-principal-imputado_0_2HkTCLykEu.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Apr 2026 20:00:32 +0000",
+      "summary": "<ul><li>Guillermo Marijuán solicitó que sean citados a declaración indagatoria en la causa por la presunta manipulación del programa Aerolíneas Plus.</li><li>La fiscalía sostiene que hubo una operatoria sistemática para comprar millas a valores irrisorios entre diciembre de 2023 y enero de 2025.</li"
+    },
+    {
       "title": "The New York Times reveló la identidad real de Satoshi Nakamoto, el creador de Bitcoin",
       "url": "https://www.clarin.com/tecnologia/the-new-york-times-revelo-identidad-real-satoshi-nakamoto-creador-bitcoin_0_SxQhJOrUVz.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>El sistema dejó de recibir soporte oficial de Microsoft, pero sigue funcionando en millones de computadoras. </li><li>Hay prórrogas de seguridad y compatibilidades parciales que permiten estirar su uso por un tiempo limitado. </li></ul>"
     },
     {
-      "title": "Un celular rumbo a la Luna: qué teléfono eligió la NASA para Artemis II y cuál es su función clave",
-      "url": "https://www.clarin.com/tecnologia/celular-rumbo-luna-telefono-eligio-nasa-artemis-ii-funcion-clave_0_HbR3kPTBvJ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 05 Apr 2026 09:01:48 +0000",
-      "summary": "<ul><li>La misión marca el regreso de astronautas a la órbita lunar tras más de 50 años.</li><li>Entre los equipos a bordo, la NASA sumó un smartphone de alta gama como herramienta complementaria.</li></ul>"
-    },
-    {
       "title": "Argentina impulsa la innovación tecnológica en el sector turístico - Expreso - Diario de viajes y turismo",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeWZQd082RTNNRXdGZnJ6dXZsRTh5cm5jcEp0LUJ1bmlTdGFjbDR3eW15S19SM2lrdGo4NXRPYU1DampQVnZLQzBQWjBocm54NWR0WGJ4aVdyU2lZZktmeHNPNUhxSnJFaDhQOWg5OXJwVlZuZVlBcWtQdWUydVJXR2hxNFBpbEc4aU1wZHlIY3A2QUw0Yjg4S3QwQ2thYW1fbURlQlhZSllhaVRTdjhyT0thQW9fZmw0NWtSU0F3?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2g2U2RUcWZ6N3lSczNNVm5TSFVPMWJoMjhTUktfTXgtM3RBelpnTWdCRWJodG5tRkxJc0F2ZzJpbkdTRmt1UHNOUlp0U3pkVWRJWVAzWlllVGF0VTVNY2hYLXRhRmljcHU5SlhhR2Y3M25KM3hsdG1rRkNBQ0J1cFphalQ3SDh5QWIyQ2pUWnV6UkpMVlA1a1VLMDRpbFVpOU5GeVd6SHdsbmJ6RFEyYTY4WHZqbmI4WD"
     },
     {
-      "title": "CABASE organiza el Internet Day 2026 con foco en la infraestructura y la inteligencia artificial - prensario.net",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkxvU1ZVT0twTk91LURIUXRHWnNaRHQ2RGRwdHNxX1R3aW1WbDJJNXdHVDlzbldpSVluN0lRV01lRklMbzluZmd4cTJUQndKVHBpS3h2WE84UnpwUkVfMGRmNmM4S0s1dlRJLVowYjNxdWxCbUE2dTlFT3dBMFMxem9vZEl6ZkU5WFFSWXAzTEh2TldDUTBKU0VCdl9sN29NZ1Bjb3FMdXVYZTFVa0JYWmN0LVphRWg2YWVtMnk5OWNwWDQzaWZoTDRqV0NsaS0yMVFMZA?oc=5",
+      "title": "La carrera por los datos podría dejar a Argentina sin soberanía digital - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXA5X01RRUN4RVdSM3VYSGxmT2lxUC14eWdZYzZYM0dvMThNcDJIY2FzM0pNUkhpaTY1RllQOXZSdUVjbml0RlZERTZzdEx0MmNmY2gyRTBNNzhGR3B4NU1uZ3RucUotWW9rNVdEdldqMWVCSVhickVKVFFsYnJNeFgxRzVyM3JXRXUzZE43N2lGNEdFaVJiOGcwdFQzc1hia21XNFZVb2tKSGhWWWF1Tlp0TDZUendmdXVOV0dB0gHSAUFVX3lxTE9pZW05d0hQSEtSWUJFZXNORlVWaTNwS2x2QXhoNjVwWC1XZzlZQzRGYjBsR3Y1LTNpM3czU1VSOG84dXdRZW1rX2FqSjZ5c3ZXSXR1Uk5aUl83YXhYWEh2NV90VnFSQVQ5d0RCTlVQOVRMTlVzOTdfcEU2amxDTGl3c2lHYVU2eWY0dE53MFRLMDhaTC11azRiRlRSRGU5d0Nkel8wZTIzOTFEeTYtSGFoVkVNYzBSU2ZLdmhBNHFRSGZubmwtY2oxTms1N2xHVFhvQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Apr 2026 13:36:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWkxvU1ZVT0twTk91LURIUXRHWnNaRHQ2RGRwdHNxX1R3aW1WbDJJNXdHVDlzbldpSVluN0lRV01lRklMbzluZmd4cTJUQndKVHBpS3h2WE84UnpwUkVfMGRmNmM4S0s1dlRJLVowYjNxdWxCbUE2dTlFT3dBMFMxem9vZEl6ZkU5WFFSWXAzTEh2TldDUTBKU0VCdl9sN29NZ1Bjb3FMdXVYZTFVa0JYWmN0LVphRWg2YW"
+      "published": "Tue, 07 Apr 2026 04:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXA5X01RRUN4RVdSM3VYSGxmT2lxUC14eWdZYzZYM0dvMThNcDJIY2FzM0pNUkhpaTY1RllQOXZSdUVjbml0RlZERTZzdEx0MmNmY2gyRTBNNzhGR3B4NU1uZ3RucUotWW9rNVdEdldqMWVCSVhickVKVFFsYnJNeFgxRzVyM3JXRXUzZE43N2lGNEdFaVJiOGcwdFQzc1hia21XNFZVb2tKSGhWWWF1Tlp0TDZUendmdX"
     },
     {
       "title": "Buenos Aires impulsa el uso de IA en el sector público: análisis del Decreto 97/26 - IAPP",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VpbHA5OEdHcG0wd0ZVU1hyUEtOT3VYMXA1LTBSemNqNjNTWUxxa2c4UGR3QlBvLTI3bEdQUGhSekVQNFZDTjRQZE5hM3JkRlZyMk9MR3pwMTAyU3RxdnlfU3Bsc1V0THd1bHBTRkttV2xuN0poVTZaN21aRXBHTEllbFpZcFV1TC1MT2VMUnBGZGQ3NDAwS0dnUVhzdU5DY29fZld3Z0JkVmg4bnc1RlNob0IxMGZ5NX"
     },
     {
-      "title": "De Rosario al mundo: una startup argentina de datos impulsa su expansión global - Agroempresario.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUklUb043MTUxQkc5SGtvWWVSUkRGUGdqeGtNa1FsdE56OGtQWFk4MGhfTXlpTTNMcmMxTUlLVEwtSm01SElOUGlBV3Q5WDV6MkltWnkyVzVnOXBxVVhQVGd5YzBXRHFoamdvTkJCNUNoQ3p1ZVREMWJVdzRxWTdQMmg4Rmh6UXBubmhTaUdaSTJjS05IU0ZGMXRiTjk1M28xWVhORDBycE1EQk4yZndKTlFWNS1NVktEbzRXVmQtRWw1c1k?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 04 Apr 2026 12:35:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUklUb043MTUxQkc5SGtvWWVSUkRGUGdqeGtNa1FsdE56OGtQWFk4MGhfTXlpTTNMcmMxTUlLVEwtSm01SElOUGlBV3Q5WDV6MkltWnkyVzVnOXBxVVhQVGd5YzBXRHFoamdvTkJCNUNoQ3p1ZVREMWJVdzRxWTdQMmg4Rmh6UXBubmhTaUdaSTJjS05IU0ZGMXRiTjk1M28xWVhORDBycE1EQk4yZndKTlFWNS1NVktEbz"
-    },
-    {
       "title": "Arbusta: startup argentina, IA e impacto social - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWhBa1VYTTNFeGNQN2J2OHhLUkl4UGhjbUUtQmhCdnZidGVMQWJaYktFSy10cm8xTlhCWjRvRlV6TS1fQ1BaMUFBUTRuTktkei1EdE5aU3dHazBralJjVFlybGFjQ0tfaVdRYUk4cEszdHVoa0xiYTRxeS1uXzdScVFn?oc=5",
       "source": "Google News",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Fri, 27 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmI5enR4ZmR2QjRiV2pLdGZzQ2h3aVJjV28tbng1alBPaUU5SkFVcXJTTGZfVmdpS3N6a012VzhlT2pDZ3FraW1Ga1dCQ3NGcndoYjFmdzl4NmtsUk5QWUtzOWh6YWIzY21tLWJKOXFkZ3lmbkgyTjdLZ01hS2VnQ09jS1Y1akpnTVBWc01XVnlMVXRzMjhOMWZ6eG1tWm5KRnhwQ1g3enp6cEpCc2FoT2Rac1FYd2ZMaE"
+    },
+    {
+      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
     }
   ],
   "count": 14
