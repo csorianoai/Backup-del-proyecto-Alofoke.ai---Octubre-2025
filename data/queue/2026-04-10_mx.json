@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Dyson ‘sale de casa’ y lanza un ventilador portátil",
+      "url": "https://expansion.mx/tecnologia/2026/04/10/dyson-sale-de-casa-y-lanza-un-ventilador-portatil",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 10 Apr 2026 16:00:14 GMT",
+      "summary": "La empresa que se caracteriza por tener aspiradoras y productos del hogar como purificadores ahora lanzará una solución más fresca."
+    },
+    {
       "title": "El 54% de las pymes usan IA, pero la clave del negocio es la conexión humana",
       "url": "https://expansion.mx/tecnologia/2026/04/09/el-54-de-las-pymes-usan-ia-pero-la-clave-del-negocio-es-la-conexion-humana",
       "source": "Expansión Tecnología",
@@ -35,20 +43,12 @@
       "summary": "La empresa redirige inversión a gafas inteligentes que ya generan 1,600 mdd, mientras la IA concentra el crecimiento del sector."
     },
     {
-      "title": "Telegram es una máquina de marketing que conecta hasta con 200,000 personas",
-      "url": "https://expansion.mx/tecnologia/2026/04/08/telegram-es-una-maquina-de-marketing-que-conecta-hasta-con-200-000-personas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 08 Apr 2026 21:00:55 GMT",
-      "summary": "Los canales de mensajería son efectivos para comunicar diversas cosas a los usuarios, pero también como espacios de venta más directa."
-    },
-    {
-      "title": "Automatización e IA en manufactura: competitividad en riesgo - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYi11S2Y5bVd4ZWJWY3V3czE4dmNSV1RoSTlYY3pWY2FQekRWV1VLVHhOMy1iNHFMTEVMc2ZvQXZSelBDbWpLLUFEbGMzMXZNcng5bVBWNFVaOE9TemNiVXZqOXUwcmJJaDRISWw5MkZHR1ZPUmMyWVB6Z2dHS0VfUTM1WW5wM2ttS250UElrcFNES0ZD?oc=5",
+      "title": "IA y automatización en manufactura: LATAM en riesgo - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0xMS25RWGNYYTMzZTNGN1BWa0FRcWtDd2NVaGhZaEVKaEUwU1V2MkNVWWJWOFpyalVuYW9feDVoTkd0NzVPWHZqSVNiMlRMa3RULTNYSEcwRW05akdKd2dHSHVIcnNoVGd2MTNCVEJLS0pKVG5xR2RnSDJUU1hfeVBtd1JBM3Jm?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 00:15:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQYi11S2Y5bVd4ZWJWY3V3czE4dmNSV1RoSTlYY3pWY2FQekRWV1VLVHhOMy1iNHFMTEVMc2ZvQXZSelBDbWpLLUFEbGMzMXZNcng5bVBWNFVaOE9TemNiVXZqOXUwcmJJaDRISWw5MkZHR1ZPUmMyWVB6Z2dHS0VfUTM1WW5wM2ttS250UElrcFNES0ZD?oc=5\" target=\"_blank\">Automatización e IA en manu"
+      "published": "Fri, 10 Apr 2026 06:59:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0xMS25RWGNYYTMzZTNGN1BWa0FRcWtDd2NVaGhZaEVKaEUwU1V2MkNVWWJWOFpyalVuYW9feDVoTkd0NzVPWHZqSVNiMlRMa3RULTNYSEcwRW05akdKd2dHSHVIcnNoVGd2MTNCVEJLS0pKVG5xR2RnSDJUU1hfeVBtd1JBM3Jm?oc=5\" target=\"_blank\">IA y automatización en manufactura: LATAM e"
     },
     {
       "title": "México legisla el desafío de la identidad frente a la inteligencia artificial - El Economista",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09mY05RUllWQkliWnl0UGVjUDc0RHBORjlfYnZzOTZJSlZTaEVvZEhIRVlHcW5WWnQxdG4ta2I1THlrWm9HcG9pNVlhMXFBSjctNWNEaWJDRlVwdk00bmxKejZwOGZYYWVlM0xUVEZFdWV4VjBqZlRERVBYdGM2WnhiRWk1bFpGek1VZHR0TTk3RlVnSUo2VXpwUmpLekVOai1WLXlWYTFqS1VOQ3RHakhxaEw5ZTZTdl"
     },
     {
-      "title": "México: evaluación del estadio de preparación de la inteligencia artificial - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5",
+      "title": "Pymes e inteligencia artificial: el futuro del emprendimiento en México - KPMG",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYi0zUENydkF3VWFWY0NDYVJ0ZjBWVkR1bUlCZV8zb1cxNk5wQkJBdUtVTmI4ZXk1UzdGUldRNUljY0JOYm5fcGx6R2t3czV2STBhYVEwcTZ6cnhUNFZDb3B1WHBKdmZvQ2xyTjl6ZEg0dUQ2QmpDM1hVVkZBZ095Wmsxa1htOGlIczZKTEZ0bjdqRkdmQldITGd4Mk53dDhDVWpZcE0wR1BOTjNYNmpKRzNTOXE0V0RQWHNOWA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5\" target=\""
+      "published": "Thu, 09 Apr 2026 14:23:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYi0zUENydkF3VWFWY0NDYVJ0ZjBWVkR1bUlCZV8zb1cxNk5wQkJBdUtVTmI4ZXk1UzdGUldRNUljY0JOYm5fcGx6R2t3czV2STBhYVEwcTZ6cnhUNFZDb3B1WHBKdmZvQ2xyTjl6ZEg0dUQ2QmpDM1hVVkZBZ095Wmsxa1htOGlIczZKTEZ0bjdqRkdmQldITGd4Mk53dDhDVWpZcE0wR1BOTjNYNmpKRzNTOXE0V0RQWH"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
-    },
-    {
       "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    },
+    {
+      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
     }
   ],
   "count": 14

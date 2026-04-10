@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Canadá facilita la obtención de su ciudadanía, incluso sin haber puesto un pie en el país: quiénes pueden aplicar",
+      "url": "https://www.latercera.com/tendencias/noticia/canada-facilita-la-obtencion-de-su-ciudadania-incluso-sin-haber-puesto-un-pie-en-el-pais-quienes-pueden-aplicar/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 10 Apr 2026 15:14:50 +0000",
+      "summary": "Canadá amplió su Ley de Ciudadanía y ahora permite postular a personas con ascendencia directa, incluso más allá de la primera generación. Revisa los requisitos y plazos que se manejan."
+    },
+    {
+      "title": "El incentivo que anunció Delcy Rodríguez para que vuelvan los jóvenes migrantes a Venezuela",
+      "url": "https://www.latercera.com/tendencias/noticia/el-incentivo-que-anuncio-delcy-rodriguez-para-que-vuelvan-los-jovenes-migrantes-a-venezuela/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 10 Apr 2026 14:55:12 +0000",
+      "summary": "El anuncio se da en medio de un intento del gobierno interino por reactivar la economía y recomponer la relación con la diáspora, tras años de crisis que empujaron a millones de venezolanos a salir del país."
+    },
+    {
       "title": "Cuándo vuelve Artemis II a la Tierra y cómo será el aterrizaje",
       "url": "https://www.latercera.com/tendencias/noticia/cuando-vuelve-artemis-ii-a-la-tierra-y-como-sera-el-aterrizaje/",
       "source": "La Tercera Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Una baja segregada traerá lloviznas a la zona central este viernes 10 de abril. Revisa qué comunas de la Región Metropolitana, Valparaíso, Coquimbo y O’Higgins tendrán lluvia."
     },
     {
-      "title": "Qué sentencia tuvo la “reina de la Ketamina”, la mujer que le suministró drogas a Matthew Perry, actor de Friends",
-      "url": "https://www.latercera.com/tendencias/noticia/que-sentencia-tuvo-la-reina-de-la-ketamina-la-mujer-que-le-suministro-drogas-a-matthew-perry-actor-de-friends/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 09 Apr 2026 21:00:00 +0000",
-      "summary": "Jasveen Sangha fue declarada culpable de dirigir una red de distribución de drogas y de suministrar la ketamina que provocó la muerte de quien interpretaba a Chandler Bing."
-    },
-    {
-      "title": "Quién era Michael Patrick, el actor de Game of Thrones que falleció a los 35 años",
-      "url": "https://www.latercera.com/tendencias/noticia/quien-era-michael-patrick-el-actor-de-game-of-thrones-que-fallecio-a-los-35-anos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 09 Apr 2026 14:48:54 +0000",
-      "summary": "Patrick enfrentaba esclerosis lateral amiotrófica (ELA), una enfermedad degenerativa que debilita los músculos de forma progresiva."
-    },
-    {
       "title": "Lo que le contamos a la inteligencia artificial - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVfQWlvdjMzYVpVM1JpNEZmRUhuaXh4c2dwR0ZpZi0tcHZSTWwxcDdFcXdSM0EyTGVFS0toZnc1T1FmenJBamE4bDFXZ0VQVGU4OWlYUkg4RmRrS283bW1aM3hoT1NENFV6UDhjcE5UUUdXdndvVEgzSDJYaktKRGVmOTVoUC15elRRSmVVekhsQdIBpgFBVV95cUxPVEJFNlVyOEtYOFNacWFDRlFqNnpHUnZrY3NxZV9ReGUtUmpjZ0pTWXk3R1F0aDlPLWNiUUxxMVdDcVhyNldWdHNvbUFWTU9NNFJPWHFjcUFvUi1jVTY2aS1BNmxwSlA0aUgtSUhFVFVNYXczZ0YtN0MtX0VEdTdLRXV5NURHSUVSTW5KZEpXSlBpMVhtd0NjUGgwTkdVRFZaTWVsSHhB?oc=5",
       "source": "Google News",
@@ -51,20 +51,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVfQWlvdjMzYVpVM1JpNEZmRUhuaXh4c2dwR0ZpZi0tcHZSTWwxcDdFcXdSM0EyTGVFS0toZnc1T1FmenJBamE4bDFXZ0VQVGU4OWlYUkg4RmRrS283bW1aM3hoT1NENFV6UDhjcE5UUUdXdndvVEgzSDJYaktKRGVmOTVoUC15elRRSmVVekhsQdIBpgFBVV95cUxPVEJFNlVyOEtYOFNacWFDRlFqNnpHUnZrY3NxZV"
     },
     {
-      "title": "El techo de cristal de la inteligencia artificial en Chile - Diario Financiero",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjdyNzJKeU5mMUtKRnFXMVpCbUw0UmY1ZWRHdEF6bWVTT0o0b01FMnVlODJnOXJ5MnVsaU14RDZWaVhMOHh6NzRoS1cxMTE3dEF6cUh1a1JJZHQ3X2pUcVZ3OFJRVC1mbmFEbXlJZ1ZfeWNOSXZXQ3RIdjZrSm5DUV9n?oc=5",
+      "title": "El mayor riesgo de la IA para Chile no es el apocalipsis: es llegar tarde - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkc1dGpGV1dHWWpJams5Z09ZUkRNUm9aOWRpZmJvN2VDRGtNMzhFUk40cmU5cmdQNXEwMW44bWsybHoyUkpsVklDRURKQS10MW9JZndHR0xZenNJVG9CUnN5SGFKdWtFZk43TnlKaDlyLTBMYWVtVlNKamV4ZWVhakFyektnMjNzZWFtZjdXekJBYllIczlMdGRRRjliblZMaFRya3NfRUhYQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 14:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjdyNzJKeU5mMUtKRnFXMVpCbUw0UmY1ZWRHdEF6bWVTT0o0b01FMnVlODJnOXJ5MnVsaU14RDZWaVhMOHh6NzRoS1cxMTE3dEF6cUh1a1JJZHQ3X2pUcVZ3OFJRVC1mbmFEbXlJZ1ZfeWNOSXZXQ3RIdjZrSm5DUV9n?oc=5\" target=\"_blank\">El techo de cristal de la inteligencia artificial e"
+      "published": "Fri, 10 Apr 2026 17:22:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkc1dGpGV1dHWWpJams5Z09ZUkRNUm9aOWRpZmJvN2VDRGtNMzhFUk40cmU5cmdQNXEwMW44bWsybHoyUkpsVklDRURKQS10MW9JZndHR0xZenNJVG9CUnN5SGFKdWtFZk43TnlKaDlyLTBMYWVtVlNKamV4ZWVhakFyektnMjNzZWFtZjdXekJBYllIczlMdGRRRjliblZMaFRya3NfRUhYQQ?oc=5\" target=\"_blan"
     },
     {
-      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
+      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 27 Mar 2026 18:01:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbF"
+      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
+    },
+    {
+      "title": "El aviso de Fernando Santiago, gestor: \"Usar la IA para validar la Renta es una apuesta en la que sueles perder\" - El Periódico Mediterráneo",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNOcmgtSmNKZmZJRXRzNC01WUJYazZ4YTFYZHUyS0FacENNRDVUeG91MXFjaF9jVDNQZWhLUU1MN2J2SHJBaGxjVy1ORVVTb3VJQXJiR0dRcDRnZ21JM0pJUThFWEpua2E3bUc3NVBVVzF5QUNGNkxHNmw3UjhkZmh6UzItbHlDVmlrbVphRVhZWlpILXFvWnVqYlh4bGlyWEc2WTZVMWRfVFFUazhhTlktZEZOY2VCRHM0VkxkSGc0SzA0U1NVSEZPSk5vTzZJMkxub0VieUVGRW04eVVUMmRYbXoxMkJKSW5BaVBJMWh6cXh40gH6AUFVX3lxTE1DdzJDM3N2Y2IwWE5OQ3RKbzJBN2h3YTRhajBaVjJrejBTdlVadG1NbDF5UEdiczdqRVBUN1hzZWQzS2JWbV9oRHM5c2VYQ3pfTzhpeW1ZaDhXQWlGdUpUNEtiNEpNN3hlNUtnUXF4d05rQlFBN3NkM3pyOVc1cXVKbk1TVEJ4UTYzWkZ6VW92YW5YV2dkZFVlOVlURFVTZ1ExWlB6NkJZYlROMkFpcFBSVm8wcUtTY3cxVmtmOFhiTF9mMHgxRG1tMEh5Tl91Q0ZKdlJtTjhrczRIMUs2SlhjemE0RFBpV1MxTGtKbUQycTZ4SFk1ZmpXQnc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 10 Apr 2026 14:44:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcUNOcmgtSmNKZmZJRXRzNC01WUJYazZ4YTFYZHUyS0FacENNRDVUeG91MXFjaF9jVDNQZWhLUU1MN2J2SHJBaGxjVy1ORVVTb3VJQXJiR0dRcDRnZ21JM0pJUThFWEpua2E3bUc3NVBVVzF5QUNGNkxHNmw3UjhkZmh6UzItbHlDVmlrbVphRVhZWlpILXFvWnVqYlh4bGlyWEc2WTZVMWRfVFFUazhhTlktZEZOY2VCRH"
     },
     {
       "title": "Fernando Santiago advierte del riesgo de usar la IA para validar el borrador de la Renta: “puede dar por bueno lo que está incompleto” - Confilegal",
@@ -83,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2lXTG8yMDBoWWxNNlYxbTBkYlE5NHdYU3BaTFNfNUxzLUNOWWJxb2h6all1MzkxUndtSE1zY055Y0Z6VFdFWjZuYndWR25hdTdfdXVEY25Id1VyLXc3bnI2aHVWZUFFOVhubldUak9fMThwTkJ6UWZfQ2RLd0h6M2U1SWxoSDVvNlpOUUdaUHJ2MmJPOGRodFM2djdOYzZqdWczSm1lSXlFOWxlQnlUT0RfRWlRUU1la3"
     },
     {
-      "title": "Por qué el 95% de los proyectos de IA fracasa: el análisis de Juan Santiago - puntoapunto.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREdOcTdFR1Foc0hvcFhYT2kwZ1Z0NHUxVENtNUl2eWxpN0lHOW9iUTM3cUlZdFlVZHl5V2hieWlBLUN2MEMwLWdiZExlZTNtNkhqLVNlSHVuV3lheXFOMVBvNjZidjZjWXg0Q1ZobldCOC0wbjJOSTB5S1NlUklvWFl0Wjh6U2V0VFVPVVg1dUxKUldNZ2xRdmhoWWNpbllzalRR?oc=5",
+      "title": "eMerge Americas: Chile impulsa su ecosistema tecnológico con delegación de 18 startups - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 03:01:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNREdOcTdFR1Foc0hvcFhYT2kwZ1Z0NHUxVENtNUl2eWxpN0lHOW9iUTM3cUlZdFlVZHl5V2hieWlBLUN2MEMwLWdiZExlZTNtNkhqLVNlSHVuV3lheXFOMVBvNjZidjZjWXg0Q1ZobldCOC0wbjJOSTB5S1NlUklvWFl0Wjh6U2V0VFVPVVg1dUxKUldNZ2xRdmhoWWNpbllzalRR?oc=5\" target=\"_blank\">Por qué"
+      "published": "Wed, 08 Apr 2026 04:50:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5\" target="
     },
     {
       "title": "Invest Tech 2.0: convocatoria deep tech de UDD Ventures - Ecosistema Startup",
@@ -97,14 +105,6 @@
       "category": "news",
       "published": "Thu, 09 Apr 2026 19:55:24 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjdmdWxKMldYZHpfNjktMTk5WTFLODd1bkdxSER3THV4b0N3MjQ1bjVwbmhyS211M2huVF9jOTNOWVZ5WTVJeHVaV1RyQ0xPOExLcllJcVp2V3MtVFlqVVdmSFpHaHZtdjB2b0paUUt1VHp3MHVVYzhoc1dIc2R6SGR3S3pIaGcwbVl4OGtR?oc=5\" target=\"_blank\">Invest Tech 2.0: convocatoria deep "
-    },
-    {
-      "title": "eMerge Americas: Chile impulsa su ecosistema tecnológico con delegación de 18 startups - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Apr 2026 04:50:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5\" target="
     },
     {
       "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - Infodefensa",
