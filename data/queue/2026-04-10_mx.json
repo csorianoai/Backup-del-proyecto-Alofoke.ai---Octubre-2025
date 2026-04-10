@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Dyson ‘sale de casa’ y lanza un ventilador portátil",
-      "url": "https://expansion.mx/tecnologia/2026/04/10/dyson-sale-de-casa-y-lanza-un-ventilador-portatil",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 10 Apr 2026 16:00:14 GMT",
-      "summary": "La empresa que se caracteriza por tener aspiradoras y productos del hogar como purificadores ahora lanzará una solución más fresca."
-    },
-    {
       "title": "El 54% de las pymes usan IA, pero la clave del negocio es la conexión humana",
       "url": "https://expansion.mx/tecnologia/2026/04/09/el-54-de-las-pymes-usan-ia-pero-la-clave-del-negocio-es-la-conexion-humana",
       "source": "Expansión Tecnología",
@@ -43,20 +35,28 @@
       "summary": "La empresa redirige inversión a gafas inteligentes que ya generan 1,600 mdd, mientras la IA concentra el crecimiento del sector."
     },
     {
+      "title": "Telegram es una máquina de marketing que conecta hasta con 200,000 personas",
+      "url": "https://expansion.mx/tecnologia/2026/04/08/telegram-es-una-maquina-de-marketing-que-conecta-hasta-con-200-000-personas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Apr 2026 21:00:55 GMT",
+      "summary": "Los canales de mensajería son efectivos para comunicar diversas cosas a los usuarios, pero también como espacios de venta más directa."
+    },
+    {
+      "title": "Inteligencia artificial y derechos de propiedad: ¿proteger o innovar? - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWtEU2p5dzVfbkZ3eDFveWVPUVJIVnF5SUNPM3IyM2JfMEh6OUxkbVZKdm9uQUlqaFZ4NWNpUWRNbzQzQW9RYUxDbDJfMDRnQl8xaWNjbnNRVC1URVdIdU5JSDFiVEMyN1Rxd20zSDZzY0dyTHBFYzhmRmt5Y1I3M2xjY216aWE2X04yaWhSNktVUndOWXp5VE8xemI5M0FrdUdDYWUxX3ltNzBMRVBZTXdjeHRWLXlfTXNqZNIBwgFBVV95cUxPYzBPdWtDZndiOEYyZ09rUC1ISHdaSG42M1YxeXNFbWJfbDdUVkRLajh0d0ViX29TWEVydk9CVHpUX0EwYmRDLVBjVjJEazNDQ0FQRjdVLUJpYmxfVm9DV19Uc1pEUW51N1pXWmNVMlRrMm84RTlxTVhmTF9GS2NrdDNPX2VDbDBTelctcVR5NUp4aFBpcTBOeVA3dE9KTTk0ZmI3ZGh2elhmb3FIYTlqTGpmUGdxbmhfdEFlRG5yYzVZZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 10 Apr 2026 19:20:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVWtEU2p5dzVfbkZ3eDFveWVPUVJIVnF5SUNPM3IyM2JfMEh6OUxkbVZKdm9uQUlqaFZ4NWNpUWRNbzQzQW9RYUxDbDJfMDRnQl8xaWNjbnNRVC1URVdIdU5JSDFiVEMyN1Rxd20zSDZzY0dyTHBFYzhmRmt5Y1I3M2xjY216aWE2X04yaWhSNktVUndOWXp5VE8xemI5M0FrdUdDYWUxX3ltNzBMRVBZTXdjeHRWLXlfTX"
+    },
+    {
       "title": "IA y automatización en manufactura: LATAM en riesgo - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0xMS25RWGNYYTMzZTNGN1BWa0FRcWtDd2NVaGhZaEVKaEUwU1V2MkNVWWJWOFpyalVuYW9feDVoTkd0NzVPWHZqSVNiMlRMa3RULTNYSEcwRW05akdKd2dHSHVIcnNoVGd2MTNCVEJLS0pKVG5xR2RnSDJUU1hfeVBtd1JBM3Jm?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 10 Apr 2026 06:59:36 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0xMS25RWGNYYTMzZTNGN1BWa0FRcWtDd2NVaGhZaEVKaEUwU1V2MkNVWWJWOFpyalVuYW9feDVoTkd0NzVPWHZqSVNiMlRMa3RULTNYSEcwRW05akdKd2dHSHVIcnNoVGd2MTNCVEJLS0pKVG5xR2RnSDJUU1hfeVBtd1JBM3Jm?oc=5\" target=\"_blank\">IA y automatización en manufactura: LATAM e"
-    },
-    {
-      "title": "México legisla el desafío de la identidad frente a la inteligencia artificial - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09mY05RUllWQkliWnl0UGVjUDc0RHBORjlfYnZzOTZJSlZTaEVvZEhIRVlHcW5WWnQxdG4ta2I1THlrWm9HcG9pNVlhMXFBSjctNWNEaWJDRlVwdk00bmxKejZwOGZYYWVlM0xUVEZFdWV4VjBqZlRERVBYdGM2WnhiRWk1bFpGek1VZHR0TTk3RlVnSUo2VXpwUmpLekVOai1WLXlWYTFqS1VOQ3RHakhxaEw5ZTZTdl95NENnU0VXenJ1Z3hz0gHMAUFVX3lxTFBUQnZ2ZURXaFkzTkp0eDRpdmlQOHAxY2h6YkctdW1NSEpva2VSYy1QYVNfQ1NFUEgtdFo4cllvTUlKakJEcTl1T2d5S2RtX2Y4aEF5ODdGbjVMX0VnWlhKMU9sY3N2LVBpYlZtNkRWVnFWRlptVTg2alBsbWF3VmNZTmwwT3BjLVJlZUNfU1VwTktjcHFSSWM0TWVJN1JESXBlR0MwOWVDQkpObnJjYzdPSU0zOEpJSWg4TDZKX3JkekNyMHp0VGVqbGp6NQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 10 Apr 2026 01:25:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09mY05RUllWQkliWnl0UGVjUDc0RHBORjlfYnZzOTZJSlZTaEVvZEhIRVlHcW5WWnQxdG4ta2I1THlrWm9HcG9pNVlhMXFBSjctNWNEaWJDRlVwdk00bmxKejZwOGZYYWVlM0xUVEZFdWV4VjBqZlRERVBYdGM2WnhiRWk1bFpGek1VZHR0TTk3RlVnSUo2VXpwUmpLekVOai1WLXlWYTFqS1VOQ3RHakhxaEw5ZTZTdl"
     },
     {
       "title": "Pymes e inteligencia artificial: el futuro del emprendimiento en México - KPMG",
