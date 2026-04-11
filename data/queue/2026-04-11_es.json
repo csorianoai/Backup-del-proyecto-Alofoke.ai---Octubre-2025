@@ -3,12 +3,20 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Las delegaciones de EE UU e Irán negocian en Islamabad un acuerdo de paz",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán afirma que Ormuz sigue siendo uno de los principales puntos de desacuerdo en las negociaciones con EE UU",
       "url": "https://elpais.com/internacional/2026-04-11/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sat, 11 Apr 2026 14:35:18 GMT",
-      "summary": "Irán advierte que no habrá acuerdo si se priman los intereses de Israel en la negociación | Al menos 13 muertos en nuevos ataques israelíes contra el Líbano"
+      "published": "Sat, 11 Apr 2026 18:38:37 GMT",
+      "summary": "La Casa Blanca confirma que las conversaciones para intentar poner fin a la guerra se están manteniendo directamente entre Washington y Teherán | Dos buques militares de EE UU cruzan el estrecho de Ormuz para desminar la zona por primera vez desde que comenzó la guerra"
+    },
+    {
+      "title": "Netanyahu obstaculiza con su ofensiva en Líbano un alto el fuego en el que no cree",
+      "url": "https://elpais.com/internacional/2026-04-11/netanyahu-obstaculiza-con-su-ofensiva-en-libano-un-alto-el-fuego-en-el-que-no-cree.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 11 Apr 2026 17:29:26 GMT",
+      "summary": "El primer ministro israelí acepta dialogar con Beirut forzado por Trump tras los ataques que han causado más de 350 muertos"
     },
     {
       "title": "‘Defensa mosaico’, la estrategia con la que Irán resiste la embestida de Estados Unidos e Israel",
@@ -19,14 +27,6 @@
       "summary": "Ante la continua decapitación de su cúpula, el régimen iraní opera en la guerra a través de la descentralización del mando militar, para mantener así sus capacidades ante ejércitos superiores y poder desarrollar una guerra asimétrica y de desgaste"
     },
     {
-      "title": "Gráficos | Superpetroleros parados y una nueva ruta controlada por Irán: ¿qué está pasando en Ormuz?",
-      "url": "https://elpais.com/internacional/2026-04-11/analisis-visual-superpetroleros-parados-y-una-nueva-ruta-controlada-por-iran-que-esta-pasando-en-ormuz.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 11 Apr 2026 03:30:01 GMT",
-      "summary": "Imágenes de satélite y datos de navegación muestran cómo cientos de buques esperan a ambos lados del estrecho"
-    },
-    {
       "title": "Los astronautas de Artemis 2 aterrizan y concluyen una misión histórica que ha llevado a los humanos a la Luna más de 50 años después",
       "url": "https://elpais.com/ciencia/2026-04-11/los-astronautas-de-artemis-2-aterrizan-y-concluyen-una-mision-historica-que-ha-llevado-a-los-humanos-a-la-luna-mas-de-50-anos-despues.html",
       "source": "El País Tecnología",
@@ -35,20 +35,20 @@
       "summary": "Los cuatro tripulantes caen al Pacífico tras jugarse la vida en un regreso incierto"
     },
     {
-      "title": "El regreso a la Tierra de los astronautas de Artemis 2, en imágenes",
-      "url": "https://elpais.com/ciencia/2026-04-11/el-regreso-a-la-tierra-de-los-astronautas-de-artemis-2-en-imagenes.html",
+      "title": "El lazo de Artemis 2",
+      "url": "https://elpais.com/ciencia/2026-04-11/el-lazo-de-artemis-2.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sat, 11 Apr 2026 03:22:29 GMT",
-      "summary": "La tripulación logra regresar sin problemas tras diez días de misión a la Luna"
+      "published": "Sat, 11 Apr 2026 13:51:33 GMT",
+      "summary": "La misión nos ha unido trazando su propio lazo en el espacio; por eso, su valor humano y científico es incalculable"
     },
     {
-      "title": "Capgemini anuncia un ERE en España por la incidencia de la inteligencia artificial - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHpsWGlfU1hzOWlQdU9vYTdQeG9aNkZSdkhTempGN1M0V2xiNmVPVFhHd2NfRUN2WFk2aVRmcllYMDVGMUs1dUlRbDVjUEN0ZWtsUk1RSXAydWd0QUlKcmoycFdreXJjVGl6bS1SQnZfSkMzM0lpMFJPVGg1cUV2RktpMU5aa3RPclh1aFprT25xUlBTTjJ3anZONWZyN1lqVFIyUHMtR3ZVNmFFdlBERDAySTRlNi02eWZvWWZqeWJJYlpJ0gHYAUFVX3lxTFBYZF9CY1hsSVctY1I3LVJqTFd1dzBuVGd2cTVoUm96cVI4b3poNGQ0RnBIRWJnZ1AzcXhxek1WRjFrWkM3RmZDQlZPM2I2U2VpWEpzOUtMb1I3NG9fLVpidk5CSVpORi1qZUtMdHAzUGY4ZUhSb3dTOXUwbFIxM2g3YlZJcGd6RzZLMV9UTU1FQVpmOVBDSXBZeFRWQ1JFTHhWWGVPd1lBQWtqY21XUkg2NDRGMXZZdnVzRmoxTjdQamVncWc1MzktdUZnWnk2S3pVV3d0VlJDYg?oc=5",
+      "title": "El Gobierno trabaja en IA: Debe haber compromiso ético, no todo lo posible es pertinente - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTNmUU82M1NvSjEyaWtpbUdsSXpYYi1SRmJPb0Q1Mmk3WG9FYW9jandHRENFR0dDXzNxWnR6dWFWMnYydkFpazF0bFdlWUNqcG9yQTV4bDg2Q1dwb2l6V0NUX1ZBcGNoMm5nMThPVWNlY2liaXNaempUZUNMMlRPNldWci1NWXVSdkdPRWdsNHlqQ0JGdmJXTDVDdm1xUFZ5WENwREc5RG84RGxSSnlxOFdWYWt2eF9tVkdnbDlJdlh0Z1c0NHJqM2xXcHVWdlhGd296LdIB7wFBVV95cUxQaEcyNzZ5dFVFWmFXandQMDFzRlQyM0ZIcG8tVUd3dW9URnA3MDlNbUZRbld3UGNoS3JUNE96NUxqTVhZN3hpUVRZUjNmVnhxUXlsNXZfdjRUZFJJM2NtaHMxdldIdmgyTnZLN1NqYVRkekh5Rnp2Uk9QTkpfZU5tb21PRXY0NTl1Y09jNS1QbGtWWmpDSkdnZFJYSVhWVzJlVTRPejEyOFFiN0tBdFBsTEhUYjdELTJzWnBsRDRoaWcyc0k0YktLSVR6YzEzQTRYNGhGa21zcWxPbkNEZnhVbVdEcmZwMlB3T2k5bnFXQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 17:26:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHpsWGlfU1hzOWlQdU9vYTdQeG9aNkZSdkhTempGN1M0V2xiNmVPVFhHd2NfRUN2WFk2aVRmcllYMDVGMUs1dUlRbDVjUEN0ZWtsUk1RSXAydWd0QUlKcmoycFdreXJjVGl6bS1SQnZfSkMzM0lpMFJPVGg1cUV2RktpMU5aa3RPclh1aFprT25xUlBTTjJ3anZONWZyN1lqVFIyUHMtR3ZVNmFFdlBERDAySTRlNi02eW"
+      "published": "Sat, 11 Apr 2026 07:34:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTNmUU82M1NvSjEyaWtpbUdsSXpYYi1SRmJPb0Q1Mmk3WG9FYW9jandHRENFR0dDXzNxWnR6dWFWMnYydkFpazF0bFdlWUNqcG9yQTV4bDg2Q1dwb2l6V0NUX1ZBcGNoMm5nMThPVWNlY2liaXNaempUZUNMMlRPNldWci1NWXVSdkdPRWdsNHlqQ0JGdmJXTDVDdm1xUFZ5WENwREc5RG84RGxSSnlxOFdWYWt2eF9tVk"
     },
     {
       "title": "Capgemini anuncia un ERE en España por el impacto de la inteligencia artificial - El Mundo",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNci16SWZEb21GWTFGNDdFNkRNeFN3QU92OGlwaGEtRFJtRHBzVDh4ZkZXWjk0SEJQQksxeGl6WjFWQng0RFZjZ1RWZ20xUjRyb25YdWdLV3gxbXBqX1VkT0U1YjEzYjlQZEVTQkNvbHprc1NsQzhuaHlLV2RBalFMbDFfWEp6dzQ00gGIAUFVX3lxTE8tMmR5T3RTS1pJcG54TFJJVUk0WDZZNkM1NjBOeU1vSFdaWEZtZz"
     },
     {
-      "title": "Capgemini inicia un ERE en España por el impacto de la inteligencia artificial - La Vanguardia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnFYNUdSTjJTYjdkd3EzSFNaX21RNk5lYkVjVTg5R0RYQkVqaWExQkpEWE81aHM0MWlyaWxsN05SLWw3Y1UtUFNadU0weXpvNm5DWjVsZkkxdlJkQmh2elpENUJzRjh6VndfejBnZzJuRkhBdVFUWi1VUk5KQlo0U205MGdIMDJiNzZNVDMzb0RRdE1UbGg3SFFsbVpJZklTeHNxemdaalhzd1IydnFIcGlFakJ5eVVpbEEyMtIBwgFBVV95cUxPQTBMN0JESmNpRmJVT0FNcmh0cWl1alVtMW1NZ3hSRWlvUTJyeFNFTWxFWEhCWHJMMl9kMUJhZzFQcGZMcWdUMHRqWlRUdldnbUIzVFB6Nm5uOTNrbTZfajJERkhPYTBCc3FINDBNNjJ4NVRiRnV1VTAzTkZ2UVZsOHd0YXFzWG9BUmlhd2liZWZhSTdaVHFQM0RZY1ZjYkE0VHVGSjhzdkt6bDJDTjkyOTNJWF9DbEtXaHVIQUNIeE5Gdw?oc=5",
+      "title": "Capgemini anuncia un ERE en España por la incidencia de la inteligencia artificial - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHpsWGlfU1hzOWlQdU9vYTdQeG9aNkZSdkhTempGN1M0V2xiNmVPVFhHd2NfRUN2WFk2aVRmcllYMDVGMUs1dUlRbDVjUEN0ZWtsUk1RSXAydWd0QUlKcmoycFdreXJjVGl6bS1SQnZfSkMzM0lpMFJPVGg1cUV2RktpMU5aa3RPclh1aFprT25xUlBTTjJ3anZONWZyN1lqVFIyUHMtR3ZVNmFFdlBERDAySTRlNi02eWZvWWZqeWJJYlpJ0gHYAUFVX3lxTFBYZF9CY1hsSVctY1I3LVJqTFd1dzBuVGd2cTVoUm96cVI4b3poNGQ0RnBIRWJnZ1AzcXhxek1WRjFrWkM3RmZDQlZPM2I2U2VpWEpzOUtMb1I3NG9fLVpidk5CSVpORi1qZUtMdHAzUGY4ZUhSb3dTOXUwbFIxM2g3YlZJcGd6RzZLMV9UTU1FQVpmOVBDSXBZeFRWQ1JFTHhWWGVPd1lBQWtqY21XUkg2NDRGMXZZdnVzRmoxTjdQamVncWc1MzktdUZnWnk2S3pVV3d0VlJDYg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 19:53:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnFYNUdSTjJTYjdkd3EzSFNaX21RNk5lYkVjVTg5R0RYQkVqaWExQkpEWE81aHM0MWlyaWxsN05SLWw3Y1UtUFNadU0weXpvNm5DWjVsZkkxdlJkQmh2elpENUJzRjh6VndfejBnZzJuRkhBdVFUWi1VUk5KQlo0U205MGdIMDJiNzZNVDMzb0RRdE1UbGg3SFFsbVpJZklTeHNxemdaalhzd1IydnFIcGlFakJ5eVVpbE"
+      "published": "Fri, 10 Apr 2026 17:26:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHpsWGlfU1hzOWlQdU9vYTdQeG9aNkZSdkhTempGN1M0V2xiNmVPVFhHd2NfRUN2WFk2aVRmcllYMDVGMUs1dUlRbDVjUEN0ZWtsUk1RSXAydWd0QUlKcmoycFdreXJjVGl6bS1SQnZfSkMzM0lpMFJPVGg1cUV2RktpMU5aa3RPclh1aFprT25xUlBTTjJ3anZONWZyN1lqVFIyUHMtR3ZVNmFFdlBERDAySTRlNi02eW"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm16U3liWXljLWwydi1hQ05OWC02Vll1N2s00gHYAUFVX3lxTE1nU2tjbXpDZFpIb2lXdGF2TEM5eXNSWWI4QjJJSUZKWjNKWlZkVlZMRTZwLURiODcwRDBzZEVDV3R4UElKeU9la0FmanNBTW5yWW5UM1JKWjRMbXhKX2FVYVFRNGpIR19qUEwwYjVwVW16SEI2WmZReUJrSk1PNEFUaTFMM1BvRDhjY0VnSTB3eG02SjJHcDlBQlNQWE1RWDVXUlRDS3RCM2FNZkV2OTZ5UTdoYnFFZEZtb1R5VmtYS20zTU1ZanNvLWRfeDljNGFBQnFUa2dKcw?oc=5",
+      "title": "Madrid lidera el mapa emprendedor como la ciudad con más startups tecnológicas de España - Ayuntamiento de Madrid",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPczVIeUpJVDBNQmh3YXRHRXI4UjEtU05nWm1sRW5FZmlOVTFFbjlsWWNfeFhVcXctZ0d0RnM0VlFodHNjUFFhMUwwZEpMWUpIWDRrQW45UV8tNjh6Q0pQV1JDT01ROU8wcDVtd3hmR0hPSndBRWVvZ2dXcEJMZ2dqN3FjeFBtbXdaWWhFM2tRdks3LUw5NVdmdFk0WkFLZl96OHdXYWNVX2lWTF9nNFBVQXF1SGIyWmI1WG5nMHJ3aUZqdXZXR3hhZHZrQzFFdUlKUkNJUnFjckpxZXZIZWxnVEhjTmI4X19jcHY0OVJTcTJkRVA2NW1ZZS1vdERiU3k3Um5jcHZjRjFvc0FZaURXd0VFRGZnQUo4SHJsblpxS3h5OTZxN3dHbVA5YWJnMUJ3ZWFFVkloYU01ZS10RndkMHlGbng4c2tuZXczMjd2TVlyWVB6eUZmT1FtMFVMSlBabFRYX1RzWFBscC15OGZDX0ctTVphTVdhbkZXb09MOTlVeG1JVVNVajUwTExWck16M2pqTWt1eHM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
+      "published": "Mon, 23 Mar 2026 15:26:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimANBVV95cUxPczVIeUpJVDBNQmh3YXRHRXI4UjEtU05nWm1sRW5FZmlOVTFFbjlsWWNfeFhVcXctZ0d0RnM0VlFodHNjUFFhMUwwZEpMWUpIWDRrQW45UV8tNjh6Q0pQV1JDT01ROU8wcDVtd3hmR0hPSndBRWVvZ2dXcEJMZ2dqN3FjeFBtbXdaWWhFM2tRdks3LUw5NVdmdFk0WkFLZl96OHdXYWNVX2lWTF9nNFBVQXF1SGIyWmI1WG"
     }
   ],
   "count": 14
