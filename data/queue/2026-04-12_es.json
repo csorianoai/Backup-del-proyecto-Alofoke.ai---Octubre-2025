@@ -3,28 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump anuncia que EE UU bloqueará todos los buques que intenten cruzar Ormuz tras la interrupción de las negociaciones",
+      "title": "Los primeros resultados oficiales en Hungría apuntan a la derrota de Orbán, con el 29,2% escrutado",
+      "url": "https://elpais.com/internacional/2026-04-12/los-primeros-resultados-oficiales-en-hungria-apuntan-a-la-victoria-de-tisza-con-el-334-escrutado.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 12 Apr 2026 18:47:33 GMT",
+      "summary": "La participación bate un récord histórico, en unos comicios cruciales para la UE, Estados Unidos y Rusia"
+    },
+    {
+      "title": "Trump anuncia su propio bloqueo naval del estrecho de Ormuz y las negociaciones quedan en el aire",
+      "url": "https://elpais.com/internacional/2026-04-12/trump-anuncia-su-propio-bloqueo-naval-del-estrecho-de-ormuz-y-las-negociaciones-quedan-en-el-aire.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 12 Apr 2026 17:03:35 GMT",
+      "summary": "El presidente de Estados Unidos asegura que sus fuerzas evitarán el paso de cualquier buque y dispararán contra los barcos iraníes que ataquen a “embarcaciones pacíficas”"
+    },
+    {
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán amenaza con atacar a los buques militares que se acerquen a Ormuz tras el anuncio de Trump de que quiere bloquear el estrecho",
       "url": "https://elpais.com/internacional/2026-04-12/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 12 Apr 2026 13:13:17 GMT",
-      "summary": "Irán acusa a EE UU de “exigencias excesivas” en las conversaciones | Fuentes próximas a la negociación dicen que Irán no reabrirá Ormuz si EE UU no acepta un “acuerdo razonable”"
-    },
-    {
-      "title": "Estados Unidos e Irán interrumpen las negociaciones pero no dan por roto el diálogo",
-      "url": "https://elpais.com/internacional/2026-04-11/estados-unidos-e-iran-avanzan-con-pies-de-plomo-en-una-negociacion-historica-en-islamabad.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 12 Apr 2026 06:50:48 GMT",
-      "summary": "El vicepresidente Vance asegura que Teherán no ha aceptado las “líneas rojas” de la Casa Blanca y que le ha transmitido “la oferta final y definitiva”"
-    },
-    {
-      "title": "Trump contra sus ‘influencers’: la guerra en Irán desata un cisma en el mundo MAGA",
-      "url": "https://elpais.com/internacional/2026-04-12/trump-contra-sus-influencers-la-guerra-en-iran-desata-un-cisma-en-el-mundo-maga.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 12 Apr 2026 02:30:01 GMT",
-      "summary": "El presidente arremete públicamente contra varios famosos ultraconservadores que han pedido que sea inhabilitado por su gestión del conflicto bélico"
+      "published": "Sun, 12 Apr 2026 18:29:25 GMT",
+      "summary": "El presidente estadounidense anuncia que EE UU bloqueará todos los buques que intenten cruzar el estrecho | Irán acusa a EE UU de “exigencias excesivas” en las conversaciones | Fuentes próximas a la negociación dicen que Irán no reabrirá Ormuz si EE UU no acepta un “acuerdo razonable”"
     },
     {
       "title": "Cuatro días en busca de cadáveres y desaparecidos tras el brutal ataque israelí en Líbano",
@@ -35,12 +35,12 @@
       "summary": "La ofensiva sobre Beirut, acometida tras el alto el fuego, deja más de 350 muertos y colapsa los servicios sanitarios"
     },
     {
-      "title": "Las cartas de perdón de los presos de ETA: “El sufrimiento que creé es irreparable, pero trataré de sanar el daño que causé”",
-      "url": "https://elpais.com/espana/2026-04-12/las-cartas-de-disculpa-de-los-presos-de-eta-el-sufrimiento-que-cree-es-irreparable-pero-tratare-de-sanar-el-dano-que-cause.html",
+      "title": "Trump contra sus ‘influencers’: la guerra en Irán desata un cisma en el mundo MAGA",
+      "url": "https://elpais.com/internacional/2026-04-12/trump-contra-sus-influencers-la-guerra-en-iran-desata-un-cisma-en-el-mundo-maga.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 12 Apr 2026 03:30:01 GMT",
-      "summary": "EL PAÍS accede a una veintena de misivas inéditas de arrepentimiento de reclusos de la banda terrorista que reflejan, según los profesionales penitenciarios y la justicia, un “profundo cambio” de sus autores. Las víctimas las consideran una “trampa”"
+      "published": "Sun, 12 Apr 2026 02:30:01 GMT",
+      "summary": "El presidente arremete públicamente contra varios famosos ultraconservadores que han pedido que sea inhabilitado por su gestión del conflicto bélico"
     },
     {
       "title": "Desde la ciencia ciudadana hasta la inteligencia artificial: cómo se busca monitorear mejor a la enfermedad de Chagas - Infobae",
