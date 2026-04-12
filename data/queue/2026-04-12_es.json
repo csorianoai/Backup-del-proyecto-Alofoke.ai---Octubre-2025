@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "Los primeros resultados oficiales en Hungría apuntan a la derrota de Orbán, con el 29,2% escrutado",
+      "title": "El líder opositor Péter Magyar arrasa en las elecciones de Hungría y pone fin a los 16 años de la era Orbán, que admite su derrota",
       "url": "https://elpais.com/internacional/2026-04-12/los-primeros-resultados-oficiales-en-hungria-apuntan-a-la-victoria-de-tisza-con-el-334-escrutado.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 12 Apr 2026 18:47:33 GMT",
-      "summary": "La participación bate un récord histórico, en unos comicios cruciales para la UE, Estados Unidos y Rusia"
+      "published": "Sun, 12 Apr 2026 22:22:23 GMT",
+      "summary": "El candidato del partido Tisza logra una mayoría parlamentaria de dos tercios que le permite deshacer el sistema iliberal del actual primer ministro ultraconservador"
+    },
+    {
+      "title": "Péter Magyar, el hombre que admiraba a Orbán y acabó con él",
+      "url": "https://elpais.com/internacional/2026-04-12/peter-magyar-el-hombre-que-admiraba-a-orban-y-acabo-con-el.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 12 Apr 2026 19:44:18 GMT",
+      "summary": "El abogado húngaro ha movilizado a una mayoría social de ideología diversa que apostó por él como única herramienta disponible para derrumbar el sistema desde dentro"
+    },
+    {
+      "title": "Euforia en la UE por la derrota de Orbán, alfil de Putin y Trump: “Hungría ha elegido Europa”",
+      "url": "https://elpais.com/internacional/2026-04-12/la-ue-celebra-la-derrota-de-orban-alfil-de-putin-y-trump-hungria-ha-elegido-europa.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 12 Apr 2026 21:55:41 GMT",
+      "summary": "Von der Leyen destaca que Hungría elige la senda de la UE frente al modelo iliberal del primer ministro nacionalpopulista. Macron, Merz y Sánchez se unen a las felicitaciones"
     },
     {
       "title": "Trump anuncia su propio bloqueo naval del estrecho de Ormuz y las negociaciones quedan en el aire",
@@ -16,39 +32,23 @@
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 12 Apr 2026 17:03:35 GMT",
-      "summary": "El presidente de Estados Unidos asegura que sus fuerzas evitarán el paso de cualquier buque y dispararán contra los barcos iraníes que ataquen a “embarcaciones pacíficas”"
+      "summary": "El Mando Central de EE UU asegura que el bloqueo entrará en vigor este lunes. El presidente asegura que sus fuerzas evitarán el paso de cualquier buque y dispararán contra los barcos iraníes que ataquen a “embarcaciones pacíficas”"
     },
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán amenaza con atacar a los buques militares que se acerquen a Ormuz tras el anuncio de Trump de que quiere bloquear el estrecho",
-      "url": "https://elpais.com/internacional/2026-04-12/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "title": "Las amenazas de Trump impulsan el crudo un 7% y supera los 100 dólares",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-04-12/trump-agita-ormuz-y-vuelve-a-tensar-al-petroleo-rumbo-a-los-100-dolares.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 12 Apr 2026 18:29:25 GMT",
-      "summary": "El presidente estadounidense anuncia que EE UU bloqueará todos los buques que intenten cruzar el estrecho | Irán acusa a EE UU de “exigencias excesivas” en las conversaciones | Fuentes próximas a la negociación dicen que Irán no reabrirá Ormuz si EE UU no acepta un “acuerdo razonable”"
+      "published": "Sun, 12 Apr 2026 22:10:17 GMT",
+      "summary": "La subida de los precios energéticos complica el regreso de las Bolsas a los niveles previos a la guerra"
     },
     {
-      "title": "Cuatro días en busca de cadáveres y desaparecidos tras el brutal ataque israelí en Líbano",
-      "url": "https://elpais.com/internacional/2026-04-12/cuatro-dias-en-busca-de-cadaveres-y-desaparecidos-tras-el-brutal-ataque-israeli-en-libano.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 12 Apr 2026 03:30:01 GMT",
-      "summary": "La ofensiva sobre Beirut, acometida tras el alto el fuego, deja más de 350 muertos y colapsa los servicios sanitarios"
-    },
-    {
-      "title": "Trump contra sus ‘influencers’: la guerra en Irán desata un cisma en el mundo MAGA",
-      "url": "https://elpais.com/internacional/2026-04-12/trump-contra-sus-influencers-la-guerra-en-iran-desata-un-cisma-en-el-mundo-maga.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 12 Apr 2026 02:30:01 GMT",
-      "summary": "El presidente arremete públicamente contra varios famosos ultraconservadores que han pedido que sea inhabilitado por su gestión del conflicto bélico"
-    },
-    {
-      "title": "Desde la ciencia ciudadana hasta la inteligencia artificial: cómo se busca monitorear mejor a la enfermedad de Chagas - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcVFXSC1yNTR2YzNUNXVfY0thUERKbnFrYm5ycDhBeEVPS2wyZ1o1eDBUMHVLUXV4cmdVUDhzQ3A4NS1nNEhSRHAxQ3lyY3dYTkl3Tzc0SkdKNVdFYVFhR2hkSnVXcDJEOGJNSW5WTWZpZkxrM3lHQ3FOM0pCZnFRRldQNUtsY1gzRUZDZk5mNEJ1VDRyQ0l4S2RYMjUxVUw4MHZ0LTQ1OVJPMmtyRXgzUUZ1UG9OSUlhcXljR3k4QzI1TFc2RGlJUnF6ZFRtTFZHX05abWF4NzlXTVlnTFhxdjVzMkM4Umw4dUNoWUpmMU9OcW1yWDY0OUFR0gGUAkFVX3lxTE9hYmhBN0xxNlBwdGFQNVV1NHlmYmhZTGpGZnRfOXd2c3hfYVhxTXFFODktSjFOSHFmNDRQZWE0UHh1Q0FBbmtOVS1tMUdDMHEyVTc4TXhCc053eDdrS1JHMWxRemVxN3BsVFk3TW53QUp3RUh5ZEhubk9NTkZ5TzJxR2tyRzZVMnduQW52SkNrZE42RTBuWmVLUHNqOVVjRndHVld5eDNTQlQ4aF9PeWNLcXVvMlUxZlRCOUo5MElaSFVENmtoOTRpNmtiSVpyVFdPVHVZZ2JTX0M5MUZZSjBOeGxBbE9iRXA3VDg1aDUwTndENlRHSVZRV25pOE44ODFocndqOWlCd09aaUt2MUpkdS1iZg?oc=5",
+      "title": "España acelera en centros de datos: la energía se convierte en el factor decisivo - Interempresas.net",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkRrUk1oVmo2RGNlOUtKMEsxY245NHlGOFRSSWZQSVdycmZZOWF2X2s3SkRibFdockhZYkZXMGRQcnNDNnlmd0puUEYtZFVMQXhoNE5oUDBKNVV6ZGhNVzhaVmVkQS1NLXU4dkRzZHlJNDVOUDFINXZnakQ0SEpOZWROejU4MUdjQ1ZQLXl3REMybkdFaU8tdlRHdEJucHZUSTBfWFZOOTdrY0dabmh0akZsUVBVWml0SDRzcEFlc1p2Qk5H?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 11 Apr 2026 23:37:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcVFXSC1yNTR2YzNUNXVfY0thUERKbnFrYm5ycDhBeEVPS2wyZ1o1eDBUMHVLUXV4cmdVUDhzQ3A4NS1nNEhSRHAxQ3lyY3dYTkl3Tzc0SkdKNVdFYVFhR2hkSnVXcDJEOGJNSW5WTWZpZkxrM3lHQ3FOM0pCZnFRRldQNUtsY1gzRUZDZk5mNEJ1VDRyQ0l4S2RYMjUxVUw4MHZ0LTQ1OVJPMmtyRXgzUUZ1UG9OSUlhcX"
+      "published": "Sun, 12 Apr 2026 22:03:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkRrUk1oVmo2RGNlOUtKMEsxY245NHlGOFRSSWZQSVdycmZZOWF2X2s3SkRibFdockhZYkZXMGRQcnNDNnlmd0puUEYtZFVMQXhoNE5oUDBKNVV6ZGhNVzhaVmVkQS1NLXU4dkRzZHlJNDVOUDFINXZnakQ0SEpOZWROejU4MUdjQ1ZQLXl3REMybkdFaU8tdlRHdEJucHZUSTBfWFZOOTdrY0dabmh0akZsUVBVWml0SD"
     },
     {
       "title": "Capgemini anuncia un ERE en España por la incidencia de la inteligencia artificial - EL PAÍS",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHpsWGlfU1hzOWlQdU9vYTdQeG9aNkZSdkhTempGN1M0V2xiNmVPVFhHd2NfRUN2WFk2aVRmcllYMDVGMUs1dUlRbDVjUEN0ZWtsUk1RSXAydWd0QUlKcmoycFdreXJjVGl6bS1SQnZfSkMzM0lpMFJPVGg1cUV2RktpMU5aa3RPclh1aFprT25xUlBTTjJ3anZONWZyN1lqVFIyUHMtR3ZVNmFFdlBERDAySTRlNi02eW"
     },
     {
-      "title": "Capgemini anuncia un ERE en España por el impacto de la inteligencia artificial - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNci16SWZEb21GWTFGNDdFNkRNeFN3QU92OGlwaGEtRFJtRHBzVDh4ZkZXWjk0SEJQQksxeGl6WjFWQng0RFZjZ1RWZ20xUjRyb25YdWdLV3gxbXBqX1VkT0U1YjEzYjlQZEVTQkNvbHprc1NsQzhuaHlLV2RBalFMbDFfWEp6dzQ00gGIAUFVX3lxTE8tMmR5T3RTS1pJcG54TFJJVUk0WDZZNkM1NjBOeU1vSFdaWEZtZzlzcjRHR0syMXNTWjFETzl1YWNRQ0ZUOFVkRlZnd0VZVVdXTlBfTG1GUGM3cXpVSW5jVFpOZWJPTEFNUVY5LUdCd2htUlczdHFHc01fZkxfT0F0RXR6Q2t1Nk8?oc=5",
+      "title": "Óscar López defiende que este Gobierno es el que más invirtió en Galicia: \"Si Rueda quiere copiar a Ayuso llega tarde\" - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZktiT3Z2azkzRElyR21qQVRaQm9TOU41V01xb0Z2UmtRMFpwSTBHZ19WQjdhQW5UQVZZa3JSRXRxWnFDeEFnTlp6UGRScUdWNFE1bzJtS0QzZW5palZoMU1XSm1RaXpkbkptTThhd2FBSkFZajFEajMtYVRrTlg4Tk01Sk5fUl9HRmdqNFlBbWM3T1VCSTJMVFhUQ0hrb2YyOVdTakpUbEVaQ0N2Y2k5UGhkSk1NYzhLUjlkLXo0cFVnMlhtZC0wMnBhU1d5Ylc5UVZTYWpjOTI3VnVvckFKM3hrdzRzbVNFWmtkTkpMZGxPa2M4b2U5bXMxa9IBlgJBVV95cUxNRkllN1VOQnU3NHdIdWpFazFzZEY3ZzJ4ZE5FQ1NuSHRVbHliTUtOVF9SS3RVdTktUWlTUzRuQU1rMTY3amhpQW9UTi1EUUVUNDVDUUh0b01BZnY1NEdrempNTWo3UU5zZWZ2TDFsckRyTmp0a01iMzR0RWhmMEVIWGJkbDZpWmRrMnd4dFZRM0szZUI4Q016aDM5aXVKVFFxOUtteEhmWnhqSTNRbmxjeWpyZTZfOVR6OURhS3lQdWtIZG9mS2tTZnc1LVVPWHhudFdSOU05Z0VObENqNkRIWVBwR29kY2dPSmVkdFBqWVNpTU1feUNoN3c3WFVZSFZzSElnUlFoRFF1Z2V0NDR2UnYtT0F2UQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 14:20:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNci16SWZEb21GWTFGNDdFNkRNeFN3QU92OGlwaGEtRFJtRHBzVDh4ZkZXWjk0SEJQQksxeGl6WjFWQng0RFZjZ1RWZ20xUjRyb25YdWdLV3gxbXBqX1VkT0U1YjEzYjlQZEVTQkNvbHprc1NsQzhuaHlLV2RBalFMbDFfWEp6dzQ00gGIAUFVX3lxTE8tMmR5T3RTS1pJcG54TFJJVUk0WDZZNkM1NjBOeU1vSFdaWEZtZz"
+      "published": "Sun, 12 Apr 2026 16:57:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZktiT3Z2azkzRElyR21qQVRaQm9TOU41V01xb0Z2UmtRMFpwSTBHZ19WQjdhQW5UQVZZa3JSRXRxWnFDeEFnTlp6UGRScUdWNFE1bzJtS0QzZW5palZoMU1XSm1RaXpkbkptTThhd2FBSkFZajFEajMtYVRrTlg4Tk01Sk5fUl9HRmdqNFlBbWM3T1VCSTJMVFhUQ0hrb2YyOVdTakpUbEVaQ0N2Y2k5UGhkSk1NYzhLUj"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "4YFN Awards 2026: las cinco startups finalistas que están transformando la tecnología global - Entrepreneur en Espanol",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnVxUFVHZHRId0MwQ05jNkxzelhjSGtGeHBjbGN1aGxoM0lYUFpLS3U1QjlzVE5MOVZuYUgtdU91d0xDUmRmMnlOSG5WNmFUdWVydmJqOWNoRGo4SFJfbGRUVzVUeEs2LTQ5a1JnanlGTm52R2lHcUxsenRnUUN4ZU45RjhtcUdVZHA1UmJyRlY0aThHaWVjYkZmMExTZlRaV1I3T1dPand6dFREWENwUWNLYVZSeFJ4V0NzQXZiZU41WHY5a0xEWXMycURDSVU?oc=5",
+      "title": "Las 10 startups más prometedoras en España en 2026: Innovación, tecnología y visión de futuro - Innovaspain",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LdWRvU2JDckNqbGVrdTRNUkpxTnZPUFJDdld4emVJbVlVWXF1b1haZXoxLUQ2VWNhZXRFN1hxNXdBRU8tdUpxdFd3Mld0MTdibzJjeDRDeGRuaFFjS1ppSkdWNTY1MThiYmxNSkh6QnE1LXhEWG9zZg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnVxUFVHZHRId0MwQ05jNkxzelhjSGtGeHBjbGN1aGxoM0lYUFpLS3U1QjlzVE5MOVZuYUgtdU91d0xDUmRmMnlOSG5WNmFUdWVydmJqOWNoRGo4SFJfbGRUVzVUeEs2LTQ5a1JnanlGTm52R2lHcUxsenRnUUN4ZU45RjhtcUdVZHA1UmJyRlY0aThHaWVjYkZmMExTZlRaV1I3T1dPand6dFREWENwUWNLYVZSeFJ4V0"
+      "published": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LdWRvU2JDckNqbGVrdTRNUkpxTnZPUFJDdld4emVJbVlVWXF1b1haZXoxLUQ2VWNhZXRFN1hxNXdBRU8tdUpxdFd3Mld0MTdibzJjeDRDeGRuaFFjS1ppSkdWNTY1MThiYmxNSkh6QnE1LXhEWG9zZg?oc=5\" target=\"_blank\">Las 10 startups más prometedoras en España en 2026: Innovación, t"
     }
   ],
   "count": 14
