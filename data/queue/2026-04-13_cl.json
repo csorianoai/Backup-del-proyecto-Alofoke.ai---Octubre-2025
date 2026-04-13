@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué se sabe de “Ghost Murmur”, la tecnología que la CIA presuntamente utilizó para encontrar al piloto de EEUU en Irán",
+      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-ghost-murmur-la-tecnologia-que-la-cia-presuntamente-utilizo-para-encontrar-al-piloto-de-eeuu-en-iran/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 13 Apr 2026 14:26:09 +0000",
+      "summary": "Fuentes que aseguran tener conocimiento del supuesto programa afirmaron al New York Post que fue clave para rescatar al segundo aviador del caza. Sin embargo, distintos científicos se han mostrado escépticos sobre la posibilidad de que exista un dispositivo con características como las descritas."
+    },
+    {
+      "title": "Cómo es el F-35A Lightning II de la Fuerza Aérea de EEUU, uno de los principales protagonistas de Fidae 2026",
+      "url": "https://www.latercera.com/tendencias/noticia/como-es-el-f-35a-lightning-ii-de-la-fuerza-aerea-de-eeuu-uno-de-los-principales-protagonistas-de-fidae-2026/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 13 Apr 2026 16:57:14 +0000",
+      "summary": "El caza multirol fabricado por Lockheed Martin se presenta como un avión de combate de quinta generación, el cual tiene la capacidad de transitar con sigilo y de desenvolverse en escenarios adversos."
+    },
+    {
       "title": "“No fue fácil estar a más de 322.000 km de casa”: el relato de los astronautas de Artemis II tras volver del espacio",
       "url": "https://www.latercera.com/tendencias/noticia/no-fue-facil-estar-a-mas-de-322000-km-de-casa-el-relato-de-los-astronautas-de-artemis-ii-tras-volver-del-espacio/",
       "source": "La Tercera Tecnología",
@@ -19,28 +35,12 @@
       "summary": "Frío y nubosidad marcarán la RM este martes 14 de abril. Revisa si lloverá en Santiago y qué sistemas frontales podrían traer precipitaciones esta semana, según el pronóstico."
     },
     {
-      "title": "Qué se sabe de “Ghost Murmur”, la tecnología que la CIA presuntamente utilizó para encontrar al piloto de EEUU en Irán",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-ghost-murmur-la-tecnologia-que-la-cia-presuntamente-utilizo-para-encontrar-al-piloto-de-eeuu-en-iran/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 13 Apr 2026 14:26:09 +0000",
-      "summary": "Fuentes que aseguran tener conocimiento del supuesto programa afirmaron al New York Post que fue clave para rescatar al segundo aviador del caza. Sin embargo, distintos científicos se han mostrado escépticos sobre la posibilidad de que exista un dispositivo con características como las descritas."
-    },
-    {
       "title": "Qué se sabe del ataque de Estados Unidos contra dos embarcaciones en el Pacífico",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-ataque-de-estados-unidos-contra-dos-embarcaciones-en-el-pacifico/",
       "source": "La Tercera Tecnología",
       "category": "tech",
       "published": "Mon, 13 Apr 2026 10:51:45 +0000",
       "summary": "De acuerdo al Comando Sur del Ejército de Estados Unidos, la ofensiva terminó con la muerte de cinco personas en total, mientras que una sobrevivió. Acusan que las embarcaciones participaban en operaciones de narcotráfico."
-    },
-    {
-      "title": "Adictos al celular: por qué cuesta tanto desengancharse de las redes sociales",
-      "url": "https://www.latercera.com/tendencias/noticia/adictos-al-celular-por-que-cuesta-tanto-desengancharse-de-las-redes-sociales/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 13 Apr 2026 10:03:00 +0000",
-      "summary": "Un artículo advierte que no se trata solo de “adicción”, sino de un sistema social, económico y tecnológico que hace casi imposible desconectarse."
     },
     {
       "title": "Lo que le contamos a la inteligencia artificial - EL PAÍS",
