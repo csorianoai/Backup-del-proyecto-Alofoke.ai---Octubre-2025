@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Gemini lanza “Inteligencia Personal” en México, una IA que anticipa lo que necesitas",
+      "url": "https://expansion.mx/tecnologia/2026/04/14/google-gemini-inteligencia-personal-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Apr 2026 13:00:53 GMT",
+      "summary": "Google introduce una función que conecta apps del usuario y permite anticipar respuestas y ofrecer recomendaciones más precisas sin necesidad de dar contexto explícito."
+    },
+    {
+      "title": "Armar un hogar inteligente en México cuesta entre 3,695 y 5,330 pesos",
+      "url": "https://expansion.mx/tecnologia/2026/04/14/cuanto-cuesta-tener-un-hogar-inteligente-basico-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Apr 2026 11:00:30 GMT",
+      "summary": "Asistentes, focos, enchufes y streaming conforman el setup básico; la adopción crece con mayor conectividad en los hogares."
+    },
+    {
       "title": "Las señales que delatan un fraude mientras usas tu banca en línea",
       "url": "https://expansion.mx/tecnologia/2026/04/13/las-senales-que-delatan-un-fraude-mientras-usas-tu-banca-en-linea",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "La colaboración entre Xiaomi y Leica se refuerza con una nueva generación de smartphones que apuesta por mejorar la fotografía móvil con más hardware y procesamiento avanzado."
     },
     {
-      "title": "Atacan casa de Sam Altman en San Francisco",
-      "url": "https://expansion.mx/tecnologia/2026/04/10/atacan-casa-de-sam-altman-en-san-francisco",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 10 Apr 2026 19:22:26 GMT",
-      "summary": "El sospechoso intentó lanzar una bomba molotov que derivó en un pequeño incendio que no provocó heridos."
-    },
-    {
-      "title": "Dyson ‘sale de casa’ y lanza un ventilador portátil",
-      "url": "https://expansion.mx/tecnologia/2026/04/10/dyson-sale-de-casa-y-lanza-un-ventilador-portatil",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 10 Apr 2026 16:00:14 GMT",
-      "summary": "La empresa que se caracteriza por tener aspiradoras y productos del hogar como purificadores ahora lanzará una solución más fresca."
-    },
-    {
       "title": "La Inteligencia Artificial no es sólo una herramienta, es una capacidad estratégica y de poder económico: Zapata Bello - DPL News",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWRodGd5U2l4T3llMXBxajgyMnNUWjhNaHNNcEE1Rllmbkg0YnlWWUNLN05OYWFDTUFHOU1qQy1PWjRvTWtHSi1naWplS3hhMTZrNm5EUkNIVmRHTl9sYmdRN0NuSmVLS090Y0lCbzRJN3AwM1otMXlzY2psZFNzVkw1MUd2X1pibmgzdFJtQVhVTElUYU9EVzkzZVQ1U1FYT2ZJYm4tN3l1OFk2bmhEX2pEc0o5ZjdHSXQ1cHFPMktoSWFHYUlBRVRSbXZzR1hfMHFr?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWRodGd5U2l4T3llMXBxajgyMnNUWjhNaHNNcEE1Rllmbkg0YnlWWUNLN05OYWFDTUFHOU1qQy1PWjRvTWtHSi1naWplS3hhMTZrNm5EUkNIVmRHTl9sYmdRN0NuSmVLS090Y0lCbzRJN3AwM1otMXlzY2psZFNzVkw1MUd2X1pibmgzdFJtQVhVTElUYU9EVzkzZVQ1U1FYT2ZJYm4tN3l1OFk2bmhEX2pEc0o5ZjdHSX"
     },
     {
+      "title": "Google anuncia becas para tener su Certificado de Carrera y curso de IA: aplica para México, Argentina y Colombia - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX1JMOWxYeG1NQzFkXzFiajJsS2I2aUtHcXJRVjl5MHJqVzdaZ1dOdm9sNlJUYU1QcFhzMi1hSFJqM1pEa1ZPRmt1SkV5RnNweHRPZkZpaTJGVkhoZm9VdzdTV2d1M1YtaGFCX3otVUFHM1BZTnFhMksxNzZBSm1CUXJtRTUtVmZnNDZHaW1Jc01xd0UwbXY1YU9wd3lTUlZxTng3azFscHZQak94MURwUWl1ZWNYakZRZVJ3UDN2ay1xaXFlUld0cV9SUEE2bEUyV0VSNnpMbERScU4xSW5KZFZRaHZPc0Zn0gGDAkFVX3lxTE5ySXNsUUhxVE9VRjdHMjNMM2lldDRsM1dLdHNGaVZ2YTA4MGQtUlFyYk9reGRsR09lUUEzS0ppLWZfZm54VGJlN05UbDZhZkR2N2x3STNVYTN4RFRpQU1WVGIxUll2S3k2YVFyZXFZbkN2Q185aldtX1JlNzlDSm1EQzg5NEdjUVFsaE51U0Z2UGktT1lBM01VUk94MUF1a2xpbE9VazhLM2ZSY1M5bEpVUTZ5d1g4WlVkUE1FVEFTMUNLVGpmUklqRzJHS2FDWk5sbmxqWi1fRkoxT2c1d0JqSDg4NjBZWGtqQnVFMlNHT0JNc2Y2c1BlVFdEOG12VndoeTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 14 Apr 2026 15:33:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX1JMOWxYeG1NQzFkXzFiajJsS2I2aUtHcXJRVjl5MHJqVzdaZ1dOdm9sNlJUYU1QcFhzMi1hSFJqM1pEa1ZPRmt1SkV5RnNweHRPZkZpaTJGVkhoZm9VdzdTV2d1M1YtaGFCX3otVUFHM1BZTnFhMksxNzZBSm1CUXJtRTUtVmZnNDZHaW1Jc01xd0UwbXY1YU9wd3lTUlZxTng3azFscHZQak94MURwUWl1ZWNYakZRZV"
+    },
+    {
       "title": "Jacobo Fernández de Starcom México: “La industria está pisando el turbo en tecnología, data e inteligencia artificial” - produ",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHNtc2JtRHIzMGx5UWxYVEVMdnRwcEVVVFJVWVB2UHJyODlRemVNcHFiVV91MWtRby12LVNKeHF3RC1OVUNtakRkbTRaZWhjQjdrYVVDV2s0S1JncHdtM1JKV0l1MWV6d20wWXpHRlhjaFlBcWI1QVZuOG5mOVp6VVVJaVV5SWxnQUdDd0hXSm5zdw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 13 Apr 2026 22:23:03 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHNtc2JtRHIzMGx5UWxYVEVMdnRwcEVVVFJVWVB2UHJyODlRemVNcHFiVV91MWtRby12LVNKeHF3RC1OVUNtakRkbTRaZWhjQjdrYVVDV2s0S1JncHdtM1JKV0l1MWV6d20wWXpHRlhjaFlBcWI1QVZuOG5mOVp6VVVJaVV5SWxnQUdDd0hXSm5zdw?oc=5\" target=\"_blank\">Jacobo Fernández de Starcom M"
-    },
-    {
-      "title": "Gemini estrena en México su 'Inteligencia Personal': La IA que ya sabe lo que necesitas antes de pedirlo - expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjZuM0lNZGdGb01OeGQ0X1dxNjA3MmtQUnU2c2xRN0FHY2dBWGFGYzZfTTUzTkJaLW5BR1dpdWwwSVEzcjRkeEpsc004cFRwaTdxY0RldTZyWFExTDF6MlhwR2s0cWxRajRYSkZMRmRxSEFtVjZtZHNzX2dUQ3VkODFLcWpwZXBucFk2THUtZ3BTZ9IBnwFBVV95cUxNeHM1MnBuOXA0S0hZOEo1R0NpczJaYlpUWUsxYVpORVNSZUxDaGxZVVZoQjZjV1EzMFE2dnJOVGd4RTYxTXlXbkEtVy1reGJLekJZcDhidDJGWkNHOXBVMXVIcm95VVNuMEZFT00wVWZhRXpsbTJfUEV3dmw0X3pVSHNYd1lwQ01uajhOX3dkMVBuUUZKaW5qSndkN0pxT00?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 14 Apr 2026 13:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORjZuM0lNZGdGb01OeGQ0X1dxNjA3MmtQUnU2c2xRN0FHY2dBWGFGYzZfTTUzTkJaLW5BR1dpdWwwSVEzcjRkeEpsc004cFRwaTdxY0RldTZyWFExTDF6MlhwR2s0cWxRajRYSkZMRmRxSEFtVjZtZHNzX2dUQ3VkODFLcWpwZXBucFk2THUtZ3BTZ9IBnwFBVV95cUxNeHM1MnBuOXA0S0hZOEo1R0NpczJaYlpUWUsxYV"
     },
     {
       "title": "DILA Capital desafía el ‘hype’ de la IA: prepara fondo de 120 MDD para atacar problemas reales en Latam - El Cronista",

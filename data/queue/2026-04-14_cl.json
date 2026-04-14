@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo la inteligencia artificial conquistó al desierto de Coachella",
+      "url": "https://www.latercera.com/tecnologia/noticia/como-la-inteligencia-artificial-conquisto-al-desierto-de-coachella/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Apr 2026 16:18:19 +0000",
+      "summary": "Coachella ya no solo reúne a fanáticos de la música: también se ha convertido en un laboratorio de marketing donde los influencers creados con inteligencia artificial ganan terreno, con avatares hiperrealistas que simulan vivir el festival más importante de California sin pisar ni experimentar el de"
+    },
+    {
+      "title": "Con una laptop y YouTube: por qué el show de Justin Bieber en Coachella está dando que hablar",
+      "url": "https://www.latercera.com/tendencias/noticia/con-una-laptop-y-youtube-por-que-el-show-de-justin-bieber-en-coachella-esta-dando-que-hablar/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Apr 2026 10:03:00 +0000",
+      "summary": "El artista canadiense volvió a los grandes escenarios tras cuatro años con una puesta en escena minimalista y cargada de nostalgia con éxitos de su adolescencia."
+    },
+    {
+      "title": "Por qué se inició un nuevo juicio por la muerte de Diego Maradona en Argentina",
+      "url": "https://www.latercera.com/tendencias/noticia/por-que-se-inicio-un-nuevo-juicio-por-la-muerte-de-diego-maradona-en-argentina/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Apr 2026 15:15:41 +0000",
+      "summary": "A más de cinco años de la muerte del campeón del mundo, la justicia argentina busca determinar si el equipo médico que lo atendía tuvo responsabilidad penal en su fallecimiento."
+    },
+    {
       "title": "Qué significa que se haya detectado un clúster de sismos activos bajo Santiago",
       "url": "https://www.latercera.com/tendencias/noticia/que-significa-que-se-haya-detectado-un-cluster-de-sismos-activos-bajo-santiago/",
       "source": "La Tercera Tecnología",
@@ -19,60 +43,28 @@
       "summary": "El mandatario estadounidense ha sugerido que la construcción del nuevo salón de baile es un asunto de seguridad, ya que está relacionada a sus planes para erigir un nuevo búnker subterráneo, con mayores capacidades de defensa."
     },
     {
-      "title": "Con una laptop y YouTube: por qué el show de Justin Bieber en Coachella está dando que hablar",
-      "url": "https://www.latercera.com/tendencias/noticia/con-una-laptop-y-youtube-por-que-el-show-de-justin-bieber-en-coachella-esta-dando-que-hablar/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 10:03:00 +0000",
-      "summary": "El artista canadiense volvió a los grandes escenarios tras cuatro años con una puesta en escena minimalista y cargada de nostalgia con éxitos de su adolescencia."
-    },
-    {
-      "title": "Cuáles son los siguientes pasos de la NASA para que la humanidad vuelva a la Luna, tras el retorno de Artemis II",
-      "url": "https://www.latercera.com/tendencias/noticia/cuales-son-los-siguientes-pasos-de-la-nasa-para-que-la-humanidad-vuelva-a-la-luna-tras-el-retorno-de-artemis-ii/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 10:02:00 +0000",
-      "summary": "No solo se trata de volver a pisar la Luna tras más de medio siglo: el programa Artemis busca instalar infraestructura y sentar las bases para una presencia humana permanente en el satélite."
-    },
-    {
-      "title": "Lluvia intensa y viento: el sistema frontal que llega hoy a la zona centro-sur de Chile",
-      "url": "https://www.latercera.com/tendencias/noticia/lluvia-intensa-y-viento-el-sistema-frontal-que-llega-hoy-a-la-zona-centro-sur-de-chile/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 10:01:00 +0000",
-      "summary": "Un sistema frontal llega este martes al centro-sur de Chile con lluvias intensas y fuertes rachas de viento en tres regiones. Revisa aquí el pronóstico completo."
-    },
-    {
       "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 13 Apr 2026 22:35:04 GMT",
+      "published": "Tue, 14 Apr 2026 10:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbF"
     },
     {
-      "title": "Comercio electrónico: la inteligencia artificial abre nueva fase de crecimiento - Agenda Logística",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2hEUzVKdllVb0NwM3dHbWFKYjYxa2JPQVlGWG5PY1BlUGFrQndOWVhReUZ1OG94Q01YQ2dYaXh2YXY0ZkotSjRMRkZ2RnhnN1ZHNEk2MHlLT3hrM1E0OS1CNlQ3eGtFOXpKUGdhcGJvX21TS245RmtUWnk5THl1WE9aeEpwb19MQnVmTUZYVWxhR1lCeUhQSW1kdHBfb2hYRkFGV2pnd3hKbTd2Vlg5Yk5sUHUycnhGTmVlZmlyQ3dodGtwWS0xcUhwVkpzMm1sLTR1SGd2WFJHVU1JWjBzU2p1N2lLcEdXTXQzUEtTQ01JUDItMFVOYQ?oc=5",
+      "title": "EN VIDEO | Apagaron la inteligencia artificial por un día y pusieron humanos a responder: el experimento que sorprendió en Chile - Teleantioquia",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN2FGTWtwdmZMY05EM3BmTm0tZzZ6R3BieE1KNU1GOXNLYjdWMGRlaWQtb1o5OHBTWjVpUE95ckVScmlEZnpMX3BGVUhLUVJ3SWpoVnVlQXE2LWpOc3F0cWtxeEF5ZUlCc0lFLUFoc1ZmVmZpcGh3a01oWndPZDZLZ18yUWh4UjNIMEhkS0Qtc2Q4UFZGVnJ3U1hlUGV3eHkzeWtxckMtY254NTdGTGE5SncydHUxNGJ3X01obC1KNEIwXzBpZVF4Q1U0SlppdVhta2l1MnRMMzl5a3VrM0tOd0NpZmYzdFVUbWlYWHozeFRNQi1ZaEhtd1BrSk8waEtMMEVYcXR1eHTSAZQCQVVfeXFMTnBoT3UzLXdxa3E1NTRybDAtTGRyYmdJbUJQUWNjT3F1a1Nwc3p0RUljbTRDSmpNV0RXVVE4UllNRGtTRUNMUnRtdG1KeWhPaDU5UEg3Um1LZ1NsWlpMU3NVNlYtNDBnbjlTbjItQkoyclNjR1hlRkZuSHBfU2NGblBUM014VTBnRXgyU29VeksyM0pkVDFVQ2lyT0FybVJXcjJjdjlpakJHYTJEcTlCdE1jUkZkYTA0OTN1Z3pGclpNeU91SnF4UTZZaDdBU2RkRUhpZDVyaWFwdjdZbTJ6V2F1R3NCcHd1LWFqOEFCMWhMckhNMllHTkxNS2Ixazc3YjdfYzJ0VF9kcTFVNExmVFdyNnNf?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 14 Apr 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS2hEUzVKdllVb0NwM3dHbWFKYjYxa2JPQVlGWG5PY1BlUGFrQndOWVhReUZ1OG94Q01YQ2dYaXh2YXY0ZkotSjRMRkZ2RnhnN1ZHNEk2MHlLT3hrM1E0OS1CNlQ3eGtFOXpKUGdhcGJvX21TS245RmtUWnk5THl1WE9aeEpwb19MQnVmTUZYVWxhR1lCeUhQSW1kdHBfb2hYRkFGV2pnd3hKbTd2Vlg5Yk5sUHUycnhGTm"
+      "published": "Tue, 14 Apr 2026 17:21:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN2FGTWtwdmZMY05EM3BmTm0tZzZ6R3BieE1KNU1GOXNLYjdWMGRlaWQtb1o5OHBTWjVpUE95ckVScmlEZnpMX3BGVUhLUVJ3SWpoVnVlQXE2LWpOc3F0cWtxeEF5ZUlCc0lFLUFoc1ZmVmZpcGh3a01oWndPZDZLZ18yUWh4UjNIMEhkS0Qtc2Q4UFZGVnJ3U1hlUGV3eHkzeWtxckMtY254NTdGTGE5SncydHUxNGJ3X0"
     },
     {
-      "title": "Lo que le contamos a la inteligencia artificial - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVfQWlvdjMzYVpVM1JpNEZmRUhuaXh4c2dwR0ZpZi0tcHZSTWwxcDdFcXdSM0EyTGVFS0toZnc1T1FmenJBamE4bDFXZ0VQVGU4OWlYUkg4RmRrS283bW1aM3hoT1NENFV6UDhjcE5UUUdXdndvVEgzSDJYaktKRGVmOTVoUC15elRRSmVVekhsQdIBpgFBVV95cUxPVEJFNlVyOEtYOFNacWFDRlFqNnpHUnZrY3NxZV9ReGUtUmpjZ0pTWXk3R1F0aDlPLWNiUUxxMVdDcVhyNldWdHNvbUFWTU9NNFJPWHFjcUFvUi1jVTY2aS1BNmxwSlA0aUgtSUhFVFVNYXczZ0YtN0MtX0VEdTdLRXV5NURHSUVSTW5KZEpXSlBpMVhtd0NjUGgwTkdVRFZaTWVsSHhB?oc=5",
+      "title": "La Unesco lanza el Observatorio de Inteligencia Artificial en Educación para Latinoamérica - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHM5eDNaaVpjUGdIZ3BUa2RzaEstbkxreFhKVm90eFJPc0g1TmNYVHBTdW5hTGd6dkdoVmM4TXhMOFRQOXdNbFR0eGVuQXM2bDVGR0E1QnZxSVh4Xzd3TVlQRGJnS2R0M1I4MG1DSmpFaFVQR0NDTXpQdUlTd0lMdFEyYmp5RDloSG1SRTBEM0xCSnhFME9vb2RxNV9Oamc1MTcwNGRWNVZCSmw0cDhneTJpc2syckNKMWpvc1hpMGpkVXlNbXJRM2lqdnlGWHRQMEU3R3haNDFLY1HSAfYBQVVfeXFMUGNfUG4wZWt0dkRBcWJvNFU5RDByRVpQYk9wM2x3Z2lpQi1VTlFod2V6cExDSWViMjlPd3BhVm9RdHRXRjc2a2xpdE4wZS0wWHY5TjMzOC1nVG14NlBSYjlaWHdra2Q3OVQwRWE4VHFtNGpDeWxKNFBqc2Z1UWJfNURlSmU4Qkw0cG45TlRIdTlHa3lJNzlVZHdvMVRQS3UwU1hKd3d5WlRMVVhXZDcxYk9aM2l6U2tuMXpmcjVQb01YbUhZR1ZCMU1EMmJneW9qT0Rwb0IzQkQ1b19JZDFaTmI5NFVZbkhuWS05bC12WFpzSGduR3pB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Apr 2026 05:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZUVfQWlvdjMzYVpVM1JpNEZmRUhuaXh4c2dwR0ZpZi0tcHZSTWwxcDdFcXdSM0EyTGVFS0toZnc1T1FmenJBamE4bDFXZ0VQVGU4OWlYUkg4RmRrS283bW1aM3hoT1NENFV6UDhjcE5UUUdXdndvVEgzSDJYaktKRGVmOTVoUC15elRRSmVVekhsQdIBpgFBVV95cUxPVEJFNlVyOEtYOFNacWFDRlFqNnpHUnZrY3NxZV"
-    },
-    {
-      "title": "Galicia autorizará el uso de la IA en la educación para la detección temprana de dificultades de aprendizaje y diseñar recursos adaptados a cada estudiante - Xunta de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlRYa0NGekx4Vk1ycHdOaFVTYmJXQ0tnZm1helAycWVCWi1FaFhPcm84WTFWT0UxcFZVMVdkRTJsSkNLN2pneW5ic1RZXzFteE12b2x0RG93MmZwNThtVDlfcndCZGJvYWx2c2lGMzJUQnRscFlYRGlwellFQkg0djZlUllNcS1kZEpGY3R5cmJhLUJvNGYxMUE3XzRaR21iZ3FJWnRVMVhfOWFZR25qOUM1bXdCUDZQbHpPSUptNlZkYm9OSTdNZ1R3bXRubGZzaHc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 11 Apr 2026 08:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlRYa0NGekx4Vk1ycHdOaFVTYmJXQ0tnZm1helAycWVCWi1FaFhPcm84WTFWT0UxcFZVMVdkRTJsSkNLN2pneW5ic1RZXzFteE12b2x0RG93MmZwNThtVDlfcndCZGJvYWx2c2lGMzJUQnRscFlYRGlwellFQkg0djZlUllNcS1kZEpGY3R5cmJhLUJvNGYxMUE3XzRaR21iZ3FJWnRVMVhfOWFZR25qOUM1bXdCUDZQbH"
+      "published": "Tue, 14 Apr 2026 18:35:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTHM5eDNaaVpjUGdIZ3BUa2RzaEstbkxreFhKVm90eFJPc0g1TmNYVHBTdW5hTGd6dkdoVmM4TXhMOFRQOXdNbFR0eGVuQXM2bDVGR0E1QnZxSVh4Xzd3TVlQRGJnS2R0M1I4MG1DSmpFaFVQR0NDTXpQdUlTd0lMdFEyYmp5RDloSG1SRTBEM0xCSnhFME9vb2RxNV9Oamc1MTcwNGRWNVZCSmw0cDhneTJpc2syckNKMW"
     },
     {
       "title": "¿Puede la IA pensar? Lo que la filosofía le dice a los gerentes - LaRepublica.co",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Fri, 27 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2lXTG8yMDBoWWxNNlYxbTBkYlE5NHdYU3BaTFNfNUxzLUNOWWJxb2h6all1MzkxUndtSE1zY055Y0Z6VFdFWjZuYndWR25hdTdfdXVEY25Id1VyLXc3bnI2aHVWZUFFOVhubldUak9fMThwTkJ6UWZfQ2RLd0h6M2U1SWxoSDVvNlpOUUdaUHJ2MmJPOGRodFM2djdOYzZqdWczSm1lSXlFOWxlQnlUT0RfRWlRUU1la3"
+    },
+    {
+      "title": "Galicia autorizará el uso de la IA en la educación para la detección temprana de dificultades de aprendizaje y diseñar recursos adaptados a cada estudiante - Xunta de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlRYa0NGekx4Vk1ycHdOaFVTYmJXQ0tnZm1helAycWVCWi1FaFhPcm84WTFWT0UxcFZVMVdkRTJsSkNLN2pneW5ic1RZXzFteE12b2x0RG93MmZwNThtVDlfcndCZGJvYWx2c2lGMzJUQnRscFlYRGlwellFQkg0djZlUllNcS1kZEpGY3R5cmJhLUJvNGYxMUE3XzRaR21iZ3FJWnRVMVhfOWFZR25qOUM1bXdCUDZQbHpPSUptNlZkYm9OSTdNZ1R3bXRubGZzaHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 11 Apr 2026 08:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlRYa0NGekx4Vk1ycHdOaFVTYmJXQ0tnZm1helAycWVCWi1FaFhPcm84WTFWT0UxcFZVMVdkRTJsSkNLN2pneW5ic1RZXzFteE12b2x0RG93MmZwNThtVDlfcndCZGJvYWx2c2lGMzJUQnRscFlYRGlwellFQkg0djZlUllNcS1kZEpGY3R5cmJhLUJvNGYxMUE3XzRaR21iZ3FJWnRVMVhfOWFZR25qOUM1bXdCUDZQbH"
     },
     {
       "title": "Más de 30 expertos abordan en Santiago la IA desde una perspectiva crítica y multidisciplinar - La Voz de Galicia",
