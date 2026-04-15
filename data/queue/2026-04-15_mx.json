@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Roblox tendrá nueva suscripción, mientras en México hay retos de seguridad",
+      "url": "https://expansion.mx/tecnologia/2026/04/15/roblox-nueva-suscripcion-retos-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 15 Apr 2026 18:05:24 GMT",
+      "summary": "La suscripción que entra en vigor el 30 de abril ayudará a tener más certeza en la interacción al interior de la plataforma, usada mayormente por menores de edad."
+    },
+    {
+      "title": "Se cayó Claude: ¿qué pasa con la IA de Anthropic hoy?",
+      "url": "https://expansion.mx/tecnologia/2026/04/15/claude-caida-hoy-que-pasa-ia-anthropic",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 15 Apr 2026 16:29:53 GMT",
+      "summary": "De acuerdo con la plataforma Downdetector los problemas comenzaron a las 09:00 hrs de la mañana. Esto es lo que sabemos."
+    },
+    {
+      "title": "Snap despedirá al 16% de su plantilla global",
+      "url": "https://expansion.mx/tecnologia/2026/04/15/snap-despedira-al-16-de-su-plantilla-global",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 15 Apr 2026 16:00:21 GMT",
+      "summary": "Esta medida afectará a alrededor de 1,000 personas y, de acuerdo con la empresa, se explica por la implementación más acelerada de IA en los procesos operativos."
+    },
+    {
       "title": "Ciberataques le cuestan 7.4 mdd al sector salud, el más vulnerable",
       "url": "https://expansion.mx/tecnologia/2026/04/15/ciberataques-le-cuestan-7-4-mdd-al-sector-salud-el-mas-vulnerable",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Tue, 14 Apr 2026 22:00:36 GMT",
       "summary": "Microsoft retirará Outlook Lite en Android el 25 de mayo de 2026. La medida no afecta al servicio de correo, pero obligará a los usuarios a migrar a otras apps para seguir accediendo a sus cuentas."
-    },
-    {
-      "title": "7 de cada 10 empresas apuestan por IA tradicional, no por agentes",
-      "url": "https://expansion.mx/tecnologia/2026/04/14/7-de-cada-10-empresas-apuestan-por-ia-tradicional-no-por-agentes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 20:00:43 GMT",
-      "summary": "Pese al entusiasmo por los agentes autónomos, la IA tradicional lidera en las empresas. Su madurez, confiabilidad y casos de uso comprobados explican su mayor implementación."
-    },
-    {
-      "title": "Netflix transmitirá  la Copa Oro y Nations League en México",
-      "url": "https://expansion.mx/tecnologia/2026/04/14/netflix-transmitira-copa-oro-liga-de-naciones-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 16:55:35 GMT",
-      "summary": "La plataforma transmitirá en exclusiva desde 2027 dos torneos clave de selecciones de Concacaf."
-    },
-    {
-      "title": "Gemini lanza “Inteligencia Personal” en México, una IA que anticipa lo que necesitas",
-      "url": "https://expansion.mx/tecnologia/2026/04/14/google-gemini-inteligencia-personal-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 13:00:53 GMT",
-      "summary": "Google introduce una función que conecta apps del usuario y permite anticipar respuestas y ofrecer recomendaciones más precisas sin necesidad de dar contexto explícito."
     },
     {
       "title": "El 78% de los mexicanos cree que la Inteligencia Artificial afecta la relación con las empresas - ITSitio",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
       "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
-    },
-    {
-      "title": "Aeropuerto de Monterrey incluirá IA y robótica para el Mundial - REPORTUR.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5\" target="
     },
     {
       "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",

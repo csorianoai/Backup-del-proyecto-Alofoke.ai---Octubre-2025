@@ -3,6 +3,30 @@
   "country": "ar",
   "articles": [
     {
+      "title": "¿Qué es el \"API Error 500 (Internal Server Error)\" y cómo solucionarlo?",
+      "url": "https://www.clarin.com/estados-unidos/api-error-500-internal-server-error-solucionarlo_0_BRHoz9RpbQ.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 15 Apr 2026 17:40:20 +0000",
+      "summary": "<ul><li>¿Te salió el \"API Error 500\" en Claude o Yahoo? No es tu culpa.</li><li>Te explicamos qué significa este fallo interno y los 5 trucos que puedes intentar para recuperar el acceso ahora mismo.</li></ul>"
+    },
+    {
+      "title": "Se cayó Claude: miles de usuarios reportan problemas en la plataforma de IA de Anthropic este miércoles 15 de abril",
+      "url": "https://www.clarin.com/estados-unidos/cayo-claude-miles-usuarios-reportan-problemas-plataforma-ia-anthropic-miercoles-15-abril_0_YrijqjH6j4.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 15 Apr 2026 17:15:20 +0000",
+      "summary": "<ul><li>¿Claude no te responde? No es tu conexión.</li><li>Una caída masiva afecta a la IA de Anthropic en todo el mundo.</li><li>Problemas de login y errores en el chat dejan a miles sin servicio.</li></ul>"
+    },
+    {
+      "title": "Qué es y cómo funciona la Inteligencia Personal, la función de Gemini que Google ya habilitó en Argentina",
+      "url": "https://www.clarin.com/tecnologia/funciona-inteligencia-personal-funcion-gemini-google-habilito-argentina_0_Z0l4C3AlB4.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 15 Apr 2026 14:57:20 +0000",
+      "summary": "<ul><li>Google apuesta a una IA más personal, pero con acceso opcional y seguro a la información.</li><li>Gemini ahora puede anticiparse y ayudar mejor gracias al contexto personal del usuario.</li></ul>"
+    },
+    {
       "title": "Usuarios de Android podrían recibir hasta 135 millones de dólares tras un acuerdo de Google: te explicamos cómo saber si cumples los requisitos para obtener el pago",
       "url": "https://www.clarin.com/estados-unidos/usuarios-android-podrian-recibir-135-millones-dolares-acuerdo-google-explicamos-saber-cumples-requisitos-obtener-pago_0_irnVv6jjdL.html",
       "source": "Clarín Tecnología",
@@ -19,30 +43,6 @@
       "summary": "<ul><li>La consultora Counterpoint registró una caída interanual del 6% en los envíos, en un contexto de menor demanda y escasez de memorias.</li><li>El fabricante del iPhone alcanzó el 21% de participación, apenas por encima de Samsung.</li></ul>"
     },
     {
-      "title": "El zapato inteligente con 253 sensores que busca prevenir caídas en adultos mayores",
-      "url": "https://www.clarin.com/tecnologia/zapato-inteligente-253-sensores-busca-prevenir-caidas-adultos-mayores_0_BwBcjC378Y.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 18:51:14 +0000",
-      "summary": "<ul><li>Detecta señales de inestabilidad y manda la información al celular.</li><li>Busca reducir lesiones e internaciones con un control diario de la marcha.</li></ul>"
-    },
-    {
-      "title": "Ni iPhone ni Samsung Galaxy: el mejor smartphone premium \"precio-calidad\" tiene un descuento de hasta 400 dólares que no te puedes perder",
-      "url": "https://www.clarin.com/estados-unidos/iphone-samsung-galaxy-mejor-smartphone-premium-precio-calidad-descuento-400-dolares-puedes-perder_0_aZb6ulOHJg.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 12:30:01 +0000",
-      "summary": "<ul><li>El Google Pixel 9 Pro XL se desploma en Amazon con un descuento del 36%.</li><li>Potencia total, video en 8K y soporte por 7 años en la oferta tecnológica más importante de este abril.</li></ul>"
-    },
-    {
-      "title": "El fin de las búsquedas en internet: cuáles son los nuevos navegadores con IA que entienden y ejecutan lo que necesitás",
-      "url": "https://www.clarin.com/tecnologia/fin-busquedas-internet-nuevos-navegadores-ia-entienden-ejecutan-necesitas_0_UWgfWxTPIo.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Apr 2026 08:46:02 +0000",
-      "summary": "<ul><li>Integran asistentes y modelos de lenguaje desde el diseño, sin depender de extensiones externas.</li><li>Analizan contexto en tiempo real, priorizan información y convierten consultas en resultados concretos.</li><li>Ventajas operativas, costos y desafíos de privacidad.</li></ul>"
-    },
-    {
       "title": "La Cámara Argentina de la Industria del Calzado impulsa una charla sobre inteligencia artificial aplicada al sector - FashionNetwork Perú",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSm1LUV9reGY1VlZ3R1d3Q1ItWktXWEhSNjNwRllzaktEUF9Wa2NsWHlfWmdQbVkzbDdZVzVjSTh6REY3OXRrZGRaY3Q1bmhRM0JsM0RMUGtKWmtOQkloVVEwcFVKSTRUei1jQzhSVmdFek5zRjhrM25wRWZVTkNXUG1wLW1RSTF0MERCRE9EdDZzNkVjUXI0OWhsVjBnSW1zLXdRUHNBMXJYUUpWOWdEZ0haeV9teno0enpMNFlaYUdDVUtXSmdhVlotTkdXSUlUY1lXZF9xcTQxRGVIMGtLSmhvT1lVVS1mQkRkRjRlT1c5eFhQd0E?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSm1LUV9reGY1VlZ3R1d3Q1ItWktXWEhSNjNwRllzaktEUF9Wa2NsWHlfWmdQbVkzbDdZVzVjSTh6REY3OXRrZGRaY3Q1bmhRM0JsM0RMUGtKWmtOQkloVVEwcFVKSTRUei1jQzhSVmdFek5zRjhrM25wRWZVTkNXUG1wLW1RSTF0MERCRE9EdDZzNkVjUXI0OWhsVjBnSW1zLXdRUHNBMXJYUUpWOWdEZ0haeV9teno0en"
     },
     {
+      "title": "Qué es y cómo funciona la Inteligencia Personal, la función de Gemini que Google ya habilitó en Argentina - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOVh0ekxvdTEtM0dUNllKMUY2aGwtdVU2VF9TNkMwMGo1RGFVWmh1V001WVhNNTAzNHNnUE9ZRXFfUlZJN3VHd1FFQTBsSENZNHJ5U01VTWw3QzBFTHFDanJta3hudGFVLVJuZ1R6MnYtWjZCZGtJc3lFaEdWUFNjTG5fSWtxa0xNWHZib2RHTlh1dFo1X1BkS3Y0YzdaZ2RGaXR4MzVRTlVGOUJpb19TbFpCVVkzSUVrMnJJZGRXUGw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 15 Apr 2026 14:57:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOVh0ekxvdTEtM0dUNllKMUY2aGwtdVU2VF9TNkMwMGo1RGFVWmh1V001WVhNNTAzNHNnUE9ZRXFfUlZJN3VHd1FFQTBsSENZNHJ5U01VTWw3QzBFTHFDanJta3hudGFVLVJuZ1R6MnYtWjZCZGtJc3lFaEdWUFNjTG5fSWtxa0xNWHZib2RHTlh1dFo1X1BkS3Y0YzdaZ2RGaXR4MzVRTlVGOUJpb19TbFpCVVkzSUVrMn"
+    },
+    {
       "title": "Google lanza “Inteligencia Personal” en Gemini en Argentina: una nueva forma de interacción contextual con foco en privacidad - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUxKX0pyYkFlc2VqU3JVYXh2NWJoR1czZjhhSVYyN3RXVkZLR2R1NXlfWWRGampqai1OTTFzenVHb3h0R0lkNDl0N2RwZmkwUkRZTHJ2WFV1clZJZklVWlRDckJfVUdQYV83TzZfVHZVVlVZTVhhTk10YXZUclRmejhlREV3TDFjTXpXM2REel8wQVVtUmk1Nm1mb1BOdWtrdkV4enpRRlE4QkdNNnFFaDBCMlkzYTdjcHJZV1Q4el9aSTllcURWaHZtcHRsWl84dWx1YklROWJOMm11Qk5XeVVia3NVSVVNamVGMlpvVUhiRnhGZVJQNVJBWHlkR0tnN2hBRg?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 14 Apr 2026 13:01:38 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPLUxKX0pyYkFlc2VqU3JVYXh2NWJoR1czZjhhSVYyN3RXVkZLR2R1NXlfWWRGampqai1OTTFzenVHb3h0R0lkNDl0N2RwZmkwUkRZTHJ2WFV1clZJZklVWlRDckJfVUdQYV83TzZfVHZVVlVZTVhhTk10YXZUclRmejhlREV3TDFjTXpXM2REel8wQVVtUmk1Nm1mb1BOdWtrdkV4enpRRlE4QkdNNnFFaDBCMlkzYTdjcH"
-    },
-    {
-      "title": "Qué es “Inteligencia Personal”, la nueva integración de Gemini que Google lanzó en Argentina - La 100",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjFQa2FGeGh5U3hHY0hiNV9OZ1BwUEVjS1d3MEhSeEZJbkxldXc2T19ZZTNTb2wyeE5GZzdLUThVa29pM1pLcWZoVmVVOHpVSXhsZzdjUC0yTVRfd1MxUHJxUVpKYi1WWEJ5TUtwUVlDZXJiUG51Q3FOUG5aZUtDMWxmb2doS1VzQ2pNR2ZCTFhWUzF0aUpQbWg5NU9lTEw3V253dGJvcjNoaXk4eXM1c0ZnRmtOT3owRmlBT0hvYzU2UmtoeHlpTUpn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 15 Apr 2026 14:27:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjFQa2FGeGh5U3hHY0hiNV9OZ1BwUEVjS1d3MEhSeEZJbkxldXc2T19ZZTNTb2wyeE5GZzdLUThVa29pM1pLcWZoVmVVOHpVSXhsZzdjUC0yTVRfd1MxUHJxUVpKYi1WWEJ5TUtwUVlDZXJiUG51Q3FOUG5aZUtDMWxmb2doS1VzQ2pNR2ZCTFhWUzF0aUpQbWg5NU9lTEw3V253dGJvcjNoaXk4eXM1c0ZnRmtOT3owRm"
     },
     {
       "title": "Cómo es la iniciativa de IA aplicada a la salud que ganó el primer puesto en el hackathon de Harvard y Swiss Medical - Infobae",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLV9vMmVHdS1oSjRCdFRzX2dEc2NSdEJEQVZLVkk2TEZKWVladkl4Q1JDOVhsNzNoX2pLbnl5MGF3dmoyRkk2UDdYWHZXWE96akQ3aVl2YjFvUkhNWE5ERkNTVUFjeW94LXczeklDMEs0blJxVmNYNkdadkJTUTk2cW1qR0h3NGQ5RkdiZlZ2LWxlYkRIdXIzWGZURER1Sy0yWkxxWHQyamo?oc=5\" target=\"_blank\">"
     },
     {
+      "title": "Incendios forestales: la startup argentina que detecta focos antes que la NASA y levantó u$s2.7 millones - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSl8tYnBOb0hPUklsWG1DLWhMT2pTMDJ0R2V5NVF2bXVMd3lOZXJTbjlfUDdUeUJlZENRNEhWc28zV3V2T3FuVnlINWhsTVgtWGR3YmNsalBRZUhJMm9COVVjcVJvTGQ5RnFQU05LZFl2dTZzajFRbnhma2ZoQ0hQVDR1aEFzZXMtdm80UDNibHQ5RXVlN1JWZ3Zfc3VuTmxhSXhEZmhXQk1mQlZNU1JDbUVTc1gzRjVyTGwtbFVfcnVSUFF5VG05d3VvZWVrdUdjNjJ2S2NkZVlBNUVm0gHiAUFVX3lxTE1XWlBkYV90MmpNUVdZU3RQLU5wd3RUUUROZ1dFTWRvcGUtUC0teVlrRDVpMmtwMWNaeC1aWVZ0N0RGQkdpcE1kaXNzalNzdnRMVjdRbTlWd3ptUE9YOTRydXFJdWhlenZLX01La1FUNFhDWmhjWjlFcnI1MzZNZnBCaWhHdi1JcFU1SG5xTnRaR2VjdXg1Z0pBUTloanRNbW9zUmE5ZFU4OXYxU3NZMXphbm50Q19ha0x2YlZqUV85WmxodzQtbDAtWjUwMTdjUFNoNUVSZjdYbUdYU0NXeXd0a1E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 15 Apr 2026 14:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSl8tYnBOb0hPUklsWG1DLWhMT2pTMDJ0R2V5NVF2bXVMd3lOZXJTbjlfUDdUeUJlZENRNEhWc28zV3V2T3FuVnlINWhsTVgtWGR3YmNsalBRZUhJMm9COVVjcVJvTGQ5RnFQU05LZFl2dTZzajFRbnhma2ZoQ0hQVDR1aEFzZXMtdm80UDNibHQ5RXVlN1JWZ3Zfc3VuTmxhSXhEZmhXQk1mQlZNU1JDbUVTc1gzRjVyTG"
+    },
+    {
       "title": "Venture capital en Argentina 2026: el deshielo llegó - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMkozYjRpZ19sTURqTy0yeDYzbEpRYjlyMmdCNjdLaWlxc0FIaGE2eVVQOWlDeTZ5ZzhmN3FOWENZbjRqYlV0VW1nWnpjZ1lCWWdEb1pmYnNzbk9BcE8wV1A5S0hrX2U0V0pVWnRGV3VTdGdHZXlvUUk4VVUzYWE0Y0MwWnVQN2ZtaUE?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 14 Apr 2026 22:02:43 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2ZWWGQ3c2x1Q0Y4V2hfY0R6bmUyMFNOMkFCM1lBazZRQ2V6OTlMX0J6bjR5LWxVYjdkSU1EUzBUMXRJS0dRWnluM3dLUTY3bVJoX2p3ZGlYU3hLbGwxdGZZYzJTV2E1MFptai11bjZnNjVNX2RwVU9MZXBBVmRvV3hfMy1Ld2o2RlFSNGlyZjVNMzNZT0Q4?oc=5\" target=\"_blank\">Startup argentina de IA"
-    },
-    {
-      "title": "La sede argentina del hackathon de salud enfocará su trabajo en inteligencia artificial y startups - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmI5enR4ZmR2QjRiV2pLdGZzQ2h3aVJjV28tbng1alBPaUU5SkFVcXJTTGZfVmdpS3N6a012VzhlT2pDZ3FraW1Ga1dCQ3NGcndoYjFmdzl4NmtsUk5QWUtzOWh6YWIzY21tLWJKOXFkZ3lmbkgyTjdLZ01hS2VnQ09jS1Y1akpnTVBWc01XVnlMVXRzMjhOMWZ6eG1tWm5KRnhwQ1g3enp6cEpCc2FoT2Rac1FYd2ZMaEJWUnJRakh1NjdUdjd6RUxyUS1TcG92dHM4dDhCTFhVUXdVQzVLUG5n0gH8AUFVX3lxTE4yZFExeFVtOGlzNWpXcmxRa1FzcVFVcjZ5UWJqOTJReEw5N0hmNzVMLVJ1eGpDMG9zTFQtUFJNVkpDTUZFWHB5cGZoWkFqZkhlc2FwY0V6c2l5ckNyN0p5aGdwY2gxNkRiRmYtcllMUXo5TGZYVEl2UFJtcW9NNWdqNU00QWd0QWZzeXR4UGtxUGFJZjVUYTJtTWNTWXoxMm5RWlc3Z0k3RUwxWWY1TjZWSkdEbmtlOFZPSzViWmVpWW4zY0l0NmlsMXhxcWdZTl9CRDZkYTRVZEJfa1RfTjJHeGRRb3ZYaVBaNEhLb0pNNU5LNHdSQlNQa3YzdA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmI5enR4ZmR2QjRiV2pLdGZzQ2h3aVJjV28tbng1alBPaUU5SkFVcXJTTGZfVmdpS3N6a012VzhlT2pDZ3FraW1Ga1dCQ3NGcndoYjFmdzl4NmtsUk5QWUtzOWh6YWIzY21tLWJKOXFkZ3lmbkgyTjdLZ01hS2VnQ09jS1Y1akpnTVBWc01XVnlMVXRzMjhOMWZ6eG1tWm5KRnhwQ1g3enp6cEpCc2FoT2Rac1FYd2ZMaE"
     }
   ],
   "count": 14
