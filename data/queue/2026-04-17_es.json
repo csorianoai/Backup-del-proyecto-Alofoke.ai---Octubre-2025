@@ -3,20 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán anuncia la plena reapertura de Ormuz tras la tregua con Israel",
-      "url": "https://elpais.com/internacional/2026-04-17/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "title": "Irán anuncia la reapertura del estrecho de Ormuz pero Trump insiste en mantener el bloqueo estadounidense",
+      "url": "https://elpais.com/internacional/2026-04-17/iran-anuncia-la-apertura-de-ormuz-hasta-el-fin-del-alto-el-fuego-con-estados-unidos.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Fri, 17 Apr 2026 14:53:04 GMT",
-      "summary": "EE UU prolongará el bloqueo a los barcos iraníes hasta que se cierre el acuerdo de paz | Macron pide prudencia y advierte de que no aceptará “la privatización” del estrecho en la cumbre de París"
+      "published": "Fri, 17 Apr 2026 16:53:14 GMT",
+      "summary": "Tras el inicio de la tregua en Líbano, Teherán asegura que permitirá la navegación por el paso marítimo hasta el fin del alto el fuego con Estados Unidos"
     },
     {
-      "title": "El precio del petróleo se hunde un 10% tras la reapertura de Ormuz mientras las Bolsas se disparan",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-04-17/la-bolsa-y-el-ibex-35.html",
+      "title": "Macron y Starmer impulsan en París una misión internacional para asegurar el estrecho de Ormuz cuando cesen las hostilidades",
+      "url": "https://elpais.com/internacional/2026-04-17/macron-y-starmer-impulsan-en-paris-una-mision-internacional-para-asegurar-el-estrecho-de-ormuz-cuando-cesen-las-hostilidades.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Fri, 17 Apr 2026 13:37:16 GMT",
-      "summary": "El mercado recibe la señal más esperada después de mes y medio de guerra. El Ibex se anota un 2% y recupera los niveles previos al conflicto"
+      "published": "Fri, 17 Apr 2026 17:33:16 GMT",
+      "summary": "Medio centenar de países respalda un desbloqueo sin condiciones del paso marítimo y una docena ofrece apoyo militar una vez se consolide el alto el fuego"
+    },
+    {
+      "title": "Israel mantendrá “todos los territorios” que ocupa en Líbano y seguirá demoliendo viviendas durante la tregua",
+      "url": "https://elpais.com/internacional/2026-04-17/israel-mantendra-todos-los-territorios-que-ocupa-en-libano-y-seguira-demoliendo-viviendas-durante-la-tregua.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Apr 2026 17:28:30 GMT",
+      "summary": "“Aún no hemos terminado el trabajo”, recalca Netanyahu en el primer día de alto el fuego, con miles de desplazados libaneses volviendo a sus localidades en el sur"
     },
     {
       "title": "Lula respalda el “no a la guerra” de Sánchez y él le pide perdón porque Ayuso llama “narcoestado” a Brasil y otros",
@@ -24,23 +32,15 @@
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Fri, 17 Apr 2026 13:21:22 GMT",
-      "summary": "Los dos líderes consagran su unión política y buscan revitalizar a la izquierda. “Tenemos que entender por qué la gente está votando a la ultraderecha, en qué han fallado las democracias”, dice Lula"
+      "summary": "Los dos líderes consagran su unión política. “Sánchez está haciendo crecer el rebaño progresista. Tenemos que entender por qué la gente está votando a la ultraderecha”, dice Lula"
     },
     {
-      "title": "El PP recibe a María Corina Machado con todos los honores en la sede de Génova: “¡Valiente!\"",
-      "url": "https://elpais.com/espana/2026-04-17/el-pp-recibe-a-maria-corina-machado-con-todos-los-honores-en-la-sede-de-genova-valiente.html",
+      "title": "De Génova a la fundación de Vox, y de ahí al Ayuntamiento de Madrid: María Corina Machado se abraza a la derecha española",
+      "url": "https://elpais.com/espana/madrid/2026-04-17/de-genova-a-la-fundacion-de-vox-y-de-ahi-al-ayuntamiento-de-madrid-la-derecha-espanola-abraza-a-maria-corina-machado.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Fri, 17 Apr 2026 13:32:42 GMT",
-      "summary": "Feijóo y la cúpula del partido se reúnen con la dirigente opositora venezolana, que ha rechazado una invitación de La Moncloa para verse con Sánchez"
-    },
-    {
-      "title": "Ayuso, sobre el acuerdo de Extremadura: “Yo creo en la ley. No se puede dejar al margen a nadie de un sistema en el que ha contribuido”",
-      "url": "https://elpais.com/espana/2026-04-17/ayuso-sobre-el-acuerdo-de-extremadura-yo-creo-en-la-ley-no-se-puede-dejar-al-margen-a-nadie-de-un-sistema-en-el-que-ha-contribuido.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Apr 2026 13:12:15 GMT",
-      "summary": "La presidenta de la Comunidad de Madrid afirma, sobre la “prioridad nacional, que imponen otros, que no es legal ni se ajusta a derecho”"
+      "published": "Fri, 17 Apr 2026 18:45:25 GMT",
+      "summary": "La líder opositora venezolana y Premio Nobel de la Paz recibe la Llave de Oro del Ayuntamiento en el primer día de su visita: “Los pueblos decididos a ser libres son indetenibles”"
     },
     {
       "title": "Máster en Inteligencia Artificial en España: formación online especializada por sectores - Mastermania",

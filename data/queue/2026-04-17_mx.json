@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "“El hype no construye negocios”: Uri Levi, cofundador de Waze",
+      "url": "https://expansion.mx/tecnologia/2026/04/17/hype-no-construye-negocios-uri-levi-cofundador-waze",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Apr 2026 16:00:53 GMT",
+      "summary": "El creador de la aplicación de movilidad advirtió que el éxito de una empresa depende de la retención de usuarios y de la capacidad de ejecutar decisiones difíciles, más que del entusiasmo tecnológico actual."
+    },
+    {
       "title": "La IA dejó de sorprender antes de que las empresas aprendieran a usarla",
       "url": "https://expansion.mx/tecnologia/2026/04/16/ia-no-sorprende-empresas-se-equivocan-implementarla",
       "source": "Expansión Tecnología",
@@ -35,20 +43,12 @@
       "summary": "El fabricante chino llega a su quinto aniversario en México con 4.5 millones de ventas y una estrategia enfocada en elevar la gama media, donde se concentra la mayor competencia."
     },
     {
-      "title": "Anthropic lanza Claude Opus 4.7, su modelo de IA más potente para tareas más avanzadas",
-      "url": "https://expansion.mx/tecnologia/2026/04/16/anthropic-lanza-claude-4-7",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 16 Apr 2026 15:38:38 GMT",
-      "summary": "El modelo de inteligencia artificial asegura que cuenta con mayor rigor. Antrophic es la empresa desarrolladora de este modelo tecnológico."
-    },
-    {
-      "title": "Colombia | Entidades públicas fortalecerán sus servicios con nuevas capacidades de Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGFzM2czZVFHb1JQRkpGUV8zb2RtX25hY0tsc2ZsVnFRY1NUS0lscVNjQUI0ZVBqNTNGajN5b0toQ3ZSZWE3OWVtNkRjS0R3c1VmQ2tmX0ozNV9nazJaVmZLRHlFQmV1R2lELWhIVkVDTHZzR1FrYndTUlVETjgweUtwSHJwZ3Yta05JZF9fRkdVVFJBTXJmR09rU0JENlMwSFEtU3ZVaTZDYmNvN3hUeWZjekhFODRRUk8wb0pjNVNoeFU?oc=5",
+      "title": "Samsung lanza el AI Football Mode Pro en México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbU5IOVhnWTZ2V19jWVYxd01haXAzbnFKN0E2S3FVS3gxLVJLSGdDaTBucndOajgwemluc2xKeGx1c2hKR1E4b1A3WEVhSHY4V29vN2xPQTlBckFRSXBxOUN3WUtDRU4tanZwS0hjTHNvZFIzbVZocTlYUlU0eThMWTA0U1pQZWRFNFE2dzhnNmRrcExwaUcxa3kxNFk3aG8tSXfSAbwBQVVfeXFMTTVsQTR4U0JLWG84RGZaX0dBTmZreVl6RzRzd3pGcnlocXRCakRTcVlJZnpxMnRyU0FRc1NxdC0ySUF2bDJOMXg4NlY4c1VHWjloYzV1ZjNkOXUtaXJ1REFnMExGLXl1c1BrX1RVa2ZKMFk2TVJUYkx6TktWc0NLZl8tVDIwWTJWUGpqR0ZscG9iU2E5Rm5GRXhQenhqVVItSlJXbDJMa1Y2dW9OYmdlbEhyWDRuNGMtRVlpd0M?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 15 Apr 2026 23:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGFzM2czZVFHb1JQRkpGUV8zb2RtX25hY0tsc2ZsVnFRY1NUS0lscVNjQUI0ZVBqNTNGajN5b0toQ3ZSZWE3OWVtNkRjS0R3c1VmQ2tmX0ozNV9nazJaVmZLRHlFQmV1R2lELWhIVkVDTHZzR1FrYndTUlVETjgweUtwSHJwZ3Yta05JZF9fRkdVVFJBTXJmR09rU0JENlMwSFEtU3ZVaTZDYmNvN3hUeWZjekhFODRRUk"
+      "published": "Fri, 17 Apr 2026 17:28:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbU5IOVhnWTZ2V19jWVYxd01haXAzbnFKN0E2S3FVS3gxLVJLSGdDaTBucndOajgwemluc2xKeGx1c2hKR1E4b1A3WEVhSHY4V29vN2xPQTlBckFRSXBxOUN3WUtDRU4tanZwS0hjTHNvZFIzbVZocTlYUlU0eThMWTA0U1pQZWRFNFE2dzhnNmRrcExwaUcxa3kxNFk3aG8tSXfSAbwBQVVfeXFMTTVsQTR4U0JLWG84RG"
     },
     {
       "title": "El 78% de los mexicanos cree que la Inteligencia Artificial afecta la relación con las empresas - ITSitio",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd1RVSjZuSU11LXNxMk9tSk9qYTEwcHZ6amM5UGRTc2tBSnJSdjdTamZTZ1d0MXU0YjdLUGk1Tmd4b2pMLTFPbThSQ0twTzFMTTF4Y0xiVzVPbXI5bHUya3JrYVg3cFp6NHI1X0dLUVNhdnVxanplNkx1M1R2bzRPRmZ2em9oOEZZMF9FakFrUEQxRkx5dHQ3eDVKOTBpZHpmdHI2NXcwRHBXem12bldFMGotWmRocmJCNG"
     },
     {
-      "title": "SEP presenta 10 recomendaciones para el uso ético y crítico de la Inteligencia Artificial, estas son - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWw1MVRMN2JfWVJ0RnRmeFQwOThNTmVMbHpBam5OUmJteW1uT0l2bW9ELWVyODZURzZSREFzYlNobUVqSW5zMG9seXMxMTRDNkRMNXlVWUxhTHl4UHlZZEo0SlMxUDlVam9qeHVaYmYyNU5RQmdVLWtRMzNYSXlzbkZ4UThKQjU4TXd1Z3lYQ1NKRy1CcVdzeHNneGh6cUM1UzdUdWZmWjhENmZGWWR3d3ZFZGJfYnRWQ291WEhEYVA0QWlNWjJjX3VEb2otX2lhM0JEV1BNNlVEQQ?oc=5",
+      "title": "Esta es la lista IA 50 2026 • Inteligencia Artificial - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTUnI0WmU2RkJyZjBjZURiN1N1cXR5TWEwMGxtakRMNmhSM0JrWXVGLVhhVGdPdUNBVGhrOHFwQTFhUEppTmtEREVFaXdNOFhIMDJfM3AxWUd5Ulc3ci04?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 15 Apr 2026 23:41:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWw1MVRMN2JfWVJ0RnRmeFQwOThNTmVMbHpBam5OUmJteW1uT0l2bW9ELWVyODZURzZSREFzYlNobUVqSW5zMG9seXMxMTRDNkRMNXlVWUxhTHl4UHlZZEo0SlMxUDlVam9qeHVaYmYyNU5RQmdVLWtRMzNYSXlzbkZ4UThKQjU4TXd1Z3lYQ1NKRy1CcVdzeHNneGh6cUM1UzdUdWZmWjhENmZGWWR3d3ZFZGJfYnRWQ2"
+      "published": "Fri, 17 Apr 2026 17:21:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTUnI0WmU2RkJyZjBjZURiN1N1cXR5TWEwMGxtakRMNmhSM0JrWXVGLVhhVGdPdUNBVGhrOHFwQTFhUEppTmtEREVFaXdNOFhIMDJfM3AxWUd5Ulc3ci04?oc=5\" target=\"_blank\">Esta es la lista IA 50 2026 • Inteligencia Artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes M"
     },
     {
       "title": "IA: el cierre de la frontera y sus efectos en startups - Ecosistema Startup",
