@@ -11,14 +11,6 @@
       "summary": "Tras el inicio de la tregua en Líbano, Teherán asegura que permitirá la navegación por el paso marítimo hasta el fin del alto el fuego con Estados Unidos"
     },
     {
-      "title": "Macron y Starmer impulsan en París una misión internacional para asegurar el estrecho de Ormuz cuando cesen las hostilidades",
-      "url": "https://elpais.com/internacional/2026-04-17/macron-y-starmer-impulsan-en-paris-una-mision-internacional-para-asegurar-el-estrecho-de-ormuz-cuando-cesen-las-hostilidades.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Apr 2026 17:33:16 GMT",
-      "summary": "Medio centenar de países respalda un desbloqueo sin condiciones del paso marítimo y una docena ofrece apoyo militar una vez se consolide el alto el fuego"
-    },
-    {
       "title": "Israel mantendrá “todos los territorios” que ocupa en Líbano y seguirá demoliendo viviendas durante la tregua",
       "url": "https://elpais.com/internacional/2026-04-17/israel-mantendra-todos-los-territorios-que-ocupa-en-libano-y-seguira-demoliendo-viviendas-durante-la-tregua.html",
       "source": "El País Tecnología",
@@ -27,20 +19,28 @@
       "summary": "“Aún no hemos terminado el trabajo”, recalca Netanyahu en el primer día de alto el fuego, con miles de desplazados libaneses volviendo a sus localidades en el sur"
     },
     {
-      "title": "Lula respalda el “no a la guerra” de Sánchez y él le pide perdón porque Ayuso llama “narcoestado” a Brasil y otros",
-      "url": "https://elpais.com/espana/2026-04-17/primera-cumbre-entre-espana-y-brasil-de-pedro-sanchez-y-luiz-inacio-lula-da-silva.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Apr 2026 13:21:22 GMT",
-      "summary": "Los dos líderes consagran su unión política. “Sánchez está haciendo crecer el rebaño progresista. Tenemos que entender por qué la gente está votando a la ultraderecha”, dice Lula"
-    },
-    {
       "title": "De Génova a la fundación de Vox, y de ahí al Ayuntamiento de Madrid: María Corina Machado se abraza a la derecha española",
       "url": "https://elpais.com/espana/madrid/2026-04-17/de-genova-a-la-fundacion-de-vox-y-de-ahi-al-ayuntamiento-de-madrid-la-derecha-espanola-abraza-a-maria-corina-machado.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Fri, 17 Apr 2026 18:45:25 GMT",
-      "summary": "La líder opositora venezolana y Premio Nobel de la Paz recibe la Llave de Oro del Ayuntamiento en el primer día de su visita: “Los pueblos decididos a ser libres son indetenibles”"
+      "summary": "La líder opositora venezolana y Premio Nobel de la Paz rechaza reunirse con Pedro Sánchez y recibe la Llave de Oro del Ayuntamiento en el primer día de su visita: “Los pueblos decididos a ser libres son indetenibles”"
+    },
+    {
+      "title": "Ayuso, sobre el pacto de Extremadura: “Yo creo en la ley. No se puede dejar al margen a nadie de un sistema en el que ha contribuido”",
+      "url": "https://elpais.com/espana/2026-04-17/ayuso-sobre-el-acuerdo-de-extremadura-yo-creo-en-la-ley-no-se-puede-dejar-al-margen-a-nadie-de-un-sistema-en-el-que-ha-contribuido.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Apr 2026 15:28:26 GMT",
+      "summary": "La presidenta de la Comunidad de Madrid critica la “prioridad nacional” que recoge el acuerdo: “No es legal ni se ajusta a derecho”"
+    },
+    {
+      "title": "Vox logra que el PP se comprometa a reformar la ley de extranjería para acabar con la prohibición de discriminar a los inmigrantes",
+      "url": "https://elpais.com/espana/2026-04-17/vox-logra-que-el-pp-se-comprometa-a-reformar-la-ley-de-extranjeria-para-acabar-con-la-no-discriminacion-de-inmigrantes.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Apr 2026 07:33:47 GMT",
+      "summary": "El acuerdo de gobierno en Extremadura prevé crear una  unidad parapolicial para luchar contra las mafias de la inmigración"
     },
     {
       "title": "Máster en Inteligencia Artificial en España: formación online especializada por sectores - Mastermania",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMT"
     },
     {
-      "title": "AgroBank escoge las 15 'startups' más innovadoras de España en tecnología agroalimentaria - El Periódico",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZV9wejNmaVlrbkF0OV94WS1HTWV2UFI0a3pKT0JzV2huamppWmdPbTkyZC1ENGl4dWxLbDdQWE45WWQyYmlmd29xa2xYbWg2STUybS1mSFk2U01UTVZNTjV5Q3kzbjRxNS1FZlZueDZ1cDFNckJFdXhlaUpxXzJHOHNaSkQwRmI2SjRLZkJfcFl0OV9KU1dEUEI5OGZpZWZjY25ZcmxIZWw4eWVVVUFJWGc1RmdhNGJ4am1oTGtkUC1xa000LXBnVFNUaER3RjFPY2s4TWZqX0htZGPSAdsBQVVfeXFMT2VfcHozZmlZa25BdDlfeFktR01ldlBSNGt6Sk9Cc1dobmpqaVpnT205MmQtRDRpeHVsS2w3UFhOOVlkMmJpZndvcWtsWG1oNkk1Mm0tZkhZNlNNVE1WTU41eUN5M240cTUtRWZWbng2dXAxTXJCRXV4ZWlKcV8yRzhzWkpEMEZiNko0S2ZCX3BZdDlfSlNXRFBCOThmaWVmY2NuWXJsSGVsOHllVVVBSVhnNUZnYTRieGptaExrZFAtcWtNNC1wZ1RTVGhEd0YxT2NrOE1mal9IbWRj?oc=5",
+      "title": "AgroBank escoge las 15 'startups' más innovadoras de España en tecnología agroalimentaria - La Opinión de Murcia",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2lyanF2S0hWWExQM0lYbHdhelM4b3hHd3kxM3BkZ3AxeGJJWXNwWnBseDMwNUhUbUtadW9lSDd6MlBuRS1CcXVjVnNRTWpFQURCOGpkWnVnc0RxX0Z4U2o5bW80TmYtYjdvaFZvNnNfbGMtVEpOMm1hRlp4SU5BSGNLbGYzQy1VbnI1RWtIOUl4cnppbWowSFRKeFMyR0w3bjR0bXFjcDV3SktpRW1Wc3NlSlF2LWVhMTB5OXhhVWlmbFl2d1VESlNGRElkcVpqUjFXMEhQOHM5MXl0NHJSRE9UU0ZsSU3SAewBQVVfeXFMT2daZVphUnJTVmlkTXJMV0ZEeDdXZTgtallDQU9YU0w1ZHY0TkdDTjVyUDRRZGJzdEJDZXhtRVpkYWlCT0Z2TjRXQkVCZ3IyMXAtc0FZSmxkLXZGQW9XZE1KcjZrdlZ5QlJPWTJ0bjVkNWR0N1lVTUN5Rmc2SVlsX29VSGJjbk5VYndmenZ5ekhlSUstWE1IUUp3VkQwNllOU3dqdWY2aE40NzZuNU5CeXEyVV9JV2dZdHdMOWJnaW9XQjFHbmowQ2R4WXRhQ0x3T001X2o3TGdTbkV2MGhhc2ZBWmhwZTlzdFd0NHg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 17 Apr 2026 10:15:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZV9wejNmaVlrbkF0OV94WS1HTWV2UFI0a3pKT0JzV2huamppWmdPbTkyZC1ENGl4dWxLbDdQWE45WWQyYmlmd29xa2xYbWg2STUybS1mSFk2U01UTVZNTjV5Q3kzbjRxNS1FZlZueDZ1cDFNckJFdXhlaUpxXzJHOHNaSkQwRmI2SjRLZkJfcFl0OV9KU1dEUEI5OGZpZWZjY25ZcmxIZWw4eWVVVUFJWGc1RmdhNGJ4am"
+      "published": "Fri, 17 Apr 2026 10:20:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU2lyanF2S0hWWExQM0lYbHdhelM4b3hHd3kxM3BkZ3AxeGJJWXNwWnBseDMwNUhUbUtadW9lSDd6MlBuRS1CcXVjVnNRTWpFQURCOGpkWnVnc0RxX0Z4U2o5bW80TmYtYjdvaFZvNnNfbGMtVEpOMm1hRlp4SU5BSGNLbGYzQy1VbnI1RWtIOUl4cnppbWowSFRKeFMyR0w3bjR0bXFjcDV3SktpRW1Wc3NlSlF2LWVhMT"
     },
     {
       "title": "Glydways capta $170M: movilidad autónoma para founders - Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZWpIQzdoR3IwSVhSZDRfZnVKUFNEVk5QVXZ4NDdkVjBWY1hCdmFEajQzeHpacGZ5Z2hlX3dZenNhaHlSY3o1Z2xoUmh5ajU1QlZqekk5dTcyRnYtT1BUdEgtVVBMR0F3OGFtTXBteDQtSWxwclFlcDlVN3NGMVJZRzJGTEhMd0xWZV9Z?oc=5\" target=\"_blank\">Glydways capta $170M: movilidad autónom"
     },
     {
-      "title": "La Cámara de España potencia el ecosistema startup y la innovación tecnológica en el 4YFN 2026 - Empresa Exterior",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX01zS2FHdVJXNDBiRk9wQWdUYVZGVk13NGtNcFRBTFRWbWpQYjI5S3FvNndfam4xeTROWF9hbDc0LTRldGFsang4TDk2R3c4RjRXMGdxcXYwQlJpRzNNdzB0SHQwNVNtNXJ0NFVXNjFOd2E1bkFyMkpYWWV4elhmQTVnR3RPWmtTa1J2aGdHM3NKeVlqY1NkWWllblFXTHFvNmZkREI4SXFhMXpMenhDdFJoRi00Qzk4QUxSWnFaNnYtMXNLQzV4ZWZsVm16dw?oc=5",
+      "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 10 Apr 2026 21:28:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPX01zS2FHdVJXNDBiRk9wQWdUYVZGVk13NGtNcFRBTFRWbWpQYjI5S3FvNndfam4xeTROWF9hbDc0LTRldGFsang4TDk2R3c4RjRXMGdxcXYwQlJpRzNNdzB0SHQwNVNtNXJ0NFVXNjFOd2E1bkFyMkpYWWV4elhmQTVnR3RPWmtTa1J2aGdHM3NKeVlqY1NkWWllblFXTHFvNmZkREI4SXFhMXpMenhDdFJoRi00Qzk4QU"
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     }
   ],
   "count": 14

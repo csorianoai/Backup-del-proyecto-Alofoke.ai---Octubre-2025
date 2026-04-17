@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Encuentran una de las maravillas del mundo en el fondo del mar: qué se sabe sobre el Faro de Alejandría",
+      "url": "https://www.latercera.com/tendencias/noticia/encuentran-una-de-las-maravillas-del-mundo-en-el-fondo-del-mar-que-se-sabe-sobre-el-faro-de-alejandria/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Apr 2026 20:00:00 +0000",
+      "summary": "La torre fue construida en el siglo III a.C. en Alejandría y es una de las siete maravillas del mundo antiguo."
+    },
+    {
       "title": "Qué se sabe del arresto del cantante D4vd, tras meses de investigaciones por el hallazgo de un cadáver en su auto",
       "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-arresto-del-cantante-d4vd-tras-meses-de-investigaciones-por-el-hallazgo-de-un-cadaver-en-su-auto/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Los autores de la investigación advierten que “el comercio de fauna silvestre es un factor determinante en la transmisión de patógenos de animales a humanos”, y que “los mercados de animales vivos y el comercio ilegal amplifican aún más estos riesgos”."
     },
     {
-      "title": "Controlar y tratar el colesterol alto: 4 claves sobre las nuevas guías de manejo",
-      "url": "https://www.latercera.com/tendencias/noticia/controlar-y-tratar-el-colesterol-alto-4-claves-sobre-las-nuevas-guias-de-manejo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Apr 2026 10:02:00 +0000",
-      "summary": "Las guías de la Asociación Estadounidense del Corazón actualizan el manejo del colesterol LDL, también conocido como el “colesterol malo”. Esto es todo lo que debes saber para reducir el riesgo cardiovascular."
-    },
-    {
       "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
     },
     {
+      "title": "Chile lanza Stack Público, el primer programa de formación en inteligencia artificial para funcionarios del Estado con participación de las principales empresas tecnológicas del mundo - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNR2haUkVTR3ZFTlVKMWJTVS0xRTZ4YThEZ2JfcWgyREtTWkRmZDlMcWFoclF2bjk4STlrU2tuYTdBSllkRDVIYmxEMmJUMXBXR3hDU056UjRYN0d0M2xIRkdoZUxlMUM4d1ZaTHIyc0ZSaDFqWmhyck42TVYzS2szXzBpMjh3WGVZQnNMU1J5Uklyd1E1dEVWX2liWm1uOWxBT3VCQ3otS0NNNjNkVnp0M01fd045S3FfWXBrWkM3TkROLV9oWnMzX2pNeml4eUdFRVNQWG5JbWt3elFyNkFkcHFVNHNhSGFxTlFuZ0JiRk0zbW5XVTFOODNXeTZ5WVlIX0RFbXZtUkNDRDFwZmt3UWxJdUs3bkdXaDBsaFltWVB1YnQ1dUw0TTJUdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 17 Apr 2026 15:59:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxNR2haUkVTR3ZFTlVKMWJTVS0xRTZ4YThEZ2JfcWgyREtTWkRmZDlMcWFoclF2bjk4STlrU2tuYTdBSllkRDVIYmxEMmJUMXBXR3hDU056UjRYN0d0M2xIRkdoZUxlMUM4d1ZaTHIyc0ZSaDFqWmhyck42TVYzS2szXzBpMjh3WGVZQnNMU1J5Uklyd1E1dEVWX2liWm1uOWxBT3VCQ3otS0NNNjNkVnp0M01fd045S3FfWX"
+    },
+    {
       "title": "Universidad de Chile abre nueva edición de curso gratuito sobre IA generativa - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZk11bjRXc0xicGxqeERta3BuOUVmZzlVWWRCel83emJWM0xTb2Z0UFpEZFVtTEotWlNxT3lmSmdNbjdLN3psaUhPOWpmbVM0UGNlQTVRa3plMXJUNFNoNjdud2w1X3RZUzBab1ltdEU4ZDJaMkdXWmxwdUpMaExKLUs2R1lZTUlFVVhrUzVLUnhoajFBRzUxZ3pvVEI4S3VJWDBqaVhZY0N3XzJqZjRyMi03NXo?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 17 Apr 2026 18:49:57 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZk11bjRXc0xicGxqeERta3BuOUVmZzlVWWRCel83emJWM0xTb2Z0UFpEZFVtTEotWlNxT3lmSmdNbjdLN3psaUhPOWpmbVM0UGNlQTVRa3plMXJUNFNoNjdud2w1X3RZUzBab1ltdEU4ZDJaMkdXWmxwdUpMaExKLUs2R1lZTUlFVVhrUzVLUnhoajFBRzUxZ3pvVEI4S3VJWDBqaVhZY0N3XzJqZjRyMi03NXo?oc=5\" "
-    },
-    {
-      "title": "EN VIDEO | Apagaron la inteligencia artificial por un día y pusieron humanos a responder: el experimento que sorprendió en Chile - Teleantioquia",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN2FGTWtwdmZMY05EM3BmTm0tZzZ6R3BieE1KNU1GOXNLYjdWMGRlaWQtb1o5OHBTWjVpUE95ckVScmlEZnpMX3BGVUhLUVJ3SWpoVnVlQXE2LWpOc3F0cWtxeEF5ZUlCc0lFLUFoc1ZmVmZpcGh3a01oWndPZDZLZ18yUWh4UjNIMEhkS0Qtc2Q4UFZGVnJ3U1hlUGV3eHkzeWtxckMtY254NTdGTGE5SncydHUxNGJ3X01obC1KNEIwXzBpZVF4Q1U0SlppdVhta2l1MnRMMzl5a3VrM0tOd0NpZmYzdFVUbWlYWHozeFRNQi1ZaEhtd1BrSk8waEtMMEVYcXR1eHTSAZQCQVVfeXFMTnBoT3UzLXdxa3E1NTRybDAtTGRyYmdJbUJQUWNjT3F1a1Nwc3p0RUljbTRDSmpNV0RXVVE4UllNRGtTRUNMUnRtdG1KeWhPaDU5UEg3Um1LZ1NsWlpMU3NVNlYtNDBnbjlTbjItQkoyclNjR1hlRkZuSHBfU2NGblBUM014VTBnRXgyU29VeksyM0pkVDFVQ2lyT0FybVJXcjJjdjlpakJHYTJEcTlCdE1jUkZkYTA0OTN1Z3pGclpNeU91SnF4UTZZaDdBU2RkRUhpZDVyaWFwdjdZbTJ6V2F1R3NCcHd1LWFqOEFCMWhMckhNMllHTkxNS2Ixazc3YjdfYzJ0VF9kcTFVNExmVFdyNnNf?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 14 Apr 2026 17:21:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN2FGTWtwdmZMY05EM3BmTm0tZzZ6R3BieE1KNU1GOXNLYjdWMGRlaWQtb1o5OHBTWjVpUE95ckVScmlEZnpMX3BGVUhLUVJ3SWpoVnVlQXE2LWpOc3F0cWtxeEF5ZUlCc0lFLUFoc1ZmVmZpcGh3a01oWndPZDZLZ18yUWh4UjNIMEhkS0Qtc2Q4UFZGVnJ3U1hlUGV3eHkzeWtxckMtY254NTdGTGE5SncydHUxNGJ3X0"
     },
     {
       "title": "La IA no ha roto la educación, la ha dejado en evidencia - EL PAÍS",
