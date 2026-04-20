@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El hábito alimenticio que logró mantener el peso en límites normales con el tiempo, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/el-habito-alimenticio-que-logro-mantener-el-peso-en-limites-normales-con-el-tiempo-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Apr 2026 21:00:00 +0000",
+      "summary": "Un seguimiento a más de 7 mil personas durante cinco años encontró una asociación entre ciertos patrones alimenticios y un índice de masa corporal (IMC) más bajo."
+    },
+    {
       "title": "El robot humanoide que terminó una carrera más rápido que cualquier persona en la historia",
       "url": "https://www.latercera.com/tendencias/noticia/el-robot-humanoide-que-termino-una-carrera-mas-rapido-que-cualquier-persona-en-la-historia/",
       "source": "La Tercera Tecnología",
@@ -35,22 +43,6 @@
       "summary": "Hay lluvia en Santiago este lunes por una baja segregada: revisa hasta qué hora llueve en la Región Metropolitana, qué sectores tendrán chubascos y cómo estará el tiempo durante el resto de la jornada."
     },
     {
-      "title": "“El mejor trato que he recibido”: las impresiones del turista argentino que recorrió Santiago Centro por primera vez",
-      "url": "https://www.latercera.com/tendencias/noticia/el-mejor-trato-que-he-recibido-las-impresiones-del-turista-argentino-que-recorrio-santiago-centro-por-primera-vez/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Apr 2026 10:01:00 +0000",
-      "summary": "Un youtuber y turista argentino visitó Santiago por primera vez: probó el mote con huesillo y destacó los precios, el transporte y el trato de los chilenos."
-    },
-    {
-      "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - unesco",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
-    },
-    {
       "title": "Universidad de Chile reabre curso gratuito de inteligencia artificial generativa - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5",
       "source": "Google News",
@@ -59,12 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5\" target=\""
     },
     {
-      "title": "Artículo: Chile Lanza Stack Público, El Primer Programa De Formación En Inteligencia Artificial Para Funcionarios Del Estado Con Participación De Las Principales Empresas Tecnológicas Del Mundo - minciencia.gob.cl",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQd2NMdlplLUlXeHo1YURybF8tRWlBZEppdFZ2MlJjZGVtaHo2RzVtSUpIbmtLTzhBNVFNVklQeGZoT21CUTN4eUIxV2JtaHBuNmZMal95ZjF3RGpEQURTMWM3UTVOS1N6UHhXVmdDaGZWM3RpUXlKWGpqRVFrSUF1clJwb2Y4WUx1c0lhQVdoY0dXVzE0NmNpNXlDQVI3RUNVMmtGaHVpcUR3YldXUDY4X2R5MXctMUh0MEg4UC1YdDFHLWY2cVZiZFZRbDhPTkZRRkpYM2xzdnl3SHZBSXdzd1RUbWpReGhwZWxsZDZtbWxzMDdMc1MxMFJoN0FPei1BUnpXdjktRjhRdWttRDNZV2wxN3I3dmJiMEVGV1hEQjJNRTl5azhFVk8zLVdDWFpJZzkxT3VKQjJrSE4td0JfY2RIX2k?oc=5",
+      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 16 Apr 2026 21:20:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxQd2NMdlplLUlXeHo1YURybF8tRWlBZEppdFZ2MlJjZGVtaHo2RzVtSUpIbmtLTzhBNVFNVklQeGZoT21CUTN4eUIxV2JtaHBuNmZMal95ZjF3RGpEQURTMWM3UTVOS1N6UHhXVmdDaGZWM3RpUXlKWGpqRVFrSUF1clJwb2Y4WUx1c0lhQVdoY0dXVzE0NmNpNXlDQVI3RUNVMmtGaHVpcUR3YldXUDY4X2R5MXctMUh0ME"
+      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
+    },
+    {
+      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - unesco",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 14 Apr 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbF"
     },
     {
       "title": "Datos sintéticos: la IA que finge lo que no sabe - LaRepublica.co",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUtIcDdEcjZSdUlPN1F5TkxnOEpqdnV6elRndGtzM05VcE5yQjhvWGNwWFc0WEZlQU05bVRSS1JXRlRraXdUTFBGOFhFYkw5SHFYUnd3eUE5aDdLSmVrMTVnMHJ2dkhZMTRNa1UxU092eUNTMHViWWpLU25MTHhfanB1TXFxWGxlSnBXSnpjWFQxN3k4OVBCbDhEaWVPZTVaLXBxOGFXZVZNVGRQeGY1VlNnQUVicnZYOU"
     },
     {
-      "title": "Santiago Díaz enfrentó su primer día de juicio por presunta violación a menor de 12 años - El Comercio",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDZPVlhUSnpILTNqZHVUUGJGXzJXeExobjlUV1FiVnExb1RrMVBXNnNpWTR1dmFLODlKUVJ3SXY5ZXpzSndXNnM4aW5vUXc2OGhuVGEteWtWc1FCdFhlU0V5MkdhRGFBbURBUmFsVUE2Z0lQT2lDTElZakNISE12MUlmZzAtMEFTUktVTHZLaC0xWE85M0I5bHZ6b3cxZ05naUU5QlFuY0M2V1FHdDk2a2NkdHRkaUd6d19RdVAyOE9rM3dkdFNSam9PbGdpV1YzSnpJ?oc=5",
+      "title": "Inteligencia artificial y educación en América Latina y el Caribe - unesco",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QYU02Z3RjNk9hWlpUY3EyRVYxNlBrT0Ywam9zZGpZWHc3SGdXRE53LWtHLUkzWXFVdTlDYnR6cTBMZFRWRENTSm1ERDFQWDBEZ0Zocnh6dmhrenBIVmxvVWxnZEF0M05SWWc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 17 Apr 2026 03:13:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDZPVlhUSnpILTNqZHVUUGJGXzJXeExobjlUV1FiVnExb1RrMVBXNnNpWTR1dmFLODlKUVJ3SXY5ZXpzSndXNnM4aW5vUXc2OGhuVGEteWtWc1FCdFhlU0V5MkdhRGFBbURBUmFsVUE2Z0lQT2lDTElZakNISE12MUlmZzAtMEFTUktVTHZLaC0xWE85M0I5bHZ6b3cxZ05naUU5QlFuY0M2V1FHdDk2a2NkdHRkaUd6d1"
+      "published": "Wed, 01 Apr 2026 22:42:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QYU02Z3RjNk9hWlpUY3EyRVYxNlBrT0Ywam9zZGpZWHc3SGdXRE53LWtHLUkzWXFVdTlDYnR6cTBMZFRWRENTSm1ERDFQWDBEZ0Zocnh6dmhrenBIVmxvVWxnZEF0M05SWWc?oc=5\" target=\"_blank\">Inteligencia artificial y educación en América Latina y el Caribe</a>&nbsp;&nbsp;<fo"
     },
     {
-      "title": "Santiago Orduz de AWS afirma que la Nube es la gran democratizadora de la Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzIycUpDQklzdjlBV1VIcFg4OTQ4ME9uQWhWYVVyRzZZN3JwRkV4TTNQQ2VpOEt3OEZpZmxCZzI2dmNCNU5IMWRlS2JoRl9XZHVBR1VPYnNaM0t1Qk5URTRFRlptenY5dFMydFdNUUctd0ZucU1xR2V5aWxTcVFMZUhrT183RGR5bmZXRHF5aVV3SDQ?oc=5",
+      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUzIycUpDQklzdjlBV1VIcFg4OTQ4ME9uQWhWYVVyRzZZN3JwRkV4TTNQQ2VpOEt3OEZpZmxCZzI2dmNCNU5IMWRlS2JoRl9XZHVBR1VPYnNaM0t1Qk5URTRFRlptenY5dFMydFdNUUctd0ZucU1xR2V5aWxTcVFMZUhrT183RGR5bmZXRHF5aVV3SDQ?oc=5\" target=\"_blank\">Santiago Orduz de AWS afirma"
+      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
     },
     {
       "title": "BHP Escondida: US$2M para pilotos con tu startup - Ecosistema Startup",

@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Tim Cook dejará la dirección de Apple desde septiembre",
+      "url": "https://www.clarin.com/tecnologia/tim-cook-deja-direccion-apple-septiembre_0_lm9KAFD2U9.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Apr 2026 20:59:26 +0000",
+      "summary": "<ul><li>Será reemplazado por un directivo del grupo, John Ternus, hasta ahora responsable de productos como el iPhone y la Mac.</li><li>Cook pasará a ser el presidente ejecutivo del consejo de administración de Apple.</li></ul>"
+    },
+    {
       "title": "Ver el Mundial como en la cancha, desde casa: el modo fútbol con IA llega a los nuevos televisores",
       "url": "https://www.clarin.com/tecnologia/ver-mundial-cancha-casa-modo-futbol-ia-llega-nuevos-televisores_0_XrAW8oFhsk.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>El consumo ilegal se expande y reconfigura el vínculo entre usuarios, plataformas y seguridad digital.</li><li>Especialistas advierten por fraudes, hackeos y accesos remotos sin consentimiento.</li></ul>"
     },
     {
-      "title": "Guía con los mejores parlantes portátiles: todos los precios y qué tener en cuenta antes de comprar",
-      "url": "https://www.clarin.com/tecnologia/guia-mejores-parlantes-portatiles-precios-tener-cuenta-comprar_0_jy9R0szlZ3.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 16 Apr 2026 08:46:33 +0000",
-      "summary": "<ul><li>Son pequeños y livianos, pero muy potentes.</li><li>Inalámbricos, se suelen conectar al celular vía Bluetooth, pero hay un modelo que también se enlaza por Wi-Fi.</li></ul>"
-    },
-    {
       "title": "El trabajo en Argentina cambia: 4 de cada 10 empresas planean contratar, pero la inteligencia artificial acele... - Perfil",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRDYtLUxLWW9qN3FCQ0RDLS1pS0xTcUp6bW1adUtfY2Q0eVJadE1fcEZHMGI5X3c4QURNRl9oYTNNR2hOMmFNanJOQzZYLWpLajd3YUMyX0JPN1ZCTWJyMHJlZ2s3aWxPYVlMY0hjQzlnM21SclhXSjJJOEZadXd3c3dDNnoweFJRQUcwdExVWUNwMFdoQ3p4TS01OHhJVmhUdGpXeGlOcEJMUHJsbmpQR0J4VGFIdEpXSF9pLWplNndEZExxa2FRU0djdmlKU1RiQk95Z0VNUDNiaGdUMk8xZmx1TjdJMVZLQ21UZWxGZFpTVjRrSldPcklHWU5DVVNUdVRPbVRlaWxESUlJcjU00gGUAkFVX3lxTFB2VklxMC13MmszRzViV2toLVBad0pjT2ZoYlV0ZktpQTdyNGJld3JKWjdjWWl1Z3FrQWt5TXhWQWttR1hZSzhXRXllSzIyb0Y5UUptcmN5LTFydktPYXBId05oallqQkNwaFBWbEt6UUVMNVluNDFQTHI2QjdYSktUSzFIMG5STzZXRDd2TndhOFc4TGtheVlRLTFoNTBaUE14LWplQVhhNWw1Zzl1XzlMSGh5Z2U3Qnp4eTFHcXU2SnM0bF9aNmhXeXpCX2cyVHJ2NVp4a1MzY3Q5aTAyTVI3LTh0TDdRaVpmSUMwbUt2M3h2ZEd2N1luY2FJbnphcFMtV3V0c0I2bXotNXJRUzctRzZVRA?oc=5",
       "source": "Google News",
@@ -52,11 +52,11 @@
     },
     {
       "title": "La inteligencia artificial acelera su impacto y Google lanza becas para la Argentina - Comercio y Justicia",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUW9lNGlvM0xfYXJNWDVyV3ZuTlZRNDJreVdRdVdIdFdGT0dmX1RsM0c1aXV3YXFKanZDNU9jclRQMEdSZzllSHFzZ1oxV2ZDX05IOXY5alM4TlV2YXZUQk5td3F2ZDl2ZmZXY3FXb0NTTW5MT2FkbEVBeS1KN09GcmlDc09SencwbEpjcUxtTk8tSkNpeGtnOEM4dGp1MFVSX3l6dFpiUWhURnhhWC0zTk9ZLXFlZl94XzZkSjdwSTZKeXVsdVhyMy0xRGpIZzA4LWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFJZSi0yeGtnZy1SUGpieXFjZmhJY1lUUnB1dFhIbWhxbmRuQlhYZnp4bkFWNG9tN2NDRGdhUmxnNWtCRUdiTFlRRmhjbHg5c3Zpbk9kYllRRklIdk83WUNsYVlxZXZpZlFHWFlkNWJuS29DaHRBbDQwSGFQZ3hldDVPb1VteXhaWDdOUVpObnZYRG5Cb2NVcTBDZllRc1dJaVVURGZ1RUtrV0Y0SkUxQ2hvaE5oVnFBcTdlUFBnVk5aOTB6LVVJTG8yUXk?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 20 Apr 2026 08:22:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUW9lNGlvM0xfYXJNWDVyV3ZuTlZRNDJreVdRdVdIdFdGT0dmX1RsM0c1aXV3YXFKanZDNU9jclRQMEdSZzllSHFzZ1oxV2ZDX05IOXY5alM4TlV2YXZUQk5td3F2ZDl2ZmZXY3FXb0NTTW5MT2FkbEVBeS1KN09GcmlDc09SencwbEpjcUxtTk8tSkNpeGtnOEM4dGp1MFVSX3l6dFpiUWhURnhhWC0zTk9ZLXFlZl94Xz"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFJZSi0yeGtnZy1SUGpieXFjZmhJY1lUUnB1dFhIbWhxbmRuQlhYZnp4bkFWNG9tN2NDRGdhUmxnNWtCRUdiTFlRRmhjbHg5c3Zpbk9kYllRRklIdk83WUNsYVlxZXZpZlFHWFlkNWJuS29DaHRBbDQwSGFQZ3hldDVPb1VteXhaWDdOUVpObnZYRG5Cb2NVcTBDZllRc1dJaVVURGZ1RUtrV0Y0SkUxQ2hvaE5oVnFBcT"
     },
     {
       "title": "Inteligencia artificial predice el marcador del Argentina vs. Colombia por Liga de Naciones - Deportes RCN",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLV9vMmVHdS1oSjRCdFRzX2dEc2NSdEJEQVZLVkk2TEZKWVladkl4Q1JDOVhsNzNoX2pLbnl5MGF3dmoyRkk2UDdYWHZXWE96akQ3aVl2YjFvUkhNWE5ERkNTVUFjeW94LXczeklDMEs0blJxVmNYNkdadkJTUTk2cW1qR0h3NGQ5RkdiZlZ2LWxlYkRIdXIzWGZURER1Sy0yWkxxWHQyamo?oc=5\" target=\"_blank\">"
     },
     {
+      "title": "IA en Argentina: 39% de empresas contratará en 2026 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTJFZU14ZlFyajVJLU9LS2lScVJ6YUl3RXRFbTFFV19zS3JFQW1MNjM0WVlmWHlSamZFZzhtSXNqUHFLMUJDN0NWSm5fSlRseDdKZFVUSGVPU0JETXkzT1p0ZHFBSEVNWFRrVkpPZzBzSDJDNi04NWNab2R2cW1Td2plQ29MS3c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Apr 2026 18:24:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTJFZU14ZlFyajVJLU9LS2lScVJ6YUl3RXRFbTFFV19zS3JFQW1MNjM0WVlmWHlSamZFZzhtSXNqUHFLMUJDN0NWSm5fSlRseDdKZFVUSGVPU0JETXkzT1p0ZHFBSEVNWFRrVkpPZzBzSDJDNi04NWNab2R2cW1Td2plQ29MS3c?oc=5\" target=\"_blank\">IA en Argentina: 39% de empresas contratará "
+    },
+    {
       "title": "Impacto de la reforma laboral en las startups: anticipan más formalización y mayor flujo inversor - La Voz del Interior",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzJtdW5nRVdoOWhVbGVmOXpKM19KY3Q4X2Zqc2tPcmJ0TkltajhqSGNmU2tJQXU4RjVYd3djQjNqWG4zTDdjSHZJU0J0aEpwcjBpT3NVS2tsRmNhazB5QnV4R09WUGZ2YU5pVm1uOG1yZDJ5VTAzaGZZREtaakFTbGlmSmNSTDRxdGxv?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Fri, 17 Apr 2026 17:28:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXhPZFBwZVBxcWdzbFB4MkJHYWNnbG1WUGJKa3Y4U2h2WEE3RmZhRTJYZURYcmFieHR0cXZpUFF3cnBGUWhaR1lKOWFCRDRmcms0UUNLbG4zRWRucmRJUmFnM3VnVVVpTzhGaWRwMFQ5NXptcWM5MkppYlctQ1R5WXZVejNqSGF6YlpOTDNGdHJmS09wcVZ3S05MR3YtN3N1U09wWUVxRElKUWhIQkFrS1lhM0tha1JXZX"
-    },
-    {
-      "title": "Qué es FIA Copilot, la startup argentina diseñada que usa IA para reducir personal y se usa en varios países - La 100",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmZYYXVaRVd2ejF5QUdYV2pMQlJZY04yZnF0SW54WGJSYUhvUEdsbW55UmZSazFjVC0xOHNqOVhNTUdjWjkyNnhManhxY0ladlVjVkw5aUFKVlBZTVNEODByYVU2QXU2WDhSUFFuVjdEU2ozVXRUVTR6V3I1eUJLUDdIOXI1N1BLMG5lVk5IcHNHTjFmMkU3dmpCNDhJWVVxckZ3cUMyVDQ1Uk0ybTg0QVZhVEJIMGo0eHkwVFdZWnE0aFVlckJKYWZxVGlXN0ZJRXdTSWNtODZuMjRFam5hZ1N3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 19 Apr 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmZYYXVaRVd2ejF5QUdYV2pMQlJZY04yZnF0SW54WGJSYUhvUEdsbW55UmZSazFjVC0xOHNqOVhNTUdjWjkyNnhManhxY0ladlVjVkw5aUFKVlBZTVNEODByYVU2QXU2WDhSUFFuVjdEU2ozVXRUVTR6V3I1eUJLUDdIOXI1N1BLMG5lVk5IcHNHTjFmMkU3dmpCNDhJWVVxckZ3cUMyVDQ1Uk0ybTg0QVZhVEJIMGo0eH"
     }
   ],
   "count": 14
