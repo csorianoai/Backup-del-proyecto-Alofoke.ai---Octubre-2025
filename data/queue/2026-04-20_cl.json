@@ -3,12 +3,20 @@
   "country": "cl",
   "articles": [
     {
-      "title": "Por qué las autoridades en Japón advierten de un posible megaterremoto, tras el reciente sismo 7.7",
+      "title": "El robot humanoide que terminó una carrera más rápido que cualquier persona en la historia",
+      "url": "https://www.latercera.com/tendencias/noticia/el-robot-humanoide-que-termino-una-carrera-mas-rapido-que-cualquier-persona-en-la-historia/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Apr 2026 15:37:53 +0000",
+      "summary": "Durante la media maratón de Pekín, un robot humanoide chino cronometró 50'26\", superando por siete minutos el récord mundial humano."
+    },
+    {
+      "title": "Por qué las autoridades en Japón advierten de un posible megaterremoto, tras el reciente sismo 7.4",
       "url": "https://www.latercera.com/tendencias/noticia/por-que-las-autoridades-en-japon-advierten-de-un-posible-megaterremoto-tras-el-reciente-sismo-77/",
       "source": "La Tercera Tecnología",
       "category": "tech",
       "published": "Mon, 20 Apr 2026 15:15:58 +0000",
-      "summary": "Tras el terremoto de 7.7 en Iwate, el gobierno advierte sobre el riesgo de un megaterremoto. Conoce las medidas de evacuación, las zonas de peligro en las fosas de las Kuriles y Japón, y por qué los expertos piden dormir vestidos."
+      "summary": "Tras el terremoto de 7.4 en Iwate, el gobierno advierte sobre el riesgo de un megaterremoto. Conoce las medidas de evacuación, las zonas de peligro en las fosas de las Kuriles y Japón, y por qué los expertos piden dormir vestidos."
     },
     {
       "title": "Cómo son los “robots asesinos” que Ucrania está utilizando para proteger a sus soldados",
@@ -35,12 +43,12 @@
       "summary": "Un youtuber y turista argentino visitó Santiago por primera vez: probó el mote con huesillo y destacó los precios, el transporte y el trato de los chilenos."
     },
     {
-      "title": "Qué se sabe del gen de riesgo que podría provocar Alzheimer, según un reciente estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-del-gen-de-riesgo-que-podria-provocar-alzheimer-segun-un-reciente-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Apr 2026 11:43:45 +0000",
-      "summary": "Un equipo de investigadores de los Gladstone Institutes afirma que sus hallazgos ayudan a tener una mejor comprensión del gen y podrían abrir la puerta al desarrollo de nuevos tratamientos para la enfermedad."
+      "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - unesco",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
     },
     {
       "title": "Universidad de Chile reabre curso gratuito de inteligencia artificial generativa - Universidad de Chile",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Thu, 16 Apr 2026 20:33:34 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5\" target=\""
-    },
-    {
-      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - unesco",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 14 Apr 2026 10:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbF"
     },
     {
       "title": "Artículo: Chile Lanza Stack Público, El Primer Programa De Formación En Inteligencia Artificial Para Funcionarios Del Estado Con Participación De Las Principales Empresas Tecnológicas Del Mundo - minciencia.gob.cl",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
     },
     {
-      "title": "eMerge Americas: Chile impulsa su ecosistema tecnológico con delegación de 18 startups - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5",
+      "title": "Conoce a la fundadora de una nueva startup en DC nombrada nueva ministra de innovación en Chile - Technical.ly",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5\" target="
+      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5\" target=\"_blank\">Conoce a la fundadora de una nueva startup "
     }
   ],
   "count": 14
