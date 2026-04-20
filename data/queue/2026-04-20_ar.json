@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-20",
+  "country": "ar",
+  "articles": [
+    {
+      "title": "Ver el Mundial como en la cancha, desde casa: el modo fútbol con IA llega a los nuevos televisores",
+      "url": "https://www.clarin.com/tecnologia/ver-mundial-cancha-casa-modo-futbol-ia-llega-nuevos-televisores_0_XrAW8oFhsk.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Apr 2026 08:45:33 +0000",
+      "summary": "<ul><li>La función de Samsung analiza transmisiones en vivo y ajusta automáticamente imagen y audio según la escena.</li><li>Qué ofrecen las otras marcas y sus modelos en Argentina.</li></ul>"
+    },
+    {
+      "title": "Meta crea un clon digital de Mark Zuckerberg: una IA que replica su voz, gestos y decisiones",
+      "url": "https://www.clarin.com/tecnologia/meta-crea-clon-digital-mark-zuckerberg-ia-replica-voz-gestos-decisiones_0_gHkYYv9lRi.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 19 Apr 2026 09:01:19 +0000",
+      "summary": "<ul><li>La herramienta se entrena con declaraciones públicas, presentaciones y datos internos para reproducir su criterio. </li><li>Apunta a resolver consultas y orientar decisiones sin necesidad de reuniones.</li></ul>"
+    },
+    {
+      "title": "Por qué Anthropic encendió una alarma en la industria: la IA ya preocupa por su potencial para hackear sistemas",
+      "url": "https://www.clarin.com/tecnologia/anthropic-encendio-alarma-industria-ia-preocupa-potencial-hackear-sistemas_0_VxhHLI0iY5.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 18 Apr 2026 09:01:09 +0000",
+      "summary": "<ul><li>El caso de Claude Mythos, el modelo de Anthropic cuyo acceso fue restringido, expuso un nuevo temor en la industria.</li><li>Empresas de ciberseguridad advierten que la IA ya acelera la detección de fallas y también su explotación.</li><li>Qué cambia cuando los ataques pueden escalar más ráp"
+    },
+    {
+      "title": "La piratería crece fuerte en Argentina y el riesgo ya no solo es legal: el costo oculto del \"todo gratis\"",
+      "url": "https://www.clarin.com/tecnologia/pirateria-crece-fuerte-argentina-riesgo-solo-legal-costo-oculto-gratis_0_CNonKzRgJ3.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 17 Apr 2026 08:46:47 +0000",
+      "summary": "<ul><li>El consumo ilegal se expande y reconfigura el vínculo entre usuarios, plataformas y seguridad digital.</li><li>Especialistas advierten por fraudes, hackeos y accesos remotos sin consentimiento.</li></ul>"
+    },
+    {
+      "title": "Guía con los mejores parlantes portátiles: todos los precios y qué tener en cuenta antes de comprar",
+      "url": "https://www.clarin.com/tecnologia/guia-mejores-parlantes-portatiles-precios-tener-cuenta-comprar_0_jy9R0szlZ3.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 16 Apr 2026 08:46:33 +0000",
+      "summary": "<ul><li>Son pequeños y livianos, pero muy potentes.</li><li>Inalámbricos, se suelen conectar al celular vía Bluetooth, pero hay un modelo que también se enlaza por Wi-Fi.</li></ul>"
+    },
+    {
+      "title": "La inteligencia artificial acelera su impacto y Google lanza becas para la Argentina - Comercio y Justicia",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUW9lNGlvM0xfYXJNWDVyV3ZuTlZRNDJreVdRdVdIdFdGT0dmX1RsM0c1aXV3YXFKanZDNU9jclRQMEdSZzllSHFzZ1oxV2ZDX05IOXY5alM4TlV2YXZUQk5td3F2ZDl2ZmZXY3FXb0NTTW5MT2FkbEVBeS1KN09GcmlDc09SencwbEpjcUxtTk8tSkNpeGtnOEM4dGp1MFVSX3l6dFpiUWhURnhhWC0zTk9ZLXFlZl94XzZkSjdwSTZKeXVsdVhyMy0xRGpIZzA4LWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Apr 2026 08:22:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUW9lNGlvM0xfYXJNWDVyV3ZuTlZRNDJreVdRdVdIdFdGT0dmX1RsM0c1aXV3YXFKanZDNU9jclRQMEdSZzllSHFzZ1oxV2ZDX05IOXY5alM4TlV2YXZUQk5td3F2ZDl2ZmZXY3FXb0NTTW5MT2FkbEVBeS1KN09GcmlDc09SencwbEpjcUxtTk8tSkNpeGtnOEM4dGp1MFVSX3l6dFpiUWhURnhhWC0zTk9ZLXFlZl94Xz"
+    },
+    {
+      "title": "Inteligencia artificial predice el marcador del Argentina vs. Colombia por Liga de Naciones - Deportes RCN",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGIxZmRoOGU0NVpvUHo0TWQ4d2xzZEZFVjhVRkg4RzVFdm1GX2oyTjZ3R252Ml81dUY0ZzdGTWg5UHRFZW1TckVOSm5UUU5qdmxLRmpOUnc0VkE4MFZOX28xVW1qTlFOVVY5STBVSkJBOExOUGtORlUybEd4QVd6MmV6ck5uWVZDN2d3ZGhMMkY4QnNiWlVYOE1KYUdxampId0YzQmEtOUx3S0IyU0t3NEVFTzRJdUU0RnBVblRfYWppWkNJN052Q3pR0gHKAUFVX3lxTE1pSlFrSlQ5c3VxZkJMY1RablFYWDhzUWJyWDV6SGNHWWRxUjFib1lJUHRwTWUwTkJhc0l6U242eWljajJheW5UYVAwcTB1M0pxSExxVncxVzVoYWxQS0dWeFRDVnhIRnl4LTlMSFhweUN4WjByQVFmZzRROE9uNVFlaG1QWXFjUGtuU0V2ZzFXZmdvUW4xYWhXbmVMQ0JrRjJSLWhjdFJCdEFidXM4SHExYTFjVTZQN2pPMVZMVGtkbHFINV9ndlEzRWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 18 Apr 2026 02:29:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGIxZmRoOGU0NVpvUHo0TWQ4d2xzZEZFVjhVRkg4RzVFdm1GX2oyTjZ3R252Ml81dUY0ZzdGTWg5UHRFZW1TckVOSm5UUU5qdmxLRmpOUnc0VkE4MFZOX28xVW1qTlFOVVY5STBVSkJBOExOUGtORlUybEd4QVd6MmV6ck5uWVZDN2d3ZGhMMkY4QnNiWlVYOE1KYUdxampId0YzQmEtOUx3S0IyU0t3NEVFTzRJdUU0Rn"
+    },
+    {
+      "title": "Google activa en Argentina la “Inteligencia Person... - inteligenciaargentina.ar",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYUNkVHBVM2xKRmZuOTdRQjFvd3M3aGU3d2VwdXhkS3JRbFVrdWZtRjdtUkYyeE10Y2IzUEFTTGVPRms1VzZZaThRczkxaUh5dlBzV0s2YzExMFQ5bkxRTTA2bjRzSWlrbTE5azcxaVNlUnNZTm5FQXFLVkxxa2hvY0JpLUFCOXBQVE1KUXhiVXJVQVNhbXFEdjJFcGhiU0ZPQ3BYbm5ZbksyeklKOThJYVZhb1F5Z19UVXdta2dFZ25KN0Z1MHVMeFMtcmtrMlo3X254NVhZUU1XNXBBSzlEa3dUYW41RXFQbVJF?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Apr 2026 12:07:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYUNkVHBVM2xKRmZuOTdRQjFvd3M3aGU3d2VwdXhkS3JRbFVrdWZtRjdtUkYyeE10Y2IzUEFTTGVPRms1VzZZaThRczkxaUh5dlBzV0s2YzExMFQ5bkxRTTA2bjRzSWlrbTE5azcxaVNlUnNZTm5FQXFLVkxxa2hvY0JpLUFCOXBQVE1KUXhiVXJVQVNhbXFEdjJFcGhiU0ZPQ3BYbm5ZbksyeklKOThJYVZhb1F5Z19UVX"
+    },
+    {
+      "title": "Red Hat OpenShift Commons Buenos Aires: casos reales, IA y nube híbrida impulsan la adopción open source en la región - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ3U2Zy1YY0dfOVdlV1lsV1R4WTl6aktoRlplVFFaLW96dmh4LWF1Y1AyQ0ZqWUZfR2pBd1FkbnFudUIxWUlBbUdRWWhWd0g5Z0ItdjROZVh2c05maUE1TUVCSHBiRGJrZG1VZ19zdHNoVUJFSFBvTXVwcm1faXlUaDBrVW1fV2d3eF9IS3BKWlRUOHE2bmVZUy1IbHhUMGpBUUR5WHh6aFdqdmF0ZWVWczNWUEFjZ3BKRjZKaFBJeEIyV2hNODl4OExzbUp1Z09fZ1Y3NzRjVnZUVFQ4MGhSQ3ZfekVNUHFISEd1Q084aEZuV0pYbS1fcC1Ndw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 16 Apr 2026 13:42:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ3U2Zy1YY0dfOVdlV1lsV1R4WTl6aktoRlplVFFaLW96dmh4LWF1Y1AyQ0ZqWUZfR2pBd1FkbnFudUIxWUlBbUdRWWhWd0g5Z0ItdjROZVh2c05maUE1TUVCSHBiRGJrZG1VZ19zdHNoVUJFSFBvTXVwcm1faXlUaDBrVW1fV2d3eF9IS3BKWlRUOHE2bmVZUy1IbHhUMGpBUUR5WHh6aFdqdmF0ZWVWczNWUEFjZ3BKRj"
+    },
+    {
+      "title": "Cómo es el plan del Gobierno porteño para crear un distrito de IA en Buenos Aires - Bloomberg Línea",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VpbHA5OEdHcG0wd0ZVU1hyUEtOT3VYMXA1LTBSemNqNjNTWUxxa2c4UGR3QlBvLTI3bEdQUGhSekVQNFZDTjRQZE5hM3JkRlZyMk9MR3pwMTAyU3RxdnlfU3Bsc1V0THd1bHBTRkttV2xuN0poVTZaN21aRXBHTEllbFpZcFV1TC1MT2VMUnBGZGQ3NDAwS0dnUVhzdU5DY29fZld3Z0JkVmg4bnc1RlNob0IxMGZ5NXQwWFppSjlESWR5Ri05YkJNamxMbkpnMjNV0gHnAUFVX3lxTE1ZRmc2NzBSdkU5Q3pEUTQtN0hoNWZhdmhsMWFWMHkxZzlFUm1lUW9lWGVXQkpHRVVQbmFtR2dKcHQtck1uTHpxTXJkSHBmOHdvM2JJUGVqX18tQl94VW90QVNPdUV6b2xGSXhtSlBRUk1fOHMzOHhWTElWWHg3b1ZpVGF4Mjd3TVFwcXBMR0NRMV9pSDhha1JoMTRNTUNFWFBOVzZ6OFJVUF9Dd1ItWUFzRXVoM0M2TTlvTzU0RVFPcWY4WFBOZ3N3djBjb1ZjNlBuVFdsc2pDZ3djZVFjaXRFUk5zYUpudw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VpbHA5OEdHcG0wd0ZVU1hyUEtOT3VYMXA1LTBSemNqNjNTWUxxa2c4UGR3QlBvLTI3bEdQUGhSekVQNFZDTjRQZE5hM3JkRlZyMk9MR3pwMTAyU3RxdnlfU3Bsc1V0THd1bHBTRkttV2xuN0poVTZaN21aRXBHTEllbFpZcFV1TC1MT2VMUnBGZGQ3NDAwS0dnUVhzdU5DY29fZld3Z0JkVmg4bnc1RlNob0IxMGZ5NX"
+    },
+    {
+      "title": "Buenos Aires impulsa el uso de IA en el sector público: análisis del Decreto 97/26 - IAPP",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLV9vMmVHdS1oSjRCdFRzX2dEc2NSdEJEQVZLVkk2TEZKWVladkl4Q1JDOVhsNzNoX2pLbnl5MGF3dmoyRkk2UDdYWHZXWE96akQ3aVl2YjFvUkhNWE5ERkNTVUFjeW94LXczeklDMEs0blJxVmNYNkdadkJTUTk2cW1qR0h3NGQ5RkdiZlZ2LWxlYkRIdXIzWGZURER1Sy0yWkxxWHQyamo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Apr 2026 12:58:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLV9vMmVHdS1oSjRCdFRzX2dEc2NSdEJEQVZLVkk2TEZKWVladkl4Q1JDOVhsNzNoX2pLbnl5MGF3dmoyRkk2UDdYWHZXWE96akQ3aVl2YjFvUkhNWE5ERkNTVUFjeW94LXczeklDMEs0blJxVmNYNkdadkJTUTk2cW1qR0h3NGQ5RkdiZlZ2LWxlYkRIdXIzWGZURER1Sy0yWkxxWHQyamo?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "Impacto de la reforma laboral en las startups: anticipan más formalización y mayor flujo inversor - La Voz del Interior",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzJtdW5nRVdoOWhVbGVmOXpKM19KY3Q4X2Zqc2tPcmJ0TkltajhqSGNmU2tJQXU4RjVYd3djQjNqWG4zTDdjSHZJU0J0aEpwcjBpT3NVS2tsRmNhazB5QnV4R09WUGZ2YU5pVm1uOG1yZDJ5VTAzaGZZREtaakFTbGlmSmNSTDRxdGxv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Apr 2026 13:42:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzJtdW5nRVdoOWhVbGVmOXpKM19KY3Q4X2Zqc2tPcmJ0TkltajhqSGNmU2tJQXU4RjVYd3djQjNqWG4zTDdjSHZJU0J0aEpwcjBpT3NVS2tsRmNhazB5QnV4R09WUGZ2YU5pVm1uOG1yZDJ5VTAzaGZZREtaakFTbGlmSmNSTDRxdGxv?oc=5\" target=\"_blank\">Impacto de la reforma laboral en las st"
+    },
+    {
+      "title": "El CFI anuncia el lanzamiento de un fondo de inversión para startups I+D: quiénes podrán acceder y cuándo estará disponible - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXhPZFBwZVBxcWdzbFB4MkJHYWNnbG1WUGJKa3Y4U2h2WEE3RmZhRTJYZURYcmFieHR0cXZpUFF3cnBGUWhaR1lKOWFCRDRmcms0UUNLbG4zRWRucmRJUmFnM3VnVVVpTzhGaWRwMFQ5NXptcWM5MkppYlctQ1R5WXZVejNqSGF6YlpOTDNGdHJmS09wcVZ3S05MR3YtN3N1U09wWUVxRElKUWhIQkFrS1lhM0tha1JXZXZMSWhSeE1fRmM1cm5WQ1dvem1WOEdMMzQ3X3I5NzNPa0hTdWpkd2o1alZUX1Rf0gHuAUFVX3lxTE9OVjVBTkJvNHlUTWFIeHFxUjBhUkwzdFNCa3hQRHFta2dHWU5JR1V5QmRRbi1od3AydU5nWDBsTFplVW5ZWk16UEQzTktQZU82NmdoTWdZVGVTRldnMVczd0ZJWnNKc2NXWGE5ckJYazJaWEJUQXg5cjl3TGRNaEZMbU0xYkNLTUdzVXNpV24xRzVRVWZZS2FOWjhldlNrUWw0RDVFdExHTldpMktKc3EyX19UZGNXTkc4bUxkWnJ1T2pJSzM3M0xRdEJHdjMyMWJXVDh1LVVBdzZTWGl2U3hjYk1rSEN1THFxMm5WMHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 17 Apr 2026 17:28:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNXhPZFBwZVBxcWdzbFB4MkJHYWNnbG1WUGJKa3Y4U2h2WEE3RmZhRTJYZURYcmFieHR0cXZpUFF3cnBGUWhaR1lKOWFCRDRmcms0UUNLbG4zRWRucmRJUmFnM3VnVVVpTzhGaWRwMFQ5NXptcWM5MkppYlctQ1R5WXZVejNqSGF6YlpOTDNGdHJmS09wcVZ3S05MR3YtN3N1U09wWUVxRElKUWhIQkFrS1lhM0tha1JXZX"
+    },
+    {
+      "title": "Qué es FIA Copilot, la startup argentina diseñada que usa IA para reducir personal y se usa en varios países - La 100",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmZYYXVaRVd2ejF5QUdYV2pMQlJZY04yZnF0SW54WGJSYUhvUEdsbW55UmZSazFjVC0xOHNqOVhNTUdjWjkyNnhManhxY0ladlVjVkw5aUFKVlBZTVNEODByYVU2QXU2WDhSUFFuVjdEU2ozVXRUVTR6V3I1eUJLUDdIOXI1N1BLMG5lVk5IcHNHTjFmMkU3dmpCNDhJWVVxckZ3cUMyVDQ1Uk0ybTg0QVZhVEJIMGo0eHkwVFdZWnE0aFVlckJKYWZxVGlXN0ZJRXdTSWNtODZuMjRFam5hZ1N3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 19 Apr 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcmZYYXVaRVd2ejF5QUdYV2pMQlJZY04yZnF0SW54WGJSYUhvUEdsbW55UmZSazFjVC0xOHNqOVhNTUdjWjkyNnhManhxY0ladlVjVkw5aUFKVlBZTVNEODByYVU2QXU2WDhSUFFuVjdEU2ozVXRUVTR6V3I1eUJLUDdIOXI1N1BLMG5lVk5IcHNHTjFmMkU3dmpCNDhJWVVxckZ3cUMyVDQ1Uk0ybTg0QVZhVEJIMGo0eH"
+    }
+  ],
+  "count": 14
+}
