@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo científicos chilenos crearon un parche con miel de ulmo para regenerar heridas",
+      "url": "https://www.latercera.com/tendencias/noticia/como-cientificos-chilenos-crearon-un-parche-con-miel-de-ulmo-para-regenerar-herida/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Apr 2026 21:00:00 +0000",
+      "summary": "Desarrollado por la Universidad Técnica Federico Santa María, el material utiliza nanotecnología para imitar la estructura de la piel y favorecer su regeneración en quemaduras o cicatrices."
+    },
+    {
       "title": "Quién era Julio César Jasso Ramírez, el mexicano que mató a una turista e hirió a otros en las pirámides de Teotihuacán",
       "url": "https://www.latercera.com/tendencias/noticia/quien-era-julio-cesar-jasso-ramirez-el-mexicano-que-mato-a-una-turista-e-hirio-a-otros-en-las-piramides-de-teotihuacan/",
       "source": "La Tercera Tecnología",
@@ -33,87 +41,7 @@
       "category": "tech",
       "published": "Tue, 21 Apr 2026 13:06:10 +0000",
       "summary": "La persona que resulte electa por el Consejo de Seguridad ejercerá el cargo por el periodo 2027-2031. Además de la expresidenta chilena, tres candidatos buscan liderar la Secretaría General de las Naciones Unidas."
-    },
-    {
-      "title": "Cómo los animales salvajes se están adaptando a la vida urbana, según la ciencia",
-      "url": "https://www.latercera.com/tendencias/noticia/como-los-animales-salvajes-se-estan-adaptando-a-la-vida-urbana-segun-la-ciencia/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 21 Apr 2026 10:03:00 +0000",
-      "summary": "Un análisis explora cómo la vida en las ciudades está cambiando el comportamiento de la fauna silvestre y sus efectos a futuro."
-    },
-    {
-      "title": "Universidad de Chile reabre curso gratuito de inteligencia artificial generativa - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 16 Apr 2026 20:34:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5\" target=\""
-    },
-    {
-      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - unesco",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 14 Apr 2026 10:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbF"
-    },
-    {
-      "title": "Artículo: Chile Lanza Stack Público, El Primer Programa De Formación En Inteligencia Artificial Para Funcionarios Del Estado Con Participación De Las Principales Empresas Tecnológicas Del Mundo - minciencia.gob.cl",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQd2NMdlplLUlXeHo1YURybF8tRWlBZEppdFZ2MlJjZGVtaHo2RzVtSUpIbmtLTzhBNVFNVklQeGZoT21CUTN4eUIxV2JtaHBuNmZMal95ZjF3RGpEQURTMWM3UTVOS1N6UHhXVmdDaGZWM3RpUXlKWGpqRVFrSUF1clJwb2Y4WUx1c0lhQVdoY0dXVzE0NmNpNXlDQVI3RUNVMmtGaHVpcUR3YldXUDY4X2R5MXctMUh0MEg4UC1YdDFHLWY2cVZiZFZRbDhPTkZRRkpYM2xzdnl3SHZBSXdzd1RUbWpReGhwZWxsZDZtbWxzMDdMc1MxMFJoN0FPei1BUnpXdjktRjhRdWttRDNZV2wxN3I3dmJiMEVGV1hEQjJNRTl5azhFVk8zLVdDWFpJZzkxT3VKQjJrSE4td0JfY2RIX2k?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 16 Apr 2026 21:20:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxQd2NMdlplLUlXeHo1YURybF8tRWlBZEppdFZ2MlJjZGVtaHo2RzVtSUpIbmtLTzhBNVFNVklQeGZoT21CUTN4eUIxV2JtaHBuNmZMal95ZjF3RGpEQURTMWM3UTVOS1N6UHhXVmdDaGZWM3RpUXlKWGpqRVFrSUF1clJwb2Y4WUx1c0lhQVdoY0dXVzE0NmNpNXlDQVI3RUNVMmtGaHVpcUR3YldXUDY4X2R5MXctMUh0ME"
-    },
-    {
-      "title": "Santiago Niño Becerra, economista: “Si hasta ahora el 96% invertido en IA no ha tenido retorno… es muy gordo” - El Confidencial",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmlGcUVUeTVSSTVxVVVscTJsZk85bDVUdFBTZjNDaUdSd2JrTWtqN0FzTzdwOVlKU0hkeVJTZ1U2THJFNnQ4ZjhTWjNoNEdObl9WbjE1S05QLV9BbXJHNkFSbXlBcVN3VTFaUk5PWmZFN1NHSllMWWJKd3BKTnJKaXgtTDFPR2hHa2thdVhGZExmWlhiR3o4ZVM4eVhUaWdzZVJDRFpEY0lERzRiZVVNNmNKanExZWY1Zkl6REFLSk0zWWYwX21JcEVn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Apr 2026 05:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmlGcUVUeTVSSTVxVVVscTJsZk85bDVUdFBTZjNDaUdSd2JrTWtqN0FzTzdwOVlKU0hkeVJTZ1U2THJFNnQ4ZjhTWjNoNEdObl9WbjE1S05QLV9BbXJHNkFSbXlBcVN3VTFaUk5PWmZFN1NHSllMWWJKd3BKTnJKaXgtTDFPR2hHa2thdVhGZExmWlhiR3o4ZVM4eVhUaWdzZVJDRFpEY0lERzRiZVVNNmNKanExZWY1Zk"
-    },
-    {
-      "title": "Datos sintéticos: la IA que finge lo que no sabe - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUtIcDdEcjZSdUlPN1F5TkxnOEpqdnV6elRndGtzM05VcE5yQjhvWGNwWFc0WEZlQU05bVRSS1JXRlRraXdUTFBGOFhFYkw5SHFYUnd3eUE5aDdLSmVrMTVnMHJ2dkhZMTRNa1UxU092eUNTMHViWWpLU25MTHhfanB1TXFxWGxlSnBXSnpjWFQxN3k4OVBCbDhEaWVPZTVaLXBxOGFXZVZNVGRQeGY1VlNnQUVicnZYOU11X3dfMlFMZ9IBwgFBVV95cUxNMl95czRpbk9wTzNfc1hBdVB4alpFT080akhXWEdfYVlVSWV4NXV2NUFHRmxuR3h6TXZQRDFCYWtfcmwyYTNHaDRYbkdOTkhsUkM1RXF4M0s2UEZzS3lWenhHcjVsRDYxMk8zWDNzNHZEZjRfcE5ycGJBcU4wTF9oWkM3dWtfY0dsY2lSaXZLUmVIeXNCZUJ0MFFoRVVDUURCeGtlQVdieHltWk80WU0tZlBaMG9XbEdQUUN0dWFfWmJQZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 15 Apr 2026 05:01:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUtIcDdEcjZSdUlPN1F5TkxnOEpqdnV6elRndGtzM05VcE5yQjhvWGNwWFc0WEZlQU05bVRSS1JXRlRraXdUTFBGOFhFYkw5SHFYUnd3eUE5aDdLSmVrMTVnMHJ2dkhZMTRNa1UxU092eUNTMHViWWpLU25MTHhfanB1TXFxWGxlSnBXSnpjWFQxN3k4OVBCbDhEaWVPZTVaLXBxOGFXZVZNVGRQeGY1VlNnQUVicnZYOU"
-    },
-    {
-      "title": "Inteligencia artificial y educación en América Latina y el Caribe - unesco",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QYU02Z3RjNk9hWlpUY3EyRVYxNlBrT0Ywam9zZGpZWHc3SGdXRE53LWtHLUkzWXFVdTlDYnR6cTBMZFRWRENTSm1ERDFQWDBEZ0Zocnh6dmhrenBIVmxvVWxnZEF0M05SWWc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 22:42:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QYU02Z3RjNk9hWlpUY3EyRVYxNlBrT0Ywam9zZGpZWHc3SGdXRE53LWtHLUkzWXFVdTlDYnR6cTBMZFRWRENTSm1ERDFQWDBEZ0Zocnh6dmhrenBIVmxvVWxnZEF0M05SWWc?oc=5\" target=\"_blank\">Inteligencia artificial y educación en América Latina y el Caribe</a>&nbsp;&nbsp;<fo"
-    },
-    {
-      "title": "FIDAE 2026 y la Fuerza Aérea de Chile abren la convocatoria para startups “Despega al Futuro” con el foco en tecnologías aeroespacial - Defensa.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 07 Apr 2026 15:03:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
-    },
-    {
-      "title": "BHP Escondida: US$2M para pilotos con tu startup - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVQzSjZiQzdzWUU4X1h4cWFScVVFRzFxeGdFZ2NsUkVLN1JWSU9Ra0dGbEw3Y0RyV0NCLXNPUW9pUmlSVVltbEtaOFcwWFhwMmxmNDN4VEgxYmFqOU1lY0lpRjE3OHhWV0NYdTFEVkRKVWNob3FNWnZpaE9fU0pNV0MwVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 15 Apr 2026 12:07:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVQzSjZiQzdzWUU4X1h4cWFScVVFRzFxeGdFZ2NsUkVLN1JWSU9Ra0dGbEw3Y0RyV0NCLXNPUW9pUmlSVVltbEtaOFcwWFhwMmxmNDN4VEgxYmFqOU1lY0lpRjE3OHhWV0NYdTFEVkRKVWNob3FNWnZpaE9fU0pNV0MwVQ?oc=5\" target=\"_blank\">BHP Escondida: US$2M para pilotos con tu startup<"
-    },
-    {
-      "title": "eMerge Americas: Chile impulsa su ecosistema tecnológico con delegación de 18 startups - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5\" target="
     }
   ],
-  "count": 14
+  "count": 5
 }
