@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Quién era Julio César Jasso Ramírez, el mexicano que mató a una turista e hirió a otros en las pirámides de Teotihuacán",
+      "url": "https://www.latercera.com/tendencias/noticia/quien-era-julio-cesar-jasso-ramirez-el-mexicano-que-mato-a-una-turista-e-hirio-a-otros-en-las-piramides-de-teotihuacan/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Apr 2026 15:16:13 +0000",
+      "summary": "El atacante, de 27 años, fue identificado tras el tiroteo en uno de los sitios arqueológicos más visitados de México."
+    },
+    {
       "title": "Revelan el inédito video de la “puesta de la Tierra”, captado desde la Luna por un astronauta de Artemis II",
       "url": "https://www.latercera.com/tendencias/noticia/revelan-el-inedito-video-de-la-puesta-de-la-tierra-captado-desde-la-luna-por-un-astronauta-de-artemis-ii/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Un análisis explora cómo la vida en las ciudades está cambiando el comportamiento de la fauna silvestre y sus efectos a futuro."
     },
     {
-      "title": "Qué se sabe sobre las drogas psicodélicas y sus efectos, tras la orden de Trump de “flexibilizar” su investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-las-drogas-psicodelicas-y-sus-efectos-tras-la-orden-de-trump-de-flexibilizar-su-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 21 Apr 2026 10:02:00 +0000",
-      "summary": "La medida busca reducir las restricciones para estudiar compuestos como el LSD, la psilocibina o el éxtasis."
-    },
-    {
       "title": "Universidad de Chile reabre curso gratuito de inteligencia artificial generativa - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaUlMeS1ZeFNkMXdsdTZrM1FrVkN1cTdURlIweG9YTlE0M3RaaU1IM1dPT1FUeFRSWWxCeUp4TjNDejg1bTE2c3owZ0RzOXB2RFVNMThkTTM0b20zdF8yVHBhdU94bmxTaFNVZU1IWUlLSGdUOTJ0bHZOcTBTYjY1bTF5YWRUMFZxdzFwelJUM0h1dzhwelJBSXI1dzUxckwxanp6MmpkbzZnODZ1cGc?oc=5\" target=\""
     },
     {
-      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - UNESCO",
+      "title": "Lanzamiento del Observatorio de Inteligencia Artificial en Educación - unesco",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzd4T1pDOGsyTTRGRG1zT1UxbGdjNms0WjV6amNDUEtyWEI4d3RpX044TFJ1TEF6V1BlYlB1WmRJVzM5czZyYjd1Z3ExZHZvN0ZxelpDcnBBVlctZFotSnY0UGtNZ01WMzF3NEhFRFcwRFhsWnMwN01RQUxUYlpMMjM1emlMdE0wZThDRW9VNktKUlJ1VFdvQ1FKVXBYZW9nNGxDaDJfZGJyWDl5TU1zVzcxRFBwS09XbFNxRUlSeHVLSHRiN3VHc0VJRUh2QWhX?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUtIcDdEcjZSdUlPN1F5TkxnOEpqdnV6elRndGtzM05VcE5yQjhvWGNwWFc0WEZlQU05bVRSS1JXRlRraXdUTFBGOFhFYkw5SHFYUnd3eUE5aDdLSmVrMTVnMHJ2dkhZMTRNa1UxU092eUNTMHViWWpLU25MTHhfanB1TXFxWGxlSnBXSnpjWFQxN3k4OVBCbDhEaWVPZTVaLXBxOGFXZVZNVGRQeGY1VlNnQUVicnZYOU"
     },
     {
-      "title": "Diplomado en Inteligencia Artificial: la nueva apuesta de la USC - usc.edu.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5",
+      "title": "Inteligencia artificial y educación en América Latina y el Caribe - unesco",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QYU02Z3RjNk9hWlpUY3EyRVYxNlBrT0Ywam9zZGpZWHc3SGdXRE53LWtHLUkzWXFVdTlDYnR6cTBMZFRWRENTSm1ERDFQWDBEZ0Zocnh6dmhrenBIVmxvVWxnZEF0M05SWWc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlgwX3BaeFVERWprVS1CZ054UzhYWTJ1SmtSV24xSDlFdVRSeWFKYnNDSzVyM3RFQWtJS001TXRzenZXNEpJSU0zUmRDQm1RcXo5M2dONWJtWHFfNzJmOXNJeF9IallFc0hnc3pXM3JGWjBkQ1hMb1Fmd04xZGpUbk9peHBadkFpTzVuQ0JDMXQ?oc=5\" target=\"_blank\">Diplomado en Inteligencia Artifi"
-    },
-    {
-      "title": "BHP Escondida: US$2M para pilotos con tu startup - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVQzSjZiQzdzWUU4X1h4cWFScVVFRzFxeGdFZ2NsUkVLN1JWSU9Ra0dGbEw3Y0RyV0NCLXNPUW9pUmlSVVltbEtaOFcwWFhwMmxmNDN4VEgxYmFqOU1lY0lpRjE3OHhWV0NYdTFEVkRKVWNob3FNWnZpaE9fU0pNV0MwVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 15 Apr 2026 12:07:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVQzSjZiQzdzWUU4X1h4cWFScVVFRzFxeGdFZ2NsUkVLN1JWSU9Ra0dGbEw3Y0RyV0NCLXNPUW9pUmlSVVltbEtaOFcwWFhwMmxmNDN4VEgxYmFqOU1lY0lpRjE3OHhWV0NYdTFEVkRKVWNob3FNWnZpaE9fU0pNV0MwVQ?oc=5\" target=\"_blank\">BHP Escondida: US$2M para pilotos con tu startup<"
+      "published": "Wed, 01 Apr 2026 22:42:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1QYU02Z3RjNk9hWlpUY3EyRVYxNlBrT0Ywam9zZGpZWHc3SGdXRE53LWtHLUkzWXFVdTlDYnR6cTBMZFRWRENTSm1ERDFQWDBEZ0Zocnh6dmhrenBIVmxvVWxnZEF0M05SWWc?oc=5\" target=\"_blank\">Inteligencia artificial y educación en América Latina y el Caribe</a>&nbsp;&nbsp;<fo"
     },
     {
       "title": "FIDAE 2026 y la Fuerza Aérea de Chile abren la convocatoria para startups “Despega al Futuro” con el foco en tecnologías aeroespacial - Defensa.com",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
     },
     {
-      "title": "Conoce a la fundadora de una nueva startup en DC nombrada nueva ministra de innovación en Chile - Technical.ly",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5",
+      "title": "BHP Escondida: US$2M para pilotos con tu startup - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVQzSjZiQzdzWUU4X1h4cWFScVVFRzFxeGdFZ2NsUkVLN1JWSU9Ra0dGbEw3Y0RyV0NCLXNPUW9pUmlSVVltbEtaOFcwWFhwMmxmNDN4VEgxYmFqOU1lY0lpRjE3OHhWV0NYdTFEVkRKVWNob3FNWnZpaE9fU0pNV0MwVQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRnI3dU1KcFZfcGlDYWl2ME4td3FSOHY1S3c0VWtCdWpSTFRUanE4RkFFRVBmY2xGaUszajBYUjhpckF3VFFjU0N6UFFGV0dfMzBkYW56R3VFRjVBRnNGV0xtUXFicXB1N28zR21RLTJMaHBEX2VsVmdrelhHS0VOMGtTQmhpTWtW?oc=5\" target=\"_blank\">Conoce a la fundadora de una nueva startup "
+      "published": "Wed, 15 Apr 2026 12:07:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVQzSjZiQzdzWUU4X1h4cWFScVVFRzFxeGdFZ2NsUkVLN1JWSU9Ra0dGbEw3Y0RyV0NCLXNPUW9pUmlSVVltbEtaOFcwWFhwMmxmNDN4VEgxYmFqOU1lY0lpRjE3OHhWV0NYdTFEVkRKVWNob3FNWnZpaE9fU0pNV0MwVQ?oc=5\" target=\"_blank\">BHP Escondida: US$2M para pilotos con tu startup<"
+    },
+    {
+      "title": "eMerge Americas: Chile impulsa su ecosistema tecnológico con delegación de 18 startups - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5\" target="
     }
   ],
   "count": 14

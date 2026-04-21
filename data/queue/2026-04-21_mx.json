@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Rappi prevé alza de hasta 40% en botanas por el Mundial 2026",
-      "url": "https://expansion.mx/tecnologia/2026/04/21/rappi-preve-alza-venta-botanas-mundial-2026-venta-gel",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 21 Apr 2026 10:55:18 GMT",
-      "summary": "El evento impulsará picos de consumo en delivery y pondrá a prueba la capacidad de plataformas para anticipar demanda y retener usuarios."
-    },
-    {
-      "title": "Amazon invertirá 25,000 mdd en Anthropic",
-      "url": "https://expansion.mx/tecnologia/2026/04/20/amazon-y-anthropic-refuerzan-amistad-invertira-25000-mdd",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Apr 2026 23:00:47 GMT",
-      "summary": "La empresa de IA acordó gastar más de 100,000 mdd en los chips que desarrolla Amazon durante la próxima década."
-    },
-    {
       "title": "OpenAI nombra a ex Airbnb como jefe de políticas públicas para América Latina",
       "url": "https://expansion.mx/tecnologia/2026/04/20/openai-nuevo-jefe-de-politicas-publicas-america-latina",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "El ejecutivo de 65 años dejará el cargo de CEO tras una exitosa carrera como líder, donde logró llevar a la marca a tener ingresos históricos."
     },
     {
+      "title": "La IA ayuda a que sobrevivan 1.7 millones de emprendedores mexicanos",
+      "url": "https://expansion.mx/tecnologia/2026/04/20/ia-rescata-1-7-millones-de-emprendedores-mexicanos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Apr 2026 21:00:09 GMT",
+      "summary": "Dentro de los usos que le dan a esta herramienta está la mejora en las ventas, un apoyo en la administración del día a día, pero incluso consejos para la gestión de personal."
+    },
+    {
+      "title": "Quién es John Ternus, el sucesor de Tim Cook como CEO de Apple",
+      "url": "https://expansion.mx/tecnologia/2026/04/20/quien-es-john-ternus-sucesor-tim-cook-apple",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Apr 2026 20:20:32 GMT",
+      "summary": "Este año es clave para la empresa de Cupertino, pues su actual CEO cumplió 65 años, edad en la que muchos líderes deciden retirarse."
+    },
+    {
       "title": "Mal uso de la IA llevará a prisión: así es la nueva ley que impulsa el Senado en México - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczZlZnVCTFAzMGp6X2xnYnpIY1VDUnc1V3Bvak16TmdfSFZreHRJWDY5cXg5V0p0OHhVd2wtcFBCaDFFTUR6VDRCQTN4R3A5RnY2ZTk5bDFTdWh1Q0xsZWlLUXJIY3lfelRtRWtvMlNLVjVyX0Y3aGRnNkFPWWJlOWE4UEJ0T3NtOVJ0NXppcmYwRG9KaWNCWEhNbHo2Q0llSlZJbDVLWHAzR3FGR1pYc2J5SFJDamFpSXFPSXNHT2duU29QVlFzLdIB4wFBVV95cUxNNUUtTEN1T2FZMFVGT2ZaWEl0b1BVbGFGTnNOTHgyNnpNa2lJbFFYU25NSzhtNE00cXFQcmNBTEJ0UG1paHFMVGhWZGMzLTRvWWViT0RtUG05Qjl4ckk0U3hYeEQxWTFBNmFQdDZaUTVUWUxDUlpZc0w3aTJtdC1DSTZUMklDcDkxSnZjTHZ0Uzh2NVpSVlRzMlpDU2hwd0YxTFdKTjIwcVFVYVlpeXZ5cWNaSzFHVGx6WUhOVlFxRzBOSTFpTmh0U05sSFlTcGo0R2t0Mk5PYWFGaTg0RERDMkY0dw?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczZlZnVCTFAzMGp6X2xnYnpIY1VDUnc1V3Bvak16TmdfSFZreHRJWDY5cXg5V0p0OHhVd2wtcFBCaDFFTUR6VDRCQTN4R3A5RnY2ZTk5bDFTdWh1Q0xsZWlLUXJIY3lfelRtRWtvMlNLVjVyX0Y3aGRnNkFPWWJlOWE4UEJ0T3NtOVJ0NXppcmYwRG9KaWNCWEhNbHo2Q0llSlZJbDVLWHAzR3FGR1pYc2J5SFJDamFpSX"
     },
     {
+      "title": "Google Fotos lanzó nuevas herramientas de retoque facial con inteligencia artificial para Android, disponibles progresivamente desde hoy. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcXM4RDRuZkFXZDY0X1RWQXRyRENkN3VWQjVRXzNDSWFaV1RJNnJmeEZXcE0zSUdIdGdRS0U3Z1d4cTcxTU5lbkhqTXdDN3dDa3lOblZwVUVYVDVhMjl4SjJGTjBCOHZNTkZqOFNkRjk1WE9uN01ScnVxTk52N29LM3F0WUQ0bWVfX25NUG16aG5pdEdiaXd0SFJWN0NETksxTDROVU04UnVxMDEzZzd4YzBhTHZuNWdRRnJwNU9LY0xxRDlZanJEMmR0YmdxejRNczFTWlYyZHJGTVlzbmZoVQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Apr 2026 18:27:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcXM4RDRuZkFXZDY0X1RWQXRyRENkN3VWQjVRXzNDSWFaV1RJNnJmeEZXcE0zSUdIdGdRS0U3Z1d4cTcxTU5lbkhqTXdDN3dDa3lOblZwVUVYVDVhMjl4SjJGTjBCOHZNTkZqOFNkRjk1WE9uN01ScnVxTk52N29LM3F0WUQ0bWVfX25NUG16aG5pdEdiaXd0SFJWN0NETksxTDROVU04UnVxMDEzZzd4YzBhTHZuNWdRRn"
+    },
+    {
       "title": "En el marco del Congreso Intercontinental de Porcicultures OPORMEX 2026, Minitube México te invita a su ponencia: Inteligencia Artificial aplicada a la producción porcina - Porcicultura.com",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQYjg2RDh1bF80X1l1TkFHM0hhYzktdlVzTG5yU2UtcUpFVzJjTnhOUVNRZUUzU0hhcElWR1BsbGhFbWV3MmJKZFJ6d19XdC02QklQX3NMNXplSU8xbzdWTm5fZ1ZVcnQ0YnluWmdkX2JEcGxRaHJIdlpxM0xtc1pEaGRraHVhOUJQY0FUWDd0SWIzQTgtamRvbTBDZW15RW55TWx3SUN4OVRWVXBMTTljazgtbkFZeEc4NHJ4QkN4d0g3NVlnSHRIR2kwMVhPT0QzYUhmVEgybm1PdDNVRkcwaFc2MWliNlBOMGtYbnVJU09zZEVhTUg4SVFUQTVTYS16RjV1VXpCcFhubGt1N1VuYzBTWXRsMy1HUEs0OUt6UEtDbDcwamxMZFVka014d1E?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 21 Apr 2026 14:35:16 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxQYjg2RDh1bF80X1l1TkFHM0hhYzktdlVzTG5yU2UtcUpFVzJjTnhOUVNRZUUzU0hhcElWR1BsbGhFbWV3MmJKZFJ6d19XdC02QklQX3NMNXplSU8xbzdWTm5fZ1ZVcnQ0YnluWmdkX2JEcGxRaHJIdlpxM0xtc1pEaGRraHVhOUJQY0FUWDd0SWIzQTgtamRvbTBDZW15RW55TWx3SUN4OVRWVXBMTTljazgtbkFZeEc4NH"
-    },
-    {
-      "title": "México permite que el uso estudiantil de la IA avance mientras las reglas se quedan atrás - LatinAmerican Post",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVk9qV3dvY29SakIxRTd4QWhob1F6X3RZbFhXczJYNzhPdUFUS2VtWU84SzFOUEdwVnEtalBKMjBiUFdEQnNRMUhfTmowOWhRdFdiaF9BREpuT2g3emxscVhJZVBJQ1NHM09yMTEzMHBqdmhjMEVFR2JPanZ4bW5vZkN4bjR2d2xxVmdROUFqUUdYTW56QWNocFZNd1ZFM29XbHREWndsRkZITjczczlfSHBEb21XX1hqeHNFWGpfNUl1cmdBUl9CQ1B6MUd5elkzTi1BcHJZUGJTVUtmOEt1RGV0OHhTTnFFSUdkMlBlaDh4ajlXeEdrdDN5QnE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 19 Apr 2026 02:39:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVk9qV3dvY29SakIxRTd4QWhob1F6X3RZbFhXczJYNzhPdUFUS2VtWU84SzFOUEdwVnEtalBKMjBiUFdEQnNRMUhfTmowOWhRdFdiaF9BREpuT2g3emxscVhJZVBJQ1NHM09yMTEzMHBqdmhjMEVFR2JPanZ4bW5vZkN4bjR2d2xxVmdROUFqUUdYTW56QWNocFZNd1ZFM29XbHREWndsRkZITjczczlfSHBEb21XX1hqeH"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVU04eGp0YlE4VnJzaDlJbllOblJGcV9yWWJZaVRwTWxrQ3VGTHhrZTJWZXRSdnp3VGNvUV9nb0c4RXRnU2xHX2pYem9GRWl0Mm4zT21XN2piaW4td1UwZnVqRE54VVBXbjFMQ2s2cHVTeGVsRG02NVFld0RKU1VEczdmYlRwYzlUdnoxdGtuSlVSUThtVFNmTDQxTFU3bVA5UVRYaFROcWZQSUFkNWNWczNpeTN1YXhwUH"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - unesco",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
