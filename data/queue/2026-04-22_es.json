@@ -3,6 +3,14 @@
   "country": "es",
   "articles": [
     {
+      "title": "PP y Vox alcanzan un pacto de gobierno en Aragón que incorpora la “prioridad nacional” y da tres consejerías a los ultras",
+      "url": "https://elpais.com/espana/2026-04-22/el-pp-y-vox-anuncian-un-pacto-de-gobierno-en-aragon.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Apr 2026 14:43:33 GMT",
+      "summary": "Jorge Azcón será investido presidente en los próximos días, dos meses y medio después de las elecciones autonómicas"
+    },
+    {
       "title": "El PP tumba en el Congreso la moción de Vox sobre la “prioridad nacional” en el acceso a las ayudas públicas",
       "url": "https://elpais.com/espana/2026-04-22/el-pp-tumba-en-el-congreso-la-mocion-de-vox-sobre-la-prioridad-nacional-en-el-acceso-a-las-ayudas-publicas.html",
       "source": "El País Tecnología",
@@ -11,36 +19,28 @@
       "summary": "Los populares votan ahora contra las tesis más xenófobas de los ultras, pero evitan rebatirlas en el debate"
     },
     {
-      "title": "El PP y Vox alcanzan un pacto de gobierno en Aragón para investir al popular Jorge Azcón",
-      "url": "https://elpais.com/espana/2026-04-22/el-pp-y-vox-anuncian-un-pacto-de-gobierno-en-aragon.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 14:43:33 GMT",
-      "summary": "El acuerdo se concreta dos meses y medio de las elecciones y tan solo seis días después del anuncio de coalición en Extremadura"
-    },
-    {
       "title": "Guardiola, investida presidenta de Extremadura: “No voy a pedir perdón por gobernar con Vox”",
       "url": "https://elpais.com/espana/2026-04-22/guardiola-investida-presidenta-de-extremadura-con-el-recado-de-vox-nadie-de-fuera-por-delante-de-un-espanol.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Wed, 22 Apr 2026 11:06:05 GMT",
-      "summary": "El partido de extrema derecha asegura que la premisa de la “prioridad nacional” para recibir ayudas públicas “estará en los acuerdos de Aragón y Castilla y León” con el PP"
+      "summary": "El partido de extrema derecha asegura que la premisa de la “prioridad nacional” para recibir ayudas públicas “estará en los acuerdos de Aragón y Castilla y León” con el PP: “Elegimos a los españoles primero”"
     },
     {
-      "title": "La Fiscalía pide el archivo de la investigación contra Begoña Gómez",
+      "title": "“Yo llamo a las cosas por su nombre: prioridad nacional”, proclama satisfecho el portavoz de Vox en Extremadura",
+      "url": "https://elpais.com/espana/2026-04-22/yo-llamo-a-las-cosas-por-su-nombre-prioridad-nacional-proclama-satisfecho-el-portavoz-de-vox-en-extremadura.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Apr 2026 17:39:03 GMT",
+      "summary": "“Se puede poner primero a los españoles”, asegura Fernández Calle, aunque la Ley de Extranjería lo prohíbe"
+    },
+    {
+      "title": "La Fiscalía pide el archivo de la investigación contra Begoña Gómez: “La mera relación conyugal no puede operar como influencia”",
       "url": "https://elpais.com/espana/2026-04-22/la-fiscalia-pide-el-archivo-de-la-investigacion-contra-begona-gomez.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Wed, 22 Apr 2026 13:24:08 GMT",
       "summary": "El fiscal recurre a la Audiencia Provincial para que archive el procedimiento también contra Barrabés y la asesora de La Moncloa"
-    },
-    {
-      "title": "Junts choca con el Gobierno por la regularización de inmigrantes y reclama elecciones anticipadas",
-      "url": "https://elpais.com/espana/2026-04-22/feijoo-reprocha-la-falta-de-inversion-y-sanchez-responde-ustedes-se-financian-en-b-y-quieren-trabajadores-en-b.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 07:41:18 GMT",
-      "summary": "Feijóo le reprocha “corrupción e incompetencia” y el presidente recuerda al PP el pacto con los ultras en Extremadura y su financiación en B"
     },
     {
       "title": "Semillero UNAD ya está en España para la gran final internacional del HPE CDS Tech Challenge - Noticias UNAD",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMT"
     },
     {
-      "title": "Anduril, Palantir y SpaceX: las 3 startups que reescriben la defensa USA - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjI3VzBibzlldE1GUEZtVmJ4LWc3WlpHMDJGbVpnR3dxc19WLTJmeVl5SEw2V21iMUd3QWxVRHkzcjhkWC1KOGkwU0ZoUG8waDdmUUpjWGZPWDNnMVFEUGlqeWg3Y01YUjU2SUF6bF8wWVBINTlER1RJd0NMN21vUTJUS2VLM2xXNm9SNzUyeVhLbnQwMUJlZlI1YmczMnVFdmVj?oc=5",
+      "title": "Google Cloud $750M: Lo que debes saber como founder - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHBkTHQ3S1gxTVE0OFNKXzN2bWlwUlRPOE1JXzhiUEQ3ZUVBVUxrc3ktaUJvRXpzSmVWTEVUUGt5VUY3V1dmV1pnSFpRWHd1S2E0aktHVDJua0hINWlWOTRXX3NOcWxmWndRbXhaN2tyay05WXFJc19qUzNLbHJLYjZsTzJnMnM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Apr 2026 19:13:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjI3VzBibzlldE1GUEZtVmJ4LWc3WlpHMDJGbVpnR3dxc19WLTJmeVl5SEw2V21iMUd3QWxVRHkzcjhkWC1KOGkwU0ZoUG8waDdmUUpjWGZPWDNnMVFEUGlqeWg3Y01YUjU2SUF6bF8wWVBINTlER1RJd0NMN21vUTJUS2VLM2xXNm9SNzUyeVhLbnQwMUJlZlI1YmczMnVFdmVj?oc=5\" target=\"_blank\">Anduril"
+      "published": "Wed, 22 Apr 2026 16:04:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHBkTHQ3S1gxTVE0OFNKXzN2bWlwUlRPOE1JXzhiUEQ3ZUVBVUxrc3ktaUJvRXpzSmVWTEVUUGt5VUY3V1dmV1pnSFpRWHd1S2E0aktHVDJua0hINWlWOTRXX3NOcWxmWndRbXhaN2tyay05WXFJc19qUzNLbHJLYjZsTzJnMnM?oc=5\" target=\"_blank\">Google Cloud $750M: Lo que debes saber como "
     },
     {
       "title": "BStartup, la primera unidad bancaria de España dedicada a startups que gesta los gigantes tecnológicos del mañana - El Español",
