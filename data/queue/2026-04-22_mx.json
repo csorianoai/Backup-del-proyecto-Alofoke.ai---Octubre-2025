@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "La ola china de smartphones se rompió con OnePlus, ZTE y realme",
-      "url": "https://expansion.mx/tecnologia/2026/04/22/marcas-de-celulares-chinos-mexico-cubrir-hueco-huawei-lg",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 18:00:44 GMT",
-      "summary": "Decenas de marcas de origen asiático invadieron las tiendas de teléfonos inteligentes durante los últimos años, pero vivieron una reconfiguración en pocos años."
-    },
-    {
       "title": "Google busca más independencia y lanza nuevos chips de IA",
       "url": "https://expansion.mx/tecnologia/2026/04/22/google-lanza-nuevos-chips-de-ia",
       "source": "Expansión Tecnología",
@@ -43,20 +35,20 @@
       "summary": "La empresa anunció la salida de Tim Cook como CEO, tras 15 años donde la rentabilidad de la compañía la posicionó como una de las más valiosas."
     },
     {
-      "title": "Qué es ChatGPT Images 2.0 y cómo usarlo para crear imágenes con inteligencia artificial - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMnE4Y3RtNng0ZzFCMmdLR0VaRjlkQi1PSGhJNXN3bFYybHo0d3FEZWZ4TW1vWXJZVHFuMmVXd1JJcXc0a0pzdlhpN3FCSHRRX1FhZjBrZEJvSG9ndDU3SXl1cnRTc3FIWE00dDNGb2t3NFV6WmVlclNqektCUzI0MjJHWmV3VW5Nb1V1WTlHbUxZMlVpck1GOVpnbzRfRlF5bUg4OUppU0tfZzZPaW9tbjYtTkp2N3FwcmNsdVhQUjdkdUlmOUI3dkdvQ1VzRkRKUWdKckNR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 22 Apr 2026 18:07:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMnE4Y3RtNng0ZzFCMmdLR0VaRjlkQi1PSGhJNXN3bFYybHo0d3FEZWZ4TW1vWXJZVHFuMmVXd1JJcXc0a0pzdlhpN3FCSHRRX1FhZjBrZEJvSG9ndDU3SXl1cnRTc3FIWE00dDNGb2t3NFV6WmVlclNqektCUzI0MjJHWmV3VW5Nb1V1WTlHbUxZMlVpck1GOVpnbzRfRlF5bUg4OUppU0tfZzZPaW9tbjYtTkp2N3Fwcm"
+      "title": "OpenAI presenta Images 2.0, un nuevo modelo de generación de imágenes",
+      "url": "https://expansion.mx/tecnologia/2026/04/21/openai-images-2-0-nuevo-modelo-generacion-imagenes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Apr 2026 19:00:37 GMT",
+      "summary": "La nueva versión del generador de imágenes integra texto con mayor fidelidad y suma capacidades de razonamiento para crear materiales visuales “listos para uso profesional”."
     },
     {
-      "title": "Competencias laborales en la era de Inteligencia Artificial - El Heraldo de México",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR2dyNHVRRktjdGFHM2lSbjhnUTVBdW45cEVTeXJ6XzJ3ejVWREZLYW9ESmVoajFfYXkxZVI4ZEJUMGhTTURHRVVwM3o2bG9YRGU2WFdNM3RUUHFwXy0tVHhiZFI4OWlDLVNnOC1HcjZxNWlDZGJoX0p5aWVXQnEyWHpqYkp0QlpEbjk2N1p5ZWdXSFUyaGZZZE11aDFCYXlpVmRWWHBaT3hmbjE4UmJ4NDMwTms4MjdOWElTNdIBwgFBVV95cUxOMFl1WUV4UDFra2VZSDE2cUtSNDA1STJ0N0J1QS0yTF93T3lZS2FtYlVILXU2OG1BQ0Z6cUVKZmdoa0c4ZmtCamdrR0xPQTV1enEzMXJMQXUwa05OcHVDbGFhSnF6ZUNUVEMzVlNsZWZqX1JYcXJxdVJkVkRsdWJreGFpWjduck5TWUlaVS1LcFo0UkM1TlFsMXFWUFdVNk9LV3VYMlNReHFueTJVY2R4RkFfOVdKaHAtbUJtY3kyVFBOZw?oc=5",
+      "title": "Monday.com lanza Agent Talent AI el marketplace de agentes que cambiará el trabajo - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW4zWkwyeXBTX2hOUFVEdlE1NjJ3RWVoeVRFZXNzRUVnMVdCOHZ3aUNIak1uc01FMG81XzV4ZTVsd0JaRUFDT01sOU1Qc3VxSWlmWUp3MEkwWVVaZWY4UGstbmJpWGJpZVNaZlYtN1lpRHk1TmlibzQxUllDNWVSUjh5VGJrZ1g5TFdMZkpZaTNaMm80NU14Zmw5QUV0M2xrZkkzelp2WU03QngyY3hiRld6clpLRU1wYmI4R3NDV0JXcW41M2VxZTZ0Q0xDTHc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Apr 2026 06:20:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPR2dyNHVRRktjdGFHM2lSbjhnUTVBdW45cEVTeXJ6XzJ3ejVWREZLYW9ESmVoajFfYXkxZVI4ZEJUMGhTTURHRVVwM3o2bG9YRGU2WFdNM3RUUHFwXy0tVHhiZFI4OWlDLVNnOC1HcjZxNWlDZGJoX0p5aWVXQnEyWHpqYkp0QlpEbjk2N1p5ZWdXSFUyaGZZZE11aDFCYXlpVmRWWHBaT3hmbjE4UmJ4NDMwTms4MjdOWE"
+      "published": "Wed, 22 Apr 2026 16:59:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW4zWkwyeXBTX2hOUFVEdlE1NjJ3RWVoeVRFZXNzRUVnMVdCOHZ3aUNIak1uc01FMG81XzV4ZTVsd0JaRUFDT01sOU1Qc3VxSWlmWUp3MEkwWVVaZWY4UGstbmJpWGJpZVNaZlYtN1lpRHk1TmlibzQxUllDNWVSUjh5VGJrZ1g5TFdMZkpZaTNaMm80NU14Zmw5QUV0M2xrZkkzelp2WU03QngyY3hiRld6clpLRU1wYm"
     },
     {
       "title": "Queda sin fecha presentación de ley de inteligencia artificial en el Senado - El Economista",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Wed, 22 Apr 2026 01:04:34 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUd5MjU2bE9iZUtZdTBkU0MyN1ZvRlRnRlZCVUFvQXd2MVlQWFp4ZEFGbHdCWGM2UWphbGVFNnpjY09sSDA3ekxYbjVWYU5Fb0d1ZjY3bHVkQmdWMVM5Q2ZVbThON2JfcWNvaFFUVncyTXNpNEY0SWFqOVMxUDZ5MlhmTmpqR3dJVDMtSEIxZEo1SW9BTjhMcGtmSnJrOTNpTHpjSzFUYlNQRmoxUUtWRDR4OXVEMUk1ZW"
+    },
+    {
+      "title": "TEC Business Summit 2026 inteligencia artificial y transformación empresarial en México - Al Diálogo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEpEcjRQa1dOakpUNXFtY19HUTQybHpuSlFkWVlLN3JTVXI1MU9zcHBIbXNFNUxpdXJ4bXA3VHVkRy0zajdFYldwdkVPWGlabUJicWtVbDlzaTZQM2hhenlYSTl0WXdFY0pDZkFEblZRZllpdERPWFRfMzJGUGZ2OHJpN2hBc3ViQi13MDJEN25FZzhCTUw3a0ZKN2ZwbG5BZ1dFUFdDZU1FX245UGFkUXY3UVUyaHdQVW9aM29vVTRQSkg3cm9xdg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Apr 2026 19:16:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEpEcjRQa1dOakpUNXFtY19HUTQybHpuSlFkWVlLN3JTVXI1MU9zcHBIbXNFNUxpdXJ4bXA3VHVkRy0zajdFYldwdkVPWGlabUJicWtVbDlzaTZQM2hhenlYSTl0WXdFY0pDZkFEblZRZllpdERPWFRfMzJGUGZ2OHJpN2hBc3ViQi13MDJEN25FZzhCTUw3a0ZKN2ZwbG5BZ1dFUFdDZU1FX245UGFkUXY3UVUyaHdQVW"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
