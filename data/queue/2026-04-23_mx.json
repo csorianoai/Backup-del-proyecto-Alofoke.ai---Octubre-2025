@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Iniciativa del Senado en IA quiere frenar los deepfakes, pero roza la censura",
+      "url": "https://expansion.mx/tecnologia/2026/04/23/contra-deepfakes-riesgo-censura-iniciativa-senado-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Apr 2026 21:00:19 GMT",
+      "summary": "La iniciativa contempla un capítulo sobre violencia digital, fraude digital y desinformación automatizada, sin embargo, hay huecos en los mecanismos técnicos."
+    },
+    {
+      "title": "Meta despedirá a 8,000 empleados, el 10% de su plantilla",
+      "url": "https://expansion.mx/tecnologia/2026/04/23/meta-despedira-a-8-000-empleados-el-10-de-su-plantilla",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Apr 2026 19:15:57 GMT",
+      "summary": "El ajuste, que comenzaría en mayo e incluye la cancelación de miles de vacantes, refleja cómo la inversión en IA está redefiniendo las prioridades y el empleo en las grandes tecnológicas."
+    },
+    {
+      "title": "Uber tendrá zonas de ascenso, carros XXL y pedidos en grupo para el Mundial",
+      "url": "https://expansion.mx/tecnologia/2026/04/23/uber-membresias-costco-taxis-colectivos-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Apr 2026 19:00:42 GMT",
+      "summary": "La empresa ajusta su app con nuevas funciones de movilidad y consumo para capitalizar el aumento de usuarios durante la Copa del Mundo."
+    },
+    {
+      "title": "Meta permitirá a padres ver los temas que sus hijos hablan con la IA",
+      "url": "https://expansion.mx/tecnologia/2026/04/23/meta-permitira-a-padres-ver-que-hablan-hijos-con-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Apr 2026 17:00:43 GMT",
+      "summary": "Esta medida tiene la finalidad de supervisar el uso que hacen de la herramienta, además de dar herramientas para conversar con mayor profundidad sobre sus experiencias con esta tecnología."
+    },
+    {
       "title": "Warner.Bros Discovery dice que sus inversionistas aprueban el acuerdo con Paramount",
       "url": "https://expansion.mx/tecnologia/2026/04/23/accionistas-warner-bros-aprueban-venta-paramount",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Thu, 23 Apr 2026 15:20:09 GMT",
       "summary": "La firma de entretenimiento señaló que ya se votó a favor de la fusión, a pesar de la posición de la industria en Hollywood."
-    },
-    {
-      "title": "Apps de movilidad superan al taxi y redefinen el trabajo en las calles",
-      "url": "https://expansion.mx/tecnologia/2026/04/23/taxi-o-en-app-promesa-digital-realidad-calles",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Apr 2026 11:55:20 GMT",
-      "summary": "Las plataformas ya concentran 17% de preferencia frente al 10% del taxi, mientras cambian ingresos, horarios y reglas laborales."
-    },
-    {
-      "title": "La ola china de smartphones se rompió con OnePlus, ZTE y realme",
-      "url": "https://expansion.mx/tecnologia/2026/04/22/marcas-de-celulares-chinos-mexico-cubrir-hueco-huawei-lg",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 18:00:44 GMT",
-      "summary": "Decenas de marcas de origen asiático invadieron las tiendas de teléfonos inteligentes durante los últimos años, pero vivieron una reconfiguración en pocos años."
-    },
-    {
-      "title": "Google busca más independencia y lanza nuevos chips de IA",
-      "url": "https://expansion.mx/tecnologia/2026/04/22/google-lanza-nuevos-chips-de-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 15:00:14 GMT",
-      "summary": "La empresa lanzó la octava generación de sus TPU tanto para el entrenamiento como inferencia modelos, un movimiento que endurece la carrera por el hardware de IA."
-    },
-    {
-      "title": "Google se mueve frente a Mythos con IA que redefine la ciberseguridad",
-      "url": "https://expansion.mx/tecnologia/2026/04/22/google-se-mueve-frente-a-mythos-con-ia-que-redefine-la-ciberseguridad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 11:55:43 GMT",
-      "summary": "La tecnológica introduce agentes que detectan vulnerabilidades y anticipan ataques, en un mercado donde la IA cambia la defensa digital."
     },
     {
       "title": "Javier Santisteban: ERP con inteligencia artificial la apuesta de Odoo para empresas mexicanas - ITSitio",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUd5MjU2bE9iZUtZdTBkU0MyN1ZvRlRnRlZCVUFvQXd2MVlQWFp4ZEFGbHdCWGM2UWphbGVFNnpjY09sSDA3ekxYbjVWYU5Fb0d1ZjY3bHVkQmdWMVM5Q2ZVbThON2JfcWNvaFFUVncyTXNpNEY0SWFqOVMxUDZ5MlhmTmpqR3dJVDMtSEIxZEo1SW9BTjhMcGtmSnJrOTNpTHpjSzFUYlNQRmoxUUtWRDR4OXVEMUk1ZW"
     },
     {
-      "title": "México llama a la articulación de América Latina en la cadena de valor de chips - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEg1dHZtdFlXWmtJTDBsTWx2WjZuWERfLVV2SUR4WFJQNW5nNTA1Zi1MdUsxNWl3blVXQzJBN2lEUG43QlBOSzY2d192a3RQNHc0dDdGQi1GS3VHSE0ybnhJVGpkMjR3SVA3MnZPZGhMc0cyNmVzcXVRd3JmODRtQTR5VWlWT2hTN1dkbl83ZUc1OERGLTkwVE9CQXJ6MHlQN0E?oc=5",
+      "title": "La inteligencia artificial podría resolver la crisis de salud mental en México - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmE4VkluUE56eldQenk2ZTNsUlB4WnRNc0hUa0taQTBVQWlxMUJxSzRGUGQ3al93clpsRTFIZm1mc3FXbTlEbUVwZGc4VXA2aVZEblRRUk1UakNFaFpSN21GTkpHN1lQU04yMmI5Vk1mQlFZZHlPaUFRMzZaNktMTGpRTTBWWUdxNG14Z3YzNUVENEJHellsVnU2NEExM0FqR2toVG00bWJkSWVaT0VucEZrYXBsOGNwSTRXbUhfTEo5ZzdFQTc3NURmaWhVOHJTWTV5MVJ0OVR2dGstbWx30gHkAUFVX3lxTE41N0ZQRVVfOENqbXRJNXNXVHNrZTJOTmlhZzEzM0NQNi1maS13ZHlvd1JrWnV3aTlVN05ld25YNDhCZHZEZUNvMENGazZjbDIwRjdJR19WamhXMldYTWdZS2FtcDdEQkt3ZGI5M2xldlJMM0MwSjhtVjdvUUliY1Rsd0QzUktiRnlESVNsTFVGYjJEdk5LenVsT3kzdll0Q0ppQ0VPbHFaUlA0MmFTalZ5UkFTdmRhTWZwS2R0OC1XZkVkU1lJcnpHQWhLdm5nT0E0ZzJuenJ6Um82bVdCS3ZCZzNiag?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Apr 2026 11:57:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEg1dHZtdFlXWmtJTDBsTWx2WjZuWERfLVV2SUR4WFJQNW5nNTA1Zi1MdUsxNWl3blVXQzJBN2lEUG43QlBOSzY2d192a3RQNHc0dDdGQi1GS3VHSE0ybnhJVGpkMjR3SVA3MnZPZGhMc0cyNmVzcXVRd3JmODRtQTR5VWlWT2hTN1dkbl83ZUc1OERGLTkwVE9CQXJ6MHlQN0E?oc=5\" target=\"_blank\">México l"
+      "published": "Thu, 23 Apr 2026 19:27:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmE4VkluUE56eldQenk2ZTNsUlB4WnRNc0hUa0taQTBVQWlxMUJxSzRGUGQ3al93clpsRTFIZm1mc3FXbTlEbUVwZGc4VXA2aVZEblRRUk1UakNFaFpSN21GTkpHN1lQU04yMmI5Vk1mQlFZZHlPaUFRMzZaNktMTGpRTTBWWUdxNG14Z3YzNUVENEJHellsVnU2NEExM0FqR2toVG00bWJkSWVaT0VucEZrYXBsOGNwST"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Somos Internet levanta Serie B para expandirse a México - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFvRzVZb3hIcEhROUZtSGw5WWVOam93QkxKdVJpTzhzT1FmbmR0aXphOVlXQS0wbjZwYjlJaTViSXU4bTRlZGswRll4MEhkc2JkbXVDUm9UY1ExUHE1RkhMLXIySlJFRnZhVG1TVDVUMVNTbVFYWk52NUpleXQ1NGZDSElTbTQ5N1hNZjNBWQ?oc=5",
+      "title": "IA: el cierre de la frontera y sus efectos en startups - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjNOYTE5REtCT1FnYjV3NFRhVENMZDlFZmhuSXUybWhMaC1UbEtkRWRMWm40aHRFUXA4QlNndldvUEJESHlHUEUwb3BKN1RZYVVSOTNlUlM3bGtucEZFUUVvc2RYVEl3eHQ0M1RtMTV5SGNUWnpLTDA2UnpnUW5NbV9nTTY0aDltczR0QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFvRzVZb3hIcEhROUZtSGw5WWVOam93QkxKdVJpTzhzT1FmbmR0aXphOVlXQS0wbjZwYjlJaTViSXU4bTRlZGswRll4MEhkc2JkbXVDUm9UY1ExUHE1RkhMLXIySlJFRnZhVG1TVDVUMVNTbVFYWk52NUpleXQ1NGZDSElTbTQ5N1hNZjNBWQ?oc=5\" target=\"_blank\">Somos Internet levanta Serie B pa"
+      "published": "Sun, 12 Apr 2026 19:05:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjNOYTE5REtCT1FnYjV3NFRhVENMZDlFZmhuSXUybWhMaC1UbEtkRWRMWm40aHRFUXA4QlNndldvUEJESHlHUEUwb3BKN1RZYVVSOTNlUlM3bGtucEZFUUVvc2RYVEl3eHQ0M1RtMTV5SGNUWnpLTDA2UnpnUW5NbV9nTTY0aDltczR0QQ?oc=5\" target=\"_blank\">IA: el cierre de la frontera y sus ef"
     },
     {
-      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "title": "DILA Capital desafía el ‘hype’ de la IA: prepara fondo de 120 MDD para atacar problemas reales en Latam - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVU04eGp0YlE4VnJzaDlJbllOblJGcV9yWWJZaVRwTWxrQ3VGTHhrZTJWZXRSdnp3VGNvUV9nb0c4RXRnU2xHX2pYem9GRWl0Mm4zT21XN2piaW4td1UwZnVqRE54VVBXbjFMQ2s2cHVTeGVsRG02NVFld0RKU1VEczdmYlRwYzlUdnoxdGtuSlVSUThtVFNmTDQxTFU3bVA5UVRYaFROcWZQSUFkNWNWczNpeTN1YXhwUHY5Zkh6eHVwOW11V2FibjJ0XzVyX3BiNnZQamRXN0E4eGhva2gwdlk1blowUdIBgAJBVV95cUxOMmxlc2R2b00xOFd4cHBlVUVsN1RqVjF0NXBSOGNkdnF4VERtUTg4N2stLTV1Q0paR2l2Ui1MdzVHV05kOHgyQ1NPUG1WVG5aTXRaRUR4ek9QOHAxQkc3Y2hwTDMzT3FlWktIaHdPTmp4MllBVjVYdGxZU1MzRkVmb2Y2bWlka195LS1xRGY0WXE4RjNvanMxQXVRUkF1ZE9IcDR4TkhLZjh6eUZzY1l4d29CNFdzNjR4ejV6TjNQendXYjRQRXFjczZmdmE3TVRTa1RJbVFZbnFWZVB5dXIxVkVJTVBYOERSRW1EbzFSeWtQQjFLYmptZTFOSW5nN3Fs?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+      "published": "Tue, 14 Apr 2026 10:00:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVU04eGp0YlE4VnJzaDlJbllOblJGcV9yWWJZaVRwTWxrQ3VGTHhrZTJWZXRSdnp3VGNvUV9nb0c4RXRnU2xHX2pYem9GRWl0Mm4zT21XN2piaW4td1UwZnVqRE54VVBXbjFMQ2s2cHVTeGVsRG02NVFld0RKU1VEczdmYlRwYzlUdnoxdGtuSlVSUThtVFNmTDQxTFU3bVA5UVRYaFROcWZQSUFkNWNWczNpeTN1YXhwUH"
     },
     {
       "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
     },
     {
+      "title": "Aeropuerto de Monterrey incluirá IA y robótica para el Mundial - REPORTUR.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5\" target="
+    },
+    {
       "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
-    },
-    {
-      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     }
   ],
   "count": 14
