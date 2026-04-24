@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU afirma que ha observado avances por parte de Irán en los últimos días de cara a las negociaciones",
-      "url": "https://elpais.com/internacional/2026-04-24/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "title": "Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin es buscar “una polarización”",
+      "url": "https://elpais.com/espana/2026-04-24/los-obispos-acusan-de-injurias-a-abascal-por-acusar-a-la-iglesia-de-hacer-negocio-con-la-inmigracion-ilegal.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Fri, 24 Apr 2026 17:19:09 GMT",
-      "summary": "EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos | Washington advierte a Europa: “Lleváis décadas beneficiándoos de nuestra protección y el tiempo se ha acabado” | Israel vuelve a bombardear Líbano y Hezbolá advierte de que la prórroga de la tregua “carece de sentido”"
+      "published": "Fri, 24 Apr 2026 12:39:50 GMT",
+      "summary": "La Conferencia Episcopal acusa de injurias a Abascal por acusar a la Iglesia de hacer “negocio con la inmigración ilegal”"
+    },
+    {
+      "title": "Page denuncia que hubo un intento de “pucherazo” en el Comité Federal de octubre de 2016",
+      "url": "https://elpais.com/espana/2026-04-24/page-denuncia-que-hubo-un-intento-de-pucherazo-en-el-comite-federal-de-octubre-de-2016.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Apr 2026 16:03:19 GMT",
+      "summary": "“La situación fue tan esperpéntica que se tuvo que parar la votación”, asegura el presidente de Castilla-La Mancha"
+    },
+    {
+      "title": "Trump reintroduce el pelotón de fusilamiento en las ejecuciones federales",
+      "url": "https://elpais.com/internacional/2026-04-24/trump-reintroduce-el-peloton-de-fusilamiento-en-las-ejecuciones-federales.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Apr 2026 18:44:51 GMT",
+      "summary": "El Departamento de Justicia quiere ampliar la aplicación de la pena capital y también vuelve a aceptar el protocolo de inyecciones letales"
+    },
+    {
+      "title": "Trump envía a Pakistán a sus dos principales negociadores para retomar el diálogo con Teherán",
+      "url": "https://elpais.com/internacional/2026-04-24/trump-envia-a-pakistan-a-sus-dos-principales-negociadores-para-retomar-el-dialogo-con-teheran.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Apr 2026 18:50:51 GMT",
+      "summary": "Jared Kushner y Steve Witkoff tienen previsto reunirse con el ministro de Exteriores iraní en la segunda ronda de diálogo para poner fin a la guerra. Irán no ha confirmado el encuentro para retomar los contactos"
     },
     {
       "title": "El Pentágono plantea en un correo electrónico suspender a España de la OTAN por desacuerdos sobre Irán",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Fri, 24 Apr 2026 15:51:03 GMT",
       "summary": "Sánchez afirma que España es un “socio leal” y que solo trabaja con “documentos oficiales” de Estados Unidos. Hegseth advierte a Europa: “Lleváis décadas beneficiándoos de nuestra protección y el tiempo se ha acabado”"
-    },
-    {
-      "title": "El PP tiene a su alcance la mayoría absoluta en Andalucía, según el CIS",
-      "url": "https://elpais.com/espana/2026-04-24/el-pp-tiene-a-su-alcance-la-mayoria-absoluta-en-andalucia-segun-el-cis.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Apr 2026 10:46:21 GMT",
-      "summary": "El estudio preelectoral estima que la opción más plausible es que Juan Manuel Moreno obtenga 55 escaños, el PSOE 31 y Vox, 13"
-    },
-    {
-      "title": "Valdebebas, el barrio que nació hace dos décadas como emblema del nuevo urbanismo y hoy es lo opuesto al modelo de Almeida",
-      "url": "https://elpais.com/espana/madrid/2026-04-24/valdebebas-el-barrio-que-nacio-hace-dos-decadas-como-emblema-del-nuevo-urbanismo-y-hoy-es-lo-opuesto-al-modelo-de-almeida.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Apr 2026 03:30:01 GMT",
-      "summary": "La zona ha crecido como símbolo de la expansión a lo ancho de Madrid, una idea de la que huye el nuevo plan de urbanismo del consistorio para 2027"
-    },
-    {
-      "title": "Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin es buscar “una polarización”",
-      "url": "https://elpais.com/espana/2026-04-24/los-obispos-acusan-de-injurias-a-abascal-por-acusar-a-la-iglesia-de-hacer-negocio-con-la-inmigracion-ilegal.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 24 Apr 2026 12:39:50 GMT",
-      "summary": "La Conferencia Episcopal acusa de injurias a Abascal por acusar a la Iglesia de hacer “negocio con la inmigración ilegal”"
     },
     {
       "title": "España busca un espacio en la gobernanza de la IA ante el dominio de las grandes tecnológicas - La Ecuación Digital",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1pvU05CSVdoN05pUTg4U0lJUUZ0Qm1yb1R4aUtSMmgxdnpzazNvclBwb3BFX1FZeEl6YXJNcFpuNW9BUXNiTlRSTFlMM3U2Ri1hMTZUZzJzNjE0cjN5WVowWlFyUGhkaWJvUXdNUVo4dEtPSlpwM0hGRWUyR0dPS0ZZUkJpSURfdC1hTkVKeWllLUk?oc=5\" target=\"_blank\">China frena inversión de EEU"
     },
     {
-      "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
-    },
-    {
       "title": "BStartup, la primera unidad bancaria de España dedicada a startups que gesta los gigantes tecnológicos del mañana - El Español",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMVN4V0VzVFlRU2JqbUdRYmJoZ1FsQWt2OXlYNUdCMDNKTzJBejlsQkhHS1hTRjhDcjhNRFlvMGtxQ29nWkltZUhONTBrNGt4bzFNUnlieVRYMUxWVm1fZGdWSVJxNDBCazR1N2VxeHR0TVdSYWfSAasCQVVfeXFMTnRxWVVRdnIwaGRyTGl6b3VvdzdzSi00M3A0Wm9ZRmQ4RHlTQ0NidXFSS05lR3BtSDBDYVJ2N1d3UGgtNXJPWmI1WDc0ZG1sWUt1VklCdTJOMzMxTVo0dGplREkzNWRIZ0p6c2oxZFRsVjMwLWhaYXloSHpiMTVfeTAzNktMRFVkOUZ0N0pZN3FjYXV1ZjBFRUFKZks5eGl6QjdiejBlV0tUM3VMajI5UG5yV0hHSDJoVmpaX21ZYlotaHktaFlEX3FSUEl0UlA5eW5FYTUxaXVMcnJUeW9wRDlhdjBuZUlWME4zYklONHpXNFRmLU9JQ3FTTnl5MVFTZEJoQXI3bHZsUU1rbXR3OXVjV2lKdThwaWJ6U0U2ZWxacFBnVlB6RG5YeUU?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 20 Apr 2026 23:50:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMV"
+    },
+    {
+      "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     }
   ],
   "count": 14

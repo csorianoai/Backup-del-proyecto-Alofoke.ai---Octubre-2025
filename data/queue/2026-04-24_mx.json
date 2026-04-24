@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "HBO Max intensifica el combate de las cuentas compartidas",
+      "url": "https://expansion.mx/tecnologia/2026/04/24/hbo-max-cuentas-compartidas-mexico-precio-miembro-adicional",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Apr 2026 18:24:50 GMT",
+      "summary": "HBO Max tiene la función de “Miembro adicional” para usuarios que comparten una misma cuenta, pero no viven en la misma dirección, como una forma de combatir las cuentas compartidas."
+    },
+    {
+      "title": "Google invertirá 40,000 mdd en Anthropic",
+      "url": "https://expansion.mx/tecnologia/2026/04/24/google-invertira-40-000-mdd-en-anthropic",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Apr 2026 16:36:50 GMT",
+      "summary": "La empresa tendrá una inyección de capital en la empresa de Dario Amodei, misma que ha logrado atraer a inversionistas como Amazon."
+    },
+    {
       "title": "Iniciativa del Senado en IA quiere frenar los deepfakes, pero roza la censura",
       "url": "https://expansion.mx/tecnologia/2026/04/23/contra-deepfakes-riesgo-censura-iniciativa-senado-ia",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "La empresa ajusta su app con nuevas funciones de movilidad y consumo para capitalizar el aumento de usuarios durante la Copa del Mundo."
     },
     {
-      "title": "Meta permitirá a padres ver los temas que sus hijos hablan con la IA",
-      "url": "https://expansion.mx/tecnologia/2026/04/23/meta-permitira-a-padres-ver-que-hablan-hijos-con-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Apr 2026 17:00:43 GMT",
-      "summary": "Esta medida tiene la finalidad de supervisar el uso que hacen de la herramienta, además de dar herramientas para conversar con mayor profundidad sobre sus experiencias con esta tecnología."
-    },
-    {
-      "title": "Warner.Bros Discovery dice que sus inversionistas aprueban el acuerdo con Paramount",
-      "url": "https://expansion.mx/tecnologia/2026/04/23/accionistas-warner-bros-aprueban-venta-paramount",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Apr 2026 15:20:09 GMT",
-      "summary": "La firma de entretenimiento señaló que ya se votó a favor de la fusión, a pesar de la posición de la industria en Hollywood."
+      "title": "Así Usan la Inteligencia Artificial los Mexicanos: Expansión, Brechas y Desafíos - N+",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUVRd1YwRVNpRDFwY3E4Yzh6WHdhUzk5cV9PUjNLNTQtNVlQbzRJMUJCd2xiNXJxYVJLeHB5OE9ldVMxWFZ4OUNEaEozV2VDLU1ENEJCMlZvendWdzJpdDg0UzUyQnh2T2RpY0lSdWJJdWlOSVg2S3FONWhkeVhQZUI3SWJ3NG44LTVUSkpn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 24 Apr 2026 19:40:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQUVRd1YwRVNpRDFwY3E4Yzh6WHdhUzk5cV9PUjNLNTQtNVlQbzRJMUJCd2xiNXJxYVJLeHB5OE9ldVMxWFZ4OUNEaEozV2VDLU1ENEJCMlZvendWdzJpdDg0UzUyQnh2T2RpY0lSdWJJdWlOSVg2S3FONWhkeVhQZUI3SWJ3NG44LTVUSkpn?oc=5\" target=\"_blank\">Así Usan la Inteligencia Artificial"
     },
     {
       "title": "Regulación de IA debe ser flexible y pro inversiones en México: Zapata Bello - DPL News",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPM1RSX0E2RzBDUTA4NWtPUHBEUExCeXZuY2JnYklNREtHekY3akNNX3ZLcFVsa09QclE1U21QMThjU2pLNUxxWUNDT1J3cjlIQ0laNkZGM0RkbFBvTm9rRTJ6WW9ZNEQ1N1QtVkZjRFRaRDZ3UWVnd3JuZlFxOHQzOS1MU2tpX1I4YXd3N2ZvSWc5Zndwb3RDS2RyQ0hkaVBYSk9yZ1EzdGd6akpqZE95NEc5Z1o2bE0zdW"
     },
     {
-      "title": "Iniciativa de ley de IA en México: ¿Innovación o control político? - Milenio",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGRlTWxzeFExSWxBcF9pTDJxYWFFX2FtOFMtMEZiUEZwdExMTUtXQjdhWktNOUl5UGpFeXkydU5HbGdYb00xTlZpbXhqQlA1TXdhd0IxMVBFLXFJb0NPN2xwdDFocmcwdzZZbTlOQmlwRzhYeWI2eHdOa2ZObEQ1a2hmMG5pSE9WTEZub0VJVkg4cGJYcWlwVU9uZndJVmV2N0dXMnhRSlFyTTRaTEtaYkUwb29KclVUZHA0NXVBbF8wQ0XSAcMBQVVfeXFMTWVsSExtdXVPTTBKdTBhbnE1Q3BfdXNNT2VONktNaXowOE8xRG5QdUdXY3RQcXk0QWpRTG1TT25sQzM3RW5EQlN2YUZNalQ0cDAzVDd2QklzYmw0a3hQekpmWDlWZzlZaXRpb29feEJLaVFpV2wtWWpzZ0F5cGZzTzFiV053X3J0enhhSlh1ZmY1eE5Obm9xODVPaFRNUlJuRzNCTWxxUWFGTkNxY0c1djVyNTkzM0VKSFB3cmljeVktODFV?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Apr 2026 11:14:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGRlTWxzeFExSWxBcF9pTDJxYWFFX2FtOFMtMEZiUEZwdExMTUtXQjdhWktNOUl5UGpFeXkydU5HbGdYb00xTlZpbXhqQlA1TXdhd0IxMVBFLXFJb0NPN2xwdDFocmcwdzZZbTlOQmlwRzhYeWI2eHdOa2ZObEQ1a2hmMG5pSE9WTEZub0VJVkg4cGJYcWlwVU9uZndJVmV2N0dXMnhRSlFyTTRaTEtaYkUwb29KclVUZH"
-    },
-    {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Somos Internet levanta Serie B para expandirse a México - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFvRzVZb3hIcEhROUZtSGw5WWVOam93QkxKdVJpTzhzT1FmbmR0aXphOVlXQS0wbjZwYjlJaTViSXU4bTRlZGswRll4MEhkc2JkbXVDUm9UY1ExUHE1RkhMLXIySlJFRnZhVG1TVDVUMVNTbVFYWk52NUpleXQ1NGZDSElTbTQ5N1hNZjNBWQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFvRzVZb3hIcEhROUZtSGw5WWVOam93QkxKdVJpTzhzT1FmbmR0aXphOVlXQS0wbjZwYjlJaTViSXU4bTRlZGswRll4MEhkc2JkbXVDUm9UY1ExUHE1RkhMLXIySlJFRnZhVG1TVDVUMVNTbVFYWk52NUpleXQ1NGZDSElTbTQ5N1hNZjNBWQ?oc=5\" target=\"_blank\">Somos Internet levanta Serie B pa"
-    },
-    {
       "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 24 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+    },
+    {
+      "title": "Somos Internet levanta Serie B para expandirse a México - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFvRzVZb3hIcEhROUZtSGw5WWVOam93QkxKdVJpTzhzT1FmbmR0aXphOVlXQS0wbjZwYjlJaTViSXU4bTRlZGswRll4MEhkc2JkbXVDUm9UY1ExUHE1RkhMLXIySlJFRnZhVG1TVDVUMVNTbVFYWk52NUpleXQ1NGZDSElTbTQ5N1hNZjNBWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXFvRzVZb3hIcEhROUZtSGw5WWVOam93QkxKdVJpTzhzT1FmbmR0aXphOVlXQS0wbjZwYjlJaTViSXU4bTRlZGswRll4MEhkc2JkbXVDUm9UY1ExUHE1RkhMLXIySlJFRnZhVG1TVDVUMVNTbVFYWk52NUpleXQ1NGZDSElTbTQ5N1hNZjNBWQ?oc=5\" target=\"_blank\">Somos Internet levanta Serie B pa"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
