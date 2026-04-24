@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Iniciativa del Senado en IA quiere frenar los deepfakes, pero roza la censura",
+      "url": "https://expansion.mx/tecnologia/2026/04/23/contra-deepfakes-riesgo-censura-iniciativa-senado-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Apr 2026 21:00:19 GMT",
+      "summary": "La iniciativa contempla un capítulo sobre violencia digital, fraude digital y desinformación automatizada, sin embargo, hay huecos en los mecanismos técnicos."
+    },
+    {
+      "title": "Meta despedirá a 8,000 empleados, el 10% de su plantilla",
+      "url": "https://expansion.mx/tecnologia/2026/04/23/meta-despedira-a-8-000-empleados-el-10-de-su-plantilla",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Apr 2026 19:15:57 GMT",
+      "summary": "El ajuste, que comenzaría en mayo e incluye la cancelación de miles de vacantes, refleja cómo la inversión en IA está redefiniendo las prioridades y el empleo en las grandes tecnológicas."
+    },
+    {
       "title": "Uber tendrá zonas de ascenso, carros XXL y pedidos en grupo para el Mundial",
       "url": "https://expansion.mx/tecnologia/2026/04/23/uber-membresias-costco-taxis-colectivos-mexico",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "La firma de entretenimiento señaló que ya se votó a favor de la fusión, a pesar de la posición de la industria en Hollywood."
     },
     {
-      "title": "Apps de movilidad superan al taxi y redefinen el trabajo en las calles",
-      "url": "https://expansion.mx/tecnologia/2026/04/23/taxi-o-en-app-promesa-digital-realidad-calles",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Apr 2026 11:55:20 GMT",
-      "summary": "Las plataformas ya concentran 17% de preferencia frente al 10% del taxi, mientras cambian ingresos, horarios y reglas laborales."
-    },
-    {
-      "title": "La ola china de smartphones se rompió con OnePlus, ZTE y realme",
-      "url": "https://expansion.mx/tecnologia/2026/04/22/marcas-de-celulares-chinos-mexico-cubrir-hueco-huawei-lg",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 18:00:44 GMT",
-      "summary": "Decenas de marcas de origen asiático invadieron las tiendas de teléfonos inteligentes durante los últimos años, pero vivieron una reconfiguración en pocos años."
-    },
-    {
       "title": "Regulación de IA debe ser flexible y pro inversiones en México: Zapata Bello - DPL News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMUpVMjVKcVpqNHVhLXZtSldTX0E2MGJ3MkNEcHkwdHBMSngyMjlpbFFaUW9xb0pBNzE5V0RmZWZGM0RYa0dUR3hTWVBOdktRT0k5RUMwczUzZ1dTNnlvcDNpeEdBYmd0Y1dLenJFVUJwQzBqNDloQUtRaU9qSUFyT2wxNFZUX21tRnlsUA?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPM1RSX0E2RzBDUTA4NWtPUHBEUExCeXZuY2JnYklNREtHekY3akNNX3ZLcFVsa09QclE1U21QMThjU2pLNUxxWUNDT1J3cjlIQ0laNkZGM0RkbFBvTm9rRTJ6WW9ZNEQ1N1QtVkZjRFRaRDZ3UWVnd3JuZlFxOHQzOS1MU2tpX1I4YXd3N2ZvSWc5Zndwb3RDS2RyQ0hkaVBYSk9yZ1EzdGd6akpqZE95NEc5Z1o2bE0zdW"
     },
     {
-      "title": "KogniVera inaugura laboratorio de Inteligencia Artificial en India y fortalece su operación en México - La Crónica de Hoy",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajNmOTl3SGVJVGFUVml2UGtCSHZXWWpGdXdiX1BTVlFuSmFwd0ZPYjZNX0xnczJ4NTZra1NmSC1WZEhOSFBFZ2s2bGZfLUFvdDh4WHBmNDVFMHFvTnMwTmRkbkJ3dUdkNmpLQ21uVkhxX2VfMFBJMk12X2RGVEFQN1M5MU8xTDFuX2NOVm0td2M3TGJsdjMxRTdBZjlLeVRxNmNhX05Oa1NrUWFleUFlb1VWT0h6emROWnZXYmIyRVo2MllfZnFOZ05KY1BzQmZMRWxGbFU0c0N2TzBrSUFZcll3UQ?oc=5",
+      "title": "Iniciativa de ley de IA en México: ¿Innovación o control político? - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGRlTWxzeFExSWxBcF9pTDJxYWFFX2FtOFMtMEZiUEZwdExMTUtXQjdhWktNOUl5UGpFeXkydU5HbGdYb00xTlZpbXhqQlA1TXdhd0IxMVBFLXFJb0NPN2xwdDFocmcwdzZZbTlOQmlwRzhYeWI2eHdOa2ZObEQ1a2hmMG5pSE9WTEZub0VJVkg4cGJYcWlwVU9uZndJVmV2N0dXMnhRSlFyTTRaTEtaYkUwb29KclVUZHA0NXVBbF8wQ0XSAcMBQVVfeXFMTWVsSExtdXVPTTBKdTBhbnE1Q3BfdXNNT2VONktNaXowOE8xRG5QdUdXY3RQcXk0QWpRTG1TT25sQzM3RW5EQlN2YUZNalQ0cDAzVDd2QklzYmw0a3hQekpmWDlWZzlZaXRpb29feEJLaVFpV2wtWWpzZ0F5cGZzTzFiV053X3J0enhhSlh1ZmY1eE5Obm9xODVPaFRNUlJuRzNCTWxxUWFGTkNxY0c1djVyNTkzM0VKSFB3cmljeVktODFV?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Apr 2026 10:24:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajNmOTl3SGVJVGFUVml2UGtCSHZXWWpGdXdiX1BTVlFuSmFwd0ZPYjZNX0xnczJ4NTZra1NmSC1WZEhOSFBFZ2s2bGZfLUFvdDh4WHBmNDVFMHFvTnMwTmRkbkJ3dUdkNmpLQ21uVkhxX2VfMFBJMk12X2RGVEFQN1M5MU8xTDFuX2NOVm0td2M3TGJsdjMxRTdBZjlLeVRxNmNhX05Oa1NrUWFleUFlb1VWT0h6emROWn"
+      "published": "Fri, 24 Apr 2026 11:14:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGRlTWxzeFExSWxBcF9pTDJxYWFFX2FtOFMtMEZiUEZwdExMTUtXQjdhWktNOUl5UGpFeXkydU5HbGdYb00xTlZpbXhqQlA1TXdhd0IxMVBFLXFJb0NPN2xwdDFocmcwdzZZbTlOQmlwRzhYeWI2eHdOa2ZObEQ1a2hmMG5pSE9WTEZub0VJVkg4cGJYcWlwVU9uZndJVmV2N0dXMnhRSlFyTTRaTEtaYkUwb29KclVUZH"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
