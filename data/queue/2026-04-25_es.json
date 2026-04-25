@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "Trump cancela el viaje de sus enviados a Pakistán después de que el negociador iraní abandonase el país",
+      "url": "https://elpais.com/internacional/2026-04-25/trump-cancela-el-viaje-de-sus-enviados-a-pakistan-despues-de-que-el-negociador-irani-abandonase-el-pais.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 25 Apr 2026 17:22:20 GMT",
+      "summary": "El presidente aborta la misión de Jared Kushner y Steve Witkoff a Islamabad y culpa al régimen del fracaso en las conversaciones de paz"
+    },
+    {
+      "title": "Las petromonarquías mandan un SOS a Trump ante el cataclismo económico",
+      "url": "https://elpais.com/internacional/2026-04-25/los-petroestados-lanzan-un-sos-a-trump-ante-el-cataclismo-economico.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 25 Apr 2026 03:45:01 GMT",
+      "summary": "El Golfo se encamina a la recesión por el desplome de las exportaciones energéticas y del turismo, una situación solo equiparable a la pandemia"
+    },
+    {
       "title": "Mónica García anuncia que regresa a la Comunidad de Madrid: “Quiero que se vaya Ayuso”",
       "url": "https://elpais.com/espana/madrid/2026-04-25/monica-garcia-anuncia-que-regresa-a-la-comunidad-de-madrid-quiero-que-se-vaya-ayuso.html",
       "source": "El País Tecnología",
@@ -27,22 +43,6 @@
       "summary": "El líder de Vox eleva el tono de la precampaña andaluza calificando de “mierda” a Sánchez y de “rata” a Marlaska"
     },
     {
-      "title": "El megaplan de vivienda de Madrid: un crecimiento equivalente a meter Zaragoza o Sevilla dentro de la capital",
-      "url": "https://elpais.com/espana/madrid/2026-04-25/madrid-ataca-la-crisis-de-la-vivienda-con-un-plan-de-crecimiento-equivalente-a-meter-zaragoza-o-sevilla-dentro-de-la-capital.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 25 Apr 2026 03:30:01 GMT",
-      "summary": "El proyecto de Almeida para densificar la ciudad dispararía hasta 300.000 las casas de los nuevos desarrollos del sur, y de 327.000 a 800.000 el número de sus potenciales vecinos"
-    },
-    {
-      "title": "Fuerzas rebeldes desafían a la junta de Malí con un ataque coordinado en varios puntos del país",
-      "url": "https://elpais.com/internacional/2026-04-25/fuerzas-rebeldes-atacan-varios-puntos-de-mali.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 25 Apr 2026 12:52:48 GMT",
-      "summary": "El aeropuerto internacional de Bamako, la principal base militar de la capital y las ciudades de Mopti y Kidal han registrado ataques durante la madrugada"
-    },
-    {
       "title": "La inteligencia artificial impulsa la productividad: el 67% de los trabajadores percibe la IA como una aliada para mejorar en su empleo - Infobae",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZHdhQXdBRTU2Y2ZWUDNhWEwyaTJFT3VQVzE5bm95TUFXdTJNS3VFLVlKSzB5MGo4SGRGTnpLNzVlMzZvX3JYNmktQnRnUFpxSHd6aFBIVWRTVEpvYVNUc1JJZzV2clRPWkI1LVp6VU9KeFQ1dmIxTWt3WFh1NFZSSUFZbWRCS21OZlJFMl9UR1lodWczYzlrTVAteE85ZWZ1MzNOUmxVVl83UnRHYmlxcHdMRXhFWGJTZVRSUHdPbURQVjZtSkt0TEp5dFF1NU1CeVlDbS1McFRCbmpDN1Ntb0w0MnFGcXVfOUFiSTNKUGlfbHJFSkdsT01MeUQtSzE4ZWVWV2RwWdIBogJBVV95cUxNWkkxS0VYc1E1ODJXblV3RjVsSGdjd05oZ1N1UWtDYU01THBSTERxWWNPYnhWVTlETFdEdkJMU1drQWVueXM1ZGxsOHJYSFRwYkZGVzhDMmR4LW1RSHBfZ0tudURwb3RObGhwTnA4dHFYUFROaVc4M04xYUlJOVotTTl2Wi14djRXeUpiWUZnZ1hHcEtMLUtSbWFrRl8tQ0xNWGFiZllSd0NpNnljaVNnbmp1bDVXOVZtWmdTMXY2VENnVl9JVVNoOWU3VWY2bmg1YmRDN2tBOEttcmxNRmpMQWUzZkxhSjk1bkYxUC1Tbjl1TzJpRENoZW9UZncxWnZnTVlhZk5ZMmdjMGJ0T1c4Vlo0Z0t3Um1DNFJfSmx1WWFGUQ?oc=5",
       "source": "Google News",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORHA2ZGl1MWRFWGdVTXFkLUlSVjh4anoxVmZfYUNSbnVjS3JPR0E2RDhsMUNCY2xxemF4NndFblFsS19OVEpfRndRRXJ3LVpyaWZ1OUZJZ0FDNGk2Q1NfM2t2ZS1sdXllY044b3BLYUVQU01NTG5UNFVpMC1Pd2M4NmZ0Uks4aklNb3hfdkIyaFpKWmlwRkdSV1NsMHd1VFA2ejJKTFcza0tGaVRKOUE?oc=5\" target=\""
     },
     {
-      "title": "Máster en Psicología General Sanitaria con inteligencia artificial de la Universidad Europea - Mastermania",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa3pwcE1DY0NySDFidEJ4V0pqUF90WWtQSENxbHUwWnQ0ZTZEczNybzBNZTVwd0g3RmZOU0lBTEhMdEFNbVdxbkdVZTlMYkFFekQ3WGZCeV9kRVJqOWJvNGVtTVNKQmlUTTJhZElnSDR3X29ESTIxeGhrOUVBMWVJVmJ0MlVJNERiOHlFSlljZ1U0UGU4X0ZEbVlfZ1BLTS1pckxOcDVEVHl1MmVXRzdjMXRReTRRZGFqb3hUMUIwZVNwdUdYVnBsclRmbFFHQ3MtRDhsb24tZk5vLVBOamFjbDNKMWROZw?oc=5",
+      "title": "España aspira a liderar la carrera por una inteligencia artificial responsable - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3JfTHVhNThkbG5oU1J1NWx6SEFwWFpfZkZ6NkNTMUpVSXkzNkloQk9DR2lmWGZ5SExGd01UNVdzM1lqSlNnNGYxbkl1UVRVcE1xQVlva3dWLTFON0pkZ3lBRTdzX0tEcHp1RnJNdmtfVW9aOU83MmcwQ0lmNndUYzVWSkxpOEFIX2xWdERxcHdJb3Z1RTItVlFtSQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Apr 2026 10:53:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa3pwcE1DY0NySDFidEJ4V0pqUF90WWtQSENxbHUwWnQ0ZTZEczNybzBNZTVwd0g3RmZOU0lBTEhMdEFNbVdxbkdVZTlMYkFFekQ3WGZCeV9kRVJqOWJvNGVtTVNKQmlUTTJhZElnSDR3X29ESTIxeGhrOUVBMWVJVmJ0MlVJNERiOHlFSlljZ1U0UGU4X0ZEbVlfZ1BLTS1pckxOcDVEVHl1MmVXRzdjMXRReTRRZGFqb3"
-    },
-    {
-      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
+      "published": "Wed, 22 Apr 2026 13:00:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3JfTHVhNThkbG5oU1J1NWx6SEFwWFpfZkZ6NkNTMUpVSXkzNkloQk9DR2lmWGZ5SExGd01UNVdzM1lqSlNnNGYxbkl1UVRVcE1xQVlva3dWLTFON0pkZ3lBRTdzX0tEcHp1RnJNdmtfVW9aOU83MmcwQ0lmNndUYzVWSkxpOEFIX2xWdERxcHdJb3Z1RTItVlFtSQ?oc=5\" target=\"_blank\">España aspira a l"
     },
     {
       "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
@@ -83,6 +75,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
     },
     {
+      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Atlético de Madrid y el Barcelona - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXU5eloyYy1fMkJFUXh6UFY2UDlzemNFeDJ3V1hqT3pHZ1VvaEp4UUN6eUZSYWZtV3RGd19DbTVLQ2dMVE4zWGFScGJtRVlwRVdibmZwZHhwWmo1QXVXd3k4NDBxZVFzMlFtaUtndlExVDJySTdWc3IycEtSSE5RR1M5UDIwTS1DX3h0cUt2WHh4SGJqVlp6bktuTVo1ZWFVNGItSWtGblo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXU5eloyYy1fMkJFUXh6UFY2UDlzemNFeDJ3V1hqT3pHZ1VvaEp4UUN6eUZSYWZtV3RGd19DbTVLQ2dMVE4zWGFScGJtRVlwRVdibmZwZHhwWmo1QXVXd3k4NDBxZVFzMlFtaUtndlExVDJySTdWc3IycEtSSE5RR1M5UDIwTS1DX3h0cUt2WHh4SGJqVlp6bktuTVo1ZWFVNGItSWtGblo?oc=5\" target=\"_blank\">"
+    },
+    {
       "title": "La Inteligencia Artificial predijo si Barcelona remontará contra Atlético de Madrid en la Champions League - bolavip.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMTE3UFF2RUM0U1BjdjVNcFFVZW9DRFRJSU9UYm5Xei1hcU5nc1Bv0gHkAUFVX3lxTE5aQ2RDekI1MTU5bWR3V252bTRrcU1rTHlEZGhUQXB2VWxlUXhaMWlsaXRzXzVyUHVKdURuM2tjdUxmVGdhR1FKc0lwSW8tRExweFBoSVdDNmtZcTcyQTNIQm1CVG02QUNUYVpkdUtBSkVKeFdURTBDc1N1dUZqQkhpRDNyYTRZV09DMHdUVG85emdSRG1mdE1nMTVWbGFqQVo4OXlzelc5MUtxWk9oOTBQd3g5YmdRaGJ3Z0NVYTJheHZIalJjclV2dTQ0QlFCWHBzUUI5WFhjTDBZWEh6eWtUQWtIbA?oc=5",
       "source": "Google News",
@@ -91,12 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMT"
     },
     {
-      "title": "China frena inversión de EEUU en IA: 5 claves para founders - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1pvU05CSVdoN05pUTg4U0lJUUZ0Qm1yb1R4aUtSMmgxdnpzazNvclBwb3BFX1FZeEl6YXJNcFpuNW9BUXNiTlRSTFlMM3U2Ri1hMTZUZzJzNjE0cjN5WVowWlFyUGhkaWJvUXdNUVo4dEtPSlpwM0hGRWUyR0dPS0ZZUkJpSURfdC1hTkVKeWllLUk?oc=5",
+      "title": "China 50.400 km: lecciones de infraestructura para founders - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnhRTzA3ZFdnQkowY3dZRGlOTTNCWC03TEt0N2p0U0ZmS1JwMXYtWkdIN1E1WEZOQnNEZXR4Qk9mMFdMUElZZm1OVkZYYl85S0JzVVRLU3pVLU1rWHBMLUY1emVsNlQwMkVnTHBnXzdZM21kdFNveHR2Njk4OFFoUlk2emlKMGJlQ0xOWXVSQVkwbUE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Apr 2026 11:11:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOY1pvU05CSVdoN05pUTg4U0lJUUZ0Qm1yb1R4aUtSMmgxdnpzazNvclBwb3BFX1FZeEl6YXJNcFpuNW9BUXNiTlRSTFlMM3U2Ri1hMTZUZzJzNjE0cjN5WVowWlFyUGhkaWJvUXdNUVo4dEtPSlpwM0hGRWUyR0dPS0ZZUkJpSURfdC1hTkVKeWllLUk?oc=5\" target=\"_blank\">China frena inversión de EEU"
+      "published": "Sat, 25 Apr 2026 12:53:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOQnhRTzA3ZFdnQkowY3dZRGlOTTNCWC03TEt0N2p0U0ZmS1JwMXYtWkdIN1E1WEZOQnNEZXR4Qk9mMFdMUElZZm1OVkZYYl85S0JzVVRLU3pVLU1rWHBMLUY1emVsNlQwMkVnTHBnXzdZM21kdFNveHR2Njk4OFFoUlk2emlKMGJlQ0xOWXVSQVkwbUE?oc=5\" target=\"_blank\">China 50.400 km: lecciones d"
+    },
+    {
+      "title": "Despidos tech España 2026: +155% y qué hacer como founder - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0U1UTBGaEpTZHpIOEFWX29WdjVpajNXQlR0b25CNmlKSFZFT3lpUFZnYXU1VmZyVmpuTy1BR2lZMV9hVXhtTFlTSU5Wb0pRS2c5QXBHc3lUbGpiTURzY3VaRkJUR0pnTGVFWjczd1N1QkNZQjFJLVI1TklFUmw1WjlicUFNTXlESnJqbTB3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 25 Apr 2026 18:07:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0U1UTBGaEpTZHpIOEFWX29WdjVpajNXQlR0b25CNmlKSFZFT3lpUFZnYXU1VmZyVmpuTy1BR2lZMV9hVXhtTFlTSU5Wb0pRS2c5QXBHc3lUbGpiTURzY3VaRkJUR0pnTGVFWjczd1N1QkNZQjFJLVI1TklFUmw1WjlicUFNTXlESnJqbTB3?oc=5\" target=\"_blank\">Despidos tech España 2026: +155% y "
     },
     {
       "title": "BStartup, la primera unidad bancaria de España dedicada a startups que gesta los gigantes tecnológicos del mañana - El Español",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Mon, 20 Apr 2026 23:50:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMV"
-    },
-    {
-      "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     }
   ],
   "count": 14
