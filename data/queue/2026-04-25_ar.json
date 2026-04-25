@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Líderes tecnológicos se reunieron en La Rural para intercambiar experiencias y analizar casos de éxito",
+      "url": "https://www.clarin.com/tecnologia/lideres-tecnologicos-reunieron-rural-intercambiar-experiencias-analizar-casos-exito_0_Lt8WU7T5A3.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 25 Apr 2026 19:29:09 +0000",
+      "summary": "<ul><li>El encuentro destacó cómo empresas y organismos públicos están escalando innovación y eficiencia a través de OpenShift, plataforma emblema del código abierto.</li><li>El ritmo de la adopción de inteligencia artificial en el país, virtualización y entornos cloud-native.</li></ul>"
+    },
+    {
       "title": "Las startups de IA dominan el ranking mundial de unicornios: cuáles son las empresas más valiosas en 2026",
       "url": "https://www.clarin.com/tecnologia/ranking-global-startups-ia-cotizan-alto-unicornios-tech-marcan-tendencia-2026_0_clYZNNezCN.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,12 @@
       "summary": "<ul><li>Se trata de un sistema robótico desarrollado por Sony que consta de nueve cámaras con sensores y control de mirada del oponente.</li><li>\"Es el primer sistema autónomo del mundo real capaz de competir con jugadores de élite\", señaló la revista de divulgación científica, Nature.</li></ul>"
     },
     {
-      "title": "El motivo por el cual recomiendan dejar la PC encendida las 24 horas y nunca apagarla",
-      "url": "https://www.clarin.com/tecnologia/motivo-recomiendan-dejar-pc-encendida-24-horas-apagarla_0_M4YUqnIOKM.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Apr 2026 22:46:26 +0000",
-      "summary": "<ul><li>Actualizaciones y tareas automáticas explican por qué muchos equipos siguen activos.</li><li>No siempre conviene apagarla: depende del uso, la energía y la configuración.</li></ul>"
-    },
-    {
-      "title": "La primera Copa del Mundo con inteligencia artificial: Google eligió a Argentina como punta de lanza - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVmZ2UFZXeG8tTnF5Q3dGVHRlMFNCdE1hTVhLX2FFa1VTQkM2RHR2NnFtZTlSNjJsVEgtbDc3TG1mamQ2dGJwYlRJQ0I5bVFxaVFkZ3R3VUVGTkVEcGJ5QnhIR0YxUnlCWWYyNmJEb05CT0d0YUM2Y2c4UEVTY1JDcVFmRUFfSjZwQlp4Z2wzdElfQXNnVzZJQlRDMmJ3eWcxR1V1OV9mWEM2VFNraWg2b1RNZ1Q0S3dDbGZCWkdlVlJ0LTFjakVfNmVpcTIxXzBwVjRUbnA3X0pobHZmS3hRNFJnU2jSAf8BQVVfeXFMTzdmZldGamJUWEU4a3NLTnUxYXgxY0xadEIyMkxiRmhYRjlsV2JUb2s3X1dfcFBoRDB3Z3hMMG1LWm9WZGktR3MySzFSY2FINXJ3R0ttRHBXZVktTWZ1eXVjaWdjUDdQbWU4OWQydWdiZ3FJQ0Nsd0paNktOS1BaaEhTWXpXcnAzWVBiYXdyZXpic1pFakdpd25JY0hNbFl6VGt4SFN5NE5uN3pGZVVPNmlFaTIzX091blU1ZFdZNTZKWUltX0VJMC1hRGpjSWlaTFAxbkdOZkFMbzRnd2dRQjE3c2sway00MmJXSng5VllWRDN1QWduZWRwS2U3V3dz?oc=5",
+      "title": "Revolución en la vacunación: inteligencia artificial, ARNm y nanotecnología redefinen la prevención y el futuro de la salud - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLVNxSjQtbFEzSU9JN1Qtd2ZUWG5KYTVWSTlOdlpHNGJiWUU5SW9UZmswZzM2aTFkTWhaMURUdE5FQnVoTFBtYzBUVkJ1VkZWQVhUX0diZ05KRnk3Q0VvRUd4WkltZ3BtVGJGam5QWFN0VE4xekFRZ1JBMTByS0J2Q1lmNzdVU20wb09naGlUTk9wTkNyZFVWUWZlamY0YWljbUtpM2R1UWRrQ2FweUlLU0U1Wm94SEpmQXJUNVlrYTJtQW43MFo2bG9jY1Fyc2JVdTdQZERYSGpSTklVdkFLbXgzdk5CVndYSHBPVXZfWG5QQjZ2UkNOOWNrUUprRzgz0gGbAkFVX3lxTE5lS3c4VmFyT21BbF8yNEpFS2RDLTFIbkE2V1p1QXIwS084aXAtdHUweHppTTEtT2VmeF96cUg4Q3dfcGl0VG5kd09tNXFnWHNFVXgyc095RFJkeTFjbmdFQzJXQzdwV012U2U2anRwOEJTQ2FsVElSdndzYkNzdi1UbGF0ZWdRa0xtY0w2U2xBcXZrME82dGsybmdUZ3J0R3FDVnU3MlJQQkwtN2lRTDdyb3hiZGNNcDBwcEZMMjBPM3JvMEVqOE11R2V0Smh4Yk5jOHlOYmdfc3FrNTVWOUVfaGxHYV9ZN2ZpdWJ3dUM2bGU1dWRxZDYtSVpTandGV3lreTBvSnFFT2xCa1o3X0t1RzEwYjNINUxURnM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Apr 2026 20:38:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVmZ2UFZXeG8tTnF5Q3dGVHRlMFNCdE1hTVhLX2FFa1VTQkM2RHR2NnFtZTlSNjJsVEgtbDc3TG1mamQ2dGJwYlRJQ0I5bVFxaVFkZ3R3VUVGTkVEcGJ5QnhIR0YxUnlCWWYyNmJEb05CT0d0YUM2Y2c4UEVTY1JDcVFmRUFfSjZwQlp4Z2wzdElfQXNnVzZJQlRDMmJ3eWcxR1V1OV9mWEM2VFNraWg2b1RNZ1Q0S3dDbG"
+      "published": "Sat, 25 Apr 2026 21:37:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOLVNxSjQtbFEzSU9JN1Qtd2ZUWG5KYTVWSTlOdlpHNGJiWUU5SW9UZmswZzM2aTFkTWhaMURUdE5FQnVoTFBtYzBUVkJ1VkZWQVhUX0diZ05KRnk3Q0VvRUd4WkltZ3BtVGJGam5QWFN0VE4xekFRZ1JBMTByS0J2Q1lmNzdVU20wb09naGlUTk9wTkNyZFVWUWZlamY0YWljbUtpM2R1UWRrQ2FweUlLU0U1Wm94SEpmQX"
     },
     {
       "title": "Google Cloud Next 2026: las 5 mejores propuestas de Inteligencia Artificial que transforman las industrias - ITSitio",
@@ -83,12 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fVVowNFVhUUswSllOSl8tNEQ2a1RqNjlCUml5OGxXMFlNM21mNGxObXhENl9EeDFCSWgxeXRwTDZzelRBOFVscUVIZTZKbVdZcmg3NjFR?oc=5\" target=\"_blank\">El video de un noticiero que anuncia un “parque venezolano” en Buenos Aires fue creado con IA</a>&nbsp;&nbsp;<f"
     },
     {
-      "title": "Periodismo cultural en tensión: debate sobre tecno-feudalismo, IA y posverdad en la Feria del Libro de Buenos Aires - EscribiendoCine",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ2NJb1JGSlZnN0JqT1JkbVhtTEVDV2dFMTFZRWd2TXVGamZvZEJYU2dVZk9xbGNubTdRNDl2eXNVVWgyUmotLU83M1d5MUJPalcxSDBsTWpFVTVsTVZSS3BZLXhEVWZuTnZVV1VoQnpWZm5DSXd3cGJqeEZ2V1lNLUdPRzQzYTFxVWpoeUtjNjNFMng3RUVXWGxnX2FlSzJMM3RQZnlOUDNZOWVpeVVXVmRCUG1sOUtrLVlDY012M3RjNzllR0RTZ0lXRFB0Rk4zNWU3WWVPNW1NQ0llZEV1YVloYno2UGZfaHg5MDRuYWN5NlE2RXZiRjZyVWQtWDF10gGGAkFVX3lxTE1HTEhHc2REYnJ1LVozaUNxVHNUWlc5SUZIVm9ldThrNWJYdmpTR0tqb04xWVdHeVpVa05PS3NhRm4zdV9KaDBVSEhhMFpvanJmanRtczBPMno5VHg1Zy16LUUycERObmZ6a3llSDZqNWZGcGRJM2J3S2lxZ252YVhLRlZvckRib0x0Zjd2ckVlaHphNERkVFp2bzd6cVFMVi1GdU9uV0RuZHVGTnN5WXdNM0FrUDRieVBTUGgzd1dGSWNGTmUzdjJQVGl1RXlVR0ZVNlByY29YVEVwVF9WVGUyb2VlZWtKZFB2bUhMVUNfSWxCZWpVU0V4bnBFSzIzQlp5THBBVlE?oc=5",
+      "title": "Cómo es la iniciativa de IA aplicada a la salud que ganó el primer puesto en el hackathon de Harvard y Swiss Medical - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnV6QklOYlZybWJLQ0JMY1d1aFVoTGNYbkYxVUhLc0FTdnBlX1FzU2VYNTM0WWlTQWxJdldjaVBSZUE3bEFoc01DTEVRT3EwSDllc0Q2b0tJS1FnYmRCM19CQXJXbHVpV1hVQWJGS2ZKLUxDM3BMMVlDZkxNRnY4TDZob1pBWDI2dUkxa1RlNzVScVRZeFJ3MUh5U0ZJV2xfOXVDamJGU21BUmpBaXlJdHp1VzZ3YnAtYlBhRS04aEZERGI1dkJOVFdGQ3ZNTlFSX0hQMXZTQzFsWkdLcEF2OEoxcm1NT1RmOWNZS0dWeTlobTB4dUV6TThn0gGUAkFVX3lxTE5iS3hlSFFOWjJ3NW1lYk1OYWJ5eEV6NjVnLXVtejI5ZC1IRXhTZGhwVEN1STl5Rm1YVDFjNmpJWDBXdFY0NmNhR3dZM0kwQi1EdlhmUThrZXU5T09vbHpJQld6MElzSHRveDJVSkg1c0IxcUdocEVtYXFEX3R0RUR0aEE2bVpoODRDUUFSWmNENFl5Unp6R1Y1RXBmeG5YRGdDcUVnMU5qcWp3LW00Nl9IR2dONjJZbUpQX2xCbG1kWi1zVGlESWVrU0ExY1pBcDg5VklCS0tuUElCN2QybEl2elVDWVB4YTI3YmdiV2xHUEpEMGRKRldsSnlMaUhIaUFhWlBqTlk1T3FhejVZbXpjakVRMA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 23 Apr 2026 15:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ2NJb1JGSlZnN0JqT1JkbVhtTEVDV2dFMTFZRWd2TXVGamZvZEJYU2dVZk9xbGNubTdRNDl2eXNVVWgyUmotLU83M1d5MUJPalcxSDBsTWpFVTVsTVZSS3BZLXhEVWZuTnZVV1VoQnpWZm5DSXd3cGJqeEZ2V1lNLUdPRzQzYTFxVWpoeUtjNjNFMng3RUVXWGxnX2FlSzJMM3RQZnlOUDNZOWVpeVVXVmRCUG1sOUtrLV"
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnV6QklOYlZybWJLQ0JMY1d1aFVoTGNYbkYxVUhLc0FTdnBlX1FzU2VYNTM0WWlTQWxJdldjaVBSZUE3bEFoc01DTEVRT3EwSDllc0Q2b0tJS1FnYmRCM19CQXJXbHVpV1hVQWJGS2ZKLUxDM3BMMVlDZkxNRnY4TDZob1pBWDI2dUkxa1RlNzVScVRZeFJ3MUh5U0ZJV2xfOXVDamJGU21BUmpBaXlJdHp1VzZ3YnAtYl"
+    },
+    {
+      "title": "Detección de incendios forestales con IA: la startup argentina que le gana a la NASA - DefOnline",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkNXLTVPV00wM0UwU1A2aWxnb3A0c1ZDd2tWbTcwbmNfWkM3b3ktYXNGUXB1RDR0OXBvMmlRZGE4VWMxbF9UeG1yR0tJUjllMUE3MnBnN1pDZWM1dlMzMUpLMVJyaER4NXBHb05tQVp2d3EtZkxyaHQtMVBJWEpBSmUyaDR0NGFyUzBFSmtzRHZMdkkzMm54ZG01WHNzV3JpdTFuOHhxb2Z4RWQyRjlvVUdvX2dyR2k1ckkwNDc4SVZlbG1hcFV3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 25 Apr 2026 13:33:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbkNXLTVPV00wM0UwU1A2aWxnb3A0c1ZDd2tWbTcwbmNfWkM3b3ktYXNGUXB1RDR0OXBvMmlRZGE4VWMxbF9UeG1yR0tJUjllMUE3MnBnN1pDZWM1dlMzMUpLMVJyaER4NXBHb05tQVp2d3EtZkxyaHQtMVBJWEpBSmUyaDR0NGFyUzBFSmtzRHZMdkkzMm54ZG01WHNzV3JpdTFuOHhxb2Z4RWQyRjlvVUdvX2dyR2k1ck"
     },
     {
       "title": "El teorema del cuaderno: el emprendedor argentino que guardó una idea durante quince años y hoy impresiona a Silicon Valley - Infobae",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Fri, 24 Apr 2026 23:28:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3Jvdm81bkZJMUJ1bVBIbFNuVEs4WTFpaGNBb2JpblZWdXVHaHJDdmVrOU1tQ1QxWkRWTXduMUxRQkdVVDNpekFraXVXdDdKc2lfaEpGYXJIZlJtaVpsd19ESUN5U1lfUER1aTlYdGhGd0c3TjFKeW9NTjVNQ09ZM21GbG1wTDJFa3F3MlBPd3U?oc=5\" target=\"_blank\">Calfix y MIT: startup argentina "
-    },
-    {
-      "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Apr 2026 04:34:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
     }
   ],
   "count": 14
