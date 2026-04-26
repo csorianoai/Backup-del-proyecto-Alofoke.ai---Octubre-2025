@@ -3,44 +3,44 @@
   "country": "es",
   "articles": [
     {
-      "title": "Trump, evacuado ileso de la cena de corresponsales de la Casa Blanca tras un tiroteo",
-      "url": "https://elpais.com/internacional/2026-04-26/el-presidente-trump-evacuado-de-la-cena-de-corresponsales-de-la-casa-blanca.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 26 Apr 2026 10:51:43 GMT",
-      "summary": "Un hombre entró en el hotel en el que se celebraba el evento y ha abierto fuego en el vestíbulo. El sospechoso, un californiano de 31 años, está detenido"
-    },
-    {
-      "title": "Video | Los momentos claves del intento de atentado a Trump",
-      "url": "https://elpais.com/us/2026-04-26/video-los-momentos-claves-del-intento-de-atentado-a-trump.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 26 Apr 2026 05:03:30 GMT",
-      "summary": "El presidente de Estados Unidos fue evacuado de la Cena de Corresponsales de la Casa Blanca después de que un hombre armado intentara entrar en el salón en el que se celebraba el evento"
-    },
-    {
-      "title": "El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena de corresponsales tras el tiroteo",
-      "url": "https://elpais.com/videos/2026-04-26/el-momento-de-la-evacuacion-del-vicepresiente-de-ee-uu-jd-vance-de-la-cena-de-corresponsales-tras-el-tiroteo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 26 Apr 2026 07:31:41 GMT",
-      "summary": "El vídeo muestra cómo Vance es evacuado por el lado derecho del escenario y poco segundos después lo hace el presidente Trump por el lado contrario"
-    },
-    {
-      "title": "Última hora del intento de atentado contra Trump, en directo | Los investigadores creen que el atacante buscaba objetivos de la Administración y posiblemente al propio Trump",
+      "title": "Última hora del intento de atentado contra Trump, en directo | Trump afirma que el autor del tiroteo en Washington actuó movido por el “odio” a los cristianos",
       "url": "https://elpais.com/internacional/2026-04-26/intento-de-atentado-a-donald-trump-en-la-cena-de-corresponsales-de-la-casa-blanca.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 26 Apr 2026 14:13:50 GMT",
-      "summary": "El detenido, Cole Allen, estaba registrado en el hotel donde se celebró la cena de la Asociación de Corresponsales | El FBI acordona la casa del atacante en Los Ángeles"
+      "published": "Sun, 26 Apr 2026 18:49:42 GMT",
+      "summary": "Los investigadores creen que el atacante buscaba objetivos de la Administración y posiblemente al propio Trump | El detenido, Cole Allen, estaba registrado en el hotel donde se celebró la cena de la Asociación de Corresponsales"
     },
     {
-      "title": "Quién es Cole Allen, el maestro californiano detenido por disparar en la cena de corresponsales de la Casa Blanca con Trump",
+      "title": "El autor del ataque escribió un manifiesto contra Trump",
+      "url": "https://elpais.com/internacional/2026-04-26/trump-afirma-que-la-motivacion-el-autor-del-ataque-en-la-cena-de-corresponsales-fue-el-odio-a-los-cristianos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 26 Apr 2026 15:43:34 GMT",
+      "summary": "El sospechoso, que viajó en tren desde Los Ángeles a Washington, actuó movido por el “odio a los cristianos”, según el presidente estadounidense"
+    },
+    {
+      "title": "Quién es Cole Allen, el profesor californiano detenido por disparar en la cena de corresponsales de la Casa Blanca con Trump",
       "url": "https://elpais.com/us/2026-04-26/el-atacante-de-la-cena-de-corresponsales-un-maestro-californiano-de-31-anos-esta-detenido.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 26 Apr 2026 04:31:11 GMT",
+      "published": "Sun, 26 Apr 2026 17:01:03 GMT",
       "summary": "El hombre, arrestado tras irrumpir en el hotel donde el presidente Trump asistía a un evento, llevaba una escopeta de caza, una pistola y varios cuchillos. Tenía un grado de ingeniero, un máster en computación y desarrollaba videojuegos"
+    },
+    {
+      "title": "El tiroteo desde dentro: “Se oyeron cinco sonidos secos, no eran bandejas cayendo sino disparos”",
+      "url": "https://elpais.com/internacional/2026-04-26/todos-al-suelo-en-el-primer-plato-el-intento-de-atentado-de-trump-desde-el-interior-de-la-cena-de-corresponsales.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 26 Apr 2026 04:34:43 GMT",
+      "summary": "Una corresponsal de EL PAÍS presente en la cena en  narra lo ocurrido"
+    },
+    {
+      "title": "Videoanálisis | La polarización que empieza en los políticos y acaba en los ciudadanos",
+      "url": "https://elpais.com/videos/2026-04-26/videoanalisis-la-polarizacion-que-empieza-en-los-politicos-y-acaba-en-los-ciudadanos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 26 Apr 2026 17:27:10 GMT",
+      "summary": "En los más de veinte años que llevo en Estados Unidos, nunca había visto algo así, con gente que se muda de Estado por razones ideológicas"
     },
     {
       "title": "La inteligencia artificial impulsa la productividad: el 67% de los trabajadores percibe la IA como una aliada para mejorar en su empleo - Infobae",
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWxMWGd5bW0yeWZxTUtIUVlORGxuNXoyOTF3Wl96VU1ySUJGcUlYbzVHWXN0NjduZGhFMzc3UGZHSk5uUFV0eDFKQm5uVDBWV1ZCSUFoSWhUb1RxNzhacVAweU0tWHBRT09DTEJSbG5ObGFuLTJRNTJCa3VnLXBreEtscHVsQlpkVFVidWtkRjI?oc=5\" target=\"_blank\">España busca un espacio en la go"
     },
     {
-      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
-    },
-    {
       "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5",
       "source": "Google News",
@@ -91,6 +83,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxNdFRCM0FySzBTMzBhLVVnNmFsaEJlejFZemt1NmctSi16YlZCdGd5VFhSVDN1M1pTUy1aZ2pGWjNSRnpEanBySktWNVo2dUtYWkJTeUd6NmVVdTBsZUJDRnFQMm5nZXhLaHZGT2p5Q0ItQmZnYXpDT1N1UWtQUTVuaXJlajFJMmplTEw5SU9RMGZSZ00tQ1FUN01zanhPeUhQZVpBdTFtLUM5eHZ1TUV2NFlxWGpEbkJlaF"
     },
     {
+      "title": "La Inteligencia Artificial predijo si Barcelona remontará contra Atlético de Madrid en la Champions League - bolavip.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMTE3UFF2RUM0U1BjdjVNcFFVZW9DRFRJSU9UYm5Xei1hcU5nc1Bv0gHkAUFVX3lxTE5aQ2RDekI1MTU5bWR3V252bTRrcU1rTHlEZGhUQXB2VWxlUXhaMWlsaXRzXzVyUHVKdURuM2tjdUxmVGdhR1FKc0lwSW8tRExweFBoSVdDNmtZcTcyQTNIQm1CVG02QUNUYVpkdUtBSkVKeFdURTBDc1N1dUZqQkhpRDNyYTRZV09DMHdUVG85emdSRG1mdE1nMTVWbGFqQVo4OXlzelc5MUtxWk9oOTBQd3g5YmdRaGJ3Z0NVYTJheHZIalJjclV2dTQ0QlFCWHBzUUI5WFhjTDBZWEh6eWtUQWtIbA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMT"
+    },
+    {
       "title": "Robótica España 2026: 78% empresas automatiza procesos - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmxLakNxbC1wcGZSTGZsSVlIZGJOdVlvUXphMDYwU1BZV3gwZjktUHhiR3NSaEZaS1Qzcmo4c1VOZjVJVS1fdkp5R3IxMDEza1d6cy13aUtOcjRiNUpQZEFhbmN1My1oRXJQUFNGeEpRejNfc3R5YWxVc0dQWnZMRUNqUERJMUltZ3Br?oc=5",
       "source": "Google News",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmxLakNxbC1wcGZSTGZsSVlIZGJOdVlvUXphMDYwU1BZV3gwZjktUHhiR3NSaEZaS1Qzcmo4c1VOZjVJVS1fdkp5R3IxMDEza1d6cy13aUtOcjRiNUpQZEFhbmN1My1oRXJQUFNGeEpRejNfc3R5YWxVc0dQWnZMRUNqUERJMUltZ3Br?oc=5\" target=\"_blank\">Robótica España 2026: 78% empresas auto"
     },
     {
-      "title": "DARPA con Stephen Winchell: cómo startups acceden a defensa - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1EyMGFUcF95elpIbFRaS3hMa1Q0RElRMkNvWVFyT0k1TnpLc3B0LUFSWVE3OTVvbHk0V0hFUEtmMHpzbGJTNFlUV0pKUkZUSmZBcUtGNDFZY3Q3SDRfcW56VEVDSG5zMFJ5VDBBSl8zSmd0R2lNYm00YTBxWVdyMFNBeUJEQ003QlFPeGd6TmRoZWM?oc=5",
+      "title": "78% empresas España automatiza: oportunidad startups 2026 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEJqazhPVmp0MTVaZjZOUS14bUVrWUlnVHhPbzhkYnBUNFZFMnB2QUJ1SmhkM01TWkZNaWJVVjdpelRXYWRZVXdHMG9KVlRObTY1cWdxTEVoQWJacWQ2RGtRMTJpcXY2cVhmM3JwaHN0dnphUGh4NC1lR3BsVEtWM0huZWdPZmRjWWtrY21RVXhwUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 25 Apr 2026 19:18:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1EyMGFUcF95elpIbFRaS3hMa1Q0RElRMkNvWVFyT0k1TnpLc3B0LUFSWVE3OTVvbHk0V0hFUEtmMHpzbGJTNFlUV0pKUkZUSmZBcUtGNDFZY3Q3SDRfcW56VEVDSG5zMFJ5VDBBSl8zSmd0R2lNYm00YTBxWVdyMFNBeUJEQ003QlFPeGd6TmRoZWM?oc=5\" target=\"_blank\">DARPA con Stephen Winchell: "
+      "published": "Sun, 26 Apr 2026 15:47:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEJqazhPVmp0MTVaZjZOUS14bUVrWUlnVHhPbzhkYnBUNFZFMnB2QUJ1SmhkM01TWkZNaWJVVjdpelRXYWRZVXdHMG9KVlRObTY1cWdxTEVoQWJacWQ2RGtRMTJpcXY2cVhmM3JwaHN0dnphUGh4NC1lR3BsVEtWM0huZWdPZmRjWWtrY21RVXhwUQ?oc=5\" target=\"_blank\">78% empresas España automatiz"
     },
     {
-      "title": "BStartup, la primera unidad bancaria de España dedicada a startups que gesta los gigantes tecnológicos del mañana - El Español",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMVN4V0VzVFlRU2JqbUdRYmJoZ1FsQWt2OXlYNUdCMDNKTzJBejlsQkhHS1hTRjhDcjhNRFlvMGtxQ29nWkltZUhONTBrNGt4bzFNUnlieVRYMUxWVm1fZGdWSVJxNDBCazR1N2VxeHR0TVdSYWfSAasCQVVfeXFMTnRxWVVRdnIwaGRyTGl6b3VvdzdzSi00M3A0Wm9ZRmQ4RHlTQ0NidXFSS05lR3BtSDBDYVJ2N1d3UGgtNXJPWmI1WDc0ZG1sWUt1VklCdTJOMzMxTVo0dGplREkzNWRIZ0p6c2oxZFRsVjMwLWhaYXloSHpiMTVfeTAzNktMRFVkOUZ0N0pZN3FjYXV1ZjBFRUFKZks5eGl6QjdiejBlV0tUM3VMajI5UG5yV0hHSDJoVmpaX21ZYlotaHktaFlEX3FSUEl0UlA5eW5FYTUxaXVMcnJUeW9wRDlhdjBuZUlWME4zYklONHpXNFRmLU9JQ3FTTnl5MVFTZEJoQXI3bHZsUU1rbXR3OXVjV2lKdThwaWJ6U0U2ZWxacFBnVlB6RG5YeUU?oc=5",
+      "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Apr 2026 23:50:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMV"
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     }
   ],
   "count": 14
