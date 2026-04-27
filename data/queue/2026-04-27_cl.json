@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo escribir tu nombre con distintos lugares del planeta, con esta herramienta de la NASA",
+      "url": "https://www.latercera.com/tendencias/noticia/como-escribir-tu-nombre-con-distintos-lugares-del-planeta-con-esta-herramienta-de-la-nasa/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Apr 2026 21:00:00 +0000",
+      "summary": "Un sitio interactivo de la NASA permite formar palabras con paisajes reales de la Tierra vistos desde el espacio."
+    },
+    {
       "title": "Comienza el juicio de la era de la IA: por qué Elon Musk y Sam Altman entraron a una batalla legal",
       "url": "https://www.latercera.com/tendencias/noticia/comienza-el-juicio-de-la-era-de-la-ia-por-que-elon-musk-y-sam-altman-entraron-a-una-batalla-legal/",
       "source": "La Tercera Tecnología",
@@ -35,20 +43,20 @@
       "summary": "La Sociedad Estadounidense de Meteoros, una organización sin fines de lucro, afirma que el número de bólidos registrados por el público entre enero y marzo de este año fue el doble de lo que se suele reportar. Especialistas han presentado visiones distintas sobre este fenómeno."
     },
     {
-      "title": "El caso de la prestigiosa firma de abogados que envió documentos judiciales con alucinaciones de IA",
-      "url": "https://www.latercera.com/tendencias/noticia/el-caso-de-la-prestigiosa-firma-de-abogados-que-envio-documentos-judiciales-con-alucinaciones-de-ia/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Apr 2026 10:03:00 +0000",
-      "summary": "“Lamentamos profundamente que esto haya ocurrido”, reconoció el bufete tras detectar que el escrito, presentado en un caso de quiebra en Manhattan, contenía errores generados por la IA."
-    },
-    {
-      "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
+      "title": "La UNESCO y CENIA consolidan alianza para impulsar una inteligencia - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNlVXeEJPcUE1MFRNelNscFdMaUp6QQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPUlhwU0h5Wk8tZnduRDhfWFpIcWk5Qkd2M1h5SW13dU9VVVJMaWI3ZUpFR1gxRzNBOUJwSlR1STZiX2plZFpQcjhReThtVnVyN0UwUUJlclV6ek51ZkFtd1pPeTV4NU5jQnUyTWl1eHFzUHgyNDlBbmJlNk5LZTVDUERSajhVSnlJQm12QTB0UmdZWnBkVF8zdFZKVTN3YUx5SDliRXAtYjJhcDlFNXd4WlNzbXFXRVFvNl"
+    },
+    {
+      "title": "Universidad de Chile participó en Buenos Aires en etapa clave de prototipado de UniversitarIA - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFoyYXk3Q0otZEktaHNBQmdEY1k0MFdCSnV4dTBpRkdhVTN2NENIM0xZbXEyZjFQanoxazJuT1VRM1NUMTZ4X2FNSjVCSzFWT2pmY3hUc2NjV2VzNDdpMHhqSDdneXpMZW1Wb2E4cHNCTWZLd25XYnozazFCYTNxdGRacnZ6QU1vZ1FSSmFLM3VjVlNwdGU2RkdrRFNwTnRZb3BHYQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 27 Apr 2026 21:02:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdFoyYXk3Q0otZEktaHNBQmdEY1k0MFdCSnV4dTBpRkdhVTN2NENIM0xZbXEyZjFQanoxazJuT1VRM1NUMTZ4X2FNSjVCSzFWT2pmY3hUc2NjV2VzNDdpMHhqSDdneXpMZW1Wb2E4cHNCTWZLd25XYnozazFCYTNxdGRacnZ6QU1vZ1FSSmFLM3VjVlNwdGU2RkdrRFNwTnRZb3BHYQ?oc=5\" target=\"_blank\">Unive"
     },
     {
       "title": "Inteligencia Artificial: especialistas de la industria, la academia y sector público debaten sobre nueva legislación - diarioestrategia.cl",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWHo2dnVTeGxib1V0UlVoemJ5SFdONERCQ2pWVUN2cFVmdzNoRlFldzZQeWMtcTZFZFQ1R0hUTVgzbGFpSGRtV255NUtwd08xWWU4RXlHREdCYzJIM04wR2ZkMTNwMXA1aHhwcDRVbDJCbGRSX252MGlqcFlRNGpacHBZSnJ5V0ZWS2g5S0ZDenVVQVYzaWVHQnByNXRtRXVIbXgzMDVTYTlOd05CVlB1akhaYUN6UDBQQV"
     },
     {
-      "title": "Clickie levanta US$ 150.000 con IA para servicios del hogar - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGhuUUxHWnczUm1idXdwMlljbGpoanYtM3FOUVhxMWFDdkhiVHZlRGZaQkpOQ2w0Mm1Zc0Z5UUhXUjZPd2JXMmZLOUdPTS1XaWJLNjhOaFo0OTZyTFJGTm4wOUkzU3E5VmtEaWZvQkYyMVVUMUIzeTR1Z254VENBQUZVR1Q0Q3VvZmRWcHdwQkg3eFE?oc=5",
+      "title": "IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjkvzGm2) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Apr 2026 18:32:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGhuUUxHWnczUm1idXdwMlljbGpoanYtM3FOUVhxMWFDdkhiVHZlRGZaQkpOQ2w0Mm1Zc0Z5UUhXUjZPd2JXMmZLOUdPTS1XaWJLNjhOaFo0OTZyTFJGTm4wOUkzU3E5VmtEaWZvQkYyMVVUMUIzeTR1Z254VENBQUZVR1Q0Q3VvZmRWcHdwQkg3eFE?oc=5\" target=\"_blank\">Clickie levanta US$ 150.000 "
+      "published": "Sun, 26 Apr 2026 10:32:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5\" target=\"_blank\">IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjk"
     },
     {
       "title": "Somos los más optimistas sobre la IA y los menos preparados - LaRepublica.co",
@@ -73,14 +81,6 @@
       "category": "news",
       "published": "Wed, 22 Apr 2026 05:00:23 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGZUUUZVRENLeXZ5c0dZaFlrbGRMOGdLTk1xMVI0WW5OTW1xcTExaUNIblhLZUdWTWVIdUNlN2ZQZTI4X2NJVU9IVEFIUTdlYXZpR01oUlFNWU9xNTVvQVdWYlYwbEVNQjBNdC1MeGhYbF9vd2RpZ2dSU09neWpvU1ltNkdhWGx0cnZFampnNHRKdEFSTGV2Zlh1SXVCeXZhOE5yRndGLVQ2dUlsMHk0NEpWcXZyQlVpNW"
-    },
-    {
-      "title": "IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjkvzGm2) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 26 Apr 2026 10:32:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5\" target=\"_blank\">IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjk"
     },
     {
       "title": "Santiago Niño Becerra explica los dos tipos de trabajo que están protegidos de la IA y cuáles están en riesgo: “Es un proceso que irá a más y más sectores” - Líder Actual",
