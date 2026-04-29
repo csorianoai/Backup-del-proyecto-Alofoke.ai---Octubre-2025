@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Pymes en cifras: cuántas hay en Chile, cuánta venta generan y en qué regiones les va mejor",
+      "url": "https://www.latercera.com/tendencias/noticia/pymes-en-cifras-cuantas-hay-en-chile-cuanta-venta-generan-y-en-que-regiones-les-va-mejor/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 21:00:00 +0000",
+      "summary": "En el Día Nacional del Emprendimiento, un nuevo análisis pone en perspectiva el peso real de las pymes en la economía local y la brecha existente frente a las grandes empresas."
+    },
+    {
       "title": "Cuál fue el mensaje que dejó el rey Carlos III a Donald Trump y su administración en Estados Unidos",
       "url": "https://www.latercera.com/tendencias/noticia/cual-fue-el-mensaje-que-dejo-el-rey-carlos-iii-a-donald-trump-y-su-administracion-en-estados-unidos/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "La profesora titular de educación y práctica social en la Universidad de Auckland, la Dra. Maree Davies, publicó un libro en el que aborda esta temática y considera factores cada vez más presentes en la sociedad, como la inteligencia artificial, los algoritmos y las noticias falsas."
     },
     {
-      "title": "Por qué tomar café te pone de buen humor (incluso si no tiene cafeína), según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-tomar-cafe-te-pone-de-buen-humor-incluso-si-no-tiene-cafeina-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Apr 2026 10:03:00 +0000",
-      "summary": "Una investigación sugiere que esta bebida tiene efectos más amplios de lo que se creía, que van más allá del impulso de energía."
+      "title": "Nuevos cursos gratuitos en IA de Microsoft y SENCE - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVpyMVdMYWdPWDU5a0NnRlVpQVE4aXZGdG5SWWtPbnpaeldGVFR6U2RwTmNSOFZHRTRPZGhxWkpNN3JIcGVSdzhvc0gxQXlQTm4xYjRyOXpyeGRINHo2R01rdnpWY1RhT3l6Z1JaaXFXUy1yWlk4NlpZTEVCcWNUVlVHY0gtLUdDd1VTQ2dmODFiVTVJUF95bzJNNnZBM181MzRsMVdxLTROLV9nYzNUdzhmWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 29 Apr 2026 21:58:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVpyMVdMYWdPWDU5a0NnRlVpQVE4aXZGdG5SWWtPbnpaeldGVFR6U2RwTmNSOFZHRTRPZGhxWkpNN3JIcGVSdzhvc0gxQXlQTm4xYjRyOXpyeGRINHo2R01rdnpWY1RhT3l6Z1JaaXFXUy1yWlk4NlpZTEVCcWNUVlVHY0gtLUdDd1VTQ2dmODFiVTVJUF95bzJNNnZBM181MzRsMVdxLTROLV9nYzNUdzhmWQ?oc=5\" t"
     },
     {
       "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
     },
     {
-      "title": "Chile acelera la transformación de su seguridad pública con tecnología e inteligencia artificial - Revista Seguridad",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWkk3bmVSaklEUzY4M1lRVDc4em8yVnpzSlpyNExVTEd2WkxNZkZTNzdGZE8xTS1pZUdhdFd0MVA4TWlsd1BaTU5YVnRZV2ZqR0V1Y2ozTHZMVEF6SjhjYjh5eWQxOVhZY1gtNnRKSlp6VE8xV3YzaWpFOFNIcW1tOVF5aWQ4aDdyVC1xcm1NSkh6RnRZNWFnUjVnREU3aGItQWMtYm44OE1LbWtONjQ2UHB1cTFaZlYxZE10U1pGanRIUV9vZWFCSnZNVVI0b3pPb1E?oc=5",
+      "title": "La supervisión humana y la transparencia en el uso de IA refuerzan la credibilidad de los medios, según un estudio en Chile - Laboratorio de Periodismo Luca de Tena",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTk5Wl83LTZfalk5U25TX0wzMGFJVHJoMV9TaVJRQzkwMjF6RG45Qk5HbXVCaHlNWFBRdnlrQ0NTd0NXU3BQTzZYOEVfMlhJUlowRTlRYk1PY3c5YlljaFlpazFYRTRKdWZXcWw4ZmFlZGgyS1ZMaENsOGVQd2ZNWjhBUFdUZTJXaWU4YmFBZWMzMG5lQVNFMlBTRnRuQmlYcVhjdXdNaEZ4MnhfTHM3VERvNVZGRjd6ZlhlYzFXZVFWSlBTZzN5UjNYcWxQeXNXOW5tTmlwZ1BxS001UmdGNzNpNzdsSWF5QkRjY0dkQXA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 29 Apr 2026 15:01:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWkk3bmVSaklEUzY4M1lRVDc4em8yVnpzSlpyNExVTEd2WkxNZkZTNzdGZE8xTS1pZUdhdFd0MVA4TWlsd1BaTU5YVnRZV2ZqR0V1Y2ozTHZMVEF6SjhjYjh5eWQxOVhZY1gtNnRKSlp6VE8xV3YzaWpFOFNIcW1tOVF5aWQ4aDdyVC1xcm1NSkh6RnRZNWFnUjVnREU3aGItQWMtYm44OE1LbWtONjQ2UHB1cTFaZlYxZE"
-    },
-    {
-      "title": "Desde la inteligencia artificial hasta las enfermedades crónicas - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUNwUDR0Sm84aFhmTi0wbGR1MlJLbjVmaU13YnE4R1JsX0JPZ1pQYTVDZUFZNHh3UzJXRTVITS1IUkpyNzEzY2RSeTA5eGg3c0xJVHNwOWJqUlpwTXhRcTBpUjJfRDFseWJjYWxHQlNaN1AyUGxMN0kwYThVTXpKSEZIR1ZZRWo5MWp0THQ0anVWdEw5Qmp3bHpXZ3VpVjI3Nk1rcGZONjJGbjNQb0ZR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Apr 2026 21:00:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUNwUDR0Sm84aFhmTi0wbGR1MlJLbjVmaU13YnE4R1JsX0JPZ1pQYTVDZUFZNHh3UzJXRTVITS1IUkpyNzEzY2RSeTA5eGg3c0xJVHNwOWJqUlpwTXhRcTBpUjJfRDFseWJjYWxHQlNaN1AyUGxMN0kwYThVTXpKSEZIR1ZZRWo5MWp0THQ0anVWdEw5Qmp3bHpXZ3VpVjI3Nk1rcGZONjJGbjNQb0ZR?oc=5\" target="
+      "published": "Wed, 29 Apr 2026 22:10:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTk5Wl83LTZfalk5U25TX0wzMGFJVHJoMV9TaVJRQzkwMjF6RG45Qk5HbXVCaHlNWFBRdnlrQ0NTd0NXU3BQTzZYOEVfMlhJUlowRTlRYk1PY3c5YlljaFlpazFYRTRKdWZXcWw4ZmFlZGgyS1ZMaENsOGVQd2ZNWjhBUFdUZTJXaWU4YmFBZWMzMG5lQVNFMlBTRnRuQmlYcVhjdXdNaEZ4MnhfTHM3VERvNVZGRjd6Zl"
     },
     {
       "title": "Santiago Niño Becerra, economista, avisa sobre Mythos y la IA: \"Una carrera permanente; preocupante\" - MARCA",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQamR3bUh3Z2ZlcUNEVlppNmpoRkkzSElqUGVNeG8yNlFYbEc2QXBqalUtNG45b1dVcGhpLXB0WFoxMExKWHlSZzZlOGhnWUxSX3hiUTZFNEtYOFlaTGd3UGozdm9PWThjajZvc2poRDJwdHBNQm5EVjNZWDBlcUFLalBGMDR4Q0t3RkdSd0NRQ01fUF9xc2xmeWplZEQ5Rll4Qy1RQjVlRExBUUdhcHV0eHBTSThkSXlOM2"
     },
     {
-      "title": "IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjkvzGm2) - Fathom Journal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 26 Apr 2026 10:32:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5\" target=\"_blank\">IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjk"
-    },
-    {
       "title": "Somos los más optimistas sobre la IA y los menos preparados - LaRepublica.co",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGZUUUZVRENLeXZ5c0dZaFlrbGRMOGdLTk1xMVI0WW5OTW1xcTExaUNIblhLZUdWTWVIdUNlN2ZQZTI4X2NJVU9IVEFIUTdlYXZpR01oUlFNWU9xNTVvQVdWYlYwbEVNQjBNdC1MeGhYbF9vd2RpZ2dSU09neWpvU1ltNkdhWGx0cnZFampnNHRKdEFSTGV2Zlh1SXVCeXZhOE5yRndGLVQ2dUlsMHk0NEpWcXZyQlVpNWxCR3NFamZkT2VnNE5IM1hVRVFhM1J1eGfSAdIBQVVfeXFMTlo4SHBCekFVNlV5SF80N3ZWdnd6LUJ0Ync5UTBYNlFGR0NjZGhRX19kdFk0alVNWHE1MW0ybVNPSE5Yd2JJOFMxdlBXQUd2ZlcwQ3poQXJHWnJJWURsWFpvMWdSU1locDBlbmlrUUlyWl9CVnlYU1Q1amNzeDJyUm9CSHNVLUUwOEI2dGt2YzB0WXFTb2lVTTVtRlNaOGRCdXV5RXRHdUN1d0NfMXd4WEY5aHM4WTA0OGg2QTBySXJtdDhscUkybmllQnRZeVVRbk5n?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 22 Apr 2026 05:00:23 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGZUUUZVRENLeXZ5c0dZaFlrbGRMOGdLTk1xMVI0WW5OTW1xcTExaUNIblhLZUdWTWVIdUNlN2ZQZTI4X2NJVU9IVEFIUTdlYXZpR01oUlFNWU9xNTVvQVdWYlYwbEVNQjBNdC1MeGhYbF9vd2RpZ2dSU09neWpvU1ltNkdhWGx0cnZFampnNHRKdEFSTGV2Zlh1SXVCeXZhOE5yRndGLVQ2dUlsMHk0NEpWcXZyQlVpNW"
+    },
+    {
+      "title": "La IA no ha roto la educación, la ha dejado en evidencia - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3lzRUZKOVNPV2dsTkd4eUtqdm1oeGhvX1JEdTVMaFI1M0k5a3cxQlM2d2hYSmVrMnR0SE4wNnc5MEFXUXoxdDY0el9HRXNEek41TzRXeld5ZE5ReDNpTWk4ZXYxa2dOR1M2aGR2VjFLZHJhMG9TaUVWZ0NMMnRfamRYTGtsVGM5bXZ6eHVqVHpSSFpiTG42UTBCRHdzRFNiVjhF0gG3AUFVX3lxTE5aUVY3VlluUWxvNF9fV0o5eGZSLTVXcTIyRWw4QVpzZURlMUJCZDFqUVl1MlNCVVJMbGNISV9lYW9kdDN5NVBKeVlOVWtwZ0MzcjduMEM5SXBIdl9abENwVk1mdURDV3EzYjZ2dHNiSm5pVENteVBwSU9TdG1jVTRORnFuNXlLclBxcDJydU9FSjNpSlpmZkpPeGxJOXJ6QXBzV1JPWFdYOTBLX2dQZUU4WkluM3hiQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3lzRUZKOVNPV2dsTkd4eUtqdm1oeGhvX1JEdTVMaFI1M0k5a3cxQlM2d2hYSmVrMnR0SE4wNnc5MEFXUXoxdDY0el9HRXNEek41TzRXeld5ZE5ReDNpTWk4ZXYxa2dOR1M2aGR2VjFLZHJhMG9TaUVWZ0NMMnRfamRYTGtsVGM5bXZ6eHVqVHpSSFpiTG42UTBCRHdzRFNiVjhF0gG3AUFVX3lxTE5aUVY3VlluUWxvNF"
     },
     {
       "title": "FIT 2026: 8 startups y el futuro tech de Los Lagos - Ecosistema Startup",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEpOTzJuZ1FvbmpoZEtGUjJsa21pMVh0aG4zRkhnaWJmd21fNkR4MHVjWWVJTDU1U2xtWHB0MjZZTzJZWFh4Vlhib0ttQmxkSUVQSmlPOXFaaDNfdmJvdXJpN0FzNUFsbW5laHY1bUNKV3V0TUxFTm9DY2NCaXF3T1J3dnJpMDg?oc=5\" target=\"_blank\">FIT 2026: 8 startups y el futuro tech de Los"
     },
     {
-      "title": "ENTREVISTA| Álvaro Hidalgo y la industria SportsTech en Chile: crear startups para cambiar el deporte - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGdQYzIzVzNxVGpnZHpLMTQ2VE1Ub2Z4YldCbTZ3OVdKSmZWTmUteWpXS0JUSTdsRGl1YWZEdTZmWl9uM2pCRFd3TGZuYm9xZURvT2lNcGZGbnZMU29CY0dCV3VDWW1pS2RVZnlDUXBaRXJkMDBMeTFkVkx2d2p5dkJ4eFE5b0JLTmNrT1NUQ0dicG5wVjVLeWdrbzQwX0NNTFYzcHdiQnNLeXg4RVhqRGY4QQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 26 Apr 2026 05:09:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGdQYzIzVzNxVGpnZHpLMTQ2VE1Ub2Z4YldCbTZ3OVdKSmZWTmUteWpXS0JUSTdsRGl1YWZEdTZmWl9uM2pCRFd3TGZuYm9xZURvT2lNcGZGbnZMU29CY0dCV3VDWW1pS2RVZnlDUXBaRXJkMDBMeTFkVkx2d2p5dkJ4eFE5b0JLTmNrT1NUQ0dicG5wVjVLeWdrbzQwX0NNTFYzcHdiQnNLeXg4RVhqRGY4QQ?oc=5\" t"
-    },
-    {
       "title": "FIDAE 2026 y la Fuerza Aérea de Chile abren la convocatoria para startups “Despega al Futuro” con el foco en tecnologías aeroespacial - Defensa.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 07 Apr 2026 15:03:24 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
+    },
+    {
+      "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - Infodefensa",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YXlEenBwNnpqcGdRS2VoZE4xQzlvTlFKbnhWTmhxOVNMS2xSQnYxaTRBbDlpWjQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
     }
   ],
   "count": 14
