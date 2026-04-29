@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La adopción de IA divide a las empresas: hasta 44% de jóvenes la sabotea",
+      "url": "https://expansion.mx/tecnologia/2026/04/29/la-adopcion-de-ia-divide-a-las-empresas-hasta-44-de-jovenes-la-sabotea",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 11:55:43 GMT",
+      "summary": "El miedo a perder el empleo, dudas sobre seguridad y falta de capacitación explican por qué muchas estrategias corporativas de IA fracasan desde dentro."
+    },
+    {
+      "title": "Elon Musk se enfrenta a OpenAI en el primer día de juicio",
+      "url": "https://expansion.mx/tecnologia/2026/04/28/elon-musk-se-enfrenta-a-openai-en-el-primer-dia-de-juicio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 28 Apr 2026 22:38:10 GMT",
+      "summary": "El dueño de Tesla argumenta que la empresa se fundó bajo un principio distinto al que ahora la rige y ante eso pide que pague una indemnización."
+    },
+    {
       "title": "Spotify llega a 293 millones de usuarios premium, pero cae en la bolsa 13%",
       "url": "https://expansion.mx/tecnologia/2026/04/28/spotify-llega-a-293-millones-de-usuarios-premium-pero-cae-en-la-bolsa-13",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "La empresa de IA da guiños al porqué de la contratación de John Ive, diseñador legendario de Apple, sobre un posible smartphone."
     },
     {
-      "title": "Netflix vende atención: su publicidad logra 84% de visualización efectiva",
-      "url": "https://expansion.mx/tecnologia/2026/04/28/netflix-vende-atencion-su-publicidad-logra-84-de-visualizacion-efectiva",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 28 Apr 2026 11:55:53 GMT",
-      "summary": "La plataforma apuesta por métricas de engagement para diferenciarse en un mercado donde gran parte de los anuncios no se mira realmente."
-    },
-    {
-      "title": "AWS y Accenture abren hub de IA para acelerar adopción empresarial en México",
-      "url": "https://expansion.mx/tecnologia/2026/04/28/aws-y-accenture-abren-hub-de-ia-para-acelerar-adopcion-empresarial-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Apr 2026 23:00:15 GMT",
-      "summary": "El centro buscará llevar proyectos de IA de pruebas piloto a modelos con retorno financiero y formará hasta 1,000 especialistas."
-    },
-    {
-      "title": "Emplean 6 de cada 10 universitarios en México la inteligencia artificial generativa - La Jornada",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeW9vWXZMMW4wTFhUemFqUUtkbDZfWTVKM1ZTbTNPOV9FMGFqNWo5R3B2NXVvMlNTUVRjcDV4VUJ1NDZUWUtJVW1Cb3dSSERtTmxFODE5Z3ZZQkE1TGhhVkxfaDFTeFJLUC0yRml5Z3lhbTdIQ1YzRE1LRUhCN1QwR3NYeUZISkM1VURKbW5kY25HT3dlQ0V0b1p5Q3pFczB5NDJaemtxMU5CYTlFY2NNZVRGLTlYUVFuU3lnMkpIalNnMEpRWEsw?oc=5",
+      "title": "6 de cada 10 universitarios en México ya usan inteligencia artificial generativa, revela encuesta de la SEP - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMmpWX3hQVThPSzRKYm1vSldiRHZFaVpEb3h5eW5mQ2pzNDNpZDhSVTFDWDVaOU00MF9NYlB0Y3YzS1Q0RldCdDdYTzBKTkdMMlFsZ2hPcGVEYlhrNFlxWnRFUG1rY3dVaFNnQU1qX3RhM2JFaUI5cHV2TTFMX3pETUl3Xzd0bXo3ZHdvTGt3M0pLRmZqbTJXOEY0bjdkb1VUX0xMLUd3cXFqUUJBREFRXzlXbjdrcE01OXVITDFnRHBBSGZLMVB5MmFGNk1saGU0TS1ndUxscFdfY3IzVGhCZldXNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 29 Apr 2026 15:04:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeW9vWXZMMW4wTFhUemFqUUtkbDZfWTVKM1ZTbTNPOV9FMGFqNWo5R3B2NXVvMlNTUVRjcDV4VUJ1NDZUWUtJVW1Cb3dSSERtTmxFODE5Z3ZZQkE1TGhhVkxfaDFTeFJLUC0yRml5Z3lhbTdIQ1YzRE1LRUhCN1QwR3NYeUZISkM1VURKbW5kY25HT3dlQ0V0b1p5Q3pFczB5NDJaemtxMU5CYTlFY2NNZVRGLTlYUVFuU3"
+      "published": "Wed, 29 Apr 2026 19:29:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMmpWX3hQVThPSzRKYm1vSldiRHZFaVpEb3h5eW5mQ2pzNDNpZDhSVTFDWDVaOU00MF9NYlB0Y3YzS1Q0RldCdDdYTzBKTkdMMlFsZ2hPcGVEYlhrNFlxWnRFUG1rY3dVaFNnQU1qX3RhM2JFaUI5cHV2TTFMX3pETUl3Xzd0bXo3ZHdvTGt3M0pLRmZqbTJXOEY0bjdkb1VUX0xMLUd3cXFqUUJBREFRXzlXbjdrcE01OX"
     },
     {
-      "title": "México perfila su primera ley de inteligencia artificial entre ambición regulatoria y dudas sobre su viabilidad - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRm1xYzYzVC1FMHJqbHFHSWxUcHN1WVhGTGZ6aXdabk1heVpBMXc3UElKUVJoUnZueXJENDZndG5oOWJYUFhjUXhIT0ttZ29HdWlDemtwNlU4eXNwSVRuUDZwQjJJd0NTSDU2d3pJR1BsMGRfODVOYndReDM3cElKR1Mwb3MzdHRHTlgyQjZoNFc2Qnh1M3V6LW4wVUFrdFB4RWZvQXh3LVR5cjJkQ3phOUFIVGxSeFdUZEFzRUtLWHRXOXZMakdHRklob1MxNmRuTl85SGVnVldqUXZwRmNlb0RPVjZCNzFlamfSAYQCQVVfeXFMTkpvRC0yTVkxNzhYWF95dVpnVEQwUW1iTjB3NWFWWFR5OXhEOUpXeFptRV9sSFRVbC1hUlVteGJEQ2J5eEdjZm1uS0lKaHpTYmMwWmFqczVoRmhOdzJDa2VGSmN4X2hXMERGSm1ha0hCbGxNV1ZUejNaYUw1eDdaSk1jcHBDcnZnUVJ3VC00eDJWMFQ2TEtYdGVDdC1zQlBNcEx1WW5QWFV5NTRVZ2dlVHVHMFFMSURmajUzTlpSNURyNlZQLVdsYkFZVThyRkVJaFB3RWY4bGNidk9aMHB0Y1hNbDBwT0w0U2Z0Sk1UVV81dklhWW1MZV9FMHZRaXdVZ3E5SHI?oc=5",
+      "title": "El futuro de la inteligencia artificial está definido por la confianza - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnA2S21YajlyT0VZbzVUbjJ0Q3ZUaFl3eG1VLU5RcHhkSF9BY1oxZ3VWZjlTemI4Um5ISU5ocWlTNGRUWVNZdXN6VTVPYm1hMkNacjVPUDVqbE9tY1pKWmRKR1B5Unh3ZDVDcjhlZmh0c2ZIdHk4QW9MbThtZjMwbzBzczNQRUYwQmNkcGRFNWFwb1R6SW92bjhZYm11TDlHNEF5eDhCbkJoVFhZQkVFM0hUdUdJTEpS?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 25 Apr 2026 20:24:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRm1xYzYzVC1FMHJqbHFHSWxUcHN1WVhGTGZ6aXdabk1heVpBMXc3UElKUVJoUnZueXJENDZndG5oOWJYUFhjUXhIT0ttZ29HdWlDemtwNlU4eXNwSVRuUDZwQjJJd0NTSDU2d3pJR1BsMGRfODVOYndReDM3cElKR1Mwb3MzdHRHTlgyQjZoNFc2Qnh1M3V6LW4wVUFrdFB4RWZvQXh3LVR5cjJkQ3phOUFIVGxSeFdUZE"
+      "published": "Mon, 27 Apr 2026 21:08:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnA2S21YajlyT0VZbzVUbjJ0Q3ZUaFl3eG1VLU5RcHhkSF9BY1oxZ3VWZjlTemI4Um5ISU5ocWlTNGRUWVNZdXN6VTVPYm1hMkNacjVPUDVqbE9tY1pKWmRKR1B5Unh3ZDVDcjhlZmh0c2ZIdHk4QW9MbThtZjMwbzBzczNQRUYwQmNkcGRFNWFwb1R6SW92bjhZYm11TDlHNEF5eDhCbkJoVFhZQkVFM0hUdUdJTEpS?o"
     },
     {
-      "title": "El AI Technology Congress 2026 reunió a líderes tecnológicos y empresas globales. - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONm5kWnduRU1TYTNheGFsOUUzazdWTk9oQjVUTGRQeFRZckdPd1hlVEhSVko5ZW9zTVJGTDdYeldPc1d4dlktSGo4RGxvU054WUU0aTl4bm1MS1hPaG05YktmeGJ6X0Z2Q1FuMm4wOHpiM0ZmX1ZiRGgzcWFYeDRxR2ZRM01Nd2c4Z0Nadllwd1lXWjZEZ3JDTWpKMmpvN1RlSEhmaGxNM2NNSVQzQTJ6ZG1mR2RQWlk?oc=5",
+      "title": "Competencia tecnológica suma a México y Colombia en su primera edición internacional - eSemanal",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3BJZnpOa2hqTTRXanh3WjJUZVZGOVJWQmVlV0FIb2dzRV9ySDRnNnZkNTFQMXhZMVFkdjB1UEg3VDM2aGp0ZjB1YXhsR0d2WFZCRFF2RVZldWNnT2cxdE9zM0NNNkFzRUd2TF9LSVd3dFdXTHRha3dTNW1WNGxRcDhZQXdfOTF5SlMtbFZQSVp4aXF3dDlRbmdPWldIaWZfbVlsTmpNY1FYX19ma2lvOGtaOA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Apr 2026 21:48:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONm5kWnduRU1TYTNheGFsOUUzazdWTk9oQjVUTGRQeFRZckdPd1hlVEhSVko5ZW9zTVJGTDdYeldPc1d4dlktSGo4RGxvU054WUU0aTl4bm1MS1hPaG05YktmeGJ6X0Z2Q1FuMm4wOHpiM0ZmX1ZiRGgzcWFYeDRxR2ZRM01Nd2c4Z0Nadllwd1lXWjZEZ3JDTWpKMmpvN1RlSEhmaGxNM2NNSVQzQTJ6ZG1mR2RQWlk?oc"
+      "published": "Wed, 29 Apr 2026 17:34:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ3BJZnpOa2hqTTRXanh3WjJUZVZGOVJWQmVlV0FIb2dzRV9ySDRnNnZkNTFQMXhZMVFkdjB1UEg3VDM2aGp0ZjB1YXhsR0d2WFZCRFF2RVZldWNnT2cxdE9zM0NNNkFzRUd2TF9LSVd3dFdXTHRha3dTNW1WNGxRcDhZQXdfOTF5SlMtbFZQSVp4aXF3dDlRbmdPWldIaWZfbVlsTmpNY1FYX19ma2lvOGtaOA?oc=5\" t"
     },
     {
       "title": "San Francisco 2026: $111.700M en IA con economía rezagada - Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     },
     {
-      "title": "Cómo lucirá Monterrey en 200 años, según la IA - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5",
+      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODg?oc=5\" target=\"_blank\">Cómo lucirá Monterrey en 200"
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     }
   ],
   "count": 14
