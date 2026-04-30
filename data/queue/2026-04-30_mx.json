@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-30",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Microsoft Azure crece 40%, mientras Xbox cae 7%",
+      "url": "https://expansion.mx/tecnologia/2026/04/29/microsoft-azure-crece-40-mientras-xbox-cae-7",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 22:30:15 GMT",
+      "summary": "La firma liderada por Satya Nadella reportó ingresos por 82,900 millones de dólares, donde la estrella es su negocio de nube, pero padece con hardware y gaming."
+    },
+    {
+      "title": "Amazon acelera en IA, pero su flujo libre de efectivo cae 95%",
+      "url": "https://expansion.mx/tecnologia/2026/04/29/amazon-acelera-en-ia-pero-su-flujo-libre-de-efectivo-cae-95",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 21:45:45 GMT",
+      "summary": "La compañía elevó sus ventas 17% en el primer trimestre y AWS creció 28%.  Sin embargo, sus inversiones en IA redujeron su flujo libre de efectivo a 1,200 millones de dólares."
+    },
+    {
+      "title": "Meta crece 33%, pero su apuesta por IA elevará su gasto hasta 145,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/04/29/meta-crece-33-por-ciento-su-apuesta-por-ia-elevara-su-gasto- hasta-145000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 21:40:25 GMT",
+      "summary": "La plataforma generó 12,386 mdd de flujo libre, pero sus gastos en infraestructura de IA son cada vez más grandes."
+    },
+    {
+      "title": "Google Cloud crece 63% y confirma que la IA ya es uno de los motores de Alphabet",
+      "url": "https://expansion.mx/tecnologia/2026/04/29/alphabet-rompe-records-google-facturar-109000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 21:15:33 GMT",
+      "summary": "Alphabet reportó un trimestre sólido en ingresos y operación, impulsado por Search, Google Cloud y suscripciones."
+    },
+    {
+      "title": "“Mi promedio es de un minuto y diez segundos”: el tras bambalinas de Rappi Turbo",
+      "url": "https://expansion.mx/tecnologia/2026/04/29/secreto-rappi-turbo-preparar-pedidos-menos-dos-minutos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 19:00:17 GMT",
+      "summary": "Rappi Turbo y Chedraui apuestan por dark stores con hasta 7,000 productos para lograr entregas en menos de 10 minutos."
+    },
+    {
+      "title": "6 de cada 10 universitarios en México ya usan inteligencia artificial generativa, revela encuesta de la SEP - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMmpWX3hQVThPSzRKYm1vSldiRHZFaVpEb3h5eW5mQ2pzNDNpZDhSVTFDWDVaOU00MF9NYlB0Y3YzS1Q0RldCdDdYTzBKTkdMMlFsZ2hPcGVEYlhrNFlxWnRFUG1rY3dVaFNnQU1qX3RhM2JFaUI5cHV2TTFMX3pETUl3Xzd0bXo3ZHdvTGt3M0pLRmZqbTJXOEY0bjdkb1VUX0xMLUd3cXFqUUJBREFRXzlXbjdrcE01OXVITDFnRHBBSGZLMVB5MmFGNk1saGU0TS1ndUxscFdfY3IzVGhCZldXNNIB_gFBVV95cUxPWDMwbTh6WU9yWXJ1WGJBZU9lOVFHVGRkcTU3VHhvWk1sTVF0LVFfZ21LSXZwVzhNckxDUGxfTFJfZy01WE5TaVV6ZTZYUFgwVmRnZWlkWVNOWm85b2txZFFBMG5oQkZvb2phcUMzeUE0Vmpkb09DZkhFTm9XcUVIOFNPYUJ0UzhFYVdjNlhEY1p2eno5a2gyMnBEYkRWNVlTdGNHaXdKaFIySlllTWJiSVh4WGtPYzRjOTJjdDZEcVdtaHAtdE9aMUpSRk9lMFB5ZUJvMDQzUXk2M05ZalFzV0hQNm5aTkRvQ2hKYUdIRmhfNl8wMXk2SnRsSjV3dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 29 Apr 2026 20:25:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMmpWX3hQVThPSzRKYm1vSldiRHZFaVpEb3h5eW5mQ2pzNDNpZDhSVTFDWDVaOU00MF9NYlB0Y3YzS1Q0RldCdDdYTzBKTkdMMlFsZ2hPcGVEYlhrNFlxWnRFUG1rY3dVaFNnQU1qX3RhM2JFaUI5cHV2TTFMX3pETUl3Xzd0bXo3ZHdvTGt3M0pLRmZqbTJXOEY0bjdkb1VUX0xMLUd3cXFqUUJBREFRXzlXbjdrcE01OX"
+    },
+    {
+      "title": "El talento humano supera a la IA: sostiene Civitatis - Report News - México",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Apr 2026 12:48:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5\" target=\"_blank\">El talento hu"
+    },
+    {
+      "title": "79% de universitarios en México ya usa inteligencia artificial para generar textos - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3Z3ODVNaGt5VGpuLWF3dzRIdWlvN0ZEXzJxZm5iOVFIbHllemlwRTJDcVozS0xabU5aOGJDU3ZjODJRMWxwQVVrWThWSUIwVzIxRFpxZGJjVFd1VE9oTGVRNmI3RVdNazhHYVg0SWZMdGN5ZHpwWVNDdm1ZTW15SGloZDlZbzBkcGVnTG9lX0ZkTlcyOHo5Ql9DS2FFc09wenlub2drWnBHVEpUbXBfbndfemQzNHhrQzBZWmNwMllUSVI5MkHSAcsBQVVfeXFMT3ctXzdObnl5SGZKTlFlLXpXSFlsNUhjdzZNaVZfZjlMVURvR3FFWWVIX0V3SWQ3VkxaUmhyQjFyNTVScTlVOE9JWDhKV2RmdE43b0FUcy1Mel9fS1VWZ043QzZKT1dhSGYtQ3AzQmgySHpNQjllc3pDUWtzUHpRd1NROXlEU2hUZmQtU3JVTElhdmJ3cjFKSEJrbWxZRGtqMlRMSHY0c1lzY3NzM0pzUzdDd3VweVNMUzBid3BIS0hmM1d1ZHRVREx4YW8?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 29 Apr 2026 23:10:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3Z3ODVNaGt5VGpuLWF3dzRIdWlvN0ZEXzJxZm5iOVFIbHllemlwRTJDcVozS0xabU5aOGJDU3ZjODJRMWxwQVVrWThWSUIwVzIxRFpxZGJjVFd1VE9oTGVRNmI3RVdNazhHYVg0SWZMdGN5ZHpwWVNDdm1ZTW15SGloZDlZbzBkcGVnTG9lX0ZkTlcyOHo5Ql9DS2FFc09wenlub2drWnBHVEpUbXBfbndfemQzNHhrQz"
+    },
+    {
+      "title": "San Francisco 2026: $111.700M en IA con economía rezagada - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpSOEQwVlRXRkZ2bTRCb1Y1R09GQXZjZmc1djhLbWZ0UmNsbVM5aFJtUW1XYUV6a3N2TldhekZSVTdSQXMtZUI1MU1HNEhGNUgxVFVLTFk2Sk9ma1hhTlZNQllCdlMxTEtlYmxmOGJkc2RRMzVEVExISE5JV2FLTEx3VzF4bDRkN09ZbmhIQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Apr 2026 05:40:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpSOEQwVlRXRkZ2bTRCb1Y1R09GQXZjZmc1djhLbWZ0UmNsbVM5aFJtUW1XYUV6a3N2TldhekZSVTdSQXMtZUI1MU1HNEhGNUgxVFVLTFk2Sk9ma1hhTlZNQllCdlMxTEtlYmxmOGJkc2RRMzVEVExISE5JV2FLTEx3VzF4bDRkN09ZbmhIQQ?oc=5\" target=\"_blank\">San Francisco 2026: $111.700M en "
+    },
+    {
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+    },
+    {
+      "title": "San Francisco 2026: capital de IA con economía rezagada - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 28 Apr 2026 05:28:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5\" target=\"_blank\">San Francisco 2026: capital de IA c"
+    },
+    {
+      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
+    },
+    {
+      "title": "Aeropuerto de Monterrey incluirá IA y robótica para el Mundial - REPORTUR.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5\" target="
+    },
+    {
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    }
+  ],
+  "count": 14
+}
