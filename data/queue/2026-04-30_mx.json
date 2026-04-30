@@ -3,6 +3,38 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La nueva función de Gemini genera Excel, Word, PDF, PowerPoint y más: guía para usarla y resultados reales",
+      "url": "https://expansion.mx/tecnologia/2026/04/30/gemini-genera-excel-word-y-pdf-desde-chat",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 22:24:27 GMT",
+      "summary": "La actualización que convierte a Gemini en una herramienta de trabajo real. Lo probamos con un informe técnico y esto fue lo que produjo."
+    },
+    {
+      "title": "Apple ingresa 111,200 mdd y confirma que su negocio sigue siendo el iPhone",
+      "url": "https://expansion.mx/tecnologia/2026/04/30/apple-ingresa-111-200-mdd-y-confirma-que-su-negocio-sigue-siendo-el-iphone",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 21:51:09 GMT",
+      "summary": "La firma de Cupertino tuvo un trimestre sólido en la venta de iPhones, lo que le llevó a reportar en un solo trimestre una cifra récord."
+    },
+    {
+      "title": "SPEI procesa millones de pagos, pero las empresas lidian con su automatización",
+      "url": "https://expansion.mx/tecnologia/2026/04/30/spei-procesa-millones-pagos-empresas-pierden-automatizacion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 21:00:56 GMT",
+      "summary": "Shinkansen apuesta por una infraestructura “agéntica” capaz de automatizar y tomar decisiones financieras a escala, con el objetivo de procesar hasta 10,000 millones de dólares mensuales."
+    },
+    {
+      "title": "Solo Elon Musk puede despedirse a sí mismo de SpaceX",
+      "url": "https://expansion.mx/tecnologia/2026/04/30/solo-elon-musk-puede-despedirse-a-si-mismo-de-spacex",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 19:30:06 GMT",
+      "summary": "Elon Musk mantendrá el control efectivo de SpaceX gracias a una estructura accionaria con derechos de voto reforzados."
+    },
+    {
       "title": "La carne asada mueve más de un millón de pedidos en DiDi",
       "url": "https://expansion.mx/tecnologia/2026/04/30/carne-asada-mueve-mas-de-un-millon-de-pedidos-en-didi",
       "source": "Expansión Tecnología",
@@ -11,44 +43,20 @@
       "summary": "Fenómenos como el Día del Taco, Reyes o San Valentín mueven las métricas de aplicaciones de delivery de manera interesante, y se replica con el día de la carne asada."
     },
     {
-      "title": "Usuarios de iPhone hacen 75% más compras iniciales en apps que Android",
-      "url": "https://expansion.mx/tecnologia/2026/04/30/android-domina-mexico-pero-ios-se-queda-dinero",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Apr 2026 11:55:49 GMT",
-      "summary": "Aunque Android lidera en volumen, iOS concentra mayor monetización y atrae más inversión de marcas y desarrolladores."
-    },
-    {
-      "title": "Microsoft Azure crece 40%, mientras Xbox cae 7%",
-      "url": "https://expansion.mx/tecnologia/2026/04/29/microsoft-azure-crece-40-mientras-xbox-cae-7",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Apr 2026 22:30:15 GMT",
-      "summary": "La firma liderada por Satya Nadella reportó ingresos por 82,900 millones de dólares, donde la estrella es su negocio de nube, pero padece con hardware y gaming."
-    },
-    {
-      "title": "Amazon acelera en IA, pero su flujo libre de efectivo cae 95%",
-      "url": "https://expansion.mx/tecnologia/2026/04/29/amazon-acelera-en-ia-pero-su-flujo-libre-de-efectivo-cae-95",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Apr 2026 21:45:45 GMT",
-      "summary": "La compañía elevó sus ventas 17% en el primer trimestre y AWS creció 28%.  Sin embargo, sus inversiones en IA redujeron su flujo libre de efectivo a 1,200 millones de dólares."
-    },
-    {
-      "title": "Meta crece 33%, pero su apuesta por IA elevará su gasto hasta 145,000 mdd",
-      "url": "https://expansion.mx/tecnologia/2026/04/29/meta-crece-33-por-ciento-su-apuesta-por-ia-elevara-su-gasto- hasta-145000-mdd",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Apr 2026 21:40:25 GMT",
-      "summary": "La plataforma generó 12,386 mdd de flujo libre, pero sus gastos en infraestructura de IA son cada vez más grandes."
-    },
-    {
-      "title": "El talento humano supera a la IA: sostiene Civitatis - Report News - México",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5",
+      "title": "Quién será el hombre más rico de México para el año 2030, según la Inteligencia Artificial - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcFh6bVhvM0trc2pKS3ZzMnRBNVB3WDRqemJDZmZaQUk4R3FDOUk4TldhUURTUV84WXpwSGJreFYzN0dIdnp1QVJTMThSeWFTb1BPcExOdzNKdUxLSEp2NEFILUNyZW5uTG1sdUtxYnl4RHU5TGd6MFRHbjNjX3RPZDdOUmR6UnpxbWIxbXdSbWdtZHd5OHA2ZEw1U3hWeFZsaExoVjhndjNXRm9WcmF5aWNKeldIN0xVN3ZselA0dWp5dV83dU91ZFNGb9IB0AFBVV95cUxOdWFZVW92OU16YllpSmRvMWpYaTZwSDlTUHRWR1U0d0lsa3N0SUNpOHlEYjhHX2xVbkV6cVVJb24xNUFQQkJPVlRkNVdjRTRVRkx4RTM0ZzBwUGJhRUs1TnZsYmtxcDVtMXZkeWtrT1h6UktaWklGXzMzSklyY0RRM01HaW5GS2VfMlc2elZ3bU1MOXVOamVBZTFhcXRrVFltMGlZWUgwRXhPS1IyeXNKc2VDdjVtY3YweEdXeDZ6XzZDaG9nUGdSM2hnMEhTWjFl?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 30 Apr 2026 12:48:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5\" target=\"_blank\">El talento hu"
+      "published": "Thu, 30 Apr 2026 18:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNcFh6bVhvM0trc2pKS3ZzMnRBNVB3WDRqemJDZmZaQUk4R3FDOUk4TldhUURTUV84WXpwSGJreFYzN0dIdnp1QVJTMThSeWFTb1BPcExOdzNKdUxLSEp2NEFILUNyZW5uTG1sdUtxYnl4RHU5TGd6MFRHbjNjX3RPZDdOUmR6UnpxbWIxbXdSbWdtZHd5OHA2ZEw1U3hWeFZsaExoVjhndjNXRm9WcmF5aWNKeldIN0xVN3"
+    },
+    {
+      "title": "Cambio histórico en el Código Penal: el Congreso de la Unión aprobó castigos y penas por delitos con inteligencia artificial - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMFJFek9QZmxYX2g2cXd6eW8tM2RueU4tbHpmNVUwTko4c0Z3SFdFd3p1dWttRnkzdG8wa1Z1eTJ2VUNMejVxR0RDbzVsRWZhaWxNd3FqdGYtOFlvUGhMQ1BtRDJ5SGdHVzAzZ01lZ2M5UXptYnVWaDR0ZnVCUnotODc3b0pMTGZKT2Z3NXIzSFNHTWNyRHo0cmRpTHZUVVJ3WGhTekZGbE9UQ1dDcEFhNTNuaHJldXJETHFDRHgweFV4cFhhUEQzS3hJcWRlX1JKNldMMnN0M2hHaXg5djVxNC11c2wtUmtfS1N6eHNQWjBPb0ZJZnR2YVAtSGRuRUnSAZoCQVVfeXFMUHEyaTN3NGxITzRKY3pCRWxtS2UwRHYzbTlRcFdfY3otcEs3ZmFmQ2p5a2dTQndBYmhjWHY4NlI1U0dkVlA1YldfTEQ3TGMwWmFtWGd1SGVVbXJvTEFSRXVVenUyT3V5dENaUTRId2dlTy1CS0dFT014eU5iNTlNcFpDUmwybl9LRlJoX1V4NUhTVlNuWDRGeEdTZmMyYk1zVl9ELWhfQVFhRUNrQ3pJT0NsOFEwRmxjcDRwNFpjazN4ZEk1TFNEdVh4c05IejR0SEVlZXRUVjVhaDVyY1drc3k5RzktaTN6alJCWHZBcTl2a0dJLTlWZGU5V05zNEh6MVd4YVdBd2ZZekhwRUtfUkJzbHEzTE5rV25n?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Apr 2026 19:50:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMFJFek9QZmxYX2g2cXd6eW8tM2RueU4tbHpmNVUwTko4c0Z3SFdFd3p1dWttRnkzdG8wa1Z1eTJ2VUNMejVxR0RDbzVsRWZhaWxNd3FqdGYtOFlvUGhMQ1BtRDJ5SGdHVzAzZ01lZ2M5UXptYnVWaDR0ZnVCUnotODc3b0pMTGZKT2Z3NXIzSFNHTWNyRHo0cmRpTHZUVVJ3WGhTekZGbE9UQ1dDcEFhNTNuaHJldXJETH"
     },
     {
       "title": "6 de cada 10 universitarios en México ya usan inteligencia artificial generativa, revela encuesta de la SEP - Infobae",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 29 Apr 2026 20:25:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMmpWX3hQVThPSzRKYm1vSldiRHZFaVpEb3h5eW5mQ2pzNDNpZDhSVTFDWDVaOU00MF9NYlB0Y3YzS1Q0RldCdDdYTzBKTkdMMlFsZ2hPcGVEYlhrNFlxWnRFUG1rY3dVaFNnQU1qX3RhM2JFaUI5cHV2TTFMX3pETUl3Xzd0bXo3ZHdvTGt3M0pLRmZqbTJXOEY0bjdkb1VUX0xMLUd3cXFqUUJBREFRXzlXbjdrcE01OX"
-    },
-    {
-      "title": "79% de universitarios en México ya usa inteligencia artificial para generar textos - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3Z3ODVNaGt5VGpuLWF3dzRIdWlvN0ZEXzJxZm5iOVFIbHllemlwRTJDcVozS0xabU5aOGJDU3ZjODJRMWxwQVVrWThWSUIwVzIxRFpxZGJjVFd1VE9oTGVRNmI3RVdNazhHYVg0SWZMdGN5ZHpwWVNDdm1ZTW15SGloZDlZbzBkcGVnTG9lX0ZkTlcyOHo5Ql9DS2FFc09wenlub2drWnBHVEpUbXBfbndfemQzNHhrQzBZWmNwMllUSVI5MkHSAcsBQVVfeXFMT3ctXzdObnl5SGZKTlFlLXpXSFlsNUhjdzZNaVZfZjlMVURvR3FFWWVIX0V3SWQ3VkxaUmhyQjFyNTVScTlVOE9JWDhKV2RmdE43b0FUcy1Mel9fS1VWZ043QzZKT1dhSGYtQ3AzQmgySHpNQjllc3pDUWtzUHpRd1NROXlEU2hUZmQtU3JVTElhdmJ3cjFKSEJrbWxZRGtqMlRMSHY0c1lzY3NzM0pzUzdDd3VweVNMUzBid3BIS0hmM1d1ZHRVREx4YW8?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 29 Apr 2026 23:10:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3Z3ODVNaGt5VGpuLWF3dzRIdWlvN0ZEXzJxZm5iOVFIbHllemlwRTJDcVozS0xabU5aOGJDU3ZjODJRMWxwQVVrWThWSUIwVzIxRFpxZGJjVFd1VE9oTGVRNmI3RVdNazhHYVg0SWZMdGN5ZHpwWVNDdm1ZTW15SGloZDlZbzBkcGVnTG9lX0ZkTlcyOHo5Ql9DS2FFc09wenlub2drWnBHVEpUbXBfbndfemQzNHhrQz"
     },
     {
       "title": "San Francisco 2026: $111.700M en IA con economía rezagada - Ecosistema Startup",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
     },
     {
+      "title": "Aeropuerto de Monterrey incluirá IA y robótica para el Mundial - REPORTUR.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5\" target="
+    },
+    {
       "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
-    },
-    {
-      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     }
   ],
   "count": 14

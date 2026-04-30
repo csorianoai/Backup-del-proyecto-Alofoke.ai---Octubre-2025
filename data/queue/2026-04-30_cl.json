@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Soy científico de microbioma intestinal y esto es lo que quiero que comas todos los días",
+      "url": "https://www.latercera.com/tendencias/noticia/soy-cientifico-de-microbioma-intestinal-y-esto-es-lo-que-quiero-que-comas-todos-los-dias/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 21:00:00 +0000",
+      "summary": "Cuando comes, no solo estás saciando el hambre, sino que también estás alimentado a millones de bacterias que habitan dentro de ti, en el intestino. Expertos sugieren que elegir bien los alimentos que consumimos puede marcar una gran diferencia en el equilibrio del microbioma intestinal y, con ello,"
+    },
+    {
       "title": "Por qué deberías empezar a usar inteligencia artificial si tienes una pyme en Chile",
       "url": "https://www.latercera.com/tendencias/noticia/por-que-deberias-empezar-a-usar-inteligencia-artificial-si-tienes-una-pyme-en-chile/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Netflix lanza un feed de videos verticales tipo TikTok para facilitar qué ver desde el celular. Mostrará clips personalizados de series y películas. Revisa cómo funciona y cuándo llega a Chile."
     },
     {
-      "title": "Quién era Ernie Dosio, el cazador que murió atacado por un elefante en África",
-      "url": "https://www.latercera.com/tendencias/noticia/quien-era-ernie-dosio-el-cazador-que-murio-atacado-por-un-elefante-en-africa/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Apr 2026 10:39:11 +0000",
-      "summary": "Cercanos al cazador estadounidense de 75 años afirmaron que el ataque ocurrió después de que Dosio y su grupo de caza se encontraran con una pequeña manada de elefantes que cuidaban a sus crías. Estaban en Gabón en busca de duikers de lomo amarillo."
-    },
-    {
       "title": "Observatorio sobre Inteligencia Artificial en la Educación para América Latina y el Caribe - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTFaUVd1X1VlcWFGMXItdjNQZ0FtMC1HNXA0SzFlbFVnU3c2RlBaai1oX0EtazQtSWZFU1RYQjEtX3I4WWU5dmNyRVhvdC11MGRhdzB3SHhnWURJMVVxZWN4QXZNR0JXcndUVGVtUml4RlpxTVFZTWRsNkNvNi04RFByTnNQVmFPNkxUeFp6QzY2UzNaeHgwUDRuNFpkTmd0ZzN4VXh2QUhjbWxpWEJVWUxncFRkWDhqMFQxWWkxZElQQXc?oc=5",
       "source": "Google News",
@@ -67,7 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVpsU004cVhBeUZKbTVkV0hyY2ZJRUc5Q1dCRzdBQmo0bS1uZVpNZFNjTzVVWHlfWDBPQnRLZUhlX0FUTnFCNkM0WEczbDJXNmhtYmdDc1Y2aUlTQkpHczNwZUVySlV2bXJURTA0RkhnTHg0T3lIWW5MQWtpMC1jbjlvNGlGZHM?oc=5\" target=\"_blank\">Nuevos cursos gratuitos en IA de Microsoft y"
     },
     {
-      "title": "IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjkvzGm2) - Fathom Journal",
+      "title": "IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjkvzGm2) - fathomjournal.org",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LQlBGX1JtTGYzNHZKNWN4RXBQaEJKdEVMRFRYcGJJTlBhdUV2LUQ1Y2RaM25oeXIwMHNnMG0zQjU0b1ZWeUtlWWstZGo2a0pHajRXa001dTBuM0lqcnlUQjhqVjFLOUN4X19jbjFjX3Z6WjFVWFE?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEpOTzJuZ1FvbmpoZEtGUjJsa21pMVh0aG4zRkhnaWJmd21fNkR4MHVjWWVJTDU1U2xtWHB0MjZZTzJZWFh4Vlhib0ttQmxkSUVQSmlPOXFaaDNfdmJvdXJpN0FzNUFsbW5laHY1bUNKV3V0TUxFTm9DY2NCaXF3T1J3dnJpMDg?oc=5\" target=\"_blank\">FIT 2026: 8 startups y el futuro tech de Los"
     },
     {
-      "title": "ENTREVISTA| Álvaro Hidalgo y la industria SportsTech en Chile: crear startups para cambiar el deporte - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGdQYzIzVzNxVGpnZHpLMTQ2VE1Ub2Z4YldCbTZ3OVdKSmZWTmUteWpXS0JUSTdsRGl1YWZEdTZmWl9uM2pCRFd3TGZuYm9xZURvT2lNcGZGbnZMU29CY0dCV3VDWW1pS2RVZnlDUXBaRXJkMDBMeTFkVkx2d2p5dkJ4eFE5b0JLTmNrT1NUQ0dicG5wVjVLeWdrbzQwX0NNTFYzcHdiQnNLeXg4RVhqRGY4QQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 26 Apr 2026 05:09:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGdQYzIzVzNxVGpnZHpLMTQ2VE1Ub2Z4YldCbTZ3OVdKSmZWTmUteWpXS0JUSTdsRGl1YWZEdTZmWl9uM2pCRFd3TGZuYm9xZURvT2lNcGZGbnZMU29CY0dCV3VDWW1pS2RVZnlDUXBaRXJkMDBMeTFkVkx2d2p5dkJ4eFE5b0JLTmNrT1NUQ0dicG5wVjVLeWdrbzQwX0NNTFYzcHdiQnNLeXg4RVhqRGY4QQ?oc=5\" t"
-    },
-    {
       "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - Infodefensa",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YXlEenBwNnpqcGdRS2VoZE4xQzlvTlFKbnhWTmhxOVNMS2xSQnYxaTRBbDlpWjQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 11 Mar 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
+    },
+    {
+      "title": "FIDAE 2026 y la Fuerza Aérea de Chile abren la convocatoria para startups “Despega al Futuro” con el foco en tecnologías aeroespacial - Defensa.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Apr 2026 15:03:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
     }
   ],
   "count": 14
