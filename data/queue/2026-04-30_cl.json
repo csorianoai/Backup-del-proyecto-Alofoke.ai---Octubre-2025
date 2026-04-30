@@ -3,20 +3,28 @@
   "country": "cl",
   "articles": [
     {
-      "title": "Qué se sabe de los bots de IA que revelaron a los científicos cómo fabricar armas biológicas",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-los-bots-de-ia-que-revelaron-a-los-cientificos-como-fabricar-armas-biologicas/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Apr 2026 15:17:11 +0000",
-      "summary": "Distintos expertos relataron cómo los chatbots pueden guiar paso a paso las instrucciones para crear agentes biológicos."
-    },
-    {
       "title": "Por qué deberías empezar a usar inteligencia artificial si tienes una pyme en Chile",
       "url": "https://www.latercera.com/tendencias/noticia/por-que-deberias-empezar-a-usar-inteligencia-artificial-si-tienes-una-pyme-en-chile/",
       "source": "La Tercera Tecnología",
       "category": "tech",
       "published": "Thu, 30 Apr 2026 15:06:10 +0000",
       "summary": "Cómo usar la inteligencia artificial en pymes en Chile: estos son los beneficios, primeros pasos y las claves para automatizar procesos, mejorar la gestión y crecer sin aumentar los costos."
+    },
+    {
+      "title": "Pymes en cifras: cuántas hay en Chile, cuánta venta generan y en qué regiones les va mejor",
+      "url": "https://www.latercera.com/tendencias/noticia/pymes-en-cifras-cuantas-hay-en-chile-cuanta-venta-generan-y-en-que-regiones-les-va-mejor/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 29 Apr 2026 21:00:00 +0000",
+      "summary": "En el Día Nacional del Emprendimiento, un nuevo análisis pone en perspectiva el peso real de las pymes en la economía local y la brecha existente frente a las grandes empresas."
+    },
+    {
+      "title": "Qué se sabe de los bots de IA que revelaron a los científicos cómo fabricar armas biológicas",
+      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-los-bots-de-ia-que-revelaron-a-los-cientificos-como-fabricar-armas-biologicas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 15:17:11 +0000",
+      "summary": "Distintos expertos relataron cómo los chatbots pueden guiar paso a paso las instrucciones para crear agentes biológicos."
     },
     {
       "title": "Videos verticales en Netflix: la nueva herramienta para ver contenido en formato de redes sociales",
@@ -35,28 +43,12 @@
       "summary": "Cercanos al cazador estadounidense de 75 años afirmaron que el ataque ocurrió después de que Dosio y su grupo de caza se encontraran con una pequeña manada de elefantes que cuidaban a sus crías. Estaban en Gabón en busca de duikers de lomo amarillo."
     },
     {
-      "title": "Cuál es la cantidad óptima de horas de sueño para reducir el riesgo de demencia, según una investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/cual-es-la-cantidad-optima-de-horas-de-sueno-para-reducir-el-riesgo-de-demencia-segun-una-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Apr 2026 10:03:00 +0000",
-      "summary": "El estudio dirigido por un equipo de la Universidad de York en Canadá también consideró factores como la actividad física y el sedentarismo. Presumen que sus hallazgos podrían contribuir a la prevención o el retraso de la demencia."
-    },
-    {
-      "title": "Nuevos cursos gratuitos en IA de Microsoft y SENCE - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVpyMVdMYWdPWDU5a0NnRlVpQVE4aXZGdG5SWWtPbnpaeldGVFR6U2RwTmNSOFZHRTRPZGhxWkpNN3JIcGVSdzhvc0gxQXlQTm4xYjRyOXpyeGRINHo2R01rdnpWY1RhT3l6Z1JaaXFXUy1yWlk4NlpZTEVCcWNUVlVHY0gtLUdDd1VTQ2dmODFiVTVJUF95bzJNNnZBM181MzRsMVdxLTROLV9nYzNUdzhmWQ?oc=5",
+      "title": "Observatorio sobre Inteligencia Artificial en la Educación para América Latina y el Caribe - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTFaUVd1X1VlcWFGMXItdjNQZ0FtMC1HNXA0SzFlbFVnU3c2RlBaai1oX0EtazQtSWZFU1RYQjEtX3I4WWU5dmNyRVhvdC11MGRhdzB3SHhnWURJMVVxZWN4QXZNR0JXcndUVGVtUml4RlpxTVFZTWRsNkNvNi04RFByTnNQVmFPNkxUeFp6QzY2UzNaeHgwUDRuNFpkTmd0ZzN4VXh2QUhjbWxpWEJVWUxncFRkWDhqMFQxWWkxZElQQXc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 29 Apr 2026 21:58:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVpyMVdMYWdPWDU5a0NnRlVpQVE4aXZGdG5SWWtPbnpaeldGVFR6U2RwTmNSOFZHRTRPZGhxWkpNN3JIcGVSdzhvc0gxQXlQTm4xYjRyOXpyeGRINHo2R01rdnpWY1RhT3l6Z1JaaXFXUy1yWlk4NlpZTEVCcWNUVlVHY0gtLUdDd1VTQ2dmODFiVTVJUF95bzJNNnZBM181MzRsMVdxLTROLV9nYzNUdzhmWQ?oc=5\" t"
-    },
-    {
-      "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTFaUVd1X1VlcWFGMXItdjNQZ0FtMC1HNXA0SzFlbFVnU3c2RlBaai1oX0EtazQtSWZFU1RYQjEtX3I4WWU5dmNyRVhvdC11MGRhdzB3SHhnWURJMVVxZWN4QXZNR0JXcndUVGVtUml4RlpxTVFZTWRsNkNvNi04RFByTnNQVmFPNkxUeFp6QzY2UzNaeHgwUDRuNFpkTmd0ZzN4VXh2QUhjbWxpWEJVWUxncFRkWDhqMF"
     },
     {
       "title": "Por qué deberías empezar a usar inteligencia artificial si tienes una pyme en Chile - La Tercera",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Thu, 30 Apr 2026 15:06:10 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXFYVFdYQ0tESEl2RHBXbFRzMDFEVFBVQjFwclB4T2JMeFJTdmJpSEZfcWk0M0hDcTRsZ21JcHFSM3lxdHczNlljdnFwWEY4WVJFZUxDeDByeGxZWWdJdHU5dVd1ODdqOHRqVkpoeVMyM1JOdlBmbFlxM0pfa2taVVhIXzR3ZXhLMU1CaXpBd25aQ21HdC1KYVlBTEwxSXFTdmtYeF9ucDBYVl9WWVdpV0JnbGRpWjFwcm"
+    },
+    {
+      "title": "Nuevos cursos gratuitos en IA de Microsoft y SENCE en Chile - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVpsU004cVhBeUZKbTVkV0hyY2ZJRUc5Q1dCRzdBQmo0bS1uZVpNZFNjTzVVWHlfWDBPQnRLZUhlX0FUTnFCNkM0WEczbDJXNmhtYmdDc1Y2aUlTQkpHczNwZUVySlV2bXJURTA0RkhnTHg0T3lIWW5MQWtpMC1jbjlvNGlGZHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Apr 2026 16:09:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVpsU004cVhBeUZKbTVkV0hyY2ZJRUc5Q1dCRzdBQmo0bS1uZVpNZFNjTzVVWHlfWDBPQnRLZUhlX0FUTnFCNkM0WEczbDJXNmhtYmdDc1Y2aUlTQkpHczNwZUVySlV2bXJURTA0RkhnTHg0T3lIWW5MQWtpMC1jbjlvNGlGZHM?oc=5\" target=\"_blank\">Nuevos cursos gratuitos en IA de Microsoft y"
     },
     {
       "title": "IA: ¿El Futuro Descontrolado? Santiago Hidalgo Habla Claro 🤖🚀 (6jLjkvzGm2) - Fathom Journal",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEpOTzJuZ1FvbmpoZEtGUjJsa21pMVh0aG4zRkhnaWJmd21fNkR4MHVjWWVJTDU1U2xtWHB0MjZZTzJZWFh4Vlhib0ttQmxkSUVQSmlPOXFaaDNfdmJvdXJpN0FzNUFsbW5laHY1bUNKV3V0TUxFTm9DY2NCaXF3T1J3dnJpMDg?oc=5\" target=\"_blank\">FIT 2026: 8 startups y el futuro tech de Los"
     },
     {
-      "title": "FIDAE 2026 y la Fuerza Aérea de Chile abren la convocatoria para startups “Despega al Futuro” con el foco en tecnologías aeroespacial - Defensa.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5",
+      "title": "ENTREVISTA| Álvaro Hidalgo y la industria SportsTech en Chile: crear startups para cambiar el deporte - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGdQYzIzVzNxVGpnZHpLMTQ2VE1Ub2Z4YldCbTZ3OVdKSmZWTmUteWpXS0JUSTdsRGl1YWZEdTZmWl9uM2pCRFd3TGZuYm9xZURvT2lNcGZGbnZMU29CY0dCV3VDWW1pS2RVZnlDUXBaRXJkMDBMeTFkVkx2d2p5dkJ4eFE5b0JLTmNrT1NUQ0dicG5wVjVLeWdrbzQwX0NNTFYzcHdiQnNLeXg4RVhqRGY4QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 07 Apr 2026 15:03:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdWNvVHE4MzdxRGdPVzRSNk5hSENheTA2T2wtaUNIeldIY2NNQkphbmkyLTI0aVNlSzVKMHY2Q1Y0dk1DdVVlZ2R1d0Rrb3RRd2hoaTNJMi1Nam5IckRvd25yQ2VxT1lyYXlFVWd4eWt5SVZvWV9qVi1yTUV2LTBfTWE3Vk5jazdWVDZLMy1xNVlmczNrdlM0bUowcmJWZw?oc=5\" target=\"_blank\">FIDAE 2026 y "
+      "published": "Sun, 26 Apr 2026 05:09:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNVGdQYzIzVzNxVGpnZHpLMTQ2VE1Ub2Z4YldCbTZ3OVdKSmZWTmUteWpXS0JUSTdsRGl1YWZEdTZmWl9uM2pCRFd3TGZuYm9xZURvT2lNcGZGbnZMU29CY0dCV3VDWW1pS2RVZnlDUXBaRXJkMDBMeTFkVkx2d2p5dkJ4eFE5b0JLTmNrT1NUQ0dicG5wVjVLeWdrbzQwX0NNTFYzcHdiQnNLeXg4RVhqRGY4QQ?oc=5\" t"
     },
     {
-      "title": "eMerge Americas: Chile impulsa su ecosistema tecnológico con delegación de 18 startups - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5",
+      "title": "Fidae 2026 invita a a startups chilenas a presentar proyectos tecnológicos en desafío de innovación abierta - Infodefensa",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YXlEenBwNnpqcGdRS2VoZE4xQzlvTlFKbnhWTmhxOVNMS2xSQnYxaTRBbDlpWjQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHA3eXpWQzY5SjBPUVNxeURXSllEdlViTmx6eERWNk0xMWJpZmNQdWJtY0hGdDJDWGVzaFp5V205cFBWd09YX24ta3I3WDF6b3UwYXBmMHp1TTJ0U1N1VlpNcXVJZVhZbVp5em1mcFIxYlpUU0d2MnRBTktjRUJFZE9LQ2FMdGJDYjdEeDFDQXlNbnFtQndxTUJieFdpTnlmR1JZR2xBU2lwNmdqTnVR?oc=5\" target="
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZHlwUGZid2JIeWFkU0Y4VVp6X2lMdS1rUlMyY3Bha2dYX2NyOXdHamY5cWVQMXZXMndTVVpYOWxOT0RHeGFqdUdPT1lldEd3ZUN2ZHhIbjJYOVVMbFRwV013Zm5WbDZxWG1NeG10akJIc0Jja0U5U1gzODBkYUhTWEZicXExNW9WTk4tWVZPNXJXR2xOQ3hEX05Yd0k4akhwaVIzY0pmamkyQ0RZODBUUnJvbnhtaTN2YX"
     }
   ],
   "count": 14

@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La carne asada mueve más de un millón de pedidos en DiDi",
+      "url": "https://expansion.mx/tecnologia/2026/04/30/carne-asada-mueve-mas-de-un-millon-de-pedidos-en-didi",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 17:30:46 GMT",
+      "summary": "Fenómenos como el Día del Taco, Reyes o San Valentín mueven las métricas de aplicaciones de delivery de manera interesante, y se replica con el día de la carne asada."
+    },
+    {
+      "title": "Usuarios de iPhone hacen 75% más compras iniciales en apps que Android",
+      "url": "https://expansion.mx/tecnologia/2026/04/30/android-domina-mexico-pero-ios-se-queda-dinero",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Apr 2026 11:55:49 GMT",
+      "summary": "Aunque Android lidera en volumen, iOS concentra mayor monetización y atrae más inversión de marcas y desarrolladores."
+    },
+    {
       "title": "Microsoft Azure crece 40%, mientras Xbox cae 7%",
       "url": "https://expansion.mx/tecnologia/2026/04/29/microsoft-azure-crece-40-mientras-xbox-cae-7",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "La plataforma generó 12,386 mdd de flujo libre, pero sus gastos en infraestructura de IA son cada vez más grandes."
     },
     {
-      "title": "Google Cloud crece 63% y confirma que la IA ya es uno de los motores de Alphabet",
-      "url": "https://expansion.mx/tecnologia/2026/04/29/alphabet-rompe-records-google-facturar-109000-mdd",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Apr 2026 21:15:33 GMT",
-      "summary": "Alphabet reportó un trimestre sólido en ingresos y operación, impulsado por Search, Google Cloud y suscripciones."
-    },
-    {
-      "title": "“Mi promedio es de un minuto y diez segundos”: el tras bambalinas de Rappi Turbo",
-      "url": "https://expansion.mx/tecnologia/2026/04/29/secreto-rappi-turbo-preparar-pedidos-menos-dos-minutos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Apr 2026 19:00:17 GMT",
-      "summary": "Rappi Turbo y Chedraui apuestan por dark stores con hasta 7,000 productos para lograr entregas en menos de 10 minutos."
+      "title": "El talento humano supera a la IA: sostiene Civitatis - Report News - México",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Apr 2026 12:48:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5\" target=\"_blank\">El talento hu"
     },
     {
       "title": "6 de cada 10 universitarios en México ya usan inteligencia artificial generativa, revela encuesta de la SEP - Infobae",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Wed, 29 Apr 2026 20:25:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMmpWX3hQVThPSzRKYm1vSldiRHZFaVpEb3h5eW5mQ2pzNDNpZDhSVTFDWDVaOU00MF9NYlB0Y3YzS1Q0RldCdDdYTzBKTkdMMlFsZ2hPcGVEYlhrNFlxWnRFUG1rY3dVaFNnQU1qX3RhM2JFaUI5cHV2TTFMX3pETUl3Xzd0bXo3ZHdvTGt3M0pLRmZqbTJXOEY0bjdkb1VUX0xMLUd3cXFqUUJBREFRXzlXbjdrcE01OX"
-    },
-    {
-      "title": "El talento humano supera a la IA: sostiene Civitatis - Report News - México",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 30 Apr 2026 12:48:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdmZ1SE5ua1MtWW5aSHVkVm9Pc3B2TEtTS1ZiSTlzN0JxSGNPX0U4eE5NOU4zQ0o0SmlRaFFub2VFQ3FUa2NhdlYtRHB2Y2tlck5UNHJVQlZ0WGxDSlB0dkt2Ty1GRzhua0R3dE91ZV91SXJxbjdKdVdQMFd5RVdyaUMwdDlROUM0b2o0WTNFZnB5VU9CZkJ2alpTa3NPZw?oc=5\" target=\"_blank\">El talento hu"
     },
     {
       "title": "79% de universitarios en México ya usa inteligencia artificial para generar textos - El Economista",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
     },
     {
-      "title": "Aeropuerto de Monterrey incluirá IA y robótica para el Mundial - REPORTUR.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5\" target="
-    },
-    {
       "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+    },
+    {
+      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     }
   ],
   "count": 14
