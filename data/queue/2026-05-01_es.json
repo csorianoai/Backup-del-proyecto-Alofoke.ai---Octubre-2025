@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "Trump anuncia aranceles del 25% a la importación de coches europeos",
+      "url": "https://elpais.com/internacional/2026-05-01/trump-anuncia-aranceles-del-25-a-la-importacion-de-coches-europeos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 01 May 2026 17:00:20 GMT",
+      "summary": "El presidente de Estados Unidos sostiene que Bruselas no ha cumplido con el acuerdo comercial alcanzado el año pasado"
+    },
+    {
+      "title": "60 días de conflicto: la guerra de Trump en Irán ya es tan impopular como la de Vietnam",
+      "url": "https://elpais.com/internacional/2026-05-01/60-dias-de-conflicto-la-guerra-de-trump-en-iran-ya-es-tan-impopular-como-la-de-vietnam.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 01 May 2026 18:55:26 GMT",
+      "summary": "El presidente estadounidense ha rechazado este viernes la tercera propuesta de paz de Teherán"
+    },
+    {
       "title": "Miles de trabajadores se manifiestan por la vivienda el Primero de Mayo: “Es insostenible que haya alquileres a 1.000 euros en barrios obreros”",
       "url": "https://elpais.com/economia/2026-05-01/los-sindicatos-se-manifiestan-en-toda-espana-contra-el-precio-de-la-vivienda-y-el-crecimiento-de-la-ultraderecha.html",
       "source": "El País Tecnología",
@@ -19,28 +35,12 @@
       "summary": "Desde la manifestación central, celebrada en Málaga, María Jesús Montero y Antonio Maíllo reivindican a sus partidos como las auténticas expresiones de la mayoría social"
     },
     {
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán envía una nueva propuesta para negociar con Estados Unidos",
-      "url": "https://elpais.com/internacional/2026-05-01/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 01 May 2026 14:05:04 GMT",
-      "summary": "Teherán amenaza con una respuesta contundente si Washington reanuda los ataques | Trump advierte de nuevo a España e Italia que retirará sus tropas por no “arrimar el hombro”"
-    },
-    {
       "title": "Álvaro Pombo: “Me agobia la malicia. Estas polémicas, las de Uclés y otros, parecen optar al chisme del año”",
       "url": "https://elpais.com/icon/2026-05-01/alvaro-pombo-me-agobia-la-malicia-estas-polemicas-las-de-ucles-y-otros-parecen-optar-al-chisme-del-ano.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Fri, 01 May 2026 03:30:01 GMT",
       "summary": "A sus 86 años, este gran escritor y estupendo conversador sigue escribiendo, y conversando, a velocidad de crucero"
-    },
-    {
-      "title": "Quevedo: “Me encanta ser rico, pero a la vez es una condena”",
-      "url": "https://elpais.com/cultura/2026-05-01/quevedo-me-encanta-ser-rico-pero-a-la-vez-es-una-condena.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 01 May 2026 03:30:01 GMT",
-      "summary": "El joven más escuchado de España, catapultado a leyenda internacional a los 20 años con su ‘Quédate’ junto a Bizarrap, reflexiona sobre la “depresión de caballo” por la que pasó, el reguetón o la fama. “Comparto piso de la manera más pija que hay, no quiero estar solo en Madrid”, confiesa"
     },
     {
       "title": "¿La inteligencia artificial ya destruye empleo en España? La ocupación retrocede en el sector tecnológico - EL PAÍS",
@@ -51,6 +51,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGpQSEx0cDVnMnJXY3pyUzVFSUtJbHhILTdPalpKOXpwUkIxSTdmdnFVc0dCTTFzN1Z2Z2MzX09NWVItWUhsS3FXdHhuQVNaY1ZiQWdYWUhZd0NBdlZSRW1BTndNUWpOT1hoeDdYRnhKTzZSanpOMnlNNDVldy1nc0ZMSGNCNDVwakZwZUFFUXJ0THJJaE8xcW1Bekt3bTljcWFtRWpUVXczZXo3RVJxU1RXMU4zYlY4Y1"
     },
     {
+      "title": "Cryptocurrency ownership and biases in perceived financial literacy - funcas.es",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3NWbElCZG1FRHZ1RHVzWTUwSXRwRkdjeVdoWjlJbmRIMUVnRHc1VHFXQnItcHZjaURESVdoQXZaXzNVdHVzNjIyYThxRXZDSng4S2lxdDlzYWlXWmxadVBwa0hGSVZyZlNuMEtOSVZ5UXVHS2xVOVp0Y01jc3lvVnFCX1B6Z2pYNV9Yc2FYcnk2OENibndxbTJQMzNKazROVzJ5bmFmMm1lYWY0SFNGZExXSS1HRVpQVGx0alFjZlhlRUVYZFRwUU1LSTluMG1hY2pDQnVXVVA0M0owdXM3OWw4QTBrRWV0QU1iR3Zxbk9FVzl1NkJ5VUpR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 29 Apr 2026 11:59:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3NWbElCZG1FRHZ1RHVzWTUwSXRwRkdjeVdoWjlJbmRIMUVnRHc1VHFXQnItcHZjaURESVdoQXZaXzNVdHVzNjIyYThxRXZDSng4S2lxdDlzYWlXWmxadVBwa0hGSVZyZlNuMEtOSVZ5UXVHS2xVOVp0Y01jc3lvVnFCX1B6Z2pYNV9Yc2FYcnk2OENibndxbTJQMzNKazROVzJ5bmFmMm1lYWY0SFNGZExXSS1HRVpQVG"
+    },
+    {
       "title": "Moreno se compromete a crear una Consejería de Inteligencia Artificial y Desarrollo Tecnológico - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHg0dEZGeVBXSjdHSENIRHBpT0p2TVpUM2NXYWZOWWVodDA1Wk5YbUpLSXAtdnJEQlE4aHZHRzRuWlpSZzJWY1NSdUN2Vl9zdVhQYjEtaXlDQTlodGhYM3RHcFIzZVU3VHZXZjBRV3Ryd2pNRUNaQTR5akZzZmMtSVF4V2p4ejRoNi1rQ2xlV0FtRDlCaFJXeFhMRFpCeUFhRFg5QkpLU2tmTm1tWnZEVmp2ZGt2Z3FObm5KNnBNbkJTWmNlT1hwaF9yMGJ3eWRVd0hGQmVncVBuY25iczRRNNIB-wFBVV95cUxNcHBHUnlVU2t5WmtIZGIxUThncGV4WTc5UVVPRUZ2WHdnWE00OTVyM1VpZEltbVNhcHlFU2pYQXRJSnJfNmIyRG1wa05QMGRYS1JHOXJGTEtCOXNqWTlBaGVuWFJlNlJqQ2tVZVdGRXc3U2ZiaU1Zb3ZhMkJXS1J0QzdkWmVEZnNRT0NNeDFSMjl4ZF9jSlZ0MU01WWhHS0FwbUYwcFJNZmdaeGh5cC1kSDA1WGFBYWFRQ2k1VXhMZ3YtenRsNzhyTzk4VHJiUzlCcTdac3NkR2VxdFJjeGhsMi15NHMzSUhUb0tvQ3ZJYjJQbWkwNDg4aktMTQ?oc=5",
       "source": "Google News",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOHg0dEZGeVBXSjdHSENIRHBpT0p2TVpUM2NXYWZOWWVodDA1Wk5YbUpLSXAtdnJEQlE4aHZHRzRuWlpSZzJWY1NSdUN2Vl9zdVhQYjEtaXlDQTlodGhYM3RHcFIzZVU3VHZXZjBRV3Ryd2pNRUNaQTR5akZzZmMtSVF4V2p4ejRoNi1rQ2xlV0FtRDlCaFJXeFhMRFpCeUFhRFg5QkpLU2tmTm1tWnZEVmp2ZGt2Z3FObm"
     },
     {
-      "title": "Cryptocurrency ownership and biases in perceived financial literacy - funcas.es",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3NWbElCZG1FRHZ1RHVzWTUwSXRwRkdjeVdoWjlJbmRIMUVnRHc1VHFXQnItcHZjaURESVdoQXZaXzNVdHVzNjIyYThxRXZDSng4S2lxdDlzYWlXWmxadVBwa0hGSVZyZlNuMEtOSVZ5UXVHS2xVOVp0Y01jc3lvVnFCX1B6Z2pYNV9Yc2FYcnk2OENibndxbTJQMzNKazROVzJ5bmFmMm1lYWY0SFNGZExXSS1HRVpQVGx0alFjZlhlRUVYZFRwUU1LSTluMG1hY2pDQnVXVVA0M0owdXM3OWw4QTBrRWV0QU1iR3Zxbk9FVzl1NkJ5VUpR?oc=5",
+      "title": "¿Cuándo juega, cómo y dónde ver al Barcelona? Día, hora, canal de TV y streaming online del partido vs. Osasuna por La Liga - sportingnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOdnZxV1FVRDRuT1RGenQ3eE5faWxtZmZsSjFNMzJwVGhmVWN5UHpUbElsT3VXQ3V1bWNkaTl2U3JyYXZ6MWUtNHNxazk2TmFBLUNRWEs2b2NYOF9XMFlnNFktS1RvQWVYODNQcmFLZmZ6ZGh6cHhUS0FvdkR2R2R5eEpOMVhyWk1UdHVCZlFnWVVaWFJmQkFqVWx5a1VvS2ozUF9ZTHkzSlg3V3NzaFlpQVU0S0NlckRnbkJ1ei1sd0U0Mi1wOE9lQnZIb3I4dVliZU8yZDFpdWoySFB1XzU1clltQktBMUNkVHpzT3hQcGJFdEh4ZkxwdkRVUG5rWnJzRkRTS0luUWxRWENpVWd3RXREdkJwTGNablVIcmtTbFN2Yk9lRURUc04yTFFrZ0Jj?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 29 Apr 2026 11:59:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3NWbElCZG1FRHZ1RHVzWTUwSXRwRkdjeVdoWjlJbmRIMUVnRHc1VHFXQnItcHZjaURESVdoQXZaXzNVdHVzNjIyYThxRXZDSng4S2lxdDlzYWlXWmxadVBwa0hGSVZyZlNuMEtOSVZ5UXVHS2xVOVp0Y01jc3lvVnFCX1B6Z2pYNV9Yc2FYcnk2OENibndxbTJQMzNKazROVzJ5bmFmMm1lYWY0SFNGZExXSS1HRVpQVG"
+      "published": "Fri, 01 May 2026 16:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxOdnZxV1FVRDRuT1RGenQ3eE5faWxtZmZsSjFNMzJwVGhmVWN5UHpUbElsT3VXQ3V1bWNkaTl2U3JyYXZ6MWUtNHNxazk2TmFBLUNRWEs2b2NYOF9XMFlnNFktS1RvQWVYODNQcmFLZmZ6ZGh6cHhUS0FvdkR2R2R5eEpOMVhyWk1UdHVCZlFnWVVaWFJmQkFqVWx5a1VvS2ozUF9ZTHkzSlg3V3NzaFlpQVU0S0NlckRnbk"
     },
     {
       "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
@@ -75,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
     },
     {
-      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
+      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Atlético de Madrid y el Barcelona - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXU5eloyYy1fMkJFUXh6UFY2UDlzemNFeDJ3V1hqT3pHZ1VvaEp4UUN6eUZSYWZtV3RGd19DbTVLQ2dMVE4zWGFScGJtRVlwRVdibmZwZHhwWmo1QXVXd3k4NDBxZVFzMlFtaUtndlExVDJySTdWc3IycEtSSE5RR1M5UDIwTS1DX3h0cUt2WHh4SGJqVlp6bktuTVo1ZWFVNGItSWtGblo?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
-    },
-    {
-      "title": "La Inteligencia Artificial predijo si Barcelona remontará contra Atlético de Madrid en la Champions League - bolavip.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMTE3UFF2RUM0U1BjdjVNcFFVZW9DRFRJSU9UYm5Xei1hcU5nc1Bv0gHkAUFVX3lxTE5aQ2RDekI1MTU5bWR3V252bTRrcU1rTHlEZGhUQXB2VWxlUXhaMWlsaXRzXzVyUHVKdURuM2tjdUxmVGdhR1FKc0lwSW8tRExweFBoSVdDNmtZcTcyQTNIQm1CVG02QUNUYVpkdUtBSkVKeFdURTBDc1N1dUZqQkhpRDNyYTRZV09DMHdUVG85emdSRG1mdE1nMTVWbGFqQVo4OXlzelc5MUtxWk9oOTBQd3g5YmdRaGJ3Z0NVYTJheHZIalJjclV2dTQ0QlFCWHBzUUI5WFhjTDBZWEh6eWtUQWtIbA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQml1bFRfdlA5cm5rZWNvMUNaU0dXUTcyWmtRVElIb3RPbzV0RXlIeWphd1V5Zm5Jd2xaZjJlNGFBS2VwT3ppdGdMZFNLZGNoZWJvUVpTZXFKRW5TaDdKeGZnQzkzT010cjhCenA1ZFJfeFktczBISjJfRER5RFdkQzVIclpvVGt4V1hEMzNqbTJxX0x2eTdvRVU5cmE1eWJRS2JqNUZkRi1vc0FHSTZZbDZoUFltcFZnMT"
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXU5eloyYy1fMkJFUXh6UFY2UDlzemNFeDJ3V1hqT3pHZ1VvaEp4UUN6eUZSYWZtV3RGd19DbTVLQ2dMVE4zWGFScGJtRVlwRVdibmZwZHhwWmo1QXVXd3k4NDBxZVFzMlFtaUtndlExVDJySTdWc3IycEtSSE5RR1M5UDIwTS1DX3h0cUt2WHh4SGJqVlp6bktuTVo1ZWFVNGItSWtGblo?oc=5\" target=\"_blank\">"
     },
     {
       "title": "Tecnología accesible 2026: 600K€ en ayudas para startups - Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "PropTech Latam: USD 100K para startups Real Estate 2026 - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHl3OGYtZ0hLTjlYSkE1NGZtNUVGbFNkNnVBSmVSZVB5SUd4UXRreGlsZFd3S3BmYU80Yjh3U1JId0xaenBZNU9MQW5xdG5WUzVSNkR6U3RtUWxzcmlZOUpWUHl3Z0taY0V5Sld2dy1wQ0RFbEdKMTZuUGMyVEsyMmJkc3F3eERCOURlRThn?oc=5",
+      "title": "FIT 2026: 8 startups y el futuro tech de Los Lagos - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEpOTzJuZ1FvbmpoZEtGUjJsa21pMVh0aG4zRkhnaWJmd21fNkR4MHVjWWVJTDU1U2xtWHB0MjZZTzJZWFh4Vlhib0ttQmxkSUVQSmlPOXFaaDNfdmJvdXJpN0FzNUFsbW5laHY1bUNKV3V0TUxFTm9DY2NCaXF3T1J3dnJpMDg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 01 May 2026 01:01:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHl3OGYtZ0hLTjlYSkE1NGZtNUVGbFNkNnVBSmVSZVB5SUd4UXRreGlsZFd3S3BmYU80Yjh3U1JId0xaenBZNU9MQW5xdG5WUzVSNkR6U3RtUWxzcmlZOUpWUHl3Z0taY0V5Sld2dy1wQ0RFbEdKMTZuUGMyVEsyMmJkc3F3eERCOURlRThn?oc=5\" target=\"_blank\">PropTech Latam: USD 100K para start"
+      "published": "Wed, 29 Apr 2026 01:37:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEpOTzJuZ1FvbmpoZEtGUjJsa21pMVh0aG4zRkhnaWJmd21fNkR4MHVjWWVJTDU1U2xtWHB0MjZZTzJZWFh4Vlhib0ttQmxkSUVQSmlPOXFaaDNfdmJvdXJpN0FzNUFsbW5laHY1bUNKV3V0TUxFTm9DY2NCaXF3T1J3dnJpMDg?oc=5\" target=\"_blank\">FIT 2026: 8 startups y el futuro tech de Los"
     }
   ],
   "count": 14
