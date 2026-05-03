@@ -3,12 +3,12 @@
   "country": "es",
   "articles": [
     {
-      "title": "Regularización de migrantes: “Tener papeles nos salva la vida”",
-      "url": "https://elpais.com/espana/2026-05-03/regularizacion-de-migrantes-esta-ley-nos-salva-la-vida.html",
+      "title": "Alemania se embarca en un rearme con dudas por los fantasmas del pasado",
+      "url": "https://elpais.com/internacional/2026-05-03/alemania-se-lanza-a-un-rearme-con-dudas-por-los-fantasmas-del-pasado.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 03 May 2026 03:30:01 GMT",
-      "summary": "Los extranjeros sin papeles sueñan ya con trabajar legalmente, cobrar más y viajar para abrazar a sus hijos"
+      "published": "Sun, 03 May 2026 17:29:46 GMT",
+      "summary": "El país más poblado de la UE se debate entre el apoyo mayoritario a elevar el gasto en defensa y el recelo a volver a ser potencia militar"
     },
     {
       "title": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
@@ -19,12 +19,20 @@
       "summary": "Los nuevos acuerdos del Pentágono con las grandes tecnológicas y el juicio de OpenAI que enfrenta a los magnates tumban el discurso de la industria sobre una inteligencia artificial pensada para salvar a la humanidad"
     },
     {
-      "title": "Los amos de la IA en la sombra",
-      "url": "https://elpais.com/tecnologia/2026-05-03/los-amos-de-la-ia-en-la-sombra.html",
+      "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venció Aureliano al mar",
+      "url": "https://elpais.com/espana/2026-05-03/doce-dias-a-la-deriva-sin-motor-ni-radio-y-con-olas-de-cinco-metros-asi-vencio-aureliano-al-mar.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 03 May 2026 03:30:00 GMT",
-      "summary": "Elon Musk y Sam Altman copan los titulares, pero millonarios, teóricos y futurólogos diseñan la tecnología más transformadora de nuestra era"
+      "published": "Sun, 03 May 2026 03:30:01 GMT",
+      "summary": "Aureliano Mendes, de 69 años, narra a EL PAÍS cómo sobrevivió a un imposible: un velero sin motor, ni radio, ni GPS, ni apenas comida ni agua, enfrentando uno de los peores temporales en años. Un hombre que salió de Gandia y dieron por muerto, hasta que fue rescatado por un buque mercante en aguas d"
+    },
+    {
+      "title": "Regularización de migrantes: “Tener papeles nos salva la vida”",
+      "url": "https://elpais.com/espana/2026-05-03/regularizacion-de-migrantes-esta-ley-nos-salva-la-vida.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 03 May 2026 03:30:01 GMT",
+      "summary": "Los extranjeros sin papeles sueñan ya con trabajar legalmente, cobrar más y viajar para abrazar a sus hijos"
     },
     {
       "title": "El hijo de Maduro habla de su padre preso en Estados Unidos: lee la Biblia, intercambia libros y se enfada por el Barça",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Sun, 03 May 2026 03:30:01 GMT",
       "summary": "Nicolás Maduro Guerra reconstruye por primera vez en esta entrevista cómo fue aquella madrugada del 3 de enero en que lo dio por muerto"
-    },
-    {
-      "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venció Aureliano al mar",
-      "url": "https://elpais.com/espana/2026-05-03/doce-dias-a-la-deriva-sin-motor-ni-radio-y-con-olas-de-cinco-metros-asi-vencio-aureliano-al-mar.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 03 May 2026 03:30:01 GMT",
-      "summary": "Aureliano Mendes, de 69 años, narra a EL PAÍS cómo sobrevivió a un imposible: un velero sin motor, ni radio, ni GPS, ni apenas comida ni agua, enfrentando uno de los peores temporales en años. Un hombre que salió de Gandia y dieron por muerto, hasta que fue rescatado por un buque mercante en aguas d"
     },
     {
       "title": "¿La inteligencia artificial ya destruye empleo en España? La ocupación retrocede en el sector tecnológico - EL PAÍS",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm16U3liWXljLWwydi1hQ05OWC02Vll1N2s00gHYAUFVX3lxTE1nU2tjbXpDZFpIb2lXdGF2TEM5eXNSWWI4QjJJSUZKWjNKWlZkVlZMRTZwLURiODcwRDBzZEVDV3R4UElKeU9la0FmanNBTW5yWW5UM1JKWjRMbXhKX2FVYVFRNGpIR19qUEwwYjVwVW16SEI2WmZReUJrSk1PNEFUaTFMM1BvRDhjY0VnSTB3eG02SjJHcDlBQlNQWE1RWDVXUlRDS3RCM2FNZkV2OTZ5UTdoYnFFZEZtb1R5VmtYS20zTU1ZanNvLWRfeDljNGFBQnFUa2dKcw?oc=5",
+      "title": "ELEVA AI: +25% gasto en centros comerciales con IA - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmRMcGl3UU95dW9XZjRPaUtXRHNrNEQtaHdTMjJERkEzSF9kbm5fZUVHVjBsS0szOHZvSWt5ektqZmE3S0stQVVUSkxYU0VFRThieU9TMTY4b2R2MEUxWUlicVNkR0NsWDRuZDU2QWlwR1N1T0U1UVZIWDFna2w1ZklsSWFjM0U?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
+      "published": "Thu, 30 Apr 2026 07:50:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmRMcGl3UU95dW9XZjRPaUtXRHNrNEQtaHdTMjJERkEzSF9kbm5fZUVHVjBsS0szOHZvSWt5ektqZmE3S0stQVVUSkxYU0VFRThieU9TMTY4b2R2MEUxWUlicVNkR0NsWDRuZDU2QWlwR1N1T0U1UVZIWDFna2w1ZklsSWFjM0U?oc=5\" target=\"_blank\">ELEVA AI: +25% gasto en centros comerciales "
     }
   ],
   "count": 14
