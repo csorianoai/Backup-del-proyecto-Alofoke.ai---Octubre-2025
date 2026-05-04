@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
+      "title": "Premios Ortega y Gasset y 50º aniversario de EL PAÍS, en directo | Felipe VI: “El periodismo es crucial para las libertades y la democracia”",
+      "url": "https://elpais.com/comunicacion/premios-ortega-y-gasset/2026-05-04/ultima-hora-de-los-premios-ortega-y-gasset-de-periodismo-en-directo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 04 May 2026 19:37:53 GMT",
+      "summary": "El director del diario: “En un mundo tan convulso e incierto como el actual, no vamos a quedar impasibles ante las guerras, los abusos y las mentiras” | Los Premios Ortega y Gasset reconocen la trayectoria de Svetlana Alexiévich, Sergio Ramírez y Martin Baron"
+    },
+    {
       "title": "Los Premios Ortega y Gasset celebran el periodismo de resistencia, el contraste y la honradez",
       "url": "https://elpais.com/aniversario/2026-05-04/los-premios-ortega-y-gasset-de-periodismo-celebran-el-periodismo-de-resistencia-el-contraste-y-la-honradez.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Mon, 04 May 2026 14:38:23 GMT",
       "summary": "Una edición especial con motivo del 50 aniversario de EL PAÍS reconoce las trayectorias de Svetlana Alexiévich, Martin Baron y Sergio Ramírez"
+    },
+    {
+      "title": "Svetlana Alexiévich, al recibir el Premio Ortega y Gasset de Periodismo: “Puede que no acabemos de entender la locura del día de hoy, pero tenemos que dejarla por escrito”",
+      "url": "https://elpais.com/comunicacion/premios-ortega-y-gasset/2026-05-04/svetlana-alexievich-al-recibir-el-premio-ortega-y-gasset-de-periodismo-puede-que-no-acabemos-de-entender-la-locura-del-dia-de-hoy-pero-tenemos-que-dejarla-por-escrito.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 04 May 2026 18:31:43 GMT",
+      "summary": "La Nobel de Literatura bielorrusa reivindica el papel de los periodistas para dejar testimonio: “Tenemos que ir en búsqueda de testigos, allí donde ellos estén”"
+    },
+    {
+      "title": "Salvador Illa elogia los valores del buen periodismo: “Es más necesario que nunca”",
+      "url": "https://elpais.com/comunicacion/premios-ortega-y-gasset/2026-05-04/salvador-illa-elogia-los-valores-del-buen-periodismo-es-mas-necesario-que-nunca.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 04 May 2026 16:14:26 GMT",
+      "summary": "El ‘president’ advierte contra la “desinformación, la mentira y manipulación”, que amenazan los fundamentos de la convivencia"
     },
     {
       "title": "Jaume Collboni asegura que “Barcelona siempre defenderá el trabajo de los periodistas que arriesgan”",
@@ -19,28 +43,12 @@
       "summary": "El alcalde de la capital catalana anuncia la creación de un observatorio contra la desinformación para “contrastar noticias falsas sobre la ciudad” y “proteger la democracia”"
     },
     {
-      "title": "El director de EL PAÍS reivindica el compromiso del diario con la “calidad y la defensa de la democracia”",
-      "url": "https://elpais.com/aniversario/2026-05-04/el-director-de-el-pais-reivindica-el-compromiso-del-diario-con-la-calidad-y-la-defensa-de-la-democracia.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 04 May 2026 15:12:47 GMT",
-      "summary": "Jan Martínez Ahrens reclama anteponer “el dato al prejuicio” para mantener el compromiso del periódico “con los lectores y la verdad”"
-    },
-    {
-      "title": "Manuel Vicent defiende que el éxito de un periodista “no está en ser leído sino en ser creído”",
-      "url": "https://elpais.com/aniversario/2026-05-04/manuel-vicent-defiende-que-el-exito-de-un-periodista-no-esta-en-ser-leido-sino-en-ser-creido.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 04 May 2026 15:50:38 GMT",
-      "summary": "El escritor y columnista de EL PAÍS reivindica en su discurso durante la ceremonia de los Premios Ortega y Gasset de Periodismo la búsqueda de la verdad ante “las soluciones fáciles a problemas complicados”"
-    },
-    {
-      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos niega haber recibido dinero de Aldama y acusa a la UCO de tener “ganas” de imputarle algo: “Pensarían que habían hecho el gran hallazgo”",
-      "url": "https://elpais.com/espana/2026-05-04/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 04 May 2026 15:56:27 GMT",
-      "summary": "El exministro sugiere que su expareja Jésica Rodríguez pactó su declaración con el comisionista | Ábalos, sobre los presuntos ingresos en efectivo: “Se pueden empeñar. No van a encontrarme nada”"
+      "title": "El primer gran informe sobre el impacto de la IA en España no deja lugar a dudas: entre 1,7 y 2,3 millones de empleos en riesgo - Xataka",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDRPalMxV2hFLXFuTDI5SmJXVzcxYWk5eTc1MFBneXZwOXpRMk5FY3loVFVKU1I1RlNPVnh5NEFwVHlCaDNiTHJEeWxXeElnTWs3S1NjdEpiQm9jcjk5bVhtUUQxdU9kcFI5WXd6Z2VQZU1yZmNlUVNKNUVxNVptZngyanRxdEF1NldDRTI1TFZWeHF2UEx0MEFOcmJlcGJYeVFQOXJlNUNhQm1kelgyMnl2Rk01VXRBM2FndnF2NzdoZTcxaTYw0gHMAUFVX3lxTE1MTDZTcnhMcGN3RXJlc0hmd2lKeFdtV1JuY0hWU25NdG1iMmEtLURwWlpIZ2NXWThKNWl5djJFbU1wa1dLbUo2S1pkMHRRRjQ2bFZpd1pWOGgyZXZsNl80eDlWXzdSYk1LNklTZ25qY3hZOHE0Q2ZJR25RUGZGQ0tQS1J2YXNpNTFFUXF5MEdsUUo2Y2U2RjNpSHh4X1JjdVRjOVRYT1R6bmZqa3N5TndKaHNmc1g2bUhBT3BUTk1Na1FxYzU4VkFJblprMQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 04 May 2026 17:16:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDRPalMxV2hFLXFuTDI5SmJXVzcxYWk5eTc1MFBneXZwOXpRMk5FY3loVFVKU1I1RlNPVnh5NEFwVHlCaDNiTHJEeWxXeElnTWs3S1NjdEpiQm9jcjk5bVhtUUQxdU9kcFI5WXd6Z2VQZU1yZmNlUVNKNUVxNVptZngyanRxdEF1NldDRTI1TFZWeHF2UEx0MEFOcmJlcGJYeVFQOXJlNUNhQm1kelgyMnl2Rk01VXRBM2"
     },
     {
       "title": "¿La inteligencia artificial ya destruye empleo en España? La ocupación retrocede en el sector tecnológico - EL PAÍS",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 04 May 2026 14:02:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVVNNeWRoZ09qT1JhbjBkTUxLaWpablZiT2RUVmtIOFFodWhReFpCZDlxdGtVbVZzMVBoZ3k2N1pFZldIVFlFRWkwN3NmNjhPMWl3bnF1RkRjTWtxVWpWbDl0VkR4bW5zUUphSTlrcWRSRk1ibXJ0WFQyTlBlblBEcXc2N2JTNnpKaXRCS0xnSGR5dU1UdzJSejY0eVFsV3NDQlRVc3lfOEtfTmJlM1VKY1VNZUpKTk9qTD"
-    },
-    {
-      "title": "Cryptocurrency ownership and biases in perceived financial literacy - funcas.es",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3NWbElCZG1FRHZ1RHVzWTUwSXRwRkdjeVdoWjlJbmRIMUVnRHc1VHFXQnItcHZjaURESVdoQXZaXzNVdHVzNjIyYThxRXZDSng4S2lxdDlzYWlXWmxadVBwa0hGSVZyZlNuMEtOSVZ5UXVHS2xVOVp0Y01jc3lvVnFCX1B6Z2pYNV9Yc2FYcnk2OENibndxbTJQMzNKazROVzJ5bmFmMm1lYWY0SFNGZExXSS1HRVpQVGx0alFjZlhlRUVYZFRwUU1LSTluMG1hY2pDQnVXVVA0M0owdXM3OWw4QTBrRWV0QU1iR3Zxbk9FVzl1NkJ5VUpR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 29 Apr 2026 11:59:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3NWbElCZG1FRHZ1RHVzWTUwSXRwRkdjeVdoWjlJbmRIMUVnRHc1VHFXQnItcHZjaURESVdoQXZaXzNVdHVzNjIyYThxRXZDSng4S2lxdDlzYWlXWmxadVBwa0hGSVZyZlNuMEtOSVZ5UXVHS2xVOVp0Y01jc3lvVnFCX1B6Z2pYNV9Yc2FYcnk2OENibndxbTJQMzNKazROVzJ5bmFmMm1lYWY0SFNGZExXSS1HRVpQVG"
     },
     {
       "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "EDIP 2026: €1.500M para startups de tecnologías duales - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWZNV1hfMWM3WUNsbkllcGJBSUlIZFVNZVNrUUFFNUdoVFE3SXZSc0IxdTV0Y0FuY2FKRGJGR000dmZfcUtxM25oSEp1al9iWWxRRXBjMnpVQ3g5S2hERmI5ZzNxVXlXX2tvZVlDVmVQZ3kya0ZwV3VaZzBDM2hib3BoZXM4YnFrUmZENw?oc=5",
+      "title": "Pentágono destina $55B a drones: oportunidades para startups de IA - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSW1EU1NZeV8yWG9MYlJqejB4WUgtOW1yNmxCTEdfVnJCWEU0ZEx4UXRvRmJzNTkyY2VuN2JYVTJzNGxtUmVjM2RCblMyRFlWOVRmUXRILXVSdV9xWTVTNS1zeldrVG1nT21ULXVwY3g0SnVsZERCWkhHeXlJVnNhNkpUVEpPMi01ajE1QzlOR2w3bzZnbzFBTlpuOA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 30 Apr 2026 07:58:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWZNV1hfMWM3WUNsbkllcGJBSUlIZFVNZVNrUUFFNUdoVFE3SXZSc0IxdTV0Y0FuY2FKRGJGR000dmZfcUtxM25oSEp1al9iWWxRRXBjMnpVQ3g5S2hERmI5ZzNxVXlXX2tvZVlDVmVQZ3kya0ZwV3VaZzBDM2hib3BoZXM4YnFrUmZENw?oc=5\" target=\"_blank\">EDIP 2026: €1.500M para startups de t"
+      "published": "Wed, 29 Apr 2026 20:28:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSW1EU1NZeV8yWG9MYlJqejB4WUgtOW1yNmxCTEdfVnJCWEU0ZEx4UXRvRmJzNTkyY2VuN2JYVTJzNGxtUmVjM2RCblMyRFlWOVRmUXRILXVSdV9xWTVTNS1zeldrVG1nT21ULXVwY3g0SnVsZERCWkhHeXlJVnNhNkpUVEpPMi01ajE1QzlOR2w3bzZnbzFBTlpuOA?oc=5\" target=\"_blank\">Pentágono destina"
     }
   ],
   "count": 14
