@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple trae a México su solución empresarial para competir con Microsoft y Google",
+      "url": "https://expansion.mx/tecnologia/2026/05/05/apple-trae-a-mexico-su-solucion-empresarial-para-competir-con-microsoft-y-google",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 05 May 2026 15:00:33 GMT",
+      "summary": "Las empresas de tecnología constantemente están compitiendo en distintas verticales, ya sea por la preferencia de los usuarios en hardware o software."
+    },
+    {
+      "title": "Las Big tech prevén invertir más de 500,000 mdd en IA durante 2026",
+      "url": "https://expansion.mx/tecnologia/2026/05/05/las-big-tech-preven-invertir-mas-de-500-000-mdd-en-ia-durante-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 05 May 2026 11:55:52 GMT",
+      "summary": "El gasto en infraestructura —centros de datos, chips y nube— se acelera ante la creciente monetización de IA en cloud, publicidad y software empresarial."
+    },
+    {
+      "title": "Instagram prueba etiqueta para identificar cuentas que crean contenido con IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/04/instagram-etiqueta-identificar-cuentas-contenido-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 04 May 2026 23:00:43 GMT",
+      "summary": "La red social comenzó a probar su herramienta “Creador de IA”, en un intento por dar mayor transparencia a los usuarios del contenido que consumen."
+    },
+    {
       "title": "La menopausia abre una nueva oportunidad de negocio para wearables",
       "url": "https://expansion.mx/tecnologia/2026/05/04/anillo-inteligente-oura-va-mas-alla-fitness-hormonas-mujeres",
       "source": "Expansión Tecnología",
@@ -19,52 +43,28 @@
       "summary": "El director ejecutivo saliente de Apple advirtió que la empresa enfrenta “menos flexibilidad para conseguir piezas”, lo que presiona los precios de sus dispositivos, incluido el iPhone."
     },
     {
-      "title": "Uber lanza opción para viajar solo con conductoras en México",
-      "url": "https://expansion.mx/tecnologia/2026/05/04/uber-lanza-opcion-para-viajar-solo-con-conductoras-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 04 May 2026 16:37:06 GMT",
-      "summary": "La plataforma permitirá elegir viajes con conductoras en cinco ciudades, pero la baja participación femenina, de apenas 7%, elevará tiempos de espera."
-    },
-    {
-      "title": "Cómo configurar tu Android y iPhone para que reciban la alerta sísmica",
-      "url": "https://expansion.mx/tecnologia/2025/09/19/como-configurar-android-y-iphone-alerta-sismica",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 04 May 2026 15:50:32 GMT",
-      "summary": "Si el altavoz de tu casa no avisa oportunamente, te explicamos cómo activar la alerta en tu teléfono."
-    },
-    {
-      "title": "Nuvei habilita la adquirencia local para potenciar el comercio en México",
-      "url": "https://expansion.mx/tecnologia/2026/05/04/nuvei-habilita-la-adquirencia-local-para-potenciar-el-comercio-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 04 May 2026 14:05:15 GMT",
-      "summary": "La integración de los servicios de Nuvei en el territorio mexicano forma parte de su enfoque de operar con infraestructura propia en regiones clave."
-    },
-    {
-      "title": "Genius Sports y la Liga MX sellan un acuerdo histórico en México - gamingintelligence.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHNuWmFiZUE1Sm5wTENJMzBuY3N1LU5tNWhteWw0aXh2NVVKRlBncnVneWFUUmN1MnNzWmlrMl9MVkVyQ0NQQXBXWVl6RkNGYXFvNmpZVHRmQTBnTGVYNlY0bzA4NnAtdXVUYTRUeEhjSFlGRC1rb0R5QlRDZTdBSA?oc=5",
+      "title": "La primera Fábrica de IA en México tendrá la supercomputadora más poderosa de América Latina y servirá para estos fines - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2k0QzFRenNTWUxBdU9tdEtjWEI2VkRhbHN4S1d5NV94QlFUaXA5QVZDNWtra256NWN2d2NvSWtVVHBhVVgwWXlUQzdxVFpBVGFjLUwxY3FPSjhmRFZSTGhiWXl3dm53OFdBaHB2aDdmNlkyZnRaTGlmTDc4dVl5U3k2R0dwMS1BRGtENmdXa3lFY0c4V2tyR0FNV25xNTFZYi1nUkR2WTFVZ2RwLWo5SlFtMjRwVFVJc1NhNFpvcXZJdXlZRExyTTk3TVNGQzdyRkt1VHptNXNPaC1QQzdGRjN2c1IydjlRVDFoZTN2emMzcjFu0gGPAkFVX3lxTFBpUzQ5TXhIV19hYkppTGVZNjZNOVBLWXozT0JPRDQxRFJTcEtkTGZ1SUFvYzNqakx1aU9KN0Y4SU5kNzMtYkxmamxja2YzUHp3enQtTlF6TmVvcDM5eFIxVXRTWGFTQnBuR2Vxa0NRSW0xNjE2eFpfdXlOMlc5T3dqOGxGN0tsbEZGSkI3bVpXdWxoMmVlUDMyUEVZVlBvbGNyOERtNXBIQlVFVkZyRnVmandXRExaZ25rcW9rOVJPM3VKZ1FCa3czRjZxT0U3NHdGSEdDMXRNQXNpMmlVUS1qRTItVUFleWJOcEpRemlVQ1VaS29pM3ZfMFVvYjFoaWdxUUx5cjNkcG53SEpyaVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 05 May 2026 09:26:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNHNuWmFiZUE1Sm5wTENJMzBuY3N1LU5tNWhteWw0aXh2NVVKRlBncnVneWFUUmN1MnNzWmlrMl9MVkVyQ0NQQXBXWVl6RkNGYXFvNmpZVHRmQTBnTGVYNlY0bzA4NnAtdXVUYTRUeEhjSFlGRC1rb0R5QlRDZTdBSA?oc=5\" target=\"_blank\">Genius Sports y la Liga MX sellan un acuerdo históric"
+      "published": "Tue, 05 May 2026 18:27:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2k0QzFRenNTWUxBdU9tdEtjWEI2VkRhbHN4S1d5NV94QlFUaXA5QVZDNWtra256NWN2d2NvSWtVVHBhVVgwWXlUQzdxVFpBVGFjLUwxY3FPSjhmRFZSTGhiWXl3dm53OFdBaHB2aDdmNlkyZnRaTGlmTDc4dVl5U3k2R0dwMS1BRGtENmdXa3lFY0c4V2tyR0FNV25xNTFZYi1nUkR2WTFVZ2RwLWo5SlFtMjRwVFVJc1"
     },
     {
-      "title": "México crea su primera Fábrica de Inteligencia Artificial - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjdHVWRRekRDTGlzb3VweEVTeTYxdjNScFNhWVlZcHNONnAyaUR2WFJDZlczYll0UUV3dTlpQ0NVTlViX3dobWFRWHNSamktcnZOTmhFbEY2VWVjT2JldDdkbk9uZnRORjNvTU9qTnFBdkFrWEFSWl9DcmlZd3lWdld3MUxxWlBPUTJNRnJzSGo1WjR5UFhEOG5NMTdSNUJZTll5cnE5cnI4dHZyc0E1VDhYLUpGQ04yYkx4S0Y3cmtpdHAzbUJDRVR5WjJfc0tjVm10Wlpn?oc=5",
+      "title": "México lanza su primera Fábrica de Inteligencia Artificial para el sector público - Petróleo y Energía",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPem5LNkQ5QkR4RzVFODhUS2hGTThuaHhqZkhZV2ZhcUZMOE9MdUNjSkdWdmhGT2RiVzd4T0l2azVLVjVfbXBSR3UyZDFkSlVwOE85UmY2ZzJUTVFxSmtiVFltV1VRT0gyOVdzLU84c1ptTExVYWpMc3diS0FxZldiWGR6M3ppMERjNTd4S1JjRnVNbDlxMkNMMjVKS1Uta2txTWQ1Nkl2UDZhVE1wSjMzbzhuQ3lFWjMydzAwOEZOd3JTaDRUMUtNUXgzbWVmTjdUMDdkZkoyTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 05 May 2026 11:04:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjdHVWRRekRDTGlzb3VweEVTeTYxdjNScFNhWVlZcHNONnAyaUR2WFJDZlczYll0UUV3dTlpQ0NVTlViX3dobWFRWHNSamktcnZOTmhFbEY2VWVjT2JldDdkbk9uZnRORjNvTU9qTnFBdkFrWEFSWl9DcmlZd3lWdld3MUxxWlBPUTJNRnJzSGo1WjR5UFhEOG5NMTdSNUJZTll5cnE5cnI4dHZyc0E1VDhYLUpGQ04yYk"
+      "published": "Tue, 05 May 2026 16:52:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPem5LNkQ5QkR4RzVFODhUS2hGTThuaHhqZkhZV2ZhcUZMOE9MdUNjSkdWdmhGT2RiVzd4T0l2azVLVjVfbXBSR3UyZDFkSlVwOE85UmY2ZzJUTVFxSmtiVFltV1VRT0gyOVdzLU84c1ptTExVYWpMc3diS0FxZldiWGR6M3ppMERjNTd4S1JjRnVNbDlxMkNMMjVKS1Uta2txTWQ1Nkl2UDZhVE1wSjMzbzhuQ3lFWjMydz"
     },
     {
-      "title": "Regulación de la IA en Latinoamérica. ¿Nuevos retos o un cambio de enfoque? La situación en México - expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGx6STkyZk43eHJ4djJ2RFBvX3RydVFXVFdubjdrR0d4OUdBSVFpV1RpYS03WmpsYTY1T1doT0d3SjBJRm9feTl3cUZNb0RBeklJNlZhUjVVcFVtZmRtcnpIejRubWphUTJ2U0NkdmhRYnlULVNlc2ZrYnJRMTU0RjNCajBoYTl2TVhrMlY4Ri0wa1JZQzhNbk0yQTFOUWVDNy1EM2twZ2F5emxtQkg2d3ZWSXVoODYzRnAzN3JVa1ozWENjVUFOMGt3VzJ6QTNN0gHeAUFVX3lxTE9wOV8ybmpzdm9oYkFlc3ByQzhVcmVEdHlKN1BURXFobFk0TmNiREU2TWg5S2pQU1lFc2JDek9JeTh1UlAzS2IwSG1SbnpmZ3hFMFNOd21yRFJ0SjY0bkdhOUY2OU5vUkJ3RlNXeTFZZDExX0hQMHJzMUJlSTJ4QVVDVE5UT1NOa0MwYndTZnpzNmtEb2RycE04OGRuSmNXTUJfTTUzZExtM1NteTlMemgzNzM2X0NCZG1OQXhkaFZTdHZIenRoTXV0TnBTb1pKaUZ4Y1d1QnBnZnIwbHBzQQ?oc=5",
+      "title": "Inteligencia artificial ha impulsado el cibercrimen, advierte Fortinet - eSemanal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzhsUEo5WkVNOFFtMmtpUEI5TWN5eVBlSEpLcHRvcllVb2w2SFNEVHEya24zbE93UGhsWmFsYllTcGZRYVVUTFg5eTlQeVVKdkJFR2ZhbHpGNmJJcU1MQ0FDVHN4cFMwZWhyb3V2YmZmcllrV3NrWFJIQ1ZtUzN0SlM2M19HVVZPWWJMVF9aMjNLcXlOV2tmOVdJVk1FbEU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 05 May 2026 12:01:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGx6STkyZk43eHJ4djJ2RFBvX3RydVFXVFdubjdrR0d4OUdBSVFpV1RpYS03WmpsYTY1T1doT0d3SjBJRm9feTl3cUZNb0RBeklJNlZhUjVVcFVtZmRtcnpIejRubWphUTJ2U0NkdmhRYnlULVNlc2ZrYnJRMTU0RjNCajBoYTl2TVhrMlY4Ri0wa1JZQzhNbk0yQTFOUWVDNy1EM2twZ2F5emxtQkg2d3ZWSXVoODYzRn"
+      "published": "Tue, 05 May 2026 16:07:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORzhsUEo5WkVNOFFtMmtpUEI5TWN5eVBlSEpLcHRvcllVb2w2SFNEVHEya24zbE93UGhsWmFsYllTcGZRYVVUTFg5eTlQeVVKdkJFR2ZhbHpGNmJJcU1MQ0FDVHN4cFMwZWhyb3V2YmZmcllrV3NrWFJIQ1ZtUzN0SlM2M19HVVZPWWJMVF9aMjNLcXlOV2tmOVdJVk1FbEU?oc=5\" target=\"_blank\">Inteligencia"
     },
     {
       "title": "KogniVera India 2026: 3 lecciones de IA para founders - Ecosistema Startup",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmFCRzRiZjNUbEI3NGNhZUxVWmRSOUdOa1NOdFNJUWNfb3hzUDlZSlJhalZ0X1ZOaHhEYklBZnFuN1RkN3doUUNhVTRwb3QxOGpXRzNmMDhOWHNnQ3pBUDh5UWNXaWllNVNYSDRMUlRmdXJ1bUJpUW1xbTB1cUdjSnNhXzA5SXBTQ2U1MTFn?oc=5\" target=\"_blank\">KogniVera India 2026: 3 lecciones d"
     },
     {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
-    },
-    {
       "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 24 Sep 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+    },
+    {
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
       "title": "Así se verá el Centro de Monterrey en 2050, según la IA - ABCNoticias.mx",
