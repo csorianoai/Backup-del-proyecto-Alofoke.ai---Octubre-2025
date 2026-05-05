@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "La OMS y Sanidad acuerdan que epidemiólogos revisen esta tarde el barco con el brote de hantavirus antes de decidir su destino",
+      "title": "Muere Soledad Gallego-Díaz, la periodista total",
+      "url": "https://elpais.com/comunicacion/2026-05-05/muere-soledad-gallego-diaz-la-periodista-total.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 05 May 2026 21:16:20 GMT",
+      "summary": "La primera mujer directora de EL PAÍS fue corresponsal en numerosas capitales y logró la gran exclusiva periodística de la Transición"
+    },
+    {
+      "title": "La mejor periodista",
+      "url": "https://elpais.com/opinion/2026-05-05/la-mejor-periodista.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 05 May 2026 22:19:09 GMT",
+      "summary": "Sol Gallego fue un referente moral que evaluaba cualquier decisión en función de sus beneficios para el ciudadano, para el lector"
+    },
+    {
+      "title": "España acepta recibir en Canarias el barco con el brote de hantavirus y al médico en estado grave",
       "url": "https://elpais.com/sociedad/2026-05-05/la-oms-eleva-a-siete-los-casos-sospechosos-de-hantavirus-en-el-crucero-fondeado-en-cabo-verde.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 05 May 2026 15:37:04 GMT",
-      "summary": "El organismo internacional evacuará a Países Bajos a dos personas del crucero con síntomas compatibles con el hantavirus y trasladará a Alemania a una tercera considerada “contacto de alto riesgo”. La naviera pretende enviar al resto de pasajeros a Gran Canaria o Tenerife"
+      "published": "Tue, 05 May 2026 21:22:23 GMT",
+      "summary": "El ‘MV Hondius’ tardará tres o cuatro días en llegar al archipiélago, pero antes se evacuará en avión a los tres pasajeros que necesitan atención sanitaria: uno a las islas, otro a Países Bajos y otro a Alemania"
     },
     {
       "title": "¿Qué sabemos sobre el brote de hantavirus? Riesgos y certezas de una enfermedad mortal, pero muy poco contagiosa",
@@ -23,31 +39,23 @@
       "url": "https://elpais.com/sociedad/2026-05-05/de-unas-vacaciones-al-fin-del-mundo-a-la-pesadilla-de-un-brote-de-hantavirus.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 05 May 2026 13:03:07 GMT",
+      "published": "Tue, 05 May 2026 21:00:34 GMT",
       "summary": "Una embarcación partió del sur de Argentina con pasajeros dispuestos a explorar la Antártida y terminó fondeada frente a las costas de Cabo Verde con la tripulación confinada y sin un plan claro"
     },
     {
-      "title": "Begoña Gómez declara en la Fiscalía Europea que nunca habló con nadie del Gobierno sobre los contratos a Barrabés",
-      "url": "https://elpais.com/espana/2026-05-05/begona-gomez-declara-en-la-fiscalia-europea-que-nunca-hablo-con-nadie-del-gobierno-sobre-los-contratos-a-barrabes.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 11:34:04 GMT",
-      "summary": "El órgano había citado este martes a la esposa del presidente Sánchez como testigo en la investigación que analiza dos adjudicaciones públicas al empresario"
-    },
-    {
-      "title": "El homenaje de Isabel Díaz Ayuso a Hernán Cortés sacude la política de Ciudad de México",
-      "url": "https://elpais.com/mexico/2026-05-05/el-homenaje-de-isabel-diaz-ayuso-a-hernan-cortes-sacude-la-politica-de-ciudad-de-mexico.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 02:07:05 GMT",
-      "summary": "La presidenta de Madrid protagoniza un acto a favor del conquistador con la alcaldesa de Cuauhtémoc, del PAN. En el partido oficialista la tildan de “fascista” y la Arquidiócesis se desmarca del evento, previsto inicialmente en la catedral"
+      "title": "Ya tenemos el primer estudio sobre el impacto de la IA en el mercado laboral de España: muy optimista no es - Xataka",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDRPalMxV2hFLXFuTDI5SmJXVzcxYWk5eTc1MFBneXZwOXpRMk5FY3loVFVKU1I1RlNPVnh5NEFwVHlCaDNiTHJEeWxXeElnTWs3S1NjdEpiQm9jcjk5bVhtUUQxdU9kcFI5WXd6Z2VQZU1yZmNlUVNKNUVxNVptZngyanRxdEF1NldDRTI1TFZWeHF2UEx0MEFOcmJlcGJYeVFQOXJlNUNhQm1kelgyMnl2Rk01VXRBM2FndnF2NzdoZTcxaTYw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 04 May 2026 17:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUDRPalMxV2hFLXFuTDI5SmJXVzcxYWk5eTc1MFBneXZwOXpRMk5FY3loVFVKU1I1RlNPVnh5NEFwVHlCaDNiTHJEeWxXeElnTWs3S1NjdEpiQm9jcjk5bVhtUUQxdU9kcFI5WXd6Z2VQZU1yZmNlUVNKNUVxNVptZngyanRxdEF1NldDRTI1TFZWeHF2UEx0MEFOcmJlcGJYeVFQOXJlNUNhQm1kelgyMnl2Rk01VXRBM2"
     },
     {
       "title": "Giorgia Meloni denuncia la difusión de imágenes falsas generadas con inteligencia artificial en las que aparece en ropa interior - Infobae",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWWVWa3lsVEt1cmRhN2g1N2R4NElkcjlUa0RVMzg4UDlnbVkxMTNxNy1YWkczanZsR3ZOWGY1SnA0a3hYcXZjX2hVV1g4UGNrWjZPOUlEMDR1RTh4R0ZaeGstc3Rqb0RuU21EZ2hIazhxeHM1LWMyZnRwQ0hUQ29DNkRmWTh4YWN2NjVBYW5EMGUtTU8tb2tHRVdoSHk1eTZiOXJUVzZ5a05jVnJjQjUyaWFjcF9tWHJwazVlNGdidXRlMGRWUFFPSmV6YUJEd3VFNkpWUXNDUG8tdXVXTEpuaFgtNXcyWXNiSjJkaEprRlJLSVFMYzM2Vnpkc3hWeTZW0gGbAkFVX3lxTE1lSXNUdm5XZERHWHRJbVdPSk1yU2xQbXYyOEQ3YUstQUdwYWxEdWhkcERxbWljX25HZWNvRVhOSHozbXU4OVhjMGpQdy1sOTBMdVBXUndCSkhJZHZ4SG04Q2xFZjdYdVJyY1ZsZ2Q2N1VCWU1iVWtOS2F2NVBrN2NFRnZiUUFFcXZGWTNVVk9DV21aR3hjQUtIajhDWTNpLTZ3eDZNeVdoa3RWZlotd2VZaGlqa2U3dDFNaGtRaVlGTHBBaDQwS0o3blhwa1dYU1ZkNmtaRUt1Q05LMGk2emd2cWhqX3V1RWMtYTNKMjRJaklfcDdXUmhJWHlIQmtrT1dhMDZxaFd2OG9IdFNuTHFIYVo1dG1wbm1Kb1k?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 05 May 2026 16:09:09 GMT",
+      "published": "Tue, 05 May 2026 16:59:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOWWVWa3lsVEt1cmRhN2g1N2R4NElkcjlUa0RVMzg4UDlnbVkxMTNxNy1YWkczanZsR3ZOWGY1SnA0a3hYcXZjX2hVV1g4UGNrWjZPOUlEMDR1RTh4R0ZaeGstc3Rqb0RuU21EZ2hIazhxeHM1LWMyZnRwQ0hUQ29DNkRmWTh4YWN2NjVBYW5EMGUtTU8tb2tHRVdoSHk1eTZiOXJUVzZ5a05jVnJjQjUyaWFjcF9tWHJwaz"
     },
     {
@@ -59,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPOFBoREhLem1WRDA5eTVYZlVpemNld3dOU0VCekpmeG92aGVtclNOaHlna1k1c0hxUjdEVVQza2RiY0pRVVBGUHhQUEdydlg2YV9sTXduVDMzdVlCS0tYQ0FPUkhWeGEzRGFiV3NITk9rRVNMRHhldWVFZTIyZlFFWFpLalVhRGhpa2k0cDZDY0ZteFlOSlR0bmk3NC1kRWxNdExzWkMyclFZNVVGZnR5YUlNM3R5bTBPUF"
     },
     {
-      "title": "¿La inteligencia artificial ya destruye empleo en España? La ocupación retrocede en el sector tecnológico - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGpQSEx0cDVnMnJXY3pyUzVFSUtJbHhILTdPalpKOXpwUkIxSTdmdnFVc0dCTTFzN1Z2Z2MzX09NWVItWUhsS3FXdHhuQVNaY1ZiQWdYWUhZd0NBdlZSRW1BTndNUWpOT1hoeDdYRnhKTzZSanpOMnlNNDVldy1nc0ZMSGNCNDVwakZwZUFFUXJ0THJJaE8xcW1Bekt3bTljcWFtRWpUVXczZXo3RVJxU1RXMU4zYlY4Y1RrWWxwbzNDQVJIbFRjU1o1V2Y2QzN1dUVNcjRGVkQ0OHdPNFdET9IB9AFBVV95cUxOeWl0SmhBNXRuTlFwVkVxcXNCSTVnTy1WZ0prWEZGeF94SXlZUEdoQVhUSDdkWVI0ZUNMalJkMVVXOTBQajVmYjd5Y1hZYVBnNDdYeVRKYlFwY0R6YzZMX1JsaG9kSHc2RjJ2dVNTeVJlUno1QXlMc0Q2VE5Hb1ZwQy1wY0hlUVA1VWNpUFNyVDJ2b1FGVlp4Z2FaZS1UR1gtR3ZCOUZHRmpPSmNuck80cXFwdmtnejlvbHh4Ti05OThsMWdMMlVHLXc3bl9jdEdhbVNGNzRQa3pNQWNFZVZVS200bG9vVVlQX0h5UFZqV0VFWjVa?oc=5",
+      "title": "Atlético Madrid vs. Barcelona: IA dijo si hay remontada en los cuartos de Champions League - Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WTg0YjQ4M3pWM004eGpjT3RBakNqMVdSczNB0gHYAUFVX3lxTE5ZSGpqQjEtVXYzckUtY1ZVTmpocjdsY3ZKV3RDUDF0TG91OWotVWc5bDF5c2pnTFJCX1NZRHpFOTRCcko4REhzbUdSU2I1cGlnaTRGdW1WWWFnSDRXdFhhdFBtV3dqY3QxLXM3OGkxT2NwZ0RyNzl4WjhsWHAtX3BsU3RaUWtzVlF6VWtDSmtOYk56dUxKclAyYjBfTTFDTzZScEswRzlsb0lRcDlRbFJ6Qk1yZDFvbTh3YmtRbDdrOGNOVW1TcHJNcS03TVpjUU1CMWpDeFRuYQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 29 Apr 2026 03:30:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSGpQSEx0cDVnMnJXY3pyUzVFSUtJbHhILTdPalpKOXpwUkIxSTdmdnFVc0dCTTFzN1Z2Z2MzX09NWVItWUhsS3FXdHhuQVNaY1ZiQWdYWUhZd0NBdlZSRW1BTndNUWpOT1hoeDdYRnhKTzZSanpOMnlNNDVldy1nc0ZMSGNCNDVwakZwZUFFUXJ0THJJaE8xcW1Bekt3bTljcWFtRWpUVXczZXo3RVJxU1RXMU4zYlY4Y1"
-    },
-    {
-      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
+      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WT"
     },
     {
       "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
     },
     {
-      "title": "Atlético Madrid vs. Barcelona: IA dijo si hay remontada en los cuartos de Champions League - Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WTg0YjQ4M3pWM004eGpjT3RBakNqMVdSczNB0gHYAUFVX3lxTE5ZSGpqQjEtVXYzckUtY1ZVTmpocjdsY3ZKV3RDUDF0TG91OWotVWc5bDF5c2pnTFJCX1NZRHpFOTRCcko4REhzbUdSU2I1cGlnaTRGdW1WWWFnSDRXdFhhdFBtV3dqY3QxLXM3OGkxT2NwZ0RyNzl4WjhsWHAtX3BsU3RaUWtzVlF6VWtDSmtOYk56dUxKclAyYjBfTTFDTzZScEswRzlsb0lRcDlRbFJ6Qk1yZDFvbTh3YmtRbDdrOGNOVW1TcHJNcS03TVpjUU1CMWpDeFRuYQ?oc=5",
+      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WT"
+      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
     },
     {
       "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
