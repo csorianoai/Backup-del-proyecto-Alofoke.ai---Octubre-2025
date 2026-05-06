@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Anthropic concreta alianza con Elon Musk",
+      "url": "https://expansion.mx/tecnologia/2026/05/06/anthropic-concreta-alianza-con-elon-musk",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 06 May 2026 18:54:56 GMT",
+      "summary": "Anthropic anuncia una alianza con SpaceX para utilizar la capacidad de cómputo de su centro de datos Colossus One."
+    },
+    {
+      "title": "IBM estima que la IA desplazará entre 5% y 10% del trabajo actual",
+      "url": "https://expansion.mx/tecnologia/2026/05/06/ibm-estima-que-la-ia-desplazara-entre-5-y-10-del-trabajo-actual",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 06 May 2026 18:00:04 GMT",
+      "summary": "El CEO de la empresa, Arvind Krishna, admitió que esta herramienta modificará muchas dinámicas laborales, y que el criterio propio será una habilidad super valorada."
+    },
+    {
+      "title": "Reseña: Philips TV portátil, una segunda pantalla que remite a la nostalgia noventera",
+      "url": "https://expansion.mx/tecnologia/2026/05/06/resena-philips-tv-portatil-una-segunda-pantalla-que-remite-a-la-nostalgia-noventera",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 06 May 2026 16:00:32 GMT",
+      "summary": "El acceso a televisión en los años 90 era muy distinto a lo que es hoy, donde es más sencillo encontrar pantallas hasta en el baño, pero este equipo flexibiliza su uso."
+    },
+    {
       "title": "Trump evaluará los futuros modelos de IA antes de ser lanzados al público",
       "url": "https://expansion.mx/tecnologia/2026/05/05/trump-evaluara-los-futuros-modelos-de-ia-antes-de-ser-lanzados-al-publico",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "Arvind Krishna, CEO de IBM, señaló que uno de los mayores retos que tienen las empresas a escala mundial es que no tienen datos estructurados para ser leídos por la IA."
     },
     {
-      "title": "Empleados de Google DeepMind forman sindicato contra usos militares de la IA",
-      "url": "https://expansion.mx/tecnologia/2026/05/05/empleados-de-google-deepmind-forman-sindicato-contra-usos-militares-de-la-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 17:00:14 GMT",
-      "summary": "Los trabajadores del laboratorio de IA de Google en Reino Unido llevan más de un año intentando sindicalizarse por las relaciones de la tecnológica con los ejércitos de EU e Israel."
-    },
-    {
-      "title": "Apple trae a México su solución empresarial para competir con Microsoft y Google",
-      "url": "https://expansion.mx/tecnologia/2026/05/05/apple-trae-a-mexico-su-solucion-empresarial-para-competir-con-microsoft-y-google",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 15:00:33 GMT",
-      "summary": "Las empresas de tecnología constantemente están compitiendo en distintas verticales, ya sea por la preferencia de los usuarios en hardware o software."
-    },
-    {
-      "title": "Las Big tech prevén invertir más de 500,000 mdd en IA durante 2026",
-      "url": "https://expansion.mx/tecnologia/2026/05/05/las-big-tech-preven-invertir-mas-de-500-000-mdd-en-ia-durante-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 11:55:52 GMT",
-      "summary": "El gasto en infraestructura —centros de datos, chips y nube— se acelera ante la creciente monetización de IA en cloud, publicidad y software empresarial."
+      "title": "Try On, la función de Google que permite probarte ropa y zapatos sin salir de casa, llega a México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjlETl9VSWo1aTJCX0Y1cFpzTUxmbXZ6V3FiMFAyTk5feXQtdndQMHMtMWhwSDlNX3NmeUNWNlJkaDRHYVZZWG91ekstRTRPbTlEbEVyWW93MUtvcmZ5T240MGh0Mm5CbDRURklDQVdnWWI4eTBJQlZScl91XzdDYXFlbmNWWHZyMnFraXkxRGNocUxteEFXSmpWU0llaTFrbUx2YXItVWFCVnFMM1lVWm5oTkxVVmJyaU5nUVMtQkpWeXFMZ0dnQmc4TVY2TUVmbmFzZNIB7wFBVV95cUxOM0VNcERxYlhUMXNDenNib0lxb0FwQmhmUWJhcU1DU0Q0c0lfQTE1Rkg3MkNYVkR1ZjdXWk5XN2t1TVVfd0JlMVZsYVdDN29XcHVEQzlOMXZycEE2Q0pQbjktTVFXbEIxOVBkSm9Pd3NVQm1CSDktOXk5cVZ6RHZuUm9abmVkREVLU1A1ejMxSkVZb1lwSWVIYWZMUVlrZVRYVm1mOWZrZ3pSYVdLWmJEa3lnRkpPdDVEaVpPcnRPd1RXTHpDdGwxdlZZaHlHcE1BbVBQZVdBSllOMmZSdl9jSnBoVXpTUkhfLTUxYlE0dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 06 May 2026 21:08:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjlETl9VSWo1aTJCX0Y1cFpzTUxmbXZ6V3FiMFAyTk5feXQtdndQMHMtMWhwSDlNX3NmeUNWNlJkaDRHYVZZWG91ekstRTRPbTlEbEVyWW93MUtvcmZ5T240MGh0Mm5CbDRURklDQVdnWWI4eTBJQlZScl91XzdDYXFlbmNWWHZyMnFraXkxRGNocUxteEFXSmpWU0llaTFrbUx2YXItVWFCVnFMM1lVWm5oTkxVVmJyaU"
     },
     {
       "title": "SAP Industry Insights 1T 2026: cómo aviación, energía y retail en México están acelerando con Cloud ERP e Inteligencia Artificial - SAP News Center",
@@ -51,28 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcE"
     },
     {
-      "title": "La primera Fábrica de IA en México tendrá la supercomputadora más poderosa de América Latina y servirá para estos fines - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2k0QzFRenNTWUxBdU9tdEtjWEI2VkRhbHN4S1d5NV94QlFUaXA5QVZDNWtra256NWN2d2NvSWtVVHBhVVgwWXlUQzdxVFpBVGFjLUwxY3FPSjhmRFZSTGhiWXl3dm53OFdBaHB2aDdmNlkyZnRaTGlmTDc4dVl5U3k2R0dwMS1BRGtENmdXa3lFY0c4V2tyR0FNV25xNTFZYi1nUkR2WTFVZ2RwLWo5SlFtMjRwVFVJc1NhNFpvcXZJdXlZRExyTTk3TVNGQzdyRkt1VHptNXNPaC1QQzdGRjN2c1IydjlRVDFoZTN2emMzcjFu0gGPAkFVX3lxTFBpUzQ5TXhIV19hYkppTGVZNjZNOVBLWXozT0JPRDQxRFJTcEtkTGZ1SUFvYzNqakx1aU9KN0Y4SU5kNzMtYkxmamxja2YzUHp3enQtTlF6TmVvcDM5eFIxVXRTWGFTQnBuR2Vxa0NRSW0xNjE2eFpfdXlOMlc5T3dqOGxGN0tsbEZGSkI3bVpXdWxoMmVlUDMyUEVZVlBvbGNyOERtNXBIQlVFVkZyRnVmandXRExaZ25rcW9rOVJPM3VKZ1FCa3czRjZxT0U3NHdGSEdDMXRNQXNpMmlVUS1qRTItVUFleWJOcEpRemlVQ1VaS29pM3ZfMFVvYjFoaWdxUUx5cjNkcG53SEpyaVk?oc=5",
+      "title": "La inteligencia artificial redefine la productividad empresarial en México - Mundo Ejecutivo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzBHM05saFg0b1RESi1JbkdQV0dnNS1lb3Fsc29RUUxyMzVqbmdZMXQyLVpoWk15bVI4eGZQelRWd1lNbnZhbmt3N1lFRVdCVlV4R1UxMlhmcmZJdE1MX05PbVhPUGM1SjdMdlVSYV9seGw5eFpvbzkxU0NUajBQY19MME1HaHFDWjlQM21mTFhkOVZzMTZESmRhT2Vfb3ZXNHpTNWVrVVJSOEZ2VFZvMlctRElCNElrZ0QwWA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 05 May 2026 18:27:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2k0QzFRenNTWUxBdU9tdEtjWEI2VkRhbHN4S1d5NV94QlFUaXA5QVZDNWtra256NWN2d2NvSWtVVHBhVVgwWXlUQzdxVFpBVGFjLUwxY3FPSjhmRFZSTGhiWXl3dm53OFdBaHB2aDdmNlkyZnRaTGlmTDc4dVl5U3k2R0dwMS1BRGtENmdXa3lFY0c4V2tyR0FNV25xNTFZYi1nUkR2WTFVZ2RwLWo5SlFtMjRwVFVJc1"
+      "published": "Wed, 06 May 2026 22:08:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObzBHM05saFg0b1RESi1JbkdQV0dnNS1lb3Fsc29RUUxyMzVqbmdZMXQyLVpoWk15bVI4eGZQelRWd1lNbnZhbmt3N1lFRVdCVlV4R1UxMlhmcmZJdE1MX05PbVhPUGM1SjdMdlVSYV9seGw5eFpvbzkxU0NUajBQY19MME1HaHFDWjlQM21mTFhkOVZzMTZESmRhT2Vfb3ZXNHpTNWVrVVJSOEZ2VFZvMlctRElCNElrZ0"
     },
     {
-      "title": "Sólo 27% de Instituciones de Educación Superior en México tienen reglamentos sobre Inteligencia Artificial - La Jornada",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSW5YWDBkbkVGVHMxLV8yNGdBelJUa291V292bWVmamxpNEZGZmtKaU1adVpKVVl0bW9sYVVIUUdhaWRCczhTMWJXN0dudUo0bjE4VFA0VXRiaWptVDA2QnlVYWxhU0llbTU5bG5mODJKSkNwOUcwX0UwTkpYUFFBQXlNVUVXWnB0Qk04dUFZemJRWF9lR3Y1MGRaYXl5LWpyYm51QUFxUDlnUk5oZEZ6WXZWWWJiSnFiTnctZWcwalZjRzY1RGNPRWtWbTNiTFJjZkZWRnFMU2FiUzdKaUpxZFM0TVJZMm5DS2V1SnZhejIwUQ?oc=5",
+      "title": "San Francisco 2026: capital de IA con economía rezagada - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 06 May 2026 16:33:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSW5YWDBkbkVGVHMxLV8yNGdBelJUa291V292bWVmamxpNEZGZmtKaU1adVpKVVl0bW9sYVVIUUdhaWRCczhTMWJXN0dudUo0bjE4VFA0VXRiaWptVDA2QnlVYWxhU0llbTU5bG5mODJKSkNwOUcwX0UwTkpYUFFBQXlNVUVXWnB0Qk04dUFZemJRWF9lR3Y1MGRaYXl5LWpyYm51QUFxUDlnUk5oZEZ6WXZWWWJiSnFiTn"
-    },
-    {
-      "title": "San Francisco 2026: $111.700M en IA con economía rezagada - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpSOEQwVlRXRkZ2bTRCb1Y1R09GQXZjZmc1djhLbWZ0UmNsbVM5aFJtUW1XYUV6a3N2TldhekZSVTdSQXMtZUI1MU1HNEhGNUgxVFVLTFk2Sk9ma1hhTlZNQllCdlMxTEtlYmxmOGJkc2RRMzVEVExISE5JV2FLTEx3VzF4bDRkN09ZbmhIQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 28 Apr 2026 05:40:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONVpSOEQwVlRXRkZ2bTRCb1Y1R09GQXZjZmc1djhLbWZ0UmNsbVM5aFJtUW1XYUV6a3N2TldhekZSVTdSQXMtZUI1MU1HNEhGNUgxVFVLTFk2Sk9ma1hhTlZNQllCdlMxTEtlYmxmOGJkc2RRMzVEVExISE5JV2FLTEx3VzF4bDRkN09ZbmhIQQ?oc=5\" target=\"_blank\">San Francisco 2026: $111.700M en "
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5\" target=\"_blank\">San Francisco 2026: capital de IA c"
     },
     {
       "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
       "title": "Así se verá el Centro de Monterrey en 2050, según la IA - ABCNoticias.mx",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNExqbDZjbGF3bHJsdC1WZERwYU5hMzFBOWM5Zm5sRjZ5VzZxZHZLWjFLM3F1Z0FkZHVwWU5wLXJWQXFnTUpXUXhUVElRWVozSzFLX0d6d2I3UXdXeElmbk84V2VpODF2NGJWU1haa2g1SUs3cGxZU3hVRHV2aGIyRFMtYTNhOFNPUzNQRkRYVnJiZHZ0bkdieVJVUkRkdGRtTDgwM3prRklYbmRH?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 17 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
-    },
-    {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14
