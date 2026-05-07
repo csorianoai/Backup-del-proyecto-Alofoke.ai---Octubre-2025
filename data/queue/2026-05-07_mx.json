@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El calor eleva costos y reduce ingresos de conductores de apps",
+      "url": "https://expansion.mx/tecnologia/2026/05/07/calor-conductores-de-apps-gastar-mas-ganar-menos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 11:55:48 GMT",
+      "summary": "Conductores reportan celulares apagados por sobrecalentamiento, más pausas y hasta gastos extra al día en gasolina por el uso constante del aire acondicionado."
+    },
+    {
+      "title": "¿Vas a renovar tu TV por el Mundial? Las claves para una compra inteligente",
+      "url": "https://expansion.mx/tecnologia/2026/05/06/vas-a-renovar-tu-tv-por-el-mundial-las-claves-para-una-compra-inteligente",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 06 May 2026 22:00:24 GMT",
+      "summary": "Invertir en una pantalla para 2026 es pensar en el futuro. Aprende a elegir un equipo que sirva para el futbol, el cine y el gaming, garantizando su vigencia tecnológica por años."
+    },
+    {
+      "title": "¿Apple vuelve con su ex? La razón por la que busca de nuevo a Intel",
+      "url": "https://expansion.mx/tecnologia/2026/05/06/apple-vuelve-con-su-ex-la-razon-por-la-que-busca-de-nuevo-a-intel",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 06 May 2026 20:00:54 GMT",
+      "summary": "Tras 6 años de ruptura, Apple negocia fabricar sus chips con Intel, debido a su tecnología de 2 nanómetros \"Made in USA\" para blindar su producción ante las crisis de suministro."
+    },
+    {
       "title": "Anthropic concreta alianza con Elon Musk",
       "url": "https://expansion.mx/tecnologia/2026/05/06/anthropic-concreta-alianza-con-elon-musk",
       "source": "Expansión Tecnología",
@@ -19,30 +43,6 @@
       "summary": "El CEO de la empresa, Arvind Krishna, admitió que esta herramienta modificará muchas dinámicas laborales, y que el criterio propio será una habilidad super valorada."
     },
     {
-      "title": "Reseña: Philips TV portátil, una segunda pantalla que remite a la nostalgia noventera",
-      "url": "https://expansion.mx/tecnologia/2026/05/06/resena-philips-tv-portatil-una-segunda-pantalla-que-remite-a-la-nostalgia-noventera",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 06 May 2026 16:00:32 GMT",
-      "summary": "El acceso a televisión en los años 90 era muy distinto a lo que es hoy, donde es más sencillo encontrar pantallas hasta en el baño, pero este equipo flexibiliza su uso."
-    },
-    {
-      "title": "Trump evaluará los futuros modelos de IA antes de ser lanzados al público",
-      "url": "https://expansion.mx/tecnologia/2026/05/05/trump-evaluara-los-futuros-modelos-de-ia-antes-de-ser-lanzados-al-publico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 22:12:33 GMT",
-      "summary": "El gobierno de Estados Unidos tendrá acceso a los nuevos modelos de IA de los gigantes tecnológicos para evaluarlos antes de su lanzamiento."
-    },
-    {
-      "title": "La IA choca con datos mal estructurados, 60% de las empresas prefieren abandonar",
-      "url": "https://expansion.mx/tecnologia/2026/05/05/uso-ia-empresas-vive-freno-problema-de-datos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 05 May 2026 20:00:15 GMT",
-      "summary": "Arvind Krishna, CEO de IBM, señaló que uno de los mayores retos que tienen las empresas a escala mundial es que no tienen datos estructurados para ser leídos por la IA."
-    },
-    {
       "title": "SAP Industry Insights 1T 2026: cómo aviación, energía y retail en México están acelerando con Cloud ERP e Inteligencia Artificial - SAP News Center",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcEltcHV4WWczdkdoWjVBSTRTc3hIaHZ4WXlYZ2o0LVlZeUMyY0gtNVlNdlhOZnFjeUlVZkZ0RDVaVy1Eb0IxazJnc1ZqZWPSAYcCQVVfeXFMUGRkc0xJVlV6YVhIeWxRVkF1OUNaMDJwd0JITW4zYkJBWkxlRm8zMEw5ZEt2Ny1ONmJLdmxLYTM2OGxuX0tqaThjcUdUMHFuOURzazR6TTh5dmttQmJ1QVdNbVJEUGk4OFhxWUZGeVExTkRHUWtrYXpJMWRmOG9TamlzaG5UN1h1THRPWHNlSlJVbmZ1N1M0T0JCWjg1WnNWT3h6dVdHZ0lqeVJoc2NBbVc1dUc5Mm1WR1NpTk53WGZvX0hxenFiQWZ1bW1jWVFfdkJidHNNOUZ4eEM4N2ZnSWZHX0M3TjVjajQ0bVRRR0xSZTgwTzlJN29Da2VJNHlNRnllMHZVYmM?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcE"
     },
     {
-      "title": "Guía para entender la nueva regulación de la IA en México - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2ZMTmYzRVZ2ZE1qcFNMVUZsZUxvOE1UOHZxUG0wM0dKNHpwdk4xT3poNm9ZQ3hMXzVRc1hadUhtWHA2eWgwVm9OZTYyM1ZEWmJBWHpwNXByQ0VKVXhobG0tUGNmWHk3anhEX3FkSjdpME9uR1A3c3AyY3REZUpfZ2tHc1VGbkFpdTIzTGVIRDRYUGl1U2tuXy1ISUhfcXVVNzR30gGoAUFVX3lxTE1sX2R0OHdMdmtvYkRFODVEWW5jLVg5WTV2WGlFWlEwQnpWa2NESVM4YzlIbUkzMktHN0RINldBdEN5YWUyTDd5bU1HSWRzZmQ3MU82dUNsVWoyaDFrS3llMXRtQjlxZTU5OEN6X1U2bmhsaEFoYXQ4Sl9GVGRCeHRQeS0yazV2bk9mRVFwemloOUY2c0laS181WmdtTzI3OFotS2pzZ3FHYg?oc=5",
+      "title": "México ya trabaja en una hoja de ruta para regular la IA ¿Cuáles son los retos? - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVE0dTA4QXhkaFRWTlNXNnUtTnNuaWlXQzl2QjBMWjF4MG9EVC1laXFZbXd4SlRKcWRZZVExWGF2WlNpeTdvdXdqOTlQMW9saTZjT29FV2oyeFJxRHF3eS1NX1Y5YXZqU1BHS0syOE9CbVhVZGJSY05ZNlBhTThtOWhwSVREckNZR0RrcUdwcmZtZG9KLUdRSklEV21FM0JkMWJpdjJhTGVHaE81aGZsWTNZc9IBuAFBVV95cUxNajFfd29lVXZ5bzg5cGxXSFY1SXF0b1lBWllsaW5odU04RXd3TmVmelRqS2dIZWFvd3NpRW1jZ25nUTVvOU9YT3FQM2dHUGM3d0lSaGJ0ZFBmREI2Mmxza1F5WWJHSmoxMGthUWRsNXhydndmdF9QelhzcEJVMHJCNFhNNGxzSDVhTm84RENKQzhwbjZEYjNpVDR5ekFVZ1NldDY1eFhqZThCTXZpR0tiNWhocjcxZnZ5?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 07 May 2026 14:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ2ZMTmYzRVZ2ZE1qcFNMVUZsZUxvOE1UOHZxUG0wM0dKNHpwdk4xT3poNm9ZQ3hMXzVRc1hadUhtWHA2eWgwVm9OZTYyM1ZEWmJBWHpwNXByQ0VKVXhobG0tUGNmWHk3anhEX3FkSjdpME9uR1A3c3AyY3REZUpfZ2tHc1VGbkFpdTIzTGVIRDRYUGl1U2tuXy1ISUhfcXVVNzR30gGoAUFVX3lxTE1sX2R0OHdMdmtvYk"
+      "published": "Thu, 07 May 2026 16:03:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVE0dTA4QXhkaFRWTlNXNnUtTnNuaWlXQzl2QjBMWjF4MG9EVC1laXFZbXd4SlRKcWRZZVExWGF2WlNpeTdvdXdqOTlQMW9saTZjT29FV2oyeFJxRHF3eS1NX1Y5YXZqU1BHS0syOE9CbVhVZGJSY05ZNlBhTThtOWhwSVREckNZR0RrcUdwcmZtZG9KLUdRSklEV21FM0JkMWJpdjJhTGVHaE81aGZsWTNZc9IBuAFBVV"
     },
     {
-      "title": "Try On, la función de Google que permite probarte ropa y zapatos sin salir de casa, llega a México - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjlETl9VSWo1aTJCX0Y1cFpzTUxmbXZ6V3FiMFAyTk5feXQtdndQMHMtMWhwSDlNX3NmeUNWNlJkaDRHYVZZWG91ekstRTRPbTlEbEVyWW93MUtvcmZ5T240MGh0Mm5CbDRURklDQVdnWWI4eTBJQlZScl91XzdDYXFlbmNWWHZyMnFraXkxRGNocUxteEFXSmpWU0llaTFrbUx2YXItVWFCVnFMM1lVWm5oTkxVVmJyaU5nUVMtQkpWeXFMZ0dnQmc4TVY2TUVmbmFzZNIB7wFBVV95cUxOM0VNcERxYlhUMXNDenNib0lxb0FwQmhmUWJhcU1DU0Q0c0lfQTE1Rkg3MkNYVkR1ZjdXWk5XN2t1TVVfd0JlMVZsYVdDN29XcHVEQzlOMXZycEE2Q0pQbjktTVFXbEIxOVBkSm9Pd3NVQm1CSDktOXk5cVZ6RHZuUm9abmVkREVLU1A1ejMxSkVZb1lwSWVIYWZMUVlrZVRYVm1mOWZrZ3pSYVdLWmJEa3lnRkpPdDVEaVpPcnRPd1RXTHpDdGwxdlZZaHlHcE1BbVBQZVdBSllOMmZSdl9jSnBoVXpTUkhfLTUxYlE0dw?oc=5",
+      "title": "Senado alista ley para regular uso de inteligencia artificial en México - El Universal",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFJUVkdnU0VMdVhyRGhBQVBqOWhKNThpUWhIMUdjMmNlVzhjbHlLbzd4SkFJTXZScG9fZ2RZWXlXVmlHazNCRDhWQjI1QXM2NUVCUTRpNU55LTRIRS1NT1R6elFtN3g4Q3ZhakR3NnFObW9vSTZDV0RsNVUtb3BHWndqT2RuaVBlSDVpUW5HbWJlWThCNTlJcUlDYXg0NllhYmJPS2ExUURXb3lOSXphMWdlVW0xTi1Kd2NVVC1MNmRkTjZ3aDlaaHBBN0hvV3NQdkNEREV5Ylg3eTZyb2d6MVFzbl9yZnJ3YjB0TNIBgAJBVV95cUxPX0RQdTF0RXlSdi1fUWZ6cVhqY3F0ZGR6cmlvN19xclVHZjFjX2Z0YkliN1R6R3A3eEtRS3BDeVlyYnhULVRJMlNqNG5Namh4VndQcGhac0xLY2QzeEhPQTVsdlYxZTBxbUJ5SXNON0VQY0xaLWplYk1vclZtRVc5UXROY3VMMEh0bTBMeFVHSjdKUjgzZHZNaEZ3UWhPZUYyOEVSRVdseExyNEk0ekZGU043YXN5T3d4UXJzbnVCT25qdzhlbHRsYm5Gak1mbUhQcFBQSnJjUEc0YVNBam1WdlpiU0t5ZVlUQ0JfNkFaSGQ5Qm5fcXMxRG1LVExQZGhM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 06 May 2026 22:04:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWjlETl9VSWo1aTJCX0Y1cFpzTUxmbXZ6V3FiMFAyTk5feXQtdndQMHMtMWhwSDlNX3NmeUNWNlJkaDRHYVZZWG91ekstRTRPbTlEbEVyWW93MUtvcmZ5T240MGh0Mm5CbDRURklDQVdnWWI4eTBJQlZScl91XzdDYXFlbmNWWHZyMnFraXkxRGNocUxteEFXSmpWU0llaTFrbUx2YXItVWFCVnFMM1lVWm5oTkxVVmJyaU"
+      "published": "Thu, 07 May 2026 18:19:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFJUVkdnU0VMdVhyRGhBQVBqOWhKNThpUWhIMUdjMmNlVzhjbHlLbzd4SkFJTXZScG9fZ2RZWXlXVmlHazNCRDhWQjI1QXM2NUVCUTRpNU55LTRIRS1NT1R6elFtN3g4Q3ZhakR3NnFObW9vSTZDV0RsNVUtb3BHWndqT2RuaVBlSDVpUW5HbWJlWThCNTlJcUlDYXg0NllhYmJPS2ExUURXb3lOSXphMWdlVW0xTi1Kd2"
     },
     {
       "title": "Nearshoring México 2026: ventaja horaria reduce sprints 40% - Ecosistema Startup",
