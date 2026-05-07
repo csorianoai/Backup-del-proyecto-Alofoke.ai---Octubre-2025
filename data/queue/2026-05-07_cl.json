@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo es la nueva terapia contra la depresión que se enfoca en encontrar caminos hacia la alegría",
+      "url": "https://www.latercera.com/tendencias/noticia/como-es-la-nueva-terapia-contra-la-depresion-que-se-enfoca-en-encontrar-caminos-hacia-la-alegria/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 21:00:00 +0000",
+      "summary": "Un estudio publicado en JAMA determinó que el tratamiento de afecto positivo (PAT, por sus siglas en inglés) presentó resultados prometedores en ensayos clínicos. Los autores aseguran que este tipo de terapia se centra en que los pacientes aprendan nuevas habilidades que mejoran el estado de ánimo."
+    },
+    {
       "title": "“No es el próximo Covid”: la declaración de la OMS por los casos de hantavirus en el crucero MV Hondius",
       "url": "https://www.latercera.com/tendencias/noticia/no-es-el-proximo-covid-la-declaracion-de-la-oms-por-los-casos-de-hantavirus-en-el-crucero-mv-hondius/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Thu, 07 May 2026 10:01:00 +0000",
       "summary": "El fenómeno El Niño 2026 podría llegar con una alta intensidad: por esto, expertos lo han catalogado como el “Niño Godzilla”. Un especialista responde qué efectos podría tener en el clima en Chile."
-    },
-    {
-      "title": "6 recomendaciones para mantener el cerebro fuerte y sano, según un neurocientífico",
-      "url": "https://www.latercera.com/tendencias/noticia/6-recomendaciones-para-mantener-el-cerebro-fuerte-y-sano-segun-un-neurocientifico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 06 May 2026 21:00:00 +0000",
-      "summary": "El doctor en neurociencia y académico de la Universidad de California en Los Ángeles (Estados Unidos), Alex Korb, enumeró una serie de hábitos que él mismo aplica para mejorar su rendimiento y su bienestar."
     },
     {
       "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGZUUUZVRENLeXZ5c0dZaFlrbGRMOGdLTk1xMVI0WW5OTW1xcTExaUNIblhLZUdWTWVIdUNlN2ZQZTI4X2NJVU9IVEFIUTdlYXZpR01oUlFNWU9xNTVvQVdWYlYwbEVNQjBNdC1MeGhYbF9vd2RpZ2dSU09neWpvU1ltNkdhWGx0cnZFampnNHRKdEFSTGV2Zlh1SXVCeXZhOE5yRndGLVQ2dUlsMHk0NEpWcXZyQlVpNW"
     },
     {
+      "title": "“Ansible Automates Santiago 2026”: el encuentro que mostró cómo automatización e IA impulsan una nueva operación tecnológica - Portal Innova",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbW9vYjB6MkhVUUZtYUs3dFZrWGdlR2pLUnpKLXpMMEJhbTlsUzJDN2tmQmlOVzY3N2Nyc1VRS2w1SF9USHZnNkZSVDMtdWZlWTN3M2JkdlV1RzNkYUhMVGV1bGxGTUhBTlZzSGNvM3F3eHR4a2hwTV9Cb2F2OVRGZHRaT1dXS3BDVXlPZk02aV9SZ2NPMGxtWVhTWWhMeTJmTkRnSW92ZXpDb0Jwd25jdTVaOVR2aHQtc0ZhU1hjR2RkOGZxTlA0WTNDVlRnb29acWVfTVVEMkp5MWwtRzFN?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 07 May 2026 18:26:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbW9vYjB6MkhVUUZtYUs3dFZrWGdlR2pLUnpKLXpMMEJhbTlsUzJDN2tmQmlOVzY3N2Nyc1VRS2w1SF9USHZnNkZSVDMtdWZlWTN3M2JkdlV1RzNkYUhMVGV1bGxGTUhBTlZzSGNvM3F3eHR4a2hwTV9Cb2F2OVRGZHRaT1dXS3BDVXlPZk02aV9SZ2NPMGxtWVhTWWhMeTJmTkRnSW92ZXpDb0Jwd25jdTVaOVR2aHQtc0"
+    },
+    {
       "title": "Tinelli, Messi, Moria, Lali y Del Moro en la “Met Gala argentina”: el viral con IA que arrasa en las redes - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEcwUmtqVGg1VzV4Q3pJT0NjRnpVdTlLVndHb2VLWmpWcHEyQW1IQ0pnWEhMYnBxWV85TjRoNWRkSnphNU5JTkJRREh6c2FNOXBLTXlSdzRZZU1WZU40TkI4WGprR2phcVJaRmoxSUN5VmZLNWFlbzk2cm5IcHRPbGhRN3dVWVJrRWljNDdlazFLOTZDNEwyWUhCcFFWV1BhOTRldV9FTlFvQTFkZno3NmpSZzFRY0JPQkNEaEpMLUFja0lPV2pUenlpd21pUmxXWmFGLXVPR2xsUXh0b2fSAfgBQVVfeXFMTjhIbFlYbTlWR1BINUd2Z2J3cHZjRXNTdW5NY0lRazFlTE9qS0NnZmVNcmJxY2lhM1AxWEd6SW9FRHhlMEEyX2trSjB1SHRQQzROY3dDanN6aXhTbXNuX3pPdlMzVE13LVlKbEp1eVpxTlllZ0FiVUljNkpYOFlmNFN1ZkhCci1DOXpYNjNUdG9EZmFFX3RLY291dDQ5bFhEU2R4eFR4SzRtb3EyTDRQRUFEQ3QwN0oyejY2elJEcENjR2lsTDFOWmxQaWxWcFFtOW1ZNGlNLXNfbDdaVE5MYjVrRDJoMm9PY3RSS0REaFRMQ2FaNnpXR2k?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 07 May 2026 02:19:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbEcwUmtqVGg1VzV4Q3pJT0NjRnpVdTlLVndHb2VLWmpWcHEyQW1IQ0pnWEhMYnBxWV85TjRoNWRkSnphNU5JTkJRREh6c2FNOXBLTXlSdzRZZU1WZU40TkI4WGprR2phcVJaRmoxSUN5VmZLNWFlbzk2cm5IcHRPbGhRN3dVWVJrRWljNDdlazFLOTZDNEwyWUhCcFFWV1BhOTRldV9FTlFvQTFkZno3NmpSZzFRY0JPQk"
-    },
-    {
-      "title": "Durán Barba y Santiago Nieto analizan el impacto de la IA en la política - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1pPOG1JOEhmM016MF9yT3ozZVRnaU5HVi1DU3IwNTRhUDhJRGxkWFM4bjBJcko3ZU1ZUGxsdU5JN2JCYnRBdjlKUUFDNjZ2SzJkWVhpbENJeFg4R3dZZlg2RVlUVTFCZkZlWlZlMWRtRUxsRmpEakptdHFGT3VKMU0zLURNcmlZNzl3S3l3Z0pONWJZTEdJcEZJdF8xRnh1ZmMzbmNxMTYxbWlOZlAzRzlvM2lNM2YtakNyMzl1T3JmWjU4ckNBYzBZQnhKTU1hbGtsQU1B?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 06 May 2026 06:36:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1pPOG1JOEhmM016MF9yT3ozZVRnaU5HVi1DU3IwNTRhUDhJRGxkWFM4bjBJcko3ZU1ZUGxsdU5JN2JCYnRBdjlKUUFDNjZ2SzJkWVhpbENJeFg4R3dZZlg2RVlUVTFCZkZlWlZlMWRtRUxsRmpEakptdHFGT3VKMU0zLURNcmlZNzl3S3l3Z0pONWJZTEdJcEZJdF8xRnh1ZmMzbmNxMTYxbWlOZlAzRzlvM2lNM2Ytak"
     },
     {
       "title": "Startups y empresas tecnológicas chilenas llegarán a Asia con programa de ProChile - Mundoacuicola",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUko0STVGNXR6RFdEcS1NdHlycEdLWEd1WDZlbzdva0NJT0REWGlTVDRLbTJrQ0NmSlFDSVpzTzdOS3FrZm9SYi1BbVdEOFlPcUpRTjRiTGZwUjBhQWozZFpkajM3RHNKRzdzMGdkRk5zdFlmOUo0cEpGMkIySTkzTThyQ01jWjNCSXJBcnk1QVFJYTZwVERDdWtVQThnTEludjJFUTF1RGlXTUNRNm1MbEk4VjBYVmF1Sl"
     },
     {
-      "title": "Gira Tech Chile 2026: 5 empresas de Silicon Valley que busca el gobierno - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGZqalVoRHlaLXhfZzZkTDg5ZTlfTFFQQ3NqaDMzWXVDMFl6N0wzRlBSVzZ6a3E5a3FiSDk5ZXVfXzFQa3M5Nnd6akNHNUFlTTU5SEJsLXpuZzJDUERucGxDTkg4cHRBTlF4RERXY0xJUGd6T2pOdk1sRmVKdkFMc3V6U0J3SkNCdVg3Y2YyY0wyWGJTM1g1a2ZTNTBhMWRPTDRXYw?oc=5",
+      "title": "Aceleradora Start-Up Chile abre nueva convocatoria para emprendimientos tecnológicos de todo el mundo - trendTIC",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkbmtBN2RsdGt4YjljR0ZyaTFLRk90LTlwNXI2eUlpUkEwb2lhRkt4ZUJCc0k2eVJubF9lTHFYRnFkYVlaSTVSdVJ2Rl8ySHBzWk1YcEV3dzN1MXVWaTN1bG1iRkJFX2JvOUhmQUlhWGQtLWNNVlp6XzBvY2pPOGI4dzlET3llb0hHSmh2b0F2aFd6dnpIM3NyWjM2NGJ2ZFRVU3lUU01oQm8zX0ljQXRFQTFhcV9xQmx2VjZrUzJnNk9ubVNsdHcxWnJLV3PSAdcBQVVfeXFMTTUyUUo4bmY1SnU5MncyYVl0SG9uM2lPUUhZZGhhWVdpWkFaQThtcy1HblVDelNad0pkRHlWSTdaUGpIeF9ORXBPcHE2enJHWm1XTlQyZXNydmRpV0p2bEs4Wi1BZTRfTVQ1VTRtZEpKaXpUQWpRRVA5dVlmSExVU1kyZU5xN1FkanFuUW9UZ0o1REZfald0Y1VJeGdURURSM19uNnlaNHNSWG5CME9vMXFhUnptS2M3LVhYNFdDOEN0aUxuMXhVZHlCd2pXRTlvZHkySFVHREk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 06 May 2026 23:41:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGZqalVoRHlaLXhfZzZkTDg5ZTlfTFFQQ3NqaDMzWXVDMFl6N0wzRlBSVzZ6a3E5a3FiSDk5ZXVfXzFQa3M5Nnd6akNHNUFlTTU5SEJsLXpuZzJDUERucGxDTkg4cHRBTlF4RERXY0xJUGd6T2pOdk1sRmVKdkFMc3V6U0J3SkNCdVg3Y2YyY0wyWGJTM1g1a2ZTNTBhMWRPTDRXYw?oc=5\" target=\"_blank\">Gira "
+      "published": "Tue, 05 May 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdkbmtBN2RsdGt4YjljR0ZyaTFLRk90LTlwNXI2eUlpUkEwb2lhRkt4ZUJCc0k2eVJubF9lTHFYRnFkYVlaSTVSdVJ2Rl8ySHBzWk1YcEV3dzN1MXVWaTN1bG1iRkJFX2JvOUhmQUlhWGQtLWNNVlp6XzBvY2pPOGI4dzlET3llb0hHSmh2b0F2aFd6dnpIM3NyWjM2NGJ2ZFRVU3lUU01oQm8zX0ljQXRFQTFhcV9xQm"
     }
   ],
   "count": 14

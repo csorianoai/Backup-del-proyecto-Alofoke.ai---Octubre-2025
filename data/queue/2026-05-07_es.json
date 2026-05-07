@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
+      "title": "Estados Unidos golpea “centros de mando” iraníes por primera vez desde la tregua",
+      "url": "https://elpais.com/internacional/2026-05-07/estados-unidos-golpea-centros-de-mando-iranies-por-primera-vez-desde-la-tregua.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 22:23:53 GMT",
+      "summary": "El Comando Central afirma que las fuerzas estadounidenses respondieron a disparos de proyectiles iraníes"
+    },
+    {
+      "title": "El tribunal comercial de Estados Unidos falla en contra del arancel universal del 10% aprobado por Trump tras el revés del Supremo",
+      "url": "https://elpais.com/internacional/2026-05-07/el-tribunal-comercial-falla-en-contra-del-arancel-universal-del-10-aprobado-por-trump-tras-el-reves-del-supremo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 21:39:27 GMT",
+      "summary": "Los jueces argumentan que el presidente no puede acogerse a la Ley de Comercio de 1974 para aprobar los gravámenes"
+    },
+    {
+      "title": "Trump da un ultimátum a la UE para que elimine los aranceles a Estados Unidos o disparará las tasas sobre Europa",
+      "url": "https://elpais.com/economia/2026-05-07/trump-da-un-ultimatum-a-la-ue-para-que-elimine-los-aranceles-a-estados-unidos-o-disparara-las-tasas-sobre-europa.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 21:13:58 GMT",
+      "summary": "Washington da de plazo hasta el próximo 4 de julio para que Bruselas rebaje a cero los gravámenes a la importación de productos estadounidenses"
+    },
+    {
       "title": "Última hora del brote de hantavirus, en directo | La OMS confirma que cinco de los ocho casos sopechosos del barco han dado positivo en hantavirus",
       "url": "https://elpais.com/sociedad/2026-05-07/ultima-hora-del-brote-de-hantavirus-en-el-crucero-mv-hondius-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 07 May 2026 19:39:08 GMT",
-      "summary": "Sánchez llama a Clavijo para bajar la tensión por la llegada del barco a Canarias | Canarias asegura que el crucero no atracará y el Gobierno confirma que la evacuación se hará “sin contacto con la ciudadanía” | Los pasajeros no saldrán del buque hasta que no esté listo el transporte de repatriación"
+      "published": "Thu, 07 May 2026 19:56:21 GMT",
+      "summary": "Sánchez llama a Clavijo para bajar la tensión por la llegada del barco a Canarias | Canarias asegura que el crucero no atracará y el Gobierno confirma que la evacuación se hará “sin contacto con la ciudadanía” | La OMS investiga un viaje ornitológico por el Cono Sur como posible origen del brote"
     },
     {
       "title": "Sánchez y Clavijo rebajan la tensión por el hantavirus mientras Feijóo se lanza contra el Gobierno",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Thu, 07 May 2026 12:16:01 GMT",
       "summary": "El presidente llama al líder canario para suavizar. El Ejecutivo trata de tranquilizar: “No habrá contacto con la población”. El líder del PP exige ver los informes técnicos"
-    },
-    {
-      "title": "Todas las diferencias entre el Hantavirus y el Coronavirus",
-      "url": "https://elpais.com/videos/2026-05-07/todas-las-diferencias-entre-el-hantavirus-y-el-coronavirus.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 07 May 2026 14:24:13 GMT",
-      "summary": "Desde el origen o el conocimiento del virus hasta el riesgo de infección, nada se parece esta crisis a la pandemia"
-    },
-    {
-      "title": "Un brote de 2018 en un cumpleaños con 11 muertos muestra que el hantavirus de los Andes no solo se transmite por contacto estrecho",
-      "url": "https://elpais.com/ciencia/2026-05-07/un-brote-de-2018-en-un-cumpleanos-con-11-muertos-muestra-que-el-hantavirus-de-los-andes-no-solo-se-transmite-por-contacto-estrecho.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 07 May 2026 13:35:52 GMT",
-      "summary": "El análisis de 34 infecciones tras una fiesta en Argentina confirma la existencia de contagios sociales y casos ‘supercontagiadores’, como ha podido ocurrir en el buque ‘MV Hondius’"
-    },
-    {
-      "title": "¿Cómo se ha transmitido el hantavirus? Explicación visual del brote del barco",
-      "url": "https://elpais.com/sociedad/2026-05-07/como-se-ha-transmitido-el-hantavirus-explicacion-visual-del-brote-del-barco.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 07 May 2026 03:30:01 GMT",
-      "summary": "La principal hipótesis de la OMS es que el paciente cero se infectó en tierra y contagió a otros contactos a bordo"
     },
     {
       "title": "España alcanza un 44,2% de adopción de IA y se sitúa entre las economías más avanzadas a nivel mundial - Microsoft Source",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnI2YkpOb2lvYWNSNWMzNFpFUFV0R1Y5X25mYTVYYlV4djFqejNXOVk2RXZOelZGUmVOUEtjUjFUTGFVX2w4VzVMbFpIMWZzMzNaajlIQnRFM25LR1hKU2hMOTFsQlJwU0NSUTFCbkp6TkxIM3FxeXptOUNGeFhNNWNRVTlqcDFGbThlUXlJek9yU1RNR05MWlpUdTNGOGpXbVFBdzhZaXZUUm5WdHRLcGotV0ZsSlBtUW"
     },
     {
-      "title": "Tecnología accesible 2026: 600K€ en ayudas para startups - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNqTFNfVWYxY2RRVXl2MUx2Rm5wOVhRR3JpNUlIT29KUkhiSlhuMnZWck90Tk50ZUhEYkZsd0tRdmlNbzhTbW5UU1prZkFoUlhDck5EOFY2VEpxdGo5QTJlTlFsclJpQV9PQUJ6S1VkR2RsS1dWZ05HaUFwT084bUFhcnYwRlN4SGpHZnVzMA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 01 May 2026 09:03:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNqTFNfVWYxY2RRVXl2MUx2Rm5wOVhRR3JpNUlIT29KUkhiSlhuMnZWck90Tk50ZUhEYkZsd0tRdmlNbzhTbW5UU1prZkFoUlhDck5EOFY2VEpxdGo5QTJlTlFsclJpQV9PQUJ6S1VkR2RsS1dWZ05HaUFwT084bUFhcnYwRlN4SGpHZnVzMA?oc=5\" target=\"_blank\">Tecnología accesible 2026: 600K€ "
-    },
-    {
       "title": "El ecosistema de startups en España, el segundo que más crece en Europa en cinco años - BBVA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "BStartup, la primera unidad bancaria de España dedicada a startups que gesta los gigantes tecnológicos del mañana - El Español",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMVN4V0VzVFlRU2JqbUdRYmJoZ1FsQWt2OXlYNUdCMDNKTzJBejlsQkhHS1hTRjhDcjhNRFlvMGtxQ29nWkltZUhONTBrNGt4bzFNUnlieVRYMUxWVm1fZGdWSVJxNDBCazR1N2VxeHR0TVdSYWfSAasCQVVfeXFMTnRxWVVRdnIwaGRyTGl6b3VvdzdzSi00M3A0Wm9ZRmQ4RHlTQ0NidXFSS05lR3BtSDBDYVJ2N1d3UGgtNXJPWmI1WDc0ZG1sWUt1VklCdTJOMzMxTVo0dGplREkzNWRIZ0p6c2oxZFRsVjMwLWhaYXloSHpiMTVfeTAzNktMRFVkOUZ0N0pZN3FjYXV1ZjBFRUFKZks5eGl6QjdiejBlV0tUM3VMajI5UG5yV0hHSDJoVmpaX21ZYlotaHktaFlEX3FSUEl0UlA5eW5FYTUxaXVMcnJUeW9wRDlhdjBuZUlWME4zYklONHpXNFRmLU9JQ3FTTnl5MVFTZEJoQXI3bHZsUU1rbXR3OXVjV2lKdThwaWJ6U0U2ZWxacFBnVlB6RG5YeUU?oc=5",
+      "title": "Tecnología accesible 2026: 600K€ en ayudas para startups - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNqTFNfVWYxY2RRVXl2MUx2Rm5wOVhRR3JpNUlIT29KUkhiSlhuMnZWck90Tk50ZUhEYkZsd0tRdmlNbzhTbW5UU1prZkFoUlhDck5EOFY2VEpxdGo5QTJlTlFsclJpQV9PQUJ6S1VkR2RsS1dWZ05HaUFwT084bUFhcnYwRlN4SGpHZnVzMA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Apr 2026 23:50:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxQZ3VyR1NMVEgzSVlxaGM5Nm15LW9BYVJPaDM4bFMxRTR4aFZWb3ZWRGprLVRrOGlXb1p6UUFLNEZiUjZmbG4tSll2SXRFTTctSTE2QkZrYldzcnhDVzZXUmxzc25nYmYzaE43WFZVWjJxb2l4bDFOZDdCdVJqLXNnSEpFWlpnYkJLQXFIQ0s5czcxcjBWdGRWM1Z1UHd2YmtsTG85OF82Zzl3Yno3cm1UYVdIM1hiTnNNMV"
+      "published": "Fri, 01 May 2026 09:03:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONjNqTFNfVWYxY2RRVXl2MUx2Rm5wOVhRR3JpNUlIT29KUkhiSlhuMnZWck90Tk50ZUhEYkZsd0tRdmlNbzhTbW5UU1prZkFoUlhDck5EOFY2VEpxdGo5QTJlTlFsclJpQV9PQUJ6S1VkR2RsS1dWZ05HaUFwT084bUFhcnYwRlN4SGpHZnVzMA?oc=5\" target=\"_blank\">Tecnología accesible 2026: 600K€ "
+    },
+    {
+      "title": "España impulsa la innovación en defensa con startups tecnológicas en IA, ciberseguridad y aeroespacial - MundoGEO",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm16U3liWXljLWwydi1hQ05OWC02Vll1N2s00gHYAUFVX3lxTE1nU2tjbXpDZFpIb2lXdGF2TEM5eXNSWWI4QjJJSUZKWjNKWlZkVlZMRTZwLURiODcwRDBzZEVDV3R4UElKeU9la0FmanNBTW5yWW5UM1JKWjRMbXhKX2FVYVFRNGpIR19qUEwwYjVwVW16SEI2WmZReUJrSk1PNEFUaTFMM1BvRDhjY0VnSTB3eG02SjJHcDlBQlNQWE1RWDVXUlRDS3RCM2FNZkV2OTZ5UTdoYnFFZEZtb1R5VmtYS20zTU1ZanNvLWRfeDljNGFBQnFUa2dKcw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 31 Jul 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnB2TFhzMzRjUFZybndMN3dPbjczVGlhNm9BUlotd2hwbUFhM1BfTEVfTWVJaUtjajRBX1htcmZLbTk2NmhkU1AwOHdDX2czX01mczJ3ZWRMM0ZIaVhPQllveG1ITUY1eW9WNm0zaGJXb0hnZTBWXzJQUlBtVWl6QmphSW5CeHk1Qi1MVDFVWHZncElYajRlelhDZ0l4LTBBaGI0RTYtRVpGVGpwdHdta1ZEaGhQRVJKVm"
     }
   ],
   "count": 14

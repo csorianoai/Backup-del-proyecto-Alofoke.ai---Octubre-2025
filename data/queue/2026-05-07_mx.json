@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Hot Sale 2026 impulsará tickets arriba de 3,000 pesos en e-commerce",
+      "url": "https://expansion.mx/tecnologia/2026/05/07/hot-sale-2026-gasto-promedio-rebasara-3-000-pesos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 22:00:18 GMT",
+      "summary": "El Hot Sale 2026 mostrará a un consumidor más estratégico y apoyado en IA. Más de la mitad planea usar esta tecnología para comparar productos y recibir recomendaciones"
+    },
+    {
+      "title": "Compras más inteligentes: 5 de 10 personas ya usan IA para decidir sus compras",
+      "url": "https://expansion.mx/tecnologia/2026/05/07/5-de-10-personas-usan-ia-para-decidir-que-comprar",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 20:00:36 GMT",
+      "summary": "El \"consumidor super-empoderado\" llegó a México. Datos de Google y la AMVO revelan que la IA es el nuevo socio para evaluar pros, contras y precios antes de dar el \"clic\" final."
+    },
+    {
+      "title": "Apple pagará a usuarios entre 25 y 95 dólares por retrasos con su IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/07/apple-pagara-a-usuarios-entre-25-y-95-dolares-por-retrasos-con-su-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 16:00:36 GMT",
+      "summary": "La empresa aceptó un acuerdo para compensar a las personas que hayan comprado un iPhone 15 o 16 entre junio de 2024 y marzo de 2025."
+    },
+    {
       "title": "El calor eleva costos y reduce ingresos de conductores de apps",
       "url": "https://expansion.mx/tecnologia/2026/05/07/calor-conductores-de-apps-gastar-mas-ganar-menos",
       "source": "Expansión Tecnología",
@@ -19,52 +43,28 @@
       "summary": "Invertir en una pantalla para 2026 es pensar en el futuro. Aprende a elegir un equipo que sirva para el futbol, el cine y el gaming, garantizando su vigencia tecnológica por años."
     },
     {
-      "title": "¿Apple vuelve con su ex? La razón por la que busca de nuevo a Intel",
-      "url": "https://expansion.mx/tecnologia/2026/05/06/apple-vuelve-con-su-ex-la-razon-por-la-que-busca-de-nuevo-a-intel",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 06 May 2026 20:00:54 GMT",
-      "summary": "Tras 6 años de ruptura, Apple negocia fabricar sus chips con Intel, debido a su tecnología de 2 nanómetros \"Made in USA\" para blindar su producción ante las crisis de suministro."
-    },
-    {
-      "title": "Anthropic concreta alianza con Elon Musk",
-      "url": "https://expansion.mx/tecnologia/2026/05/06/anthropic-concreta-alianza-con-elon-musk",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 06 May 2026 18:54:56 GMT",
-      "summary": "Anthropic anuncia una alianza con SpaceX para utilizar la capacidad de cómputo de su centro de datos Colossus One."
-    },
-    {
-      "title": "IBM estima que la IA desplazará entre 5% y 10% del trabajo actual",
-      "url": "https://expansion.mx/tecnologia/2026/05/06/ibm-estima-que-la-ia-desplazara-entre-5-y-10-del-trabajo-actual",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 06 May 2026 18:00:04 GMT",
-      "summary": "El CEO de la empresa, Arvind Krishna, admitió que esta herramienta modificará muchas dinámicas laborales, y que el criterio propio será una habilidad super valorada."
-    },
-    {
-      "title": "SAP Industry Insights 1T 2026: cómo aviación, energía y retail en México están acelerando con Cloud ERP e Inteligencia Artificial - SAP News Center",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcEltcHV4WWczdkdoWjVBSTRTc3hIaHZ4WXlYZ2o0LVlZeUMyY0gtNVlNdlhOZnFjeUlVZkZ0RDVaVy1Eb0IxazJnc1ZqZWPSAYcCQVVfeXFMUGRkc0xJVlV6YVhIeWxRVkF1OUNaMDJwd0JITW4zYkJBWkxlRm8zMEw5ZEt2Ny1ONmJLdmxLYTM2OGxuX0tqaThjcUdUMHFuOURzazR6TTh5dmttQmJ1QVdNbVJEUGk4OFhxWUZGeVExTkRHUWtrYXpJMWRmOG9TamlzaG5UN1h1THRPWHNlSlJVbmZ1N1M0T0JCWjg1WnNWT3h6dVdHZ0lqeVJoc2NBbVc1dUc5Mm1WR1NpTk53WGZvX0hxenFiQWZ1bW1jWVFfdkJidHNNOUZ4eEM4N2ZnSWZHX0M3TjVjajQ0bVRRR0xSZTgwTzlJN29Da2VJNHlNRnllMHZVYmM?oc=5",
+      "title": "Inteligencia artificial y fraudes digitales: advertencias y consejos de la Policía de Investigación - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY1lMS1BOdERfdUMzQTQ5VUFWTjZHSkhiRjdaVk1NcDd6NGstVVFycjV2QVJjMjZ1cW0zdnVyWGdTVzlYaTBpamctWWtHY3MyQlB1NTRfN214cTBYenhDTHhybFZsWkctWEd6NHZzOW9CcjFvd3JLVE5URVhUVzhkM1pCMEFJUWZJcnpXR3RnQmI3b2xCTm1wSmJidlVMRHZnTGN0a0drd00tV0V1NVdFTFc4QVRNVnVwZmRSOFpDWFVab3JlNk5McVNZY2RLZXdsSU42Vy03czXSAfMBQVVfeXFMUGN1LUh3STI1LUVFb0pVb2tHNUJvUUtTcHZOb1o1S190U1VRNHQ2djZWRGhwYmljZUMyQTFmN2VacXZKVXJZOXJoWFZsOHRtR2RpekRlVDFHVEdKalRMMWdfMHhac1R1UDJNdENQSE1uS1NkVG5MRzBwVmJDVU16UU51bk1BN1ZxODZ5VHBSUnZIMnFhVmtoUnl5UGw3LVkyRWF2bHNsei0yNV9XVXNuN2t1YUxkZVBtVTYxT3g3MkNPWURDbHBWQ25ySDdNWVFEQy1wY01fMWNJejRmYnJvVEg5YmxfejdsNjYzN2FieHBsdzdv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 05 May 2026 17:29:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcE"
+      "published": "Thu, 07 May 2026 21:27:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY1lMS1BOdERfdUMzQTQ5VUFWTjZHSkhiRjdaVk1NcDd6NGstVVFycjV2QVJjMjZ1cW0zdnVyWGdTVzlYaTBpamctWWtHY3MyQlB1NTRfN214cTBYenhDTHhybFZsWkctWEd6NHZzOW9CcjFvd3JLVE5URVhUVzhkM1pCMEFJUWZJcnpXR3RnQmI3b2xCTm1wSmJidlVMRHZnTGN0a0drd00tV0V1NVdFTFc4QVRNVnVwZm"
     },
     {
-      "title": "México ya trabaja en una hoja de ruta para regular la IA ¿Cuáles son los retos? - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVE0dTA4QXhkaFRWTlNXNnUtTnNuaWlXQzl2QjBMWjF4MG9EVC1laXFZbXd4SlRKcWRZZVExWGF2WlNpeTdvdXdqOTlQMW9saTZjT29FV2oyeFJxRHF3eS1NX1Y5YXZqU1BHS0syOE9CbVhVZGJSY05ZNlBhTThtOWhwSVREckNZR0RrcUdwcmZtZG9KLUdRSklEV21FM0JkMWJpdjJhTGVHaE81aGZsWTNZc9IBuAFBVV95cUxNajFfd29lVXZ5bzg5cGxXSFY1SXF0b1lBWllsaW5odU04RXd3TmVmelRqS2dIZWFvd3NpRW1jZ25nUTVvOU9YT3FQM2dHUGM3d0lSaGJ0ZFBmREI2Mmxza1F5WWJHSmoxMGthUWRsNXhydndmdF9QelhzcEJVMHJCNFhNNGxzSDVhTm84RENKQzhwbjZEYjNpVDR5ekFVZ1NldDY1eFhqZThCTXZpR0tiNWhocjcxZnZ5?oc=5",
+      "title": "México impulsa una Fábrica de Inteligencia Artificial para fortalecer la innovación digital gubernamental - Visión 360",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUG5mbURJSkE4cmdEUUdpSElqTzJkNnExcndPOG1qbDVkWkJzZk9UNWFxVWdVOXdDZnMzQVdRU3RqTEdIN3BUdWFUaXVzZEpkSnJCRWVBS3ViTlRYSEdYanQ4YWpzemNkUHM3Y0p5c01vbnRJaHRLSzBpS2Z5YmNHV2JEWEhobUI1ZkhTbkk4WkgxS1I1MkNER09scFZ0Y0p0RVdRZnd4S3R4WWNsM2sycGJERFlHVk1VSVQ3NXI1T3E3YWRaWVMtQWlQbURSWWJMem8xS2hycXQ5ZkxodW96dTBlMUhJdmtEMUJsR9IB8gFBVV95cUxNeEloSmVwemxNbXZpVE1KQUZlbUJYVmozVVEwUzdmRmVtUjBzS3ZOZjQ2S1ljcEdHVWpnbFQ2b3VySUxib3pFMGhvNlJCbWp1b05qcWE5X3QzMVoybWdMWnR5cFlyeFhnV2NKcUk4dDlkVGVMYU4tR2w4UE1RYzg5dXduSV9tTFhIUXhZYlVkcjlSVVVfS2pCUmFyWWpYaDhSY3NGdlp2RXNtcDBIM0JSZHdSUXVJN2tfWjBHZ20tN1dST2JzZzBYMV80OHd4U080S3ZkbVJhOU1nT1AzVGpHWm5oM0tZZGpfM0Q0aDREZXRMQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 07 May 2026 16:03:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVE0dTA4QXhkaFRWTlNXNnUtTnNuaWlXQzl2QjBMWjF4MG9EVC1laXFZbXd4SlRKcWRZZVExWGF2WlNpeTdvdXdqOTlQMW9saTZjT29FV2oyeFJxRHF3eS1NX1Y5YXZqU1BHS0syOE9CbVhVZGJSY05ZNlBhTThtOWhwSVREckNZR0RrcUdwcmZtZG9KLUdRSklEV21FM0JkMWJpdjJhTGVHaE81aGZsWTNZc9IBuAFBVV"
+      "published": "Thu, 07 May 2026 20:40:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUG5mbURJSkE4cmdEUUdpSElqTzJkNnExcndPOG1qbDVkWkJzZk9UNWFxVWdVOXdDZnMzQVdRU3RqTEdIN3BUdWFUaXVzZEpkSnJCRWVBS3ViTlRYSEdYanQ4YWpzemNkUHM3Y0p5c01vbnRJaHRLSzBpS2Z5YmNHV2JEWEhobUI1ZkhTbkk4WkgxS1I1MkNER09scFZ0Y0p0RVdRZnd4S3R4WWNsM2sycGJERFlHVk1VSV"
     },
     {
-      "title": "Senado alista ley para regular uso de inteligencia artificial en México - El Universal",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFJUVkdnU0VMdVhyRGhBQVBqOWhKNThpUWhIMUdjMmNlVzhjbHlLbzd4SkFJTXZScG9fZ2RZWXlXVmlHazNCRDhWQjI1QXM2NUVCUTRpNU55LTRIRS1NT1R6elFtN3g4Q3ZhakR3NnFObW9vSTZDV0RsNVUtb3BHWndqT2RuaVBlSDVpUW5HbWJlWThCNTlJcUlDYXg0NllhYmJPS2ExUURXb3lOSXphMWdlVW0xTi1Kd2NVVC1MNmRkTjZ3aDlaaHBBN0hvV3NQdkNEREV5Ylg3eTZyb2d6MVFzbl9yZnJ3YjB0TNIBgAJBVV95cUxPX0RQdTF0RXlSdi1fUWZ6cVhqY3F0ZGR6cmlvN19xclVHZjFjX2Z0YkliN1R6R3A3eEtRS3BDeVlyYnhULVRJMlNqNG5Namh4VndQcGhac0xLY2QzeEhPQTVsdlYxZTBxbUJ5SXNON0VQY0xaLWplYk1vclZtRVc5UXROY3VMMEh0bTBMeFVHSjdKUjgzZHZNaEZ3UWhPZUYyOEVSRVdseExyNEk0ekZGU043YXN5T3d4UXJzbnVCT25qdzhlbHRsYm5Gak1mbUhQcFBQSnJjUEc0YVNBam1WdlpiU0t5ZVlUQ0JfNkFaSGQ5Qm5fcXMxRG1LVExQZGhM?oc=5",
+      "title": "Senado de México analiza reforma para evitar que la IA sustituya a trabajadores - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTdwekpCYnFVdVFfSDNaNnN3Zk1OQnRLNWhJaFZSdDBLQTJObmluUHd2YWJodnJuUjRGNVl6OE5rRHp1RUpzQ3QwMzJETmw0NHk1dEI2MUJ6cGxXaFFXZDc0ZlA5WjdPN29PcTdRdEZQQ1YxQXpRaVozcjA5MElIU0xvTGc3TlhGRWp1WGhIS2xSbUZmZDNNbV93ZGNaOEtWRDR4NW4xNURvTmk5aTJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 07 May 2026 18:19:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbFJUVkdnU0VMdVhyRGhBQVBqOWhKNThpUWhIMUdjMmNlVzhjbHlLbzd4SkFJTXZScG9fZ2RZWXlXVmlHazNCRDhWQjI1QXM2NUVCUTRpNU55LTRIRS1NT1R6elFtN3g4Q3ZhakR3NnFObW9vSTZDV0RsNVUtb3BHWndqT2RuaVBlSDVpUW5HbWJlWThCNTlJcUlDYXg0NllhYmJPS2ExUURXb3lOSXphMWdlVW0xTi1Kd2"
+      "published": "Thu, 07 May 2026 19:33:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTdwekpCYnFVdVFfSDNaNnN3Zk1OQnRLNWhJaFZSdDBLQTJObmluUHd2YWJodnJuUjRGNVl6OE5rRHp1RUpzQ3QwMzJETmw0NHk1dEI2MUJ6cGxXaFFXZDc0ZlA5WjdPN29PcTdRdEZQQ1YxQXpRaVozcjA5MElIU0xvTGc3TlhGRWp1WGhIS2xSbUZmZDNNbV93ZGNaOEtWRDR4NW4xNURvTmk5aTJr?oc=5\" target="
     },
     {
       "title": "Nearshoring México 2026: ventaja horaria reduce sprints 40% - Ecosistema Startup",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1d0dklkM1BrcTJLSGVzT3o3bzFwTXZXdFR4SzZ6QTE5X0h2QThEMUJab1FwYUlhR083SXRyYmF2NTVNLTh2bllBRXVZOWZLRUt4N0t3Vkc0X0ZWcnlPRTVFVDZ1NlBqNEYwWDFTMjRKM0Jtbnh3MUNLQU1sT2dJSXdFNmlHYkx4V0h2M2J4SV9CZw?oc=5\" target=\"_blank\">Nearshoring México 2026: vent"
     },
     {
-      "title": "San Francisco 2026: capital de IA con economía rezagada - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5",
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5\" target=\"_blank\">San Francisco 2026: capital de IA c"
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
