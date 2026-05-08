@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Reseña: Sleep A30, los audífonos que salvarán tu relación si tu pareja ronca",
-      "url": "https://expansion.mx/tecnologia/2026/05/08/resena-sleep-a30-los-audifonos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 08 May 2026 19:00:37 GMT",
-      "summary": "Este dispositivo destaca por su cancelación activa de ruido y el impacto que tienen en las horas de sueño de los usuarios."
-    },
-    {
-      "title": "Día de las Madres impulsará hasta 22% los pedidos en apps de delivery",
-      "url": "https://expansion.mx/tecnologia/2026/05/08/dia-de-las-madres-impulsara-pedidos-apps-delivery",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 08 May 2026 17:00:51 GMT",
-      "summary": "La celebración apunta a una derrama de 5,901 millones de pesos en CDMX y confirma el peso del consumo digital en celebraciones clave."
-    },
-    {
       "title": "IBM encara a OpenAI y Google con 50 proyectos de IA avanzada junto al IMT",
       "url": "https://expansion.mx/tecnologia/2026/05/08/ibm-encara-a-openai-y-google-con-50-proyectos-de-ia-avanzada-junto-al-imt",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "El \"consumidor super-empoderado\" llegó a México. Datos de Google y la AMVO revelan que la IA es el nuevo socio para evaluar pros, contras y precios antes de dar el \"clic\" final."
     },
     {
+      "title": "Apple pagará a usuarios entre 25 y 95 dólares por retrasos con su IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/07/apple-pagara-a-usuarios-entre-25-y-95-dolares-por-retrasos-con-su-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 16:00:36 GMT",
+      "summary": "La empresa aceptó un acuerdo para compensar a las personas que hayan comprado un iPhone 15 o 16 entre junio de 2024 y marzo de 2025."
+    },
+    {
+      "title": "El calor eleva costos y reduce ingresos de conductores de apps",
+      "url": "https://expansion.mx/tecnologia/2026/05/07/calor-conductores-de-apps-gastar-mas-ganar-menos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 07 May 2026 11:55:48 GMT",
+      "summary": "Conductores reportan celulares apagados por sobrecalentamiento, más pausas y hasta gastos extra al día en gasolina por el uso constante del aire acondicionado."
+    },
+    {
       "title": "México quiere regular la IA en el trabajo para que no reemplace a los empleados, ¿qué pasa en Colombia? | El Colombiano - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV8yYkhLdTVlY2h1TnpFOC1oSnoydzNxY0V5TmY4OXdYbXV0YWEtcExuMUczUzBETEg4RFViaTE5NW1RMU9EVXNYbzk1UnlGTHNaU2NibVhqUUt5VW1IRUpPekNhRlF1SGw3MHo1dVFlalJPTHhRZm9hWFlFTWRGZ19DVUJMaUdwb0t1THhPcWgxeTRORFdnTmxEaUVUQkdmUFMyMWRkQlFoRWhPNERMV3E1STDSAboBQVVfeXFMTW9fbGZwRVRvM2d1aVRRVXU0TkxZZEtkUDZjSkVqdzIxSEVZaVB6Qm1BcUpscm4xOE5maFNCdnNqWDBZNXNIZUlxSXo3M1BaWUtOUFMwd242Y1l6b2VrTWVtSzZzRVBoTlZqcEl5X053a09Vd2hnMmpUUERjeHF4Tk1PWUdDb2s2T0F1dS03QXlISFlXZ2lKWkI2b0Q4cHFUOW1kYngyMnczaFJqdVJzS2ZsTDRSX1lMbm1n?oc=5",
       "source": "Google News",
@@ -59,28 +59,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHNQZFl5bXFnNm4tcVZRWU1ETlJIdExQZkQyaUFiQ0FENEdhNGJwQksxMngwN0hiaUxGNHVTbXJlbHQ5UXVVem9MTl9TdFQtSjFwZHNGVmpLUkJTUUNubVRQaTJNcERWcTl4UFlTcFo0Sy05aEx6LXdicVdfbDd5amFDQ0pkXzRVOXNvWnFuOW1kRldJWVE?oc=5\" target=\"_blank\">Samsung México impulsa l"
     },
     {
-      "title": "Inteligencia artificial y fraudes digitales: advertencias y consejos de la Policía de Investigación - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY1lMS1BOdERfdUMzQTQ5VUFWTjZHSkhiRjdaVk1NcDd6NGstVVFycjV2QVJjMjZ1cW0zdnVyWGdTVzlYaTBpamctWWtHY3MyQlB1NTRfN214cTBYenhDTHhybFZsWkctWEd6NHZzOW9CcjFvd3JLVE5URVhUVzhkM1pCMEFJUWZJcnpXR3RnQmI3b2xCTm1wSmJidlVMRHZnTGN0a0drd00tV0V1NVdFTFc4QVRNVnVwZmRSOFpDWFVab3JlNk5McVNZY2RLZXdsSU42Vy03czU?oc=5",
+      "title": "SAP Industry Insights 1T 2026: cómo aviación, energía y retail en México están acelerando con Cloud ERP e Inteligencia Artificial - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcEltcHV4WWczdkdoWjVBSTRTc3hIaHZ4WXlYZ2o0LVlZeUMyY0gtNVlNdlhOZnFjeUlVZkZ0RDVaVy1Eb0IxazJnc1ZqZWPSAYcCQVVfeXFMUGRkc0xJVlV6YVhIeWxRVkF1OUNaMDJwd0JITW4zYkJBWkxlRm8zMEw5ZEt2Ny1ONmJLdmxLYTM2OGxuX0tqaThjcUdUMHFuOURzazR6TTh5dmttQmJ1QVdNbVJEUGk4OFhxWUZGeVExTkRHUWtrYXpJMWRmOG9TamlzaG5UN1h1THRPWHNlSlJVbmZ1N1M0T0JCWjg1WnNWT3h6dVdHZ0lqeVJoc2NBbVc1dUc5Mm1WR1NpTk53WGZvX0hxenFiQWZ1bW1jWVFfdkJidHNNOUZ4eEM4N2ZnSWZHX0M3TjVjajQ0bVRRR0xSZTgwTzlJN29Da2VJNHlNRnllMHZVYmM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 07 May 2026 21:27:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY1lMS1BOdERfdUMzQTQ5VUFWTjZHSkhiRjdaVk1NcDd6NGstVVFycjV2QVJjMjZ1cW0zdnVyWGdTVzlYaTBpamctWWtHY3MyQlB1NTRfN214cTBYenhDTHhybFZsWkctWEd6NHZzOW9CcjFvd3JLVE5URVhUVzhkM1pCMEFJUWZJcnpXR3RnQmI3b2xCTm1wSmJidlVMRHZnTGN0a0drd00tV0V1NVdFTFc4QVRNVnVwZm"
+      "published": "Tue, 05 May 2026 17:29:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUldjTG9RSkV6UVVRcWt4WHNzTTdWMDJvYUtVU1VtbVRKc01rdGFtZkEwUkR1REYyVVRYSzgzZUxHaTBYUlljdktMcTlyZktiNjBLMU9IMFBpUVlZNlM0Q0EwVTVFZWRDUGJaaHVzZnVmY3Q0UDQ4bkw3ZHk3MFRKbHZfX3ZVTGdyM2pITEVyR1M4OGc4ZE8yaktMZHNKa1NmTFEtajR5VTR6X09IdUctSWZMVVZuTFNTcE"
     },
     {
-      "title": "Nearshoring México 2026: +39% inversión y ventaja horaria - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDM3N1lMZ00xNXpQelZqYml2TzVmeFMwZWVGdS1BYWhUZmJYV0JUQ0l3b3JnYVBUSE9VNmNRNEt5VVEwVUNqZ1g0VjZRcTBuRUp3cEJBMG9wck1qZjBqZ0QwQlBJcmFDRUFVdXR5UExmamU4M3RmR0xRanpmc2FhdFVDVGpoVUxHSjVLWG1n?oc=5",
+      "title": "Nearshoring México 2026: ventaja horaria reduce sprints 40% - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1d0dklkM1BrcTJLSGVzT3o3bzFwTXZXdFR4SzZ6QTE5X0h2QThEMUJab1FwYUlhR083SXRyYmF2NTVNLTh2bllBRXVZOWZLRUt4N0t3Vkc0X0ZWcnlPRTVFVDZ1NlBqNEYwWDFTMjRKM0Jtbnh3MUNLQU1sT2dJSXdFNmlHYkx4V0h2M2J4SV9CZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 06 May 2026 18:18:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSDM3N1lMZ00xNXpQelZqYml2TzVmeFMwZWVGdS1BYWhUZmJYV0JUQ0l3b3JnYVBUSE9VNmNRNEt5VVEwVUNqZ1g0VjZRcTBuRUp3cEJBMG9wck1qZjBqZ0QwQlBJcmFDRUFVdXR5UExmamU4M3RmR0xRanpmc2FhdFVDVGpoVUxHSjVLWG1n?oc=5\" target=\"_blank\">Nearshoring México 2026: +39% inver"
+      "published": "Wed, 06 May 2026 18:14:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1d0dklkM1BrcTJLSGVzT3o3bzFwTXZXdFR4SzZ6QTE5X0h2QThEMUJab1FwYUlhR083SXRyYmF2NTVNLTh2bllBRXVZOWZLRUt4N0t3Vkc0X0ZWcnlPRTVFVDZ1NlBqNEYwWDFTMjRKM0Jtbnh3MUNLQU1sT2dJSXdFNmlHYkx4V0h2M2J4SV9CZw?oc=5\" target=\"_blank\">Nearshoring México 2026: vent"
     },
     {
-      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "title": "San Francisco 2026: capital de IA con economía rezagada - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORjF6QThHRTlEaFM3Wms4YTlWMXdKTnl5eVNPSGJwMmUxUkhsUjA0WmpKdXBVMlhLbGZEeGpwd25saXdLTFJxZXl0dVZqOVBTbjg2TUl4TkpxeEdZTkhTdEVQdUEtXzlFTXA3ZWRFOUNaUVo0czg0bG4zZmg1ajRlZzVQODdHSnQwZ3FhNGpR?oc=5\" target=\"_blank\">San Francisco 2026: capital de IA c"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
