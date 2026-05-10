@@ -3,6 +3,14 @@
   "country": "uy",
   "articles": [
     {
+      "title": "Uruguay busca posicionarse como referente regional en inteligencia artificial - AmericaMalls & Retail",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTcyWEFIZmdKZWs3V0RXU0ZNQVJodDdRUDhqTnVRQ1owelRmbHVIb1dXNVlWYVNiNG0yTzF0NEwxTHBGNEM2Uzk0d0ZNV29VRWVHb19vaFZZUEZiZVA1enQ2Yk5JbzdhOTdvYXI3eVRNRlBKek9pX0R1QWdsUGJ2SkhURV80azNUTUJ4V0FFVjRCYXR2WmlET0k2SUU3YmRWU25zOEFRTWdNWUVleDJYMDVjN1NsNlVFZGl6Mnc0VHlOWnh6Sm5pY2JrWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 08 May 2026 11:20:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTcyWEFIZmdKZWs3V0RXU0ZNQVJodDdRUDhqTnVRQ1owelRmbHVIb1dXNVlWYVNiNG0yTzF0NEwxTHBGNEM2Uzk0d0ZNV29VRWVHb19vaFZZUEZiZVA1enQ2Yk5JbzdhOTdvYXI3eVRNRlBKek9pX0R1QWdsUGJ2SkhURV80azNUTUJ4V0FFVjRCYXR2WmlET0k2SUU3YmRWU25zOEFRTWdNWUVleDJYMDVjN1NsNlVFZG"
+    },
+    {
       "title": "Microsoft y el gobierno de Uruguay lanzan el Laboratorio de inteligencia artificial para el bien en una nueva etapa de colaboración público-privada - Microsoft Source",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOZDVFM2JSV19VUk9kSXRnUVVWVENEbzlLOGhFbWtPTGFNbmRISXRFNWFidGRNcmpfbXg4VE5KUVU0UC1KQTdDVUR5ZHZ3eEc4Z1ZRbV9mUUxfVnI5emNlbFE4Y2R5aXRPQzdSMlMtVktQRVYtYVJ0ZG1IaWFlaHFKMWlyelZxamlsTnp1U2w3cm5qMHluRnFkN0g0MUNESTlSbk1naV9vaUtDVU5iWU9QM2NMSjFyZU1qYjRZT2RNbG1CV0ZLZWgtcThqQngwX1BtYXo5dmJrU1BpMG1GX2JKSnppSnB4Y004eEZISXlKWi1hOGJ6dHFMbzJoNjd4cVBSQldfNklKOEdscW1MTkEyMG0xbmZ6LTlQRFNOLTZFangxNXRaY0NSSmR5LXB0VEQ5TE05dg?oc=5",
       "source": "Google News",
@@ -17,14 +25,6 @@
       "category": "news",
       "published": "Thu, 07 May 2026 02:41:48 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMktuU2dOeVZZX01NQWZNeWRBSXNQV2NrMmctY19YZFF3ME5xUGlQdGdFejIwNWEwRktxSEo1c1NLMXJDZ1dzVEwzYTJYVnluenFuU2ZRLWxuVnlqZjAtcU1NdC03YVI5NENTUkV4aE84MnhLLV9QdmxHSVRaUWp6ZlF2Ql8zYzhpTnFWWjRLYWJhUnFRNG9mVkQ0Ym5fZ3lwZlh0TEluYy1KUjZHdE53bHhPUllCQWtmZW"
-    },
-    {
-      "title": "Estrategia digital de Uruguay: IA en la gestión pública, identidad digital y 12 mdd en infraestructura - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlNGX0oxU2IzOWZpLUxOaFkxSzVCMmxSc1MyWjNFdXdFaHdsclRIdGZhMDVsbkluTTV0SHE0Z2R0SHloVTNMdUZfR2FFTDAyUGUzS2xhV3A0a2laUHE0V2pOYTFRamlCaW1leHlxRGxFU2NucG5wRTZrNGdobml3R0k1d0Nvd3ZyZ0dzZ0wySnNYZDFNWWhWaHQ3ZXpSVXRVV1pnRWRyUkIzcllhLVJTUl9KQ1ZUamQyVFlHMzVB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 09 May 2026 04:56:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlNGX0oxU2IzOWZpLUxOaFkxSzVCMmxSc1MyWjNFdXdFaHdsclRIdGZhMDVsbkluTTV0SHE0Z2R0SHloVTNMdUZfR2FFTDAyUGUzS2xhV3A0a2laUHE0V2pOYTFRamlCaW1leHlxRGxFU2NucG5wRTZrNGdobml3R0k1d0Nvd3ZyZ0dzZ0wySnNYZDFNWWhWaHQ3ZXpSVXRVV1pnRWRyUkIzcllhLVJTUl9KQ1ZUamQyVF"
     },
     {
       "title": "IM realizará un operativo para limpiar grafitis con tecnología que detecta sospechosos - Montevideo Portal",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQko1ZzdKY1VXUUFham5uWVY0cWhHSFpXcm1pR21vMGRTa1hWT2ducFo1d1RSd2hYVjZJbFFZMS04WHhtSFBKNDJIaWU0U2ZET3ppVEdTUEdxbHU3cnlyTkJSNWJnU2JhUmtZZzdGQlhJcDNQOVNQLXdVcDhCX180NXNWSWhxUUFMdjBpRDV3ckI3dDBkeXQyM0JQS0pWR1dOcTJmYXpyM0lOUl9aMENLcHAwN2pJY0ktTk"
     },
     {
-      "title": "Galicia suma 300 startups y 120M€ en inversión: oportunidades para founders - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0hhOTFFenVSeVNwckxkdDVZU1NHOVVHQ0xmM1gySnJqREs1elRGdk1rc1ZXcENIMW5uZ2ZGaDFyNkNoMVpjX3QyNW85dE5DekVhNEQ5Y2JlX2c0SE8ycDVmZHIwNy1lY1YyQ2RtQlUzSDREeXNwSFlDVWFqWXpsVktsUDg5c2dYMHpPeXhoOGdqdXd2NFBRM29ieGM0YzFILURQS0wyRHI?oc=5",
+      "title": "Uruguay 2026: US$20M en funding y cómo acceder - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0xyLTZZa2NGazBpcGZrODczRVNDbThCY2tGLVhra2FkZHNfZEk0eGkxMDE0WVMtaUotUjlTZWtsSUJTNmNPZG9fT2U0RE9DRVZzVW1SMlRfNVVOWkUxNHB0UG00S2dWZEUwc1BnQXZGalFzUmpSYmY3cmk1N0tRQw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 10 May 2026 04:31:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0hhOTFFenVSeVNwckxkdDVZU1NHOVVHQ0xmM1gySnJqREs1elRGdk1rc1ZXcENIMW5uZ2ZGaDFyNkNoMVpjX3QyNW85dE5DekVhNEQ5Y2JlX2c0SE8ycDVmZHIwNy1lY1YyQ2RtQlUzSDREeXNwSFlDVWFqWXpsVktsUDg5c2dYMHpPeXhoOGdqdXd2NFBRM29ieGM0YzFILURQS0wyRHI?oc=5\" target=\"_blank\">"
+      "published": "Thu, 07 May 2026 19:35:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPN0xyLTZZa2NGazBpcGZrODczRVNDbThCY2tGLVhra2FkZHNfZEk0eGkxMDE0WVMtaUotUjlTZWtsSUJTNmNPZG9fT2U0RE9DRVZzVW1SMlRfNVVOWkUxNHB0UG00S2dWZEUwc1BnQXZGalFzUmpSYmY3cmk1N0tRQw?oc=5\" target=\"_blank\">Uruguay 2026: US$20M en funding y cómo acceder</a>&nb"
     },
     {
       "title": "Startup uruguaya que crea agentes de IA para call centers de cobranzas captó inversión por US$ 600.000 y apunta a expandirse en Asia y África - El Observador",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeUZOandyZXZ1Q01iaWxVZk5NaUdtOG1aMkFqb2xYeWNsN243dktVSFhoZDgzelllaEJNMGdybXNuZ0dVQ3hNenJvZUJtV21SOExoRnJmM3VkY3RxWVhZVDJVZGt3dzlfM1FuVHR0elFLUEFYUWpKcTU5MEV4ejFIN1FaenN0ZDhHWHVIS1A1RjJGMm1Idk5odWNiekFYN2wyNVRISFBDQ0lGZWllczVBclNfdjdscmYtOT"
     },
     {
-      "title": "Diseño y compra en Uruguay cambian con innovación retail y catálogo 3D - AmericaMalls & Retail",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNms1Z0xEZDhlZHhKbXU3eEhMOVI2SWlnT1dFRTVKYkdsS2lwcXUwelc1ZDZaM1BHQ2Q4Nzh1bkdWVXJkV0tEbVh2VGo2VmJMLXdWMUhQbWJnY2NvUGtIRHJqV3RIN2lteXF5OFVPb3RydzJ4UkJ0U3ZDSEdwOUtlWlFLUXdpN09WV1hPMTZRODlWdHI4Zm5PYktzclhxUWVRMVAta3d6RFNvdG5RQnBwZXRtZlZjU0RMZVE?oc=5",
+      "title": "Cápsulas digitales y e-commerce: Cómo evoluciona el conocimiento en la economía digital uruguaya - AmericaMalls & Retail",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2VXb0tWZFR5OUFnWWs2SE5fSnJSN0M2dGNmSUlJM1BUMUZPNDdINC16X3hxRW1HSFJkRDJWNklnWGVWSFhZNW0zYmFmWm1NTi01MjRxdmlpZ0dyV19jQW5Ub3hCRm54S2lGRy03UGVWRl9uX0g2NkMtbjNNZHRqODc0T0tkQ3ZEZU9XeUFrVi03REFOektyWDJ6Mm5SQmxoMERVb2d6Z3dOdTZtZHdaXy1taFJRZXA3V0oydHRrNk0ya0VQSEZZWkQ3TUl6ZXdmeC1oWS0xUDUzdw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNms1Z0xEZDhlZHhKbXU3eEhMOVI2SWlnT1dFRTVKYkdsS2lwcXUwelc1ZDZaM1BHQ2Q4Nzh1bkdWVXJkV0tEbVh2VGo2VmJMLXdWMUhQbWJnY2NvUGtIRHJqV3RIN2lteXF5OFVPb3RydzJ4UkJ0U3ZDSEdwOUtlWlFLUXdpN09WV1hPMTZRODlWdHI4Zm5PYktzclhxUWVRMVAta3d6RFNvdG5RQnBwZXRtZlZjU0RMZV"
+      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2VXb0tWZFR5OUFnWWs2SE5fSnJSN0M2dGNmSUlJM1BUMUZPNDdINC16X3hxRW1HSFJkRDJWNklnWGVWSFhZNW0zYmFmWm1NTi01MjRxdmlpZ0dyV19jQW5Ub3hCRm54S2lGRy03UGVWRl9uX0g2NkMtbjNNZHRqODc0T0tkQ3ZEZU9XeUFrVi03REFOektyWDJ6Mm5SQmxoMERVb2d6Z3dOdTZtZHdaXy1taFJRZXA3V0"
     },
     {
       "title": "Gobierno presentó su estrategia de transformación digital del Estado - Portal Medios Públicos",
