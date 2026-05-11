@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Google advierte que la IA ya hackea el doble factor de autenticación",
-      "url": "https://expansion.mx/tecnologia/2026/05/11/google-advierte-que-la-ia-ya-hackea-el-doble-factor-de-autenticacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 11 May 2026 16:30:13 GMT",
-      "summary": "Por primera vez, Google detecta el uso de IA para identificar y atacar brechas desconocidas de seguridad y sus expertos alertan que esta tecnología ya elude el 2FA."
-    },
-    {
       "title": "La batalla de los chips ya no es sólo de Nvidia",
       "url": "https://expansion.mx/tecnologia/2026/05/11/la-batalla-de-los-chips-ya-no-es-solo-de-nvidia",
       "source": "Expansión Tecnología",
@@ -43,6 +35,22 @@
       "summary": "La celebración apunta a una derrama de 5,901 millones de pesos en CDMX y confirma el peso del consumo digital en celebraciones clave."
     },
     {
+      "title": "IBM encara a OpenAI y Google con 50 proyectos de IA avanzada junto al IMT",
+      "url": "https://expansion.mx/tecnologia/2026/05/08/ibm-encara-a-openai-y-google-con-50-proyectos-de-ia-avanzada-junto-al-imt",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 08 May 2026 11:55:17 GMT",
+      "summary": "La tecnológica extiende su alianza con el MIT para competir en la nueva carrera por modelos fundacionales y sistemas híbridos de cómputo."
+    },
+    {
+      "title": "Kriptos y MAPS buscan liderar la protección inteligente de datos en México - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEQ5c29DWTQyMGI3TVZ0dWc1Ulp1V1ZCLTZCVjZyc0xReERVcURXSzE2Mnp5bS01MGNWYVdMdzd3OXlYODNTUUpMb1hZUndoYjlvVnYwTXlIdzRqWFpTRHVoZmpiZzllTGxTekdjZ05zV0tRWml4UEhBWFNTRTBUWkh6VDZOQ0VvSVZhVkdHdE5IbUt6dUFHRTdWc3BEaUYxWU15RmdMRFFVRUgyQ1NB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 11 May 2026 18:40:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEQ5c29DWTQyMGI3TVZ0dWc1Ulp1V1ZCLTZCVjZyc0xReERVcURXSzE2Mnp5bS01MGNWYVdMdzd3OXlYODNTUUpMb1hZUndoYjlvVnYwTXlIdzRqWFpTRHVoZmpiZzllTGxTekdjZ05zV0tRWml4UEhBWFNTRTBUWkh6VDZOQ0VvSVZhVkdHdE5IbUt6dUFHRTdWc3BEaUYxWU15RmdMRFFVRUgyQ1NB?oc=5\" target="
+    },
+    {
       "title": "México quiere regular la IA en el trabajo para que no reemplace a los empleados, ¿qué pasa en Colombia? | El Colombiano - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV8yYkhLdTVlY2h1TnpFOC1oSnoydzNxY0V5TmY4OXdYbXV0YWEtcExuMUczUzBETEg4RFViaTE5NW1RMU9EVXNYbzk1UnlGTHNaU2NibVhqUUt5VW1IRUpPekNhRlF1SGw3MHo1dVFlalJPTHhRZm9hWFlFTWRGZ19DVUJMaUdwb0t1THhPcWgxeTRORFdnTmxEaUVUQkdmUFMyMWRkQlFoRWhPNERMV3E1STDSAboBQVVfeXFMTW9fbGZwRVRvM2d1aVRRVXU0TkxZZEtkUDZjSkVqdzIxSEVZaVB6Qm1BcUpscm4xOE5maFNCdnNqWDBZNXNIZUlxSXo3M1BaWUtOUFMwd242Y1l6b2VrTWVtSzZzRVBoTlZqcEl5X053a09Vd2hnMmpUUERjeHF4Tk1PWUdDb2s2T0F1dS03QXlISFlXZ2lKWkI2b0Q4cHFUOW1kYngyMnczaFJqdVJzS2ZsTDRSX1lMbm1n?oc=5",
       "source": "Google News",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV8yYkhLdTVlY2h1TnpFOC1oSnoydzNxY0V5TmY4OXdYbXV0YWEtcExuMUczUzBETEg4RFViaTE5NW1RMU9EVXNYbzk1UnlGTHNaU2NibVhqUUt5VW1IRUpPekNhRlF1SGw3MHo1dVFlalJPTHhRZm9hWFlFTWRGZ19DVUJMaUdwb0t1THhPcWgxeTRORFdnTmxEaUVUQkdmUFMyMWRkQlFoRWhPNERMV3E1STDSAboBQV"
     },
     {
-      "title": "Quién será la próxima estrella musical de México, según la Inteligencia Artificial - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1JvaXhWRUtGZDIzamF3T2l4YmxkU0JQOXZLX09LQUtzNS11YmZqMkZqSzJrUkZCQlJrcGNHbmVSN0xKd2RYcE8wODFBSEVQcnN2X29uTXZERUdqSlNDM2dmUU11M2pEanZsLTZ2MHQtY3FlQi1xdG92c1hEeGc4RjRTSDNpaEVLWGdSeHRkcWlIRTh2Y09USl9YYklueVdaVjg2bW9jNlRja0tEbXR6d3F3am1SY0xXY0hhckptMlczVThxXzBz0gHMAUFVX3lxTE91ZzhIUmZBSXNzYzk4a24xLW9lZW80V3hZckE5Y25PVUhuWmFaM1dpcGxCRV9BTDJFdkNTbWUyMTlLd05RVDBxa3Y1X3dGRVBWUDc5NUxkM18zd1d2d0JTeUtPNFBpZFNtR2dfYWExcTNCTUUzSXNuWW5VR3otcmw5cU54SEVKaUVHNFNGbVZtb3lFYW4tT3NKV2hKY1BXM012YjJsN3RiUmRyVDdKZElGSHhYWEUtSkRIU0hkbDM1ZXRlNS1oYkhJRDVMbA?oc=5",
+      "title": "Inteligencia artificial en las escuelas: seis de cada 10 universitarios la usan - Serendipia - Periodismo de Datos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXNvaWdSQURpeDNMb1VrajEtVjBIbEhzUU9DbTBJLVA4d1ZRNzZqVVFBYS1SbDFKamFqNW5wVDlXZWVlVHh5VlE1LVhGMUQ4aGFQS21ZQ0pVUTNyRFdwMFRIZ1dPNkRBMW9jWHR2VDVYRlNxeHI1WjR3djE3WmJYRlc1MmFyUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 11 May 2026 00:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1JvaXhWRUtGZDIzamF3T2l4YmxkU0JQOXZLX09LQUtzNS11YmZqMkZqSzJrUkZCQlJrcGNHbmVSN0xKd2RYcE8wODFBSEVQcnN2X29uTXZERUdqSlNDM2dmUU11M2pEanZsLTZ2MHQtY3FlQi1xdG92c1hEeGc4RjRTSDNpaEVLWGdSeHRkcWlIRTh2Y09USl9YYklueVdaVjg2bW9jNlRja0tEbXR6d3F3am1SY0xXY0"
-    },
-    {
-      "title": "El filtro de entrada a la tecnología en México se endurece en la era de la inteligencia artificial - Proceso",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEZvdkxOLWNZYnppRDlLZGF1dnMtcHkxMDJWT0tIOTlfUkhqWnE0ZzdkNlpOeGdHLUcxczI4bllmLTZOLVNWME9KRUlPbkVxdDM5clc5azVpSllhUGtxRy1mTVlWZFdHek8yN2U4MmE0V0wwTVAwQmxzNGNTVEVWaHZqeDRhTTQ2ZHk3bVZDUEFoSWJOUjVuY0hSZEprNmNRamNQdmhIaXNzck1pbXRzRXJ1WklaRFNfbU9naWdubTd5aDVKNEZGV29HQVBBTk01c2xyeG1JamprYU5JdjY2c3gteXItNURGc0HSAeoBQVVfeXFMUGxGb3ZMTi1jWWJ6aUQ5S2RhdXZzLXB5MTAyVk9LSDk5X1JIalpxNGc3ZDZaTnhnRy1HMXMyOG5ZZi02Ti1TVjBPSkVJT25FcXQzOXJXOWs1aUpZYVBrcUctZk1ZVmRXR3pPMjdlODJhNFdMME1QMEJsczRjU1RFVmh2ang0YU00NmR5N21WQ1BBaEliTlI1bmNIUmRKazZjUWpjUHZoSGlzc3JNaW10c0VydVpJWkRTX21PZ2lnbm03eWg1SjRGRldvR0FQQU5NNXNscnhtSWpqa2FOSXY2NnN4LXlyLTVERnNB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 11 May 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEZvdkxOLWNZYnppRDlLZGF1dnMtcHkxMDJWT0tIOTlfUkhqWnE0ZzdkNlpOeGdHLUcxczI4bllmLTZOLVNWME9KRUlPbkVxdDM5clc5azVpSllhUGtxRy1mTVlWZFdHek8yN2U4MmE0V0wwTVAwQmxzNGNTVEVWaHZqeDRhTTQ2ZHk3bVZDUEFoSWJOUjVuY0hSZEprNmNRamNQdmhIaXNzck1pbXRzRXJ1WklaRFNfbU"
+      "published": "Mon, 11 May 2026 17:59:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXNvaWdSQURpeDNMb1VrajEtVjBIbEhzUU9DbTBJLVA4d1ZRNzZqVVFBYS1SbDFKamFqNW5wVDlXZWVlVHh5VlE1LVhGMUQ4aGFQS21ZQ0pVUTNyRFdwMFRIZ1dPNkRBMW9jWHR2VDVYRlNxeHI1WjR3djE3WmJYRlc1MmFyUQ?oc=5\" target=\"_blank\">Inteligencia artificial en las escuelas: seis"
     },
     {
       "title": "San Francisco 2026: capital de IA con economía rezagada - Ecosistema Startup",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Así se verá el Centro de Monterrey en 2050, según la IA - ABCNoticias.mx",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNExqbDZjbGF3bHJsdC1WZERwYU5hMzFBOWM5Zm5sRjZ5VzZxZHZLWjFLM3F1Z0FkZHVwWU5wLXJWQXFnTUpXUXhUVElRWVozSzFLX0d6d2I3UXdXeElmbk84V2VpODF2NGJWU1haa2g1SUs3cGxZU3hVRHV2aGIyRFMtYTNhOFNPUzNQRkRYVnJiZHZ0bkdieVJVUkRkdGRtTDgwM3prRklYbmRH?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 03 May 2026 19:22:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNNExqbDZjbGF3bHJsdC1WZERwYU5hMzFBOWM5Zm5sRjZ5VzZxZHZLWjFLM3F1Z0FkZHVwWU5wLXJWQXFnTUpXUXhUVElRWVozSzFLX0d6d2I3UXdXeElmbk84V2VpODF2NGJWU1haa2g1SUs3cGxZU3hVRHV2aGIyRFMtYTNhOFNPUzNQRkRYVnJiZHZ0bkdieVJVUkRkdGRtTDgwM3prRklYbmRH?oc=5\" target=\"_bl"
-    },
-    {
       "title": "América Latina encabeza el uso de la IA en la educación superior - Tecnológico de Monterrey",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5\" target=\"_blank\">América Latina encabeza el uso de la IA"
+    },
+    {
+      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
     }
   ],
   "count": 14
