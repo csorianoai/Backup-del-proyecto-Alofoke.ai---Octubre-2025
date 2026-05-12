@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El azúcar de los zumos y las bebidas no tienen los mismos efectos en el cuerpo, según un reciente estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/el-azucar-de-los-zumos-y-las-bebidas-no-tienen-los-mismos-efectos-en-el-cuerpo-segun-un-reciente-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 21:00:00 +0000",
+      "summary": "Aunque durante años se ha asumido que una misma cantidad de azúcar en bebidas azucaradas y en jugos naturales produce los mismos efectos en el organismo, una nueva investigación cuestiona esa equivalencia."
+    },
+    {
+      "title": "¿Qué canción escuchaste por primera vez? Spotify lanza un “Wrapped” sobre tu historial musical",
+      "url": "https://www.latercera.com/tendencias/noticia/que-cancion-escuchaste-por-primera-vez-spotify-lanza-un-wrapped-sobre-tu-historial-musical/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 20:59:24 +0000",
+      "summary": "La herramienta revela la primera canción que escuchaste, tu artista más reproducido y una playlist con tus 120 temas favoritos de todos los tiempos."
+    },
+    {
+      "title": "A más de 15 años del terremoto del 27F: en qué cambió la norma sísmica en Chile con la nueva actualización 2026",
+      "url": "https://www.latercera.com/tendencias/noticia/a-mas-de-15-anos-del-terremoto-del-27f-en-que-cambio-la-norma-sismica-en-chile-con-la-nueva-actualizacion-2026/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 15:10:09 +0000",
+      "summary": "Después de 16 años del 27F, Chile actualizó su norma sísmica. Un especialista analiza qué falló, qué mejora y si el país está preparado para otro megaterremoto."
+    },
+    {
       "title": "Review del Huawei Mate X7: ¿Vale la pena un plegable de $1.6 millones sin Google?",
       "url": "https://www.latercera.com/tendencias/noticia/review-del-huawei-mate-x7-vale-la-pena-un-plegable-de-16-millones-sin-google/",
       "source": "La Tercera Tecnología",
@@ -19,31 +43,7 @@
       "summary": "En los números, la oferta es tentadora: 940 Megas simétricos, router WiFi 6 y un precio promocional por un año de duración. Acá contamos nuestra experiencia, control en mano. ¿Vale la pena?"
     },
     {
-      "title": "Review del Samsung Galaxy XCover7: un teléfono hecho para el sector industrial",
-      "url": "https://www.latercera.com/tendencias/noticia/review-del-samsung-galaxy-xcover7-un-telefono-hecho-para-el-sector-industrial/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Jan 2026 09:02:00 +0000",
-      "summary": "Es ideal para faenas mineras, construcción o logística en Chile, donde el polvo y los golpes no son una sorpresa. Su “función estrella” es su batería removible, pero también cuenta con 5G y pantalla con sensibilidad aumentada para uso con guantes o dedos húmedos."
-    },
-    {
-      "title": "Review del Honor Magic8 Lite, un teléfono para olvidarse del cargador y las fundas",
-      "url": "https://www.latercera.com/tendencias/noticia/review-del-honor-magic8-lite-un-telefono-para-olvidarse-del-cargador-y-las-fundas/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 31 Jan 2026 15:28:38 +0000",
-      "summary": "El nuevo gama media de la firma china llega a Chile con una promesa doblemente ambiciosa: una batería de 8.300 mAh en un cuerpo delgado y una resistencia a golpes que coquetea con los equipos rugged."
-    },
-    {
-      "title": "Qué se sabe de los ciberdelincuentes que utilizaron IA para intentar realizar un ataque a gran escala, según Google",
-      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-de-los-ciberdelincuentes-que-utilizaron-ia-para-intentar-realizar-un-ataque-a-gran-escala-segun-google/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 12 May 2026 15:22:25 +0000",
-      "summary": "El gigante tecnológico reportó que ciberdelincuentes utilizaron inteligencia artificial para facilitar el descubrimiento y la explotación de una vulnerabilidad, en un sistema de otra compañía."
-    },
-    {
-      "title": "Observatorio sobre Inteligencia Artificial en la Educación para América Latina y el Caribe - Unesco",
+      "title": "Observatorio sobre Inteligencia Artificial en la Educación para América Latina y el Caribe - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTFaUVd1X1VlcWFGMXItdjNQZ0FtMC1HNXA0SzFlbFVnU3c2RlBaai1oX0EtazQtSWZFU1RYQjEtX3I4WWU5dmNyRVhvdC11MGRhdzB3SHhnWURJMVVxZWN4QXZNR0JXcndUVGVtUml4RlpxTVFZTWRsNkNvNi04RFByTnNQVmFPNkxUeFp6QzY2UzNaeHgwUDRuNFpkTmd0ZzN4VXh2QUhjbWxpWEJVWUxncFRkWDhqMFQxWWkxZElQQXc?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,12 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTF5WU1ZSXFXNUlNcTA5MkZKRjlJU005S2JwZ3UyczJTelJhTFNJRDVUcjJZZlRhZERfNW9pUWpodlNjZmZUeEkwX0x0ODV6OEM4dmcxdGJIR0YzeEF0M1RwR0FBckpsMFpjaENvWm5oeV9fMWtBU2JHRVNWS0dwVHZGRllxYW9Ka1dfbUwtYjJRX2tqaDZ2VzE3Qzl2U2RVMmhtaEhhSjczQkxtT2dra3VBT3dXZkREcn"
     },
     {
-      "title": "Unos vecinos de Huechuraba intentaron parar un centro de datos de Amazon. La justicia de Chile se puso en su camino - Xataka",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVjd3aGtwNFhKdi1uN2tjaGdmNmRwOUtoUHozSEU1SkcwWGsxSEpReGljZnVDTjlQbHZSN0twNmJTZ0liWTB4ZXd0TlVaTmFrZEpPSlRhNVBKUUtyeVpWX3d3UVUxc0lKSEwyaVZHVkRyT1YtRHRMTUJ2TDVFcktmejhNdnVwV3ptU2o1V0J6ZnVYd1BzQ2pZX2NaNjFiVFM3S2dYRzIzaVVMX0hsdnlkTHQ2ZHk1T182MFVSS1lYOFZ2Yk1FYzdsLXFNMGtIZ9IB0wFBVV95cUxQTVF6akVCVG9pX3dqdU55S2lEUDhfSzFoR2k5aE1EQ1NWUzl3RDhvUnhNcm9fSTBoRUNpN3oyZE9ac0ZjYXE4bzdDam5Hdnk3cGhmSUVFUHQzTGJKdFZVWklFT01mY1V2dEpzTXd3SFgzZzBUNXBuRmxiSzAyeDNDaVVtT1FOYnpma3M2Rm9hNnZQekhQNVRTUjhVY3lReVhmZE84bnZxd0MzdFo5M2N6Y0dTcF90T2N0LS1oSWs5eWtQWWtScUxOYkJHYzBtSmN3MjFz?oc=5",
+      "title": "Encuentro “IA y Salud en Chile 2026” reunió a autoridades, expertos y empresas para abordar los desafíos de la inteligencia artificial en salud - G5noticias",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd0ticE1qYXBWUnJ5TnVzWXhlYTE0d3JiUTRKX3RDNl9lTEhNQnk3X29KTGhLb21nX1ZfUlFrMnBaOXhMQWwyUWFneUNBcFY2Q1VucjhmaTFpSmJhRTBmdThDUFE3UUNsWHFyTk1VMUM3aHdTbU8wek0wZjFuUG5DYnhKZDhuZUYyZE90MnB0bGpUVmpyVmRwN29zdi12U0xsZnFyYVNYQ2FmNm1NU2pxaHZubF90LV81X2k1Y1I1WmJhUkNocnB5WmNpNERKdy1oRG5ZNU1DR19aZlNBVWpMaDZDS2FqZk15LWM3OEpGQlI4UkVFUWJJR3BDTlg5N05LWXBkRg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 11 May 2026 20:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPVjd3aGtwNFhKdi1uN2tjaGdmNmRwOUtoUHozSEU1SkcwWGsxSEpReGljZnVDTjlQbHZSN0twNmJTZ0liWTB4ZXd0TlVaTmFrZEpPSlRhNVBKUUtyeVpWX3d3UVUxc0lKSEwyaVZHVkRyT1YtRHRMTUJ2TDVFcktmejhNdnVwV3ptU2o1V0J6ZnVYd1BzQ2pZX2NaNjFiVFM3S2dYRzIzaVVMX0hsdnlkTHQ2ZHk1T182MF"
+      "published": "Tue, 12 May 2026 22:48:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNd0ticE1qYXBWUnJ5TnVzWXhlYTE0d3JiUTRKX3RDNl9lTEhNQnk3X29KTGhLb21nX1ZfUlFrMnBaOXhMQWwyUWFneUNBcFY2Q1VucjhmaTFpSmJhRTBmdThDUFE3UUNsWHFyTk1VMUM3aHdTbU8wek0wZjFuUG5DYnhKZDhuZUYyZE90MnB0bGpUVmpyVmRwN29zdi12U0xsZnFyYVNYQ2FmNm1NU2pxaHZubF90LV81X2"
+    },
+    {
+      "title": "¿La educación está formando humanos o personas dependientes de la IA? Santiago Jiménez abre el debate | 360 - 360 Radio",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0hDVk9vUnJjeVU3blQ0b3VmRDNBSFRxRFhlN2NiVzY3U0N2MFpmeTJ2VGZSMXV4cm1hMzdQXzA1R3otU0pxRzE0dWtvSV9ZdUN2dk5URWRiV24wYmRxanp3aVJkaUEySjVJYzdRaVM2YjNUX2hQckc5VXVRdXZPdE1BbHpnSTNkc0hGOVlvTXlBTXFkYjlkSEF3c3NTcV9MSGhxd3N2NDlicGM4ODNxdk1remU1UU9iSmViS3E2Zkg0M1lkenc4cWdKY9IB0wFBVV95cUxNdkFCTkk5VlluakxHMmYtMVpqSHNjNFVyMXRhLXYzVVVKWk96c0ZVcTdrbUIxa1NnUE1tQ19mSl9GRXYwNmZiWGlyalpwN0IzYTVSdXpid2hBWTVobXlERTBINGpkZGd5UWxDSGpyeW9jbld0eWFWYnVzYlF3cGQ4c3RldGI5akUtSGpCamZ0TWxNUktJaUF1X3VkV0NWZmwyNDdNY1FxM3hnczJuMDdaOV9ydV9tS25sTDhSSF9mVmFCN0Q2czZPWTRhYWZkcWpWTmZV?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 12 May 2026 22:00:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0hDVk9vUnJjeVU3blQ0b3VmRDNBSFRxRFhlN2NiVzY3U0N2MFpmeTJ2VGZSMXV4cm1hMzdQXzA1R3otU0pxRzE0dWtvSV9ZdUN2dk5URWRiV24wYmRxanp3aVJkaUEySjVJYzdRaVM2YjNUX2hQckc5VXVRdXZPdE1BbHpnSTNkc0hGOVlvTXlBTXFkYjlkSEF3c3NTcV9MSGhxd3N2NDlicGM4ODNxdk1remU1UU9iSm"
     },
     {
       "title": "Santiago Vélez, experto en inteligencia artificial: “Querer automatizar absolutamente todo es un error, primer - Diario AS",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Mon, 11 May 2026 00:43:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMFJXZXdvSnFhYlJtWk9Pdy1CYlh3RUcyS0MyT3VWTkM0djV6bk5GYk9HZm5ZYjJfdlV5cTB5QVVlQ0o0NWlIV1JMY1NVSmw1eThuRXF5TDRYd1dwTkZMY2YxTTQ5T1UwRmZIRV9nRGZHWEtWaTNqZTQ4NGt5b1NfeEprTTNOZVVUVmxYeW1GSlAyV1dlY3ZvX1c1S1MtbXY3MXJXckxpRVZGanFWZ0E0dlBFWjJMcUFXUT"
-    },
-    {
-      "title": "¿Nos Reemplazará La IA? Santiago Hidalgo Reflexiona Sobre El Futuro 🤯🌐 (8fv4xgZUu4) - fathomjournal.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40LTRrc0d4VEduRFhjSy15OGZaVmNUenUtMFlmaFR5NE02OFBYR0FZN3llV2l6Snp3YUM1VWJfeEtIR3N2Z3Y1Mkp2S1FYWnpESGRZMXFlSGFZMmtQMzRtNE5nNjVhLUtOcXU5VkpsaV80anZQNVE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 08 May 2026 17:32:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE40LTRrc0d4VEduRFhjSy15OGZaVmNUenUtMFlmaFR5NE02OFBYR0FZN3llV2l6Snp3YUM1VWJfeEtIR3N2Z3Y1Mkp2S1FYWnpESGRZMXFlSGFZMmtQMzRtNE5nNjVhLUtOcXU5VkpsaV80anZQNVE?oc=5\" target=\"_blank\">¿Nos Reemplazará La IA? Santiago Hidalgo Reflexiona Sobre El Futuro "
     },
     {
       "title": "Vesicly gana Beca Draper: 16 startups LATAM compitieron - Ecosistema Startup",

@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Google descontinúa las Chromebooks y lanza nuevas laptops",
+      "url": "https://expansion.mx/tecnologia/2026/05/12/google-mata-chromebook-apuesta-googlebook",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 18:00:57 GMT",
+      "summary": "La empresa de Mountain View desde 2011 apostó por un formato de computadora pequeño y básico que se enfocaba principalmente en estudiantes."
+    },
+    {
+      "title": "La trampa del Mundial 2026: sitios que copian a la FIFA para vaciar tarjetas y robar datos",
+      "url": "https://expansion.mx/tecnologia/2026/05/12/campana-de-phishing-que-crece-con-el-mundial-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 16:19:08 GMT",
+      "summary": "Expertos en ciberseguridad alertan sobre páginas que copian la imagen de la FIFA y buscan obtener tarjetas bancarias, correos electrónicos y contraseñas de los usuarios."
+    },
+    {
       "title": "De experimentar en Día de las Madres a usar algoritmos para el mundial",
       "url": "https://expansion.mx/tecnologia/2026/05/11/de-experimentar-en-dia-de-las-madres-a-usar-algoritmos-para-el-mundial",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "La apuesta busca convertir a la firma en un actor clave del negocio corporativo de automatización y transformación digital."
     },
     {
-      "title": "Google advierte que la IA ya hackea el doble factor de autenticación",
-      "url": "https://expansion.mx/tecnologia/2026/05/11/google-advierte-que-la-ia-ya-hackea-el-doble-factor-de-autenticacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 11 May 2026 16:30:13 GMT",
-      "summary": "Por primera vez, Google detecta el uso de IA para identificar y atacar brechas desconocidas de seguridad y sus expertos alertan que esta tecnología ya elude el 2FA."
-    },
-    {
-      "title": "La batalla de los chips ya no es sólo de Nvidia",
-      "url": "https://expansion.mx/tecnologia/2026/05/11/la-batalla-de-los-chips-ya-no-es-solo-de-nvidia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 11 May 2026 11:55:30 GMT",
-      "summary": "Las empresas enfocadas en la nube cada vez quieren depender menos de la empresa de Jensen Huang, a nivel de infraestructura."
-    },
-    {
       "title": "IA y casos de éxito, en el SuiteConnect México - Impacto TIC",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGF3N3lUY01TZVN1UndGNFllTFhIZUhiWHlXV0NrQTVmenJFRVUwOWNORmZpVEg1Z3JROXlSWXRNRF9MejZwSlpsX0IzYnAzU0k3cDRJcFFQR2JROWc1c3N4Skt0cWFIelljMG5OcUk5aXZVQ1V6RG5TTjRKZmxVa1FWVUZxSVItS1pBeGtyekE0SzViLUQw?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGF3N3lUY01TZVN1UndGNFllTFhIZUhiWHlXV0NrQTVmenJFRVUwOWNORmZpVEg1Z3JROXlSWXRNRF9MejZwSlpsX0IzYnAzU0k3cDRJcFFQR2JROWc1c3N4Skt0cWFIelljMG5OcUk5aXZVQ1V6RG5TTjRKZmxVa1FWVUZxSVItS1pBeGtyekE0SzViLUQw?oc=5\" target=\"_blank\">IA y casos de éxito, en"
     },
     {
-      "title": "General Motors elimina 600 puestos tecnológicos para priorizar la Inteligencia Artificial y expertos de Silicon Valley, medida que pone en alerta a sus centros de ingeniería y complejos de manufactura en México - El Imparcial",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOWFpFRFR4ZHR4R3lFTEtrd1BRSGRTQnhxVDZGSGsxalVhYnpzcXZLSE9vaHFnVkhxaXpjM2tKd1FaRVcxSFctSV85UnVqNm03TVNqTzZvaXNMU1haZWN2QXU4Mmw2d3VWeEJhQnhKSjRTZmRmQ183aF9rdm4waUxoQl9wZGhEM2trWTZwQUFGTzlJaHF6ZlhnbGhERlFSZWZMOFhGVE1sQm5KQWhHZUhYRW5xNW93VUItVU9CMHdmbHEwYVAyYmVVZjhSaGJsdmN0Wmd6Zzdvb0I2cC1SSENuMjJDaVNzSFk3VmpZcnowV0ZRbHNRUUhFQkdDclFrbnR6dDMwNzBOYWp3Y1VFY0VCdlJBaGVkdUpsMlhoS3JYNURFWll0VnM1ZjdGeUNFWlp0YXR1cmFzTlMxX055aEdWYkhqWWFaaGR6cElZa0xrN3gwbWNkSGpaLXRVRlBDTEJiREtJMUdEam1uMTd1UmFvb0p30gGMA0FVX3lxTFBzWVJJY1FHc0ZzdXNOazZLMXQtdVZERG5uWEV3TzNhS3pqYmZYRzhfbW81Wm9wUWNoMWI5SUF0d2pHdC12Sm1sc2U0bWNaUVVydVdpbEJDWUpYbGVOdXloRFd2YU5DT2MwOHFMU2RPU0xVb2hDWXJxLWZUR1ZIbDI1LUhZRG1KZHlvaEItQTJOa1ZhX0F5c0VicUQyN2dFb3dra3ltVDZHRlZNVE45S2JTazNnNjlxMWJFQzNwbWF2R3NIaHE5dVFWZ2tPbUp4MHJmY25adWFwV0dmazBQZlh6ejRyeVdRampSRFo1Qk9ycGRtUV81eDREVDNDTjUyalppbE92bE1TeFhpaGpwRUFXV0hBYkFCanhPcXVxV0F3dFhHZW5JcVVxNnhGQVU5U0VJeEM2NGlWYnRhbjV4ZjJrbUZLcG1nNENaMmZ1QWRvVjQxZzVGZTJWbkJ1el9LSlBjdlpOc2I4Z3hjY1g4b2Z1M1B4MjlQX3V2RmtyRUpSVVQtRkh3Y2pNUGpvNA?oc=5",
+      "title": "Farmacias del Ahorro apuesta por Gemini Enterprise para liberar 100 mil horas operativas - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREFqRW5MS21nVmN2RmUtNG8xTVhlM2JYWTkzT0pldGVXal91MThrY19pSzlVWFAweFZ2WHJGVS1Oa1RDakxnSFlHbHh2ZS1vUmJrLTAySUUwWHVoTUVBZ1BUSnRQWGJqR2ZZZnFDU2otSl9KQm5oSVA4QXc4UEVKeE9DZXNvVHpWR2w3OHYyTDJLRUxtMTgxd2g5T0txS21jRlVhOS1XVDRMQ0QtbFB2NWpsOXVCQ1RGcmdmYzlyWXJjSElQY3EzQVM2dnlFU1F0ZlduQmpyYw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 12 May 2026 19:07:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gJBVV95cUxOWFpFRFR4ZHR4R3lFTEtrd1BRSGRTQnhxVDZGSGsxalVhYnpzcXZLSE9vaHFnVkhxaXpjM2tKd1FaRVcxSFctSV85UnVqNm03TVNqTzZvaXNMU1haZWN2QXU4Mmw2d3VWeEJhQnhKSjRTZmRmQ183aF9rdm4waUxoQl9wZGhEM2trWTZwQUFGTzlJaHF6ZlhnbGhERlFSZWZMOFhGVE1sQm5KQWhHZUhYRW5xNW93VUItVU"
+      "published": "Tue, 12 May 2026 20:43:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREFqRW5MS21nVmN2RmUtNG8xTVhlM2JYWTkzT0pldGVXal91MThrY19pSzlVWFAweFZ2WHJGVS1Oa1RDakxnSFlHbHh2ZS1vUmJrLTAySUUwWHVoTUVBZ1BUSnRQWGJqR2ZZZnFDU2otSl9KQm5oSVA4QXc4UEVKeE9DZXNvVHpWR2w3OHYyTDJLRUxtMTgxd2g5T0txS21jRlVhOS1XVDRMQ0QtbFB2NWpsOXVCQ1RGcm"
     },
     {
-      "title": "Foxconn apuesta por México para expandir su negocio de IA - expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSHhsWklkZ1pFbzk0OU1SSjVZWFVpNDd6QTdhOXphaXREN2ZrbUR6ZTNoMWZQaG9tczlub0ZjZVJERVFvYmtvQUZsaXBJNFNyUmUwejZGVTlQdVRrcHJqb2Z4cXMwaWM0VVhRSGFJV1E3alpEeHViUnk1bmhoc2RzSnJacFloRVZPZ1VnQ3ZuQWdpTHlNYlJjYTZQTzk4UdIBqwFBVV95cUxPMGlycTAzcVFkRk5KRXlaMm9rdjVFYUltZnQ2Y2FUaUUxV2ZNUm0xWnFnd25lcUkxWllxbjQ0bU1DbUM1Q1IyUDFfQmRFOHRycy10RmFWek0yOTd3YklGTnhIV1ZWRG1zc290aDlKSU5Dc0Z3VGFaUjNJd0p6cGhxNXZBWGV2MjBBc2hSa2VZR3Z2SXctRVI5RV84ajljOV9wZkJWaHgySGV0NjQ?oc=5",
+      "title": "México quiere regular la IA en el trabajo para que no reemplace a los empleados, ¿qué pasa en Colombia? | El Colombiano - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV8yYkhLdTVlY2h1TnpFOC1oSnoydzNxY0V5TmY4OXdYbXV0YWEtcExuMUczUzBETEg4RFViaTE5NW1RMU9EVXNYbzk1UnlGTHNaU2NibVhqUUt5VW1IRUpPekNhRlF1SGw3MHo1dVFlalJPTHhRZm9hWFlFTWRGZ19DVUJMaUdwb0t1THhPcWgxeTRORFdnTmxEaUVUQkdmUFMyMWRkQlFoRWhPNERMV3E1STDSAboBQVVfeXFMTW9fbGZwRVRvM2d1aVRRVXU0TkxZZEtkUDZjSkVqdzIxSEVZaVB6Qm1BcUpscm4xOE5maFNCdnNqWDBZNXNIZUlxSXo3M1BaWUtOUFMwd242Y1l6b2VrTWVtSzZzRVBoTlZqcEl5X053a09Vd2hnMmpUUERjeHF4Tk1PWUdDb2s2T0F1dS03QXlISFlXZ2lKWkI2b0Q4cHFUOW1kYngyMnczaFJqdVJzS2ZsTDRSX1lMbm1n?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 12 May 2026 11:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPSHhsWklkZ1pFbzk0OU1SSjVZWFVpNDd6QTdhOXphaXREN2ZrbUR6ZTNoMWZQaG9tczlub0ZjZVJERVFvYmtvQUZsaXBJNFNyUmUwejZGVTlQdVRrcHJqb2Z4cXMwaWM0VVhRSGFJV1E3alpEeHViUnk1bmhoc2RzSnJacFloRVZPZ1VnQ3ZuQWdpTHlNYlJjYTZQTzk4UdIBqwFBVV95cUxPMGlycTAzcVFkRk5KRXlaMm"
+      "published": "Fri, 08 May 2026 16:31:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYV8yYkhLdTVlY2h1TnpFOC1oSnoydzNxY0V5TmY4OXdYbXV0YWEtcExuMUczUzBETEg4RFViaTE5NW1RMU9EVXNYbzk1UnlGTHNaU2NibVhqUUt5VW1IRUpPekNhRlF1SGw3MHo1dVFlalJPTHhRZm9hWFlFTWRGZ19DVUJMaUdwb0t1THhPcWgxeTRORFdnTmxEaUVUQkdmUFMyMWRkQlFoRWhPNERMV3E1STDSAboBQV"
     },
     {
       "title": "Natalia Salcedo, la colombiana detrás de una startup de IA para talleres mecánicos - Revista C-Level",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - Unesco",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
