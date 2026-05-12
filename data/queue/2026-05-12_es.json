@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "Florentino Pérez convoca elecciones a la presidencia del Real Madrid: “Hay una confabulación de periodistas que se creen que mandan en el club. Me tendrán que echar a tiros”",
+      "url": "https://elpais.com/deportes/futbol/2026-05-12/florentino-perez-convoca-elecciones-a-la-presidencia-del-real-madrid.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 16:20:05 GMT",
+      "summary": "El mandatario anuncia en una rueda de prensa celebrada en Valdebebas que abrirá la opción a un nuevo camino en el club blanco"
+    },
+    {
+      "title": "Vídeo | La rueda de prensa completa de Florentino Pérez",
+      "url": "https://elpais.com/videos/2026-05-12/video-la-rueda-de-prensa-completa-de-florentino-perez.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 12 May 2026 19:10:06 GMT",
+      "summary": "El presidente del Real Madrid ha comparecido antes los medios durante más de una hora para convocar elecciones, atacar a la prensa  y negar que esté cansado de estar al frente del club"
+    },
+    {
       "title": "Ayuso acusa al Gobierno de Sánchez de “abandonarla” en “una situación de peligro extremo” en México",
       "url": "https://elpais.com/espana/madrid/2026-05-12/ayuso-vuelve-a-madrid-y-pone-ahora-el-foco-en-el-gobierno-de-sanchez-por-abandonarla-en-una-situacion-de-peligro-extremo.html",
       "source": "El País Tecnología",
@@ -11,36 +27,20 @@
       "summary": "El Ejecutivo central replica que la presidenta de la Comunidad de Madrid no informó de su agenda ni pidió traslados ni seguridad"
     },
     {
-      "title": "Sheinbaum insiste en que el homenaje de Ayuso a Hernán Cortés en México fue una “ridiculez”",
+      "title": "Sheinbaum pone en duda las críticas de Ayuso a la seguridad en México: “No creo que piense muy mal del país si pasó sus vacaciones aquí”",
       "url": "https://elpais.com/mexico/2026-05-12/sheinbaum-insiste-en-que-el-homenaje-de-ayuso-a-hernan-cortes-en-mexico-fue-una-ridiculez.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 12 May 2026 15:16:59 GMT",
-      "summary": "La presidenta carga contra la oposición por invitar a la política madrileña al país"
+      "published": "Tue, 12 May 2026 17:10:25 GMT",
+      "summary": "La presidenta ha respondido a las declaraciones de la política madrileña sobre el supuesto riesgo que experimentó durante su visita y ha cargado contra la derecha mexicana por invitarla para homenajear a Hernán Cortés"
     },
     {
-      "title": "El presidente del Real Madrid, Florentino Pérez, convoca una rueda de prensa de urgencia",
-      "url": "https://elpais.com/deportes/futbol/2026-05-12/florentino-perez-convoca-una-rueda-de-prensa-de-urgencia.html",
+      "title": "El director de la OMS minimiza la posibilidad de “un brote mayor” y felicita a España por el “éxito” de la evacuación",
+      "url": "https://elpais.com/sociedad/2026-05-12/pedro-sanchez-y-el-director-de-la-oms-se-felicitan-por-el-exito-de-la-operacion-del-hantavirus.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 12 May 2026 14:18:14 GMT",
-      "summary": "El máximo dirigente blanco atenderá a los medios a comunicación a las 18.00"
-    },
-    {
-      "title": "El “positivo oculto”, la evacuación en Cabo Verde, la mascarilla en la oreja y los ratones nadadores: las polémicas del hantavirus en Canarias",
-      "url": "https://elpais.com/sociedad/2026-05-12/las-polemicas-del-hantavirus-en-canarias-el-positivo-oculto-la-evacuacion-en-cabo-verde-la-mascarilla-en-la-oreja-y-los-ratones-nadadores.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 12 May 2026 14:08:24 GMT",
-      "summary": "EL PAÍS repasa todo lo que se sabe sobre las controversias políticas y sanitarias que ha generado la crisis del brote en el crucero ‘Hondius’"
-    },
-    {
-      "title": "Última hora del brote de hantavirus, en directo | La OMS minimiza la posibilidad de “un brote mayor”, aunque no descarta nuevos positivos entre los pasajeros",
-      "url": "https://elpais.com/sociedad/2026-05-12/ultima-hora-del-brote-de-hantavirus-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 12 May 2026 15:53:13 GMT",
-      "summary": "El director de la organización pidió ayuda a España porque la situación “excedía” la capacidad de Cabo Verde | Sanidad cifra en 10 el total de positivos, entre ellos un español del barco"
+      "published": "Tue, 12 May 2026 17:14:18 GMT",
+      "summary": "No se descartan algunos positivos adicionales entre los cruceristas y la autoridad sanitaria insta a los países a seguir las recomendaciones de las cuarentenas"
     },
     {
       "title": "Nuria Oliver: \"Con la inteligencia artificial no hay nada gratis\" - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2xMZXdHbkJiQ1VIZVhudGlrTVItTFU2QU1HYVBycEFZLVdIWXBHZ2NkR3c3Vm5ONDdtbE9TLUJ5Y21lYmdyZVdJdnh1Sm95TmNLZl9jQ3Jkb1NQWDJ2NjRjZEF6SGRmWkhNaWFRTWlGQjlsTVl5S3NkODZjUlczeFhlX0J5anplRTVtaFloUGhFbjNPRXdDZmpqNjVubjNoNlpfV3hGdjdqNElVUlNqOHFncXhkdGZvQm"
     },
     {
-      "title": "Acciones de inteligencia artificial: ¿Dónde están las oportunidades? - Morningstar Canada",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTduX2FDSnVQS1NBaFg3bjNwOUJxYTVKUnNiZTlJYnY0TUpTbWZ1bW5FVEV0ektfa2F3eGt1QV92T1pkdF9naHpNeDJkTzJKVkpQU25WaGpWaU5LM05CUS1yN3Fnbm1nbVd2WVhNeFVaNW9uVmJPWXNYMV9ocDRhald1TFVXRmJ0Vng0QjE1MWNNeG9qd3hKSU02UUdTdHRaTmNDRWV5bDNaZw?oc=5",
+      "title": "El 60% de las horas de trabajo en España son automatizables con la tecnología actual, según McKinsey - MSN",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUXVhTWl4UlZtR1pld1F6dXViRjNYeGZJZjhBVUNLX19sTDBaMUlncVFkWnBDU2FNbVdTLVhJZFZUN1RyWlNVN083VjRhc3hiRTFiOXZRQUI3VEVkQk5VS0dFMl85aW9qMGcyZVlLa2dlUm9DMng4MDM2ajFTNHB2eFp3RnFnaDJhX2lkS2R6RjdIVTVwMlV0Z2FGVG1UeWp6VUd4MS1MUHJvTXRoZ3FJNTZhWXFVVXdIM184WHlUVnlnMUh1REQ2R25WaUs0Xy1uUE5lWXhEOUt3LWxlYTF4dU4yVkptaWRjdDV3eTRMMVJiemdZaURwS01XaWlQdnluY011ZlhUS3VBVWpaLUVhcnVJanJpMVJhNUpCdGt3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 11 May 2026 12:31:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTduX2FDSnVQS1NBaFg3bjNwOUJxYTVKUnNiZTlJYnY0TUpTbWZ1bW5FVEV0ektfa2F3eGt1QV92T1pkdF9naHpNeDJkTzJKVkpQU25WaGpWaU5LM05CUS1yN3Fnbm1nbVd2WVhNeFVaNW9uVmJPWXNYMV9ocDRhald1TFVXRmJ0Vng0QjE1MWNNeG9qd3hKSU02UUdTdHRaTmNDRWV5bDNaZw?oc=5\" target=\"_blan"
+      "published": "Tue, 12 May 2026 10:34:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOUXVhTWl4UlZtR1pld1F6dXViRjNYeGZJZjhBVUNLX19sTDBaMUlncVFkWnBDU2FNbVdTLVhJZFZUN1RyWlNVN083VjRhc3hiRTFiOXZRQUI3VEVkQk5VS0dFMl85aW9qMGcyZVlLa2dlUm9DMng4MDM2ajFTNHB2eFp3RnFnaDJhX2lkS2R6RjdIVTVwMlV0Z2FGVG1UeWp6VUd4MS1MUHJvTXRoZ3FJNTZhWXFVVXdIM1"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el clásico entre el Barcelona y el Real Madrid - Sports Illustrated",
