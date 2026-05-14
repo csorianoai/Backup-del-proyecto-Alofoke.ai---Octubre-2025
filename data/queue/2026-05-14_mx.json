@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Robo vehicular cae 15%, pero las flotillas ya no confían solo en el GPS",
+      "url": "https://expansion.mx/tecnologia/2026/05/14/robo-vehicular-cae-15-pero-las-flotillas-ya-no-confian-solo-en-el-gps",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 14 May 2026 18:30:55 GMT",
+      "summary": "El promedio de automóviles robados en enero de 2026 es de 147, por ello las flotillas usan IA y telemática para proteger sus unidades."
+    },
+    {
+      "title": "Más de 4,400 docentes usan IA para aspirar a mejores plazas y sueldos",
+      "url": "https://expansion.mx/tecnologia/2026/05/14/mas-de-4-400-docentes-usan-ia-para-aspirar-a-mejores-plazas-y-sueldos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 14 May 2026 15:31:04 GMT",
+      "summary": "Una startup mexicana lanzó un simulador con inteligencia artificial para que docentes preparen sus evaluaciones del USICAMM. En menos de un mes suma casi 4,500 usuarios."
+    },
+    {
       "title": "México exporta tecnología para centros de datos; sector crece 153%",
       "url": "https://expansion.mx/tecnologia/2026/05/13/mexico-exporta-tecnologia-para-centros-de-datos-sector-crece-153",
       "source": "Expansión Tecnología",
@@ -27,27 +43,11 @@
       "summary": "Los teléfonos plegables elevan el costo promedio de servicio en Samsung, en un mercado donde sólo 10% de los mexicanos protege su smartphone."
     },
     {
-      "title": "Google lanza nuevas laptops",
-      "url": "https://expansion.mx/tecnologia/2026/05/12/google-mata-chromebook-apuesta-googlebook",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 12 May 2026 18:00:57 GMT",
-      "summary": "La empresa de Mountain View desde 2011 apostó por un formato de computadora pequeño y básico que se enfocaba principalmente en estudiantes."
-    },
-    {
-      "title": "La trampa del Mundial 2026: sitios que copian a la FIFA para vaciar tarjetas y robar datos",
-      "url": "https://expansion.mx/tecnologia/2026/05/12/campana-de-phishing-que-crece-con-el-mundial-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 12 May 2026 16:19:08 GMT",
-      "summary": "Expertos en ciberseguridad alertan sobre páginas que copian la imagen de la FIFA y buscan obtener tarjetas bancarias, correos electrónicos y contraseñas de los usuarios."
-    },
-    {
       "title": "La inteligencia artificial ya entró al horno: así cambia el negocio del pan en México - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekU0UEtnamE1Q05RVkhGRUJHNEU1Y3puaThmQ1JPbmdfMTVfWUlDdlpWUkt5UHVxaHEydDRxTWU5SkQyTDdRM0NLd3NWRkZDMldKc1RadmRIWWc5NzBCMmRvdXRUZFFhRzFZTmJMVnhieFB0ZTBnOVc4Z1pObHY4dVpRRUIwa0k2OVZac3JjSnppMG53a3lydi0wZjc2RjItakljMFFpRDMtTi1Ib25kdlM5aWpXVm0zYlNaaE9tLTY1UFlZUngzeHNSV2M?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 14 May 2026 15:57:36 GMT",
+      "published": "Thu, 14 May 2026 16:04:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQekU0UEtnamE1Q05RVkhGRUJHNEU1Y3puaThmQ1JPbmdfMTVfWUlDdlpWUkt5UHVxaHEydDRxTWU5SkQyTDdRM0NLd3NWRkZDMldKc1RadmRIWWc5NzBCMmRvdXRUZFFhRzFZTmJMVnhieFB0ZTBnOVc4Z1pObHY4dVpRRUIwa0k2OVZac3JjSnppMG53a3lydi0wZjc2RjItakljMFFpRDMtTi1Ib25kdlM5aWpXVm0zYl"
     },
     {
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNLXdkZmlzUmg3SnRneDVaSDBmM3pmTTFLNnUtdUpQUS1qdUFYaW5GenRpT2dxUXFCbDF4Nk5KT3pFMzZYQndZLVl4ZnhwWXZ1MThTMWp0MklGaURLY1pVUlpYM2ZoTUhOSVh3UkI5R2xYM3lVZ3VWSnpDSktPYlJHZ195d3hDRVk4c0dzalFYQkVLNmVHT3p1YlN4ckhkVGxPbVBvMWtUSHdUMW5xYlgyZHd4OA?oc=5\" t"
     },
     {
-      "title": "¿Qué es el Korean Baseball AI Trend? La moda viral que invade las redes sociales - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0FzVmtoZkpPX3JxcjFxZ050TFhDdzRJRll3MlhpN1VhelNESWQ3NFk5ZHJVMS1EUzlPUHRRSUhNV2h3LUNLWUY3aFVSdy1Ib08weXpNSmhkY1UxbEhaNHFvejA2ZUhwczVmaHBKaFBQN0J6QnlueUhrR29YMXAwVE9iYWlXc2FPb1FzZ0RqaWpPYmlyTDU4Uk5OU2VHcHhOZ0lMR19JV3MtdVJmdGlTZTBOV05uMERNRTBsb1l30gHYAUFVX3lxTFBuOGdYdVlLbVF6YjFmQVBiTEQzNjh0cjlwY0xOVGNnVG9pRW51QWVhanNhaHBQaF85b0tvRXVQa05EaG56WGwteENsYTBLR1ZzQjlYdVJCeFBTTWMtcVJVOFd2SU40QzYydlJsTVl2eXlXclFVclloS2stcHRYeWM5ZHdHSHZ2Y3pBZU1vUlhZYUQ1ZkFTcE1QN1psejNhOTdVSXdHckRzX2lzeDJKMjNEUER5cUJXUFNlQUE4X1VibDNDbnBLbmdWNTJLVmY5NEN0VVhDYW94dg?oc=5",
+      "title": "IA y casos de éxito, en el SuiteConnect México - Impacto TIC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGF3N3lUY01TZVN1UndGNFllTFhIZUhiWHlXV0NrQTVmenJFRVUwOWNORmZpVEg1Z3JROXlSWXRNRF9MejZwSlpsX0IzYnAzU0k3cDRJcFFQR2JROWc1c3N4Skt0cWFIelljMG5OcUk5aXZVQ1V6RG5TTjRKZmxVa1FWVUZxSVItS1pBeGtyekE0SzViLUQw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 14 May 2026 19:14:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0FzVmtoZkpPX3JxcjFxZ050TFhDdzRJRll3MlhpN1VhelNESWQ3NFk5ZHJVMS1EUzlPUHRRSUhNV2h3LUNLWUY3aFVSdy1Ib08weXpNSmhkY1UxbEhaNHFvejA2ZUhwczVmaHBKaFBQN0J6QnlueUhrR29YMXAwVE9iYWlXc2FPb1FzZ0RqaWpPYmlyTDU4Uk5OU2VHcHhOZ0lMR19JV3MtdVJmdGlTZTBOV05uMERNRT"
+      "published": "Mon, 11 May 2026 21:12:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGF3N3lUY01TZVN1UndGNFllTFhIZUhiWHlXV0NrQTVmenJFRVUwOWNORmZpVEg1Z3JROXlSWXRNRF9MejZwSlpsX0IzYnAzU0k3cDRJcFFQR2JROWc1c3N4Skt0cWFIelljMG5OcUk5aXZVQ1V6RG5TTjRKZmxVa1FWVUZxSVItS1pBeGtyekE0SzViLUQw?oc=5\" target=\"_blank\">IA y casos de éxito, en"
     },
     {
       "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
