@@ -3,36 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "Elecciones en Andalucía 17M, resultados en directo | El PP gana las elecciones con un 10% de los votos escrutados",
-      "url": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/directo-jornada-electoral-17m-votaciones-participacion-sondeos-recuento-y-resultados.html",
+      "title": "Moreno pierde la mayoría absoluta en Andalucía y dependerá de Vox para gobernar",
+      "url": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-pierde-la-mayoria-absoluta-en-andalucia-y-el-psoe-rebaja-su-suelo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 17 May 2026 19:10:01 GMT",
-      "summary": "Según la encuesta de Canal Sur, el PP revalida la mayoría absoluta y el PSOE obtendría su peor resultado histórico mientras que Vox se mantiene | Los partidos a la izquierda del PSOE crecen, según la encuesta a pie de urna"
+      "published": "Sun, 17 May 2026 20:55:45 GMT",
+      "summary": "El PP se deja cinco escaños y necesitará al partido de Abascal para gobernar. El PSOE pierde dos y registra su peor resultado, la ultraderecha gana uno y sube con fuerza Adelante Andalucía, que pasa de dos a ocho, supera a Por Andalucía y reconfigura el tablero"
     },
     {
-      "title": "Las Elecciones andaluzas del 17M, en directo | Programa Especial Vídeo",
-      "url": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/la-noche-de-las-elecciones-andaluzas-del-17m-en-directo-programa-especial-video.html",
+      "title": "El PP baja cinco diputados y se mete en “el lío” contra el que ha alertado toda la campaña",
+      "url": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-baja-cinco-diputados-y-se-mete-en-el-lio-contra-el-que-ha-alertado-toda-la-campana.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 17 May 2026 18:19:24 GMT",
-      "summary": "El sondeo de Sigma Dos para Canal Sur apunta a la revalidación de la mayoría absoluta del PP en Andalucía, con un PSOE en mínimos históricos, mientras Vox se mantiene y las fuerzas a su izquierda avanzan"
+      "published": "Sun, 17 May 2026 21:02:58 GMT",
+      "summary": "Con 53 escaños, mayor número de votos y en manos de Vox, el dirigente popular se ha mostrado dispuesto a formar gobierno: “Nos corresponde la responsabilidad de gobernar”"
     },
     {
-      "title": "Cinco números para seguir el recuento en Andalucía y saber quién gana y quién pierde",
-      "url": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/cinco-numeros-para-seguir-el-recuento-en-andalucia-y-saber-quien-gana-y-quien-pierde.html",
+      "title": "El momento de la verdad",
+      "url": "https://elpais.com/opinion/2026-05-17/el-momento-de-la-verdad.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 17 May 2026 14:47:04 GMT",
-      "summary": "Cada partido parte de unos resultados y tiene unos objetivos que permitirán valorar su éxito o su fracaso este domingo. El PP aspira a los 55 escaños. El suelo histórico del PSOE son 30. El mínimo para formar grupo son cinco"
-    },
-    {
-      "title": "El PP refuerza su mayoría absoluta en las elecciones de Andalucía, según el sondeo de Sigma Dos",
-      "url": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-revalida-su-mayoria-absoluta-en-las-elecciones-de-andalucia-segun-el-sondeo-de-sigma-dos.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 17 May 2026 18:00:40 GMT",
-      "summary": "El PSOE podría perder hasta cuatro escaños según los resultados de un estudio electoral encargado por FORTA"
+      "published": "Sun, 17 May 2026 22:15:00 GMT",
+      "summary": "La pérdida de la mayoría absoluta del PP en Andalucía pone a prueba el mensaje de moderación de Moreno Bonilla"
     },
     {
       "title": "Los resultados de las elecciones en Andalucía, en tiempo real y en cada municipio",
@@ -43,6 +35,14 @@
       "summary": "Consulte el avance del escrutinio en cada pueblo y ciudad en los comicios de este domingo"
     },
     {
+      "title": "Del “sobresaliente” de Moreno a la “¡prioridad nacional!\" de Vox: la noche electoral de Andalucía, en cuatro titulares",
+      "url": "https://elpais.com/videos/2026-05-17/del-sobresaliente-de-moreno-a-la-prioridad-nacional-de-vox-la-noche-electoral-de-andalucia-en-cuatro-titulares.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 17 May 2026 22:27:31 GMT",
+      "summary": "Las reacciones de todos los aspirante en la noche en que el PP ha perdido su mayoría absoluta y el PSOE ha registrado su peor resultado histórico"
+    },
+    {
       "title": "Óscar López: “España es hoy el epicentro de la revolución ética de la inteligencia artificial” - La Vanguardia",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnI1V0dVWWMxX01aYVhvS0xCWWl3dzB5NFVXTDBQdjY5X1N6YUJZU1FUNldES2JZbFlVOUNfQ3BucDItZVMxeUtvc1V1RDBXTTl3akZfV1NOS2xHbU4wSjY2M25zVm85WU4ySm1GbXFlNkU2SmNqXzd0N1E1YmJ1OThteno5anFKd2pQUC1lZENiQWl6RjN1V05waS1OVklOUnBxa011UHVQeE93T0hNdkhHQVNQQVBma0HSAb8BQVVfeXFMTjI1T1otdHlCMFVxakFCZXFVWXhzZlQ1Uy1Gd2dVRzdmVWs0UDF0OEtYeGpWTmFEQW8wUlBhMXBSRVJTMzRoLTM5WkdEa1VBYVNybGNjYzhYd2dTNnVwc2JTbFJ6VEZDSnd5N2UzSGtIemhZOXR4QnNVMVdLREoxQjljQ0IwUTNaVDdBaW1EaU1RTnNtX2dVdGUyblVsMWk2QzRUZWZ1Y0kxX3VJd1oyWWJyUEs0ODNrODlDc0szZnM?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnI1V0dVWWMxX01aYVhvS0xCWWl3dzB5NFVXTDBQdjY5X1N6YUJZU1FUNldES2JZbFlVOUNfQ3BucDItZVMxeUtvc1V1RDBXTTl3akZfV1NOS2xHbU4wSjY2M25zVm85WU4ySm1GbXFlNkU2SmNqXzd0N1E1YmJ1OThteno5anFKd2pQUC1lZENiQWl6RjN1V05waS1OVklOUnBxa011UHVQeE93T0hNdkhHQVNQQVBma0"
     },
     {
+      "title": "Productividad de la IA en Banca, Distribución y Sanidad en España en 2026 (II) - ituser.es",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXFTRkNYZ3hRaUxkcHE5VWFyRkNhRjhvQmN6cldoTmkwaHhjS3BrcGV1Qll2ZlBzcHdvWnhMT2pnZlAwYkxjTmhkOHJZRUxvX0NJeHM4VlB5UTVRc2ZtelFGTGs4Y1FvRE9Vak15emVBc1pWZEs1dkpxNHlQSXJiSER1VUpwZk1GQV9TUnVFMzZJZk9sRWpFTlhwcExua2ZfSWc0Q2ZNU0VnQVMtM3BnVElNQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 17 May 2026 22:04:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXFTRkNYZ3hRaUxkcHE5VWFyRkNhRjhvQmN6cldoTmkwaHhjS3BrcGV1Qll2ZlBzcHdvWnhMT2pnZlAwYkxjTmhkOHJZRUxvX0NJeHM4VlB5UTVRc2ZtelFGTGs4Y1FvRE9Vak15emVBc1pWZEs1dkpxNHlQSXJiSER1VUpwZk1GQV9TUnVFMzZJZk9sRWpFTlhwcExua2ZfSWc0Q2ZNU0VnQVMtM3BnVElNQQ?oc=5\" t"
+    },
+    {
       "title": "Se desvelan los países que más usan ChatGPT y España entra en el Top 10 - Diario AS",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWxWNGhSOXRlZG5XajBvOTNaTjQzX1hlNzQwMTBFWFlRVUlFX0xUdWJSN1hBU3JISmoxcUhNeVhEbnl5NFhjV214Z0s1ZUdZM2NUaUJocUxLcmRBS2pEN1VmM1E1VjEyRk1rNWNsMjlOMXRMVlhEVjJkT2g0RUVaWWFFX0VpYWtpQWZwYWNJdHNqXzIzRGdwWkJwNjZHcFh5ZUl1RUNUaUYxVUthTVQ1N2t5QWpQMFpOSmZaV2dyWnV6OGZ1R0JaX29B0gHeAUFVX3lxTE9nSnhvUVBGN0NXUlZjemIxYm9NWUJoUXFYOHBRWExvMTZCRDg4cnlTMU0xYkJlSzdsRXJfcWRhX1JvS0YyZ1JIN3pNRkJWTTNINFdCQXYzLVhtQk1zSHhBRFV2LTgzWUhDR0taUXlBOXU0ckgyVzBGN0ZTb1ZkdDZYcDJ3dzlHY1pOQllNZ3Y0MDgtV1g5UEFxWTNJcXlkNlFLd251REZvY2x1RFpXZnUybEtobE5rc1lUMzI4bnQyRzFSUDlOMmlZX1A0S3NEVTRjQzB2MFFnZFk5aEZnZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 15 May 2026 09:15:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWxWNGhSOXRlZG5XajBvOTNaTjQzX1hlNzQwMTBFWFlRVUlFX0xUdWJSN1hBU3JISmoxcUhNeVhEbnl5NFhjV214Z0s1ZUdZM2NUaUJocUxLcmRBS2pEN1VmM1E1VjEyRk1rNWNsMjlOMXRMVlhEVjJkT2g0RUVaWWFFX0VpYWtpQWZwYWNJdHNqXzIzRGdwWkJwNjZHcFh5ZUl1RUNUaUYxVUthTVQ1N2t5QWpQMFpOSm"
-    },
-    {
-      "title": "España sitúa los derechos digitales en el debate público - La Ecuación Digital",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkVtSk5GcnZ2UnNtTjdxUDlUTENuTWxBVlYzVVRUbW5NajZWWGw2VmR4NVc4dG5Xdkt4R0dNeG9jeEw2WjZfWDFCbjVUYXlNTTRqYWw2UGt5SS1tOXd4d3BCN3hxUE9aUjBKdFRFNUtQLXNENUFFZVNUZG10OTR3NEdZS0p6VlZaUWFOcw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 17 May 2026 15:14:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkVtSk5GcnZ2UnNtTjdxUDlUTENuTWxBVlYzVVRUbW5NajZWWGw2VmR4NVc4dG5Xdkt4R0dNeG9jeEw2WjZfWDFCbjVUYXlNTTRqYWw2UGt5SS1tOXd4d3BCN3hxUE9aUjBKdFRFNUtQLXNENUFFZVNUZG10OTR3NEdZS0p6VlZaUWFOcw?oc=5\" target=\"_blank\">España sitúa los derechos digitales e"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el clásico entre el Barcelona y el Real Madrid - Sports Illustrated",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "IA y productividad: solo 27% más eficiente con cambios reales - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQm9NeGxVd1BzYmRLVnd1dDc1dk5ITFI4RS1icEpQczJydHFpemR6M0tHb1ZJTFJjT3cySkFoOWx4UktnLVBFemFUbU9qOXlfcDJrYkJBdy1ZQ3c5UWhnQmlOSWpnQjU3NW14Ri1jTVBuUGtXNjNlX0hwcEZWcGlDc0FZeWdRaWNTc1QwVTRPRHFLTUVa?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 16 May 2026 22:31:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQm9NeGxVd1BzYmRLVnd1dDc1dk5ITFI4RS1icEpQczJydHFpemR6M0tHb1ZJTFJjT3cySkFoOWx4UktnLVBFemFUbU9qOXlfcDJrYkJBdy1ZQ3c5UWhnQmlOSWpnQjU3NW14Ri1jTVBuUGtXNjNlX0hwcEZWcGlDc0FZeWdRaWNTc1QwVTRPRHFLTUVa?oc=5\" target=\"_blank\">IA y productividad: solo 27"
-    },
-    {
       "title": "Startups en España: un ecosistema cada vez más utilizado y cada vez más vertical - Applicantes",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XYzZMZkxvZlpiTmN2Z0FGdFN5OG1LVlh0SXF6Ymgxc1Q4UUJibXcyNkNTUnk1cGNwUHNzeWV3N3NpRklzQjNNNC16eE5EaG82dXc?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 15 May 2026 10:13:43 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XYzZMZkxvZlpiTmN2Z0FGdFN5OG1LVlh0SXF6Ymgxc1Q4UUJibXcyNkNTUnk1cGNwUHNzeWV3N3NpRklzQjNNNC16eE5EaG82dXc?oc=5\" target=\"_blank\">Startups en España: un ecosistema cada vez más utilizado y cada vez más vertical</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
+    },
+    {
+      "title": "IA y productividad: solo 27% más eficiente con cambios reales - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQm9NeGxVd1BzYmRLVnd1dDc1dk5ITFI4RS1icEpQczJydHFpemR6M0tHb1ZJTFJjT3cySkFoOWx4UktnLVBFemFUbU9qOXlfcDJrYkJBdy1ZQ3c5UWhnQmlOSWpnQjU3NW14Ri1jTVBuUGtXNjNlX0hwcEZWcGlDc0FZeWdRaWNTc1QwVTRPRHFLTUVa?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 16 May 2026 22:31:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQm9NeGxVd1BzYmRLVnd1dDc1dk5ITFI4RS1icEpQczJydHFpemR6M0tHb1ZJTFJjT3cySkFoOWx4UktnLVBFemFUbU9qOXlfcDJrYkJBdy1ZQ3c5UWhnQmlOSWpnQjU3NW14Ri1jTVBuUGtXNjNlX0hwcEZWcGlDc0FZeWdRaWNTc1QwVTRPRHFLTUVa?oc=5\" target=\"_blank\">IA y productividad: solo 27"
     }
   ],
   "count": 14
