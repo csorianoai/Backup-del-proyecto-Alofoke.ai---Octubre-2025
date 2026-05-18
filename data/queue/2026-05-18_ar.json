@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Musk perdió la batalla judicial contra Sam Altman y OpenAI: desestimaron su demanda por prescripción",
+      "url": "https://www.clarin.com/tecnologia/musk-perdio-batalla-judicial-sam-altman-openai-desestimaron-demanda-prescripcion_0_DkTu3nU376.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 18 May 2026 18:22:43 +0000",
+      "summary": "<ul><li>Un jurado federal de California concluyó que la presentación había sido realizada fuera de plazo. </li><li>La jueza Yvonne González Rogers confirmó el veredicto y cerró el caso.</li></ul>"
+    },
+    {
+      "title": "Aprendió a hablar francés en 33 días usando Claude, incluso sin experiencia en inteligencia artificial: cómo hizo",
+      "url": "https://www.clarin.com/tecnologia/aprendio-hablar-frances-33-dias-usando-claude-incluso-experiencia-inteligencia-artificial-hizo_0_ZjuY8K74he.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 18 May 2026 17:13:56 +0000",
+      "summary": "<ul><li>La creadora asegura que no hace falta tener experiencia técnica para aplicar el método con Claude.</li><li>Uno de los prompts más llamativos hace que la IA actúe como un hablante nativo y corrija errores en tiempo real.</li></ul>"
+    },
+    {
       "title": "Confirman el desarrollo del celular de OpenAI: sin apps, basado en IA y preparado para romper el mercado",
       "url": "https://www.clarin.com/tecnologia/confirman-desarrollo-celular-openai-apps-basado-ia-preparado-romper-mercado_0_XIz6G6cPeW.html",
       "source": "Clarín Tecnología",
@@ -27,28 +43,20 @@
       "summary": "<ul><li>La app oficial de Panini ya está disponible para Android y iPhone.</li><li>La colección incluye 980 cromos, intercambios globales y cartas exclusivas que no existen en la edición tradicional.</li></ul>"
     },
     {
-      "title": "El boom de las apps para comprar dólares digitales: cómo funcionan, ventajas y riesgos",
-      "url": "https://www.clarin.com/tecnologia/boom-apps-comprar-dolares-digitales-funcionan-ventajas-riesgos_0_XPiLr3oNx9.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 15 May 2026 08:46:21 +0000",
-      "summary": "<ul><li>Cada vez más argentinos usan el celular para ahorrar, enviar dinero y cobrar pagos del exterior. </li><li>Plataformas fintech incorporaron operaciones con dólar MEP y activos como USDC en pocos pasos y sin horarios bancarios.</li><li>Especialistas advierten por el crecimiento de estafas, fra"
-    },
-    {
-      "title": "¿Cómo usar Instagram Instants? Explicamos la nueva función de fotos instantáneas este 2026",
-      "url": "https://www.clarin.com/estados-unidos/usar-instagram-instants-explicamos-nueva-funcion-fotos-instantaneas-2026_0_cXz3VrC0xl.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 14 May 2026 10:55:13 +0000",
-      "summary": "<ul><li>Meta lanza una herramienta que prohíbe los filtros y la edición.</li><li>La nueva función permite compartir fotos de visualización única que desaparecen tras ser abiertas en la bandeja de entrada de los mensajes directos.</li></ul>"
-    },
-    {
-      "title": "Argentina y la carrera por la inteligencia artificial: ventajas geográficas, energía limpia y el desafío de la infraestructura - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVXBoNFRwNlk1SWtuSVJ2YjZRMXpfUllSTWoyUU5obTFfRXJUeFM4QnlsM29NY2xBMnQ4ZUJMckd6VTM3aG5RNzRPQzhwVHJxblp6N05WRFgzaWhQRW9oRDVPQ1VhR3FLVFREbzI1R2ZLd1hYRVgtTHA5S296d1dqSjdPZGQzejZpckVwRXI1X3lFRWp3X1NvZExqYkRNOHZhVGtsUE13cmRTalBWUTVIZm1oZl9nUG1VZEZHVEhrNHlOUDRHVm1LYk5tcGxISDJOQXJIVUZjamNscEpORlN1SHhvTDFLWnQzb1ozcjZxbDlSMXZseXI0LThpWWtlZ9IBmAJBVV95cUxQQTBNdjF2d182cTZWbmYzN0YxVkhzV2lLdGRZc3EwYXlSTWl2akdfWGNfOVFLVWV0U3EteUVrQWZPTXdoUTRaTjhBT2pQWEVnSzcwbHlocWdiTnd5ZlYwUzdvSUNxcXdwV0d1U2hnbWNVcW1ZQkthV2hfYkdrM2hET1hINGtqUTl1YWI0R1Z6TDVISzIyaVRMQU0wMHo3TzduVkZvNVRaQnRYaTNqdHowamVUdHUtWDA3ZWdBU3NGUGUwMnB5QVdKdFQ4dnZKa1l1ZlBEckN0WlBrNHUtTEdmV1JSZkNTOVNuVDJSYVVaVWc4eDA4SWRjLVE5czkzVzM5Z3FNU1BONXZQWWxRSmNweEdDU3NvWU0x?oc=5",
+      "title": "El avance de la inteligencia artificial ya transforma el empleo en Argentina y redefine profesiones - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2xfZ0VVaU94Q1EzbVpMS0w2WVdFdGpsMmlUcjFfYURaLV9ULS15cjRBMElzSGR2Zkd0Y05iQWhOdTJpaFpTNTdqOU9lVF9FdU1IQ0taQWpxemgxVHROQi1TckYteGYyVTdUVmx6azh2RWRtMjJ4b25LOVBoVXo2T205YWZsMDRRc1RiYjhyMW50MHFhUmYtQnZUV2QxV25OcEFKSjg0TjZKM0RDVmlxR0FRZWo2ZDI0ekViVElJQ2hWRHlCUmNfQzJMdXdXMG5GbDNmSjk5RnXSAfMBQVVfeXFMTjNwdUV3Tlh2X08tMFBjMXBrYjBydTA1ckhpUEpwb0dsR01vS0RIb2RjaDdpMF9VeGM1eXdZaUZFNWkzXzl1WnVYSHE1Ui1vS1g2OHZPbHZ1R0FvNVhfNHVjNF93aGVDend4ZDlrYnYtU3pSWGdGOWJuZ3JTT1JjUTBIajYwVkZEY25VeTVEa1djbi1FRVo3cFdZVUdxM211X3dLX2hZdU1ySk1LdjN2Ql9NSHhJT1FPQlBaNmRhbUlkSzRPd0J2VUxkYWpUbmFlb0FPM05tSml6X05qeVdicmJ6SndMV1J6ZUw3bVVub1FIazlr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 17 May 2026 16:17:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVXBoNFRwNlk1SWtuSVJ2YjZRMXpfUllSTWoyUU5obTFfRXJUeFM4QnlsM29NY2xBMnQ4ZUJMckd6VTM3aG5RNzRPQzhwVHJxblp6N05WRFgzaWhQRW9oRDVPQ1VhR3FLVFREbzI1R2ZLd1hYRVgtTHA5S296d1dqSjdPZGQzejZpckVwRXI1X3lFRWp3X1NvZExqYkRNOHZhVGtsUE13cmRTalBWUTVIZm1oZl9nUG1VZE"
+      "published": "Wed, 13 May 2026 13:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM2xfZ0VVaU94Q1EzbVpMS0w2WVdFdGpsMmlUcjFfYURaLV9ULS15cjRBMElzSGR2Zkd0Y05iQWhOdTJpaFpTNTdqOU9lVF9FdU1IQ0taQWpxemgxVHROQi1TckYteGYyVTdUVmx6azh2RWRtMjJ4b25LOVBoVXo2T205YWZsMDRRc1RiYjhyMW50MHFhUmYtQnZUV2QxV25OcEFKSjg0TjZKM0RDVmlxR0FRZWo2ZDI0ek"
+    },
+    {
+      "title": "Desafíos para el desarrollo de la inteligencia artificial en Argentina - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQV1NiWEU3R3VzRnBPOVBaYlJmS19oTXoxVzNtcGRNaUF6a2x0dmpLa0NDclA4UzlTQlFUTlNtUDhQb3FiY2lxU3F0ekF0NVlqdmJsRHA3VkhYOENuTHlGay11SjBmemYwWV9lbGFUYjRKblNZS3hHVGNlVXZtcEZuaS1VclpPVXVobmtFQjN1Y2tNc2xGWEJHNlFseUY2Z013S05YNWZzdE4xdktjckJ5RUUtR3VRTnJuQk83clFFQkJJTnhPckVrVnJEdXd2bTR0aW4xNW5jdHA2ZDJRWm9Vd1ZaU1ppSXpCTUY4ZDF0bk9xMTVnQ2NXZVFiZVE0SlRHM2ZCUWQ5bVpXbXZqem9oMURJTVljSkhENFQyZnJXcVc1dV9zcVIwSWNNZFNxSld5M2tLRl9PVFc4ZFB5QlQ5ZXY1LWNpU0taSHlZYTRZSG5sNU9sOEZIcGhSeDlnZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 18 May 2026 04:10:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gJBVV95cUxQV1NiWEU3R3VzRnBPOVBaYlJmS19oTXoxVzNtcGRNaUF6a2x0dmpLa0NDclA4UzlTQlFUTlNtUDhQb3FiY2lxU3F0ekF0NVlqdmJsRHA3VkhYOENuTHlGay11SjBmemYwWV9lbGFUYjRKblNZS3hHVGNlVXZtcEZuaS1VclpPVXVobmtFQjN1Y2tNc2xGWEJHNlFseUY2Z013S05YNWZzdE4xdktjckJ5RUUtR3VRTnJuQk"
     },
     {
       "title": "La inteligencia artificial se cuela en el Mundial con Google Gemini - WIRED",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Sun, 17 May 2026 15:51:57 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQLVhBNjdKS3lzSGZjUlhsZGNGUjZZd0lRRmpfWDg4RVJsVVZteUNEMFYybGp3UkktU0RORFkxTkFWTVdwMThwWGlMLUVMM0xYakJaTWl4Y2V5UExyNjhYVmdvT3otcEtqU1p1Skwxc1U5aTdPdGxiem9uaG5HRF9PaHVhbGZzSEpCRF9wNE15Wm5CTFVVYjllLVVtZw?oc=5\" target=\"_blank\">La inteligencia a"
-    },
-    {
-      "title": "El pronóstico de la Inteligencia Artificial para la final del Torneo Apertura 2026: quién ganará la final e... - bolavip.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU0p4VkM3Rjlrc0lFX0J5eWJxT3d6T0JsLUN1V2xLbms3al9VNmJWeTNtcWZzSnV5VGQ1QmdQeXl0M1BhT1o0NEpfZmZlMGVDVkNhVGFIR2xUd3ZqcDhXd0FrT2h2WlgzbER6RXdhLW9tVF84ek1pbTNaUFcyMm1FbTJzbzh3eXlkNjRjLTRUQU5aYnBucWhKWElocFp2VVpncm5ZdGVzVVpDeVE1NXoyM2pWS1FNdjJXd19JNE5fLUZpTmF4bzBiSS1tYUNudVZ3RnEwdW1EXzF5WTF0LVlUejI5S1BrMWUtbFRjVE0ybFVKdTJubXVkZmN30gH_AUFVX3lxTFBxdmxlUUtOMUZ5Z3RXUDNVY25fM2JwbUZlR2VDX2tYaHlyWlRMMEZvcXFVYklXUW1GTlNYSDFNcjlvWG9TeUlwd1NNS0ZNQVZlbmFnV2VHSzNUY09qcTBhaWs5X2djUnhwNjBiVjctb0stZ3pxRlNZeHlJU252YmdmYkdwbjVZaHJ1WkdsM21Yc3NaWEV2MmRMTFI5eFprOW5KY3V0QXpycnlyS19IQmVVRFNCYTlLWXRsUzUyQjltTVdvckVTWTNjSjhmWGdKUy1MZlhlQTR2QXAxcUg0dlJTUHpLbFI0Y0xPZWc2S05pQTk4eWNac1h5MTlQeFVNYw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 18 May 2026 14:19:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU0p4VkM3Rjlrc0lFX0J5eWJxT3d6T0JsLUN1V2xLbms3al9VNmJWeTNtcWZzSnV5VGQ1QmdQeXl0M1BhT1o0NEpfZmZlMGVDVkNhVGFIR2xUd3ZqcDhXd0FrT2h2WlgzbER6RXdhLW9tVF84ek1pbTNaUFcyMm1FbTJzbzh3eXlkNjRjLTRUQU5aYnBucWhKWElocFp2VVpncm5ZdGVzVVpDeVE1NXoyM2pWS1FNdjJXd1"
     },
     {
       "title": "Una cumbre en Buenos Aires reunirá a referentes del sector financiero y tecnológico - Infobae",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1VpbHA5OEdHcG0wd0ZVU1hyUEtOT3VYMXA1LTBSemNqNjNTWUxxa2c4UGR3QlBvLTI3bEdQUGhSekVQNFZDTjRQZE5hM3JkRlZyMk9MR3pwMTAyU3RxdnlfU3Bsc1V0THd1bHBTRkttV2xuN0poVTZaN21aRXBHTEllbFpZcFV1TC1MT2VMUnBGZGQ3NDAwS0dnUVhzdU5DY29fZld3Z0JkVmg4bnc1RlNob0IxMGZ5NX"
     },
     {
-      "title": "Nideport: la startup argentina que une IA y selva misionera - Agroempresario.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW9nc3BZVDBzRTd2NksxTndMay1rUmtGdlF3X2FGRDlTMTBhSGU5a3l0MDRiNTRNWUFicUtrb0drbzlRbFY0d05jQ29xMkFPTzlEeGQtVXotMnFhMlBpVmV3aDZ6ODkwOWF5dEc3Y1dIQlNUaFRvdEdkV1laaERTcWRqY3gwcVYtOGZvdG1Bb0pQVk9NcVdHUzhqRnBZcWoyQTc5QU1ic05Xem0zQXR2cC1xc3p0YVllaFE?oc=5",
+      "title": "Startup argentina Pomelo recauda US$55 millones para impulsar sus ofertas de pago - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUVSZXBkXzAycmhXQy04aGJkUWdub09CY0xhQmxwcTQxbHRDTUFLNk9yVG10MTVQZ25nYkZKMmRMazMxblo2VElYb2lXaEJXMlh6TVlXTlp5WEtVR2JwTHJZcW1UZVQ1YzQ4a0ZhRy1KSmFaTHZ0SkZoUjFXeTVFZmNiSmktVnR6cWlZX3VINDZlOW9STDBleFFGQ1BZbVBaTDNpMU41MmI4ZHc4SzJGSEtidlZ6R3FoZlppcWVJa09YQldmYnFYN0lB0gHKAUFVX3lxTE91TjdjVTJfRTNUVHlHdy1POHdUZHJRUmpaWUUwNk94Q09fR05URkE4M1hfenN3TnptOVVua1d4SU82R3FBbEJBTU9QaHk1Q3BoSDloRXZzVEkzbzl4T2JGUlFNMEc0d1NoWDJoZWR6SjJKbzlCTXRBdUFTWWRrTm5SQVptQmRfYmVXY0FvSFJjekZ2Tm5vQmtJNzJOdmRTVEFJa3lMczFKVGU2blJrZ0tMc2ZLN2FBZ01vb09aREdIUGhBd2QxWFQyc2c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 15 May 2026 16:13:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZW9nc3BZVDBzRTd2NksxTndMay1rUmtGdlF3X2FGRDlTMTBhSGU5a3l0MDRiNTRNWUFicUtrb0drbzlRbFY0d05jQ29xMkFPTzlEeGQtVXotMnFhMlBpVmV3aDZ6ODkwOWF5dEc3Y1dIQlNUaFRvdEdkV1laaERTcWRqY3gwcVYtOGZvdG1Bb0pQVk9NcVdHUzhqRnBZcWoyQTc5QU1ic05Xem0zQXR2cC1xc3p0YVllaF"
+      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUVSZXBkXzAycmhXQy04aGJkUWdub09CY0xhQmxwcTQxbHRDTUFLNk9yVG10MTVQZ25nYkZKMmRMazMxblo2VElYb2lXaEJXMlh6TVlXTlp5WEtVR2JwTHJZcW1UZVQ1YzQ4a0ZhRy1KSmFaTHZ0SkZoUjFXeTVFZmNiSmktVnR6cWlZX3VINDZlOW9STDBleFFGQ1BZbVBaTDNpMU41MmI4ZHc4SzJGSEtidlZ6R3FoZl"
     },
     {
       "title": "Son de Tandil y fundaron una startup que triunfa en Estados Unidos - El diario de Tandil",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVXJaQ1dZZEVZOHVJalpiVVA4d0JDb1BLaTV6RDJwN2ZxVG9OZjRiQ3JXOUlKNWpOaTVKeVRxMVIwQWswWV82Wl9EYnNFMHNFN0pKX2ItVkZuZDlTenRNT0pUZF9obGpYYUh2WTlpZzBlbkxJOElSckdRUkVRUDhUYi1pLVB6eGFNUnU5MG1udGE5UHRjaVVFMU1hX1ZhM2thU3pla056MlpTSU9uYzh3?oc=5\" target="
     },
     {
-      "title": "Patentes Argentina: 8-9 años de espera para startups - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXZmX0JfN1ZVVlhaTmlhbGpHNkJyS29nZkdGQWsxVmVQeS1JSGVZS0RpNmxKalIzUVdGU2dNM0lHRVVEZ2VVMkgxcnhCcmY1ZjRmelY2VXR3eTZHVi16Y2tUeFJhbENUdUxhRnBGTUFnS1VrbUxXcEpyMm5zdGNuSXJPSEloX200a1E?oc=5",
+      "title": "Arbusta: startup argentina, IA e impacto social - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWhBa1VYTTNFeGNQN2J2OHhLUkl4UGhjbUUtQmhCdnZidGVMQWJaYktFSy10cm8xTlhCWjRvRlV6TS1fQ1BaMUFBUTRuTktkei1EdE5aU3dHazBralJjVFlybGFjQ0tfaVdRYUk4cEszdHVoa0xiYTRxeS1uXzdScVFn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 10 May 2026 13:28:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXZmX0JfN1ZVVlhaTmlhbGpHNkJyS29nZkdGQWsxVmVQeS1JSGVZS0RpNmxKalIzUVdGU2dNM0lHRVVEZ2VVMkgxcnhCcmY1ZjRmelY2VXR3eTZHVi16Y2tUeFJhbENUdUxhRnBGTUFnS1VrbUxXcEpyMm5zdGNuSXJPSEloX200a1E?oc=5\" target=\"_blank\">Patentes Argentina: 8-9 años de espera p"
+      "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWhBa1VYTTNFeGNQN2J2OHhLUkl4UGhjbUUtQmhCdnZidGVMQWJaYktFSy10cm8xTlhCWjRvRlV6TS1fQ1BaMUFBUTRuTktkei1EdE5aU3dHazBralJjVFlybGFjQ0tfaVdRYUk4cEszdHVoa0xiYTRxeS1uXzdScVFn?oc=5\" target=\"_blank\">Arbusta: startup argentina, IA e impacto social</a>"
     }
   ],
   "count": 14
