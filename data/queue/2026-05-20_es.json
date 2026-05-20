@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "Raúl Castro, imputado en Estados Unidos por el derribo de avionetas de Hermanos al Rescate",
+      "url": "https://elpais.com/us/2026-05-20/raul-castro-a-la-espera-de-ser-imputado-en-estados-unidos-por-el-derribo-de-avionetas-de-hermanos-al-rescate.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 20 May 2026 17:42:42 GMT",
+      "summary": "La acusación de asesinato del Departamento de Justicia contra el expresidente cubano se remite a hechos de 1996 y llega en medio de una escalada de tensión entre Washington y La Habana"
+    },
+    {
+      "title": "Marco Rubio ofrece una “nueva vía” para Cuba con elecciones libres y sin el poder de las Fuerzas Armadas",
+      "url": "https://elpais.com/us/2026-05-20/marco-rubio-ofrece-una-nueva-via-para-cuba-con-elecciones-libres-y-sin-el-poder-de-las-fuerzas-armadas.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 20 May 2026 13:32:14 GMT",
+      "summary": "En un mensaje publicado en sus redes sociales, el secretario de Estado de EE UU culpa al Gobierno de la isla y al conglomerado militar Gaesa por la crisis energética"
+    },
+    {
       "title": "Sánchez da “todo el apoyo” a Zapatero pero evita más explicaciones",
       "url": "https://elpais.com/espana/2026-05-20/sanchez-muestra-su-apoyo-expreso-a-zapatero-y-pide-respeto-a-la-presuncion-de-inocencia-mientras-feijoo-exige-su-dimision.html",
       "source": "El País Tecnología",
@@ -27,52 +43,28 @@
       "summary": "El Ejecutivo admite que el juez ha hecho un trabajo serio, pero no ve elementos claros como sí los vio con Ábalos y Cerdán"
     },
     {
-      "title": "El auditor de Plus Ultra asegura que la comisión del 1% por lograr el rescate estaba en las cuentas de la aerolínea",
-      "url": "https://elpais.com/espana/2026-05-20/el-auditor-de-plus-ultra-niega-presiones-para-maquillar-las-cuentas-y-conseguir-el-rescate.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 20 May 2026 10:39:58 GMT",
-      "summary": "El encargado de la auditoría de la compañía niega en el Senado haber recibido presiones para maquillar la situación de la empresa"
-    },
-    {
-      "title": "Cronología hacia el rescate de Plus Ultra: el juez detalla todas las fechas en las que la presunta trama buscó a Zapatero",
-      "url": "https://elpais.com/espana/2026-05-20/cronologia-hacia-el-rescate-de-plus-ultra-el-juez-detalla-todas-las-fechas-que-la-presunta-trama-busco-a-zapatero.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 20 May 2026 14:05:52 GMT",
-      "summary": "Traza una línea temporal de un año llena de alusiones al expresidente del Gobierno por boca de su autodenominado “equipo”"
-    },
-    {
-      "title": "España pisa el acelerador: el 76% de las empresas ya tiene una estrategia de reindustrialización - Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1NxTjRyaERaN1hDU0d5ck1tWWVqMjU1MHhKem5vX2lKOXFvNkRGYzdlTGk5RGZqdW9XREl1MDBfaHYwcHNnS05kMHg3UlZ1Sl9jTmdaTjJOWjhlOG53NmUtVDQtWWlHdHFQWVVwMC1GWk9XMVZPaENYS2lXaEF5M2pteVBkTTFXVTRsdVVLak1DbXhmbzk1NXNYYTJ2T1huUmQ0N1dBY2ZSekhQYzB6Sl9GVFhhRXRqTFBTdHVVdTBNV3RDcEpfRThHQlJGa1U?oc=5",
+      "title": "España y Canadá firman una alianza tecnológica en Inteligencia Artificial - Expansión",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGhEazFZYjhOd1IxOXQ4Tnl6aXdYOHFJdUEwNWExclByOE9CLTZBNkhvUUhzbnJYQlpsUWc4c0ExY1ZLSTFfOC1zQ0RwWUN3SG9ZNzlldnE3M3djclRhdmJhLU1CeTJFNVU0eEEzeDJVVTdjajJoeEI5SEoxUTBFcdIBgAFBVV95cUxNUUdqNmd6TWVxZ2l0ZWdPR2VDQ0k4bHl0T0d2VWY2NGZsd3oxeTFBM0RWQjBrbHNrQ0drU184SU5jdmJpSzVDOFQybC1tTld5emJNalBnZ00zeGVQano1cGxzOVlXaGtpdURaaFBPM2ZLSUZRdVFDT2w2OWt6bVZJNw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 20 May 2026 09:42:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1NxTjRyaERaN1hDU0d5ck1tWWVqMjU1MHhKem5vX2lKOXFvNkRGYzdlTGk5RGZqdW9XREl1MDBfaHYwcHNnS05kMHg3UlZ1Sl9jTmdaTjJOWjhlOG53NmUtVDQtWWlHdHFQWVVwMC1GWk9XMVZPaENYS2lXaEF5M2pteVBkTTFXVTRsdVVLak1DbXhmbzk1NXNYYTJ2T1huUmQ0N1dBY2ZSekhQYzB6Sl9GVFhhRXRqTF"
+      "published": "Wed, 20 May 2026 18:01:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQcGhEazFZYjhOd1IxOXQ4Tnl6aXdYOHFJdUEwNWExclByOE9CLTZBNkhvUUhzbnJYQlpsUWc4c0ExY1ZLSTFfOC1zQ0RwWUN3SG9ZNzlldnE3M3djclRhdmJhLU1CeTJFNVU0eEEzeDJVVTdjajJoeEI5SEoxUTBFcdIBgAFBVV95cUxNUUdqNmd6TWVxZ2l0ZWdPR2VDQ0k4bHl0T0d2VWY2NGZsd3oxeTFBM0RWQjBrbH"
     },
     {
-      "title": "El director que arrasa en Cannes se posiciona a favor de la IA: “Para mí es como un pincel, y me encanta la creatividad” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeGE0RVdvV1pweHZfWV9BYzR6a2JVLVFUZ1JEV0dzT3dwczhDUGpyeFljMzFVNmNRODBaQ1VObG5BQWFGRU91VEtPZUpYQXlORGR5OTN6RWpNTmxoQ2xVTGxSVlNUckZkM0JRbU9OcVJHQlVHUk1ma0hDaVhCdzVncGxDMUpWVjdMYlJkYTZmS1hzbGpNZEVnZ1huWmVHWFc5aVd3ejRxUlRYVmtEWjYtM1QxbnJJWTM5Z1BrVmRxN3J3TzEtdUxYdjVjNXRrTHNadG5OVkRvS3ZseGZNNGhUZUJrSUhFYm1RLVlJbFBBNDJEU3RoSTV4VUI2SQ?oc=5",
+      "title": "Indra Group y Cohere impulsan la cooperación internacional en IA soberana entre España y Canadá - Indra Group",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVEhtcVZoZzYyUUliN1k0TzE4WXg1VVNramNWUVV0bWNsODA0U1BwbUtNdGxyVjVrOENXWnRGVUFEdnlfVkZuMUxmNVJfYUtZT1EyUTZCMExxcWZvUUswOHo3cGRuaFR0UlJYSmtGYWExVTZONkRiSDJLaHEyc0ZqUkowTXNoQS1KX1R4Q0dvVnBSY29PU0VqYTNLbkFmRXRVQlE2b3dvRlpHcTRrc2w2TTJUUE84cUNrcGZQNHI0N1lrZzFnWXEwVnhEWTNYM0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 20 May 2026 08:51:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeGE0RVdvV1pweHZfWV9BYzR6a2JVLVFUZ1JEV0dzT3dwczhDUGpyeFljMzFVNmNRODBaQ1VObG5BQWFGRU91VEtPZUpYQXlORGR5OTN6RWpNTmxoQ2xVTGxSVlNUckZkM0JRbU9OcVJHQlVHUk1ma0hDaVhCdzVncGxDMUpWVjdMYlJkYTZmS1hzbGpNZEVnZ1huWmVHWFc5aVd3ejRxUlRYVmtEWjYtM1QxbnJJWTM5Z1"
+      "published": "Wed, 20 May 2026 17:35:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVEhtcVZoZzYyUUliN1k0TzE4WXg1VVNramNWUVV0bWNsODA0U1BwbUtNdGxyVjVrOENXWnRGVUFEdnlfVkZuMUxmNVJfYUtZT1EyUTZCMExxcWZvUUswOHo3cGRuaFR0UlJYSmtGYWExVTZONkRiSDJLaHEyc0ZqUkowTXNoQS1KX1R4Q0dvVnBSY29PU0VqYTNLbkFmRXRVQlE2b3dvRlpHcTRrc2w2TTJUUE84cUNrcG"
     },
     {
-      "title": "La inteligencia artificial y la geopolítica redefinen los consejos de administración en España - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZXV5MU5zdGpCYjZXbGxMUmlHVFFpd1ZqdlluMXpPbkRlVE53Vmw5eHFOVnhZNVExY193dTlZOTUwTG5peGRmY202VFpZN2ZoQnFleDFQUVM1RzBMM0U0V3BUdkVieUhicDZScUpXY3gwYkpYOE5CMDZINmVGcmFpV01LVEZZVTNhRHBTUzRvOW1MX01iWnVhTnZGYWFYWlU0Zy1PQ3lUS2lSZFJ1endyc1FwOEQ2M19MZl9NRDhXV3R6R0pIZFp1NHBraHp2bWFjQ252SGFyQUZXRE80X0ppLUxoS2Z4NkMyVU5TUHlMeDNzMkNt0gHfAUFVX3lxTE9RdXFUMHV4bHZMWGJaSkc5RUlvbVp3UzZCalRsTjZQVUFUUUpPUl9XRzUtY2pjby1XajV5UWUzUGJ6Tno5ek0yME9qUlFYd2ZnZnF6UE53MUVlZmVwNFZuR096SEpCVmVXYVdJb1NmTXZ6Q25WbjVpTlNESE5nYWR0YXg0MHpnaU5UYnFwSUhwYThCMzVmeDFjWFlrRjJoRlEzV0ItZlVhU3d0bVdqWGFiYWVkanJrUXVnWkFnM0RBX2NmTERFWEZaSmo0b0pjcFAzSGhPbG5sanlCVTdJSTQ?oc=5",
+      "title": "España y Canadá sellan una alianza en IA y defensa para reforzar su soberanía tecnológica - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb29VWVFUNDMwYVpUMHNzcWZjYlhBOHB5Y01EaXI3R3p1dEp1VmU1d2JITVFWSDR2ME9MdEhzb2FoVUtlOXd6SXZuR3luRlFjSlB5a1NrWC1ScnN6ZUlqS3Zpb2dpc01QeHlwbFFfWmlETXRva05hV18xdGNIRXdQNXdfeFE5TURzVUlzTnBPSlB1eU9pRTVTMmphM1gwY0EzZWlLMnpKUXhObHVLVWlCTjdDV0JLN0JDeTdGczllTUxRQ0FfdjYwQkJzTE1tQ0FqQmJ4SVZqVWFPQdIB9AFBVV95cUxNckhJbkJ4LWZHMWNHX3dxM1ZqLVdFZE9oSGV4dklZSThFeWFsWmJQTF9Ja1JpaEZtNXU4SFVzYVhEREZGZzkzeWdoUkl4bGdkb1dXVlJ6STl6cE50cGxLLVJIZERTdFdLdTZFMFNzYzlFME91UEw1dVJaRnZkZHBpNFBZcGJKTC1na1JVTS1DR1B3anFrT1BBR3RBWkxqNTFNcHpqRkczWG9oZ0ZYdUNPX3NiNGNZXzdZQ09VQnJtT3NMYVZoZGZmSDJTVTBxUHVULWtPSmdFMDdDdXR5WXFLQVhTTkxSckNPQ0JQQmxiZVN1Njd2?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 19 May 2026 19:34:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZXV5MU5zdGpCYjZXbGxMUmlHVFFpd1ZqdlluMXpPbkRlVE53Vmw5eHFOVnhZNVExY193dTlZOTUwTG5peGRmY202VFpZN2ZoQnFleDFQUVM1RzBMM0U0V3BUdkVieUhicDZScUpXY3gwYkpYOE5CMDZINmVGcmFpV01LVEZZVTNhRHBTUzRvOW1MX01iWnVhTnZGYWFYWlU0Zy1PQ3lUS2lSZFJ1endyc1FwOEQ2M19MZl"
-    },
-    {
-      "title": "Pasó de trabajar con marcas como Barcelona y Real Madrid a crear un fondo de US$ 50 millones para invertir en deporte e IA - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlM0QWxBc05SbWpvSG1ZbHd3cFR2NnhXQjB5cmVoaXZKREJoZC1fTlNETmRvTmxSVEUtSFFqRElaNDFqUnpyeFpEM09xYXg0YnM4WFBIQUNxSko4WkhVQXg5QXZUOGhxWE5mZmhsYUdnTk1QQVlKMzJmdXNGOXdKdmxMNzBOUURvXzBOVTRPY1JTUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 16 May 2026 12:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlM0QWxBc05SbWpvSG1ZbHd3cFR2NnhXQjB5cmVoaXZKREJoZC1fTlNETmRvTmxSVEUtSFFqRElaNDFqUnpyeFpEM09xYXg0YnM4WFBIQUNxSko4WkhVQXg5QXZUOGhxWE5mZmhsYUdnTk1QQVlKMzJmdXNGOXdKdmxMNzBOUURvXzBOVTRPY1JTUQ?oc=5\" target=\"_blank\">Pasó de trabajar con marcas c"
+      "published": "Wed, 20 May 2026 18:25:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb29VWVFUNDMwYVpUMHNzcWZjYlhBOHB5Y01EaXI3R3p1dEp1VmU1d2JITVFWSDR2ME9MdEhzb2FoVUtlOXd6SXZuR3luRlFjSlB5a1NrWC1ScnN6ZUlqS3Zpb2dpc01QeHlwbFFfWmlETXRva05hV18xdGNIRXdQNXdfeFE5TURzVUlzTnBPSlB1eU9pRTVTMmphM1gwY0EzZWlLMnpKUXhObHVLVWlCTjdDV0JLN0JDeT"
     },
     {
       "title": "Pronóstico de Barcelona vs Real Madrid: resultado según la IA - 365Scores",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Sun, 10 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5TS3g1cjZ2d2F3bEZJcGpkWWxuT2ducFVWbmFBY2NtN3BVc0NqT25YNWxkMVV4WGtfRElVeFZjSHlwdnNZbVYxcHpXOURaZzZockVaUEFyamNGOEt4d1h6QUhXM2xEM1BnTUFoWjRzRkpZbGZTei1nY041eWRJUQ?oc=5\" target=\"_blank\">Pronóstico de Barcelona vs Real Madrid: resultado según l"
+    },
+    {
+      "title": "Pasó de trabajar con marcas como Barcelona y Real Madrid a crear un fondo de US$ 50 millones para invertir en deporte e IA - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1phWEF0ckYwSGlITjY5T002cTE1WkxDOHAtaWRxbVBEZG0y?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 16 May 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Atlético de Madrid y el Barcelona - Sports Illustrated",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "OpenAI Singapur 2026: impacto para startups LATAM y España - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1JNZEtURGtYcVBzVXFLODkxN2d3cGRjMWxpZVFzUUZvQ2wzMEtOamNReGVGRnJ6WllKeGJ2LVRPVmZQaXZnUGhnY2RXc0ZUT3hVcjNJVjNFV0dzY2MwRmhKME01VnVkb3Y4cXFqQ0pRSGswS0tMOXNjN092R05SVjVxOV9zdTlWQmllSm03MmwxQQ?oc=5",
+      "title": "Startups en España: un ecosistema cada vez más utilizado y cada vez más vertical - Applicantes",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XYzZMZkxvZlpiTmN2Z0FGdFN5OG1LVlh0SXF6Ymgxc1Q4UUJibXcyNkNTUnk1cGNwUHNzeWV3N3NpRklzQjNNNC16eE5EaG82dXc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 20 May 2026 02:30:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1JNZEtURGtYcVBzVXFLODkxN2d3cGRjMWxpZVFzUUZvQ2wzMEtOamNReGVGRnJ6WllKeGJ2LVRPVmZQaXZnUGhnY2RXc0ZUT3hVcjNJVjNFV0dzY2MwRmhKME01VnVkb3Y4cXFqQ0pRSGswS0tMOXNjN092R05SVjVxOV9zdTlWQmllSm03MmwxQQ?oc=5\" target=\"_blank\">OpenAI Singapur 2026: impacto"
+      "published": "Fri, 15 May 2026 10:13:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XYzZMZkxvZlpiTmN2Z0FGdFN5OG1LVlh0SXF6Ymgxc1Q4UUJibXcyNkNTUnk1cGNwUHNzeWV3N3NpRklzQjNNNC16eE5EaG82dXc?oc=5\" target=\"_blank\">Startups en España: un ecosistema cada vez más utilizado y cada vez más vertical</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
     }
   ],
   "count": 14
