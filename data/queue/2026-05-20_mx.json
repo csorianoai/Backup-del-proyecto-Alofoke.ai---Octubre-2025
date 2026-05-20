@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Nvidia registra récord de 81,600 mdd en ingresos gracias al auge de la IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/20/nvidia-registra-record-81-600-mdd-en-ingresos-auge-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 20 May 2026 22:30:28 GMT",
+      "summary": "Los resultados del primer trimestre del año fiscal 2027, que finalizó el 26 de abril, marcaron un aumento del 85% respecto al mismo período del año anterior."
+    },
+    {
+      "title": "Google quiere convertir 60,000 millones de productos en respuestas de IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/20/google-quiere-convertir-60-000-millones-de-productos-en-respuestas-de-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 20 May 2026 22:00:00 GMT",
+      "summary": "A inicios del 2026, la empresa presentó un nuevo protocolo para desarrollar comercio electrónico agéntico, pero ahora le dice a las empresas cómo vender con IA."
+    },
+    {
       "title": "Consumo futbolero dispara 160% los pedidos de cerveza en delivery",
       "url": "https://expansion.mx/tecnologia/2026/05/20/consumo-futbolero-dispara-160-pedidos-de-cerveza-delivery",
       "source": "Expansión Tecnología",
@@ -27,30 +43,6 @@
       "summary": "Con la expectativa por el torneo de la FIFA, la compañía evoluciona su plataforma integrando renta de autos, hoteles boutique y experiencias VIP."
     },
     {
-      "title": "Centros de datos espaciales en dos años es “muy ambicioso”, dice Bezos",
-      "url": "https://expansion.mx/tecnologia/2026/05/20/centros-de-datos-espaciales-en-dos-anos-es-muy-ambicioso-dice-bezos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 20 May 2026 16:00:17 GMT",
-      "summary": "Para el fundador de Amazon, que también está inmiscuido en la industria aeroespacial, la industria aún debe desarrollar y abaratar costos en varias partes de sus procesos."
-    },
-    {
-      "title": "La IA entra al negocio de los seguros de autos en México",
-      "url": "https://expansion.mx/tecnologia/2026/05/20/ia-valuar-danos-choques-autos-solera-qapter-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 20 May 2026 11:55:22 GMT",
-      "summary": "La empresa Solera procesa 60% de los siniestros vehiculares del mundo y reduce valuaciones de 10 días a uno con Inteligencia Artificial entrenada."
-    },
-    {
-      "title": "Inteligencia Artificial en Investigación Clínica: Acelerando Nuevos Tratamientos en México - Sanofi",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSQ0Z4bEpFMU92NUozejBCXzExVmNRNTVtNmFrb3RUdS1wbTJRcGxpWEdQWmVSMktleUp5eXBmS3RDX2FGYXVkWE0wakpBQ2NYTTVUZ1VScHdGdVd5Yk1FVVcwRUdfYllJZUlR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 19 May 2026 23:38:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBSQ0Z4bEpFMU92NUozejBCXzExVmNRNTVtNmFrb3RUdS1wbTJRcGxpWEdQWmVSMktleUp5eXBmS3RDX2FGYXVkWE0wakpBQ2NYTTVUZ1VScHdGdVd5Yk1FVVcwRUdfYllJZUlR?oc=5\" target=\"_blank\">Inteligencia Artificial en Investigación Clínica: Acelerando Nuevos Tratamientos en"
-    },
-    {
       "title": "Concluye con éxito la quinta edición del Diplomado en Inteligencia Artificial en Salud - Gaceta FM",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWVaaHQ5dW9TQmtHRHZfZU5Ob1o2alRrTi1RWlpFbHlLZ1lQeDZnTlRQaE9lZk4yY1dJVmhGZzh5VHJ0eUtKVHRWRGZPZDBhdzRPajF5cVl5NDFoXzVMUUJnTHpIUG1pejZSQlVPQmNuN2tRNXNjclNDTkZNVG9IY2VPak4wS3JJZ0J6N0wxMk9zM0h4ODBtMkI2RlQtN3BNVEhfNEEzbGJ1NDRGdE1jUm5iY19PRGVnQ2ZFNFdTOFdYSm9aNVlyZlA4WFVnRktKMDhJRw?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Wed, 20 May 2026 02:35:23 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWJWeUF6WlNVeUlPQjJDdUJRenAtc01pbWEzd1dSSVpkQ3g3RkNiUFFBa3Z3V0tQT1ZQNmhkTEMxdWRTTTFva1lSN2RocDJaRlFmN3ZwVW5ETUdTOUpDWlJSVlRhdnNWQ2tMclFOaW9kd3RhR05GR1ZOeTl6aTJCWTJUNEJuX3FyVFR2UnlYcEZBWm1GZHl0c1Z4TWR5ZU5GVEhfeUlxQXpWQk1yX0l2Tmh6aDVoOVp1M1"
+    },
+    {
+      "title": "México: evaluación del estadio de preparación de la inteligencia artificial - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQlcwOGRILVdhQVlRNHNhWTBBQjdmSGRaQVJXM0JkVEl3ckNxMk9KbEFxLXlud0dpNlh1T3o2cG5FSUJ2Z0tFaWRPbVF3OEpEclZzWF9xR1RjU0o4Mk02ZnZNenpjNlRrdzdSLUJKZ3dhUVkxUU9udmNCTlNJU1E3Z3V3NTR4emxubWVNVC1KX1BkVTY4ZWJDdE9EaWs0Wk91WllxWmMwMVF5X3NmbkE?oc=5\" target=\""
     },
     {
       "title": "Primo: la startup de IA que está reinventando la operación de seguros desde Ciudad de México y Buenos Aires - 100% seguro",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
-    },
-    {
       "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 30 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
+    },
+    {
+      "title": "América Latina encabeza el uso de la IA en la educación superior - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5\" target=\"_blank\">América Latina encabeza el uso de la IA"
     }
   ],
   "count": 14
