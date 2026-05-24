@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "El ‘caso Zapatero’ sacude un final de legislatura agónico",
-      "url": "https://elpais.com/espana/2026-05-24/el-caso-zapatero-revienta-un-final-de-legislatura-agonico.html",
+      "title": "Estados Unidos ve al alcance de la mano un acuerdo con Irán para reabrir el estrecho de Ormuz",
+      "url": "https://elpais.com/internacional/2026-05-24/ee-uu-ve-al-alcance-de-la-mano-un-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 24 May 2026 03:30:01 GMT",
-      "summary": "Sánchez decide resistir y confía en que el expresidente pueda aclarar todo. El PP espera un lento desgaste para ocupar todo el poder en 2027 sin oposición. Los socios, muy preocupados, no quieren moverse porque tienen muchos acuerdos por cumplir y para no abrir la puerta a los populares y Vox"
+      "published": "Sun, 24 May 2026 16:55:05 GMT",
+      "summary": "Trump rebaja las expectativas sobre un anuncio inminente, pero su Administración cree que se producirá en los próximos días"
+    },
+    {
+      "title": "Miguel Díaz-Canel, el administrador de los restos de la Revolución cubana",
+      "url": "https://elpais.com/us/2026-05-24/miguel-diaz-canel-el-administrador-de-los-restos-de-la-revolucion-cubana.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 24 May 2026 03:45:01 GMT",
+      "summary": "El presidente cubano, a la sombra de Raúl Castro, apenas ha sido capaz de impulsar reformas en la isla, que bordea el colapso, y afronta la amenaza de Estados Unidos aferrado a la resistencia"
+    },
+    {
+      "title": "Miles de personas protestan en Madrid en defensa de una vivienda digna frente a los “ataques del rentismo”",
+      "url": "https://elpais.com/economia/2026-05-24/cientos-de-personas-se-manifiestan-en-madrid-en-defensa-de-una-vivienda-digna-frente-a-los-ataques-del-rentismo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 24 May 2026 11:17:20 GMT",
+      "summary": "El Sindicato de Inquilinas llama a la desobediencia como “herramienta legítima” para no someterse al “chantaje de ningún casero”"
+    },
+    {
+      "title": "100.000 viviendas a medias duermen abandonadas desde la crisis en urbanizaciones fantasma",
+      "url": "https://elpais.com/economia/2026-05-24/las-100000-viviendas-a-medias-que-duermen-abandonadas-desde-la-crisis-en-urbanizaciones-fantasma.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 24 May 2026 03:30:00 GMT",
+      "summary": "En un país en el que, según el Banco de España, se necesitan 700.000 casas, estos conglomerados vacíos languidecen en manos de sociedades inmobiliarias herederas de promotoras quebradas"
     },
     {
       "title": "El PNV ve “irresponsable” que Sánchez siga más allá de 2026 por una “agenda descontrolada y judicializada”",
@@ -19,30 +43,6 @@
       "summary": "El líder de la formación ‘jeltzale’, Aitor Esteban, considera “muy difícil que Sánchez pueda culminar la legislatura”"
     },
     {
-      "title": "Javier Solana: “El Zapatero que conozco no se compadece con el del informe judicial”",
-      "url": "https://elpais.com/internacional/2026-05-24/javier-solana-el-zapatero-que-conozco-no-se-compadece-con-el-del-informe-judicial.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 24 May 2026 03:45:01 GMT",
-      "summary": "El exministro y antiguo alto representante de la UE para Asuntos Exteriores habla del porvenir del mundo en tiempos convulsos y del ‘caso Zapatero’"
-    },
-    {
-      "title": "La cuenta en Miami del pagador de Zapatero está a nombre de una sociedad en Islas Vírgenes",
-      "url": "https://elpais.com/espana/2026-05-24/la-cuenta-en-miami-del-pagador-de-zapatero-esta-a-nombre-de-una-sociedad-en-islas-virgenes.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 24 May 2026 03:30:01 GMT",
-      "summary": "Dos informes de la UDEF colocan a Zapatero en un entramado de empresas ‘off shore’ gestionado por su amigo Julio Martínez y en contactos directos con Plus Ultra"
-    },
-    {
-      "title": "Cómo se investigó por primera vez a un presidente del Gobierno",
-      "url": "https://elpais.com/espana/2026-05-24/como-se-investigo-por-primera-vez-a-un-presidente-del-gobierno.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 24 May 2026 03:30:01 GMT",
-      "summary": "La UDEF se personó este martes en la casa de Zapatero para entregarle un durísimo escrito en el que se le acusa de ser líder de una red de tráfico de influencias"
-    },
-    {
       "title": "Inteligencia Artificial en salud mental: entre las oportunidades y las dudas sobre privacidad, evidencia científica y aislamiento - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGJnNzQ5VTY1cU0xV0tqWlVZSEMyWHpPeTN6STZBVFk2ZzlHNFJKbzJxM1Vrc25aRFdKMW5XZXFkVDdFUkhwUTBOVzl4dHhRYnRGVVQ1UHFMTVotTUhZTTl0RmtEbXB2b1FIT2J6YzNCTG04aEpjd0NMUnFZQmlZbGRkMU5qT09IaF9HYVM0aE8zVDVzZjFLa2Q0aEwweVA3UUxpWU5Oa3FaWXhmOUxaSE9NbmI3M3Q0c3NuU2dibTJxX2p2MG1aMzJfSVZvMmR1eV8zcVBYcVdPWXVHejUwYWtuRHRITFlwdWtQN3FVWWY4VkY1cXdVZ25fMVJBdUnSAZoCQVVfeXFMT0JBbWpjUDgxY29peVQtOEVtSzVDQ20zTDdqbkFhbnRBZnVQYTlSQUFBYzVBc3Ywdk5SWWdUOS1WWG45WTE4amlJMlFxNVlBME1oSkVsSWFLR3ZUNWNhUDliYTRHbVZpLVBFaXktMHJLVzl0b2VjMnNKV0pzVFkxNDZJTjJnVENYWVU2aTU5SVVmSEloSnVQX1JXN2lEblNRbGZ2T1dXTTVvT0RmQzRtUC1EMmdvR0g0Y3ZtYWtVZHAwOXJQTWhSYk9aNjctSmR4eExfQWJjNzB2bHN3aEFMM2hmYWZoNVRPelh5dTJDSnpaWUpQR3JXOGdrQWtIRmpLQUhJdTFiQmoyQVpseVUwTEt1by1MMmI3Y2FR?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGJnNzQ5VTY1cU0xV0tqWlVZSEMyWHpPeTN6STZBVFk2ZzlHNFJKbzJxM1Vrc25aRFdKMW5XZXFkVDdFUkhwUTBOVzl4dHhRYnRGVVQ1UHFMTVotTUhZTTl0RmtEbXB2b1FIT2J6YzNCTG04aEpjd0NMUnFZQmlZbGRkMU5qT09IaF9HYVM0aE8zVDVzZjFLa2Q0aEwweVA3UUxpWU5Oa3FaWXhmOUxaSE9NbmI3M3Q0c3"
     },
     {
-      "title": "Las empresas españolas se enfrentan al reto de preparar a sus plantillas ante la irrupción de la Inteligencia Artificial - El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWgtZDVKNWR0T00wT21ieUFXRXl0ZGpPTDB1cEJ3RkprU29JRnl6NFFWZ1ZvNHlOSGhacEZrZEl5cWxfMzMtUTlvajZGdUlmTnNTTEg3RHYyNE1fM0VVQkhoZUZtUm02cXJMaGstNDlKNGdsSFpmMFUwdzZuTDFmRjVSZGJFM2lD0gGIAUFVX3lxTE5WR3ZpMmtRMFRJUkNvQmdtdzJJOEtsbnVfQV8xbXZXeXZhYXhrUDlaUkxzRVNkQ3dzekIwdDZweWtTcFpMcXV0eFU0dUJGQ1pNbGJHM2thdVloWTY4NlliZGg1X2FDNFhPTng3ZVByMmNtT3haMkZrdEc1YVZ0dENiNmxWMHV2c1g?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 21 May 2026 12:52:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWgtZDVKNWR0T00wT21ieUFXRXl0ZGpPTDB1cEJ3RkprU29JRnl6NFFWZ1ZvNHlOSGhacEZrZEl5cWxfMzMtUTlvajZGdUlmTnNTTEg3RHYyNE1fM0VVQkhoZUZtUm02cXJMaGstNDlKNGdsSFpmMFUwdzZuTDFmRjVSZGJFM2lD0gGIAUFVX3lxTE5WR3ZpMmtRMFRJUkNvQmdtdzJJOEtsbnVfQV8xbXZXeXZhYXhrUD"
-    },
-    {
       "title": "La inteligencia artificial ya está cambiando la sanidad española - Gaceta Médica",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1dQQnBKZmoxZHh0b2F3LWNhY19ockJZdHhxRXQwcjVhRGZldkFWS0VFQkRmdzBiaS14RUNJbkJQVjdudUNuQ0hrekoyMHV4UkJUUlJDNjdCcEo5R1BHZDBsT0twd3prZ2M0VFlSU2JXRlRiamduN2VybFdWRmwydXBGeTVrbThNVEtfTS1KWENBYWVLQXVYaW11WkI3dTg?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 22 May 2026 07:37:22 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1dQQnBKZmoxZHh0b2F3LWNhY19ockJZdHhxRXQwcjVhRGZldkFWS0VFQkRmdzBiaS14RUNJbkJQVjdudUNuQ0hrekoyMHV4UkJUUlJDNjdCcEo5R1BHZDBsT0twd3prZ2M0VFlSU2JXRlRiamduN2VybFdWRmwydXBGeTVrbThNVEtfTS1KWENBYWVLQXVYaW11WkI3dTg?oc=5\" target=\"_blank\">La inteligen"
+    },
+    {
+      "title": "Las empresas españolas se enfrentan al reto de preparar a sus plantillas ante la irrupción de la Inteligencia Artificial - El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWgtZDVKNWR0T00wT21ieUFXRXl0ZGpPTDB1cEJ3RkprU29JRnl6NFFWZ1ZvNHlOSGhacEZrZEl5cWxfMzMtUTlvajZGdUlmTnNTTEg3RHYyNE1fM0VVQkhoZUZtUm02cXJMaGstNDlKNGdsSFpmMFUwdzZuTDFmRjVSZGJFM2lD0gGIAUFVX3lxTE5WR3ZpMmtRMFRJUkNvQmdtdzJJOEtsbnVfQV8xbXZXeXZhYXhrUDlaUkxzRVNkQ3dzekIwdDZweWtTcFpMcXV0eFU0dUJGQ1pNbGJHM2thdVloWTY4NlliZGg1X2FDNFhPTng3ZVByMmNtT3haMkZrdEc1YVZ0dENiNmxWMHV2c1g?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 21 May 2026 12:52:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWgtZDVKNWR0T00wT21ieUFXRXl0ZGpPTDB1cEJ3RkprU29JRnl6NFFWZ1ZvNHlOSGhacEZrZEl5cWxfMzMtUTlvajZGdUlmTnNTTEg3RHYyNE1fM0VVQkhoZUZtUm02cXJMaGstNDlKNGdsSFpmMFUwdzZuTDFmRjVSZGJFM2lD0gGIAUFVX3lxTE5WR3ZpMmtRMFRJUkNvQmdtdzJJOEtsbnVfQV8xbXZXeXZhYXhrUD"
     },
     {
       "title": "Pronóstico de Barcelona vs Real Madrid: resultado según la IA - 365Scores",
