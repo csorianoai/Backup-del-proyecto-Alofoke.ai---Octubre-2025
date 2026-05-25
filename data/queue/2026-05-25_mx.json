@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Un modelo de OpenAI resuelve un problema matemático sin solución desde 1946",
+      "url": "https://expansion.mx/tecnologia/2026/05/25/modeloopenai-resuelve-problema-matematico-sin-solucion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 25 May 2026 22:30:20 GMT",
+      "summary": "El hallazgo fue validado por matemáticos externos y reabre el debate sobre el papel de la inteligencia artificial en la generación de conocimiento científico original."
+    },
+    {
+      "title": "Editar videos ya es tan fácil como chatear: así funciona Gemini Omni el nuevo modelo de IA de Google",
+      "url": "https://expansion.mx/tecnologia/2026/05/25/google-gemini-omni-que-es-y-como-funciona",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 25 May 2026 18:17:22 GMT",
+      "summary": "Te enseñamos cómo usar Gemini Omni, qué puede hacer y dónde probar el nuevo modelo todo en uno de la compañía."
+    },
+    {
       "title": "El FOMO impulsa la última gran ola bursátil de la inteligencia artificial",
       "url": "https://expansion.mx/tecnologia/2026/05/25/el-fomo-impulsa-la-ultima-gran-ola-bursatil-de-la-inteligencia-artificial",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Fri, 22 May 2026 19:00:01 GMT",
       "summary": "A inicios del 2026, Google presentó un nuevo protocolo para desarrollar comercio electrónico agéntico, pero ahora le dice a las empresas cómo vender con IA."
-    },
-    {
-      "title": "Meta lanza \"Forum\", una nueva red social al estilo Reddit para discusiones en comunidad",
-      "url": "https://expansion.mx/tecnologia/2026/05/22/meta-lanza-forum-nueva-red-social-al-estilo-reddit",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 22 May 2026 17:37:00 GMT",
-      "summary": "La compañía de Mark Zuckerberg apuesta por los foros de debate en línea con una aplicación independiente basada en los Grupos de Facebook"
-    },
-    {
-      "title": "La vida privada se reduce ante la conectividad permanente",
-      "url": "https://expansion.mx/tecnologia/2026/05/22/desconexion-digital-el-costo-de-vivir-siempre-conectado",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 22 May 2026 11:55:59 GMT",
-      "summary": "Algoritmos, plataformas y trabajo remoto difuminan la frontera entre la vida personal y la disponibilidad permanente, mientras crece la presión para regular el diseño adictivo de las apps."
     },
     {
       "title": "La inteligencia artificial como el nuevo lenguaje del Derecho en México - Fast Company México",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 13 May 2026 03:47:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
-    },
-    {
       "title": "Natalia Salcedo, la colombiana detrás de una startup de IA para talleres mecánicos - Revista C-Level",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 12 May 2026 13:36:26 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5\" target=\"_bla"
+    },
+    {
+      "title": "PropTech Latam: USD 100K para startups Real Estate en 2026 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUhVMVRKY2hVYUhSRngtVVBmRDZ5SzVSZU9qZzhIcEh2VXVrYlJQalg3QXNBeWVBVlFaZUVWVnNFWm5aRFNFandBZ0U4MEQtMldPY1BHWTRWdk1ENld5elhZRG1YZklRTnBMbjhIMGVUa1VHVHFzTUIxTFBETHlGS0xsbnZBZHNRcndrZzdhTHBmUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 11 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOcUhVMVRKY2hVYUhSRngtVVBmRDZ5SzVSZU9qZzhIcEh2VXVrYlJQalg3QXNBeWVBVlFaZUVWVnNFWm5aRFNFandBZ0U4MEQtMldPY1BHWTRWdk1ENld5elhZRG1YZklRTnBMbjhIMGVUa1VHVHFzTUIxTFBETHlGS0xsbnZBZHNRcndrZzdhTHBmUQ?oc=5\" target=\"_blank\">PropTech Latam: USD 100K para"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
