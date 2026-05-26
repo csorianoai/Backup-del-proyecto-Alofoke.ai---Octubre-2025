@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Uber se lanza al mercado financiero de la mano de Klar y Mastercard",
+      "url": "https://expansion.mx/tecnologia/2026/05/26/ya-hay-tarjeta-de-credito-uber-klar",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 26 May 2026 19:56:51 GMT",
+      "summary": "Uber Card será operada por Klar para brindar mayor valor a viajes y pedidos delivery en la plataforma, con recompensas exclusivas en cada transacción."
+    },
+    {
+      "title": "Huawei da un gran salto en la manufactura de chips para enfrentar a EU y Nvidia",
+      "url": "https://expansion.mx/tecnologia/2026/05/26/huawei-da-un-gran-salto-en-la-manufactura-de-chips-para-enfrentar-a-eu-y-nvidia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 26 May 2026 19:30:16 GMT",
+      "summary": "Con la próxima generación del procesador Kirin y la serie Ascend, el gigante asiático busca demostrar que las sanciones aceleraron su autosuficiencia de hardware."
+    },
+    {
       "title": "Jefes clonados por IA, una nueva tendencia de los ejecutivos para producir más",
       "url": "https://expansion.mx/tecnologia/2026/05/26/jefes-clonados-por-ia-una-nueva-tendencia-de-los-ejecutivos-para-producir-mas",
       "source": "Expansión Tecnología",
@@ -27,28 +43,12 @@
       "summary": "El hallazgo fue validado por matemáticos externos y reabre el debate sobre el papel de la inteligencia artificial en la generación de conocimiento científico original."
     },
     {
-      "title": "Editar videos ya es tan fácil como chatear: así funciona Gemini Omni el nuevo modelo de IA de Google",
-      "url": "https://expansion.mx/tecnologia/2026/05/25/google-gemini-omni-que-es-y-como-funciona",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 25 May 2026 18:17:22 GMT",
-      "summary": "Te enseñamos cómo usar Gemini Omni, qué puede hacer y dónde probar el nuevo modelo todo en uno de la compañía."
-    },
-    {
-      "title": "El FOMO impulsa la última gran ola bursátil de la inteligencia artificial",
-      "url": "https://expansion.mx/tecnologia/2026/05/25/el-fomo-impulsa-la-ultima-gran-ola-bursatil-de-la-inteligencia-artificial",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 25 May 2026 11:55:18 GMT",
-      "summary": "Analistas advierten que inversionistas minoristas están sosteniendo valuaciones que los fondos ya empiezan a abandonar."
-    },
-    {
-      "title": "Samsung enciende el Hot Sale con innovación e inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWJ4cUVXTUwyYlVUUEJ4bG9sNElfaVBCZHByUDEtYl9YT2tqSEgwRDFVWkFzQzlWbklRZ0psTFo5aldmY2NCWjlzN3h0NEJ4c2RZUFJpamxoRGhVRzlpVVpfNzlwQkJya3ZyckZNZWJIT1FjTVlzMS1RZWJxTHB2eHEteGdqdlhNQ3dINDZCZS11d2U3RDI1VHRaTEtlWS1odENCVV9DalF0T21pSEhIUlg2VGpETjdEVnNVOHlOMNIB2gFBVV95cUxPak1iMW41TENQOHJ1cTFfNUNzdDRkUXBlaHNJZ1NUMWY5VF84ZTdvVHdvNlF5U1BpWE9sR2NiXy1iUlliUkhCU18tLURZUzZrczRhLWlheVlVS1p2TjUwMFU1bnFlWVhlWFZxOEdjdC1Zamt4VHdWUWdSNE9DcS0zbzFXSTVmajNPcGRNQlZfdk9Tc3gwY2QwMFkzWHR2MGF3WXlxNG5YS2gweUd3V2tVUXBXbFdXX1c5NGxETGJNT1V0ZDFFM3Z4Y3RoV01MdEg5ZmVhdFJlMWd6dw?oc=5",
+      "title": "Encíclica de León XIV es aplaudida por Sheinbaum: “¿Quién detenta la Inteligencia Artificial? Es muy interesante” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjU5V1hfMVBJMDA0dlpMdjFELXJSM1VhQTVCa1UtOUFhLXBpV0IzT3BoWEpZQVNNS1lCdlF1Y2p0NXNrbkQ1ZU1UVU1IY1JZWDVKejFWTml5YjFiWUJUV2RRMHp5RXRYdXowejh1TFpqd2xYV0JBQkRIbXBnM19qUXpnZjdFQ2x5cnl0ckRVem9VbjAwQWR0YV9IX2VKejRXZWxpc25ZQldMbW9GdnZaVWJNY1RRQlZTSjBhT0U1QVNpS1BVU3FEdnVKQWVPdjdpLUt3NEpMVFMwalZzaUZRVExBVnZOZ9IBgAJBVV95cUxObXR6ZktwelNkWC1yX0x1b1lEMll2Y1FsVVY4VHlFNldnOGlRelVtOFphSm1MSjM1Z3BVOE5Gc19rdDY0M0hCRHB1Y0tQbXRRcWkzd2dJaG5DbVJ5VDZ6SU5kZlVYOGV6NE5tZm1TeGNHbUk1cGdnZWJRSWxwVlh3cjJmVVJha0g1Y0FiSWY1bUFBNHFZbjJfTFQ5Q1k3b0VNb3ZhSnNPclFjWmMxeUhlWUMyWVI0SloySWh1d3I2NTBBTFVsSnZraTU4MGdhVktXMVRTVzJHSmwyb3VRNkthSEo1OW0xWTF1MHUxdWtEZUFScUpsUmE0aDdqMzQ4a3M4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 25 May 2026 23:58:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWJ4cUVXTUwyYlVUUEJ4bG9sNElfaVBCZHByUDEtYl9YT2tqSEgwRDFVWkFzQzlWbklRZ0psTFo5aldmY2NCWjlzN3h0NEJ4c2RZUFJpamxoRGhVRzlpVVpfNzlwQkJya3ZyckZNZWJIT1FjTVlzMS1RZWJxTHB2eHEteGdqdlhNQ3dINDZCZS11d2U3RDI1VHRaTEtlWS1odENCVV9DalF0T21pSEhIUlg2VGpETjdEVn"
+      "published": "Tue, 26 May 2026 17:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTjU5V1hfMVBJMDA0dlpMdjFELXJSM1VhQTVCa1UtOUFhLXBpV0IzT3BoWEpZQVNNS1lCdlF1Y2p0NXNrbkQ1ZU1UVU1IY1JZWDVKejFWTml5YjFiWUJUV2RRMHp5RXRYdXowejh1TFpqd2xYV0JBQkRIbXBnM19qUXpnZjdFQ2x5cnl0ckRVem9VbjAwQWR0YV9IX2VKejRXZWxpc25ZQldMbW9GdnZaVWJNY1RRQlZTSj"
     },
     {
       "title": "Académicos UBB presentan en México investigaciones sobre inteligencia artificial - Universidad del Bío-Bío",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFVPaE1yVEJpUDFmTXlSc1E2RmQ4SzJ5TUxqMWE5UFBkcmVsSkdnNTk5STRjYl9OZ0h5cVRJVGJ5Y04yMDQwV0RabFB6cnZkb0w2aXpZa0gzcHV3dkNjdHhOamRZNnhvRG9RZUhIRGRQTzdXVUhSWUdCYkRGcElSQUwzX19ENnN3Y1BCY2RPeTNQNVk3ZGJBQWlQOGU1NmNKT2NVYlpOcDA4VWh5Ui1SMVY0YTRSOXFjYU"
     },
     {
-      "title": "México ante la infraestructura de la IA: el país que no puede llegar tarde a su propio futuro - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzJmeFZQWTdSS2hWOWlURHV3NDNzOEdhSFZOSkFPdy1mVmpqbDIydFlKMVNmbU1wY3BpTHZScWVZYjhObWFxZlE5T19UVDB0SXpCZkFWRmlONlJNc0l5QnFHai1fTWFQZzVrTEw4T3F3S0lsck9MSjJONzI4UmhkMzJYUFV0bGRQR0tlbF9YSXUzelE0OTBQek5zX2hoY054UXBoaGFlY1dGdk4wQ3J1V2VlY0Nzcy1uWUHSAb8BQVVfeXFMTUxGODkxaXBYc3B0VklVRGhyTDJSR2ZjQTNVVk5qWEQ5c0JOWXZGVEtPczYyRG5iRlE0RUZKcVpSc1VZWDFGSkd0bGc2OUVfSEMzcFNQOFdzX1IzVjhFLWt3MkZnNkJVWjNJd3JRZ1gxdHRNWER6dHNNc2VKX1FNb0pTS0NqRXhfVW9ISndyU3A2WlN2WHloS18xYlE5ejdwV2dkSGlSaW00ZFBMbENxbXd6bFZWRlN5VXp6NHN1TU0?oc=5",
+      "title": "Sheinbaum ve \"muy interesante\" la reflexión \"humanista\" del papa León XIV sobre la Inteligencia Artificial - laopinion.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2pTNmxFajZIVEYtZ09JcmJHRjMwdWFBZ2dUbkp2Nk1UMnlvMnktY3Vra3o2elNia1V4Yjhld25nZ2lUcDdFYnZ5Mld5dHI1MTM5S1QyTTUwWmwwcTVlSFlCQkVYaloxaUd0Tk9oVEJSVnBSMGVlUWdUcTBnbC1qVk5qa2xoWkhxXzBYZ2dIV2o4SnlZeDlPSEI2bkZjdjVaYzBnRFlVT2wwaC1wNmd6NGR4R0RuU2U3M0UzcjBsZWtWem53WWlqRUhOSFZfblJmZlE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 26 May 2026 15:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzJmeFZQWTdSS2hWOWlURHV3NDNzOEdhSFZOSkFPdy1mVmpqbDIydFlKMVNmbU1wY3BpTHZScWVZYjhObWFxZlE5T19UVDB0SXpCZkFWRmlONlJNc0l5QnFHai1fTWFQZzVrTEw4T3F3S0lsck9MSjJONzI4UmhkMzJYUFV0bGRQR0tlbF9YSXUzelE0OTBQek5zX2hoY054UXBoaGFlY1dGdk4wQ3J1V2VlY0Nzcy1uWU"
+      "published": "Tue, 26 May 2026 18:27:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY2pTNmxFajZIVEYtZ09JcmJHRjMwdWFBZ2dUbkp2Nk1UMnlvMnktY3Vra3o2elNia1V4Yjhld25nZ2lUcDdFYnZ5Mld5dHI1MTM5S1QyTTUwWmwwcTVlSFlCQkVYaloxaUd0Tk9oVEJSVnBSMGVlUWdUcTBnbC1qVk5qa2xoWkhxXzBYZ2dIV2o4SnlZeDlPSEI2bkZjdjVaYzBnRFlVT2wwaC1wNmd6NGR4R0RuU2U3M0"
     },
     {
       "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
-    },
-    {
       "title": "América Latina encabeza el uso de la IA en la educación superior - TecScience",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 06 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5\" target=\"_blank\">América Latina encabeza el uso de la IA"
+    },
+    {
+      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
     }
   ],
   "count": 14
