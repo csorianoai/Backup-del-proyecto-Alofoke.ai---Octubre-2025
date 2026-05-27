@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "VigIA: la IA que rastrea a depredadores sexuales en tiempo real",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/vigia-herramienta-contra-depredadores-sexuales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 18:00:23 GMT",
+      "summary": "La herramienta monitorea dispositivos en tiempo real, es gratuita y ya está disponible. Lo que no puede hacer, también importa."
+    },
+    {
+      "title": "AWS abre en Querétaro su primera “prepa tecnológica” en Latinoamérica",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/aws-abre-queretaro-primera-prepa-tecnologica-latinoamerica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 17:00:34 GMT",
+      "summary": "En alianza con la UNAM, la compañía capacitará a 1,400 alumnos al año en IA, robótica e impresión 3D."
+    },
+    {
       "title": "YouTube endurece el rastreo de contenido hecho con IA",
       "url": "https://expansion.mx/tecnologia/2026/05/27/youtube-endurece-el-rastreo-de-contenido-hecho-con-ia",
       "source": "Expansión Tecnología",
@@ -27,27 +43,11 @@
       "summary": "Con la próxima generación del procesador Kirin y la serie Ascend, el gigante asiático busca demostrar que las sanciones aceleraron su autosuficiencia de hardware."
     },
     {
-      "title": "Jefes clonados por IA, una nueva tendencia de los ejecutivos para producir más",
-      "url": "https://expansion.mx/tecnologia/2026/05/26/jefes-clonados-por-ia-una-nueva-tendencia-de-los-ejecutivos-para-producir-mas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 26 May 2026 15:10:47 GMT",
-      "summary": "Líderes como Reid Hoffman o Mark Zuckerberg ya usan gemelos digitales para \"conectar\" con sus equipos o dar discursos, pero abren el debate sobre la empatía y el reemplazo humano."
-    },
-    {
-      "title": "A días del Mundial, Uber y DiDi siguen sin reglas para operar en aeropuertos",
-      "url": "https://expansion.mx/tecnologia/2026/05/26/uber-didi-dependen-de-amparos-mundial",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 26 May 2026 11:55:08 GMT",
-      "summary": "Las plataformas de movilidad aún desconocen cómo podrán recoger y dejar pasajeros en terminales aéreas durante la Copa del Mundo 2026 y, por ahora, dependen de amparos para operar."
-    },
-    {
       "title": "Inteligencia artificial en el Mundial 2026: cómo la tecnología cambia el fútbol dentro y fuera de la cancha - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYkdWTUI3Vzg4Xzh3SFN2dHZXTTRKdTJDeXYzX2x2cUZZMGtELXpwc2p1QVdXOERsTDkwT3A3VkF4bmFPc0t4eUcweUNLMHNlWlMzRnFuTXlEYW16Z0hVeFdGRGFLZHB4WkZ0SC16U01GR0FHY01ZYzdVMUIycHlad0tqZlYwYlBMaGM2aktIMTFGZEhUTHN3ZFpHNlI2a0RFQXh1U0NvbE16TVktY2xZczNZMGJLQ2lNcmxJaXBzMF8wTlUtbm9NMWtYY0FmNWVzRDZhREhzaDNmME5MRlNmZ2pob1BrZEpXSGJDZi1hNNIBigJBVV95cUxOanl0RjdzOTVSdEU1T1ZjNTJKTDhyZ040OGV3clRVYXUyNm1vdzhZdUpQTjJ4VjZVeTBvX2xEYnlYVmhWTHI2OUNhZzQzX2hBd3FYR2dzeU5RaFhGUG9iOFlwU0dNczJCUjlwSkRQT1lac0N0ZGgxSk8yMUNOMW84STBDUzJNY1k4em5TMlAzNFozbTktQWlBb1lSSW52U2c5TVJyWW5Oc2lGdlRXZzU5Z2NsTGlnMmIya1BZLTN2TllMb0c1ckRnMFd1Z011Q2Jrd1RqNXlLRXZFTzUwTGd0Y0trTUdZbXdSNUxEU0lydnZUM01sWjUzNUlHVEVsc2dvR0szWFo4OHJSUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 27 May 2026 15:41:33 GMT",
+      "published": "Wed, 27 May 2026 16:36:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYkdWTUI3Vzg4Xzh3SFN2dHZXTTRKdTJDeXYzX2x2cUZZMGtELXpwc2p1QVdXOERsTDkwT3A3VkF4bmFPc0t4eUcweUNLMHNlWlMzRnFuTXlEYW16Z0hVeFdGRGFLZHB4WkZ0SC16U01GR0FHY01ZYzdVMUIycHlad0tqZlYwYlBMaGM2aktIMTFGZEhUTHN3ZFpHNlI2a0RFQXh1U0NvbE16TVktY2xZczNZMGJLQ2lNcm"
     },
     {
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjI5YmxPQkJNejh4eWw2NVVSTlRBcnB4UEI4TDA3UjMwSHpwUlBvc25yQzhXZV91LTE0NlRPVnZZZlk3QjV4OXpBbGhwSWNhd19YWHpfajI1WmRRU2NvelBhc05hdXhlWU1pSUVOeVJqX2hORmw3OU85WDdaakJ2U1JIcUozZmIxVE03OVUtQzBrZ2lBMGxOc2FmRjlNd1ZGYXhvT21FV2pndXJXOHRv?oc=5\" target="
     },
     {
-      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 13 May 2026 03:47:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
-    },
-    {
       "title": "Natalia Salcedo, la colombiana detrás de una startup de IA para talleres mecánicos - Revista C-Level",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5",
       "source": "Google News",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Wed, 01 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+    },
+    {
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
