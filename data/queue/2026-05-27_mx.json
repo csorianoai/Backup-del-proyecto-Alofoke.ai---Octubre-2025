@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Meta lanza plan de suscripción para acceder a su IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/meta-lanza-plan-de-suscripcion-para-acceder-a-su-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 22:45:20 GMT",
+      "summary": "La empresa dio a conocer Meta One, un servicio para acceder a mejores versiones de sus modelos de Inteligencia Artificial."
+    },
+    {
+      "title": "Sam Altman, de OpenAI, se retracta del “apocalipsis laboral” por IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/sam-altman-de-openai-se-retracta-del-apocalipsis-laboral-por-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 21:00:13 GMT",
+      "summary": "Aunque mantiene que la IA transformará profundamente el trabajo, ahora considera que las personas siguen valorando la interacción humana."
+    },
+    {
+      "title": "Ericsson destaca el auge de la IA como oportunidad hacia redes avanzadas y seguras",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/ericsson-auge-de-la-ia-redes-mas-avanzadas-y-seguras",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 20:30:46 GMT",
+      "summary": "El crecimiento de la inteligencia artificial está impulsando la necesidad de redes 5G y 6G más avanzadas, mientras los altos costos del espectro frenan la expansión tecnológica en México."
+    },
+    {
       "title": "VigIA: la IA que rastrea a depredadores sexuales en tiempo real",
       "url": "https://expansion.mx/tecnologia/2026/05/27/vigia-herramienta-contra-depredadores-sexuales",
       "source": "Expansión Tecnología",
@@ -19,36 +43,12 @@
       "summary": "En alianza con la UNAM, la compañía capacitará a 1,400 alumnos al año en IA, robótica e impresión 3D."
     },
     {
-      "title": "YouTube endurece el rastreo de contenido hecho con IA",
-      "url": "https://expansion.mx/tecnologia/2026/05/27/youtube-endurece-el-rastreo-de-contenido-hecho-con-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 27 May 2026 15:00:41 GMT",
-      "summary": "La aplicación de videos ahora mostrará de una forma más clara cuando un video está hecho o modificado con IA generativa, con el fin de transparentar el uso de esta herramienta."
-    },
-    {
-      "title": "Uber se lanza al mercado financiero de la mano de Klar y Mastercard",
-      "url": "https://expansion.mx/tecnologia/2026/05/26/ya-hay-tarjeta-de-credito-uber-klar",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 26 May 2026 19:56:51 GMT",
-      "summary": "Uber Card será operada por Klar para brindar mayor valor a viajes y pedidos delivery en la plataforma, con recompensas exclusivas en cada transacción."
-    },
-    {
-      "title": "Huawei da un gran salto en la manufactura de chips para enfrentar a EU y Nvidia",
-      "url": "https://expansion.mx/tecnologia/2026/05/26/huawei-da-un-gran-salto-en-la-manufactura-de-chips-para-enfrentar-a-eu-y-nvidia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 26 May 2026 19:30:16 GMT",
-      "summary": "Con la próxima generación del procesador Kirin y la serie Ascend, el gigante asiático busca demostrar que las sanciones aceleraron su autosuficiencia de hardware."
-    },
-    {
-      "title": "Inteligencia artificial en el Mundial 2026: cómo la tecnología cambia el fútbol dentro y fuera de la cancha - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYkdWTUI3Vzg4Xzh3SFN2dHZXTTRKdTJDeXYzX2x2cUZZMGtELXpwc2p1QVdXOERsTDkwT3A3VkF4bmFPc0t4eUcweUNLMHNlWlMzRnFuTXlEYW16Z0hVeFdGRGFLZHB4WkZ0SC16U01GR0FHY01ZYzdVMUIycHlad0tqZlYwYlBMaGM2aktIMTFGZEhUTHN3ZFpHNlI2a0RFQXh1U0NvbE16TVktY2xZczNZMGJLQ2lNcmxJaXBzMF8wTlUtbm9NMWtYY0FmNWVzRDZhREhzaDNmME5MRlNmZ2pob1BrZEpXSGJDZi1hNNIBigJBVV95cUxOanl0RjdzOTVSdEU1T1ZjNTJKTDhyZ040OGV3clRVYXUyNm1vdzhZdUpQTjJ4VjZVeTBvX2xEYnlYVmhWTHI2OUNhZzQzX2hBd3FYR2dzeU5RaFhGUG9iOFlwU0dNczJCUjlwSkRQT1lac0N0ZGgxSk8yMUNOMW84STBDUzJNY1k4em5TMlAzNFozbTktQWlBb1lSSW52U2c5TVJyWW5Oc2lGdlRXZzU5Z2NsTGlnMmIya1BZLTN2TllMb0c1ckRnMFd1Z011Q2Jrd1RqNXlLRXZFTzUwTGd0Y0trTUdZbXdSNUxEU0lydnZUM01sWjUzNUlHVEVsc2dvR0szWFo4OHJSUQ?oc=5",
+      "title": "¿Qué es la “sextorsión” con inteligencia artificial y cómo protegerse? La guía oficial de la Fiscalía CDMX - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX05OMUw5c0c4YkFVRHVteE1Qakt0ZTlnMEg5Z05OdkVIcklDZ0xfTzNnMVlndDF1ODdaLWQxWHFRMTNBbURtdTBWSWlQcFNjS3lBMndYaFp0Nzh3UDg5OEtTRjQzT1FVWmZsUjZLTzZXeVVWLUowTXR4bkUxdFBtVmU1dkVCMzB1bWs3ZkFPZjZJRGlkS3dIRUJkek9Nc242UE1IcU5JbG44UUp2a09ia1pkaS1JX2R2NFBkZzlCQzg2Ml9ZTHIzXzJlVzhITWNmcllnTnFiQnRxcEhIeUHSAfgBQVVfeXFMT2w4RTRMNlhwVFV4a09wVXh4V1pCU3BYYUg0SE81QmtIcDdzX0s2RjFSV2VtRHFrR2JLWWJEOEJnYUZPR0ZCZEF4am90ZlRTOVNsb095S3VVVDJWRFQ4MmJmSkoyVWZ4dE1Udm16bmVfRnR4Z3czSEY5aFVLRGJuUlRkNFR6YUVsNDNMazh3WGtnRk9GZUdDWTZqNE1BS3BGQlRhd1gzQjhFS1dPOER0TUo5cVBCT0VRLUJaT0xJWUUtZGlpaU1iOW5FcF9Cd3JQNEF1ZDNLV1VEdHczQzNsc0lEUm02Ums4Tjhic1F5ci1sZHpzS0VHUmQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 27 May 2026 16:36:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYkdWTUI3Vzg4Xzh3SFN2dHZXTTRKdTJDeXYzX2x2cUZZMGtELXpwc2p1QVdXOERsTDkwT3A3VkF4bmFPc0t4eUcweUNLMHNlWlMzRnFuTXlEYW16Z0hVeFdGRGFLZHB4WkZ0SC16U01GR0FHY01ZYzdVMUIycHlad0tqZlYwYlBMaGM2aktIMTFGZEhUTHN3ZFpHNlI2a0RFQXh1U0NvbE16TVktY2xZczNZMGJLQ2lNcm"
+      "published": "Wed, 27 May 2026 20:08:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX05OMUw5c0c4YkFVRHVteE1Qakt0ZTlnMEg5Z05OdkVIcklDZ0xfTzNnMVlndDF1ODdaLWQxWHFRMTNBbURtdTBWSWlQcFNjS3lBMndYaFp0Nzh3UDg5OEtTRjQzT1FVWmZsUjZLTzZXeVVWLUowTXR4bkUxdFBtVmU1dkVCMzB1bWs3ZkFPZjZJRGlkS3dIRUJkek9Nc242UE1IcU5JbG44UUp2a09ia1pkaS1JX2R2NF"
     },
     {
       "title": "HP México fortalece alianza con canales y mayoristas rumbo a 2026 - ITSitio",
@@ -67,6 +67,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjI5YmxPQkJNejh4eWw2NVVSTlRBcnB4UEI4TDA3UjMwSHpwUlBvc25yQzhXZV91LTE0NlRPVnZZZlk3QjV4OXpBbGhwSWNhd19YWHpfajI1WmRRU2NvelBhc05hdXhlWU1pSUVOeVJqX2hORmw3OU85WDdaakJ2U1JIcUozZmIxVE03OVUtQzBrZ2lBMGxOc2FmRjlNd1ZGYXhvT21FV2pndXJXOHRv?oc=5\" target="
     },
     {
+      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 13 May 2026 03:47:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
+    },
+    {
       "title": "Natalia Salcedo, la colombiana detrás de una startup de IA para talleres mecánicos - Revista C-Level",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5",
       "source": "Google News",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Wed, 01 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
-    },
-    {
-      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
