@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Anthropic recauda 65,000 mdd y alcanza un valor de 965,000 mdd",
+      "url": "https://expansion.mx/tecnologia/2026/05/28/anthropic-recauda-65-000-mdd-y-alcanza-un-valor-de-965-000-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 28 May 2026 20:00:17 GMT",
+      "summary": "El creador del chatbot Claude ahora vale más que su competidor directo, OpenAI, que alcanzó una valoración de 825,000 millones de dólares."
+    },
+    {
+      "title": "Europa castiga a Temu con multa millonaria por venta de productos ilegales",
+      "url": "https://expansion.mx/tecnologia/2026/05/28/europa-contra-temu-multa-vender-productos-ilegales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 28 May 2026 19:11:18 GMT",
+      "summary": "Las autoridades europeas implementaron una serie de ejercicios con el objetivo de determinar qué prácticas no eran legales por parte del gigante de comercio chino."
+    },
+    {
       "title": "El tráfico desde asistentes de IA hacia tiendas de moda creció 396%",
       "url": "https://expansion.mx/tecnologia/2026/05/28/chatgpt-gemini-cambian-completo-forma-de-comprar-ropa",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Wed, 27 May 2026 21:00:13 GMT",
       "summary": "Aunque mantiene que la IA transformará profundamente el trabajo, ahora considera que las personas siguen valorando la interacción humana."
-    },
-    {
-      "title": "Ericsson destaca el auge de la IA como oportunidad hacia redes avanzadas y seguras",
-      "url": "https://expansion.mx/tecnologia/2026/05/27/ericsson-auge-de-la-ia-redes-mas-avanzadas-y-seguras",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 27 May 2026 20:30:46 GMT",
-      "summary": "El crecimiento de la inteligencia artificial está impulsando la necesidad de redes 5G y 6G más avanzadas, mientras los altos costos del espectro frenan la expansión tecnológica en México."
-    },
-    {
-      "title": "VigIA: la IA que rastrea a depredadores sexuales en tiempo real",
-      "url": "https://expansion.mx/tecnologia/2026/05/27/vigia-herramienta-contra-depredadores-sexuales",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 27 May 2026 18:00:23 GMT",
-      "summary": "La herramienta monitorea dispositivos en tiempo real, es gratuita y ya está disponible. Lo que no puede hacer, también importa."
     },
     {
       "title": "México llama a Iberoamérica a liderar la economía de datos e Inteligencia Artificial - Infobae",
