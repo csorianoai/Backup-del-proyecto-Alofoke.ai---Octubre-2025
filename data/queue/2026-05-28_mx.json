@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-28",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "El tráfico desde asistentes de IA hacia tiendas de moda creció 396%",
+      "url": "https://expansion.mx/tecnologia/2026/05/28/chatgpt-gemini-cambian-completo-forma-de-comprar-ropa",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 28 May 2026 11:55:52 GMT",
+      "summary": "Tiendanube y Pinterest detectan que consumidores delegan búsquedas y decisiones de compra a plataformas conversacionales y de descubrimiento visual."
+    },
+    {
+      "title": "Meta lanza plan de suscripción para acceder a su IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/meta-lanza-plan-de-suscripcion-para-acceder-a-su-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 22:45:20 GMT",
+      "summary": "La empresa dio a conocer Meta One, un servicio para acceder a mejores versiones de sus modelos de Inteligencia Artificial."
+    },
+    {
+      "title": "Sam Altman, de OpenAI, se retracta del “apocalipsis laboral” por IA",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/sam-altman-de-openai-se-retracta-del-apocalipsis-laboral-por-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 21:00:13 GMT",
+      "summary": "Aunque mantiene que la IA transformará profundamente el trabajo, ahora considera que las personas siguen valorando la interacción humana."
+    },
+    {
+      "title": "Ericsson destaca el auge de la IA como oportunidad hacia redes avanzadas y seguras",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/ericsson-auge-de-la-ia-redes-mas-avanzadas-y-seguras",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 20:30:46 GMT",
+      "summary": "El crecimiento de la inteligencia artificial está impulsando la necesidad de redes 5G y 6G más avanzadas, mientras los altos costos del espectro frenan la expansión tecnológica en México."
+    },
+    {
+      "title": "VigIA: la IA que rastrea a depredadores sexuales en tiempo real",
+      "url": "https://expansion.mx/tecnologia/2026/05/27/vigia-herramienta-contra-depredadores-sexuales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 27 May 2026 18:00:23 GMT",
+      "summary": "La herramienta monitorea dispositivos en tiempo real, es gratuita y ya está disponible. Lo que no puede hacer, también importa."
+    },
+    {
+      "title": "México llama a Iberoamérica a liderar la economía de datos e Inteligencia Artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVJ4dFE4c1ktSkVkWHMza0pMUllEa0o3aDdVMm1hYm5HTHNVcmc3R2FkbVFCQU85TUpWZm1zZklDOWtLSGVkOTJ3UkhVNHlrdTNhZUxIN3ZTYjh6d2NEU2VxaTVGVThnWnV6RmNONDEtMWpvWVdLdHM4VHJtZENwaTRSR0Y1bEZ1UTdBTm5YbmwyTG0zNVZ6dDB2MmpubFc3Zk03YjJ4am5DMkw0WV9sYVl0MWd2aU1MYVlrVVRuX0tLZ3NacXh2aG9CUWNuVHVCX2Rn0gHuAUFVX3lxTE80ZDFlYzNTeEd5SW1xaHAteFRqQ0VRNU40Nmt4X2t4S1BGY1psaDd1WDcxdC1mVXkyeVJkZVZmeENTYjhLSmVnOVhsZjdlV1I0b3BhcTU4aW5uVjdHU1VsVHhURFVjaXRiTXd3ek9fcGZReS11Wm9uazU3UGZOWWtVQnNtamlzQ21pVzA5N3V1dEluTERLNC1PZnNsc0FlM3B0ODc2RXdZTWdwMU4wbkxBTDNvZWVOWjVDVmlVX2p4RWFBY2RUdVhmLVczcW02blI1LWE4RjV0a3BOZVhvS19ySDlzUW1LT0Z2cDhuWEE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 28 May 2026 01:03:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVJ4dFE4c1ktSkVkWHMza0pMUllEa0o3aDdVMm1hYm5HTHNVcmc3R2FkbVFCQU85TUpWZm1zZklDOWtLSGVkOTJ3UkhVNHlrdTNhZUxIN3ZTYjh6d2NEU2VxaTVGVThnWnV6RmNONDEtMWpvWVdLdHM4VHJtZENwaTRSR0Y1bEZ1UTdBTm5YbmwyTG0zNVZ6dDB2MmpubFc3Zk03YjJ4am5DMkw0WV9sYVl0MWd2aU1MYV"
+    },
+    {
+      "title": "Dell apuesta por AI Factory y venta indirecta para crecer en México - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUdjbnN5NWpQNVAzbkIxemhVb0FIVVgycGJicFBlVEhNQkpaZFZJQnJ5c3hNR3hBRGFicjkzZ0EzRTJEaFJTZXItWlJpOWF5bzQzeHZldFRSTl9US09UaHlWdUVNSWpQRWJiZ1lvb2EtY1BDZG9oOW1IVGlRSUFpSVA4ZDZuQS1FVmpQMmkxZXlSeWF0TFAwTGIzbGVWa0ctTF9oaEdGQ0MzanpH?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 28 May 2026 17:16:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOLUdjbnN5NWpQNVAzbkIxemhVb0FIVVgycGJicFBlVEhNQkpaZFZJQnJ5c3hNR3hBRGFicjkzZ0EzRTJEaFJTZXItWlJpOWF5bzQzeHZldFRSTl9US09UaHlWdUVNSWpQRWJiZ1lvb2EtY1BDZG9oOW1IVGlRSUFpSVA4ZDZuQS1FVmpQMmkxZXlSeWF0TFAwTGIzbGVWa0ctTF9oaEdGQ0MzanpH?oc=5\" target=\"_bl"
+    },
+    {
+      "title": "Microsoft cumple 40 años en México impulsando la transformación digital y el crecimiento con IA - Microsoft Source",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWW9LMnZ6MWNhS09YeDRPX1NSTGhJQk5jOEdyb0tnR3RkV2RtdWZsTUo5dy1PMmkzUnphd1RiMDhQV3JIZFN2TTBEWlVVNEhZblp1bzVNUVZOTm9TMWdQalZ6SmR4eUlvcDN2Q25Ca0J0Q3c1RUV6eTBZTWNnN3ctTmRjaXRHU0kzV29kU1U0XzMtdTJZYjkwNEI3MHNSVTIzMGdyeHpSWl9DbmE2RlFEbTVvYjgyb2pVb0lmQUdJSjhlRldrZDNzbFo3czV3elAydEZZRnFTX05tZVVwR2U0UHpsNTE0S01fQ3J5QkZXQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 27 May 2026 16:18:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWW9LMnZ6MWNhS09YeDRPX1NSTGhJQk5jOEdyb0tnR3RkV2RtdWZsTUo5dy1PMmkzUnphd1RiMDhQV3JIZFN2TTBEWlVVNEhZblp1bzVNUVZOTm9TMWdQalZ6SmR4eUlvcDN2Q25Ca0J0Q3c1RUV6eTBZTWNnN3ctTmRjaXRHU0kzV29kU1U0XzMtdTJZYjkwNEI3MHNSVTIzMGdyeHpSWl9DbmE2RlFEbTVvYjgyb2pVb0"
+    },
+    {
+      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 13 May 2026 03:47:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
+    },
+    {
+      "title": "Natalia Salcedo, la colombiana detrás de una startup de IA para talleres mecánicos - Revista C-Level",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 12 May 2026 13:36:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5\" target=\"_bla"
+    },
+    {
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "América Latina encabeza el uso de la IA en la educación superior - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5\" target=\"_blank\">América Latina encabeza el uso de la IA"
+    },
+    {
+      "title": "Michael Fung: “Solemos sobreestimar el impacto de la tecnología en el corto plazo y subestimarlo en el largo plazo” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdlBkaDZsVkM0cklwS2pLb2U2WFJmVUFiUFlrM2N4VW1uRkpKTjJLR200UTBzelBzZTZDTUVhb9IBigJBVV95cUxNaGwyelBKLVp6LU5Vc3JSM1ktVFhtQm55WVNic1hhNkJYTTY2ZXdEcnk0SlFVTk5pZHgwbWJMR2VESDY2QjVsWUF3WWVYV1FIYnF2MjhKMFFiNkRoMXNLMFR0UXpmbElQamVzV2UtYjRkeUo0NG1rdHdWLUs0WGZDdVROb3RLTUNzX2w0QzBjZDNxbi1VS3BrdVVFVmV2S29YODh0VzNxc2Nfc1MyNUctQTc5YkR2NEtsNS1JakxteUk4WF9MbXlZT2gtR0FzSnNUZllGM0pwZXFiQW9nMV8tLVdDLVBrX3dwLXQ2NkZyWGNCUlVrM1V3U3dOSVJydXVoMTN2bjNlTk80Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWFJQUjV6VFNBYmFsY1R4Q2dhZUgwRDZacmJCTmRVSnN4VEdKRmpoR3pabWNhb0U1anVFUWhHX3dUMHc4UkVkWkVzbk5qZDZJb3pXMVJyQXMwdW5Bc2k3RTlmamszdEJTZ3Z3TXlLS1RfRWxGcUhjSzk1Zy1XeEt3c3FSbDZWQjZGTlNjMmtUOE5yRUZybTB1LVIzMU1CYXEtVTMwZHFnMnQ2Z3RPRlhCLUM1REVmM3hxdl"
+    }
+  ],
+  "count": 14
+}
