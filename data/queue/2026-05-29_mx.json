@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "19,000 gamers validan el éxito de la Champions League fuera de la cancha",
-      "url": "https://expansion.mx/tecnologia/2026/05/29/champions-league-se-juega-fuera-cancha-playstation",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 29 May 2026 18:31:20 GMT",
-      "summary": "La batalla por la atención se gana tras el minuto 90. PlayStation conecta la emoción del estadio con el entorno interactivo, logrando que 16 países compitan en su torneo regional."
-    },
-    {
       "title": "El Mundial 2026 impulsa la venta de pantallas premium en México",
       "url": "https://expansion.mx/tecnologia/2026/05/29/marcas-de-pantallas-gigantes-viven-boom-mundial-2026",
       "source": "Expansión Tecnología",
@@ -43,6 +35,14 @@
       "summary": "El creador del chatbot Claude ahora vale más que su competidor directo, OpenAI, que alcanzó una valoración de 825,000 millones de dólares."
     },
     {
+      "title": "Europa castiga a Temu con multa millonaria por venta de productos ilegales",
+      "url": "https://expansion.mx/tecnologia/2026/05/28/europa-contra-temu-multa-vender-productos-ilegales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 28 May 2026 19:11:18 GMT",
+      "summary": "Las autoridades europeas implementaron una serie de ejercicios con el objetivo de determinar qué prácticas no eran legales por parte del gigante de comercio chino."
+    },
+    {
       "title": "Inteligencia artificial: clave en el TMEC, pero ausente en las prioridades estratégicas de México - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZjgtRWxmVk5JX180NTRCalI5bG1TY0Rsaks2NnFHcDd3X2E4ZHBFVnpPM2tOZ09tZ0pUcEEyUzRjRFJuNzJCdXhGWEZXcFRHbVN4cEIxOXI2WHh0cUhnMHY4bWN2anJGSlF5b2tkSFRJa0tycXA4aW5ycFR3TG16ZF92TXB6Njc5aXRqVUlzcGJZazZ5bHVFUXMzcUkzZUVHZVh5blJrOG1vZm1NcEJ4S1hCdE1IT2pHdW83eFVrREVtdk5aQnlaTDRxTUg1c1VGUEpjOWgwTExaV0dYaUHSAfIBQVVfeXFMTmJEYjJpc1hVVk5NYTFQdFNIM3AzT1RkOFg3dW5tdUtNcGFSbDllZjFsWENBMGRhYVZRenlKSDRoa1JyTDVyajNFUnc2aWZwa0xNM1JjeC1ycjhmNG0wQWFVM0w1TGFKSGR3elVieW4tdXVDZ0pQOUxEdWlNVUtzdmpsem0tdzVPeFdwcWdVcFZZdElfaWlLdDdSa05vTUpQdWNnUlJfTUJFaHNsMERhX21UX0locnRzc2FURGxiTlZGdC1CZlBXVXRmMkFtcDZHUjcwNGxXZTBiNGhSbDZpcjRQeVZseUcxU21FN0p1R21VMnc?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZjgtRWxmVk5JX180NTRCalI5bG1TY0Rsaks2NnFHcDd3X2E4ZHBFVnpPM2tOZ09tZ0pUcEEyUzRjRFJuNzJCdXhGWEZXcFRHbVN4cEIxOXI2WHh0cUhnMHY4bWN2anJGSlF5b2tkSFRJa0tycXA4aW5ycFR3TG16ZF92TXB6Njc5aXRqVUlzcGJZazZ5bHVFUXMzcUkzZUVHZVh5blJrOG1vZm1NcEJ4S1hCdE1IT2pHdW"
     },
     {
+      "title": "Keybe.ai cierra con BYD México: 110 agencias con IA - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbi1VaG5QSFJCaE1MdlBPUmFCOEtKNUhMejhKMXlROUczbWxLZWZfOHdyV01udVFESzFKX3hGdWRsMlRqc0ZraUFqVFFKSXhpT3lYZkNDN0ZhYjE3Q1Y2SFZLYXYyT0w1dnNnVGZ2SkpMUnZKdkRXNm1YM3ZRazUzTXpnMEs4eVl2?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 29 May 2026 20:34:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbi1VaG5QSFJCaE1MdlBPUmFCOEtKNUhMejhKMXlROUczbWxLZWZfOHdyV01udVFESzFKX3hGdWRsMlRqc0ZraUFqVFFKSXhpT3lYZkNDN0ZhYjE3Q1Y2SFZLYXYyT0w1dnNnVGZ2SkpMUnZKdkRXNm1YM3ZRazUzTXpnMEs4eVl2?oc=5\" target=\"_blank\">Keybe.ai cierra con BYD México: 110 agencia"
+    },
+    {
       "title": "México llama a Iberoamérica a liderar la economía de datos e Inteligencia Artificial - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVJ4dFE4c1ktSkVkWHMza0pMUllEa0o3aDdVMm1hYm5HTHNVcmc3R2FkbVFCQU85TUpWZm1zZklDOWtLSGVkOTJ3UkhVNHlrdTNhZUxIN3ZTYjh6d2NEU2VxaTVGVThnWnV6RmNONDEtMWpvWVdLdHM4VHJtZENwaTRSR0Y1bEZ1UTdBTm5YbmwyTG0zNVZ6dDB2MmpubFc3Zk03YjJ4am5DMkw0WV9sYVl0MWd2aU1MYVlrVVRuX0tLZ3NacXh2aG9CUWNuVHVCX2Rn0gHuAUFVX3lxTE80ZDFlYzNTeEd5SW1xaHAteFRqQ0VRNU40Nmt4X2t4S1BGY1psaDd1WDcxdC1mVXkyeVJkZVZmeENTYjhLSmVnOVhsZjdlV1I0b3BhcTU4aW5uVjdHU1VsVHhURFVjaXRiTXd3ek9fcGZReS11Wm9uazU3UGZOWWtVQnNtamlzQ21pVzA5N3V1dEluTERLNC1PZnNsc0FlM3B0ODc2RXdZTWdwMU4wbkxBTDNvZWVOWjVDVmlVX2p4RWFBY2RUdVhmLVczcW02blI1LWE4RjV0a3BOZVhvS19ySDlzUW1LT0Z2cDhuWEE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 28 May 2026 02:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVJ4dFE4c1ktSkVkWHMza0pMUllEa0o3aDdVMm1hYm5HTHNVcmc3R2FkbVFCQU85TUpWZm1zZklDOWtLSGVkOTJ3UkhVNHlrdTNhZUxIN3ZTYjh6d2NEU2VxaTVGVThnWnV6RmNONDEtMWpvWVdLdHM4VHJtZENwaTRSR0Y1bEZ1UTdBTm5YbmwyTG0zNVZ6dDB2MmpubFc3Zk03YjJ4am5DMkw0WV9sYVl0MWd2aU1MYV"
-    },
-    {
-      "title": "Microsoft cumple 40 años en México impulsando la transformación digital y el crecimiento con IA - Microsoft Source",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWW9LMnZ6MWNhS09YeDRPX1NSTGhJQk5jOEdyb0tnR3RkV2RtdWZsTUo5dy1PMmkzUnphd1RiMDhQV3JIZFN2TTBEWlVVNEhZblp1bzVNUVZOTm9TMWdQalZ6SmR4eUlvcDN2Q25Ca0J0Q3c1RUV6eTBZTWNnN3ctTmRjaXRHU0kzV29kU1U0XzMtdTJZYjkwNEI3MHNSVTIzMGdyeHpSWl9DbmE2RlFEbTVvYjgyb2pVb0lmQUdJSjhlRldrZDNzbFo3czV3elAydEZZRnFTX05tZVVwR2U0UHpsNTE0S01fQ3J5QkZXQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 27 May 2026 16:18:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWW9LMnZ6MWNhS09YeDRPX1NSTGhJQk5jOEdyb0tnR3RkV2RtdWZsTUo5dy1PMmkzUnphd1RiMDhQV3JIZFN2TTBEWlVVNEhZblp1bzVNUVZOTm9TMWdQalZ6SmR4eUlvcDN2Q25Ca0J0Q3c1RUV6eTBZTWNnN3ctTmRjaXRHU0kzV29kU1U0XzMtdTJZYjkwNEI3MHNSVTIzMGdyeHpSWl9DbmE2RlFEbTVvYjgyb2pVb0"
     },
     {
       "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
