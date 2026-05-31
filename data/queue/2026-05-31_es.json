@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "Resultados de las elecciones en Colombia 2026, en vivo | Abelardo de la Espriella e Iván Cepeda se disputarán la Presidencia de Colombia en una segunda vuelta",
+      "url": "https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-31/resultados-de-las-elecciones-colombia-2026-en-vivo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 31 May 2026 22:56:35 GMT",
+      "summary": "El candidato de la ultraderecha y el de la izquierda obtienen más del 40% de los votos cada uno | Paloma Valencia les sigue muy por detrás, con poco más del 6,5% | Sergio Fajardo y Claudia López ocupan el cuarto y quinto puesto"
+    },
+    {
+      "title": "La derecha colombiana se vuelca con el ultra Abelardo de la Espriella y da la espalda a Álvaro Uribe",
+      "url": "https://elpais.com/america-colombia/elecciones-presidenciales/2026-05-31/la-derecha-colombiana-se-vuelca-con-el-ultra-abelardo-de-la-espriella-y-da-la-espalda-a-alvaro-uribe.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 31 May 2026 22:47:41 GMT",
+      "summary": "El penalista logra robarse buena parte de la opinión que fue fiel durante dos décadas con el expresidente Álvaro Uribe"
+    },
+    {
       "title": "Sánchez pide tiempo frente a la oposición “marrullera” que quiere “derribar” al Gobierno con “malas artes”",
       "url": "https://elpais.com/espana/2026-05-31/sanchez-cierra-el-congreso-de-las-juventudes-socialistas-en-madrid.html",
       "source": "El País Tecnología",
@@ -19,36 +35,12 @@
       "summary": "El trabajo de mediación del expresidente con el chavismo y la oposición ha sido una labor de alto riesgo que él defiende por la cantidad de presos políticos que ha logrado liberar"
     },
     {
-      "title": "Leire Díez, la ‘fontanera’ judoka y su llave fallida",
-      "url": "https://elpais.com/espana/2026-05-31/la-fontanera-judoka-y-su-llave-fallida.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 31 May 2026 03:30:01 GMT",
-      "summary": "“Soy una bocazas. Me he llamado a mí misma bocazas un millón de veces” dice a EL PAÍS Díez, recogida en Portugalete, donde vive entre semana"
-    },
-    {
-      "title": "Cargos del PSOE reflexionan sobre las recetas para salir de la crisis: “Sin partido no hay Gobierno y sin alcaldes no hay partido”",
-      "url": "https://elpais.com/espana/2026-05-31/cargos-del-psoe-reflexionan-sobre-las-recetas-para-salir-de-la-crisis-sin-partido-no-hay-gobierno-y-sin-alcaldes-no-hay-partido.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 31 May 2026 03:30:01 GMT",
-      "summary": "Nadie quiere que haya elecciones de inmediato, pero se extiende la idea entre los socialistas de un anticipo para el otoño"
-    },
-    {
       "title": "Israel expande su control militar en Líbano y ocupa el histórico castillo de Beaufort",
       "url": "https://elpais.com/internacional/2026-05-31/israel-se-hace-con-el-historico-castillo-de-beaufort-en-su-avance-sobre-la-ocupacion-del-sur-de-libano.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 31 May 2026 17:46:55 GMT",
+      "published": "Sun, 31 May 2026 19:46:07 GMT",
       "summary": "Las tropas israelíes se acercan a la ciudad de Nabatie y amplían la “zona de seguridad” donde imponen la salida de civiles"
-    },
-    {
-      "title": "¿Qué gana geopolíticamente la Unión Europea regulando la Inteligencia Artificial? - Escudo Digital",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdTcndVRmNmcnV1THRuNXZwUXZXSWw4dzVBSHN3T04zZGQ0aWZBal94UnVHLXpHNTdmaVVMc2dHWHVXczdzWlZNQ0ZnXzYwQ2w4UGdZSndkMC00WW9TVnJ6Y1U1OUFtNTlyeUVMNWM5Wjh1WU9TTEJFMTlSN2ZSRjBwRTBkcURPaklvZE56MnJKS0hBUkQ3VkVGM0xJR1lyVkZRWVhaNnRjMHJGQzZ4WHhCc05hU3BkQ29zdlFRYlExazczRnhlNkk4eVlmMHlvV0xQODFR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 31 May 2026 05:00:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdTcndVRmNmcnV1THRuNXZwUXZXSWw4dzVBSHN3T04zZGQ0aWZBal94UnVHLXpHNTdmaVVMc2dHWHVXczdzWlZNQ0ZnXzYwQ2w4UGdZSndkMC00WW9TVnJ6Y1U1OUFtNTlyeUVMNWM5Wjh1WU9TTEJFMTlSN2ZSRjBwRTBkcURPaklvZE56MnJKS0hBUkQ3VkVGM0xJR1lyVkZRWVhaNnRjMHJGQzZ4WHhCc05hU3BkQ2"
     },
     {
       "title": "El Gobierno regula la inteligencia artificial para asegurar un uso confiable, ético y garantista - La Moncloa",
@@ -57,6 +49,14 @@
       "category": "news",
       "published": "Tue, 26 May 2026 15:46:27 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFQxNUhrWi1Bbk1UY3YxcnhQYXgxNHRWVnktbzFkS2xwUlpGalJ3b3U3bTdIOEhBZkRYLWRfQ3JOYkZLY1dGUnBrRmRlaFRSSUlabmhFMXltNFdld0tfWmdTYTJKVXpjRkVEYXdaNF8ycnRqX1NjQ1NCRUVFQkZHRmNiLXJIQkZxYjMwa25EN1BGaUhxcW5mWW1hSDZwZXQ1QXJXWjlhS20?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "¿Qué gana geopolíticamente la Unión Europea regulando la Inteligencia Artificial? - Escudo Digital",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdTcndVRmNmcnV1THRuNXZwUXZXSWw4dzVBSHN3T04zZGQ0aWZBal94UnVHLXpHNTdmaVVMc2dHWHVXczdzWlZNQ0ZnXzYwQ2w4UGdZSndkMC00WW9TVnJ6Y1U1OUFtNTlyeUVMNWM5Wjh1WU9TTEJFMTlSN2ZSRjBwRTBkcURPaklvZE56MnJKS0hBUkQ3VkVGM0xJR1lyVkZRWVhaNnRjMHJGQzZ4WHhCc05hU3BkQ29zdlFRYlExazczRnhlNkk4eVlmMHlvV0xQODFR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 31 May 2026 05:00:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdTcndVRmNmcnV1THRuNXZwUXZXSWw4dzVBSHN3T04zZGQ0aWZBal94UnVHLXpHNTdmaVVMc2dHWHVXczdzWlZNQ0ZnXzYwQ2w4UGdZSndkMC00WW9TVnJ6Y1U1OUFtNTlyeUVMNWM5Wjh1WU9TTEJFMTlSN2ZSRjBwRTBkcURPaklvZE56MnJKS0hBUkQ3VkVGM0xJR1lyVkZRWVhaNnRjMHJGQzZ4WHhCc05hU3BkQ2"
     },
     {
       "title": "La paradoja de León XIV: el papa es el gran azote de la IA pero un corto hecho con ella anuncia su visita a España - Diario Público",
@@ -99,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "GLOBSEC 2026: 2 caminos para startups tech europeas - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTlTRlY3RkktZUNiaXJ1TjhlS05ER0ktNEx3VEt5cjVRNUliOWg2d0M0N0tfV2hUNVVsV2luZTB4Vmw4d25ickRTbE1TdUloaWgxd3h3X2ZLQjFoUUFSOHZxamZGUUR5UFFibXF5RldrbTlXLUg3UzlKTXJKUFl5cmJxclZfU2Y4?oc=5",
+      "title": "China Bohai Sea Monster: 4 motores y tecnología dual para founders - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTdHN09LTk9WSXNUcVV6WVNhREp5N3pPa3M4QzYwaTAtZXpJUjJPczhZTWFvaThHSUlab0VOOXdJV1VLTmJFUjdLeWxfWGpuZ1FtQV9sVWNmSEVtYWZDNlRrTzFrT1dmSnNKVUVXM1lOVkpKcmpsb0hiVWVDWXhvcC1WLWNCb0hPTTRacWdpMHRzREk0UEtJV1R5dlg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 29 May 2026 10:54:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTlTRlY3RkktZUNiaXJ1TjhlS05ER0ktNEx3VEt5cjVRNUliOWg2d0M0N0tfV2hUNVVsV2luZTB4Vmw4d25ickRTbE1TdUloaWgxd3h3X2ZLQjFoUUFSOHZxamZGUUR5UFFibXF5RldrbTlXLUg3UzlKTXJKUFl5cmJxclZfU2Y4?oc=5\" target=\"_blank\">GLOBSEC 2026: 2 caminos para startups tech "
+      "published": "Sun, 31 May 2026 15:47:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTdHN09LTk9WSXNUcVV6WVNhREp5N3pPa3M4QzYwaTAtZXpJUjJPczhZTWFvaThHSUlab0VOOXdJV1VLTmJFUjdLeWxfWGpuZ1FtQV9sVWNmSEVtYWZDNlRrTzFrT1dmSnNKVUVXM1lOVkpKcmpsb0hiVWVDWXhvcC1WLWNCb0hPTTRacWdpMHRzREk0UEtJV1R5dlg?oc=5\" target=\"_blank\">China Bohai Sea "
     },
     {
       "title": "Andalucía lidera el crecimiento tecnológico en España y es la única comunidad del top 5 que aumenta la creación de startups - El Economista",
