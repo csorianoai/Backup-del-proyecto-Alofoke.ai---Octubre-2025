@@ -43,14 +43,6 @@
       "summary": "Una nueva pastilla para la apnea del sueño mostró resultados prometedores en su fase 3: estos fueron los resultados del ensayo clínico de este fármaco, que podría aprobarse en 2027."
     },
     {
-      "title": "15 años en Chile: construyendo el futuro digital del país - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TVE5HcjYza0lxQUVDMEphcEt2NGNkT05zN3RpdFBRTHdRcnNuQTF4ejdIT09ORVlxN3JXSllQWGU1M0FsaTBaNmN6MWtGVnNUUVA5TllfNW5IUFZWNFJ3eXVoUU8tanNfbDJNQWE0a3Z4TlNMLVo1NTdQNGQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 27 May 2026 18:05:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5TVE5HcjYza0lxQUVDMEphcEt2NGNkT05zN3RpdFBRTHdRcnNuQTF4ejdIT09ORVlxN3JXSllQWGU1M0FsaTBaNmN6MWtGVnNUUVA5TllfNW5IUFZWNFJ3eXVoUU8tanNfbDJNQWE0a3Z4TlNMLVo1NTdQNGQ?oc=5\" target=\"_blank\">15 años en Chile: construyendo el futuro digital del país</a"
-    },
-    {
       "title": "Magníficos - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93aHRKd2xVTmF4NzE1WFU1ZlNvMXpTMGM1M01jSVZLeWo0R2hyRU1uemJMeDg0Uk9tRkROZW5RRmhIUG85b0NZUm5jR09DMWVkSjNpc0lBdEU0ek1QeERBZNIBdEFVX3lxTFA0elN5dHBrVkY0WFVmVG8xc3hjYVJDam5ZUGViNDMyU3N3UHpFSTVERlV3XzVFZHdBbXdtZ2k1ZE5lTzhFVEhmUC1EMDBEUER1eVJra1hrOUt1Ukh2cEYyOUxKRGEwUWNlR0tSSVIxd0ZvSmRN?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Sat, 30 May 2026 19:58:50 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0RpSzZTLTVNVVV0N3RreUhaZzVOMDVwTUtfMFVmMGs0NGRCcVl2a25kb0RMaGZFNDBZWXhEV3ZtWGE5Y01JbW53NndiRjlvNGQ1Z2Vnb3d2QWsyVFFiVFFSdzAyLVlFMk81Z2xpcEUwbllmMkJFMTJINk03ZmZDaW5GT1hHc2R6dnFGcHpXbHd1bnhGMC1BUG1yRzRGNjlRbXlUSTdRdElsOEhaQm96VTFSVTFidlZpMi"
+    },
+    {
+      "title": "Observatorio sobre Inteligencia Artificial en la Educación para América Latina y el Caribe - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTFaUVd1X1VlcWFGMXItdjNQZ0FtMC1HNXA0SzFlbFVnU3c2RlBaai1oX0EtazQtSWZFU1RYQjEtX3I4WWU5dmNyRVhvdC11MGRhdzB3SHhnWURJMVVxZWN4QXZNR0JXcndUVGVtUml4RlpxTVFZTWRsNkNvNi04RFByTnNQVmFPNkxUeFp6QzY2UzNaeHgwUDRuNFpkTmd0ZzN4VXh2QUhjbWxpWEJVWUxncFRkWDhqMFQxWWkxZElQQXc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTFaUVd1X1VlcWFGMXItdjNQZ0FtMC1HNXA0SzFlbFVnU3c2RlBaai1oX0EtazQtSWZFU1RYQjEtX3I4WWU5dmNyRVhvdC11MGRhdzB3SHhnWURJMVVxZWN4QXZNR0JXcndUVGVtUml4RlpxTVFZTWRsNkNvNi04RFByTnNQVmFPNkxUeFp6QzY2UzNaeHgwUDRuNFpkTmd0ZzN4VXh2QUhjbWxpWEJVWUxncFRkWDhqMF"
     },
     {
       "title": "La IA no es la transformación, es el medio para complejizar - LaRepublica.co",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTV83NExrNUxUZFpRMk9IZnlUa0RoMnRFbklLQ1JmcVdOTlJyc2l3bTVBcExobUl5OC1YaFFQU3VHb2dXdkR3U2ozeWt6MGZKMDlTQ1kwd3dQNnVKZGRfdFN5TXM4V1d5c0IzWVVpajhBYlg0SDdDdHFIcjJlQnpVTVpIM0k0a1YtUURXWnVNQlVaSzM4TEx4dDJ2QWQ3TXdmNWh4WTl2dmw5NkpJR1Z3NGp5UVdJRkI4MG"
     },
     {
-      "title": "StartupLabs Corfo: 17 startups ya operan en Santiago - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQktQa2tpSC1hdDJYNEtFNU1SbFdoamJXZGJEVzdrcGJFR3RuYzV3elRDWmt4WjlCZGh4cE5zYm82NWhoOHBYZUR0a0R1YWY4dDRxTTFHX0ducW9kVl9odUhKaW00b3lmbFl3WnpmN1FyVVZyMzJmS3dkNlk3OEFCQlZoS2JCSjFRTHc?oc=5",
+      "title": "TACHI reduce 30% agua en 400 hectáreas con microalgas - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1RvRXFnT3h6VWpzVElIRXMwN0k1bUN3djhhU25FTVNEVVRyclpZTWJoM0UyZzk1OEN4a2VzR0JVTWx0Z1pyaEM3WGNDVlVWVnBBV3pHdUpFZmhqYXhrckFCWUN1NDRIcGhmQk8tTTRCUXRrX0ZmUUNLTXFVQm5IbFJQb2FMUFJuUTNV?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 01 Jun 2026 10:07:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQktQa2tpSC1hdDJYNEtFNU1SbFdoamJXZGJEVzdrcGJFR3RuYzV3elRDWmt4WjlCZGh4cE5zYm82NWhoOHBYZUR0a0R1YWY4dDRxTTFHX0ducW9kVl9odUhKaW00b3lmbFl3WnpmN1FyVVZyMzJmS3dkNlk3OEFCQlZoS2JCSjFRTHc?oc=5\" target=\"_blank\">StartupLabs Corfo: 17 startups ya operan"
+      "published": "Mon, 01 Jun 2026 19:48:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1RvRXFnT3h6VWpzVElIRXMwN0k1bUN3djhhU25FTVNEVVRyclpZTWJoM0UyZzk1OEN4a2VzR0JVTWx0Z1pyaEM3WGNDVlVWVnBBV3pHdUpFZmhqYXhrckFCWUN1NDRIcGhmQk8tTTRCUXRrX0ZmUUNLTXFVQm5IbFJQb2FMUFJuUTNV?oc=5\" target=\"_blank\">TACHI reduce 30% agua en 400 hectáreas "
     },
     {
-      "title": "Aurora Tech Award 2026: Chile recibe final mundial de startups tecnológicas lideradas por mujeres - BioBioChile",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHN2VVdRQktPVGJ6ZXRkLWowQkhLcm5fYVN4RkpvakxmZGRWTHZsYkpGSTAwX2xVNjk2ZThaeUtXc0FHSFBwTXdDVXJMY2FsdWdQa1JBQW5qR3FEMGFTTEI1RkRqSzB6ZjA2Z0lObDJMOWR6VllWR0pKRFVBemM2Tk9iYlFzRERWSUJUNmpyTkhWenFKTnlXMXJRb0JIWkMzbG1iUlJscktxNXUzQlE4NU9OSFZWUlR0bEs1WUJGTm5Bb1RkVUNMM0toR3BqM2RkeTV5SHNIRmo4WWNqV1NKZ0w0bUd6eEdwY281TkpkZk5jSWhHTFkzM1pLM1VKb1NkN1ozWW1FdFFabkdWTnpscTFyUQ?oc=5",
+      "title": "Startups chilenas presentan soluciones para descarbonizar el agro - reporteagricola.cl",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzdxM3I0R3c1OV8tTHlpTUNYbEpKYlplWHBxc2h4aDBrZ2lsNjJSdnVrblF3ajh0Rk1rSEkyUlhpOUFlNlZtX1h2Q2lWR1g4cVdZWWlyV25TNkIxeG5aZ291RHc3M0ZtRy1tV0l1R0RfM3NqRWhCSVlCeUktOHRfWUEwU1lDdlRaMlAycDI3NDZ6cEY5T2ZNaEFJU0paRWhtQ3ZTSlJsRDdOanpoUG1LUThNbw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 13 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQeHN2VVdRQktPVGJ6ZXRkLWowQkhLcm5fYVN4RkpvakxmZGRWTHZsYkpGSTAwX2xVNjk2ZThaeUtXc0FHSFBwTXdDVXJMY2FsdWdQa1JBQW5qR3FEMGFTTEI1RkRqSzB6ZjA2Z0lObDJMOWR6VllWR0pKRFVBemM2Tk9iYlFzRERWSUJUNmpyTkhWenFKTnlXMXJRb0JIWkMzbG1iUlJscktxNXUzQlE4NU9OSFZWUlR0bE"
+      "published": "Mon, 01 Jun 2026 13:53:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzdxM3I0R3c1OV8tTHlpTUNYbEpKYlplWHBxc2h4aDBrZ2lsNjJSdnVrblF3ajh0Rk1rSEkyUlhpOUFlNlZtX1h2Q2lWR1g4cVdZWWlyV25TNkIxeG5aZ291RHc3M0ZtRy1tV0l1R0RfM3NqRWhCSVlCeUktOHRfWUEwU1lDdlRaMlAycDI3NDZ6cEY5T2ZNaEFJU0paRWhtQ3ZTSlJsRDdOanpoUG1LUThNbw?oc=5\" t"
     }
   ],
   "count": 14
