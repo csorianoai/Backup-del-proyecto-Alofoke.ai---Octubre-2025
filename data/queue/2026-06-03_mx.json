@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "En el Mundial jugarán 1,248 avatares de IA, pero el futbol no perderá su esencia",
-      "url": "https://expansion.mx/tecnologia/2026/06/03/en-el-mundial-jugaran-1-248-avatares-de-ia-pero-el-futbol-no-perdera-su-esencia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 03 Jun 2026 20:15:04 GMT",
-      "summary": "La FIFA implementará herramientas digitales, como versiones digitales de todos los jugadores, cámaras más exactas y un asistente táctico de IA. Descubre cómo impactarán al deporte en esta Copa del Mundo  2026."
-    },
-    {
       "title": "Microsoft lanza siete modelos de IA propios y se aleja de OpenAI",
       "url": "https://expansion.mx/tecnologia/2026/06/03/microsoft-lanza-siete-modelos-propios-ia",
       "source": "Expansión Tecnología",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Wed, 03 Jun 2026 11:16:49 GMT",
       "summary": "En la revista Expansión hemos entrevistado a lo largo del año a varios directores generales para saber cómo viven el Mundial. A 8 días del inicio del torneo, calentamos motores con sus experiencias."
+    },
+    {
+      "title": "Hasta 70% de los ciberdelitos en México son fraudes; el Mundial eleva la alerta",
+      "url": "https://expansion.mx/tecnologia/2026/06/02/ciberdelitos-en-mexico-fraudes-el-mundial-eleva-la-alerta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 02 Jun 2026 23:33:20 GMT",
+      "summary": "Phishing, sitios falsos y robo de identidad amenazan a los aficionados que buscan boletos y viajes para el Mundial 2026. Profeco, Meta y Amazon refuerzan acciones de prevención."
     },
     {
       "title": "De guardianes del riesgo a socios del negocio: la IA que está transformando el trabajo legal en México - ITSitio",
@@ -83,15 +83,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJFSkduYnRxellsZEpBQlJ1RlBjRGo5MWh0U2ZfeFhHRnN2UWMzOU9PanFkSGdfZGlOenl4QjkzWXBoRmgxUVBRSGdhSkstQUFnYldiZ3pLYVBxcHNqR2pldF90dmk4cnpOUlY5U2tGX2JSdDVoVlQ3dGc4cmJSLTVqV0MxQUZfQ0d3WDVlNDhvaC1jMEhZRWphUV9TS0djc1QzeElNNGZXSG8?oc=5\" target=\"_bla"
     },
     {
-      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+      "published": "Wed, 13 May 2026 03:47:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - Unesco",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",
