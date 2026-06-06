@@ -3,14 +3,6 @@
   "country": "do",
   "articles": [
     {
-      "title": "Manual RD conecta con el debate global sobre la inteligencia artificial abierto por la encíclica del papa León XIV - El Nuevo Diario",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnlCd096MDZJQmVEdl9HWVZjQ25DZklHbGpyQXpzSUNZU21WeTNzQUgzRjBaZmVjcmZFSWZ3QTBIQklJMVRmejZ4a19uZ21BN09IT3RhTjh5VWpvUXlOS2w4bUs3VldnclMteVdhUUNMMFFCbER2bFJVb0F1Umx6djdzamJCaUZSVHI1eEZTbi1HaDhxSEp5akU0U1I2VzI0Wk9FdkNWMGhiZ2o3d0FGRXZuNGg0Vm50UV8xdG1ycERlMWpnX0FrcE9IWDhQaWJxZ0tpbjcyYktpeUNf?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 06 Jun 2026 12:26:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnlCd096MDZJQmVEdl9HWVZjQ25DZklHbGpyQXpzSUNZU21WeTNzQUgzRjBaZmVjcmZFSWZ3QTBIQklJMVRmejZ4a19uZ21BN09IT3RhTjh5VWpvUXlOS2w4bUs3VldnclMteVdhUUNMMFFCbER2bFJVb0F1Umx6djdzamJCaUZSVHI1eEZTbi1HaDhxSEp5akU0U1I2VzI0Wk9FdkNWMGhiZ2o3d0FGRXZuNGg0Vm50UV"
-    },
-    {
       "title": "República Dominicana transforma tu viaje con su nueva IA - Robb Report en Español",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVjVQdnNIek5KNmpPNmo0eWV2SC0wTFJkdGNWWTV6ajdiSmRFVnU3Wk5FVXBiYWtaZHdBQkhvS2xTdVZCWlExMTR2QWRybm9YNmJETHgwM04yRE1UbzhnVjlXeHQwWVY4UXp4QkVKWHFuYm1KNkxuTHRSTFdwUGpLVHdJRlpUVXZrSTIyZ1NVWXpEN3hyU2tEUGh2NFh0N19FSHBsRU9DekpEV1JXdy1XcjdlVlRKRm9qMFBRc29rYmV0RTdnZk9uMU02VjBockZfdUk2TUdib3hlN2pOM29N?oc=5",
       "source": "Google News",
@@ -25,6 +17,14 @@
       "category": "news",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
+    },
+    {
+      "title": "Manual RD conecta con el debate global sobre la inteligencia artificial abierto por la encíclica del papa León XIV - El Nuevo Diario",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnlCd096MDZJQmVEdl9HWVZjQ25DZklHbGpyQXpzSUNZU21WeTNzQUgzRjBaZmVjcmZFSWZ3QTBIQklJMVRmejZ4a19uZ21BN09IT3RhTjh5VWpvUXlOS2w4bUs3VldnclMteVdhUUNMMFFCbER2bFJVb0F1Umx6djdzamJCaUZSVHI1eEZTbi1HaDhxSEp5akU0U1I2VzI0Wk9FdkNWMGhiZ2o3d0FGRXZuNGg0Vm50UV8xdG1ycERlMWpnX0FrcE9IWDhQaWJxZ0tpbjcyYktpeUNf?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 06 Jun 2026 12:26:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnlCd096MDZJQmVEdl9HWVZjQ25DZklHbGpyQXpzSUNZU21WeTNzQUgzRjBaZmVjcmZFSWZ3QTBIQklJMVRmejZ4a19uZ21BN09IT3RhTjh5VWpvUXlOS2w4bUs3VldnclMteVdhUUNMMFFCbER2bFJVb0F1Umx6djdzamJCaUZSVHI1eEZTbi1HaDhxSEp5akU0U1I2VzI0Wk9FdkNWMGhiZ2o3d0FGRXZuNGg0Vm50UV"
     },
     {
       "title": "El ITLA gradúa a 642 nuevos profesionales en tecnología e innovación - Diario Libre",
@@ -67,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNRWN0TDM0VWs0N2FzbWQwdlBmaWV3YWpVSWhIZTd1Q2d5R0dnTVlwM256c1JqaTB4c0tjdjgxVW1rZGgzY0k2eDloSTJiNjlDMlo5RnZmTi05SXA5YUxjQ1JtZHBZaDVSbUQwNGRZVFlZamthUHoyVmFfeGJfUjJoZVBObGhCY3cxczQ4WWl3blpvZDJrT01PcTFhUUtYNDNnSHhzUjRBWFR6bzBXdUladktaRi1pTjZsVm"
     },
     {
-      "title": "Mujeres en la inteligencia artificial: construir en un sistema que aún no las incluye del todo. - Revista Mercado",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeHJlYUhMQWU5TFBKdnQzTFdmS1BOWUpfa2hNYXJpT2JSZTRoaXBBaURfXzc2Rl9oeG1qRGlVcmp6V0ZxVENpMDNETGtkc1NHSGlyeHBVbW55bTltRjBsckc5cFN1cjVHS290MHMtQk9xZ1ZfLVNFQlZTdDNldkxHTGpSbjhpOWlKckxGVy1sYk5DZGhlZTNrZm01RDhZZTFGelZGMkhYaU1SaTl0VzZzRUNHTUl6VmlSZFplMlZfR0RjUlBITy1TMldLS3d6RFk?oc=5",
+      "title": "Cómo la IA está cambiando las decisiones clínicas en la República Dominicana - Revista Mercado",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04SDlHazBxdGhBSVZjMFRMd3JZM1MwNzIwY2pBMjJXTTB1b29fT2JwMkhLcS1PX1BBU2RpMlJRdFIxaGd5Z2NFZVdFZDZzeFJHWTZrVDhkbDByek9sVjVhWDg5c2hoaXFEdlE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeHJlYUhMQWU5TFBKdnQzTFdmS1BOWUpfa2hNYXJpT2JSZTRoaXBBaURfXzc2Rl9oeG1qRGlVcmp6V0ZxVENpMDNETGtkc1NHSGlyeHBVbW55bTltRjBsckc5cFN1cjVHS290MHMtQk9xZ1ZfLVNFQlZTdDNldkxHTGpSbjhpOWlKckxGVy1sYk5DZGhlZTNrZm01RDhZZTFGelZGMkhYaU1SaTl0VzZzRUNHTUl6VmlSZF"
+      "published": "Wed, 03 Jun 2026 18:55:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE04SDlHazBxdGhBSVZjMFRMd3JZM1MwNzIwY2pBMjJXTTB1b29fT2JwMkhLcS1PX1BBU2RpMlJRdFIxaGd5Z2NFZVdFZDZzeFJHWTZrVDhkbDByek9sVjVhWDg5c2hoaXFEdlE?oc=5\" target=\"_blank\">Cómo la IA está cambiando las decisiones clínicas en la República Dominicana</a>&nbs"
     }
   ],
   "count": 9
