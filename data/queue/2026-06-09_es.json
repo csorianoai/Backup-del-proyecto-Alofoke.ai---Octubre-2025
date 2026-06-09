@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "Trump amenaza a Irán con represalias tras el derribo de un helicóptero y siembra dudas sobre la tregua",
+      "url": "https://elpais.com/internacional/2026-06-09/trump-amenaza-a-iran-con-represalias-tras-el-derribo-de-un-helicoptero-y-siembra-dudas-sobre-la-tregua.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Jun 2026 19:21:29 GMT",
+      "summary": "Estados Unidos “debe responder, necesariamente, a este ataque”, según el mandatario. Los dos tripulantes del Apache han sido rescatados ilesos en una operación inédita"
+    },
+    {
+      "title": "Israel ignora las advertencias de Irán y mata al menos a 29 personas en Líbano",
+      "url": "https://elpais.com/internacional/2026-06-09/israel-ignora-las-advertencias-de-iran-y-mata-a-varias-personas-en-libano.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Jun 2026 16:39:47 GMT",
+      "summary": "El ejército israelí bombardea barrios residenciales de Tiro, la mayor ciudad del sur del país, y extiende la orden de desalojo a su barrio cristiano"
+    },
+    {
       "title": "Miguel Ángel Gallardo, al final del juicio al hermano de Sánchez: “Ya han ganado. Nos han condenado socialmente”",
       "url": "https://elpais.com/espana/2026-06-09/miguel-angel-gallardo-al-final-del-juicio-al-hermano-de-sanchez-ya-han-ganado-nos-han-condenado-socialmente.html",
       "source": "El País Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Tue, 09 Jun 2026 12:01:23 GMT",
       "summary": "La consejera de Hacienda y portavoz de la Junta, Elena Manzano, responde que los extremeños ya hablaron en las urnas el pasado diciembre"
-    },
-    {
-      "title": "Alemania se resigna ante el fin del caza europeo: “El proyecto se ha estrellado contra la realidad”",
-      "url": "https://elpais.com/economia/2026-06-09/alemania-se-resigna-ante-el-fin-del-caza-europeo-el-proyecto-se-ha-estrellado-contra-la-realidad.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 09 Jun 2026 10:18:36 GMT",
-      "summary": "El ministro de Defensa germano alude a problemas desde su concepción: “Con lo que sabemos hoy, ya no lo pondríamos en marcha tal y como se hizo en su momento”"
-    },
-    {
-      "title": "Trump, abucheado en la final de la NBA en Nueva York",
-      "url": "https://elpais.com/us/2026-06-09/trump-abucheado-en-la-final-de-la-nba-en-nueva-york.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 09 Jun 2026 02:08:37 GMT",
-      "summary": "El republicano responde con una sonrisa burlona en el inicio del partido entre los Knicks y los San Antonio Spurs"
     },
     {
       "title": "La Inteligencia Artificial destruirá alrededor de 2 millones de empleos en España - Libertad Digital",
@@ -67,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOazd4R1NmYUNtdFZ4eG5HM3U2Zi1Lb2laQ0NqZWhDWXpyOHUxZWw3TlI3Ukd6ZUY1S041Qy1KVWNGY0RvdW5XZnNTU2Y4NnVBX2J5Szl3SXdZcTJOc1VCc1BMQ2pOdy1OaUpfbGFKTDNwdlA0ZEljNmhNeVFyR3BuRFhjT3ZXbUh6LTdFbnlwQ1FqTlFhWDlSSEhPZVYxaTQzbmtBUHlwZWNXclg1Um1PalpraXltVmczcj"
     },
     {
-      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
+      "title": "Pasó de trabajar con marcas como Barcelona y Real Madrid a crear un fondo de US$ 50 millones para invertir en deporte e IA - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1phWEF0ckYwSGlITjY5T002cTE1WkxDOHAtaWRxbVBEZG0y0gHiAUFVX3lxTE9EYnFXM054YUpLaHhaNDRVV2E5TEdpZzN1Vy1QZFVVblVUWTBEMDVyY09yUXBmcnE1QWg1Zl9ZMDdwZ2VIMFdRcUVvREI4WXk1Tmp1ZEtxUXlNcUk5T3lMRkc3RGlqLTExWC1kdnctdXpFQkxnRUFnVzd3RXZRamhXNGh4eFQ2TkZnXzdtc2lBUVE5bmRENTlnZ1luTTVQQ0w1TklTM1lpcXphM1VSZ0ZWNndEbWotYjdMS2ZDUG5jS0dLbjNaX01pQ0k5dTNrNVJtUXUwXzBTVTJlNjZReGVfbGc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
+      "published": "Sun, 07 Jun 2026 14:36:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1"
     },
     {
       "title": "Atlético Madrid vs. Barcelona: IA dijo si hay remontada en los cuartos de Champions League - Revista Semana",
@@ -83,12 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WT"
     },
     {
-      "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5",
+      "title": "El pronóstico de la Inteligencia Artificial para el partido entre el Barcelona y el Atlético de Madrid - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
+      "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JjVlNEVWItMkFwMkt0ZGlEeWd1OEx3ZDh2TllzcngtbDJRNFEzRjQxMU9hWG9Ic3otcDN2blJZLUd6VWFqVUZZU2ZCTWdPSmJUYzhpR2pWZm9sU1hrRFBUaVFjSW1pTEo1RjVxZGozR1o2SEhWWlhFbWs4bG80T0FOV2x3VWVUMHJKVVpXT1lNWmp6UmhkTUhRd1oxeFV3cmdhT2EyRQ?oc=5\" target=\"_blank\">E"
+    },
+    {
+      "title": "¿Tienes una 'startup' y buscas financiación? Ahora hay más opciones que nunca: las vías para conseguirla - El Confidencial",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWNqMldMY3pVU1ZQMDlsVmpuMkw3N0tISVZQLXo4VzdzRGE5aUtacWU1YnVtWHFxQlU0bmY5MFk4T29tZzRBWU51a0dYTk05al9KRU1vamgxSzAzMGN0MmNGZm9wWTZIT0hJc3ZnaHV6a2lvQUlfRlo0NTkzZ1NtQm1pdEdWOXVfdG9BS0sxTHVlSW1SaEM5Y0h3TjJGdDF5RXdNYmhEVE5KX0I3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 05 Jun 2026 03:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWNqMldMY3pVU1ZQMDlsVmpuMkw3N0tISVZQLXo4VzdzRGE5aUtacWU1YnVtWHFxQlU0bmY5MFk4T29tZzRBWU51a0dYTk05al9KRU1vamgxSzAzMGN0MmNGZm9wWTZIT0hJc3ZnaHV6a2lvQUlfRlo0NTkzZ1NtQm1pdEdWOXVfdG9BS0sxTHVlSW1SaEM5Y0h3TjJGdDF5RXdNYmhEVE5KX0I3?oc=5\" target=\"_bl"
     },
     {
       "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
@@ -97,14 +105,6 @@
       "category": "news",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
-    },
-    {
-      "title": "Wayra - Wayra",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTGxDeWpTRUNSaVBBRjhxc3diejV3RkxnZk90aDdiYW4xdzAtR1VwYndoR2pRdGpZVE1kdTdsSW9TaDZibU9hY1VoMXNGMTJkNzVQbGI4WG0wamM0NVFzdGFhczZXRkowUlNrVDlacHo4SmZDWkx3UTRPRGNZaWtIelJ4c0JraXdHZXZJTnhuQXlvQVhwWDBNTld4N3RrVnFmN2JhTGtGdFF2Yk1laW41ME44ZTRkSlBFQ0VwcDVOVTBFc2dpeEIzVmRoemNzQzNjSjlFYTREYy1QN1Z3d2wtQ2YtN19POGxf?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 22 Apr 2026 00:47:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTGxDeWpTRUNSaVBBRjhxc3diejV3RkxnZk90aDdiYW4xdzAtR1VwYndoR2pRdGpZVE1kdTdsSW9TaDZibU9hY1VoMXNGMTJkNzVQbGI4WG0wamM0NVFzdGFhczZXRkowUlNrVDlacHo4SmZDWkx3UTRPRGNZaWtIelJ4c0JraXdHZXZJTnhuQXlvQVhwWDBNTld4N3RrVnFmN2JhTGtGdFF2Yk1laW41ME44ZTRkSlBFQ0"
     },
     {
       "title": "Madrid lidera las startups en España - Madrid es Noticia",
