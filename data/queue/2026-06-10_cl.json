@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Científicos descubren que el café modifica el microbioma intestinal: qué efectos tiene sobre el cuerpo",
+      "url": "https://www.latercera.com/tendencias/noticia/cientificos-descubren-que-el-cafe-modifica-el-microbioma-intestinal-que-efectos-tiene-sobre-el-cuerpo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 10 Jun 2026 21:00:00 +0000",
+      "summary": "Las bacterias que viven en el intestino también reaccionan a cada taza de café. Un nuevo estudio sugiere que estos cambios podrían ayudar a explicar algunos de los efectos de la bebida sobre el cerebro, el estado de ánimo y la salud física."
+    },
+    {
       "title": "Con un latino a bordo: quiénes son los astronautas de Artemis III, la siguiente misión espacial para llegar a la Luna",
       "url": "https://www.latercera.com/tendencias/noticia/con-un-latino-a-bordo-quienes-son-los-astronautas-de-artemis-iii-la-siguiente-mision-espacial-para-llegar-a-la-luna/",
       "source": "La Tercera Tecnología",
@@ -35,20 +43,20 @@
       "summary": "La lluvia ya llegó a Santiago y la zona central. Revisa hasta qué hora se extenderán las precipitaciones en la Región Metropolitana y cómo estarán las temperaturas tras el paso del sistema frontal."
     },
     {
-      "title": "El misterioso hallazgo de una estructura bajo el hielo de la Antártida que permaneció oculta por millones de años",
-      "url": "https://www.latercera.com/tendencias/noticia/el-misterioso-hallazgo-de-una-estructura-bajo-el-hielo-de-la-antartida-que-permanecio-oculta-por-millones-de-anos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 09 Jun 2026 21:00:00 +0000",
-      "summary": "El hallazgo podría ayudar a explicar cómo se fragmentó el antiguo supercontinente Gondwana y cómo se comporta actualmente la capa de hielo antártica."
-    },
-    {
       "title": "Wild Fi Chile amplió su operación de contenido, creators e inteligencia artificial - produ",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHpRQ3dpTHFteTJyaDQ0U0d3emNRa2V5YWhYb25qeVE4RUMwLVZYdnhqQm5DRVF5ZXhhbjZOdklaOEIwdUVHUnc3OVYzb0ZEbWRmY1JNMEJzaG5qd1hFdUVQOUtwQzlBOHlQQmR0VWdXVTFvcElzM19oWkNvNWh0eEJhX1FoU0ZadkpPQzY2enlOMm5KSEdyX0NvQzJYZFFvM0FvQmtmR0NjSTRSdHlNdXNPbHFyclo4ME9henN4bw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 10 Jun 2026 04:02:41 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHpRQ3dpTHFteTJyaDQ0U0d3emNRa2V5YWhYb25qeVE4RUMwLVZYdnhqQm5DRVF5ZXhhbjZOdklaOEIwdUVHUnc3OVYzb0ZEbWRmY1JNMEJzaG5qd1hFdUVQOUtwQzlBOHlQQmR0VWdXVTFvcElzM19oWkNvNWh0eEJhX1FoU0ZadkpPQzY2enlOMm5KSEdyX0NvQzJYZFFvM0FvQmtmR0NjSTRSdHlNdXNPbHFyclo4ME"
+    },
+    {
+      "title": "Chile quiere liderar la revolución de la IA, pero necesita acelerar su infraestructura digital - madboxpc",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3lrdlk3cGJXMWlHVVlOeUpnczNxSy1kOVFvaXl5OW9NYjFCTF9MSU9KYmhsTWx4Qldfck1Sa0JtUEJZRWRaZ1d4VnVfNmYwTE5HVHdIdThmaUpnNDJqTXQ1dkZsbHc0cnBqWHJDQ1U5RTlfRTNOZ01oME5XdzZJRnJnMWZvQnM5LS1lZEJ5WlFlWkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 10 Jun 2026 21:31:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3lrdlk3cGJXMWlHVVlOeUpnczNxSy1kOVFvaXl5OW9NYjFCTF9MSU9KYmhsTWx4Qldfck1Sa0JtUEJZRWRaZ1d4VnVfNmYwTE5HVHdIdThmaUpnNDJqTXQ1dkZsbHc0cnBqWHJDQ1U5RTlfRTNOZ01oME5XdzZJRnJnMWZvQnM5LS1lZEJ5WlFlWkE?oc=5\" target=\"_blank\">Chile quiere liderar la revo"
     },
     {
       "title": "Inteligencia artificial: comprar tecnología que no se sabe usar - EMB Gerencia",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFBrckpYVW5NaUc5eEpJanFVVjY1RjFoa0xBSzAxVFZtX21UYXVBaDVIVDV5S1NpM0NDeHN0cXB2N3E1YVJYY0J6TVp6U3VHZ0R2RWt3ZjJzYWlwVkFtQ3JzZlZUaFdmZ1RLRHozMklaYjhKSjcwRW5SRW03QVpqUmRJZWZqamhzbFZvekZlZHJ2WDBYNlk5Njk5T3ItU2VmcjduVnFjTWhtVEduV2w3MA?oc=5\" targe"
     },
     {
-      "title": "Inteligencia Artificial en Chile: conectados, pero no incluidos - Diario Sustentable",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3pUZmptblhhcGN1MnVJTnlUNG9yV3RHSDM0aE1xalJpWVJza29oUWloUHBUV1lnbzFac3llam9VbTZ3ZkJjZF9JOUlZWDkxcHpqWFZ2ekktUkRVb2duZ0JudGVIWU9obUFLZnBjMTlCMDVIZlpHM1FSR2hPaHZnRVJIc2x6bktCTVJTQ3pkNGUyeEZ2SGtzTkNxLWZwSE5PT3RkZlc4bw?oc=5",
+      "title": "El Papa, Milei, la IA y el futuro de la humanidad - Libertad Digital",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0x1Z3djbnZUQnNqQkZSeGZxSFFSM3lsOWVHQUlTRnBoWVB6c3NNNTFMaXNqVVVuczduUUtZbmphQWVwUGpEWkZXY2VDMTRreWNTQU1taC1SSS1zUjE3cm5BRHByTVZOUjRhc0hiQ2cyZEYzMGRJTDQ5OGdnNWhxTURQRkdiMnppamhJZUxlM0hrT3hpckJIM2haVGg5ZktYbzlVZHdib1ptRjFMc3U3SFZ2b21QSDRGd2RtXzNBQWxiTU9qLVJDdFpSUEhmS25NVE9ONzdhMFlZRkVVcE5J0gHqAUFVX3lxTFBCWnFMSVgwZE00R0xNeWIyQVFuUlY0VkdmU2k4TmRPUzhGMWJPa1lkNWxWVkNlZFJ4aWNoNHRHUEdBLWRicEV5UWpreG4wUERBYjRlTDlqVVZxRU1rXzV3SjhWcUdOUm9iaDN3TzdlNFZwVE5FbHFUYkROblZJVUhFMkFDZnNLcHBVOTBYZmt0cmF6bVZ1UDZqUG5LRWxRRE5fMW9fa2JoTy1FbXJsTnNiZTRSVjdVc3ZfMWg5d3VSZnlkUHlPOVE0d2Y2U1pySFltQW1nQXJjYlN4RVNBbW9TdjljZVZCcXhWZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 10 Jun 2026 14:21:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3pUZmptblhhcGN1MnVJTnlUNG9yV3RHSDM0aE1xalJpWVJza29oUWloUHBUV1lnbzFac3llam9VbTZ3ZkJjZF9JOUlZWDkxcHpqWFZ2ekktUkRVb2duZ0JudGVIWU9obUFLZnBjMTlCMDVIZlpHM1FSR2hPaHZnRVJIc2x6bktCTVJTQ3pkNGUyeEZ2SGtzTkNxLWZwSE5PT3RkZlc4bw?oc=5\" target=\"_blank\">I"
+      "published": "Wed, 10 Jun 2026 20:16:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0x1Z3djbnZUQnNqQkZSeGZxSFFSM3lsOWVHQUlTRnBoWVB6c3NNNTFMaXNqVVVuczduUUtZbmphQWVwUGpEWkZXY2VDMTRreWNTQU1taC1SSS1zUjE3cm5BRHByTVZOUjRhc0hiQ2cyZEYzMGRJTDQ5OGdnNWhxTURQRkdiMnppamhJZUxlM0hrT3hpckJIM2haVGg5ZktYbzlVZHdib1ptRjFMc3U3SFZ2b21QSDRGd2"
     },
     {
       "title": "Sanidad y la Universidad de Santiago de Compostela impulsarán la formación en IA para profesionales del SNS - Gaceta Médica",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Thu, 04 Jun 2026 05:01:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNOC1jd3d3M25VLXlOR01wbzhURVFZNTlKSUlldVJWckNCSjRveVpVZzM1ajdqbDR4T0ZQTXU5OC1naW8ydW9tRl9selRjazNQNUZobHhwWG5NNkVCZWVSVUlXVnZxOEJpbHpYRFlfTnhxR25xdDlqczl2NEpnRGF2T3VsX3F6NnFmN3YtbURnV2pBLWx4Ynk3cVB2a21WbWN0WU1fZVlDeGNqVE5Yam9XRnFCWXQ1dU9zUl"
-    },
-    {
-      "title": "USM desarrolla innovadora metodología con IA para detectar microbasurales en Santiago - Cooperativa Ciencia",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSkN3SS1NQ3ZSS05YcGJHMzRjSGVDazVfOWJCUWVjZXlUbVpkRmI1Sk9Sd3JTRzFvandpSVdkSENxRHhtSU9kOC1XVVlMUUtpdGZ4WEgyNTlXajc4eE9wVFJEcUttTkRKYlduOGdKVjByVHJadTAyUUR5RjBYeUtudTBfc1pNaFhJbjRQT01nd3NLZWFMdnQ0dG9fNGhNMTY4OWhFb2c0UUtkY253UDE2VWhIQ3RVaUwyVjhnQ0VwTG85S3YtSFJjWXE4SE1ZWkNoc1Vsc2NLUGVHdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 09 Jun 2026 16:21:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSkN3SS1NQ3ZSS05YcGJHMzRjSGVDazVfOWJCUWVjZXlUbVpkRmI1Sk9Sd3JTRzFvandpSVdkSENxRHhtSU9kOC1XVVlMUUtpdGZ4WEgyNTlXajc4eE9wVFJEcUttTkRKYlduOGdKVjByVHJadTAyUUR5RjBYeUtudTBfc1pNaFhJbjRQT01nd3NLZWFMdnQ0dG9fNGhNMTY4OWhFb2c0UUtkY253UDE2VWhIQ3RVaUwyVj"
     },
     {
       "title": "23 startups chilenas en London Tech Week y Web Summit 2026 - Ecosistema Startup",
