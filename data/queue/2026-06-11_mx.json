@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Vix se cae previo a la inauguración del Mundial 2026",
+      "url": "https://expansion.mx/tecnologia/2026/06/11/vix-se-cayo-inauguracion-del-mundial-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 11 Jun 2026 17:41:05 GMT",
+      "summary": "La plataforma de streaming es la oficial en donde se transmitirán todos los partidos del Mundial 2026."
+    },
+    {
+      "title": "Estados Unidos exigirá visa de trabajo a influencers y creadores en el Mundial",
+      "url": "https://expansion.mx/tecnologia/2026/06/11/estados-unidos-visa-de-trabajo-influencers-mundial-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 11 Jun 2026 17:00:22 GMT",
+      "summary": "Las personas que acudan al torneo para hacer contenido con visa de turista tienen el riesgo de perderla, de acuerdo con las autoridades migratorias."
+    },
+    {
       "title": "Meta reconoce hackeo que dejó vulnerable 34,000 cuentas de Instagram, incluida la de un funcionario de Trump",
       "url": "https://expansion.mx/tecnologia/2026/06/10/meta-reconoce-hackeo-instagram",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "El director general de Uber México y el director regional de Uber Eats para Latinoamérica, anticipan un evento deportivo que cambiará la vida de más de una persona."
     },
     {
-      "title": "Anthropic lanza Fable 5, su IA más potente con restricciones por ciberseguridad y riesgos biológicos",
-      "url": "https://expansion.mx/tecnologia/2026/06/09/anthropic-lanza-fable-5",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 09 Jun 2026 22:20:49 GMT",
-      "summary": "Este modelo es el primero de la clase Mythos, la gama más avanzada de la empresa y que ha generado polémica por su impacto en áreas sensibles para las operaciones diarias."
-    },
-    {
-      "title": "Antonio Hidalgo, director general de Hisense México: \"La tv es el vehículo más grande de emociones\"",
-      "url": "https://expansion.mx/tecnologia/2026/06/08/antonio-hidalgo-hisense-mexico-tv-mundial-casa",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 09 Jun 2026 00:47:25 GMT",
-      "summary": "Para la empresa, patrocinadora oficial de la FIFA y que participa en una industria clave para que las personas vivan el Mundial en casa, el entrenamiento comienza meses antes del inicio del torneo."
-    },
-    {
       "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Sudáfrica - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDRVY3ZCRE1TQUVWVnhZQjFvMmJiZ3d1OFRJTDhDSUVBUGlwd0ZsNFB4S0FubVZRUjNQUkZjT3ViczNZLVY5Q1ItcUl6Z2dhak53TEJBMndxSkxhS0FFVkIxeVZSQUd3eHpjdWdhQjEydHZFbE9VTGY5Ym5UTVBDcUxrQzVmMnYzZTBGWE01T1YybDA5OGdGMEdwN3U?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 11 Jun 2026 09:57:46 GMT",
+      "published": "Thu, 11 Jun 2026 22:40:48 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDRVY3ZCRE1TQUVWVnhZQjFvMmJiZ3d1OFRJTDhDSUVBUGlwd0ZsNFB4S0FubVZRUjNQUkZjT3ViczNZLVY5Q1ItcUl6Z2dhak53TEJBMndxSkxhS0FFVkIxeVZSQUd3eHpjdWdhQjEydHZFbE9VTGY5Ym5UTVBDcUxrQzVmMnYzZTBGWE01T1YybDA5OGdGMEdwN3U?oc=5\" target=\"_blank\">El pronóstico de"
+    },
+    {
+      "title": "5G, WiFi, eSIM e inteligencia artificial impulsan el Mundial más tecnológico de la historia - TeleSemana.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3RCdkdrOUJHeV9uOW82WlV4WFc5ZFNhbDZnYS1hT196ME9iSlNCNUc4VG1lV2VwNzJUWHVrQzh4dzhqSTU4R2hEcVp4ZnBfNnk0WF9CMWhZaFV6Y1htaXdVc1VXNmJzeEs2Wlk1Y0VhNUFfWGo3LUVIem9FTmF1bkVZeUpzRzJGSVhrLTZUeDRJS2N6eFl2d2J1bXNjZ2k2YmpsRXZLRGlWNEVEWFg0akRPeVl2dGhFUUUwaEl5cDdYaG9RRnpoTzl6WXZEQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 11 Jun 2026 13:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3RCdkdrOUJHeV9uOW82WlV4WFc5ZFNhbDZnYS1hT196ME9iSlNCNUc4VG1lV2VwNzJUWHVrQzh4dzhqSTU4R2hEcVp4ZnBfNnk0WF9CMWhZaFV6Y1htaXdVc1VXNmJzeEs2Wlk1Y0VhNUFfWGo3LUVIem9FTmF1bkVZeUpzRzJGSVhrLTZUeDRJS2N6eFl2d2J1bXNjZ2k2YmpsRXZLRGlWNEVEWFg0akRPeVl2dGhFUU"
     },
     {
       "title": "Cuál será el ganador entre México y Sudáfrica, el primer partido del Mundial 2026, según la IA - Infobae",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMl9uYi1fZnpDZDMwejFnd2gyc3N3YkliRnM2aWlXbDVvQWo0UWM5SHRBblY1WnFVZFhhNHhfQjZBeExQbXd3TS1tcGdCUEQwVVNNRG84Zng2Zmh6NzNGbUptYWZ6TDNPVnUwUlFDcFVacC1uSHJCZ0d4STBHQVRDTWxXTEl6eVczUjFqeHUyejYxT1JYZFhZQU5meHExY0taUkoxQWdPTlZNRXNwNU5LbGdnenVUa3U0alRvMWY4a0VNNzZ0ODBUMU0zT21Dd1HSAeoBQVVfeXFMTmRNRnI2ZDJKV1JNWTM2aWhuaW9uTVBTMGh3YTNkTUpPRzdweERHRlVidFB5VEMzYkViT0dORGJsS1RKY0ZUVEd6SjlsZVVtbFhNRmRvVFlmT3VFdWtYUWg2QTFFT0oxS2xWM3BxTGhPZlFYVnNwZk1iT1hvenVjYzM1XzJ4U1RoSGFRS0tlODdfR1NIeG1BY0IxbGJ5TFFjempfMjFNSTFNcTFjODZzOE5iTUZlaWpMc2k0d0V3Ylh3RUl4NHBkUWNrWlpDZlhKbTM0NW5HOFFoQndPNTVxTTFmTFBoQXBlblln?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 11 Jun 2026 17:18:07 GMT",
+      "published": "Thu, 11 Jun 2026 18:03:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPMl9uYi1fZnpDZDMwejFnd2gyc3N3YkliRnM2aWlXbDVvQWo0UWM5SHRBblY1WnFVZFhhNHhfQjZBeExQbXd3TS1tcGdCUEQwVVNNRG84Zng2Zmh6NzNGbUptYWZ6TDNPVnUwUlFDcFVacC1uSHJCZ0d4STBHQVRDTWxXTEl6eVczUjFqeHUyejYxT1JYZFhZQU5meHExY0taUkoxQWdPTlZNRXNwNU5LbGdnenVUa3U0al"
-    },
-    {
-      "title": "IA autónoma vs IA dependiente: la brecha silenciosa que definirá a las empresas líderes en México - THE LOGISTICS WORLD",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb19LMUVrVzhnR1Y5QnNFT0FWeTdTN2tZZVlTZXEteXlIa2hHczlfWWFLcFVOTnoyNFNPOUVMOFlaNnpCd3lxOVM3T0lIbHA3YmM1T3RaYlk2M1JfenBIbE9LaTI5UVpqZTZ2bTRaa3FZdlJuWHVubFNLdGRhbWlPeUJRaFBwVDZKVU9VQ3k4TTN5ZUMyVUg5ZFV5Z29DYktCMU00SFBGZUIwcUxORlhzejdyMjFXNk1hTkltMW85RUdjdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 09 Jun 2026 13:55:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb19LMUVrVzhnR1Y5QnNFT0FWeTdTN2tZZVlTZXEteXlIa2hHczlfWWFLcFVOTnoyNFNPOUVMOFlaNnpCd3lxOVM3T0lIbHA3YmM1T3RaYlk2M1JfenBIbE9LaTI5UVpqZTZ2bTRaa3FZdlJuWHVubFNLdGRhbWlPeUJRaFBwVDZKVU9VQ3k4TTN5ZUMyVUg5ZFV5Z29DYktCMU00SFBGZUIwcUxORlhzejdyMjFXNk1hTk"
     },
     {
       "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
       "title": "América Latina encabeza el uso de la IA en la educación superior - TecScience",
