@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Estados Unidos exigirá visa de trabajo a influencers y creadores en el Mundial",
-      "url": "https://expansion.mx/tecnologia/2026/06/11/estados-unidos-visa-de-trabajo-influencers-mundial-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Jun 2026 17:00:22 GMT",
-      "summary": "Las personas que acudan al torneo para hacer contenido con visa de turista tienen el riesgo de perderla, de acuerdo con las autoridades migratorias."
-    },
-    {
       "title": "Meta reconoce hackeo que dejó vulnerable 34,000 cuentas de Instagram, incluida la de un funcionario de Trump",
       "url": "https://expansion.mx/tecnologia/2026/06/10/meta-reconoce-hackeo-instagram",
       "source": "Expansión Tecnología",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Tue, 09 Jun 2026 22:20:49 GMT",
       "summary": "Este modelo es el primero de la clase Mythos, la gama más avanzada de la empresa y que ha generado polémica por su impacto en áreas sensibles para las operaciones diarias."
+    },
+    {
+      "title": "Antonio Hidalgo, director general de Hisense México: \"La tv es el vehículo más grande de emociones\"",
+      "url": "https://expansion.mx/tecnologia/2026/06/08/antonio-hidalgo-hisense-mexico-tv-mundial-casa",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 09 Jun 2026 00:47:25 GMT",
+      "summary": "Para la empresa, patrocinadora oficial de la FIFA y que participa en una industria clave para que las personas vivan el Mundial en casa, el entrenamiento comienza meses antes del inicio del torneo."
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Sudáfrica - Sports Illustrated",
