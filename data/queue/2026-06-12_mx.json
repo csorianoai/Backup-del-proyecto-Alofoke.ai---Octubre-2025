@@ -3,12 +3,28 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Fallan Facebook e Instagram este viernes 12 de junio; usuarios reportan errores e intermitencias",
+      "title": "SpaceX quiere llevarlos a la Luna, Marte y más allá: Elon Musk en lanzamiento de la empresa en Wall Street",
+      "url": "https://expansion.mx/tecnologia/2026/06/12/spacex-sale-bolsa-mayor-opi-historia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 12 Jun 2026 15:47:15 GMT",
+      "summary": "La empresa repitió el jueves que su objetivo es lograr 75,000 millones de dólares, tres veces más que el récord actual, obtenido por la petrolera saudita Aramco en 2019."
+    },
+    {
+      "title": "Un grupo de ciberdelincuentes chino usó Gemini para difundir estafas en línea",
+      "url": "https://expansion.mx/tecnologia/2026/06/12/google-acusa-ciberdelincuentes-chinos-gemini-estafar",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 12 Jun 2026 15:40:38 GMT",
+      "summary": "Google y el FBI iniciaron una investigación en contra del grupo conocido como Outsider Enterprise, que utilizó la IA de la empresa para crear y propagar sitios web pirata."
+    },
+    {
+      "title": "Facebook e Instagram se recuperan tras falla global; servicios vuelven a la normalidad",
       "url": "https://expansion.mx/tecnologia/2026/06/12/fallas-meta-facebook-instagram-12-junio",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Fri, 12 Jun 2026 14:23:51 GMT",
-      "summary": "Usuarios reportan fallas en Facebook e Instagram desde la mañana de este viernes, con problemas de acceso, carga de contenido y funcionamiento del feed."
+      "summary": "Las plataformas de Meta volvieron a la normalidad luego de presentar problemas de acceso, carga de contenido y publicación durante la mañana de este viernes."
     },
     {
       "title": "El 35% de los mexicanos no saben identificar sitios pirata para ver el Mundial",
@@ -27,20 +43,12 @@
       "summary": "La plataforma de streaming es la oficial en donde se transmitirán todos los partidos del Mundial 2026."
     },
     {
-      "title": "Estados Unidos exigirá visa de trabajo a influencers y creadores en el Mundial",
-      "url": "https://expansion.mx/tecnologia/2026/06/11/estados-unidos-visa-de-trabajo-influencers-mundial-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 11 Jun 2026 17:00:22 GMT",
-      "summary": "Las personas que acudan al torneo para hacer contenido con visa de turista tienen el riesgo de perderla, de acuerdo con las autoridades migratorias."
-    },
-    {
-      "title": "Meta reconoce hackeo que dejó vulnerable 34,000 cuentas de Instagram, incluida la de un funcionario de Trump",
-      "url": "https://expansion.mx/tecnologia/2026/06/10/meta-reconoce-hackeo-instagram",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 10 Jun 2026 21:40:46 GMT",
-      "summary": "La empresa afirmó que ya corrigió el problema relacionado con una nueva función de IA que estaba en desarrollo para la red social."
+      "title": "Ocho de cada 10 empresas en México ignoran qué inteligencia artificial usan y dónde opera - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDlsWGJSbHhDU09QX1FVcWxWTVktZjk1elJoZUI2NXVqcEZOcEpQRzlyTGRYTzVabm0xSDNjb0pmSWdyX0lISy1EMk9VeTVOOENvckQwSTJvS3lGTWVmUGhiT2x5d1dqUVR6T3VEa0c2bXdtY2dXOWlzMVZLcHJOd0ljdjF1VkxTSllrVWx5RWIxQjAxczJheTRFdVduY3pmNHlXMEpnWTczYUhXVXlYRkpfMTJDam1Iamh6N0IyOWFVOUHSAcgBQVVfeXFMTmh2Y3ZqUUpHT19CaVlYc2VVcGo2RERkZURLT0VnS2hXUDlPcTlQVENIWFpoNVNZcGh0M19PRWFpZURFRVJSWFpOZDByQnRWNDlUX0k1OTZYV3JVUmxPZGxNYmg2Rnhidjdmd3U0aXpjZENFbmVOS1JfeThrQzRBRWtfX2wzYTRYc1pQaXZRZ1NMTEFxeTFzcHBmR3ZHTkhjLXlZWTFlUWozNUlOaUpTOWRCdnVGM0NrUHpmakRpclUwbWpDY2hGQ0c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 12 Jun 2026 17:17:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDlsWGJSbHhDU09QX1FVcWxWTVktZjk1elJoZUI2NXVqcEZOcEpQRzlyTGRYTzVabm0xSDNjb0pmSWdyX0lISy1EMk9VeTVOOENvckQwSTJvS3lGTWVmUGhiT2x5d1dqUVR6T3VEa0c2bXdtY2dXOWlzMVZLcHJOd0ljdjF1VkxTSllrVWx5RWIxQjAxczJheTRFdVduY3pmNHlXMEpnWTczYUhXVXlYRkpfMTJDam1Iam"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Sudáfrica - Sports Illustrated",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Tue, 09 Jun 2026 19:57:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSGplb3VGMFllRzY2cTFacFdGU2Z4VGw4aW8xYlJvYUU5RUVvcUUxRHJKcDNLV3pycXBsaUgtZVBWYXNjR01nN1VqMWRhNElSYTVlTlNJeTFlRC1pZUJQRGtVOUhEdU1nWC1HY0lOT0lkT2huOF83cTh6OGc1eE9jdnc0Q3c2MXpnS1pmWGtOU2NERU51ZDlGdEZhVUdkUVRfYWdacW9Eb1dJcTJMVy05al9aVHNfMHBENF"
-    },
-    {
-      "title": "El oficio más antiguo del futuro • Inteligencia Artificial - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zdk0wR0xjQWZ3U3VMX2ZScUdxU1BRMVJ4eExWbVNNTWZBLTlQU1ljSzA5dGNPUWZjalVWLWdfT0FDZmEwNVBHUTVkanZfQV9rbnR5amtYcVQ0OG1USlk4WWtCS3lKUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 12 Jun 2026 16:02:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zdk0wR0xjQWZ3U3VMX2ZScUdxU1BRMVJ4eExWbVNNTWZBLTlQU1ljSzA5dGNPUWZjalVWLWdfT0FDZmEwNVBHUTVkanZfQV9rbnR5amtYcVQ0OG1USlk4WWtCS3lKUQ?oc=5\" target=\"_blank\">El oficio más antiguo del futuro • Inteligencia Artificial</a>&nbsp;&nbsp;<font color=\"#6"
     },
     {
       "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
       "title": "América Latina encabeza el uso de la IA en la educación superior - TecScience",
