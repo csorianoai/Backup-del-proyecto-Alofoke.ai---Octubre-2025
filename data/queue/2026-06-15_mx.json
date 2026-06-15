@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Samsung, IBM y Amazon se convierten en escuelas de tecnología en México",
+      "url": "https://expansion.mx/tecnologia/2026/06/15/samsung-ibm-amazon-mexico-cursos-gratis-ia-tecnologia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Jun 2026 20:00:52 GMT",
+      "summary": "El 68% de los empleadores en México no encuentra perfiles digitales calificados. Samsung, Cisco, IBM y Oracle respondieron con programas gratuitos de formación en IA y tecnología para jóvenes."
+    },
+    {
+      "title": "Anthropic suspende acceso a su IA más potente",
+      "url": "https://expansion.mx/tecnologia/2026/06/15/anthropic-suspende-acceso-mythos-fable-5",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Jun 2026 17:30:18 GMT",
+      "summary": "La empresa estadounidense informó del bloqueo de sus dos nuevos modelos, su versión muy restringida Mythos 5 y su variante limitada para el gran público, Fable 5."
+    },
+    {
+      "title": "Reino Unido prohibirá las redes sociales a menores de 16 años, como resultado de una consulta ciudadana",
+      "url": "https://expansion.mx/tecnologia/2026/06/15/reino-unido-prohibir-redes-sociales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Jun 2026 14:00:38 GMT",
+      "summary": "El gobierno británico dijo que implementará un sistema de toque de queda y descansos para evitar el “scroll infinito” entre la población de jóvenes."
+    },
+    {
+      "title": "China gana terreno a EU en la carrera global por talento en IA",
+      "url": "https://expansion.mx/tecnologia/2026/06/15/china-plan-da-ventaja-guerra-tecnologica-estados-unidos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Jun 2026 11:53:09 GMT",
+      "summary": "El país asiático lidera la formación de especialistas STEM y atrae de regreso a expertos formados en Silicon Valley, pese a menores salarios."
+    },
+    {
       "title": "Qué significa que Elon Musk se convierta en el primer billonario del mundo, al dispararse las acciones de SpaceX",
       "url": "https://expansion.mx/tecnologia/2026/06/12/elon-musk-primer-trillonario-historia-spacex-fortuna",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Fri, 12 Jun 2026 18:42:56 GMT",
       "summary": "SpaceX pasó de fabricante de cohetes a un gigante de satélites e inteligencia artificial con una valuación cercana a los 2 billones de dólares."
-    },
-    {
-      "title": "Potente, ligera y costosa: la Zenbook A16 no es para todos",
-      "url": "https://expansion.mx/tecnologia/2026/06/12/potente-ligera-y-costosa-la-zenbook-a16-no-es-para-todos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Jun 2026 18:00:07 GMT",
-      "summary": "La Asus Zenbook A16 es la primera laptop con el chip Snapdragon X2 Elite, el procesador de IA más potente de Qualcomm."
-    },
-    {
-      "title": "SpaceX quiere llevarlos a la Luna, Marte y más allá: Elon Musk en lanzamiento de la empresa en Wall Street",
-      "url": "https://expansion.mx/tecnologia/2026/06/12/spacex-sale-bolsa-mayor-opi-historia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Jun 2026 15:47:15 GMT",
-      "summary": "La empresa repitió el jueves que su objetivo es lograr 75,000 millones de dólares, tres veces más que el récord actual, obtenido por la petrolera saudita Aramco en 2019."
-    },
-    {
-      "title": "Un grupo de ciberdelincuentes chino usó Gemini para difundir estafas en línea",
-      "url": "https://expansion.mx/tecnologia/2026/06/12/google-acusa-ciberdelincuentes-chinos-gemini-estafar",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Jun 2026 15:40:38 GMT",
-      "summary": "Google y el FBI iniciaron una investigación en contra del grupo conocido como Outsider Enterprise, que utilizó la IA de la empresa para crear y propagar sitios web pirata."
-    },
-    {
-      "title": "Facebook e Instagram se recuperan tras falla global; servicios vuelven a la normalidad",
-      "url": "https://expansion.mx/tecnologia/2026/06/12/fallas-meta-facebook-instagram-12-junio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Jun 2026 14:23:51 GMT",
-      "summary": "Las plataformas de Meta volvieron a la normalidad luego de presentar problemas de acceso, carga de contenido y publicación durante la mañana de este viernes."
     },
     {
       "title": "GEELY apuesta por México para impulsar su estrategia de inteligencia artificial, electrificación y movilidad híbrida - WIRED",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZnExejhmSVRyR1U2WTlrSldrMGNpMEFiNWhXQ3FndnJ6NWZiR0tVM2xFay1JX0JmeE1hM0hNWDE1S19wYXlrdW9vSUNOeVJMZDZKTzVqVFRSeEx4VzNnZDg5OVZxZFpmcjl4N1VHTk82WmdVTUZTbDAwNTYzZlFoNmlTczA2VklYU0E?oc=5\" target=\"_blank\">GEELY apuesta por México para impulsar s"
     },
     {
+      "title": "IAB Conecta 2026: la Inteligencia Artificial como el escaparate del potencial humano - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelI0V1VtSmtkNEhoU0E1bTQyZWtETkhVQzdHX0toS19JeTdyQkQxT1JDSkdHcU5hZ2pjMnZrSmdDdFBtOWZrWjI0c1BEZmJRaGpveE1CdW9Fd3lvb0RoZUFyY1Z1T1FMTmF1Q0JrQzY5UWZISy15RHNsR2syV2toeGV6U09PaEdkRElDSFhtUnBIUXIxWEJOdnZtcjZOSFBqYTFZNUhzamU4QTBEbmc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 15 Jun 2026 18:43:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNelI0V1VtSmtkNEhoU0E1bTQyZWtETkhVQzdHX0toS19JeTdyQkQxT1JDSkdHcU5hZ2pjMnZrSmdDdFBtOWZrWjI0c1BEZmJRaGpveE1CdW9Fd3lvb0RoZUFyY1Z1T1FMTmF1Q0JrQzY5UWZISy15RHNsR2syV2toeGV6U09PaEdkRElDSFhtUnBIUXIxWEJOdnZtcjZOSFBqYTFZNUhzamU4QTBEbmc?oc=5\" target=\""
+    },
+    {
       "title": "¿Quién ganará el México vs Corea del Sur? Esto predice la Inteligencia Artificial para el Mundial 2026 - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYW5Kbm1VdEt0dUhkUHh4a1dzLUxsc2xRWXBUckhmLUl2ZUNWUjFreDl5OGNPcVdXR3dMZHJobVYzcVpqaFp5dnpiODl0TWJGcnZmRXNUb0dtamlpU2VNMmVmLTladEx3SUZOVnZ2ZzdtVENiNzFCNHR6VndYbnpKeUFhOEJFaGdUSmYxcE9qN0pHc0p3Nm1MRF9RQWJjZWxxQmNqUWx0aGxoTzlfdDEwZGJQU1JWMHlFay0xS2NzQXFBU1RzTmxoaXV5eHpXUkEyQTRuRGR2a19FWlJta0NoUDd2S2pTekXSAYICQVVfeXFMTlAzd1B0czVVeXp4WUUyd0hNZ0N2LWVWeFJ2ZE1qTDRpYkhwR1F5QnFwc1hURWpIWVV1SGZ1Y0M3R3dtdUpMdTNjRjN3QVdFVjVlLVo5SGJ4bmJ5MjJZU0hyV3FqZzlITllIU1FKX2oyZjFMSVFpbE4wemlSbnQzRk1rR1pwQW1Od3hJOVU1NldWNlc5STFXcWF5TmhTZWd5a2dwVDBxY0dUR2NXUU5STGhwVHdHQVhHMS14eWw4cnItQkY2LWVqaEhtQlVLbFdqS2tVbWZ3Y1Vld3A4amdYWVAwdUxRUG5GdnNVNU1ud2NfOFJHMUZaSFdTckJabXp1Xy13?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sat, 13 Jun 2026 18:17:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYW5Kbm1VdEt0dUhkUHh4a1dzLUxsc2xRWXBUckhmLUl2ZUNWUjFreDl5OGNPcVdXR3dMZHJobVYzcVpqaFp5dnpiODl0TWJGcnZmRXNUb0dtamlpU2VNMmVmLTladEx3SUZOVnZ2ZzdtVENiNzFCNHR6VndYbnpKeUFhOEJFaGdUSmYxcE9qN0pHc0p3Nm1MRF9RQWJjZWxxQmNqUWx0aGxoTzlfdDEwZGJQU1JWMHlFay"
-    },
-    {
-      "title": "Logística del retail entra en la era de la inteligencia artificial agéntica - T21",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnVBRWNUVDRTVEtucjlpM1huQWJBakxHWTBWbGNYQ2NySmFtcFNPMTJYbEFuSU4yQ3BfNTZTTC10MEk0eHJ5R3plNVhSc1RjZFBoVFoweGo5b0dmZ21SOVpsQ3NGNWd6S1VxVUU2UEdpTlprNzhpNmhvZkRUendmX0d6UURSbWxGNE5aWC1XbkJIa0ltYmUybmR0bw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 15 Jun 2026 14:06:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnVBRWNUVDRTVEtucjlpM1huQWJBakxHWTBWbGNYQ2NySmFtcFNPMTJYbEFuSU4yQ3BfNTZTTC10MEk0eHJ5R3plNVhSc1RjZFBoVFoweGo5b0dmZ21SOVpsQ3NGNWd6S1VxVUU2UEdpTlprNzhpNmhvZkRUendmX0d6UURSbWxGNE5aWC1XbkJIa0ltYmUybmR0bw?oc=5\" target=\"_blank\">Logística del ret"
     },
     {
       "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",
@@ -75,14 +75,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3BRTUtRWlhhV3h1aU52UmZRWVRwTXhTeWFEWG1lcU1mRDA0SXRNZjNGbkNHcmJicUF4Vlk5ZFRYRldnVWg5Vlpid0hWTnUzbmh2YmlqeVlSbG5UNUtSZFV3SExGOG9RbE1BOTJnNVAwMzZieVJMNUN1OWZ6TDZIaXRYSnRqZDg2WlFRTWNwaDJoQmpRc3ZGOC1QUVJNM3FzQ05TaGFqaTEzV2duc2hObUdTSmFQenlPRS"
     },
     {
-      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
-    },
-    {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
@@ -91,12 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
+    },
+    {
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
       "title": "América Latina encabeza el uso de la IA en la educación superior - TecScience",
