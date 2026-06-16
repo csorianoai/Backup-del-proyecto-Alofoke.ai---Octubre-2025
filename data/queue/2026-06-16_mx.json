@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La industria de lentes inteligentes acelera su desarrollo con nuevas herramientas de Qualcomm",
+      "url": "https://expansion.mx/tecnologia/2026/06/16/la-industria-de-lentes-inteligentes-acelera-su-desarrollo-con-nuevas-herramientas-de-qualcomm",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 16 Jun 2026 17:30:58 GMT",
+      "summary": "La empresa de chips lanzó una nueva plataforma para facilitar el desarrollo de toda la tecnología detrás de los lentes inteligentes, además de un chip para dispositivos de Realidad Virtual."
+    },
+    {
+      "title": "Threads llega a 500 millones de usuarios y apuesta por comunidades para crecer",
+      "url": "https://expansion.mx/tecnologia/2026/06/16/threads-llega-500-millones-usuarios",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 16 Jun 2026 15:00:16 GMT",
+      "summary": "El crecimiento de la plataforma coincide con una nueva estrategia centrada en comunidades y recomendaciones de contenido"
+    },
+    {
+      "title": "Crisis de RAM presiona a HP y refuerza su apuesta por impresoras",
+      "url": "https://expansion.mx/tecnologia/2026/06/16/crisis-de-ram-presiona-a-hp-y-refuerza-su-apuesta-por-impresoras",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 16 Jun 2026 11:55:48 GMT",
+      "summary": "El encarecimiento y escasez de memoria RAM eleva costos en la industria y obliga a HP México a diversificar ingresos con servicios de impresión y soluciones complementarias."
+    },
+    {
+      "title": "Samsung, IBM y Amazon se convierten en escuelas de tecnología en México",
+      "url": "https://expansion.mx/tecnologia/2026/06/15/samsung-ibm-amazon-mexico-cursos-gratis-ia-tecnologia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Jun 2026 20:00:52 GMT",
+      "summary": "El 68% de los empleadores en México no encuentra perfiles digitales calificados. Samsung, Cisco, IBM y Oracle respondieron con programas gratuitos de formación en IA y tecnología para jóvenes."
+    },
+    {
       "title": "Anthropic suspende acceso a su IA más potente",
       "url": "https://expansion.mx/tecnologia/2026/06/15/anthropic-suspende-acceso-mythos-fable-5",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Mon, 15 Jun 2026 17:30:18 GMT",
       "summary": "La empresa estadounidense informó del bloqueo de sus dos nuevos modelos, su versión muy restringida Mythos 5 y su variante limitada para el gran público, Fable 5."
-    },
-    {
-      "title": "Reino Unido prohibirá las redes sociales a menores de 16 años, como resultado de una consulta ciudadana",
-      "url": "https://expansion.mx/tecnologia/2026/06/15/reino-unido-prohibir-redes-sociales",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 15 Jun 2026 14:00:38 GMT",
-      "summary": "El gobierno británico dijo que implementará un sistema de toque de queda y descansos para evitar el “scroll infinito” entre la población de jóvenes."
-    },
-    {
-      "title": "China gana terreno a EU en la carrera global por talento en IA",
-      "url": "https://expansion.mx/tecnologia/2026/06/15/china-plan-da-ventaja-guerra-tecnologica-estados-unidos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 15 Jun 2026 11:53:09 GMT",
-      "summary": "El país asiático lidera la formación de especialistas STEM y atrae de regreso a expertos formados en Silicon Valley, pese a menores salarios."
-    },
-    {
-      "title": "Qué significa que Elon Musk se convierta en el primer billonario del mundo, al dispararse las acciones de SpaceX",
-      "url": "https://expansion.mx/tecnologia/2026/06/12/elon-musk-primer-trillonario-historia-spacex-fortuna",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Jun 2026 18:42:56 GMT",
-      "summary": "SpaceX pasó de fabricante de cohetes a un gigante de satélites e inteligencia artificial con una valuación cercana a los 2 billones de dólares."
-    },
-    {
-      "title": "Potente, ligera y costosa: la Zenbook A16 no es para todos",
-      "url": "https://expansion.mx/tecnologia/2026/06/12/potente-ligera-y-costosa-la-zenbook-a16-no-es-para-todos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 12 Jun 2026 18:00:07 GMT",
-      "summary": "La Asus Zenbook A16 es la primera laptop con el chip Snapdragon X2 Elite, el procesador de IA más potente de Qualcomm."
     },
     {
       "title": "Indra Group presenta IndraMind en México, su propuesta de Inteligencia Artificial para la seguridad integral del país - Indra Group",
