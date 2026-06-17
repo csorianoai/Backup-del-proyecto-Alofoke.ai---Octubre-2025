@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "La promesa de que la IA hará todo por ti se cumplirá en los próximos 10 años",
-      "url": "https://expansion.mx/tecnologia/2026/06/17/promesa-ia-hara-todo-por-ti-se-cumplira-proximos-10-anos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Jun 2026 20:00:47 GMT",
-      "summary": "La industria lleva alrededor de dos años prometiendo un momento en que los agentes tomen decisiones por las personas, pero eso tardará en llegar por falta de información organizada."
-    },
-    {
-      "title": "El G7 pide a las tecnológicas proteger a los menores ante los riesgos del internet",
-      "url": "https://expansion.mx/tecnologia/2026/06/17/paises-g7-aumenta-presion-tecnologicas-proteger-menores",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 17 Jun 2026 18:38:56 GMT",
-      "summary": "El llamado se produce en medio de las crecientes preocupaciones por los riesgos que plantea la expansión de la inteligencia artificial"
-    },
-    {
       "title": "Android 17: estas son todas las novedades del sistema operativo de Google",
       "url": "https://expansion.mx/tecnologia/2026/06/17/google-pixel-estrenan-android-17-nueva-actualizacion",
       "source": "Expansión Tecnología",
@@ -43,12 +27,20 @@
       "summary": "El crecimiento de la plataforma coincide con una nueva estrategia centrada en comunidades y recomendaciones de contenido"
     },
     {
-      "title": "Expertos ven a México como polo regional de la Inteligencia Artificial - HolaNews",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY20zd2lFYzNTSHFuNC11RVFMMjJOajBHZW1SQWZDMktRbE9KZkxPdHBibjFfUy1nYVdWekdMVmhXYmpEcmNQM1ZyZTdHb2MxVU5QbDBMS0ZzSkt5aGNWcFVOX05hMnk0dWtfUzhNYjVaQlh2ZWJXODZ2SVE5NFZlWjhMTWhJUDVrZVByR1IxM0E1b2RqcXhJ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 17 Jun 2026 17:01:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNY20zd2lFYzNTSHFuNC11RVFMMjJOajBHZW1SQWZDMktRbE9KZkxPdHBibjFfUy1nYVdWekdMVmhXYmpEcmNQM1ZyZTdHb2MxVU5QbDBMS0ZzSkt5aGNWcFVOX05hMnk0dWtfUzhNYjVaQlh2ZWJXODZ2SVE5NFZlWjhMTWhJUDVrZVByR1IxM0E1b2RqcXhJ?oc=5\" target=\"_blank\">Expertos ven a México c"
+      "title": "Crisis de RAM presiona a HP y refuerza su apuesta por impresoras",
+      "url": "https://expansion.mx/tecnologia/2026/06/16/crisis-de-ram-presiona-a-hp-y-refuerza-su-apuesta-por-impresoras",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 16 Jun 2026 11:55:48 GMT",
+      "summary": "El encarecimiento y escasez de memoria RAM eleva costos en la industria y obliga a HP México a diversificar ingresos con servicios de impresión y soluciones complementarias."
+    },
+    {
+      "title": "Samsung, IBM y Amazon se convierten en escuelas de tecnología en México",
+      "url": "https://expansion.mx/tecnologia/2026/06/15/samsung-ibm-amazon-mexico-cursos-gratis-ia-tecnologia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 15 Jun 2026 20:00:52 GMT",
+      "summary": "El 68% de los empleadores en México no encuentra perfiles digitales calificados. Samsung, Cisco, IBM y Oracle respondieron con programas gratuitos de formación en IA y tecnología para jóvenes."
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Corea del Sur - Sports Illustrated",
@@ -67,6 +59,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMFVZNGd3UEU5Z01LMlMxU19aSEtodFFrWHQ4Y1UzMTBZQkhta1pESFNsbTFiTEVfRjJnZ1JjS2FPdUlUWTNyWjQ2c2d3cFpGeDFmT0VaSWNKMzVsNksydHNEQ2tTNXlKbTdCN3h6Vy1pVTFFbFo2eTBFWml6aFJEamd3S2J5cHhXeVRXYUpiV0pFczJPeTl1ajVqTm15NC10LVNWNzRDUndHMGRuRGVOVTFkMFY2UHNrMm"
     },
     {
+      "title": "Expertos ven a México como polo regional de la Inteligencia Artificial - UDG TV",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVhRWHFzcXdEdlZnMXZacWdBNEFVeXRKM25oa2VfbVU2YWpOMUIzb0VyWHB4TnJFZ0FUMHRtNE1iTmtkYlViUzRzMmZ5azk3NGlYTWZnNmlra0wzMUUwRlJvcXRsX3dXWnY1N2dUbG5GdGJhWVdaZWc1VXgxUTZ3eWRxR1QzN3lHQnNZ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 17 Jun 2026 16:53:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVhRWHFzcXdEdlZnMXZacWdBNEFVeXRKM25oa2VfbVU2YWpOMUIzb0VyWHB4TnJFZ0FUMHRtNE1iTmtkYlViUzRzMmZ5azk3NGlYTWZnNmlra0wzMUUwRlJvcXRsX3dXWnY1N2dUbG5GdGJhWVdaZWc1VXgxUTZ3eWRxR1QzN3lHQnNZ?oc=5\" target=\"_blank\">Expertos ven a México como polo regiona"
+    },
+    {
       "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
+      "title": "EXPO PACK México 2026: 700+ expositores en automatización - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjJNZmpFNUJWMW1NT2RpRkFTcVo4a0pEZ2d6OThHTkZBT2ViamdOTDlBYmVxcUl4Z3k4NjRjT2ZaeFkyMjMwRGd5LU0xa21TYWx6Mlhqa1NwU0VzeUxjY0EycVd1aThTZ19yYmFlTWVzZURQVGVwYTBkVklJNElhZ0NGeGxyMFFLQkVaWmV0Yw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcjJNZmpFNUJWMW1NT2RpRkFTcVo4a0pEZ2d6OThHTkZBT2ViamdOTDlBYmVxcUl4Z3k4NjRjT2ZaeFkyMjMwRGd5LU0xa21TYWx6Mlhqa1NwU0VzeUxjY0EycVd1aThTZ19yYmFlTWVzZURQVGVwYTBkVklJNElhZ0NGeGxyMFFLQkVaWmV0Yw?oc=5\" target=\"_blank\">EXPO PACK México 2026: 700+ expos"
+    },
+    {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 01 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
-    },
-    {
-      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
