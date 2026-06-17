@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La promesa de que la IA hará todo por ti se cumplirá en los próximos 10 años",
+      "url": "https://expansion.mx/tecnologia/2026/06/17/promesa-ia-hara-todo-por-ti-se-cumplira-proximos-10-anos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 17 Jun 2026 20:00:47 GMT",
+      "summary": "La industria lleva alrededor de dos años prometiendo un momento en que los agentes tomen decisiones por las personas, pero eso tardará en llegar por falta de información organizada."
+    },
+    {
+      "title": "El G7 pide a las tecnológicas proteger a los menores ante los riesgos del internet",
+      "url": "https://expansion.mx/tecnologia/2026/06/17/paises-g7-aumenta-presion-tecnologicas-proteger-menores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 17 Jun 2026 18:38:56 GMT",
+      "summary": "El llamado se produce en medio de las crecientes preocupaciones por los riesgos que plantea la expansión de la inteligencia artificial"
+    },
+    {
+      "title": "Android 17: estas son todas las novedades del sistema operativo de Google",
+      "url": "https://expansion.mx/tecnologia/2026/06/17/google-pixel-estrenan-android-17-nueva-actualizacion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 17 Jun 2026 16:00:06 GMT",
+      "summary": "Conoce las funciones de inteligencia artificial que llegarán al ecosistema Android en los próximos meses y cómo se desplegarán."
+    },
+    {
       "title": "La industria de lentes inteligentes acelera su desarrollo con nuevas herramientas de Qualcomm",
       "url": "https://expansion.mx/tecnologia/2026/06/16/la-industria-de-lentes-inteligentes-acelera-su-desarrollo-con-nuevas-herramientas-de-qualcomm",
       "source": "Expansión Tecnología",
@@ -19,28 +43,28 @@
       "summary": "El crecimiento de la plataforma coincide con una nueva estrategia centrada en comunidades y recomendaciones de contenido"
     },
     {
-      "title": "Crisis de RAM presiona a HP y refuerza su apuesta por impresoras",
-      "url": "https://expansion.mx/tecnologia/2026/06/16/crisis-de-ram-presiona-a-hp-y-refuerza-su-apuesta-por-impresoras",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 16 Jun 2026 11:55:48 GMT",
-      "summary": "El encarecimiento y escasez de memoria RAM eleva costos en la industria y obliga a HP México a diversificar ingresos con servicios de impresión y soluciones complementarias."
+      "title": "Expertos ven a México como polo regional de la Inteligencia Artificial - HolaNews",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY20zd2lFYzNTSHFuNC11RVFMMjJOajBHZW1SQWZDMktRbE9KZkxPdHBibjFfUy1nYVdWekdMVmhXYmpEcmNQM1ZyZTdHb2MxVU5QbDBMS0ZzSkt5aGNWcFVOX05hMnk0dWtfUzhNYjVaQlh2ZWJXODZ2SVE5NFZlWjhMTWhJUDVrZVByR1IxM0E1b2RqcXhJ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 17 Jun 2026 17:01:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNY20zd2lFYzNTSHFuNC11RVFMMjJOajBHZW1SQWZDMktRbE9KZkxPdHBibjFfUy1nYVdWekdMVmhXYmpEcmNQM1ZyZTdHb2MxVU5QbDBMS0ZzSkt5aGNWcFVOX05hMnk0dWtfUzhNYjVaQlh2ZWJXODZ2SVE5NFZlWjhMTWhJUDVrZVByR1IxM0E1b2RqcXhJ?oc=5\" target=\"_blank\">Expertos ven a México c"
     },
     {
-      "title": "Samsung, IBM y Amazon se convierten en escuelas de tecnología en México",
-      "url": "https://expansion.mx/tecnologia/2026/06/15/samsung-ibm-amazon-mexico-cursos-gratis-ia-tecnologia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 15 Jun 2026 20:00:52 GMT",
-      "summary": "El 68% de los empleadores en México no encuentra perfiles digitales calificados. Samsung, Cisco, IBM y Oracle respondieron con programas gratuitos de formación en IA y tecnología para jóvenes."
+      "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Corea del Sur - Sports Illustrated",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEx6TmRvUFV6LWRmUWFWSmpHekk2WTEzSlVfVHVoMlBkX1hPUzZYTDVJSzRUdm9WdUVMRDNkZlV5bHB2RC1JQlNpeEx6YUh3UkpMYmEtc1drVWFUVkI2Z1dieHJvOW9IbUxRZS1fdDRTMkdPNXlrR2x0aTNER0Judk81aUp6blJKaE9jOENOWGc2UFJhcnlGM3F2TVR6SjJJb0E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 17 Jun 2026 09:19:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcEx6TmRvUFV6LWRmUWFWSmpHekk2WTEzSlVfVHVoMlBkX1hPUzZYTDVJSzRUdm9WdUVMRDNkZlV5bHB2RC1JQlNpeEx6YUh3UkpMYmEtc1drVWFUVkI2Z1dieHJvOW9IbUxRZS1fdDRTMkdPNXlrR2x0aTNER0Judk81aUp6blJKaE9jOENOWGc2UFJhcnlGM3F2TVR6SjJJb0E?oc=5\" target=\"_blank\">El pronó"
     },
     {
-      "title": "Anthropic suspende acceso a su IA más potente",
-      "url": "https://expansion.mx/tecnologia/2026/06/15/anthropic-suspende-acceso-mythos-fable-5",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 15 Jun 2026 17:30:18 GMT",
-      "summary": "La empresa estadounidense informó del bloqueo de sus dos nuevos modelos, su versión muy restringida Mythos 5 y su variante limitada para el gran público, Fable 5."
+      "title": "Indra Group presenta IndraMind en México, su propuesta de Inteligencia Artificial para la seguridad integral del país - Indra Group",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMFVZNGd3UEU5Z01LMlMxU19aSEtodFFrWHQ4Y1UzMTBZQkhta1pESFNsbTFiTEVfRjJnZ1JjS2FPdUlUWTNyWjQ2c2d3cFpGeDFmT0VaSWNKMzVsNksydHNEQ2tTNXlKbTdCN3h6Vy1pVTFFbFo2eTBFWml6aFJEamd3S2J5cHhXeVRXYUpiV0pFczJPeTl1ajVqTm15NC10LVNWNzRDUndHMGRuRGVOVTFkMFY2UHNrMmxUUGt5YjA2dTBYRVFxU2gxSFhwZTBOOENXXzZjZm04ZV9JT05Pb2tqT0stT3ZiaXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 16 Jun 2026 15:32:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMFVZNGd3UEU5Z01LMlMxU19aSEtodFFrWHQ4Y1UzMTBZQkhta1pESFNsbTFiTEVfRjJnZ1JjS2FPdUlUWTNyWjQ2c2d3cFpGeDFmT0VaSWNKMzVsNksydHNEQ2tTNXlKbTdCN3h6Vy1pVTFFbFo2eTBFWml6aFJEamd3S2J5cHhXeVRXYUpiV0pFczJPeTl1ajVqTm15NC10LVNWNzRDUndHMGRuRGVOVTFkMFY2UHNrMm"
     },
     {
       "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
@@ -75,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
+      "title": "América Latina encabeza el uso de la IA en la educación superior - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXJVUDBTSjlWNDNVTmk2d25MY1NsamdFRFlJMTRyTWd6UVR2RWpQdDN1MnpJd1JlX1RwLWNEWnE1QmtfM0tTZ1BkLUV6Ty1EWDdXcUtIUWtFQkpsQUI0UEVyZWhxeW5sNGxsQlJPQzJDeDAwQkVMQ21rbndCaURUeVFweUJkUlJlaUJv?oc=5\" target=\"_blank\">América Latina encabeza el uso de la IA"
     },
     {
       "title": "Humanidades Digitales: nueva carrera del Tec de Monterrey que integra tecnología y humanismo para abordar desafíos de la IA - Yahoo Finanzas",
@@ -89,30 +113,6 @@
       "category": "news",
       "published": "Wed, 22 Oct 2025 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDBOU0g5a2YyckdrTm9CZTk1QW82WTc4bkZ5dUxqOXMwZ0dZSFVhZmFOa1FWVkMybklnT0RWNGZqT19rS2h4UHk0WG83cTFLUkVfYXZsWU40Q3E2d0g0RTBGZ0hBcVI3VGtJbzhUdnI3X3RvUTBoYWZWdnBnTlJpU2lPbzIxS3NDZ3dqNlQwX1diUk1XX2gwQVB2bHRIQmlvZUE?oc=5\" target=\"_blank\">Humanida"
-    },
-    {
-      "title": "BBVA sitúa la IA en el centro de la banca con OpenAI - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PVVNhbUtuRWpReVlSc2xFd3BaUk1YUkpzNm9MbFU1cV9SQjJyTm5NY0M4anVJOEVQVHBMVkJRNUlZQU15a2p1UGlIenc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PVVNhbUtuRWpReVlSc2xFd3BaUk1YUkpzNm9MbFU1cV9SQjJyTm5NY0M4anVJOEVQVHBMVkJRNUlZQU15a2p1UGlIenc?oc=5\" target=\"_blank\">BBVA sitúa la IA en el centro de la banca con OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>"
-    },
-    {
-      "title": "BBVA México regalará licencias de ChatGPT Go a sus 34 millones de clientes - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5\" t"
-    },
-    {
-      "title": "ChatGPT ya tendrá anuncios en México: OpenAI confirma expansión de su piloto publicitario - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUJZZHh5X1NkRE9XZTl6TnZLaWI0R2FMU0F0TnEzdmx6MXBlUDRzQ1lkai1LUzFhZlA3aHdEeWp1UHB2Z0xib2lTVThsU2pHbGh5ZEl1M2dGVmF6WW9QUEdsb2FPS3YzZDlvdXpJaXViN05ET1NIV3BQQWFjQlVjRzFzdHB6UnRGRkdiSWxwZ3UteEM1RmRVSWY1WVprc3MxOEExUzM0VmVfOVB0eGQxVFlHVVpFVGRJeUllWkl1YlBhRE1DdUkyVnFFcnpFeERWVVh1ZHpoTQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUJZZHh5X1NkRE9XZTl6TnZLaWI0R2FMU0F0TnEzdmx6MXBlUDRzQ1lkai1LUzFhZlA3aHdEeWp1UHB2Z0xib2lTVThsU2pHbGh5ZEl1M2dGVmF6WW9QUEdsb2FPS3YzZDlvdXpJaXViN05ET1NIV3BQQWFjQlVjRzFzdHB6UnRGRkdiSWxwZ3UteEM1RmRVSWY1WVprc3MxOEExUzM0VmVfOVB0eGQxVFlHVVpFVGRJeU"
     }
   ],
   "count": 14
