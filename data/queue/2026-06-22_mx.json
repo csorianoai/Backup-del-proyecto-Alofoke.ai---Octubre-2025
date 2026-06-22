@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Will Cathcart deja la dirección de WhatsApp tras siete años",
+      "url": "https://expansion.mx/tecnologia/2026/06/22/will-cathcart-deja-direccion-de-whatsapp",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 22 Jun 2026 16:29:29 GMT",
+      "summary": "El ejecutivo anunció su salida a través de Threads y permanecerá dentro de Meta para desarrollar nuevos productos"
+    },
+    {
+      "title": "Samsung ya no es la empresa más valiosa de Corea del Sur",
+      "url": "https://expansion.mx/tecnologia/2026/06/22/samsung-ya-no-es-empresa-mas-valiosa-corea-del-sur-sk-hynix",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 22 Jun 2026 15:00:31 GMT",
+      "summary": "SK Hynix, empresa tecnológica que se encarga de fabricar chips de memoria, superó a Samsung, gracias al auge de la IA y el uso de sus componentes para centros de datos."
+    },
+    {
       "title": "China convierte la soledad en negocio: los robots que simulan novios y esposas ya se venden por 3 mil yuanes",
       "url": "https://expansion.mx/tecnologia/2026/06/19/china-convierte-soledad-negocio-robots-novios-y-esposas",
       "source": "Expansión Tecnología",
@@ -27,20 +43,20 @@
       "summary": "Refrigeradores, lavasecadoras, cámaras, cerraduras y sistemas conectados ganan terreno en los hogares mexicanos, mientras este mercado apunta a valer 4,900 millones de dólares hacia 2034."
     },
     {
-      "title": "“No lo volveré a hacer”: el veredicto de un chofer de Uber que aceptó un viaje al Estadio CDMX",
-      "url": "https://expansion.mx/tecnologia/2026/06/18/no-volvere-a-hacer-chofer-de-uber-viaje-estadio-azteca",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 18 Jun 2026 22:30:21 GMT",
-      "summary": "Entre embotellamientos y cierres viales, un conductor decidió probar las ganancias que prometía el Mundial y terminó convencido de que acercarse al estadio durante los partidos no compensa."
+      "title": "Arquidiócesis de México ve oportuno abordar desafío de la inteligencia artificial en la educación - ACI Prensa",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdFdxRExXV3NjVEJQR2tUTEdscUpOc0YwYXRUWENFVkZhX09JQmlxVzlPWFkyTmo2Vmw0QUdRYjZMQ09QSnIteFI1dVBQd3c2bjVGQjFVUGxCdUlHSGhpWE9yeEtFVm42bXlKZ3FMdDJVbzkwaDBocXlEV0ZJMGdvRzFxcHpST1RycXY4S1VxdFVQZjFRa2c3ck1ZeUhCck81RU8zOGIxWDExaDgxZThFcFFyNUZ2N2EtU3NzekZHRGpCTGJ6VVl0aFV5NE9SYlJTNkR1SV8wSjZQb1nSAdsBQVVfeXFMTXRXcURMV1dzY1RCUEdrVExHbHFKTnNGMGF0VFhDRVZGYV9PSUJpcVc5T1hZMk5qNlZsNEFHUWI2TENPUEpyLXhSNXVQUHd3Nm41RkIxVVBsQnVJR0hoaVhPcnhLRVZuNm15SmdxTHQyVW85MGgwaHF5RFdGSTBnb0cxcXB6Uk9UcnF2OEtVcXRVUGYxUWtnN3JNWXlIQnJPNUVPMzhiMVgxMWg4MWU4RXBRcjVGdjdhLVNzc3pGR0RqQkxielVZdGhVeTRPUmJSUzZEdUlfMEo2UG9Z?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 22 Jun 2026 21:21:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdFdxRExXV3NjVEJQR2tUTEdscUpOc0YwYXRUWENFVkZhX09JQmlxVzlPWFkyTmo2Vmw0QUdRYjZMQ09QSnIteFI1dVBQd3c2bjVGQjFVUGxCdUlHSGhpWE9yeEtFVm42bXlKZ3FMdDJVbzkwaDBocXlEV0ZJMGdvRzFxcHpST1RycXY4S1VxdFVQZjFRa2c3ck1ZeUhCck81RU8zOGIxWDExaDgxZThFcFFyNUZ2N2EtU3"
     },
     {
-      "title": "Las empresas de IA esperan más intervención del gobierno; “es algo con lo que tendremos que vivir”: Databricks",
-      "url": "https://expansion.mx/tecnologia/2026/06/18/arma-doble-filo-eu-vigile-mas-empresas-ia-databricks",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 18 Jun 2026 21:00:23 GMT",
-      "summary": "El gobierno de Donald Trump quiere tener mayor control sobre los modelos de IA y solicitó su revisión 30 días antes de que se hagan públicos, sin embargo, esto preocupa a las empresas."
+      "title": "México – Inteligencia artificial en la educación - Diario Jurídico",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLU13eVhtVm5BMTJzWWxMLU5aSkZ5MUVPLVRNZnQzS3FlRUF0VjhoM3BiQkhOVzJ6UWxqRnhMdzNmWHM5UzFpT3VpdXdHQ2R6anNFSmZNQV84NjRZU2MyenFScEFhOUFwTVBkT01zNVBqQTBvRXpNcWoyNW9IZWx5ME1XZi0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 22 Jun 2026 22:53:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLU13eVhtVm5BMTJzWWxMLU5aSkZ5MUVPLVRNZnQzS3FlRUF0VjhoM3BiQkhOVzJ6UWxqRnhMdzNmWHM5UzFpT3VpdXdHQ2R6anNFSmZNQV84NjRZU2MyenFScEFhOUFwTVBkT01zNVBqQTBvRXpNcWoyNW9IZWx5ME1XZi0?oc=5\" target=\"_blank\">México – Inteligencia artificial en la educación"
     },
     {
       "title": "México formaliza la creación de un clúster nacional para fortalecer el desarrollo de IA - WIRED",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Mon, 22 Jun 2026 20:05:06 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUtmWGNwd3p2bUEyaGxDUGFlSDZsNWZLZ2h1VEdJaDg5a3Nna1hENlB0VEdqRnVRYzFxTWhmODlyRjcybm9OUmhNcTdnbGkxQTM1aXYzYU11NVByQWZJcV9lVHBOeUxLVjUxcVI3ajktVzkyOVFpb19GcW5zUklMUl83cDdhTXRCelZiVFFjM3R6NHMwM1E1SWt0MzNDb1RFZkpQdC1TMDNZT3FVTHRGVno5RENXbGxZX3"
-    },
-    {
-      "title": "México acelera la formación tecnológica con Samsung, IBM y Amazon - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDd1Q3doTjV3REpBTUdHM2lwMUo2M2pvLWlQdWdXT0lxblNrSk1yWlhmTUlBRG9lTmRiWEdRc2RrS1hVdlhxQndnNlNJd2U4TWxqbkhPeE9qeFdyWTBEN0x5MEI1cFFNdTJQVDJkVC1lTG8xYnFteXpTcW9tbW5rMThWYThQSFNzOUo4bUdUX3dOLWpnSnBuaGJxODY4aVAwS2FYbFZydWp4RTRhcWktVW9UOXJqZE0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 22 Jun 2026 14:31:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDd1Q3doTjV3REpBTUdHM2lwMUo2M2pvLWlQdWdXT0lxblNrSk1yWlhmTUlBRG9lTmRiWEdRc2RrS1hVdlhxQndnNlNJd2U4TWxqbkhPeE9qeFdyWTBEN0x5MEI1cFFNdTJQVDJkVC1lTG8xYnFteXpTcW9tbW5rMThWYThQSFNzOUo4bUdUX3dOLWpnSnBuaGJxODY4aVAwS2FYbFZydWp4RTRhcWktVW9UOXJqZE0?oc"
-    },
-    {
-      "title": "Expertos ven a México como polo regional de la Inteligencia Artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWY4emM2V1BDVnF2SHdXQUxLdHo5eFJjX2p2THVSN2RhTThraUlRWTFJRlE3MzY2M3lkV1UtYlpHM29HR2VoZUgwSkp6Q2F6QkJ3Z1Zma2tneENCMS16blNSSnByZEd3LVFOQjd3QXQ0LS1yM0xSem04Y0t2V1E5MV9OWERtTkpfWGs2aExvelg0N3VRTnQ3UW9VYTJSUEZmOVZYYllHWV91N3FyWDJwczNkekExWEUta3VVUUlNcnDSAdsBQVVfeXFMT19pWHBvRjhySDhZR2Vvc2VFT3ExdllxV3Rrb2doeTdZcDRqQVpNeGpteVRyUTIzZk9nX091TDg1TkFHdm1UTHhtd2RIMTFhT2ZMampiUGNIRjhxT1pxdHZtZnAtNVNnblJ3cmxDeE1tR2tseDNtd3JSR3Q1WUJlS01NTmZXN0tIb3VXQkVHWmpReDVNRzhvWlQ5X1hkY2k5czNLd1FuUXFQY05jM3hyb204VGYtZHhweXdwR215QnY2TWtrYzN6RDQtVWphTGpFRHN5elFtSjh3NzRJ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 17 Jun 2026 17:17:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQWY4emM2V1BDVnF2SHdXQUxLdHo5eFJjX2p2THVSN2RhTThraUlRWTFJRlE3MzY2M3lkV1UtYlpHM29HR2VoZUgwSkp6Q2F6QkJ3Z1Zma2tneENCMS16blNSSnByZEd3LVFOQjd3QXQ0LS1yM0xSem04Y0t2V1E5MV9OWERtTkpfWGs2aExvelg0N3VRTnQ3UW9VYTJSUEZmOVZYYllHWV91N3FyWDJwczNkekExWEUta3"
     },
     {
       "title": "México, un país convertido en mercado estratégico para las startups españolas especialistas en inteligencia artificial - El Español",
