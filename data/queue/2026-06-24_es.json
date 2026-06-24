@@ -3,14 +3,6 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de la actualidad política, en directo | Sánchez a Junts: “Si quieren presentar una moción de censura con PP y Vox, háganla, pero dejen los subterfugios”",
-      "url": "https://elpais.com/espana/2026-06-24/ultima-hora-de-la-actualidad-politica-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 24 Jun 2026 16:20:03 GMT",
-      "summary": "Junts pide al presidente del Gobierno que ponga a otro candidato | Sánchez carga contra el PP y acusa a Feijóo de “tolerar y utilizar” la corrupción | Feijóo, a los socios del Ejecutivo: “Deberíamos echar a este Gobierno con una moción de censura”"
-    },
-    {
       "title": "Las palabras de Sánchez sobre Amador encienden al Gobierno de Ayuso: “Sufre una operación de Estado”",
       "url": "https://elpais.com/espana/madrid/2026-06-24/las-palabras-de-sanchez-sobre-amador-encienden-al-gobierno-de-ayuso-sufre-una-operacion-de-estado.html",
       "source": "El País Tecnología",
@@ -43,6 +35,14 @@
       "summary": "Fuentes parlamentarias del PSOE han evitado entrar en el choque y apelan al “máximo respeto” hacia el expresidente como militante socialista"
     },
     {
+      "title": "Keiko Fujimori se asegura la victoria en las presidenciales de Perú al obtener una ventaja irreversible en el escrutinio de votos",
+      "url": "https://elpais.com/america/2026-06-24/keiko-fujimori-se-asegura-la-victoria-en-las-presidenciales-de-peru-al-obtener-una-ventaja-irreversible-en-el-escrutinio-de-votos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Jun 2026 15:25:15 GMT",
+      "summary": "El rival de izquierdas, Roberto Sánchez, denuncia fraude y se niega a reconocer la victoria de la derechista"
+    },
+    {
       "title": "España desarrollará una gigafactoría de inteligencia artificial - hjdoblekhuila.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUpXN2xJZUZxR1MteEVYT2UyQTNJM3FmTWYzZTg3cklob2xqR05KRHBZUHBCa2Q3RTRDQXhXWmhocnh4R3JjLW9hNERkNHMwZjRfaFlwTDFDcmxzVFg4ZmxDOG1LWlBia3k2b2o3bnl1UjVnLXFXYXc4QlZVZzhUZjFiSnNpZlVPQVlycUFDVy1fUU1PZE4xNzNjd1h2OGM?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUpXN2xJZUZxR1MteEVYT2UyQTNJM3FmTWYzZTg3cklob2xqR05KRHBZUHBCa2Q3RTRDQXhXWmhocnh4R3JjLW9hNERkNHMwZjRfaFlwTDFDcmxzVFg4ZmxDOG1LWlBia3k2b2o3bnl1UjVnLXFXYXc4QlZVZzhUZjFiSnNpZlVPQVlycUFDVy1fUU1PZE4xNzNjd1h2OGM?oc=5\" target=\"_blank\">España desar"
     },
     {
-      "title": "¿Comprarías un robot que fuera una réplica de un ser querido muerto? La película que habla sobre cómo la tecnología podría generar androides a partir de personas - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOcG5raEt6ZXJkS0pRdlh0VDdvQW1TR3RMakgyVTZ0ZG9KdC12S0Z0bnBnVHRtUjVFRDJFWXJPdVBlb0VfN1k2alVZa1o4dzZ4OUxGQWNZRFRVTFBjMmFWNjE0V2lTcEVJVVJpQ04yVjFsckR4NkdvcVlTeUJ1eG1SaDJ2blh2Z3hXNW1QWE9fbVNBaXpqa09WeHktVGpyb25lc0pPSEp2QjRKZHJsRXFnOEdaT0xaaVo1eU13cUl4UlJNRy1aaUVoRzA0WEh3X2NrbjRfVHFpUHZ3NDVFZU10Z0J3dF9fX0ZONjIxLVlVTnY0S0ctaEVRdTdSRldpNUU5dWttUmw4MTBHQkR6Snh4Ulkza1M2eW1UaTdXelRjMjlYR1AtRk1uZGEwaVR5YU1YX05neNIBzwJBVV95cUxQZVQyZ29BanpmUU5Qdm4zVjhJVHE4RWR1ZkZkeDZLeUNQQS04X3NtdktkcElTN1VBbEN5UG1YSUt1ZUlfM05sNkV1WXp1TkFwMDBtVWxlUEFfbUFRYUczWnFBeHBjSy0xOEtNM0QyR0hjRFhRMEdiSndmd2Viclpjc3FJOVRVd3Y2Z2JKa2RqSXd5SEhPejNSRHVkY0xjX3lCOXdlZU5Cc3Y5a1MwQks5cXhYRndJYllDNFVvSjVOVFFfS3IwQUJqRDI1MllUTElCUGtTdW0yd1h5bmlmdEUzSGpkdENpSTctMnduNFV6VmliYV9xUEE1dXE3cUYyN0ZVeWlDc0ZVMlNoR0xXSTFBc0M0U0lZVVNWTXEtWUpfZklLMTVIeVZrMkUxQkl1YWEzdDVZd3h2Y1cwV3BVTERJTWQ1Z1pCNFpNY0RpRWpZOA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 24 Jun 2026 13:32:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxOcG5raEt6ZXJkS0pRdlh0VDdvQW1TR3RMakgyVTZ0ZG9KdC12S0Z0bnBnVHRtUjVFRDJFWXJPdVBlb0VfN1k2alVZa1o4dzZ4OUxGQWNZRFRVTFBjMmFWNjE0V2lTcEVJVVJpQ04yVjFsckR4NkdvcVlTeUJ1eG1SaDJ2blh2Z3hXNW1QWE9fbVNBaXpqa09WeHktVGpyb25lc0pPSEp2QjRKZHJsRXFnOEdaT0xaaVo1eU"
-    },
-    {
       "title": "Carlos Torres Vila: \"Europa y España tienen una oportunidad histórica para ganar competitividad con la inteligencia artificial\" - BBVA",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd1FuMTk0cWZyRUZCWjZOTVV2cjZYckktY2VlSDZhcGswTXhDWFVtZ1lhUkNhMFpOUjZzUHZiUGx5Mmhqc3U1cW5Cd29PNzhKWGsxd1QteDJ0Nkp4bklKQlNzamFMOE1IZW9SM0pwSmJsRjRsWU51UmJ4azRnTGQwdHhKTWJmSktYTnh1c3F1UGl6Z2xQTVpOUmIxajhlQXdxRVlWMGN2clhVdkdmLVVMNTdBSWF6OVYtU0Q3VFNxZDdQcjM4c2J1THVoZHh4WDRTN2xHbll5ckxieFpDaWZfSFNrWUxOOU1QVEpyWVVCYVR0MEh2dGV6U2UyUmF3Zw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 22 Jun 2026 09:10:53 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNd1FuMTk0cWZyRUZCWjZOTVV2cjZYckktY2VlSDZhcGswTXhDWFVtZ1lhUkNhMFpOUjZzUHZiUGx5Mmhqc3U1cW5Cd29PNzhKWGsxd1QteDJ0Nkp4bklKQlNzamFMOE1IZW9SM0pwSmJsRjRsWU51UmJ4azRnTGQwdHhKTWJmSktYTnh1c3F1UGl6Z2xQTVpOUmIxajhlQXdxRVlWMGN2clhVdkdmLVVMNTdBSWF6OVYtU0"
+    },
+    {
+      "title": "¿Comprarías un robot que fuera una réplica de un ser querido muerto? La película que habla sobre cómo la tecnología podría generar androides a partir de personas - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOcG5raEt6ZXJkS0pRdlh0VDdvQW1TR3RMakgyVTZ0ZG9KdC12S0Z0bnBnVHRtUjVFRDJFWXJPdVBlb0VfN1k2alVZa1o4dzZ4OUxGQWNZRFRVTFBjMmFWNjE0V2lTcEVJVVJpQ04yVjFsckR4NkdvcVlTeUJ1eG1SaDJ2blh2Z3hXNW1QWE9fbVNBaXpqa09WeHktVGpyb25lc0pPSEp2QjRKZHJsRXFnOEdaT0xaaVo1eU13cUl4UlJNRy1aaUVoRzA0WEh3X2NrbjRfVHFpUHZ3NDVFZU10Z0J3dF9fX0ZONjIxLVlVTnY0S0ctaEVRdTdSRldpNUU5dWttUmw4MTBHQkR6Snh4Ulkza1M2eW1UaTdXelRjMjlYR1AtRk1uZGEwaVR5YU1YX05neNIBzwJBVV95cUxQZVQyZ29BanpmUU5Qdm4zVjhJVHE4RWR1ZkZkeDZLeUNQQS04X3NtdktkcElTN1VBbEN5UG1YSUt1ZUlfM05sNkV1WXp1TkFwMDBtVWxlUEFfbUFRYUczWnFBeHBjSy0xOEtNM0QyR0hjRFhRMEdiSndmd2Viclpjc3FJOVRVd3Y2Z2JKa2RqSXd5SEhPejNSRHVkY0xjX3lCOXdlZU5Cc3Y5a1MwQks5cXhYRndJYllDNFVvSjVOVFFfS3IwQUJqRDI1MllUTElCUGtTdW0yd1h5bmlmdEUzSGpkdENpSTctMnduNFV6VmliYV9xUEE1dXE3cUYyN0ZVeWlDc0ZVMlNoR0xXSTFBc0M0U0lZVVNWTXEtWUpfZklLMTVIeVZrMkUxQkl1YWEzdDVZd3h2Y1cwV3BVTERJTWQ1Z1pCNFpNY0RpRWpZOA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 24 Jun 2026 13:32:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxOcG5raEt6ZXJkS0pRdlh0VDdvQW1TR3RMakgyVTZ0ZG9KdC12S0Z0bnBnVHRtUjVFRDJFWXJPdVBlb0VfN1k2alVZa1o4dzZ4OUxGQWNZRFRVTFBjMmFWNjE0V2lTcEVJVVJpQ04yVjFsckR4NkdvcVlTeUJ1eG1SaDJ2blh2Z3hXNW1QWE9fbVNBaXpqa09WeHktVGpyb25lc0pPSEp2QjRKZHJsRXFnOEdaT0xaaVo1eU"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el clásico entre el Barcelona y el Real Madrid - Sports Illustrated",
@@ -99,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGxFV2pqRzMyaFo4TmNQSG10OEJEY2VDZEV4SnE3YmtsTDJVNnJPQWZKWWJ4aHpSUUloMFU0RExlcVJYTUM4cTMzckM2bHZ1akswdzBoUFE4N29VZmxXTzFxT3oyXzVOal9BQjhtSjE1U2JDTnZkOTdKODFxX1pKcjZ2QnJ3OTJkZTRnc2tiendJeVJmdFJVRjBkcWRPcFRVRGNiRHFORENEeF9zdVhzNEJwYng3TGs3RH"
     },
     {
-      "title": "Startups españolas de IA en México: oportunidad 2026 - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFpQRUduUE1JOGNHYzlvdHpDNlVrcllUQ09qZHotQklDUUV1VEpuZ3RBdkVwSXhKX3JRc3RMQmgta2syOW4tYUpmS1NfVmkxZGxpUDVlR0ZEWFhlZFl3c3VTaHFJZm56RHVJR0V3ZEc3ZWlBZnpIUkM0U1c4cGhIcG5mQzFPRDBseUE?oc=5",
+      "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 19 Jun 2026 07:00:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFpQRUduUE1JOGNHYzlvdHpDNlVrcllUQ09qZHotQklDUUV1VEpuZ3RBdkVwSXhKX3JRc3RMQmgta2syOW4tYUpmS1NfVmkxZGxpUDVlR0ZEWFhlZFl3c3VTaHFJZm56RHVJR0V3ZEc3ZWlBZnpIUkM0U1c4cGhIcG5mQzFPRDBseUE?oc=5\" target=\"_blank\">Startups españolas de IA en México: opor"
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
       "title": "VivaTech: diez años contando al mundo cómo Europa cambia los negocios con las tecnologías más disruptivas - El Español",

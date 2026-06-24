@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Zuckerberg busca crear una app de mercados predictivos para competir con Polymarket",
+      "url": "https://expansion.mx/tecnologia/2026/06/24/zuckerberg-app-mercados-predictivos-competir-polymarket",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Jun 2026 19:00:41 GMT",
+      "summary": "La presunta nueva app se basaría en un sistema de puntos similar al de los videojuegos, pero no se descarta la posibilidad de incorporar apuestas con dinero real."
+    },
+    {
+      "title": "OpenAI presenta ‘Jalapeño’, su propio chip para no depender de Nvidia en la carrera de la IA",
+      "url": "https://expansion.mx/tecnologia/2026/06/24/openai-presenta-jalapeno-propio-chip",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Jun 2026 17:25:12 GMT",
+      "summary": "El procesador fue desarrollado junto con Broadcom y promete ejecutar modelos de IA de forma más rápida y eficiente. Su despliegue comenzará este año en centros de datos operados por Microsoft y otros socios"
+    },
+    {
+      "title": "El uso sin control de IA eleva costos y obliga a las empresas a poner límites",
+      "url": "https://expansion.mx/tecnologia/2026/06/24/el-uso-sin-control-de-ia-eleva-costos-y-obliga-a-las-empresas-a-poner-limites",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 24 Jun 2026 11:55:58 GMT",
+      "summary": "Firmas como Uber ya establecen presupuestos por empleado para contener el gasto en herramientas de inteligencia artificial y acelerar su adopción."
+    },
+    {
       "title": "China le arrebata a Estados Unidos la corona de la supercomputación",
       "url": "https://expansion.mx/tecnologia/2026/06/23/china-arrebata-estados-unidos-corona-supercomputadora",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Mon, 22 Jun 2026 16:29:29 GMT",
       "summary": "El ejecutivo anunció su salida a través de Threads y permanecerá dentro de Meta para desarrollar nuevos productos"
-    },
-    {
-      "title": "Samsung ya no es la empresa más valiosa de Corea del Sur",
-      "url": "https://expansion.mx/tecnologia/2026/06/22/samsung-ya-no-es-empresa-mas-valiosa-corea-del-sur-sk-hynix",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 22 Jun 2026 15:00:31 GMT",
-      "summary": "SK Hynix, empresa tecnológica que se encarga de fabricar chips de memoria, superó a Samsung, gracias al auge de la IA y el uso de sus componentes para centros de datos."
-    },
-    {
-      "title": "China convierte la soledad en negocio: los robots que simulan novios y esposas ya se venden por 3 mil yuanes",
-      "url": "https://expansion.mx/tecnologia/2026/06/19/china-convierte-soledad-negocio-robots-novios-y-esposas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 19 Jun 2026 23:36:59 GMT",
-      "summary": "El desequilibrio demográfico y el aumento de personas solteras en China están impulsando un mercado inédito: robots de compañía capaces de simular relaciones afectivas."
-    },
-    {
-      "title": "Ventas de smartphones en México caerán 12% por crisis de la RAM",
-      "url": "https://expansion.mx/tecnologia/2026/06/19/adios-celulares-menos-4000-pesos-venta-caera-crisis-ram",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 19 Jun 2026 18:50:21 GMT",
-      "summary": "A pesar de la caída en ventas de unidades durante 2026, el mercado mantendrá un crecimiento económico, debido a que se venderán más dispositivos de mayores costos."
     },
     {
       "title": "Operadores de justicia en México fortalecen sus capacidades para el uso ético de la IA - UNESCO",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXRzdlluRjVLSndnRFlpTXl3cGZEMHVGLVd1ZlZGZ2RYNm5zYmNUX0JOLXRLUTFZTVFzTGttWWNZMmhtZTR0UUNvaDg5Rjl3TTV5eUR0cXRlQzFrRUwxaXd1VFdld1Zyb1lXeGhScnJ2QVRPb1NiblNaaTBGb0RLU29IaU12Mm9hc3ZzVFh0dnM5ZWFMNkg4akIta1d2YVQ1cW1pTmJnTDRjNHJhNm9wY25oNGVxclp0MD"
     },
     {
-      "title": "¿Quién ganará entre México y República Checa? Este es el pronóstico de la inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeVdzcVpaUF9wY0k5YmpwZ0l5UzNReDh1NUtET3paZnBJRFozNHlzNzY3cnFBN2RDUE4xRVVfWVRTX2tLVnJFS2ZIX3E0WGFRUTlUNFpLSGxQMVMxWWxFNUM1MjlsUlIwR2hBQ0JFYXNCQVg3bmR0VTl0MnRabGVsQjcyUWJGcXRQbFpEcDVBQ0dLeEdHbzRaVFBJb2lGM3pValZpSHRfRjZZMDRIeHVrSjIzbDNkSHJBYlIxMVluNm56ZERYS0FYVm1nOHY2bWZGSUxVT25DeE40WTFJc2RVUdIB-wFBVV95cUxQR3hiRDJVb21rRDlDLXFzTjIyaWpvRnJ3YzdMU0cxdGo3M1pfWTFyNjlTa2l2bUpON09TZ0E3WkZweFJNdm5zeEdzMjREdFl4bS1WQVlTZXROY2xRaXp1UkluaVEyQWUtLXR3OVJNUEI1YVZaRzFLdUhacENtNGdKTTBFNUZYUG5PbHNXZjYwQzl0ZjVWRFRNUzJ6cUxxNFNyZFU0cDJ5end2M1dEVEZseHlVcGRGa0JXQmxZNUFVM2RMSEREV1RfeXp6NTktc2haMXhLOTh1anptZUV4YTVyeG1EWjBDemJ3WnBmRndBRUV4UTIza2U0ODM2TQ?oc=5",
+      "title": "El video de un ajolote decantándose por México en un partido del Mundial 2026 fue generado con IA - AFP Factual",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xcFF6NmpzWlpkODliajNMcTE2YkZnaExtOG91dHZncFc2TUU4VmlVUFBXejk5dnhCczdzWUlZX1ZyVExtZFJoMWk4OWRiWkxMbmtVS3BB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Jun 2026 08:01:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeVdzcVpaUF9wY0k5YmpwZ0l5UzNReDh1NUtET3paZnBJRFozNHlzNzY3cnFBN2RDUE4xRVVfWVRTX2tLVnJFS2ZIX3E0WGFRUTlUNFpLSGxQMVMxWWxFNUM1MjlsUlIwR2hBQ0JFYXNCQVg3bmR0VTl0MnRabGVsQjcyUWJGcXRQbFpEcDVBQ0dLeEdHbzRaVFBJb2lGM3pValZpSHRfRjZZMDRIeHVrSjIzbDNkSHJBYl"
-    },
-    {
-      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
+      "published": "Wed, 24 Jun 2026 18:24:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xcFF6NmpzWlpkODliajNMcTE2YkZnaExtOG91dHZncFc2TUU4VmlVUFBXejk5dnhCczdzWUlZX1ZyVExtZFJoMWk4OWRiWkxMbmtVS3BB?oc=5\" target=\"_blank\">El video de un ajolote decantándose por México en un partido del Mundial 2026 fue generado con IA</a>&nbsp;&nbs"
     },
     {
       "title": "La carrera por la IA 'enriquece' a México: Estados Unidos compra tecnología mexa como nunca antes - expansion.mx",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Thu, 18 Jun 2026 11:55:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDVGM1ZnUkZJMnJxVmVGemo2T3ZudmU3VllGU3drUzI5TC0tMjFpdlpKSi1Gam9Xc2xDeV9NNDE3SUk2eW5YMVJqemNRb2NEMTdSNEZqaUNHVXVia2RMVDNxUlVFcjhlZS1URk5oLUNRS3p4M1RsS3pYcFlNbVVRakRVOVc1R1YwLVg4R2JhdURpOXY4aTBDN9IBpgFBVV95cUxOYTVka2VIaVRaZFRqUEI0SS1HVnZYV1"
+    },
+    {
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
