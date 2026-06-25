@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Huawei redefine el trabajo híbrido con la nueva MatePad Pro Max",
+      "url": "https://expansion.mx/tecnologia/2026/06/25/huawei-redefine-el-trabajo-hibrido-con-la-nueva-matepad-pro-max",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 25 Jun 2026 16:50:41 GMT",
+      "summary": "La nueva propuesta de Huawei llega a México con un diseño ultraligero, productividad de nivel PC y herramientas impulsadas por inteligencia artificial, para ejecutivos y profesionistas."
+    },
+    {
       "title": "La meta de Ebrard de elevar la producción de chips exigirá entre cinco y 10 años",
       "url": "https://expansion.mx/tecnologia/2026/06/25/ambiciosa-meta-marcelo-ebrard-multiplicar-produccion-chips",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Firmas como Uber ya establecen presupuestos por empleado para contener el gasto en herramientas de inteligencia artificial y acelerar su adopción."
     },
     {
-      "title": "China le arrebata a Estados Unidos la corona de la supercomputación",
-      "url": "https://expansion.mx/tecnologia/2026/06/23/china-arrebata-estados-unidos-corona-supercomputadora",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 23 Jun 2026 22:00:52 GMT",
-      "summary": "Pese al ascenso del sistema chino, Estados Unidos continúa teniendo una presencia dominante en los primeros puestos del ranking."
-    },
-    {
       "title": "Arquidiócesis de México ve oportuno abordar desafío de la inteligencia artificial en la educación - ACI Prensa",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXRzdlluRjVLSndnRFlpTXl3cGZEMHVGLVd1ZlZGZ2RYNm5zYmNUX0JOLXRLUTFZTVFzTGttWWNZMmhtZTR0UUNvaDg5Rjl3TTV5eUR0cXRlQzFrRUwxaXd1VFdld1Zyb1lXeGhScnJ2QVRPb1NiblNaaTBGb0RLU29IaU12Mm9hc3ZzVFh0dnM5ZWFMNkg4akIta1d2YVQ1cW1pTmJnTDRjNHJhNm9wY25oNGVxclp0MDRWeElMdHk1OUp4bmVCc0R4NFlDMTNmajhqN0ZB0gHbAUFVX3lxTE10V3FETFdXc2NUQlBHa1RMR2xxSk5zRjBhdFRYQ0VWRmFfT0lCaXFXOU9YWTJOajZWbDRBR1FiNkxDT1BKci14UjV1UFB3dzZuNUZCMVVQbEJ1SUdIaGlYT3J4S0VWbjZteUpncUx0MlVvOTBoMGhxeURXRkkwZ29HMXFwelJPVHJxdjhLVXF0VVBmMVFrZzdyTVl5SEJyTzVFTzM4YjFYMTFoODFlOEVwUXI1RnY3YS1Tc3N6RkdEakJMYnpVWXRoVXk0T1JiUlM2RHVJXzBKNlBvWQ?oc=5",
       "source": "Google News",
@@ -59,12 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlByZi04TWJkWF9vc1l2aTBsLUlzQl9OMTg0SEszN0l5ZVlCdnBrR0k5eWlQVXBuQVZsbzlZRTlJMVFXTnZTVmFQdTVaOVUwWFcxM1BjbHNTbzFKdlNKMHN4Mkl6MjlzcWx3d2p4RG9jbXVIZXJlYXFzSmhtaTVzeFJUMXZ4b1hGcU5Denp2OExsa2g2NUo3T3prZDBBVWkzVENKQ1hDM0pyZElEaHJCaktqTHZVSElGNT"
     },
     {
-      "title": "Morena suma otra iniciativa para regular la Inteligencia Artificial: marca de agua sería obligatoria - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGdHMS15SHJHdXh4c1FmT3ZDT1FLQkdCS0ZFR2M3dnZ1N2JDVWFSS1dPU3ZqWUEyMWR6dW9mSG5oVWlDeWhSVkN6cjlFUUh4bTNRbG9Mc2RBU1NmaHFwRVowSmMzUG40cGUzOTE2VlVQUDREVG5iUG5UeWIxWnU5VTd1MmVvbEJmUGFiTGRoUXpCYnBOU2JYcGlyT2drQ3RrQnNyNjRsSV90SWc4dUU2MUtZS25HNVowWk5FcEtQdjFoMF9ncTRTendsQWlHdVdCRDM5azkzNm54Z9IB9AFBVV95cUxOc3d5UHlhc2wzZURULUc2cFlncDlfNTYxQ25NZ0ZRbzV1czBSR2ZHeFdFTXM1VFB0VnpSZEJzSW5ZQmY0Y2lPWklQSWM0TktUWU9HMUtrTktyLWYwVWpwa1hkSUV2N0FzNmhLSWkybzVkRTJWTHRnWjh3VmdOWlBtZzNTQzZONVZaVGtDNDVpcVlLV1BkcjhiZ3B3eWlkNXBLRUF3bjJHelk3WW9CS20yX1BNUFFTaDM5UHZTLW8yT0hwY2pHOFc0RG9CWXgtS0g5c0pnT0xEcjZzcXc2OXplMVBLa1g4Wm5RRkp4UF9zU0FuY2ZT?oc=5",
+      "title": "Digitalización y uso de Inteligencia Artificial en empresas en México sólo es de 47%: estudio - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWENwcXdSekZFdmpmOXRLb3Nfc05MbkNISXJOMTJrVlBOeEhnbVRiMFlJc3pyS09QSU5fREU3c2JwcV9VWVM3SnNDWXBjSjZ3dkg5Z1JVc2NUczhQWkltdko1SkNjek11MnJtVGJpOXNXUlI3REpLTHJwWkRZWkFRYVRYdG9HbzBrTE0tajU5TE16V0E1eG1CU2xFQ0cwYXlJaHQ3NUNfR3E2RTFDV0NTTGZIc0ZrbUhGTjhIWEFKcEtmeG13QlBkZElzMGYzOW5TbFMwc0pFMXpxOXpDd1ZZ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 25 Jun 2026 02:14:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZGdHMS15SHJHdXh4c1FmT3ZDT1FLQkdCS0ZFR2M3dnZ1N2JDVWFSS1dPU3ZqWUEyMWR6dW9mSG5oVWlDeWhSVkN6cjlFUUh4bTNRbG9Mc2RBU1NmaHFwRVowSmMzUG40cGUzOTE2VlVQUDREVG5iUG5UeWIxWnU5VTd1MmVvbEJmUGFiTGRoUXpCYnBOU2JYcGlyT2drQ3RrQnNyNjRsSV90SWc4dUU2MUtZS25HNVowWk"
+      "published": "Thu, 25 Jun 2026 19:42:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWENwcXdSekZFdmpmOXRLb3Nfc05MbkNISXJOMTJrVlBOeEhnbVRiMFlJc3pyS09QSU5fREU3c2JwcV9VWVM3SnNDWXBjSjZ3dkg5Z1JVc2NUczhQWkltdko1SkNjek11MnJtVGJpOXNXUlI3REpLTHJwWkRZWkFRYVRYdG9HbzBrTE0tajU5TE16V0E1eG1CU2xFQ0cwYXlJaHQ3NUNfR3E2RTFDV0NTTGZIc0ZrbUhGTj"
+    },
+    {
+      "title": "Startups de IA sin ingresos están utilizando esta táctica para inflar sus valoraciones - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmR1amE4R2FxaEJyOGJaeGV1dWVTQjNrS0FBSGFadlJHbk5BeEs2cW9sR092OVhPRm5PWGJzRE9TZFd1Y3p1djR2aTh2bG1Qb096dVNmY1laRk5zSTJQZ3E1ZEpVZTJGYzJFV09SNXBSWVJRQm9CRExXN1ZuR3JmQ05xOVJTOUw4V05zTGFNRzdaUXRCcnlPNTZyNThWWl9aLXJ0Y3dad1NzdDh6cGc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 25 Jun 2026 14:22:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmR1amE4R2FxaEJyOGJaeGV1dWVTQjNrS0FBSGFadlJHbk5BeEs2cW9sR092OVhPRm5PWGJzRE9TZFd1Y3p1djR2aTh2bG1Qb096dVNmY1laRk5zSTJQZ3E1ZEpVZTJGYzJFV09SNXBSWVJRQm9CRExXN1ZuR3JmQ05xOVJTOUw4V05zTGFNRzdaUXRCcnlPNTZyNThWWl9aLXJ0Y3dad1NzdDh6cGc?oc=5\" target=\""
     },
     {
       "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
@@ -83,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Jose Muniz | De las Afueras de CDMX a Fundar una Startup IA en SF - Startupeable",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
-    },
-    {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
       "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - Observatorio / Instituto para el Futuro de la Educación",
