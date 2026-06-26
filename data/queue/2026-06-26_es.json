@@ -3,11 +3,19 @@
   "country": "es",
   "articles": [
     {
+      "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
+      "url": "https://elpais.com/america/2026-06-26/con-los-equipos-de-rescate-en-caracas-dejame-ver-si-esta-vivo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Jun 2026 20:22:02 GMT",
+      "summary": "Familiares de desaparecidos esperan noticias sobre los suyos junto a los escombros, entre la esperanza y la resignación"
+    },
+    {
       "title": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 920 la cifra de muertos y suma más de 3.000 heridos",
       "url": "https://elpais.com/america/2026-06-26/el-terremoto-en-venezuela-en-vivo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Fri, 26 Jun 2026 19:33:19 GMT",
+      "published": "Fri, 26 Jun 2026 22:41:39 GMT",
       "summary": "Exteriores confirma cinco españoles fallecidos, 119 no localizados y 14 personas atrapadas bajo los escombros | 17 países y la ONU envían ayuda humanitaria a la zona cero"
     },
     {
@@ -19,14 +27,6 @@
       "summary": "El Servicio Geológico de los EE UU (USGS) estima en miles el número posible de fallecidos. Los imágenes desde el espacio ya evidencian una enorme destrucción"
     },
     {
-      "title": "Ayuda a cuentagotas, una noche en la calle y saqueos en La Guaira, la ciudad venezolana más golpeada por el terremoto",
-      "url": "https://elpais.com/america/2026-06-26/ayuda-a-cuentagotas-una-noche-en-la-calle-y-saqueos-en-la-guaira-la-ciudad-venezolana-mas-golpeada-por-el-terremoto.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "El Gobierno eleva a 235 los muertos y a 4.300 los heridos un día después de dos seísmos"
-    },
-    {
       "title": "Exteriores eleva a 14 los españoles atrapados bajo los escombros del doble terremoto de Venezuela",
       "url": "https://elpais.com/espana/2026-06-26/exteriores-eleva-a-tres-los-espanoles-fallecidos-y-a-99-los-no-localizados-tras-hallar-a-cuatro-ciudadanos-entre-los-escombros.html",
       "source": "El País Tecnología",
@@ -35,12 +35,12 @@
       "summary": "El Gobierno aumenta a cinco la cifra de fallecidos, entre ellos la delegada del Gobierno canario en Caracas, y hasta 119 la de desaparecidos"
     },
     {
-      "title": "El terremoto en Venezuela pone a prueba la ‘doctrina Donroe’ de Trump en América Latina",
-      "url": "https://elpais.com/america/2026-06-26/el-terremoto-en-venezuela-pone-a-prueba-la-doctrina-donroe-de-trump-en-america-latina.html",
+      "title": "¿Por qué Venezuela tembló dos veces en 40 segundos?",
+      "url": "https://elpais.com/videos/2026-06-26/por-que-venezuela-temblo-dos-veces-en-40-segundos.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Fri, 26 Jun 2026 04:00:00 GMT",
-      "summary": "Estados Unidos ha suspendido  sanciones a su país tutelado, ha ofrecido 150 millones de dólares en ayuda y ha movilizado barcos y aviones militares, entre otras medidas tras el desastre"
+      "published": "Fri, 26 Jun 2026 19:57:26 GMT",
+      "summary": "Expertos en sismología clasifican al episodio como un doblete sísmico porque no se trató del patrón habitual de un gran terremoto seguido por una serie de réplicas"
     },
     {
       "title": "Según la inteligencia artificial, ¿quién ganará el España vs. Uruguay? - LaRepublica.co",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNklPM3hoZUllQ192ZFVieVBqS2pHNU11OEJkYUVqTUxSSlNRYktzVkJMcUppa2c4dGVrX05PUEhqamh4UWJ4VUM5Q3BnZWVZaHpZQmZuYktON1VLR0VWci1WbDdvUlFVT0dGWkdYWXlPSG1UTzV3MmFlZ0o4UGZKUjZCMVBkeFE0NHFRdkpQUElYQTZqNTFFTFVDVEo2dHF2NENWeTNPS3BnWDBKQ3lKU1R4d9IBswFBVV"
     },
     {
+      "title": "Predicción Mundial 2026: el resultado exacto de Uruguay vs. España, según la inteligencia artificial - bolavip.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWklSMl9Wc3BMVXp3ZUF5Qm9OSVNLRXdUVW1MaHE1ZXk4aHEyYnQ4eG1HZ2x0REk3cWI2OWZVelFpRXNTOHVZbS1UV2VDTFQyQ04yMlN2V201RlhObEVVSHFtS1dzc1p6OHFHV0I5LUUtaTJGaTczQXVsR2NKRkVlT2s2TjNjRWVKS1dVeE9TRU1yTmExTVJFMm1jS2c5SWpiV0F4cUhYNDBRNndLaXJTMWxsNl9HUzIwTzN6RVY2emNYUEXSAcgBQVVfeXFMTjVaZVFfRTlqcWtUeDgxSkJCOWNYNWtJS21vUUVFMVFmQ3JUV2FYdm9Ldnh3anVoWW9yS1FCajB0NUFXaGZoX2RuYmVTbVRHWFR4UC14bHMzM0hjb3N0TmRlNkFxVnFxS284cHljYVlINXI2c2xfM0lJa29hMUJQQ2ZtVVFyblZHbkZuaVc3S0MtV3JSNTlWMjlvcnBfdzlWaGhjNFVlVGliZE1yNFZxWmQ0OEdxZFF2MlNSQ3RjS2FsbDBxbENmcVQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 26 Jun 2026 22:32:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWklSMl9Wc3BMVXp3ZUF5Qm9OSVNLRXdUVW1MaHE1ZXk4aHEyYnQ4eG1HZ2x0REk3cWI2OWZVelFpRXNTOHVZbS1UV2VDTFQyQ04yMlN2V201RlhObEVVSHFtS1dzc1p6OHFHV0I5LUUtaTJGaTczQXVsR2NKRkVlT2s2TjNjRWVKS1dVeE9TRU1yTmExTVJFMm1jS2c5SWpiV0F4cUhYNDBRNndLaXJTMWxsNl9HUzIwTz"
+    },
+    {
       "title": "España ante Uruguay en el Mundial: IA le da 43% de probabilidad - abceconomia.co",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFNVeFBXYzZ3QzNpOTBuLWNpTXFDOUtXc19TRHJUb0I5Z0dsVVBWS1VYVUFRVUtsMzY3UE9WUTdpVHN1TGx5QW9iMHhRLXJWUzVVdWVIT213czVhUEtTbFNrdjl4U2hYUURWT1dVYlpPMFkyT2R4WlVRTzN5RWpEdm1FbktPSUthWFNZVmZUaDI0amozNDJPRzJnVDJDcGN2RnFtN1dzUDdRdw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 26 Jun 2026 18:02:59 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFNVeFBXYzZ3QzNpOTBuLWNpTXFDOUtXc19TRHJUb0I5Z0dsVVBWS1VYVUFRVUtsMzY3UE9WUTdpVHN1TGx5QW9iMHhRLXJWUzVVdWVIT213czVhUEtTbFNrdjl4U2hYUURWT1dVYlpPMFkyT2R4WlVRTzN5RWpEdm1FbktPSUthWFNZVmZUaDI0amozNDJPRzJnVDJDcGN2RnFtN1dzUDdRdw?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "ETF: La luz que hace posible la inteligencia artificial - MarketScreener España",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZExBTVctejlHMFBwOVhyTHU3WUZxYVFOOUVIUlY2QzA3NnFWakxVZEJwQi1hOXYzc1A1MFFndVQxYmpyNWJrVFVQODBrOUEyWnJDR1o0QWVlaEVyOTJFbmk1RUx3eUdKQnlzalFjR3VfYTBiRGhhbm5Ea1h1cm1KNnJ3QTZyNTdEcnVpbWlEd2RTNm5uODMycDBOTWkzbjRVWEJhQUE5Y0daSGE2OHlV?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Jun 2026 13:14:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZExBTVctejlHMFBwOVhyTHU3WUZxYVFOOUVIUlY2QzA3NnFWakxVZEJwQi1hOXYzc1A1MFFndVQxYmpyNWJrVFVQODBrOUEyWnJDR1o0QWVlaEVyOTJFbmk1RUx3eUdKQnlzalFjR3VfYTBiRGhhbm5Ea1h1cm1KNnJ3QTZyNTdEcnVpbWlEd2RTNm5uODMycDBOTWkzbjRVWEJhQUE5Y0daSGE2OHlV?oc=5\" target="
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el clásico entre el Barcelona y el Real Madrid - Sports Illustrated",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1"
     },
     {
-      "title": "Hannover Messe 2027: España Partner Country con ICEX - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjZ1VnI4R1VMSF80SjdFOURLcW9KeXBmUXBwaHQ1bFRvOGt3eHN0cjhDVEROZGVEYVlYQXRWckFoZUtOSWE1QjlXb0xqWHhUaGFCTHE0LUNFMkphLXNQQUc0b0I0TVJNVEw5QXlVeS12blluRnU0WmtsTml1RUZvN0o4OHBoUjA5eEE?oc=5",
+      "title": "Hannover Messe 2027: España país invitado con ICEX - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODJPeExfbjg0TnJWMTdJVGNZOXVyb0tSbWp1S1dTX2JkUjFRczQwOWN0LVJlTlJtRy0zbjB0REROT2lKc3U4Y0pObm4xNE1QS1RrdHlDbHA4MEoxWnNaZHdWNmJaYnBXSHFNTnRUR1JGd2lnV3VaX0VrMHJpRG5fd1BOdngyOEk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 26 Jun 2026 15:48:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjZ1VnI4R1VMSF80SjdFOURLcW9KeXBmUXBwaHQ1bFRvOGt3eHN0cjhDVEROZGVEYVlYQXRWckFoZUtOSWE1QjlXb0xqWHhUaGFCTHE0LUNFMkphLXNQQUc0b0I0TVJNVEw5QXlVeS12blluRnU0WmtsTml1RUZvN0o4OHBoUjA5eEE?oc=5\" target=\"_blank\">Hannover Messe 2027: España Partner Coun"
+      "published": "Fri, 26 Jun 2026 10:44:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPODJPeExfbjg0TnJWMTdJVGNZOXVyb0tSbWp1S1dTX2JkUjFRczQwOWN0LVJlTlJtRy0zbjB0REROT2lKc3U4Y0pObm4xNE1QS1RrdHlDbHA4MEoxWnNaZHdWNmJaYnBXSHFNTnRUR1JGd2lnV3VaX0VrMHJpRG5fd1BOdngyOEk?oc=5\" target=\"_blank\">Hannover Messe 2027: España país invitado co"
     },
     {
       "title": "¿Qué región española cuenta con más de 2.600 startups? - Emprendedores",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGxFV2pqRzMyaFo4TmNQSG10OEJEY2VDZEV4SnE3YmtsTDJVNnJPQWZKWWJ4aHpSUUloMFU0RExlcVJYTUM4cTMzckM2bHZ1akswdzBoUFE4N29VZmxXTzFxT3oyXzVOal9BQjhtSjE1U2JDTnZkOTdKODFxX1pKcjZ2QnJ3OTJkZTRnc2tiendJeVJmdFJVRjBkcWRPcFRVRGNiRHFORENEeF9zdVhzNEJwYng3TGs3RH"
     },
     {
-      "title": "Hannover Messe 2027: España país invitado con ICEX - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODJPeExfbjg0TnJWMTdJVGNZOXVyb0tSbWp1S1dTX2JkUjFRczQwOWN0LVJlTlJtRy0zbjB0REROT2lKc3U4Y0pObm4xNE1QS1RrdHlDbHA4MEoxWnNaZHdWNmJaYnBXSHFNTnRUR1JGd2lnV3VaX0VrMHJpRG5fd1BOdngyOEk?oc=5",
+      "title": "Hannover Messe 2027: España Partner Country con ICEX - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjZ1VnI4R1VMSF80SjdFOURLcW9KeXBmUXBwaHQ1bFRvOGt3eHN0cjhDVEROZGVEYVlYQXRWckFoZUtOSWE1QjlXb0xqWHhUaGFCTHE0LUNFMkphLXNQQUc0b0I0TVJNVEw5QXlVeS12blluRnU0WmtsTml1RUZvN0o4OHBoUjA5eEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 26 Jun 2026 10:44:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPODJPeExfbjg0TnJWMTdJVGNZOXVyb0tSbWp1S1dTX2JkUjFRczQwOWN0LVJlTlJtRy0zbjB0REROT2lKc3U4Y0pObm4xNE1QS1RrdHlDbHA4MEoxWnNaZHdWNmJaYnBXSHFNTnRUR1JGd2lnV3VaX0VrMHJpRG5fd1BOdngyOEk?oc=5\" target=\"_blank\">Hannover Messe 2027: España país invitado co"
+      "published": "Fri, 26 Jun 2026 15:48:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjZ1VnI4R1VMSF80SjdFOURLcW9KeXBmUXBwaHQ1bFRvOGt3eHN0cjhDVEROZGVEYVlYQXRWckFoZUtOSWE1QjlXb0xqWHhUaGFCTHE0LUNFMkphLXNQQUc0b0I0TVJNVEw5QXlVeS12blluRnU0WmtsTml1RUZvN0o4OHBoUjA5eEE?oc=5\" target=\"_blank\">Hannover Messe 2027: España Partner Coun"
     }
   ],
   "count": 14

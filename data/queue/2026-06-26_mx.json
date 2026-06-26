@@ -3,7 +3,15 @@
   "country": "mx",
   "articles": [
     {
-      "title": "OpenAI retrasará lanzamiento de GPT-5.6 a petición de Trump",
+      "title": "De 𝕏 a Google: venezolanos recurren a redes sociales para localizar a desaparecidos tras terremotos",
+      "url": "https://expansion.mx/tecnologia/2026/06/26/como-funciona-alerta-sismica-google-terromotos-venezuela",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Jun 2026 19:10:57 GMT",
+      "summary": "El aviso de Google a través de los móviles permitió a algunos venezolanos resguardarse previo a los dos terremotos que sacudió al país sudamericano el 24 de junio."
+    },
+    {
+      "title": "OpenAI escalonará el lanzamiento de GPT-5.6 a petición de Trump",
       "url": "https://expansion.mx/tecnologia/2026/06/26/openai-retrasa-lanzamiento-chatgpt-5-6-gobierno-aprobara",
       "source": "Expansión Tecnología",
       "category": "tech",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Thu, 25 Jun 2026 16:50:41 GMT",
       "summary": "La nueva propuesta de Huawei llega a México con un diseño ultraligero, productividad de nivel PC y herramientas impulsadas por inteligencia artificial, para ejecutivos y profesionistas."
-    },
-    {
-      "title": "La meta de Ebrard de elevar la producción de chips exigirá entre cinco y 10 años",
-      "url": "https://expansion.mx/tecnologia/2026/06/25/ambiciosa-meta-marcelo-ebrard-multiplicar-produccion-chips",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 25 Jun 2026 11:55:01 GMT",
-      "summary": "El objetivo de multiplicar por 25 la actividad del sector en tres años dependerá de que México se concentre en segmentos específicos de la cadena de valor."
     },
     {
       "title": "Arquidiócesis de México ve oportuno abordar desafío de la inteligencia artificial en la educación - ACI Prensa",
