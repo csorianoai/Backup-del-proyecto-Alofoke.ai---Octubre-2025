@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "OpenAI retrasará lanzamiento de GPT-5.6 a petición de Trump",
+      "url": "https://expansion.mx/tecnologia/2026/06/26/openai-retrasa-lanzamiento-chatgpt-5-6-gobierno-aprobara",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Jun 2026 15:15:50 GMT",
+      "summary": "La Casa Blanca ya inició el proceso de revisión de los nuevos modelos de IA, una disposición que es contraria a la visión no intervencionista de Trump al inicio de su mandato."
+    },
+    {
+      "title": "Prime Day se consolida como motor de crecimiento del comercio electrónico en México",
+      "url": "https://expansion.mx/tecnologia/2026/06/26/prime-day-motor-crecimiento-para-el-pais-amazon",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Jun 2026 11:55:56 GMT",
+      "summary": "Amazon extiende el Prime Day en México a siete días en un mercado de comercio electrónico de 941,000 millones de pesos y más de 27,000 vendedores locales en su plataforma."
+    },
+    {
+      "title": "Xbox sube de precio y demuestra que nadie se salva a la crisis de la RAM",
+      "url": "https://expansion.mx/tecnologia/2026/06/25/xbox-sube-de-precio-ram",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 25 Jun 2026 23:23:08 GMT",
+      "summary": "Al igual que la industria de tecnología de consumo, Microsoft culpó a la subida de costes de la memoria para tomar esta decisión."
+    },
+    {
       "title": "Huawei redefine el trabajo híbrido con la nueva MatePad Pro Max",
       "url": "https://expansion.mx/tecnologia/2026/06/25/huawei-redefine-el-trabajo-hibrido-con-la-nueva-matepad-pro-max",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Thu, 25 Jun 2026 11:55:01 GMT",
       "summary": "El objetivo de multiplicar por 25 la actividad del sector en tres años dependerá de que México se concentre en segmentos específicos de la cadena de valor."
-    },
-    {
-      "title": "Zuckerberg busca crear una app de mercados predictivos para competir con Polymarket",
-      "url": "https://expansion.mx/tecnologia/2026/06/24/zuckerberg-app-mercados-predictivos-competir-polymarket",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 24 Jun 2026 19:00:41 GMT",
-      "summary": "La presunta nueva app se basaría en un sistema de puntos similar al de los videojuegos, pero no se descarta la posibilidad de incorporar apuestas con dinero real."
-    },
-    {
-      "title": "OpenAI presenta ‘Jalapeño’, su propio chip para no depender de Nvidia en la carrera de la IA",
-      "url": "https://expansion.mx/tecnologia/2026/06/24/openai-presenta-jalapeno-propio-chip",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 24 Jun 2026 17:25:12 GMT",
-      "summary": "El procesador fue desarrollado junto con Broadcom y promete ejecutar modelos de IA de forma más rápida y eficiente. Su despliegue comenzará este año en centros de datos operados por Microsoft y otros socios"
-    },
-    {
-      "title": "El uso sin control de IA eleva costos y obliga a las empresas a poner límites",
-      "url": "https://expansion.mx/tecnologia/2026/06/24/el-uso-sin-control-de-ia-eleva-costos-y-obliga-a-las-empresas-a-poner-limites",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 24 Jun 2026 11:55:58 GMT",
-      "summary": "Firmas como Uber ya establecen presupuestos por empleado para contener el gasto en herramientas de inteligencia artificial y acelerar su adopción."
     },
     {
       "title": "Arquidiócesis de México ve oportuno abordar desafío de la inteligencia artificial en la educación - ACI Prensa",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5\" target=\"_blank\">Estudio: ¿Có"
     },
     {
-      "title": "Tec de Monterrey abre Ingeniería en Tecnologías Computacionales en SLP para impulsar la era de la IA - Líder Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTVKa3ppb1dNYnhFVXpNNVZFT19wMkIycnk5VnhUa0xneDNIblBvcnpDd1VYTktzUzdnOHMzLWZpazFZWjZIWFRFMzdUbElZNm8tenNiSTZzV0tvTTNVMUpiY096bFdvZEZ4OF9QUXZQYkJwTy1FcjBfNzFwRFBkUGRHTDZWa0pLTFRWM09oYkN2NEhrMGc0eEVxRDMtdEZWZ1Bnb0NXcHJCRmppYUNBR1U5NVBSTHlQMjlSTmRTSUVVSWF2T2dNVGNJR04yVlU?oc=5",
+      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 20 Jun 2026 18:47:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZTVKa3ppb1dNYnhFVXpNNVZFT19wMkIycnk5VnhUa0xneDNIblBvcnpDd1VYTktzUzdnOHMzLWZpazFZWjZIWFRFMzdUbElZNm8tenNiSTZzV0tvTTNVMUpiY096bFdvZEZ4OF9QUXZQYkJwTy1FcjBfNzFwRFBkUGRHTDZWa0pLTFRWM09oYkN2NEhrMGc0eEVxRDMtdEZWZ1Bnb0NXcHJCRmppYUNBR1U5NVBSTHlQMj"
+      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
     }
   ],
   "count": 14
