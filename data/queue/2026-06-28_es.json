@@ -3,20 +3,12 @@
   "country": "es",
   "articles": [
     {
-      "title": "Venezuela afronta la catástrofe con el Estado sobrepasado",
-      "url": "https://elpais.com/internacional/2026-06-28/venezuela-afronta-la-catastrofe-con-el-estado-sobrepasado.html",
+      "title": "Venezuela se salva con sus propias manos",
+      "url": "https://elpais.com/internacional/2026-06-28/venezuela-se-salva-con-sus-propias-manos.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 28 Jun 2026 03:30:00 GMT",
-      "summary": "Tutelado por Estados Unidos, sin libre acceso a sus ingresos y con un sistema que ya operaba al límite, el país sudamericano afronta sus horas más difíciles"
-    },
-    {
-      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 9 la cifra de españoles fallecidos y a 152 la de desaparecidos en el doble terremoto de Venezuela",
-      "url": "https://elpais.com/america/2026-06-28/ultima-hora-del-terremoto-en-venezuela-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 28 Jun 2026 14:03:27 GMT",
-      "summary": "Asciende a 1.430 el número de muertos por los seísmos y a 3.238 la de heridos | Delcy Rodríguez visita a los brigadistas internacionales y comunica que ayer rescataron a 33 personas"
+      "published": "Sun, 28 Jun 2026 16:12:41 GMT",
+      "summary": "EL PAÍS recorre el apocalipsis tras el terremoto, donde la precariedad y la falta de medios marcan los rescates del doble seísmo que ya ha causado casi 1.500 muertos. Las autoridades recogen 20 muertos por hora"
     },
     {
       "title": "Videoanálisis |“Los vecinos sacan los cascotes con sus propias manos. Es una precariedad absoluta”",
@@ -27,20 +19,28 @@
       "summary": "La corresponsal de EL PAÍS en la región andina describe una situación durísima tras el doble sismo del miércoles en Venezuela, con pocos medios y falta de coordinación en las tareas de rescate"
     },
     {
+      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 17 la cifra de españoles fallecidos y sitúa en 150 los desaparecidos",
+      "url": "https://elpais.com/america/2026-06-28/ultima-hora-del-terremoto-en-venezuela-en-directo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 28 Jun 2026 18:45:12 GMT",
+      "summary": "El Gobierno de Venezuela informa de 1.450 muertos por el doble terremoto | Delcy Rodríguez visita a los brigadistas internacionales y comunica que ayer rescataron a 33 personas"
+    },
+    {
+      "title": "Qué son los ‘huecos de vida’ y por qué son clave para salvar personas bajo los escombros tras el terremoto de Venezuela",
+      "url": "https://elpais.com/videos/2026-06-28/que-son-los-huecos-de-vida-y-por-que-son-clave-para-salvar-vidas-bajo-los-escombros-tras-el-terremoto-de-venezuela.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 28 Jun 2026 16:00:23 GMT",
+      "summary": "El tiempo para encontrar personas con vida bajo los escombros de Venezuela se agota; por eso, los espacios generados tras el derrumbe se convierten en la última oportunidad para resistir bajo el hormigón"
+    },
+    {
       "title": "Radiografía de la desconfianza ciudadana en la justicia: “El sistema disciplinario no funciona”",
       "url": "https://elpais.com/espana/2026-06-28/radiografia-de-la-desconfianza-ciudadana-en-la-justicia-el-sistema-disciplinario-no-funciona.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 28 Jun 2026 03:30:01 GMT",
       "summary": "Magistrados y catedráticos analizan las decisiones  judiciales más controvertidas y los déficits de control sobre los jueces"
-    },
-    {
-      "title": "Ro Khanna, el demócrata al que Elon Musk quiere en la cárcel: “El dinero tiene secuestrada la política en Estados Unidos”",
-      "url": "https://elpais.com/us/2026-06-28/ro-khanna-el-democrata-que-pone-contra-las-cuerdas-a-trump-el-dinero-tiene-secuestrada-la-politica-en-estados-unidos.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 28 Jun 2026 03:45:01 GMT",
-      "summary": "El congresista, representante por Silicon Valley, lidera la cruzada contra Trump para liberar los papeles de Epstein y no descarta presentarse a la presidencia en 2028. “No van a callarme”, advierte"
     },
     {
       "title": "La inteligencia artificial cambia de negocio y cobrará por resultados: de responder preguntas a hacer el trabajo por ti - Infobae",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "Wayra - Wayra",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTGxDeWpTRUNSaVBBRjhxc3diejV3RkxnZk90aDdiYW4xdzAtR1VwYndoR2pRdGpZVE1kdTdsSW9TaDZibU9hY1VoMXNGMTJkNzVQbGI4WG0wamM0NVFzdGFhczZXRkowUlNrVDlacHo4SmZDWkx3UTRPRGNZaWtIelJ4c0JraXdHZXZJTnhuQXlvQVhwWDBNTld4N3RrVnFmN2JhTGtGdFF2Yk1laW41ME44ZTRkSlBFQ0VwcDVOVTBFc2dpeEIzVmRoemNzQzNjSjlFYTREYy1QN1Z3d2wtQ2YtN19POGxf?oc=5",
+      "title": "Cómo España puede ganar en las tecnologías 'deeptech' con las empresas plataforma - Agenda Pública",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFlKTlFiS3Ftd0pEU3lfY2JfZ3V4Sm5DckpZZUxUd2FWNzN0VzFPOEFrdlViSWxBay1GcURDRk1nZWFPTTZvcDQzWDluZWt5bi1fTTlJSXlTZUFlRWdHS3gtLUhEU19MbXEwcTZEX0ZjRnFueWlnT3ZYd0V1c2RBMm5PRWJ4OC1jQllGVTgwdkdoMldtdlA2d2IydVk3U1B5WHcyNQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Apr 2026 00:47:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTGxDeWpTRUNSaVBBRjhxc3diejV3RkxnZk90aDdiYW4xdzAtR1VwYndoR2pRdGpZVE1kdTdsSW9TaDZibU9hY1VoMXNGMTJkNzVQbGI4WG0wamM0NVFzdGFhczZXRkowUlNrVDlacHo4SmZDWkx3UTRPRGNZaWtIelJ4c0JraXdHZXZJTnhuQXlvQVhwWDBNTld4N3RrVnFmN2JhTGtGdFF2Yk1laW41ME44ZTRkSlBFQ0"
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFlKTlFiS3Ftd0pEU3lfY2JfZ3V4Sm5DckpZZUxUd2FWNzN0VzFPOEFrdlViSWxBay1GcURDRk1nZWFPTTZvcDQzWDluZWt5bi1fTTlJSXlTZUFlRWdHS3gtLUhEU19MbXEwcTZEX0ZjRnFueWlnT3ZYd0V1c2RBMm5PRWJ4OC1jQllGVTgwdkdoMldtdlA2d2IydVk3U1B5WHcyNQ?oc=5\" target=\"_blank\">Cómo "
     }
   ],
   "count": 14
