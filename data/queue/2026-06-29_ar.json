@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Por qué no recomiendan cargar el celular en el auto y qué problemas puede generar",
+      "url": "https://www.clarin.com/tecnologia/parece-habito-inofensivo-cargar-celular-auto-puede-traer-problema-inesperado_0_9gPvNRwCat.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 29 Jun 2026 16:35:56 +0000",
+      "summary": "<ul><li>Manipular el teléfono para conectarlo o revisar notificaciones puede hacer que recorras muchos metros sin mirar el camino.</li><li>Qué otros riesgos implica. </li></ul>"
+    },
+    {
       "title": "Guía de cafeteras eléctricas: de las cápsulas a las superautomáticas, cómo elegir la mejor para tu casa",
       "url": "https://www.clarin.com/tecnologia/guia-cafeteras-electricas-capsulas-superautomaticas-elegir-mejor-casa_0_EkwAYQA8tz.html",
       "source": "Clarín Tecnología",
@@ -35,22 +43,6 @@
       "summary": "<ul><li>Los ajustes responden al encarecimiento global de memorias y componentes clave.</li><li>En algunos modelos de gama alta, los incrementos superan el 20%.</li></ul>"
     },
     {
-      "title": "Elegir el celular ideal: qué mirar para encontrar el mejor equilibrio entre precio y rendimiento",
-      "url": "https://www.clarin.com/tecnologia/elegir-celular-ideal-mirar-encontrar-mejor-equilibrio-precio-rendimiento_0_3cKUiaZWiQ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 25 Jun 2026 08:45:05 +0000",
-      "summary": "<ul><li>El avance de la inteligencia artificial y la renovación constante del hardware volvieron más compleja la decisión de compra. </li><li>La duración del soporte, el espacio interno y la autonomía tienen un impacto directo en la experiencia cotidiana y la vida útil del equipo. </li></ul>"
-    },
-    {
-      "title": "La UBA regula el uso de la Inteligencia artificial e implementa un sistema pionero - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVpaNFh2RTZsUF9McjhJX1NGTTRPemdtVWNjTWhtQnlQeW45cUk4ZFJLaml4VmdGaGpuWlMtdE1sNkVJWmExMDdEaWhSQ2c5UjFfckxXWEJ2VzQ0VzVRbXhRdEtzbG9sdm16SjBja1lFbkxIQ0RuSzZIM0lRS19nMGpjRGdhNHViVG82MHJHNVMtQmdxSEI4a3psYzBaclNFWG9KLW1Uc1RwMjFnNEt5MEZLQzhkS3VzOGdTRWNneDRVOTQtRG5VZ0Z5b0NlNlE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 29 Jun 2026 15:43:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObVpaNFh2RTZsUF9McjhJX1NGTTRPemdtVWNjTWhtQnlQeW45cUk4ZFJLaml4VmdGaGpuWlMtdE1sNkVJWmExMDdEaWhSQ2c5UjFfckxXWEJ2VzQ0VzVRbXhRdEtzbG9sdm16SjBja1lFbkxIQ0RuSzZIM0lRS19nMGpjRGdhNHViVG82MHJHNVMtQmdxSEI4a3psYzBaclNFWG9KLW1Uc1RwMjFnNEt5MEZLQzhkS3VzOG"
-    },
-    {
       "title": "El pronóstico de la Inteligencia Artificial para el partido entre Argentina y Jordania - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXhkVTEwU1lEcDVfeGhIR20wLXJsMUtLVGpjOUtkV181dERUQ0RtZmZDLThSZTk5R2VIRWk2cUhFUlVNMXhZWGVNa0ZmMmo1US16ZDNFRGhsNktrSG5Wd1haZHA4U2ZNclcycFNjMnJ2aHltR1pxTlhPOGJsMGRmTTg5clE4RG5UbkhPb2lUTDMzZG12Tk92UWNKelVjdw?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Mon, 29 Jun 2026 06:25:16 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWIzN2doNHJtRXdPS1BMd3lMMXRNRW9IMFpkREVlZ3lic1FSR0FaUjJTRE9CVlVQOTNNN09nQ3BKaTZaQmItNmgtVi1qNUUzYkdSSEJ1UnA5bkREUzQ1N3FYcTJMdG05enpFUHgzV3FMSmJ4TVgxT0FoOXZyanltRnY2eGRpX0hjOU91c3VnSUFybXdGai1OTGdjb2d5WWp2aEdhSVJCeDJEdVNUZjJMU2V6SG1KT29DSX"
+    },
+    {
+      "title": "Pax Silica: Argentina ingresó a una alianza estratégica con EEUU, que financiará inversiones clave para contener la ofensiva global de China - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDdkejByQ0J1b3J4VHBncE0ydVk1WTNtQUNCRERELTVsWDFCZGRYRDg3blRVRFEzRmFYOGNURG14UnN4R3lEMmRrYV84d0NaYlFBVFdDR1Y0QzVSSXZaOXpMMkdWZHN2aVpFS29kMFZzdjA3ejlXVXVWZGpHRGo4V0RDSVcyamhndXZORUJSeXJmUzJRUFk4dHBBTlNPdHktZkMzeHJuYmVwTWxDeUI1SGVyYzhxWmdGeDk0SzJpU2w1YW5BWHU1WEVOc3NUdWdSbGMzanZnNmJkWG1Ncm5vN3lIX1BTWUQ1ZFhLYll3cEpJREdBbUxCSWRSUGl4dWZzVlV1WmdPdHpYMXFMTmczTdIBqwJBVV95cUxOakllbWNuaVAzbTY5LWVXaVdDS0lZY3Z2THdpTTRkNE9sclVmYVRYRVpoWERpOThOWDg0NlplU1R5MHdoZ1NvQWw1Q29XWFFudlY2eTNMa3lLWVc3dVUwUmJKbzZnRVd1bUQyMjdxWHVnZmc3T1B4Q1pIbjl1OHQ3cG5WRUZiamI4NzIzQVFxMG5QN2wtd29aZHVydmw2Qjd1eUlDYWVDR2tXM2swekJwTFNVd0psQmZocFhkSVp1R2JwbnV5bTBZaUd1NFRCZEZWbmFWSXFQQ2Vjd19mQzhLMW91NzZHM3doV3kwX0dGN3UtX1VOeUdGNjlJZEtNbTU4NUZTMm1Ucnk5OHNrWEVjejc4RnVQM01aTndfcHJTYVF2Q3JyQlZqTDY4bw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 29 Jun 2026 06:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDdkejByQ0J1b3J4VHBncE0ydVk1WTNtQUNCRERELTVsWDFCZGRYRDg3blRVRFEzRmFYOGNURG14UnN4R3lEMmRrYV84d0NaYlFBVFdDR1Y0QzVSSXZaOXpMMkdWZHN2aVpFS29kMFZzdjA3ejlXVXVWZGpHRGo4V0RDSVcyamhndXZORUJSeXJmUzJRUFk4dHBBTlNPdHktZkMzeHJuYmVwTWxDeUI1SGVyYzhxWmdGeD"
     },
     {
       "title": "Milei responde a Harari sobre dar personería jurídica a los agentes de IA: “No significa lanzar el día del juicio final de Terminator” - EL PAÍS",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2J4QUZIY3hBR1NDaXJsWGw0WE52QVJ5VXlRWEpsNThXY1hDTE56dFB5SWhqb1J2TjBMV1lzSEdXZVl2T2tGMDNEZjJaUmNkYmFvbHNuNGNIdVZrdkFoWE93aEV3akpMRnNJMm1OZm1GVHJkSzBXaGNlLUdkeUZBc0lEYjAzZG8tNUNfZkFYdjdLdmpxMjI5TFBpMmxqbDZNNFFMRmZUYld1Yy1LdG8teHc5a2dwSS15eF"
     },
     {
+      "title": "Beam CropTech: tecnología que aumenta rendimientos 25% en cultivos - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmFNZUkxN2c4UHJ1ZjNhTG1wUzg0MWJENjBocElhOXhveENtRm42cVd6TmV0cEhjRG9BN2MtUnJQSGNHVjd4SmVxSi1OajY5ZFVDNkpnSjJDMm5PcWpPZHREZDItMWxXXzB3R3NaNGp6SVoyM21jX05SaWtpVlk0aWhsUmh4Qm9Femt2VVJzZ2hxMkMxWDBIV1M0Zw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 29 Jun 2026 18:18:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmFNZUkxN2c4UHJ1ZjNhTG1wUzg0MWJENjBocElhOXhveENtRm42cVd6TmV0cEhjRG9BN2MtUnJQSGNHVjd4SmVxSi1OajY5ZFVDNkpnSjJDMm5PcWpPZHREZDItMWxXXzB3R3NaNGp6SVoyM21jX05SaWtpVlk0aWhsUmh4Qm9Femt2VVJzZ2hxMkMxWDBIV1M0Zw?oc=5\" target=\"_blank\">Beam CropTech: te"
+    },
+    {
       "title": "Ab Astra levanta US$2M con muongrafía para minería de litio | Deep Tech Argentina - Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGgyRktTTEhxdngxMmNVQ3JJSi15VkVFU0FuZ0xPOWdnWGxzQXYyM1hkOGtROVUxY1JhSkJscHg3N0Q4enloZ0ZCOGFVMndYeTRQRHFJc2EyVG5FVjZ4cTRiczNaTjdOSGhaQklFS01zdm4xZHZObElKRlV4U0lZb1ZwcUZfQmJhck0wMmpsaUtNcEgxM1VEUUpzUTBrUkpGMHZyZDFweFpYSmkxakE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 29 Jun 2026 04:18:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGgyRktTTEhxdngxMmNVQ3JJSi15VkVFU0FuZ0xPOWdnWGxzQXYyM1hkOGtROVUxY1JhSkJscHg3N0Q4enloZ0ZCOGFVMndYeTRQRHFJc2EyVG5FVjZ4cTRiczNaTjdOSGhaQklFS01zdm4xZHZObElKRlV4U0lZb1ZwcUZfQmJhck0wMmpsaUtNcEgxM1VEUUpzUTBrUkpGMHZyZDFweFpYSmkxakE?oc=5\" target=\""
-    },
-    {
-      "title": "Una startup argentina desarrolló una tecnología para \"ver\" el subsuelo y apunta a transformar la exploración minera - Info Energia",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHpfTEVqRFR1Qkx0X3c3enFTbU1HNjczYXFKMlJnWjMzaTF3eDZ1eWtDeTFhX1FEaWZNa0h0X0ZxVDdVVDNzR1pDUGVDdGJVaUVHT0VEMnhPV2N4U1lqdE1qeFRQcGFsNWhZUXg1U0hZMmNOMjNPRUlsZFM3cUxaZzhKeTVldGlxLUk2ME9NQ1dvN3ZKZDlyUW12Z1otMXZWZTJPbS01bVl6R0U0T09GbzdOQ0xHVmNWbk5VRi16YU1IVm8wUG12RGZ0ZDdJSmNTalVQcTZTMVBBSzVWMGNv0gHmAUFVX3lxTE1sRUkxNW1pQjZwakw4YU5Jc1RQcFJtSkhpQjVQN1lnVFBROTM3Mm5WOWxNdkxTZU85NWRiS2ZEXzBGeUkyajBRTDJIQXBXN1EzckJuemNOeFBqVFlEMkdfUVd2ZWZfdW5uRldVTlQ2MlhQeC11X2Y4bGFQeG1OcW9YY2RZOTNRY3R2NDhWYXFsYzQ1RTlmUVlKM1Vhb1hDcTFLYjFmMWlLRXhKVlJmY1dQLUVKV0Q3Z2pKNlY1TWI5Y1ZoU2NHT1BIelhDUXl4bXM5TS1oWW1ieVJvTUp5NWIybGw3YmVB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Jun 2026 03:09:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZHpfTEVqRFR1Qkx0X3c3enFTbU1HNjczYXFKMlJnWjMzaTF3eDZ1eWtDeTFhX1FEaWZNa0h0X0ZxVDdVVDNzR1pDUGVDdGJVaUVHT0VEMnhPV2N4U1lqdE1qeFRQcGFsNWhZUXg1U0hZMmNOMjNPRUlsZFM3cUxaZzhKeTVldGlxLUk2ME9NQ1dvN3ZKZDlyUW12Z1otMXZWZTJPbS01bVl6R0U0T09GbzdOQ0xHVmNWbk"
     },
     {
       "title": "Las startups argentinas que se destacaron en uno de los mayores eventos de innovación del mundo - La Nación",
