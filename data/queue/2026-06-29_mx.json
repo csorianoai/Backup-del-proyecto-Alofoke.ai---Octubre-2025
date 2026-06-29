@@ -3,30 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "WhatsApp anuncia los Nombres de usuario; así puedes reservar el tuyo",
-      "url": "https://expansion.mx/tecnologia/2026/06/29/whatsapp-nombres-de-usuario-como-reservar",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Jun 2026 16:01:32 GMT",
-      "summary": "La plataforma de Meta anunció la nueva función para evitar compartir tu número de teléfono a todo mundo y destacó que se bloquearán ciertos nombres para evitar la suplantación de identidad."
-    },
-    {
-      "title": "Corea del Sur invertirá 1.2 bdd en semiconductores y centros de datos de IA",
-      "url": "https://expansion.mx/tecnologia/2026/06/29/corea-del-sur-invertira-semiconductores-centros-de-datos-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Jun 2026 15:00:13 GMT",
-      "summary": "El país es una de las potencias mundiales en la producción de memorias y quiere mantener su liderazgo en un sector en donde las potencias más grandes son Estados Unidos y China."
-    },
-    {
-      "title": "La IA ya puede hacer tu declaración ante el SAT, pero aún no sustituye al contador",
-      "url": "https://expansion.mx/tecnologia/2026/06/29/ia-ya-puede-hacer-tu-declaracion-ante-el-sat",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Jun 2026 11:55:43 GMT",
-      "summary": "En México, el cumplimiento fiscal toma más de 240 horas al año en un sistema ubicado en el lugar 68 de 71 en complejidad tributaria, mientras la IA ya automatiza procesos con supervisión humana."
-    },
-    {
       "title": "Probamos todos los audífonos de Sony en 2026 y esta es la mejor opción para ti",
       "url": "https://expansion.mx/tecnologia/2026/06/26/resena-audifonos-sony-2026",
       "source": "Expansión Tecnología",
@@ -43,12 +19,44 @@
       "summary": "El aviso de Google a través de los móviles permitió a algunos venezolanos resguardarse previo a los dos terremotos que sacudió al país sudamericano el 24 de junio."
     },
     {
+      "title": "OpenAI escalonará el lanzamiento de GPT-5.6 a petición de Trump",
+      "url": "https://expansion.mx/tecnologia/2026/06/26/openai-retrasa-lanzamiento-chatgpt-5-6-gobierno-aprobara",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Jun 2026 15:15:50 GMT",
+      "summary": "La Casa Blanca ya inició el proceso de revisión de los nuevos modelos de IA, una disposición que es contraria a la visión no intervencionista de Trump al inicio de su mandato."
+    },
+    {
+      "title": "Prime Day se consolida como motor de crecimiento del comercio electrónico en México",
+      "url": "https://expansion.mx/tecnologia/2026/06/26/prime-day-motor-crecimiento-para-el-pais-amazon",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 26 Jun 2026 11:55:56 GMT",
+      "summary": "Amazon extiende el Prime Day en México a siete días en un mercado de comercio electrónico de 941,000 millones de pesos y más de 27,000 vendedores locales en su plataforma."
+    },
+    {
+      "title": "Xbox sube de precio y demuestra que nadie se salva a la crisis de la RAM",
+      "url": "https://expansion.mx/tecnologia/2026/06/25/xbox-sube-de-precio-ram",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 25 Jun 2026 23:23:08 GMT",
+      "summary": "Al igual que la industria de tecnología de consumo, Microsoft culpó a la subida de costes de la memoria para tomar esta decisión."
+    },
+    {
       "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Ecuador - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSG5ZNWlOYTgwWU5rZVgxYThYOVJISW5ZbTdvcEN5VXBFT0h0OGFNVHF2SEhkcEtKUFIybWZuTUZHTlNPTGZ6RVdTNXlyNXB3LWRpRFFaX1k5Z0tPM2JiUUpPbllQR1Z3LXlKZWhQSjNSLUVITm5yMjNjQ2tWWXQ0Z1lodnhLclIzV2Vqa3R3WVBwWnFiVlJENV9n?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 29 Jun 2026 08:55:44 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQSG5ZNWlOYTgwWU5rZVgxYThYOVJISW5ZbTdvcEN5VXBFT0h0OGFNVHF2SEhkcEtKUFIybWZuTUZHTlNPTGZ6RVdTNXlyNXB3LWRpRFFaX1k5Z0tPM2JiUUpPbllQR1Z3LXlKZWhQSjNSLUVITm5yMjNjQ2tWWXQ0Z1lodnhLclIzV2Vqa3R3WVBwWnFiVlJENV9n?oc=5\" target=\"_blank\">El pronóstico de la"
+    },
+    {
+      "title": "México frente a la Physical AI: acercar las fábricas no basta, hay que meterles inteligencia - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXRyeWpPZVcwNnc1YUtiNE4tR1BoWXJkcmh6YVFackZUWHctZnF1Z0pNaE5DdU9yNlI4TmZvWkFHQkFDYkJCRFl6S1NCMU9sNGwtMDJNbTZ0UEd6eDZHSHd0YlNoN2pUZWZlMkpmVHFsbXlTb1FDYnhULVVkZ0syTHlsOVZzdzFSeEVkWjlIemM0bVNrVEV1eWNTU0NTbnRyalMxOWJaaUtDd2NqVVZ4WA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 29 Jun 2026 21:29:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXRyeWpPZVcwNnc1YUtiNE4tR1BoWXJkcmh6YVFackZUWHctZnF1Z0pNaE5DdU9yNlI4TmZvWkFHQkFDYkJCRFl6S1NCMU9sNGwtMDJNbTZ0UEd6eDZHSHd0YlNoN2pUZWZlMkpmVHFsbXlTb1FDYnhULVVkZ0syTHlsOVZzdzFSeEVkWjlIemM0bVNrVEV1eWNTU0NTbnRyalMxOWJaaUtDd2NqVVZ4WA?oc=5\" targe"
     },
     {
       "title": "La manufactura mexicana ya no compite por automatizar: compite por adaptar habilidades - THE LOGISTICS WORLD",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXF6Qk9VQmg3OVlDbnQ2Nnd6OWN0d0VvdUppU3ZuMXJKUFRHbGVhYzB1a0hfbUJTeXJoUHNEemxDZG4yVFJfdlc1cVB4cmdTdGlWMHJSMFlUS21ZNzJXZGwxR01XRS15dHJPNXl6WnhzcFBhUGc2Z3RtQjgyeEw4MmFkUEV0RzRJck9CZUdqSEZNVVFTT2RnelFPaHBEUzBBV1JDQWx3SVV1Y0trbnZSZnlKOTY2a1NKOT"
     },
     {
-      "title": "¿La Casa de los Famosos México en riesgo? Promo oficial con IA desata críticas y burlas: “No hay presupuesto” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbExwN1BISUs3Unh2dXM2Y3pfTXRvd1JkSlMwNS1QMkxvUFMzS2N6S01EVThXZ2xxdlZpM1k0NW1qdTNUb0MxLUVqM1BLcXgxT2F2b1RyelZ4QkNzZUZpVDhPRENSaFBXeldBaUE5cEFOS0Fqc2lzZEtJVkpSS19oMk42SjdRRlFFdEFiU0lVeHc0dXJOX1hXYzNjLVM0aXNRVGRfZ0xNd0kzZy1pSjNRUzVUdW1Ydl80OEF6OGh3VEpvUmc4S1l2d3RCaE9VclZYVXpGRWNxYmw5ZDdqVHJfOdIB-wFBVV95cUxNUHdMTHBRMS1ObW5OcnN4ck1yQ2UtNzQ0ZEJFMVNBR01DRTg1c0pqRlduYjN1NlJ3c2d6bzk0VjhmaWFabXdXeEFianRxWE1BazBCVXZuLXFOMzRsZ2tXMjhPTVpzMDlsUTVxVmVicC1YWnAyTkljbXlrWFlkejZYcnNhbkh4N3JPSnpVdllZS0xXR0hlbS10RkMzblVkbC1Rel9lQzdxU2w0ckpwWlUyRUxPWUZJWG9hTm5Vd2FybXliZjNiZWprSVlKVGhadWZzaUJpTEZ1YjBKMmJRMHRBa3RyWVp3WnN6R2lRYVF2ZDhoUDA1dkNwZGNuZw?oc=5",
+      "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3BRTUtRWlhhV3h1aU52UmZRWVRwTXhTeWFEWG1lcU1mRDA0SXRNZjNGbkNHcmJicUF4Vlk5ZFRYRldnVWg5Vlpid0hWTnUzbmh2YmlqeVlSbG5UNUtSZFV3SExGOG9RbE1BOTJnNVAwMzZieVJMNUN1OWZ6TDZIaXRYSnRqZDg2WlFRTWNwaDJoQmpRc3ZGOC1QUVJNM3FzQ05TaGFqaTEzV2duc2hObUdTSmFQenlPRS1oVHlQWHdJdklf0gHSAUFVX3lxTE1ObHptTHQ5dUZIQXRCTmtQYUxOZkw0d1VhUEZ2ZFQ3NGEyRHBNdDcyOGRLMGxKNlV4RzNoVVFqMEFHUGRoVF82WUdxcmhmcWdMbE1XakJGV1NGWUR4MVBZQUxKb25LRjRQNjV4Qm1LNlFkRUVTQm5WSzRKTzBKei13VkJLdGVyMFVyOWpQZTN1dGlkVDJJQ0lRRElib1hQdHI4QTBxSzFUb2E2Q1F1b1RLaEVBQ3BaTFNxTFllOTJEVXJzY3hYRVVvT0ZPM0ZGU2F6QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 29 Jun 2026 18:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbExwN1BISUs3Unh2dXM2Y3pfTXRvd1JkSlMwNS1QMkxvUFMzS2N6S01EVThXZ2xxdlZpM1k0NW1qdTNUb0MxLUVqM1BLcXgxT2F2b1RyelZ4QkNzZUZpVDhPRENSaFBXeldBaUE5cEFOS0Fqc2lzZEtJVkpSS19oMk42SjdRRlFFdEFiU0lVeHc0dXJOX1hXYzNjLVM0aXNRVGRfZ0xNd0kzZy1pSjNRUzVUdW1Ydl80OE"
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3BRTUtRWlhhV3h1aU52UmZRWVRwTXhTeWFEWG1lcU1mRDA0SXRNZjNGbkNHcmJicUF4Vlk5ZFRYRldnVWg5Vlpid0hWTnUzbmh2YmlqeVlSbG5UNUtSZFV3SExGOG9RbE1BOTJnNVAwMzZieVJMNUN1OWZ6TDZIaXRYSnRqZDg2WlFRTWNwaDJoQmpRc3ZGOC1QUVJNM3FzQ05TaGFqaTEzV2duc2hObUdTSmFQenlPRS"
     },
     {
       "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
@@ -83,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ycUQ1eTlZemd6UUlkYVNhcDI2bVpfYWEyMnpnbUprTVpvMFdkV1U1NlJXV1pUMEVMUE1RNFd3Vi1UNXBLWVHSAUtBVV95cUxObVQ0MlV2LUg1ekxqaFE5QmZDU3lBa3A4cXl1dDNVQ1M4S21xdGwtZ1lFM3djQjhlOTI5TzlrcmNnVGtkb2t1Q1FRVHM?oc=5\" target=\"_blank\">Jose Muniz | De las Afueras "
     },
     {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
-    },
-    {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - Observatorio / Instituto para el Futuro de la Educación",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5\" target=\"_blank\">Estudio: ¿Có"
-    },
-    {
       "title": "Monterrey presenta exposición que fusiona arte e inteligencia artificial en el Museo Metropolitano - sdpnoticias",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWRfM1JPRFlGOG9MYmtDQlpLcnJOb0hUdmc0WTlnM2JYeUZ1ZXF4WjZHQlpSS2NHM25jeFVpdUkwQ0k0NVQ5M0lla05SMmE1bU10aFR3MHpuYXp6TnAtdjN0MDROdVhRWTJ2MzNkWUxWVzdQVVFRczBudUdSbklPYmxKQ3JGYThsYk9Bb3pBeS03cHhrdlpiYUNUMHQ3bTFNMndCcHBtVkQyR0VienZ4cnB0QjVjTFlmbzByclV4ZVhCRVNqT2Nzc2Z6cUxROEhLcTVlYXA0NUFYWlIzWDBN?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 25 Jun 2026 18:43:47 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQWRfM1JPRFlGOG9MYmtDQlpLcnJOb0hUdmc0WTlnM2JYeUZ1ZXF4WjZHQlpSS2NHM25jeFVpdUkwQ0k0NVQ5M0lla05SMmE1bU10aFR3MHpuYXp6TnAtdjN0MDROdVhRWTJ2MzNkWUxWVzdQVVFRczBudUdSbklPYmxKQ3JGYThsYk9Bb3pBeS03cHhrdlpiYUNUMHQ3bTFNMndCcHBtVkQyR0VienZ4cnB0QjVjTFlmbz"
+    },
+    {
+      "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - Observatorio / Instituto para el Futuro de la Educación",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5\" target=\"_blank\">Estudio: ¿Có"
     }
   ],
   "count": 14
