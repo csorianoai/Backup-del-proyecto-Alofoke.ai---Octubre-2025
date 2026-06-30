@@ -3,8 +3,24 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El auge de la IA lleva las emisiones de centros de datos 57%  arriba de lo previsto",
+      "url": "https://expansion.mx/tecnologia/2026/06/30/centros-de-datos-ia-emiten-millones-toneladas-co2",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 30 Jun 2026 17:30:26 GMT",
+      "summary": "El crecimiento de los centros de datos acelera la demanda de electricidad y agua. México se perfila como uno de los mercados con mayor expansión, pero también con desafíos ambientales."
+    },
+    {
+      "title": "La IA hace marketing para todos; diferenciarse será el verdadero negocio",
+      "url": "https://expansion.mx/tecnologia/2026/06/30/mientras-todos-usan-ia-secreto-para-diferenciarse",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 30 Jun 2026 11:55:23 GMT",
+      "summary": "El acceso masivo a la inteligencia artificial elimina ventajas tecnológicas y obliga a competir con experiencia, datos y mejores decisiones."
+    },
+    {
       "title": "El Mundial de los creadores: CazéTV, el canal de YouTube en Brasil que rompe récords",
-      "url": "https://expansion.mx/tecnologia/2026/06/29/el-mundial-de-los-creadores-cazetv-el-canal-de-youtube-en-brasil-que-rompe-records",
+      "url": "https://expansion.mx/tecnologia/2026/06/29/cazetv-record-canal-youtube-records",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Mon, 29 Jun 2026 22:00:28 GMT",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Mon, 29 Jun 2026 15:00:13 GMT",
       "summary": "El país es una de las potencias mundiales en la producción de memorias y quiere mantener su liderazgo en un sector en donde las potencias más grandes son Estados Unidos y China."
-    },
-    {
-      "title": "La IA ya puede hacer tu declaración ante el SAT, pero aún no sustituye al contador",
-      "url": "https://expansion.mx/tecnologia/2026/06/29/ia-ya-puede-hacer-tu-declaracion-ante-el-sat",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Jun 2026 11:55:43 GMT",
-      "summary": "En México, el cumplimiento fiscal toma más de 240 horas al año en un sistema ubicado en el lugar 68 de 71 en complejidad tributaria, mientras la IA ya automatiza procesos con supervisión humana."
-    },
-    {
-      "title": "Probamos todos los audífonos de Sony en 2026 y esta es la mejor opción para ti",
-      "url": "https://expansion.mx/tecnologia/2026/06/26/resena-audifonos-sony-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 26 Jun 2026 20:00:38 GMT",
-      "summary": "Utilizamos los LinkBuds Clip, los WF-1000XM6 y los 1000x The Collexion. Todos tienen características atractivas y aquí te decimos sus puntos fuertes, los débiles y quién es el usuario ideal de cada uno."
     },
     {
       "title": "Predicción Mundial 2026: El resultado exacto del Ecuador vs. México según la IA - bolavip.com",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQzVOMENoVUNYX1Y4?oc=5",
+      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQz"
+      "published": "Wed, 13 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
