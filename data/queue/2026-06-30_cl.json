@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Científicos chilenos hallan una bacteria intestinal que podría frenar la pérdida muscular en la vejez",
+      "url": "https://www.latercera.com/tendencias/noticia/cientificos-chilenos-hallan-una-bacteria-intestinal-que-podria-frenar-la-perdida-muscular-en-la-vejez/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 30 Jun 2026 21:00:00 +0000",
+      "summary": "El hallazgo, liderado por científicos de la Universidad Mayor, identificó a Parabacteroides distasonis, una bacteria intestinal que disminuye con la edad, pero que se mantiene en adultos mayores con alto rendimiento físico y cognitivo."
+    },
+    {
       "title": "El homenaje a Enrique Macaya Márquez, el longevo periodista argentino de 91 años que lleva cubriendo 18 Mundiales",
       "url": "https://www.latercera.com/tendencias/noticia/el-homenaje-a-enrique-macaya-marquez-el-longevo-periodista-argentino-de-91-anos-que-lleva-cubriendo-18-mundiales/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Aprender un idioma, hacer amigos de distintas partes del mundo, hacer actividades y vivir temporalmente en otro país. Así son los programas de inmersión para mayores de 50 años que atraen a personas dispuestas a seguir aprendiendo una nueva lengua en su adultez avanzada."
     },
     {
-      "title": "Estudio encuentra que los adultos jóvenes están envejeciendo más rápido: cuáles serían las consecuencias",
-      "url": "https://www.latercera.com/tendencias/noticia/estudio-encuentra-que-los-adultos-jovenes-estan-envejeciendo-mas-rapido-cuales-serian-las-consecuencias/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 30 Jun 2026 10:01:00 +0000",
-      "summary": "La investigación concluyó que las generaciones más jóvenes están envejeciendo biológicamente más rápido que las generaciones mayores. Los autores afirman que este envejecimiento acelerado se relaciona con un mayor riesgo de cánceres de aparición temprana."
+      "title": "Pax Silica posiciona a Chile y Argentina en la competencia por los minerales de la IA - BNamericas.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTZYQ3J1ckhFNS1NZ3dhTmRjcHlnWE5aQmdya0FJclhQZkxmdFdCT0w3QzVUT3hnM1hBbE1MY3VnQzVmWGVubGpGSmNybkpvbE1oZUt2b0pOWEotRl9GOVJvLVpXU19MNDZCTjJkUENuRnh4MzkxeWdkVi0tMkFlbjNBLXpJWUhGMDdPejgwSzdkRVZlSFVwTzFSNWgtdGhZdjlzRVJhX1BOZlJjWUhaQlJUbm5VcGwyYWJfU0FseDhjcjR0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 30 Jun 2026 21:05:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTZYQ3J1ckhFNS1NZ3dhTmRjcHlnWE5aQmdya0FJclhQZkxmdFdCT0w3QzVUT3hnM1hBbE1MY3VnQzVmWGVubGpGSmNybkpvbE1oZUt2b0pOWEotRl9GOVJvLVpXU19MNDZCTjJkUENuRnh4MzkxeWdkVi0tMkFlbjNBLXpJWUhGMDdPejgwSzdkRVZlSFVwTzFSNWgtdGhZdjlzRVJhX1BOZlJjWUhaQlJUbm5VcGwyYW"
     },
     {
       "title": "Empresas de telecomunicaciones y banca lideran adopción de IA en Chile - Mobile Time Latinoamérica",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Tue, 30 Jun 2026 19:13:10 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE96OTFDX0l4VTVJdGxaWlV5N21ONkx5N0p5alJMcndVVkVhcGZoYUM5akxnSnRVaTB2RWdjVUxRS0RpWEdoaEt2Vy0tUl9LeS1nLVE5bm45a1ZmRTV6d3djSjFZNk5UNmJnZGV6b2kyUUR6clFy?oc=5\" target=\"_blank\">Empresas de telecomunicaciones y banca lideran adopción de IA en Chile<"
-    },
-    {
-      "title": "Los lentes con inteligencia artificial Ray-Ban Meta y Oakley Meta llegan a Chile: precios y modelos disponibles - La Tercera",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzJfRllVdEJxQV9zM25kRVYxUGZtSjlDMmdZZHFPR1VHQVBiRjVrTXUtRTAwcDV4aUdIVDhiczFKdEZ1WTI1ZW9vOUNCd2RnWG1oWV83dGtiYk5hSGtYLTVlRV85T3BhMHhaMDZpVDQzVW4xWlVocmdFV3ZmR3NDdF94Tk54TkZMdEJPM0lzeHhUQ2JwUkhBTU53enBQMGxCTTBjSHNhTF9WR2ZJUlJpc3J2dGlqcWtKTE9LTjRiTW83eXFJ0gHmAUFVX3lxTE45eUkyXzVYQnYtQWU3b2pHckxvRndGNExLektnSHUxOXBBQjZTSlRWZFlQRkZtUENPR3FpaG5EeFYzLXk1WmNfdDA5Q3l6eUlnXzlrWl82SnNJenZ5MmxoQUh2cGRSQXRzVzhiV254RkVCT2hlREFKZDUtbzVBNW92clVoN3MtdEE3aXhnZWd3czNielJQMTNZYnJweG9tSHJLTlVMYV90ZTNBNS1TODROYndxQXNUZnpsZW55ck9wdkpHcUFXaFdUdXIwVW9VNW5sajFLZkdHWVd1bjdVa0RxZGxQOEdR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 30 Jun 2026 10:04:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzJfRllVdEJxQV9zM25kRVYxUGZtSjlDMmdZZHFPR1VHQVBiRjVrTXUtRTAwcDV4aUdIVDhiczFKdEZ1WTI1ZW9vOUNCd2RnWG1oWV83dGtiYk5hSGtYLTVlRV85T3BhMHhaMDZpVDQzVW4xWlVocmdFV3ZmR3NDdF94Tk54TkZMdEJPM0lzeHhUQ2JwUkhBTU53enBQMGxCTTBjSHNhTF9WR2ZJUlJpc3J2dGlqcWtKTE"
     },
     {
       "title": "Chile | Alianza público-privada capacitará a emprendedores de Puente Alto en Inteligencia Artificial y ventas digitales - DPL News",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1BYakEtbXpueVRpYkh3NHgteFRBbVo2bGZRRzlRQW1KZTUwdFZkXzFuLXlCdnAtaXVsOEFPeWpwMVBrSURmMFhmOFBDaXJjcmotZnpMSDVqNlZSYnNwRnNtZGRJR3VyS18yZTRBSWhsVExtU2FxMHhLZHF2UDEycmpoaWFVdlhfSGlSUk9qRE5SVHdjbF9uWjB4Wjh4QTFlSjNqSdIBqgFBVV95cUxNRFZPZnFvU09yTm"
     },
     {
-      "title": "Know Hub Chile: US$10 mil para startups científicas 2026 - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWxiUEU1OU14YTNWQTc5Yk5WT2NRd0dnS0wyWi1NdW5icVNUUElFZldHaUZmYW05cThxYThZc0pTTVhJd2xBd29YMkxaeTY3d0paY3ZRRVd3NTJ0ckQ1RVZydTJTTTM0ZmVVQmVHS0haU1F1VU8tRjhHZExFMzNvaDM0dWRaVFVvT2pZdTRB?oc=5",
+      "title": "Startup Challenge 2026: Parque Arauco busca startups de IA y construcción sostenible - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUhxOTdVUlpJcVFURmUwR2ZTMy1mSklXNndJbi1jYmdGOXp1LWx5NVBtQU5OR0FJQlB6RnFhRnBOYVBJSlpUZDR2T1NoTkU0dnA3LU5WaFVBTFBhQVBlMUg1eUFIRjdhZWtkQnR2SzlNbk5rMl9XTEhYY09WRWg5cHhyd2U4NFJ1UENLRWFNdHl3RlFOZ1BvT3ZJbFdYWVUzbXk4eUhCTzU3T19ub21qUHN2TXU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 25 Jun 2026 22:29:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWxiUEU1OU14YTNWQTc5Yk5WT2NRd0dnS0wyWi1NdW5icVNUUElFZldHaUZmYW05cThxYThZc0pTTVhJd2xBd29YMkxaeTY3d0paY3ZRRVd3NTJ0ckQ1RVZydTJTTTM0ZmVVQmVHS0haU1F1VU8tRjhHZExFMzNvaDM0dWRaVFVvT2pZdTRB?oc=5\" target=\"_blank\">Know Hub Chile: US$10 mil para star"
+      "published": "Tue, 30 Jun 2026 20:47:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONUhxOTdVUlpJcVFURmUwR2ZTMy1mSklXNndJbi1jYmdGOXp1LWx5NVBtQU5OR0FJQlB6RnFhRnBOYVBJSlpUZDR2T1NoTkU0dnA3LU5WaFVBTFBhQVBlMUg1eUFIRjdhZWtkQnR2SzlNbk5rMl9XTEhYY09WRWg5cHhyd2U4NFJ1UENLRWFNdHl3RlFOZ1BvT3ZJbFdYWVUzbXk4eUhCTzU3T19ub21qUHN2TXU?oc=5\" "
     },
     {
       "title": "Conoce a la fundadora de una nueva startup en DC nombrada nueva ministra de innovación en Chile - Technical.ly",
