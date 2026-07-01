@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-01",
+  "country": "cl",
+  "articles": [
+    {
+      "title": "Cómo crear tu nombre de usuario en WhatsApp, la nueva función de privacidad que reemplazará el número telefónico",
+      "url": "https://www.latercera.com/tendencias/noticia/como-crear-tu-nombre-de-usuario-en-whatsapp-la-nueva-funcion-de-privacidad-que-reemplazara-el-numero-telefonico/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Jul 2026 14:51:30 +0000",
+      "summary": "La aplicación comenzará a implementar una función que permitirá conversar con otras personas sin compartir el número personal."
+    },
+    {
+      "title": "Cómo acostumbrarte a tener un horario regular de sueño para dormir mejor, según un especialista",
+      "url": "https://www.latercera.com/tendencias/noticia/como-acostumbrarte-a-tener-un-horario-regular-de-sueno-para-dormir-mejor-segun-un-especialista/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Jul 2026 10:03:00 +0000",
+      "summary": "Investigaciones han concluido que, además de dormir la cantidad adecuada de horas, es importante mantener un horario de sueño y de despertar constante. Se ha asociado con múltiples beneficios para la salud, tales como reducir el riesgo de padecer distintas enfermedades."
+    },
+    {
+      "title": "Qué es delirium, la condición “invisible” que afecta a miles de adultos mayores en Chile y que puede dejar secuelas",
+      "url": "https://www.latercera.com/tendencias/noticia/que-es-delirium-la-condicion-invisible-que-afecta-a-miles-de-adultos-mayores-en-chile-y-que-puede-dejar-secuelas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Jul 2026 10:02:00 +0000",
+      "summary": "Cuáles son los síntomas del delirium en adultos mayores, por qué suele confundirse con demencia o vejez y cómo detectarlo a tiempo para evitar complicaciones, según un médico."
+    },
+    {
+      "title": "Viento, heladas bajo cero y lluvia: el pronóstico para las distintas regiones de Chile",
+      "url": "https://www.latercera.com/tendencias/noticia/viento-heladas-bajo-cero-y-lluvia-el-pronostico-para-las-distintas-regiones-de-chile/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 01 Jul 2026 10:01:00 +0000",
+      "summary": "Heladas de hasta -15 °C, fuertes vientos y un posible sistema de lluvia marcarán esta semana en Chile. Revisa las regiones afectadas y el pronóstico completo."
+    },
+    {
+      "title": "Científicos chilenos hallan una bacteria intestinal que podría frenar la pérdida muscular en la vejez",
+      "url": "https://www.latercera.com/tendencias/noticia/cientificos-chilenos-hallan-una-bacteria-intestinal-que-podria-frenar-la-perdida-muscular-en-la-vejez/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 30 Jun 2026 21:00:00 +0000",
+      "summary": "El hallazgo, liderado por científicos de la Universidad Mayor, identificó a Parabacteroides distasonis, una bacteria intestinal que disminuye con la edad, pero que se mantiene en adultos mayores con alto rendimiento físico y cognitivo."
+    },
+    {
+      "title": "Chile ya capacita a más de 150 mil personas en IA:... - inteligenciaargentina.ar",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV3kzbF9KXzBFbmtuN09XTTktVzU3T0cwOUI5eEVGZ1phOHlCd3JhVUluMTJTT3NGQUJlNFQ3NEQ5czBxQUp2X0JhY2otSVVFRnRzd1ZkTTBGNnh0V0ZBQnIyeXl5aWMyOFR4a3BvRFh5SlltMGltRDlKR0tfTDdvV0ExZkFLZi14WnhMaTlwdnBPRHRTTVNMSXlKZVpraTFmWlg4cmxHZ2Q2b2tIUGo3Z19VOGdQaFNIdnltbVZRVmFqOW0wWmplUEhLWW5jLW0yN3huUmtBYV9nSzV5RjRhUU5n?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Jul 2026 12:01:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV3kzbF9KXzBFbmtuN09XTTktVzU3T0cwOUI5eEVGZ1phOHlCd3JhVUluMTJTT3NGQUJlNFQ3NEQ5czBxQUp2X0JhY2otSVVFRnRzd1ZkTTBGNnh0V0ZBQnIyeXl5aWMyOFR4a3BvRFh5SlltMGltRDlKR0tfTDdvV0ExZkFLZi14WnhMaTlwdnBPRHRTTVNMSXlKZVpraTFmWlg4cmxHZ2Q2b2tIUGo3Z19VOGdQaFNIdn"
+    },
+    {
+      "title": "Llegan a Chile los lentes Ray-Ban Meta y Oakley Meta y esta será su precio mínimo: empieza una nueva era - AS Chile",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenFzVldLd3ozbVVNRUhMUFNKeXRqeE5aVTFoWWdSMjNMUWVPclpRdFB6Q2RNamJEc2kyNWJjQnc2TFhzX1hHTnc3MGpOeW1HUFJFZDhJMndpcTJvYWd1VThzUVY5aU5EN2ZHY0E5bVVFNERLZzVJNnhrcTBuVlVFYy1sc2thdHNRa0t0WnJVTkFmVUVOQXViUkg5MWhqRFJFODBsZnlTSlBiZ01JNFdNNzdXU2N2V2pTQklucGNxMmJKcElRSWYweWE2cnpGSUpudEdlb0Z0UnlNQWpmbWlv0gHzAUFVX3lxTFBYcHJaNzFBcXI1RXUwd2JYNVRiQ2lQa2RRZk9Bc3NjazU5ck8wdm8yaEdNSTNGVWltbHhIRFdHUmdtM0kzNWNEZGpSZjFBNWIwN0dGVDJCdkU2cExaMXFlQThnRm5rcXZiXzNESEZtQVFleU1ySksyV1NKOHdFRks3Zm1Ra2lTZWRhWml2Q0pvZGRxVGVCRlJTc3NKLW5yTUFZYmRoYnM2VjllMF9TcWRHa3hGNUsyQzNILTFUOXppRmVvZnA5RzhSQmI0M05rVE5wVTNOLURwSFJmcG43Y1lBUVVIVEg1YUZscDZwRFdoVFdhSQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Jul 2026 15:49:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNenFzVldLd3ozbVVNRUhMUFNKeXRqeE5aVTFoWWdSMjNMUWVPclpRdFB6Q2RNamJEc2kyNWJjQnc2TFhzX1hHTnc3MGpOeW1HUFJFZDhJMndpcTJvYWd1VThzUVY5aU5EN2ZHY0E5bVVFNERLZzVJNnhrcTBuVlVFYy1sc2thdHNRa0t0WnJVTkFmVUVOQXViUkg5MWhqRFJFODBsZnlTSlBiZ01JNFdNNzdXU2N2V2pTQk"
+    },
+    {
+      "title": "Pax Silica posiciona a Chile y Argentina en la competencia por los minerales de la IA - BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTZYQ3J1ckhFNS1NZ3dhTmRjcHlnWE5aQmdya0FJclhQZkxmdFdCT0w3QzVUT3hnM1hBbE1MY3VnQzVmWGVubGpGSmNybkpvbE1oZUt2b0pOWEotRl9GOVJvLVpXU19MNDZCTjJkUENuRnh4MzkxeWdkVi0tMkFlbjNBLXpJWUhGMDdPejgwSzdkRVZlSFVwTzFSNWgtdGhZdjlzRVJhX1BOZlJjWUhaQlJUbm5VcGwyYWJfU0FseDhjcjR0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 30 Jun 2026 21:05:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTZYQ3J1ckhFNS1NZ3dhTmRjcHlnWE5aQmdya0FJclhQZkxmdFdCT0w3QzVUT3hnM1hBbE1MY3VnQzVmWGVubGpGSmNybkpvbE1oZUt2b0pOWEotRl9GOVJvLVpXU19MNDZCTjJkUENuRnh4MzkxeWdkVi0tMkFlbjNBLXpJWUhGMDdPejgwSzdkRVZlSFVwTzFSNWgtdGhZdjlzRVJhX1BOZlJjWUhaQlJUbm5VcGwyYW"
+    },
+    {
+      "title": "Lideramos el uso de la IA. Usar no es dominar - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWhLQTl0aXlrdF9MZXVxSjBSRHBreDBqdjVjSWdTRHptMGl5emNKaGExdGJsdktVNnk2NEFTSGpLREFtb2M0T3FZUFVwY0djbkxHNFdjOFdKQWl6T0ZaQk1neW5VUDhyekNuc2dnd0pqU2xqX0NXOWpKTnhsVEw0WUNWTlZPZ2NybzJWMjYzdTVsbEgzc3ZuR015YXYzeTVlT2lrZEsySFBTcXU0djNhSHF1YUg5RU1KaE9tcjhB0gG-AUFVX3lxTFA0Q2tOcnNmeTBJaDdOUDgtb0ZFeTZ1eGQ1b3EtdTFFcmVBWm5EZGZJTzBoZ3h4NW9DMTFubUxINUxOX2RQVnUyZmZNTVhiUmFuRzhJZW95aTRVS1ZFUmktbGRwVXF5YUlZLUV2aE5OcWhOaU1tdnEwUURZTnk1dWxNWjFyNHlBUXY4V201WHFod0s5THN3b3lMSzFzMGI0ZEUzc2dMQ0N3WHRWSzY3QktETWhQR3NPOENJbkN4UEE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 30 Jun 2026 05:01:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWhLQTl0aXlrdF9MZXVxSjBSRHBreDBqdjVjSWdTRHptMGl5emNKaGExdGJsdktVNnk2NEFTSGpLREFtb2M0T3FZUFVwY0djbkxHNFdjOFdKQWl6T0ZaQk1neW5VUDhyekNuc2dnd0pqU2xqX0NXOWpKTnhsVEw0WUNWTlZPZ2NybzJWMjYzdTVsbEgzc3ZuR015YXYzeTVlT2lrZEsySFBTcXU0djNhSHF1YUg5RU1KaE"
+    },
+    {
+      "title": "Trump discute con el Papa y Milei sobre IA - Libertad Digital",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblNRMml2RUs0VlE4QzBmM1F4M21OdUhLU2sxSVdvb0EyVFVUUjU3MjdPbkZ6TzNDTEt2TV8taDUxRnhmekVNSC1EcHJpd1MtQUs0endMM2lhUXRFbGY4N2VQNVJ2b2lJV0hSMWhkSjZKS2dfVU1OMUFNcmpvUTdhN2JTcE9meXpxNVdCYkVsUDZBeFpOTUhhRlpNUEtEV2ktRzRSOEY2ZVBDY3dhVFVVNTNfbjhpWkFUZmk2UTNSc3F6LWRiTFgyckRWODVROW1uekdCdGY0RWvSAeMBQVVfeXFMUGhVckNISkgyNVRCTXQ3TE5aamlIZldlbFFUN2VSNEZzRzlpQ1hmUUpIR21jM3FTX0tFNXFRQkJzNXpNcHRtRG95ZmltZEhTbEYwbDVvdDhSNkhTZUFzNTE2SmZHSGp3dkxoazF2NzlUUzRhY1NqMGg2TzdQTjRHS1FHakd4M1BPM2pURjExdGlneXotQU9MTmZPaXlwZ2xjRkk5ekQ5b2ZTTkhWMjRicm5JN1U5Qm10MExFOG5vbHNZcFRaQ0RxWlVPWVRreWJLczNoX2pwUEFVWDhXUEdXY1AxTzg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 28 Jun 2026 18:55:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblNRMml2RUs0VlE4QzBmM1F4M21OdUhLU2sxSVdvb0EyVFVUUjU3MjdPbkZ6TzNDTEt2TV8taDUxRnhmekVNSC1EcHJpd1MtQUs0endMM2lhUXRFbGY4N2VQNVJ2b2lJV0hSMWhkSjZKS2dfVU1OMUFNcmpvUTdhN2JTcE9meXpxNVdCYkVsUDZBeFpOTUhhRlpNUEtEV2ktRzRSOEY2ZVBDY3dhVFVVNTNfbjhpWkFUZm"
+    },
+    {
+      "title": "¿Qué ocurre cuando la IA hace de gurú?\": la investigación europea de 2,5 millones liderada desde la USC - El Correo Gallego",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1BYakEtbXpueVRpYkh3NHgteFRBbVo2bGZRRzlRQW1KZTUwdFZkXzFuLXlCdnAtaXVsOEFPeWpwMVBrSURmMFhmOFBDaXJjcmotZnpMSDVqNlZSYnNwRnNtZGRJR3VyS18yZTRBSWhsVExtU2FxMHhLZHF2UDEycmpoaWFVdlhfSGlSUk9qRE5SVHdjbF9uWjB4Wjh4QTFlSjNqSdIBqgFBVV95cUxNRFZPZnFvU09yTmpnRjVWZUVnaUZJbWgySHFBYVdhZVdUVDVreTFkSFQ5eWRRUXU2UkFGQk1IRDUwbW45ZlpuS1RHSzVoWm8xSGJnYmVhVXdjQV9FNDZOTUZrM1ZZT0Ffem1FZjdwcF80aGVLZERrcUFXam9Nd2xWdGFtejBsZkE2cURCUnpUS0FuckdZYlQyX3lFanQyR3lldVBoemFZckw2dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 29 Jun 2026 05:00:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1BYakEtbXpueVRpYkh3NHgteFRBbVo2bGZRRzlRQW1KZTUwdFZkXzFuLXlCdnAtaXVsOEFPeWpwMVBrSURmMFhmOFBDaXJjcmotZnpMSDVqNlZSYnNwRnNtZGRJR3VyS18yZTRBSWhsVExtU2FxMHhLZHF2UDEycmpoaWFVdlhfSGlSUk9qRE5SVHdjbF9uWjB4Wjh4QTFlSjNqSdIBqgFBVV95cUxNRFZPZnFvU09yTm"
+    },
+    {
+      "title": "Fundación NTT DATA busca a la startup científico-tecnológica que competirá en Europa por €100.000 - diarioestrategia.cl",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1d2S3JBYVNpZWhTY2YxRDU3MG5xclVsVHNQTHp1MW9XWkt1RUVEbzVHaEhqRHlwR3ViY1VxeUQ4WnkxRU9yUU1wWDVSOVhub3VQeU85Y0kzZlRieFBOODdpRTVCT0M2SmRGODdIeU5OdlBHNko1Q1k2T0FEZ2hoemFCSVlxREstNzVtMFFQZWJYT2VaZ2RzSC1nVG5JcUhUSGhYV3YxS0dhbWxPMjFBM2t5MUFIbnVqVWRhTXI4RXlJSFVwUmVwOGFsWDFOS1NxMFJiSGtUMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Jul 2026 14:29:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1d2S3JBYVNpZWhTY2YxRDU3MG5xclVsVHNQTHp1MW9XWkt1RUVEbzVHaEhqRHlwR3ViY1VxeUQ4WnkxRU9yUU1wWDVSOVhub3VQeU85Y0kzZlRieFBOODdpRTVCT0M2SmRGODdIeU5OdlBHNko1Q1k2T0FEZ2hoemFCSVlxREstNzVtMFFQZWJYT2VaZ2RzSC1nVG5JcUhUSGhYV3YxS0dhbWxPMjFBM2t5MUFIbnVqVW"
+    },
+    {
+      "title": "Startup Challenge 2026: Parque Arauco busca startups de IA y construcción sostenible - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUhxOTdVUlpJcVFURmUwR2ZTMy1mSklXNndJbi1jYmdGOXp1LWx5NVBtQU5OR0FJQlB6RnFhRnBOYVBJSlpUZDR2T1NoTkU0dnA3LU5WaFVBTFBhQVBlMUg1eUFIRjdhZWtkQnR2SzlNbk5rMl9XTEhYY09WRWg5cHhyd2U4NFJ1UENLRWFNdHl3RlFOZ1BvT3ZJbFdYWVUzbXk4eUhCTzU3T19ub21qUHN2TXU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 30 Jun 2026 20:47:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONUhxOTdVUlpJcVFURmUwR2ZTMy1mSklXNndJbi1jYmdGOXp1LWx5NVBtQU5OR0FJQlB6RnFhRnBOYVBJSlpUZDR2T1NoTkU0dnA3LU5WaFVBTFBhQVBlMUg1eUFIRjdhZWtkQnR2SzlNbk5rMl9XTEhYY09WRWg5cHhyd2U4NFJ1UENLRWFNdHl3RlFOZ1BvT3ZJbFdYWVUzbXk4eUhCTzU3T19ub21qUHN2TXU?oc=5\" "
+    },
+    {
+      "title": "Parque Arauco busca startups para probar soluciones tecnológicas en Chile, Perú y Colombia - Diario Financiero",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2lzeGZ5S0NEeGFJV2dtZG1SMmFobFpaYW1TQmV5QldxYVFIYzFXVXhmcUlneHpJUEM5RElwWUlOSlRwY0VqMnlwbGp6S1ltY01uVko3eGNsTDdnMGNDbHRPenV0T3Z2VDZPc3hHY3RSeTBLNlFsUElTZlBlWThheHdheWxyT05DUDE1a0E5WnpsOG1oY19QNGppamE4bWtYZGRmNlZmUlB1d3M?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2lzeGZ5S0NEeGFJV2dtZG1SMmFobFpaYW1TQmV5QldxYVFIYzFXVXhmcUlneHpJUEM5RElwWUlOSlRwY0VqMnlwbGp6S1ltY01uVko3eGNsTDdnMGNDbHRPenV0T3Z2VDZPc3hHY3RSeTBLNlFsUElTZlBlWThheHdheWxyT05DUDE1a0E5WnpsOG1oY19QNGppamE4bWtYZGRmNlZmUlB1d3M?oc=5\" target=\"_bla"
+    }
+  ],
+  "count": 14
+}
