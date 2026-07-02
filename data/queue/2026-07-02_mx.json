@@ -3,12 +3,20 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Meta planea vender servicios de nube y se dispara 7% en Wall Street",
-      "url": "https://expansion.mx/tecnologia/2026/07/11/meta-vender-servicios-nube-acciones-se-disparan",
+      "title": "Microsoft apuesta 2,500 mdd al negocio de la IA empresarial",
+      "url": "https://expansion.mx/tecnologia/2026/07/02/microsoft-nuevo-negocio-apoyar-empresas-usar-ia",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Sat, 11 Jul 2026 16:00:12 GMT",
-      "summary": "El mercado reaccionó positivamente a la posibilidad de que Meta comercialice infraestructura de IA, un negocio que podría ayudar a rentabilizar las multimillonarias inversiones de la empresa en esta tecnología."
+      "published": "Thu, 02 Jul 2026 18:15:04 GMT",
+      "summary": "La tecnológica presentó Microsoft Frontier Company, una nueva división para ayudar a los corporativos a integrar IA en sus operaciones."
+    },
+    {
+      "title": "Xbox trabaja en una función para convertir juegos físicos en digitales",
+      "url": "https://expansion.mx/tecnologia/2026/07/02/xbox-funcion-convertir-juegos-fisicos-en-digitales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 02 Jul 2026 14:35:56 GMT",
+      "summary": "Aunque se trata de un proyecto interno, Disc2Digital podría ser la forma en que los coleccionistas lleven sus juegos a nuevas consolas sin lector de discos."
     },
     {
       "title": "EU levanta el veto sobre la IA de Anthropic, pero mantiene vigilancia sobre los modelos más poderosos",
@@ -35,12 +43,12 @@
       "summary": "Xbox está en el ojo del huracán, debido al alza de precios en sus consolas y el posible cierre de algunos de sus estudios en el futuro cercano."
     },
     {
-      "title": "Los perros robot dejan el espectáculo y se convierten en aliados de la industria",
-      "url": "https://expansion.mx/tecnologia/2026/07/01/perros-robots-ya-trabajan-en-minas-y-fabricas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Jul 2026 11:55:58 GMT",
-      "summary": "La IA física permite a los robots cuadrúpedos prevenir hasta 50% de las paradas no programadas en plantas industriales y mejorar la seguridad operativa."
+      "title": "México vs Ecuador Mundial 2026: La IA da favorito al Tr - abceconomia.co",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3hBZUphT1pzZXFfcXlySVZBS05TLTQwSG9Ydjk2YUhDTUx0R1ladDlCWmZWRnhsdjgwRmlyY21kRHlveWhYUXhEN1A0RkE1YzFmelJKVzZFUFlEdXpjX1BDVDlTVTVodEtiaXhZQ2psR0dMc19NV0JaZXI3SEd1RDFiSHZxeWhzTlk4?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 30 Jun 2026 22:37:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3hBZUphT1pzZXFfcXlySVZBS05TLTQwSG9Ydjk2YUhDTUx0R1ladDlCWmZWRnhsdjgwRmlyY21kRHlveWhYUXhEN1A0RkE1YzFmelJKVzZFUFlEdXpjX1BDVDlTVTVodEtiaXhZQ2psR0dMc19NV0JaZXI3SEd1RDFiSHZxeWhzTlk4?oc=5\" target=\"_blank\">México vs Ecuador Mundial 2026: La IA d"
     },
     {
       "title": "México entra al Top 10 mundial en patentes de inteligencia artificial ¿qué significa para la industria? - ITSitio",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxONm1jb3BPMk9yWGpSUF9DMUVBcjJLM0pzTVZxR19IRzZGSVVqV2hUT0V3OXZmdnFoWG4yekhjYlpib2hRU1ZWNVNSNlJ3WVRETmpOS0ZZYjRocEw0MklCaFRXZWVlQkdiOWhQTmE2WUZtM1NhSTA1YkdCRE45SGFlWnNlM0pOZjRkUGxmUFJfc0k0aENzSzFXNkVSRWF0bjZIVk5KOC1XNjFsQVN4czhvZnNnU201V280TW"
     },
     {
-      "title": "México vs Ecuador Mundial 2026: La IA da favorito al Tr - abceconomia.co",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3hBZUphT1pzZXFfcXlySVZBS05TLTQwSG9Ydjk2YUhDTUx0R1ladDlCWmZWRnhsdjgwRmlyY21kRHlveWhYUXhEN1A0RkE1YzFmelJKVzZFUFlEdXpjX1BDVDlTVTVodEtiaXhZQ2psR0dMc19NV0JaZXI3SEd1RDFiSHZxeWhzTlk4?oc=5",
+      "title": "La inteligencia artificial está transformando el empleo en México - PwC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCX29DWEJjMkY4Q0stMU83b2RMWGdjNXExSEZFZ3R4T2tTbENxSDdib0FoTmkxQ2M3TVc1Ml9Dc2tLRmNvcEljT3k0S0Q5SFJxVjJPbERBVEdYMTZJQzRpVWVKdnFveXZ0d1dsWlh6ekFaVU9xY1hDVUNR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 30 Jun 2026 22:37:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3hBZUphT1pzZXFfcXlySVZBS05TLTQwSG9Ydjk2YUhDTUx0R1ladDlCWmZWRnhsdjgwRmlyY21kRHlveWhYUXhEN1A0RkE1YzFmelJKVzZFUFlEdXpjX1BDVDlTVTVodEtiaXhZQ2psR0dMc19NV0JaZXI3SEd1RDFiSHZxeWhzTlk4?oc=5\" target=\"_blank\">México vs Ecuador Mundial 2026: La IA d"
-    },
-    {
-      "title": "Samsung México lanza AI Academy para fortalecer las capacidades en inteligencia artificial de más de 150 colaboradores - Samsung Global Newsroom",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakJubTZGdnNwUGJzU2o0VmsydVR0OFFJQ0lFNHZFNjhwVHVqZ3JZbjQ5dER1V2FoSlRTdmdCT01uU1U1UlN3Szl4VzRJWGFjaTZHTkI4X3NiS2ZSX0lub0lMSWxpajNZWUVQU2tSYk5NQ2RMdWtjNkhWME0zOGRpcHN2UHZJalZsUTlFVVFuZ3p5Q0lRbFBGMDVTY1plU3VtOU9MLWhFdF9QOWZXTWlHZDNKdFZnTXRab2tZSGdCempmdWRxc3lQeENJS05aMDVwOFRFVnFzTDVtc3ROczB5T2JqZXltNzh1MDNnNQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Jul 2026 19:52:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQakJubTZGdnNwUGJzU2o0VmsydVR0OFFJQ0lFNHZFNjhwVHVqZ3JZbjQ5dER1V2FoSlRTdmdCT01uU1U1UlN3Szl4VzRJWGFjaTZHTkI4X3NiS2ZSX0lub0lMSWxpajNZWUVQU2tSYk5NQ2RMdWtjNkhWME0zOGRpcHN2UHZJalZsUTlFVVFuZ3p5Q0lRbFBGMDVTY1plU3VtOU9MLWhFdF9QOWZXTWlHZDNKdFZnTXRab2"
+      "published": "Wed, 01 Jul 2026 02:05:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBCX29DWEJjMkY4Q0stMU83b2RMWGdjNXExSEZFZ3R4T2tTbENxSDdib0FoTmkxQ2M3TVc1Ml9Dc2tLRmNvcEljT3k0S0Q5SFJxVjJPbERBVEdYMTZJQzRpVWVKdnFveXZ0d1dsWlh6ekFaVU9xY1hDVUNR?oc=5\" target=\"_blank\">La inteligencia artificial está transformando el empleo en Méxi"
     },
     {
       "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",

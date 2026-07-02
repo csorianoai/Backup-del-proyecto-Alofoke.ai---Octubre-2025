@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué es el viento puelche, el fenómeno que dejó cortes de luz y daños en la Región del Biobío",
+      "url": "https://www.latercera.com/tendencias/noticia/que-es-el-viento-puelche-el-fenomeno-que-dejo-cortes-de-luz-y-danos-en-la-region-del-biobio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 02 Jul 2026 16:24:33 +0000",
+      "summary": "El fenómeno \"viento puelche\", caracterizado por ser cálido y seco, afectó a comunas del Biobío y La Araucanía con rachas cercanas a los 100 km/h. Estos son los daños y por qué puede aumentar el riesgo de incendios forestales."
+    },
+    {
       "title": "¿Qué pasó con el fenómeno El Niño? Cuándo se manifestará en Chile con lluvias intensas",
       "url": "https://www.latercera.com/tendencias/noticia/que-paso-con-el-fenomeno-el-nino-cuando-se-manifestara-en-chile-con-lluvias-intensas/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 01 Jul 2026 21:00:00 +0000",
       "summary": "La investigación se basó en un seguimiento a 1.865 adultos mayores de 60 años, el cual se extendió por hasta 15 años. Los autores vieron que quienes presentaban niveles elevados de p-tau217 y seguían una dieta baja en inflamación tenían un 29% menos de riesgo de demencia."
-    },
-    {
-      "title": "Cómo crear tu nombre de usuario en WhatsApp, la nueva función de privacidad que reemplazará el número telefónico",
-      "url": "https://www.latercera.com/tendencias/noticia/como-crear-tu-nombre-de-usuario-en-whatsapp-la-nueva-funcion-de-privacidad-que-reemplazara-el-numero-telefonico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Jul 2026 14:51:30 +0000",
-      "summary": "La aplicación comenzará a implementar una función que permitirá conversar con otras personas sin compartir el número personal."
     },
     {
       "title": "Chile lidera la inversión en IA en Latinoamérica, pero el próximo desafío será hacerla más eficiente - ITSitio",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOblNRMml2RUs0VlE4QzBmM1F4M21OdUhLU2sxSVdvb0EyVFVUUjU3MjdPbkZ6TzNDTEt2TV8taDUxRnhmekVNSC1EcHJpd1MtQUs0endMM2lhUXRFbGY4N2VQNVJ2b2lJV0hSMWhkSjZKS2dfVU1OMUFNcmpvUTdhN2JTcE9meXpxNVdCYkVsUDZBeFpOTUhhRlpNUEtEV2ktRzRSOEY2ZVBDY3dhVFVVNTNfbjhpWkFUZm"
     },
     {
+      "title": "Startups de EE.UU. y México eligen Chile para validar tecnología minera en el primer hub deep tech del país - Portal Minero",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlpyNXU4WnpZcUxRSkx2RHJWb3pOblVrTjFMVVhIZ0hTYU96ZFBsOG9SQU5NMDlyMmhpQkQ1aFc3UXF1cGNhSVFlaXlyNi1qWVlaTjNoblQ5b05zV2pORVlHdTZuSkI3TlN5dnEwLU5TMkRzVmJRTDBRM1E5eE4tM1Y2ZnlMUFhDeWVYaUZYd25LMXd5RTdObzFyRVNUX2hBbUpwSFpmMUNLU2pKMXpsOGJVQ0EyVDgxaWtzdEJ4WmJEQUhxejdWYXAzWm45Nzg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 02 Jul 2026 17:45:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNlpyNXU4WnpZcUxRSkx2RHJWb3pOblVrTjFMVVhIZ0hTYU96ZFBsOG9SQU5NMDlyMmhpQkQ1aFc3UXF1cGNhSVFlaXlyNi1qWVlaTjNoblQ5b05zV2pORVlHdTZuSkI3TlN5dnEwLU5TMkRzVmJRTDBRM1E5eE4tM1Y2ZnlMUFhDeWVYaUZYd25LMXd5RTdObzFyRVNUX2hBbUpwSFpmMUNLU2pKMXpsOGJVQ0EyVDgxaW"
+    },
+    {
       "title": "Dos startups internacionales eligen Chile para validar tecnologías mineras en litio, agua y relaves - Reporte Minero",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzM0QUhidnBzQWxKSDdITHNBRzFMdFFoTV9OaV9DNGo5ZHg5VnpuS0FhWUYzUWlpYV9yLU00ZXhoWERxNkQ1c1k1MVFLOFJmMHhPWXZWWFpWYUxCR3p1aGdxYkhadC1FMXR0cHQxQ2t3MDFDN0ctMi1TUjBvUnh4VTFNR2Z0TzU2SzVwMGctNkhZSnFuYlpZcDR2YlZPeXNUWmVhdlNRY3E3R3g0OXJZSHlycmtkTlpqWjBN?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 02 Jul 2026 13:30:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzM0QUhidnBzQWxKSDdITHNBRzFMdFFoTV9OaV9DNGo5ZHg5VnpuS0FhWUYzUWlpYV9yLU00ZXhoWERxNkQ1c1k1MVFLOFJmMHhPWXZWWFpWYUxCR3p1aGdxYkhadC1FMXR0cHQxQ2t3MDFDN0ctMi1TUjBvUnh4VTFNR2Z0TzU2SzVwMGctNkhZSnFuYlpZcDR2YlZPeXNUWmVhdlNRY3E3R3g0OXJZSHlycmtkTlpqWj"
-    },
-    {
-      "title": "Startups de EE.UU. y México eligen Chile para validar tecnología minera en el primer hub deep tech del país - Portal Innova",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXlYYkt0anI0Q2RjOExjSDJSR3hvZ0hMcnJuQ2hjZVhCTHl6RGlZVURrRE40MjdVQVdQd0E0Uk1Wa2x1U3lCZC1ydndtaGJBQmRZQVhjYkZSSW5LRmdfU2piOGtnc0hyMkc4SlhzUXZ3THV5WGlXNmRxUWZORkFxcTNndWtpZEprRENPZnFyaXQ0VW94T0xPbk9sbGVSUnVkdThTTUhVdUw5ZjdKZ0JtSU9yczU2dWh2Vzc2Nl9rQUhyUlFpQVczT1YyQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 02 Jul 2026 10:23:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXlYYkt0anI0Q2RjOExjSDJSR3hvZ0hMcnJuQ2hjZVhCTHl6RGlZVURrRE40MjdVQVdQd0E0Uk1Wa2x1U3lCZC1ydndtaGJBQmRZQVhjYkZSSW5LRmdfU2piOGtnc0hyMkc4SlhzUXZ3THV5WGlXNmRxUWZORkFxcTNndWtpZEprRENPZnFyaXQ0VW94T0xPbk9sbGVSUnVkdThTTUhVdUw5ZjdKZ0JtSU9yczU2dWh2Vz"
     },
     {
       "title": "Fundación NTT DATA busca a la startup científico-tecnológica que competirá en Europa por €100.000 - diarioestrategia.cl",
