@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Una falla de privacidad pone en duda una de las mayores promesas de Apple",
+      "url": "https://expansion.mx/tecnologia/2026/07/02/apple-no-ha-podido-resolver-vulnerabilidad-privacidad",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 02 Jul 2026 22:00:12 GMT",
+      "summary": "El hallazgo reabre el debate sobre la capacidad de Apple para cumplir con su principal promesa de proteger la identidad digital de sus usuarios."
+    },
+    {
       "title": "Microsoft apuesta 2,500 mdd al negocio de la IA empresarial",
       "url": "https://expansion.mx/tecnologia/2026/07/02/microsoft-nuevo-negocio-apoyar-empresas-usar-ia",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Comprar las gafas podría no ser suficiente, Meta ya prueba un esquema de suscripción para ampliar el acceso a una de sus funciones de inteligencia artificial"
     },
     {
-      "title": "Microsoft despedirá a 5,500 empleados, incluidos de la división de Xbox",
-      "url": "https://expansion.mx/tecnologia/2026/07/01/microsoft-despidos-masivos-2026-recortara-5500-empleados",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Jul 2026 17:30:31 GMT",
-      "summary": "Xbox está en el ojo del huracán, debido al alza de precios en sus consolas y el posible cierre de algunos de sus estudios en el futuro cercano."
+      "title": "El ICETEX y el Tecnológico de Monterrey abren convocatorias de 26 becas para maestrías y doctorado en México - icetex.gov.co",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3FyRkFGWVdoeHJmUEdJdFZFczVHQjNGeUpyd0EwRm5JTnU4OUo4Q3pXbDU0R1JHVlBaemNXcXM2OVRDMmZyMmNlOG44c0p2OGhVOGlYdU4tX2Q4U0drVTVLdWtwRklYSmFDLVlZWFpOWGZKaTlNQlBWNlBZT04yVUhuSm5NTnlvdTQ1YWJ2Z09GLTA3a2JweHppcktRX2lYM09kVWwyRDJMWnFLZm1uYzRuRmhVOTA0TXdUT2JuSTA5bHVMdzJCVXNoQmZ6aGM5QlRCVWZn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Jul 2026 20:20:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3FyRkFGWVdoeHJmUEdJdFZFczVHQjNGeUpyd0EwRm5JTnU4OUo4Q3pXbDU0R1JHVlBaemNXcXM2OVRDMmZyMmNlOG44c0p2OGhVOGlYdU4tX2Q4U0drVTVLdWtwRklYSmFDLVlZWFpOWGZKaTlNQlBWNlBZT04yVUhuSm5NTnlvdTQ1YWJ2Z09GLTA3a2JweHppcktRX2lYM09kVWwyRDJMWnFLZm1uYzRuRmhVOTA0TX"
     },
     {
       "title": "México vs Ecuador Mundial 2026: La IA da favorito al Tr - abceconomia.co",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 01 Jul 2026 20:31:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxONm1jb3BPMk9yWGpSUF9DMUVBcjJLM0pzTVZxR19IRzZGSVVqV2hUT0V3OXZmdnFoWG4yekhjYlpib2hRU1ZWNVNSNlJ3WVRETmpOS0ZZYjRocEw0MklCaFRXZWVlQkdiOWhQTmE2WUZtM1NhSTA1YkdCRE45SGFlWnNlM0pOZjRkUGxmUFJfc0k0aENzSzFXNkVSRWF0bjZIVk5KOC1XNjFsQVN4czhvZnNnU201V280TW"
-    },
-    {
-      "title": "La inteligencia artificial está transformando el empleo en México - PwC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCX29DWEJjMkY4Q0stMU83b2RMWGdjNXExSEZFZ3R4T2tTbENxSDdib0FoTmkxQ2M3TVc1Ml9Dc2tLRmNvcEljT3k0S0Q5SFJxVjJPbERBVEdYMTZJQzRpVWVKdnFveXZ0d1dsWlh6ekFaVU9xY1hDVUNR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Jul 2026 02:05:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBCX29DWEJjMkY4Q0stMU83b2RMWGdjNXExSEZFZ3R4T2tTbENxSDdib0FoTmkxQ2M3TVc1Ml9Dc2tLRmNvcEljT3k0S0Q5SFJxVjJPbERBVEdYMTZJQzRpVWVKdnFveXZ0d1dsWlh6ekFaVU9xY1hDVUNR?oc=5\" target=\"_blank\">La inteligencia artificial está transformando el empleo en Méxi"
     },
     {
       "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",
