@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Trionda: el balón que debe cargarse antes de cada partido y eliminó a Croacia",
+      "url": "https://expansion.mx/tecnologia/2026/07/03/como-funciona-balon-mundial-2026-tecnologia-trionda",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 03 Jul 2026 17:40:18 GMT",
+      "summary": "La pelota oficial del Mundial 2026 contiene un chip capaz de detectar movimientos e impactos 500 veces por segundo y es una de las herramientas más importantes de los árbitros."
+    },
+    {
+      "title": "El contrabando mantiene abiertos los canales de chips de IA entre EU y China",
+      "url": "https://expansion.mx/tecnologia/2026/07/03/contrabando-chips-genera-danos-guerra-china-estados-unidos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 03 Jul 2026 11:55:57 GMT",
+      "summary": "Mientras Washington endurece las restricciones, redes ilegales abastecen a empresas chinas y elevan el precio del hardware de Nvidia."
+    },
+    {
+      "title": "Una falla de privacidad pone en duda una de las mayores promesas de Apple",
+      "url": "https://expansion.mx/tecnologia/2026/07/02/apple-no-ha-podido-resolver-vulnerabilidad-privacidad",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 02 Jul 2026 22:00:12 GMT",
+      "summary": "El hallazgo reabre el debate sobre la capacidad de Apple para cumplir con su principal promesa de proteger la identidad digital de sus usuarios."
+    },
+    {
       "title": "Microsoft apuesta 2,500 mdd al negocio de la IA empresarial",
       "url": "https://expansion.mx/tecnologia/2026/07/02/microsoft-nuevo-negocio-apoyar-empresas-usar-ia",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Thu, 02 Jul 2026 14:35:56 GMT",
       "summary": "Aunque se trata de un proyecto interno, Disc2Digital podría ser la forma en que los coleccionistas lleven sus juegos a nuevas consolas sin lector de discos."
-    },
-    {
-      "title": "EU levanta el veto sobre la IA de Anthropic, pero mantiene vigilancia sobre los modelos más poderosos",
-      "url": "https://expansion.mx/tecnologia/2026/07/01/eu-libera-claude-fable-5-pero-limita-mythos-5",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Jul 2026 21:00:20 GMT",
-      "summary": "La administración de Donald Trump levantó las restricciones a Claude Fable 5 de Anthropic, pero mantendrá el acceso limitado a Mythos 5 como parte de su nueva política de supervisión de IA."
-    },
-    {
-      "title": "Meta quiere cobrar por funciones de IA en sus gafas inteligentes",
-      "url": "https://expansion.mx/tecnologia/2026/07/01/lentes-inteligente-meta-mas-caros-cobrar-funciones-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Jul 2026 19:00:36 GMT",
-      "summary": "Comprar las gafas podría no ser suficiente, Meta ya prueba un esquema de suscripción para ampliar el acceso a una de sus funciones de inteligencia artificial"
-    },
-    {
-      "title": "Microsoft despedirá a 5,500 empleados, incluidos de la división de Xbox",
-      "url": "https://expansion.mx/tecnologia/2026/07/01/microsoft-despidos-masivos-2026-recortara-5500-empleados",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 01 Jul 2026 17:30:31 GMT",
-      "summary": "Xbox está en el ojo del huracán, debido al alza de precios en sus consolas y el posible cierre de algunos de sus estudios en el futuro cercano."
     },
     {
       "title": "México vs Ecuador Mundial 2026: La IA da favorito al Tr - abceconomia.co",
