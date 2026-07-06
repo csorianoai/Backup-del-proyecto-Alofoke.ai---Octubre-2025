@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué significa la secuencia de sismos que se están registrando en la zona central de Chile",
+      "url": "https://www.latercera.com/tendencias/noticia/que-significa-la-secuencia-de-sismos-que-se-estan-registrando-en-la-zona-central-de-chile/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Jul 2026 17:33:20 +0000",
+      "summary": "¿Los sismos registrados en Quintero podrían anticipar un terremoto mayor? Un sismólogo explica esta secuencia de temblores y cuándo podría ocurrir el próximo gran sismo en la zona central de Chile."
+    },
+    {
+      "title": "“Muy alto potencial de generar riesgos materiales y de vida”: Meteochile activa alarma para dos regiones",
+      "url": "https://www.latercera.com/tendencias/noticia/muy-alto-potencial-de-generar-riesgos-materiales-y-de-vida-meteochile-activa-alarma-para-dos-regiones/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Jul 2026 17:12:20 +0000",
+      "summary": "La DMC emitió una alarma meteorológica para La Araucanía y Los Ríos por intensas lluvias y una alta isoterma cero. Revisa las zonas afectadas y los montos de agua previstos que podrían aumentar el riesgo de desastres."
+    },
+    {
       "title": "Shark CryoGlow, la máscara LED para el cuidado de la piel y elogiada por Time, anuncia su llegada a Chile",
       "url": "https://www.latercera.com/tecnologia/noticia/mascara-led-cuidado-de-la-piel-shark-cryoglow-chile/",
       "source": "La Tercera Tecnología",
@@ -27,28 +43,20 @@
       "summary": "¿Volverá la lluvia a Santiago? Revisa el pronóstico para la Región Metropolitana, las regiones de Chile que tendrán precipitaciones esta semana y qué se espera para los próximos días."
     },
     {
-      "title": "Cómo el cannabis puede afectar al cerebro, desde la adolescencia hasta la adultez",
-      "url": "https://www.latercera.com/tendencias/noticia/como-el-cannabis-puede-afectar-al-cerebro-desde-la-adolescencia-hasta-la-adultez/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 06 Jul 2026 10:03:00 +0000",
-      "summary": "¿Qué le hace el THC del cannabis al cerebro? Un psiquiatra explica sus efectos en adolescentes y adultos, los riesgos para la memoria, salud mental y cuándo buscar ayuda."
-    },
-    {
-      "title": "El fármaco aprobado por la FDA que podría combatir un tipo raro de cáncer de hígado",
-      "url": "https://www.latercera.com/tendencias/noticia/el-farmaco-aprobado-por-la-fda-que-podria-combatir-un-tipo-raro-de-cancer-de-higado/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 06 Jul 2026 10:02:00 +0000",
-      "summary": "El carcinoma fibrolamelar es uno de los cánceres hepáticos más difíciles de tratar y suele diagnosticarse cuando ya se ha diseminado. Un nuevo estudio sugiere que un medicamento ya aprobado por la FDA podría potenciar la inmunoterapia."
-    },
-    {
       "title": "Chile toma lugar en el mapa tecnológico de la inteligencia artificial mientras preocupa el consumo de agua en la industria - Ladera Sur",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFVFdC1BUENXRHM0UUtoUy1BOVBPTHZlcjE4YzFmal9qZ3NEMk9mV1pjbDBLckZwSWpRZlo0Vzk3U0ZNTEM3QmRNcU1PU1lzU0dHQ3BJX0ZFOWhTdk9aaTVPNlY4UkhscDU1bVZEUTJkMTB1dHk4c2RvZkFtUFBRc3pzWlV2V2hMVnpLdkc4eGszaFpfeGR6UGI1OUV2TEtkMW5TQzBab1g0MS1DMUNTcUlQYXRsQjRhZ2NGa2t5UTh5dHJUUlc4QUFzcHpQZGJkeXp2Smtpb1BUQmkwWTdoNFFaeVFDendJX2c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 06 Jul 2026 16:47:54 GMT",
+      "published": "Mon, 06 Jul 2026 19:48:41 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdFVFdC1BUENXRHM0UUtoUy1BOVBPTHZlcjE4YzFmal9qZ3NEMk9mV1pjbDBLckZwSWpRZlo0Vzk3U0ZNTEM3QmRNcU1PU1lzU0dHQ3BJX0ZFOWhTdk9aaTVPNlY4UkhscDU1bVZEUTJkMTB1dHk4c2RvZkFtUFBRc3pzWlV2V2hMVnpLdkc4eGszaFpfeGR6UGI1OUV2TEtkMW5TQzBab1g0MS1DMUNTcUlQYXRsQjRhZ2"
+    },
+    {
+      "title": "​Inteligencia artificial y derecho de autor, más que problema jurídico - diarioestrategia.cl",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3RrMmZkMWhIRDNvRWNubGNnbTUwRjN0emtrOVdqTWFIbHNmZzNCdFFQRWZCM3dhQ2FGUDFheVI5OWJNY01BRjItMUUzR1VZeEJmaVhmVlNPcnJ1a29QX2EzcXR3R3dBYUdsLVRaRHREcHp1ZmpuYkk1Zl9CS1lTRU9jWmdIcnFSZmdUaktIQWJiSXJFUjF0dFNpZ0hleHV2QW5SZUdqMGh0ckVCQmdzcXJ0TU1Vd3c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 06 Jul 2026 13:50:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3RrMmZkMWhIRDNvRWNubGNnbTUwRjN0emtrOVdqTWFIbHNmZzNCdFFQRWZCM3dhQ2FGUDFheVI5OWJNY01BRjItMUUzR1VZeEJmaVhmVlNPcnJ1a29QX2EzcXR3R3dBYUdsLVRaRHREcHp1ZmpuYkk1Zl9CS1lTRU9jWmdIcnFSZmdUaktIQWJiSXJFUjF0dFNpZ0hleHV2QW5SZUdqMGh0ckVCQmdzcXJ0TU1Vd3c?oc"
     },
     {
       "title": "Inteligencia artificial en las empresas: AmCham Chile examina por qué la mayoría de los proyectos no logra capturar valor - AmCham Chile",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Mon, 06 Jul 2026 13:41:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZVdXYTFyWldtUUR1aHo0Rl9teS02TTVTRmNLNmxoN09seWFleTFRUURiWjFjNDAyX2dKckk1cDlHTndwUk1LZGtpQ3R3a1FjbUZpY1ZBbEN5cl94Vi05MURraTdFX3FPLWNGZFJZN3BpbFZDS2JBZ3pGRXBRVXF2b3NQZ2FSMElQZkRPZzFaSnJ6aFJ5bkpfM3R0NkpzajcyalpEcGVwb0NHOTR3OG9RRmlCUnFjOEtnVU"
-    },
-    {
-      "title": "El ERP Summit Chile escala una nueva frontera de la Inteligencia Artificial - Prensario TILA",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzB4MUxwV1Mza1psTTFGS2ZfZ0FmN29HbWw0dFAxLUdZd18zdFhjMDJjNG5Jc0V0RXphb1R1VHBDVTdyd2VWVDVXVUNJMl9NUmRUNktnM2c0dnVpZmRhUUVLTVBRWDd4SHk5QWhDdGtLd3k0OGtQVTByRHZtLWFQcXJxMWU2S25LTFVJTnZQTm9SNUVvZkt3X29vZnBYYkNFTFRqWnUzYXEtX3k3OTRWM3h5cHRDWmRGSWdTdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 03 Jul 2026 20:58:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzB4MUxwV1Mza1psTTFGS2ZfZ0FmN29HbWw0dFAxLUdZd18zdFhjMDJjNG5Jc0V0RXphb1R1VHBDVTdyd2VWVDVXVUNJMl9NUmRUNktnM2c0dnVpZmRhUUVLTVBRWDd4SHk5QWhDdGtLd3k0OGtQVTByRHZtLWFQcXJxMWU2S25LTFVJTnZQTm9SNUVvZkt3X29vZnBYYkNFTFRqWnUzYXEtX3k3OTRWM3h5cHRDWmRGSW"
     },
     {
       "title": "IA sin reglas: el riesgo de un nuevo far west digital - Infobae",

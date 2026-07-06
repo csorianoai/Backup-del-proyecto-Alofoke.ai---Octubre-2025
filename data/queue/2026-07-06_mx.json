@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Xbox planea recortar hasta 3,200 empleos en una profunda reestructuración",
+      "url": "https://expansion.mx/tecnologia/2026/07/06/xbox-despedira-3200-empleos-vendera-estudios",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Jul 2026 17:02:20 GMT",
+      "summary": "La división de videojuegos de Microsoft comenzó una nueva ronda de despidos como parte de un plan para reorganizar su negocio."
+    },
+    {
       "title": "Nvidia enfría el furor de la IA: retrasa su producto estrella hasta 2028",
       "url": "https://expansion.mx/tecnologia/2026/07/06/nvidia-retrasa-su-producto-estrella-hasta-2028",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Los Soundcore C50i, de Anker, se posicionan como una alternativa accesible a los Huawei FreeClip en el segmento de audífonos tipo arete para quienes buscan comodidad diaria sin el gasto premium."
     },
     {
-      "title": "Trionda: el balón que debe cargarse antes de cada partido y eliminó a Croacia",
-      "url": "https://expansion.mx/tecnologia/2026/07/03/como-funciona-balon-mundial-2026-tecnologia-trionda",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 03 Jul 2026 17:40:18 GMT",
-      "summary": "La pelota oficial del Mundial 2026 contiene un chip capaz de detectar movimientos e impactos 500 veces por segundo y es una de las herramientas más importantes de los árbitros."
-    },
-    {
       "title": "Del Satélite a la IA: México 1986 y 2026 - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2RNdURKbnFsLWw5eUZjWnhRNXhFVmVUaU9WR1BTSnBQQWpTNGVNVjItMDNCZkM4VlJFd3h4blE2NzJ1dkszX2Q5aWI0VnJacEtxNEJKUFdZUEFONk1YYlczYmV5NHRLcWVncTdkM0tzRHRsN2czcWpSY1h6enlrR2tpbnFZZXZ5bjF0TnBhTQ?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDJxS3pJeHZqbUFtYzJlX19CYjhaaEFtbWZHRHJidk1CelFibFlNWHM0am1fUnVuS082ekJFMmlJYXBDdjc5WFNteHhFc2tLR012bEU3V3RCbEdEMlBsWmJKZDQxZVNfanFrTnFqWW8tcWlVeUVkNjQ2Wll3Y0paSkFEMElTU0NvMHhjcVZWNFBJMS1CUUJSbkJiNy1fa0RRU2p1WHljVF9jeDVBZFh4NVlR?oc=5\" tar"
     },
     {
-      "title": "La Inteligencia Artificial predijo cuándo México ganará su primer Mundial - bolavip.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckdUTnA1X1lDVVRfZi1LS1BfMktDNHdhTk5FN25NNVVSOWw3REptQTRoQ19OT0pDVEJNU0xqUHNxMFZVdTJvZVRQT0ZLYTdjQnpSU3luSnhXQy0wOU83dEJCR0x1Q0xBeC0yS3QxRV9lQjdrYXlHc0FoTENwVUdnQ2d0RmpxdVZybGh3Mk5QbjhyYWVGYWZCVjBzSGlBaUtTY3E5QUpia9IBrAFBVV95cUxOZmp0NktuSUZzN3pRdk5QRlkxMHk0SHdMWGo3T01LUDVqV3Ixc3o0UlJab0ZMVklNXzhIWXB0Y21uQTIydE5WamJNdVNIVlBPMWdDbVhGaEdRQ3VHNXBzY1d6cTNKMGtZSXVmSEtoU2pfMnJ3LW9XMWFKY2FCT2VMQkozZGZpN050Yk1MZ3VFN014akZQZl92LWZhUHJRQ1Z6Z250c0IwWUhkRVRi?oc=5",
+      "title": "Especialista explica cómo se puede utilizar la inteligencia artificial en un partido del Mundial 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZl9tX0hpM0liV3k0OUlLQkNlcW9PQWRjOWFFb0l1b29vVm5PT3NCUW9sdUFTLXlWM214VVl3eDNVTVBGU1FTckdYMHUxeXVzSk1janA3VnB2YjhrZlg5SFJ2cHgwWHN5bk5lSl9IMHBhSEl2bXUtY0ZDcTVFTzdXZU56S2NQUDdPQjljamd5Z1pDWWd4b3BNSW5xWHRFNGxRWFpaN3F6NC0yZTU4ek5DSWFsLUlHZk1QR2Z4ekdHN2RfZTg1MkhxT1lCQjV3UzZxcV9aTlhhVUUtc1E00gH3AUFVX3lxTFBRWjgwbW1FdktPSE5OVGg2ZU5COVUxUHpDeHFMM2tVeVVLV09ldDhHMEdJMklpQzIzN2gwVmxEXzd6WlZHLW9uMlhrc0lwUFRiMExUbVZ4WkNJQS1CSjFycmU5cDdxNmtDY190NzdDd0NWNF90dlVTVnpDZE1jUWJsVGRtd2toT1VHS2tjYTJPb29hNUNpNW5KY1BtUFozYjlSa2p2WlhSLW5aeEhVLTRBdk1YM1d2TXBLQ05ZbjFVbDRJSzU5dmZlQUoxSjlrMC0tVjBxSnhnZWU0bjlFdV9TM1Budnd1QW1sekxmcGRiaHRzRFZuclE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 06 Jul 2026 04:25:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOckdUTnA1X1lDVVRfZi1LS1BfMktDNHdhTk5FN25NNVVSOWw3REptQTRoQ19OT0pDVEJNU0xqUHNxMFZVdTJvZVRQT0ZLYTdjQnpSU3luSnhXQy0wOU83dEJCR0x1Q0xBeC0yS3QxRV9lQjdrYXlHc0FoTENwVUdnQ2d0RmpxdVZybGh3Mk5QbjhyYWVGYWZCVjBzSGlBaUtTY3E5QUpia9IBrAFBVV95cUxOZmp0NktuSU"
+      "published": "Fri, 03 Jul 2026 20:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZl9tX0hpM0liV3k0OUlLQkNlcW9PQWRjOWFFb0l1b29vVm5PT3NCUW9sdUFTLXlWM214VVl3eDNVTVBGU1FTckdYMHUxeXVzSk1janA3VnB2YjhrZlg5SFJ2cHgwWHN5bk5lSl9IMHBhSEl2bXUtY0ZDcTVFTzdXZU56S2NQUDdPQjljamd5Z1pDWWd4b3BNSW5xWHRFNGxRWFpaN3F6NC0yZTU4ek5DSWFsLUlHZk1QR2"
     },
     {
       "title": "La IA se posiciona entre los sectores clave del capital emprendedor en México - expansion.mx",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3BRTUtRWlhhV3h1aU52UmZRWVRwTXhTeWFEWG1lcU1mRDA0SXRNZjNGbkNHcmJicUF4Vlk5ZFRYRldnVWg5Vlpid0hWTnUzbmh2YmlqeVlSbG5UNUtSZFV3SExGOG9RbE1BOTJnNVAwMzZieVJMNUN1OWZ6TDZIaXRYSnRqZDg2WlFRTWNwaDJoQmpRc3ZGOC1QUVJNM3FzQ05TaGFqaTEzV2duc2hObUdTSmFQenlPRS"
     },
     {
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
+    },
+    {
       "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 01 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
-    },
-    {
-      "title": "Medellín lidera LATAM con 10.9 startups por 100K habitantes - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 13 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSERkS3ZTejdGaktqcFgwRFk1eGhCQ2tXM004Q0xfRzhlWDNmNXdkY3o3aHZlZ2h5TUtSdzk5Z2luQzZ3eG5rYlZkTHZ2Z1NmbTZ1cGlWNjk0bWN6UDBKUzF0MnU1Q3NhQ1I5S2sxeTdueTZwRVdWcUNaVzBsa3ctb3Rqejd2ZjhOeU9nYkN6WXVRNUZU?oc=5\" target=\"_blank\">Medellín lidera LATAM con 1"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
