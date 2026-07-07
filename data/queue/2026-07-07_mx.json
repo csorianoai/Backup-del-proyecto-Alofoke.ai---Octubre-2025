@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El fin del videojuego físico obliga al retail a reinventar su negocio",
+      "url": "https://expansion.mx/tecnologia/2026/07/07/el-fin-del-videojuego-fisico-obliga-al-retail-a-reinventar-su-negocio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 07 Jul 2026 11:55:27 GMT",
+      "summary": "Las tiendas especializadas buscan compensar la caída del software con accesorios, coleccionables y otros productos para sostener sus ingresos."
+    },
+    {
       "title": "Estudiantes mexicanos conquistan China con robot que salva de plagas en cosechas de tomate",
       "url": "https://expansion.mx/tecnologia/2026/07/06/estudiantes-ganan-concurso-robot-salvar-cosecha-jitomate",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "La economía criminal ya opera con catálogos, garantías, bolsa de trabajo y plataformas de capacitación, mientras México se consolida como uno de los mercados más atacados."
     },
     {
-      "title": "Apple presentará 5 nuevos iPhone, incluido un plegable",
-      "url": "https://expansion.mx/tecnologia/2026/07/03/apple-lanzara-cinco-nuevos-iphone-incluido-plegable",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 03 Jul 2026 22:00:36 GMT",
-      "summary": "La empresa de tecnología presentará una estrategia con sus nuevos modelos entre finales de 2026 y principios de 2027, incluido su primer teléfono plegable"
+      "title": "DeepSeek desarrolla su propio chip de IA para competir con Nvidia y fortalecer a China - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUgzT2VqNmg2MWEycGJGLTg0MTZnc0hnT1B3Y3V3RVA5SkJVYTVpTXpRUHlvYTZQMFh3dHp3dktXbk1tM0VfdmhsOUMwelVjZVdQUUNuZk9oSERGbHNNdlgtcDVINS1qWW9IUmNvSjNrQi1KR09rd1A4dU1GM3ZVUmlXN2dVWk5tRU1aZFhBT3VqcF9VeXViM2R4dW0wcE9YMkxQaWVUR1lrTV8xaGl6VlBxX3RkdVI4a3JKVWVTOFFPQzMxUVllVUR3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Jul 2026 16:40:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUgzT2VqNmg2MWEycGJGLTg0MTZnc0hnT1B3Y3V3RVA5SkJVYTVpTXpRUHlvYTZQMFh3dHp3dktXbk1tM0VfdmhsOUMwelVjZVdQUUNuZk9oSERGbHNNdlgtcDVINS1qWW9IUmNvSjNrQi1KR09rd1A4dU1GM3ZVUmlXN2dVWk5tRU1aZFhBT3VqcF9VeXViM2R4dW0wcE9YMkxQaWVUR1lrTV8xaGl6VlBxX3RkdVI4a3"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido México vs Inglaterra - Sports Illustrated",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Sat, 04 Jul 2026 23:22:05 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDJxS3pJeHZqbUFtYzJlX19CYjhaaEFtbWZHRHJidk1CelFibFlNWHM0am1fUnVuS082ekJFMmlJYXBDdjc5WFNteHhFc2tLR012bEU3V3RCbEdEMlBsWmJKZDQxZVNfanFrTnFqWW8tcWlVeUVkNjQ2Wll3Y0paSkFEMElTU0NvMHhjcVZWNFBJMS1CUUJSbkJiNy1fa0RRU2p1WHljVF9jeDVBZFh4NVlR?oc=5\" tar"
-    },
-    {
-      "title": "México redefine el mapa de la infraestructura digital en Latinoamérica - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3haMDBZMDVoOTlva3dsZmk2TlZtZnllSjFVRHhfc1dPZUFEQjZyY3dkdmNmbGxEMlg2S3Y3bkI1dGNocV9MaFdESGN5R25vck83QUFFd3BBeUpSV1p0VU9La2VBNkJUQVFSc0NGT1lhTnhRdmhuMGc4c3Z1UEt3My1PX0lRZFRpQXN6UGp4TV9TWDRFNTZnMFY2cnllWEVvdHNSVjNWYVpmSHVZbEZrLUdhQm5pTF9KR2FCcTNFRThqYndqX2FV?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 07 Jul 2026 11:57:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3haMDBZMDVoOTlva3dsZmk2TlZtZnllSjFVRHhfc1dPZUFEQjZyY3dkdmNmbGxEMlg2S3Y3bkI1dGNocV9MaFdESGN5R25vck83QUFFd3BBeUpSV1p0VU9La2VBNkJUQVFSc0NGT1lhTnhRdmhuMGc4c3Z1UEt3My1PX0lRZFRpQXN6UGp4TV9TWDRFNTZnMFY2cnllWEVvdHNSVjNWYVpmSHVZbEZrLUdhQm5pTF9KR2"
     },
     {
       "title": "Especialista explica cómo se puede utilizar la inteligencia artificial en un partido del Mundial 2026 - Infobae",
