@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Palantir, la tecnológica detrás de ICE, llega a México de la mano de GNP Seguros",
+      "url": "https://expansion.mx/tecnologia/2026/07/08/palantir-llega-a-mexico-con-gnp-seguros",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Jul 2026 19:15:57 GMT",
+      "summary": "Las empresas anunciaron un acuerdo de expansión en el que la polémica firma de Alex Karp proveerá tecnología para detectar fraudes en reclamaciones de pólizas a la aseguradora."
+    },
+    {
+      "title": "OpenAI libera GPT-5.6 tras revisión del gobierno de Trump",
+      "url": "https://expansion.mx/tecnologia/2026/07/08/openai-libera-gpt-5-6-despues-de-revision-trump",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Jul 2026 19:00:19 GMT",
+      "summary": "La liberación de los modelos de inteligencia artificial Sol, Terra y Luna marcan un antes y un después ya que, no solo compiten entre ellas, sino que ahora negocian con Washington el acceso a sus modelos más potentes."
+    },
+    {
+      "title": "Meta apuesta por una IA más personal con Muse Image, su nuevo generador de imágenes",
+      "url": "https://expansion.mx/tecnologia/2026/07/08/meta-muse-image-nuevo-generador-de-imagenes-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Jul 2026 17:28:45 GMT",
+      "summary": "La tecnológica presentó Muse Image, su primer modelo de generación de imágenes desarrollado por Meta Superintelligence Labs"
+    },
+    {
       "title": "Apple invertirá 30,000 mdd para fabricar chips en EU junto a Broadcom",
       "url": "https://expansion.mx/tecnologia/2026/07/08/apple-invertira-fabricar-chips-eu-broadcom",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Tue, 07 Jul 2026 20:00:55 GMT",
       "summary": "La organización descartó que el mayor uso de la inteligencia artificial haya debilitado el mercado laboral, aunque advirtió que la IA generativa podría estar complicando el ingreso de los jóvenes al empleo"
-    },
-    {
-      "title": "Los nombres de usuario de WhatsApp desatan alertas por fraude y suplantación",
-      "url": "https://expansion.mx/tecnologia/2026/07/07/nombres-usuario-whatsapp-alertas-fraude-suplantacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 07 Jul 2026 18:00:38 GMT",
-      "summary": "Lo que Meta presenta como una nueva capa de protección para sus más de 3,000 millones de usuarios ya provocó cuestionamientos regulatorios y advertencias de expertos sobre nuevos riesgos de suplantación de identidad."
-    },
-    {
-      "title": "DeepSeek desarrolla su propio chip de IA y muestra que China ya no depende de Nvidia",
-      "url": "https://expansion.mx/tecnologia/2026/07/07/deepseek-desarrolla-chip-de-ia-no-depende-de-nvidia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 07 Jul 2026 17:35:47 GMT",
-      "summary": "El proyecto busca disminuir la dependencia de la startup china de Nvidia y Huawei, en un movimiento que refleja la nueva competencia por controlar la infraestructura de la inteligencia artificial"
-    },
-    {
-      "title": "El fin del videojuego físico obliga al retail a reinventar su negocio",
-      "url": "https://expansion.mx/tecnologia/2026/07/07/el-fin-del-videojuego-fisico-obliga-al-retail-a-reinventar-su-negocio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 07 Jul 2026 11:55:27 GMT",
-      "summary": "Las tiendas especializadas buscan compensar la caída del software con accesorios, coleccionables y otros productos para sostener sus ingresos."
     },
     {
       "title": "IA en salud: informe de la ONU abre debate para México - consultorsalud.com.mx",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQVHNZbUhKbXdqZUc4LVR4SGNyUm9CN3Y1bXhyMGlUQk93dEFXM0labzdodkhCUWNIWDZ5Y09zRUE2eWlESDhVUU81d1RJRFJhd3FCaVh2ZmFWclVtd0w4U2xGS0twOU1ydkZpaERoNGItaEFwc0thMEM0SkJaNERodDB6T1lYNUdaNmI0ZU80M1BCX0RlMmk1NjVENDNVSlpsTFNnUVJVSDF4VEU1dHB3WFFTUzIzc2FVbV"
     },
     {
-      "title": "IA china: Kimi, Qwen y DeepSeek desafían a OpenAI y Google con modelos abiertos - Maya Comunicación",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGh4MWotbGRWTGs4b3NONjJnT1M4ZnBMSjRndklyMnBLX2U4YzdFc2V6dFRnS1VBSVdPSTB5RUd2OTBJaXBScWY0c0RldnRCUU4ybkhEbGlFRjZYb2U3VEtOMkZBbVVuUHFpc3kyOFBRaXhhajNsd0VWRUNZN0d4YU9GNmtHOE1URWt6Y0lER2xDalRnSURuM2hUaG1kWkV4em9NUXY3cWd4THY5bjFV?oc=5",
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 06 Jul 2026 20:38:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGh4MWotbGRWTGs4b3NONjJnT1M4ZnBMSjRndklyMnBLX2U4YzdFc2V6dFRnS1VBSVdPSTB5RUd2OTBJaXBScWY0c0RldnRCUU4ybkhEbGlFRjZYb2U3VEtOMkZBbVVuUHFpc3kyOFBRaXhhajNsd0VWRUNZN0d4YU9GNmtHOE1URWt6Y0lER2xDalRnSURuM2hUaG1kWkV4em9NUXY3cWd4THY5bjFV?oc=5\" target="
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
