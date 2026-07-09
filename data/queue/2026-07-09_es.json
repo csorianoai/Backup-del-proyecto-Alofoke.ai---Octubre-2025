@@ -3,20 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "Alemania cifra en más de 5.000 las muertes por la ola de calor de junio",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-09/alemania-cifra-en-mas-de-5000-las-muertes-por-la-ola-de-calor-de-junio.html",
+      "title": "Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el humor de Trump",
+      "url": "https://elpais.com/internacional/2026-07-09/que-ocurrio-en-la-cumbre-de-la-otan-en-ankara-para-que-trump-pasase-de-insultar-a-hablar-de-amor-agasajos-intervenciones-breves-y-detalle-de-gastos-militares.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 09 Jul 2026 12:48:09 GMT",
-      "summary": "El elevado número de fallecidos deja en evidencia la falta de preparación del país ante las temperaturas extremas"
+      "published": "Thu, 09 Jul 2026 17:33:22 GMT",
+      "summary": "Los líderes de la Alianza tenían instrucciones de no superar este tiempo en sus discursos"
     },
     {
-      "title": "España afronta el final de la segunda ola de calor con la amenaza de un nuevo repunte de las temperaturas la próxima semana",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-09/espana-afronta-el-final-de-la-segunda-ola-de-calor-con-la-amenaza-de-un-nuevo-repunte-de-las-temperaturas-la-proxima-semana.html",
+      "title": "Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver con sus balas",
+      "url": "https://elpais.com/internacional/2026-07-09/los-lideres-de-la-otan-no-saben-que-hacer-con-el-regalo-de-erdogan-un-revolver-con-sus-balas.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Thu, 09 Jul 2026 03:30:01 GMT",
-      "summary": "Tras un junio extremadamente cálido, julio ha arrancado también con registros récord"
+      "published": "Thu, 09 Jul 2026 15:41:35 GMT",
+      "summary": "El presidente turco sorprendió a sus invitados con una Gümüşay 357 Magnum. El arma que recibió Pedro Sánchez ha sido entregada a Interior para ser inutilizada"
+    },
+    {
+      "title": "Francia - Marruecos: Mundial 2026, en directo | Tchouameni, aún tocado, es suplente",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-09/francia-marruecos-en-directo-el-partido-de-los-cuartos-del-mundial-en-vivo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 09 Jul 2026 19:45:59 GMT",
+      "summary": "La gran favorita se enfrenta a una de las mejores selecciones del campeonato con un puesto en las semifinales en juego"
+    },
+    {
+      "title": "¿Qué selecciones han sido las mejores? Consulte sus datos partido a partido",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-06/que-dicen-los-datos-de-espana-consulte-las-estadisticas-avanzadas-del-mundial-partido-a-partido.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 09 Jul 2026 07:54:50 GMT",
+      "summary": "Un interactivo de EL PAÍS con métricas de la FIFA y Driblab: goles esperados, red de pases, mejores jugadores, distancia recorrida y mucho más"
     },
     {
       "title": "La UCO implica al expresidente de Correos en la trama para “desestabilizar” causas que salpicaban al PSOE y al Gobierno",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Thu, 09 Jul 2026 12:53:37 GMT",
       "summary": "La Guardia Civil vincula a Juan Manuel Serrano, jefe de gabinete de Sánchez hasta su llegada a La Moncloa, con la exmilitante socialista Leire Díez"
-    },
-    {
-      "title": "El juez sienta en el banquillo al BBVA y su expresidente Francisco González por los espionajes de Villarejo",
-      "url": "https://elpais.com/economia/2026-07-09/el-juez-sienta-en-el-banquillo-al-bbva-y-su-expresidente-francisco-gonzalez-por-los-espionajes-de-villarejo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 09 Jul 2026 11:44:36 GMT",
-      "summary": "El banco será la primera empresa del Ibex 35 juzgada por esta causa, junto a otras 15 personas, entre ellas exdirectivos de la entidad y el comisario, por delitos de cohecho y revelación de secretos"
-    },
-    {
-      "title": "Ayuso defiende las palabras de Feijóo sobre las bajas: “Tiene más razón que un santo”",
-      "url": "https://elpais.com/espana/madrid/2026-07-09/ayuso-defiende-las-palabras-de-feijoo-sobre-las-bajas-tiene-mas-razon-que-un-santo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 09 Jul 2026 11:04:42 GMT",
-      "summary": "La presidenta de la Comunidad dice que cuando una persona deja de trabajar, la carga recae sobre sus compañeros y eso es “injusto” y va “en contra de la empresa”"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el partido entre España y Bélgica - Sports Illustrated",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUV5M2xkTVN0d0R4SmdULTZGS2xaajltN3U4RWV4cTQ3ek9qX1lqblliYkxhb29vSDNIcWJheFFWeWNqSFlIU0F3dlA0dmgxeUU5V1A0bExQSDI3WWU5ckNBOHpMX3lXTkMxYWdvcU9KbmxoWnh0cmU5alpWbVg0U3RVemR6NGlaTDQ2eDVkem83MWtyNWNz?oc=5\" target=\"_blank\">Adigital y el Gobierno "
     },
     {
-      "title": "España se alía con Lingang para liderar la nueva generación de incubadoras tecnológicas - Emprendedores",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS05hZ05qakFxT1lyUFp4QmRJMHowaFFpYWNLQjViX0RSRWlrbWpadkI2am42UDFqTS1mQVdDeHZfZHJoN2drWEcwU1JNUzBKVFQ3VlBDbTRVZnl4R1Jab1dYcEFhdXlacV9RTkxoR0Z3VHZXSXY2ci0yZGVaVGJzQWQ0LW0wR0c1ZlItMTFVakVKZWE2MWFSaTBnUEJZbnlYcUdJQXQ2NG02dW5JUWd2YVBmNWdBcHRWNjBiWlVPVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 02 Jul 2026 06:34:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNS05hZ05qakFxT1lyUFp4QmRJMHowaFFpYWNLQjViX0RSRWlrbWpadkI2am42UDFqTS1mQVdDeHZfZHJoN2drWEcwU1JNUzBKVFQ3VlBDbTRVZnl4R1Jab1dYcEFhdXlacV9RTkxoR0Z3VHZXSXY2ci0yZGVaVGJzQWQ0LW0wR0c1ZlItMTFVakVKZWE2MWFSaTBnUEJZbnlYcUdJQXQ2NG02dW5JUWd2YVBmNWdBcHRWNj"
-    },
-    {
       "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
+    },
+    {
+      "title": "Startups españolas de IA en México: oportunidad 2026 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFpQRUduUE1JOGNHYzlvdHpDNlVrcllUQ09qZHotQklDUUV1VEpuZ3RBdkVwSXhKX3JRc3RMQmgta2syOW4tYUpmS1NfVmkxZGxpUDVlR0ZEWFhlZFl3c3VTaHFJZm56RHVJR0V3ZEc3ZWlBZnpIUkM0U1c4cGhIcG5mQzFPRDBseUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFpQRUduUE1JOGNHYzlvdHpDNlVrcllUQ09qZHotQklDUUV1VEpuZ3RBdkVwSXhKX3JRc3RMQmgta2syOW4tYUpmS1NfVmkxZGxpUDVlR0ZEWFhlZFl3c3VTaHFJZm56RHVJR0V3ZEc3ZWlBZnpIUkM0U1c4cGhIcG5mQzFPRDBseUE?oc=5\" target=\"_blank\">Startups españolas de IA en México: opor"
     }
   ],
   "count": 14

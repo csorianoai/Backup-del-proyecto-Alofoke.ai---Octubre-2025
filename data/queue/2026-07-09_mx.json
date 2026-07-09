@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "SpaceX promete reducir los costos de la IA con Grok 4.5",
+      "url": "https://expansion.mx/tecnologia/2026/07/09/space-xai-promete-reducir-los-costos-de-la-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 09 Jul 2026 17:58:44 GMT",
+      "summary": "El nuevo modelo promete utilizar hasta 4.2 veces menos tokens que algunos de sus rivales y costar desde dos dólares por millón de tokens de entrada."
+    },
+    {
+      "title": "Pixel 11, fecha de presentación y todo lo que se sabe del nuevo teléfono de Google",
+      "url": "https://expansion.mx/tecnologia/2026/07/09/pixel-11-fecha-de-lanzamiento-google",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 09 Jul 2026 15:00:24 GMT",
+      "summary": "La empresa de Mountain View ya dio a conocer cuándo se mostrará este dispositivo y si bien aún no se conocen más detalles, algunas filtraciones sugieren características interesantes."
+    },
+    {
+      "title": "La IA puede darte la razón, pero el negocio está en resolver problemas",
+      "url": "https://expansion.mx/tecnologia/2026/07/09/ia-dice-lo-que-quieres-oir-y-no-necesitas-saber",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 09 Jul 2026 11:55:19 GMT",
+      "summary": "La corrección de ChatGPT abrió el debate sobre los incentivos de la industria: las suscripciones y el uso empresarial premian modelos que aportan valor, no solo respuestas complacientes."
+    },
+    {
+      "title": "Meta invertirá 9,000 millones de dólares en su primer centro de datos de IA en Canadá",
+      "url": "https://expansion.mx/tecnologia/2026/07/08/meta-invertira-13-000-millones-de-dolares",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 08 Jul 2026 23:45:27 GMT",
+      "summary": "En la provincia de Alberta, Meta encontró el lugar perfecto para desarrollar su primer gran centro de datos, gracias a la disponibilidad de energía barata y un ambiente regulatorio amigable."
+    },
+    {
       "title": "\"Digitalizar todo no es inteligente\": saber usar la IA puede ahorrar hasta 5,000 dólares al año a una startup",
       "url": "https://expansion.mx/tecnologia/2026/07/08/error-impide-startups-ahorrar-5000-dolares-ia",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Wed, 08 Jul 2026 21:00:38 GMT",
       "summary": "Aunque existe una fiebre por implementar IA en los procesos de pymes y startups, especialistas señalan que el gran error en torno a esta tecnología es implementarla sin estrategia."
-    },
-    {
-      "title": "ChatGPT quiere parecer una persona: así será su nueva función de voz más humana y natural",
-      "url": "https://expansion.mx/tecnologia/2026/07/08/openai-chatgpt-nueva-funcion-voz-mas-humana",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 08 Jul 2026 20:24:47 GMT",
-      "summary": "Los nuevos modelos conversan de forma simultánea con el usuario, entienden pausas e interrupciones y añaden mecanismos para reducir riesgos."
-    },
-    {
-      "title": "Palantir, la tecnológica detrás de ICE, llega a México de la mano de GNP Seguros",
-      "url": "https://expansion.mx/tecnologia/2026/07/08/palantir-llega-a-mexico-con-gnp-seguros",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 08 Jul 2026 19:15:57 GMT",
-      "summary": "Las empresas anunciaron un acuerdo de expansión en el que la polémica firma de Alex Karp proveerá tecnología para detectar fraudes en reclamaciones de pólizas a la aseguradora."
-    },
-    {
-      "title": "OpenAI libera GPT-5.6 tras revisión del gobierno de Trump",
-      "url": "https://expansion.mx/tecnologia/2026/07/08/openai-libera-gpt-5-6-despues-de-revision-trump",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 08 Jul 2026 19:00:19 GMT",
-      "summary": "La liberación de los modelos de inteligencia artificial Sol, Terra y Luna marcan un antes y un después ya que, no solo compiten entre ellas, sino que ahora negocian con Washington el acceso a sus modelos más potentes."
-    },
-    {
-      "title": "Meta apuesta por una IA más personal con Muse Image, su nuevo generador de imágenes",
-      "url": "https://expansion.mx/tecnologia/2026/07/08/meta-muse-image-nuevo-generador-de-imagenes-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 08 Jul 2026 17:28:45 GMT",
-      "summary": "La tecnológica presentó Muse Image, su primer modelo de generación de imágenes desarrollado por Meta Superintelligence Labs"
     },
     {
       "title": "La UJA expone su modelo de implantación de Inteligencia Artificial ante especialistas educativos en México - Infobae",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTndsWENPeTNXVlBUT25mQjdaU2l6WTF3S3c5RVdhem5laFZhTXJRd0xWUm5rZXBYejV3RC1xNTZ2ZnphNklUQ056YnJ5RXU3VlhLRXBvQ2dPOWpEeHZZRThtQVI0T01FYWZsWlBrRDNPb1lrX2JRWFhZLW5HYkI2MWRZRVJBQ1BaU1dTUEFKWTA1UEFRQklLOHQ1Z3FwN1JBZE95VEtaYmxNdml1YW9tOVB2YVhTVGJzQl"
     },
     {
-      "title": "México invierte en IA, pero aún no logra convertirse en una potencia empresarial - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGdrY1dBbzNzMExQM3ZhTVltLUdzWW43d2hxSmFFNE1ITm5VRnlFczFFQnY1T19GVVJONU5IT25GOVRmbUJ1azNuOTg0NFFQcEZUMEtpUEhVRFlLWmlFWjN3aWxTLW1FS014ekF2X0VUazNfUDNKREVuWjluOUJ1eks5Xzd3aEZoLS1BYjlrU1I4ZlJONXRYdVktd09ycDJEWkxFNGkzNUJ0VWVMZ0oxM2p2YlZSUVN1R3g0ZHNKUmVOeDFiT2p0T01JYw?oc=5",
+      "title": "Ley de inteligencia artificial en México: así avanza la propuesta de Morena - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm9yTkRXZW5wOHAtcGFXeEhQNkFDT21ORUpuSkktNUhDUkV3cVlkVDk4eUY3bm1YS1lFUFdwVUlhX1FiT1UxNnBORTlYV2szbE5aQ2ZMWFM5MnFmQmVxYUw2OFByWWV1by1FREVkbDJpbUhHQnBlOGl6NzUzdjhLb09ObHFXZkNIU04wbWxCM05jQXF2R3UwM1o3M21OZVFaNVlOMGdWNDdUS1UwcW5WRjlKRkVwZDFhMy1ERFZ2dnRWaThF?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 09 Jul 2026 15:00:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSGdrY1dBbzNzMExQM3ZhTVltLUdzWW43d2hxSmFFNE1ITm5VRnlFczFFQnY1T19GVVJONU5IT25GOVRmbUJ1azNuOTg0NFFQcEZUMEtpUEhVRFlLWmlFWjN3aWxTLW1FS014ekF2X0VUazNfUDNKREVuWjluOUJ1eks5Xzd3aEZoLS1BYjlrU1I4ZlJONXRYdVktd09ycDJEWkxFNGkzNUJ0VWVMZ0oxM2p2YlZSUVN1R3"
+      "published": "Thu, 09 Jul 2026 18:00:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm9yTkRXZW5wOHAtcGFXeEhQNkFDT21ORUpuSkktNUhDUkV3cVlkVDk4eUY3bm1YS1lFUFdwVUlhX1FiT1UxNnBORTlYV2szbE5aQ2ZMWFM5MnFmQmVxYUw2OFByWWV1by1FREVkbDJpbUhHQnBlOGl6NzUzdjhLb09ObHFXZkNIU04wbWxCM05jQXF2R3UwM1o3M21OZVFaNVlOMGdWNDdUS1UwcW5WRjlKRkVwZDFhMy"
     },
     {
-      "title": "Informe preliminar del Panel Científico Internacional Independiente sobre Inteligencia Artificial - Naciones Unidas en México",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXBCS0g4Z3ZKUGJndk9BS3lLN1VTdzVJaTZGbW1FWTQ3R00xdEFteWRkOS0wRGpGWWhxQjQ1NUVGT3JLWGtmQkRGcF94ZVgyNnRTa1hQdUloV0I1a1hlUy1OTWlmVXRkX3Z3UmxFd0wxS2N4bTlWTjVVZnFfYTNVSEszU1EtM2lWWWlQa0t0cVRNd084YS1OVlN5ZjR6MldHYVR4ZXJRdmt1YTZPaTU2WHQ5S3VxNjhJLWxkUTE5cW8?oc=5",
+      "title": "Adopción de la inteligencia artificial en México: equilibrio entre inversión y gobernanza - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObjBzcXdoMV9QRWFhTTdSR0lOZzdFYUozd19LU3pRd3FaRmJvbU1yMHowWVAtYmItRXZVMzFsTU9SQ2JDZUpZYU5BX0pzcHMwZXotcWJ4WFRGbklxOWtoVGk3eWxpcHdUdkZKMnMwal9sZUtZVTBmdDhVVGx5QlkxX2NqQ3NjQ2xJcGplZm5fTXUtT1plVWcwaDJwYm1QZjBhQ19vRHM2c2tKWnF3R3FuTw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Jul 2026 21:33:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXBCS0g4Z3ZKUGJndk9BS3lLN1VTdzVJaTZGbW1FWTQ3R00xdEFteWRkOS0wRGpGWWhxQjQ1NUVGT3JLWGtmQkRGcF94ZVgyNnRTa1hQdUloV0I1a1hlUy1OTWlmVXRkX3Z3UmxFd0wxS2N4bTlWTjVVZnFfYTNVSEszU1EtM2lWWWlQa0t0cVRNd084YS1OVlN5ZjR6MldHYVR4ZXJRdmt1YTZPaTU2WHQ5S3VxNjhJLW"
+      "published": "Thu, 09 Jul 2026 13:03:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObjBzcXdoMV9QRWFhTTdSR0lOZzdFYUozd19LU3pRd3FaRmJvbU1yMHowWVAtYmItRXZVMzFsTU9SQ2JDZUpZYU5BX0pzcHMwZXotcWJ4WFRGbklxOWtoVGk3eWxpcHdUdkZKMnMwal9sZUtZVTBmdDhVVGx5QlkxX2NqQ3NjQ2xJcGplZm5fTXUtT1plVWcwaDJwYm1QZjBhQ19vRHM2c2tKWnF3R3FuTw?oc=5\" targe"
     },
     {
       "title": "Las startups latinoamericanas nativas de IA crecen a triple dígito y alcanzan el estatus de unicornio en la mitad del tiempo - FashionNetwork México",
