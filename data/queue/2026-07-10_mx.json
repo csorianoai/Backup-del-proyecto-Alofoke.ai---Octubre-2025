@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Reseña: Star Fox, el espíritu arcade regresa con creces en 2026",
+      "url": "https://expansion.mx/tecnologia/2026/07/10/resena-star-fox-el-espiritu-arcade-regresa-con-creces-en-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 10 Jul 2026 17:00:28 GMT",
+      "summary": "Este remake de Nintendo 64 demuestra que, por un lado, las capacidades técnicas de Switch 2 tienen un techo muy alto y, por el otro, que un buen diseño de niveles es atemporal."
+    },
+    {
       "title": "La UE declara culpable a Meta por \"diseño adictivo\" de Facebook e Instagram",
       "url": "https://expansion.mx/tecnologia/2026/07/10/ue-declara-culpable-meta-diseno-adictivo-facebook-instagram",
       "source": "Expansión Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Meta lanzó al público la API de Muse Spark 1.1, mientras que OpenAI inició el despliegue de GPT-5.6. Ambas empresas buscan atraer desarrolladores y empresas en un mercado donde el costo es prioridad."
     },
     {
-      "title": "SpaceX promete reducir los costos de la IA con Grok 4.5",
-      "url": "https://expansion.mx/tecnologia/2026/07/09/space-xai-promete-reducir-los-costos-de-la-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 09 Jul 2026 17:58:44 GMT",
-      "summary": "El nuevo modelo promete utilizar hasta 4.2 veces menos tokens que algunos de sus rivales y costar desde dos dólares por millón de tokens de entrada."
-    },
-    {
       "title": "GandIA la inteligencia artificial mexicana que impulsa la creatividad de los niños - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2VGaWJoNHNJWTNrZnpUanV5enkzVWROdUFZZUsyenhVTXN0Yl9RTVBaNlFKZDdYbTM4Z0JXcF9yUDZELTk5UjRrX1dOQXZnamFVS2xxU3lCMldMTWYzM1VKdkh5T1dqSXlBY1FPOUZULXpWNXh0enVWQW1EV0lONlgzbzMyQUFfdDY1VHVhOEhBVkI5SVYyTFltenVXd0VtSm9UNm0tQkZiSk1Hdnl6VGNYbTJzN0NHaElyTVZ2dlBFUjVtdko1U0R2SVBaX0U?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2VGaWJoNHNJWTNrZnpUanV5enkzVWROdUFZZUsyenhVTXN0Yl9RTVBaNlFKZDdYbTM4Z0JXcF9yUDZELTk5UjRrX1dOQXZnamFVS2xxU3lCMldMTWYzM1VKdkh5T1dqSXlBY1FPOUZULXpWNXh0enVWQW1EV0lONlgzbzMyQUFfdDY1VHVhOEhBVkI5SVYyTFltenVXd0VtSm9UNm0tQkZiSk1Hdnl6VGNYbTJzN0NHaE"
     },
     {
-      "title": "La UJA expone su modelo de implantación de Inteligencia Artificial ante especialistas educativos en México - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTndsWENPeTNXVlBUT25mQjdaU2l6WTF3S3c5RVdhem5laFZhTXJRd0xWUm5rZXBYejV3RC1xNTZ2ZnphNklUQ056YnJ5RXU3VlhLRXBvQ2dPOWpEeHZZRThtQVI0T01FYWZsWlBrRDNPb1lrX2JRWFhZLW5HYkI2MWRZRVJBQ1BaU1dTUEFKWTA1UEFRQklLOHQ1Z3FwN1JBZE95VEtaYmxNdml1YW9tOVB2YVhTVGJzQlV5TmRPak1HbzBPWWZXaDVCVDRNSlpPRzdncUpZRGUxX0NGOXFsQ0pZdzdzbmJWMXJ3NVJoWErSAYsCQVVfeXFMTmFjMERiMjhhZndjZDJFdkNicDBjT3VJOU9EVFlXVklOLVNCaURrc25XSkhXRGk3bUdubDEwTElYTTZlUjlLeUtxblpjRWNOM21XcEFPczdITjJjN0d3dWktMVNiZlpQX2RKTFYtZmdua20yRm5lM09mZEZMR0ZQQjVNNS1ZTC1ZOFN2S1dHNXZwcWI3RUVHX0hWV05EMTVyS3cyZUlYazdBOWI2eDBjRnZmYmhPbnlQRzFJX0F2TTFVSC13eGlVeHMzeFhOcUFGS19WZjNPOVZCem5uMEczTnhCaXM1WkFWaDVlSTNxaklEZjgyVG1SQmk4aE1LS2dsZG5XbVBIbGtoZjNn?oc=5",
+      "title": "Centro Público de Formación en IA de México gana el reconocimiento internacional WSIS Champion 2026 de la ONU - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRjFUbVEyT2FlbXRBb19WOFlZS215eC1HTElTdzQ2RjVtWERmdkxTVVk3LTZXYzRFMldqdDNNU0ZPZzBtd1YwN0daQzNLMVh3S2ptT0pHYWpxSEpRVWd3LVZXeEVMdnphUno1blZwOENCaWlFSDdFZExoUXR1ck1KQTVvVHZ5cXR4QkNkdGloMFVVbXF1dGxvR2pRWHJBS0g0T3ZmUFZGZEhsNnJLeFZ1MGJSblc1ZWlwdVBZT2VsT1B4LUlCZERtUk93QWU5V05fVUtncGFRY0hDV285SU9UWHluNHhndE3SAYICQVVfeXFMTzRWRlQzSzF1N2hjUFQxOFBtQkc3VFJSTzZHMjZyYVFwX25KV3k5cExmTEZPYkNheklXeVJ1Nzl5Wl9EX2t0UDk3WW5lYktJbEdTYmhxRVl3VENJR0txZC1WYTVlUzFiRl91RWl3bmtuRXV1TTg2YURoWlFVODZUd2h6R0hxb0Y5U0Y3Z2RFTl9tSFRBNmRyam5JSkg3MEl5MlY1MUJ1RUtHdUZTbFNGRXZhUmNEWlVnOXFjRm5Sakd0UWVUN0xfcjZ2eW9DWjFpdWdWYTZBUV9nazB0R0FJWV9LMU5UME9Jb0NsVDBPeWlmakZKcnZlaHhRck1MbVhRT2p3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 09 Jul 2026 09:28:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTndsWENPeTNXVlBUT25mQjdaU2l6WTF3S3c5RVdhem5laFZhTXJRd0xWUm5rZXBYejV3RC1xNTZ2ZnphNklUQ056YnJ5RXU3VlhLRXBvQ2dPOWpEeHZZRThtQVI0T01FYWZsWlBrRDNPb1lrX2JRWFhZLW5HYkI2MWRZRVJBQ1BaU1dTUEFKWTA1UEFRQklLOHQ1Z3FwN1JBZE95VEtaYmxNdml1YW9tOVB2YVhTVGJzQl"
+      "published": "Fri, 10 Jul 2026 19:43:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRjFUbVEyT2FlbXRBb19WOFlZS215eC1HTElTdzQ2RjVtWERmdkxTVVk3LTZXYzRFMldqdDNNU0ZPZzBtd1YwN0daQzNLMVh3S2ptT0pHYWpxSEpRVWd3LVZXeEVMdnphUno1blZwOENCaWlFSDdFZExoUXR1ck1KQTVvVHZ5cXR4QkNkdGloMFVVbXF1dGxvR2pRWHJBS0g0T3ZmUFZGZEhsNnJLeFZ1MGJSblc1ZWlwdV"
     },
     {
-      "title": "Informe preliminar del Panel Científico Internacional Independiente sobre Inteligencia Artificial - Naciones Unidas en México",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXBCS0g4Z3ZKUGJndk9BS3lLN1VTdzVJaTZGbW1FWTQ3R00xdEFteWRkOS0wRGpGWWhxQjQ1NUVGT3JLWGtmQkRGcF94ZVgyNnRTa1hQdUloV0I1a1hlUy1OTWlmVXRkX3Z3UmxFd0wxS2N4bTlWTjVVZnFfYTNVSEszU1EtM2lWWWlQa0t0cVRNd084YS1OVlN5ZjR6MldHYVR4ZXJRdmt1YTZPaTU2WHQ5S3VxNjhJLWxkUTE5cW8?oc=5",
+      "title": "Instagram se enfrenta a críticas por Muse Image • Inteligencia Artificial - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OcmFEd1A1dVVrOWRLc0RNUGt3WFJMOC02RE9RV2pkR2haMXd5UzZ5NHZ1VGZlTUV6MnRQLTdPT19aMVV3VWZCX0cwWGMyRFFpdEhqbXVpeEdSdTdRVzVzazhmTWU3ZFlMMFhZT0NJMUM1a1BSS1l3NWRB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Jul 2026 21:33:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXBCS0g4Z3ZKUGJndk9BS3lLN1VTdzVJaTZGbW1FWTQ3R00xdEFteWRkOS0wRGpGWWhxQjQ1NUVGT3JLWGtmQkRGcF94ZVgyNnRTa1hQdUloV0I1a1hlUy1OTWlmVXRkX3Z3UmxFd0wxS2N4bTlWTjVVZnFfYTNVSEszU1EtM2lWWWlQa0t0cVRNd084YS1OVlN5ZjR6MldHYVR4ZXJRdmt1YTZPaTU2WHQ5S3VxNjhJLW"
+      "published": "Fri, 10 Jul 2026 21:28:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9OcmFEd1A1dVVrOWRLc0RNUGt3WFJMOC02RE9RV2pkR2haMXd5UzZ5NHZ1VGZlTUV6MnRQLTdPT19aMVV3VWZCX0cwWGMyRFFpdEhqbXVpeEdSdTdRVzVzazhmTWU3ZFlMMFhZT0NJMUM1a1BSS1l3NWRB?oc=5\" target=\"_blank\">Instagram se enfrenta a críticas por Muse Image • Inteligencia "
     },
     {
       "title": "Las startups latinoamericanas nativas de IA crecen a triple dígito y alcanzan el estatus de unicornio en la mitad del tiempo - FashionNetwork México",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - Observatorio / Instituto para el Futuro de la Educación",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5",
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5\" target=\"_blank\">Estudio: ¿Có"
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
     }
   ],
   "count": 14
