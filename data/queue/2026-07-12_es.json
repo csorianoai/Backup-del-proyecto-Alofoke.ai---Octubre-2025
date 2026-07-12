@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
-      "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración",
-      "url": "https://elpais.com/espana/2026-07-12/la-espiral-xenofoba-asi-se-han-endurecido-el-discurso-derechista-y-el-clima-social-contra-la-inmigracion.html",
+      "title": "Última gran batida en Los Gallardos: cien operativos barren 217 hectáreas quemadas en busca de vida o muerte",
+      "url": "https://elpais.com/espana/2026-07-12/ultima-gran-batida-en-los-gallardos-cien-operativos-barren-217-hectareas-quemadas-en-busca-de-vida-o-muerte.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 12 Jul 2026 14:56:12 GMT",
+      "summary": "Diez grupos mixtos con voluntarios de Protección Civil, Guardia Civil y UME peinan 18 zonas y revisan 250 viviendas sin rastro de los desaparecidos, tras el mortífero incendio de Almería"
+    },
+    {
+      "title": "Ángel Collado, el alcalde que avisó del incendio a los vecinos puerta por puerta y colgó el teléfono al Rey",
+      "url": "https://elpais.com/espana/2026-07-12/angel-collado-el-alcalde-que-aviso-del-incendio-a-los-vecinos-puerta-a-puerta-y-colgo-el-telefono-al-rey.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 12 Jul 2026 03:30:01 GMT",
-      "summary": "España se ha instalado en un circuito de endurecimiento sin freno del mensaje del PP y Vox, oscurecimiento de la visión social de la inmigración, odio desatado en las redes y riesgo creciente de estallidos en la calle. “Esto es una olla exprés”, dice una activista que trabaja en primera línea"
+      "summary": "El regidor lleva 23 años ganando por mayoría absoluta la alcaldía de Bédar, el municipio en el que han muerto al menos 12 personas. Ahora afronta el reto más difícil de su carrera, el de gestionar la mayor crisis de la historia del pueblo"
+    },
+    {
+      "title": "Los primeros evacuados por el fuego regresan a sus hogares: “Hemos tenido mucha suerte, nuestras casas se han salvado”",
+      "url": "https://elpais.com/videos/2026-07-12/los-primeros-evacuados-por-el-fuego-regresan-a-sus-hogares-hemos-tenido-mucha-suerte-nuestras-casas-se-han-salvado.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 12 Jul 2026 18:00:00 GMT",
+      "summary": "Los vecinos de Almocaizar, la localidad donde se originó el fuego, vuelven a sus hogares después de tres días desalojados y con la alegría de recuperar el sistema eléctrico"
     },
     {
       "title": "Un año después de las palizas a Domingo e Ismael, las heridas siguen abiertas en Torre Pacheco",
@@ -19,28 +35,20 @@
       "summary": "Los vecinos del municipio murciano temen que la difusión de vídeos violentos vuelva a desencadenar una persecución de la ultraderecha a los magrebíes"
     },
     {
-      "title": "No ceder al marco extremista",
-      "url": "https://elpais.com/opinion/2026-07-12/no-ceder-al-marco-extremista.html",
+      "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración",
+      "url": "https://elpais.com/espana/2026-07-12/la-espiral-xenofoba-asi-se-han-endurecido-el-discurso-derechista-y-el-clima-social-contra-la-inmigracion.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 12 Jul 2026 03:30:01 GMT",
-      "summary": "El PP impulsa las ideas y las guerras culturales de Vox al homologar términos falaces como “prioridad nacional” o “concebidos no nacidos”"
+      "summary": "España se ha instalado en un circuito de endurecimiento sin freno del mensaje del PP y Vox, oscurecimiento de la visión social de la inmigración, odio desatado en las redes y riesgo creciente de estallidos en la calle. “Esto es una olla exprés”, dice una activista que trabaja en primera línea"
     },
     {
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que vamos improvisando”",
-      "url": "https://elpais.com/espana/2026-07-12/inquietud-en-el-pp-tras-los-ultimos-tropiezos-de-feijoo-la-sensacion-es-que-vamos-improvisando.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 12 Jul 2026 03:30:01 GMT",
-      "summary": "Las polémicas sobre las bajas laborales y la ‘ley de nietos’ reavivan el debate sobre la estrategia de oposición: “Hay que revisar el modo de trabajo”"
-    },
-    {
-      "title": "Moreno anuncia que el incendio de Los Gallardos está estabilizado y ha quemado 7.000 hectáreas",
-      "url": "https://elpais.com/espana/2026-07-12/moreno-anuncia-que-el-incendio-de-los-gallardos-esta-estabilizado-y-ha-quemado-7000-hectareas.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 12 Jul 2026 10:21:48 GMT",
-      "summary": "La Junta de Andalucía avanza que las 1.000 personas desalojadas podrán regresar hoy a sus viviendas"
+      "title": "La IA predijo al próximo campeón del mundo tras confirmarse los cuatro clasificados a semifinales - bolavip.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3pNYnF6eTZrWGRfRHdacExQVG5VVTI3Z212eXNnSFdSSFRwWVJQSEhrbTB5cy1rQWl1VzA3WXhWc2R5TDJsVGNkOXRrX3E4TGplZEY5WENGMFJSTEs3VnlNZ0xZTkZUb1ZLbHg3QlI3TDJ2R09HdEFNdWFqbkRtdkczaGlRQ2R0TGw1UTY3aUQ5RTM3RkduYlJ3b2ZudWZkb1JSTG5QTTA5VkhtNUNSTEtiYlBTejNiVjNzUWoxcnpORzF0dWVr0gHMAUFVX3lxTFBKTm5JalJjVE1Sc2poQVlGc252bUZlR3RaSk9nUk9OSlF2R0RHUVRMaWVOSHAyd1Q0eV9vYnJCaVF3VXJOeUhsSmxibmtfb1BKcWpEM0d5WHZ2YlRraXZBSEUzU0hUS2pKZjlna0VxY3NnaVJ0UUd6aEJhYkZVaVViY1FranhPQmc0NTVtd0dtREpXQ3ZISnRhRmZqcmtNaURuUGs2cEN3NFJLS2YyS3hnTzZyd0pqU2FiS3pzUFNVMmhpa3YtUGl0d1cwbg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 12 Jul 2026 14:09:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3pNYnF6eTZrWGRfRHdacExQVG5VVTI3Z212eXNnSFdSSFRwWVJQSEhrbTB5cy1rQWl1VzA3WXhWc2R5TDJsVGNkOXRrX3E4TGplZEY5WENGMFJSTEs3VnlNZ0xZTkZUb1ZLbHg3QlI3TDJ2R09HdEFNdWFqbkRtdkczaGlRQ2R0TGw1UTY3aUQ5RTM3RkduYlJ3b2ZudWZkb1JSTG5QTTA5VkhtNUNSTEtiYlBTejNiVj"
     },
     {
       "title": "España vs. Bélgica: pronóstico de la inteligencia artificial, con marcador y clasificado a semifinales del Mundial - Revista Semana",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Sun, 12 Jul 2026 05:25:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHNfZWFVMm80YTl5R2FweTRtSGRPRnA0UEk4bEtmQXVpS0x2YlE3MnFybExmcnVzTVNaT0V4clFOdDZ2ZXBPYVlhYVNPamlUWjUwZkg3UXhVVGlYNDhaOVhOTXo2U0Frb3dnbURsSHpSRTdBbndjX3JfZ2dkSHZEbkpNZkxzRlloczlBVTFSQ1hab193WlRQaU5ZSjNsUEdTVGN3d3lOT2EzeHJVV2RKWndhNk1oYXdOTj"
-    },
-    {
-      "title": "Cuál será el resultado entre España y Bélgica, según la inteligencia artificial - TyC Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmE0VmdJcENiNmpCM0U1VnA4alJIallqZEZMUDU3Rmw3dzVIYUMtejdUNXV5b0VmQS04SVRyVkdibjlTS2ZBQ25XbklaclY4MU9RdUo1VnRpM051WHBrSnREZHlQVWowWTJIRUJoS1VMQTMwX2ctWTdzQlozR0VtQ2hRZEg1UHl1OW5jaVZvWk1VMDdTY05oTWlEaGlHT0dvM0ZReW0yNHI3dUEwQl9KbWY4S09lN05ieUpJMFJXXzZGUFU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 10 Jul 2026 20:51:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmE0VmdJcENiNmpCM0U1VnA4alJIallqZEZMUDU3Rmw3dzVIYUMtejdUNXV5b0VmQS04SVRyVkdibjlTS2ZBQ25XbklaclY4MU9RdUo1VnRpM051WHBrSnREZHlQVWowWTJIRUJoS1VMQTMwX2ctWTdzQlozR0VtQ2hRZEg1UHl1OW5jaVZvWk1VMDdTY05oTWlEaGlHT0dvM0ZReW0yNHI3dUEwQl9KbWY4S09lN05ieU"
     },
     {
       "title": "El pronóstico de la Inteligencia Artificial para el clásico entre el Barcelona y el Real Madrid - Sports Illustrated",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
     },
     {
-      "title": "Las 50 startups en ronda de inversión según Scoutyn - El Referente",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThTRGZSMF9qSWtPeUliVmc4OFNvcVR3NHBMYjlTcWc2cGw3RXNhZDRoa1dldXdzYjFHMFJ0Vzk4b2hKSElUZlZMbWM3Tkhfa1RIaTdOQVZvSi1waGpSVkVvcUVBUUFVd2RveFFYUGJLUjdKT3RmX08yb2EwdmV0dDE3ajlVSmRQQzdZ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThTRGZSMF9qSWtPeUliVmc4OFNvcVR3NHBMYjlTcWc2cGw3RXNhZDRoa1dldXdzYjFHMFJ0Vzk4b2hKSElUZlZMbWM3Tkhfa1RIaTdOQVZvSi1waGpSVkVvcUVBUUFVd2RveFFYUGJLUjdKT3RmX08yb2EwdmV0dDE3ajlVSmRQQzdZ?oc=5\" target=\"_blank\">Las 50 startups en ronda de inversión s"
-    },
-    {
       "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "Adigital y el Gobierno abordan el salto de las startups - La Ecuación Digital",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUV5M2xkTVN0d0R4SmdULTZGS2xaajltN3U4RWV4cTQ3ek9qX1lqblliYkxhb29vSDNIcWJheFFWeWNqSFlIU0F3dlA0dmgxeUU5V1A0bExQSDI3WWU5ckNBOHpMX3lXTkMxYWdvcU9KbmxoWnh0cmU5alpWbVg0U3RVemR6NGlaTDQ2eDVkem83MWtyNWNz?oc=5",
+      "title": "Las 50 startups en ronda de inversión según Scoutyn - El Referente",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThTRGZSMF9qSWtPeUliVmc4OFNvcVR3NHBMYjlTcWc2cGw3RXNhZDRoa1dldXdzYjFHMFJ0Vzk4b2hKSElUZlZMbWM3Tkhfa1RIaTdOQVZvSi1waGpSVkVvcUVBUUFVd2RveFFYUGJLUjdKT3RmX08yb2EwdmV0dDE3ajlVSmRQQzdZ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 04 Jul 2026 15:10:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUV5M2xkTVN0d0R4SmdULTZGS2xaajltN3U4RWV4cTQ3ek9qX1lqblliYkxhb29vSDNIcWJheFFWeWNqSFlIU0F3dlA0dmgxeUU5V1A0bExQSDI3WWU5ckNBOHpMX3lXTkMxYWdvcU9KbmxoWnh0cmU5alpWbVg0U3RVemR6NGlaTDQ2eDVkem83MWtyNWNz?oc=5\" target=\"_blank\">Adigital y el Gobierno "
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThTRGZSMF9qSWtPeUliVmc4OFNvcVR3NHBMYjlTcWc2cGw3RXNhZDRoa1dldXdzYjFHMFJ0Vzk4b2hKSElUZlZMbWM3Tkhfa1RIaTdOQVZvSi1waGpSVkVvcUVBUUFVd2RveFFYUGJLUjdKT3RmX08yb2EwdmV0dDE3ajlVSmRQQzdZ?oc=5\" target=\"_blank\">Las 50 startups en ronda de inversión s"
+    },
+    {
+      "title": "Startups españolas de IA en México: oportunidad 2026 - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFpQRUduUE1JOGNHYzlvdHpDNlVrcllUQ09qZHotQklDUUV1VEpuZ3RBdkVwSXhKX3JRc3RMQmgta2syOW4tYUpmS1NfVmkxZGxpUDVlR0ZEWFhlZFl3c3VTaHFJZm56RHVJR0V3ZEc3ZWlBZnpIUkM0U1c4cGhIcG5mQzFPRDBseUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFpQRUduUE1JOGNHYzlvdHpDNlVrcllUQ09qZHotQklDUUV1VEpuZ3RBdkVwSXhKX3JRc3RMQmgta2syOW4tYUpmS1NfVmkxZGxpUDVlR0ZEWFhlZFl3c3VTaHFJZm56RHVJR0V3ZEc3ZWlBZnpIUkM0U1c4cGhIcG5mQzFPRDBseUE?oc=5\" target=\"_blank\">Startups españolas de IA en México: opor"
     }
   ],
   "count": 14
