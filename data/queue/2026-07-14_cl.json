@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "El Niño: del fenómeno climático más pop y nuestra obsesión con la lluvia",
+      "url": "https://www.latercera.com/tendencias/noticia/el-nino-del-fenomeno-climatico-mas-pop-y-nuestra-obsesion-con-la-lluvia/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 13 Jul 2026 20:01:00 +0000",
+      "summary": "El Niño no solo es un fenómeno climático que ocurre en el océano Pacífico y altera el clima global. En Chile lo asociamos a temporales, desbordes y aluviones, pero también a una ansiedad colectiva por la lluvia. Desde el origen de su nombre hasta el icónico Mini cayendo al Mapocho en 1983, revela có"
+    },
+    {
       "title": "La IA de Google que anticipa inundaciones por las lluvias: qué ríos están bajo alerta en Chile",
       "url": "https://www.latercera.com/tendencias/noticia/la-ia-de-google-que-anticipa-inundaciones-por-las-lluvias-que-rios-estan-bajo-alerta-en-chile/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Tue, 14 Jul 2026 10:01:00 +0000",
       "summary": "Los hallazgos sostienen que un enfoque único para la prevención no funciona en todas partes. Los investigadores, quienes analizaron datos de 14 países y regiones, afirman que sus conclusiones deberían ayudar a diseñar estrategias de prevención adaptadas a poblaciones específicas."
-    },
-    {
-      "title": "Mucho más allá de Jurassic Park: cuál fue el legado de Sam Neill en el cine",
-      "url": "https://www.latercera.com/tendencias/noticia/mucho-mas-alla-de-jurassic-park-cual-fue-el-legado-de-sam-neill-en-el-cine/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Jul 2026 00:46:38 +0000",
-      "summary": "El actor, fallecido a los 78 años, dejó una filmografía de más de 50 años que trascendió al icónico Dr. Alan Grant. Críticos de cine analizan por qué Sam Neill fue uno de los intérpretes más versátiles de su generación."
     },
     {
       "title": "Chile se suma a coalición de las Naciones Unidas para entregar cursos de capacitación gratuita de IA a la ciudadanía - DPL News",
