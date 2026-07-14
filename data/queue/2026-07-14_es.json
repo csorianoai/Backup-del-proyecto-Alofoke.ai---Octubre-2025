@@ -3,6 +3,30 @@
   "country": "es",
   "articles": [
     {
+      "title": "Francia - España: Mundial 2026, en directo | España tiene la posesión pero Francia se acerca con peligro",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/francia-espana-en-directo-el-partido-de-las-semifinales-del-mundial-en-vivo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Jul 2026 19:20:10 GMT",
+      "summary": "Pedri es suplente y De la Fuente repite el once con el que ganó a Bélgica | Deschamps introduce dos cambios en la alineación: Tchouameni por Koné y Barcola por Doué | El miércoles, otra semifinal de alto voltaje: Inglaterra - Argentina"
+    },
+    {
+      "title": "Francia-España, el partido de semifinales del Mundial en imágenes",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-07-14/francia-espana-el-partido-de-semifinales-del-mundial-en-imagenes.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Jul 2026 18:45:56 GMT",
+      "summary": "La Roja, comandada por Lamine Yamal, busca la segunda final de su historia contra ‘Les Bleus’ de Mbappé"
+    },
+    {
+      "title": "¿Quién ganará el Mundial? Así avanzan nuestras predicciones",
+      "url": "https://elpais.com/deportes/mundial-futbol/2026-06-11/quien-ganara-el-mundial-asi-arrancan-nuestras-predicciones.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Jul 2026 17:53:23 GMT",
+      "summary": "El modelo estadístico de EL PAÍS mantiene a España favorita antes de las semifinales. Consulte las opciones actualizadas de cada selección"
+    },
+    {
       "title": "Condenado David Sánchez, hermano del presidente del Gobierno, a nueve años de inhabilitación por un delito de prevaricación",
       "url": "https://elpais.com/espana/2026-07-14/condenado-david-sanchez-hermano-del-presidente-del-gobierno-a-9-anos-de-inhabilitacion-por-un-delito-de-prevaricacion.html",
       "source": "El País Tecnología",
@@ -11,36 +35,12 @@
       "summary": "La Audiencia de Badajoz descarta el tráfico de influencias e impone 18 años de inhabilitación al exlíder del PSOE extremeño Miguel Ángel Gallardo"
     },
     {
-      "title": "Las “dudas” del tribunal sobre la contratación de David Sánchez: sin tráfico de influencias ni presiones acreditadas",
-      "url": "https://elpais.com/espana/2026-07-14/las-dudas-del-tribunal-sobre-la-contratacion-de-david-sanchez-sin-trafico-de-influencias-ni-presiones-acreditadas.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Jul 2026 13:15:01 GMT",
-      "summary": "La sentencia de la Audiencia de Badajoz considera que no se ha probado quién está detrás de la creación y adjudicación de la plaza al hermano del presidente"
-    },
-    {
-      "title": "Claves de una sentencia inédita: un trabajo “a medida” sin prueba de presiones externas",
-      "url": "https://elpais.com/espana/2026-07-14/claves-de-una-sentencia-inedita-sin-carcel-ni-trafico-de-influencias-pero-con-largas-penas-de-inhabilitacion-por-prevaricacion.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Jul 2026 12:03:55 GMT",
-      "summary": "Los tres magistrados firman un fallo unánime donde concluyen que el puesto que se dio a David Sánchez no era “urgente” ni necesario, sino que solo obedeció a su “interés particular”"
-    },
-    {
       "title": "El Gobierno denuncia que lo pretenden “derribar” ante “la incapacidad de hacerlo por las urnas” tras la condena al hermano de Sánchez",
       "url": "https://elpais.com/espana/2026-07-14/puente-denuncia-que-se-pretende-derribar-al-gobierno-ante-la-incapacidad-de-hacerlo-por-las-urnas-tras-la-condena-del-hermano-de-sanchez.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Tue, 14 Jul 2026 11:26:47 GMT",
       "summary": "Rebeca Torró atribuye la sentencia a “una estrategia para desgastar” al Ejecutivo “por cualquier medio” y Patxi López califica el fallo de “cacería” contra el PSOE y el presidente"
-    },
-    {
-      "title": "El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro país",
-      "url": "https://elpais.com/espana/2026-07-14/el-pp-considera-que-la-sentencia-al-hermano-de-sanchez-haria-caer-a-un-gobierno-en-cualquier-otro-pais.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 14 Jul 2026 11:25:30 GMT",
-      "summary": "“Que nadie esté por encima de la ley, sea familia de quien sea, habla bien de nuestro Estado de derecho”, apunta Feijóo"
     },
     {
       "title": "El segundo Observatorio Anual IAON confirma que la inteligencia artificial se consolida en la sociedad española con una mirada más crítica y madura hacia su uso - Microsoft Source",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNU9kOExDY2d3cUwweXRuZ0lUd19TWkxOQjl0WEx4Tmo1SlFfMW9WNEFIUU1BSFRfM1VYeVlFX1gtQXJQWlQ4UUttMmJOZ0oyTFJqQnh3SHY1SlRXX3Z4OVdXMWFWckhSTGpOaDA5em5oVG5hOVkwR2JPaVhiOExwYnVxQ0FXQVRSdXphR2NSS0JSZThMMGp2YjRHaFRCNU42Rm5wQ2h2Q3RNLW94a3dZWmRqSE1KSmRHeV"
     },
     {
+      "title": "Pasó de trabajar con marcas como Barcelona y Real Madrid a crear un fondo de US$ 50 millones para invertir en deporte e IA - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1phWEF0ckYwSGlITjY5T002cTE1WkxDOHAtaWRxbVBEZG0y0gHiAUFVX3lxTE9EYnFXM054YUpLaHhaNDRVV2E5TEdpZzN1Vy1QZFVVblVUWTBEMDVyY09yUXBmcnE1QWg1Zl9ZMDdwZ2VIMFdRcUVvREI4WXk1Tmp1ZEtxUXlNcUk5T3lMRkc3RGlqLTExWC1kdnctdXpFQkxnRUFnVzd3RXZRamhXNGh4eFQ2TkZnXzdtc2lBUVE5bmRENTlnZ1luTTVQQ0w1TklTM1lpcXphM1VSZ0ZWNndEbWotYjdMS2ZDUG5jS0dLbjNaX01pQ0k5dTNrNVJtUXUwXzBTVTJlNjZReGVfbGc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 05 Jul 2026 20:14:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFpYWmllZmlCQnF1QWdzNndWcmxpVlZMalVTZGVjR2hydFFhdjVvZDJ1M3dGZG1JTF9LN1J1cUhhSzB0cG5GckdiclA0WnZLbHB4ZGhzcnVKdC13ZUdjVHlleGJQWVg3UmxEZGkxQWZ3WEZ3MjJ2T0NpUFQ0aUVvSlpQU25PYnFtOVFoZE5uekdjYjBDYnFuaTViaHhLb3hKVXMySlM2enplSEpfRXlqX1U5ZXZ1bnBVU1"
+    },
+    {
       "title": "Pronóstico de Atlético vs Barcelona: resultado según la inteligencia artificial - 365Scores",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 14 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
-    },
-    {
-      "title": "Atlético Madrid vs. Barcelona: IA dijo si hay remontada en los cuartos de Champions League - Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WTg0YjQ4M3pWM004eGpjT3RBakNqMVdSczNB0gHYAUFVX3lxTE5ZSGpqQjEtVXYzckUtY1ZVTmpocjdsY3ZKV3RDUDF0TG91OWotVWc5bDF5c2pnTFJCX1NZRHpFOTRCcko4REhzbUdSU2I1cGlnaTRGdW1WWWFnSDRXdFhhdFBtV3dqY3QxLXM3OGkxT2NwZ0RyNzl4WjhsWHAtX3BsU3RaUWtzVlF6VWtDSmtOYk56dUxKclAyYjBfTTFDTzZScEswRzlsb0lRcDlRbFJ6Qk1yZDFvbTh3YmtRbDdrOGNOVW1TcHJNcS03TVpjUU1CMWpDeFRuYQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 14 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGxXdENhZjZBX18yNlpKREp5TVQ1OXBPRUF2NVJ3LVdBZE8yM0pkRFdGQzFHSENuazlOblVGbERETlZfRGhkRTdBYVliWWYyVEY4TWhzLXVsdnhwY3RQTmFHWkNCdjlzbWtTWnkxaUtmU2I3NFlMd056THFnbGpQaURvanVPU0hOSmxjTU80cEl3R05Ga2FwYlZCTDJVemM4MVVpZkkzeEtvYmEyd19pODlxaGZoanc1WT"
     },
     {
       "title": "CriteriaCaixa prevé invertir 300 millones en 'startups' científicas y tecnológicas en 2030 - El Mundo",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "Las 50 startups en ronda de inversión según Scoutyn - El Referente",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThTRGZSMF9qSWtPeUliVmc4OFNvcVR3NHBMYjlTcWc2cGw3RXNhZDRoa1dldXdzYjFHMFJ0Vzk4b2hKSElUZlZMbWM3Tkhfa1RIaTdOQVZvSi1waGpSVkVvcUVBUUFVd2RveFFYUGJLUjdKT3RmX08yb2EwdmV0dDE3ajlVSmRQQzdZ?oc=5",
+      "title": "Las 50 startups españolas más innovadoras de 2025 - Emprendedores",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSNkgzYVhXZ1FBeURRQ040aWhjeE9tenhMbzl6Y25LeXlDbEU2My1qdFlUUVFsd1I2QTNPbm5LTzFVRGNVS0VPblA3Y1I5RU5uYXpkVlJ5Ml9UWXQ3OW1TX3lPX2lGSW9KUjBzWUJxaGRaNmllZ0VUaTFhN2ZoRUdPMVExTUtETmpKakFNb1Z0ODF6VGdWbGxwT2Y?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLThTRGZSMF9qSWtPeUliVmc4OFNvcVR3NHBMYjlTcWc2cGw3RXNhZDRoa1dldXdzYjFHMFJ0Vzk4b2hKSElUZlZMbWM3Tkhfa1RIaTdOQVZvSi1waGpSVkVvcUVBUUFVd2RveFFYUGJLUjdKT3RmX08yb2EwdmV0dDE3ajlVSmRQQzdZ?oc=5\" target=\"_blank\">Las 50 startups en ronda de inversión s"
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSNkgzYVhXZ1FBeURRQ040aWhjeE9tenhMbzl6Y25LeXlDbEU2My1qdFlUUVFsd1I2QTNPbm5LTzFVRGNVS0VPblA3Y1I5RU5uYXpkVlJ5Ml9UWXQ3OW1TX3lPX2lGSW9KUjBzWUJxaGRaNmllZ0VUaTFhN2ZoRUdPMVExTUtETmpKakFNb1Z0ODF6VGdWbGxwT2Y?oc=5\" target=\"_blank\">Las 50 startups "
     }
   ],
   "count": 14

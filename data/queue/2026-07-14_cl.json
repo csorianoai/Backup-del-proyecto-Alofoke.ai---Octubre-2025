@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "La IA de Google que anticipa inundaciones por las lluvias: qué ríos están bajo alerta en Chile",
+      "url": "https://www.latercera.com/tendencias/noticia/la-ia-de-google-que-anticipa-inundaciones-por-las-lluvias-que-rios-estan-bajo-alerta-en-chile/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 14 Jul 2026 15:22:11 +0000",
+      "summary": "En medio de las intensas lluvias pronosticadas para esta semana, la plataforma Google Flood Hub detectó ocho ríos con riesgo de inundación en Chile: tres en categoría \"Peligro\" y cinco en \"Advertencia\", según sus proyecciones."
+    },
+    {
       "title": "Se aproxima un evento de lluvia histórico: revisa los milímetros que caerán en cada sector",
       "url": "https://www.latercera.com/tendencias/noticia/se-aproxima-el-evento-de-lluvia-historico-revisa-los-milimetros-que-caeran-en-cada-sector/",
       "source": "La Tercera Tecnología",
@@ -35,44 +43,28 @@
       "summary": "El actor, fallecido a los 78 años, dejó una filmografía de más de 50 años que trascendió al icónico Dr. Alan Grant. Críticos de cine analizan por qué Sam Neill fue uno de los intérpretes más versátiles de su generación."
     },
     {
-      "title": "Revisa el tiempo en Santiago para este lunes 13 de julio, según el pronóstico",
-      "url": "https://www.latercera.com/tendencias/noticia/con-nubes-y-maximas-de-hasta-alrededor-de-23c-el-tiempo-en-santiago-este-lunes-13-de-julio-segun-el-pronostico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 13 Jul 2026 10:52:43 +0000",
-      "summary": "De acuerdo al pronóstico de Meteored, Santiago tendrá nubes y claros la mayor parte de la jornada. Sin embargo, se espera mayor nubosidad y bajas en las temperaturas a lo largo de la semana, según anticipa la Dirección Meteorológica de Chile."
-    },
-    {
-      "title": "Chile se suma a coalición de las Naciones Unidas para entregar cursos de capacitación gratuita de IA a la ciudadanía - minciencia.gob.cl",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXBkVWZ1d1EyandNUWdwNDdwUE1QckwySklsMFJXYWM4SkNraXpxcXBRb3Yzak9INi1yQ016UVRVeklPV29zdDNIbEJCOEVTUXBuX2owNW04cDJpcWsycmFRaVBSNXNKQ2duelNIaUFYX3FnWXhfdmVIaDVBdlppWmFOUDFxWUJFSS16cmJRUkRLNFJ1TkNCeW96VXhUUkZUdjl1cDdreFJEWVhaeTZ1NE9uNXF2QWFrLVBKN1V1RW1yRGpfQnBHUTU1UmJCWDNFZktReGVEZVJzN0JVOWh3OVpvOGpjVmF1Smt1OA?oc=5",
+      "title": "Chile se suma a coalición de las Naciones Unidas para entregar cursos de capacitación gratuita de IA a la ciudadanía - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFZ4QTJBengxTS1kQzJPTnZaTTJZOUNTc2V4WW1XRERwYU1XcGtYajhaUGMwUkUyZm9KTFk2VFMyeXZYanNpcGFzSkV4NnFBMExWdkpVLXVmdFRpZ2NWMzlDZUFhM0VCUkNCSU9jakdXeld6TkE4YzN2MWp2UVlIUVlmRVZ1OWtfZ08xOGcza1pXNGx0R3lvSWh1dkdlMzZzNGFhZjhtazZGb19sMFZxOVo4WVhTTWp0UVNtTW5aQWY0cGpfcVVsakkyUFNtY2Jjb2Nv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 14 Jul 2026 14:01:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVXBkVWZ1d1EyandNUWdwNDdwUE1QckwySklsMFJXYWM4SkNraXpxcXBRb3Yzak9INi1yQ016UVRVeklPV29zdDNIbEJCOEVTUXBuX2owNW04cDJpcWsycmFRaVBSNXNKQ2duelNIaUFYX3FnWXhfdmVIaDVBdlppWmFOUDFxWUJFSS16cmJRUkRLNFJ1TkNCeW96VXhUUkZUdjl1cDdreFJEWVhaeTZ1NE9uNXF2QWFrLV"
+      "published": "Tue, 14 Jul 2026 16:26:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFZ4QTJBengxTS1kQzJPTnZaTTJZOUNTc2V4WW1XRERwYU1XcGtYajhaUGMwUkUyZm9KTFk2VFMyeXZYanNpcGFzSkV4NnFBMExWdkpVLXVmdFRpZ2NWMzlDZUFhM0VCUkNCSU9jakdXeld6TkE4YzN2MWp2UVlIUVlmRVZ1OWtfZ08xOGcza1pXNGx0R3lvSWh1dkdlMzZzNGFhZjhtazZGb19sMFZxOVo4WVhTTWp0UV"
     },
     {
-      "title": "Ciberseguridad, permisología, reducción de presupuestos e IA: los cuatro retos que enfrenta Chile al 2030 - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVmVXeWRzMy1GekJZcUpkOGQ3eFczMXFCd0FaZzd1SHMyWnEwazVHd3J6VndnQVBBc2VnVEhfcmZqLUlhYVdBS1RORXd6UTZLZk5YUjB3Sm5jR2tlLUF2eDNVNVZmVkc2QmVfUEFTMjFadzJtbXlWNWlRUTRjVUhOaUw0cU5yTGJmQUl0NlpfVVgzeDA1ZWlxdzJuODJMOXdFLXpHazhVdEhvb21yMEotbG90cmMxM2o4YjZEVHdYWlF5VnVab0VzdmR2U25FRzR2bVdZekhyRFJEa3NSU3BNU1pUQQ?oc=5",
+      "title": "La expansión de la IA eleva la demanda de infraestructura crítica y acelera nuevas alianzas en Chile - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTVhaTBBNjZWNWw1aDY0aWRYZ1JPUXpiRmNTRnVva05uRV83YnVOUmxNTU5TTDVHNGhuVzRIc2JfVGZPZnZxNVVzb0JJSHZqTl80aW5FZXJXOERoWEJHajdGejlYRk5pUTJNOUhfSGFlVlF1Z3dZT2d0RjdJd0ZTMDBacDJ2bF9KWTBoajdYVFRkYzQyX1B3SmRKeHVRZmp6eGpzRmxOTElzQnV0dXZqbUZzd2VlaFloUENHczdFYlk2aVZ6eWEwR2ZyUjItM1dQTy1KVzE4LWstM3Y5ZWFnSjVXZkdhekE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 14 Jul 2026 13:47:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVmVXeWRzMy1GekJZcUpkOGQ3eFczMXFCd0FaZzd1SHMyWnEwazVHd3J6VndnQVBBc2VnVEhfcmZqLUlhYVdBS1RORXd6UTZLZk5YUjB3Sm5jR2tlLUF2eDNVNVZmVkc2QmVfUEFTMjFadzJtbXlWNWlRUTRjVUhOaUw0cU5yTGJmQUl0NlpfVVgzeDA1ZWlxdzJuODJMOXdFLXpHazhVdEhvb21yMEotbG90cmMxM2o4Yj"
+      "published": "Tue, 14 Jul 2026 17:49:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeTVhaTBBNjZWNWw1aDY0aWRYZ1JPUXpiRmNTRnVva05uRV83YnVOUmxNTU5TTDVHNGhuVzRIc2JfVGZPZnZxNVVzb0JJSHZqTl80aW5FZXJXOERoWEJHajdGejlYRk5pUTJNOUhfSGFlVlF1Z3dZT2d0RjdJd0ZTMDBacDJ2bF9KWTBoajdYVFRkYzQyX1B3SmRKeHVRZmp6eGpzRmxOTElzQnV0dXZqbUZzd2VlaFloUE"
     },
     {
-      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
+      "title": "“¿Me están grabando?”: el dilema que abren los nuevos lentes con inteligencia artificial que llegan a Chile - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0VBMUQ1VjhJYi1zRU1DNkduOG9MVGlsV2Y2VXZzZkplX3I4Z0NvLU8zdUh5YjdXYUNKRmd4cS1rMnpnM1NZQ0J1dDdTdnhSVVFHNlpjQk9XY2IzQnNXaDVJZ2VXLTNDODlCMUI2VHlBT0hDTC1wMGF6emRSaVJBcDhvdXhwOHk5YXRiT19oMkx4WlRmOFdmQk40LVJKYTRGUU9KTU9Qczhxa0YyTTh6SzZBMi1QOWNrNEp1Ykh4ZW9GVTVNam1rWWQ4eGx2T2VnTHZhdA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
-    },
-    {
-      "title": "La IA promete eliminar lo difícil. Liderar es asumirlo - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1N3dFVNWDVDcTdqU3V1RG5zZk9UUEY3R3FPWFNEN2RsbExBRk5wNHRCaHlNWXROcTRncm9SY0ZHcmZOYmVlMTZsR2s5V3NId3drclVLOEc1bW5aTTlKajVocklKelkyNW1nUXhPbmxFeFFKcG1hanZ3eWV4Uk53WkctTDdldWdfVEtEejVUZlpTWE1LaXJPOEZLS09wdmNRakhPaXZ5NUd6QnBMX3FSUjhDRGhFMkNEUkViRFlwaVhuVEloYm90TXZ30gHKAUFVX3lxTE9fd3RlUUl4VlJlaWFIYmYxeEJIaF9fMnZNNzR6SlhsbE93Z3FkOWhnZUtOT2ZMR3NXWTFtR3ZjQ3hNa29EbTR2ZUJYdkU3QUJmUThpMWNaRjQ4ODZ5ejREYWhobU95YkxHOU1FNjR5VnIzcGlxOE9lUzhURUUwajhJWGxtVTJhSGV5SUFhQjVIVDNYY21UZXRXZXJ3Y294X2RwVW1KZGJkSUdJeEsxVkFWT25wRV90OC1RN2pwN3FDcVlqWjh5TTZvSWc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 07 Jul 2026 05:01:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1N3dFVNWDVDcTdqU3V1RG5zZk9UUEY3R3FPWFNEN2RsbExBRk5wNHRCaHlNWXROcTRncm9SY0ZHcmZOYmVlMTZsR2s5V3NId3drclVLOEc1bW5aTTlKajVocklKelkyNW1nUXhPbmxFeFFKcG1hanZ3eWV4Uk53WkctTDdldWdfVEtEejVUZlpTWE1LaXJPOEZLS09wdmNRakhPaXZ5NUd6QnBMX3FSUjhDRGhFMkNEUk"
+      "published": "Sat, 11 Jul 2026 18:23:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0VBMUQ1VjhJYi1zRU1DNkduOG9MVGlsV2Y2VXZzZkplX3I4Z0NvLU8zdUh5YjdXYUNKRmd4cS1rMnpnM1NZQ0J1dDdTdnhSVVFHNlpjQk9XY2IzQnNXaDVJZ2VXLTNDODlCMUI2VHlBT0hDTC1wMGF6emRSaVJBcDhvdXhwOHk5YXRiT19oMkx4WlRmOFdmQk40LVJKYTRGUU9KTU9Qczhxa0YyTTh6SzZBMi1QOWNrNE"
     },
     {
       "title": "IA sin reglas: el riesgo de un nuevo far west digital - Infobae",
@@ -81,6 +73,14 @@
       "category": "news",
       "published": "Fri, 03 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTllRWkzd3lwbHRFU3gzbDktNWdoQmFvN08tT2pqTDZBS2NqUTlDbkFHdjVTUTE1VW9fSG1nbXZpekJNbWRTbHYwcnFQWm1xUU5DVV9uWWZ6dDJTczhUdkphX3d1UFpxWmIxY0ZFdG5rLTdDT2ZZRmViNlM0MUJhQUJWNVVvTmFLZW01OVpXNnJfaE5Lek5FdUhmYWPSAbcBQVVfeXFMTnB6OXZuOU9Bc1I1emVQRGJJVE"
+    },
+    {
+      "title": "La IA promete eliminar lo difícil. Liderar es asumirlo - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1N3dFVNWDVDcTdqU3V1RG5zZk9UUEY3R3FPWFNEN2RsbExBRk5wNHRCaHlNWXROcTRncm9SY0ZHcmZOYmVlMTZsR2s5V3NId3drclVLOEc1bW5aTTlKajVocklKelkyNW1nUXhPbmxFeFFKcG1hanZ3eWV4Uk53WkctTDdldWdfVEtEejVUZlpTWE1LaXJPOEZLS09wdmNRakhPaXZ5NUd6QnBMX3FSUjhDRGhFMkNEUkViRFlwaVhuVEloYm90TXZ30gHKAUFVX3lxTE9fd3RlUUl4VlJlaWFIYmYxeEJIaF9fMnZNNzR6SlhsbE93Z3FkOWhnZUtOT2ZMR3NXWTFtR3ZjQ3hNa29EbTR2ZUJYdkU3QUJmUThpMWNaRjQ4ODZ5ejREYWhobU95YkxHOU1FNjR5VnIzcGlxOE9lUzhURUUwajhJWGxtVTJhSGV5SUFhQjVIVDNYY21UZXRXZXJ3Y294X2RwVW1KZGJkSUdJeEsxVkFWT25wRV90OC1RN2pwN3FDcVlqWjh5TTZvSWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Jul 2026 05:01:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1N3dFVNWDVDcTdqU3V1RG5zZk9UUEY3R3FPWFNEN2RsbExBRk5wNHRCaHlNWXROcTRncm9SY0ZHcmZOYmVlMTZsR2s5V3NId3drclVLOEc1bW5aTTlKajVocklKelkyNW1nUXhPbmxFeFFKcG1hanZ3eWV4Uk53WkctTDdldWdfVEtEejVUZlpTWE1LaXJPOEZLS09wdmNRakhPaXZ5NUd6QnBMX3FSUjhDRGhFMkNEUk"
     },
     {
       "title": "Taller | IA en el Aula: Herramientas Prácticas para impulsar la enseñanza – Sede Santiago - UDD",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
     },
     {
-      "title": "Know Hub Chile abre convocatoria para acelerar startups científicas con fondo de US$10 mil - Diario Sustentable",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbk96UXMxVDFFUUd1LWt3TzhlWXE2aUZOSURyM1kyWVl2bGtUN3ZyNXl3dGYwS0ZJRlk1TmNORjl0bUhRWnpEamVqMVFubVBxcE44Z3Zsc29pNDBpX1JwRGN2N2t2TGxrNEdvb3BPd0N4Ykp0UUtuMzk3RGdIRTd5cTM5Y0F5SDhNYUN3c0ptaS04R001VEd2bVpUN3ZZN1dTcW9zVU1tdmFWN295YlJTNzI3TlpYdTRSMEJCcEg4UEVYT2dKdWlvQmdDbnI?oc=5",
+      "title": "Programa ofrece a startups pilotear sus tecnologías en centros comerciales de Chile, Perú y Colombia: cómo postular - 24horas",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGFPRzdXcTlzZFA3VmU0SjNWS3kyNDh3enRPZGE3bExJM3VkczVXWW1rTDFTbXE5ZXVGdnpUVTlsTTN3MVQzYUswX2FSMWw2QThCME9BcWFlR1BEbHNBZHc3enNRQWxweEZaY3pua29mNlMwOGN5S0NnaFlWeXlBTFJpSdIBiAFBVV95cUxQWW1oOWNYWkZDNDFaaWRfSGRBX1Mxem4tV19xSEU2d09adWZIUjZiZzJJV0k1c21pZEVpcno3bmc1Yl9BYzhZc0FuV21rRFA3OEd5ZWw2WDRjMndMM2ZkeXcxYjlod3kzbVJOaHU0SnNPZUlEZlZoNmFDYkd5a19qb0R4N1d6anM3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbk96UXMxVDFFUUd1LWt3TzhlWXE2aUZOSURyM1kyWVl2bGtUN3ZyNXl3dGYwS0ZJRlk1TmNORjl0bUhRWnpEamVqMVFubVBxcE44Z3Zsc29pNDBpX1JwRGN2N2t2TGxrNEdvb3BPd0N4Ykp0UUtuMzk3RGdIRTd5cTM5Y0F5SDhNYUN3c0ptaS04R001VEd2bVpUN3ZZN1dTcW9zVU1tdmFWN295YlJTNzI3TlpYdTRSME"
+      "published": "Fri, 03 Jul 2026 21:09:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGFPRzdXcTlzZFA3VmU0SjNWS3kyNDh3enRPZGE3bExJM3VkczVXWW1rTDFTbXE5ZXVGdnpUVTlsTTN3MVQzYUswX2FSMWw2QThCME9BcWFlR1BEbHNBZHc3enNRQWxweEZaY3pua29mNlMwOGN5S0NnaFlWeXlBTFJpSdIBiAFBVV95cUxQWW1oOWNYWkZDNDFaaWRfSGRBX1Mxem4tV19xSEU2d09adWZIUjZiZzJJV0"
     }
   ],
   "count": 14
