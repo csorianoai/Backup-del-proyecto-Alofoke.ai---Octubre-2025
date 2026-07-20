@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Google prepara un nuevo chip para Gemini y acelera la carrera por reducir la dependencia de Nvidia",
+      "url": "https://expansion.mx/tecnologia/2026/07/20/google-nuevo-chip-gemini-frozen-v2",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Jul 2026 22:00:40 GMT",
+      "summary": "La iniciativa coincide con la expansión de la alianza entre AMD y Microsoft, una señal de que las grandes tecnológicas buscan diversificar el mercado de chips para IA."
+    },
+    {
+      "title": "“Dejen de satanizar la IA”: el 90% de los adolescentes ya la usa",
+      "url": "https://expansion.mx/tecnologia/2026/07/20/90-de-los-adolescentesla-usa-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Jul 2026 20:30:07 GMT",
+      "summary": "Aunque las conversaciones en torno a la IA y los menores siguen, expertos no recomiendan la prohibición, pues puede ampliar desigualdades sociales y de empleabilidad."
+    },
+    {
+      "title": "¿Por qué 12 estados de EU quieren frenar la compra de Warner Bros Discovery por Paramount?",
+      "url": "https://expansion.mx/tecnologia/2026/07/20/12-estados-eu-frenar-compra-warner-bros-discovery-paramount",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 20 Jul 2026 19:53:07 GMT",
+      "summary": "Cuando todo apuntaba a que la compra seguiría adelante, una resolución judicial modificó el panorama. Aquí te explicamos por qué."
+    },
+    {
       "title": "Samsung recorta 739 empleos antes de presentar sus nuevos Galaxy",
       "url": "https://expansion.mx/tecnologia/2026/07/20/samsung-recorta-739-empleos-antes-de-presentar-sus-nuevos-galaxy",
       "source": "Expansión Tecnología",
@@ -19,36 +43,12 @@
       "summary": "La tienda de comercio electrónico chino fue sancionada por incumplir el reglamento europeo de servicios digitales. Estos son los artículos que no podía vender."
     },
     {
-      "title": "Huawei voltea a Rusia para ser el socio tecnológico de China y vencer a EU",
-      "url": "https://expansion.mx/tecnologia/2026/07/20/huawei-voltea-a-rusia-para-ser-el-socio-tecnologico-de-china-y-vencer-a-eu",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Jul 2026 11:55:38 GMT",
-      "summary": "Las restricciones occidentales empujan a Moscú hacia nuevos proveedores de chips para IA, en un mercado donde las empresas asiáticas buscan reducir la dependencia de tecnología estadounidense."
-    },
-    {
-      "title": "PlayStation finalmente cobrará en pesos mexicanos tras polémica con Profeco",
-      "url": "https://expansion.mx/tecnologia/2026/07/17/playstation-finalmente-cobrara-en-pesos-mexicanos-tras-polemica-con-profeco",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Jul 2026 20:15:52 GMT",
-      "summary": "Después de meses de operar con precios en dólares y advertencias de posibles sanciones por parte de la Profeco, Sony notificó a sus usuarios mexicanos que realizará una actualización para cobrar en pesos."
-    },
-    {
-      "title": "Kimi 3: la nueva IA China que presiona a OpenAI y Anthropic",
-      "url": "https://expansion.mx/tecnologia/2026/07/17/kimi-3-la-nueva-ia-china-que-presiona-a-openai",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 17 Jul 2026 19:50:55 GMT",
-      "summary": "Moonshot AI, lanza su nueva versión de Kimi K3, su modelo más potente, que busca competir con Estados Unidos en la carrera de la inteligencia artificial"
-    },
-    {
-      "title": "Startups de IA en México: la estrategia para competir con Estados Unidos pese a la brecha de inversión - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcng0Y1BKLXY5RDhVUUJlbWFWZzJfZWp1b2RfaHY3SUxaRjJtVFd0YU9FeFFQbHpLbm5ENmUxUXBwamtkLUlyOVh6ZDVvYU1yUGl3SkdpU09RSm5uWi1wNVJzeHQybnBmUlFFd1hfN2REakhzQ0lqUTVhczdBY2FWZUpPaUtjLU5XV0lkQmltTmI0RHgtald2eFRyeXpGVmNnbEpkSUlWM1NFOHI5dTI1ZERvVHpwSUZPeU1LbkZ4Wlk5YmhTeVozelZKcmRsdDVjMkRmV0xFeGpLT0VPZHpaeDlwZWlGWlM1?oc=5",
+      "title": "Regulación de redes sociales: el plan de la SEP para un uso responsable de la tecnología - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnpNV1c1bG1iNkZjdG5rclJBckpsUXdjWHVYYTlQd09PemZnbXR0aFA2WmNkMDRodTJNbWRRZXVBTGFodHVBUFJLaVVBUWxpUlpQM3ZmZzFtaE5qcmdwQVJyWmdUc09UZkNaamdteElHaWpaQ0hBVzV5bFVTaWxFRU1NZWtVYUh2UlRUbGNUbVRTVktlWEMxN3VjN3FuLXJtV1pmVGJydTR2R1dPVjJaWmlqOS1Sc3VSWDJZTGNQekNqWkdqNTQ1Zkx4YldnSUtDMmstY2FR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 20 Jul 2026 16:10:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcng0Y1BKLXY5RDhVUUJlbWFWZzJfZWp1b2RfaHY3SUxaRjJtVFd0YU9FeFFQbHpLbm5ENmUxUXBwamtkLUlyOVh6ZDVvYU1yUGl3SkdpU09RSm5uWi1wNVJzeHQybnBmUlFFd1hfN2REakhzQ0lqUTVhczdBY2FWZUpPaUtjLU5XV0lkQmltTmI0RHgtald2eFRyeXpGVmNnbEpkSUlWM1NFOHI5dTI1ZERvVHpwSUZPeU"
+      "published": "Mon, 20 Jul 2026 20:58:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnpNV1c1bG1iNkZjdG5rclJBckpsUXdjWHVYYTlQd09PemZnbXR0aFA2WmNkMDRodTJNbWRRZXVBTGFodHVBUFJLaVVBUWxpUlpQM3ZmZzFtaE5qcmdwQVJyWmdUc09UZkNaamdteElHaWpaQ0hBVzV5bFVTaWxFRU1NZWtVYUh2UlRUbGNUbVRTVktlWEMxN3VjN3FuLXJtV1pmVGJydTR2R1dPVjJaWmlqOS1Sc3VSWD"
     },
     {
       "title": "En la nueva era de la inteligencia artificial, México debe pasar del obrero al algoritmo - El Economista",
@@ -83,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "Las startups nativas de IA alcanzan valuaciones de mil millones de dólares en la mitad del tiempo, según el Reporte de Tendencias Globales de Startups de AWS - Edomex Al Día",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWZhOVNPeHh4ZmNPYXFxNllCd19uRlpNS0JseUN6RzZJS1lJMXZScGQtMjVreHlnZ2Y4TW5pQ2FPTFJQYnYyY1UzUW9HT2dzM3pvVkdXTmZCbGlmcGU0anBKSS10WXNQaXpINzhzQms4eUdRMXVsT2sxcElSbC1KYnhQLU9QcnhZalNGX3FKdmVtWFdjZzVBaHhFb1VfQmgyTjZrZ2JkZlJTU19sTTdPU0FaR2tjTWtLMG5WcnpNenk0UVB3bkJwOHlxeXg1MGpqeVY3cEFSdVpIUTZOeUotNGdER0dDWXIyX0pSX2lpY3V4YWhQRlBCVUdXMWFnMXlsNWVHcGRuLXVJY1BsTVE?oc=5",
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Jul 2026 00:47:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWZhOVNPeHh4ZmNPYXFxNllCd19uRlpNS0JseUN6RzZJS1lJMXZScGQtMjVreHlnZ2Y4TW5pQ2FPTFJQYnYyY1UzUW9HT2dzM3pvVkdXTmZCbGlmcGU0anBKSS10WXNQaXpINzhzQms4eUdRMXVsT2sxcElSbC1KYnhQLU9QcnhZalNGX3FKdmVtWFdjZzVBaHhFb1VfQmgyTjZrZ2JkZlJTU19sTTdPU0FaR2tjTWtLMG"
-    },
-    {
-      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
@@ -105,6 +97,14 @@
       "category": "news",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+    },
+    {
+      "title": "IA avanza en universidades, pero persisten brechas de preparación y regulación: Tecnológico de Monterrey - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3o2b0QwcUV5a0NCOThrWjlOUk42Rzc1OGhvZFAyY25TOUR1NjNpTGNObWZXSmpzQkNjNmVZQ0IwMlhqU29yYU4wLWRDdy16LTRZOVhHOXpCUWpVYS1Na19aT3ZQUkczSHoxMTZVRGkxX3pFRzFpdF9kZ1ZNbmJLYU81aDdpRGI3MFhKeUFzZDktdkl0YjFEb1RNOEx3SEF1a3VWTFpwYmRZSDJydk1NbmoxUDZsQjhNRmxtd19VaEs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3o2b0QwcUV5a0NCOThrWjlOUk42Rzc1OGhvZFAyY25TOUR1NjNpTGNObWZXSmpzQkNjNmVZQ0IwMlhqU29yYU4wLWRDdy16LTRZOVhHOXpCUWpVYS1Na19aT3ZQUkczSHoxMTZVRGkxX3pFRzFpdF9kZ1ZNbmJLYU81aDdpRGI3MFhKeUFzZDktdkl0YjFEb1RNOEx3SEF1a3VWTFpwYmRZSDJydk1NbmoxUDZsQjhNRm"
     },
     {
       "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
