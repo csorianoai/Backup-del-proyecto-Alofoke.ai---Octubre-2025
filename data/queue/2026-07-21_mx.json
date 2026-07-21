@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El CEO de Nubank se une al consejo directivo de OpenAI en su camino a Bolsa",
+      "url": "https://expansion.mx/tecnologia/2026/07/21/ceo-de-nubank-david-velez-consejo-directivo-openai",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Jul 2026 22:30:05 GMT",
+      "summary": "La llegada del colombiano David Vélez a OpenAI cobra sentido porque ha dirigido instituciones globales durante importantes cambios tecnológicos y de mercado con una “gobernanza rigurosa”."
+    },
+    {
+      "title": "La IA obliga a un \"reseteo\" laboral: las empresas ya no buscan títulos, sino habilidades",
+      "url": "https://expansion.mx/tecnologia/2026/07/21/ia-redefine-significado-trabajador-competitivo-empresas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Jul 2026 22:00:32 GMT",
+      "summary": "Mientras quienes adoptan estas herramientas pueden acceder a mejores salarios, quienes no desarrollen nuevas habilidades corren el riesgo de quedarse rezagados."
+    },
+    {
+      "title": "Así es el robot que ordeña vacas 62% más rápido que los humanos y analiza la salud del ganado",
+      "url": "https://expansion.mx/tecnologia/2026/07/21/robot-ordena-vacas-62-mas-rapido-que-los-humanos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Jul 2026 20:00:34 GMT",
+      "summary": "Cada ordeña produce datos que permiten anticipar enfermedades, optimizar la información y mejorar la rentabilidad del establo."
+    },
+    {
+      "title": "Francia aprueba prohibir las redes sociales a menores de 15 años",
+      "url": "https://expansion.mx/tecnologia/2026/07/21/francia-aprueba-prohibir-redes-sociales-menores-15-anos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Jul 2026 18:50:56 GMT",
+      "summary": "Esta es una legislación sin precedentes en la Unión Europea, pero que toma de ejemplo las medidas implementadas por Australia y Reino Unido."
+    },
+    {
       "title": "Google prepara un nuevo chip para Gemini y acelera la carrera por reducir la dependencia de Nvidia",
       "url": "https://expansion.mx/tecnologia/2026/07/20/google-nuevo-chip-gemini-frozen-v2",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Mon, 20 Jul 2026 22:00:40 GMT",
       "summary": "La iniciativa coincide con la expansión de la alianza entre AMD y Microsoft, una señal de que las grandes tecnológicas buscan diversificar el mercado de chips para IA."
-    },
-    {
-      "title": "“Dejen de satanizar la IA”: el 90% de los adolescentes ya la usa",
-      "url": "https://expansion.mx/tecnologia/2026/07/20/90-de-los-adolescentesla-usa-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Jul 2026 20:30:07 GMT",
-      "summary": "Aunque las conversaciones en torno a la IA y los menores siguen, expertos no recomiendan la prohibición, pues puede ampliar desigualdades sociales y de empleabilidad."
-    },
-    {
-      "title": "¿Por qué 12 estados de EU quieren frenar la compra de Warner Bros Discovery por Paramount?",
-      "url": "https://expansion.mx/tecnologia/2026/07/20/12-estados-eu-frenar-compra-warner-bros-discovery-paramount",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Jul 2026 19:53:07 GMT",
-      "summary": "Cuando todo apuntaba a que la compra seguiría adelante, una resolución judicial modificó el panorama. Aquí te explicamos por qué."
-    },
-    {
-      "title": "Samsung recorta 739 empleos antes de presentar sus nuevos Galaxy",
-      "url": "https://expansion.mx/tecnologia/2026/07/20/samsung-recorta-739-empleos-antes-de-presentar-sus-nuevos-galaxy",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Jul 2026 17:44:13 GMT",
-      "summary": "La empresa surcoreana comenzó una reducción de personal en su negocio de electrónica de consumo en Estados Unidos como parte del traslado de su sede a Texas."
-    },
-    {
-      "title": "AliExpress recibe multa de 629 mdd por vender productos prohibidos en la UE",
-      "url": "https://expansion.mx/tecnologia/2026/07/20/aliexpress-recibe-multa-de-629-mdd-por-vender-productos-prohibidos-en-la-ue",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Jul 2026 15:00:25 GMT",
-      "summary": "La tienda de comercio electrónico chino fue sancionada por incumplir el reglamento europeo de servicios digitales. Estos son los artículos que no podía vender."
     },
     {
       "title": "Las condiciones para adoptar inteligencia artificial en México - El Economista",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "Las startups nativas de IA alcanzan valuaciones de mil millones de dólares en la mitad del tiempo, según el Reporte de Tendencias Globales de Startups de AWS - Edomex Al Día",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWZhOVNPeHh4ZmNPYXFxNllCd19uRlpNS0JseUN6RzZJS1lJMXZScGQtMjVreHlnZ2Y4TW5pQ2FPTFJQYnYyY1UzUW9HT2dzM3pvVkdXTmZCbGlmcGU0anBKSS10WXNQaXpINzhzQms4eUdRMXVsT2sxcElSbC1KYnhQLU9QcnhZalNGX3FKdmVtWFdjZzVBaHhFb1VfQmgyTjZrZ2JkZlJTU19sTTdPU0FaR2tjTWtLMG5WcnpNenk0UVB3bkJwOHlxeXg1MGpqeVY3cEFSdVpIUTZOeUotNGdER0dDWXIyX0pSX2lpY3V4YWhQRlBCVUdXMWFnMXlsNWVHcGRuLXVJY1BsTVE?oc=5",
+      "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQzVOMENoVUNYX1Y4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Jul 2026 00:47:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWZhOVNPeHh4ZmNPYXFxNllCd19uRlpNS0JseUN6RzZJS1lJMXZScGQtMjVreHlnZ2Y4TW5pQ2FPTFJQYnYyY1UzUW9HT2dzM3pvVkdXTmZCbGlmcGU0anBKSS10WXNQaXpINzhzQms4eUdRMXVsT2sxcElSbC1KYnhQLU9QcnhZalNGX3FKdmVtWFdjZzVBaHhFb1VfQmgyTjZrZ2JkZlJTU19sTTdPU0FaR2tjTWtLMG"
+      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQz"
     },
     {
       "title": "Tec de Monterrey y Geely impulsarán movilidad inteligente con IA y vehículos autónomos - Líder Empresarial",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRW5kSm80dTRDaFpib1YzSF9hei1UWFdDQ05rM3VGV1FqSE40WXlfeEFNS2JlNktNTEk4NFQ4enJwaktpMTY2bUFqV0hUTkxMbnllVWJzbmVrR3hBeFBwQW5PeHR2UWFSUU9mU3R5TFZZRlVlMUl3TmEyZ084dkxTenQ5NU5nMnlUZmVfbnNMUjMzUWFGVWFSWHZMSWk5bGNqMjRQNmFodVloM1NhaTdTcmpHU0lUbHZKRl"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - Unesco",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",

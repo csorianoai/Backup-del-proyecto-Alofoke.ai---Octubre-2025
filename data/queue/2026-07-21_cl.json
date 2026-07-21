@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "¿Continúa la lluvia en la Región Metropolitana? Esto dice el tiempo",
+      "url": "https://www.latercera.com/tendencias/noticia/continua-la-lluvia-en-la-region-metropolitana-esto-dice-el-tiempo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 21 Jul 2026 21:00:00 +0000",
+      "summary": "Tras el intenso sistema frontal que afectó a la zona central del país, muchos se preguntan si las precipitaciones ya llegaron a su fin."
+    },
+    {
       "title": "Todavía no termina: un tercer sistema frontal traerá lluvia a la Región Metropolitana, según el pronóstico",
       "url": "https://www.latercera.com/tendencias/noticia/todavia-no-termina-un-tercer-sistema-frontal-traera-lluvia-a-la-region-metropolitana-segun-el-pronostico/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Mientras un sistema frontal deja lluvias en parte del país, el pronóstico también anticipa un intenso episodio de frío, con heladas y temperaturas que descenderán hasta los -10°C durante los próximos días."
     },
     {
-      "title": "Alarma meteorológica: habrá “precipitaciones intensas y continuas” en este sector del norte de Chile",
-      "url": "https://www.latercera.com/tendencias/noticia/alarma-meteorologica-habra-precipitaciones-intensas-y-continuas-en-este-sector-del-norte-de-chile/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 20 Jul 2026 21:00:00 +0000",
-      "summary": "El aviso corresponde al máximo nivel de advertencia de la Dirección Meteorológica de Chile y anticipa un evento de alta severidad, con potencial de generar riesgos para las personas y daños materiales."
-    },
-    {
       "title": "Expertos internacionales reflexionarán en la Universidad Católica de Chile sobre la IA y la comunicación de la fe - Religión Digital",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0ExcHRpUkh6YlRlcWJmSWtmT2otWHNnOFI5OGh5aTRmQWlZRUxaMFctNjBqblROV0lwM2paSXlJdkczOC02TUYzQUJyRDY2TVY0Q0l0azJQd1lVMzhYU25URTZmbmt1VVBXQ0FGOVZKY3RTMDU1VTFkZjhmLUJLaWx0TGJTaTRxQzZOd3hOUE10eV9RbFhndUp6RERXZ2x3UkJ1azBEMUo2d29uQkhKTDY5VTDSAboBQVVfeXFMTVdYSjlBckl0ZmV6VTZBUXEwRko1RzJmdHZUelFvVHBxTC1ndnlmSE5NV0NpZ2g1RDIwdzhqQVV0X2RoeE90bkdPWFNHajIxZEExNkJZOVY1QW5xU2JRMTVtZG5iSW16aDBqcHRWVTNYdzlEMTlWdVJPS0NTM2hQX3U3R3FWTDBGYS16NnAtZ1lBamYzLUlYSVhTTTFKSjJFdVZ0dnZ1eGpwYUhWMXQ0QjhPN3BqT0VwdVBB?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0ExcHRpUkh6YlRlcWJmSWtmT2otWHNnOFI5OGh5aTRmQWlZRUxaMFctNjBqblROV0lwM2paSXlJdkczOC02TUYzQUJyRDY2TVY0Q0l0azJQd1lVMzhYU25URTZmbmt1VVBXQ0FGOVZKY3RTMDU1VTFkZjhmLUJLaWx0TGJTaTRxQzZOd3hOUE10eV9RbFhndUp6RERXZ2x3UkJ1azBEMUo2d29uQkhKTDY5VTDSAboBQV"
     },
     {
-      "title": "Start-Up Chile elige nueva generación de emprendedores con dominio de la inteligencia artificial - Diario Financiero",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG40YnI1MXJNcjloSkRGa0pKRENoU2ttdkU3WmJMSFYtQzdtbHdkR0I4RG5fYjBXS2ZKUHJJTTZpaDZjbjNZSlZUcFhZRF8wYXk4a0dJZXZNWHFuOXZDbUhkR0s1RGUxWEVTTlJkYnhLbU1OdzF0bGFhX3BoemFrdTNDOGVZNW44Y2VzVThabW5qaTNpUTk1OVBGZEI0Yzc2R2p5SzEwdUpJSTB2VlNzZE5lemVleDJYcTBz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Jul 2026 16:03:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG40YnI1MXJNcjloSkRGa0pKRENoU2ttdkU3WmJMSFYtQzdtbHdkR0I4RG5fYjBXS2ZKUHJJTTZpaDZjbjNZSlZUcFhZRF8wYXk4a0dJZXZNWHFuOXZDbUhkR0s1RGUxWEVTTlJkYnhLbU1OdzF0bGFhX3BoemFrdTNDOGVZNW44Y2VzVThabW5qaTNpUTk1OVBGZEI0Yzc2R2p5SzEwdUpJSTB2VlNzZE5lemVleDJYcT"
-    },
-    {
       "title": "“Tenemos que estar al día”: seremi invita a capacitarse con cursos gratuitos de inteligencia artificial - latribuna.cl",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOalBoZjdlSXFQell0OF92MXlfSU9NLTZlRU1iandPNktkZ2kyX0I2NDN1NDBlcG9XbU5jTy1jSEJrUmZyMGdUVXJEZ0ZEWGxVQndpbXR0UzVPQnZpRFZLcjNJZnVwQkF2VU1HSk4zdkxQQU9rOGEyQjhEY1VpNGFDSkNCclZNTy03RjdEN2lUOXdsXzUyZXkzVjNSMS1zVTctc1lzWXd5NW5IWkI5T25VLVk1Q2sxQ0xtbFJuRkk1ckdXMkJjdnFvd05wQmFZZ29Wa216VzEzXzlNY0JLZU1wTzZ5OGYtcDDSAe8BQVVfeXFMTnhicVhIN0ZERUNid05oWjN0WVZfQ3ZPeUpReklyY3BQcDhha3Zqc3dIbnIzR1oycDNZaUxMSlJ3M3d0S1JkV1NrYTNvNHBBb1gtYmFiQ0xNX3ZmZnlydVJDQnY4RTk2dVlOejlPVFFETk1scld5bDROZl84eHQ1V0JRdzIwOFZ0dWZzY0ZZOXR3dkZQaDlUUHYxbjRUOEhzUjBObVUwYktrbEQxdEhGSm9CUWpLQW1YWFl1NUlTS043Q0o2cC1SOGdnY29SUVNzY0JCcVZpQ1RfYXh2X2RaTjFIZjVUZlJTSUtITHhCSnc?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 21 Jul 2026 18:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOalBoZjdlSXFQell0OF92MXlfSU9NLTZlRU1iandPNktkZ2kyX0I2NDN1NDBlcG9XbU5jTy1jSEJrUmZyMGdUVXJEZ0ZEWGxVQndpbXR0UzVPQnZpRFZLcjNJZnVwQkF2VU1HSk4zdkxQQU9rOGEyQjhEY1VpNGFDSkNCclZNTy03RjdEN2lUOXdsXzUyZXkzVjNSMS1zVTctc1lzWXd5NW5IWkI5T25VLVk1Q2sxQ0xtbF"
+    },
+    {
+      "title": "73% de los chilenos ya conocen sobre Inteligencia Artificial - TVN",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1NJS0V6bnJobXF1NTk4X2JDajgwcTdPWlVRRVprbmZPX1oxdGQwN2hJc3UweldzMDUweDJHYWxmOGllUkpHeU1oZzlJOHZBOGs0eGJWWlpvTTRybWQtRGZ5ZE1MTXMzSXRZNGphZUlVdjktckF5TkRuaXc3MDhVcGtIY0hyc3lYOGZZSVVnZ1I1WWgxb2ZCQ0JIbmI3d3Nr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Jul 2026 20:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1NJS0V6bnJobXF1NTk4X2JDajgwcTdPWlVRRVprbmZPX1oxdGQwN2hJc3UweldzMDUweDJHYWxmOGllUkpHeU1oZzlJOHZBOGs0eGJWWlpvTTRybWQtRGZ5ZE1MTXMzSXRZNGphZUlVdjktckF5TkRuaXc3MDhVcGtIY0hyc3lYOGZZSVVnZ1I1WWgxb2ZCQ0JIbmI3d3Nr?oc=5\" target=\"_blank\">73% de los "
     },
     {
       "title": "Santiago Siri anticipa la próxima revolución empresarial: agentes de IA y gemelos digitales que transformarán la logística - Gizmodo en Español",
@@ -91,12 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1N3dFVNWDVDcTdqU3V1RG5zZk9UUEY3R3FPWFNEN2RsbExBRk5wNHRCaHlNWXROcTRncm9SY0ZHcmZOYmVlMTZsR2s5V3NId3drclVLOEc1bW5aTTlKajVocklKelkyNW1nUXhPbmxFeFFKcG1hanZ3eWV4Uk53WkctTDdldWdfVEtEejVUZlpTWE1LaXJPOEZLS09wdmNRakhPaXZ5NUd6QnBMX3FSUjhDRGhFMkNEUk"
     },
     {
-      "title": "UDD Ventures extiende Potencia Startup 2026 hasta el 24 de julio - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMldBQTJURUNBRTZTSHUwejl2TnhuRTMtU1lLbU91NEduVjZBOHY4a1JHNkRsek1YT0t1SXhyLVZiZHZEM0FyTk1GRmF0N09aUXVlZnpWTzJOd2JkMHRnQXlPY2o1WEtJZDAwRUNwTDB6dXJhY0pDRHVUTFY2YTl2emxqdlZjcElsaC1lQWhGWHp0cWxJd19QRzFPQQ?oc=5",
+      "title": "Ignition 06: USD $10.000 para startups deeptech en Chile - Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHNIbEoyUlVkQ1R2WXdrNG5iQXBmMlk0aHRtNUlxMUgtZDBSaU5kRk1NMzAzd2RUQWhEcWVJWWZhRW5FQnRwR2VRRFVETEQ2RXRHOXRCVUg1QUo4VWxHZUI2QmU0NS1jTUJhZ3hRd0Q5d0ItTV9PUnR1U0pYMk1tcmExUVRhRm1SbE1COUJR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Jul 2026 02:49:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOMldBQTJURUNBRTZTSHUwejl2TnhuRTMtU1lLbU91NEduVjZBOHY4a1JHNkRsek1YT0t1SXhyLVZiZHZEM0FyTk1GRmF0N09aUXVlZnpWTzJOd2JkMHRnQXlPY2o1WEtJZDAwRUNwTDB6dXJhY0pDRHVUTFY2YTl2emxqdlZjcElsaC1lQWhGWHp0cWxJd19QRzFPQQ?oc=5\" target=\"_blank\">UDD Ventures exti"
+      "published": "Tue, 21 Jul 2026 20:47:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHNIbEoyUlVkQ1R2WXdrNG5iQXBmMlk0aHRtNUlxMUgtZDBSaU5kRk1NMzAzd2RUQWhEcWVJWWZhRW5FQnRwR2VRRFVETEQ2RXRHOXRCVUg1QUo4VWxHZUI2QmU0NS1jTUJhZ3hRd0Q5d0ItTV9PUnR1U0pYMk1tcmExUVRhRm1SbE1COUJR?oc=5\" target=\"_blank\">Ignition 06: USD $10.000 para start"
+    },
+    {
+      "title": "Ignition 06 cierra hoy sus postulaciones para impulsar startups científico-tecnológicas con fondo de USD $10.000 - UCV radio",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHdTWUp3WFhLODNjbjV2OXh3RlhXRE0wbU85a0lBOF9iaExPMDhfbTdSV0FJeHExODRrb3Q1RkI3M0ExdEtiUU8yZUhfMkpVX010cUpBc1hWVWNwNzNCSmE4cTdRNlZHU0ZvS1JibTN6VVFzczlNRF95Wjk4Mk5DZ0ViWEZJM21FWG9CZnVsVmlGeXBCWlNwVmdMXzZCb3NFcXlBUzRYcDFYamhHX21pZUlqeWl3MXMyNGYyd1JINWFIZHd5bEtFYXNBWkpKdzQ0N3U0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Jul 2026 19:54:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHdTWUp3WFhLODNjbjV2OXh3RlhXRE0wbU85a0lBOF9iaExPMDhfbTdSV0FJeHExODRrb3Q1RkI3M0ExdEtiUU8yZUhfMkpVX010cUpBc1hWVWNwNzNCSmE4cTdRNlZHU0ZvS1JibTN6VVFzczlNRF95Wjk4Mk5DZ0ViWEZJM21FWG9CZnVsVmlGeXBCWlNwVmdMXzZCb3NFcXlBUzRYcDFYamhHX21pZUlqeWl3MXMyNG"
     },
     {
       "title": "Startup Challenge 2026: Postula hasta este domingo - Tour Innovación",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Sat, 18 Jul 2026 10:04:14 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxPdDdoVHlFN2JseFo2Zl9BTVQzNDlQbGpNMk1nSHRfM2hlcFhzcDJHaHoyLXpEeUlZV1hUYThPSTUwSEttaFcxc3UwZ1ljTHQyYTBpMDhZMS10c3k4ZDAwbE9USjNCS2wyNWJnTi1zT0g2ZmZORVE1SGxiQkJPalp5VDNOaktvRFpLbmhIeDdFU1VibXhfb1ZlMVgxTndEcjNwTE56Z1I3cW1lN191ckVmajNMYkgxOHpfMn"
-    },
-    {
-      "title": "EAWARDS CHILE 2026: FUNDACIÓN NTT DATA BUSCA A LA STARTUP CIENTÍFICO-TECNOLÓGICA QUE COMPETIRÁ EN EUROPA POR €100.000 - Revista Logistec",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWlFQUVlvUC12TWh1OWlBWERSNFVLWC02NG56X3dqOEQzeTEwUThSMFY0dUtscWkyeEJ4bFl2enJNZUdyMTZac0ZiTElHblU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
     }
   ],
   "count": 14
