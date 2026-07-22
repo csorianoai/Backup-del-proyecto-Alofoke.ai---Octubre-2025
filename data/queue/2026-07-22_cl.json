@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Por un frente frío: en qué regiones habrá rachas de viento de hasta 90 km/h, según el tiempo",
+      "url": "https://www.latercera.com/tendencias/noticia/por-un-frente-frio-en-que-regiones-habra-rachas-de-viento-de-hasta-90-kmh-segun-el-tiempo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 22 Jul 2026 21:00:00 +0000",
+      "summary": "La Dirección Meteorológica de Chile (DMC) emitió un aviso y una alerta meteorológica por vientos que afectarán a distintas zonas del país durante este jueves."
+    },
+    {
       "title": "¿Seguirá lloviendo en la Región de Coquimbo? Esto dice el pronóstico del tiempo",
       "url": "https://www.latercera.com/tendencias/noticia/seguira-lloviendo-en-la-region-de-coquimbo-esto-dice-el-pronostico-del-tiempo/",
       "source": "La Tercera Tecnología",
@@ -35,22 +43,6 @@
       "summary": "Un nuevo sistema frontal llegaría por la noche del miércoles 22 y dejaría lluvias y viento desde el sur hasta la zona central. Revisa el pronóstico para Santiago y las regiones afectadas este jueves 23."
     },
     {
-      "title": "¿Continúa la lluvia en la Región Metropolitana? Esto dice el tiempo",
-      "url": "https://www.latercera.com/tendencias/noticia/continua-la-lluvia-en-la-region-metropolitana-esto-dice-el-tiempo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 21 Jul 2026 21:00:00 +0000",
-      "summary": "Tras el intenso sistema frontal que afectó a la zona central del país, muchos se preguntan si las precipitaciones ya llegaron a su fin."
-    },
-    {
-      "title": "Start-Up Chile BIG 12: 59 startups con 60% en IA - Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjExTFE1NlFySG4ySmVKbFQwY0FTV0lnM1RjNm5HT1BpZ001T2JtSzdtZVpqT1FLNnlUbGlsMEp4RFRpaHVtU1BVNHJqTFkzdDMta3NiQ0pIUmRadkQwdFBNWkppajROS0wtWjdPUGRnSWhYZkxjMlRzVFk4Q2hRQVlGbw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 22 Jul 2026 16:32:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObjExTFE1NlFySG4ySmVKbFQwY0FTV0lnM1RjNm5HT1BpZ001T2JtSzdtZVpqT1FLNnlUbGlsMEp4RFRpaHVtU1BVNHJqTFkzdDMta3NiQ0pIUmRadkQwdFBNWkppajROS0wtWjdPUGRnSWhYZkxjMlRzVFk4Q2hRQVlGbw?oc=5\" target=\"_blank\">Start-Up Chile BIG 12: 59 startups con 60% en IA<"
-    },
-    {
       "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Tue, 21 Apr 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
+    },
+    {
+      "title": "Chile busca 100.000 millones de dólares de inversión para impulsar su industria del cobre - americaeconomica.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1pZR3pReEJIaWxpczhDRF81TW9DOW1WVlpRZ1AzdFYwZDZ5UlNYUnlLVUZTUHNLRWlTaWRLTGlveUJRaFJMSWlZbmhoQ19TUXRyUWNybGVLMHg1anY4LXFCbWNpZHZYNmZoeXJnVlBCNVNMcm1FV0dIa000WkQtMURMOFNXdVc2TUhBbFQtQUd0LXdwN2tod0xLQWQtb3I2RU1ZclhSem5UODVCa29wWmxtTExRQm9zcEo5clZpX0pacy1IZmREV2dvU2ppMHg0a2VZ0gHYAUFVX3lxTFAwQ0tMd3JGY2p6eGgwOHdCNHJOT3RPcmdxc21FOUl4alppUkRFNm5jU281ZThUUThqaE9Ta1RnNVpSazNaNGhJdTAxWDNONGdKM0hlMG5fUmhVVkRMU1F3UUVmZEVUYkFHcXNCV2FJRnhZeloxSnVKeUQ1Y3lMdU9XYVh5dkYzaDRJS3FPZkdvR3dveTZGNWhlYUMxSTM5Q1NCdFRqUTZfejVVdkJ1bnl2WG1zcmV1VHZZWDZZTDB6d1MtOGFSeEV2OVZFSzFPZE5qOGRuZmFOOA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Jul 2026 19:53:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ1pZR3pReEJIaWxpczhDRF81TW9DOW1WVlpRZ1AzdFYwZDZ5UlNYUnlLVUZTUHNLRWlTaWRLTGlveUJRaFJMSWlZbmhoQ19TUXRyUWNybGVLMHg1anY4LXFCbWNpZHZYNmZoeXJnVlBCNVNMcm1FV0dIa000WkQtMURMOFNXdVc2TUhBbFQtQUd0LXdwN2tod0xLQWQtb3I2RU1ZclhSem5UODVCa29wWmxtTExRQm9zcE"
     },
     {
       "title": "Santiago Siri anticipa la próxima revolución empresarial: agentes de IA y gemelos digitales que transformarán la logística - Gizmodo en Español",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdW82S3BCTlNzTzlrazlINzJNTEs0SUQ0aHNXcl9iRkNvbkpsWW5VRTliZldieDhBUFRqMjQ2eVNVSlB6WFJWQmRJeXJSZ1dWS3RzazdnUzBjdE1WSUZ5akx5X3FnWkNMbi11MUoxMk4wN0ZFRC1vWTRRSTE0RURGQ01rWXd4b2dkTllVVmg1ZFFremJSZG42VHdzeTFyRDN2ZzdLYUhMM2pzX2VNSU1IWDBqRV9CZ0Zwej"
     },
     {
+      "title": "Start-Up Chile BIG 12: 59 startups con 60% en IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjExTFE1NlFySG4ySmVKbFQwY0FTV0lnM1RjNm5HT1BpZ001T2JtSzdtZVpqT1FLNnlUbGlsMEp4RFRpaHVtU1BVNHJqTFkzdDMta3NiQ0pIUmRadkQwdFBNWkppajROS0wtWjdPUGRnSWhYZkxjMlRzVFk4Q2hRQVlGbw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Jul 2026 16:32:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObjExTFE1NlFySG4ySmVKbFQwY0FTV0lnM1RjNm5HT1BpZ001T2JtSzdtZVpqT1FLNnlUbGlsMEp4RFRpaHVtU1BVNHJqTFkzdDMta3NiQ0pIUmRadkQwdFBNWkppajROS0wtWjdPUGRnSWhYZkxjMlRzVFk4Q2hRQVlGbw?oc=5\" target=\"_blank\">Start-Up Chile BIG 12: 59 startups con 60% en IA<"
+    },
+    {
       "title": "Start-Up Chile elige su nueva generación: la IA domina, pero la economía circular se abre paso entre las 59 elegidas - Diario Sustentable",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2VidzYtd0gydE9TNTRkMmtZYW1pVmlTbjVyUHozYzdMaDRXczNUel9mcWJBRWdZRlJOTHVB?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 21 Jul 2026 19:54:24 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHdTWUp3WFhLODNjbjV2OXh3RlhXRE0wbU85a0lBOF9iaExPMDhfbTdSV0FJeHExODRrb3Q1RkI3M0ExdEtiUU8yZUhfMkpVX010cUpBc1hWVWNwNzNCSmE4cTdRNlZHU0ZvS1JibTN6VVFzczlNRF95Wjk4Mk5DZ0ViWEZJM21FWG9CZnVsVmlGeXBCWlNwVmdMXzZCb3NFcXlBUzRYcDFYamhHX21pZUlqeWl3MXMyNG"
-    },
-    {
-      "title": "Infraestructura digital: Chile se consolida como hub de datos e IA - EMB Gerencia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWk9fa3QxVXV0WUdPbHdzUUdHaGpxZnlZSGVfRUVKWUI2Q1pFa09DcklwMThDVHQ0cS0zbE84d0t2Z0NUZmRYLTh6b1lOSzV4bWVfaktTZ1huOExuNFktRkhHaGlGbUNQTk9JQmd4QTFEcDFFbWktdEhhQ2VOTjh1ZlNfVXNOTG1fc3pWS0FBS0R5aU9oYUY1OEJlNFhVUVg4ZG9zOFU2OUZWSEpGZ3gxYW5zbw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Jul 2026 15:12:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWk9fa3QxVXV0WUdPbHdzUUdHaGpxZnlZSGVfRUVKWUI2Q1pFa09DcklwMThDVHQ0cS0zbE84d0t2Z0NUZmRYLTh6b1lOSzV4bWVfaktTZ1huOExuNFktRkhHaGlGbUNQTk9JQmd4QTFEcDFFbWktdEhhQ2VOTjh1ZlNfVXNOTG1fc3pWS0FBS0R5aU9oYUY1OEJlNFhVUVg4ZG9zOFU2OUZWSEpGZ3gxYW5zbw?oc=5\" t"
     }
   ],
   "count": 14
