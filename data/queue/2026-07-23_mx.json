@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "EA Sports FC 27: fecha de lanzamiento, nuevos modos de juego y ligas disponibles",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/ea-sports-fc-27-detalles",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 21:11:01 GMT",
+      "summary": "Para esta edición se incluirán nuevos modos de juego que recuerdan a viejos conocidos de la franquicia. Conoce todos los detalles de este título."
+    },
+    {
+      "title": "Por si se te olvidó tu contraseña: Google lanza un nuevo inicio de sesión con selfie",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/google-lanza-un-nuevo-metodo-para-iniciar-sesion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 20:25:30 GMT",
+      "summary": "Para que tu cuenta de Google sea privada, esté segura y disponible, la empresa ha lanzado Video Selfie como nuevo método de inicio de sesión."
+    },
+    {
       "title": "México crea un biobanco con 100,000 genomas para dejar de depender de datos europeos",
       "url": "https://expansion.mx/tecnologia/2026/07/23/mexico-base-adn-genomas-entender-salud-personas",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Entrar a esta categoría requiere una inversión mínima de 25,000 pesos, casi cinco veces más que el gasto promedio de un consumidor mexicano al renovar su smartphone."
     },
     {
-      "title": "Huawei quiere que dejes el iPhone: así es el Pura 90S con función que facilita el cambio desde iOS",
-      "url": "https://expansion.mx/tecnologia/2026/07/23/huawei-resolvio-dejar-iphone-pura-90s",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Jul 2026 15:05:00 GMT",
-      "summary": "La marca de origen chino presentó en México la serie Pura 90S y estrenó Petal Interconnect, una aplicación que permite transferir archivos entre dispositivos con iOS, macOS y EMUI."
-    },
-    {
-      "title": "¿Qué red es mejor: 5G, 4G LTE o 3G? Así funcionan los símbolos del celular",
-      "url": "https://expansion.mx/tecnologia/2026/07/22/que-red-datos-moviles-es-mejor-5g-4g-o-3g",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Jul 2026 01:05:05 GMT",
-      "summary": "El tipo de red al que se conecta tu teléfono determina la rapidez con la que puedes usar internet móvil."
-    },
-    {
       "title": "Mientras la inteligencia artificial transforma el mundo, líderes y lideresas de pensamiento se reúnen en la Ciudad de México para explorar las implicaciones regionales y globales de la IA para el desarrollo humano - Naciones Unidas en México",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzRpQkppTDdHUVBsLU9xek1VNWpZM2VvR2ZSU09jeW1TUEUtV0FJZHJJcGJxa2hwTkxHMm1NLU45NVlaQlA3R0xDNWYzZFFVNVVNeUFBZ245bHlKNFUxYjF0UTI0SzJPeUlWUUg1U3NzaFZrTXl1VGw2MVFqSDRzdjROS0dpdkE5ekVVWXRIT01lZTJhdjdPVzZjdkpwUzVwekxZcG11MVVETVdnRkpqN1M1VE9GV0pEdXhuNmtZZTE5OTQ4RFE?oc=5",
       "source": "Google News",
@@ -51,28 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzRpQkppTDdHUVBsLU9xek1VNWpZM2VvR2ZSU09jeW1TUEUtV0FJZHJJcGJxa2hwTkxHMm1NLU45NVlaQlA3R0xDNWYzZFFVNVVNeUFBZ245bHlKNFUxYjF0UTI0SzJPeUlWUUg1U3NzaFZrTXl1VGw2MVFqSDRzdjROS0dpdkE5ekVVWXRIT01lZTJhdjdPVzZjdkpwUzVwekxZcG11MVVETVdnRkpqN1M1VE9GV0pEdX"
     },
     {
+      "title": "Cómo la IA está resolviendo por fin el problema del servicio al cliente en México - LatinAmerican Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTBlYm8tYm9QbHpyR3RRQmtoaXZwS3REa1VDWDI4ak5Fb3NnYXNPQTR5eXZZeFhKaFpvcW8zUFBsMkZmNkR2TGdUVW9fZTBJSG12Ukw1SS13NDVUTThzN2thbFlqc0dldnU0TXRwcXF3VEhYejkxQkEtSkctQ3k4aEtldWlOV0k1NkZqekNqemdMcEV3ZjY3VmtNSTNoWkp6ZUkzSmJ1UU9zZmxjWlQ0Ukl3SW4taTRKaW5vaVN2dVRaV2EtcV9jNm5tVllSYWxNMkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 23 Jul 2026 20:56:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZTBlYm8tYm9QbHpyR3RRQmtoaXZwS3REa1VDWDI4ak5Fb3NnYXNPQTR5eXZZeFhKaFpvcW8zUFBsMkZmNkR2TGdUVW9fZTBJSG12Ukw1SS13NDVUTThzN2thbFlqc0dldnU0TXRwcXF3VEhYejkxQkEtSkctQ3k4aEtldWlOV0k1NkZqekNqemdMcEV3ZjY3VmtNSTNoWkp6ZUkzSmJ1UU9zZmxjWlQ0Ukl3SW4taTRKaW"
+    },
+    {
       "title": "Inteligencia Artificial: 66% de las empresas en México sigue en pruebas piloto - El Economista",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3l1Q3JZNEtLLW83OHJHSVdZUVBrQjhFWk40R3BEVlNjUjdBaHlqQWVmaGZOZ21ESWRwMHVJdTh3UFdFOE03RXM1MHdtbVFIanNzNUhJT01yVXNfekZQelBweUNoMEpjenE4QTZSVXZnMDgtUUhmRFMyY0FkSkMtNUlSVmM1Yi1UNkpRb2FUUURCb2l1aURtOXBDMEVFaC14X2lySmE4QnVQYjY5TkM5aURrSzctRFdEVmlCamJ4d1pGLUtaZnN1NmpB0gHPAUFVX3lxTE8tQktFZ1BGQUhrZUIybnV0ZTBvN3JRbG50N3NKRDVZUEdlVE5nWEtFb2t3RUdkWFJCR0Mta3NvN2V4MDdpWllKQXB4cUJBUUl4S0VCdlhuY2xfWFBfVVdTQ3hxVElZZnNhbTdKMWpwTm12OEhseVo1Uk9ucDBOTG9IV0xnendfSVl4dVk5aGVJTElrRVo3amtLaTcwbnA2Mzg5TnNuMjRHZkwyNlQ2MWpsRFFySGxTWlFHU2Y0NTMtYzU1WGZoOG80cVlkWmY5WQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 23 Jul 2026 13:05:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3l1Q3JZNEtLLW83OHJHSVdZUVBrQjhFWk40R3BEVlNjUjdBaHlqQWVmaGZOZ21ESWRwMHVJdTh3UFdFOE03RXM1MHdtbVFIanNzNUhJT01yVXNfekZQelBweUNoMEpjenE4QTZSVXZnMDgtUUhmRFMyY0FkSkMtNUlSVmM1Yi1UNkpRb2FUUURCb2l1aURtOXBDMEVFaC14X2lySmE4QnVQYjY5TkM5aURrSzctRFdEVm"
-    },
-    {
-      "title": "Cómo usar inteligencia artificial para innovar más rápido sin perder criterio humano - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNERwWW84MEN2dElLS08zME5Ta2I0dVhGRnF6Zlg2Z1p6S25DZzdEdzhLNFR2ZEtnUzYxcmpMTWduSTZrV3NuVzg3eE95YXFEZHF5VzV4WnlWaVdHS1Zqc1loVXZlVlp6eXpvYzFpRVlsVDd4a3Z0Y3BmSE9Sb3g1NU94VXBmaTNhTGJ3UTljaEJOdk96R3JiaUNibkdURXl4QW1oYmpTOVRQanVOYVAtZHhvTzZFWTFNLUVUWXNQRm55S1NmWDNyM0RERdIB5gFBVV95cUxNWkw5Yk1oV0dGb2ZYUkRVZnpWcWotWmVnODdFaC1La3BpU1JnZWM3eHJoTWFGLTFZUWxPMWZ5TWVnTGhIVTN0X1FlbHQwOWdUcnBYMm80X29CR0E5UEpXMnVqZ09Fd24ybFBCNGhoQXpMNHNlTHJ1bnd0MzBKTzhjOGtUVUpDWC1QWXF5aVhIRlJCWDY3TFlUM0ZsTjlFOTNkSkt0RmoxdEw4cnp3dl8wcHN5UndsRzRILU1HUlZuX1RnR3V5UzNnU2lCM21lYzBWWDMwVXBCMTgtNkdsSUMtM3lSeTRYdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 23 Jul 2026 11:23:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNERwWW84MEN2dElLS08zME5Ta2I0dVhGRnF6Zlg2Z1p6S25DZzdEdzhLNFR2ZEtnUzYxcmpMTWduSTZrV3NuVzg3eE95YXFEZHF5VzV4WnlWaVdHS1Zqc1loVXZlVlp6eXpvYzFpRVlsVDd4a3Z0Y3BmSE9Sb3g1NU94VXBmaTNhTGJ3UTljaEJOdk96R3JiaUNibkdURXl4QW1oYmpTOVRQanVOYVAtZHhvTzZFWTFNLU"
-    },
-    {
-      "title": "México invierte 213 veces menos que EU en IA, pero las startups encuentran su oportunidad - expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmNkSDVGWk5Qdld0ZlA0WGRkSnF5aEhOVEI3WVluUmx3YWFTa0tHazNRYXZnR0FGcUh6b204YmYyc3JKNTVWQTFPRzZvekxIUlVmNXFWSFRwTzJianFCUmVKT2Z4Q1plRzZhZDNhRmc0TTZlNk5NY1duTlpNUloxU2E0NGtwYUo5ZVpoNmpZY0HSAZ4BQVVfeXFMTlRTTldCNEZ1M1dibEFENDhuOHEyVHAxek1rRnhnRVRUNVU3b3B4OUhQeE5vaG5UMnJFbjJEcnlOTnVydl8wSHZrUjRwVV9tUjdwa2ZmVkJadnlOQkpmN296cDJhcmNZUTZ2bzM3dnRXMnVHN0hQMDBrVllCTWRoWElUMk43T2VUaW9vbk5UcDB3Wi1CVmJRMVlaM1hKVUE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 17 Jul 2026 11:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmNkSDVGWk5Qdld0ZlA0WGRkSnF5aEhOVEI3WVluUmx3YWFTa0tHazNRYXZnR0FGcUh6b204YmYyc3JKNTVWQTFPRzZvekxIUlVmNXFWSFRwTzJianFCUmVKT2Z4Q1plRzZhZDNhRmc0TTZlNk5NY1duTlpNUloxU2E0NGtwYUo5ZVpoNmpZY0HSAZ4BQVVfeXFMTlRTTldCNEZ1M1dibEFENDhuOHEyVHAxek1rRnhnRV"
     },
     {
       "title": "Las startups nativas de IA alcanzan valuaciones de mil millones de dólares en la mitad del tiempo, según el Reporte de Tendencias Globales de Startups de AWS - Edomex Al Día",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Tue, 07 Jul 2026 00:15:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQVHNZbUhKbXdqZUc4LVR4SGNyUm9CN3Y1bXhyMGlUQk93dEFXM0labzdodkhCUWNIWDZ5Y09zRUE2eWlESDhVUU81d1RJRFJhd3FCaVh2ZmFWclVtd0w4U2xGS0twOU1ydkZpaERoNGItaEFwc0thMEM0SkJaNERodDB6T1lYNUdaNmI0ZU80M1BCX0RlMmk1NjVENDNVSlpsTFNnUVJVSDF4VEU1dHB3WFFTUzIzc2FVbV"
+    },
+    {
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
       "title": "Tec de Monterrey y Geely impulsarán movilidad inteligente con IA y vehículos autónomos - Líder Empresarial",

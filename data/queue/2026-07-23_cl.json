@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Las 4 regiones que tendrán tormentas eléctricas, según el tiempo",
+      "url": "https://www.latercera.com/tendencias/noticia/las-4-regiones-que-tendran-tormentas-electricas-segun-el-tiempo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 21:00:00 +0000",
+      "summary": "La Dirección Meteorológica de Chile emitió un aviso por probables tormentas eléctricas debido a una condición de inestabilidad atmosférica."
+    },
+    {
       "title": "En qué sectores de la Región Metropolitana y zona central lloverá hoy, según el pronóstico del tiempo",
       "url": "https://www.latercera.com/tendencias/noticia/en-que-sectores-de-la-region-metropolitana-y-zona-central-llovera-hoy-segun-el-pronostico-del-tiempo/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "La Dirección Meteorológica de Chile (DMC) emitió un aviso y una alerta meteorológica por vientos que afectarán a distintas zonas del país durante este jueves."
     },
     {
-      "title": "¿Seguirá lloviendo en la Región de Coquimbo? Esto dice el pronóstico del tiempo",
-      "url": "https://www.latercera.com/tendencias/noticia/seguira-lloviendo-en-la-region-de-coquimbo-esto-dice-el-pronostico-del-tiempo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 22 Jul 2026 14:50:23 +0000",
-      "summary": "Tras un temporal que dejó más de 260 milímetros acumulados de lluvia en sectores de la región y provocó inundaciones y desbordes, la atención está puesta en cómo evolucionará el tiempo en los próximos días."
-    },
-    {
       "title": "Chile | Cámara aprueba proyecto para regular los deepfakes: busca proteger la imagen, voz e identidad de las personas - DPL News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVZfaDQ4eFRsQWN5bHBfUFQ2T0VqdzNJVHVIS0dGZDBUc2s0eFp4RmtBNjU3QlNqZ1ctVGlJWHM2QXE4N3E3UjI1TU53VkNJSk1sdVljbVJqSlhibGdEZEtJZ1ItQ1ZMMTZrT0xhSmNTMnBRZGlqSW9sLWRRcXRTcjFqQjl5b1pGREtEMTQwd0VDWENudkhQUW5LX0ZaQ1JHNnNTY3JNTHlEZ1FPVUg0dUowTVdEQThxSUZlUU8xczNqeEhxb0JBWTBuUjBCR0E?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVZfaDQ4eFRsQWN5bHBfUFQ2T0VqdzNJVHVIS0dGZDBUc2s0eFp4RmtBNjU3QlNqZ1ctVGlJWHM2QXE4N3E3UjI1TU53VkNJSk1sdVljbVJqSlhibGdEZEtJZ1ItQ1ZMMTZrT0xhSmNTMnBRZGlqSW9sLWRRcXRTcjFqQjl5b1pGREtEMTQwd0VDWENudkhQUW5LX0ZaQ1JHNnNTY3JNTHlEZ1FPVUg0dUowTVdEQThxSU"
     },
     {
+      "title": "En Chile 8 de cada 10 empresas ya usan inteligencia artificial, pero la ciberseguridad emerge como el principal desafío - Publimetro",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZTVjbUVMTHAzMk02bnhlaEktNF9SZHFLdFZ5SE0zWFYtOTZjbWFjdUsyeTVFQ3RiX0c3ZGxwaDFZT0JCZm9ETWxVVVJLMlNIMmUwRzl0STdwblNHSzdKb1NObExITU1oc0s1LUtZLVpDaWlBU3RMU2FTYVlDZU9SUlBhRGFLRlBOX0NYNEd1WTZ1dXFWZWNndFNMREs4Mm5leUxONUFMU2ZLMkdqZlU3VzRpaHpoZFIzQ1ozNlQ0azZ5ZDVwVGN2VXpEWTdNX1JzMnV0S2s4ajJFNVhMN2U1dURVWmNzNU5OTHRiQXJFd09UR3JnYlliTVdpQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 23 Jul 2026 19:26:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZTVjbUVMTHAzMk02bnhlaEktNF9SZHFLdFZ5SE0zWFYtOTZjbWFjdUsyeTVFQ3RiX0c3ZGxwaDFZT0JCZm9ETWxVVVJLMlNIMmUwRzl0STdwblNHSzdKb1NObExITU1oc0s1LUtZLVpDaWlBU3RMU2FTYVlDZU9SUlBhRGFLRlBOX0NYNEd1WTZ1dXFWZWNndFNMREs4Mm5leUxONUFMU2ZLMkdqZlU3VzRpaHpoZFIzQ1"
+    },
+    {
       "title": "Salesforce compra Fin: cómo la IA agéntica transformará los CRM y el desafío para las empresas chilenas - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNVBfckZTc0N3QlUyUnVuRGsxWlFmUXhzR0hiV2hpSTBFel9pN3d1Z1pTOWVVN1duYXd3SXdhb1FKYjBfaGh2VUd6NDNNTV9TUVNDMmVmeHdHcTRONV8xMWY0NnlJcEh0V0dTTnFMeDh6enRoUk9XNkE2cXVUTEhrcVBsSkZiekpjbkRncHVFcDRHYmJqb3Z2NzNxcGxDLXdVTlhQTTQ0NFIxeG5iNEw2c3pUUWFqN2xEOHhyeW14MFdaYmtFQUtXaXJ0WlFaVTlTMnZta2dId2hSTDRRWElrQVVueGoySmQ0OEE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 23 Jul 2026 14:02:35 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNVBfckZTc0N3QlUyUnVuRGsxWlFmUXhzR0hiV2hpSTBFel9pN3d1Z1pTOWVVN1duYXd3SXdhb1FKYjBfaGh2VUd6NDNNTV9TUVNDMmVmeHdHcTRONV8xMWY0NnlJcEh0V0dTTnFMeDh6enRoUk9XNkE2cXVUTEhrcVBsSkZiekpjbkRncHVFcDRHYmJqb3Z2NzNxcGxDLXdVTlhQTTQ0NFIxeG5iNEw2c3pUUWFqN2xEOH"
-    },
-    {
-      "title": "Banca agéntica: cómo la IA transformará los servicios financieros - anda.cl",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wM1R3TzY3ZmFqTnBxdUJxUGNTQ0VNNThocjJyVzBfaVFsNHVOVDVGVmZuRW5aUVV6dzRkeHFZb2dTLWxMejhTWXpsMUtaVEhkaHN4eXdqT2x3dElma1kxWk9YT2tZR0ZmREVSYkpR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 23 Jul 2026 18:00:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8wM1R3TzY3ZmFqTnBxdUJxUGNTQ0VNNThocjJyVzBfaVFsNHVOVDVGVmZuRW5aUVV6dzRkeHFZb2dTLWxMejhTWXpsMUtaVEhkaHN4eXdqT2x3dElma1kxWk9YT2tZR0ZmREVSYkpR?oc=5\" target=\"_blank\">Banca agéntica: cómo la IA transformará los servicios financieros</a>&nbsp;&nbs"
     },
     {
       "title": "Santiago Siri sobre el auto-hackeo de IA: \"Quieren entender si estos modelos pueden salirse de su jaula\" - La Voz del Interior",
