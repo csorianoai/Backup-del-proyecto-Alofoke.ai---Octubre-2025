@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "El Gobierno salva por ahora la quita autonómica pero no avanza con los Presupuestos",
+      "url": "https://elpais.com/espana/2026-07-23/el-gobierno-salva-por-ahora-la-quita-autonomica-pero-no-avanza-con-los-presupuestos.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 19:00:04 GMT",
+      "summary": "El curso parlamentario se cierra con la aprobación de tres leyes, dos decretos y una reforma del Reglamento"
+    },
+    {
+      "title": "El Congreso avala la jubilación parcial del personal laboral de las Administraciones públicas",
+      "url": "https://elpais.com/economia/2026-07-23/el-congreso-avala-la-jubilacion-parcial-del-personal-laboral-de-las-administraciones-publicas.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 18:52:43 GMT",
+      "summary": "La abstención del PP ha facilitado la aprobación de esta medida de la que estaban pendientes miles de empleados públicos"
+    },
+    {
       "title": "Zapatero, sobre el rescate de Plus Ultra: “No es que no influyera, es que no hablé con nadie”",
       "url": "https://elpais.com/espana/2026-07-23/zapatero-en-su-primera-entrevista-tras-su-imputacion-no-es-que-no-influyera-es-que-no-hable-con-nadie-del-rescate-de-plus-ultra.html",
       "source": "El País Tecnología",
@@ -11,36 +27,20 @@
       "summary": "El expresidente del Gobierno asegura que no planeó la creación de una empresa ‘offshore’, ni usó a sus hijas de testaferros y atribuye la declaración de Julio Martínez a “su estrategia de defensa”"
     },
     {
-      "title": "Las siete claves de la entrevista de José Luis Rodríguez Zapatero en Mañaneros en vídeo",
-      "url": "https://elpais.com/videos/2026-07-23/las-siete-claves-de-la-entrevista-de-jose-luis-rodriguez-zapatero-en-mananeros-en-video.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Jul 2026 13:54:54 GMT",
-      "summary": "El expresidente del Gobierno rompe su silencio sobre las acusaciones relacionadas con el caso Plus Ultra en una entrevista concedida al programa Mañaneros de TVE"
-    },
-    {
-      "title": "Zapatero rechaza aclarar el origen de las joyas: “Son un regalo de cortesía personal”",
-      "url": "https://elpais.com/espana/2026-07-23/zapatero-rechaza-aclarar-el-origen-de-las-joyas-son-un-regalo-personal-de-cortesia.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Jul 2026 11:58:15 GMT",
-      "summary": "El expresidente se escuda en que lo explicará primero ante el juez, pese a que en su primera declaración evitó hacerlo"
-    },
-    {
-      "title": "Los titulares de la entrevista a Zapatero: de la estrategia de defensa de Julio Martínez a los trabajos de sus hijas",
-      "url": "https://elpais.com/espana/2026-07-23/las-titulares-de-la-entrevista-a-zapatero-de-la-estrategia-de-defensa-de-julio-martinez-a-los-trabajos-de-sus-hijas.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Thu, 23 Jul 2026 12:32:24 GMT",
-      "summary": "El expresidente se defiende en RTVE pero se niega a ir al choque contra su amigo Julio Martínez, que lo señaló esta semana ante el juez"
-    },
-    {
       "title": "El Gobierno y el PSOE cierran filas con Zapatero y aseguran que probará su inocencia",
       "url": "https://elpais.com/espana/2026-07-23/el-gobierno-y-el-psoe-cierran-filas-con-zapatero-y-aseguran-que-probara-su-inocencia.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Thu, 23 Jul 2026 12:48:42 GMT",
       "summary": "“Sufro mucho pensando que el Partido Socialista pueda sufrir por la situación en la que me encuentro”, afirma el expresidente, que pide al partido que no le apoye “por un acto de fe sino por los hechos”"
+    },
+    {
+      "title": "Entrevista a Zapatero, en ‘Mañaneros 360′: Una clase de periodismo y de pilates",
+      "url": "https://elpais.com/television/2026-07-23/entrevista-a-zapatero-en-mananeros-360-una-clase-de-periodismo-y-de-pilates.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 12:34:11 GMT",
+      "summary": "Javier Ruiz disparó las preguntas en una comparecencia que casi nadie esperaba y, sin embargo, a todo el mundo le urgía"
     },
     {
       "title": "La inteligencia artificial amplía las capacidades de los profesionales españoles: el 60% ya realiza trabajos que hace un año estaban fuera de su alcance - Microsoft Source",

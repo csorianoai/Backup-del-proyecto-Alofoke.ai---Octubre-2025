@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Una IA de OpenAI actuó como un hacker: encontró fallas, robó credenciales y entró a servidores reales",
-      "url": "https://expansion.mx/tecnologia/2026/07/22/ia-openai-hacke-propio-sistema-encontro-fallas",
+      "title": "México crea un biobanco con 100,000 genomas para dejar de depender de datos europeos",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/mexico-base-adn-genomas-entender-salud-personas",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 22 Jul 2026 18:30:29 GMT",
-      "summary": "Lo ocurrido dejó nuevas preguntas sobre cómo deben evaluarse los modelos capaces de realizar tareas complejas sin intervención humana."
+      "published": "Thu, 23 Jul 2026 18:00:50 GMT",
+      "summary": "El proyecto OriGen, de TecSalud, reunió información genética y clínica de 100,000 mexicanos para impulsar la investigación sobre diabetes, enfermedades cardiovasculares, cáncer y otros padecimientos."
     },
     {
-      "title": "Samsung lanza al mercado su propio “Kindle” plegable",
-      "url": "https://expansion.mx/tecnologia/2026/07/22/samsung-revoluciona-galaxy-z-fold8",
+      "title": "La UE multa a Google con 1,000 mdd por abusar de su poder y tensa la relación con Trump",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/la-ue-multa-a-google-con-1-000-mdd-por-abusar-de-su-poder-y-tensa-la-relacion-con-trump",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 22 Jul 2026 13:00:04 GMT",
-      "summary": "Por primera vez desde que abrió la categoría de plegables en 2019, la marca surcoreana no presenta tres modelos, y uno de ellos estrena un formato que nunca había probado."
+      "published": "Thu, 23 Jul 2026 16:00:39 GMT",
+      "summary": "La Comisión Europa dijo que le dio un trato preferencial a sus servicios. Por su parte, Trump ha sido crítico de las regulaciones del bloque hacia los gigantes tecnológicos de EU."
     },
     {
-      "title": "Brasil, Chile y Colombia ganan terreno mientras México frena el boom de data centers",
-      "url": "https://expansion.mx/tecnologia/2026/07/22/mexico-perder-carrera-data-centers-brasil-chile-colombia",
+      "title": "Los teléfonos plegables siguen sin bajar de precio y apenas representan 2% del mercado",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/samsung-honor-motorola-celulares-plegables-precio-no-baja-mexico",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 22 Jul 2026 11:55:07 GMT",
-      "summary": "La falta de generación eléctrica amenaza la expansión de una industria que prevé invertir miles de millones de dólares en el país durante esta década."
+      "published": "Thu, 23 Jul 2026 15:20:46 GMT",
+      "summary": "Entrar a esta categoría requiere una inversión mínima de 25,000 pesos, casi cinco veces más que el gasto promedio de un consumidor mexicano al renovar su smartphone."
     },
     {
-      "title": "El CEO de Nubank se une al consejo directivo de OpenAI en su camino a Bolsa",
-      "url": "https://expansion.mx/tecnologia/2026/07/21/ceo-de-nubank-david-velez-consejo-directivo-openai",
+      "title": "Huawei quiere que dejes el iPhone: así es el Pura 90S con función que facilita el cambio desde iOS",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/huawei-resolvio-dejar-iphone-pura-90s",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Tue, 21 Jul 2026 22:30:05 GMT",
-      "summary": "La llegada del colombiano David Vélez a OpenAI cobra sentido porque ha dirigido instituciones globales durante importantes cambios tecnológicos y de mercado con una “gobernanza rigurosa”."
+      "published": "Thu, 23 Jul 2026 15:05:00 GMT",
+      "summary": "La marca de origen chino presentó en México la serie Pura 90S y estrenó Petal Interconnect, una aplicación que permite transferir archivos entre dispositivos con iOS, macOS y EMUI."
     },
     {
-      "title": "La IA obliga a un \"reseteo\" laboral: las empresas ya no buscan títulos, sino habilidades",
-      "url": "https://expansion.mx/tecnologia/2026/07/21/ia-redefine-significado-trabajador-competitivo-empresas",
+      "title": "¿Qué red es mejor: 5G, 4G LTE o 3G? Así funcionan los símbolos del celular",
+      "url": "https://expansion.mx/tecnologia/2026/07/22/que-red-datos-moviles-es-mejor-5g-4g-o-3g",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Tue, 21 Jul 2026 22:00:32 GMT",
-      "summary": "Mientras quienes adoptan estas herramientas pueden acceder a mejores salarios, quienes no desarrollen nuevas habilidades corren el riesgo de quedarse rezagados."
+      "published": "Thu, 23 Jul 2026 01:05:05 GMT",
+      "summary": "El tipo de red al que se conecta tu teléfono determina la rapidez con la que puedes usar internet móvil."
     },
     {
       "title": "Mientras la inteligencia artificial transforma el mundo, líderes y lideresas de pensamiento se reúnen en la Ciudad de México para explorar las implicaciones regionales y globales de la IA para el desarrollo humano - Naciones Unidas en México",
@@ -67,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPNERwWW84MEN2dElLS08zME5Ta2I0dVhGRnF6Zlg2Z1p6S25DZzdEdzhLNFR2ZEtnUzYxcmpMTWduSTZrV3NuVzg3eE95YXFEZHF5VzV4WnlWaVdHS1Zqc1loVXZlVlp6eXpvYzFpRVlsVDd4a3Z0Y3BmSE9Sb3g1NU94VXBmaTNhTGJ3UTljaEJOdk96R3JiaUNibkdURXl4QW1oYmpTOVRQanVOYVAtZHhvTzZFWTFNLU"
     },
     {
-      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "title": "México invierte 213 veces menos que EU en IA, pero las startups encuentran su oportunidad - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmNkSDVGWk5Qdld0ZlA0WGRkSnF5aEhOVEI3WVluUmx3YWFTa0tHazNRYXZnR0FGcUh6b204YmYyc3JKNTVWQTFPRzZvekxIUlVmNXFWSFRwTzJianFCUmVKT2Z4Q1plRzZhZDNhRmc0TTZlNk5NY1duTlpNUloxU2E0NGtwYUo5ZVpoNmpZY0HSAZ4BQVVfeXFMTlRTTldCNEZ1M1dibEFENDhuOHEyVHAxek1rRnhnRVRUNVU3b3B4OUhQeE5vaG5UMnJFbjJEcnlOTnVydl8wSHZrUjRwVV9tUjdwa2ZmVkJadnlOQkpmN296cDJhcmNZUTZ2bzM3dnRXMnVHN0hQMDBrVllCTWRoWElUMk43T2VUaW9vbk5UcDB3Wi1CVmJRMVlaM1hKVUE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
-    },
-    {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+      "published": "Fri, 17 Jul 2026 11:55:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmNkSDVGWk5Qdld0ZlA0WGRkSnF5aEhOVEI3WVluUmx3YWFTa0tHazNRYXZnR0FGcUh6b204YmYyc3JKNTVWQTFPRzZvekxIUlVmNXFWSFRwTzJianFCUmVKT2Z4Q1plRzZhZDNhRmc0TTZlNk5NY1duTlpNUloxU2E0NGtwYUo5ZVpoNmpZY0HSAZ4BQVVfeXFMTlRTTldCNEZ1M1dibEFENDhuOHEyVHAxek1rRnhnRV"
     },
     {
       "title": "Las startups nativas de IA alcanzan valuaciones de mil millones de dólares en la mitad del tiempo, según el Reporte de Tendencias Globales de Startups de AWS - Edomex Al Día",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Wed, 08 Jul 2026 00:47:14 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWZhOVNPeHh4ZmNPYXFxNllCd19uRlpNS0JseUN6RzZJS1lJMXZScGQtMjVreHlnZ2Y4TW5pQ2FPTFJQYnYyY1UzUW9HT2dzM3pvVkdXTmZCbGlmcGU0anBKSS10WXNQaXpINzhzQms4eUdRMXVsT2sxcElSbC1KYnhQLU9QcnhZalNGX3FKdmVtWFdjZzVBaHhFb1VfQmgyTjZrZ2JkZlJTU19sTTdPU0FaR2tjTWtLMG"
+    },
+    {
+      "title": "Las startups latinoamericanas nativas de IA crecen a triple dígito y alcanzan el estatus de unicornio en la mitad del tiempo - FashionNetwork México",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVHNZbUhKbXdqZUc4LVR4SGNyUm9CN3Y1bXhyMGlUQk93dEFXM0labzdodkhCUWNIWDZ5Y09zRUE2eWlESDhVUU81d1RJRFJhd3FCaVh2ZmFWclVtd0w4U2xGS0twOU1ydkZpaERoNGItaEFwc0thMEM0SkJaNERodDB6T1lYNUdaNmI0ZU80M1BCX0RlMmk1NjVENDNVSlpsTFNnUVJVSDF4VEU1dHB3WFFTUzIzc2FVbVpaYWVSV2tkWHAzUUtyR0R0ZHBvNlFHNGtQbjVlVHVHWVVUaHVzTU9zYWc5a0J0UEZ0Uzl5dngtNnZBcEF3aUJTbEwzT0Zqcmc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Jul 2026 00:15:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQVHNZbUhKbXdqZUc4LVR4SGNyUm9CN3Y1bXhyMGlUQk93dEFXM0labzdodkhCUWNIWDZ5Y09zRUE2eWlESDhVUU81d1RJRFJhd3FCaVh2ZmFWclVtd0w4U2xGS0twOU1ydkZpaERoNGItaEFwc0thMEM0SkJaNERodDB6T1lYNUdaNmI0ZU80M1BCX0RlMmk1NjVENDNVSlpsTFNnUVJVSDF4VEU1dHB3WFFTUzIzc2FVbV"
     },
     {
       "title": "Tec de Monterrey y Geely impulsarán movilidad inteligente con IA y vehículos autónomos - Líder Empresarial",
