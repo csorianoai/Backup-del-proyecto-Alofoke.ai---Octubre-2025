@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "La guerra tecnológica escala: China acusa a EU de ‘saquear’ sus datos para entrenar modelos de IA",
-      "url": "https://expansion.mx/tecnologia/2026/07/27/guerra-tecnologica-china-acusa-eu-saquear-datos-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Jul 2026 15:15:57 GMT",
-      "summary": "Una semana antes, el gobierno de Donald Trump denunció a China por ‘destilar’ sus modelos para entrenar las IA del gigante asiático."
-    },
-    {
-      "title": "“Es un bombardeo constante”: Las apps de apuestas copian a las redes sociales para engancharte",
-      "url": "https://expansion.mx/tecnologia/2026/07/27/apps-de-apuestas-enganchan-igual-redes-sociales",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Jul 2026 11:55:41 GMT",
-      "summary": "Las casas de apuestas dejan atrás el bono como único gancho y apuestan por la gamificación, la personalización y la comunidad para retener usuarios."
-    },
-    {
       "title": "La UE pagará un \"precio muy alto\" por multar a Google, amenaza Trump",
       "url": "https://expansion.mx/tecnologia/2026/07/24/trump-amenaza-ue-por-multar-a-google",
       "source": "Expansión Tecnología",
@@ -43,6 +27,22 @@
       "summary": "La automatización reduce hasta 95% los costos de atención al cliente, pero los consumidores siguen buscando apoyo humano cuando enfrentan problemas complejos, urgentes o con impacto financiero."
     },
     {
+      "title": "La compra de Warner Bros Discovery sigue en pausa y Paramount podría enfrentar un costo millonario",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/paramount-detenida-la-compra-de-warner",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 24 Jul 2026 01:03:50 GMT",
+      "summary": "La adquisición que uniría estudios como Warner y Paramount permanecerá congelada mientras un tribunal estadounidense analiza las acusaciones de prácticas anticompetitivas."
+    },
+    {
+      "title": "EA Sports FC 27: fecha de lanzamiento, nuevos modos de juego y ligas disponibles",
+      "url": "https://expansion.mx/tecnologia/2026/07/23/ea-sports-fc-27-detalles",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 23 Jul 2026 21:11:01 GMT",
+      "summary": "Para esta edición se incluirán nuevos modos de juego que recuerdan a viejos conocidos de la franquicia. Conoce todos los detalles de este título."
+    },
+    {
       "title": "La IA agéntica cambia las reglas de la atención al cliente - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG5tRF9IRjB3UERCd1VIUUNuVE1vMHJLcFA0RFNtMzFOYWxNWTdlTUcwSEZIRlprUmt5LVh4YWRzOVpibW1yM3F1bGVzRlhZd2laMU1FVjdwSjVvQnlLTFRrT01jSXFXZy1JUzZyeDZTN2hQUV9WWHJpcG81QnNmQ1lLQjFjMk85eXp2Mnc5eC1TZngzbzloaWExN3EwdV9IeVBDbDAyS1J0M1RMRE1v?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOcG5tRF9IRjB3UERCd1VIUUNuVE1vMHJLcFA0RFNtMzFOYWxNWTdlTUcwSEZIRlprUmt5LVh4YWRzOVpibW1yM3F1bGVzRlhZd2laMU1FVjdwSjVvQnlLTFRrT01jSXFXZy1JUzZyeDZTN2hQUV9WWHJpcG81QnNmQ1lLQjFjMk85eXp2Mnc5eC1TZngzbzloaWExN3EwdV9IeVBDbDAyS1J0M1RMRE1v?oc=5\" target="
     },
     {
+      "title": "La IA agéntica llegó a México sin reglas ni garantías - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHhvR2pLM2VIQnpHOWM3R2c4cERpMVJoa2NWSXVnT2UycVUxSThEYS1Td3ZoVjd2R3p3Qm5tejFPM2pGSU1sT2M3YTZnN2lrejlVYzl5ZnVTT1FXcUxqc3hQSlhQcGlNOTdPcGczbzVYWnRBYjI0WlN0LTlaUklFMkRwblNHZU1HODBXbg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 27 Jul 2026 15:59:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdHhvR2pLM2VIQnpHOWM3R2c4cERpMVJoa2NWSXVnT2UycVUxSThEYS1Td3ZoVjd2R3p3Qm5tejFPM2pGSU1sT2M3YTZnN2lrejlVYzl5ZnVTT1FXcUxqc3hQSlhQcGlNOTdPcGczbzVYWnRBYjI0WlN0LTlaUklFMkRwblNHZU1HODBXbg?oc=5\" target=\"_blank\">La IA agéntica llegó a México sin reg"
+    },
+    {
       "title": "Mientras la inteligencia artificial transforma el mundo, líderes y lideresas de pensamiento se reúnen en la Ciudad de México para explorar las implicaciones regionales y globales de la IA para el desarrollo humano - Naciones Unidas en México",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzRpQkppTDdHUVBsLU9xek1VNWpZM2VvR2ZSU09jeW1TUEUtV0FJZHJJcGJxa2hwTkxHMm1NLU45NVlaQlA3R0xDNWYzZFFVNVVNeUFBZ245bHlKNFUxYjF0UTI0SzJPeUlWUUg1U3NzaFZrTXl1VGw2MVFqSDRzdjROS0dpdkE5ekVVWXRIT01lZTJhdjdPVzZjdkpwUzVwekxZcG11MVVETVdnRkpqN1M1VE9GV0pEdXhuNmtZZTE5OTQ4RFE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 23 Jul 2026 04:36:54 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzRpQkppTDdHUVBsLU9xek1VNWpZM2VvR2ZSU09jeW1TUEUtV0FJZHJJcGJxa2hwTkxHMm1NLU45NVlaQlA3R0xDNWYzZFFVNVVNeUFBZ245bHlKNFUxYjF0UTI0SzJPeUlWUUg1U3NzaFZrTXl1VGw2MVFqSDRzdjROS0dpdkE5ekVVWXRIT01lZTJhdjdPVzZjdkpwUzVwekxZcG11MVVETVdnRkpqN1M1VE9GV0pEdX"
-    },
-    {
-      "title": "Perú, con 8 presidentes en 10 años, ofrece a México inteligencia artificial - Proceso",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjZrbm1tU3VySmxFWTdvNHFBaWd4S2lDVUJPSjM2UGJHVmU0YnRaWVZrbGI2RWNJNl9wdzYyYkphdHdvb25xV0xiOUpvR1RwYUxvTGp3Y0dGa2dkc0lUNi04R24xWkdLQXpNYlVlTzU1aVNPa2RReFBqUWxPb0NDcC1rdmtQdDhHakp0S3FuamV0MVMzM2pHelF2RjFxanRhUm03WUZjZTU0STJiY000MUxlVUxjN2ppTEJEQVN3LUlUUi0xRENqVlJXdlZNSTV4SFRlMzZQNGI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Jul 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjZrbm1tU3VySmxFWTdvNHFBaWd4S2lDVUJPSjM2UGJHVmU0YnRaWVZrbGI2RWNJNl9wdzYyYkphdHdvb25xV0xiOUpvR1RwYUxvTGp3Y0dGa2dkc0lUNi04R24xWkdLQXpNYlVlTzU1aVNPa2RReFBqUWxPb0NDcC1rdmtQdDhHakp0S3FuamV0MVMzM2pHelF2RjFxanRhUm03WUZjZTU0STJiY000MUxlVUxjN2ppTE"
     },
     {
       "title": "Las startups nativas de IA alcanzan valuaciones de mil millones de dólares en la mitad del tiempo, según el Reporte de Tendencias Globales de Startups de AWS - Edomex Al Día",
