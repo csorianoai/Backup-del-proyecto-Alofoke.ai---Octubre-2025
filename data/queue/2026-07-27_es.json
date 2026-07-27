@@ -3,12 +3,20 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora de los incendios forestales en España, en directo | Los equipos de extinción trabajan contra reloj en el incendio de Madrid antes de la llegada de otra ola de calor",
+      "title": "Los incendios de Madrid, Ávila y Toledo obligan a evacuar o confinar a más de 90.000 personas: “Es una situación endemoniada”",
+      "url": "https://elpais.com/espana/2026-07-27/los-incendios-de-madrid-avila-y-toledo-afectan-ya-a-77000-hectareas-y-obligan-a-evacuar-o-confinar-a-90000-personas.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Jul 2026 21:48:10 GMT",
+      "summary": "El fuego de Ávila es el mayor y “más agresivo” de la historia de España y el Gobierno aprobará una prestación para los trabajadores afectados"
+    },
+    {
+      "title": "Última hora de los incendios forestales en España, en directo | Protección Civil informa de que la situación en el incendio de Ávila es “bastante más favorable”",
       "url": "https://elpais.com/espana/2026-07-27/ultima-hora-de-los-incendios-forestales-en-espana-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 27 Jul 2026 19:01:55 GMT",
-      "summary": "Los incendios han afectado más de 170.000 hectáreas en España este año | Los trabajos para contener el incendio en Madrid se centran en un frente ”muy agresivo” en el norte del embalse de San Juan | Pedro Sánchez alerta de que “quedan horas difíciles”"
+      "published": "Mon, 27 Jul 2026 21:28:57 GMT",
+      "summary": "Se espera una noche con mejores condiciones para luchar contra el fuego: más humedad y menos viento | Los incendios han afectado más de 170.000 hectáreas en España este año | Interior autoriza el realojo de 9 de los 11 municipios de Toledo desalojados"
     },
     {
       "title": "Mapas | Datos e imágenes satelitales muestran cómo el viento transformó los incendios de Ávila y Madrid",
@@ -19,20 +27,12 @@
       "summary": "El giro del viento fue clave para que el área quemada alcanzara cifras récord. El viernes por la tarde hubo rachas de más de 65 km/h"
     },
     {
-      "title": "¿Cuántas hectáreas han ardido? El mapa de los incendios activos más graves",
-      "url": "https://elpais.com/clima-y-medio-ambiente/2026-07-24/cuantas-hectareas-han-ardido-el-mapa-de-los-incendios-activos-mas-graves.html",
+      "title": "Claves de los incendios | Hectáreas quemadas, desalojos y carreteras cortadas",
+      "url": "https://elpais.com/espana/2026-07-27/claves-de-los-incendios-hectareas-quemadas-desalojos-y-carreteras-cortadas.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Mon, 27 Jul 2026 18:28:05 GMT",
-      "summary": "Los datos satelitales recopilados por el proyecto EFFIS permiten seguir la evolución de los fuegos activos"
-    },
-    {
-      "title": "Bomberos tras la gran crisis de fuego, que no saben si será la última: “Parece que se ha dormido el monstruo”",
-      "url": "https://elpais.com/espana/2026-07-27/la-ojala-ultima-cena-de-los-bomberos-tras-la-gran-crisis-de-fuego.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Jul 2026 08:49:52 GMT",
-      "summary": "Los brigadistas destacan la fuerza y anarquía del incendio de Ávila e insisten en mejorar los dispositivos"
+      "published": "Mon, 27 Jul 2026 20:05:25 GMT",
+      "summary": "Solo los fuegos que permanecen activos han calcinado ya más de 113.000 hectáreas y hay casi 80.000 personas evacuadas"
     },
     {
       "title": "El incendio de La Vall d’Uixó ya arrasa 8.500 hectáreas y encara horas críticas",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBYY3hJY3lBY2tjb0Y2T3dtcVVnSEZmS2ZGNngwV3AxVUp0VWZlTnFuRXk2OWZkWldxTHpLNTJ1Rk5FLXQwRmZhbEx2QzM1WDhnLV93ZTZMRHd6eXd6V19aV3diaDlqTUtBSldtRC1raFhsRlpEZ19GbUE4SUQteVk?oc=5\" target=\"_blank\">Pronóstico de Atlético vs Barcelona: resultado según la "
     },
     {
-      "title": "Sherpa.ai cierra $18M: España apuesta por IA soberana en 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3dlZmlDQ2JxN0FXY2FYYjA0bHRYWmlwdERBMlUzVzYzOXVKOU9Md01DRzRZSlR3WUt3YmNCNjVsTmZxV3hGRzV2WkJBWTU5S1dKYkttV3JFMDNUZWRtaTdIRWtiWTJyUjdzRXVNX3RLaUQyYWxnY3FYcmNIb2JJWDhiZmdxZUxwSTRvaC1HZWZrdzR4?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 25 Jul 2026 08:47:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3dlZmlDQ2JxN0FXY2FYYjA0bHRYWmlwdERBMlUzVzYzOXVKOU9Md01DRzRZSlR3WUt3YmNCNjVsTmZxV3hGRzV2WkJBWTU5S1dKYkttV3JFMDNUZWRtaTdIRWtiWTJyUjdzRXVNX3RLaUQyYWxnY3FYcmNIb2JJWDhiZmdxZUxwSTRvaC1HZWZrdzR4?oc=5\" target=\"_blank\">Sherpa.ai cierra $18M: Espa"
-    },
-    {
       "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
+    },
+    {
+      "title": "Sherpa.ai cierra $18M: España apuesta por IA soberana en 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3dlZmlDQ2JxN0FXY2FYYjA0bHRYWmlwdERBMlUzVzYzOXVKOU9Md01DRzRZSlR3WUt3YmNCNjVsTmZxV3hGRzV2WkJBWTU5S1dKYkttV3JFMDNUZWRtaTdIRWtiWTJyUjdzRXVNX3RLaUQyYWxnY3FYcmNIb2JJWDhiZmdxZUxwSTRvaC1HZWZrdzR4?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 25 Jul 2026 08:47:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3dlZmlDQ2JxN0FXY2FYYjA0bHRYWmlwdERBMlUzVzYzOXVKOU9Md01DRzRZSlR3WUt3YmNCNjVsTmZxV3hGRzV2WkJBWTU5S1dKYkttV3JFMDNUZWRtaTdIRWtiWTJyUjdzRXVNX3RLaUQyYWxnY3FYcmNIb2JJWDhiZmdxZUxwSTRvaC1HZWZrdzR4?oc=5\" target=\"_blank\">Sherpa.ai cierra $18M: Espa"
     },
     {
       "title": "Las 50 startups españolas más innovadoras de 2025 - Emprendedores",

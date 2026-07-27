@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Las regiones que tendrán tormentas eléctricas hasta la noche de este lunes, según Meteochile",
+      "url": "https://www.latercera.com/tendencias/noticia/las-regiones-que-tendran-tormentas-electricas-hasta-la-noche-de-este-lunes-segun-meteochile/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Jul 2026 21:31:57 +0000",
+      "summary": "El fenómeno se extenderá durante gran parte de la jornada en sectores de tres regiones del país."
+    },
+    {
+      "title": "Impactantes videos muestran el tornado que afectó a Chillán Viejo: qué se sabe hasta ahora",
+      "url": "https://www.latercera.com/tendencias/noticia/impactantes-videos-muestran-el-tornado-que-afecto-a-chillan-viejo-que-se-sabe-hasta-ahora/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 27 Jul 2026 21:12:04 +0000",
+      "summary": "La Dirección Meteorológica de Chile confirmó que el fenómeno observado durante la tarde de este lunes corresponde a un tornado y entregó una evaluación preliminar de su intensidad."
+    },
+    {
       "title": "Todas las regiones de Chile que tendrán lluvia hoy, según el pronóstico",
       "url": "https://www.latercera.com/tendencias/noticia/todas-las-regiones-de-chile-que-tendran-lluvia-hoy-segun-el-pronostico/",
       "source": "La Tercera Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Para su investigación, los científicos analizaron imágenes de resonancia magnética y muestras de plasma sanguíneo de 2.044 adultos mayores de 64 años. De acuerdo a los autores, sus hallazgos sostienen la hipótesis de que la vitamina C puede \"desempeñar un papel en la salud cerebral”."
     },
     {
-      "title": "¿Es mejor el déficit calórico o el ayuno intermitente? Esto descubrió un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/es-mejor-el-deficit-calorico-o-el-ayuno-intermitente-esto-descubrio-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 27 Jul 2026 10:01:00 +0000",
-      "summary": "Un estudio realizado por investigadores de la Universidad de Adelaida comparó durante 18 meses el ayuno intermitente con el déficit calórico en más de 200 adultos con obesidad."
-    },
-    {
-      "title": "La creatina podría ayudar con los síntomas de la depresión, según una reciente revisión de estudios",
-      "url": "https://www.latercera.com/tendencias/noticia/la-creatina-podria-ayudar-con-los-sintomas-de-la-depresion-segun-una-reciente-revision-de-estudios/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 26 Jul 2026 13:02:00 +0000",
-      "summary": "Científicos de la Universidad de Ottawa analizaron cinco ensayos clínicos sobre el uso de creatina como complemento para tratar la depresión."
-    },
-    {
       "title": "¿Qué tanto impactará realmente la IA en el crecimiento de Chile? - Computer Weekly",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjJ0V3VRNW12SEFLSGx3V3JTRnlMQ0RJY1ZaZC1uSzhYQnluUURaY1h2eklnRkNfVFM0cm1TS2pyVkk1M0ZLV1VwZkxYMU00UG00SHJJR1EzRDNvRnQ1a0dxXzVGRHFPVjZreVVKY1VYbThXUlljRnBLNUVhWk02TWFVM2lEY1lGWXVWUThLN1RRbXNDV0phd0lwU3VMbkJTSFVzWjYtTQ?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORjJ0V3VRNW12SEFLSGx3V3JTRnlMQ0RJY1ZaZC1uSzhYQnluUURaY1h2eklnRkNfVFM0cm1TS2pyVkk1M0ZLV1VwZkxYMU00UG00SHJJR1EzRDNvRnQ1a0dxXzVGRHFPVjZreVVKY1VYbThXUlljRnBLNUVhWk02TWFVM2lEY1lGWXVWUThLN1RRbXNDV0phd0lwU3VMbkJTSFVzWjYtTQ?oc=5\" target=\"_blank\">¿"
     },
     {
-      "title": "La izquierda ante la inteligencia artificial: ¿un evento de extinción? - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkFZT2t0Mk1JUnUwdm5XNkVYSGhqbl9xazFzQmR2dVM3SVFEcUJhVWZBVkZyTlFuak9id0s3dFdZYXlqMFJTWmFYTEg3VzBrSEl3NnkwX0wxcHlYSVNOSlpSSXBSUEFVMUw3cjUydE5zX2ZUc0ZJOXdhTnVqcDhqVWpRemZvRGZtQzh3cHZvOHNGVzFNMmFXN3VIempZei1aSnBxYi1Hb1JNNEVT0gHAAUFVX3lxTE5VLWxVSEN3TkxRLWpzTEhuRXh0M25kU1ltUDdudERQV1JOdVM4NVdEUlFJcUt1U2cxS3FNbmRlVkY5cVdvMjJaMnJWNWptNkMwcnJ0TTc3TmUzVjd1c3dkQlNyTmhkTTA2RTkyNnZnT2VDcGFJNTFMdG5JWjJpc2VoUzNOMnIyaXBxR21oMHdkR3F4OTZmMkt3V19SVUtHcTNDWi1oOUhMd1hkS1gxWmJqRG5seFhYZF9aYzIxTW0xNQ?oc=5",
+      "title": "Inteligencia artificial: ¿Soberanía tecnológica o nuevo extractivismo? - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0tGcndCMmV6QlU4bnI4Wm5PUFNlN193NFZQVzRzdWEyRVR1Tlo0bmlfcTRrNXlSSmVoanVHdzFmWEFRX18tV2xoQzJpdGcyTzc5X0FDa3QzVjVjcTFhZC1Sbm0zUjFLMElDZU1ETmM2RVp0cGp0cFlna25oUDR3VGNkMDVPbG12amlQbF9YVWx0a1lfQW5GN1ZaZmlwT0pqUW9DZlh4WmxvaTZu0gHAAUFVX3lxTFBxclRjV0J5TlV5UWJpMjRJOE5vZkZKT1c4VzUxeU02SHRFaGVRM2d2SEQ3eVhrY0hMYnhKNGdhN2YzcDRiWnYzbmdkY29vMEZKLW1kSlBlRld3dkFlUDJ5YXQ5RnZObjNXMjBSUVQwMm5fLUg2aUxQUS1jWllRT2V6VjVoemZvLXlnUFE5WFpJTFhadmNnT2gwOGkyOG1teV9ZbG5SS3VXRjdoRWw0MkVmazNmZGtmck53a19iTkROSg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Jul 2026 11:54:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkFZT2t0Mk1JUnUwdm5XNkVYSGhqbl9xazFzQmR2dVM3SVFEcUJhVWZBVkZyTlFuak9id0s3dFdZYXlqMFJTWmFYTEg3VzBrSEl3NnkwX0wxcHlYSVNOSlpSSXBSUEFVMUw3cjUydE5zX2ZUc0ZJOXdhTnVqcDhqVWpRemZvRGZtQzh3cHZvOHNGVzFNMmFXN3VIempZei1aSnBxYi1Hb1JNNEVT0gHAAUFVX3lxTE5VLW"
+      "published": "Sat, 25 Jul 2026 02:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0tGcndCMmV6QlU4bnI4Wm5PUFNlN193NFZQVzRzdWEyRVR1Tlo0bmlfcTRrNXlSSmVoanVHdzFmWEFRX18tV2xoQzJpdGcyTzc5X0FDa3QzVjVjcTFhZC1Sbm0zUjFLMElDZU1ETmM2RVp0cGp0cFlna25oUDR3VGNkMDVPbG12amlQbF9YVWx0a1lfQW5GN1ZaZmlwT0pqUW9DZlh4WmxvaTZu0gHAAUFVX3lxTFBxcl"
     },
     {
-      "title": "Inteligencia artificial cotidiana: una transformación silenciosa que ya cambia la vida en Chile - El Periodista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYU1KdFdmS1EtUk9WVUZ6bjNpeHUwR1B5RXMyMl9IbVlNcmlVY01JakdWbEJ6V2NVdC1TSkg4TVZmd0JSVnhlTHhQNllTYmVINEJqRmVBMVBETnVRRE40SFFWZ01DQlVjM1RJTkxGdVVfRFlrVFYzNmFxemhIa1VTeVNaYzlaWWhod0hlNzZNZTUxSHJrYk94a3ZJMVZ3Sjc0aEVVcU1XNmxER19nemt3TmtzOXJiMWYtQTAtTzEtS0k0b252M0JsdUZ1aw?oc=5",
+      "title": "Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación en Latinoamérica - MINTIC Colombia",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Jul 2026 15:10:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNYU1KdFdmS1EtUk9WVUZ6bjNpeHUwR1B5RXMyMl9IbVlNcmlVY01JakdWbEJ6V2NVdC1TSkg4TVZmd0JSVnhlTHhQNllTYmVINEJqRmVBMVBETnVRRE40SFFWZ01DQlVjM1RJTkxGdVVfRFlrVFYzNmFxemhIa1VTeVNaYzlaWWhod0hlNzZNZTUxSHJrYk94a3ZJMVZ3Sjc0aEVVcU1XNmxER19nemt3TmtzOXJiMWYtQT"
+      "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvbzZOczlqOXNsb3E2YmtwZmctaGU5UzNQVGpOSkFDbERua1RUUHdsNUlsRnlZbHZiWmpURkxKTUV1OXUxQlRBQ0l2UldSMDBaT3JQN2ZETlF0TkVzd001bVU3S0pSZmZxZjJz?oc=5\" target=\"_blank\">Nueva alianza con Chile impulsará la inteligencia artificial y la supercomputación "
     },
     {
       "title": "Santiago Siri y la inteligencia artificial en la medicina: “Llegará un momento en que no usar estas herramientas será considerado mala praxis” - Infobae",
