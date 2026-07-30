@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Alerta por lluvia moderada a fuerte en la zona centro-sur: estas serán las regiones afectadas",
+      "url": "https://www.latercera.com/tendencias/noticia/alerta-por-lluvia-moderada-a-fuerte-en-la-zona-centro-sur-estas-seran-las-regiones-afectadas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Jul 2026 17:51:39 +0000",
+      "summary": "El fenómeno se extenderá desde la mañana de este jueves hasta la madrugada del viernes: ¿qué ciudades se verán afectadas?"
+    },
+    {
       "title": "El sol es temporal: el abrupto cambio en el tiempo que dejará lluvia importante por 3 días en Santiago",
       "url": "https://www.latercera.com/tendencias/noticia/el-sol-es-temporal-el-abrupto-cambio-en-el-tiempo-que-dejara-lluvia-importante-por-3-dias-en-santiago/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "De forma inédita, el Minsal emitió una alerta sanitaria por hantavirus en Chile: conoce los síntomas, las actividades con mayor riesgo de contagio y las medidas clave para prevenir la enfermedad."
     },
     {
-      "title": "Confirman lluvia en la Región de Atacama: cuándo y cuáles serán los sectores afectados, según el pronóstico",
-      "url": "https://www.latercera.com/tendencias/noticia/confirman-lluvia-en-la-region-de-atacama-cuando-y-cuales-seran-los-sectores-afectados-segun-el-pronostico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 30 Jul 2026 10:01:00 +0000",
-      "summary": "La Dirección Meteorológica de Chile anticipó precipitaciones para distintas comunas de la región, con un evento que abarcará localidades del borde costero y del interior, además de viento de hasta 40 km/h en algunos sectores."
-    },
-    {
       "title": "Seminario abordó desafíos de la inteligencia artificial y la comunicación actual en Chile - ACI Prensa",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZEWWdqSHBPMlVPeVlwQmZKa1FLOGpBZW0zbXZna1FPdzhJMFZJNXVWMEJLWTJrTlRaMWVNaUtaNnBzRThvS204X0RsXzlMMVlQLU1HZ3lBNkpSNS13VW9ob25ScGljWWZnVThXTloya2cwbFhXNWtWbWpKZjh0ZGNXUjVUbmVOU3VBNzlRUFBhUdIBlwFBVV95cUxOcXRUWFZnTVJJbDlreWRULUFmQTFkN0NzQkFQR2dfbDhfYWsya1FxaFFabEZGRkh6UUlNOVJ3aWV1ekRWemQxTTIzdDFuSElzNHE3MzNxNlBVVjhqQUd0T193ZFdSZjUzaGs1ZzFKcG1hWEpvUlFlTnFxYndmV3ZnS3hqMkVOdHhHbEdZMVVpeU1mQlRWS0NR?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZEWWdqSHBPMlVPeVlwQmZKa1FLOGpBZW0zbXZna1FPdzhJMFZJNXVWMEJLWTJrTlRaMWVNaUtaNnBzRThvS204X0RsXzlMMVlQLU1HZ3lBNkpSNS13VW9ob25ScGljWWZnVThXTloya2cwbFhXNWtWbWpKZjh0ZGNXUjVUbmVOU3VBNzlRUFBhUdIBlwFBVV95cUxOcXRUWFZnTVJJbDlreWRULUFmQTFkN0NzQkFQR2"
     },
     {
-      "title": "Inteligencia artificial: ¿Soberanía tecnológica o nuevo extractivismo? - elpais.com",
+      "title": "Inteligencia artificial: ¿Soberanía tecnológica o nuevo extractivismo? - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0tGcndCMmV6QlU4bnI4Wm5PUFNlN193NFZQVzRzdWEyRVR1Tlo0bmlfcTRrNXlSSmVoanVHdzFmWEFRX18tV2xoQzJpdGcyTzc5X0FDa3QzVjVjcTFhZC1Sbm0zUjFLMElDZU1ETmM2RVp0cGp0cFlna25oUDR3VGNkMDVPbG12amlQbF9YVWx0a1lfQW5GN1ZaZmlwT0pqUW9DZlh4WmxvaTZu0gHAAUFVX3lxTFBxclRjV0J5TlV5UWJpMjRJOE5vZkZKT1c4VzUxeU02SHRFaGVRM2d2SEQ3eVhrY0hMYnhKNGdhN2YzcDRiWnYzbmdkY29vMEZKLW1kSlBlRld3dkFlUDJ5YXQ5RnZObjNXMjBSUVQwMm5fLUg2aUxQUS1jWllRT2V6VjVoemZvLXlnUFE5WFpJTFhadmNnT2gwOGkyOG1teV9ZbG5SS3VXRjdoRWw0MkVmazNmZGtmck53a19iTkROSg?oc=5",
       "source": "Google News",
       "category": "news",

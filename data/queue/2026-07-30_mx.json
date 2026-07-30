@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Los libros se convierten en el nuevo oro de la IA",
+      "url": "https://expansion.mx/tecnologia/2026/07/30/empresas-de-ia-recurren-libros-humanos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Jul 2026 17:00:43 GMT",
+      "summary": "Las empresas de IA buscan libros y documentos humanos para entrenar a sus modelos pero, el negocio abre una nueva disputa por el conocimiento sobre quién lo posee."
+    },
+    {
+      "title": "\"Complicidad en terrorismo\": Rusia emite una orden de búsqueda internacional contra el fundador de Telegram",
+      "url": "https://expansion.mx/tecnologia/2026/07/30/rusia-emite-orden-busqueda-fundador-de-telegram",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Jul 2026 14:30:32 GMT",
+      "summary": "Las autoridades señalan que la aplicación de Pavel Durov permite la difusión de mensajes para que los servicios especiales ucranianos recluten jóvenes rusos."
+    },
+    {
+      "title": "Del laboratorio al maquillaje: así llega la biotecnología a tu vida cotidiana",
+      "url": "https://expansion.mx/tecnologia/2026/07/30/biotecnologia-del-laboratorio-a-tu-vida",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 30 Jul 2026 11:55:13 GMT",
+      "summary": "México tiene un mercado de más de 12,000 millones de dólares, pero el bajo gasto en investigación y la falta de infraestructura frenan el desarrollo del sector."
+    },
+    {
       "title": "Doble SIM vs eSIM: qué diferencias tienen y por qué una tecnología está desplazando a la otra",
       "url": "https://expansion.mx/tecnologia/2026/07/29/doble-sim-vs-esim-diferencias-una-tecnologia-desplaza-otra",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "Este tipo ciberataque fue tipificado como delito en la CDMX y aunque se trata de un paso adelante en la seguridad cibernética, especialistas señalan que no es suficiente para cuidar a la población."
     },
     {
-      "title": "Líderes en IA piden un freno a la industria: ‘Hay un riesgo de que acelere más allá de nuestra comprensión’",
-      "url": "https://expansion.mx/tecnologia/2026/07/29/lideres-anthropic-google-freno-ia-riesgos-comprension",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Jul 2026 15:00:30 GMT",
-      "summary": "Ejecutivos de Anthropic, OpenAI, Meta y Google, entre otras, consideran la necesidad de un esfuerzo internacional para desarrollar herramientas técnicas y de gobernanza que marquen el ritmo deliberado de la tecnología."
-    },
-    {
-      "title": "Solo 1 de cada 20 pacientes deja una reseña en Doctoralia pese a que casi todos las consultan",
-      "url": "https://expansion.mx/tecnologia/2026/07/29/doctoralia-resenas-pacientes-elegir-medico-confiables",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 29 Jul 2026 11:55:56 GMT",
-      "summary": "La plataforma afirma que la verificación hace confiables las opiniones, aunque persisten dudas sobre si reflejan la experiencia del paciente promedio."
-    },
-    {
-      "title": "iPhone 17 vs. Samsung Galaxy S25 vs. Xiaomi 15T: ¿cuál tiene la mejor cámara para tus fotos?",
-      "url": "https://expansion.mx/tecnologia/2026/07/28/que-celular-mejor-camara-iphone-17-galaxy-s25-xiaomi-15t",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 28 Jul 2026 23:14:29 GMT",
-      "summary": "Estos tres modelos destacan por contar con sistemas de cámara similares, aunque cada uno cuenta con características que los hacen resaltar."
+      "title": "Open Finance e inteligencia artificial impulsan la transformación del sector fintech en México - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVFEeGpfU1Vtd1ZoaFE5emVISmpPdGk4UFN1Z0U4b28ydE1TakgtdGlYcFdocVpxbHJaVzFLQlJoeUMtN3Y1THh1UF9zd1d3LWQzTWRIMkZkd0RqZFU5S0NyVFBCaE81N3ZFb1lZQU9ESmlKVXZodVVSWTFxUTFpTFlxd3ZScUVvOUNtYTJnTXhxc0xfZmRLNVl2S1BPNjh2ZlItM2cxRlFBZmlCV1A1Tmh1bmVpVUVrWmNuejNJM1dJYUhRRFY2ekR3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 30 Jul 2026 14:33:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVFEeGpfU1Vtd1ZoaFE5emVISmpPdGk4UFN1Z0U4b28ydE1TakgtdGlYcFdocVpxbHJaVzFLQlJoeUMtN3Y1THh1UF9zd1d3LWQzTWRIMkZkd0RqZFU5S0NyVFBCaE81N3ZFb1lZQU9ESmlKVXZodVVSWTFxUTFpTFlxd3ZScUVvOUNtYTJnTXhxc0xfZmRLNVl2S1BPNjh2ZlItM2cxRlFBZmlCV1A1Tmh1bmVpVUVrWm"
     },
     {
       "title": "Inteligencia Artificial aumenta el comercio exterior de México - Yahoo Finanzas",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Tue, 28 Jul 2026 06:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWhrVGdscE1hOG1HT3pKT3dFZy1Gc0wxMDVkZDREZVhPekNYcHBQUWJ6dXBZM3dBVkZMNFRWWXVBY0hqVU5tNW9MbWRfdzNycHFVLVdLblhtMUZBWXRkR0NVdFk0SEZCRUo5RTltQ0dmSm9RTW4weUNNbHZIRzlVTExCRHF0czI0OFZuN3JTelY1NW5vYV9oMVFSYWZialZhVFNYUjYwZTZxZw?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "Dell Technologies e Intel xeon impulsan la infraestructura que definirá el éxito de la inteligencia artificial en las empresas - elfinanciero.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMG5iMV9pR1ZmV0t2amZrS0FOMzRWeWwzdXZnbFB6Z0hrcVF0M3J5Q2t6amZJOUJoTkthWHFjT1ZlbGhYdlQtbUpTR2V0YmZQZVpIUk9qaGxGYkZlSTFhSUtBOTVuSWN4R2pOM1RCaGpQSzhDZ19UcEtvb245ZkRteHd6NzlMaEJQc2NIQ1A1MXJwNDhsY05YVUpycG1fYldzNUR2NGFJaFZDeHFmcjd3QmQ5V0NOcEFfNXVpUGZ6YlhKa2tqYjN2UFphSVpLajBHNTZGNnRDUURyN0w3V08wNHJOZU5DdUJvLTBzOW5MT1pyX2F5enB6bEF6RFVtQXdkdHZUbVpadDZwZmVoSlgxa3Bn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 30 Jul 2026 14:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOMG5iMV9pR1ZmV0t2amZrS0FOMzRWeWwzdXZnbFB6Z0hrcVF0M3J5Q2t6amZJOUJoTkthWHFjT1ZlbGhYdlQtbUpTR2V0YmZQZVpIUk9qaGxGYkZlSTFhSUtBOTVuSWN4R2pOM1RCaGpQSzhDZ19UcEtvb245ZkRteHd6NzlMaEJQc2NIQ1A1MXJwNDhsY05YVUpycG1fYldzNUR2NGFJaFZDeHFmcjd3QmQ5V0NOcEFfNX"
     },
     {
       "title": "México: Inteligencia Artificial sin inteligencia de Estado - El Heraldo de México",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - Unesco",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",
