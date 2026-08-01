@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Colina realizará su primer festival internacional de cine independiente con funciones gratuitas",
+      "url": "https://www.latercera.com/tendencias/noticia/colina-realizara-su-primer-festival-internacional-de-cine-independiente-con-funciones-gratuitas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 01 Aug 2026 21:54:53 +0000",
+      "summary": "El FICIC 2026 se desarrollará entre el 3 y el 10 de agosto y contará con invitados de España, Perú, México, Bolivia, Argentina y Uruguay. La programación incluirá largometrajes, cortometrajes estudiantiles y producciones realizadas en la comuna."
+    },
+    {
       "title": "Confirman lluvia más intensa para Santiago este fin de semana: revisa el día y los sectores afectados",
       "url": "https://www.latercera.com/tendencias/noticia/confirman-lluvia-mas-intensa-para-santiago-este-fin-de-semana-revisa-el-dia-y-los-sectores-afectados/",
       "source": "La Tercera Tecnología",
@@ -35,28 +43,12 @@
       "summary": "Un sistema frontal asociado a un río atmosférico dejará precipitaciones entre el Norte Grande y la zona sur, algunas zonas podrían acumular más de 100 mm de lluvias."
     },
     {
-      "title": "Revisa todas las regiones que tendrán lluvia este viernes, según el pronóstico",
-      "url": "https://www.latercera.com/tendencias/noticia/revisa-todas-las-regiones-que-tendran-lluvia-este-viernes-segun-el-pronostico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 31 Jul 2026 10:02:00 +0000",
-      "summary": "Un sistema frontal dejará precipitaciones desde el norte hasta el extremo sur del país durante este 31 de julio."
-    },
-    {
       "title": "Seminario abordó desafíos de la inteligencia artificial y la comunicación actual en Chile - ACI Prensa",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZEWWdqSHBPMlVPeVlwQmZKa1FLOGpBZW0zbXZna1FPdzhJMFZJNXVWMEJLWTJrTlRaMWVNaUtaNnBzRThvS204X0RsXzlMMVlQLU1HZ3lBNkpSNS13VW9ob25ScGljWWZnVThXTloya2cwbFhXNWtWbWpKZjh0ZGNXUjVUbmVOU3VBNzlRUFBhUdIBlwFBVV95cUxOcXRUWFZnTVJJbDlreWRULUFmQTFkN0NzQkFQR2dfbDhfYWsya1FxaFFabEZGRkh6UUlNOVJ3aWV1ekRWemQxTTIzdDFuSElzNHE3MzNxNlBVVjhqQUd0T193ZFdSZjUzaGs1ZzFKcG1hWEpvUlFlTnFxYndmV3ZnS3hqMkVOdHhHbEdZMVVpeU1mQlRWS0NR?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 29 Jul 2026 18:01:14 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZEWWdqSHBPMlVPeVlwQmZKa1FLOGpBZW0zbXZna1FPdzhJMFZJNXVWMEJLWTJrTlRaMWVNaUtaNnBzRThvS204X0RsXzlMMVlQLU1HZ3lBNkpSNS13VW9ob25ScGljWWZnVThXTloya2cwbFhXNWtWbWpKZjh0ZGNXUjVUbmVOU3VBNzlRUFBhUdIBlwFBVV95cUxOcXRUWFZnTVJJbDlreWRULUFmQTFkN0NzQkFQR2"
-    },
-    {
-      "title": "Ley de Protección de Datos e inteligencia artificial: el doble desafío que enfrentan las empresas en Chile - LexLatin",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2tqaVRwZFcxRzBpWjd6YU5fcWhPZTVBRTdCQXRCbzFmYXJYQnFUckxFcUEzaXdWOGxqcGFqNTJOY0dPaXlSR3V5WHJTLTdhMHoxMzdVQTVuRm1Yanpyb2lqb3BFdGJXZXJUMjA5dDh4RkVkTnU5UVFBRDNBLUV3MGZEaDk1aVVYSXU5Y20yRHBlS1NBcDJGZVNGYTU3ejJWWFE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 30 Jul 2026 22:44:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2tqaVRwZFcxRzBpWjd6YU5fcWhPZTVBRTdCQXRCbzFmYXJYQnFUckxFcUEzaXdWOGxqcGFqNTJOY0dPaXlSR3V5WHJTLTdhMHoxMzdVQTVuRm1Yanpyb2lqb3BFdGJXZXJUMjA5dDh4RkVkTnU5UVFBRDNBLUV3MGZEaDk1aVVYSXU5Y20yRHBlS1NBcDJGZVNGYTU3ejJWWFE?oc=5\" target=\"_blank\">Ley de P"
     },
     {
       "title": "¿Está Microsoft ganando la carrera de la inteligencia artificial? - XTB.com",
@@ -67,7 +59,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOa1g2UE5hVERrdUdRMlltTXM2MURqZ0hydHFKeEJmWU0yazVuV29VVzRQMlRHMDFSQTZKQUhURDNoY0J3eHlnZV8xUWZYZzU0M1JlNU4tRDA5MnRoVFNNaEhyTm1tcHpiSS1EMjhsSmVDajRNR1VzelUxSVhlUXRQa044cy0xY2ZtUWVDVk1OZmJPM0lQSXg1OE93cTR6OGpyZl9rbklrdm5jM1VaVXpsX0czVzJ1Z3Z3MV"
     },
     {
-      "title": "El reencuentro por IA de Carmen Barbieri con su padre Alfredo Barbieri que terminó en el llanto de la conductora - Infobae",
+      "title": "¿Qué tanto impactará realmente la IA en el crecimiento de Chile? - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjJ0V3VRNW12SEFLSGx3V3JTRnlMQ0RJY1ZaZC1uSzhYQnluUURaY1h2eklnRkNfVFM0cm1TS2pyVkk1M0ZLV1VwZkxYMU00UG00SHJJR1EzRDNvRnQ1a0dxXzVGRHFPVjZreVVKY1VYbThXUlljRnBLNUVhWk02TWFVM2lEY1lGWXVWUThLN1RRbXNDV0phd0lwU3VMbkJTSFVzWjYtTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 27 Jul 2026 17:24:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORjJ0V3VRNW12SEFLSGx3V3JTRnlMQ0RJY1ZaZC1uSzhYQnluUURaY1h2eklnRkNfVFM0cm1TS2pyVkk1M0ZLV1VwZkxYMU00UG00SHJJR1EzRDNvRnQ1a0dxXzVGRHFPVjZreVVKY1VYbThXUlljRnBLNUVhWk02TWFVM2lEY1lGWXVWUThLN1RRbXNDV0phd0lwU3VMbkJTSFVzWjYtTQ?oc=5\" target=\"_blank\">¿"
+    },
+    {
+      "title": "El reencuentro por IA de Carmen Barbieri con su padre Alfredo Barbieri que terminó en el llanto de la conductora - infobae.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUVRJNkNfQ2xqOE1wbDlsc1d0R2hhS0RuUFREMWhlMGNPUHNCNExuT1NrTjRnZHZCNHJsS1p3SHNpOVNmUTRaMDlKQnYwT21JakYxUHZWSC0xWlFDZ01hOURpaXI3SnFqQTJZVGtFRnVfRlYxOGczV09qUnFvbHVyTk5YbXlOZWN5b1l4S0NkSXhOVUlrYVlWUjc1WFU3cFhfaEd5RUFucDlpT3E2RVJ5UDA3MTVMdGlXaFZoWDFkeDliZjhXcDdDbjAxWGtmWVRGMnVBUU1qUndFckV3Q1o0WmNwdExMckFpbjlqc0ZR0gGIAkFVX3lxTE5XSVpvYkdpMG9qcU5mZExPWjRMV3FMN1hkd1pacEVyd0tFdXlhUEM0TG1SaGFmLWR4TzRjUUpEXy0tS1VMNkNubHJaZXZIa2xwdVpORm5fLXNYb1RyOTJRbjZmWWRVVERBRnRybFBlU00yNGRzeUlUcFBKV09XRXBma1c3NElOOWFqY0c1aGJHQjNaNEZFSEFWZ2IwLW1NUzFFWk00SWp0WTJjTDVUdEZhd3pkTVh6eWw4ME5WRUJEN2hReFZHNmhTRDdVcGlLc1JLSlFWeExPS2ZaSGl6MlFhalB5V3pXRnE3M0t5V1FZbkNabUs3R3llNU9kNnpDYVliYXBkeXNTMQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUV6Sm90OTc5NDQ0NmpmN1RiMmEzQ1M4SHRPLXM0MU9ZT1lDVVdvdXVKcUFSdENHY0NHbld2aEJLYnFGc19sV3NUTnpBcTVkbGFmaUowSVBoWGc3YzdzQTlVdjdxbnhqODh2b2FkaHpCb0ZEUHVJMC1veFlUN0t0UVhIRTVYY3NRcUNwM0Jic3pWTGZiQmNvUU5zaURHRUQ5d3pVckJMaGNhQWZpVlRxMy1aNFg?oc=5\" "
     },
     {
-      "title": "BIG 12: ¿Quiénes son y qué hacen las 59 startups seleccionadas por Start-Up Chile? - entnerd.com",
+      "title": "BIG 12: ¿Quiénes son y qué hacen las 59 startups seleccionadas por Start-Up Chile? - EntrepreNerd",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTRMXy1JbUQxNlhGTTBmdWh4bzZOSVVaVkIwZWpjZU1maUZxX1VfRFp4SDhSRkRkVWlVRlF3cUlUalpxbDhDTzlyMk9oQVhTZ0FJQmQyVzk0cm1EMVUxT1lGaHZJUmNaVWNwbzFzZDVZcWxqc0w5eWhweTBlbXNnNVRHVk1Kemo5R05yMmFDQVpMb2UzcXMzNm8ycnBEMXRRU2dBaWowVQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ0o0aTVYR1RBbnVKYzRNUmp2SFp3UU1Md2hqclpsWVpvZ05qcFA0ZGdyenJnSWdDU2VSX1BKYVFJSlRVOERoNVJNaFRpVUxWMmY1eWNLZVVqYjg1RXR0OWU2NDBlYUNtcENxZjY0QzNfN0NPaW9NTGd5cGVQTXUyaUgwbGlvaU5fdl9BdEdn?oc=5\" target=\"_blank\">Start-Up Chile BIG 12: 59 startups "
     },
     {
-      "title": "Start-Up Chile elige su nueva generación: la IA domina, pero la economía circular se abre paso entre las 59 elegidas - Diario Sustentable",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2VidzYtd0gydE9TNTRkMmtZYW1pVmlTbjVyUHozYzdMaDRXczNUel9mcWJBRWdZRlJOTHVB?oc=5",
+      "title": "EAWARDS CHILE 2026: FUNDACIÓN NTT DATA BUSCA A LA STARTUP CIENTÍFICO-TECNOLÓGICA QUE COMPETIRÁ EN EUROPA POR €100.000 - Revista Logistec",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWlFQUVlvUC12TWh1OWlBWERSNFVLWC02NG56X3dqOEQzeTEwUThSMFY0dUtscWkyeEJ4bFl2enJNZUdyMTZac0ZiTElHblU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2"
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
     }
   ],
   "count": 14
