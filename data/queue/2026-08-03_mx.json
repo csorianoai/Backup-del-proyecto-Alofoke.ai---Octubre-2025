@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Disney+, HBO, Netflix, Prime, y VIX: ¿cuánto gastan los mexicanos en streaming en 2026?",
+      "url": "https://expansion.mx/tecnologia/2026/08/03/disney-hbo-y-netflix-cuanto-gastan-mexicanos-streaming-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 03 Aug 2026 19:01:34 GMT",
+      "summary": "Con millones de hogares suscritos a plataformas de streaming, el entretenimiento digital ya representa un gasto relevante que puede superar los 14,000 pesos anuales."
+    },
+    {
+      "title": "No llegó ni a 48 horas: Google Earth retira Nano Banana por temor a desinformación",
+      "url": "https://expansion.mx/tecnologia/2026/08/03/no-llego-ni-a-48-horas-google-earth-retira-nano-banana",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 03 Aug 2026 18:30:16 GMT",
+      "summary": "Mientras se trabaja en regulaciones más estrictas, Google decidió suspender la función de generador de imágenes con IA “Nano Banana 2” en Google Earth."
+    },
+    {
+      "title": "La inseguridad impulsa el uso de apps para compartir ubicación entre familias",
+      "url": "https://expansion.mx/tecnologia/2026/08/03/el-73-de-las-personas-en-el-pais-apuestan-por-la-tecnologia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 03 Aug 2026 11:55:16 GMT",
+      "summary": "La tecnología transformó el tradicional \"avísame cuando llegues\" en un monitoreo en tiempo real que brinda tranquilidad a millones de personas, pero también abre el debate sobre sus límites."
+    },
+    {
       "title": "El iPhone 18 llegará con una caída en ventas y aumentos de precio. Así sufrirá tu bolsillo",
       "url": "https://expansion.mx/tecnologia/2026/07/31/el-iphone-18-llegara-con-una-caida-en-ventas-y-aumentos-de-precio-asi-sufrira-tu-bolsillo",
       "source": "Expansión Tecnología",
@@ -19,28 +43,20 @@
       "summary": "La startup de San Francisco esperaba alcanzar ese hito a comienzos de año, después de llegar a 900 millones de usuarios activos a finales de febrero, pero se enfrentó a una mayor competencia de sus rivales."
     },
     {
-      "title": "Anthropic revela que Claude accedió sin permiso a sistemas informáticos de tres organizaciones",
-      "url": "https://expansion.mx/tecnologia/2026/07/31/anthropic-claude-accedio-sin-permiso-sistemas-informaticos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 31 Jul 2026 18:00:31 GMT",
-      "summary": "Anthropic evaluó más de 141,000 \"operaciones de prueba\" y descubrió que tres versiones diferentes de su modelo, conocido como Claude, accedieron indebidamente a sistemas de tres organizaciones no identificadas."
+      "title": "Inversión IA México 2026: $33,000M con bajo retorno - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDBLUEU0ZWF2ZGlGZmo0NDBJNldsVHhPRHVzTGplcGtaWE5VbE5MZnJoSDRCVEhwNE9uTnR6eUVzb0lPT3RCR0pvZFBNb19iNi1VY2xlVUNMcXN2WUhsd2h2d2RCbHJSbXhkalc1UEhUelVhTm1rcWlXTl83MHVKUXNOUkNWZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 16:39:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDBLUEU0ZWF2ZGlGZmo0NDBJNldsVHhPRHVzTGplcGtaWE5VbE5MZnJoSDRCVEhwNE9uTnR6eUVzb0lPT3RCR0pvZFBNb19iNi1VY2xlVUNMcXN2WUhsd2h2d2RCbHJSbXhkalc1UEhUelVhTm1rcWlXTl83MHVKUXNOUkNWZw?oc=5\" target=\"_blank\">Inversión IA México 2026: $33,000M con bajo r"
     },
     {
-      "title": "Así se ve la Torre Eiffel en México gracias a la nueva función de IA en Google Earth",
-      "url": "https://expansion.mx/tecnologia/2026/07/31/torre-eiffel-mexico-ia-google-earth-nano-banana",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 31 Jul 2026 17:07:00 GMT",
-      "summary": "La nueva función permite modificar imágenes satelitales, aéreas y en 3D con instrucciones de texto para visualizar proyectos, recrear escenarios históricos o imaginar cómo lucirá un sitio en el futuro."
-    },
-    {
-      "title": "Así opera la estafa que ofrece dinero por dar \"likes\" en Mercado Libre",
-      "url": "https://expansion.mx/tecnologia/2026/07/31/estafa-whatsapp-mercado-libre-empleos-falsos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 31 Jul 2026 11:55:47 GMT",
-      "summary": "La oferta llega por WhatsApp con promesas de ingresos fáciles, pero detrás hay un fraude de tareas que busca generar confianza para después exigir depósitos y quedarse con el dinero de las víctimas."
+      "title": "ModaEmprende lanza un EP musical hecho con inteligencia artificial sobre emprendimiento en moda - FashionNetwork México",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHVUcW14TGxMamZhajBXOGF3aUVQVEhad3h4aXpWY3U1UlFOWU1VYm1FZVdHbnRhN3hiay1nU19PRzRQNC00eU0yOXNENW9tZThPMGZQZnBSU2RqOGxaN2x4ZHZEb2RoTmFCZXFCNERZR0o0eFplNEh4YWZvdGZUeTJrRDVzSktnblhZT1RNeW9TanZYWlFvS2JfYzUyTTBHTFNWdTliU3VSUDg5RjE5YnY3OU1oazl1ZUxoVlFqRHJ1ODQwVmctYVZ3UXh5Vk9EbV9XUVNwTzJlMFU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 18:23:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHVUcW14TGxMamZhajBXOGF3aUVQVEhad3h4aXpWY3U1UlFOWU1VYm1FZVdHbnRhN3hiay1nU19PRzRQNC00eU0yOXNENW9tZThPMGZQZnBSU2RqOGxaN2x4ZHZEb2RoTmFCZXFCNERZR0o0eFplNEh4YWZvdGZUeTJrRDVzSktnblhZT1RNeW9TanZYWlFvS2JfYzUyTTBHTFNWdTliU3VSUDg5RjE5YnY3OU1oazl1ZU"
     },
     {
       "title": "Violeta Shu: “México puede albergar uno de los principales parques de inteligencia artificial de América Latina” - EL PAÍS",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Sun, 02 Aug 2026 04:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmdTUlFzYW5IOFdmUmxBNUhRb1RIcl9WVVg0N3hlZHdQeXg5dnI0S2U2RlFDdmFRRVhFajNSSXFkNk1YbHJtbDRDbUV0bXBzTWxKQVNPNzdpRUEwQ1dCeXpzdnA2ZE9kRG52bE91elpMZUJvTnpkdnlORy1paE9KNnRKMnM4X2w1NWtuWnZ1OHVHWklkNzZHSGxSZExDNlBxX2IwTjlGOE5xbUFiZ3R1eGlpOHp0a2M5SD"
-    },
-    {
-      "title": "Fiebre de inversión con bajo retorno: El riesgo de ‘innovar por innovar’ que amenaza a las empresas mexicanas - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQakF1eDNqeW9sb3hEYUZlZUdVc0d6ME1YV3hRTS1CN2VZSl94b0t3dUxrMW9Mb0pCLXdMQzJKcVk1eU01Zi1XOWpxVjAxUktkcWhIRnpQT3RjWmhsY0wtOGM2a1hBMVVaYVFxcmtPTC10N1Rtdml5SzNMTXpWaVpZeUNKVTdyTG9SQ3FYN2xzNnZ3TjYxR21QdWM0SkRYb0lZMUxSOVV1NGZZXy1sdThjVFpVV0JNcV9rSDN6NVFsYTUySFp2Sndqc3JJaUphLUk1UnhhZlBkN1ZSY0htYnU0X1pRSDFsWm9CWWY0NzB30gGIAkFVX3lxTE5HRjVUU1Z0VmtFSWh6MHpDell3NGdfVWZYNVRZLUo1eEdxY3hBWU5BWDVQX0luTEhiTjBibUR2LVhEZlJRYUlSLTZqTjMwempJWGJxTVJ4cWMyUmdiR1NZRDFEZ0J4UW1kSWpHNkF0dTNfWGF6REoxUHpCeDdoNlJZUWtTZWhEcGNhS0RhdGhzTkY5a2hrOThMNXJRWm5MSkdkenNtMXlFQlZPa3RWN016WmZ4OGNSTWJVZTNlR1Ntd2VnUnQ4cHVFQUNCME1jVjhSSG9lS09kR01jeW5XMFU1VmdTV0hPTFUzS2h2YXg3d0twTl9BVVJ6MFByOFprYTN2ZWRXYU9idA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 03 Aug 2026 12:00:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQakF1eDNqeW9sb3hEYUZlZUdVc0d6ME1YV3hRTS1CN2VZSl94b0t3dUxrMW9Mb0pCLXdMQzJKcVk1eU01Zi1XOWpxVjAxUktkcWhIRnpQT3RjWmhsY0wtOGM2a1hBMVVaYVFxcmtPTC10N1Rtdml5SzNMTXpWaVpZeUNKVTdyTG9SQ3FYN2xzNnZ3TjYxR21QdWM0SkRYb0lZMUxSOVV1NGZZXy1sdThjVFpVV0JNcV9rSD"
-    },
-    {
-      "title": "KPMG: Empresas en México usan más IA, pero siguen sin demostrar su ROI - Computer Weekly",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTG83dmpnaE9GU1pIY1htWExSXzdlbmNtYnhXU3F4dW9sMUZNTXRmcFh2SWZTdXBEN01WLVctVDhrY1hTOHF2aC1VMy1pdTBRSVJFRWN3TldseXg2MHNQajkzWkVMdFFjV0EyZjUyalE4WGttRVZQQ1JqUlJXd0haaVpjdVZhcE9EQllJMEh3ZzR3dFBkR25ad1NVM2x4Qm9zQ1BmdkcwZ3lZd0huTzRkeG0yRnJmLW5KeGhvdHZB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 31 Jul 2026 23:54:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTG83dmpnaE9GU1pIY1htWExSXzdlbmNtYnhXU3F4dW9sMUZNTXRmcFh2SWZTdXBEN01WLVctVDhrY1hTOHF2aC1VMy1pdTBRSVJFRWN3TldseXg2MHNQajkzWkVMdFFjV0EyZjUyalE4WGttRVZQQ1JqUlJXd0haaVpjdVZhcE9EQllJMEh3ZzR3dFBkR25ad1NVM2x4Qm9zQ1BmdkcwZ3lZd0huTzRkeG0yRnJmLW5KeG"
     },
     {
       "title": "BioGrip levanta $670K: prótesis biónicas con IA desde México - El Ecosistema Startup",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - observatorio.tec.mx",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",
@@ -107,7 +107,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
     },
     {
-      "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - Observatorio / Instituto para el Futuro de la Educación",
+      "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - observatorio.tec.mx",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5",
       "source": "Google News",
       "category": "news",
