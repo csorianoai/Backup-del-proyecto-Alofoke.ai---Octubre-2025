@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Spotify apuesta por la industria de experiencias: ya reservó 100,000 boletos a conciertos junto a Live Nation",
+      "url": "https://expansion.mx/tecnologia/2026/08/04/spotify-ya-reservo-100-000-boletos-a-conciertos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 04 Aug 2026 18:28:46 GMT",
+      "summary": "La plataforma cerró el trimestre con 300 millones de usuarios Premium y reportó avances en su estrategia para ampliar su oferta de audio y experiencias para suscriptores."
+    },
+    {
+      "title": "Google, Amazon y Microsoft disparan sus ingresos 'en papel' gracias a Anthropic y OpenAI",
+      "url": "https://expansion.mx/tecnologia/2026/08/04/openai-anthropic-hacen-ganar-mas-google-amazon-y-microsoft",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 04 Aug 2026 11:55:14 GMT",
+      "summary": "La revaluación de sus inversiones en empresas de inteligencia artificial elevó las utilidades reportadas, aunque ese efecto contable aún no se traduce en flujo de efectivo."
+    },
+    {
       "title": "ChatGPT quintuplicó las visitas a tiendas en línea, pero la decisión de compra sigue en manos humanas",
       "url": "https://expansion.mx/tecnologia/2026/08/03/chatgpt-quintuplico-visitas-tiendas-en-linea",
       "source": "Expansión Tecnología",
@@ -27,36 +43,12 @@
       "summary": "Con millones de hogares suscritos a plataformas de streaming, el entretenimiento digital ya representa un gasto relevante que puede superar los 14,000 pesos anuales."
     },
     {
-      "title": "No llegó ni a 48 horas: Google Earth retira Nano Banana por temor a desinformación",
-      "url": "https://expansion.mx/tecnologia/2026/08/03/no-llego-ni-a-48-horas-google-earth-retira-nano-banana",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 03 Aug 2026 18:30:16 GMT",
-      "summary": "Mientras se trabaja en regulaciones más estrictas, Google decidió suspender la función de generador de imágenes con IA “Nano Banana 2” en Google Earth."
-    },
-    {
-      "title": "La inseguridad impulsa el uso de apps para compartir ubicación entre familias",
-      "url": "https://expansion.mx/tecnologia/2026/08/03/el-73-de-las-personas-en-el-pais-apuestan-por-la-tecnologia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 03 Aug 2026 11:55:16 GMT",
-      "summary": "La tecnología transformó el tradicional \"avísame cuando llegues\" en un monitoreo en tiempo real que brinda tranquilidad a millones de personas, pero también abre el debate sobre sus límites."
-    },
-    {
-      "title": "Regulación de IA en México: todavía no hay una ley general, pero las reglas ya avanzan por sectores - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWVoT1Zlakh2ZlhfTmQxVEgzWWlfNUFCVHljLTBUQjBDUXpnd0hLTmFUWVJmUXdQRkNvVUlPeDl5dDNEd240RTJCbkVzN1ZiOEFTenpSaHBxaE5rRW1SeFM3aVB6TTZCdVVRTjRhUkRjUEJ4TkxLWmlKMmMyZWtSTmg3T05EeUt6bVB3bmhWNXhxX1VrVFd2UzRrNXdDUVVRanZNRkU2NDZMbklFZW50YWdWR3pzTmZzMFNUSzA3MFQzNVhQODQ0MTFlMVZnMDNyRTQ2U1NjbzVIT3JfSTRZUlg2RQ?oc=5",
+      "title": "Programadoras junior en México enfrentan una nueva brecha por el avance de la inteligencia artificial - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNlFsajRCNmRuWDRHODlyNjlLN21tVHBuZktEU2ZzOU51WkdaV3RLcDB3UTk5N1F4N0RxVVNQaGtEd3RQLUs5WnZEbjNncXZJNVowLUVwNTA4RmJhUVV1UE1oOFBLWGdMbnpSb1hLVTVSclZCendqY21rTHY1YmJRVlk3d205QUQzU1ZOWGxWOGJUNnVodEY3NFVsQnhQZFZqaGV1Z0Rta1o3ZjdVc3dFN3hJUjYtQTRWQTFxUUljNHNkSmNydWdVUjhVaTU1RHFtRGZnVmlCR1dnendQLXFvS2s1bjZpX0FO?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 03 Aug 2026 23:25:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNWVoT1Zlakh2ZlhfTmQxVEgzWWlfNUFCVHljLTBUQjBDUXpnd0hLTmFUWVJmUXdQRkNvVUlPeDl5dDNEd240RTJCbkVzN1ZiOEFTenpSaHBxaE5rRW1SeFM3aVB6TTZCdVVRTjRhUkRjUEJ4TkxLWmlKMmMyZWtSTmg3T05EeUt6bVB3bmhWNXhxX1VrVFd2UzRrNXdDUVVRanZNRkU2NDZMbklFZW50YWdWR3pzTmZzMF"
-    },
-    {
-      "title": "Violeta Shu: “México puede albergar uno de los principales parques de inteligencia artificial de América Latina” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmdTUlFzYW5IOFdmUmxBNUhRb1RIcl9WVVg0N3hlZHdQeXg5dnI0S2U2RlFDdmFRRVhFajNSSXFkNk1YbHJtbDRDbUV0bXBzTWxKQVNPNzdpRUEwQ1dCeXpzdnA2ZE9kRG52bE91elpMZUJvTnpkdnlORy1paE9KNnRKMnM4X2w1NWtuWnZ1OHVHWklkNzZHSGxSZExDNlBxX2IwTjlGOE5xbUFiZ3R1eGlpOHp0a2M5SDRzWG9sVnEyN3pUcXM4aEhjdXVQOGVYZHYwSkFRaTdpVlg1MUR6YzZ4UVgyN0FuaVFyX2lUWkFmUdIBhgJBVV95cUxNOEJIZUQ1ZGZoU2hpTDRFX2U3RlUxUFVjZHRXcE9hLXYtYU9FVy1UaUdCWmFTdWFyandoS0t6Q2t3TVZCM1BrT2JHZWlPZUptNDFMakZPYWlVZDU1UUQwZ1FkM01QaXN6SndPZ1ZkNnExR3d4V1lEY1QzN2RadTdRR3QzUlRmN3BFWXI1bXBQQkxDcWN5ai1jVW9MLVZKVFJoc1NGeExrcllfNktnNjJQdUp6RjUxQzNCQ1hIZGhKY1RqTmFjSk12aHNLN0ZKVEtyZUNQVWw4Q0xLSDdsWHQtWFVJdTl5SlRydkttVU01Uk0xWDFRaEwzYkFhMGxqTVhCdlNWUmFn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 02 Aug 2026 04:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmdTUlFzYW5IOFdmUmxBNUhRb1RIcl9WVVg0N3hlZHdQeXg5dnI0S2U2RlFDdmFRRVhFajNSSXFkNk1YbHJtbDRDbUV0bXBzTWxKQVNPNzdpRUEwQ1dCeXpzdnA2ZE9kRG52bE91elpMZUJvTnpkdnlORy1paE9KNnRKMnM4X2w1NWtuWnZ1OHVHWklkNzZHSGxSZExDNlBxX2IwTjlGOE5xbUFiZ3R1eGlpOHp0a2M5SD"
+      "published": "Tue, 04 Aug 2026 18:28:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNlFsajRCNmRuWDRHODlyNjlLN21tVHBuZktEU2ZzOU51WkdaV3RLcDB3UTk5N1F4N0RxVVNQaGtEd3RQLUs5WnZEbjNncXZJNVowLUVwNTA4RmJhUVV1UE1oOFBLWGdMbnpSb1hLVTVSclZCendqY21rTHY1YmJRVlk3d205QUQzU1ZOWGxWOGJUNnVodEY3NFVsQnhQZFZqaGV1Z0Rta1o3ZjdVc3dFN3hJUjYtQTRWQT"
     },
     {
       "title": "México y Japón ven oportunidades de cooperación en energía e inteligencia artificial - Vanguardia Industrial",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Tue, 04 Aug 2026 15:52:34 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3g0cTlUbXFwUjlaRHdDMWtBOFlMb2J5ME80TGV1eFUzcEFPY2dJWTVlcXZta1RBdTdwZ2RGOFUtZ2xwOEliWUh0dTdUblQ5SE85VFR3ZjVmb2R2Y1pGM050S2dTenFzQzNDRDB6N0h0bkw4YTVZb0F3YU5KWWVXeExPZ1RmTm9vc1A2NVZsTVR4VF9YeS16eS1fUU1jempTdVpLdHJLNEtPYS1KQm5PQ3d6V3BZU0M3bD"
+    },
+    {
+      "title": "La empresa autónoma gana terreno en México con el impulso de la nube y la IA - contactforum.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjJ3VFZha0RvajYzbE1YbTFDSVdpOTBDX0k5WHZsc2xsWUNlY3hqMzV6YmVaUkthdkZLbnFGWEw0NUd3RXB2RnVET0FtVFFLbS1XbkplSUZxay03bnh6a0hteVprU0dub042eHFBMExyOVBNcnFjUXE0QldMM2FRNE81Z3hwSkRXenFEQ1djQmJKNTY0QkxabzBWSmdtWU5UYWM0endsWjI0aV9XblZZN0xDM2w?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 04 Aug 2026 16:14:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjJ3VFZha0RvajYzbE1YbTFDSVdpOTBDX0k5WHZsc2xsWUNlY3hqMzV6YmVaUkthdkZLbnFGWEw0NUd3RXB2RnVET0FtVFFLbS1XbkplSUZxay03bnh6a0hteVprU0dub042eHFBMExyOVBNcnFjUXE0QldMM2FRNE81Z3hwSkRXenFEQ1djQmJKNTY0QkxabzBWSmdtWU5UYWM0endsWjI0aV9XblZZN0xDM2w?oc=5\" "
     },
     {
       "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
