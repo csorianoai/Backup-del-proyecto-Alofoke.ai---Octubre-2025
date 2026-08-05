@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Lluvia intensa pero corta: el pronóstico revela cómo será el evento de precipitaciones en Santiago",
+      "url": "https://www.latercera.com/tendencias/noticia/lluvia-intensa-pero-corta-el-pronostico-revela-como-sera-el-evento-de-precipitaciones-en-santiago/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 05 Aug 2026 21:00:00 +0000",
+      "summary": "La lluvia regresa a Santiago este jueves 6 de agosto con viento fuerte y precipitaciones intensas en pocas horas. Revisa a qué hora comenzará y qué sectores de la Región Metropolitana serán afectados."
+    },
+    {
       "title": "Precipitaciones y viento: las 10 regiones que comenzarán a sentir el sistema frontal desde este miércoles",
       "url": "https://www.latercera.com/tendencias/noticia/precipitaciones-y-viento-las-10-regiones-que-comenzaran-a-sentir-el-sistema-frontal-desde-este-miercoles/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "La Dirección Meteorológica de Chile (DMC) pronosticó lluvia para Santiago esta semana. ¿Cuándo llueve? ¿Qué sectores de la Región Metropolitana recibirán precipitaciones y viento?"
     },
     {
-      "title": "Estas son las señales de que tienes un trastorno del sueño, según especialistas",
-      "url": "https://www.latercera.com/tendencias/noticia/estas-son-las-senales-de-que-tienes-un-trastorno-del-sueno-segun-especialistas/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 29 Jun 2026 10:01:00 +0000",
-      "summary": "Se estima que más de 850 millones de adultos padecen insomnio a nivel mundial. Se trata de uno de los trastornos del sueño más comunes. Sin embargo, no es el único. Estas son algunas de las afecciones más frecuentes que dificultan el dormir, junto con sus síntomas y posibles causas."
-    },
-    {
       "title": "Inteligencia artificial en minería: cómo Chile redefine su liderazgo con datos, automatización y sostenibilidad - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcVBJYUliNGlEMGRlWHFPRm9lNlBhTHlpRFFiS2ZJekNJTm9CX0V6eGZNSVVkcHMwR3JZNGp4NFpmYzU3SjEwdmNsREkxSFB3VUZMYjA5NmNLWjVlUVhzTHc0VGREOFdhRWpPdU1nRk5uS21UQWhvd1RHal8tRFhrVkp0aTVOZWs5RDM1NW1nN01uYnllQVk4ZWV5bnFoU3ZFRW8yXzc1RWt5eTR3M1RmbEp6ZThBc1dVOEdZZlE1dmNqcWdjc0w1TnF6OWJRV3JtWkdIUnFpRHhDTTJSMUhsTEdkaE1VVnU4TWFpSG5ZWXF0UFk?oc=5",
       "source": "Google News",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0tGcndCMmV6QlU4bnI4Wm5PUFNlN193NFZQVzRzdWEyRVR1Tlo0bmlfcTRrNXlSSmVoanVHdzFmWEFRX18tV2xoQzJpdGcyTzc5X0FDa3QzVjVjcTFhZC1Sbm0zUjFLMElDZU1ETmM2RVp0cGp0cFlna25oUDR3VGNkMDVPbG12amlQbF9YVWx0a1lfQW5GN1ZaZmlwT0pqUW9DZlh4WmxvaTZu0gHAAUFVX3lxTFBxcl"
     },
     {
-      "title": "NPU vs GPU: diferencias clave para PC con IA - HP",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGJZdjRrXzNiaVhXRnhoM0VGNm9vLVJJb0dBTjdyLVNvQnh3ajNEOExUTG03UzE5eGE5UEU0NVB0WHZwSmg1bDZxa2d5cEhOd0ZRcm9iYlFaNm5XSEZpZ2V0bUV0bXVvRmJCU3BESUtXcUNzZHhYVmNiUEl2clduaGM1UEkzbnJJV2x2T0F6d2JBRFNZaDBWSWhR?oc=5",
+      "title": "Seminario abordó desafíos de la inteligencia artificial y la comunicación actual en Chile - ACI Prensa",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZEWWdqSHBPMlVPeVlwQmZKa1FLOGpBZW0zbXZna1FPdzhJMFZJNXVWMEJLWTJrTlRaMWVNaUtaNnBzRThvS204X0RsXzlMMVlQLU1HZ3lBNkpSNS13VW9ob25ScGljWWZnVThXTloya2cwbFhXNWtWbWpKZjh0ZGNXUjVUbmVOU3VBNzlRUFBhUdIBlwFBVV95cUxOcXRUWFZnTVJJbDlreWRULUFmQTFkN0NzQkFQR2dfbDhfYWsya1FxaFFabEZGRkh6UUlNOVJ3aWV1ekRWemQxTTIzdDFuSElzNHE3MzNxNlBVVjhqQUd0T193ZFdSZjUzaGs1ZzFKcG1hWEpvUlFlTnFxYndmV3ZnS3hqMkVOdHhHbEdZMVVpeU1mQlRWS0NR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 02 Aug 2026 18:05:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGJZdjRrXzNiaVhXRnhoM0VGNm9vLVJJb0dBTjdyLVNvQnh3ajNEOExUTG03UzE5eGE5UEU0NVB0WHZwSmg1bDZxa2d5cEhOd0ZRcm9iYlFaNm5XSEZpZ2V0bUV0bXVvRmJCU3BESUtXcUNzZHhYVmNiUEl2clduaGM1UEkzbnJJV2x2T0F6d2JBRFNZaDBWSWhR?oc=5\" target=\"_blank\">NPU vs GPU: diferen"
-    },
-    {
-      "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
+      "published": "Wed, 29 Jul 2026 18:01:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSzZEWWdqSHBPMlVPeVlwQmZKa1FLOGpBZW0zbXZna1FPdzhJMFZJNXVWMEJLWTJrTlRaMWVNaUtaNnBzRThvS204X0RsXzlMMVlQLU1HZ3lBNkpSNS13VW9ob25ScGljWWZnVThXTloya2cwbFhXNWtWbWpKZjh0ZGNXUjVUbmVOU3VBNzlRUFBhUdIBlwFBVV95cUxOcXRUWFZnTVJJbDlreWRULUFmQTFkN0NzQkFQR2"
     },
     {
       "title": "Santiago Siri y la inteligencia artificial en la medicina: “Llegará un momento en que no usar estas herramientas será considerado mala praxis” - Infobae",
@@ -83,12 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOM0gxMi1lVUItZVl2eHVmMVd5MkNNNEYyQVRCcXRVM1NSR3Z4blM4Wk9WV2VsZS1SNjhUNlk4X1JRX2h4TF91Q3JpZmcxZEVRcGJKdjczN3JHVk9jcWNnb2szN2tFTkJZUnptNUtQNHp2enQwcmpISjMxQTZsRVd0c3BqbDdwY3NLVUMydlBDbURoMjRkRXBITFZ3dVlfS3RabFJmcVl5eHBGZ1g4ZDZscWRZWlpycGI5RF"
     },
     {
-      "title": "Lideramos el uso de la IA. Usar no es dominar - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWhLQTl0aXlrdF9MZXVxSjBSRHBreDBqdjVjSWdTRHptMGl5emNKaGExdGJsdktVNnk2NEFTSGpLREFtb2M0T3FZUFVwY0djbkxHNFdjOFdKQWl6T0ZaQk1neW5VUDhyekNuc2dnd0pqU2xqX0NXOWpKTnhsVEw0WUNWTlZPZ2NybzJWMjYzdTVsbEgzc3ZuR015YXYzeTVlT2lrZEsySFBTcXU0djNhSHF1YUg5RU1KaE9tcjhB0gG-AUFVX3lxTFA0Q2tOcnNmeTBJaDdOUDgtb0ZFeTZ1eGQ1b3EtdTFFcmVBWm5EZGZJTzBoZ3h4NW9DMTFubUxINUxOX2RQVnUyZmZNTVhiUmFuRzhJZW95aTRVS1ZFUmktbGRwVXF5YUlZLUV2aE5OcWhOaU1tdnEwUURZTnk1dWxNWjFyNHlBUXY4V201WHFod0s5THN3b3lMSzFzMGI0ZEUzc2dMQ0N3WHRWSzY3QktETWhQR3NPOENJbkN4UEE?oc=5",
+      "title": "Santiago Bilinkis: \"La inteligencia artificial será una de las principales palancas de presión en las disputas geopolíticas\" - MDZ Online",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0Q0bmtaMV9VQ0xxUi1mYm85VFZUMTc2RkExY2k3QkNTMDJCM2FLa1NlekttMHNkTXFkaWhhenI5Rkx0S1gtb005bHFFZDNYWmt6bWZxQlpXdU05dVRwRC1tMnkzRXVXRW9lUXp1VGs2MFllSFdXYTJJc1hZaFFCN1ZkbGp3ajMxY05jSGxibVZGMDBKTUlPZnFmdzZQZnJQRTk3RlBlb2xXWUZWV1pfdm5OcmxLV0VwSEQzNzA2UDNrMmYyalA4M2dOdmxKZWt5QXVsSk94Z3VnQmRwRVFjbVNrSGNXRjjSAewBQVVfeXFMTmhoX0RDWkY3R2tEREdHOTVaUmdHOElTeTZoLU5XS0VyMWVsTGZrODNGWmxYX2c1OWRqTVU1ajVZRzdSLXRLdGNSLW5UcUVTWmZ5NHhNLWFVRld2TVBMTXJ3T0hKYUxHT2QxOHB6bU5JWVJzbTVWY25VbUppZHZMZnlHa2l2d3JFNENrZ0R2VHRvMVJ6M0dWWk9NT0pCTnZMTExpX3l4T2VFSW83UFNfLUpGa2pPbktVRDVpZ2RVVU1td0hnencxSFJHMWtTd3J5UjNFLW4xcmVOa1k5T2NMWkladWhsc3psUVJFbzI?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQWhLQTl0aXlrdF9MZXVxSjBSRHBreDBqdjVjSWdTRHptMGl5emNKaGExdGJsdktVNnk2NEFTSGpLREFtb2M0T3FZUFVwY0djbkxHNFdjOFdKQWl6T0ZaQk1neW5VUDhyekNuc2dnd0pqU2xqX0NXOWpKTnhsVEw0WUNWTlZPZ2NybzJWMjYzdTVsbEgzc3ZuR015YXYzeTVlT2lrZEsySFBTcXU0djNhSHF1YUg5RU1KaE"
+      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0Q0bmtaMV9VQ0xxUi1mYm85VFZUMTc2RkExY2k3QkNTMDJCM2FLa1NlekttMHNkTXFkaWhhenI5Rkx0S1gtb005bHFFZDNYWmt6bWZxQlpXdU05dVRwRC1tMnkzRXVXRW9lUXp1VGs2MFllSFdXYTJJc1hZaFFCN1ZkbGp3ajMxY05jSGxibVZGMDBKTUlPZnFmdzZQZnJQRTk3RlBlb2xXWUZWV1pfdm5OcmxLV0VwSE"
+    },
+    {
+      "title": "Día de las Niñez: más de 10 actividades gratuitas para niñas y niños este sábado y domingo en Santiago - El Desconcierto",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlYtMVEtbl9lSF9XNXQ3TnhFOVR3TTktTE1Rcmc5azVOTl9ScGRDY0VMX0swZU1TblVpcTRUOWpEdUtLeHlYSUZ2OGZlYVhmWVdBQjNVUTZFYkE4SHpKdUM5b2s2UzNodDFXdjQ0ZWZnV29yaXFlOVUxYUhObmEtc0VHTE9zeEZzdmtPd1p3S0JDSWhmdWtTbFNpRFRJYUJKbnNEeGNBd3NzcEdMaHFkcGh5VzdDVXBqb3ctbjBrT3JCcHFjM3hTUUpwZ1o4UQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 23:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlYtMVEtbl9lSF9XNXQ3TnhFOVR3TTktTE1Rcmc5azVOTl9ScGRDY0VMX0swZU1TblVpcTRUOWpEdUtLeHlYSUZ2OGZlYVhmWVdBQjNVUTZFYkE4SHpKdUM5b2s2UzNodDFXdjQ0ZWZnV29yaXFlOVUxYUhObmEtc0VHTE9zeEZzdmtPd1p3S0JDSWhmdWtTbFNpRFRJYUJKbnNEeGNBd3NzcEdMaHFkcGh5VzdDVXBqb3"
     },
     {
       "title": "Start-Up Chile BIG 12: 59 startups con 60% en IA y $75M - El Ecosistema Startup",

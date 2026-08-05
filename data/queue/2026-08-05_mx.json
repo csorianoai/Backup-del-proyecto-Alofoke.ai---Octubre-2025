@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "“Utilizaron mi cara para promocionar remedios falsos”: influencers hechos con IA venden una falsa idea de bienestar",
+      "url": "https://expansion.mx/tecnologia/2026/08/05/influencers-hechos-ia-venden-idea-falsa-bienestar",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 05 Aug 2026 22:00:39 GMT",
+      "summary": "La facilidad de crear influencers con IA a bajo costo, incentiva la desinformación y compromete el bienestar de los usuarios, debido a que facilita la difusión masiva de consejos de salud sin evidencia científica."
+    },
+    {
+      "title": "Google reorganiza el liderazgo de IA para acelerar Gemini; Demis Hassabis deja DeepMind",
+      "url": "https://expansion.mx/tecnologia/2026/08/05/google-reorganiza-el-liderazgo-de-ia-para-acelerar-gemini-demis-hassabis-deja-deepmind",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 05 Aug 2026 20:00:08 GMT",
+      "summary": "Google redistribuyó las responsabilidades de sus principales líderes de IA para acelerar la innovación en Gemini y reforzar su apuesta por la inteligencia artificial general."
+    },
+    {
       "title": "Disney se alía con TikTok para permitir los videos oficiales de sus películas",
       "url": "https://expansion.mx/tecnologia/2026/08/05/disney-tiktok-acuerdo-videos-cortos-peliculas-series",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "La rápida adopción de inteligencia artificial disparó la demanda de este perfil, mientras la escasez de especialistas es uno de los principales obstáculos para que las empresas implementen esta tecnología."
     },
     {
-      "title": "ChatGPT comprará tus boletos a conciertos en 2030, pero no para Taylor Swift o Bad Bunny",
-      "url": "https://expansion.mx/tecnologia/2026/08/04/chatgpt-comprara-tus-boletos-conciertos-2030",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 04 Aug 2026 23:00:43 GMT",
-      "summary": "Se prevé que chatbots de IA asuman compras de eventos cotidianos. Sin embargo, para giras masivas la automatización quedará bloqueada para frenar a los bots de reventa."
-    },
-    {
-      "title": "SpaceX y Nvidia se unen para crear centros de datos en el espacio",
-      "url": "https://expansion.mx/tecnologia/2026/08/04/spacex-y-nvidia-centros-de-datos-en-el-espacio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 04 Aug 2026 21:23:27 GMT",
-      "summary": "SpaceX, la empresa de Elon Musk, reportó ingresos de 7,814 mdd y demostró que Starlink es su negocio con más ingresos, seguido de xAI."
+      "title": "Inteligencia artificial eleva hasta 45.8% la producción en sectores estratégicos de México - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVNfSXYwSWVWeUdBNTZDLUd2eU9UWFVOSVFyVWl0Q0NxTHhCNzI4SHgyTkFaUkdNU3pLR3RjUC0tMllMVUFwbzdVNmR5ay1wMlFJM2ZxT2VOR0I5X0R0Z2hKaEZYUUV4Nmd0cGtCaWVDUERlYUhlTXFINWxEbWRUMzFHc2w5VTl6Y21SUFc3eTFqbTRfMEZ4MTYtVmNlSTFGWHR0bmVMb1FpQTZZNGZ2WU9XRDd3QVlrSVk3SGZhOWpQX09JUVhfVTBDYnNfZ2ZuS2xmSNIB2gFBVV95cUxNWDJIanBHV3ZkbDdyVXVOeTdqZzlfVXVKMnhRY0FoWks0al84NmpFX0JQZnZQcHdMT04tZ2drRlhFanNQeEc2V3BoNENFd1U2aDRsQXFPRzczZUc0QVV0ZHBVaDFSaVdRQnktUlhuQzhyV3J0QU9uMWV3YVljRjVteDBKY2EzUFdia0l0eTQ1bldGak9DRlJBdXNqaWFDbmlvMDV4QThXZWd0M3puZHVFYk11OFUwYTZGMDlBTFY3azZzSGs2TlMta05nV3hYX3hqRkE3ckdqSFVKQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 05 Aug 2026 20:08:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeVNfSXYwSWVWeUdBNTZDLUd2eU9UWFVOSVFyVWl0Q0NxTHhCNzI4SHgyTkFaUkdNU3pLR3RjUC0tMllMVUFwbzdVNmR5ay1wMlFJM2ZxT2VOR0I5X0R0Z2hKaEZYUUV4Nmd0cGtCaWVDUERlYUhlTXFINWxEbWRUMzFHc2w5VTl6Y21SUFc3eTFqbTRfMEZ4MTYtVmNlSTFGWHR0bmVMb1FpQTZZNGZ2WU9XRDd3QVlrSV"
     },
     {
       "title": "Solo China supera a México en exportaciones de insumos para IA - WIRED",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 05 Aug 2026 17:24:29 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQTW9PUDVSajUtVUNYVjdST0lGSXRZNGJvcVV6WldteUtuYTdnSlFCZlBtUkxYVE5OZTgxTWxvTmpudGJwSl85ZWJaVGxudGstMWNKY2JKVmhGY3ZEaXMwZlpEeDJQRE5NWFpYU296SWNPLXQxQnV0LVRuZGhVc0YwajhaT05VNG5YZG9oRGlOaFRUU0k4OVNidm1R?oc=5\" target=\"_blank\">AMD apuesta por Méx"
-    },
-    {
-      "title": "Violeta Hsu: “México puede albergar uno de los principales parques de inteligencia artificial de América Latina” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmdTUlFzYW5IOFdmUmxBNUhRb1RIcl9WVVg0N3hlZHdQeXg5dnI0S2U2RlFDdmFRRVhFajNSSXFkNk1YbHJtbDRDbUV0bXBzTWxKQVNPNzdpRUEwQ1dCeXpzdnA2ZE9kRG52bE91elpMZUJvTnpkdnlORy1paE9KNnRKMnM4X2w1NWtuWnZ1OHVHWklkNzZHSGxSZExDNlBxX2IwTjlGOE5xbUFiZ3R1eGlpOHp0a2M5SDRzWG9sVnEyN3pUcXM4aEhjdXVQOGVYZHYwSkFRaTdpVlg1MUR6YzZ4UVgyN0FuaVFyX2lUWkFmUdIBhgJBVV95cUxNOEJIZUQ1ZGZoU2hpTDRFX2U3RlUxUFVjZHRXcE9hLXYtYU9FVy1UaUdCWmFTdWFyandoS0t6Q2t3TVZCM1BrT2JHZWlPZUptNDFMakZPYWlVZDU1UUQwZ1FkM01QaXN6SndPZ1ZkNnExR3d4V1lEY1QzN2RadTdRR3QzUlRmN3BFWXI1bXBQQkxDcWN5ai1jVW9MLVZKVFJoc1NGeExrcllfNktnNjJQdUp6RjUxQzNCQ1hIZGhKY1RqTmFjSk12aHNLN0ZKVEtyZUNQVWw4Q0xLSDdsWHQtWFVJdTl5SlRydkttVU01Uk0xWDFRaEwzYkFhMGxqTVhCdlNWUmFn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 02 Aug 2026 04:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUmdTUlFzYW5IOFdmUmxBNUhRb1RIcl9WVVg0N3hlZHdQeXg5dnI0S2U2RlFDdmFRRVhFajNSSXFkNk1YbHJtbDRDbUV0bXBzTWxKQVNPNzdpRUEwQ1dCeXpzdnA2ZE9kRG52bE91elpMZUJvTnpkdnlORy1paE9KNnRKMnM4X2w1NWtuWnZ1OHVHWklkNzZHSGxSZExDNlBxX2IwTjlGOE5xbUFiZ3R1eGlpOHp0a2M5SD"
     },
     {
       "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Estudio: ¿Cómo se deben preparar las universidades para la era de la IA? - Observatorio / Instituto para el Futuro de la Educación",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5",
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYzB2LXo0MUpfNDNleGI3Vnd5SDN6QUdNck1tN19YRDZGcFphZmJxWGJzYUMzZGwxdzlxRmFjMjUyOU0yTkkwNldwV1BuUkdVRElJVi02clJtMXhURnBVTG9xX3RDVnpNa1dGUEUyOHhXdUR5X0lERzNiUFplSWlYWnZCempKd1Q2eXdXdFhiR19JcU5IM1dfcmR1MmNFXzQ?oc=5\" target=\"_blank\">Estudio: ¿Có"
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
     },
     {
-      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
+      "title": "No buscamos una IA que disminuya capacidad de pensar; Tec de Monterrey va por uso reflexivo - Imagen Radio",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZDB2WnlRYVJBdlh5YWdSN3publZ1SmlOdWZuNtIB2gFBVV95cUxOd01ramJfUFVxVlZrckRmRTN5a1NFU2xBVTM4MlQxY1FPNkpUOERVWDVBaEdsZHZGcmR3V0RxelA0cnBkeldkaUF4aVVLZldEXzlBWlNzUmpZRW9jTlF1SVhaYl9SUWVsNlNqRkxnLXo5TURtcUFaY3RXQ3N2N1Z4RmpWYnNoV1pnM3ZlWmtVSjJrZ3hJdnhDelBFZlViaHRIcDFZQkE1QUNwWjhpU2xIWms0VWVZYlo1RzYyZ0hJMjFWcHVFZXNablFBQ29kLUd5SXdtejI0bExPZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZD"
     }
   ],
   "count": 14
