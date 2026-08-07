@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Anuncian un “fenómeno inusual” de lluvia y nieve en Santiago: cuándo y cómo será el evento",
+      "url": "https://www.latercera.com/tendencias/noticia/anuncian-un-fenomeno-inusual-de-lluvia-y-nieve-en-santiago-cuando-y-como-sera-el-evento/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 07 Aug 2026 20:00:00 +0000",
+      "summary": "El pronóstico para Santiago da un giro drástico: un frente frío con aire polar traerá lluvia, posible nieve y aguanieve en la Región Metropolitana, además de heladas y temperaturas bajo cero."
+    },
+    {
       "title": "Heladas en la Región Metropolitana: qué sectores serán los más fríos del fin de semana",
       "url": "https://www.latercera.com/tendencias/noticia/heladas-en-la-region-metropolitana-que-sectores-seran-los-mas-frios-del-fin-de-semana/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Fri, 07 Aug 2026 10:01:00 +0000",
       "summary": "¿Vuelve la lluvia a Santiago este fin de semana? Revisa el pronóstico actualizado para la Región Metropolitana, la probabilidad de precipitaciones y las heladas que podrían dejar temperaturas bajo cero."
-    },
-    {
-      "title": "¿Cómo evitar el riesgo de enfermedades cardiovasculares en la menopausia?",
-      "url": "https://www.latercera.com/que-pasa/noticia/riesgo-enfermedades-cardiovasculares-la-menopausia/962743/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 02 Mar 2026 20:49:00 +0000",
-      "summary": "Desde los 50 años comienza un aumento progresivo de la mortalidad en la mujer, y después de los 60, este incremento es mucho mayor que en el hombre. Considerando sólo las muertes por enfermedad cardiovascular, el 35% se produce en mujeres, frente al 28% en los hombres."
     },
     {
       "title": "Un proyecto de inteligencia artificial amplía en un 60% la capacidad de transmisión eléctrica en el sur de Chile - BNamericas",

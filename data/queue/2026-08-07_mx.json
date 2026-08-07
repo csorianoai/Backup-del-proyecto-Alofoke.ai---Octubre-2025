@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La cámara del Huawei Pura 90s Pro Max logra lo que ningún iPhone puede hacer",
+      "url": "https://expansion.mx/tecnologia/2026/08/07/camara-huawei-pura-90s-pro-max-logra-lo-que-ningun-iphone",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 07 Aug 2026 22:00:07 GMT",
+      "summary": "El Huawei Pura 90s Pro Max apuesta por innovar desde el hardware fotográfico con una apertura variable mecánica y un telefoto de 200 MP."
+    },
+    {
+      "title": "Nintendo Switch 2 será más cara en México: revelan el nuevo precio y el motivo del aumento",
+      "url": "https://expansion.mx/tecnologia/2026/08/07/nintendo-switch-2-precio-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 07 Aug 2026 19:00:08 GMT",
+      "summary": "Todavía quedan unas semanas para adquirir la consola con los precios actuales; después del ajuste, el costo sugerido será el más alto desde su lanzamiento en México."
+    },
+    {
       "title": "TikTok cerrará su oficina en Nashville y despedirá a 250 empleados",
       "url": "https://expansion.mx/tecnologia/2026/08/07/tiktok-cerrara-oficina-nashville-despedira-250-empleados",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Todos los usuarios de planes Free y Go en ChatGPT comenzarán a ver anuncios como parte de la prueba piloto de OpenAI para vender publicidad en su agente de IA."
     },
     {
-      "title": "Switch 2 llega al Top 10 de las consolas más vendidas de Nintendo",
-      "url": "https://expansion.mx/tecnologia/2026/08/06/nintendo-switch-2-top-consolas-mas-vendidas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 06 Aug 2026 17:00:22 GMT",
-      "summary": "En el segundo trimestre del año, el dispositivo vendió 3.82 millones de unidades sumando un total de 23.68 millones de consolas."
-    },
-    {
-      "title": "El Banco Mundial asegura que los países de ingresos bajos y medios tienen más oportunidades ante la IA",
-      "url": "https://expansion.mx/tecnologia/2026/08/06/economias-emergentes-tienen-oportunidad-ante-la-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 06 Aug 2026 15:00:45 GMT",
-      "summary": "La organización internacional sostiene que las economías emergentes tienen más oportunidades que riesgos con la IA, si invierten en infraestructura, conectividad y capacitación."
-    },
-    {
       "title": "Becas para estudiar inteligencia artificial en universidades de Italia y México: cómo aplicar | El Colombiano - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUJaUy1nTnBHczYyMFdMOXZuM2VJb0l6ZzcwOXNqV0NsMGNFdEg5bDhxSTIzOHJEalNNU1NaM2dDc2x2c01xZ09Cd0VPRWxMUFpBRk9LR3dxYXhpRG9RangxS2wyLWJKX0IyRmRtODE0UUtHenBKUGo5a2ZGNlhuNEQtcVNlU0JTdzBncmRxNWVSaDNTWElNSy11VF9RejU4MldfTVJvV3haUDR3bWMtLW5jMWQxamZSTVlRY3Y2Mm0zMTBJeWZZZ05hZlZsZ1NIMVFyeDBLUdIB3AFBVV95cUxOV1hKLXBjd2NzUUlPbm5CME4zOVRlTjk5cWtKMFIxV0JYYmQ2Vmx3cVJvVGNUdlg1X0xDaGxkR0lOdy1qVURScXJ2MUliQk9wYVE2RFAySEJhb0NLTW1zY1pINzJTMVVTOXBNUnVvb21PMm13TGRuYmhONjdmM0IxODBkVUNLQ0liTGxVLWZtVmM0cU4tSVBaNGlPM2laTWoyU1JKU1pjc3hqTUtGRFM5YVZpeDJQcFlNdHFxWEJFeXlVQjhsS04xbjdicXY0SE1pa1Q1dlFaeFZkU3ht?oc=5",
       "source": "Google News",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUJaUy1nTnBHczYyMFdMOXZuM2VJb0l6ZzcwOXNqV0NsMGNFdEg5bDhxSTIzOHJEalNNU1NaM2dDc2x2c01xZ09Cd0VPRWxMUFpBRk9LR3dxYXhpRG9RangxS2wyLWJKX0IyRmRtODE0UUtHenBKUGo5a2ZGNlhuNEQtcVNlU0JTdzBncmRxNWVSaDNTWElNSy11VF9RejU4MldfTVJvV3haUDR3bWMtLW5jMWQxamZSTV"
     },
     {
-      "title": "IA y ciberseguridad son las prioridades tecnológicas de las empresas en México y el mundo - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbndCOWdjNmNrX29QZmVZR000WVQyX1VYN2ZuVFhRQ081ajE5RGd0LTB0aEt2eEZRSERRUUNuQUpEcFdPQ2xDVWNoWW1CYjhGQkQybzdBaGVtWnZBQjhHSnFmaWxfUFktc29FcTVFSXhxbU1FTVV6VkxYY0l4dWhjU3hOalNqUlV4Vkg0LWQ0bjFWUE9LajVZYTl2Nkt1MWk1M1paYWh5bklRNE9UMUdfd2FjeUlwSkxTZjZ5N3pvX1ZFYy1HV0VMOTJ6c2LSAdIBQVVfeXFMUEt6dnRZSk9jRTUzOUwzcnV4eGl6UUlHVElBY19HVUxuS1AtNTZtZzNBdkZXYU5YZm9SUm5wYVBScW10NHluTTlhWWpGSGdTQTJ2eU1zUDdJV0lJMnpGSmtCVkJTMXhuZWJreVhwWEkwQVUyX3NOVzhMODVqNGpRZTkzOVh3enlGVVBqMVNBeG5uUzl3aS01LUNLRFREd0hkZEVVM29BOEYtMFBNbXJEbUIxZGJPOHRCbVQ2WGFmOEl2di1fa21KckhpR2RFMURSTG1B?oc=5",
+      "title": "Matías Umashi: Payana apuesta por agentes de inteligencia artificial para automatizar pagos y procesos fiscales - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObVY4Ykd0RnQwRlY5bElpNmMtbXphREd5TVpDQ09rWGVUdU9kR21ReFBiNXlGSmhUakxXT0NFWnZWSTViRTEwR2NqdWVBNk0wbUdjNE9aX0d0OHNpTmNhZVRQMDBtZ0FEY0RoS2lDN2k0ZXUyYS1ESnNWck9Ec0xVSmRWamU1Q2RHYUdkWjNVcmo5ZTZ3UzdRN1otZ09ScTI0R2FUaEwwUEtBbDdHZ2tVTEZnd0pGNVYyNkVRR0s5TDQ1Q3NvRmFiUFdfaVdoVEEwdXlfZ0UwSy1LRGlVc2duRjdn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 07 Aug 2026 14:18:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbndCOWdjNmNrX29QZmVZR000WVQyX1VYN2ZuVFhRQ081ajE5RGd0LTB0aEt2eEZRSERRUUNuQUpEcFdPQ2xDVWNoWW1CYjhGQkQybzdBaGVtWnZBQjhHSnFmaWxfUFktc29FcTVFSXhxbU1FTVV6VkxYY0l4dWhjU3hOalNqUlV4Vkg0LWQ0bjFWUE9LajVZYTl2Nkt1MWk1M1paYWh5bklRNE9UMUdfd2FjeUlwSkxTZj"
+      "published": "Fri, 07 Aug 2026 17:28:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxObVY4Ykd0RnQwRlY5bElpNmMtbXphREd5TVpDQ09rWGVUdU9kR21ReFBiNXlGSmhUakxXT0NFWnZWSTViRTEwR2NqdWVBNk0wbUdjNE9aX0d0OHNpTmNhZVRQMDBtZ0FEY0RoS2lDN2k0ZXUyYS1ESnNWck9Ec0xVSmRWamU1Q2RHYUdkWjNVcmo5ZTZ3UzdRN1otZ09ScTI0R2FUaEwwUEtBbDdHZ2tVTEZnd0pGNVYyNk"
     },
     {
       "title": "Abren becas para estudiar inteligencia artificial en México e Italia - Noticias RCN",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1RsbFR2cnVmbjNPTEw4cFpVY1ZBX3Z6VmNYMkNaZkFZRGprVS1PUW5OWnpqbkVMUFBaM0Z5T2pIZjVLWDJWOWVXdEd4V1RuaEI1a0VadDFueDhoQ1haUXRSUEhLcUh1RS1zQjBZUUdOUlpPbnV1WmlkaWQ0NUVRMFVZNFlBYUowY19ZNE5PaF9rVUF4UV9JYnBuQzhEc21aUHNaSW1VeUg3OTNqeHJyVjkyaGVqWFI3?o"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - unesco.org",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",
