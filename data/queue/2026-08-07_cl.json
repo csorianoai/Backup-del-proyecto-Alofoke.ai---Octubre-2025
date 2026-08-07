@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-07",
+  "country": "cl",
+  "articles": [
+    {
+      "title": "¿Cómo evitar el riesgo de enfermedades cardiovasculares en la menopausia?",
+      "url": "https://www.latercera.com/que-pasa/noticia/riesgo-enfermedades-cardiovasculares-la-menopausia/962743/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Mar 2026 20:49:00 +0000",
+      "summary": "Desde los 50 años comienza un aumento progresivo de la mortalidad en la mujer, y después de los 60, este incremento es mucho mayor que en el hombre. Considerando sólo las muertes por enfermedad cardiovascular, el 35% se produce en mujeres, frente al 28% en los hombres."
+    },
+    {
+      "title": "Estos son los grupos de alimentos más dañinos para el corazón",
+      "url": "https://www.latercera.com/tendencias/noticia/estos-son-los-grupos-de-alimentos-mas-daninos-para-el-corazon-segun-harvard/W4RPNJ42JRGFVG7JHCBGN3JNWQ/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Oct 2024 09:14:37 +0000",
+      "summary": "De acuerdo a un equipo de la Escuela de Salud Pública de Harvard, los alimentos ultraprocesados en general están vinculados a un riesgo mayor de desarrollar enfermedades cardíacas, enfermedades coronarias y accidentes cerebrovasculares. Sin embargo, hay dos que podrían ser más peligrosos que otros."
+    },
+    {
+      "title": "Estos son los 8 hábitos para tener un corazón fuerte y sano, según la evidencia científica",
+      "url": "https://www.latercera.com/tendencias/noticia/estos-son-los-8-habitos-para-tener-un-corazon-fuerte-y-sano-segun-la-evidencia-cientifica/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Feb 2026 09:02:00 +0000",
+      "summary": "La Asociación Americana del Corazón identificó ocho indicadores clave que, según décadas de estudios, pueden reducir el riesgo de infartos y accidentes cerebrovasculares"
+    },
+    {
+      "title": "El “secreto” para tener un corazón sano que reveló un estudio científico masivo",
+      "url": "https://www.latercera.com/tendencias/noticia/el-secreto-para-tener-un-corazon-sano-que-revelo-un-estudio-cientifico-masivo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 06 Apr 2026 21:00:00 +0000",
+      "summary": "¿Y si cuidar el corazón no dependiera de comer menos, sino que de comer mejor? Una investigación realizada por expertos de Harvard planteó un nuevo enfoque sobre la alimentación y la salud del corazón."
+    },
+    {
+      "title": "Qué es el cáncer de las vías biliares, la enfermedad que provocó la muerte de una tiktoker de 26 años",
+      "url": "https://www.latercera.com/tendencias/noticia/que-es-el-cancer-de-las-vias-biliares-la-enfermedad-que-provoco-la-muerte-de-una-tiktoker-de-26-anos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 06 Aug 2026 21:00:00 +0000",
+      "summary": "Con más de un millón de seguidores en TikTok, Sydney Towle mostró el día a día de su tratamiento y buscó derribar los prejuicios sobre la vida de los jóvenes que enfrentan un cáncer."
+    },
+    {
+      "title": "U. de Chile presentó dashAI: plataforma chilena que permite trabajar sin entregar datos - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalB5M3AwbXptTWgwWWRkQlRsUXhTYzBkVmJET3dtWndpVEJrdk9NMmVfZnBKOTNTSFdVSncxbW56MG9UbUtIZUcyR0dfRlQ5TXVPY1dEYnM3aVBlOWRBRlhRbTU3Q1F1SHNZbmpWb3VJXzRVOU12OUo5R3RNd1pkdEF5bFBqZWRxOFpLY0NHcUg4TVFybnNVVm5NUV9NcW8yZGY4WnpBNTE2RGlx?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Aug 2026 21:15:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOalB5M3AwbXptTWgwWWRkQlRsUXhTYzBkVmJET3dtWndpVEJrdk9NMmVfZnBKOTNTSFdVSncxbW56MG9UbUtIZUcyR0dfRlQ5TXVPY1dEYnM3aVBlOWRBRlhRbTU3Q1F1SHNZbmpWb3VJXzRVOU12OUo5R3RNd1pkdEF5bFBqZWRxOFpLY0NHcUg4TVFybnNVVm5NUV9NcW8yZGY4WnpBNTE2RGlx?oc=5\" target=\"_bl"
+    },
+    {
+      "title": "Un proyecto de inteligencia artificial amplía en un 60% la capacidad de transmisión eléctrica en el sur de Chile - El Periódico de la Energía",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVldlNEc0UnJxTk5EcmVoQ0hPRXN3UmFaVGJRb0dfa3lPdXlOakdsYUNLOVB3TXZCYmNlWjFUSlJfUE5WcUZrVFlOU1l0NzlnWWRnbzdXZzBiUHNub0xFYW0wR2NhS2gtdkd5YUVCaUZtVHV3WUhhZ1hDZm90S3NmZHV6czAzX3cwQ1BwZ3NCRmNNS2lYdHlZUTYtd1ktMWdmSGt1Zm9zNFFiOVluRTZHd0xCQjl3RHA3bWFaUi13eG1XSTlYQW15bzZLZnlpdF96SnZ6Nk56bml0Ulp2ZHln?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Aug 2026 15:21:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVldlNEc0UnJxTk5EcmVoQ0hPRXN3UmFaVGJRb0dfa3lPdXlOakdsYUNLOVB3TXZCYmNlWjFUSlJfUE5WcUZrVFlOU1l0NzlnWWRnbzdXZzBiUHNub0xFYW0wR2NhS2gtdkd5YUVCaUZtVHV3WUhhZ1hDZm90S3NmZHV6czAzX3cwQ1BwZ3NCRmNNS2lYdHlZUTYtd1ktMWdmSGt1Zm9zNFFiOVluRTZHd0xCQjl3RHA3bW"
+    },
+    {
+      "title": "La Inteligencia Artificial como desafío estratégico para el desarrollo de Chile - El Desconcierto",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVlxa05OWGN3SlNUVVB4dTBtZWtacFp0REVkUDY1LWhnY3R1d0JwVTh2X2dFQTF2ZFRQTHZmVS0zT3JxR0RVNTNfUXRjWE0zUHRhRGpWYkJ4LW9zR3E5WlJUS1F0dWp5WmhPUTlFMHROek9RaS10eFR5N3F2dGNxUE16al9DUEVLVWtDR2pTc3czY01qbHRuekgtN1NidEpnSDRfcnNxbElVdUZES0gyNFhZcTU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Aug 2026 09:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVlxa05OWGN3SlNUVVB4dTBtZWtacFp0REVkUDY1LWhnY3R1d0JwVTh2X2dFQTF2ZFRQTHZmVS0zT3JxR0RVNTNfUXRjWE0zUHRhRGpWYkJ4LW9zR3E5WlJUS1F0dWp5WmhPUTlFMHROek9RaS10eFR5N3F2dGNxUE16al9DUEVLVWtDR2pTc3czY01qbHRuekgtN1NidEpnSDRfcnNxbElVdUZES0gyNFhZcTU?oc=5\" "
+    },
+    {
+      "title": "Bajo cero en Santiago: este día de la semana bajarán drásticamente las temperaturas en la Región Metropolitana - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajJOMkFJTWg2eXlYWlh3cjFKdjZRN2RLY0dCUDZDTlZBLTdzQmdnYkY0RWlNWTktYThSRllSWVN6MVBzeHZfLS1uZm1kZmdmUUFUQ1JLRzN0VWZoV1JzejFXZXZXWkczNjRmWnplMVhTSDE0YTdUQllJZE5OX2J6dWpHNDg1SHFGdGtmeGFFYVhTY0FkczVZRE1Bb2lZdEFNeWFndzhOLTB0UkYyVGJNdzZlRnUtM1NOM2tSVk0xZjR3aTNYMV9tYWpKbTdoRnQ3Z1djVVJaN3lPZTh3X19Tbk54SVVabnJjcDVj0gGMAkFVX3lxTE1IRG1JWUoxTkNYUlJTYy1COGlYeUpCOEhzdUJ5U2JTWGJQS0VRbXlLU05CSURzbTIySXFITDFuUGFIVEltUXhfY1hSZk80R0QzNTdGZUJfYmVnTE1zM3MwSTgycWkydTVpR0tRZFpFa20tYVVtNkw5Z0xRbDNVR2psZ2xTc1lWZkFZZjFFUlphTTJPYnZUWjZYZEhSeWd4OXhoTFplakpkclZHbHNKSDdNWGYySWUyYXVDX1FHN1dINGNMemtLalI0bVBKQXF3TVVHb3R1S0JFWnF2eHBKSzY2eEpEYW10WUxXMDFrcW1VMWNJaDVaSkxNU1QtY1ZjNHM0bk1EZzNLc2s4eEY?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Aug 2026 10:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajJOMkFJTWg2eXlYWlh3cjFKdjZRN2RLY0dCUDZDTlZBLTdzQmdnYkY0RWlNWTktYThSRllSWVN6MVBzeHZfLS1uZm1kZmdmUUFUQ1JLRzN0VWZoV1JzejFXZXZXWkczNjRmWnplMVhTSDE0YTdUQllJZE5OX2J6dWpHNDg1SHFGdGtmeGFFYVhTY0FkczVZRE1Bb2lZdEFNeWFndzhOLTB0UkYyVGJNdzZlRnUtM1NOM2"
+    },
+    {
+      "title": "Santiago Siri y la inteligencia artificial en la medicina: “Llegará un momento en que no usar estas herramientas será considerado mala praxis” - infobae.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOM0gxMi1lVUItZVl2eHVmMVd5MkNNNEYyQVRCcXRVM1NSR3Z4blM4Wk9WV2VsZS1SNjhUNlk4X1JRX2h4TF91Q3JpZmcxZEVRcGJKdjczN3JHVk9jcWNnb2szN2tFTkJZUnptNUtQNHp2enQwcmpISjMxQTZsRVd0c3BqbDdwY3NLVUMydlBDbURoMjRkRXBITFZ3dVlfS3RabFJmcVl5eHBGZ1g4ZDZscWRZWlpycGI5RFd2dlJZb2Rlb3NiWDd2aXhxMDgzR0tHUjRKR1FpZEhaYWtDMWJMNGNSaWk3WnJDcGV1N3VTMFV6LWw4N2tGWEgtbEdLNWpwT1l4RlIyOTZnLUN1V1HSAagCQVVfeXFMTVUwS1h4MW9TZ3U5bHZfRDFQSVEzN3AtLXNxT1RPbjhSdHNzV1JOajYzUFNXZm1wN3JWaVgyX1FmWFl2RWxoeUc5MTBSOTIydTdOZ2FIUFV2ekxOVldhUGd6RXYyOXo3TXRrLVhZLTQzaEs2Tk90d1JHLXR3TGQ1QlU0S1FNZXp5WkhPZUt1Uk9KZU1BNzFuZTJ0aW5PQnFCdTFXMUFpTm5SRUlWSjBGZFNrSlRzZ2RIZ20taXpjbTJvaVZvbkpyTENnd29oeHRibmZuN0E5QWFESVdwNExkZFhRUnJZU3ZBUlVScHRJc1BQMU9VckRhV3RDTWVzcHJGNkFoN2djUTFMWHZ1NkhtWklvVUl5RjNpaHBZWkJrMXlIRDRpUEhSdTE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOM0gxMi1lVUItZVl2eHVmMVd5MkNNNEYyQVRCcXRVM1NSR3Z4blM4Wk9WV2VsZS1SNjhUNlk4X1JRX2h4TF91Q3JpZmcxZEVRcGJKdjczN3JHVk9jcWNnb2szN2tFTkJZUnptNUtQNHp2enQwcmpISjMxQTZsRVd0c3BqbDdwY3NLVUMydlBDbURoMjRkRXBITFZ3dVlfS3RabFJmcVl5eHBGZ1g4ZDZscWRZWlpycGI5RF"
+    },
+    {
+      "title": "Santiago Bilinkis: \"La inteligencia artificial será una de las principales palancas de presión en las disputas geopolíticas\" - MDZ Online",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0Q0bmtaMV9VQ0xxUi1mYm85VFZUMTc2RkExY2k3QkNTMDJCM2FLa1NlekttMHNkTXFkaWhhenI5Rkx0S1gtb005bHFFZDNYWmt6bWZxQlpXdU05dVRwRC1tMnkzRXVXRW9lUXp1VGs2MFllSFdXYTJJc1hZaFFCN1ZkbGp3ajMxY05jSGxibVZGMDBKTUlPZnFmdzZQZnJQRTk3RlBlb2xXWUZWV1pfdm5OcmxLV0VwSEQzNzA2UDNrMmYyalA4M2dOdmxKZWt5QXVsSk94Z3VnQmRwRVFjbVNrSGNXRjjSAewBQVVfeXFMTmhoX0RDWkY3R2tEREdHOTVaUmdHOElTeTZoLU5XS0VyMWVsTGZrODNGWmxYX2c1OWRqTVU1ajVZRzdSLXRLdGNSLW5UcUVTWmZ5NHhNLWFVRld2TVBMTXJ3T0hKYUxHT2QxOHB6bU5JWVJzbTVWY25VbUppZHZMZnlHa2l2d3JFNENrZ0R2VHRvMVJ6M0dWWk9NT0pCTnZMTExpX3l4T2VFSW83UFNfLUpGa2pPbktVRDVpZ2RVVU1td0hnencxSFJHMWtTd3J5UjNFLW4xcmVOa1k5T2NMWkladWhsc3psUVJFbzI?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0Q0bmtaMV9VQ0xxUi1mYm85VFZUMTc2RkExY2k3QkNTMDJCM2FLa1NlekttMHNkTXFkaWhhenI5Rkx0S1gtb005bHFFZDNYWmt6bWZxQlpXdU05dVRwRC1tMnkzRXVXRW9lUXp1VGs2MFllSFdXYTJJc1hZaFFCN1ZkbGp3ajMxY05jSGxibVZGMDBKTUlPZnFmdzZQZnJQRTk3RlBlb2xXWUZWV1pfdm5OcmxLV0VwSE"
+    },
+    {
+      "title": "OktoberINVESTfest 2023: 2 startups latinoamericanas acceden a capital alemán - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEowc2VJTU9pZEdCWk16WjB3UWdnU1UwMXFDOGVaMkV4a0tpbXJLNUJESWwwVE9sZVVzV0hXY19zTklDTXNHSHUyWk42NGdtOUpQQVdvRnpZSDBmcE5RYmZVdVlSYTlwQWhGRFM5dTk0bG1YLUh6OWJrY3FMdDg1bzhDZ0l3V3BNbWJIMUN2OWV0R2lnRWZrYXZsR0xNcDQ1U2Z5TWVZSHFrZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Aug 2026 16:33:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEowc2VJTU9pZEdCWk16WjB3UWdnU1UwMXFDOGVaMkV4a0tpbXJLNUJESWwwVE9sZVVzV0hXY19zTklDTXNHSHUyWk42NGdtOUpQQVdvRnpZSDBmcE5RYmZVdVlSYTlwQWhGRFM5dTk0bG1YLUh6OWJrY3FMdDg1bzhDZ0l3V3BNbWJIMUN2OWV0R2lnRWZrYXZsR0xNcDQ1U2Z5TWVZSHFrZw?oc=5\" target=\"_blan"
+    },
+    {
+      "title": "La CChC lanza aceleradora para llevar tecnología de minería, logística y energía al sector de la construcción en Chile - tekiosmag.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWphWWZZRW53OXZzb1pwNU9lRFppMlAwMVY5dTlOSkVydllKcm9HRzB0WG5ESFl3SFJIamJKaDZaMkZWTTdVUFNyZTJPRE13OXVqeEJpMUFDcXJZS2VPTjUxNXdEaE4xWDBOOEp2NDVnZjVPcEI0LU11OGxfd21xRnRIQk9Nc3VFczl4ejVwUkp4RHo2eVNXUHdueVZjem0yUkE3c0lBbzFVb0ljRXlNNHpGalNVbGQ3S3BUYkhWVjRfWmtQN0tpRGpvcmJIeE1lSjZUUUpJNmhfdENlY1g3dmNSc19kUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 04 Aug 2026 06:38:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWphWWZZRW53OXZzb1pwNU9lRFppMlAwMVY5dTlOSkVydllKcm9HRzB0WG5ESFl3SFJIamJKaDZaMkZWTTdVUFNyZTJPRE13OXVqeEJpMUFDcXJZS2VPTjUxNXdEaE4xWDBOOEp2NDVnZjVPcEI0LU11OGxfd21xRnRIQk9Nc3VFczl4ejVwUkp4RHo2eVNXUHdueVZjem0yUkE3c0lBbzFVb0ljRXlNNHpGalNVbGQ3S3"
+    },
+    {
+      "title": "Start-Up Chile elige su nueva generación: la IA domina, pero la economía circular se abre paso entre las 59 elegidas - Diario Sustentable",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2VidzYtd0gydE9TNTRkMmtZYW1pVmlTbjVyUHozYzdMaDRXczNUel9mcWJBRWdZRlJOTHVB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2"
+    }
+  ],
+  "count": 14
+}
