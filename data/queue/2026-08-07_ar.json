@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Black Hat USA 2026: dos argentinos descubrieron cómo hackear antenas que llevan internet a zonas aisladas",
+      "url": "https://www.clarin.com/tecnologia/black-hat-usa-2026-argentinos-descubrieron-hackear-antenas-llevan-internet-zonas-aisladas_0_PtRy5BmYnO.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 07 Aug 2026 08:46:49 +0000",
+      "summary": "<ul><li>Reportaron dos fallas críticas en antenas Ubiquiti AirMax, muy usadas para conexión en zonas aisladas, y la empresa lo arregló.</li><li>Qué hacer para evitar que usuarios no autorizados accedan al dispositivo y hackeen la conexión.</li></ul>"
+    },
+    {
       "title": "Cómo darle una segunda vida a una notebook o PC vieja: el cambio que más se nota, sin gastar de más",
       "url": "https://www.clarin.com/tecnologia/darle-segunda-vida-notebook-pc-vieja-cambio-nota-gastar_0_kc1eAvjpeV.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>Promesas de sueldos altos, tareas sencillas y procesos de selección exprés son algunas de las tácticas más utilizadas por los ciberdelincuentes. </li><li>WhatsApp, LinkedIn y otras plataformas concentran buena parte de estas maniobras. </li><li>Las claves para reconocer las señales de alerta"
     },
     {
-      "title": "Crecen las alarmas por el avance de la IA: nuevo incidente de seguridad y un pedido urgente de más de 200 expertos",
-      "url": "https://www.clarin.com/tecnologia/crecen-alarmas-avance-ia-nuevo-incidente-seguridad-pedido-urgente-200-expertos_0_c6skTytxaE.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 03 Aug 2026 08:45:30 +0000",
-      "summary": "<ul><li>Anthropic reveló que uno de sus modelos accedió por error a sistemas reales durante ejercicios de ciberseguridad. </li><li>En paralelo, una carta abierta firmada por premios Nobel, investigadores y referentes de la industria reclama anticipar los efectos de esta tecnología sobre la economía "
-    },
-    {
       "title": "Argentina vs. España: la inteligencia artificial predijo qué selección sería la ganadora del Mundial 2026 - El Tiempo",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcW5qLVZmbnVTakFZRUNnTENwNkgtUEJWczE4SXZPY1RSc2xaQkxVeGVka0RldFV2QTdvNmREMlJUOGs3R1NIYUR2MzRqUEwwWFZSWVdWV3ZaekVKTjc1VkdpaGJRTUZpV3hibkpPcmU3VnM3d01xeGxjZHFlQjNfeXdWZ29MN0tlczFySk1sV2owOC1GanRfemJCYmppMDJ6N3g1aGNrcU1NMEdRYzVHQVFSR3M1QkN5WGlTc0dLMG5Yb0xwV0JyMXpKZ3FOcFowb1FVcy1JUUV1Y3pPd0Y1a0x3eUo2VV9qRjdqNmxHN0VHcTjSAfgBQVVfeXFMUHpUZ0Q3RHZYdVBMM2QxdUUta0ZBeVdFblRDbmNWdXZLU2xhaXRNZWllYUhpak5XTFZEM1lZTXBfUFhEUHNQcnVHLUpmQ1ZaTnJ1UlNSWEpaSUtsSFNxbkZzbUhZQTZsV3pVWGlNbldpRl9HakJBUWpGakRKWFZ4NE91bXhXa0NUT0xXY0VTTlg1b3lNdXE4bkhaWVhKLWhNc25qZkJrVURXUGpXS1FKM0JuZWMyU0JVNldYQVJqVmJObmhCTnhiY09MQjN4TGlNQW8zbmoyNmRVR2dHYTcyWVo1N2NRUWlSM1ZpTWc4TUxIdHNDLVRaN0Y?oc=5",
       "source": "Google News",
@@ -67,20 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeE"
     },
     {
-      "title": "InfoComm América Latina llega a Argentina con inteligencia artificial, audio y colaboración - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQalRTZWR5akxUU1VmUGN5LXp6bEdzUkI2aUNqYU8tVVh4clg5dWRVSXZhVzNycm5tOG9FT1hMY1ZFamhEcjh0SUczUVJWTWszOEJBaFFVQUZOSGQ1QXNadEtpY0lJVXkycnFPal9vMVhZaEpPWEYySzU2NjVDcDNSU0JTblg5cUJ2a01GLTFSRlMtcW9sZUlqdmVweGxuU3IxSGJsb29WWk5SNUZlSExXVmFxdlpnWHBwdDEtM0FNSVMyUGtF?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 04 Aug 2026 13:03:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQalRTZWR5akxUU1VmUGN5LXp6bEdzUkI2aUNqYU8tVVh4clg5dWRVSXZhVzNycm5tOG9FT1hMY1ZFamhEcjh0SUczUVJWTWszOEJBaFFVQUZOSGQ1QXNadEtpY0lJVXkycnFPal9vMVhZaEpPWEYySzU2NjVDcDNSU0JTblg5cUJ2a01GLTFSRlMtcW9sZUlqdmVweGxuU3IxSGJsb29WWk5SNUZlSExXVmFxdlpnWHBwdD"
-    },
-    {
       "title": "Creatividad, media, tecnología e IA: La evolución de Tombras desde BA - LatinSpots.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVFjXzBkR3VnUGNXcTFWSzJDdmpER3o1LUt4VUd3NG1lSnVBamZVaEtrMVB5WGUzMHRqcjhOWEFrQWFfWms5NC1jM0Z6SThUYTdmb3pFN1ZoTWt6SE1zVWxWUEI1b2tlelFUY2xWS2VmNEFMYkVvODA1WlY2Y1lqTHl6b01CZVFERS1KdzMtWkxYLVpLdHJtbFY3X050Y2dFSHhtR1NjUjE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 05 Aug 2026 06:02:36 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZVFjXzBkR3VnUGNXcTFWSzJDdmpER3o1LUt4VUd3NG1lSnVBamZVaEtrMVB5WGUzMHRqcjhOWEFrQWFfWms5NC1jM0Z6SThUYTdmb3pFN1ZoTWt6SE1zVWxWUEI1b2tlelFUY2xWS2VmNEFMYkVvODA1WlY2Y1lqTHl6b01CZVFERS1KdzMtWkxYLVpLdHJtbFY3X050Y2dFSHhtR1NjUjE?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "» IA, datos y algoritmos: Walter Sosa Escudero brindará la conferencia inaugural del SICSS Buenos Aires en la UNSAM - UNSAM",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeVB4NEdobGtzRVFJeUxRd01NNUd0bTFuUzZRYXdFWWpDck04QzZ5cG5pMURSelBQY2EwWUtiMWR0WkMyRG5HNjRpZmN2LTV4QnBkZ0I3Q1RfdXF1UXFUMFViNExlVURHS21lcUpqUUpvTVgxenkxTzliV0dOYW5zMkZobzlJSDVhRklmUGk0QzJHUHNrZm5UUmhDTWx3X2NveWw2bW9oMTQxSFNPVGpFVURIOVliWVJ0N0NHNnQ1U2hvbGpMWGlteEdDd2NUSUNEeWVDcnJBTFEwelpaYnVxNG5Rd1ZtcnF3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 17:16:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeVB4NEdobGtzRVFJeUxRd01NNUd0bTFuUzZRYXdFWWpDck04QzZ5cG5pMURSelBQY2EwWUtiMWR0WkMyRG5HNjRpZmN2LTV4QnBkZ0I3Q1RfdXF1UXFUMFViNExlVURHS21lcUpqUUpvTVgxenkxTzliV0dOYW5zMkZobzlJSDVhRklmUGk0QzJHUHNrZm5UUmhDTWx3X2NveWw2bW9oMTQxSFNPVGpFVURIOVliWVJ0N0"
     },
     {
       "title": "Moova: startup argentina recibe US$3M de Toyota para revolucionar logística - El Ecosistema Startup",
