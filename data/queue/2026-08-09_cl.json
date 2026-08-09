@@ -3,46 +3,6 @@
   "country": "cl",
   "articles": [
     {
-      "title": "Por qué la falta de sueño puede dañar más algunos cerebros, según una investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-la-falta-de-sueno-puede-danar-mas-algunos-cerebros-segun-una-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Aug 2026 13:02:00 +0000",
-      "summary": "El estudio se centró en el gen de la acuaporina-4 (AQP4), el cual ayuda a regular el movimiento de fluidos en el cerebro. De acuerdo a los autores, los hallazgos sostienen que podría ser necesario un enfoque más específico y personalizado para la prevención del Alzheimer."
-    },
-    {
-      "title": "Un ensayo clínico de dos años revela si tomar omega 3 logra prevenir el Alzheimer",
-      "url": "https://www.latercera.com/tendencias/noticia/un-ensayo-clinico-de-dos-anos-revela-si-tomar-omega-3-logra-prevenir-el-alzheimer/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Aug 2026 13:01:00 +0000",
-      "summary": "El ensayo incluyó a 365 personas de entre 55 y 80 años que consumían poco pescado, una de las principales fuentes naturales de omega 3."
-    },
-    {
-      "title": "Científicos descubren cómo los músculos preservan sus células reparadoras: esto dice su investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/cientificos-descubren-como-los-musculos-preservan-sus-celulas-reparadoras-esto-dice-su-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 08 Aug 2026 13:02:00 +0000",
-      "summary": "Los autores sostienen que sus hallazgos ofrecen nuevas pistas para el tratamiento de la distrofia muscular y proporcionan información relevante para comprender mejor los mecanismos del cáncer."
-    },
-    {
-      "title": "Vuelve la lluvia a Coquimbo y Atacama: revisa las fechas y qué se espera del nuevo evento",
-      "url": "https://www.latercera.com/tendencias/noticia/vuelve-la-lluvia-a-coquimbo-y-atacama-revisa-las-fechas-y-que-se-espera-del-nuevo-evento/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 08 Aug 2026 13:01:00 +0000",
-      "summary": "Un nuevo evento de precipitaciones podría afectar al norte del país durante la próxima semana."
-    },
-    {
-      "title": "Anuncian un “fenómeno inusual” de lluvia y nieve en Santiago: cuándo y cómo será el evento",
-      "url": "https://www.latercera.com/tendencias/noticia/anuncian-un-fenomeno-inusual-de-lluvia-y-nieve-en-santiago-cuando-y-como-sera-el-evento/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 07 Aug 2026 20:00:00 +0000",
-      "summary": "El pronóstico para Santiago da un giro drástico: un frente frío con aire polar traerá lluvia, posible nieve y aguanieve en la Región Metropolitana, además de heladas y temperaturas bajo cero."
-    },
-    {
       "title": "Un proyecto de inteligencia artificial amplía en un 60% la capacidad de transmisión eléctrica en el sur de Chile - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2k2YzhNT2ZNR25NSks0NzA3bjZTYjlWdE0zWTRzVGVrR0Foemp0TW4tUjE5R2tDTmFkaW9HMjR4NFJzcWxZdGZTU2dhUzFqVUdqeDBrS0ZtcXlSU2VxZkMtTm11UnNtRlZYT01Yc3JjQ2JoZ09WWmNueXNLYTdSaDdGbHZ2M3RTenZDUXZKX2VGaGczMjQ5YTV3cnV0TncxQ0JNNzgtMDNrQ3hxeU9aek1uc2g1TzBya1o1dnBJY1ZVWnFING1jR1JMamhhZi1tUVgxNjlfRHI1Ry1zU2FRb3JMaGFKQQ?oc=5",
       "source": "Google News",
@@ -83,12 +43,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
     },
     {
-      "title": "La IA ejecuta. Decidir qué vale la pena, no - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjBYUF8yNEs5cjZNc0U4U2d6SDh5TEtsVnBac2d2b2hpcm1hOWdWRHg0cVo2MVY5NXdJZWRTTDZsS3JMZ2VIVlg3WS1lUUlKOE5kTWdNNFBKQ05mSTMtVmdjdlh6alFVV3cxdGE1N194MkxPakxKWGNpX0JSclBHSWhIZ3VwQXZ6djViUDg1UDBfcjdvcE83bnpZOXhDZTFBdEl2cnNobkJnektlNzdUWXZqUGhlMVk1aHfSAboBQVVfeXFMTXRadFdmdnFuT3NuUE5fQjI4ZnNGaVdEb1NpOGxaLVVuSmUzc1c5MXpyVG1TdHpDNnEtc21pTldoLVljdElLMWFCSTlQWmp3NzZhS3pvS0FvZVk0UTZGalVFSC1RX0NLek1TcjAtOVc1aWE1UGlFZHB2ZjNVTjF4dUI4OHJ4M0tmSjljcjJMclR1eXpZTWZoeVZ2MklVeUlESjlVWW5sY0VoRlN0eU5jR2trWmhUOTBDUTF3?oc=5",
+      "title": "Día de la niñez: revisa las actividades gratuitas que tendrá Parquemet este domingo - 24horas",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTBCMVdEalRmUFFRalplaTdldUpWZC1USURGeFYzTHFCeGFkZWhVbDQxcnZxV1k2TDYzYmdjcUZGNkpMd0dMZS1laEhFVDRyeTNEb2pzMkZlSXdKZHJpRm90RF9DQ29SNU8ydjR3alp6VmVXRGY2OXFtbTlrb1F4QWhrVDNPQnZGWXR1cjRTVDE1OEZMYXl5V2ZMcTlzT000Vjk5UEJrNVVkOU800gGyAUFVX3lxTE51WGUxRmNsbjJJaTA1c0VwaVZIZHFPdm9fcnVfdC1fenBxZ2tYQUVPRlluNnpnRzdDSVl1XzgwNW9VckJWd0VOc19femxJdVRGb3E2UjMySnZjVXlQbGEzYXJ5SE1Xejk5WkJfTHhJSDRRZVI3Q0ZPS24yc2lKRjJfTm9Bbk05bERIZW1tUkR1anprYTJlZEdOYy1YZDdzaW9sLXppdlVFX1N6SlpTWUxFeFE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 13 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjBYUF8yNEs5cjZNc0U4U2d6SDh5TEtsVnBac2d2b2hpcm1hOWdWRHg0cVo2MVY5NXdJZWRTTDZsS3JMZ2VIVlg3WS1lUUlKOE5kTWdNNFBKQ05mSTMtVmdjdlh6alFVV3cxdGE1N194MkxPakxKWGNpX0JSclBHSWhIZ3VwQXZ6djViUDg1UDBfcjdvcE83bnpZOXhDZTFBdEl2cnNobkJnektlNzdUWXZqUGhlMVk1aH"
+      "published": "Sun, 09 Aug 2026 04:02:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTBCMVdEalRmUFFRalplaTdldUpWZC1USURGeFYzTHFCeGFkZWhVbDQxcnZxV1k2TDYzYmdjcUZGNkpMd0dMZS1laEhFVDRyeTNEb2pzMkZlSXdKZHJpRm90RF9DQ29SNU8ydjR3alp6VmVXRGY2OXFtbTlrb1F4QWhrVDNPQnZGWXR1cjRTVDE1OEZMYXl5V2ZMcTlzT000Vjk5UEJrNVVkOU800gGyAUFVX3lxTE51WG"
     },
     {
       "title": "OktoberINVESTfest 2023: 2 startups latinoamericanas acceden a capital alemán - El Ecosistema Startup",
@@ -107,13 +67,37 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2"
     },
     {
-      "title": "La CChC lanza aceleradora para llevar tecnología de minería, logística y energía al sector de la construcción en Chile - tekiosmag.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWphWWZZRW53OXZzb1pwNU9lRFppMlAwMVY5dTlOSkVydllKcm9HRzB0WG5ESFl3SFJIamJKaDZaMkZWTTdVUFNyZTJPRE13OXVqeEJpMUFDcXJZS2VPTjUxNXdEaE4xWDBOOEp2NDVnZjVPcEI0LU11OGxfd21xRnRIQk9Nc3VFczl4ejVwUkp4RHo2eVNXUHdueVZjem0yUkE3c0lBbzFVb0ljRXlNNHpGalNVbGQ3S3BUYkhWVjRfWmtQN0tpRGpvcmJIeE1lSjZUUUpJNmhfdENlY1g3dmNSc19kUQ?oc=5",
+      "title": "EAWARDS CHILE 2026: FUNDACIÓN NTT DATA BUSCA A LA STARTUP CIENTÍFICO-TECNOLÓGICA QUE COMPETIRÁ EN EUROPA POR €100.000 - Revista Logistec",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWlFQUVlvUC12TWh1OWlBWERSNFVLWC02NG56X3dqOEQzeTEwUThSMFY0dUtscWkyeEJ4bFl2enJNZUdyMTZac0ZiTElHblU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 04 Aug 2026 06:38:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWphWWZZRW53OXZzb1pwNU9lRFppMlAwMVY5dTlOSkVydllKcm9HRzB0WG5ESFl3SFJIamJKaDZaMkZWTTdVUFNyZTJPRE13OXVqeEJpMUFDcXJZS2VPTjUxNXdEaE4xWDBOOEp2NDVnZjVPcEI0LU11OGxfd21xRnRIQk9Nc3VFczl4ejVwUkp4RHo2eVNXUHdueVZjem0yUkE3c0lBbzFVb0ljRXlNNHpGalNVbGQ3S3"
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
+    },
+    {
+      "title": "UTB APP, una innovación creada para transformar la experiencia universitaria - Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3ZJWGNlWjJMckwyUW8tdDhoZWZJRmc3X2JGYVA0NjhjeHJBQzhtZkhWei1TMGtlek9VTzY5MndZdkh0OVVfVDVjelFsTzIzSTE2RG5XSnlsQUhLNUVtTVY2NVYxSk0teGpPWHNpSGJuV19uY0JOOTJNSktRUDdVU18tVDY4clBfOGhDOW83c1JEZ3ZZY09fUnJGRTdFMmZkVmRueXlmRWNpU3FXWm1N0gHDAUFVX3lxTE1LdnNKOXFnS19NOFNpNlpvR1F5V0UzRHFHMGdham1QaHF6ekhHQWRSOVp1UW9xRVVzV3B0Nm1KQmRGS3l5bG1jdE5XcWE2X0JKbTk1bENkTXdacWxDZTlPRUlnVW1RVTd2Y3oxRWN5bmczUDBrYURoNTVraVEtTTJYWWJySzd6Q2ZCTFlBWDBvT2xZeUJHQThUX1R5VjhPbzJaa0JyYzMxc0h5ZXNKVTMxejNVV0Zjby1pd1hpQ3M1VThQQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 05 Aug 2026 13:38:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3ZJWGNlWjJMckwyUW8tdDhoZWZJRmc3X2JGYVA0NjhjeHJBQzhtZkhWei1TMGtlek9VTzY5MndZdkh0OVVfVDVjelFsTzIzSTE2RG5XSnlsQUhLNUVtTVY2NVYxSk0teGpPWHNpSGJuV19uY0JOOTJNSktRUDdVU18tVDY4clBfOGhDOW83c1JEZ3ZZY09fUnJGRTdFMmZkVmRueXlmRWNpU3FXWm1N0gHDAUFVX3lxTE"
+    },
+    {
+      "title": "Hub Digital: Chile lanza Plan Nacional de Data Centers - InvestChile Blog",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GdDFhNFBRUkZKb2tTT3hVMHdWUExRa1BtanVCOUFJUzdST1RTdVFJSHdMMlp5bXVaZGdMd1Vjem9jYk15MFBqNmVqSlEzWjVyT2tzY2QyMDduNjZ0RWVLUHNlVWlwTHhoLVJPZzVNZlNNMmdGQjJ5NtIBiAFBVV95cUxPQXhLaENFY3JUMFRKOXkzaHh6TEl1eVpXb280MTBkdmMtNTdEZkpwbU56akRIc2x0WUtmYkNCOS1Gb1lJZy0xbFNVN2l1MlplaTlSV1VGdDhhY1M1dC1PRWE2OTNDRjdPWmtFUms3aHpKS2xiMjl3UXNDS0RzTTlpZ3FwUVFfZTZL?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 06 Aug 2026 23:50:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5GdDFhNFBRUkZKb2tTT3hVMHdWUExRa1BtanVCOUFJUzdST1RTdVFJSHdMMlp5bXVaZGdMd1Vjem9jYk15MFBqNmVqSlEzWjVyT2tzY2QyMDduNjZ0RWVLUHNlVWlwTHhoLVJPZzVNZlNNMmdGQjJ5NtIBiAFBVV95cUxPQXhLaENFY3JUMFRKOXkzaHh6TEl1eVpXb280MTBkdmMtNTdEZkpwbU56akRIc2x0WUtmYkNCOS"
+    },
+    {
+      "title": "UACh es institución anfitriona de foro de innovación App Campus: Growing in Community – Noticias UACh - Universidad Austral de Chile",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclFIWUlpQVczRU5leU11aDRMQ2NxaWhPWlRxT21BblF5MzhKRzExLWg3QWo2bEh5OWxYVG5BR21sOUhUaDBWZ1p4X0FjMkxWVEcxUFZYZkhqZmVjLXVaNnFVRjYxRzlZSmp5b1dMMDJBRmdBVElPTmFfTFhYcldHSGFWeDBGVkxqVW41ZzlpcEF4TGZEbVBVVDM1d3RBb1pvMFFjdTBPR3F4aC1Y?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 29 Jul 2026 19:17:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPclFIWUlpQVczRU5leU11aDRMQ2NxaWhPWlRxT21BblF5MzhKRzExLWg3QWo2bEh5OWxYVG5BR21sOUhUaDBWZ1p4X0FjMkxWVEcxUFZYZkhqZmVjLXVaNnFVRjYxRzlZSmp5b1dMMDJBRmdBVElPTmFfTFhYcldHSGFWeDBGVkxqVW41ZzlpcEF4TGZEbVBVVDM1d3RBb1pvMFFjdTBPR3F4aC1Y?oc=5\" target=\"_bl"
     }
   ],
-  "count": 14
+  "count": 12
 }
