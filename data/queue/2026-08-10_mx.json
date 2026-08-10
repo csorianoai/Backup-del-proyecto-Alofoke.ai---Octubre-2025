@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Audible quiere conquistar al lector mexicano con más audiolibros en español",
+      "url": "https://expansion.mx/tecnologia/2026/08/10/la-ofensiva-de-audible-por-el-lector-mexicano",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 10 Aug 2026 11:55:27 GMT",
+      "summary": "Con 50,000 títulos en español, la plataforma de Amazon busca acelerar la producción local y aprovechar un mercado donde 77.4 millones ya consumen audio digital."
+    },
+    {
       "title": "El modo secreto del iPhone para prestarlo sin que revisen tus fotos, chats ni apps privadas",
       "url": "https://expansion.mx/tecnologia/2026/08/09/el-modo-secreto-del-iphone-para-prestarlo-sin-que-revisen-tus-fotos-chats-ni-apps-privadas",
       "source": "Expansión Tecnología",
@@ -35,36 +43,28 @@
       "summary": "El Huawei Pura 90s Pro Max apuesta por innovar desde el hardware fotográfico con una apertura variable mecánica y un telefoto de 200 MP."
     },
     {
-      "title": "Nintendo Switch 2 será más cara en México: revelan el nuevo precio y el motivo del aumento",
-      "url": "https://expansion.mx/tecnologia/2026/08/07/nintendo-switch-2-precio-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 07 Aug 2026 19:00:08 GMT",
-      "summary": "Todavía quedan unas semanas para adquirir la consola con los precios actuales; después del ajuste, el costo sugerido será el más alto desde su lanzamiento en México."
-    },
-    {
-      "title": "La UNAM descarta cambiar de sedes para repetir el examen pese a las quejas tras la polémica de inteligencia artificial - EFE - Agencia de noticias",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjhKVUk2YTFjMjhLeW1SdmRxV184UGZFUU5QRG9ETV81MWlaOGowbHJnNUlWU2hsTlBkWjkxSWJ5RFRuaTNRVE1IM2pDdE5vT3VhQkwzZHlVY0tnR3k2SjNmV056eWFoSEJNY0ItVG91TmxoWmU2R01vczZNT1VLV1huWnRELTQ?oc=5",
+      "title": "Abren becas para estudiar inteligencia artificial en México e Italia - Noticias RCN",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTB6MG5kMUJDbXQwdlNQYkRCZ3BkXzBJbV9zbEV3QnlEd1RRNEt6V0F2c1pIQ29yejR4ZlJkYkd6THNUR2x5a3AyVDJTWWNBYW1kWTBNZktybElHTFJnQlRkVHZfWEFQSm5Ca2k2OEJOaE12dGZxTnJYcUx6aGN6NS1aeGNEMXI1ZXpUVnQzY3dfbUV3Ql90MmRrMXU5QdIBngFBVV95cUxQbWkyMi1ZQ1RVUU5lOFRkZEY5Z205dkNTOXRUM3cxQ2tyMlplN2VkN0tfTXJkcXpZdHhVemFRa0pKejRQQTlkY0lBWE9Fb0NTODN5TXlDS2ZIaHZQSk1saVQxOEYzaXM3bUdYZ2VWd2VCUDZPV0JfaEF0OGVldE9rM3dKTFFBbnc2VVlKZUJMRmdQZHlDM2pDdW5RZVJfZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 10 Aug 2026 01:00:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjhKVUk2YTFjMjhLeW1SdmRxV184UGZFUU5QRG9ETV81MWlaOGowbHJnNUlWU2hsTlBkWjkxSWJ5RFRuaTNRVE1IM2pDdE5vT3VhQkwzZHlVY0tnR3k2SjNmV056eWFoSEJNY0ItVG91TmxoWmU2R01vczZNT1VLV1huWnRELTQ?oc=5\" target=\"_blank\">La UNAM descarta cambiar de sedes para repet"
+      "published": "Sun, 09 Aug 2026 23:33:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVTB6MG5kMUJDbXQwdlNQYkRCZ3BkXzBJbV9zbEV3QnlEd1RRNEt6V0F2c1pIQ29yejR4ZlJkYkd6THNUR2x5a3AyVDJTWWNBYW1kWTBNZktybElHTFJnQlRkVHZfWEFQSm5Ca2k2OEJOaE12dGZxTnJYcUx6aGN6NS1aeGNEMXI1ZXpUVnQzY3dfbUV3Ql90MmRrMXU5QdIBngFBVV95cUxQbWkyMi1ZQ1RVUU5lOFRkZE"
     },
     {
-      "title": "Becas para estudiar inteligencia artificial en universidades de Italia y México: cómo aplicar | El Colombiano - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUJaUy1nTnBHczYyMFdMOXZuM2VJb0l6ZzcwOXNqV0NsMGNFdEg5bDhxSTIzOHJEalNNU1NaM2dDc2x2c01xZ09Cd0VPRWxMUFpBRk9LR3dxYXhpRG9RangxS2wyLWJKX0IyRmRtODE0UUtHenBKUGo5a2ZGNlhuNEQtcVNlU0JTdzBncmRxNWVSaDNTWElNSy11VF9RejU4MldfTVJvV3haUDR3bWMtLW5jMWQxamZSTVlRY3Y2Mm0zMTBJeWZZZ05hZlZsZ1NIMVFyeDBLUdIB3AFBVV95cUxOV1hKLXBjd2NzUUlPbm5CME4zOVRlTjk5cWtKMFIxV0JYYmQ2Vmx3cVJvVGNUdlg1X0xDaGxkR0lOdy1qVURScXJ2MUliQk9wYVE2RFAySEJhb0NLTW1zY1pINzJTMVVTOXBNUnVvb21PMm13TGRuYmhONjdmM0IxODBkVUNLQ0liTGxVLWZtVmM0cU4tSVBaNGlPM2laTWoyU1JKU1pjc3hqTUtGRFM5YVZpeDJQcFlNdHFxWEJFeXlVQjhsS04xbjdicXY0SE1pa1Q1dlFaeFZkU3ht?oc=5",
+      "title": "La inteligencia artificial reduce a segundos el tiempo para explotar fallas de ciberseguridad - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUx6emlYVGx3Y0Z1WlVoajlEVEhzcDZ4WDJYaUpYdERobE9tNjhyemlFX0NGX3FONlI3eS1NR0MwUUEtWWpzeGdxS2txejJieTJkR3lNbGhqbEdGX0c1eEZGNS1tTnRYQzNSdUxjNXhuZTB0dHdlMm5ZeUhXMUFYVnA1VmxrMTRNNFY2Mm83VVlwaHZ1UV9TZjdCYm9GcXZsdDY1bGhMUDg5RHYzNDlkYkI2c0dfWGFoNzRMc1hqY1JVZTlJRWYwSUdiX0xmTXfSAdQBQVVfeXFMTV9ndWQxX3VDM2tkUWFYeE03R19RaHZ3RllDZEVOV1poTUdXb0doWjV5dzNuNl9NcV9kYjhadURLTGlBR2xBRkFFbDRENDFFcFVnMEp2dXRZTkZTMmZxSFFsRnVmYy1fNXk0dnJrVVVVYkszMzRaUXE1SjNTTTVlZjlJM3hWSk84QzlZUXlZMi1FdTgwZmxwU21uYVJqeTJOX1UwRXRfN0kxSTE5V0FFRjMxc3l5b3ZVbkxDcDJuVVJneEN0Rk1KcWQ1RkFkR3dZazBPck4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 05 Aug 2026 22:16:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUJaUy1nTnBHczYyMFdMOXZuM2VJb0l6ZzcwOXNqV0NsMGNFdEg5bDhxSTIzOHJEalNNU1NaM2dDc2x2c01xZ09Cd0VPRWxMUFpBRk9LR3dxYXhpRG9RangxS2wyLWJKX0IyRmRtODE0UUtHenBKUGo5a2ZGNlhuNEQtcVNlU0JTdzBncmRxNWVSaDNTWElNSy11VF9RejU4MldfTVJvV3haUDR3bWMtLW5jMWQxamZSTV"
+      "published": "Mon, 10 Aug 2026 14:43:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUx6emlYVGx3Y0Z1WlVoajlEVEhzcDZ4WDJYaUpYdERobE9tNjhyemlFX0NGX3FONlI3eS1NR0MwUUEtWWpzeGdxS2txejJieTJkR3lNbGhqbEdGX0c1eEZGNS1tTnRYQzNSdUxjNXhuZTB0dHdlMm5ZeUhXMUFYVnA1VmxrMTRNNFY2Mm83VVlwaHZ1UV9TZjdCYm9GcXZsdDY1bGhMUDg5RHYzNDlkYkI2c0dfWGFoNz"
     },
     {
-      "title": "SSPC utiliza Inteligencia Artificial para combatir delitos: congela más de 2 mdd por red de fraude - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2JXN2hNZnlvTE1pN3hrbXV2Y3l6azg1R2NZX2k0eFhWMjFQUkFRQUl0TTN1UXhrQmw3ZDdGVUF4bnR1dDN1NG9teHFhMnJibGhzQUlhN3N0NDhyejlvUjFGYzdWNFZ5RFNOZWF0eV9ZZnZiRjFZTTZiYmVFb3hCUHlBZUoteVlkOEY0YlJEeG9ZOTVadzFEMUw1cVA1MklFMEVaTWlCTzA0VDF6LVp3eW1CcGlLN1FSYllKeWVteFVvSTJPeWpNMVFqcTR0d19QT29QeW1RNNIB8gFBVV95cUxPSlIxVWUwY2JqWW9ESjRSb01Ra2lMSUZ1d0VJc3Y5RTZJeWswUzd0MjNPUkc0bnVxQlR0cmh6YUpQVlo2ejlYZEd5andHMGpSTnNPR3l6V2szRmREUW41ZEJqVzk5aWxQSERlcm8zbDZUeW5DazA0TTJzb2dUYVVNOUc3R3hBbTlqTG51Zl9LYUJ2U0hWbzFiekZPRDlFSGI5R0xlYVkwSWJ1bmo2RU1YMlRvdXJfUUpnaU5wQTFEUkhDbFhlc2J0MXhlVDlRV2lLVkpTU3lzRkNFR09zdXRQMHNYWkxETERBOVhHcEdBN1podw?oc=5",
+      "title": "IA dispara 233% las importaciones de Taiwán a México: ¿qué está comprando el país? - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenFFZkdyNDhJdGlmOGVEb1o2X3JSQVpEdDFxTGU4bDd6dl9xdFkxbnQ5cGpCanhyajFvN3c2LVZJZFd3MDM3ZTUxUEp3Z0duQkIydDNhVmlJRjdUWC01TEpicUdZa2JqLXQyUVY2NmZHbF9GVkpsTWVXTHV4YXlLWnlvbWRDT0pRc1NwZDZzVkgyUGJfLU5FeWs0T0dZamJyeHBGa2dqZ0xLMWN5RU9iR2NZM2pJSEJPTmlzdWFsYjNNUlhiRkkxZ053?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 09 Aug 2026 06:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2JXN2hNZnlvTE1pN3hrbXV2Y3l6azg1R2NZX2k0eFhWMjFQUkFRQUl0TTN1UXhrQmw3ZDdGVUF4bnR1dDN1NG9teHFhMnJibGhzQUlhN3N0NDhyejlvUjFGYzdWNFZ5RFNOZWF0eV9ZZnZiRjFZTTZiYmVFb3hCUHlBZUoteVlkOEY0YlJEeG9ZOTVadzFEMUw1cVA1MklFMEVaTWlCTzA0VDF6LVp3eW1CcGlLN1FSYl"
+      "published": "Mon, 10 Aug 2026 17:29:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNenFFZkdyNDhJdGlmOGVEb1o2X3JSQVpEdDFxTGU4bDd6dl9xdFkxbnQ5cGpCanhyajFvN3c2LVZJZFd3MDM3ZTUxUEp3Z0duQkIydDNhVmlJRjdUWC01TEpicUdZa2JqLXQyUVY2NmZHbF9GVkpsTWVXTHV4YXlLWnlvbWRDT0pRc1NwZDZzVkgyUGJfLU5FeWs0T0dZamJyeHBGa2dqZ0xLMWN5RU9iR2NZM2pJSEJPTm"
     },
     {
       "title": "Colombia supera a México en venture capital: IA desplaza a Fintech en 2026 - El Ecosistema Startup",

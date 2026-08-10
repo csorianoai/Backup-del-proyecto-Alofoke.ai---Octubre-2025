@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Meteochile advierte nuevas lluvias potencialmente peligrosas desde Arica hasta Coquimbo: revisa cómo será el evento aquí",
+      "url": "https://www.latercera.com/tendencias/noticia/meteochile-advierte-nuevas-lluvias-potencialmente-peligrosas-desde-arica-hasta-coquimbo-revisa-como-sera-el-evento-aqui/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 10 Aug 2026 15:37:08 +0000",
+      "summary": "Una vaguada en altura provocará lluvias intensas en el norte de Chile. Conoce las regiones afectadas y los montos de agua previstos."
+    },
+    {
+      "title": "¿El terremoto de 7.4 en Colombia podría tener efectos en Chile y la región? Esto dicen expertos",
+      "url": "https://www.latercera.com/tendencias/noticia/el-terremoto-de-74-en-colombia-podria-tener-efectos-en-chile-y-la-region-esto-dicen-expertos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 10 Aug 2026 15:35:03 +0000",
+      "summary": "De acuerdo a los informes preliminares, el epicentro fue en San José del Palmar, en el Departamento de Chocó, ubicado a unos 280 kilómetros al oeste de Bogotá. Las autoridades de distintas ciudades han reportado heridos y daños en infraestructuras."
+    },
+    {
       "title": "Hoy cumple años Snoopy: las 10 mejores frases del perrito para reflexionar (elige la tuya)",
       "url": "https://www.latercera.com/tendencias/noticia/hoy-cumple-anos-snoopy-las-10-mejores-frases-del-perrito-para-reflexionar-elige-la-tuya/",
       "source": "La Tercera Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Entre las creencias populares erróneas más comunes se encuentra que solo pueden darse en adultos mayores y que los síntomas siempre son altamente evidentes. Acá, expertos de distintas áreas y centros médicos aclaran y entregan sus recomendaciones."
     },
     {
-      "title": "Los próximos meses en Chile serán muy lluviosos, anticipa otro modelo meteorológico",
-      "url": "https://www.latercera.com/tendencias/noticia/los-proximos-meses-en-chile-seran-muy-lluviosos-anticipa-otro-modelo-meteorologico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Aug 2026 10:01:00 +0000",
-      "summary": "El modelo del ECMWF proyecta precipitaciones por sobre el promedio entre agosto y octubre en sectores del país."
-    },
-    {
-      "title": "Por qué la falta de sueño puede dañar más algunos cerebros, según una investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-la-falta-de-sueno-puede-danar-mas-algunos-cerebros-segun-una-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Aug 2026 13:02:00 +0000",
-      "summary": "El estudio se centró en el gen de la acuaporina-4 (AQP4), el cual ayuda a regular el movimiento de fluidos en el cerebro. De acuerdo a los autores, los hallazgos sostienen que podría ser necesario un enfoque más específico y personalizado para la prevención del Alzheimer."
+      "title": "Inteligencia artificial y adultos mayores: el 84% la conoce y el 43% siente preocupación - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3pBQ2kyN1NncklSNXNTM0ExWWxnTmREUmgxb1M2NHJFOWw1QlNGRmVDQmFMNUpRQlFZRlJsanZxR1Z6SFdDbHJGYnFGNDQtV0k4YU9SMDR5Q3lZRjAyOGpmbDkxbHpTMlVkdU00QW5lQ0Y5RVMtZUpjMjZILUVuTlhIbzBIYlo1RjE5UG5JZGFlem53V2lhR25CQlE0VGNnSE9xbWpjTmU1UHBhN25aQmJIU0loXzhZS0J4cEItbGpaY281cFhjNThhZVVOSThEaFJR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 10 Aug 2026 16:09:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa3pBQ2kyN1NncklSNXNTM0ExWWxnTmREUmgxb1M2NHJFOWw1QlNGRmVDQmFMNUpRQlFZRlJsanZxR1Z6SFdDbHJGYnFGNDQtV0k4YU9SMDR5Q3lZRjAyOGpmbDkxbHpTMlVkdU00QW5lQ0Y5RVMtZUpjMjZILUVuTlhIbzBIYlo1RjE5UG5JZGFlem53V2lhR25CQlE0VGNnSE9xbWpjTmU1UHBhN25aQmJIU0loXzhZS0"
     },
     {
       "title": "Un proyecto de inteligencia artificial amplía en un 60% la capacidad de transmisión eléctrica en el sur de Chile - BNamericas",
@@ -51,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2k2YzhNT2ZNR25NSks0NzA3bjZTYjlWdE0zWTRzVGVrR0Foemp0TW4tUjE5R2tDTmFkaW9HMjR4NFJzcWxZdGZTU2dhUzFqVUdqeDBrS0ZtcXlSU2VxZkMtTm11UnNtRlZYT01Yc3JjQ2JoZ09WWmNueXNLYTdSaDdGbHZ2M3RTenZDUXZKX2VGaGczMjQ5YTV3cnV0TncxQ0JNNzgtMDNrQ3hxeU9aek1uc2g1TzBya1"
     },
     {
-      "title": "U. de Chile presentó dashAI, plataforma chilena que permite trabajar sin entregar datos - uchile.cl",
+      "title": "U. de Chile presentó dashAI, plataforma chilena que permite trabajar sin entregar datos - Universidad de Chile",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGxWck1zLVViMXFwaWUzUkJMNE8teHFkQm82ZHZaa0d6cVd6U1Q3dHBKamE0Z0ptRTFkT3p3dTR1TXFhWmk1OEcxcWJacHFwdU5GTkZqaU5Lay1saERONGZHbVByeFBlX0pTVUpVNldjazd6SWZZN0dhMkxQcGgzZHAyazhqdXNfWUUzQ2F3?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOGxWck1zLVViMXFwaWUzUkJMNE8teHFkQm82ZHZaa0d6cVd6U1Q3dHBKamE0Z0ptRTFkT3p3dTR1TXFhWmk1OEcxcWJacHFwdU5GTkZqaU5Lay1saERONGZHbVByeFBlX0pTVUpVNldjazd6SWZZN0dhMkxQcGgzZHAyazhqdXNfWUUzQ2F3?oc=5\" target=\"_blank\">U. de Chile presentó dashAI, plataf"
     },
     {
-      "title": "La UNESCO lanza el Observatorio de Inteligencia Artificial en Educación para América Latina y el Caribe - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdHZwQ29LaC1WZ0FBYXlSSkIwMA?oc=5",
+      "title": "Santiago Segura, \"atemorizado\" por una fan que habría creado con IA fotos íntimas falsas junto a él: \"Es inquietante\" - HOLA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWE4MFJaUTlaRXNsVzZ1Ui1WWlN4V1B2U3p4RVJMam9qMkVQRDBFRDNQWTc4ejdwallicnJTelpZUWxsRTRGeFV6dGhVSzVVZWoxVlU2QTIwOTFUYnR1R2p4WTBWZ2hsaTVlSEJPWWFOZnhNTW1jYkdjQVh5Q0Y5LV9zYjJRcFFDS3hJTEdxeWQ0OFVmbWpwbDV3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOV3g0dGoxcElKWkdaRmtMN3J2YTVDdE16dUVaVHFXUTZldlNjV2pvTENScWVVU19CdmVJRldEdWV2Wm42RnFJNVREeE5UZEhKaXBxMW90Rnlnd1lMOWFxZG5xMVFZalk3VGhkaUNPLVZic0VoRXc1bG9JY0cwUGVfbmh2ODBxQUhncTJXeloxanE4SHpNNU0yajdHeXhsMVlHV3NBWlFjNW4wdGFxM0tjSEttQ0N2SjZpdH"
+      "published": "Mon, 10 Aug 2026 15:56:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWE4MFJaUTlaRXNsVzZ1Ui1WWlN4V1B2U3p4RVJMam9qMkVQRDBFRDNQWTc4ejdwallicnJTelpZUWxsRTRGeFV6dGhVSzVVZWoxVlU2QTIwOTFUYnR1R2p4WTBWZ2hsaTVlSEJPWWFOZnhNTW1jYkdjQVh5Q0Y5LV9zYjJRcFFDS3hJTEdxeWQ0OFVmbWpwbDV3?oc=5\" target=\"_blank\">Santiago Segura, \"a"
     },
     {
       "title": "Santiago Segura denuncia a una mujer que crea deepfakes románticos con él usando la IA - MARCA",
@@ -83,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNWWt1NU1qZllVd0FLaEQ5WTFNb3FRUUJZM0YwVVp4UEtBSmNkZ2NZY2p0enFGRklYVk1qRUxrbWFSTTZ3QkJPRkhqZTNDU0NjSXg5eTU2SVlzTjB6UGk0bmdwWGFQR1ZwZ3FIRGJiOTFudWg3OVlvMnVUdmRGbndLalpNeW9IVTFnckgyc3E5WmI0N1ZwQ3JYOFZBZEhQX3F0RG03WENwQ0pzVEhyd0R6dlNoRTByVnN3Vl"
     },
     {
-      "title": "Santiago Segura, atemorizado por el acoso con IA: \"No hay una ley que nos defienda\" - FormulaTV",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1p3QTlrd1M1dURZMnZPenFER1REbTFPQnJ0UkNOaWJoZlU5UnNfVGZkWTYtZHpmcWNaRm4tRWdhUk1jV3VWb0V2Mklrei12TEdURm43eDg1dWJ2dTh0VlRpZTNfaFFkcXFZbHlqTjNDY3RfVDhUT0dfMmd2V2tUSWpNbXNZNk5IVEJTcUw2UW5NUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 10 Aug 2026 09:45:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ1p3QTlrd1M1dURZMnZPenFER1REbTFPQnJ0UkNOaWJoZlU5UnNfVGZkWTYtZHpmcWNaRm4tRWdhUk1jV3VWb0V2Mklrei12TEdURm43eDg1dWJ2dTh0VlRpZTNfaFFkcXFZbHlqTjNDY3RfVDhUT0dfMmd2V2tUSWpNbXNZNk5IVEJTcUw2UW5NUQ?oc=5\" target=\"_blank\">Santiago Segura, atemorizado "
-    },
-    {
       "title": "Start-Up Chile elige su nueva generación: la IA domina, pero la economía circular se abre paso entre las 59 elegidas - Diario Sustentable",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2VidzYtd0gydE9TNTRkMmtZYW1pVmlTbjVyUHozYzdMaDRXczNUel9mcWJBRWdZRlJOTHVB?oc=5",
       "source": "Google News",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGVVcDd0enV2eFYwR0Y5anJGTjdTRjlrWWo0UGFiemttam1sX2p3Vlo4SDZjenBUSV9jY2E3bnNWUjY5OUZzd25xRTZqZEdLWDd3OWk4NlNhYnpyRXU0bC1HSjQ0MDRSQXc0VExjTldKUXNTaFZzTktFMDFEczdES1pOUV81YW1qS0hR?oc=5\" target=\"_blank\">Start-Up Chile BIG 12: 59 startups con "
     },
     {
-      "title": "EAWARDS CHILE 2026: FUNDACIÓN NTT DATA BUSCA A LA STARTUP CIENTÍFICO-TECNOLÓGICA QUE COMPETIRÁ EN EUROPA POR €100.000 - Revista Logistec",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWlFQUVlvUC12TWh1OWlBWERSNFVLWC02NG56X3dqOEQzeTEwUThSMFY0dUtscWkyeEJ4bFl2enJNZUdyMTZac0ZiTElHblU?oc=5",
+      "title": "BIG 12: ¿Quiénes son y qué hacen las 59 startups seleccionadas por Start-Up Chile? - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTRMXy1JbUQxNlhGTTBmdWh4bzZOSVVaVkIwZWpjZU1maUZxX1VfRFp4SDhSRkRkVWlVRlF3cUlUalpxbDhDTzlyMk9oQVhTZ0FJQmQyVzk0cm1EMVUxT1lGaHZJUmNaVWNwbzFzZDVZcWxqc0w5eWhweTBlbXNnNVRHVk1Kemo5R05yMmFDQVpMb2UzcXMzNm8ycnBEMXRRU2dBaWowVQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
+      "published": "Sun, 26 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTRMXy1JbUQxNlhGTTBmdWh4bzZOSVVaVkIwZWpjZU1maUZxX1VfRFp4SDhSRkRkVWlVRlF3cUlUalpxbDhDTzlyMk9oQVhTZ0FJQmQyVzk0cm1EMVUxT1lGaHZJUmNaVWNwbzFzZDVZcWxqc0w5eWhweTBlbXNnNVRHVk1Kemo5R05yMmFDQVpMb2UzcXMzNm8ycnBEMXRRU2dBaWowVQ?oc=5\" target=\"_blank\">B"
     }
   ],
   "count": 14
