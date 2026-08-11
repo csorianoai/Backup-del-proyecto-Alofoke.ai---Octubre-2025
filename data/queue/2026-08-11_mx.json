@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Spotify etiquetará a los artistas creados con IA para distinguirlos de personas reales",
+      "url": "https://expansion.mx/tecnologia/2026/08/11/spotify-etiquetara-artistas-creados-con-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 11 Aug 2026 22:18:47 GMT",
+      "summary": "Spotify comenzará a mostrar a mediados de septiembre una insignia de “persona de IA” en perfiles, búsquedas y playlists revisando también las identidades de los artistas."
+    },
+    {
+      "title": "Sony y TSMC invertirán 4,700 millones de dólares en sensores de imagen de nueva generación",
+      "url": "https://expansion.mx/tecnologia/2026/08/11/sony-tsmc-invertiran-4700-millones-sensores-imagen",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 11 Aug 2026 19:45:35 GMT",
+      "summary": "La alianza de estas dos empresas contempla producir sensores de imagen de nueva generación en Japón a partir de 2029 con Sony liderará y TSMC en la manufactura."
+    },
+    {
       "title": "Bumble cambia su regla más famosa: las mujeres ya no tendrán que enviar el primer mensaje",
       "url": "https://expansion.mx/tecnologia/2026/08/11/bumble-cambia-regla-mujeres-primer-mensaje",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "Apple elevó sus inventarios de componentes a 11,100 millones de dólares, mientras 82% de los fabricantes reporta aumentos de precios por la menor disponibilidad de memoria."
     },
     {
-      "title": "Regreso a clases: 72% de las órdenes ya se hacen desde el celular",
-      "url": "https://expansion.mx/tecnologia/2026/08/10/regreso-a-clases-mas-padres-compran-utiles-celular",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Aug 2026 22:30:51 GMT",
-      "summary": "El regreso a clases se consolida como una temporada clave para el comercio electrónico, con mayor gasto en tecnología y consumidores que combinan compras planeadas con adquisiciones de última hora."
-    },
-    {
-      "title": "De OpenAI a Meta: los incidentes que ponen a prueba la seguridad de los agentes de IA",
-      "url": "https://expansion.mx/tecnologia/2026/08/10/openai-anthropic-meta-agentes-ia-decisiones-seguridad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Aug 2026 21:41:02 GMT",
-      "summary": "Los casos de OpenAI, Anthropic y Meta muestran los riesgos de dar a los sistemas de IA acceso a internet, código y herramientas para actuar con poca intervención humana."
-    },
-    {
-      "title": "México enfrenta un déficit de talento en ciberseguridad ante el avance de la IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd0FCS0dXLU5HTlM2bHFBbHdSMjBHa0lHNHRfcEtEUlhJR2xrNEp4LW9tUFdQT1FCWnBzclpLVHpJdERsYlkyZHRBWXFzSkVacmZnczFfMWhHWUpwWFFFeGhaV3BkWjkyUU9WVDhlTVB4RVM3Z2xHRjAxT2ZrS0ZfV3QzU2xmNWJ6X3FfMTBzQ185alRWTUFTV3k1QkxHTFZxVHZ4eUtnUDB4SnZNRDdmaFJpbGROUlVwSGp5eGxISkx3aDhUc1h5aVdGeWjSAecBQVVfeXFMTmVZbjZydHRIRGVhbmxZM3pHX1VIZlplakRSSVFvbUl2UzQ0aDZncXUtOERtRDE2MTlnUU1RcEpqcVBNWjJBbk1DSG9xZG5RNkowQnYyRUNtTThROVBPbXV2Ym9BY2o2c0RrbjlnMkwwbm5fREJjbF9ic2pSTjdHakhkYUFmcHJUQVdNNWUtNWhuRjJaTVlaWDY3MGwzLVlLam5IMERhWkJ1ekpDZzlTN3l5bTNUOEtUcXZvOGxJSXRNZnlNLTM0aWxzSjdLSXZNaDVkR3dsMlNBYmkyZ09vZUc3R2w5bEQ0?oc=5",
+      "title": "Nuevo Gemini Experience Center de Google en México: detectar fraudes, una de las ganancias para empresarios - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2lSZEh0VE10OGpoQXZERHJtN0VPRHE3X3Z4QmttQlEzWS1KdTB2LTItdXprS2NjSmM4M1NkZno4OF9zWmdiMnVSbkdsdHVteVBQNlVRekV0U1VESE5BYzlieExtcW9Fb3lGd09ydTc5ajVBQW51RWpfYlNGMnpBRXh3NlFndWVoeEJ6S19DT3VjVXh4SkRFcFJSTVlVaW90d3hRZG11YmIzODFtR0N2Nzcxc0R5YVB6U0xVaF9OOXpJTE1WdG0ycURoTHB0UUJRenJ5Mkc4X0lOMi1jZ192M9IB-wFBVV95cUxPaUh4WEpNQUpMLUhXUU42eTNsMDB0MTNVQk43MFZ2LTRZcC1rSjB4eVdtVjFaSjZVUVVRNDJKUjY0N1FGemFobXFFTGpzbWNEdFB4Qy1MYmZvTEdKUUM4cTdhUW5Zd21fc19VTi1yS2lXYUNmc2dZR04yQ0xZR0puSFZtYkg5MW04NjNkS1hiUzNidTBCMTlIN19Zd1E2SDJHVmNoVWJsU2NNemk5QVlqNk1hSmRGVGZDNGM5VjZzbE11VTJIWjJiR2s2MUxXRGROekJuQ3NuUEVaZm9hWmdkM2tWQzk4YTVUVWNoaTI1Wl9FRjhCQjFhLWNKQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 11 Aug 2026 18:36:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOd0FCS0dXLU5HTlM2bHFBbHdSMjBHa0lHNHRfcEtEUlhJR2xrNEp4LW9tUFdQT1FCWnBzclpLVHpJdERsYlkyZHRBWXFzSkVacmZnczFfMWhHWUpwWFFFeGhaV3BkWjkyUU9WVDhlTVB4RVM3Z2xHRjAxT2ZrS0ZfV3QzU2xmNWJ6X3FfMTBzQ185alRWTUFTV3k1QkxHTFZxVHZ4eUtnUDB4SnZNRDdmaFJpbGROUlVwSG"
+      "published": "Tue, 11 Aug 2026 22:38:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ2lSZEh0VE10OGpoQXZERHJtN0VPRHE3X3Z4QmttQlEzWS1KdTB2LTItdXprS2NjSmM4M1NkZno4OF9zWmdiMnVSbkdsdHVteVBQNlVRekV0U1VESE5BYzlieExtcW9Fb3lGd09ydTc5ajVBQW51RWpfYlNGMnpBRXh3NlFndWVoeEJ6S19DT3VjVXh4SkRFcFJSTVlVaW90d3hRZG11YmIzODFtR0N2Nzcxc0R5YVB6U0"
     },
     {
-      "title": "La opción de México para regular la Inteligencia Artificial - eleconomista.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdERiM3JpVy1KQ0h2WFJMZG81MXpaRDJDb2RlM0drRElaMnJOWEhicnFHM2VJd1BKRVFBSDZmalZGeVM3NGRkT011ZUdnbzUwLUVYbmxndnd5cmpOVHk2ckFoNnlDbjh4dmNmd3V1amFMVWE2d0xNelJ4WEg4enVaT05qM0xoanhVMld2SXlhUUZWZE03YldDZ01mQ1lvTkRucFlZWnhfOHlsUdIBrwFBVV95cUxORU1SZmhrMG1vWU1YalNiVE5CNUtWeFZGVnplXzR3ZHlibmw4UEtacDJuSE1QbFR4Y3RKMDJSaTdzLXZvV2t0RWc3a2FRQU5sQUNiTnl5WGROSHpnZU5GckxMdnhXeXZXYzdTUTVFd09GNjIzems3ZFVabThKc1doek5lQUFkUEJMcVp3X0x0VkQ5N2lBbWZKQTdtZmtXdjJmUnZtWDFjQkxjenF4N2o4?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 11 Aug 2026 06:27:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdERiM3JpVy1KQ0h2WFJMZG81MXpaRDJDb2RlM0drRElaMnJOWEhicnFHM2VJd1BKRVFBSDZmalZGeVM3NGRkT011ZUdnbzUwLUVYbmxndnd5cmpOVHk2ckFoNnlDbjh4dmNmd3V1amFMVWE2d0xNelJ4WEg4enVaT05qM0xoanhVMld2SXlhUUZWZE03YldDZ01mQ1lvTkRucFlZWnhfOHlsUdIBrwFBVV95cUxORU1SZm"
-    },
-    {
-      "title": "Abren becas para estudiar inteligencia artificial en México e Italia - Noticias RCN",
+      "title": "Abren becas para estudiar inteligencia artificial en México e Italia - noticiasrcn.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTB6MG5kMUJDbXQwdlNQYkRCZ3BkXzBJbV9zbEV3QnlEd1RRNEt6V0F2c1pIQ29yejR4ZlJkYkd6THNUR2x5a3AyVDJTWWNBYW1kWTBNZktybElHTFJnQlRkVHZfWEFQSm5Ca2k2OEJOaE12dGZxTnJYcUx6aGN6NS1aeGNEMXI1ZXpUVnQzY3dfbUV3Ql90MmRrMXU5QdIBngFBVV95cUxQbWkyMi1ZQ1RVUU5lOFRkZEY5Z205dkNTOXRUM3cxQ2tyMlplN2VkN0tfTXJkcXpZdHhVemFRa0pKejRQQTlkY0lBWE9Fb0NTODN5TXlDS2ZIaHZQSk1saVQxOEYzaXM3bUdYZ2VWd2VCUDZPV0JfaEF0OGVldE9rM3dKTFFBbnc2VVlKZUJMRmdQZHlDM2pDdW5RZVJfZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 09 Aug 2026 23:33:20 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVTB6MG5kMUJDbXQwdlNQYkRCZ3BkXzBJbV9zbEV3QnlEd1RRNEt6V0F2c1pIQ29yejR4ZlJkYkd6THNUR2x5a3AyVDJTWWNBYW1kWTBNZktybElHTFJnQlRkVHZfWEFQSm5Ca2k2OEJOaE12dGZxTnJYcUx6aGN6NS1aeGNEMXI1ZXpUVnQzY3dfbUV3Ql90MmRrMXU5QdIBngFBVV95cUxQbWkyMi1ZQ1RVUU5lOFRkZE"
+    },
+    {
+      "title": "De la teoría al negocio: TCS y Google Cloud posicionan a México como epicentro de la IA empresarial - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEJOa3djVEs4VEFmTjBXMDJ5RmM0NGNIcVk1T1BVVW9laG93bVo4ZFlQVERReE9Gc0k2NG9uWHd4dlVTYWJkTTBwNnYtczNaVm9oZ3VXTXdKbXNyQkNtRTJtR0Fzb1c1cmhHa1FpbzlWZFNXQlVWdWNOU2VjRDZqTUhEa1NSTkRIVjlZUk1kckw3SUxlbUQ1NjNUU09QcEVfV1BLQWpoOGxzWWhYNVVrMjQ3M1FWX0l0MXJSMm9lN0FqREVaWDRGQlFlLVV5eHYxMGhfOHloS0tZc2w5WFhULXdnc9IB_gFBVV95cUxOVGxOel83RWFSM2p6Ym40UWZ1b182RS10RXVVeGNzX2xfOHFJR25xT1hrRmZyVjh0WEhsSk5uTk9mY213ZHIwM09JdWNtb0pMbWtpajZzRmFEUUNSQlFHbUFCbWxmdzlEUXlUZWd3blotYThXY1U1a3NIVUk1Zy1sUVMyeng4NXJxbzN4WHRieVZPc0tMVDRmcXN3VnpLb1k1a3FvYXU4TVBTWmg0TWxhWHZGTkJ4eV9uaVl3elZ3OWxqcVBmYk9EcjA3UXlCMVc5ZXJRWFZWZEZfc1k1amhabTluN0ZoWHBtTVQ5Vk1vLUFVS21wZGhoS0k0OExXUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 11 Aug 2026 21:05:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVEJOa3djVEs4VEFmTjBXMDJ5RmM0NGNIcVk1T1BVVW9laG93bVo4ZFlQVERReE9Gc0k2NG9uWHd4dlVTYWJkTTBwNnYtczNaVm9oZ3VXTXdKbXNyQkNtRTJtR0Fzb1c1cmhHa1FpbzlWZFNXQlVWdWNOU2VjRDZqTUhEa1NSTkRIVjlZUk1kckw3SUxlbUQ1NjNUU09QcEVfV1BLQWpoOGxzWWhYNVVrMjQ3M1FWX0l0MX"
     },
     {
       "title": "SinergIA Ventures: fondo VC de US$1,1M para startups de IA en México 2026 - El Ecosistema Startup",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5\" target=\"_blank\">C"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - unesco.org",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",
