@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Bumble cambia su regla más famosa: las mujeres ya no tendrán que enviar el primer mensaje",
+      "url": "https://expansion.mx/tecnologia/2026/08/11/bumble-cambia-regla-mujeres-primer-mensaje",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 11 Aug 2026 17:40:57 GMT",
+      "summary": "La aplicación de citas abandona una de las características que la distinguieron desde 2014. El cambio busca reducir la presión y aumentar las conversaciones entre matches."
+    },
+    {
+      "title": "La IA se vuelve más barata: China presiona a OpenAI, Anthropic y Meta",
+      "url": "https://expansion.mx/tecnologia/2026/08/11/ia-mas-barata-china-presiona-openai-meta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 11 Aug 2026 15:00:55 GMT",
+      "summary": "La competencia entre modelos chinos y estadounidenses de IA está presionando los precios, mientras empresas como OpenAI, Anthropic, xAI y Meta buscan atraer usuarios con alternativas más económicas."
+    },
+    {
       "title": "Apple y Nvidia se adelantan a la escasez de RAM y el resto de la industria resiente el golpe",
       "url": "https://expansion.mx/tecnologia/2026/08/11/apple-nvidia-acumulan-ram-para-no-subir-precios",
       "source": "Expansión Tecnología",
@@ -27,23 +43,15 @@
       "summary": "Los casos de OpenAI, Anthropic y Meta muestran los riesgos de dar a los sistemas de IA acceso a internet, código y herramientas para actuar con poca intervención humana."
     },
     {
-      "title": "Samsung Galaxy A37 vs. A56: ¿qué cambia entre los dos celulares y cuánto cuesta cada uno en México?",
-      "url": "https://expansion.mx/tecnologia/2026/08/10/samsung-galaxy-a37-vs-a56-que-cambia-entre-los-dos-celulares-y-cuanto-cuesta-cada-uno-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Aug 2026 20:42:39 GMT",
-      "summary": "Estos dos modelos de Samsung destacan por su precio y las características que ofrecen a los consumidores."
+      "title": "México enfrenta un déficit de talento en ciberseguridad ante el avance de la IA - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd0FCS0dXLU5HTlM2bHFBbHdSMjBHa0lHNHRfcEtEUlhJR2xrNEp4LW9tUFdQT1FCWnBzclpLVHpJdERsYlkyZHRBWXFzSkVacmZnczFfMWhHWUpwWFFFeGhaV3BkWjkyUU9WVDhlTVB4RVM3Z2xHRjAxT2ZrS0ZfV3QzU2xmNWJ6X3FfMTBzQ185alRWTUFTV3k1QkxHTFZxVHZ4eUtnUDB4SnZNRDdmaFJpbGROUlVwSGp5eGxISkx3aDhUc1h5aVdGeWjSAecBQVVfeXFMTmVZbjZydHRIRGVhbmxZM3pHX1VIZlplakRSSVFvbUl2UzQ0aDZncXUtOERtRDE2MTlnUU1RcEpqcVBNWjJBbk1DSG9xZG5RNkowQnYyRUNtTThROVBPbXV2Ym9BY2o2c0RrbjlnMkwwbm5fREJjbF9ic2pSTjdHakhkYUFmcHJUQVdNNWUtNWhuRjJaTVlaWDY3MGwzLVlLam5IMERhWkJ1ekpDZzlTN3l5bTNUOEtUcXZvOGxJSXRNZnlNLTM0aWxzSjdLSXZNaDVkR3dsMlNBYmkyZ09vZUc3R2w5bEQ0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 11 Aug 2026 18:36:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOd0FCS0dXLU5HTlM2bHFBbHdSMjBHa0lHNHRfcEtEUlhJR2xrNEp4LW9tUFdQT1FCWnBzclpLVHpJdERsYlkyZHRBWXFzSkVacmZnczFfMWhHWUpwWFFFeGhaV3BkWjkyUU9WVDhlTVB4RVM3Z2xHRjAxT2ZrS0ZfV3QzU2xmNWJ6X3FfMTBzQ185alRWTUFTV3k1QkxHTFZxVHZ4eUtnUDB4SnZNRDdmaFJpbGROUlVwSG"
     },
     {
-      "title": "Meta presenta una nueva IA que podrás ejecutar en tu propia computadora",
-      "url": "https://expansion.mx/tecnologia/2026/08/10/meta-ia-codigo-abierto-computadora-personal",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Aug 2026 16:45:59 GMT",
-      "summary": "Meta presentó una IA de código abierto que puede ejecutarse en computadoras personales, mientras Zuckerberg defiende el liderazgo de EU frente a China en la carrera por esta tecnología."
-    },
-    {
-      "title": "La opción de México para regular la Inteligencia Artificial - El Economista",
+      "title": "La opción de México para regular la Inteligencia Artificial - eleconomista.com.mx",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdERiM3JpVy1KQ0h2WFJMZG81MXpaRDJDb2RlM0drRElaMnJOWEhicnFHM2VJd1BKRVFBSDZmalZGeVM3NGRkT011ZUdnbzUwLUVYbmxndnd5cmpOVHk2ckFoNnlDbjh4dmNmd3V1amFMVWE2d0xNelJ4WEg4enVaT05qM0xoanhVMld2SXlhUUZWZE03YldDZ01mQ1lvTkRucFlZWnhfOHlsUdIBrwFBVV95cUxORU1SZmhrMG1vWU1YalNiVE5CNUtWeFZGVnplXzR3ZHlibmw4UEtacDJuSE1QbFR4Y3RKMDJSaTdzLXZvV2t0RWc3a2FRQU5sQUNiTnl5WGROSHpnZU5GckxMdnhXeXZXYzdTUTVFd09GNjIzems3ZFVabThKc1doek5lQUFkUEJMcVp3X0x0VkQ5N2lBbWZKQTdtZmtXdjJmUnZtWDFjQkxjenF4N2o4?oc=5",
       "source": "Google News",
       "category": "news",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Sun, 09 Aug 2026 23:33:20 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVTB6MG5kMUJDbXQwdlNQYkRCZ3BkXzBJbV9zbEV3QnlEd1RRNEt6V0F2c1pIQ29yejR4ZlJkYkd6THNUR2x5a3AyVDJTWWNBYW1kWTBNZktybElHTFJnQlRkVHZfWEFQSm5Ca2k2OEJOaE12dGZxTnJYcUx6aGN6NS1aeGNEMXI1ZXpUVnQzY3dfbUV3Ql90MmRrMXU5QdIBngFBVV95cUxQbWkyMi1ZQ1RVUU5lOFRkZE"
-    },
-    {
-      "title": "Becas para estudiar inteligencia artificial en universidades de Italia y México: cómo aplicar | El Colombiano - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUJaUy1nTnBHczYyMFdMOXZuM2VJb0l6ZzcwOXNqV0NsMGNFdEg5bDhxSTIzOHJEalNNU1NaM2dDc2x2c01xZ09Cd0VPRWxMUFpBRk9LR3dxYXhpRG9RangxS2wyLWJKX0IyRmRtODE0UUtHenBKUGo5a2ZGNlhuNEQtcVNlU0JTdzBncmRxNWVSaDNTWElNSy11VF9RejU4MldfTVJvV3haUDR3bWMtLW5jMWQxamZSTVlRY3Y2Mm0zMTBJeWZZZ05hZlZsZ1NIMVFyeDBLUdIB3AFBVV95cUxOV1hKLXBjd2NzUUlPbm5CME4zOVRlTjk5cWtKMFIxV0JYYmQ2Vmx3cVJvVGNUdlg1X0xDaGxkR0lOdy1qVURScXJ2MUliQk9wYVE2RFAySEJhb0NLTW1zY1pINzJTMVVTOXBNUnVvb21PMm13TGRuYmhONjdmM0IxODBkVUNLQ0liTGxVLWZtVmM0cU4tSVBaNGlPM2laTWoyU1JKU1pjc3hqTUtGRFM5YVZpeDJQcFlNdHFxWEJFeXlVQjhsS04xbjdicXY0SE1pa1Q1dlFaeFZkU3ht?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 05 Aug 2026 22:16:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUJaUy1nTnBHczYyMFdMOXZuM2VJb0l6ZzcwOXNqV0NsMGNFdEg5bDhxSTIzOHJEalNNU1NaM2dDc2x2c01xZ09Cd0VPRWxMUFpBRk9LR3dxYXhpRG9RangxS2wyLWJKX0IyRmRtODE0UUtHenBKUGo5a2ZGNlhuNEQtcVNlU0JTdzBncmRxNWVSaDNTWElNSy11VF9RejU4MldfTVJvV3haUDR3bWMtLW5jMWQxamZSTV"
     },
     {
       "title": "SinergIA Ventures: fondo VC de US$1,1M para startups de IA en México 2026 - El Ecosistema Startup",
