@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Anuncian tormentas eléctricas desde el norte, pasando por Santiago, hasta el sur: cuándo y dónde brillará el cielo",
+      "url": "https://www.latercera.com/tendencias/noticia/anuncian-tormentas-electricas-desde-el-norte-pasando-por-santiago-hasta-el-sur-cuando-y-donde-brillara-el-cielo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 12 Aug 2026 21:00:00 +0000",
+      "summary": "Una serie de tormentas eléctricas afectarán a al menos 10 regiones de Chile entre este miércoles y el viernes, con rayos y truenos desde el norte hasta el centro-sur."
+    },
+    {
       "title": "Tormentas eléctricas, viento, lluvia y nieve: revisa los sectores afectados en el norte de Chile",
       "url": "https://www.latercera.com/tendencias/noticia/tormentas-electricas-viento-lluvia-y-nieve-revisa-los-sectores-afectados-en-el-norte-de-chile/",
       "source": "La Tercera Tecnología",
@@ -35,20 +43,12 @@
       "summary": "Elegir mal la talla de un preservativo puede hacer que este pierda efectividad: puede deslizarse, romperse o resultar incómodo."
     },
     {
-      "title": "Esta es la nueva píldora aprobada por la FDA que reduce significativamente los niveles de colesterol",
-      "url": "https://www.latercera.com/tendencias/noticia/esta-es-la-nueva-pildora-aprobada-por-la-fda-que-reduce-significativamente-los-niveles-de-colesterol/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 10 Aug 2026 10:03:00 +0000",
-      "summary": "La FDA aprobó una nueva píldora para reducir el colesterol LDL que mostró resultados superiores a las estatinas en ensayos clínicos. Conoce cómo funciona, sus efectos y qué se sabe sobre su llegada."
-    },
-    {
-      "title": "Exitosa jornada sobre Inteligencia Artificial y Simulación Clínica - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFA5REFEYlFkV2dvTmZUMGpyTEdWaElsX29OQUJOU2pLbmVxaEZLUHU3T3oyNEI3bXVaMHBhendaYXhYYkYyS0g4TW12RWNmTXdUWUZWZU5MYVlHUmxwMWZQMGVzRXhWd2tVNTYwUmY3eUhvRV9COUhLTnpQeW1RM0hmTzI3eGdla2NDaVBUVGgxdGNFMWpoMnZvUHhEZWNSS0NR?oc=5",
+      "title": "U. de Chile presenta dashAI: primera plataforma chilena de inteligencia artificial de código abierto - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNEp6UzFVOHYwWG9mV0lZRWNYR2p6VkRHWDZlTFJjc2kwNUt6YVRjOGNfajlLZ0RyU2JRZ042UG5Nb3d5Szg5Qm1qUmxUYlUzMFUzcWRCQTM4SV9Cem1DaWs4TnJZWFh1ZDczTnFtVmdEcXJsRkJYZVpPVGpGS1d6bUh0a3phTlpyOUVJTFFrVzdPd0hlbjJwWTJYRVlqU2dkT3NqT1VRZElpbDMyZE55OFp5a2Z0aTgyZjBWaDhHekJ2cFdBaUd3SFNhSFVKbms?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 12 Aug 2026 15:31:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFA5REFEYlFkV2dvTmZUMGpyTEdWaElsX29OQUJOU2pLbmVxaEZLUHU3T3oyNEI3bXVaMHBhendaYXhYYkYyS0g4TW12RWNmTXdUWUZWZU5MYVlHUmxwMWZQMGVzRXhWd2tVNTYwUmY3eUhvRV9COUhLTnpQeW1RM0hmTzI3eGdla2NDaVBUVGgxdGNFMWpoMnZvUHhEZWNSS0NR?oc=5\" target=\"_blank\">Exitosa"
+      "published": "Wed, 12 Aug 2026 19:26:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNNEp6UzFVOHYwWG9mV0lZRWNYR2p6VkRHWDZlTFJjc2kwNUt6YVRjOGNfajlLZ0RyU2JRZ042UG5Nb3d5Szg5Qm1qUmxUYlUzMFUzcWRCQTM4SV9Cem1DaWs4TnJZWFh1ZDczTnFtVmdEcXJsRkJYZVpPVGpGS1d6bUh0a3phTlpyOUVJTFFrVzdPd0hlbjJwWTJYRVlqU2dkT3NqT1VRZElpbDMyZE55OFp5a2Z0aTgyZj"
     },
     {
       "title": "Experian revela que la inteligencia artificial impulsa una nueva etapa en la experiencia financiera de los chilenos - FinteChile",
@@ -75,14 +75,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcF"
     },
     {
-      "title": "Santiago Segura, \"atemorizado\" por una fan que habría creado con IA fotos íntimas falsas junto a él: \"Es inquietante\" - HOLA",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWE4MFJaUTlaRXNsVzZ1Ui1WWlN4V1B2U3p4RVJMam9qMkVQRDBFRDNQWTc4ejdwallicnJTelpZUWxsRTRGeFV6dGhVSzVVZWoxVlU2QTIwOTFUYnR1R2p4WTBWZ2hsaTVlSEJPWWFOZnhNTW1jYkdjQVh5Q0Y5LV9zYjJRcFFDS3hJTEdxeWQ0OFVmbWpwbDV3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 10 Aug 2026 15:56:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWE4MFJaUTlaRXNsVzZ1Ui1WWlN4V1B2U3p4RVJMam9qMkVQRDBFRDNQWTc4ejdwallicnJTelpZUWxsRTRGeFV6dGhVSzVVZWoxVlU2QTIwOTFUYnR1R2p4WTBWZ2hsaTVlSEJPWWFOZnhNTW1jYkdjQVh5Q0Y5LV9zYjJRcFFDS3hJTEdxeWQ0OFVmbWpwbDV3?oc=5\" target=\"_blank\">Santiago Segura, \"a"
-    },
-    {
       "title": "Santiago Segura denuncia a una mujer que crea deepfakes románticos con él usando la IA - MARCA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQekJTZ1NCVEFHMzlvV0JBcmpJaFlIOWlRVVJzejk0Q3JadWMwbHZVUUYtU2hNMEpsc0QwY0FFQ0tfWGlzM3d0WlBSMGFuQ2E3OWNkVjE4dHl2ZlVkbndKUEc1NktmM3pMUzkzUnZBVzV2MDljd0JCYXFKWnE2N2ZZeEYwY3Y1VFhTSWFnc1R1S2kyVkVPbENTZ1ZZVXgzd25nY0Q0ODJvT09SSUNkRWFBVzBKM1hSS0lqbHlCZNIBvAFBVV95cUxOY3RDZFMyN3ZaYmJRNUgxU28xTWozNTRzdXRpUXdpSDlYVGhfeE5qSW1yXy1MUGRZRTI3Tm5LbjZsOFR4T181dGRZY21fcTdNMC0xWEFrNE40dFdQXzZoazRtaXQyZ1FRNU16U2ZFQVhEdlJYb0J2WFAtNHlLWWtQYVY1Z3pWeW94NlJGY2Q5QUtabnNNUHp1ODVhNDlhVFpKYVpBZjJlUzEtcERtR1dmcXNxcll2OGd0bDNDSA?oc=5",
       "source": "Google News",
@@ -91,7 +83,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQekJTZ1NCVEFHMzlvV0JBcmpJaFlIOWlRVVJzejk0Q3JadWMwbHZVUUYtU2hNMEpsc0QwY0FFQ0tfWGlzM3d0WlBSMGFuQ2E3OWNkVjE4dHl2ZlVkbndKUEc1NktmM3pMUzkzUnZBVzV2MDljd0JCYXFKWnE2N2ZZeEYwY3Y1VFhTSWFnc1R1S2kyVkVPbENTZ1ZZVXgzd25nY0Q0ODJvT09SSUNkRWFBVzBKM1hSS0lqbH"
     },
     {
-      "title": "83% empresas TI Chile no encuentra talento IA: crisis que frena startups en 2026 - ecosistemastartup.com",
+      "title": "Santiago Segura, \"atemorizado\" por una fan que habría creado con IA fotos íntimas falsas junto a él: \"Es inquietante\" - HOLA",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWE4MFJaUTlaRXNsVzZ1Ui1WWlN4V1B2U3p4RVJMam9qMkVQRDBFRDNQWTc4ejdwallicnJTelpZUWxsRTRGeFV6dGhVSzVVZWoxVlU2QTIwOTFUYnR1R2p4WTBWZ2hsaTVlSEJPWWFOZnhNTW1jYkdjQVh5Q0Y5LV9zYjJRcFFDS3hJTEdxeWQ0OFVmbWpwbDV3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 10 Aug 2026 15:56:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWE4MFJaUTlaRXNsVzZ1Ui1WWlN4V1B2U3p4RVJMam9qMkVQRDBFRDNQWTc4ejdwallicnJTelpZUWxsRTRGeFV6dGhVSzVVZWoxVlU2QTIwOTFUYnR1R2p4WTBWZ2hsaTVlSEJPWWFOZnhNTW1jYkdjQVh5Q0Y5LV9zYjJRcFFDS3hJTEdxeWQ0OFVmbWpwbDV3?oc=5\" target=\"_blank\">Santiago Segura, \"a"
+    },
+    {
+      "title": "83% empresas TI Chile no encuentra talento IA: crisis que frena startups en 2026 - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG02OWt2M1cwWUZIOWpzbS02eUdPTlg2TGdOUjVvRXpMVFBrODFuZm1rcFhndXkzWWxfbVNhNTdtcDVxRXdwMWk1b005LXBfd3FEajNZSGpDWU9iY0FLVEtoV3VqRGx5eGZPUnBHRWFuUFQ4Umk4S0I1eHFjZDJQMGR3Y0tWV3pkdFYyQnVyUGYyaVE3Z09PSnBHRWQzMDNIT01qVVgtSWlOUFZqWnc?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZG02OWt2M1cwWUZIOWpzbS02eUdPTlg2TGdOUjVvRXpMVFBrODFuZm1rcFhndXkzWWxfbVNhNTdtcDVxRXdwMWk1b005LXBfd3FEajNZSGpDWU9iY0FLVEtoV3VqRGx5eGZPUnBHRWFuUFQ4Umk4S0I1eHFjZDJQMGR3Y0tWV3pkdFYyQnVyUGYyaVE3Z09PSnBHRWQzMDNIT01qVVgtSWlOUFZqWnc?oc=5\" target=\""
     },
     {
-      "title": "Start-Up Chile elige su nueva generación: la IA domina, pero la economía circular se abre paso entre las 59 elegidas - Diario Sustentable",
+      "title": "Start-Up Chile elige su nueva generación: la IA domina, pero la economía circular se abre paso entre las 59 elegidas - diariosustentable.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVGhsLWw2TVdhMUNHN1pZV2dJbUVLRDE1OE40ZGUtSFFsTHNTbDg2WTBPVGdhckFOdHFKZzBuRHM4dWNNRk1jRGk1ZW5ONWJvQ2FIajBBYzNObUF1bEtJNlQyNXlfdUx6d0ZpVE1fTElzazBpWko3RG9IYkw2RkVZaDBSQXJvVlUxMnZ3em44cU9iVWJIMnN4N1VsZ2FYbGVKc2g0S3JhSnJJY05zUkZxOXN3cmxkc3lHb2VidzYtd0gydE9TNTRkMmtZYW1pVmlTbjVyUHozYzdMaDRXczNUel9mcWJBRWdZRlJOTHVB?oc=5",
       "source": "Google News",
       "category": "news",
