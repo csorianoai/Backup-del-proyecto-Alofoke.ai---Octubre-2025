@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Marvel Tōkon Fighting Souls: PlayStation le da un aire fresco al género de peleas",
+      "url": "https://www.clarin.com/informacion-general/marvel-tokon-fighting-souls-playstation-da-aire-fresco-genero-peleas_0_Y3runrn1wB.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Aug 2026 16:12:06 +0000",
+      "summary": "<ul><li>La nueva apuesta de Marvel y PlayStation combina combates accesibles con mecánicas profundas para los jugadores más experimentados. </li><li>Su modo historia y la adaptación de las habilidades de los héroes son algunos de sus principales atractivos. </li></ul>"
+    },
+    {
       "title": "Día del Niño: cómo elegir el primer celular para un chico y qué controles parentales activar",
       "url": "https://www.clarin.com/tecnologia/dia-nino-elegir-primer-celular-chico-controles-parentales-activar_0_mlUQczjTzK.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,20 @@
       "summary": "<ul><li>Un investigador argentino y otro colombiano se hicieron pasar por empleadores y lograron infiltrar una célula vinculada con el régimen norcoreano.</li><li>Los operadores usaban identidades robadas, documentos falsos y computadoras para conseguir empleos remotos en empresas occidentales.</li>"
     },
     {
-      "title": "DEF CON 34: muestran cómo se pueden hackear los controles biométricos de bancos y fintech de América Latina",
-      "url": "https://www.clarin.com/tecnologia/def-34-muestran-pueden-hackear-controles-biometricos-bancos-fintech-america-latina_0_BVlFHCOF9j.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 09 Aug 2026 08:45:28 +0000",
-      "summary": "<ul><li>Investigadores argentinos y ecuatorianos lograron superar pruebas de vida y controles contra <em>deepfakes</em>.</li><li>Advierten que la biometría no debería funcionar como única medida de seguridad y proponen medidas para mejorar los sistemas.</li><li>Qué problemas genera la inteligencia a"
-    },
-    {
       "title": "La última trampa de la inteligencia artificial - Revista Anfibia",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 13 Aug 2026 11:53:38 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPUzV5M21rUVhTQW5IaWVLZHZfeXRhNnRSeUhtdnBBOVppT1k4V1B2YllvQ1RlVEJ2VnRVcHNnZmFVSXZwb01sQTNNc1liUi1YaFBqRXUwTlhwdXVxSE8yT2t3SUFKTnpLbFZHQjB0Q19yTTY0eUxxMHh4WXhjRUk0MktOb00?oc=5\" target=\"_blank\">La última trampa de la inteligencia artificial</"
+    },
+    {
+      "title": "ChatGPT sigue siendo la IA más usada en Argentina, pero dos rivales crecen con fuerza - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnVubFgxQnoyQS1kamFaTjJ3WFU2OUNNTTYtLTI4YjBFaUktdzAwWGU5TEFSQkpIbmhJWTYxak10S0I0eXNxcF9vSnp0WnRQXzgxb1U0bHIyUll1aTBXY2ZNMW9iNmRqVGZtQW13V3ZidHU3eDlHQkVNMGthQkRmMTFlM2RoSjA3N0V5NVZvb1Q2RXF1c3BJTFlXaXFVTmtHSzg3cUxsZ3F3UFIwTnlkeUExR09UQS1aa2FUUWRrQ1FWdXFZTDc5dFVaZExEVUpuRkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Aug 2026 14:57:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcnVubFgxQnoyQS1kamFaTjJ3WFU2OUNNTTYtLTI4YjBFaUktdzAwWGU5TEFSQkpIbmhJWTYxak10S0I0eXNxcF9vSnp0WnRQXzgxb1U0bHIyUll1aTBXY2ZNMW9iNmRqVGZtQW13V3ZidHU3eDlHQkVNMGthQkRmMTFlM2RoSjA3N0V5NVZvb1Q2RXF1c3BJTFlXaXFVTmtHSzg3cUxsZ3F3UFIwTnlkeUExR09UQS1aa2"
     },
     {
       "title": "Adriana Baravalle durante un conferencia en Sociedad Argentina de Inteligencia Artificial - Infobae",
@@ -59,15 +67,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm8zY2NnR1owR2hrbWdoVUN6S2U1QnNtVGhQaU1xZFdWUUU1eTRtMlRqZWVJWjl2ZkdUSC1odDlvWFp0RDZQR2lFNGRfdUFBUVczUEdBcDR0Qy1FXzNDemdmUHVpUFZ6dHZFZnY1cU1vQTd0RXFkblZXRV9zamNBbUJUMDcxS00zeUd2QjJEXzA5TFRodW5NcUhpQU9qaEdoMUpseEpidjdLNlAtcDNMckVnV0t1UlZqdW"
     },
     {
-      "title": "Argentina vs. España: la inteligencia artificial predijo qué selección sería la ganadora del Mundial 2026 - El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcW5qLVZmbnVTakFZRUNnTENwNkgtUEJWczE4SXZPY1RSc2xaQkxVeGVka0RldFV2QTdvNmREMlJUOGs3R1NIYUR2MzRqUEwwWFZSWVdWV3ZaekVKTjc1VkdpaGJRTUZpV3hibkpPcmU3VnM3d01xeGxjZHFlQjNfeXdWZ29MN0tlczFySk1sV2owOC1GanRfemJCYmppMDJ6N3g1aGNrcU1NMEdRYzVHQVFSR3M1QkN5WGlTc0dLMG5Yb0xwV0JyMXpKZ3FOcFowb1FVcy1JUUV1Y3pPd0Y1a0x3eUo2VV9qRjdqNmxHN0VHcTjSAfgBQVVfeXFMUHpUZ0Q3RHZYdVBMM2QxdUUta0ZBeVdFblRDbmNWdXZLU2xhaXRNZWllYUhpak5XTFZEM1lZTXBfUFhEUHNQcnVHLUpmQ1ZaTnJ1UlNSWEpaSUtsSFNxbkZzbUhZQTZsV3pVWGlNbldpRl9HakJBUWpGakRKWFZ4NE91bXhXa0NUT0xXY0VTTlg1b3lNdXE4bkhaWVhKLWhNc25qZkJrVURXUGpXS1FKM0JuZWMyU0JVNldYQVJqVmJObmhCTnhiY09MQjN4TGlNQW8zbmoyNmRVR2dHYTcyWVo1N2NRUWlSM1ZpTWc4TUxIdHNDLVRaN0Y?oc=5",
+      "title": "Ximena Gauto Acosta analizó el impacto de la IA en el empleo - AM 1350 Radio Buenos Aires",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0F4MjlQb093d3FIWHJiUmVHTWh4aFl3SDdVdXFxOGZNWVJKc01jaW9aSjVvY0YtYVpsczFLNGp5VVV6U1RPZXNLMmhyUnZoSWM0aDVHd01jV1hBT3l1OVpMN2ttOUJZLW03M3VWLWd2eEdlSTMzYjhDSnFKVjR0cmYyeE51UzJRUVF2Z3d1RmY0VVdlMmdnSnVOWjk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 19 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcW5qLVZmbnVTakFZRUNnTENwNkgtUEJWczE4SXZPY1RSc2xaQkxVeGVka0RldFV2QTdvNmREMlJUOGs3R1NIYUR2MzRqUEwwWFZSWVdWV3ZaekVKTjc1VkdpaGJRTUZpV3hibkpPcmU3VnM3d01xeGxjZHFlQjNfeXdWZ29MN0tlczFySk1sV2owOC1GanRfemJCYmppMDJ6N3g1aGNrcU1NMEdRYzVHQVFSR3M1QkN5WG"
+      "published": "Thu, 13 Aug 2026 16:38:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0F4MjlQb093d3FIWHJiUmVHTWh4aFl3SDdVdXFxOGZNWVJKc01jaW9aSjVvY0YtYVpsczFLNGp5VVV6U1RPZXNLMmhyUnZoSWM0aDVHd01jV1hBT3l1OVpMN2ttOUJZLW03M3VWLWd2eEdlSTMzYjhDSnFKVjR0cmYyeE51UzJRUVF2Z3d1RmY0VVdlMmdnSnVOWjk?oc=5\" target=\"_blank\">Ximena Gauto Aco"
     },
     {
-      "title": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano - elcolombiano.com",
+      "title": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano - El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeElmNlJXYTVxWGEwbk9QeHV30gHPAUFVX3lxTFBVSVRGVHJBeTFWY0lkeTJXMmVlUzRnUUR3UFN5SUdPZlFoVW5JdGF1OU1oTERhVUpDTkx0M0d5Y3dpck05bE9ORVdPcEtVS3pyYVJldDgzWjRteXlueGNxanl0LUhXY2tXa0NGUVBkcHBTR0dGNTZsWUZqT1M3R1psaE9Sb2lIV1JtajdWbkRlY1VCemNjcmtrNU9oRXl5b0hjeUpwaVAxNVRadC15RDlsbDBNbUh6d3NjLUo0NHBUakNiRThldGszbTRQMmY2QQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -75,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeE"
     },
     {
-      "title": "IA agéntica, personalización y arquitecturas inteligentes: las claves que dejó el Salesforce Insurance Day Buenos Aires - 100% seguro",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzRyQ05YRVFRZWRwVGRfZ3FuX0pwRzE2RWxiYThkblVtRVNhMGdRdS1YN0F5NHlYRDhMRXh1SFhIcWQ3UUE1Z0lzb1FzWlpuSkl2UGl6Rm9CTERBMUwtSnVGcHczU0xoTkNnMl8wUERDR0lvbXBJLW9vckU4VVlWOXRJUUtBcmRON1U4R2RMNGJra1BBUUp3MXhSOEVPS1lITmJnMF9XTTRyOUxjMjBuY1h2MG0wdlRtTjhYOGYxYWJSQnVHRnRobmhZRkxZSXJUTEhvazlDcUxOams?oc=5",
+      "title": "Buenos Aires aprueba marco de gobernanza de IA para la administración pública - Mobile Time Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aFBZcVBVTlBBNTNvVGpSa0ZrRHY3S3E1ejd4ekQ2X3Bka0l2ckpWa09icGpCR1h4Mlpac1BObW9hNFg1eUVYX0JmZXJyZE5FamF3ZWFZY0RoRzAxVlJ1MEpwR2x2Sl9nTEZrVU5DeTNZUVZhX1RyaEJmVjdfNms?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 10 Aug 2026 16:24:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNzRyQ05YRVFRZWRwVGRfZ3FuX0pwRzE2RWxiYThkblVtRVNhMGdRdS1YN0F5NHlYRDhMRXh1SFhIcWQ3UUE1Z0lzb1FzWlpuSkl2UGl6Rm9CTERBMUwtSnVGcHczU0xoTkNnMl8wUERDR0lvbXBJLW9vckU4VVlWOXRJUUtBcmRON1U4R2RMNGJra1BBUUp3MXhSOEVPS1lITmJnMF9XTTRyOUxjMjBuY1h2MG0wdlRtTj"
-    },
-    {
-      "title": "Bs As Cocktail Week 2026: charlas, competencia con IA y Cocktail Fest - Rincon Bon Vivant",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2FRSzkyTUJzazZBNFFZaTFLQUU5RDFGWEJBdUtiTGY0TndpeVowSkZtN2h2VnE4dXk3ZVAydnVmc1JNRk1vOUh2cU5xWWtJeXBUUXd4elBtNW9fNnFmZktOS0FuczFJNmdnVnF1c0F5cEUyd25EMkZLTWZ2OGx5eGxST2t6Q09Fb0RrNlhnX1JNckYySzktUzRLMXdVZDdtdUxmUWoxTVlkR2VzaVMzM0VyM2JRUjdt?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 12 Aug 2026 23:35:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2FRSzkyTUJzazZBNFFZaTFLQUU5RDFGWEJBdUtiTGY0TndpeVowSkZtN2h2VnE4dXk3ZVAydnVmc1JNRk1vOUh2cU5xWWtJeXBUUXd4elBtNW9fNnFmZktOS0FuczFJNmdnVnF1c0F5cEUyd25EMkZLTWZ2OGx5eGxST2t6Q09Fb0RrNlhnX1JNckYySzktUzRLMXdVZDdtdUxmUWoxTVlkR2VzaVMzM0VyM2JRUjdt?o"
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE42aFBZcVBVTlBBNTNvVGpSa0ZrRHY3S3E1ejd4ekQ2X3Bka0l2ckpWa09icGpCR1h4Mlpac1BObW9hNFg1eUVYX0JmZXJyZE5FamF3ZWFZY0RoRzAxVlJ1MEpwR2x2Sl9nTEZrVU5DeTNZUVZhX1RyaEJmVjdfNms?oc=5\" target=\"_blank\">Buenos Aires aprueba marco de gobernanza de IA para la a"
     },
     {
       "title": "Mendel: startup argentina levanta $50M y automatiza gastos de Vaca Muerta - El Ecosistema Startup",

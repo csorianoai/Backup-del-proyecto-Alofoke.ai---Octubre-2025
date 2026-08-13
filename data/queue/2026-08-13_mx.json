@@ -3,7 +3,23 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Nos pagan 6 pesos por paquete”: la experiencia real de convertir una tiendita en punto Mercado Libre",
+      "title": "Los NFT generan 24 mdd en el Mundial tras el colapso del mercado",
+      "url": "https://expansion.mx/tecnologia/2026/08/13/mundial-2026-revivio-nft-y-genero-24-mdd",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Aug 2026 11:55:30 GMT",
+      "summary": "La FIFA recaudó 6 mdd en comisiones por la emisión de entradas digitales en Avalanche, en un sector cuya actividad cayó 90% respecto a sus máximos."
+    },
+    {
+      "title": "De Android a iPhone, por qué el USB-C terminó ganando la batalla de los cargadores",
+      "url": "https://expansion.mx/tecnologia/2026/08/12/por-que-usb-c-es-cargador-android-iphone",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 12 Aug 2026 22:46:28 GMT",
+      "summary": "Europa convirtió al USB-C en un estándar obligatorio para distintos dispositivos, mientras fabricantes como Apple terminaron adoptándolo en sus celulares."
+    },
+    {
+      "title": "\"Nos pagan 6 pesos por paquete”: la experiencia real de convertir una tiendita en punto Mercado Libre",
       "url": "https://expansion.mx/tecnologia/2026/08/12/mercado-libre-nos-da-6-pesos-por-paquete-tienditas",
       "source": "Expansión Tecnología",
       "category": "tech",
@@ -27,23 +43,7 @@
       "summary": "Estos son los detalles del nuevo teléfono de Google: características, funciones, cámaras y precio, así como toda la información del nuevo Pixel Tag."
     },
     {
-      "title": "El renacer de Intel se diseña en México: el talento local impulsa el futuro de IA en EU",
-      "url": "https://expansion.mx/tecnologia/2026/08/12/mexico-clave-renacer-intel-talento-local",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 12 Aug 2026 11:55:37 GMT",
-      "summary": "Cerca de 1,000 especialistas en Guadalajara participan en el desarrollo de los procesadores Xeon, mientras México gana peso en la cadena global de suministro de inteligencia artificial."
-    },
-    {
-      "title": "Prohibir redes sociales a infancias violaría la Constitución, advierten analistas",
-      "url": "https://expansion.mx/tecnologia/2026/08/11/prohibir-redes-sociales-ninos-adolescentes-constitucion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 11 Aug 2026 23:00:33 GMT",
-      "summary": "Ante el debate para limitar celulares y plataformas en escuelas, especialistas alertan que una prohibición podría contradecir el Artículo 6° y afectar el acceso a la educación y la salud."
-    },
-    {
-      "title": "IA en México: las empresas aún no logran rentabilizarla - dw.com",
+      "title": "IA en México: las empresas aún no logran rentabilizarla - DW.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGpqMlNxRXl1RmhaS1dIaFRhX0N5LUZTc0xVQ016NnFsMG1CRGtsd0swZmtST1hlam9tZ1M3U01sdXd2UGVYUU01S0NGbmx2bnptUmh2c0paUkEzY2NaS3BSaXhzelVXMi1NR1ZjZ3c3cHRzdUFITklXNXd1Y0Z4SGNYN0E2SERqMEtxT3U5aFNyck5rR3VsMmtudlpzZ9IBngFBVV95cUxOSU5DSTI2UnIxQi03WHlFZlFra1FGOC1HSy1ZNDVqTzFTUUNDYUZKMWxVN0UzTnZCcjE3ZUF4YkFSMWhJel8zMDB1LXowX0FqVmtOdlhfY0lEMTNVU0Q2RXlxRjJWUWkxbUpsMm1GeU5PaU9OZS1EQlpLMmp4aXJZaTNXaHczblI0amhFVjJ0THdaYlYzS3ZCUWtTZVhkdw?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMTlCMnBhOE5HeXQ5OG0wa2lTeFhaV3ptNmo3Y0Ewc1JudnB0MGVhXy1ySFd3TVRmNTBXcUIxNE0ta3VzUTVnT191ZW1kZ0VvaS16WGFOdWtnVnRSeHg2SGIwOF9mVXRreW9DTXpxVGloUm50ZHZwTlUtNFl4d2t0WUIzazBkaFlsWkczOGpidnNzT25CaEtKX1pyWXVLQQ?oc=5\" target=\"_blank\">Cómo México a"
     },
     {
-      "title": "Industria cosmética: beneficios y riesgos de la inteligencia artificial según la UNAM - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRTd0o4OXNtaGdVMkFlSlRZdTBxRnJZUG43R1dMWklkWHp4dWxrSkRkdVViY1ROdEtSSENvT0VfT0JMU2g3OHFNUE1DWmlwZnRGb0RQT2ZTVnFVNEh0bTgwSjlhcGtJb2pjeUpDQmNpZlA5S2FERUZQRVI0Z2ZoOGlDVEpSYVZDclBoU1BqbDVZdklTRFdKX1RHZ0tVWFgxTHZkSUdnN0I2TDU5RVNsdEk4ejhtZkszbHpMdFdXeTZsbjdGNVHSAeABQVVfeXFMUHhfR3ByY1FBc2s4LXZEaXhhR2RSaHFhLXBSUzEyM2loMTI1Y0R4MFE4d1NJTFM5ci1CWDNkYW54RHJRVlhvckFCSk9YYjdWVWpkREdYRXFEeENmNFdCVjFUQV9DSWRFcUx5dHFaRTl1QnByTjJBbkFUcTNCMWFNSlBoM3ZWNUF5WEVqMVZKM3JUQnE2U3ZCX3JhSHdNeXBQTkNsSHE0MExOeW1yZmNhWTBOUVRMaE1GbFFJSDhVdmE3Wm0taDFGdV9xZXdka0pkSWVNSU92R1gzZVEtNjRvRDg?oc=5",
+      "title": "Channel Watch de CONTEXT llega a México para medir el avance de la inteligencia artificial en el canal tecnológico - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNjFnZVZKVnZENUIzaUFHT2dkRHRJX1BXWDNDTWhDVDMxSVdvU0NGMzNZWU81QW1WWV9LU282WXVHWllscUJUd2pKbloyTXF5a1NodjNVT1hDU0ROT0lvNkZJZmdaTUJuTy13TGdWWklCcEwxTkpWV29DWGtud3hhMVp1cjFidEtSenB4ZFc4MF9PSEFuV1pZWGJnNmVBNll3VDlXQWRfZXZoTFM4UTFMZDNRdzZPdEFvU21ES3ZzSTdZaHFSeTkxclNBVTg1M1ZmOGNxTDZ0Y01GRzZPYll0cjU2QlNVTW9wWmE0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 12 Aug 2026 19:37:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkRTd0o4OXNtaGdVMkFlSlRZdTBxRnJZUG43R1dMWklkWHp4dWxrSkRkdVViY1ROdEtSSENvT0VfT0JMU2g3OHFNUE1DWmlwZnRGb0RQT2ZTVnFVNEh0bTgwSjlhcGtJb2pjeUpDQmNpZlA5S2FERUZQRVI0Z2ZoOGlDVEpSYVZDclBoU1BqbDVZdklTRFdKX1RHZ0tVWFgxTHZkSUdnN0I2TDU5RVNsdEk4ejhtZkszbH"
+      "published": "Thu, 13 Aug 2026 17:37:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNjFnZVZKVnZENUIzaUFHT2dkRHRJX1BXWDNDTWhDVDMxSVdvU0NGMzNZWU81QW1WWV9LU282WXVHWllscUJUd2pKbloyTXF5a1NodjNVT1hDU0ROT0lvNkZJZmdaTUJuTy13TGdWWklCcEwxTkpWV29DWGtud3hhMVp1cjFidEtSenB4ZFc4MF9PSEFuV1pZWGJnNmVBNll3VDlXQWRfZXZoTFM4UTFMZDNRdzZPdEFvU2"
     },
     {
       "title": "SinergIA Ventures: fondo VC de US$1,1M para startups de IA en México 2026 - El Ecosistema Startup",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmd3MWpScWhlWVY5YTFFUVU1cEI2TFpoTGZZdVlkR253dC03MXVFNkFnbGYxUmxqY2pVQlZ2dERWU2pZclczMXhCaTQ3Sy1XaHpUZk8zdEtPRXVDbzVZcHp2dnZCaHMyXzUwNGZZR0F1VWVOaWZBMlZOT19yWmVubC1CQ0VYWjUwZG5yU0lFQ3RlVVRhaENGSncyb2FiVFBpejQ4?oc=5\" target=\"_blank\">SinergI"
     },
     {
-      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - cronista.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "Colombia supera a México en venture capital: IA desplaza a Fintech en 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5",
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 06 Aug 2026 17:24:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5\" target=\"_blank\">C"
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - observatorio.tec.mx",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",
