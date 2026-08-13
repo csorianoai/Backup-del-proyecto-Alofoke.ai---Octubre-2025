@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Las universidades del cibercrimen: el negocio que profesionaliza a los nuevos delincuentes digitales",
+      "url": "https://expansion.mx/tecnologia/2026/08/13/universidades-cibercrimen-forman-nuevos-ciberdelincuentes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Aug 2026 22:30:00 GMT",
+      "summary": "Cursos de phishing, manuales de ransomware y bolsas de trabajo clandestinas, forman parte de una industria que hoy recluta y capacita a los nuevos cibercriminales."
+    },
+    {
+      "title": "Los trabajadores de SK Hynix crean un sindicato y van por su parte del negocio de la IA",
+      "url": "https://expansion.mx/tecnologia/2026/08/13/trabajadores-sk-hynix-sindicato-ganancias-chips-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Aug 2026 19:34:14 GMT",
+      "summary": "Trabajadores de SK hynix crearon un nuevo sindicato en Corea del Sur para ganar fuerza en la negociación por salarios y bonos ante el boom de los chips para IA."
+    },
+    {
       "title": "Los NFT generan 24 mdd en el Mundial tras el colapso del mercado",
       "url": "https://expansion.mx/tecnologia/2026/08/13/mundial-2026-revivio-nft-y-genero-24-mdd",
       "source": "Expansión Tecnología",
@@ -27,23 +43,15 @@
       "summary": "El registro es gratuito y la empresa paga por cada paquete procesado, aquí los requisitos, el proceso y cuánto podría ganar un negocio."
     },
     {
-      "title": "Gemini alcanza los 1,000 millones de usuarios",
-      "url": "https://expansion.mx/tecnologia/2026/08/12/gemini-alcanza-1-000-millones-usuarios",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 12 Aug 2026 17:28:34 GMT",
-      "summary": "Conforme Gemini crece en usuarios, Google acelera la integración de Gemini en servicios como Search, Gmail, Maps y YouTube."
+      "title": "IA en México: 2.5 millones de empresas ya la usan, pero pocas crean nuevos productos - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc21lQjF4X0dvQzhMdF9zT054OEtJQWw3VS01R1NicGYweDE1VFF1V280c0g3MTg5NW5UcFk4U2lfMTJyNEhnRVl5a21hR19NaUdNbzdSN0hHVldPWDJabVpucTBuQkN5T0dsaUF5c2NqODI3QndhRFdtMHRHb1RBcHYyMlkzWmpDYUtOSm9iZG1HRE5OTTJHTXNZTlltLThNWTFxUDdqUjdieEF5dzh3bU9TV2NMYUhCVk1DQnNfMWRIcFQxRnktZ05ETDNHODg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Aug 2026 17:46:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNc21lQjF4X0dvQzhMdF9zT054OEtJQWw3VS01R1NicGYweDE1VFF1V280c0g3MTg5NW5UcFk4U2lfMTJyNEhnRVl5a21hR19NaUdNbzdSN0hHVldPWDJabVpucTBuQkN5T0dsaUF5c2NqODI3QndhRFdtMHRHb1RBcHYyMlkzWmpDYUtOSm9iZG1HRE5OTTJHTXNZTlltLThNWTFxUDdqUjdieEF5dzh3bU9TV2NMYUhCVk"
     },
     {
-      "title": "Google Pixel 11 no sube de precio, pero elimina las opciones de 128 GB de entrada",
-      "url": "https://expansion.mx/tecnologia/2026/08/12/google-pixel-11-precio-caracteristicas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 12 Aug 2026 14:01:20 GMT",
-      "summary": "Estos son los detalles del nuevo teléfono de Google: características, funciones, cámaras y precio, así como toda la información del nuevo Pixel Tag."
-    },
-    {
-      "title": "IA en México: las empresas aún no logran rentabilizarla - DW.com",
+      "title": "IA en México: las empresas aún no logran rentabilizarla - dw.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGpqMlNxRXl1RmhaS1dIaFRhX0N5LUZTc0xVQ016NnFsMG1CRGtsd0swZmtST1hlam9tZ1M3U01sdXd2UGVYUU01S0NGbmx2bnptUmh2c0paUkEzY2NaS3BSaXhzelVXMi1NR1ZjZ3c3cHRzdUFITklXNXd1Y0Z4SGNYN0E2SERqMEtxT3U5aFNyck5rR3VsMmtudlpzZ9IBngFBVV95cUxOSU5DSTI2UnIxQi03WHlFZlFra1FGOC1HSy1ZNDVqTzFTUUNDYUZKMWxVN0UzTnZCcjE3ZUF4YkFSMWhJel8zMDB1LXowX0FqVmtOdlhfY0lEMTNVU0Q2RXlxRjJWUWkxbUpsMm1GeU5PaU9OZS1EQlpLMmp4aXJZaTNXaHczblI0amhFVjJ0THdaYlYzS3ZCUWtTZVhkdw?oc=5",
       "source": "Google News",
       "category": "news",
@@ -55,24 +63,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTlCMnBhOE5HeXQ5OG0wa2lTeFhaV3ptNmo3Y0Ewc1JudnB0MGVhXy1ySFd3TVRmNTBXcUIxNE0ta3VzUTVnT191ZW1kZ0VvaS16WGFOdWtnVnRSeHg2SGIwOF9mVXRreW9DTXpxVGloUm50ZHZwTlUtNFl4d2t0WUIzazBkaFlsWkczOGpidnNzT25CaEtKX1pyWXVLQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 13 Aug 2026 13:28:55 GMT",
+      "published": "Thu, 13 Aug 2026 14:12:32 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMTlCMnBhOE5HeXQ5OG0wa2lTeFhaV3ptNmo3Y0Ewc1JudnB0MGVhXy1ySFd3TVRmNTBXcUIxNE0ta3VzUTVnT191ZW1kZ0VvaS16WGFOdWtnVnRSeHg2SGIwOF9mVXRreW9DTXpxVGloUm50ZHZwTlUtNFl4d2t0WUIzazBkaFlsWkczOGpidnNzT25CaEtKX1pyWXVLQQ?oc=5\" target=\"_blank\">Cómo México a"
     },
     {
-      "title": "Channel Watch de CONTEXT llega a México para medir el avance de la inteligencia artificial en el canal tecnológico - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNjFnZVZKVnZENUIzaUFHT2dkRHRJX1BXWDNDTWhDVDMxSVdvU0NGMzNZWU81QW1WWV9LU282WXVHWllscUJUd2pKbloyTXF5a1NodjNVT1hDU0ROT0lvNkZJZmdaTUJuTy13TGdWWklCcEwxTkpWV29DWGtud3hhMVp1cjFidEtSenB4ZFc4MF9PSEFuV1pZWGJnNmVBNll3VDlXQWRfZXZoTFM4UTFMZDNRdzZPdEFvU21ES3ZzSTdZaHFSeTkxclNBVTg1M1ZmOGNxTDZ0Y01GRzZPYll0cjU2QlNVTW9wWmE0?oc=5",
+      "title": "IA en México 2026: 48% empresas usan IA pero 46% no sabe si funciona - ecosistemastartup.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 13 Aug 2026 17:37:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNjFnZVZKVnZENUIzaUFHT2dkRHRJX1BXWDNDTWhDVDMxSVdvU0NGMzNZWU81QW1WWV9LU282WXVHWllscUJUd2pKbloyTXF5a1NodjNVT1hDU0ROT0lvNkZJZmdaTUJuTy13TGdWWklCcEwxTkpWV29DWGtud3hhMVp1cjFidEtSenB4ZFc4MF9PSEFuV1pZWGJnNmVBNll3VDlXQWRfZXZoTFM4UTFMZDNRdzZPdEFvU2"
-    },
-    {
-      "title": "SinergIA Ventures: fondo VC de US$1,1M para startups de IA en México 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmd3MWpScWhlWVY5YTFFUVU1cEI2TFpoTGZZdVlkR253dC03MXVFNkFnbGYxUmxqY2pVQlZ2dERWU2pZclczMXhCaTQ3Sy1XaHpUZk8zdEtPRXVDbzVZcHp2dnZCaHMyXzUwNGZZR0F1VWVOaWZBMlZOT19yWmVubC1CQ0VYWjUwZG5yU0lFQ3RlVVRhaENGSncyb2FiVFBpejQ4?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 11 Aug 2026 13:31:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmd3MWpScWhlWVY5YTFFUVU1cEI2TFpoTGZZdVlkR253dC03MXVFNkFnbGYxUmxqY2pVQlZ2dERWU2pZclczMXhCaTQ3Sy1XaHpUZk8zdEtPRXVDbzVZcHp2dnZCaHMyXzUwNGZZR0F1VWVOaWZBMlZOT19yWmVubC1CQ0VYWjUwZG5yU0lFQ3RlVVRhaENGSncyb2FiVFBpejQ4?oc=5\" target=\"_blank\">SinergI"
+      "published": "Thu, 13 Aug 2026 19:24:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5\" target=\"_blank\">IA en México 202"
     },
     {
       "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "title": "SinergIA Ventures: fondo VC de US$1,1M para startups de IA en México 2026 - ecosistemastartup.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmd3MWpScWhlWVY5YTFFUVU1cEI2TFpoTGZZdVlkR253dC03MXVFNkFnbGYxUmxqY2pVQlZ2dERWU2pZclczMXhCaTQ3Sy1XaHpUZk8zdEtPRXVDbzVZcHp2dnZCaHMyXzUwNGZZR0F1VWVOaWZBMlZOT19yWmVubC1CQ0VYWjUwZG5yU0lFQ3RlVVRhaENGSncyb2FiVFBpejQ4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+      "published": "Tue, 11 Aug 2026 13:31:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmd3MWpScWhlWVY5YTFFUVU1cEI2TFpoTGZZdVlkR253dC03MXVFNkFnbGYxUmxqY2pVQlZ2dERWU2pZclczMXhCaTQ3Sy1XaHpUZk8zdEtPRXVDbzVZcHp2dnZCaHMyXzUwNGZZR0F1VWVOaWZBMlZOT19yWmVubC1CQ0VYWjUwZG5yU0lFQ3RlVVRhaENGSncyb2FiVFBpejQ4?oc=5\" target=\"_blank\">SinergI"
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - observatorio.tec.mx",
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
     },
     {
-      "title": "No buscamos una IA que disminuya capacidad de pensar; Tec de Monterrey va por uso reflexivo - Imagen Radio",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZDB2WnlRYVJBdlh5YWdSN3publZ1SmlOdWZuNtIB2gFBVV95cUxOd01ramJfUFVxVlZrckRmRTN5a1NFU2xBVTM4MlQxY1FPNkpUOERVWDVBaEdsZHZGcmR3V0RxelA0cnBkeldkaUF4aVVLZldEXzlBWlNzUmpZRW9jTlF1SVhaYl9SUWVsNlNqRkxnLXo5TURtcUFaY3RXQ3N2N1Z4RmpWYnNoV1pnM3ZlWmtVSjJrZ3hJdnhDelBFZlViaHRIcDFZQkE1QUNwWjhpU2xIWms0VWVZYlo1RzYyZ0hJMjFWcHVFZXNablFBQ29kLUd5SXdtejI0bExPZw?oc=5",
+      "title": "La IA como docente: la inquietante advertencia de un experto - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkVsenNmZzhiM3BXeXZnb0Iza0ltOHBwX3pZZDdRUE5qdmpoUTFaQm1rNnNmaFdieElyRUFwaEExbnh1SlNYOXBGRU5uWHFlVjRlaDM5cGhtMTY2dGhqSWo1VzMwWjYtd004M0ctaHR6QVozbnR0ME1WRjBsNURBWVdxMEJXMklaekU0Nm5DWm1FS2lsMVVj?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZD"
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkVsenNmZzhiM3BXeXZnb0Iza0ltOHBwX3pZZDdRUE5qdmpoUTFaQm1rNnNmaFdieElyRUFwaEExbnh1SlNYOXBGRU5uWHFlVjRlaDM5cGhtMTY2dGhqSWo1VzMwWjYtd004M0ctaHR6QVozbnR0ME1WRjBsNURBWVdxMEJXMklaekU0Nm5DWm1FS2lsMVVj?oc=5\" target=\"_blank\">La IA como docente: la "
     }
   ],
   "count": 14
