@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-17",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
+      "url": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 16 Aug 2026 12:20:30 GMT",
+      "summary": "El cofundador y CEO de la plataforma que cambió la forma de viajar sostiene que, a mayor número de obstáculos burocráticos, menos gente común podrá ser anfitriona y más profesionales habrá en la app."
+    },
+    {
+      "title": "El Mundial no solo dejó goles: los matches en Tinder crecieron 96.5% en México",
+      "url": "https://expansion.mx/tecnologia/2026/08/14/tinder-matches-crecieron-mundial-2026-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 14 Aug 2026 23:23:55 GMT",
+      "summary": "El Mundial convirtió a México en punto de encuentro para aficionados de todo el mundo y también impulsó el ligue digital, incluso por encima de las Canadá y Estados Unidos, las otras sedes mundialistas."
+    },
+    {
+      "title": "La directora de ética de OpenAI se va en plena fuga de ejecutivos",
+      "url": "https://expansion.mx/tecnologia/2026/08/14/directora-etica-openai-se-va-fuga-ejecutivos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 14 Aug 2026 18:30:34 GMT",
+      "summary": "La salida de ejecutivos de alto perfil ocurre justo cuando OpenAI se prepara para salir a la bolsa."
+    },
+    {
+      "title": "Instagram cambia de imagen después de una década",
+      "url": "https://expansion.mx/tecnologia/2026/08/14/instagram-cambia-de-imagen-despues-de-una-decada",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 14 Aug 2026 17:27:57 GMT",
+      "summary": "El cambio llega después de un periodo particularmente largo para una marca que ha transformado radicalmente la manera en que las personas utilizan las redes sociales."
+    },
+    {
+      "title": "Las universidades del cibercrimen: el negocio que profesionaliza a los nuevos delincuentes digitales",
+      "url": "https://expansion.mx/tecnologia/2026/08/13/universidades-cibercrimen-forman-nuevos-ciberdelincuentes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 13 Aug 2026 22:30:00 GMT",
+      "summary": "Cursos de phishing, manuales de ransomware y bolsas de trabajo clandestinas, forman parte de una industria que hoy recluta y capacita a los nuevos cibercriminales."
+    },
+    {
+      "title": "Más de la mitad de los trabajadores en México deberá actualizar sus habilidades hacia 2030 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNk91LVoxQTdfcHNmRzFYLWNicGx2OGVhSnJFRWZwOTBYakVuNnFUbC1wOTZhdXpCckpNeFgxdGZpSldxMmZTMFFsWWJ3bUZJMzZieDF2ZEVkbTEtOWZjYXpFQ1RXcklEZTNTRm84SlRUYXNLS0JfUHFEM2IxOGVkX1U1ejlxalRmY1ZYbExOLW5SOGZwQlpMSzRsZTNLWmJtMVg2amV2aEdPUWpEVWZod1h3ZU9jLU5jQ0ZKdkNwNXZfd3VxeExiaURqREFxZ9IB6AFBVV95cUxORXg4N1hmaFlOdEgwenduYVBrOEhPR3ZRR2c3ZnlJTFpQczJ2RW95LUwxMXNvUFpjVVF2SDYzejI4T1NNd1FjSkw1LXJyeUNBQVNUbVRjNDBTZ1FlMmxIMFRvSmdCd19IREdCOTdfVzdvTVV0T3pyRlRnOE1uVmJhM3BIS1Z1TWdrZXBudk1iUmFsNkFNeTY5bjlOdjlUcTZJR3VJN2gyaTVpN0pndHNRbDdvc0hQcmNNQzVWSUtaQWQwdFpLVDBQTVlOT0F4LVV1VlZIVEI2RWdIdnBKdE9FZUpzVmRfUVBw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 17 Aug 2026 00:16:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNNk91LVoxQTdfcHNmRzFYLWNicGx2OGVhSnJFRWZwOTBYakVuNnFUbC1wOTZhdXpCckpNeFgxdGZpSldxMmZTMFFsWWJ3bUZJMzZieDF2ZEVkbTEtOWZjYXpFQ1RXcklEZTNTRm84SlRUYXNLS0JfUHFEM2IxOGVkX1U1ejlxalRmY1ZYbExOLW5SOGZwQlpMSzRsZTNLWmJtMVg2amV2aEdPUWpEVWZod1h3ZU9jLU5jQ0"
+    },
+    {
+      "title": "México debe evolucionar de los Centros de Datos a las fábricas de Inteligencia Artificial - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkR4T01yU2Z6UV9VdlkxOGFvRmh0cERYbEY3UUxjRU9qOFJHTzBYMTZmaFAwYWlSTEVUTzYyYzVrSE9Qb0ZsS2FEb2tkS2NJVmVkUlRCZnpibzFoaW9QbDBBUVI2cUtWUmNHZHQ2SEEwenVxVGxDUk9sUzlLcFdrUFJ2VUY0cUNKQVhmenFUc2s4Q1d1Z1k1by1EU3BfbDNkZ1pydjZxdjZlQl9FYUMw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 16 Aug 2026 01:16:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkR4T01yU2Z6UV9VdlkxOGFvRmh0cERYbEY3UUxjRU9qOFJHTzBYMTZmaFAwYWlSTEVUTzYyYzVrSE9Qb0ZsS2FEb2tkS2NJVmVkUlRCZnpibzFoaW9QbDBBUVI2cUtWUmNHZHQ2SEEwenVxVGxDUk9sUzlLcFdrUFJ2VUY0cUNKQVhmenFUc2s4Q1d1Z1k1by1EU3BfbDNkZ1pydjZxdjZlQl9FYUMw?oc=5\" target="
+    },
+    {
+      "title": "Rodolfo Sancho, víctima de la inteligencia artificial: toda la verdad sobre su falsa detención en México - HOLA",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVi0tbVdHUDRkOWNKWlRRb2RBVW92VHRKdktfbEt0aWNQaElYXzdDT2MwQTJ5cVBsTXFjTXdtTzFTcExCb2M3NzNPVjFxU0tYVFRKNUVhalVPUFdqYTFzSy0tTV9VTWpaTGduMjJtckxsUGh2MU9FaWZfSFlYbjBNbkpEc1E3Uy0yLWpzZ2EzTkZ2UjJiNUJJeWZzaWRTT1BaTW5hcGJOM3gwVmVwZFdEX0lKUTQyaEJG?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 17 Aug 2026 11:27:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVi0tbVdHUDRkOWNKWlRRb2RBVW92VHRKdktfbEt0aWNQaElYXzdDT2MwQTJ5cVBsTXFjTXdtTzFTcExCb2M3NzNPVjFxU0tYVFRKNUVhalVPUFdqYTFzSy0tTV9VTWpaTGduMjJtckxsUGh2MU9FaWZfSFlYbjBNbkpEc1E3Uy0yLWpzZ2EzTkZ2UjJiNUJJeWZzaWRTT1BaTW5hcGJOM3gwVmVwZFdEX0lKUTQyaEJG?o"
+    },
+    {
+      "title": "IA en México 2026: 48% empresas usan IA pero 46% no sabe si funciona - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Aug 2026 19:24:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5\" target=\"_blank\">IA en México 202"
+    },
+    {
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+    },
+    {
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - itnow.connectab2b.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
+    },
+    {
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
+    },
+    {
+      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - ambito.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+    },
+    {
+      "title": "La IA como docente: la inquietante advertencia de un experto - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkVsenNmZzhiM3BXeXZnb0Iza0ltOHBwX3pZZDdRUE5qdmpoUTFaQm1rNnNmaFdieElyRUFwaEExbnh1SlNYOXBGRU5uWHFlVjRlaDM5cGhtMTY2dGhqSWo1VzMwWjYtd004M0ctaHR6QVozbnR0ME1WRjBsNURBWVdxMEJXMklaekU0Nm5DWm1FS2lsMVVj?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkVsenNmZzhiM3BXeXZnb0Iza0ltOHBwX3pZZDdRUE5qdmpoUTFaQm1rNnNmaFdieElyRUFwaEExbnh1SlNYOXBGRU5uWHFlVjRlaDM5cGhtMTY2dGhqSWo1VzMwWjYtd004M0ctaHR6QVozbnR0ME1WRjBsNURBWVdxMEJXMklaekU0Nm5DWm1FS2lsMVVj?oc=5\" target=\"_blank\">La IA como docente: la "
+    }
+  ],
+  "count": 14
+}
