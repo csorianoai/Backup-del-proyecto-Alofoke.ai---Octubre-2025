@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
+      "url": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 17 Aug 2026 20:00:57 GMT",
+      "summary": "Anthropic ya prepara marcas de agua estadísticas para los textos generados por Claude, mientras OpenAI ha investigado una tecnología similar para identificar contenido de IA."
+    },
+    {
+      "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
+      "url": "https://expansion.mx/tecnologia/2026/08/17/ataques-ddos-crecen-519-por-ciento-dejarte-sin-servicio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 17 Aug 2026 18:53:34 GMT",
+      "summary": "Los ataques DDoS contra empresas se vuelven más rápidos y masivos: Cloudflare registró un aumento de 519% en los incidentes que superaron 1 Tbps durante el segundo trimestre de 2026."
+    },
+    {
       "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
       "url": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
       "source": "Expansión Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Fri, 14 Aug 2026 18:30:34 GMT",
       "summary": "La salida de ejecutivos de alto perfil ocurre justo cuando OpenAI se prepara para salir a la bolsa."
-    },
-    {
-      "title": "Instagram cambia de imagen después de una década",
-      "url": "https://expansion.mx/tecnologia/2026/08/14/instagram-cambia-de-imagen-despues-de-una-decada",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 14 Aug 2026 17:27:57 GMT",
-      "summary": "El cambio llega después de un periodo particularmente largo para una marca que ha transformado radicalmente la manera en que las personas utilizan las redes sociales."
-    },
-    {
-      "title": "Las universidades del cibercrimen: el negocio que profesionaliza a los nuevos delincuentes digitales",
-      "url": "https://expansion.mx/tecnologia/2026/08/13/universidades-cibercrimen-forman-nuevos-ciberdelincuentes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 13 Aug 2026 22:30:00 GMT",
-      "summary": "Cursos de phishing, manuales de ransomware y bolsas de trabajo clandestinas, forman parte de una industria que hoy recluta y capacita a los nuevos cibercriminales."
     },
     {
       "title": "Más de la mitad de los trabajadores en México deberá actualizar sus habilidades hacia 2030 - Infobae",
