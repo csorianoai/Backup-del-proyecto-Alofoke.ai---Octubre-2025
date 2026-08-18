@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-18",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Nuevo 'modus operandi' del cibercrimen en México: Hackers llevan la extorsión hasta las impresoras",
+      "url": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 18 Aug 2026 11:55:51 GMT",
+      "summary": "Una empresa mexicana tuvo a los atacantes dentro de su red durante meses; robaron información y exigieron un rescate para recuperar el acceso, haciendo visible la amenaza dentro de sus oficinas."
+    },
+    {
+      "title": "¿Te están pagando completo? La app que creó un sobrecargo para revisar tu nómina",
+      "url": "https://expansion.mx/tecnologia/2026/08/17/sobrecargos-app-para-revisar-nomina-pagos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 18 Aug 2026 00:00:04 GMT",
+      "summary": "La necesidad de herramientas propias que faciliten trabajar en la aviación, llevan a sobrecargos, programadores y pilotos a crear sus propias aplicaciones."
+    },
+    {
+      "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
+      "url": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 17 Aug 2026 20:00:57 GMT",
+      "summary": "Anthropic ya prepara marcas de agua estadísticas para los textos generados por Claude, mientras OpenAI ha investigado una tecnología similar para identificar contenido de IA."
+    },
+    {
+      "title": "No es tu internet: los ciberataques que pueden dejarte sin servicio se disparan 519%",
+      "url": "https://expansion.mx/tecnologia/2026/08/17/ataques-ddos-crecen-519-por-ciento-dejarte-sin-servicio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 17 Aug 2026 18:53:34 GMT",
+      "summary": "Los ataques DDoS contra empresas se vuelven más rápidos y masivos: Cloudflare registró un aumento de 519% en los incidentes que superaron 1 Tbps durante el segundo trimestre de 2026."
+    },
+    {
+      "title": "Brian Chesky: \"Los desafíos de vivienda son más grandes que Airbnb\"",
+      "url": "https://expansion.mx/tecnologia/2026/08/16/brian-chesky-los-desafios-de-vivienda-son-mas-grandes-que-airbnb",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 16 Aug 2026 12:20:30 GMT",
+      "summary": "El cofundador y CEO de la plataforma que cambió la forma de viajar sostiene que, a mayor número de obstáculos burocráticos, menos gente común podrá ser anfitriona y más profesionales habrá en la app."
+    },
+    {
+      "title": "Por qué no deberías usar a la Inteligencia Artificial como psicólogo, según la UNAM - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDNiMmV1bjJHSEJScW9ISHU0UDhVcW4wSDROT0NOSm5DQUtTSlhpQ0V5MVV2VTZLRWxFdnMwSkpxS0VJMUlfZHRSVUFhTkk3WnRBNEhNNUljUEZ5aXJCVEFtZHZlTnZZU2NZUUlhdXRUc2ZrWFZlTUVuRURxc2J0dFhuUlg1TEVNd0lPZ3hBUGw3d3c4Z2tNUTRSQ0hQUmRGZ3NTSHFjdk55QzlVeDFFdHg1c0c2aVNTX0kzVklnNmYtSVHSAd4BQVVfeXFMT0N0VHY3WDZkTk14dHpnbHRrYUhQOVQxeTB2MlBZZUVPOWxTcVhZdDBmd2MyUEM5YkZTcHFFcjd4dm1fYWRmXzJienFQT2xSdG5sZm1VMTBDZkF0djhoZWlyMDRBdEloQUlpTlJ1Q3VqNVdocEhJNzgzNUlyb0JGNnlNUVlxTGh1c21iQ1AzeHZPamFaTW5KMC1pTWlsUVlRVE05ZVRfaVRKRXBtMV8zQ0IzMFdWTGttSHhDVDM3dkNRZjM4d2RzdE40clVzRHhJNXJfb3RueWowRUtOQ0NR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 18 Aug 2026 04:15:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDNiMmV1bjJHSEJScW9ISHU0UDhVcW4wSDROT0NOSm5DQUtTSlhpQ0V5MVV2VTZLRWxFdnMwSkpxS0VJMUlfZHRSVUFhTkk3WnRBNEhNNUljUEZ5aXJCVEFtZHZlTnZZU2NZUUlhdXRUc2ZrWFZlTUVuRURxc2J0dFhuUlg1TEVNd0lPZ3hBUGw3d3c4Z2tNUTRSQ0hQUmRGZ3NTSHFjdk55QzlVeDFFdHg1c0c2aVNTX0"
+    },
+    {
+      "title": "El Festival IA llega por primera vez a México para mostrar cómo llevar la inteligencia artificial al negocio - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXRJQVlrbFRMcTc2Y1BadzJVZlZCU2ZxYXJwZW56OFlLR3U3NjE1azlDbE1qSWtnY1RMS1hab1Y5ZmtKeVpWdFAxOWtGN2IyZW1IWmQ4NmMxZXZRaWV6UDkxVXQ0S0syem9DdlRnSndwSVFfR3lxbEREdndTWEVaUTZ1b2dZNHMxYlVPcGVyUE9LbFI0UEpyZjBzUmg3MDZhR0ZDNXo1SnYwTHJpTlJURWx5VEpjUUhaSWtnbmJpMzlTSFFpZ1g4WTJrUV9tSFlDZi03cDhB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 18 Aug 2026 10:01:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXRJQVlrbFRMcTc2Y1BadzJVZlZCU2ZxYXJwZW56OFlLR3U3NjE1azlDbE1qSWtnY1RMS1hab1Y5ZmtKeVpWdFAxOWtGN2IyZW1IWmQ4NmMxZXZRaWV6UDkxVXQ0S0syem9DdlRnSndwSVFfR3lxbEREdndTWEVaUTZ1b2dZNHMxYlVPcGVyUE9LbFI0UEpyZjBzUmg3MDZhR0ZDNXo1SnYwTHJpTlJURWx5VEpjUUhaSW"
+    },
+    {
+      "title": "México debe evolucionar de los Centros de Datos a las fábricas de Inteligencia Artificial - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkR4T01yU2Z6UV9VdlkxOGFvRmh0cERYbEY3UUxjRU9qOFJHTzBYMTZmaFAwYWlSTEVUTzYyYzVrSE9Qb0ZsS2FEb2tkS2NJVmVkUlRCZnpibzFoaW9QbDBBUVI2cUtWUmNHZHQ2SEEwenVxVGxDUk9sUzlLcFdrUFJ2VUY0cUNKQVhmenFUc2s4Q1d1Z1k1by1EU3BfbDNkZ1pydjZxdjZlQl9FYUMw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 16 Aug 2026 01:16:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkR4T01yU2Z6UV9VdlkxOGFvRmh0cERYbEY3UUxjRU9qOFJHTzBYMTZmaFAwYWlSTEVUTzYyYzVrSE9Qb0ZsS2FEb2tkS2NJVmVkUlRCZnpibzFoaW9QbDBBUVI2cUtWUmNHZHQ2SEEwenVxVGxDUk9sUzlLcFdrUFJ2VUY0cUNKQVhmenFUc2s4Q1d1Z1k1by1EU3BfbDNkZ1pydjZxdjZlQl9FYUMw?oc=5\" target="
+    },
+    {
+      "title": "IA en México 2026: 48% empresas usan IA pero 46% no sabe si funciona - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 13 Aug 2026 19:24:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5\" target=\"_blank\">IA en México 202"
+    },
+    {
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+    },
+    {
+      "title": "Colombia supera a México en venture capital: IA desplaza a Fintech en 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5\" target=\"_blank\">C"
+    },
+    {
+      "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
+    },
+    {
+      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+    },
+    {
+      "title": "No buscamos una IA que disminuya capacidad de pensar; Tec de Monterrey va por uso reflexivo - Imagen Radio",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZDB2WnlRYVJBdlh5YWdSN3publZ1SmlOdWZuNtIB2gFBVV95cUxOd01ramJfUFVxVlZrckRmRTN5a1NFU2xBVTM4MlQxY1FPNkpUOERVWDVBaEdsZHZGcmR3V0RxelA0cnBkeldkaUF4aVVLZldEXzlBWlNzUmpZRW9jTlF1SVhaYl9SUWVsNlNqRkxnLXo5TURtcUFaY3RXQ3N2N1Z4RmpWYnNoV1pnM3ZlWmtVSjJrZ3hJdnhDelBFZlViaHRIcDFZQkE1QUNwWjhpU2xIWms0VWVZYlo1RzYyZ0hJMjFWcHVFZXNablFBQ29kLUd5SXdtejI0bExPZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZD"
+    }
+  ],
+  "count": 14
+}
