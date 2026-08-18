@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Nuevo 'modus operandi' del cibercrimen en México: Hackers llevan la extorsión hasta las impresoras",
-      "url": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 18 Aug 2026 11:55:51 GMT",
-      "summary": "Una empresa mexicana tuvo a los atacantes dentro de su red durante meses; robaron información y exigieron un rescate para recuperar el acceso, haciendo visible la amenaza dentro de sus oficinas."
-    },
-    {
-      "title": "¿Te están pagando completo? La app que creó un sobrecargo para revisar tu nómina",
-      "url": "https://expansion.mx/tecnologia/2026/08/17/sobrecargos-app-para-revisar-nomina-pagos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 18 Aug 2026 00:00:04 GMT",
-      "summary": "La necesidad de herramientas propias que faciliten trabajar en la aviación, llevan a sobrecargos, programadores y pilotos a crear sus propias aplicaciones."
-    },
-    {
       "title": "La IA puede dejar una marca en lo que entregas, aunque tú no la veas",
       "url": "https://expansion.mx/tecnologia/2026/08/17/ia-marca-agua-textos-chatgpt-claude",
       "source": "Expansión Tecnología",
@@ -43,28 +27,44 @@
       "summary": "El cofundador y CEO de la plataforma que cambió la forma de viajar sostiene que, a mayor número de obstáculos burocráticos, menos gente común podrá ser anfitriona y más profesionales habrá en la app."
     },
     {
-      "title": "Por qué no deberías usar a la Inteligencia Artificial como psicólogo, según la UNAM - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDNiMmV1bjJHSEJScW9ISHU0UDhVcW4wSDROT0NOSm5DQUtTSlhpQ0V5MVV2VTZLRWxFdnMwSkpxS0VJMUlfZHRSVUFhTkk3WnRBNEhNNUljUEZ5aXJCVEFtZHZlTnZZU2NZUUlhdXRUc2ZrWFZlTUVuRURxc2J0dFhuUlg1TEVNd0lPZ3hBUGw3d3c4Z2tNUTRSQ0hQUmRGZ3NTSHFjdk55QzlVeDFFdHg1c0c2aVNTX0kzVklnNmYtSVHSAd4BQVVfeXFMT0N0VHY3WDZkTk14dHpnbHRrYUhQOVQxeTB2MlBZZUVPOWxTcVhZdDBmd2MyUEM5YkZTcHFFcjd4dm1fYWRmXzJienFQT2xSdG5sZm1VMTBDZkF0djhoZWlyMDRBdEloQUlpTlJ1Q3VqNVdocEhJNzgzNUlyb0JGNnlNUVlxTGh1c21iQ1AzeHZPamFaTW5KMC1pTWlsUVlRVE05ZVRfaVRKRXBtMV8zQ0IzMFdWTGttSHhDVDM3dkNRZjM4d2RzdE40clVzRHhJNXJfb3RueWowRUtOQ0NR?oc=5",
+      "title": "El Mundial no solo dejó goles: los matches en Tinder crecieron 96.5% en México",
+      "url": "https://expansion.mx/tecnologia/2026/08/14/tinder-matches-crecieron-mundial-2026-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 14 Aug 2026 23:23:55 GMT",
+      "summary": "El Mundial convirtió a México en punto de encuentro para aficionados de todo el mundo y también impulsó el ligue digital, incluso por encima de las Canadá y Estados Unidos, las otras sedes mundialistas."
+    },
+    {
+      "title": "La directora de ética de OpenAI se va en plena fuga de ejecutivos",
+      "url": "https://expansion.mx/tecnologia/2026/08/14/directora-etica-openai-se-va-fuga-ejecutivos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 14 Aug 2026 18:30:34 GMT",
+      "summary": "La salida de ejecutivos de alto perfil ocurre justo cuando OpenAI se prepara para salir a la bolsa."
+    },
+    {
+      "title": "Redes sociales y la Inteligencia Artificial, en la mira del INE para combatir violencia política contra mujeres - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0dpU1VLZEpLUF9aT3dfT1RZRDhCZXJPTDlZblgxT2xkM3lXalVKV0FKRDM1elZadlM5UXlXLVRtNnhhdS1IOFVMcThvbzdaMzdsYVVENnlrYWJtd215REN5TFBtclNkT1FXQ2k4b0lVeUxpLVJWYmtYZjN2VVpXdktxY1ROdEpYUjhHY0lyRXhDWjRySmlsOXJqMUlTUDNRLUZfdlc4Y0VaM0xHbWhucVRycXRlZjRPc244UFMyUlNDOVRwLTQ4Nzdpak56VGdBOXZSZUp2XzdVU0dHUy1qcTVxM2Z4YTFM0gGDAkFVX3lxTE1hQVVTZWlLd042dEI3Uk5pOW5WMmkxWER1YnhFMXdtb21sWFdMNk5Ucm14Y2tfSDE2WDB4RW5vdDNpNjQ1bzVJSFRTVGJiWXpaYmJ4Q2dIdllDeXlHaXRyR1BPa0pFUXR6ZVRqQ21nTDB2VUdRM0NFbTFNSmd2Y0VjU2laZXlnQUVGSHBPU0wwdk8zb1h3eXpYQWp4TGZmUmVUa2VnYjVNcVBXTnVCZGZ6RURuYjR0X2xIOWd1RjFzX2tyNjVKVDJCSVJSMVpFMmdfcVBCTnBvdElyRWhVSlV4NUJjeWxBOTlKZVZJUEkyQ2c3YndySElyVE9iRzlqdUpWczg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 18 Aug 2026 04:15:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDNiMmV1bjJHSEJScW9ISHU0UDhVcW4wSDROT0NOSm5DQUtTSlhpQ0V5MVV2VTZLRWxFdnMwSkpxS0VJMUlfZHRSVUFhTkk3WnRBNEhNNUljUEZ5aXJCVEFtZHZlTnZZU2NZUUlhdXRUc2ZrWFZlTUVuRURxc2J0dFhuUlg1TEVNd0lPZ3hBUGw3d3c4Z2tNUTRSQ0hQUmRGZ3NTSHFjdk55QzlVeDFFdHg1c0c2aVNTX0"
+      "published": "Tue, 18 Aug 2026 19:46:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0dpU1VLZEpLUF9aT3dfT1RZRDhCZXJPTDlZblgxT2xkM3lXalVKV0FKRDM1elZadlM5UXlXLVRtNnhhdS1IOFVMcThvbzdaMzdsYVVENnlrYWJtd215REN5TFBtclNkT1FXQ2k4b0lVeUxpLVJWYmtYZjN2VVpXdktxY1ROdEpYUjhHY0lyRXhDWjRySmlsOXJqMUlTUDNRLUZfdlc4Y0VaM0xHbWhucVRycXRlZjRPc2"
     },
     {
       "title": "El Festival IA llega por primera vez a México para mostrar cómo llevar la inteligencia artificial al negocio - Connecta B2B",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXRJQVlrbFRMcTc2Y1BadzJVZlZCU2ZxYXJwZW56OFlLR3U3NjE1azlDbE1qSWtnY1RMS1hab1Y5ZmtKeVpWdFAxOWtGN2IyZW1IWmQ4NmMxZXZRaWV6UDkxVXQ0S0syem9DdlRnSndwSVFfR3lxbEREdndTWEVaUTZ1b2dZNHMxYlVPcGVyUE9LbFI0UEpyZjBzUmg3MDZhR0ZDNXo1SnYwTHJpTlJURWx5VEpjUUhaSWtnbmJpMzlTSFFpZ1g4WTJrUV9tSFlDZi03cDhB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 18 Aug 2026 10:01:10 GMT",
+      "published": "Tue, 18 Aug 2026 10:01:12 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLXRJQVlrbFRMcTc2Y1BadzJVZlZCU2ZxYXJwZW56OFlLR3U3NjE1azlDbE1qSWtnY1RMS1hab1Y5ZmtKeVpWdFAxOWtGN2IyZW1IWmQ4NmMxZXZRaWV6UDkxVXQ0S0syem9DdlRnSndwSVFfR3lxbEREdndTWEVaUTZ1b2dZNHMxYlVPcGVyUE9LbFI0UEpyZjBzUmg3MDZhR0ZDNXo1SnYwTHJpTlJURWx5VEpjUUhaSW"
     },
     {
-      "title": "México debe evolucionar de los Centros de Datos a las fábricas de Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkR4T01yU2Z6UV9VdlkxOGFvRmh0cERYbEY3UUxjRU9qOFJHTzBYMTZmaFAwYWlSTEVUTzYyYzVrSE9Qb0ZsS2FEb2tkS2NJVmVkUlRCZnpibzFoaW9QbDBBUVI2cUtWUmNHZHQ2SEEwenVxVGxDUk9sUzlLcFdrUFJ2VUY0cUNKQVhmenFUc2s4Q1d1Z1k1by1EU3BfbDNkZ1pydjZxdjZlQl9FYUMw?oc=5",
+      "title": "Los 10 trabajos más expuestos a la IA en México - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcDkzaXNIR2pIWmdHenF3VkNwZUJfOS0zaTNacVJtc01fZjdRenVRbHlkX2RLSXc0RWVQVE1jWjY2cTkwX3A5eUw5bDVGQkJfbUd0QzNNZXd1ZHFZWENVd1ludFJ5YVJmbzZYdGNGTHNQYUMxd0JF?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 16 Aug 2026 01:16:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkR4T01yU2Z6UV9VdlkxOGFvRmh0cERYbEY3UUxjRU9qOFJHTzBYMTZmaFAwYWlSTEVUTzYyYzVrSE9Qb0ZsS2FEb2tkS2NJVmVkUlRCZnpibzFoaW9QbDBBUVI2cUtWUmNHZHQ2SEEwenVxVGxDUk9sUzlLcFdrUFJ2VUY0cUNKQVhmenFUc2s4Q1d1Z1k1by1EU3BfbDNkZ1pydjZxdjZlQl9FYUMw?oc=5\" target="
+      "published": "Tue, 18 Aug 2026 21:12:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1wcDkzaXNIR2pIWmdHenF3VkNwZUJfOS0zaTNacVJtc01fZjdRenVRbHlkX2RLSXc0RWVQVE1jWjY2cTkwX3A5eUw5bDVGQkJfbUd0QzNNZXd1ZHFZWENVd1ludFJ5YVJmbzZYdGNGTHNQYUMxd0JF?oc=5\" target=\"_blank\">Los 10 trabajos más expuestos a la IA en México</a>&nbsp;&nbsp;<fon"
     },
     {
       "title": "IA en México 2026: 48% empresas usan IA pero 46% no sabe si funciona - El Ecosistema Startup",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
     },
     {
-      "title": "Colombia supera a México en venture capital: IA desplaza a Fintech en 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5",
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5\" target=\"_blank\">C"
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
       "title": "Irving Hidrogo: \"La IA en educación no se integra con herramientas, sino con estrategia institucional\" - Observatorio / Instituto para el Futuro de la Educación",
