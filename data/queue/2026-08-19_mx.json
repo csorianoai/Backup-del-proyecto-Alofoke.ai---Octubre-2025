@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "OpenAI frena su IA más avanzada después de que un agente escapó y lanzó un ataque por su cuenta",
+      "url": "https://expansion.mx/tecnologia/2026/08/19/openai-frena-ia-avanzada-tras-ataque-autonomo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 19 Aug 2026 13:49:48 GMT",
+      "summary": "El episodio ocurre mientras OpenAI evalúa nuevas barreras para modelos capaces de ejecutar tareas con menor intervención humana y admite que incluso sus sistemas de vigilancia pueden ser evadidos."
+    },
+    {
+      "title": "“Reparar no es explicar”: la UNAM aún debe esclarecer qué falló en su examen",
+      "url": "https://expansion.mx/tecnologia/2026/08/19/fallas-examen-unam-2026-explicar-que-ocurrio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 19 Aug 2026 11:55:05 GMT",
+      "summary": "La universidad busca corregir el proceso de admisión tras detectar resultados atípicos, pero especialistas advierten que aún falta reconstruir qué ocurrió, qué controles fallaron y quién tomó las decisiones clave."
+    },
+    {
       "title": "Meta enfrenta su “momento tabacalera”: el juicio que puede cambiar el negocio de las redes sociales",
       "url": "https://expansion.mx/tecnologia/2026/08/18/meta-enfrenta-su-momento-tabacalero",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "AWS refiere que las empresas mexicanas avanzan en el uso de IA, pero la mayoría aún se concentra en herramientas básicas y proyectos aislados."
     },
     {
-      "title": "Nuevo 'modus operandi' del cibercrimen en México: Hackers llevan la extorsión hasta las impresoras",
-      "url": "https://expansion.mx/tecnologia/2026/08/18/ackers-impresoras-extorsion-empresas-mexico-ransomware",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 18 Aug 2026 11:55:51 GMT",
-      "summary": "Una empresa mexicana tuvo a los atacantes dentro de su red durante meses; robaron información y exigieron un rescate para recuperar el acceso, haciendo visible la amenaza dentro de sus oficinas."
-    },
-    {
-      "title": "¿Te están pagando completo? La app que creó un sobrecargo para revisar tu nómina",
-      "url": "https://expansion.mx/tecnologia/2026/08/17/sobrecargos-app-para-revisar-nomina-pagos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 18 Aug 2026 00:00:04 GMT",
-      "summary": "La necesidad de herramientas propias que faciliten trabajar en la aviación, llevan a sobrecargos, programadores y pilotos a crear sus propias aplicaciones."
+      "title": "México y la nueva geografía globa de Inteligencia Artificial - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3FPN1l6NWdaeGVHclhydWFwbTA5THItRGl5dGxrWVh2ZE5wMFF6LWdRV2N2dDU3dFAzLUhWOVdDdWpUZmpYNlFLZ00yTG9QNGlxLTEwMndqU21xTHQzdVVydDh4T0xtWlA5U21wTVZCOE56OUtKeUtXUWZtNmMzakhuOEFvaERISEJRRFlpYzc1X1otdWtvMndSd1BOTDVHMXdOVTdZcFM0MldkZnd2V2RrVUV5QkhERGpqTFMycE9iMkZhUlJNWGh4TzRCaUJa?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 19 Aug 2026 16:41:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3FPN1l6NWdaeGVHclhydWFwbTA5THItRGl5dGxrWVh2ZE5wMFF6LWdRV2N2dDU3dFAzLUhWOVdDdWpUZmpYNlFLZ00yTG9QNGlxLTEwMndqU21xTHQzdVVydDh4T0xtWlA5U21wTVZCOE56OUtKeUtXUWZtNmMzakhuOEFvaERISEJRRFlpYzc1X1otdWtvMndSd1BOTDVHMXdOVTdZcFM0MldkZnd2V2RrVUV5QkhERG"
     },
     {
       "title": "Dailymotion Advertising: La inteligencia artificial redefine el recorrido de belleza en México y Colombia - produ",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 19 Aug 2026 00:48:04 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEkyOUh4ZUdyVFlqSFo4ZmVoY0Z2VVNRTW4tWm5fdk5HZHdkNm9NUE5IWHdwN2p4cXNqdXBRZUxIOXQ1ekh1a1RYcUlQX19mR1A5WW5HMlRMaHNGQ1dtT19xa0tlbzRMVVlfZGpWdEhxNDNhOGFpLXIycEUxb05TcWdlaEhTaDhmbGJSTjdDWFVncloz?oc=5\" target=\"_blank\">AWS: 2,5 millones de empres"
-    },
-    {
-      "title": "Redes sociales y la Inteligencia Artificial, en la mira del INE para combatir violencia política contra mujeres - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0dpU1VLZEpLUF9aT3dfT1RZRDhCZXJPTDlZblgxT2xkM3lXalVKV0FKRDM1elZadlM5UXlXLVRtNnhhdS1IOFVMcThvbzdaMzdsYVVENnlrYWJtd215REN5TFBtclNkT1FXQ2k4b0lVeUxpLVJWYmtYZjN2VVpXdktxY1ROdEpYUjhHY0lyRXhDWjRySmlsOXJqMUlTUDNRLUZfdlc4Y0VaM0xHbWhucVRycXRlZjRPc244UFMyUlNDOVRwLTQ4Nzdpak56VGdBOXZSZUp2XzdVU0dHUy1qcTVxM2Z4YTFM0gGDAkFVX3lxTE1hQVVTZWlLd042dEI3Uk5pOW5WMmkxWER1YnhFMXdtb21sWFdMNk5Ucm14Y2tfSDE2WDB4RW5vdDNpNjQ1bzVJSFRTVGJiWXpaYmJ4Q2dIdllDeXlHaXRyR1BPa0pFUXR6ZVRqQ21nTDB2VUdRM0NFbTFNSmd2Y0VjU2laZXlnQUVGSHBPU0wwdk8zb1h3eXpYQWp4TGZmUmVUa2VnYjVNcVBXTnVCZGZ6RURuYjR0X2xIOWd1RjFzX2tyNjVKVDJCSVJSMVpFMmdfcVBCTnBvdElyRWhVSlV4NUJjeWxBOTlKZVZJUEkyQ2c3YndySElyVE9iRzlqdUpWczg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 18 Aug 2026 19:46:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0dpU1VLZEpLUF9aT3dfT1RZRDhCZXJPTDlZblgxT2xkM3lXalVKV0FKRDM1elZadlM5UXlXLVRtNnhhdS1IOFVMcThvbzdaMzdsYVVENnlrYWJtd215REN5TFBtclNkT1FXQ2k4b0lVeUxpLVJWYmtYZjN2VVpXdktxY1ROdEpYUjhHY0lyRXhDWjRySmlsOXJqMUlTUDNRLUZfdlc4Y0VaM0xHbWhucVRycXRlZjRPc2"
     },
     {
       "title": "Vambe, la startup chilena que conquista México con IA - El Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "No buscamos una IA que disminuya capacidad de pensar; Tec de Monterrey va por uso reflexivo - Imagen Radio",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZDB2WnlRYVJBdlh5YWdSN3publZ1SmlOdWZuNtIB2gFBVV95cUxOd01ramJfUFVxVlZrckRmRTN5a1NFU2xBVTM4MlQxY1FPNkpUOERVWDVBaEdsZHZGcmR3V0RxelA0cnBkeldkaUF4aVVLZldEXzlBWlNzUmpZRW9jTlF1SVhaYl9SUWVsNlNqRkxnLXo5TURtcUFaY3RXQ3N2N1Z4RmpWYnNoV1pnM3ZlWmtVSjJrZ3hJdnhDelBFZlViaHRIcDFZQkE1QUNwWjhpU2xIWms0VWVZYlo1RzYyZ0hJMjFWcHVFZXNablFBQ29kLUd5SXdtejI0bExPZw?oc=5",
+      "title": "Cómo lucirá Monterrey en 200 años, según la IA - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODjSAaABQVVfeXFMTUlyMnk3alkzMDd4OGdyNk9XLUo1b0Q0djVtSFdReXdWTE56TVB1dVVHU2VycHRQSWViNGZQc1VMN0x1ejNRMHJFS3J2aTVHb2hZczh2RGVVdU15R1R6Ty04ODgyWUFGOEloZm5ZTmJRdW1xVWlYOG9Xa1NMR3R1QlQtRkNpVDd0TjZRRHpMeThGTkRpZVloRkRNVkxmanpUTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHlnemVCdDYtbFg2a082Y2ZUY2U0YVYxQkkyLXYzOFVON3pJUEllTEhQaF8zLTA3VlQ2SzdDWFNlSFF5TFRMQ2R1RHM5dmZtT0FUMVBtSTBqajhNRldPUmpjaU9ob1JWaFYtYlVMOVNKcXdJRFZDbnFfakZsUzJaSXFGblJYVmh4M3dhaHhleThhVlNVRzZvN280OEs1ajlrclhBemZ2SkFqMHNOWnZYNkI4d2xtTjhiZD"
+      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODjSAaABQVVfeXFMTUlyMnk3alkzMDd4OGdyNk9XLUo1b0Q0djVtSF"
     }
   ],
   "count": 14
