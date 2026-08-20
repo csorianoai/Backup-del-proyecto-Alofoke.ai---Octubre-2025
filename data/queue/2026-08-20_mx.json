@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
+      "url": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Aug 2026 20:00:55 GMT",
+      "summary": "Xbox cumple 25 años en medio de su peor crisis comercial. La celebración llega mientras la marca intenta demostrar que la consola todavía importa."
+    },
+    {
       "title": "Google Pixel 11 ya tiene fecha para México y viene con toda la artillería de Gemini",
       "url": "https://expansion.mx/tecnologia/2026/08/20/google-pixel-11-mexico-cuando-salen-precio",
       "source": "Expansión Tecnología",
@@ -35,28 +43,20 @@
       "summary": "Huawei pasó de ser uno de los gigantes del mercado a construir una estrategia propia tras quedarse fuera del ecosistema de Google. Siete años después, sus dispositivos muestran hasta dónde ha llegado esa transformación."
     },
     {
-      "title": "OpenAI frena su IA más avanzada después de que un agente escapó y lanzó un ataque por su cuenta",
-      "url": "https://expansion.mx/tecnologia/2026/08/19/openai-frena-ia-avanzada-tras-ataque-autonomo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Aug 2026 13:49:48 GMT",
-      "summary": "El episodio ocurre mientras OpenAI evalúa nuevas barreras para modelos capaces de ejecutar tareas con menor intervención humana y admite que incluso sus sistemas de vigilancia pueden ser evadidos."
-    },
-    {
-      "title": "Brasil y México alcanzan hasta un 76 % de adopción de IA en Latinoamérica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjJPSUFLX0hyY3dTMDhyZmtneDNydEwtY2pVbFpGbktzUWtaQ05CQW80YTItX3hBWjBEOEpzQTFqNWQ3U29iYkxjQkNiZmM3NmI5dFYtbHR3R2hZQlBYdFBuUXl4ZUhSSlE3Z0NBQzlzZ2thczNJVFBvemtLUkhnd2JVcjJUZERndXp1RE5wLTRXNk81a1FHM0lJVWNQZFB1X2VlS1BzenhXMC1pRDVPbC1ZRlozUi1RQnU5a3VOZlFuUdIB3AFBVV95cUxOdkd6ZDFPbW1HUU9ha1RoY2RGbmFObkhLZEV3cnJTRnRDMTd4WEJnRVpJLXFHaUtGRGlkUUtfZzdSUVdKNThuZ2U2VHJOaUlSc3JGMXl4Z2tOdUFWNFFJTHp3OUpqNGpseTY2MUlKN25KV0N4VGU2Y2d0RWw1ZUlkdi1UWndTWThPU1lHd3VaY3phTHNBWW9wS2oxYmhEZTdCQzQ2NnR0dG92Y09pZnVYcFpRYURVclhacFBHNmV1MDdic0hEYjZCV2JUdXlBM0N6NUplMHNUbjI3WGV3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Aug 2026 14:37:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORjJPSUFLX0hyY3dTMDhyZmtneDNydEwtY2pVbFpGbktzUWtaQ05CQW80YTItX3hBWjBEOEpzQTFqNWQ3U29iYkxjQkNiZmM3NmI5dFYtbHR3R2hZQlBYdFBuUXl4ZUhSSlE3Z0NBQzlzZ2thczNJVFBvemtLUkhnd2JVcjJUZERndXp1RE5wLTRXNk81a1FHM0lJVWNQZFB1X2VlS1BzenhXMC1pRDVPbC1ZRlozUi1RQn"
-    },
-    {
       "title": "Dailymotion Advertising: La inteligencia artificial redefine el recorrido de belleza en México y Colombia - produ",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnlablBQdHZLaHNVWkprRHFJSG9PWUFhWHFiRGQ4UVRYMVdRNFRjcER0YXlxS04wOEFxdkZDZGh2amN6NEttWWt3eVlCaWQxY2QtOFAtOHpGZnUyTGR0VzZaZHljMVNGZVpWaTdSWjZOYm03T1RhZWlOUTNKaHNsVDNrcE9VZVpMMlNQQnAtUzZ3Zl9HUWhsU0VqZDI4STVf?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 19 Aug 2026 04:11:27 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnlablBQdHZLaHNVWkprRHFJSG9PWUFhWHFiRGQ4UVRYMVdRNFRjcER0YXlxS04wOEFxdkZDZGh2amN6NEttWWt3eVlCaWQxY2QtOFAtOHpGZnUyTGR0VzZaZHljMVNGZVpWaTdSWjZOYm03T1RhZWlOUTNKaHNsVDNrcE9VZVpMMlNQQnAtUzZ3Zl9HUWhsU0VqZDI4STVf?oc=5\" target=\"_blank\">Dailymotion"
+    },
+    {
+      "title": "Brasil y México alcanzan hasta un 76 % de adopción de IA en Latinoamérica - UDG TV",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0F1bG10TmJWLU1RUWpiNjFHVlZGNXNuUDMxZmFYQ21JRXMwazZ1bjZpb0pQZEQwVHRXaktHUzNEWTc1YVJnZElZLTZBVEpOU0tEaWZYWFNOcVdaSFZYbEpma3p5eU12ejY2bVVna0RWQTFqdmZYZ2k4Z2RXUXBQNFRfQ0xMS2d2SWJDUHNNMllPYmc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Aug 2026 19:51:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0F1bG10TmJWLU1RUWpiNjFHVlZGNXNuUDMxZmFYQ21JRXMwazZ1bjZpb0pQZEQwVHRXaktHUzNEWTc1YVJnZElZLTZBVEpOU0tEaWZYWFNOcVdaSFZYbEpma3p5eU12ejY2bVVna0RWQTFqdmZYZ2k4Z2RXUXBQNFRfQ0xMS2d2SWJDUHNNMllPYmc?oc=5\" target=\"_blank\">Brasil y México alcanzan has"
     },
     {
       "title": "México y la nueva geografía globa de Inteligencia Artificial - ITSitio",

@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Las lluvias no se detendrían hasta octubre: esto dice una reciente proyección del tiempo",
+      "url": "https://www.latercera.com/tendencias/noticia/las-lluvias-no-se-detendrian-hasta-octubre-esto-dice-una-reciente-proyeccion-del-tiempo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Aug 2026 21:00:00 +0000",
+      "summary": "El fortalecimiento del fenómeno de El Niño anticipa precipitaciones por sobre lo normal durante el trimestre agosto-septiembre-octubre."
+    },
+    {
       "title": "Qué es la tuberculosis, la enfermedad que continúa circulando en Chile y que afectó a un estudiante en Concepción",
       "url": "https://www.latercera.com/tendencias/noticia/que-es-la-tuberculosis-la-enfermedad-que-continua-circulando-en-chile-y-que-afecto-a-un-estudiante-en-concepcion/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Usualmente, la enfermedad no presenta síntomas en su etapa inicial. Es por esto que realizarse exámenes preventivos es fundamental, aseguran los urólogos."
     },
     {
-      "title": "Qué significa “farmear aura”, el concepto juvenil que se tomó las redes sociales",
-      "url": "https://www.latercera.com/tendencias/noticia/que-significa-farmear-aura-el-concepto-juvenil-que-se-tomo-las-redes-sociales/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Aug 2026 17:15:40 +0000",
-      "summary": "Una expresión que mezcla conceptos de los videojuegos y las redes sociales se ha popularizado entre las nuevas generaciones, dando paso a videos y “batallas de farmear aura”."
+      "title": "Llega Futura Media Program: soluciones de IA para redacciones de Chile, Ecuador, Paraguay, Perú y Uruguay - Sociedad Interamericana de Prensa",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXFZNS1mTVZRN2NuV1V1ZV9COGJNX1ZkRVlFTV8xYXBYTzBSQmtLZE4wVGlGcDUyZWQ4YUxoNUVxMW9FNDFHNXVtY3gwUHBCWU40ZWtNY2Vya2Y0WXBrcmdfS2ZmNHpQQ0tnUUV6S0ZBZTlxLWZVX0Q3cDVEal9PQjRHTldCXzNpLWU1LUVEQTd4SHRZNnp1SUV2N3kzRndJeF95Q3Q5eHlaX0lVVlNReGFYZHE0dDNCd1JOcFpCWFU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Aug 2026 19:22:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXFZNS1mTVZRN2NuV1V1ZV9COGJNX1ZkRVlFTV8xYXBYTzBSQmtLZE4wVGlGcDUyZWQ4YUxoNUVxMW9FNDFHNXVtY3gwUHBCWU40ZWtNY2Vya2Y0WXBrcmdfS2ZmNHpQQ0tnUUV6S0ZBZTlxLWZVX0Q3cDVEal9PQjRHTldCXzNpLWU1LUVEQTd4SHRZNnp1SUV2N3kzRndJeF95Q3Q5eHlaX0lVVlNReGFYZHE0dDNCd1"
     },
     {
       "title": "China y Chile acuerdan profundizar su alianza estratégica y cooperar en inteligencia artificial - China en las Américas",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbU9iSzJRTW1KRC00aVZmMWE2UC1XOHVCVzJLbkN2ZzVVVlBtZW1aYjNGNkViQ0k0MmtpRDAyb3ZIZ1EtbjZiOS1sd19yNXZoZUMzNVU3YlpSdUY5U0hoRV9BYWdWanZCdEx6MVlPOHlzeWVrZTVGekNZdTNEXzVrT1FDUHh6b0VhYlg1bTN1OXF6Q1ZGTzJmbGZsZWlWblN3ajgtT2pwN04xZDU3aEhIVWVpYUlScm12ej"
     },
     {
-      "title": "Inteligencia artificial: la necesidad de un pacto de humanidad. Por Margarita Ducci, Directora Ejecutiva Pacto Global Chile, ONU - G5noticias",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS0hNTk9tZ2ZyX2xZcHJuRmpZRnV3SXFyOENWYlBWc0tqb1JWZXREOVB5cG5RNWpuek1aZGtEYVJpSXRDZE16cjF1Nl82czlEVk93QnhocHNhLVlQT3kzdHItMXB6QmJKMTFyMDRXZnNGbzJ1MFhTQWg1ZnBEREhwNkFpRzJxVGY2LUZseDV4eXhza184OTlvQS1ZbnBrNVhRRGRMRzJ4S09IZEhUckpIakVRWG9xMzVvSFA2UXdsdFpTZF9lNGM2OUdoTnFPTU03Ui13WW5NMk1tN3NkRDZPVTNLUEVSQ2E0cGJYMHo2VQ?oc=5",
+      "title": "Telefónica Chile simplificará operaciones con ayuda de Amdocs - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jdUVjT2x6N3BDX0J5eGhjdjZ5RUdFRkEtTkpUWF9VY1UtOEFNWmZNMlZfQUNQQjl6YmhnVHRfUGtyNHp4THRCRzR1YnluQlIxdTJ6U0lWNFctZGQwQXRGY2RBTUVLdm1vUW80NGJhNk1kVmdYWm1GTWVXQ28yZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 20 Aug 2026 12:50:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS0hNTk9tZ2ZyX2xZcHJuRmpZRnV3SXFyOENWYlBWc0tqb1JWZXREOVB5cG5RNWpuek1aZGtEYVJpSXRDZE16cjF1Nl82czlEVk93QnhocHNhLVlQT3kzdHItMXB6QmJKMTFyMDRXZnNGbzJ1MFhTQWg1ZnBEREhwNkFpRzJxVGY2LUZseDV4eXhza184OTlvQS1ZbnBrNVhRRGRMRzJ4S09IZEhUckpIakVRWG9xMzVvSF"
-    },
-    {
-      "title": "U. de Chile presenta dashAI: primera plataforma chilena de inteligencia artificial de código abierto - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNEp6UzFVOHYwWG9mV0lZRWNYR2p6VkRHWDZlTFJjc2kwNUt6YVRjOGNfajlLZ0RyU2JRZ042UG5Nb3d5Szg5Qm1qUmxUYlUzMFUzcWRCQTM4SV9Cem1DaWs4TnJZWFh1ZDczTnFtVmdEcXJsRkJYZVpPVGpGS1d6bUh0a3phTlpyOUVJTFFrVzdPd0hlbjJwWTJYRVlqU2dkT3NqT1VRZElpbDMyZE55OFp5a2Z0aTgyZjBWaDhHekJ2cFdBaUd3SFNhSFVKbms?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 12 Aug 2026 19:26:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNNEp6UzFVOHYwWG9mV0lZRWNYR2p6VkRHWDZlTFJjc2kwNUt6YVRjOGNfajlLZ0RyU2JRZ042UG5Nb3d5Szg5Qm1qUmxUYlUzMFUzcWRCQTM4SV9Cem1DaWs4TnJZWFh1ZDczTnFtVmdEcXJsRkJYZVpPVGpGS1d6bUh0a3phTlpyOUVJTFFrVzdPd0hlbjJwWTJYRVlqU2dkT3NqT1VRZElpbDMyZE55OFp5a2Z0aTgyZj"
+      "published": "Thu, 20 Aug 2026 19:34:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1jdUVjT2x6N3BDX0J5eGhjdjZ5RUdFRkEtTkpUWF9VY1UtOEFNWmZNMlZfQUNQQjl6YmhnVHRfUGtyNHp4THRCRzR1YnluQlIxdTJ6U0lWNFctZGQwQXRGY2RBTUVLdm1vUW80NGJhNk1kVmdYWm1GTWVXQ28yZw?oc=5\" target=\"_blank\">Telefónica Chile simplificará operaciones con ayuda de Am"
     },
     {
       "title": "Entrevista | “La IA será clave para la competitividad empresarial”: Alegra revela nuevas capacidades e - Valora Analitik",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcF"
     },
     {
+      "title": "Plataforma Chile-Finlandia: Nueva Fase para Startups y Empresas - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMEZvUkcwbDhZRkgxcUU0LWFBYzlRbkRiQmpVcTV1Z2VYYnhMVHc4U051WFV6bDg4ZkdsMHA2dUNPSUxhNDVFd3FiXzJtNlN2RlBGbWR1WGtFTkZ4YTQ3a2R0SGRLSjFidmtjb0M5Nk1QbXI0cGN5TEI1cU1vREkzM2w4cFU2MUZ5cEFvemEtSEl3MmtDTFg4bWR0QW14dkNfZU13SFVxVmdjaWRsZVBjWS1DeEJSLUFpcXl5UXViZE14Rlpsd2tYbmZDRDktWEtEQmNpdFJ3OWtxT1Q2ekJLaGhXaVFuQU13MGExcGpn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 20 Aug 2026 18:46:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMEZvUkcwbDhZRkgxcUU0LWFBYzlRbkRiQmpVcTV1Z2VYYnhMVHc4U051WFV6bDg4ZkdsMHA2dUNPSUxhNDVFd3FiXzJtNlN2RlBGbWR1WGtFTkZ4YTQ3a2R0SGRLSjFidmtjb0M5Nk1QbXI0cGN5TEI1cU1vREkzM2w4cFU2MUZ5cEFvemEtSEl3MmtDTFg4bWR0QW14dkNfZU13SFVxVmdjaWRsZVBjWS1DeEJSLUFpcX"
+    },
+    {
       "title": "Novelty8 ofrece hasta $60M en tecnología gratis para startups - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXpQVlBpQ0JQSHJnYmZFZG9MajFMXzJpRWJFNUkxRkdaSmZjcHNhNm1FeWE4LVhhdDQwcnhsdWpjaENiSy1qYS1RTUVrVG9mWWhhQ1VLM3VvZVVzdUlISzNzSmJIZ3huekZzMjlYWE9OUWl6VlJjNzhsM2t5Z2phWE5kRlY0TXJ4X3R1TFQwd3FVRm5JbVE?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Wed, 19 Aug 2026 20:21:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSno0OXktWk9RR2pWTHh1cFptbWlfM3pLUkNHVjR3OVJUV2hjZEdGM2pFdGZCSmwzdHhFZklJU1VkS1FoUXExUjZJN2xYZnREUGtrRHo4al9NcnhmVVRmT21Kb0pPVXpneS1feWFONHMzbEE2R0VVcUNUSnZKa05fSExDQ2JMWFVSVlFNcnBJRDhENkNJYzRMaURGbFpIdDFmT01FeHduRE15Z0wzakJVYUVkZER2cUdlYT"
-    },
-    {
-      "title": "EAWARDS CHILE 2026: FUNDACIÓN NTT DATA BUSCA A LA STARTUP CIENTÍFICO-TECNOLÓGICA QUE COMPETIRÁ EN EUROPA POR €100.000 - Revista Logistec",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWlFQUVlvUC12TWh1OWlBWERSNFVLWC02NG56X3dqOEQzeTEwUThSMFY0dUtscWkyeEJ4bFl2enJNZUdyMTZac0ZiTElHblU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
     }
   ],
   "count": 14
