@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "¿Están conectados de alguna manera los últimos grandes terremotos en Latinoamérica? Esto dice un especialista",
+      "url": "https://www.latercera.com/tendencias/noticia/estan-conectados-de-alguna-manera-los-ultimos-grandes-terremotos-en-latinoamerica-esto-dice-un-especialista/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Aug 2026 16:08:01 +0000",
+      "summary": "El terremoto ocurrido en Perú se posiciona entre los de mayor magnitud que se han registrado en la región en los últimos meses. Entre los más recientes, se encuentran el de Colombia y el de México."
+    },
+    {
       "title": "¿Podemos cumplir los requerimientos de vitamina D con la fortificación obligatoria en Chile?",
       "url": "https://www.latercera.com/tendencias/noticia/podemos-cumplir-los-requerimientos-de-vitamina-d-con-la-fortificacion-obligatoria-en-chile/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "El fortalecimiento del fenómeno de El Niño anticipa precipitaciones por sobre lo normal durante el trimestre agosto-septiembre-octubre."
     },
     {
-      "title": "Qué es la tuberculosis, la enfermedad que continúa circulando en Chile y que afectó a un estudiante en Concepción",
-      "url": "https://www.latercera.com/tendencias/noticia/que-es-la-tuberculosis-la-enfermedad-que-continua-circulando-en-chile-y-que-afecto-a-un-estudiante-en-concepcion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Aug 2026 15:19:13 +0000",
-      "summary": "Un adolescente de 14 años fue diagnosticado con tuberculosis tras acudir a un centro de salud por síntomas sospechosos. La Seremi de Salud del Biobío activó los protocolos para evaluar a sus contactos."
-    },
-    {
       "title": "La Fuerza Aérea de Chile y la UdeC firman convenio para impulsar la inteligencia artificial y desarrollo espacial - Infodefensa",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVXAwOXJvbDh0dlZFSDhUN2tDaXBWYXd3N2ZiRDhaRVUzdWxFU0lvMmR0VXI1Mk9wTnUwUDRzYkxuMVhidjhHM0NtNTBSNU5QN3NCTVFtdW16U1Vmd243RW5TejR6RTlGY29FUE14ZzZ1RHNnbFpjUmFyZjROSF9TN1FGTDFwWEhwMm1TQm1pU0s3aE5RcUpVeElBeThqVGEtcGVac0EtY2NWcHNjeU5ncVlMc2ktaWNDdkM5M0J2bnpUVWx1SUJENWltZDFUaUdTMWJaZVkxajJmVWJlMXM1UmJNTQ?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbU9iSzJRTW1KRC00aVZmMWE2UC1XOHVCVzJLbkN2ZzVVVlBtZW1aYjNGNkViQ0k0MmtpRDAyb3ZIZ1EtbjZiOS1sd19yNXZoZUMzNVU3YlpSdUY5U0hoRV9BYWdWanZCdEx6MVlPOHlzeWVrZTVGekNZdTNEXzVrT1FDUHh6b0VhYlg1bTN1OXF6Q1ZGTzJmbGZsZWlWblN3ajgtT2pwN04xZDU3aEhIVWVpYUlScm12ej"
     },
     {
-      "title": "Trabajo híbrido e inteligencia artificial: las nuevas prioridades del talento laboral - El Mostrador",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU00c2RqeTlMWnZyX0VMRk9IMFl3VmY0c1RYN0oyeFh0MktGeU9RV2ltUDNKc21LNU5URWhBeGt3aThxaWJuT3B1THBqcjBZQzNqaFhROXZRVFZ2TXplOEh1QlRIRm5YSHkxOXo3NkZUTTBmNHpDZk9Jc1BEQmw4VzZSSzBFNDVwSkhyeFA2OW9kSDJ0OWNYbXhIMWdPQlVFbHhXSlZtTEQ5QWZLNkRJaFdlbnZ0ODNDc1VsZmtFdzlVQVNFaWNwV2F2SnJZamJ0ZmxKSmlxeEJFYnE2YUI3WUt5aw?oc=5",
+      "title": "La Inteligencia Artificial se la juega: ¿La U logrará el ‘remontazo’ ante Colo Colo? - bolavip.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0xVR3cyNkR2VGk3Q3diQUxxUDIySi1udThMcXVmUmZzQ05aeFhaUUE4YVBDWE1xbDUwdEljcjNJeFI0WktTOEdXWWRpclZycHhCbDc3X3JqZmdtWlhJLWkxWXBmaWJkcTlvMnlfS3RJZ1Y2aVFoaHpxQ1VORnRLNUd5Vlh2bVJ3QnZseU1WN0l4U2lweEJnbFFoOWxFQkVyOFYxNlBLQTJydU5pUjh2edIBtgFBVV95cUxQMzR2NmR3azF4SHc1cWZCMHZhcUtaQ1pWcmxFRWZUNXpqRXQtbDByZzNtanVJcHJfeUNSNFZIRmRvQjVreHlhTmo2dnNWOHBxY2xVQ3JvVUlMNmJtZG81WWRtMExJNFUtLWdsMGY0SEhmV0JGOXV5VTExYmxUVERYVFFGRHJBWkl3RXBNU0NoZmEtamt5Y3JOOVBaaHVuN3RKOGo2LXdhNEZxWmdyYWpUU3VEVXd1Zw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 21 Aug 2026 04:19:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdU00c2RqeTlMWnZyX0VMRk9IMFl3VmY0c1RYN0oyeFh0MktGeU9RV2ltUDNKc21LNU5URWhBeGt3aThxaWJuT3B1THBqcjBZQzNqaFhROXZRVFZ2TXplOEh1QlRIRm5YSHkxOXo3NkZUTTBmNHpDZk9Jc1BEQmw4VzZSSzBFNDVwSkhyeFA2OW9kSDJ0OWNYbXhIMWdPQlVFbHhXSlZtTEQ5QWZLNkRJaFdlbnZ0ODNDc1"
+      "published": "Fri, 21 Aug 2026 14:43:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxON0xVR3cyNkR2VGk3Q3diQUxxUDIySi1udThMcXVmUmZzQ05aeFhaUUE4YVBDWE1xbDUwdEljcjNJeFI0WktTOEdXWWRpclZycHhCbDc3X3JqZmdtWlhJLWkxWXBmaWJkcTlvMnlfS3RJZ1Y2aVFoaHpxQ1VORnRLNUd5Vlh2bVJ3QnZseU1WN0l4U2lweEJnbFFoOWxFQkVyOFYxNlBLQTJydU5pUjh2edIBtgFBVV95cU"
     },
     {
       "title": "Entrevista | “La IA será clave para la competitividad empresarial”: Alegra revela nuevas capacidades e - Valora Analitik",
@@ -79,7 +79,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcFJySDdsTTZGM2k0THg2c011djJkY2d2SjM2OTB4S3pHVWgxRW9USnREaHBwcWZTX0VzbGZBYW1EbFJpTjNRQzM3LWtTTVFyR2N4NllGa1pfYUhMLUQwdWJ0VXVLSkZ4QnRFQVcwa2pfNDdHYTZiZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 11 Aug 2026 05:00:56 GMT",
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcF"
     },
     {
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSno0OXktWk9RR2pWTHh1cFptbWlfM3pLUkNHVjR3OVJUV2hjZEdGM2pFdGZCSmwzdHhFZklJU1VkS1FoUXExUjZJN2xYZnREUGtrRHo4al9NcnhmVVRmT21Kb0pPVXpneS1feWFONHMzbEE2R0VVcUNUSnZKa05fSExDQ2JMWFVSVlFNcnBJRDhENkNJYzRMaURGbFpIdDFmT01FeHduRE15Z0wzakJVYUVkZER2cUdlYT"
     },
     {
-      "title": "EAWARDS CHILE 2026: FUNDACIÓN NTT DATA BUSCA A LA STARTUP CIENTÍFICO-TECNOLÓGICA QUE COMPETIRÁ EN EUROPA POR €100.000 - Revista Logistec",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWlFQUVlvUC12TWh1OWlBWERSNFVLWC02NG56X3dqOEQzeTEwUThSMFY0dUtscWkyeEJ4bFl2enJNZUdyMTZac0ZiTElHblU?oc=5",
+      "title": "Plataforma Chile-Finlandia: Nueva Fase para Startups y Empresas - EntrepreNerd",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMEZvUkcwbDhZRkgxcUU0LWFBYzlRbkRiQmpVcTV1Z2VYYnhMVHc4U051WFV6bDg4ZkdsMHA2dUNPSUxhNDVFd3FiXzJtNlN2RlBGbWR1WGtFTkZ4YTQ3a2R0SGRLSjFidmtjb0M5Nk1QbXI0cGN5TEI1cU1vREkzM2w4cFU2MUZ5cEFvemEtSEl3MmtDTFg4bWR0QW14dkNfZU13SFVxVmdjaWRsZVBjWS1DeEJSLUFpcXl5UXViZE14Rlpsd2tYbmZDRDktWEtEQmNpdFJ3OWtxT1Q2ekJLaGhXaVFuQU13MGExcGpn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 25 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3VuQmZvWEZMZVMyRjYxM0JmMGEyNlJQcmZzaVBGSTNLWlE1b3RyR2tBV0JLTkRNTmpMMk1lQ2Rrd1lvYUZWalQ1cWJCWUQ4TkVBLXlRNi10UFJkZi15V3M1WS1PQURGd2JOa3plUk9wRzFKd3JBWEEwNHkydXRMVDdoRER3SW9uX3lraHlZRzFHeUJMSnJyRVpmdFc0NzFoeFhRZ1dubjBqMWFidUc2YzQwM2YzVW9lWl"
+      "published": "Thu, 20 Aug 2026 11:46:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMEZvUkcwbDhZRkgxcUU0LWFBYzlRbkRiQmpVcTV1Z2VYYnhMVHc4U051WFV6bDg4ZkdsMHA2dUNPSUxhNDVFd3FiXzJtNlN2RlBGbWR1WGtFTkZ4YTQ3a2R0SGRLSjFidmtjb0M5Nk1QbXI0cGN5TEI1cU1vREkzM2w4cFU2MUZ5cEFvemEtSEl3MmtDTFg4bWR0QW14dkNfZU13SFVxVmdjaWRsZVBjWS1DeEJSLUFpcX"
     }
   ],
   "count": 14

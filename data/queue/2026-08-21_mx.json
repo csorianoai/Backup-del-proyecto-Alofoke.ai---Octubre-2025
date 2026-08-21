@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "GTA VI no puede detener las filtraciones: Rockstar es incapaz de proteger a la propiedad más cara de la historia",
+      "url": "https://expansion.mx/tecnologia/2026/08/20/gta-vi-puede-detener-filtraciones-rockstar-incapaz-proteger",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Aug 2026 01:31:51 GMT",
+      "summary": "Una serie de supuestas filtraciones del nuevo título de Rockstar sacudieron la industria durante la última semana."
+    },
+    {
+      "title": "Kio It Services ficha a exdirector de Microsoft México para acelerar su negocio de IA y nube",
+      "url": "https://expansion.mx/tecnologia/2026/08/20/kio-it-services-ficha-a-exdirector-de-microsoft",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Aug 2026 23:00:06 GMT",
+      "summary": "Rafa Sánchez Loza, quién también ha ocupado puestos directivos en IBM, SAP, Softtek y Genesys, se incorporó como Chief Revenue Officer de KIO IT Services para encabezar la estrategia comercial de la compañía."
+    },
+    {
+      "title": "Pokémon no vive solo de los videojuegos: la estrategia que mantiene vigente a la franquicia después de 30 años",
+      "url": "https://expansion.mx/tecnologia/2026/08/20/pokemon-videojuegos-estrategia-negocios-30-anos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 20 Aug 2026 22:48:28 GMT",
+      "summary": "Desde cartas y series animadas hasta Pokémon Center y aplicaciones móviles, la marca desarrolló distintas vías para monetizar a sus personajes."
+    },
+    {
       "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
       "url": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "Google llevará por primera vez a México toda su nueva familia Pixel 11, junto con el Pixel Watch 5 y los Pixel Buds Pro 2. La preventa comienza el 24 de septiembre y los equipos llegarán a tiendas el 1 de octubre."
     },
     {
-      "title": "Ex Google advierte a México sobre el riesgo de acumular datos para la identidad digital",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/identidad-digital-mexico-curp-registro-telefonia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Aug 2026 11:55:37 GMT",
-      "summary": "La CURP biométrica y el registro de líneas móviles amplían la infraestructura de identificación, pero también elevan el riesgo para instituciones que almacenan información personal."
-    },
-    {
-      "title": "Por qué los celulares dejaron de traer cargador y puerto para audífonos y qué hay detrás del cambio",
-      "url": "https://expansion.mx/tecnologia/2026/08/19/por-que-celulares-dejaron-cargador-puerto-audifonos-cambio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Aug 2026 01:20:04 GMT",
-      "summary": "Lo que comenzó con casos particulares, hoy es prácticamente un estándar para toda la industria de los teléfonos celulares."
-    },
-    {
-      "title": "Huawei lleva 7 años vetado de Google: ¿qué tan lejos está de Android en 2026?",
-      "url": "https://expansion.mx/tecnologia/2026/08/19/huawei-veto-google-ecosistema-movil-veto",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 19 Aug 2026 22:15:11 GMT",
-      "summary": "Huawei pasó de ser uno de los gigantes del mercado a construir una estrategia propia tras quedarse fuera del ecosistema de Google. Siete años después, sus dispositivos muestran hasta dónde ha llegado esa transformación."
+      "title": "Consejo de Administración: liderazgo responsable en la era de la inteligencia artificial - kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMjdTUjY3UTVOT000S3VZR0NUbHA0N29jdFo0TTRuMEZiV051WGFJbzNLQU1PWGdJemlaY0UzSVVCOEhWY1V2UUJ1dE1OZzYtMVpVb3lZa19mOVhIZkpIa1I2djZkcDNoSVpFU19DMWNVeElXdTdVRFNISHFUbkkzSTItd1A4d0JxN0JLNWhlUFp5QWRBMTdSREdfVUE3LXl6MmZLMVpZSEd4dVh6Rmk1LWFyS0xvMmkyRk5mQjB3SzhUNWVmYVc4UWNrcWNKdklqbXJnMw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Aug 2026 17:47:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMjdTUjY3UTVOT000S3VZR0NUbHA0N29jdFo0TTRuMEZiV051WGFJbzNLQU1PWGdJemlaY0UzSVVCOEhWY1V2UUJ1dE1OZzYtMVpVb3lZa19mOVhIZkpIa1I2djZkcDNoSVpFU19DMWNVeElXdTdVRFNISHFUbkkzSTItd1A4d0JxN0JLNWhlUFp5QWRBMTdSREdfVUE3LXl6MmZLMVpZSEd4dVh6Rmk1LWFyS0xvMmkyRk"
     },
     {
       "title": "Dailymotion Advertising: La inteligencia artificial redefine el recorrido de belleza en México y Colombia - produ",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3FPN1l6NWdaeGVHclhydWFwbTA5THItRGl5dGxrWVh2ZE5wMFF6LWdRV2N2dDU3dFAzLUhWOVdDdWpUZmpYNlFLZ00yTG9QNGlxLTEwMndqU21xTHQzdVVydDh4T0xtWlA5U21wTVZCOE56OUtKeUtXUWZtNmMzakhuOEFvaERISEJRRFlpYzc1X1otdWtvMndSd1BOTDVHMXdOVTdZcFM0MldkZnd2V2RrVUV5QkhERG"
     },
     {
-      "title": "UV, referente del desarrollo de la inteligencia artificial en México - Universidad Veracruzana",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORE01MFJzeThtTEJwVTM1amlHZ3hlZ0k3VXJ6cWJDa3dvQWtodWhZSzZXVDltaGhjRHdpbjlUMzVVYTJleXMzN2VFNlJkZ0loVGZzY1h3emVFTFpMUHNTTV93ZHBwaXdVS2NBYXF2R2p1UWNqeUt0ZHRHOWJkZElwRFY3alhzX3hSU0Y4WVR0eHgyY3RCRk9OdWdXejRyZzVDRjlz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 21 Aug 2026 00:15:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORE01MFJzeThtTEJwVTM1amlHZ3hlZ0k3VXJ6cWJDa3dvQWtodWhZSzZXVDltaGhjRHdpbjlUMzVVYTJleXMzN2VFNlJkZ0loVGZzY1h3emVFTFpMUHNTTV93ZHBwaXdVS2NBYXF2R2p1UWNqeUt0ZHRHOWJkZElwRFY3alhzX3hSU0Y4WVR0eHgyY3RCRk9OdWdXejRyZzVDRjlz?oc=5\" target=\"_blank\">UV, ref"
-    },
-    {
       "title": "Vambe, la startup chilena que conquista México con IA - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUFOcjhsNTNVVTN3eHdkMnBpMy1KNm1sMXVPSDZ2c1pLZU9kajItSG5Bb3gyMzN0cDhIeHpIMU84MnNRWTN0MjdWMEhLRXZyMmJMeml6WWNnSVhpRHZpc1JOQnJPUGVFY2lmN1hsSzlYOHdWUlp4Z3dUUzNfakFQWGE2RG0tOFJqbm9n?oc=5",
       "source": "Google News",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
     },
     {
-      "title": "Colombia supera a México en venture capital: IA desplaza a Fintech en 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5",
+      "title": "eNOVADORAS 2026: tres startups mexicanas ganan con proyectos de IA - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1RsbFR2cnVmbjNPTEw4cFpVY1ZBX3Z6VmNYMkNaZkFZRGprVS1PUW5OWnpqbkVMUFBaM0Z5T2pIZjVLWDJWOWVXdEd4V1RuaEI1a0VadDFueDhoQ1haUXRSUEhLcUh1RS1zQjBZUUdOUlpPbnV1WmlkaWQ0NUVRMFVZNFlBYUowY19ZNE5PaF9rVUF4UV9JYnBuQzhEc21aUHNaSW1VeUg3OTNqeHJyVjkyaGVqWFI3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5\" target=\"_blank\">C"
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1RsbFR2cnVmbjNPTEw4cFpVY1ZBX3Z6VmNYMkNaZkFZRGprVS1PUW5OWnpqbkVMUFBaM0Z5T2pIZjVLWDJWOWVXdEd4V1RuaEI1a0VadDFueDhoQ1haUXRSUEhLcUh1RS1zQjBZUUdOUlpPbnV1WmlkaWQ0NUVRMFVZNFlBYUowY19ZNE5PaF9rVUF4UV9JYnBuQzhEc21aUHNaSW1VeUg3OTNqeHJyVjkyaGVqWFI3?o"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tec de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     },
     {
-      "title": "Cómo lucirá Monterrey en 200 años, según la IA - TV Azteca",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODjSAaABQVVfeXFMTUlyMnk3alkzMDd4OGdyNk9XLUo1b0Q0djVtSFdReXdWTE56TVB1dVVHU2VycHRQSWViNGZQc1VMN0x1ejNRMHJFS3J2aTVHb2hZczh2RGVVdU15R1R6Ty04ODgyWUFGOEloZm5ZTmJRdW1xVWlYOG9Xa1NMR3R1QlQtRkNpVDd0TjZRRHpMeThGTkRpZVloRkRNVkxmanpUTQ?oc=5",
+      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODjSAaABQVVfeXFMTUlyMnk3alkzMDd4OGdyNk9XLUo1b0Q0djVtSF"
+      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
     }
   ],
   "count": 14
