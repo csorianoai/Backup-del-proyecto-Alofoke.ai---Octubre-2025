@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué regiones alcanzará el primer sistema frontal que llega a Chile, según el pronóstico",
+      "url": "https://www.latercera.com/tendencias/noticia/que-regiones-alcanzara-el-primer-sistema-frontal-que-llega-a-chile-segun-el-pronostico/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Aug 2026 20:00:00 +0000",
+      "summary": "El sistema marcará el regreso de las precipitaciones al país durante los próximos días y estará acompañado por un río atmosférico que podría intensificar las lluvias."
+    },
+    {
       "title": "¿Están conectados de alguna manera los últimos grandes terremotos en Latinoamérica? Esto dice un especialista",
       "url": "https://www.latercera.com/tendencias/noticia/estan-conectados-de-alguna-manera-los-ultimos-grandes-terremotos-en-latinoamerica-esto-dice-un-especialista/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Fri, 21 Aug 2026 10:01:00 +0000",
       "summary": "Las lluvias volverían a Chile la próxima semana con hasta cuatro sistemas frontales y un río atmosférico categoría 3 o 4. Revisa las regiones que podrían recibir más precipitaciones."
-    },
-    {
-      "title": "Las lluvias no se detendrían hasta octubre: esto dice una reciente proyección del tiempo",
-      "url": "https://www.latercera.com/tendencias/noticia/las-lluvias-no-se-detendrian-hasta-octubre-esto-dice-una-reciente-proyeccion-del-tiempo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Aug 2026 21:00:00 +0000",
-      "summary": "El fortalecimiento del fenómeno de El Niño anticipa precipitaciones por sobre lo normal durante el trimestre agosto-septiembre-octubre."
     },
     {
       "title": "La Fuerza Aérea de Chile y la UdeC firman convenio para impulsar la inteligencia artificial y desarrollo espacial - Infodefensa",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdVdZd3RnZkpDelIxb2ViQ1hnY1JSREswN0F6UkJuWXotR1lGVWNyX1YtdXdJQjNWdkRwQjE5am91MFlkU0JjSnhfWVR2WUcwZ2phOWtrbmN5REVsbnV6MW4xRUdLUXQzVFlpdXRaYW9OSEVLV2tQWlNkSzdZWkNwU3RybTRROTR5NjdkUnJPRFNWV2xzQmtkaVk2MTN4Q2RJbk1xb1ZtNEJDT0IyaWRhTWM1RkxfUzdQQ1"
     },
     {
+      "title": "Inteligencia artificial en empresas regionales: cómo crecer - anda.cl",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xckVxNXE5Q21STUJ3aXFmcl9Gd2o1aTE2MmJTb05SbHNTUWJDWGlPSmFDNWFDVWYzeDBGZzItQmhXMjREcm80Wm9EMzdXb1NYaXBud0ZvSGg3M0t0VzZleXNYWGZPMlljS2FCbjJWVXkxWHJD?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Aug 2026 16:07:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE4xckVxNXE5Q21STUJ3aXFmcl9Gd2o1aTE2MmJTb05SbHNTUWJDWGlPSmFDNWFDVWYzeDBGZzItQmhXMjREcm80Wm9EMzdXb1NYaXBud0ZvSGg3M0t0VzZleXNYWGZPMlljS2FCbjJWVXkxWHJD?oc=5\" target=\"_blank\">Inteligencia artificial en empresas regionales: cómo crecer</a>&nbsp;&n"
+    },
+    {
       "title": "IA y tiempo - LaRepublica.co",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcFJySDdsTTZGM2k0THg2c011djJkY2d2SjM2OTB4S3pHVWgxRW9USnREaHBwcWZTX0VzbGZBYW1EbFJpTjNRQzM3LWtTTVFyR2N4NllGa1pfYUhMLUQwdWJ0VXVLSkZ4QnRFQVcwa2pfNDdHYTZiZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcF"
-    },
-    {
-      "title": "Santiago Niño Becerra avisa de la burbuja de la IA: \"¿Cuándo llegará el retorno de la inversión?\" - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnVvc0ZxNENLZjhqNVdSNTBJTUVqcWtFeFQzeWFUQ0Zxd0xkS291emhaWElEWFVzclJta0lqQWtMcDlMcml4S1k3T2g5RFdEQ3JWMHBwUndzU0pkUzJLSVNqZTlFX3p5SHdJNHpsZDVzZ2VNcXZ6M19vTkFIWFJ3ai0xXzNkY0tlQzBrdzZNQ2ZuTDVNdHkwMzdiNFBDM29Ha3Q0MjF5ZWpXQzNjLXpfN3FLLUpoWkp1VnlDVlVLa9IBvwFBVV95cUxNSEp5WWxYckZQUnpjYml0b3pGU1hYdDY2MVo3MXlFcV9ESFlReVkzQk5mMkR4ODdadzhDbm04Q3dheGxTMVZMaXdXSnNKZWFWcnFCVmFtN3pTVWYxUk1kekl1cEgwTFA3S0hRcW01Q1hOcnlvOWtWVlUwcTY4UnBXeW5USnBtNkw2MTl4NzlvUVNGQVJ4dGdHcXFXb0NpQWpYRmEtZ0cxNTlWd0RvX0hPNlBVTm04VS12LXZndzd2aw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 18 Aug 2026 10:59:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnVvc0ZxNENLZjhqNVdSNTBJTUVqcWtFeFQzeWFUQ0Zxd0xkS291emhaWElEWFVzclJta0lqQWtMcDlMcml4S1k3T2g5RFdEQ3JWMHBwUndzU0pkUzJLSVNqZTlFX3p5SHdJNHpsZDVzZ2VNcXZ6M19vTkFIWFJ3ai0xXzNkY0tlQzBrdzZNQ2ZuTDVNdHkwMzdiNFBDM29Ha3Q0MjF5ZWpXQzNjLXpfN3FLLUpoWkp1Vn"
     },
     {
       "title": "Novelty8 ofrece hasta $60M en tecnología gratis para startups - El Ecosistema Startup",

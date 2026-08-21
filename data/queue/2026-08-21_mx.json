@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "De Cyberpunk 2077 a GTA: los videojuegos más caros de la historia",
+      "url": "https://expansion.mx/tecnologia/2026/08/21/cyberpunk-2077-gta-los-videojuegos-mas-caros-historia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Aug 2026 21:07:12 GMT",
+      "summary": "La industria de los videojuegos destaca por tener algunos de los costos de desarrollo más altos."
+    },
+    {
+      "title": "Netflix quiere quedarse con tu atención y asegura que ya tiene una ventaja",
+      "url": "https://expansion.mx/tecnologia/2026/08/21/netflix-atencion-generacion-z-anuncios-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 21 Aug 2026 16:38:31 GMT",
+      "summary": "Netflix asegura que 84% de la Generación Z presta atención a sus anuncios en México y prepara nuevos formatos con IA para atraer a las marcas."
+    },
+    {
       "title": "GTA VI no puede detener las filtraciones: Rockstar es incapaz de proteger a la propiedad más cara de la historia",
       "url": "https://expansion.mx/tecnologia/2026/08/20/gta-vi-puede-detener-filtraciones-rockstar-incapaz-proteger",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Desde cartas y series animadas hasta Pokémon Center y aplicaciones móviles, la marca desarrolló distintas vías para monetizar a sus personajes."
     },
     {
-      "title": "Xbox cumple 25 años: la fiesta llega en medio de la peor crisis de la marca",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/xbox-cumple-25-anos-peor-crisis",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Aug 2026 20:00:55 GMT",
-      "summary": "Xbox cumple 25 años en medio de su peor crisis comercial. La celebración llega mientras la marca intenta demostrar que la consola todavía importa."
-    },
-    {
-      "title": "Google Pixel 11 ya tiene fecha para México y viene con toda la artillería de Gemini",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/google-pixel-11-mexico-cuando-salen-precio",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 20 Aug 2026 17:00:20 GMT",
-      "summary": "Google llevará por primera vez a México toda su nueva familia Pixel 11, junto con el Pixel Watch 5 y los Pixel Buds Pro 2. La preventa comienza el 24 de septiembre y los equipos llegarán a tiendas el 1 de octubre."
-    },
-    {
       "title": "Consejo de Administración: liderazgo responsable en la era de la inteligencia artificial - kpmg.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMjdTUjY3UTVOT000S3VZR0NUbHA0N29jdFo0TTRuMEZiV051WGFJbzNLQU1PWGdJemlaY0UzSVVCOEhWY1V2UUJ1dE1OZzYtMVpVb3lZa19mOVhIZkpIa1I2djZkcDNoSVpFU19DMWNVeElXdTdVRFNISHFUbkkzSTItd1A4d0JxN0JLNWhlUFp5QWRBMTdSREdfVUE3LXl6MmZLMVpZSEd4dVh6Rmk1LWFyS0xvMmkyRk5mQjB3SzhUNWVmYVc4UWNrcWNKdklqbXJnMw?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnlablBQdHZLaHNVWkprRHFJSG9PWUFhWHFiRGQ4UVRYMVdRNFRjcER0YXlxS04wOEFxdkZDZGh2amN6NEttWWt3eVlCaWQxY2QtOFAtOHpGZnUyTGR0VzZaZHljMVNGZVpWaTdSWjZOYm03T1RhZWlOUTNKaHNsVDNrcE9VZVpMMlNQQnAtUzZ3Zl9HUWhsU0VqZDI4STVf?oc=5\" target=\"_blank\">Dailymotion"
     },
     {
-      "title": "México y la nueva geografía globa de Inteligencia Artificial - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3FPN1l6NWdaeGVHclhydWFwbTA5THItRGl5dGxrWVh2ZE5wMFF6LWdRV2N2dDU3dFAzLUhWOVdDdWpUZmpYNlFLZ00yTG9QNGlxLTEwMndqU21xTHQzdVVydDh4T0xtWlA5U21wTVZCOE56OUtKeUtXUWZtNmMzakhuOEFvaERISEJRRFlpYzc1X1otdWtvMndSd1BOTDVHMXdOVTdZcFM0MldkZnd2V2RrVUV5QkhERGpqTFMycE9iMkZhUlJNWGh4TzRCaUJa?oc=5",
+      "title": "Llega Samsung Innovation Campus 2026 para impulsar la formación de estudiantes mexicanos en IA y liderazgo - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWXlfZTBUTTZnb0xhS1BQUjYyU2QxdDVRWXRFZ2xfbXpTTlBsci02dm56Nm4xSlEwbU9haVJvVy1NbkZ0M25MQnhYdjFZeEhXT2lxSDhSUjhoSUVUMjZISGZXQkhJQ2JwWVJWbHBIQ2lpdThLWURZOUVidEMwTnhxaGFUbW9CVHdMRjJsR3ZXd3JBLVY0Qy1NT0xtZjlsTFJQM3JlLWpQN0piOEFpeHJld3N4SWJ0dElQeE05dHVQZzFUOEd0MFB6MUJXaFhFS2xNQUYyWkNjRDhsWGtodUZ3MzJHaVRDcy1CX1E2eDl1RlDSAYsCQVVfeXFMUEpJR3hkMXJEUlF0RnVtV0poVWlFN0pJdUdneS1xeUNpWVJOSGRYbnVjRXdDS1c5c3lJaW0zNG1nRWJtWlVCMTI3Q3dWdmFNaG9qVmN2d2NsZVJBSVdLYmdmdXJ5cFAwQzBDbWQwRGZtR3FLaUE0Y3ZkRjctUlRLV3ZfZm9EendrOVpveHp1ZlNjSi1QT2h3NzZFZWluTWthOU5YNTE2Y29tLWtqN3E3VUtCS19qNzViZWVvMzRUczZJSGpDaDEwMTdPeDhvaWY4MVUzSXNydFp0NlhDYnZPTjBXZDBjQ2FibEhZWXdlWGxlcFJIcVFTNHc0djlwb2RjRWZVNV9Id3A1QXhF?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 19 Aug 2026 16:41:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3FPN1l6NWdaeGVHclhydWFwbTA5THItRGl5dGxrWVh2ZE5wMFF6LWdRV2N2dDU3dFAzLUhWOVdDdWpUZmpYNlFLZ00yTG9QNGlxLTEwMndqU21xTHQzdVVydDh4T0xtWlA5U21wTVZCOE56OUtKeUtXUWZtNmMzakhuOEFvaERISEJRRFlpYzc1X1otdWtvMndSd1BOTDVHMXdOVTdZcFM0MldkZnd2V2RrVUV5QkhERG"
+      "published": "Fri, 21 Aug 2026 19:43:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWXlfZTBUTTZnb0xhS1BQUjYyU2QxdDVRWXRFZ2xfbXpTTlBsci02dm56Nm4xSlEwbU9haVJvVy1NbkZ0M25MQnhYdjFZeEhXT2lxSDhSUjhoSUVUMjZISGZXQkhJQ2JwWVJWbHBIQ2lpdThLWURZOUVidEMwTnhxaGFUbW9CVHdMRjJsR3ZXd3JBLVY0Qy1NT0xtZjlsTFJQM3JlLWpQN0piOEFpeHJld3N4SWJ0dElQeE"
     },
     {
       "title": "Vambe, la startup chilena que conquista México con IA - El Ecosistema Startup",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
     },
     {
-      "title": "eNOVADORAS 2026: tres startups mexicanas ganan con proyectos de IA - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1RsbFR2cnVmbjNPTEw4cFpVY1ZBX3Z6VmNYMkNaZkFZRGprVS1PUW5OWnpqbkVMUFBaM0Z5T2pIZjVLWDJWOWVXdEd4V1RuaEI1a0VadDFueDhoQ1haUXRSUEhLcUh1RS1zQjBZUUdOUlpPbnV1WmlkaWQ0NUVRMFVZNFlBYUowY19ZNE5PaF9rVUF4UV9JYnBuQzhEc21aUHNaSW1VeUg3OTNqeHJyVjkyaGVqWFI3?oc=5",
+      "title": "Colombia supera a México en venture capital: IA desplaza a Fintech en 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1RsbFR2cnVmbjNPTEw4cFpVY1ZBX3Z6VmNYMkNaZkFZRGprVS1PUW5OWnpqbkVMUFBaM0Z5T2pIZjVLWDJWOWVXdEd4V1RuaEI1a0VadDFueDhoQ1haUXRSUEhLcUh1RS1zQjBZUUdOUlpPbnV1WmlkaWQ0NUVRMFVZNFlBYUowY19ZNE5PaF9rVUF4UV9JYnBuQzhEc21aUHNaSW1VeUg3OTNqeHJyVjkyaGVqWFI3?o"
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONjVRM2haY3U0SEhXZzljNFhjSHlqek9laGpxeGZ2VkpienN2M3dlMlhHYVk0YmMwRkllN3NEeFZMb1JtVTRKY0xfdWVmQndobFI4amMwR0otUExiWTQwRUtJUmRLRThWY3poN29EZDVFWFVsZkFFMDY1aGFDUG5rdDlVajhseUVIZ3IxaUgtd0ZpMkhZRDgtaUozUmg2TXlaaUwtSFFuWQ?oc=5\" target=\"_blank\">C"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tec de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     },
     {
-      "title": "La inteligencia artificial redefine la creación de nuevos negocios en el Foro Negocios Monterrey 2026 - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk8xdzhfNC01UQ?oc=5",
+      "title": "Cómo lucirá Monterrey en 200 años, según la IA - TV Azteca",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODjSAaABQVVfeXFMTUlyMnk3alkzMDd4OGdyNk9XLUo1b0Q0djVtSFdReXdWTE56TVB1dVVHU2VycHRQSWViNGZQc1VMN0x1ejNRMHJFS3J2aTVHb2hZczh2RGVVdU15R1R6Ty04ODgyWUFGOEloZm5ZTmJRdW1xVWlYOG9Xa1NMR3R1QlQtRkNpVDd0TjZRRHpMeThGTkRpZVloRkRNVkxmanpUTQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLS1FNHJMcGFJWGlHS19KTmdiZ2E1dm1sRXlFZFpieW1UaW5kczVsNENyRC1LaDY3TUVxLWVFU0wwdXZDa0l4WUFxRlJwWl9nSHJ0QkkxYnJObDVzQzVoNUxtWTBVeUNNanF0TlhaZXpUd3BrZVRoNjlWaVBWOVJWRmlPVlZET2lhMTZkN3J3Y3VYdnFpSUpsVm9qc3llSjFfcnEzdXFMWGdRM1lUS2o0NWtoQWtlQTNvRk"
+      "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmMwQjNJY0tubFdmQlN1cnRHUHlrRTNiR0M2WkN5NlM2NUF0a3lKQndUNHVZNXdqMm5tc0NIc2N6d002cUljQ3BOeFRFbDhScGFkTkJuc1JTNUdlcnNVN1JpLXdaLW9NVDI5LURud1dNc1JiQUtsOWlaN3c5TUVfN1g4TUxaanRoTTZ1NzZZX3RTODjSAaABQVVfeXFMTUlyMnk3alkzMDd4OGdyNk9XLUo1b0Q0djVtSF"
     }
   ],
   "count": 14
