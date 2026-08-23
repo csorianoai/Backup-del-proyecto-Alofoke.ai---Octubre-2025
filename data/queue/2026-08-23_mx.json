@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Cómo monetiza la música",
+      "url": "https://expansion.mx/tecnologia/2026/08/23/tener-millones-reproducciones-no-garantiza-vivir-musica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 23 Aug 2026 12:00:20 GMT",
+      "summary": "Aunque el streaming musical transformó la industria, el ecosistema digital nunca prometió éxito financiero para todos los artistas. La clave\nes saber aprovecharlo como vitrina de exposición."
+    },
+    {
       "title": "Cómo reiniciar el algoritmo cuando TikTok, Netflix o Spotify te encasillan",
       "url": "https://expansion.mx/tecnologia/2026/08/22/reiniciar-algoritmo-tiktok-netflix-spotify",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Netflix asegura que 84% de la Generación Z presta atención a sus anuncios en México y prepara nuevos formatos con IA para atraer a las marcas."
     },
     {
-      "title": "GTA VI no puede detener las filtraciones: Rockstar es incapaz de proteger a la propiedad más cara de la historia",
-      "url": "https://expansion.mx/tecnologia/2026/08/20/gta-vi-puede-detener-filtraciones-rockstar-incapaz-proteger",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 21 Aug 2026 01:31:51 GMT",
-      "summary": "Una serie de supuestas filtraciones del nuevo título de Rockstar sacudieron la industria durante la última semana."
+      "title": "México y Brasil son de los principales países en usar IA en Latinoamérica - El Informador",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTUhzUjVmX3dqcmIzYWR2MWVQckxVd3pGRl9DeG1nUWJHVXJnYXVYM1FzSE45R2ExelkwVm1SbWYtQXAyMFo5Wm1ZcF9vUzJSTzRXUFFYVzV2ak1pYXNweXV3azVFWURlUnN0aUppTFNyckdORy1BS1M5WUFBd0p0bl9iUm8wUURWQXlCSzRvLW9pdmNNSjdQMGEtdFMxUU9VRlY0WTZEWjhYNkZZSnA4MjBfWFJVYTFoVERDcnJwU2kyajJnNGFvWTBYemhqclM3YUl0UGRVd3ZadFBqdEt4Mzk5X2NwS3JI0gHuAUFVX3lxTE13N3V5bEZLY0JtSzlYWFFBSGJOVDRuME9KUTluSnNmUGRkSWJ2NG83UnIwQUxMMGZWb3VGSHk2VkhKZXJ5UG9OcTF2OW9oQ2g3Z1o4eHp5Z2pLcE5IUWQ2MTBNV3N3dnNUX29lNERuS3I1R0RmMWhTN2dwN0RVSGh4c2xjSDFRcTV6UXpsWTBhMmVfMTJoSHpRY2lFRDdUWm9RQVF2SWo1OW9MVDN4eC1vY1JlU1JDVGNyakwxbVNaODdSNEVNTmFIa2tfLTFld25JNm1PZ2kxWDZIUWVNd3hldnZHNzZYbFJtRThUY0E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 23 Aug 2026 17:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTUhzUjVmX3dqcmIzYWR2MWVQckxVd3pGRl9DeG1nUWJHVXJnYXVYM1FzSE45R2ExelkwVm1SbWYtQXAyMFo5Wm1ZcF9vUzJSTzRXUFFYVzV2ak1pYXNweXV3azVFWURlUnN0aUppTFNyckdORy1BS1M5WUFBd0p0bl9iUm8wUURWQXlCSzRvLW9pdmNNSjdQMGEtdFMxUU9VRlY0WTZEWjhYNkZZSnA4MjBfWFJVYTFoVE"
     },
     {
       "title": "SAP NOW AI Tour Mexico pone la inteligencia artificial en operación: datos, nube y casos reales en el centro de la agenda - SAP News Center",
@@ -57,14 +65,6 @@
       "category": "news",
       "published": "Wed, 19 Aug 2026 16:41:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd3FPN1l6NWdaeGVHclhydWFwbTA5THItRGl5dGxrWVh2ZE5wMFF6LWdRV2N2dDU3dFAzLUhWOVdDdWpUZmpYNlFLZ00yTG9QNGlxLTEwMndqU21xTHQzdVVydDh4T0xtWlA5U21wTVZCOE56OUtKeUtXUWZtNmMzakhuOEFvaERISEJRRFlpYzc1X1otdWtvMndSd1BOTDVHMXdOVTdZcFM0MldkZnd2V2RrVUV5QkhERG"
-    },
-    {
-      "title": "Modo BTS en Gemini: Así puedes activar el contenido especial en México - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlNCUDg0QlRxc2R3RF84UDJwcUVxdnFmb1hQTzg0Q2xMTUJsR3FZZDdJVGJLcFdncHNuYzlLWng3MkItMEdIa2ZuQ21FaWN5U1pxOFV3blg4MW5GdHdPbjRVS2F1dHR5UFA1elVMcVIteXB6d0RyVXVMeUhiMkwxQ0c1VVNYdnZMWWxlY3VrWlR3VmFxMDRENnc3dVBmcFNKY1pBblRweUVTRkZJcFBLT0xR0gHMAUFVX3lxTE1aZWxlNFkwaTZ5YnJ5X040a3hrZS05eGVFUlAzT2Jnem1VMVZ5LWV1aDZXRU12NEpqYVpLbTBSWHUyWl9MUTg4V2FoMkxxaTlUcmRKM2FwUWh4YzlXX3MyLW13YnBhTGNESzloQTk4WGFRX3lUQmRUbFNvNnFpeVpGWlRiWkxiUi14Y2Q5TVJIWVo1Wl8xWDFRb2dqVE9lNUJfVm4zVnl4dm9hUm5HZXpsd3hROGpxdHRteEhHSnFkNkkyYmVFMzdrQUU5cg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 22 Aug 2026 14:24:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlNCUDg0QlRxc2R3RF84UDJwcUVxdnFmb1hQTzg0Q2xMTUJsR3FZZDdJVGJLcFdncHNuYzlLWng3MkItMEdIa2ZuQ21FaWN5U1pxOFV3blg4MW5GdHdPbjRVS2F1dHR5UFA1elVMcVIteXB6d0RyVXVMeUhiMkwxQ0c1VVNYdnZMWWxlY3VrWlR3VmFxMDRENnc3dVBmcFNKY1pBblRweUVTRkZJcFBLT0xR0gHMAUFVX3"
     },
     {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
