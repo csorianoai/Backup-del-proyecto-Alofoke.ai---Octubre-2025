@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "¿Usas WhatsApp en más de un celular? Ahora tendrás una llave de acceso para cada dispositivo",
+      "url": "https://expansion.mx/tecnologia/2026/08/25/whatsapp-mas-de-una-llave-acceso-cuenta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 25 Aug 2026 20:00:55 GMT",
+      "summary": "Más de 1,000 millones de personas ya utilizan una llave de acceso en WhatsApp. La plataforma también reforzó la verificación en dos pasos y ahora muestra más información cuando llama a un número desconocido."
+    },
+    {
+      "title": "¿Para qué sirve el pequeño sensor que algunos celulares tienen junto a las cámaras?",
+      "url": "https://expansion.mx/tecnologia/2026/08/25/para-que-sirve-sensor-celulares-tienen-junto-camaras",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 25 Aug 2026 18:32:52 GMT",
+      "summary": "Dentro de los nuevos elementos que incorporan algunos teléfonos celulares, destaca la implementación de sensores para mejorar la calidad de fotografías."
+    },
+    {
       "title": "Apple lanza nuevos Mac Studio y Mac Mini, el equipo favorito para usar agentes de IA",
       "url": "https://expansion.mx/tecnologia/2026/08/25/apple-lanza-nuevas-mac-studio-y-mini",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Si la señal pierde fuerza al alejarte del módem, existen razones técnicas que explican el cambio y formas de elegir una conexión más conveniente."
     },
     {
-      "title": "¿Buscas laptop para el regreso a clases? Estas opciones cuestan menos de 7,000 pesos",
-      "url": "https://expansion.mx/tecnologia/2026/08/24/computadoras-regreso-a-clases-menos-7-000-pesos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 24 Aug 2026 19:04:43 GMT",
-      "summary": "Las computadoras se han convertido en una herramienta crucial para estudiantes desde el nivel básico; estas opciones destacan por su precio y características."
-    },
-    {
-      "title": "Nueva Zelanda busca sacar a los menores de 16 de TikTok, Instagram y Facebook",
-      "url": "https://expansion.mx/tecnologia/2026/08/24/nueva-zelanda-redes-sociales-menores-16-anos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 24 Aug 2026 16:44:36 GMT",
-      "summary": "Nueva Zelanda propone impedir que los menores de 16 años tengan cuentas en redes sociales como TikTok, Instagram y Facebook. Las plataformas podrían recibir multas de hasta 10% de sus ingresos mundiales."
+      "title": "Festival IA México 2026: de la inteligencia artificial a la transformación agéntica - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd081ME9IZGRRQmU5YnFxZXVhaE50RlktVGlXY0xWcU9TUmNFcWx6NUJjelFwVHpINldxOTE3bU9XTm9xeGlMeTUtbjVuaEYxcUdTRXVrQkJGd3BQbEVSUG1MNzdRUHR0U1Q0dWJORHlOMWdGTzBLUUV1b09Qa2JSLUcyOXJOUWRwQ3ZfU1hJTjA2TXdNSnhSbk1RZk9fN0RrRTk1OEhPVFQydjZTR0UyVEZCakZJZkx3dzB4NDQxcWdRQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 22:10:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd081ME9IZGRRQmU5YnFxZXVhaE50RlktVGlXY0xWcU9TUmNFcWx6NUJjelFwVHpINldxOTE3bU9XTm9xeGlMeTUtbjVuaEYxcUdTRXVrQkJGd3BQbEVSUG1MNzdRUHR0U1Q0dWJORHlOMWdGTzBLUUV1b09Qa2JSLUcyOXJOUWRwQ3ZfU1hJTjA2TXdNSnhSbk1RZk9fN0RrRTk1OEhPVFQydjZTR0UyVEZCakZJZkx3dz"
     },
     {
       "title": "48% de las empresas mexicanas ya utiliza IA, pero solo 13% llega a una etapa avanzada - ITSitio",
@@ -51,20 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGF1S0VDY2tyaU96NlVCUkxuNENzU1Y5dGU2RFZjTDd6MVJVLWZtWk44ajRHUEcyLWxXVGRGSE01bGdkellOXzNjRWh6ZGl5Y3FBZHdJN1RINGI2YjdqbkdsWWVoZmF2ZzRPck9hZU1yOUdXcVlyM2UxT3JQWWhTWVo4RzRzZkNhLUE4LU16RXdxdUZlbTl5UnBZZ1dYbnd4bm5qa1ZkZnFsU2JZZVY4ZktubUF6RWViRF"
     },
     {
-      "title": "Brasil y México lideran la adopción de inteligencia artificial en Latinoamérica con tasas de hasta 76 % - Análisis Urbano",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckFaMmhXMTFtS21uN0hDUmpPMTd0REs4WGQ0d0diVjdwa3kyT0VEa05XcHFHTnNEeEtZYzRYVXIxU09vRjd5c1kwajZMWGZ6dk5kN182R0lfaTVPOXFjTkdmekIwQ0tSU1ZZU3ZoWTByVFNlcUJuM0MtSlBKOFBlcm5vXzVIWFVTLVJtcEpSX3pVQQ?oc=5",
+      "title": "Egeda México traza su futuro: digitalización y nuevos mercados junto al reto de la inteligencia artificial tras el relevo en su dirección - produ",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQnotV0ZCSjFKcGZtQXVfbFRINk1VRlktNGg4SnNoMndKZUFqYndrWThaWHV6SzdvUm80TjFsN0llLThHSXQyMHRRSjd3WS0yaGVPcGVCVW9jWHpHS2VmSkFOWUE0LWtYaDUyMUJnSUtlVlJZcER3Ql93S0RqeVNkZGNBVlZLY1NJSG95QXRKTko5TmhtXzFqUDVyZk1jZ3piSkU4a29zNEFqbjVoeG9IYjc2WTExSHpzSTAwTmpxSURWOGVBR1VFanB1ZWVuM3FTYW1FdWNJOW9RMUpXb2pPX0FQNGwzdGMtbnU5NkpOZ0w1WGtlM25YUEJhcjFiU3A0SXVyRjhjazJ0ODQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 23 Aug 2026 19:05:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNckFaMmhXMTFtS21uN0hDUmpPMTd0REs4WGQ0d0diVjdwa3kyT0VEa05XcHFHTnNEeEtZYzRYVXIxU09vRjd5c1kwajZMWGZ6dk5kN182R0lfaTVPOXFjTkdmekIwQ0tSU1ZZU3ZoWTByVFNlcUJuM0MtSlBKOFBlcm5vXzVIWFVTLVJtcEpSX3pVQQ?oc=5\" target=\"_blank\">Brasil y México lideran la ad"
+      "published": "Tue, 25 Aug 2026 17:45:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQnotV0ZCSjFKcGZtQXVfbFRINk1VRlktNGg4SnNoMndKZUFqYndrWThaWHV6SzdvUm80TjFsN0llLThHSXQyMHRRSjd3WS0yaGVPcGVCVW9jWHpHS2VmSkFOWUE0LWtYaDUyMUJnSUtlVlJZcER3Ql93S0RqeVNkZGNBVlZLY1NJSG95QXRKTko5TmhtXzFqUDVyZk1jZ3piSkU4a29zNEFqbjVoeG9IYjc2WTExSHpzST"
     },
     {
-      "title": "SAP NOW AI Tour Mexico pone la inteligencia artificial en operación: datos, nube y casos reales en el centro de la agenda - SAP News Center",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3gybGpQdWlWN2RGQTFUd1JNTUZWOUtick5Fc25IZklLMVBleHhnTU1JMVk2cGpRVkxWc0tfR3AxRlNfS0lKZGNkaUJtblRYUGlxazhlZkxmb3E4TVZ2MFRfUTVhYkpHYWxibzZQeEt2TG0wSGNwNTZHakhlaW5LV21RR0dBOWxRS1NNSjRxc29iN0lyRWw2NTJEWWxrcXZjLS1PMmVVMUZoU2hwZ1NwYS1ENmdPMUhWdU9pcEF6eHI4QmVVeDkza1RxQnFnOTVJeFZxVW4tdU04dUVLTjAxZVdvRzRQZENIWDFuSFQtdDdfSFVZ0gH8AUFVX3lxTFBWVWRwQlRuVFdaZmg4MUd6aGhKSUF6UzBMTkNIWUN5N05hT01Ra3ZhU1oyODQwUlQtRF83SmNra1ZaQUt1ZjFfZDdtRUg0aVpVWGUyVWhZUnlHbFYySm8wcDVFMWNoYXRzX0gxX1MwUURTUnZmX2lNekF2YnAxa1l6QVloR1lCNkVEdHRPanhIZUpIRUdKSVZOX1R5ZzBxNVhxNU5MRDkyMXQxOFFkcFRWZlNYa04tWWNZVVF3UWlxc1NicDJnYTBlUFV3aHB0YXRYVHFoUHg3RVV4NWtrMWxCX2c1UEp0UnNMRmNaQ0dUWGdJYl85MmYtUDdYXw?oc=5",
+      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 21 Aug 2026 16:41:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3gybGpQdWlWN2RGQTFUd1JNTUZWOUtick5Fc25IZklLMVBleHhnTU1JMVk2cGpRVkxWc0tfR3AxRlNfS0lKZGNkaUJtblRYUGlxazhlZkxmb3E4TVZ2MFRfUTVhYkpHYWxibzZQeEt2TG0wSGNwNTZHakhlaW5LV21RR0dBOWxRS1NNSjRxc29iN0lyRWw2NTJEWWxrcXZjLS1PMmVVMUZoU2hwZ1NwYS1ENmdPMUhWdU"
+      "published": "Tue, 25 Aug 2026 18:15:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
     },
     {
       "title": "Primero, startup mexicana, recauda US$12M con Kaszek para IA - El Ecosistema Startup",
@@ -83,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
     },
     {
-      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "title": "Irving Hidrogo: «La IA en educación no se integra con herramientas, sino con estrategia institucional» - Observatorio / Instituto para el Futuro de la Educación",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5\" tar"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
@@ -97,14 +105,6 @@
       "category": "news",
       "published": "Sat, 04 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
-    },
-    {
-      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tec de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     },
     {
       "title": "No buscamos una IA que disminuya capacidad de pensar; Tec de Monterrey va por uso reflexivo - Imagen Radio",
