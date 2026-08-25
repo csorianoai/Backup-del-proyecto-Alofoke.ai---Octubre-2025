@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple lanza nuevos Mac Studio y Mac Mini, el equipo favorito para usar agentes de IA",
+      "url": "https://expansion.mx/tecnologia/2026/08/25/apple-lanza-nuevas-mac-studio-y-mini",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 25 Aug 2026 16:40:54 GMT",
+      "summary": "La empresa de Cupertino presentó sus nuevas computadoras con los chips más potentes y de última generación que ha desarrollado."
+    },
+    {
       "title": "ChatGPT y Gemini ya deciden qué marcas ves: Toyota, Suburbia y Klar toman ventaja",
       "url": "https://expansion.mx/tecnologia/2026/08/25/chatgpt-gemini-marcas-recomendaciones-mexico",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Nueva Zelanda propone impedir que los menores de 16 años tengan cuentas en redes sociales como TikTok, Instagram y Facebook. Las plataformas podrían recibir multas de hasta 10% de sus ingresos mundiales."
     },
     {
-      "title": "Cómo monetiza la música",
-      "url": "https://expansion.mx/tecnologia/2026/08/23/tener-millones-reproducciones-no-garantiza-vivir-musica",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sun, 23 Aug 2026 12:00:20 GMT",
-      "summary": "Aunque el streaming musical transformó la industria, el ecosistema digital nunca prometió éxito financiero para todos los artistas. La clave\nes saber aprovecharlo como vitrina de exposición."
+      "title": "48% de las empresas mexicanas ya utiliza IA, pero solo 13% llega a una etapa avanzada - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGF1S0VDY2tyaU96NlVCUkxuNENzU1Y5dGU2RFZjTDd6MVJVLWZtWk44ajRHUEcyLWxXVGRGSE01bGdkellOXzNjRWh6ZGl5Y3FBZHdJN1RINGI2YjdqbkdsWWVoZmF2ZzRPck9hZU1yOUdXcVlyM2UxT3JQWWhTWVo4RzRzZkNhLUE4LU16RXdxdUZlbTl5UnBZZ1dYbnd4bm5qa1ZkZnFsU2JZZVY4ZktubUF6RWViRFcyVDFpYS1pSVVsZFhidGRmZ1YzZHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 17:11:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGF1S0VDY2tyaU96NlVCUkxuNENzU1Y5dGU2RFZjTDd6MVJVLWZtWk44ajRHUEcyLWxXVGRGSE01bGdkellOXzNjRWh6ZGl5Y3FBZHdJN1RINGI2YjdqbkdsWWVoZmF2ZzRPck9hZU1yOUdXcVlyM2UxT3JQWWhTWVo4RzRzZkNhLUE4LU16RXdxdUZlbTl5UnBZZ1dYbnd4bm5qa1ZkZnFsU2JZZVY4ZktubUF6RWViRF"
     },
     {
       "title": "Brasil y México lideran la adopción de inteligencia artificial en Latinoamérica con tasas de hasta 76 % - Análisis Urbano",
@@ -51,20 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNckFaMmhXMTFtS21uN0hDUmpPMTd0REs4WGQ0d0diVjdwa3kyT0VEa05XcHFHTnNEeEtZYzRYVXIxU09vRjd5c1kwajZMWGZ6dk5kN182R0lfaTVPOXFjTkdmekIwQ0tSU1ZZU3ZoWTByVFNlcUJuM0MtSlBKOFBlcm5vXzVIWFVTLVJtcEpSX3pVQQ?oc=5\" target=\"_blank\">Brasil y México lideran la ad"
     },
     {
-      "title": "Odoo Experience 2026: así busca México llevar la IA de la teoría a los negocios - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmJMS2lVVFJZQV9jN3haYkxaZmpiZEd3WjBqSUtRaUdfVmI4LUdYNldReFFYclVMdDdHN281eWtYaW1rV0hyUXVOMi1TR3NBU3hhdUNnRVNYM3VSMks5Y2VBQkI4dk5aT01WY0pMNEFBV2d1N3VZaFlyeTlCekZLLVQzbkZ0VS1WczZiWTdCTGNGbjVaQkctXzJnVXFFX2dYMkU5VUtuaVdVS2JCMW51WE1VUFVCNW1pQURPVFNKbENKRXE4enc5YzR3?oc=5",
+      "title": "SAP NOW AI Tour Mexico pone la inteligencia artificial en operación: datos, nube y casos reales en el centro de la agenda - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3gybGpQdWlWN2RGQTFUd1JNTUZWOUtick5Fc25IZklLMVBleHhnTU1JMVk2cGpRVkxWc0tfR3AxRlNfS0lKZGNkaUJtblRYUGlxazhlZkxmb3E4TVZ2MFRfUTVhYkpHYWxibzZQeEt2TG0wSGNwNTZHakhlaW5LV21RR0dBOWxRS1NNSjRxc29iN0lyRWw2NTJEWWxrcXZjLS1PMmVVMUZoU2hwZ1NwYS1ENmdPMUhWdU9pcEF6eHI4QmVVeDkza1RxQnFnOTVJeFZxVW4tdU04dUVLTjAxZVdvRzRQZENIWDFuSFQtdDdfSFVZ0gH8AUFVX3lxTFBWVWRwQlRuVFdaZmg4MUd6aGhKSUF6UzBMTkNIWUN5N05hT01Ra3ZhU1oyODQwUlQtRF83SmNra1ZaQUt1ZjFfZDdtRUg0aVpVWGUyVWhZUnlHbFYySm8wcDVFMWNoYXRzX0gxX1MwUURTUnZmX2lNekF2YnAxa1l6QVloR1lCNkVEdHRPanhIZUpIRUdKSVZOX1R5ZzBxNVhxNU5MRDkyMXQxOFFkcFRWZlNYa04tWWNZVVF3UWlxc1NicDJnYTBlUFV3aHB0YXRYVHFoUHg3RVV4NWtrMWxCX2c1UEp0UnNMRmNaQ0dUWGdJYl85MmYtUDdYXw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 24 Aug 2026 22:59:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmJMS2lVVFJZQV9jN3haYkxaZmpiZEd3WjBqSUtRaUdfVmI4LUdYNldReFFYclVMdDdHN281eWtYaW1rV0hyUXVOMi1TR3NBU3hhdUNnRVNYM3VSMks5Y2VBQkI4dk5aT01WY0pMNEFBV2d1N3VZaFlyeTlCekZLLVQzbkZ0VS1WczZiWTdCTGNGbjVaQkctXzJnVXFFX2dYMkU5VUtuaVdVS2JCMW51WE1VUFVCNW1pQU"
+      "published": "Fri, 21 Aug 2026 16:41:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3gybGpQdWlWN2RGQTFUd1JNTUZWOUtick5Fc25IZklLMVBleHhnTU1JMVk2cGpRVkxWc0tfR3AxRlNfS0lKZGNkaUJtblRYUGlxazhlZkxmb3E4TVZ2MFRfUTVhYkpHYWxibzZQeEt2TG0wSGNwNTZHakhlaW5LV21RR0dBOWxRS1NNSjRxc29iN0lyRWw2NTJEWWxrcXZjLS1PMmVVMUZoU2hwZ1NwYS1ENmdPMUhWdU"
     },
     {
-      "title": "El talento es la clave para aprovechar la inteligencia artificial - El Financiero",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk1QRFBpYTlDZTZTbW92Y2JGdEVnNm14b2g3MFJjUC1iM0ZTamtORTEyVEY0VkgtaGNMNmpIVmtZQ0ZSOGFtY2pxRmpmSGNnRmcyNlk3NkFCVS1pUXVKb21VNjRWVmZBU0M1QndmdzFSa2g2NzdoZ1A4aHA4YnB2RXBZeGVwN2llWThub1ZUTUZFOERvZ3JvYU1PQ2Z1TU5ENzNVMnBkWG00bGctcjZwNTR6Uk5OaXh3bUtaRFBtbGRlUzJSaW94bnE5TQ?oc=5",
+      "title": "Primero, startup mexicana, recauda US$12M con Kaszek para IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalBIbE8tRl91OGx6a0UtM180aEttYXc1MDF3QjBmamRQcjJtd2RLeGlMLXJDcFlPbjE1aUlsT0k5b1R1SnVKdGFEVExrRUF3NlpzWnlLUnU2Q2dTQTE0Y3JUNGI0LTc1Ulh3c2w1RjVCdW1Rd0VTUmVKVmw2aFVOajk2YVZqcGd3OElacXRSZHhFZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 09:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdk1QRFBpYTlDZTZTbW92Y2JGdEVnNm14b2g3MFJjUC1iM0ZTamtORTEyVEY0VkgtaGNMNmpIVmtZQ0ZSOGFtY2pxRmpmSGNnRmcyNlk3NkFCVS1pUXVKb21VNjRWVmZBU0M1QndmdzFSa2g2NzdoZ1A4aHA4YnB2RXBZeGVwN2llWThub1ZUTUZFOERvZ3JvYU1PQ2Z1TU5ENzNVMnBkWG00bGctcjZwNTR6Uk5OaXh3bU"
+      "published": "Tue, 25 Aug 2026 17:06:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPalBIbE8tRl91OGx6a0UtM180aEttYXc1MDF3QjBmamRQcjJtd2RLeGlMLXJDcFlPbjE1aUlsT0k5b1R1SnVKdGFEVExrRUF3NlpzWnlLUnU2Q2dTQTE0Y3JUNGI0LTc1Ulh3c2w1RjVCdW1Rd0VTUmVKVmw2aFVOajk2YVZqcGd3OElacXRSZHhFZw?oc=5\" target=\"_blank\">Primero, startup mexicana, re"
     },
     {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Mon, 03 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
-    },
-    {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
