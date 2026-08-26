@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Apple confirma su evento de septiembre: esto es lo que podría presentar",
+      "url": "https://expansion.mx/tecnologia/2026/08/26/apple-confirma-evento-nuevos-iphone-apple-watch",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 26 Aug 2026 16:48:51 GMT",
+      "summary": "Apple confirmó la fecha de su próximo gran evento, donde se espera la presentación de los nuevos iPhone y Apple Watch, además del posible iPhone plegable."
+    },
+    {
+      "title": "Meta implementará bloqueos nocturnos en Instagram como parte de un acuerdo por su caso de adicción a redes sociales",
+      "url": "https://expansion.mx/tecnologia/2026/08/26/meta-acuerdo-juicio-adiccion-a-redes-sociales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 26 Aug 2026 14:53:00 GMT",
+      "summary": "La empresa también deberá pagar una multa de 18,000 millones de dólares en un periodo de 10 años, dinero que se destinará a iniciativas de prevención y tratamiento de salud mental en las infancias."
+    },
+    {
       "title": "Ni celulares ni scooters, el negocio de Xiaomi que le genera 3,585 mdd y casi nadie vio venir",
       "url": "https://expansion.mx/tecnologia/2026/08/26/negocio-de-xiaomi-que-genera-3-585-mdd",
       "source": "Expansión Tecnología",
@@ -27,27 +43,11 @@
       "summary": "Dentro de los nuevos elementos que incorporan algunos teléfonos celulares, destaca la implementación de sensores para mejorar la calidad de fotografías."
     },
     {
-      "title": "Apple lanza nuevos Mac Studio y Mac Mini, el equipo favorito para usar agentes de IA",
-      "url": "https://expansion.mx/tecnologia/2026/08/25/apple-lanza-nuevas-mac-studio-y-mini",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Aug 2026 16:40:54 GMT",
-      "summary": "La empresa de Cupertino presentó sus nuevas computadoras con los chips más potentes y de última generación que ha desarrollado."
-    },
-    {
-      "title": "ChatGPT y Gemini ya deciden qué marcas ves: Toyota, Suburbia y Klar toman ventaja",
-      "url": "https://expansion.mx/tecnologia/2026/08/25/chatgpt-gemini-marcas-recomendaciones-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 25 Aug 2026 13:01:03 GMT",
-      "summary": "Un estudio sobre México muestra qué marcas aparecen en las respuestas de ChatGPT y Gemini y advierte que las grandes empresas parten con ventaja frente a las Pymes."
-    },
-    {
       "title": "Festival IA México 2026: la inteligencia artificial se instaló en la agenda empresarial de Monterrey - Connecta B2B",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVlta0tucml1OGN5R1JjVU9qOGhiNmRWZXQwbnh3bk5uZmZiQUtFX1ZNUXRmemxrYXh2UlV5SklSSVZWTkxrUlFCYVJNa0dpRk42cnJISmZQbXJybVZGbnRZZWI0ZnN4bjctR1FjaHMxNDlyNnkxU0FNZkNaNVY2bU5TREhoenlBZUZJVXp6clFQS3FkdV9vSDdoVDJqN2hXS3N0MVZJU2MwUFY1UFVjdUw2cGFwX1JfcEpoQm1tTjdKUDBSVTN3Z3JxdmpBUGEzcjVEWA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Aug 2026 09:59:54 GMT",
+      "published": "Wed, 26 Aug 2026 10:03:55 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVlta0tucml1OGN5R1JjVU9qOGhiNmRWZXQwbnh3bk5uZmZiQUtFX1ZNUXRmemxrYXh2UlV5SklSSVZWTkxrUlFCYVJNa0dpRk42cnJISmZQbXJybVZGbnRZZWI0ZnN4bjctR1FjaHMxNDlyNnkxU0FNZkNaNVY2bU5TREhoenlBZUZJVXp6clFQS3FkdV9vSDdoVDJqN2hXS3N0MVZJU2MwUFY1UFVjdUw2cGFwX1JfcE"
     },
     {
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQkg5akdsdWlmdHRYUnJFbHkweUM3WDhsVmN6THJMelVUSnA0QUw4ZEZOTExFSHYyaS1vVHlDcGV2clVuOGozV0x6NkM0dHRZR1B2M2hyUlJCMTBjY3g1RHk3Y2JVQXBVaFJrWk9hYXZJUnhweGpkbHkzU2dmNWFlalNSc1RDRkRJS0huWVZGY3VWOERfdmw4cllCcnc5YmRUVzNjMFJzOWEzdkNHZFVFbktfNGFCbGhpTT"
     },
     {
-      "title": "48% de las empresas mexicanas ya utiliza IA, pero solo 13% llega a una etapa avanzada - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGF1S0VDY2tyaU96NlVCUkxuNENzU1Y5dGU2RFZjTDd6MVJVLWZtWk44ajRHUEcyLWxXVGRGSE01bGdkellOXzNjRWh6ZGl5Y3FBZHdJN1RINGI2YjdqbkdsWWVoZmF2ZzRPck9hZU1yOUdXcVlyM2UxT3JQWWhTWVo4RzRzZkNhLUE4LU16RXdxdUZlbTl5UnBZZ1dYbnd4bm5qa1ZkZnFsU2JZZVY4ZktubUF6RWViRFcyVDFpYS1pSVVsZFhidGRmZ1YzZHc?oc=5",
+      "title": "SAP NOW AI Tour Mexico pone la inteligencia artificial en operación: datos, nube y casos reales en el centro de la agenda - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3gybGpQdWlWN2RGQTFUd1JNTUZWOUtick5Fc25IZklLMVBleHhnTU1JMVk2cGpRVkxWc0tfR3AxRlNfS0lKZGNkaUJtblRYUGlxazhlZkxmb3E4TVZ2MFRfUTVhYkpHYWxibzZQeEt2TG0wSGNwNTZHakhlaW5LV21RR0dBOWxRS1NNSjRxc29iN0lyRWw2NTJEWWxrcXZjLS1PMmVVMUZoU2hwZ1NwYS1ENmdPMUhWdU9pcEF6eHI4QmVVeDkza1RxQnFnOTVJeFZxVW4tdU04dUVLTjAxZVdvRzRQZENIWDFuSFQtdDdfSFVZ0gH8AUFVX3lxTFBWVWRwQlRuVFdaZmg4MUd6aGhKSUF6UzBMTkNIWUN5N05hT01Ra3ZhU1oyODQwUlQtRF83SmNra1ZaQUt1ZjFfZDdtRUg0aVpVWGUyVWhZUnlHbFYySm8wcDVFMWNoYXRzX0gxX1MwUURTUnZmX2lNekF2YnAxa1l6QVloR1lCNkVEdHRPanhIZUpIRUdKSVZOX1R5ZzBxNVhxNU5MRDkyMXQxOFFkcFRWZlNYa04tWWNZVVF3UWlxc1NicDJnYTBlUFV3aHB0YXRYVHFoUHg3RVV4NWtrMWxCX2c1UEp0UnNMRmNaQ0dUWGdJYl85MmYtUDdYXw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 17:11:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGF1S0VDY2tyaU96NlVCUkxuNENzU1Y5dGU2RFZjTDd6MVJVLWZtWk44ajRHUEcyLWxXVGRGSE01bGdkellOXzNjRWh6ZGl5Y3FBZHdJN1RINGI2YjdqbkdsWWVoZmF2ZzRPck9hZU1yOUdXcVlyM2UxT3JQWWhTWVo4RzRzZkNhLUE4LU16RXdxdUZlbTl5UnBZZ1dYbnd4bm5qa1ZkZnFsU2JZZVY4ZktubUF6RWViRF"
-    },
-    {
-      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 25 Aug 2026 18:15:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
+      "published": "Fri, 21 Aug 2026 16:41:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX3gybGpQdWlWN2RGQTFUd1JNTUZWOUtick5Fc25IZklLMVBleHhnTU1JMVk2cGpRVkxWc0tfR3AxRlNfS0lKZGNkaUJtblRYUGlxazhlZkxmb3E4TVZ2MFRfUTVhYkpHYWxibzZQeEt2TG0wSGNwNTZHakhlaW5LV21RR0dBOWxRS1NNSjRxc29iN0lyRWw2NTJEWWxrcXZjLS1PMmVVMUZoU2hwZ1NwYS1ENmdPMUhWdU"
     },
     {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
@@ -83,12 +75,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
     },
     {
-      "title": "Primero, startup mexicana, recauda US$12M con Kaszek para IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalBIbE8tRl91OGx6a0UtM180aEttYXc1MDF3QjBmamRQcjJtd2RLeGlMLXJDcFlPbjE1aUlsT0k5b1R1SnVKdGFEVExrRUF3NlpzWnlLUnU2Q2dTQTE0Y3JUNGI0LTc1Ulh3c2w1RjVCdW1Rd0VTUmVKVmw2aFVOajk2YVZqcGd3OElacXRSZHhFZw?oc=5",
+      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 17:06:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPalBIbE8tRl91OGx6a0UtM180aEttYXc1MDF3QjBmamRQcjJtd2RLeGlMLXJDcFlPbjE1aUlsT0k5b1R1SnVKdGFEVExrRUF3NlpzWnlLUnU2Q2dTQTE0Y3JUNGI0LTc1Ulh3c2w1RjVCdW1Rd0VTUmVKVmw2aFVOajk2YVZqcGd3OElacXRSZHhFZw?oc=5\" target=\"_blank\">Primero, startup mexicana, re"
+      "published": "Tue, 25 Aug 2026 18:15:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
+    },
+    {
+      "title": "Startups de IA en México: la estrategia para competir con Estados Unidos pese a la brecha de inversión - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcng0Y1BKLXY5RDhVUUJlbWFWZzJfZWp1b2RfaHY3SUxaRjJtVFd0YU9FeFFQbHpLbm5ENmUxUXBwamtkLUlyOVh6ZDVvYU1yUGl3SkdpU09RSm5uWi1wNVJzeHQybnBmUlFFd1hfN2REakhzQ0lqUTVhczdBY2FWZUpPaUtjLU5XV0lkQmltTmI0RHgtald2eFRyeXpGVmNnbEpkSUlWM1NFOHI5dTI1ZERvVHpwSUZPeU1LbkZ4Wlk5YmhTeVozelZKcmRsdDVjMkRmV0xFeGpLT0VPZHpaeDlwZWlGWlM1?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcng0Y1BKLXY5RDhVUUJlbWFWZzJfZWp1b2RfaHY3SUxaRjJtVFd0YU9FeFFQbHpLbm5ENmUxUXBwamtkLUlyOVh6ZDVvYU1yUGl3SkdpU09RSm5uWi1wNVJzeHQybnBmUlFFd1hfN2REakhzQ0lqUTVhczdBY2FWZUpPaUtjLU5XV0lkQmltTmI0RHgtald2eFRyeXpGVmNnbEpkSUlWM1NFOHI5dTI1ZERvVHpwSUZPeU"
+    },
+    {
+      "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 26 Aug 2026 15:27:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5\" target=\"_blank\">Festival IA Connecta B2B deb"
     },
     {
       "title": "Irving Hidrogo: «La IA en educación no se integra con herramientas, sino con estrategia institucional» - Observatorio / Instituto para el Futuro de la Educación",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Sat, 04 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
-    },
-    {
-      "title": "Tec de Monterrey y Geely impulsarán movilidad inteligente con IA y vehículos autónomos - Líder Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRW5kSm80dTRDaFpib1YzSF9hei1UWFdDQ05rM3VGV1FqSE40WXlfeEFNS2JlNktNTEk4NFQ4enJwaktpMTY2bUFqV0hUTkxMbnllVWJzbmVrR3hBeFBwQW5PeHR2UWFSUU9mU3R5TFZZRlVlMUl3TmEyZ084dkxTenQ5NU5nMnlUZmVfbnNMUjMzUWFGVWFSWHZMSWk5bGNqMjRQNmFodVloM1NhaTdTcmpHU0lUbHZKRl93QQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRW5kSm80dTRDaFpib1YzSF9hei1UWFdDQ05rM3VGV1FqSE40WXlfeEFNS2JlNktNTEk4NFQ4enJwaktpMTY2bUFqV0hUTkxMbnllVWJzbmVrR3hBeFBwQW5PeHR2UWFSUU9mU3R5TFZZRlVlMUl3TmEyZ084dkxTenQ5NU5nMnlUZmVfbnNMUjMzUWFGVWFSWHZMSWk5bGNqMjRQNmFodVloM1NhaTdTcmpHU0lUbHZKRl"
     }
   ],
   "count": 14
