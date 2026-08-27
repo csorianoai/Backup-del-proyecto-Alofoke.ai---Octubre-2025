@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Se descontrola la IA: más del 90% de las empresas reconoce que no está capacitada para utilizarla",
+      "url": "https://www.clarin.com/tecnologia/descontrola-ia-90-empresas-reconoce-capacitada-utilizarla_0_6g3X3Pq5Xy.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 27 Aug 2026 18:27:29 +0000",
+      "summary": "<ul><li>Los agentes de Inteligencia Artificial pueden tomar datos sensibles como sueldos de empleados o planillas de cálculo y publicarlos.</li><li>El tema se debatió en la conferencia VeeamOn 26, que se desarrolló en Buenos Aires. </li></ul>"
+    },
+    {
+      "title": "Tres modelos de iPhone dominan el ranking de celulares más vendidos del mundo: así quedó el top 10",
+      "url": "https://www.clarin.com/tecnologia/modelos-iphone-dominan-ranking-celulares-vendidos-mundo-quedo-top-10_0_rZabefeBnM.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 27 Aug 2026 08:46:05 +0000",
+      "summary": "<ul><li>El iPhone 17 se quedó con el primer puesto y concentró el 6% de las ventas globales de unidades durante el segundo trimestre de 2026. </li><li>Apple y Samsung colocaron cinco equipos cada una entre los diez primeros, que en conjunto representaron el 26% del mercado. </li></ul>"
+    },
+    {
       "title": "Meta bloqueará Instagram y Facebook para adolescentes durante la noche y limitará su uso a dos horas diarias",
       "url": "https://www.clarin.com/tecnologia/meta-bloqueara-instagram-facebook-noche-adolescentes-limitara-uso-horas-diarias_0_c1xfPcyFxU.html",
       "source": "Clarín Tecnología",
@@ -27,27 +43,11 @@
       "summary": "<ul><li>Descargas, archivos temporales y contenido guardado para usar sin conexión pueden ocupar una parte importante del almacenamiento. </li><li>Android y iPhone ofrecen herramientas para detectar qué categorías consumen más capacidad. </li></ul>"
     },
     {
-      "title": "Medias de compresión: una \"segunda piel\" que ayuda a mejorar la circulación y puede ser clave con el paso de los años",
-      "url": "https://www.clarin.com/tecnologia/medias-compresion-segunda-piel-ayuda-mejorar-circulacion-puede-clave-paso-anos_0_kPX5czVqmm.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 24 Aug 2026 08:45:20 +0000",
-      "summary": "<ul><li>Las prendas ejercen una presión graduada que es mayor en el pie y disminuye hacia la pantorrilla.</li><li>Existen modelos de distinta intensidad, desde opciones para viajes y uso cotidiano hasta productos destinados a situaciones médicas específicas.</li></ul>"
-    },
-    {
-      "title": "Sonos Play: probamos el parlante portátil que puede convertirse en un equipo de audio para toda la casa",
-      "url": "https://www.clarin.com/tecnologia/sonos-play-probamos-parlante-portatil-puede-convertirse-equipo-audio-toda-casa_0_NaaerYcsUJ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 23 Aug 2026 09:01:06 +0000",
-      "summary": "<ul><li>Tiene hasta 24 horas de autonomía y certificación contra agua y polvo. </li><li>Se conecta por Wi-Fi para integrarse con otros dispositivos de la marca y también funciona vía Bluetooth fuera del hogar.</li></ul>"
-    },
-    {
       "title": "Argentina necesita una estrategia de Inteligencia Artificial - Infobae",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC04NGJBSWtHTFRmLUxkMGRFcDlmMTNCbm50bXNrbTNFSnRlN0NuR0RpS2gtS19YY0xVQVdKR1pPOGdEdFRLdVBfVHA0VnRjQkxuc1pORWZvQmdqOEVXbXFnQ3ppSjB0QUs0aUFHN05zaGJlbnJRVEs1V2tSTE5UV3A4WFpzVHgxUTA5SWpsS3pIVFlqUk1kUjBUV3Btc0hLd1RaYnJnUHF4YkdQNVZZYVAtMnRCdEhYNHdvQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Aug 2026 16:21:24 GMT",
+      "published": "Wed, 26 Aug 2026 17:01:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC"
     },
     {
@@ -59,12 +59,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPVFBqRXF3ZWFHUkxrSFJ5TkF4X3J5U3VZY1FUbVdENjlQcEJRTl9IRWxUZG1KSGFDWFZTSzNxbFJ6bW5XQmNQd0JLbFMzOVU2Ukd3ZW5BdUZNZ19idXFCV1lOWnF5M0NUdE5lN19lZzJHT2x0TlVCYjBQSUt5ejAzT245TnQwa2xJcXFSNldWQ2k2QXBHVmN6OE9VT2hXM09zUDEzQVVFTW1xX0JFLVZkRmdTd3NDMXRRQ0"
     },
     {
-      "title": "La era de los agentes de IA llegó a Argentina: cómo multiplican la capacidad de las personas y transforman las empresas - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVUVVUXVGV3RuMHRsUUZRc2dLWVhhTFVQbkZ0Rnl0UmtHazItaUNldmx3b0E2U1ZHTlBLOHNMYkVSWWVxN0ZLVEwtREl4MkZMWEcycXVEMFJRcnpTT2JEYk5XOGVpRE95QXNMclVsVWRMNjVBaF9zSjc5T1J1U0pIYnM2bEVwY2tRc2ZnRmppaTNjdndrOVZncTdNb0JHM2JtQWZhLTZSMG1QTjRUMFhxanRoXzZMUzM5Zy1XNGRoSnJKRlRuR2xmWkVqaDI0TFh0TFpZQm5sa19pUlppMXJsZ0ZsanN4UUQ4eVVUNEtjTmZXaVhIT01jOUk3Rk9XNXM?oc=5",
+      "title": "La IA impulsa el auge de las series verticales: una startup argentina produjo 20 microdramas en un mes - EscribiendoCine",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0xhS1YxdFhKQ290RVpJYk8xZE90Yl91cjdrLWRDSmlLckxyY0JmcVJENnJuTWJrRnhnd2RyRHFpUmN0Z25EQ2xfeGhycGpXNWNyYjRVSVdoTXpUNTJlMThINTNzMTlYQkNDT3NwUDF1SmJJeHQ1MENrY1FjdVkzN0NFbnQ0Yl9penBud2oyd2dXejNnTkViVTRwZWlXZGY5LVYxYi1XVzN5Tkp4OEF6ZmFkWUFOUE1yU0RNZ3hLVlRHM2p4YVBDYy1IZVVrOWVTXzJVemk1OU04Y25JckwzejBPclQ4UjdhRHg2WGJWVUjSAfYBQVVfeXFMUC1Md1RnV2ZwdjJWWXNWbVdPZUk4OGttdERNSjc3SHdadFY5Y3Y4anFIQnpkM2dDeGo4dV80Z2tobjlpZTIwd09fcHJpSnBCbk9pUU9tU29VUUJjMTd1V3p2clFYVUpnY1hSd1p4bHBtN1pxTWVJRER0RklYMHhfaHE3eGNJT0JJbTRmTmVBYzM5aVNJaVdRWWRTdlhDQ29oblltclZhTEZJenlsRnQzNVBhejVwM2dobG5OV0VLVm0yU01RQUVXeHlackdobFl1ZWRHMm1hMGlKWjRhNmsxRGlaRXpEbENVaWZ0T1NrbXZqa01DZy1R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Aug 2026 15:36:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVUVVUXVGV3RuMHRsUUZRc2dLWVhhTFVQbkZ0Rnl0UmtHazItaUNldmx3b0E2U1ZHTlBLOHNMYkVSWWVxN0ZLVEwtREl4MkZMWEcycXVEMFJRcnpTT2JEYk5XOGVpRE95QXNMclVsVWRMNjVBaF9zSjc5T1J1U0pIYnM2bEVwY2tRc2ZnRmppaTNjdndrOVZncTdNb0JHM2JtQWZhLTZSMG1QTjRUMFhxanRoXzZMUzM5Zy"
+      "published": "Thu, 27 Aug 2026 16:03:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR0xhS1YxdFhKQ290RVpJYk8xZE90Yl91cjdrLWRDSmlLckxyY0JmcVJENnJuTWJrRnhnd2RyRHFpUmN0Z25EQ2xfeGhycGpXNWNyYjRVSVdoTXpUNTJlMThINTNzMTlYQkNDT3NwUDF1SmJJeHQ1MENrY1FjdVkzN0NFbnQ0Yl9penBud2oyd2dXejNnTkViVTRwZWlXZGY5LVYxYi1XVzN5Tkp4OEF6ZmFkWUFOUE1yU0"
+    },
+    {
+      "title": "Buenos Aires se convierte en la capital de la comunicación: 40 expertos debatirán el impacto de la IA y la crisis de confianza - confirmado.net",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmk2dVFzRmRaXzV5SV9faUZGeDlKYWFtU2diN0t5bXF3dWJJTi1UMVktTWIzdVdQX0MxbUlaZmRiN244dHp1VHFPMXhMTVhCN1hVYXZvNmZIWnZfRHJ5TzVrN3l4ZlZDWjJ4OW5QZExDSENyS2Y2eGgwMVVENkUzWTVOaWs4SGFITlFPbWpZZnE5aGlaeERLMEVXNG9CcDR2SmE5aHROZC05cUNUX1dVNXlYNy1BSXlaRXRucjA4eFBaX3RLNkZPeDA4MXdBS3hUNm1vM2JsdUlxQVh5ZFh2elZTOA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 27 Aug 2026 03:05:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmk2dVFzRmRaXzV5SV9faUZGeDlKYWFtU2diN0t5bXF3dWJJTi1UMVktTWIzdVdQX0MxbUlaZmRiN244dHp1VHFPMXhMTVhCN1hVYXZvNmZIWnZfRHJ5TzVrN3l4ZlZDWjJ4OW5QZExDSENyS2Y2eGgwMVVENkUzWTVOaWs4SGFITlFPbWpZZnE5aGlaeERLMEVXNG9CcDR2SmE5aHROZC05cUNUX1dVNXlYNy1BSXlaRX"
+    },
+    {
+      "title": "CABA es la segunda jurisdicción más expuesta a la inteligencia artificial del mundo: cuáles son los empleos afectados - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGNobFNkUm42bjhBQWR3TS1BMHVtRjJCZnNIN25KTlhubFY1T1c4aEZoSFlsUWozMDNqT2tvLXhpdVdGNVM3U0tSaU5TZ2wyQmJ3Q0dycm02SWprMGM1ZFBHMEZGQjdTNnZqZHdvWFRkc0xxZGtjazFwYkQ2YXBVcktIVm5RbFNCa3FYZjg0d25oQjE5OThxTVdsSDFvSFNINnpvcnpfQ29Ca0FCd3ZGbUxTX3hqRlBKQkkybW93ZEM3bldqdFBnaU5mTkNsY1RuNlFSQVpuN3R3a19iY2hReDVNV0hLc3d5NEgxY3NraHNJZ2vSAY4CQVVfeXFMTW9ZejJrQUwyR2VtTU5YZ19IU3RPajdSMWI1eWNPNXRNQnJWX1BGbVZKZVdjYUNhcEczVzc2T3ZqaEJBQ0lVcEhPN2RGeGNHUndRTUxWMEhFUXk1QS0ySFI1Z21hc2IzS0E5LXVXYVlIWjVvN0F1THJKMVExeXpBeUlqTjVsQXE5UFVxODB1cHY0LTJvWTR2bUxlXzNMZ3ctT0NxRWN1UVJCUlA5Qm9IOFdoQ1Q0MHVWbEEteXhlakFyYkE0VlNuc1FtbTNiSlVvcEQ3OS1KbEptYl9QcFNyc1FFTkpxXzFFY1UzemQtNkJmM3h1aWtYX3JITGhiTUhfb1ZGLUI4blJCdWwzRnBB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Aug 2026 06:22:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGNobFNkUm42bjhBQWR3TS1BMHVtRjJCZnNIN25KTlhubFY1T1c4aEZoSFlsUWozMDNqT2tvLXhpdVdGNVM3U0tSaU5TZ2wyQmJ3Q0dycm02SWprMGM1ZFBHMEZGQjdTNnZqZHdvWFRkc0xxZGtjazFwYkQ2YXBVcktIVm5RbFNCa3FYZjg0d25oQjE5OThxTVdsSDFvSFNINnpvcnpfQ29Ca0FCd3ZGbUxTX3hqRlBKQk"
     },
     {
       "title": "VeeamON Tour Buenos Aires muestra por qué la confianza en los datos será clave para adoptar IA - ITSitio",
@@ -75,28 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlB1ZkY2SUlNUEhqOW00MGJua19xRVhBOFBIbmVYbjNreHJlaFVmdFhQTmMyUjZVS1FzdGhvaDNYaDdjNUFPcnVRQ3pKVVJFajJPb0VudTBQUXBPNzI4LVBXUTkzSXBFWlZnMmNGRGRTbTQyVWo0SDB0SGctTng1Z0hTOVdCdzVjbTdObEtPdkxXaVJwMmsyNU0zUVR0RzVPbFlMaXZ4NWNvWFd3bldmZExEa0l3SEs2RD"
     },
     {
-      "title": "VeeamON Tour 2026: ¿Cómo desarrollar confianza de IA en las organizaciones? - Enfasys",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanhCYmF5RlNHV0p1MzJFcUFVS3NvZE0wNDUzaURhajk2NjZQSzIzellOZ2NKZXpqOGc1NHZLTnlRWV8wZ20xSzN2WnhDOTd6NW9ZdlJYRHJEd29xaEJZb1E5VEE5S3N6QU1mVjZFY1dLbURZQzVQVGkzTG1HMlZLb0NFY1M?oc=5",
+      "title": "Primero el problema, después la tecnología: la nueva regla de la innovación - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdPSjgwbVJNdno3R2Q0M0UxTElhaDR4azkzSDFmZmpMVUJkY2xXRWRQbnNza1ZycnZVbzJmd2d4X0gxYThMWXJna1hjZHNUNEZfemFSMl83N3hwcFBmZy1JM2ZxSV9VX2NOdkxNQk9oNmZFNEdWTXc1Z0Jpdk9ZN2FsMVcyVjFoLTQ3amw2V0kyOF9yN2F0VEhpTlFjUkpjYXRud0FYQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 26 Aug 2026 15:33:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNanhCYmF5RlNHV0p1MzJFcUFVS3NvZE0wNDUzaURhajk2NjZQSzIzellOZ2NKZXpqOGc1NHZLTnlRWV8wZ20xSzN2WnhDOTd6NW9ZdlJYRHJEd29xaEJZb1E5VEE5S3N6QU1mVjZFY1dLbURZQzVQVGkzTG1HMlZLb0NFY1M?oc=5\" target=\"_blank\">VeeamON Tour 2026: ¿Cómo desarrollar confianza d"
-    },
-    {
-      "title": "VeeamON Tour Buenos Aires: Veeam impulsa la confianza en datos e IA para acelerar la innovación empresarial - mercado.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRW1ieEY2ZEUyMFRWOEI4R2lFUGMzREdyTklxTm1zTm85Y1R3SnVDbTByM0w4bE10Smk0dnBHaDIzeDhZb1Etck5YZ1RFM3lPRjd5SDJzSlROTTBtQllNTWw4UXZZR3c5VjhZSzVwa1IzckhNZ2cwUlI3YktFbG5JSG5IYjVGRWtTbmJZaUlmNUZ4M2VOYnhjdVNyekYtWThyTldjaFlVOF95emdETG43Nks0X2U3WUlkLTF6TW50aF9iZ0liSEhMY2RzbHoxakhRM203cXlHbV9adw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 26 Aug 2026 14:37:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRW1ieEY2ZEUyMFRWOEI4R2lFUGMzREdyTklxTm1zTm85Y1R3SnVDbTByM0w4bE10Smk0dnBHaDIzeDhZb1Etck5YZ1RFM3lPRjd5SDJzSlROTTBtQllNTWw4UXZZR3c5VjhZSzVwa1IzckhNZ2cwUlI3YktFbG5JSG5IYjVGRWtTbmJZaUlmNUZ4M2VOYnhjdVNyekYtWThyTldjaFlVOF95emdETG43Nks0X2U3WUlkLT"
-    },
-    {
-      "title": "Tucán: startup argentina de última milla proyecta US$2,5M - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2xkSk5EdzBNYWRBWU02N1N5MTVMRktWQVI3NDVSYko4NnVUZkRFN2ZyT2pQZXMxYzVuYXZMSGFKQmc4OHlWSndsR19XVHRpQ3lqbTVnT3h6dUlNbk1RaWNTT0ZoTFB4WFY4UDBOaW5NNHRtNUY4T0ZIX2NxX01RZmJKZDFSc0ZMUmFUTHd3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 26 Aug 2026 16:36:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2xkSk5EdzBNYWRBWU02N1N5MTVMRktWQVI3NDVSYko4NnVUZkRFN2ZyT2pQZXMxYzVuYXZMSGFKQmc4OHlWSndsR19XVHRpQ3lqbTVnT3h6dUlNbk1RaWNTT0ZoTFB4WFY4UDBOaW5NNHRtNUY4T0ZIX2NxX01RZmJKZDFSc0ZMUmFUTHd3?oc=5\" target=\"_blank\">Tucán: startup argentina de última "
+      "published": "Wed, 26 Aug 2026 19:48:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMGdPSjgwbVJNdno3R2Q0M0UxTElhaDR4azkzSDFmZmpMVUJkY2xXRWRQbnNza1ZycnZVbzJmd2d4X0gxYThMWXJna1hjZHNUNEZfemFSMl83N3hwcFBmZy1JM2ZxSV9VX2NOdkxNQk9oNmZFNEdWTXc1Z0Jpdk9ZN2FsMVcyVjFoLTQ3amw2V0kyOF9yN2F0VEhpTlFjUkpjYXRud0FYQQ?oc=5\" target=\"_blank\">P"
     },
     {
       "title": "Concurso. Tecnología para el agro: dos startups argentinas entre las ganadoras de Legado 2026 - La Voz del Interior",
