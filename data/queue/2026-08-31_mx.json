@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Bill Gates pide 'guardar' trabajos para humanos y acuña el término 'Human Reserved'",
+      "url": "https://expansion.mx/tecnologia/2026/08/31/bill-gates-guardar-trabajos-humanos-termino-human-reserved",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 31 Aug 2026 18:36:14 GMT",
+      "summary": "El magnate y fundador de Microsoft expresó sus preocupaciones sobre el crecimiento de las herramientas de IA en la actualidad."
+    },
+    {
+      "title": "Tu influencer favorito podría no existir: Instagram cambia las reglas para las cuentas creadas con IA",
+      "url": "https://expansion.mx/tecnologia/2026/08/31/instagram-perfiles-creados-ia-etiqueta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 31 Aug 2026 18:00:49 GMT",
+      "summary": "La red social ajustará la forma en que identifica este tipo de cuentas y podría limitar su alcance cuando no cumplan con sus nuevas reglas de transparencia."
+    },
+    {
+      "title": "Amazon, Mercado Libre y Shein presionan la rentabilidad de los pequeños negocios",
+      "url": "https://expansion.mx/tecnologia/2026/08/31/amazon-mercado-libre-shein-pequenos-negocios-rentabilidad",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 31 Aug 2026 11:55:49 GMT",
+      "summary": "Las comisiones de hasta 20.5% en marketplaces, la publicidad, la logística y la competencia asiática elevan el costo de vender en línea, incluso cuando el e-commerce sigue creciendo."
+    },
+    {
       "title": "Las razones por las que Splatoon Raiders, Avatar Legends y Mixtape son mis 3 videojuegos favoritos del verano",
       "url": "https://expansion.mx/tecnologia/2026/08/28/resena-splatoon-raiders-avatar-legends-y-mixtape",
       "source": "Expansión Tecnología",
@@ -19,30 +43,6 @@
       "summary": "Sitios que imitan la página de Rockstar Games ofrecen una versión para jugar que no existe. El archivo instala un malware capaz de tomar contraseñas, cookies y sesiones abiertas en 19 navegadores."
     },
     {
-      "title": "La IA puede revivir tu rostro y tu voz, pero ¿quién decide qué hace con ellos?",
-      "url": "https://expansion.mx/tecnologia/2026/08/28/ia-voz-fotos-despues-de-morir-ia-puede-usarlas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 28 Aug 2026 11:55:19 GMT",
-      "summary": "Fotografías, videos y audios que compartimos en redes pueden alimentar herramientas capaces de crear representaciones digitales de una persona y facilitar suplantaciones o fraudes."
-    },
-    {
-      "title": "Ni todo el Universo Marvel costó tanto como hacer GTA 6: los secretos detrás del nuevo juego de Rockstar",
-      "url": "https://expansion.mx/tecnologia/2026/08/27/costo-gta-6-secretos-detras-nuevo-juego-rockstar",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 27 Aug 2026 21:15:41 GMT",
-      "summary": "El nuevo videojuego de Rockstar se ha convertido en uno de los más esperados de la historia, pues llega 13 años después que su antecesor."
-    },
-    {
-      "title": "Samsung tiene un nuevo rival para el Pixel 10a y el iPhone 17e: así es el Galaxy S26 FE",
-      "url": "https://expansion.mx/tecnologia/2026/08/27/samsung-galaxy-s26-fe-caracteristicas-precio-competencia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 27 Aug 2026 21:00:23 GMT",
-      "summary": "La surcoreana renueva su apuesta por los “flagship killers” con el Galaxy S26 FE, un modelo que lleva funciones de gama alta a un precio más accesible."
-    },
-    {
       "title": "La inteligencia artificial redefine el recorrido de belleza en México y Colombia, revela Dailymotion Advertising - Revista PYM",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNEdYbjZ2N3ZxcUpvRGwwQ2pTRVN3RE12MWluQUhWUERPZENYNHU0SHFQdkNmQVZkeUV2cWwyVnFxeExQNmI3V2V2Z01tTDA1a3JjaW9QTWUtY0dIQ1BIMkF4UmltQXV4bEI4a1R0OFVhQ1NIVVIwRnhQTXNpZkJqcGtET2k2OGtfYUpMaTNSU0p3d3ZJSFJqQ0lOSGtvRVlnbWxGVWNLRG1JTFowUDYwMG11SGpGNlBMRkY2Q1U2b0t5d200X0R6SmZfN1FPZkgzMjFuN3gyeHAySk93bERKMWpnM1N0eHc0Y1RxdFpjTUJycWljWnpXOXhuSlQzQVR00gGAAkFVX3lxTE9nX2s3eS13WkFwZjU4SDFaZG8tUkhtV3pPRkdjWEMtUVVwRnZyaklsMUdSakdYZnhvR2xiemNNeUd5ODRGN0VZYWU1cWlmckFEcXZTX0drZGRuOC1DMmJMNjNBYkVVODVBUjNvNUl5WGdKRWRzNGgwdlYxb3E4SjFrTnV6Y1UtSzhvTDgyc2dFMTBSV1g1NXZ5bGdGN1djNHI2Z2w3eU44bTJyOFJxcmlDdHY5YzJ5WlFYakRWNkV2dkxQWm81WVhBVGVlQ3RxNjhJTkFaa2ZiOXgzc2lYQ1dsd3ZDWG41MnlKVXd4bndGZ3hsYmYydjliOVY5NXpFb2s?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQNEdYbjZ2N3ZxcUpvRGwwQ2pTRVN3RE12MWluQUhWUERPZENYNHU0SHFQdkNmQVZkeUV2cWwyVnFxeExQNmI3V2V2Z01tTDA1a3JjaW9QTWUtY0dIQ1BIMkF4UmltQXV4bEI4a1R0OFVhQ1NIVVIwRnhQTXNpZkJqcGtET2k2OGtfYUpMaTNSU0p3d3ZJSFJqQ0lOSGtvRVlnbWxGVWNLRG1JTFowUDYwMG11SGpGNlBMRk"
     },
     {
-      "title": "La IA en México avanza a un ritmo de una empresa por minuto, pero hay un problema: casi ninguna sabe cómo aprovecharla - Xataka México",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVJ1bG4yUTgyWjN0QUhzd0NkR3Zua1JWZTNfX3BabEVKR0ZndHE5d1hSd2tCSmFtQ2RDYzNBZ2JpUFJfRlRBM3FBTUVYUUpJazNpY01vSkN2d0ZITEhYcTF6RUZ1SW5VRHZRYjZDY1JTbG9SYnY5Y1Z6SW1GRlhTaGNSZG5RckMyb2ZWRllXbDVOaXlrdHFWcUJyOXpvdVcwUm8teFRob0t4YUwxS0tQZ09pUjFzY3FSLVRqa3U4T1dUbmFtdDBB0gHMAUFVX3lxTE5qVmVONzVkcmxQRWdMWWlkbXo0OHhaU1p3QUxzNGJOZFJVZWRRaGNFWF9rb2lsTDQ2VEdWMVhSekFUVFF6QjIwRFJzZUYzZG1yb0tDRUdiQlBWM3ltWWUtejd1QjJIeHNWSUNienZGd242MmVTYi0zdmpFLTc3Y2JMR2xyRVE3VUlGOHRKWWYtYkZFSlZwemhuVUs1WDB4U1FIbVZLS29ib2Q3UEE4Y05pdGV0SDRsTFZ5NUZQZ1R6M2cwZXVQLUZaTlUxNA?oc=5",
+      "title": "México capta el auge de la inteligencia artificial pero falta el valor de la cadena, difunde grupo financiero - KCH FM",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXBqTG1yU1NpbVRYN29wNDg0WTZDbzd2UjdUMVlVeUVVTXpNb3FzS2ZCRTlMTlhPTmNFMjF3OG8tSnQzd3VYM2ZrZVBqZ0MzMmNiRE9Qc3hhdE9FNHFBMWxBOTRNRjMxRWtCaUJVS3RZd3FQa3VRZkM2WkY1S29XamZ1aEdSWjY3WTFZZDk0NWdGRTNranNHQXV6MkFjNGc0Y2hQUGdRV0dKX3cyOG5uV1FCSi1DRUczRzZwbHN2bGo3eTNMQ3N4M2RqdkJMbXF0OTI0RFozOHpFNXpHUjlqZzZB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 30 Aug 2026 17:01:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOaVJ1bG4yUTgyWjN0QUhzd0NkR3Zua1JWZTNfX3BabEVKR0ZndHE5d1hSd2tCSmFtQ2RDYzNBZ2JpUFJfRlRBM3FBTUVYUUpJazNpY01vSkN2d0ZITEhYcTF6RUZ1SW5VRHZRYjZDY1JTbG9SYnY5Y1Z6SW1GRlhTaGNSZG5RckMyb2ZWRllXbDVOaXlrdHFWcUJyOXpvdVcwUm8teFRob0t4YUwxS0tQZ09pUjFzY3FSLV"
+      "published": "Mon, 31 Aug 2026 15:28:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXBqTG1yU1NpbVRYN29wNDg0WTZDbzd2UjdUMVlVeUVVTXpNb3FzS2ZCRTlMTlhPTmNFMjF3OG8tSnQzd3VYM2ZrZVBqZ0MzMmNiRE9Qc3hhdE9FNHFBMWxBOTRNRjMxRWtCaUJVS3RZd3FQa3VRZkM2WkY1S29XamZ1aEdSWjY3WTFZZDk0NWdGRTNranNHQXV6MkFjNGc0Y2hQUGdRV0dKX3cyOG5uV1FCSi1DRUczRz"
     },
     {
-      "title": "Inteligencia artificial vs. ciberseguridad: dónde está el negocio del canal tecnológico en México - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmlNMEpZZjl0UjRURjFZV19xUmdyTmNrVWdyT1F5NzFlRVlvZTdoZkR0NXNYRXFWbGJ1RFNjMW54aVdjbzNFUGRKWnhWRmNKU3dOYmZrRkEzU1N5LTRQR1FMc01IS2w1aXp4YTAteV9PbW5yMzdpV3hqSDF5R3BqM1otNmstNGk1QWhvZVlaQnBFVTFSclZEMnpsSnktMzdtQmZZZzFEd09zanJlNnA5NzN1bF9LdmxTdF9sMzZJS2Npc3ZXMHJ3bFZSUTdCLVRjMGc?oc=5",
+      "title": "Microsoft expone el divorcio tecnológico en México: la base laboral abraza la IA, mientras la alta dirección se frena - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbUszRTRZTlB5eE9ORGZ1cHlWbHY5RnByRlVfQ05zVGUtenhmOFR4eXlVc0t1LWVDMVM1c0RJdktvcHJKdDFOWkx5WVFPb0tldjJyQmZIV1U3STNVWEZiT1BOeEpSX19FQUNkNnRmbjg5aTk3TXlpTXh5UGFtclplMDNzM2JwOU9wekZXS0Y2SFF5eVVtY2VWb3dZUmhOZEdidUxvZjlkM1ZqSDc2bGpsYTZPYjNlY2Z0Z01VTF96bzNod0ROblpfV2ZCc1NXaExQc19IcFZ6aU02ZWJpcjFxbEZZMmJtZzdYd0ZGdVZ4WVA2bElmNzhoVURR0gGUAkFVX3lxTE5MTkdQR1kwODNfbG1UcUVaSW1WUFEtbE5PRWQwdnR0R3BhUllNTUVFUTNMSS1FMmx6bXZSQWk4azR6RzFRLXY0TVJITjRJN2hKdGt4VElvR3ZhdWlOOGNzN091U09xc2xTRHFkWWtaQk9Ic3FFRHk4cTU2bmtxZ05sLVBpeWRZclFnOVExOFRwOGg1R2lUWTN0SEI4OWYya2Vwa3hKWDVUQUhQZTFHSnFMTF9mYlQ2dW5LZzF0Nm81Q3dJcjFJMG1IVktlaVJDOVg2VWFuT0JBdFIwTENRaFhZWXZyQmUwRnFhcWtydXR3elAzM1FfSWxJMGtGZ1Fab1FfRmJtMmwtdjYzY1Z6cDh0X3JPUA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 29 Aug 2026 00:48:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmlNMEpZZjl0UjRURjFZV19xUmdyTmNrVWdyT1F5NzFlRVlvZTdoZkR0NXNYRXFWbGJ1RFNjMW54aVdjbzNFUGRKWnhWRmNKU3dOYmZrRkEzU1N5LTRQR1FMc01IS2w1aXp4YTAteV9PbW5yMzdpV3hqSDF5R3BqM1otNmstNGk1QWhvZVlaQnBFVTFSclZEMnpsSnktMzdtQmZZZzFEd09zanJlNnA5NzN1bF9LdmxTdF"
+      "published": "Mon, 31 Aug 2026 19:32:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbUszRTRZTlB5eE9ORGZ1cHlWbHY5RnByRlVfQ05zVGUtenhmOFR4eXlVc0t1LWVDMVM1c0RJdktvcHJKdDFOWkx5WVFPb0tldjJyQmZIV1U3STNVWEZiT1BOeEpSX19FQUNkNnRmbjg5aTk3TXlpTXh5UGFtclplMDNzM2JwOU9wekZXS0Y2SFF5eVVtY2VWb3dZUmhOZEdidUxvZjlkM1ZqSDc2bGpsYTZPYjNlY2Z0Z0"
     },
     {
       "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
@@ -79,7 +79,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 23 Aug 2026 11:03:38 GMT",
+      "published": "Sun, 23 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
     },
     {
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
+      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tec.mx",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     }
   ],
   "count": 14
