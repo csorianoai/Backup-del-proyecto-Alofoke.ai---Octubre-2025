@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Dyson CameraJet: El cepillo con cámara e IA para limpiar tus dientes sin dejar zonas a ciegas",
+      "url": "https://expansion.mx/tecnologia/2026/09/01/dyson-camerajet-cepillo-dientes-camara-ia-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 21:00:36 GMT",
+      "summary": "La compañía presentó CameraJet, un cepillo dental que combina cámara, aprendizaje automático e irrigación de precisión."
+    },
+    {
+      "title": "Sonos deja de ser solo bocinas: su nuevo negocio ahora compite con Amazon y Google",
+      "url": "https://expansion.mx/tecnologia/2026/09/01/sonos-nuevo-negocio-mas-alla-bocinas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 20:00:09 GMT",
+      "summary": "La empresa lanzó 'Sonos 27, un sistema operativo que permite actualizar equipos antiguos con agentes de IA para diferenciarse en el segmento premium de audio."
+    },
+    {
       "title": "Ni GTA VI los asusta: Gears of War y Marvel’s Wolverine entre los lanzamientos de videojuegos para cerrar 2026",
       "url": "https://expansion.mx/tecnologia/2026/09/01/gta-vi-gears-of-war-marvels-wolverine-videojuegos-2026",
       "source": "Expansión Tecnología",
@@ -27,22 +43,6 @@
       "summary": "Tras la salida de Tim Cook, el exjefe de ingeniería asume como el CEO más joven de Apple. Deberá enfrentar el rezago en IA, alzas de precios y el reto de mantener la innovación del hardware."
     },
     {
-      "title": "Sonos lanza nueva barra Beam Ultra y audífonos Ace Ultra de batería reemplazable",
-      "url": "https://expansion.mx/tecnologia/2026/09/01/sonos-beam-ultra-ace-ultra-caracteristicas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 01 Sep 2026 14:15:29 GMT",
-      "summary": "La compañía californiana renueva su ecosistema de audio con sonido inmersivo, soporte de IA para el hogar y nuevos auriculares premium que apuestan por la durabilidad del hardware."
-    },
-    {
-      "title": "Estos Samsung cuestan menos de 10,000 pesos y tendrán actualizaciones hasta 2032",
-      "url": "https://expansion.mx/tecnologia/2026/08/31/samsung-menos-10-000-pesos-actualizaciones-hasta-2032",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 01 Sep 2026 01:25:04 GMT",
-      "summary": "El soporte de software se ha convertido en otro factor para elegir celular y estos dos Samsung ofrecen varios años de actualizaciones."
-    },
-    {
       "title": "México emerge como potencia mundial del hardware para inteligencia artificial - periodicolapislazuli.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQekRXLWx5N1VYcU9ZYXR1YlY3bnZFSk41b0dzVmhRX095alZfY01zNFRUaUxOaFNJN0NpSjlodmRnMGNuZjE3X1RxQXNjU2lYYXZvLUFQZ1VWUXAyMW44ZWpOMzJuRlFwVE96cmRGU1hzeC0zYkJYOFBmdGhVM18xSVdUY3NQWUo0Tk4xSi1pZ2pXeHZjSFNvaElUMTdSZjdRSG53cEdJU2t5Njl2MDhhTWFiRzRjU2VzZkktVUtkWkdhdw?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWZsY1VSUmpIZWJZWUtXTGVUOGJ6bXpRUVVkM3FHeWVpbm5XTzNPUjcxZzBqR0tnbjR6bkZEVTdGYjJBN2lOUVo1UmRndW0yQ25RZUl2a1pIel9WX0o3ckVNRUU5Z1d6aGVuSk9vSzlMRkI0SkkxRHNfTU5xaFJwYTg2VWw5MjhodXliWHNYX1NLR0Uyd0t4WHZETl9rUXNYX05NY1FrVHE0LUN4cmxkNzVn?oc=5\" tar"
     },
     {
-      "title": "DiDi Food lanza DiMi, la plataforma con inteligencia artificial para apoyar a restaurantes - larepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOEtVeXY0TGRWVlZBdTNXX1BDYXM0Y1RyUUM5SHBESjBJUWdwOUhZUFpIVnJRTURONkZOVWc4c3ExQnJXR2VDXzBfSlpLdm1GZ2JGbnJwY0xiQzZDaGZ3Y3JUdXd5TWRLb1RkTjFCRWVlTkhPcEVydjJFNm44T3BjWTF4Wk1keTNwWG1iTHFndDRKZE1TcVg3Ml9TSGdVc2RRMlhROWM2dUtTaFplSEFaVjBnUDNNUkg5eUxQS3FSdGV3RmlNU01Qa2RycHdiYno4aUJZa9IB1AFBVV95cUxNWW1wQWxQR0lrUURFQjVyZU5hNGI5UXFyTm04b2FLczRJRnRJSlViVUtaU0pQdTBTZ0VmWEZzMnpZYlhsSkVvbHlKdUhTb0FFTW5oYkRHWkU5NmFPd2RKekwwbmFkSFBsUjk0dmxHT0N0NGw4dGx2bkJaLTNEVmpLN3Q5ZDlNaUUtb0hpdnRhb2Flb3JmeFVYdl82TlJaWGszU3NwaGttWWpqd2U3clhoM0FBRTRFYUVhUVcydE5BSE9ETUVIaV9yUXF2Q2VNWHBWN0NjVQ?oc=5",
+      "title": "La inteligencia artificial redefine el recorrido de belleza en México y Colombia, revela Dailymotion Advertising - Revista PYM",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNEdYbjZ2N3ZxcUpvRGwwQ2pTRVN3RE12MWluQUhWUERPZENYNHU0SHFQdkNmQVZkeUV2cWwyVnFxeExQNmI3V2V2Z01tTDA1a3JjaW9QTWUtY0dIQ1BIMkF4UmltQXV4bEI4a1R0OFVhQ1NIVVIwRnhQTXNpZkJqcGtET2k2OGtfYUpMaTNSU0p3d3ZJSFJqQ0lOSGtvRVlnbWxGVWNLRG1JTFowUDYwMG11SGpGNlBMRkY2Q1U2b0t5d200X0R6SmZfN1FPZkgzMjFuN3gyeHAySk93bERKMWpnM1N0eHc0Y1RxdFpjTUJycWljWnpXOXhuSlQzQVR00gGAAkFVX3lxTE9nX2s3eS13WkFwZjU4SDFaZG8tUkhtV3pPRkdjWEMtUVVwRnZyaklsMUdSakdYZnhvR2xiemNNeUd5ODRGN0VZYWU1cWlmckFEcXZTX0drZGRuOC1DMmJMNjNBYkVVODVBUjNvNUl5WGdKRWRzNGgwdlYxb3E4SjFrTnV6Y1UtSzhvTDgyc2dFMTBSV1g1NXZ5bGdGN1djNHI2Z2w3eU44bTJyOFJxcmlDdHY5YzJ5WlFYakRWNkV2dkxQWm81WVhBVGVlQ3RxNjhJTkFaa2ZiOXgzc2lYQ1dsd3ZDWG41MnlKVXd4bndGZ3hsYmYydjliOVY5NXpFb2s?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 31 Aug 2026 21:45:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOEtVeXY0TGRWVlZBdTNXX1BDYXM0Y1RyUUM5SHBESjBJUWdwOUhZUFpIVnJRTURONkZOVWc4c3ExQnJXR2VDXzBfSlpLdm1GZ2JGbnJwY0xiQzZDaGZ3Y3JUdXd5TWRLb1RkTjFCRWVlTkhPcEVydjJFNm44T3BjWTF4Wk1keTNwWG1iTHFndDRKZE1TcVg3Ml9TSGdVc2RRMlhROWM2dUtTaFplSEFaVjBnUDNNUkg5eU"
+      "published": "Thu, 27 Aug 2026 19:13:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQNEdYbjZ2N3ZxcUpvRGwwQ2pTRVN3RE12MWluQUhWUERPZENYNHU0SHFQdkNmQVZkeUV2cWwyVnFxeExQNmI3V2V2Z01tTDA1a3JjaW9QTWUtY0dIQ1BIMkF4UmltQXV4bEI4a1R0OFVhQ1NIVVIwRnhQTXNpZkJqcGtET2k2OGtfYUpMaTNSU0p3d3ZJSFJqQ0lOSGtvRVlnbWxGVWNLRG1JTFowUDYwMG11SGpGNlBMRk"
     },
     {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
     },
     {
-      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 25 Aug 2026 18:15:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
-    },
-    {
-      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - itnow.connectab2b.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 22 May 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
+    },
+    {
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
       "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - El Ecosistema Startup",
