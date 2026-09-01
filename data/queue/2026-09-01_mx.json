@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Ni GTA VI los asusta: Gears of War y Marvel’s Wolverine entre los lanzamientos de videojuegos para cerrar 2026",
+      "url": "https://expansion.mx/tecnologia/2026/09/01/gta-vi-gears-of-war-marvels-wolverine-videojuegos-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 18:50:03 GMT",
+      "summary": "Aunque GTA VI es el que más expectativas genera, otros títulos esperados cerrarán el año en la industria de los videojuegos."
+    },
+    {
+      "title": "¿De cuánto es la fortuna de Tim Cook, el CEO que deja Apple tras 15 años al frente de la empresa?",
+      "url": "https://expansion.mx/tecnologia/2026/09/01/fortuna-de-tim-cook-apple",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 18:23:01 GMT",
+      "summary": "El ahora ex CEO construyó su fortuna a lo largo de una década y media en la cima de Apple, con paquetes accionarios que dispararon su riqueza personal."
+    },
+    {
       "title": "John Ternus toma el mando de Apple con la misión de acelerar la IA y revivir el espíritu de Steve Jobs",
       "url": "https://expansion.mx/tecnologia/2026/09/01/john-ternus-nuevo-ceo-apple-retos",
       "source": "Expansión Tecnología",
@@ -27,27 +43,11 @@
       "summary": "El soporte de software se ha convertido en otro factor para elegir celular y estos dos Samsung ofrecen varios años de actualizaciones."
     },
     {
-      "title": "México es potencia en adopción de IA: 67% de los empleados la usa, pero los jefes no la aprovechan",
-      "url": "https://expansion.mx/tecnologia/2026/08/31/mexico-potencia-usar-ia-trabajadores",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 31 Aug 2026 22:00:21 GMT",
-      "summary": "La IA ya está ampliando lo que los trabajadores mexicanos pueden hacer, pero las empresas enfrentan el reto de convertir ese uso individual en productividad y resultados para el negocio."
-    },
-    {
-      "title": "Bill Gates pide 'guardar' trabajos para humanos y acuña el término 'Human Reserved'",
-      "url": "https://expansion.mx/tecnologia/2026/08/31/bill-gates-guardar-trabajos-humanos-termino-human-reserved",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 31 Aug 2026 18:36:14 GMT",
-      "summary": "El magnate y fundador de Microsoft expresó sus preocupaciones sobre el crecimiento de las herramientas de IA en la actualidad."
-    },
-    {
       "title": "México emerge como potencia mundial del hardware para inteligencia artificial - periodicolapislazuli.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQekRXLWx5N1VYcU9ZYXR1YlY3bnZFSk41b0dzVmhRX095alZfY01zNFRUaUxOaFNJN0NpSjlodmRnMGNuZjE3X1RxQXNjU2lYYXZvLUFQZ1VWUXAyMW44ZWpOMzJuRlFwVE96cmRGU1hzeC0zYkJYOFBmdGhVM18xSVdUY3NQWUo0Tk4xSi1pZ2pXeHZjSFNvaElUMTdSZjdRSG53cEdJU2t5Njl2MDhhTWFiRzRjU2VzZkktVUtkWkdhdw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 01 Sep 2026 14:26:24 GMT",
+      "published": "Tue, 01 Sep 2026 14:51:37 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQekRXLWx5N1VYcU9ZYXR1YlY3bnZFSk41b0dzVmhRX095alZfY01zNFRUaUxOaFNJN0NpSjlodmRnMGNuZjE3X1RxQXNjU2lYYXZvLUFQZ1VWUXAyMW44ZWpOMzJuRlFwVE96cmRGU1hzeC0zYkJYOFBmdGhVM18xSVdUY3NQWUo0Tk4xSi1pZ2pXeHZjSFNvaElUMTdSZjdRSG53cEdJU2t5Njl2MDhhTWFiRzRjU2VzZk"
     },
     {
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWZsY1VSUmpIZWJZWUtXTGVUOGJ6bXpRUVVkM3FHeWVpbm5XTzNPUjcxZzBqR0tnbjR6bkZEVTdGYjJBN2lOUVo1UmRndW0yQ25RZUl2a1pIel9WX0o3ckVNRUU5Z1d6aGVuSk9vSzlMRkI0SkkxRHNfTU5xaFJwYTg2VWw5MjhodXliWHNYX1NLR0Uyd0t4WHZETl9rUXNYX05NY1FrVHE0LUN4cmxkNzVn?oc=5\" tar"
     },
     {
-      "title": "DiDi Food lanza DiMi, la plataforma con inteligencia artificial para apoyar a restaurantes - LaRepublica.co",
+      "title": "DiDi Food lanza DiMi, la plataforma con inteligencia artificial para apoyar a restaurantes - larepublica.co",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOEtVeXY0TGRWVlZBdTNXX1BDYXM0Y1RyUUM5SHBESjBJUWdwOUhZUFpIVnJRTURONkZOVWc4c3ExQnJXR2VDXzBfSlpLdm1GZ2JGbnJwY0xiQzZDaGZ3Y3JUdXd5TWRLb1RkTjFCRWVlTkhPcEVydjJFNm44T3BjWTF4Wk1keTNwWG1iTHFndDRKZE1TcVg3Ml9TSGdVc2RRMlhROWM2dUtTaFplSEFaVjBnUDNNUkg5eUxQS3FSdGV3RmlNU01Qa2RycHdiYno4aUJZa9IB1AFBVV95cUxNWW1wQWxQR0lrUURFQjVyZU5hNGI5UXFyTm04b2FLczRJRnRJSlViVUtaU0pQdTBTZ0VmWEZzMnpZYlhsSkVvbHlKdUhTb0FFTW5oYkRHWkU5NmFPd2RKekwwbmFkSFBsUjk0dmxHT0N0NGw4dGx2bkJaLTNEVmpLN3Q5ZDlNaUUtb0hpdnRhb2Flb3JmeFVYdl82TlJaWGszU3NwaGttWWpqd2U3clhoM0FBRTRFYUVhUVcydE5BSE9ETUVIaV9yUXF2Q2VNWHBWN0NjVQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tec.mx",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14
