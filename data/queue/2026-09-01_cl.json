@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Septiembre comienza con sistemas frontales: estas son las regiones que tendrán lluvia",
+      "url": "https://www.latercera.com/tendencias/noticia/septiembre-comienza-con-sistemas-frontales-estas-son-las-regiones-que-tendran-lluvia/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 10:03:00 +0000",
+      "summary": "Dos sistemas frontales dejarán lluvias y chubascos esta semana en varias regiones de Chile. Revisa qué zonas tendrán precipitaciones y cuándo."
+    },
+    {
+      "title": "Solo 10 minutos de este ejercicio pueden beneficiar a tu cerebro y hacerte sentir con más ánimo, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/solo-10-minutos-de-este-ejercicio-pueden-beneficiar-a-tu-cerebro-y-hacerte-sentir-con-mas-animo-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 10:02:00 +0000",
+      "summary": "De acuerdo a los investigadores, los resultados de su reciente trabajo sostienen que la actividad física “no tiene por qué ser difícil” para presentar beneficios para el cerebro."
+    },
+    {
+      "title": "Qué edad tienen los jugadores que gastan más en videojuegos, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/que-edad-tienen-los-jugadores-que-gastan-mas-en-videojuegos-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 10:01:00 +0000",
+      "summary": "Los jugadores son cada vez más diversos en sus preferencias, hábitos de consumo y nivel de involucramiento, mientras un nicho reducido concentra gran parte del tiempo de juego y del gasto."
+    },
+    {
       "title": "Anuncian cambios radicales en la zona central: cómo estará el pronóstico los próximos días",
       "url": "https://www.latercera.com/tendencias/noticia/anuncian-cambios-radicales-en-la-zona-central-como-estara-el-pronostico-los-proximos-dias/",
       "source": "La Tercera Tecnología",
@@ -19,52 +43,28 @@
       "summary": "El cofundador de Microsoft, Bill Gates, advierte que la IA podría provocar desempleo, ciberataques y pérdida de control, aunque también ofrece grandes beneficios para la humanidad. Esta es su reflexión."
     },
     {
-      "title": "¿Llueve en Fiestas Patrias? Esto es lo que dice el pronóstico",
-      "url": "https://www.latercera.com/tendencias/noticia/llueve-en-fiestas-patrias-esto-es-lo-que-dice-el-pronostico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 31 Aug 2026 10:02:00 +0000",
-      "summary": "El inicio de septiembre estará marcado por condiciones estables, pero el escenario podría cambiar a medida que avance el mes."
-    },
-    {
-      "title": "El examen de sangre que puede predecir enfermedades cardiovasculares con 15 años de antelación, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/el-examen-de-sangre-que-puede-predecir-enfermedades-cardiovasculares-con-15-anos-de-antelacion-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 31 Aug 2026 10:01:00 +0000",
-      "summary": "La herramienta, denominada CardiOmicScore, utiliza inteligencia artificial y fue desarrollada por científicos de la Universidad de Hong Kong. Según sus creadores, con un solo análisis de sangre, puede predecir con precisión el riesgo futuro de seis enfermedades cardiovasculares."
-    },
-    {
-      "title": "Cómo es el tratamiento de ultrasonido que podría ayudar a combatir la osteoartritis, según una investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/como-es-el-tratamiento-de-ultrasonido-que-podria-ayudar-a-combatir-la-osteoartritis-segun-una-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 30 Aug 2026 13:02:00 +0000",
-      "summary": "Examina cómo una forma no invasiva de ultrasonido afecta a los macrófagos, células inmunitarias especializadas que desempeñan un rol fundamental tanto en la inflamación como en la cicatrización. Presumen que su método podría ayudar a reducir la inflamación dañina y favorecer la curación articular."
-    },
-    {
-      "title": "IFX apuesta fuerte por Chile: destina US$51,4 millones a infraestructura digital - itsitio.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0ZtYkplekp5LUJSX1F3aE1xVlpzQVY3ZnBuSzhsQ2l6MmkwNG5FdWtsbEVNWDViOElFel9UZEtlOERmSW9rTWhRbFZ3TFBPMG05TENFNGwyV3Jjb1BqamczYXBQX3cxNmRIX0hCT3N2bTFfWXZ1ejFiZmo2QzM1TXZVbkRxblVPSnYtdnhzQ21hU3RUaDRDRjZNdGJDMXpuM0kwcThzUUJsTHFOVXBKV3hLZ2RmOE10?oc=5",
+      "title": "Uber elimina más de 500 puestos en Chile mientras acelera el uso de inteligencia artificial - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW1RNzFHdGpFVGlwTGg1V1VhSzJSdnVNZUs5RjlQaFo5b3hZT1ZFMHp1eUhSdW1DS19EY0ZIMlJwVlVmcTVvbWo5YTB0d0xWR0MxS3psODd3N216LWVIVE9pY1dpaUkwTTZNcURyR3JYUzZqZGktTmNCam8zUFpwaHM2N0lmbFVPbXl0VGNJQXJ4TnlRaXN4SlRNdzQ0b0F3VkpieU9vS09mc29KazZEOVdn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 31 Aug 2026 18:30:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0ZtYkplekp5LUJSX1F3aE1xVlpzQVY3ZnBuSzhsQ2l6MmkwNG5FdWtsbEVNWDViOElFel9UZEtlOERmSW9rTWhRbFZ3TFBPMG05TENFNGwyV3Jjb1BqamczYXBQX3cxNmRIX0hCT3N2bTFfWXZ1ejFiZmo2QzM1TXZVbkRxblVPSnYtdnhzQ21hU3RUaDRDRjZNdGJDMXpuM0kwcThzUUJsTHFOVXBKV3hLZ2RmOE10?o"
+      "published": "Tue, 01 Sep 2026 14:59:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONW1RNzFHdGpFVGlwTGg1V1VhSzJSdnVNZUs5RjlQaFo5b3hZT1ZFMHp1eUhSdW1DS19EY0ZIMlJwVlVmcTVvbWo5YTB0d0xWR0MxS3psODd3N216LWVIVE9pY1dpaUkwTTZNcURyR3JYUzZqZGktTmNCam8zUFpwaHM2N0lmbFVPbXl0VGNJQXJ4TnlRaXN4SlRNdzQ0b0F3VkpieU9vS09mc29KazZEOVdn?oc=5\" tar"
     },
     {
-      "title": "9 de cada 10 emprendedores en Chile ya usan inteligencia artificial - La Tercera",
+      "title": "Lentes con IA en Chile: qué cambia cuando la tecnología se integra a la mirada - elciudadano.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTZNemo4dG0zekNHTF9LSTFMRV9xUzlzQXV1Xy1BM3RtdU1nakJZMnJybmV6cTY0Z2tmZF9YalM1aHhUXzZWeHhLNjhMNm5fZkJ2VEhzQnI0c0haYVNra1Bjb2Zqc0JxLWd5RGFUQ3JnOEZtZzg2djRVby1KM0ZuUVIzS0UweTJEaEFBcEg5Y005T2stc1V6Z3IxM1RMdXFVdk1tUThVd3ZwZlp5WFBXcVZTaXNYS1dScU1CWGk1Mmh4N2VBWTZINnVYbw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 01 Sep 2026 14:32:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTZNemo4dG0zekNHTF9LSTFMRV9xUzlzQXV1Xy1BM3RtdU1nakJZMnJybmV6cTY0Z2tmZF9YalM1aHhUXzZWeHhLNjhMNm5fZkJ2VEhzQnI0c0haYVNra1Bjb2Zqc0JxLWd5RGFUQ3JnOEZtZzg2djRVby1KM0ZuUVIzS0UweTJEaEFBcEg5Y005T2stc1V6Z3IxM1RMdXFVdk1tUThVd3ZwZlp5WFBXcVZTaXNYS1dScU"
+    },
+    {
+      "title": "9 de cada 10 emprendedores en Chile ya usan inteligencia artificial - latercera.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBLd05ZTmx5bjZSMzd0a0hwZE9jZE1ReVJNX19EY0I5RTB5ZGFtX0djLUZxMEJ5azlfSV9SZjE2N3FjRzJpbS1pUlVwZzZlUDdpZldGRUptQ0dHdHQyemRpWW82UW9IQTJ4dnl1TExrZ0t0YmZJdTZoRmY2YmtrZ1hISWU4UjlCM1ByMHQ4b2lsNm12Q21TUzFtUk8xbmI2TzBuRmUxSG9qMTY30gHOAUFVX3lxTFBFX3cwTk5HREtwOS0xeng4c2Y1ZXdnUU5neWJZTW90TWdZSXphTTVObnA0ejRET2VJNHhCUGk2UUJYNFEwZThRRWhPdTliaVgxSjM2ZFVVRGNRczdOdXJtS2VYeFFzeDJBTDE2Rm5WMXZFYUxjeXdQdUpwSmFtakxwQmRoSUhVRlZQOE52bWtmNUljdnNDSDJzWF9MMW5lT2NLSGFqZmtFcmpxaWNVcXZoUjhrR2s3bzZSYTB0RVAtaXdJUGRjVW9FSjhsTmZB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sun, 30 Aug 2026 20:17:44 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHBLd05ZTmx5bjZSMzd0a0hwZE9jZE1ReVJNX19EY0I5RTB5ZGFtX0djLUZxMEJ5azlfSV9SZjE2N3FjRzJpbS1pUlVwZzZlUDdpZldGRUptQ0dHdHQyemRpWW82UW9IQTJ4dnl1TExrZ0t0YmZJdTZoRmY2YmtrZ1hISWU4UjlCM1ByMHQ4b2lsNm12Q21TUzFtUk8xbmI2TzBuRmUxSG9qMTY30gHOAUFVX3lxTFBFX3"
-    },
-    {
-      "title": "Inteligencia artificial en Chile: solo 3,6% concreta sus proyectos - Radio Pauta 100.5",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEEzM2NqcUgzY3djYUJoWXZudHU1ZXdILTJYMzBuTUFtanhfNVh3VEs0ajh3dlltU0k1NDVLTjgwSUI5M2NabW5MMTRBaVhUNTdtUTVIcDNEQVFyd0I5VFBuRVJ2b1NTZDFhdXppQUxSeXQtZzdEekFtZUgwOHZSSnJ0STZucFhZcjRtenJ3OTB1cm1Ea3hVa3FvcXdtRGh5Q1F3QjJDcXlsSHJabkI2b3V2MWUwa3hyV3U2SG1sa0FzRkNDQ1d6Qlo5N0ozQVJ6dERBZA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 31 Aug 2026 18:14:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbEEzM2NqcUgzY3djYUJoWXZudHU1ZXdILTJYMzBuTUFtanhfNVh3VEs0ajh3dlltU0k1NDVLTjgwSUI5M2NabW5MMTRBaVhUNTdtUTVIcDNEQVFyd0I5VFBuRVJ2b1NTZDFhdXppQUxSeXQtZzdEekFtZUgwOHZSSnJ0STZucFhZcjRtenJ3OTB1cm1Ea3hVa3FvcXdtRGh5Q1F3QjJDcXlsSHJabkI2b3V2MWUwa3hyV3"
     },
     {
       "title": "Exposición «Retratos de Andrés Bello a través del Arte y la Inteligencia Artificial (IA)» en Concepción - Cultura UNAB",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzBXb1lXVVdYVGVJYVZ3QjFMeWdNbDBZaGlnalp5eHJwTk9lbnRHTmo2ODhMSHliUHZIbGpDMHFwQmptS2dXMFdfRXR2TlVlc25sM0JDYVFjbHdLU0Q4MjNUc0ZYai1xckRhZXR6ZjhUV0xRdkgyZ0lIR0lDWXV0dVR1dlZJdUJM?oc=5\" target=\"_blank\">Exposición «Retratos de Andrés Bello a trav"
     },
     {
-      "title": "Comercio agéntico, implementación de IA y US$ 4.000 millones en transacciones: la hoja de ruta de Tienda Nube para redefinir el e-commerce - Forbes Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3BVUi1teElyc1h1ZXAxZFI3WFYwQUdtRmMzY3ZMZW44SUQ4el9zNkdYOThZTUs2MkRCWW1LOVpSNFBlTHltajdCQ0JnbGlaVDZ4VDZGZkdxYzhXY2JDeFBFQnVIWEpha2JSMmhvTlM5TEo0VW4tQk1wUzNKQndsOWd5N19fcWhCQkx6djRXQ0pucldTYkFLdXB3LTRubmR5dzhTdUVMSmVHVXZCd2ZfaUxTX1E4WHlUZmZ4U01GbWhpcklDQm1sVTNfbFVEU1lEMGlXVVVBV3BPOWdRblRxdEllV2ZCdDJrbHdNaU9R0gHzAUFVX3lxTE5zeXhYaWZxR2tKdGoxdnkxOVdJbkZsdUlXMFh3MGRKaVRmZEN0QlhRQW9UNWFQQWo0YnNFNDlXQi1xWF96SzZEMlE0X3lWUlRSejkxZ2YweGlTOWd6Ykx0aWtZamFTbVhwaldUOGEteHRNa2ZoZHRBaXF4dmJVSWlwemxILVI2dE1ESUJCRnNQbGNiX0FRam8xR0hTUGl2RDkxQ0NPSzhHa0pGSWhJRGdSUndIWUVWdHJ5ZVo3bmtuZ1BVQUV4SnVpb3BTSVlid1RGUWZGcmZVMjRxdWIxUk9NVEZjYW85NjNmYzBDQ09vUXh0WQ?oc=5",
+      "title": "IA y tiempo - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcFJySDdsTTZGM2k0THg2c011djJkY2d2SjM2OTB4S3pHVWgxRW9USnREaHBwcWZTX0VzbGZBYW1EbFJpTjNRQzM3LWtTTVFyR2N4NllGa1pfYUhMLUQwdWJ0VXVLSkZ4QnRFQVcwa2pfNDdHYTZiZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 31 Aug 2026 10:08:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS3BVUi1teElyc1h1ZXAxZFI3WFYwQUdtRmMzY3ZMZW44SUQ4el9zNkdYOThZTUs2MkRCWW1LOVpSNFBlTHltajdCQ0JnbGlaVDZ4VDZGZkdxYzhXY2JDeFBFQnVIWEpha2JSMmhvTlM5TEo0VW4tQk1wUzNKQndsOWd5N19fcWhCQkx6djRXQ0pucldTYkFLdXB3LTRubmR5dzhTdUVMSmVHVXZCd2ZfaUxTX1E4WHlUZm"
+      "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHpSYW95WEIyUjFMdWUtWlRhWWxCUXhEYmFxa3g3T0lNNWpnZFItanRVZTd0VkhvdjhPQXJMVmRFakNfdHhCZGlHOF9YU3czVWxWd2trVVpNbFVBbVB3Y3BfUF9ULS1STEJ0WHppNG9SdWVhM3Q5R0FpWE05MFcyMDFDRU5vRFdXYU1iU29pSnBXUdIBkgFBVV95cUxQYXR6ejQ4cVVsaDloeXg2Q1RhN2laUFdQVGdjcF"
     },
     {
       "title": "Entrevista | “La IA será clave para la competitividad empresarial”: Alegra revela nuevas capacidades e - Valora Analitik",
