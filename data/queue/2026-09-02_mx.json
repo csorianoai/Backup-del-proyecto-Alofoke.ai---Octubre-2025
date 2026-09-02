@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "GoPro, de la crisis a la salvación: entrará al negocio de la IA para evitar su muerte",
-      "url": "https://expansion.mx/tecnologia/2026/09/02/gopro-de-la-crisis-a-la-salvacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 02 Sep 2026 20:00:05 GMT",
-      "summary": "Starman Optical, una empresa de óptica y fotónica, llegó a un acuerdo de fusión con la popular marca de cámaras de acción por 285 millones de dólares."
-    },
-    {
       "title": "Huawei promete medir tu riesgo de diabetes con el Watch GT 7",
       "url": "https://expansion.mx/tecnologia/2026/09/02/huawei-promete-medir-tu-riesgo-de-diabetes",
       "source": "Expansión Tecnología",
@@ -43,15 +35,15 @@
       "summary": "La empresa lanzó 'Sonos 27, un sistema operativo que permite actualizar equipos antiguos con agentes de IA para diferenciarse en el segmento premium de audio."
     },
     {
-      "title": "3 de cada 10 jóvenes mexicanos usan IA a diario y 18% la considera una amiga - emprendedor.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0szOHZYWFl2c255TW9mdU85QUQ0ZHlVaGMxRUlVMFZ6OHNTa0syOGtYMUpVZHFmSEtrOTFFZmpWel9EWWI2TDB5YTdoV0pYVzJzeTFSMXctREtETGFzcXRRVURtY1Vob2l1MzJEVHV2WUNCdG4yemJQZUVCVnZsVGxFcHloR2paQ3V5eVJBRTlWZ9IBlwFBVV95cUxNNDBIM3NJeXRtak40Z0lldW8xMG95V3dkbGdfVExFTHVrRy1BT2p5aUtaT2U5TW1BaHhHdmZpQlIxbXpFRzNwbDkyS2VYSXFnVkNVLWdHSjlrd1ZscXlkZi1Nb1M1NjNET0o4cXgyS3Zab09nZDZiaWZjVUdOYVdJRkk2OUFmRC1INWFIQ2poU1gyQ1BhOUZj?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 02 Sep 2026 13:42:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0szOHZYWFl2c255TW9mdU85QUQ0ZHlVaGMxRUlVMFZ6OHNTa0syOGtYMUpVZHFmSEtrOTFFZmpWel9EWWI2TDB5YTdoV0pYVzJzeTFSMXctREtETGFzcXRRVURtY1Vob2l1MzJEVHV2WUNCdG4yemJQZUVCVnZsVGxFcHloR2paQ3V5eVJBRTlWZ9IBlwFBVV95cUxNNDBIM3NJeXRtak40Z0lldW8xMG95V3dkbGdfVE"
+      "title": "Ni GTA VI los asusta: Gears of War y Marvel’s Wolverine entre los lanzamientos de videojuegos para cerrar 2026",
+      "url": "https://expansion.mx/tecnologia/2026/09/01/gta-vi-gears-of-war-marvels-wolverine-videojuegos-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 01 Sep 2026 18:50:03 GMT",
+      "summary": "Aunque GTA VI es el que más expectativas genera, otros títulos esperados cerrarán el año en la industria de los videojuegos."
     },
     {
-      "title": "Celulares e inteligencia artificial: desafíos que enfrenta la educación en México - Zona Cero",
+      "title": "Celulares e inteligencia artificial: desafíos que enfrenta la educación en México - zonacero.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWZsY1VSUmpIZWJZWUtXTGVUOGJ6bXpRUVVkM3FHeWVpbm5XTzNPUjcxZzBqR0tnbjR6bkZEVTdGYjJBN2lOUVo1UmRndW0yQ25RZUl2a1pIel9WX0o3ckVNRUU5Z1d6aGVuSk9vSzlMRkI0SkkxRHNfTU5xaFJwYTg2VWw5MjhodXliWHNYX1NLR0Uyd0t4WHZETl9rUXNYX05NY1FrVHE0LUN4cmxkNzVn?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,12 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWZsY1VSUmpIZWJZWUtXTGVUOGJ6bXpRUVVkM3FHeWVpbm5XTzNPUjcxZzBqR0tnbjR6bkZEVTdGYjJBN2lOUVo1UmRndW0yQ25RZUl2a1pIel9WX0o3ckVNRUU5Z1d6aGVuSk9vSzlMRkI0SkkxRHNfTU5xaFJwYTg2VWw5MjhodXliWHNYX1NLR0Uyd0t4WHZETl9rUXNYX05NY1FrVHE0LUN4cmxkNzVn?oc=5\" tar"
     },
     {
-      "title": "Chips, IA y autos eléctricos: los proyectos tecnológicos de Sheinbaum para México - es.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmdFUW9ZRGxOMktwb2hmdkdINGoxMmstN0h4QmVPQnBVTVg4X2hldmRLLVFFUHhwdFVMeWtVblR2eHZLMXo5RkhGdEJSUEt0QTZYcGtGSG9lbWtheDhlYUVvOTJhd0QwbXdLRzFxX3FnM0VicWVzT25jZUhyRGMyWlcxNjF2WE1XdkZWU3JiZEx2eEU3TW9HUVpNZ3E3aGFvLXNsZXRYeVpIdndCSXgw?oc=5",
+      "title": "España | Óscar López viaja a México para reforzar la cooperación en digitalización, Inteligencia Artificial, ciberseguridad y conectividad - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlM0R2FYUUVOWmh1VVlPZnhfUGlvVkwwRnJ1NlNNcnVjM3NpRFhhSzBfalRMUjVoSHdSQlMza3Nac2Q3M0xkTjdRSUt2RXdWczlrOTU3dGhtSkdmR0d3dTUxYkhBNnVxVnI2eUxkakNuYkVuY19HWW9zeTVyS3VxZW1wWXZFVzZ5YmJaTWhWNXRUaDN0Z3hhbjFaU0gyUktZYVFZOS1pOGVVX05vaUR3UG84UFNPbDlRT0YzSVJKVEp5TDUxcDB1VkFyb3BJbXV6djhwbWFwX0w5eG4waHN3N1JZSThzSW5aUDVr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 02 Sep 2026 18:15:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmdFUW9ZRGxOMktwb2hmdkdINGoxMmstN0h4QmVPQnBVTVg4X2hldmRLLVFFUHhwdFVMeWtVblR2eHZLMXo5RkhGdEJSUEt0QTZYcGtGSG9lbWtheDhlYUVvOTJhd0QwbXdLRzFxX3FnM0VicWVzT25jZUhyRGMyWlcxNjF2WE1XdkZWU3JiZEx2eEU3TW9HUVpNZ3E3aGFvLXNsZXRYeVpIdndCSXgw?oc=5\" target="
+      "published": "Wed, 02 Sep 2026 15:59:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVlM0R2FYUUVOWmh1VVlPZnhfUGlvVkwwRnJ1NlNNcnVjM3NpRFhhSzBfalRMUjVoSHdSQlMza3Nac2Q3M0xkTjdRSUt2RXdWczlrOTU3dGhtSkdmR0d3dTUxYkhBNnVxVnI2eUxkakNuYkVuY19HWW9zeTVyS3VxZW1wWXZFVzZ5YmJaTWhWNXRUaDN0Z3hhbjFaU0gyUktZYVFZOS1pOGVVX05vaUR3UG84UFNPbDlRT0"
+    },
+    {
+      "title": "El ministro español de Transformación Digital visita México para reforzar cooperación - HolaNews",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekdhb2pLRXZiN1VTcVZiQTdxVzFRaUtGOWtkM0NWNkFuMjQ4RUp6bGFrZXBQcDlxd0J2VnpYT1dCZkpOQm9SajJscmZRaEFJd3FSUWVTWlFJLVlKbE1sUUdTb09YV1FSelZZY05MZWozVFV2SzYwNGxIcUc2MzFiS1FmeVJUbFhUY0lEOHlTQ2VCQ2dHLUIzLXJ0SnBxOHBMWlB5RVFIeHBhbXM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 02 Sep 2026 22:05:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekdhb2pLRXZiN1VTcVZiQTdxVzFRaUtGOWtkM0NWNkFuMjQ4RUp6bGFrZXBQcDlxd0J2VnpYT1dCZkpOQm9SajJscmZRaEFJd3FSUWVTWlFJLVlKbE1sUUdTb09YV1FSelZZY05MZWozVFV2SzYwNGxIcUc2MzFiS1FmeVJUbFhUY0lEOHlTQ2VCQ2dHLUIzLXJ0SnBxOHBMWlB5RVFIeHBhbXM?oc=5\" target=\"_bla"
     },
     {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
@@ -75,7 +75,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
     },
     {
-      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - cronista.com",
+      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5\" target=\"_blank\">Festival IA Connecta B2B deb"
     },
     {
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+    },
+    {
       "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sat, 04 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
-    },
-    {
-      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14
