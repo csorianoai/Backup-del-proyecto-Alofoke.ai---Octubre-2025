@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "ChatGPT presenta fallas este 3 de septiembre; usuarios reciben error 404 al intentar ingresar",
+      "url": "https://expansion.mx/tecnologia/2026/09/03/chatgpt-presenta-fallas-3-de-septiembre",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 15:37:03 GMT",
+      "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten."
+    },
+    {
+      "title": "Tus audífonos, cámaras y cargadores ahora tendrán algo en común: todos se llamarán Anker",
+      "url": "https://expansion.mx/tecnologia/2026/09/03/anker-unifica-sus-marcas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 15:00:12 GMT",
+      "summary": "La compañía unificará progresivamente marcas como Soundcore y eufy bajo el nombre Anker en una estrategia que busca conectar desde audio y carga hasta seguridad, hogar inteligente y bienestar."
+    },
+    {
+      "title": "‘Viajes cortos no los tomo, no convienen’: Así es trabajar como conductor de Vemo",
+      "url": "https://expansion.mx/tecnologia/2026/09/03/vemo-conduce-trabajar-conductor-sueldo-fijo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 11:55:24 GMT",
+      "summary": "Vemo ofrece sueldo fijo, prestaciones y vehículos eléctricos, pero parte del ingreso depende de métricas y bonos ligados a los viajes realizados mediante plataformas como Uber."
+    },
+    {
       "title": "GoPro, de la crisis a la salvación: entrará al negocio de la IA para evitar su muerte",
       "url": "https://expansion.mx/tecnologia/2026/09/02/gopro-de-la-crisis-a-la-salvacion",
       "source": "Expansión Tecnología",
@@ -19,36 +43,12 @@
       "summary": "Huawei apuesta por sensores de salud impulsados por IA: estudios de riesgo de diabetes y enfermedad coronaria vía ECG, sin sustituir la atención médica profesional."
     },
     {
-      "title": "Estos son los modelos de celulares que se quedarán sin WhatsApp en septiembre de 2026",
-      "url": "https://expansion.mx/tecnologia/2026/09/01/modelos-celulares-sin-whatsapp-septiembre-2026",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 02 Sep 2026 01:03:20 GMT",
-      "summary": "Debido a las constantes actualizaciones que se realizan en WhatsApp, algunos dispositivos podrían quedarse sin acceso a la app."
-    },
-    {
-      "title": "Dyson CameraJet: El cepillo con cámara e IA para limpiar tus dientes sin dejar zonas a ciegas",
-      "url": "https://expansion.mx/tecnologia/2026/09/01/dyson-camerajet-cepillo-dientes-camara-ia-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 01 Sep 2026 21:00:36 GMT",
-      "summary": "La compañía presentó CameraJet, un cepillo dental que combina cámara, aprendizaje automático e irrigación de precisión."
-    },
-    {
-      "title": "Sonos deja de ser solo bocinas: su nuevo negocio ahora compite con Amazon y Google",
-      "url": "https://expansion.mx/tecnologia/2026/09/01/sonos-nuevo-negocio-mas-alla-bocinas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 01 Sep 2026 20:00:09 GMT",
-      "summary": "La empresa lanzó 'Sonos 27, un sistema operativo que permite actualizar equipos antiguos con agentes de IA para diferenciarse en el segmento premium de audio."
-    },
-    {
-      "title": "México apuesta por la IA en el G20: busca alianzas globales para acelerar su desarrollo - infobae.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmVEa0FKUWtfTGlfMFRnQVJ1QzVLSTVyc01SZ0hNeHZ0b3BzMUFmZG5yY2RpUF9KMzFHZjBWWnl1bURmc3gwSzdtRjFxSTNvbEh5MkQwXzh2STdDSUxRd3AzTnRGbllPUXNJS0F4WFZEZVhBT2Y0MmRQakQ5bDhXMnhsYURTZE1DOXVMOXBIMWI5VnA5S0Q5dXFoOEF0bDA2UkRxOXVNTzl0R09sejFFWTdET2FLYTVmcVBVVndNVW5LWG5vcDU4a9IB4wFBVV95cUxPRFVjQk0zdThUSFBlZVVRMkVnYjVIY2hCdFVxaGM3dHY3V1VhOXNYbTJUOWxfUTNkZzduZzE3MThKZjJQZHJBeloyRzBuVWwxTjN4d1JOdGtZVWMtbWhXMEFqTFVWVU9VTlJwLVM2REphQnd6ODM4eFFhREZzRXdUaklJNlNxVU1lVlVXQlZiX1VXdXdOWGxObWUxeEphWHlNTjNrSEFabG4yRlBBUmduTkxLM1AtZkprLXpTUlUxWHBsUzJwRmFZZldFaUhVY2JJaTVwMEZVaGU5RnMtU2ZxOVZCUQ?oc=5",
+      "title": "México y España acuerdan cooperación en inteligencia artificial y tecnología - infobae.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJJUkFMSmtiM29HdkR5VUlBVTF6cVB0RVJnNWVHVENmcWl2LV9aWnUyVS02eVBsSWFXYU9NUDZTLWE3eExYelc4N2c5SEdoS1R1SVJndVFRdU9YVUlaT1BGTzhweGRKdEpObXdvWGZKSnVDT2VXYUVNcl9BM2hlYXBxSXZrY0FrQ1lXbmxQcWxRcHl5UXBCOERBeHE3dXFQclU3SkVwczhURXRKUG93ZlUzR1daOVAzUGRF0gHWAUFVX3lxTE5WUjVtM3dGeThpamJRcWtxS3dXVlZkRzlwcWl3a3hOVHdIX25qRXFkVF9qdWZOVmlIWmRwYVREMkdITnFvY0xsQURURm9yb3psRGQxZnhHZ0VsM1pJWG9qRDlDUUs5eG5TYWEzaV9iYmFaUi1xRWlCS09Rc3pUeEVkS1hHMXZGd2pIbURGUjhlYklXVG9YVmhLdnRPZnJrTnZzRHZjSFA3aGpfUVVzUXF3Y3Y4XzB2bDZ1Y3BVcnB6MmNwcDJSQTQ3ZlFCdkhTNXBYdjdmOEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 03 Sep 2026 15:41:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWmVEa0FKUWtfTGlfMFRnQVJ1QzVLSTVyc01SZ0hNeHZ0b3BzMUFmZG5yY2RpUF9KMzFHZjBWWnl1bURmc3gwSzdtRjFxSTNvbEh5MkQwXzh2STdDSUxRd3AzTnRGbllPUXNJS0F4WFZEZVhBT2Y0MmRQakQ5bDhXMnhsYURTZE1DOXVMOXBIMWI5VnA5S0Q5dXFoOEF0bDA2UkRxOXVNTzl0R09sejFFWTdET2FLYTVmcV"
+      "published": "Thu, 03 Sep 2026 23:45:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJJUkFMSmtiM29HdkR5VUlBVTF6cVB0RVJnNWVHVENmcWl2LV9aWnUyVS02eVBsSWFXYU9NUDZTLWE3eExYelc4N2c5SEdoS1R1SVJndVFRdU9YVUlaT1BGTzhweGRKdEpObXdvWGZKSnVDT2VXYUVNcl9BM2hlYXBxSXZrY0FrQ1lXbmxQcWxRcHl5UXBCOERBeHE3dXFQclU3SkVwczhURXRKUG93ZlUzR1daOVAzUG"
     },
     {
       "title": "Celulares e inteligencia artificial: desafíos que enfrenta la educación en México - Zona Cero",
@@ -59,20 +59,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWZsY1VSUmpIZWJZWUtXTGVUOGJ6bXpRUVVkM3FHeWVpbm5XTzNPUjcxZzBqR0tnbjR6bkZEVTdGYjJBN2lOUVo1UmRndW0yQ25RZUl2a1pIel9WX0o3ckVNRUU5Z1d6aGVuSk9vSzlMRkI0SkkxRHNfTU5xaFJwYTg2VWw5MjhodXliWHNYX1NLR0Uyd0t4WHZETl9rUXNYX05NY1FrVHE0LUN4cmxkNzVn?oc=5\" tar"
     },
     {
-      "title": "Secretaría de Economía impulsa desarrollo de inteligencia artificial en G20 - UDG TV",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhNRGNCSjlIa2hIWVJpQ20tOFdRS0dZWU84N2RzM3FLaUVUeTEtZ3pHWG5lRTZyeXZaanUwWVlGTUVsRXdSd0UycXNoXzhUQWwxZS1kamZMYWk3TURLeXViemJzRFkwRS1lNUpBbDVrSUgxdFJRdE1wU2hDVGtDaEVsT3JyVXNMVnVyVlpvcmQ?oc=5",
+      "title": "México y España firman Memorándum de Entendimiento sobre inteligencia artificial, ciberseguridad y digitalización - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQzQ0c2FCZjJQVzVBd01YRGJoWkdaa0N2enV0Sy1wd2NROUlheUFGTF9HT1JNVHdpclIybDVGbzBiRkwwZ3pBdjZSY25xR21PeDZaQXpaSXlIZkFMQXhYMXBQMTBfOGctNGdQSnhOTVM0YTJKMFFzTDNjVjBTZG54aG1waFphaFFQT0N4QU9JUndGYU91dWh0LWYyUHZCUEhFV0VKckVxX1N3X0w0bDRuWV9WZzNCdTNCZkFTRGpQWGwxbnpaVjFrYUh5akRNaGdFeGtjUWlTQmVJaXVub2VlTWtaZEhvQS1wUHVTTGdiLXpyTkkyMlg5UFdFNjBOVC02SzNIV3pXQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 03 Sep 2026 17:06:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPeUhNRGNCSjlIa2hIWVJpQ20tOFdRS0dZWU84N2RzM3FLaUVUeTEtZ3pHWG5lRTZyeXZaanUwWVlGTUVsRXdSd0UycXNoXzhUQWwxZS1kamZMYWk3TURLeXViemJzRFkwRS1lNUpBbDVrSUgxdFJRdE1wU2hDVGtDaEVsT3JyVXNMVnVyVlpvcmQ?oc=5\" target=\"_blank\">Secretaría de Economía impulsa d"
+      "published": "Thu, 03 Sep 2026 23:09:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOQzQ0c2FCZjJQVzVBd01YRGJoWkdaa0N2enV0Sy1wd2NROUlheUFGTF9HT1JNVHdpclIybDVGbzBiRkwwZ3pBdjZSY25xR21PeDZaQXpaSXlIZkFMQXhYMXBQMTBfOGctNGdQSnhOTVM0YTJKMFFzTDNjVjBTZG54aG1waFphaFFQT0N4QU9JUndGYU91dWh0LWYyUHZCUEhFV0VKckVxX1N3X0w0bDRuWV9WZzNCdTNCZk"
     },
     {
-      "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5",
+      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
+    },
+    {
+      "title": "Primero levanta US$12M para llevar IA a grandes empresas - ecosistemastartup.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkVESmJnaDNIQi01SzJZNnR5UTFCYUtKTW50ekRPSVNOU1JJUFZPbkcyU1FCaW0tOV9ZLUVDMXd5YkxmZHg0d3pNZ0NaUWlsVUw4M21hQ1NqcWtrNFBPWC0yalEwYTVxaFFfd244cUNCc3NTamR2Y3JTWW1aNHZYelE4cXhRNDZVUERIczNzaw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 21:06:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkVESmJnaDNIQi01SzJZNnR5UTFCYUtKTW50ekRPSVNOU1JJUFZPbkcyU1FCaW0tOV9ZLUVDMXd5YkxmZHg0d3pNZ0NaUWlsVUw4M21hQ1NqcWtrNFBPWC0yalEwYTVxaFFfd244cUNCc3NTamR2Y3JTWW1aNHZYelE4cXhRNDZVUERIczNzaw?oc=5\" target=\"_blank\">Primero levanta US$12M para lleva"
     },
     {
       "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
@@ -83,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
-      "title": "Madrid abre la puerta a startups latinoamericanas con foco en inteligencia artificial - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQzVOMENoVUNYX1Y4?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTZJQk85SVh1eE9pQXdPT0w1YnhYeDMzTGgwclUydHh5OTBLemc0cG1IT2JFU2kzOWU0dXF2RlVuS240ejN5X1pnTW1ySDFFSnAzUzVOenh2Vk04OXJKTWtoUmpFcUMxYlNnV0VlNVQ2QjAzbzExN0tFMnhKQnFTTERpVG8zN2d6b2t1c0FHM0FoQTRqajFGS0xVWjlCX0pnRlRPWjNNVmdtdFFtd3ZScEZGMTJHTDdPQz"
-    },
-    {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Aeropuerto de Monterrey incluirá IA y robótica para el Mundial - REPORTUR.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5",
+      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Mar 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGlSUHZLWkRtd3FsV0lTaWM3a3JQWnBwQk92eVk3MXJwNTFEeW5GWTZtSTNxRTRtUklaNHBoU0pJTW9jLUFGeTBlamtuV1BJc21ZYW43MmpQX0YzcGI4T3llTUNzUHEyTXBVcU4wNWxBLTlya0k5VDVDdi1ibmdhV3dHeTIwMG1ac1hrVmQ4WVZSbWE0REluTENLQWtQTWFqemVwTFNER1RONzBZM1Aw?oc=5\" target="
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Integrar con ética y propósito la IA: IFE Conference 2026 muestra el gran desafío del futuro en la educación - elespanol.com",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdFowMXRrQTNxWm4xNDFuMUFXNXEwTWVGdHhYUGNUM014Y0FOdUhJUHR2N28wNVBvU3pNZVRBeC1uSnhNcHdZdEphZ1AzU2toVHNRT1lFQy1IbTktQVo3QUdOZmNCVkt6RzZSTGE5V25JbFRFZXI0QW8yU1IzMHZCQ25zc2dKM2xZeDlEeFd3aFhfcDlhdy02RWQ0Njg2OGFYeDRBeW5icld4aFlUMXNSY2lpY3FMN3NfMExuYVBGQU14cHlQMFlJSnNEX2tNdm1uUjh0a0xVTnA1LU9HaGJRWnFLbmQzbnN4WG9wX2w3WFYwc2dQMk5zazdDVTFId3hPQVRUbUJua2Mzd29lNk1jNm4yQmNZUUpI0gGeAkFVX3lxTE1CMnV6ckpQaFctTGlZZWl1MUd0V3QxTFJDSHRvY1NsbGl3TmloSElwQzRVQllJT3lTVG5XSGdHNmJsSnp2QWpQdjRhckIwc1R5emxxMjAza0NzX0FvQllKN3VzYVdoeWxxbGtKbk9HMnpjOEdaekM1VnpsdjJJZ1pTOGhMNUFibmNHWG5WdTNvZldjeENaYW0zZVdoWEthSkdsWmdaNGkwSF92U20zSzJmaU1TY1NyQlBlUU9VazhSZEpZN2pncDBnNGc3NEdwSFpFNXFGdXJBdHhzRjhZRVBMekt3Yms5Uk85U0JocXgyY0hZVWdhM0xQSFBMejM3VUMycS1LZDNadl9BVEhScWd6MmNVLWJJdUZHUENBMFE?oc=5",
+      "title": "Así cambia la inteligencia artificial la forma de emprender en 2026 - Tec.mx",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSF9iOGpwb2RaUjJva1Z0UUN5S21qYnJ1aEZETVctS2NndUEzeVBDS3BFNDRUcFJwbnViVUFkM3FFOTlxc0VncmduTXhKRTNOVk4wY2pud1ZfZ1NpR2xKdFk5dXRUX1FsRk1Oal9aQTVURnBpa1JweDdtc2VkN3d0cjBLR2VBZUhiZW56NzJXS3pRX1VDR0lCRDFxd0IzQWhHakx0NGJwcEFXTmp1UlVoNzZDRG1MOVFMdnhnX0NOTHZlSUU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 03 Feb 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxNdFowMXRrQTNxWm4xNDFuMUFXNXEwTWVGdHhYUGNUM014Y0FOdUhJUHR2N28wNVBvU3pNZVRBeC1uSnhNcHdZdEphZ1AzU2toVHNRT1lFQy1IbTktQVo3QUdOZmNCVkt6RzZSTGE5V25JbFRFZXI0QW8yU1IzMHZCQ25zc2dKM2xZeDlEeFd3aFhfcDlhdy02RWQ0Njg2OGFYeDRBeW5icld4aFlUMXNSY2lpY3FMN3NfME"
+      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSF9iOGpwb2RaUjJva1Z0UUN5S21qYnJ1aEZETVctS2NndUEzeVBDS3BFNDRUcFJwbnViVUFkM3FFOTlxc0VncmduTXhKRTNOVk4wY2pud1ZfZ1NpR2xKdFk5dXRUX1FsRk1Oal9aQTVURnBpa1JweDdtc2VkN3d0cjBLR2VBZUhiZW56NzJXS3pRX1VDR0lCRDFxd0IzQWhHakx0NGJwcEFXTmp1UlVoNzZDRG1MOVFMdn"
     }
   ],
   "count": 14
