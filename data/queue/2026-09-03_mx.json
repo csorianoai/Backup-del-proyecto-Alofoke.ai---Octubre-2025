@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-03",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "ChatGPT presenta fallas este 3 de septiembre; usuarios reciben error 404 al intentar ingresar",
+      "url": "https://expansion.mx/tecnologia/2026/09/03/chatgpt-presenta-fallas-3-de-septiembre",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 15:37:03 GMT",
+      "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten."
+    },
+    {
+      "title": "Tus audífonos, cámaras y cargadores ahora tendrán algo en común: todos se llamarán Anker",
+      "url": "https://expansion.mx/tecnologia/2026/09/03/anker-unifica-sus-marcas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 15:00:12 GMT",
+      "summary": "La compañía unificará progresivamente marcas como Soundcore y eufy bajo el nombre Anker en una estrategia que busca conectar desde audio y carga hasta seguridad, hogar inteligente y bienestar."
+    },
+    {
+      "title": "‘Viajes cortos no los tomo, no convienen’: Así es trabajar como conductor de Vemo",
+      "url": "https://expansion.mx/tecnologia/2026/09/03/vemo-conduce-trabajar-conductor-sueldo-fijo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 11:55:24 GMT",
+      "summary": "Vemo ofrece sueldo fijo, prestaciones y vehículos eléctricos, pero parte del ingreso depende de métricas y bonos ligados a los viajes realizados mediante plataformas como Uber."
+    },
+    {
+      "title": "GoPro, de la crisis a la salvación: entrará al negocio de la IA para evitar su muerte",
+      "url": "https://expansion.mx/tecnologia/2026/09/02/gopro-de-la-crisis-a-la-salvacion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 02 Sep 2026 20:00:05 GMT",
+      "summary": "Starman Optical, una empresa de óptica y fotónica, llegó a un acuerdo de fusión con la popular marca de cámaras de acción por 285 millones de dólares."
+    },
+    {
+      "title": "Huawei promete medir tu riesgo de diabetes con el Watch GT 7",
+      "url": "https://expansion.mx/tecnologia/2026/09/02/huawei-promete-medir-tu-riesgo-de-diabetes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 02 Sep 2026 15:00:59 GMT",
+      "summary": "Huawei apuesta por sensores de salud impulsados por IA: estudios de riesgo de diabetes y enfermedad coronaria vía ECG, sin sustituir la atención médica profesional."
+    },
+    {
+      "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
+    },
+    {
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
+    },
+    {
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+    }
+  ],
+  "count": 8
+}

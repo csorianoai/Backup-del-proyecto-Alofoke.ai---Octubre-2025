@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-03",
+  "country": "cl",
+  "articles": [
+    {
+      "title": "“El mundo se encuentra en la zona de peligro”: el fenómeno El Niño intenso persistirá hasta 2027, confirma la OMM",
+      "url": "https://www.latercera.com/tendencias/noticia/el-mundo-se-encuentra-en-la-zona-de-peligro-el-fenomeno-el-nino-intenso-persistira-hasta-2027-confirma-la-omm/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 14:59:36 +0000",
+      "summary": "La OMM advierte que El Niño seguirá fortaleciéndose y podría alcanzar una intensidad muy fuerte a finales de 2026. Conoce sus efectos y qué se espera en Chile."
+    },
+    {
+      "title": "Primavera lluviosa: Meteochile revela qué esperar del tiempo durante los próximos meses",
+      "url": "https://www.latercera.com/tendencias/noticia/primavera-lluviosa-meteochile-revela-que-esperar-del-tiempo-durante-los-proximos-meses/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 10:03:00 +0000",
+      "summary": "La DMC anticipa un trimestre de contrastes para Chile: revisa el pronóstico de lluvias y temperaturas para septiembre, octubre y noviembre de este 2026."
+    },
+    {
+      "title": "Científicos identifican cómo una red nerviosa potencia el cáncer de mama: esto dice su investigación",
+      "url": "https://www.latercera.com/tendencias/noticia/cientificos-identifican-como-una-red-nerviosa-potencia-el-cancer-de-mama-esto-dice-su-investigacion/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 10:02:00 +0000",
+      "summary": "Según explicaron los autores, desde hace tiempo se tenía conocimiento de que muchos tumores sólidos contienen redes nerviosas. Sin embargo, no se comprendía cómo llegaban esos nervios hasta allí. El nuevo estudio explica cómo ocurre esto en el cáncer de mama triple negativo."
+    },
+    {
+      "title": "Esta es la dieta que hace perder peso sin comer menos, según un reciente estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/esta-es-la-dieta-que-hace-perder-peso-sin-comer-menos-segun-un-reciente-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 03 Sep 2026 10:01:00 +0000",
+      "summary": "Un nuevo estudio plantea una estrategia para bajar de peso que permitiría reducir la ingesta de calorías sin tener que disminuir necesariamente la cantidad de comida consumida."
+    },
+    {
+      "title": "Sentir una presencia, ver fantasmas o tener un déjà vu: qué reveló un estudio sobre estas experiencias “inquietantes”",
+      "url": "https://www.latercera.com/tendencias/noticia/sentir-una-presencia-ver-fantasmas-o-tener-un-deja-vu-que-revelo-un-estudio-sobre-estas-experiencias-inquietantes/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 02 Sep 2026 21:10:40 +0000",
+      "summary": "Un grupo de investigadores estudió de cerca las experiencias paranormales que tuvo un grupo de personas para comprender por qué ocurren y cómo afecta su bienestar. Esto fue lo que revelaron."
+    }
+  ],
+  "count": 5
+}
