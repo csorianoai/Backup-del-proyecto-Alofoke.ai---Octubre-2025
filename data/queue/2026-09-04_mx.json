@@ -3,22 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Xiaomi quiere que tu casa y tu auto sepan qué hace tu celular",
-      "url": "https://expansion.mx/tecnologia/2026/09/04/xiaomi-quiere-conocer-tu-casa-auto-y-celular",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 04 Sep 2026 19:00:08 GMT",
-      "summary": "La tecnológica china llegó por primera vez a la feria de Berlín con más de 380 productos y la apuesta de conectar dispositivos, hogar, autos e inteligencia artificial."
-    },
-    {
-      "title": "Los abogados ya buscan clientes en TikTok: las recomendaciones no son suficientes",
-      "url": "https://expansion.mx/tecnologia/2026/09/04/los-abogados-ya-buscan-clientes-en-tiktok",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 04 Sep 2026 11:55:54 GMT",
-      "summary": "El sector legal comienza a trasladarse a espacios digitales. A pesar de ser un negocio que depende de recomendaciones personales, las plataformas permiten encontrar clientes, aunque las dudas persisten."
-    },
-    {
       "title": "ChatGPT presenta fallas este 3 de septiembre; usuarios reciben error 404 al intentar ingresar",
       "url": "https://expansion.mx/tecnologia/2026/09/03/chatgpt-presenta-fallas-3-de-septiembre",
       "source": "Expansión Tecnología",
@@ -41,6 +25,22 @@
       "category": "tech",
       "published": "Thu, 03 Sep 2026 11:55:24 GMT",
       "summary": "Vemo ofrece sueldo fijo, prestaciones y vehículos eléctricos, pero parte del ingreso depende de métricas y bonos ligados a los viajes realizados mediante plataformas como Uber."
+    },
+    {
+      "title": "GoPro, de la crisis a la salvación: entrará al negocio de la IA para evitar su muerte",
+      "url": "https://expansion.mx/tecnologia/2026/09/02/gopro-de-la-crisis-a-la-salvacion",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 02 Sep 2026 20:00:05 GMT",
+      "summary": "Starman Optical, una empresa de óptica y fotónica, llegó a un acuerdo de fusión con la popular marca de cámaras de acción por 285 millones de dólares."
+    },
+    {
+      "title": "Huawei promete medir tu riesgo de diabetes con el Watch GT 7",
+      "url": "https://expansion.mx/tecnologia/2026/09/02/huawei-promete-medir-tu-riesgo-de-diabetes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 02 Sep 2026 15:00:59 GMT",
+      "summary": "Huawei apuesta por sensores de salud impulsados por IA: estudios de riesgo de diabetes y enfermedad coronaria vía ECG, sin sustituir la atención médica profesional."
     },
     {
       "title": "México y España firman acuerdo para impulsar IA, conectividad y supercomputación - ITSitio",
@@ -67,6 +67,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVmVpU1BrTGZzQXlmRGY4blRBQzJTVk1EeDI4LUFaVG0tNkxmZ0RBNG9XaEN1TGFRWElrQkJoYmRJcEFhTnMtc3VqNU03cXRraWhVbXEyTWljSHJsNl9GUGFZZzV2Q0FtMWhwZmRtZnh0X0JZUlE0dVZfYXdfWUpNLXZVU3VaV2pJOUswY2w0VVVqYWhaNF9nY3NIZkk5bkxTRUlOWkJDZ21CZ1hsMzd3QklscVh1UlQ1Zl"
     },
     {
+      "title": "La startup Primero, cofundada por un colombiano, levanta US$12 millones para expandir IA en grandes empresas - Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3BqdmZtU2ZxOHBsWnVGczdFQ1EySzk0bXVtaFNrZXhNbEE0TURBd0FVMFU1ZGQtVW5DTEJLZ3VadjN1X3pEcjk4LVM1X05RMFYtdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3"
+    },
+    {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5",
       "source": "Google News",
@@ -81,14 +89,6 @@
       "category": "news",
       "published": "Tue, 25 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
-    },
-    {
-      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - itnow.connectab2b.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "Tec de Monterrey y Geely impulsarán movilidad inteligente con IA y vehículos autónomos - Líder Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRW5kSm80dTRDaFpib1YzSF9hei1UWFdDQ05rM3VGV1FqSE40WXlfeEFNS2JlNktNTEk4NFQ4enJwaktpMTY2bUFqV0hUTkxMbnllVWJzbmVrR3hBeFBwQW5PeHR2UWFSUU9mU3R5TFZZRlVlMUl3TmEyZ084dkxTenQ5NU5nMnlUZmVfbnNMUjMzUWFGVWFSWHZMSWk5bGNqMjRQNmFodVloM1NhaTdTcmpHU0lUbHZKRl93QQ?oc=5",
+      "title": "Una IA para escuchar mejor: la innovación médica para detectar la pérdida auditiva en la infancia - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRW5kSm80dTRDaFpib1YzSF9hei1UWFdDQ05rM3VGV1FqSE40WXlfeEFNS2JlNktNTEk4NFQ4enJwaktpMTY2bUFqV0hUTkxMbnllVWJzbmVrR3hBeFBwQW5PeHR2UWFSUU9mU3R5TFZZRlVlMUl3TmEyZ084dkxTenQ5NU5nMnlUZmVfbnNMUjMzUWFGVWFSWHZMSWk5bGNqMjRQNmFodVloM1NhaTdTcmpHU0lUbHZKRl"
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3NuaWpQOGlqaTVtOW8zT2ZYQnFZRzMtcGVzVFl6Tzh0ZmZfUVlPRU44RW9EbFNpRGlRU04tWjd0R3dMdUlMOENaMWhsUktlcUs1X3R5ZURiTDJ3QnROUzVfM0NwcFhleU94eVZOdnFIenY2TnRYMV80OFVzR2ZEcm5KRmFob0NMdzY4SQ?oc=5\" target=\"_blank\">Una IA para escuchar mejor: la innova"
     }
   ],
   "count": 14
