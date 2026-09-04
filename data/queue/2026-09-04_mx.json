@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Xiaomi quiere que tu casa y tu auto sepan qué hace tu celular",
+      "url": "https://expansion.mx/tecnologia/2026/09/04/xiaomi-quiere-conocer-tu-casa-auto-y-celular",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 04 Sep 2026 19:00:08 GMT",
+      "summary": "La tecnológica china llegó por primera vez a la feria de Berlín con más de 380 productos y la apuesta de conectar dispositivos, hogar, autos e inteligencia artificial."
+    },
+    {
       "title": "Los abogados ya buscan clientes en TikTok: las recomendaciones no son suficientes",
       "url": "https://expansion.mx/tecnologia/2026/09/04/los-abogados-ya-buscan-clientes-en-tiktok",
       "source": "Expansión Tecnología",
@@ -35,20 +43,20 @@
       "summary": "Vemo ofrece sueldo fijo, prestaciones y vehículos eléctricos, pero parte del ingreso depende de métricas y bonos ligados a los viajes realizados mediante plataformas como Uber."
     },
     {
-      "title": "GoPro, de la crisis a la salvación: entrará al negocio de la IA para evitar su muerte",
-      "url": "https://expansion.mx/tecnologia/2026/09/02/gopro-de-la-crisis-a-la-salvacion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 02 Sep 2026 20:00:05 GMT",
-      "summary": "Starman Optical, una empresa de óptica y fotónica, llegó a un acuerdo de fusión con la popular marca de cámaras de acción por 285 millones de dólares."
-    },
-    {
       "title": "México y España firman acuerdo para impulsar IA, conectividad y supercomputación - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORWhyVnI1V3pGUWdNRkctdW1keER0b1NEdnZSVXNlRUNxdnI1SWFfdnZld2R5X3VYTFUzVmhWZ2RoTWNWa2wyN1kwODRjRVNoNnZTaG9tc2RmSzVKUzdfb0ZVMkVZeDdxRDc5OHR2UXhMY3FzSll3eUFFYk1xeURUNDU1dmlrOWRmZV9LT01ianhhUDN6Z1RZNWdEdnRTTWtYOXhramNFdUtPR0wtTGtUXzlhdG9SNUJDVmh4NVc4cWItY3VMeWRFemRIQQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 04 Sep 2026 16:30:54 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxORWhyVnI1V3pGUWdNRkctdW1keER0b1NEdnZSVXNlRUNxdnI1SWFfdnZld2R5X3VYTFUzVmhWZ2RoTWNWa2wyN1kwODRjRVNoNnZTaG9tc2RmSzVKUzdfb0ZVMkVZeDdxRDc5OHR2UXhMY3FzSll3eUFFYk1xeURUNDU1dmlrOWRmZV9LT01ianhhUDN6Z1RZNWdEdnRTTWtYOXhramNFdUtPR0wtTGtUXzlhdG9SNUJDVm"
+    },
+    {
+      "title": "España y México estrechan alianza tecnológica hacia una \"tercera vía\" digital - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1B2RzZrdE9FOTVfVWpLUkMwN3V4ei1CdnhYRDRBbU9hOG9QcnJuZ2hhWW5ram9LNkU5VFNjdGpVdTFhSWxUdl9vOVF1Q1JxTEFKczJKekxYTThqdkdlb0tIM01ZcFBnNjdMOXA0eU5CejBPVWo3QTRWWUYtMDd0QXZhQVYza3F4aW4wNjFSWWdrTlJnOTFBWEh3dEhETnRSd1F3YTZ4VWFfNWNGc2ZqYS1WSkVjTml3aUZub0tSSWRicXoybU9J0gHiAUFVX3lxTFBjZ2xzRzROQlFaRWREX3MxTVdxR09NU256WUFxWkM5WERaUW96LUNtMHRuLW1FbXNPNnlPNmtNcTExRWhtX3o5OUdUcjVpWER0UGNndlhmNHctX3Y0QkNnX0R0WUQ0NkRVWEd4NTI5ZXo5MEwtejVCcWJxVjl3bnQyVTdiOFhPOVhwZHVldzNtU1hyc2pBVEpXQ3loNXM4UnhDM0RGdGFPNFFWWVFnZGdaeUtWZ2NlSHZzSXUzd241SkdYQm40SHNDdU1jYTdrUlFuZDJWWVJySG5OR01SZEJCeEE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 04 Sep 2026 19:36:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQc1B2RzZrdE9FOTVfVWpLUkMwN3V4ei1CdnhYRDRBbU9hOG9QcnJuZ2hhWW5ram9LNkU5VFNjdGpVdTFhSWxUdl9vOVF1Q1JxTEFKczJKekxYTThqdkdlb0tIM01ZcFBnNjdMOXA0eU5CejBPVWo3QTRWWUYtMDd0QXZhQVYza3F4aW4wNjFSWWdrTlJnOTFBWEh3dEhETnRSd1F3YTZ4VWFfNWNGc2ZqYS1WSkVjTml3aU"
     },
     {
       "title": "España y México sellan una alianza digital para impulsar IA, supercomputación y ciberseguridad - americaeconomica.com",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVmVpU1BrTGZzQXlmRGY4blRBQzJTVk1EeDI4LUFaVG0tNkxmZ0RBNG9XaEN1TGFRWElrQkJoYmRJcEFhTnMtc3VqNU03cXRraWhVbXEyTWljSHJsNl9GUGFZZzV2Q0FtMWhwZmRtZnh0X0JZUlE0dVZfYXdfWUpNLXZVU3VaV2pJOUswY2w0VVVqYWhaNF9nY3NIZkk5bkxTRUlOWkJDZ21CZ1hsMzd3QklscVh1UlQ1Zl"
     },
     {
-      "title": "México y España acuerdan cooperación en inteligencia artificial y tecnología - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJJUkFMSmtiM29HdkR5VUlBVTF6cVB0RVJnNWVHVENmcWl2LV9aWnUyVS02eVBsSWFXYU9NUDZTLWE3eExYelc4N2c5SEdoS1R1SVJndVFRdU9YVUlaT1BGTzhweGRKdEpObXdvWGZKSnVDT2VXYUVNcl9BM2hlYXBxSXZrY0FrQ1lXbmxQcWxRcHl5UXBCOERBeHE3dXFQclU3SkVwczhURXRKUG93ZlUzR1daOVAzUGRF0gHWAUFVX3lxTE5WUjVtM3dGeThpamJRcWtxS3dXVlZkRzlwcWl3a3hOVHdIX25qRXFkVF9qdWZOVmlIWmRwYVREMkdITnFvY0xsQURURm9yb3psRGQxZnhHZ0VsM1pJWG9qRDlDUUs5eG5TYWEzaV9iYmFaUi1xRWlCS09Rc3pUeEVkS1hHMXZGd2pIbURGUjhlYklXVG9YVmhLdnRPZnJrTnZzRHZjSFA3aGpfUVVzUXF3Y3Y4XzB2bDZ1Y3BVcnB6MmNwcDJSQTQ3ZlFCdkhTNXBYdjdmOEE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 04 Sep 2026 00:32:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUJJUkFMSmtiM29HdkR5VUlBVTF6cVB0RVJnNWVHVENmcWl2LV9aWnUyVS02eVBsSWFXYU9NUDZTLWE3eExYelc4N2c5SEdoS1R1SVJndVFRdU9YVUlaT1BGTzhweGRKdEpObXdvWGZKSnVDT2VXYUVNcl9BM2hlYXBxSXZrY0FrQ1lXbmxQcWxRcHl5UXBCOERBeHE3dXFQclU3SkVwczhURXRKUG93ZlUzR1daOVAzUG"
-    },
-    {
       "title": "CDMX impulsa IA y digitalización para mujeres emprendedoras - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5",
       "source": "Google News",
@@ -75,7 +75,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTzUtMmpzcWdFM3YtUlZ2TWJaR2tEOENaa3BjMjBCOHZQSHJzV3FQQy1fZkVmWjZtNm40dkU3b0RrQ0c5aWZiekVmVW9uWHRXeVNNY1lLT3J3OUV3OXYxeU9HOGxDNlRfN0JUckNzVjRWRUVGTHRCLVUwbzVxTUpFNXlpeUVlUURrTkNNeVlWV3RsYXlm?oc=5\" target=\"_blank\">CDMX impulsa IA y digitaliz"
     },
     {
-      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - cronista.com",
+      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
     },
     {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - itnow.connectab2b.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
       "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
