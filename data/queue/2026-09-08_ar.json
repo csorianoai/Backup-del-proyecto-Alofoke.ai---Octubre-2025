@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "OpenAI lanzó un nuevo modelo y aseguran que “la IA general ya llegó”: qué puede hacer y por qué está en boca de todos",
+      "url": "https://www.clarin.com/tecnologia/openai-lanzo-nuevo-modelo-aseguran-ia-general-llego-puede-hacer-boca_0_5bDMTYOfi0.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 08 Sep 2026 08:45:43 +0000",
+      "summary": "<ul><li>GPT-6 Astra sorprendió por su capacidad para resolver tareas complejas y usar herramientas por su cuenta. </li><li>Sus resultados dispararon una discusión sobre cuánto avanzó realmente la tecnología. </li></ul>"
+    },
+    {
       "title": "La ONU llamó a un esfuerzo internacional para evitar que la Inteligencia Artificial se vuelva incontrolable",
       "url": "https://www.clarin.com/internacional/onu-llamo-esfuerzo-internacional-evitar-inteligencia-artificial-vuelva-incontrolable_0_XLEpFaDdcq.html",
       "source": "Clarín Tecnología",
@@ -35,76 +43,68 @@
       "summary": "<ul><li>Una pasajera fotografió su pantalla y alertó a la tripulación durante el vuelo a Los Ángeles.</li><li>Su abogada afirma que ingresó por error y que no fue arrestado ni acusado de un delito.</li><li>Cómo funciona Tor, el navegador que protege la privacidad, y cuáles son sus límites.</li></ul>"
     },
     {
-      "title": "Biohacking: la tecnología que busca anticiparse a las enfermedades y ayudar a vivir más y mejor",
-      "url": "https://www.clarin.com/tecnologia/biohacking-tecnologia-busca-anticiparse-enfermedades-ayudar-vivir-mejor_0_AhWawju8MK.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 05 Sep 2026 08:46:18 +0000",
-      "summary": "<ul><li>Sensores, biomarcadores, inteligencia artificial y análisis genéticos permiten obtener una radiografía cada vez más precisa del organismo. </li><li>El movimiento reúne desde hábitos respaldados por la ciencia hasta experimentos extremos con células y terapias todavía en evaluación.</li></ul>"
-    },
-    {
-      "title": "Vaca Muerta puede convertirse en la usina que alimente la inteligencia artificial del mundo - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHIzNmdjc0UtUU1lel8tbWx6TDhZSGpYWmlGWHkwRm9TQS02SEtEUlF4WndMMjNqR0ZiZ1JCcGJzZUNDR09zdUtucDF0UGEzbjVVcHNFTWJxYmtPZE04Z2x5dl9CZEJrZ0Zvck1rdkllNzRfbzYzV0RINEYtdkRzT2pETzdVSktmX1lib3dJbG4tMEtqRDlETE9jRWRUWnFnX2dDYVoyXzR5MTg2UER3eFNSS1h1ekJwNDlTU1Bpekc4X0lVQUR1WFRTZGlzdHJH0gHrAUFVX3lxTFBaeXhKMmd6U1dydGJubThRU3pXT3dGR0N6aS1QTFJrdzJhdFZDLTRyNU1mMWIwU1hua3FUSExMZmhyZlgzNV9wMFhLVnUwX2NIYXFiTEhxUzJWZUFsYUlhSjgyTWxKMzhRNVMtYy1hLU9aUEFMMkxFdUNHWWFZT0cyNlB6eVZwbEdQazZqTFBiNTlmU3VFRTJOTHROQ3NUXzVUNGJBNWlDM29ybzliVFc5QUM4aEhVZDRfT1B5MzY2bFlfYmpBck5WV0I2X09fS1JRcE0wWUl4a0VGbkIyQmVsQmYzR1oyVS1IOUE?oc=5",
+      "title": "La adquisición pierde peso en 2026: datos propios e IA ganan terreno frente al costo publicitario - inteligenciaargentina.ar",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQblFlSDJHdXg5VE5lcndGYkYyY29VNnVKb045VE5hNGpYNXdGaS1aODFCa2laTmxUMkc0M3FYS2NFY1RUS3lrZXVOQjRvVHdqN1VtVGd1MktHUHZiN2FjMHh5V3BMbG5lU1lRRE1XRkFFSDlzSHlpN3JHWHU2c0RTSWVVdWtTUDJidDd1c1pHY2JZTEpxWUFVdGU1UlRfZFJlRFkxTXBacDJhMGY0Y3pEcWNGek9WV2tPaXQzd0huM2RNbmRFaF93dlRpLUo0VlM0YzV1YjhPUHpWa2VyYzFuYTF5MjBVTmNx?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 12:49:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcHIzNmdjc0UtUU1lel8tbWx6TDhZSGpYWmlGWHkwRm9TQS02SEtEUlF4WndMMjNqR0ZiZ1JCcGJzZUNDR09zdUtucDF0UGEzbjVVcHNFTWJxYmtPZE04Z2x5dl9CZEJrZ0Zvck1rdkllNzRfbzYzV0RINEYtdkRzT2pETzdVSktmX1lib3dJbG4tMEtqRDlETE9jRWRUWnFnX2dDYVoyXzR5MTg2UER3eFNSS1h1ekJwND"
+      "published": "Tue, 08 Sep 2026 12:08:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQblFlSDJHdXg5VE5lcndGYkYyY29VNnVKb045VE5hNGpYNXdGaS1aODFCa2laTmxUMkc0M3FYS2NFY1RUS3lrZXVOQjRvVHdqN1VtVGd1MktHUHZiN2FjMHh5V3BMbG5lU1lRRE1XRkFFSDlzSHlpN3JHWHU2c0RTSWVVdWtTUDJidDd1c1pHY2JZTEpxWUFVdGU1UlRfZFJlRFkxTXBacDJhMGY0Y3pEcWNGek9WV2tPaX"
     },
     {
-      "title": "eCommerce Day Argentina 2026: inteligencia artificial, omnicanalidad y expansión regional, las claves del futu... - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPVVVpdFhaeGFzaklGVFlpeVVSWFZ0Ni0zcF9UcEJyMVFiMVBVVmFfLVpJVi1oOHFwS3BxZ1pqZEwwZmlwbV9LSEhOT2pTZFNVOTNlRVNXREI2LW1nMDdOaVNmRzROek4tbW5ONlN2UFZUdzRjWjI1Qk80Q1FXZ3JVbTd4QzhJR2wya3pWbjAwMmI0RThzNTB2ZE93ZV9tb096Yk1EVG50NnowLWl2aVVvQlJaN2VvS2ZFMktLN1FIQzkzRnBDZ3V5RUZJSHJyQWRwUWFuMUxnWlN2S2V6SzZMa3VFZ0pYNzJaT1gxV1pPaktFQklRTnYycFlHanpyajNDMGNZVjQtZVRyRVFUU043U3dGRdIBmAJBVV95cUxOYXNNRWIzbXF0aTFEdWstTlVyLTVoN01PaHpJQVI4QzM4UEpuMFRKTjA0Ukk1M2xrdEJEOE5Fc3JBdDh3c2NWUl9MbXFsUl9NYTlNak5sSFBpNm1BbmNvWjZvRDlZR1huaEdNUXhMTU9tRjlEY0JtQ3VNTE94cENwYk5TSDVTRjRtY2EzOWY1Q3MtRzJRcGpmMXB0bUdQdmFndEctSEl4T01xb0gwVEhwcjNSckpRMkZMbkhlMUVCa3o2cDZIMVpfczF0b3hEU2RlS2VuTElzenlWRWdDMDBYZ21sOUJPSXk5Y2RYaWpDR1hOYXhYVE9Ma18zRnY4LUdFVTI0T1lDYWl5Sk1LejBMeVFoZGF1N1hJ?oc=5",
+      "title": "TCL mostró en IFA 2026 su apuesta por la inteligencia artificial y anticipó nuevos celulares y tablets para la Argentina - La Voz del Interior",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR05LWW0wVFVIM3VvTXJFTkp2WVBnallzZWQ0RUJIUXJVOV93RjJrLVA2bXFfRE5MQk5SZDJQX2JtT01CQUtQVnB4QXRIQ3lGWmJfNExXWnFqWVNJZVozSW92dldxWjVpQ1ZOTEZTcFh2OUI3T3RlNU40M1J0ekRzaXEtaV96UEdZdEVsSndpWWFIOTRXRThVT0hMNXdWVUQ4RzdzXzM1Ukh4Qk1WUTJ2cnJ0MDFhYnRhQnRpY0xISUFKVFFJOFFGOGVVOHoyR3NiZk1BV1Rscm1GSDZsSm9xWFU4Yw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 19:11:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPVVVpdFhaeGFzaklGVFlpeVVSWFZ0Ni0zcF9UcEJyMVFiMVBVVmFfLVpJVi1oOHFwS3BxZ1pqZEwwZmlwbV9LSEhOT2pTZFNVOTNlRVNXREI2LW1nMDdOaVNmRzROek4tbW5ONlN2UFZUdzRjWjI1Qk80Q1FXZ3JVbTd4QzhJR2wya3pWbjAwMmI0RThzNTB2ZE93ZV9tb096Yk1EVG50NnowLWl2aVVvQlJaN2VvS2ZFMk"
+      "published": "Tue, 08 Sep 2026 12:35:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR05LWW0wVFVIM3VvTXJFTkp2WVBnallzZWQ0RUJIUXJVOV93RjJrLVA2bXFfRE5MQk5SZDJQX2JtT01CQUtQVnB4QXRIQ3lGWmJfNExXWnFqWVNJZVozSW92dldxWjVpQ1ZOTEZTcFh2OUI3T3RlNU40M1J0ekRzaXEtaV96UEdZdEVsSndpWWFIOTRXRThVT0hMNXdWVUQ4RzdzXzM1Ukh4Qk1WUTJ2cnJ0MDFhYnRhQn"
     },
     {
-      "title": "Patagonia atrae inversiones para megacentros de datos e inteligencia artificial - Rumbo Minero",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEozV2ljektqTWU1UURWMEdHdWdIVVhQNFNrSG1RaVI4a0lTaERVMXF4NFhvNGV1d1h0cm00VHExUDhTelhGWWZ4OEpEWXpPM3hXMEdtY002RlBtZS1FTmZFT0FxNG5ZMXFvZ3MxeV9rS0M5eTlmSEFab0xKai1sOGJyWFcwY2h0ZmtWSUwtQUpTcmZhUGUzNDlJTWlxSnIwdVBFaVVRbmtGTU5jOTdfYzJsalhBUQ?oc=5",
+      "title": "Baravalle participó de un conversatorio sobre inteligencia artificial y tecnologías emergentes - Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjE0TnFsc2I1MmtaSlJma3k1dUFwTm9STmdSYXNrUTNWU1Q2UUd1STM3NnY0WHFCNS1pa0t1bVh4T0NLakhIYzVtTGU0WkppRUN1QUtHMWpaZlB3blV3NFMxbFBEck5HRG9sMFJIdzZPOXM3ZGJCb0Zrcy1TTzhTT1ZMekJQLU9VdjBpSWc0N3lQTUgxcnZIMDJNMmhhOWJOd0tHRHVlVzRJM1J4V1o2a21zUFBVSTZ0a2xWZU9n?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 14:28:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVEozV2ljektqTWU1UURWMEdHdWdIVVhQNFNrSG1RaVI4a0lTaERVMXF4NFhvNGV1d1h0cm00VHExUDhTelhGWWZ4OEpEWXpPM3hXMEdtY002RlBtZS1FTmZFT0FxNG5ZMXFvZ3MxeV9rS0M5eTlmSEFab0xKai1sOGJyWFcwY2h0ZmtWSUwtQUpTcmZhUGUzNDlJTWlxSnIwdVBFaVVRbmtGTU5jOTdfYzJsalhBUQ?oc="
+      "published": "Sat, 05 Sep 2026 00:54:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjE0TnFsc2I1MmtaSlJma3k1dUFwTm9STmdSYXNrUTNWU1Q2UUd1STM3NnY0WHFCNS1pa0t1bVh4T0NLakhIYzVtTGU0WkppRUN1QUtHMWpaZlB3blV3NFMxbFBEck5HRG9sMFJIdzZPOXM3ZGJCb0Zrcy1TTzhTT1ZMekJQLU9VdjBpSWc0N3lQTUgxcnZIMDJNMmhhOWJOd0tHRHVlVzRJM1J4V1o2a21zUFBVSTZ0a2"
     },
     {
-      "title": "Buenos aires frente a la transformación de la inteligencia artificial - Cenital",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWDFDLS1LaC1sWXN3dGNKbUxmQXhQTWp2cFNmQTUxYjJwRnpSOWZMM0hhRXFGN3pHa0RZU1hoNi1zUHdkS3ZxNU5DTXJVUnZ2SzJOM21MX1Uza18wNGgwTl90SFBuZGktNm9NRElDY3dZODNVc296aVhYN1Jkc1oyQzZ0bjVQUE9MeUJDZ1ZsTm5jQQ?oc=5",
+      "title": "El criterio de Vitalik sobre Bitcoin y la IA no es el que usa el mercado - CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamtDNDFOQVRZT3N4NHdsdS1haXhfVU9qV1JadDJPWWpnaGt1SkNBZDk5aTNBRnNRS3FpcFZhcVNKUVVaWVVBbllJdHpNVGFucS01OGdNaExfRWtUQTVWelFmZTBYQWNMdUFNUFJ1aFJrT1AwRHVlLWNpLUFDa3NvNUlFQTlVaUtIUWhjdDduaHNUQUJrRmJZaFlqdjMwR2huT1IyYg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 14:49:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPWDFDLS1LaC1sWXN3dGNKbUxmQXhQTWp2cFNmQTUxYjJwRnpSOWZMM0hhRXFGN3pHa0RZU1hoNi1zUHdkS3ZxNU5DTXJVUnZ2SzJOM21MX1Uza18wNGgwTl90SFBuZGktNm9NRElDY3dZODNVc296aVhYN1Jkc1oyQzZ0bjVQUE9MeUJDZ1ZsTm5jQQ?oc=5\" target=\"_blank\">Buenos aires frente a la tran"
+      "published": "Tue, 08 Sep 2026 13:40:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOamtDNDFOQVRZT3N4NHdsdS1haXhfVU9qV1JadDJPWWpnaGt1SkNBZDk5aTNBRnNRS3FpcFZhcVNKUVVaWVVBbllJdHpNVGFucS01OGdNaExfRWtUQTVWelFmZTBYQWNMdUFNUFJ1aFJrT1AwRHVlLWNpLUFDa3NvNUlFQTlVaUtIUWhjdDduaHNUQUJrRmJZaFlqdjMwR2huT1IyYg?oc=5\" target=\"_blank\">El cr"
     },
     {
-      "title": "Buenos Aires lleva la IA a las aulas mientras Nueva York la prohíbe para los más chicos - inteligenciaargentina.ar",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZlJSWHhvR2J2WTZhN1RrZDNETE1yQzRfaTdtWGY3REtlWVY2TWdkN2JTT3Q5OTRSWlFGdE8tSlhqeVoydTgzVHJ6NWVpcUdGSmdXVUNldDljNmVMS0tvVnNlQW5nZVpQUk1mV0FVaWZ5ejQxd1E0emZjOFl6bWJMWFBQUERxaHNjYXJsODdzMEJ0NTZtVWZJMXd5a0NoSHlFQm1JTWRNRGZjMTUwVVZGNVlHUzBFdl9laVB2Rm05alE5ME4xbVRXM0g1dEJoa3hh?oc=5",
+      "title": "Escuelas porteñas: Expertos debaten la obligatoriedad de enseñar Inteligencia Artificial frente a enfoques divergentes a nivel global - Rosario Finanzas",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEVuSVllMHBvNUtGcGQwREZnWkVrcnIzT1RmWUlXeEJPdmdJZ2dLQnNSS1Z2T2FzdnFkaEF5bVVpaVpZYkRBRlR6aG8zWEpNNjVBa1k1VDFlNmE5d091UEoySmo4VnVWeTFBQWtpamJYSWlMVWN0RGc1NGRhZ0o2eEE5djY0b2lWQkVOekpJM21tc3hUa25BS0dQNU9TMnBLcWFKcGl1aWRvMVY4dktYQW1tcV9PWjdDS3Byb090alpGaWFrYWRTaUxha0x4UkZGOXpoWkFIV1RsSDdNLW5hSEJSNW11dnBDaUxpOQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 11:31:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZlJSWHhvR2J2WTZhN1RrZDNETE1yQzRfaTdtWGY3REtlWVY2TWdkN2JTT3Q5OTRSWlFGdE8tSlhqeVoydTgzVHJ6NWVpcUdGSmdXVUNldDljNmVMS0tvVnNlQW5nZVpQUk1mV0FVaWZ5ejQxd1E0emZjOFl6bWJMWFBQUERxaHNjYXJsODdzMEJ0NTZtVWZJMXd5a0NoSHlFQm1JTWRNRGZjMTUwVVZGNVlHUzBFdl9laV"
+      "published": "Tue, 08 Sep 2026 14:17:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEVuSVllMHBvNUtGcGQwREZnWkVrcnIzT1RmWUlXeEJPdmdJZ2dLQnNSS1Z2T2FzdnFkaEF5bVVpaVpZYkRBRlR6aG8zWEpNNjVBa1k1VDFlNmE5d091UEoySmo4VnVWeTFBQWtpamJYSWlMVWN0RGc1NGRhZ0o2eEE5djY0b2lWQkVOekpJM21tc3hUa25BS0dQNU9TMnBLcWFKcGl1aWRvMVY4dktYQW1tcV9PWjdDS3"
     },
     {
-      "title": "IA en el trabajo: 63% la usa para ampliar capacidad laboral - AM 1350 Radio Buenos Aires",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHNjd3NKVjQ1X3pobmxmb3k3cEc4aHpNb0R6bHlrakVkcFMybjlrUXpBZmN3ZGRubWhyU3d6SURrbk9tVVNzWVMzeGVsMXdsV1U4d3QwcV9hXzZJX1JQaHpMcEY5WE1QMERKcFZGNHg2OTdkbGdHVmxfTkFoNXBmTHhudk9YX0JqTGlmd1JnenItb2ZhalZhVQ?oc=5",
+      "title": "SAP presenta en Buenos Aires la empresa autónoma: el futuro de los negocios con IA, datos y procesos inteligentes - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSmxKSG5UVjA2dWE2TjBvcWw1NUJaT21zanZxMDdfMU9HMXlLYlJxeXJHYVJBVS1zZHA4VGZocDVmc0hrZTZMdW5ia1VDcjZiUlE5ZUhXd09CMklWRWJrVU90c3BkTjNEdlZ2WElxSFJtQm9PdlJWeW1MVEdqc1pJeWs4YnRiYTRaQTVBR0o0djV2SU5EeHFCd0czMTY4Z01ieEpFNDBJVHRsY1RHQVlMQThHaks4T1RtSE5qejRlbERvRGlTOFVTd200Y2xyNzRsOG1RVWVqbmh6d3ZWczdPaWF1dWjSAeoBQVVfeXFMTklHallxakxudTJhS2FOXzMxNzVLYzZ4cG5TLW5DZXMtNzQzakUybU5rcmt4LUNUUUFWWGtkWGN5ZWhJOU80TFJaN2lTNE1wTjdVa0VhY0V6U19DX1pTOVlVemNTUVVjS29kVktucFZXcWNxOU1OcGxGUTZYZFczWGpGQjFxWUZqaUVldTBKVW5wc0tEUjl5Nm9peGxtNHlPcXA3aXdmZ3JJM0VYbHM3WEJQTnR1NWJxMnRzX2c3Ykp0MnFRNTRyZ3BIRmNqNmxmcXljb2pNSmVVOTc4aXhzNFBHdUp6emdremJR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 14:17:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHNjd3NKVjQ1X3pobmxmb3k3cEc4aHpNb0R6bHlrakVkcFMybjlrUXpBZmN3ZGRubWhyU3d6SURrbk9tVVNzWVMzeGVsMXdsV1U4d3QwcV9hXzZJX1JQaHpMcEY5WE1QMERKcFZGNHg2OTdkbGdHVmxfTkFoNXBmTHhudk9YX0JqTGlmd1JnenItb2ZhalZhVQ?oc=5\" target=\"_blank\">IA en el trabajo: 63%"
+      "published": "Fri, 04 Sep 2026 13:03:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSmxKSG5UVjA2dWE2TjBvcWw1NUJaT21zanZxMDdfMU9HMXlLYlJxeXJHYVJBVS1zZHA4VGZocDVmc0hrZTZMdW5ia1VDcjZiUlE5ZUhXd09CMklWRWJrVU90c3BkTjNEdlZ2WElxSFJtQm9PdlJWeW1MVEdqc1pJeWs4YnRiYTRaQTVBR0o0djV2SU5EeHFCd0czMTY4Z01ieEpFNDBJVHRsY1RHQVlMQThHaks4T1RtSE"
     },
     {
-      "title": "Una startup argentina lleva tecnología al megaproyecto Argentina LNG - iproup.com",
+      "title": "GRIDX, venture builder biotech que arma 90+ startups en LATAM - ecosistemastartup.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNno2Z1ctS3lBZkh1UHI4aXhRWTVtTUl3N2RlMlRPUUxzb0d3dnZqSDgxcHJ6alJvTXlMcmVJdzJJN24zU2FXN1VmaWp6bDl0RDJTak84WDh2SDF6amRULVNPQmpmLUdSUHNwTnVFdmhsc3kyY0ZuWjYwdTRhRk9iNmJRNWxWaTFnb0RfOS0zQmk3MDY0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 05 Sep 2026 14:51:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNno2Z1ctS3lBZkh1UHI4aXhRWTVtTUl3N2RlMlRPUUxzb0d3dnZqSDgxcHJ6alJvTXlMcmVJdzJJN24zU2FXN1VmaWp6bDl0RDJTak84WDh2SDF6amRULVNPQmpmLUdSUHNwTnVFdmhsc3kyY0ZuWjYwdTRhRk9iNmJRNWxWaTFnb0RfOS0zQmk3MDY0?oc=5\" target=\"_blank\">GRIDX, venture builder biot"
+    },
+    {
+      "title": "Una startup argentina lleva tecnología al megaproyecto Argentina LNG - iProUP",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzlmT1RsMVUyNlY2akh1cTFubTNPQTg2Q3J5NWJBQWtVZ2piQl9nWENOUTgzNDh4UWFtczlzbk53aS1KcHFFUHpzRGhOMENPcXJFR0l1RVlHTjFPN2VPS0Q0QnJCT01SWUhBQ0NvOUViR1ZFdEZwVWMyVmNITVN5ZDlfVFlwUHVRQURqXzdIX0JFV21RY3l1RXJkTWxCZi1CMGVHdUhDQXpqUdIBrwFBVV95cUxOdWlwQ2hUOUVGQkdWdF8zNzVSN1FPU1ZjMzNGTVRxdzBTN01ZUFdZbktJSkFOWFduaEdqbWZLUl9XU0ZObWVDT0k1cEplb1ZpZUgtUFRaTnJqdU1kc29IdVBSdG03Tldfa0tHdC0tYXl1Z2RnM21CQkM5d0oxU1ZwN2JpSXVCZmlTcF9Yc01URTdoYTd1elV4N2hhcTFqUmFCdHhCZUtuSHdnZm1nN1Z3?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 02 Sep 2026 19:45:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzlmT1RsMVUyNlY2akh1cTFubTNPQTg2Q3J5NWJBQWtVZ2piQl9nWENOUTgzNDh4UWFtczlzbk53aS1KcHFFUHpzRGhOMENPcXJFR0l1RVlHTjFPN2VPS0Q0QnJCT01SWUhBQ0NvOUViR1ZFdEZwVWMyVmNITVN5ZDlfVFlwUHVRQURqXzdIX0JFV21RY3l1RXJkTWxCZi1CMGVHdUhDQXpqUdIBrwFBVV95cUxOdWlwQ2"
-    },
-    {
-      "title": "UIN levantó US$2 millones: la startup argentina que busca crecer en América Latina - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUWdsdjRlZUtjRmdiZkxGU1ZFdVFnRjc0Sm9BTTJiWjZEdGtFVC1BM1pVZHNoUTM3eXFXVlc0T2tpTnNuMXNlVnVkWHpmcjJYRTlkVzBYLWpQa05ibU9IRm9jRXd4S2p0SDNvQnE5OGRIR0xHQ01TdFROcGk5WlZfR1lqNXZodU9qMEUtcUlyT1YxSE5kc0JtMnNjZGc5aWtIUGZvTDVmZFNkUzdRckV2UzlmeENoN1NJMUNnYktfeTVvMlFYazFQcjZESDFiNEpRcGtQcmx3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 04 Sep 2026 19:56:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUWdsdjRlZUtjRmdiZkxGU1ZFdVFnRjc0Sm9BTTJiWjZEdGtFVC1BM1pVZHNoUTM3eXFXVlc0T2tpTnNuMXNlVnVkWHpmcjJYRTlkVzBYLWpQa05ibU9IRm9jRXd4S2p0SDNvQnE5OGRIR0xHQ01TdFROcGk5WlZfR1lqNXZodU9qMEUtcUlyT1YxSE5kc0JtMnNjZGc5aWtIUGZvTDVmZFNkUzdRckV2UzlmeENoN1NJMU"
     },
     {
       "title": "Startup argentina crea microseries con IA y facturará USD 3 millones - iProfesional",

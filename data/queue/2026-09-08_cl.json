@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Coquimbo tendrá hasta cuatro días seguidos de lluvia: revisa los sectores afectados",
+      "url": "https://www.latercera.com/tendencias/noticia/coquimbo-tendra-hasta-cuatro-dias-seguidos-de-lluvia-revisa-los-sectores-afectados/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 08 Sep 2026 13:48:41 +0000",
+      "summary": "El pronóstico del Centro de Estudios Avanzados en Zonas Áridas (Ceaza) anticipa lloviznas y chubascos para distintas localidades de la región."
+    },
+    {
       "title": "La dulce obsesión de los turistas brasileños en Chile: ¿por qué compran tanto Sahne Nuss?",
       "url": "https://www.latercera.com/tendencias/noticia/la-obsesion-de-los-turistas-brasilenos-en-chile-por-que-compran-tanto-sahne-nuss/",
       "source": "La Tercera Tecnología",
@@ -11,39 +19,47 @@
       "summary": "Este chocolate se ha transformado en un clásico souvenir entre los turistas brasileños que visitan Chile, al punto de que en redes sociales se han viralizado registros de visitantes comprando varias barras para llevar de regreso a su país."
     },
     {
-      "title": "Caen las temperaturas y vuelve la lluvia: revisa el pronóstico para Santiago esta semana",
-      "url": "https://www.latercera.com/tendencias/noticia/caen-las-temperaturas-y-vuelve-la-lluvia-revisa-el-pronostico-para-santiago-esta-semana/",
+      "title": "Un tratamiento contra el cáncer logró una remisión de la artritis reumatoide grave, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/un-tratamiento-contra-el-cancer-logro-una-remision-de-la-artritis-reumatoide-grave-segun-un-estudio/",
       "source": "La Tercera Tecnología",
       "category": "tech",
-      "published": "Mon, 07 Sep 2026 13:51:55 +0000",
-      "summary": "La lluvia volvería a Santiago esta semana. Revisa el pronóstico, los días con mayor probabilidad de precipitaciones y las zonas más afectadas de la Región Metropolitana."
+      "published": "Tue, 08 Sep 2026 09:03:00 +0000",
+      "summary": "Los pacientes recibieron el tratamiento en la Charité – Universitätsmedizin Berlin. Los investigadores, quienes publicaron sus hallazgos en Nature Medicine, sostienen que los resultados de un primer ensayo con seis pacientes son alentadores."
     },
     {
-      "title": "El hábito que aumenta el riesgo de cáncer de próstata hasta en un 30%, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/el-habito-que-aumenta-el-riesgo-de-cancer-de-prostata-hasta-en-un-30-segun-un-estudio/",
+      "title": "Los GLP-1 como Ozempic y Mounjaro podrían “remodelar” el cerebro, según distintos estudios",
+      "url": "https://www.latercera.com/tendencias/noticia/los-glp-1-como-ozempic-y-mounjaro-podrian-remodelar-el-cerebro-segun-distintos-estudios/",
       "source": "La Tercera Tecnología",
       "category": "tech",
-      "published": "Mon, 07 Sep 2026 09:03:00 +0000",
-      "summary": "Un estudio realizado en más de 17 mil hombres detectó una asociación entre un tipo de alimentos y un mayor riesgo de cáncer de próstata."
+      "published": "Tue, 08 Sep 2026 09:02:00 +0000",
+      "summary": "Distintas investigaciones encontraron cambios en las conexiones cerebrales tras el uso de fármacos GLP-1 y GIP, aunque sus efectos todavía no están completamente claros."
     },
     {
-      "title": "Cómo la respiración puede influir en la actividad cerebral y la toma de decisiones, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/como-la-respiracion-puede-influir-en-la-actividad-cerebral-y-la-toma-de-decisiones-segun-un-estudio/",
+      "title": "Estas son todas las regiones de Chile que tendrán lluvia esta semana, según el pronóstico",
+      "url": "https://www.latercera.com/tendencias/noticia/estas-son-todas-las-regiones-de-chile-que-tendran-lluvia-esta-semana-segun-el-pronostico/",
       "source": "La Tercera Tecnología",
       "category": "tech",
-      "published": "Mon, 07 Sep 2026 09:02:00 +0000",
-      "summary": "El trabajo se centró en cómo la interacción de diferentes órganos puede influir en la función cerebral y la toma de decisiones. Fue dirigido por científicos del Instituto Alemán de Nutrición Humana Potsdam-Rehbrücke y la Charité – Universitätsmedizin Berlin, en colaboración con otras instituciones."
+      "published": "Tue, 08 Sep 2026 09:01:00 +0000",
+      "summary": "Lloviznas y chubascos se esperan durante los próximos días en distintos puntos del país. Revisa qué zonas tendrán precipitaciones y qué se anticipa para Santiago."
     },
     {
-      "title": "Científicos desarrollan un tratamiento que podría ayudar al cerebro a regenerarse después de un ACV",
-      "url": "https://www.latercera.com/tendencias/noticia/cientificos-desarrollan-un-tratamiento-que-podria-ayudar-al-cerebro-a-regenerarse-despues-de-un-acv/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 07 Sep 2026 09:01:00 +0000",
-      "summary": "Se trata de un biomaterial inyectable, el cual según los autores de la investigación, puede contribuir a transformar la cavidad resultante de un ACV causado por un coágulo sanguíneo en un entorno más propicio para la reparación."
+      "title": "IA, data centers y dinero digital: las transformaciones que están redefiniendo los negocios en América Latina - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObTlsTkliQWxvczNsSU9xeEd5WUF3OS1QWGE2TW1CRXBTZ2VUREd3WmdUNE40WHdxdl8yXzlNUFg3ejgwZlFGZ0tFRWQ0MThqUjFwcUxBaWlUemFpY1UtcDRCaXlEdnJ6WDAyQm43YWxUb0kzQXRmcjBma2xNNHQ2RXRXTkVYaWR1dlhLYWlpNVRNNGpkZlItcmlGd3N2cXg3Z2xGekFHWVRjZ2dkaEZBSlpOOUZ4UVp1V3VaenZJRkhiTGNzYndIVUJnd1VMT1VWMThUSTFfMkxuaW54NDVjOW5EdzZhRy1kM3FDblpJTjVWQdIBjAJBVV95cUxNek1jckplQkJjVDVkRUJiZXZOUnA3cmxhdm5IRFBzUm01bFhZRHVfWXdnZ0dRc2d6UlpfaTA4V2Q3VWpGek1kSVAxUVk2Q25DUUpwTWZSUWNEb3R2bEpKb3N0QWNnZFhSRlhmUGF0Mi1USFJVMlhfbmNKOGRrbmQyVHhiQkFDZzdtdHZBU2I0V1h0dHFLclo3NTdaZEhndmdrM2tyRUJHUGgtTktWQlZkekg2Q1J5N2hkOWFmUWMxQko5S3Z6VDU0MjhFVmx6TGk3VVdVczE2QVZRZW95VEFsTXBYeWVUTnV1Nk1md1F2aWlVNE94blBNeHFrUzdCWmJuOEplZVVzZUEyTXlI?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 08 Sep 2026 17:44:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxObTlsTkliQWxvczNsSU9xeEd5WUF3OS1QWGE2TW1CRXBTZ2VUREd3WmdUNE40WHdxdl8yXzlNUFg3ejgwZlFGZ0tFRWQ0MThqUjFwcUxBaWlUemFpY1UtcDRCaXlEdnJ6WDAyQm43YWxUb0kzQXRmcjBma2xNNHQ2RXRXTkVYaWR1dlhLYWlpNVRNNGpkZlItcmlGd3N2cXg3Z2xGekFHWVRjZ2dkaEZBSlpOOUZ4UVp1V3"
     },
     {
-      "title": "UST aborda los desafíos de la Inteligencia Artificial en Chile - Santo Tomás en Línea",
+      "title": "Ciberataques con inteligencia artificial: crece su presencia en empresas de Chile - Opinando San Nicolás",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjhsTmlmc2NMQ0ZoZzl6TmxYOGRxQU5zemwxY2pZc09UaFFpUm5GM3FVWURPc0duaW5iZEZDcC1tRWJGenBXSmJIbnI5STRMazI4NXU4ZFdqVHhDLXFuMEFPQ0hNT1ZMSW5FYm9UaWctVnFBRG5jWXNfOGtCS1hnMFgwQWJRYjJYYkFRR1hPRi01d3owZ3pIVGd3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 08 Sep 2026 12:05:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNjhsTmlmc2NMQ0ZoZzl6TmxYOGRxQU5zemwxY2pZc09UaFFpUm5GM3FVWURPc0duaW5iZEZDcC1tRWJGenBXSmJIbnI5STRMazI4NXU4ZFdqVHhDLXFuMEFPQ0hNT1ZMSW5FYm9UaWctVnFBRG5jWXNfOGtCS1hnMFgwQWJRYjJYYkFRR1hPRi01d3owZ3pIVGd3?oc=5\" target=\"_blank\">Ciberataques con in"
+    },
+    {
+      "title": "UST aborda los desafíos de la Inteligencia Artificial en Chile - enlinea.santotomas.cl",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUXZBejl0QW11bnpWbTUwY1U1ZVRQRGUwUDhlRnRwVEJQdEJkdU5OenBoVWZJM2QyaE1kSVBUNFVZVFBsRWE0QUZKTkFRN09aMy1HS1d5cUJoMHQ2QVJKSTZNUV85Ri1sVG1rVmtLb21GR0JfZ1Z0d04xZW96WUJvZjRVQVVxbjVDbW1lLVpCVkw4UDlXV1g5OElnb0d4YmdfZWdtNEhveVF3alhpWDNSTWxhc1ZwLWVMa1EzWFBDSjFlNGM?oc=5",
       "source": "Google News",
       "category": "news",
@@ -51,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUXZBejl0QW11bnpWbTUwY1U1ZVRQRGUwUDhlRnRwVEJQdEJkdU5OenBoVWZJM2QyaE1kSVBUNFVZVFBsRWE0QUZKTkFRN09aMy1HS1d5cUJoMHQ2QVJKSTZNUV85Ri1sVG1rVmtLb21GR0JfZ1Z0d04xZW96WUJvZjRVQVVxbjVDbW1lLVpCVkw4UDlXV1g5OElnb0d4YmdfZWdtNEhveVF3alhpWDNSTWxhc1ZwLWVMa1"
     },
     {
-      "title": "La inteligencia artificial y el verdadero desafío de la productividad - Portal ERP",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUxseGpwSXc0VWc3TWNXbURiUk1sYmFhNGtsMzZUSGhmbGRvMzNwUHB3R01WOE52amhKS3RzaWhEYlBvd2ZDSVBPWnhxeVlVT1hmSjlhaXdadTN2TElNUkpRTTF6amlqclc3bmYxdXRVdF90LW9kSVQ0RG5TZkxOZ0FvS3BnUTM1a0w3NUF2M2tMblphc1BweHVZNlRia0FpOHZCUHpB?oc=5",
+      "title": "Debate en redes por noticiero con IA de Santiago Siri: críticas a subtítulos y calidad del contenido - Noticias Ambientales",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXJOd0labFBHYW5iS2IwSVBpYTRKZ0d4emlhUHFmd20ycDFPY1pxYjMzeW54UnFIX0U0Z2IwOWlxMWI5bWxwZFFuREJ3d0hpa04weXZOaWVUSVZyY2pJemNPcnhKdjlDdjlMazNwd2Y4N0ZOYjBOYnBQMW5PTFJ6cjluSlc1VlllUEI0RmU2VjBRWi0zbUk3aHNEaVUzcWQ2RTU0V01MSk5kSGJQcDBWWQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 02 Sep 2026 18:43:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUxseGpwSXc0VWc3TWNXbURiUk1sYmFhNGtsMzZUSGhmbGRvMzNwUHB3R01WOE52amhKS3RzaWhEYlBvd2ZDSVBPWnhxeVlVT1hmSjlhaXdadTN2TElNUkpRTTF6amlqclc3bmYxdXRVdF90LW9kSVQ0RG5TZkxOZ0FvS3BnUTM1a0w3NUF2M2tMblphc1BweHVZNlRia0FpOHZCUHpB?oc=5\" target=\"_blank\">La "
-    },
-    {
-      "title": "Impacta IA 2026 reúne a más de 600 personas para acelerar la adopción de inteligencia artificial en los negocios - Fundación Chile | FCh",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVVk5Sm5rdWFoT3NQenFYeDc0VE9JcFJqMVQ0WXdrYnVIMkNjUjlJWTItN1RFVmg0VC1wRmcxbXZ0RW1NQlEwNklnRXg0OE9kNWVhVFQ4aW5OUHQ5azAtWlBvcEY5WmRHZDlDWm5IYzItSjZ5bVFNdE1sN1h1dXc0UFRweW1xckVTQTJGd1hmUEVGOG9UTkxseWtkb3B0NU14TlNDYWpiS0xFNWVfTVhJc0tLOFI3aVhNX2twZzd2WlFMUlR0UzAzMGN5RUhLS1hBNGNB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 07 Sep 2026 12:34:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVVk5Sm5rdWFoT3NQenFYeDc0VE9JcFJqMVQ0WXdrYnVIMkNjUjlJWTItN1RFVmg0VC1wRmcxbXZ0RW1NQlEwNklnRXg0OE9kNWVhVFQ4aW5OUHQ5azAtWlBvcEY5WmRHZDlDWm5IYzItSjZ5bVFNdE1sN1h1dXc0UFRweW1xckVTQTJGd1hmUEVGOG9UTkxseWtkb3B0NU14TlNDYWpiS0xFNWVfTVhJc0tLOFI3aVhNX2"
+      "published": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXJOd0labFBHYW5iS2IwSVBpYTRKZ0d4emlhUHFmd20ycDFPY1pxYjMzeW54UnFIX0U0Z2IwOWlxMWI5bWxwZFFuREJ3d0hpa04weXZOaWVUSVZyY2pJemNPcnhKdjlDdjlMazNwd2Y4N0ZOYjBOYnBQMW5PTFJ6cjluSlc1VlllUEI0RmU2VjBRWi0zbUk3aHNEaVUzcWQ2RTU0V01MSk5kSGJQcDBWWQ?oc=5\" targe"
     },
     {
       "title": "Polémica por un noticiero hecho con IA: los usuarios criticaron los subtítulos y la calidad - Perfil",
@@ -75,23 +83,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSU1YV3hvRlQxTFFaZ1ZWTURFbUR0dHJ1NnpxVlJSWVFYZ25LQ3JxdlNycl8tQnNiVDBadFMzbHRlVGlRaFEybkloQmZiVzFja3hnU2JpZngtMWJzX0lrRmRkcXhPTGY0SHlQSU5JWXhIeWVDOEN1dWFxUlJWT2IwdFRwVlZUa1VndXVScF82VkV2RnlXZTh6Rks5blhRbUVjUERsbTctMlI0aVlSV1IwbXJ3TnVRN3VLWl"
     },
     {
-      "title": "Santiago Siri lanzó un noticiero con IA y recibió fuertes críticas - Bardeo.news",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3J1T2VzYWVWeXdlSmtxaTZmWUJZOWNSVFBRdDhlelVRZGdtOVRGMERpbGE3aGNycFpISXdYVWhhRVBXbFlvUVNHUkp0X25acXpzWXd1RlNFQzJvWHlDUEtiYzN0LW9RU3dRaXdTNENyTnhsOFc1ZjM5VW9TZk9pcGtTa1hpLUFpSFpqbVdRUlFJdlkwX1hxaFpVRmFUWGFIWXVuREotU2ZDSDZyZFZXSEJ4dklnRHVsZm9ZTDdn0gHMAUFVX3lxTE5LLWUxTDEtaGM0QjUxeFBVRFY4WDBvU1R2X3otT0l3NmhhRjRjOWNreXlxWnM2TjQ2T2l5bVROSWk2dERVTlFRb2h1N0VBY2RfZGwxVmQtYjFXeW5BZzE2b1FnQ0NuUm1MY3BMbmxwdVpMVjdMRkR0T041cEhBakRVaXZ6b2ZTeTBaZHhHUEl1WmRqSGRWazlEMGdyeGFXdE9DcGQ4bDhicXRmRF9nakdlY3kzRDBWZHl3UUdEOURqT29rLWlWOFozRWlteA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 07 Sep 2026 18:47:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3J1T2VzYWVWeXdlSmtxaTZmWUJZOWNSVFBRdDhlelVRZGdtOVRGMERpbGE3aGNycFpISXdYVWhhRVBXbFlvUVNHUkp0X25acXpzWXd1RlNFQzJvWHlDUEtiYzN0LW9RU3dRaXdTNENyTnhsOFc1ZjM5VW9TZk9pcGtTa1hpLUFpSFpqbVdRUlFJdlkwX1hxaFpVRmFUWGFIWXVuREotU2ZDSDZyZFZXSEJ4dklnRHVsZm"
-    },
-    {
-      "title": "La startup Primero anunció una ronda de inversión semilla de US$12 millones para uso de IA - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGZaOG1NaXJVWWwyNUhibTdnampiSXZCY3JZWGwwdEFMdVNYZG51c2hJNWVTalF5Qm5yb2pVR21pU0JEUERjSEtmSmt0YVl6bG1Ddlgzd0JUSWdZLThsaHNYNkltRzdRNmVGUVdKU19JcFdYOTU0blBkRExnU0M2Q0QzRlRxUE9QQmZYejQ1aGVLTTM0aVNRenZkUktWV2hMcVRXd1NSbFYxTENSeGdTMmphZnN3bllBQjY0YUN3RFBRdDNORlpYUmU0RDhGbWPSAc8BQVVfeXFMTzFaYVhIcENuSHA3b3d1NnRmc0FrYm1RNzNkNkFBN3M3dS1uczhuOXJnS2x5WFdQZXdIOGxXdi1PRlh0UVM4MVNVQjhZZzlvYUVzd1U4YlZlLW5fdkJlNjhnbko4endUR1pMdldzcWh1OHpNLURmZEdOTnRYcmpvX0d5bE9ISW1HRlNQRk1pOTdqWWpQa2FyNjJIZVFEUHlvcXE5eW03c0RwSFRINk5zTTE5VXZyRWVNeVplYVFoZ3kxcUVsaU9OMkZSRmRkRDVJ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 31 Aug 2026 23:50:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGZaOG1NaXJVWWwyNUhibTdnampiSXZCY3JZWGwwdEFMdVNYZG51c2hJNWVTalF5Qm5yb2pVR21pU0JEUERjSEtmSmt0YVl6bG1Ddlgzd0JUSWdZLThsaHNYNkltRzdRNmVGUVdKU19JcFdYOTU0blBkRExnU0M2Q0QzRlRxUE9QQmZYejQ1aGVLTTM0aVNRenZkUktWV2hMcVRXd1NSbFYxTENSeGdTMmphZnN3bllBQj"
-    },
-    {
-      "title": "CNP entrena a startups para vender tecnología a la minería - El Ecosistema Startup",
+      "title": "CNP entrena a startups para vender tecnología a la minería - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjkwN0NJQ3VCaF9PSGh2YVZ1NDFkYVpIVHVwQ1dSZVNfX0JGUG4zWGFBVi16aTk0UkszcjUtMk1XQWFvekV2Q1JWREl1QWZncXlTRUVLVjF4MzFpeVVQeHFBaVc4aEpoMHN4Tkc5bU11TmIyQkJWV3dFNUJMS0JfNm95N2hyNlNHNExZQWNEWXh0Rk0?oc=5",
       "source": "Google News",
       "category": "news",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Tue, 11 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3FiOEpzN1lscGU0N3h0aTlxQ0JNMGFpWXQySWZUaHVmQ0pMRUlTVFJTOGpjOFcxQUcyazNNdG05cUxhc3dlaFZWT2NmcUF0cUhaSnUycC1uVV9EVmx2STgxSDVUR0pfRUU2aWJBMUxfUG5yQjJ4a1EyR3JDa1I4UmRwWVFISy1uT3VsX3NnLUlzMGVKeElPMnZWRGYzcnFGV3BHVmNtWVV4ODhRTDZxVUFZRFFBdUFVdn"
+    },
+    {
+      "title": "Data centers sostenibles: una oportunidad estratégica para el desarrollo digital de Chile - Revista Nueva Minería",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZElPMjBMRkx5dXgtZi02UFRpZHJYRllxczhhNHVWcHdMUzFKWDJKamZzcVUzeTkwUGxoZFVyVWt6cF9BMUgyRWU0d1BfWFBEVFNmSy1HaXBqbHJ6OE1mMFFKeVhXTzF6RUJmQmwtc0xyTVRUOVVrM09YODdHeW1ETXFHMWs4QUE1WjRzR3VJYWFZY0FWX2thU2lvOTlzd1pvZEl0NjJMU2hsZVpOaFJyOXRkdHdrS2ZtZFRrbDZ2S0c1VDBn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 07 Sep 2026 09:38:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZElPMjBMRkx5dXgtZi02UFRpZHJYRllxczhhNHVWcHdMUzFKWDJKamZzcVUzeTkwUGxoZFVyVWt6cF9BMUgyRWU0d1BfWFBEVFNmSy1HaXBqbHJ6OE1mMFFKeVhXTzF6RUJmQmwtc0xyTVRUOVVrM09YODdHeW1ETXFHMWs4QUE1WjRzR3VJYWFZY0FWX2thU2lvOTlzd1pvZEl0NjJMU2hsZVpOaFJyOXRkdHdrS2ZtZF"
     }
   ],
   "count": 14

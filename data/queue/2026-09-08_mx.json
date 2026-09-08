@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "¿Cuánto debe pesar un dron para volar sin registro en México? Estos modelos ya cumplen ese límite",
+      "url": "https://expansion.mx/tecnologia/2026/09/08/cuanto-debe-pesar-dron-para-volar-sin-registro-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 08 Sep 2026 17:18:14 GMT",
+      "summary": "Además del tamaño, hay componentes que deben tomarse en cuenta y varias condiciones que conviene revisar antes de despegar."
+    },
+    {
+      "title": "The Legend of Zelda planta cara a GTA 6: ambos se lanzarán en noviembre",
+      "url": "https://expansion.mx/tecnologia/2026/09/08/the-legend-of-zelda-vs-gta-6-lanzamiento",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 08 Sep 2026 17:00:53 GMT",
+      "summary": "Nintendo no le teme al fenómeno de la industria del gaming que representa Grand Theft Auto VI. Conoce todos sus detalles y fecha de lanzamiento."
+    },
+    {
+      "title": "¿Cuándo es el evento de Apple 2026? Se espera la presentación de los nuevos iPhone y Apple Watch",
+      "url": "https://expansion.mx/tecnologia/2026/09/08/cuando-es-evento-apple-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 08 Sep 2026 16:38:51 GMT",
+      "summary": "Apple confirmó la fecha de su próximo gran evento, donde se espera la presentación de los nuevos iPhone y Apple Watch, además del posible iPhone plegable."
+    },
+    {
       "title": "“La AGI ha llegado”: Jensen Huang desata el debate tras el lanzamiento de Astra",
       "url": "https://expansion.mx/tecnologia/2026/09/07/jensen-huang-agi-openai-astra",
       "source": "Expansión Tecnología",
@@ -19,28 +43,20 @@
       "summary": "La compañía más valiosa del mundo ve a México como un mercado de oportunidad a través del codiseño de Coatlicue y la incorporación de su software en la extracción de petróleo."
     },
     {
-      "title": "De un robot que cuida a tu mascota a un arenero que se limpia solo: nuestros favoritos de IFA 2026",
-      "url": "https://expansion.mx/tecnologia/2026/09/05/gadgets-ifa-2026-favoritos-tecnologia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sat, 05 Sep 2026 22:43:26 GMT",
-      "summary": "La feria de Berlín mostró cómo los dispositivos inteligentes están entrando en áreas cada vez más cotidianas, desde la lactancia y el cuidado de mascotas hasta la jardinería y la convivencia en el hogar."
+      "title": "ExxonMobil fortalece el talento mexicano con formación internacional en inteligencia artificial - Surtidores LATAM",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzYtOXRDZnZmZjhzTV8wbEZkVlJaeTNTdi1JWUtUZ1dxQTN5dHBhd2tkMlNVYkhpYVE5Y2o2dFBDZXRtYWN3M2pzSldNVlZ5Z3hlMld3OUVIcC1rZHJ0cXpESXgzV0IwT3VLNnk4emJFenpkTFdyZi1sYzkyOU1Zc2IwbFZ6Z1hlay1KakFjM2J5UQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 08 Sep 2026 12:29:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzYtOXRDZnZmZjhzTV8wbEZkVlJaeTNTdi1JWUtUZ1dxQTN5dHBhd2tkMlNVYkhpYVE5Y2o2dFBDZXRtYWN3M2pzSldNVlZ5Z3hlMld3OUVIcC1rZHJ0cXpESXgzV0IwT3VLNnk4emJFenpkTFdyZi1sYzkyOU1Zc2IwbFZ6Z1hlay1KakFjM2J5UQ?oc=5\" target=\"_blank\">ExxonMobil fortalece el talen"
     },
     {
-      "title": "¿Qué le pasa a tu celular al estar enchufado? Estos cargadores te dan todos los detalles",
-      "url": "https://expansion.mx/tecnologia/2026/09/04/que-le-pasa-a-tu-celular-al-estar-enchufado",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 04 Sep 2026 21:00:34 GMT",
-      "summary": "Anker presentó en IFA 2026 las soluciones que buscan cambiar la forma en que cargamos nuestros dispositivos, con reconocimiento inteligente, gestión de temperatura y datos en tiempo real."
-    },
-    {
-      "title": "Xiaomi quiere que tu casa y tu auto sepan qué hace tu celular",
-      "url": "https://expansion.mx/tecnologia/2026/09/04/xiaomi-quiere-conocer-tu-casa-auto-y-celular",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 04 Sep 2026 19:00:08 GMT",
-      "summary": "La tecnológica china llegó por primera vez a la feria de Berlín con más de 380 productos y la apuesta de conectar dispositivos, hogar, autos e inteligencia artificial."
+      "title": "Crecer sin contratar: la metamorfosis operativa con la que Xertica redefine el futuro de los negocios - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRDJWNlpESm04ek8tN0hvZFlrbzZJRHFxTjJuWWpvY05MRUk0RVQzMnRNdXhGSHFjRWxNSXMxV0pCUWQwUVdaS2NCYi1MdkhiclBtZmdFOU44RjZ4c3gxNzRnZl9JRV9Pbmd2MDliVWdScmN0a2g3d0lBRGlLdHJXNFFiQmV6a1pQLXdYMFg2SUlaazJsbFFUal9pWUs4dlNFQXpzQlIxSTZOM056N3BHMnZ3LUpnVEFKd0NLbFExSXY0OHdyNE80TkZuc09MbXg2MEFlZEdDcjBNOUEzRHJrVlBMUF9mUdIBgAJBVV95cUxQMWw4SENVUFNTZ3R4MGJIZXc0OVB1aFFuNWx1TUF6RHNMamxmMzJ0dTZRd0RYT0RfeTN1a1ViTkF4WlZuRm9zRUdzdEV5OHpXVWlfamt6eU03bDd6YURGbUlHUWVrQjB3b3VTYTlQTmZ6VnB2d0pxUEpUeTZLTTRqb1o3c3dmRE1walVtaUxaaWRzd3pQWUlFUWlvaGlpMktka1pIVE84S1NwX3JQbloxb3g0LWcxMlRkMVpha0k1a1FXeS1WQVVrYjIwZHlqN25rckVHdFRrZDhJR0dkOXhOekdhZXIzZFdvU2FwaDltN0ZTdndtbjRiRFRURmpJQXVV?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 08 Sep 2026 12:00:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRDJWNlpESm04ek8tN0hvZFlrbzZJRHFxTjJuWWpvY05MRUk0RVQzMnRNdXhGSHFjRWxNSXMxV0pCUWQwUVdaS2NCYi1MdkhiclBtZmdFOU44RjZ4c3gxNzRnZl9JRV9Pbmd2MDliVWdScmN0a2g3d0lBRGlLdHJXNFFiQmV6a1pQLXdYMFg2SUlaazJsbFFUal9pWUs4dlNFQXpzQlIxSTZOM056N3BHMnZ3LUpnVEFKd0"
     },
     {
       "title": "México tiene una estrategia de IA, pero faltan las capacidades para ejecutarla - WIRED",
@@ -51,23 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVVvQlNudHZGbXFpSVNpV2R6S0ZRbHFlSGEzaGhFUGJfMUZiNWV1VE5wNHZqTVJtLTcxdGpLU2M5ZHFZc2toWHlfNHJXRGRBZTRXRzBWdmRkb3J3TVJiN0tsM3huSE9zWHVud0tTQ1AzdkpyYzBHUGJ1bWFQSldleFU3eDI4STlsQVgwSWdlUFA3dk5iVzZKQ2hhdGg4aDV6SEFSTjlXejl6SWZu?oc=5\" target=\"_bl"
     },
     {
-      "title": "México ya tiene su Plan Nacional de IA: quiere crear tecnología propia, formar talento y usar inteligencia artificial para gobernar - Xataka México",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZUNaOC1TbENyMmRwMTRLZWpFRkZPSkYwSlNrUllYUTBMRjI5dy1SWnJyT3FLNWdsaElxcVQ3a0UzTnBpVTh4dHVIa2NVSHBxWFJfUHRFajNZZDNPX3dVYnpiY0lYM2UxTHFnaGlIbUc0VTBxbk5kdmF3dWc3WjNIS1lxbWl3THg2Q2ZmY2tSNjU4R1B5Y3NLaVd2ZjJwZ1owbHZTQThmR2NoQTZnemN3NGNDS0hqX1B1NFgwSTdKZU9rcWJnTV9WdWY4U2E1SGxJdG4tWk1UV0p2aFMyS1BDR0N5aGJjNmJTMmx0N2hoN0NNTFXSAfgBQVVfeXFMTUtxcHpMWXUyNWUwSUF1YWhWQ0hoblgtZnFaY01pZDdicWpwMWM2V2tHbXRlSVlYcjdUbEoyY3BiMlJJanVpMHJpeEt6VjhtOER6Tkx4Ni1iMEk5cmZMSFdBT3NsRVBiQkV1SjJ2Q3NyZEdyeHNVRXZCOVppM0hvUlhkREhDcXdseDVtbGRJQzhFQTlIOG9xTFhLUU5pVVl2YjZiRkx4YUc0M0NBcy1PQUIxMDNNTHZUa3p0LUxmelpLYVJEY2Z5WmRuc3RWejc3UUlXbmgxYWNYXzZCc0ZhZXpkVnVteGxER2JjVjQ3LXR4d01jeTBQMmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 07 Sep 2026 18:00:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZUNaOC1TbENyMmRwMTRLZWpFRkZPSkYwSlNrUllYUTBMRjI5dy1SWnJyT3FLNWdsaElxcVQ3a0UzTnBpVTh4dHVIa2NVSHBxWFJfUHRFajNZZDNPX3dVYnpiY0lYM2UxTHFnaGlIbUc0VTBxbk5kdmF3dWc3WjNIS1lxbWl3THg2Q2ZmY2tSNjU4R1B5Y3NLaVd2ZjJwZ1owbHZTQThmR2NoQTZnemN3NGNDS0hqX1B1NF"
-    },
-    {
-      "title": "91% de los proveedores mexicanos espera nuevos ingresos gracias a la Inteligencia Artificial - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1VCRzVFMXJleXRpZ0Y1bjNOdW1EeldNQk9vT2p1bFhOb2FXSDh6dXdYb3ZvMG1QZjE3TkVUYTFodURtd3d1RElCbFNrZVJ4VFRuYUNsMTBsWnUwWGtUVEcyY1BVd2szR2Y1WFFwQVM3dE9aWFZpbmpEbFpHX1paMjBXU1RNT0gzb05jWC1VMTFXaW4zZ2ZRdTlNbmJ5WmttcWQwUjRVdnI3UnpKcDJYc0VLV3Jhak5HbUM5aW9RaExGNWhETU94M1MzT0Q4am9JN1ZYSE0wSWxNM1k?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 07 Sep 2026 19:31:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX1VCRzVFMXJleXRpZ0Y1bjNOdW1EeldNQk9vT2p1bFhOb2FXSDh6dXdYb3ZvMG1QZjE3TkVUYTFodURtd3d1RElCbFNrZVJ4VFRuYUNsMTBsWnUwWGtUVEcyY1BVd2szR2Y1WFFwQVM3dE9aWFZpbmpEbFpHX1paMjBXU1RNT0gzb05jWC1VMTFXaW4zZ2ZRdTlNbmJ5WmttcWQwUjRVdnI3UnpKcDJYc0VLV3Jhak5HbU"
-    },
-    {
-      "title": "México: 41,4% de los inversores en IA viene de Estados Unidos - El Ecosistema Startup",
+      "title": "México: 41,4% de los inversores en IA viene de Estados Unidos - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzdka1JXM1NyNk1Rb3lsWDloNGtqQ3o3T1k3cC1MSzFUV2d0QmhzSmxlRDRHdlBxb1FJenQzcmtxclg4TnZCY1RqM3l1VjdiYnZXcXNYVlByd3hfMFphcUMzcUN3WmJyekNhMDdpbkJnRzYyblFsY29tZjZ5aE15ZDkyeHNWTW9WcnV4Q3llbWR2cms?oc=5",
       "source": "Google News",
       "category": "news",
@@ -91,7 +91,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
     },
     {
-      "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - El Ecosistema Startup",
+      "title": "Fundidores aceleran adopción de IA y nuevas tecnologías para reducir energía y emisiones - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVWJ5cm0xVlczRGZKSnV5eWYyNzNPODd1QlVsWmJ6a1FiVUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 08 Sep 2026 03:21:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVW"
+    },
+    {
+      "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5",
       "source": "Google News",
       "category": "news",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Sat, 04 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
-    },
-    {
-      "title": "IA en la enseñanza: especialista Tec habla de sus retos y beneficios - Tec.mx",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVGZQZE9hcw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 11 Nov 2025 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQUGE3d0ZlTy0xblJrUmEwVjRaMTkyY3Y1aUhveHBJOXZIVnI1UDJOZVFVTGViZU5MWWlwNDBKNUZ0R2h1V1VKZmd5ajBaTzFNenFrckpEelJvR3RTLWpXNTIxc2RTNkltb0FlcS1lQjhzaGxTbk1TdmQ1bWtjYW5HMVhJUjdBRGpOdWFESEZWM2VqR0duVjZoaXZWS1c1SVRSUFF3UUxNdkRJajRtLTRRcDh2WU8yQm5xVG"
     }
   ],
   "count": 14
