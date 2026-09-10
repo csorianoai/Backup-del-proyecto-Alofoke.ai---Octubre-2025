@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Anthropic reveló tres escenarios posibles para 2030 ante el avance de la IA: el más extremo cambiaría la economía para siempre",
+      "url": "https://www.clarin.com/tecnologia/anthropic-revelo-escenarios-posibles-2030-avance-ia-extremo-cambiaria-economia-siempre_0_0nVStQtXeR.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 10 Sep 2026 17:52:16 +0000",
+      "summary": "<ul><li>La compañía detrás de Claude puso números al impacto que podría tener la inteligencia artificial sobre el trabajo y el crecimiento económico.</li><li>El escenario más disruptivo combina una expansión inédita con desempleo elevado y caída de salarios.</li></ul>"
+    },
+    {
       "title": "iPhone 18 Pro y iPhone Duo plegable: fecha de llegada y precios confirmados en Argentina",
       "url": "https://www.clarin.com/tecnologia/iphone-18-pro-iphone-duo-plegable-fecha-llegada-precios-confirmados-argentina_0_nu0kL7XD5F.html",
       "source": "Clarín Tecnología",
@@ -35,22 +43,6 @@
       "summary": "<ul><li>La tecnológica renovó su icónica línea de smartphones, que incluye un inédito modelo flexible.</li><li>La cobertura minuto a minuto.</li></ul>"
     },
     {
-      "title": "Explosiva renuncia de un exinvestigador de Anthropic y OpenAI: acusa a las empresas de saber que la IA \"podría matarnos a todos para finales de la década\"",
-      "url": "https://www.clarin.com/tecnologia/explosiva-renuncia-exinvestigador-anthropic-openai-acusa-empresas-saber-ia-podria-matarnos-finales-decada_0_zMVkP1DrRS.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 09 Sep 2026 11:52:41 +0000",
-      "summary": "<ul><li>Jacob Coxon, un especialista británico de 27 años, abandonó la industria con fuertes denuncias.</li><li>En sus mensajes sostuvo que ninguna firma debería desarrollar sistemas superiores a la capacidad humana sin intervención gubernamental.</li></ul>"
-    },
-    {
-      "title": "Innovación en el sector legaltech: inyectan US$ 8 millones en una plataforma para estudios jurídicos que busca liderar la región - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSUdwLVZ0ZFpleFRDSWtNNVQ0bnBNaExpMDBSMXdodEtrZzFCRWRBNmFBODB3aHh6a2hYSWFqZG1vTjRUWGxLMkxSYkROV0t6RWtqQ25WOHVUc0l0clBrWlY3X19qamRZV0Fib1lsMmlzQ3hkeDlFLTFDdFBUQTlkT3lkTk5iRk5UVFRZV05sNFBkS2sxeGdyaWI1cVRlUDk4Y09sUVhMYno1dlNjSXpBQzVvdlppVElTZTBYOW8ya20wUEJUblNlejJOTElmMHZ3aTBlZjNuZFpLTzFHdnYxc3NnODBiNlE3UVRtN3k3T25xN3c2cmd1NU5MemlLLVp5ME12Z0M4ZWRaQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 10 Sep 2026 14:17:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOSUdwLVZ0ZFpleFRDSWtNNVQ0bnBNaExpMDBSMXdodEtrZzFCRWRBNmFBODB3aHh6a2hYSWFqZG1vTjRUWGxLMkxSYkROV0t6RWtqQ25WOHVUc0l0clBrWlY3X19qamRZV0Fib1lsMmlzQ3hkeDlFLTFDdFBUQTlkT3lkTk5iRk5UVFRZV05sNFBkS2sxeGdyaWI1cVRlUDk4Y09sUVhMYno1dlNjSXpBQzVvdlppVElTZT"
-    },
-    {
       "title": "La demanda de INTELIGENCIA ARTIFICIAL apenas llega al 3% de las BÚSQUEDAS LABORALES en ARGENTINA - El Destape",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlE4Q3FGUWVPemljZEcyZzZGR1RHSUc3YmxkNlVBam9UQzVWYldEYnB4N3FuYmJlU3ExUTdVXzhJVWpwUUlLaE94NGxRc00xZzRzb19GM2U1VkRPeFd4YnlueXE5dm1iNUxfRG1xcEJfbk1qQndvTjBDQWREZHB0bFRIeVZhSmVIODMtRW9jU2c5R2szRzNWMkxVT190a2ZyZ2Y0a2pzeGxvMkVESVhSRjl5RdIBxwFBVV95cUxNcVVGVmFMR1hhMGRxOXhQNlppRjFuRTlod2EwSFNKT2YxZ3oxV2xWUHZ4SVlSTlRHNER5aDh5QjhlbjBqRnkxVzRSbmN2Rl9vcVdqeEhRVG1RRWdhZmg3R3h5dHJpZDFBTTRrQWh1WXhTVVVscGQybENBWHdweXYybzg0Y3R4WlNNNHRoM193a3NYMUhFei1qRmRqd3BxUjA3dGdaLTVZTDZseXNULXFOVEZZenA3X0RJdExlVVlpUnJiM284M2JB?oc=5",
       "source": "Google News",
@@ -59,20 +51,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlE4Q3FGUWVPemljZEcyZzZGR1RHSUc3YmxkNlVBam9UQzVWYldEYnB4N3FuYmJlU3ExUTdVXzhJVWpwUUlLaE94NGxRc00xZzRzb19GM2U1VkRPeFd4YnlueXE5dm1iNUxfRG1xcEJfbk1qQndvTjBDQWREZHB0bFRIeVZhSmVIODMtRW9jU2c5R2szRzNWMkxVT190a2ZyZ2Y0a2pzeGxvMkVESVhSRjl5RdIBxwFBVV"
     },
     {
-      "title": "Soberanía: esa vieja-nueva cuestión - El Litoral",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdmRsT0JCOHYwcGJMd3lnTnNtcnNKVWcxZ09xU180ekNUWS12dF9waE91SG1MTU5CSjg5TzhuUE1Hb2tnNXRjMlJTTmNBZ2ZHcWJOWnY2aEstR3UwWGhtTDl4Q1ViRHRTdEM2OGU1UThweHJmTW5NaVUzNmlMU3dpamZQNW1UZDAtNFZlWXVPdURITXBLbXZkMUpSRTlXNWRFeWlTMndDNm1kaHF0bVd6WnVJM0dBaWZUNEk5a3ZsVEVwcVgwSnhLb25QWDlUQUtUT2NmREZMXzlCU1ByMVVNX1IyVENDRUVwMW5xY1lZbGVTVm4yMUwzY2lWc9IBgAJBVV95cUxQallpSnVSd1pPTmJUVzVKa3JRQWVHcDloM0djazNabTNtR0ZXMmRsUG43TzJLc19JOEp4RFFzbUxkU2ppVkxtREFRNmRfSVpqMjBjNXo4WW00dkh0NVU5NVdPQk9Vdm0yMl9wZ0E2R3pGM1E4ZWNNWEFXY0ZoTHk4WU5neS1xNkJNcS1wNERRS2JBSlZMXzZhSzlHVk5kRHFYY0g4eXpMdEZVeHRHaHh0Q0ZqUkpEb3d4ZkFDYUYxNFhLSFJqbTFoanlJOTg0VVpCMDgzSTFzSDNfdVlQNUVReU55U2tBUlJLRnc3R3VoclFqSEI1MlNEVTV0dFQ2WE9T?oc=5",
+      "title": "Argentina necesita una estrategia de Inteligencia Artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC04NGJBSWtHTFRmLUxkMGRFcDlmMTNCbm50bXNrbTNFSnRlN0NuR0RpS2gtS19YY0xVQVdKR1pPOGdEdFRLdVBfVHA0VnRjQkxuc1pORWZvQmdqOEVXbXFnQ3ppSjB0QUs0aUFHN05zaGJlbnJRVEs1V2tSTE5UV3A4WFpzVHgxUTA5SWpsS3pIVFlqUk1kUjBUV3Btc0hLd1RaYnJnUHF4YkdQNVZZYVAtMnRCdEhYNHdvQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 10 Sep 2026 14:54:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdmRsT0JCOHYwcGJMd3lnTnNtcnNKVWcxZ09xU180ekNUWS12dF9waE91SG1MTU5CSjg5TzhuUE1Hb2tnNXRjMlJTTmNBZ2ZHcWJOWnY2aEstR3UwWGhtTDl4Q1ViRHRTdEM2OGU1UThweHJmTW5NaVUzNmlMU3dpamZQNW1UZDAtNFZlWXVPdURITXBLbXZkMUpSRTlXNWRFeWlTMndDNm1kaHF0bVd6WnVJM0dBaWZUNE"
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC"
     },
     {
-      "title": "CABA es la segunda jurisdicción más expuesta a la inteligencia artificial del mundo: cuáles son los empleos afectados - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGNobFNkUm42bjhBQWR3TS1BMHVtRjJCZnNIN25KTlhubFY1T1c4aEZoSFlsUWozMDNqT2tvLXhpdVdGNVM3U0tSaU5TZ2wyQmJ3Q0dycm02SWprMGM1ZFBHMEZGQjdTNnZqZHdvWFRkc0xxZGtjazFwYkQ2YXBVcktIVm5RbFNCa3FYZjg0d25oQjE5OThxTVdsSDFvSFNINnpvcnpfQ29Ca0FCd3ZGbUxTX3hqRlBKQkkybW93ZEM3bldqdFBnaU5mTkNsY1RuNlFSQVpuN3R3a19iY2hReDVNV0hLc3d5NEgxY3NraHNJZ2vSAY4CQVVfeXFMTW9ZejJrQUwyR2VtTU5YZ19IU3RPajdSMWI1eWNPNXRNQnJWX1BGbVZKZVdjYUNhcEczVzc2T3ZqaEJBQ0lVcEhPN2RGeGNHUndRTUxWMEhFUXk1QS0ySFI1Z21hc2IzS0E5LXVXYVlIWjVvN0F1THJKMVExeXpBeUlqTjVsQXE5UFVxODB1cHY0LTJvWTR2bUxlXzNMZ3ctT0NxRWN1UVJCUlA5Qm9IOFdoQ1Q0MHVWbEEteXhlakFyYkE0VlNuc1FtbTNiSlVvcEQ3OS1KbEptYl9QcFNyc1FFTkpxXzFFY1UzemQtNkJmM3h1aWtYX3JITGhiTUhfb1ZGLUI4blJCdWwzRnBB?oc=5",
+      "title": "Baravalle participó de un conversatorio sobre inteligencia artificial y tecnologías emergentes - Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjE0TnFsc2I1MmtaSlJma3k1dUFwTm9STmdSYXNrUTNWU1Q2UUd1STM3NnY0WHFCNS1pa0t1bVh4T0NLakhIYzVtTGU0WkppRUN1QUtHMWpaZlB3blV3NFMxbFBEck5HRG9sMFJIdzZPOXM3ZGJCb0Zrcy1TTzhTT1ZMekJQLU9VdjBpSWc0N3lQTUgxcnZIMDJNMmhhOWJOd0tHRHVlVzRJM1J4V1o2a21zUFBVSTZ0a2xWZU9n?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGNobFNkUm42bjhBQWR3TS1BMHVtRjJCZnNIN25KTlhubFY1T1c4aEZoSFlsUWozMDNqT2tvLXhpdVdGNVM3U0tSaU5TZ2wyQmJ3Q0dycm02SWprMGM1ZFBHMEZGQjdTNnZqZHdvWFRkc0xxZGtjazFwYkQ2YXBVcktIVm5RbFNCa3FYZjg0d25oQjE5OThxTVdsSDFvSFNINnpvcnpfQ29Ca0FCd3ZGbUxTX3hqRlBKQk"
+      "published": "Sat, 05 Sep 2026 00:54:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjE0TnFsc2I1MmtaSlJma3k1dUFwTm9STmdSYXNrUTNWU1Q2UUd1STM3NnY0WHFCNS1pa0t1bVh4T0NLakhIYzVtTGU0WkppRUN1QUtHMWpaZlB3blV3NFMxbFBEck5HRG9sMFJIdzZPOXM3ZGJCb0Zrcy1TTzhTT1ZMekJQLU9VdjBpSWc0N3lQTUgxcnZIMDJNMmhhOWJOd0tHRHVlVzRJM1J4V1o2a21zUFBVSTZ0a2"
+    },
+    {
+      "title": "La IA ya está transformando el trabajo en Buenos Aires: cuáles son las ocupaciones que podrían cambiar primero - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPajZpMlFSTWZDV1V6eDUzMDdZLWt0SE5hV0lTLUJibWhNNEl1eXVDWTBKQVQ0RTVfYmFoLXU1OHhxaHBfWXVTOEhodUpFTS1yVllvSklCWjRxbDdLbnRZWng1d1hjRlFYVEVJTU1IeXJrdW9EN0NkUWV6SkpPR19tR0VmMFFXN3NwSElLX1FwNW9mSlh0Z19qY3VjV3Z4QzhOVTl2SjM4T1Rhb2JIQkt3Z2c0SjZSN1pxY2Y1OW14bFI4LWowZmx6ZlpFSmo2X3V5MnhSLVdER0NCeDFJbEo3SW85T090SUxIOFpscEJoRjFUOEdrOXNRRVdpYzJVUnl5WW0xbUk3bw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 10 Sep 2026 19:46:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPajZpMlFSTWZDV1V6eDUzMDdZLWt0SE5hV0lTLUJibWhNNEl1eXVDWTBKQVQ0RTVfYmFoLXU1OHhxaHBfWXVTOEhodUpFTS1yVllvSklCWjRxbDdLbnRZWng1d1hjRlFYVEVJTU1IeXJrdW9EN0NkUWV6SkpPR19tR0VmMFFXN3NwSElLX1FwNW9mSlh0Z19qY3VjV3Z4QzhOVTl2SjM4T1Rhb2JIQkt3Z2c0SjZSN1pxY2"
     },
     {
       "title": "Iván Schahovskoy presentó Lisa, la app de noticias con IA - AM 1350 Radio Buenos Aires",

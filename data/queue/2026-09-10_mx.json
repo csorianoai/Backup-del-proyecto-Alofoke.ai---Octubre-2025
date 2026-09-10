@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "México tiene audio de lujo en Margules: Así son sus audífonos de 27,000 pesos",
+      "url": "https://expansion.mx/tecnologia/2026/09/10/mexico-tiene-audio-de-lujo-en-margules",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 10 Sep 2026 19:00:18 GMT",
+      "summary": "La firma mexicana compite en una gama superior a la de Sonos y además de los audífonos, lanzó un amplificador de 67,000, aunque su siguiente reto es capturar a un mercado más joven."
+    },
+    {
+      "title": "Comprar el nuevo iPhone Duo puede costarte hasta 86 canastas básicas en México",
+      "url": "https://expansion.mx/tecnologia/2026/09/10/iphone-duo-precio-mexico-salario-minimo-canasta-basica",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 10 Sep 2026 17:00:43 GMT",
+      "summary": "El iPhone 18 Pro requiere más de dos meses de salario mínimo para comprarse, mientras que el iPhone Duo representa casi cuatro meses de ingresos mínimos en México."
+    },
+    {
+      "title": "Los drones para principiante que puedes volar sin licencia ni registro en México",
+      "url": "https://expansion.mx/tecnologia/2026/09/10/drones-sin-licencia-ni-registro-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 10 Sep 2026 14:56:14 GMT",
+      "summary": "Además del tamaño, hay componentes que deben tomarse en cuenta y varias condiciones que conviene revisar antes de despegar."
+    },
+    {
       "title": "iPhone Duo: así se compara la opción de Apple frente a las de Samsung, Huawei, Motorola y Xiaomi",
       "url": "https://expansion.mx/tecnologia/2026/09/09/iphone-duo-vs-telefono-plegable-samsung",
       "source": "Expansión Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Wed, 09 Sep 2026 19:49:11 GMT",
       "summary": "Apple presentó sus nuevos dispositivos este miércoles 9 de septiembre, y destacan el nuevo iPhone Duo y el nuevo iPhone 18."
-    },
-    {
-      "title": "No todo fue iPhone: Apple también presentó nuevos AirPods y relojes",
-      "url": "https://expansion.mx/tecnologia/2026/09/09/apple-nuevos-airpods-y-watch",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 09 Sep 2026 19:43:49 GMT",
-      "summary": "Aunque los reflectores los tuvo el nuevo iPhone Duo, la empresa también aprovechó para mostrar su ecosistema completo de dispositivos móviles."
-    },
-    {
-      "title": "Apple Intelligence llega a los iPhone, pero varios quedan fuera; ¿tu equipo seguirá recibiendo actualizaciones?",
-      "url": "https://expansion.mx/tecnologia/2026/09/09/modelos-iphone-se-quedan-sin-soporte-apple-intelligence",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 09 Sep 2026 19:09:24 GMT",
-      "summary": "Con la llegada de un nuevo integrante de la familia iPhone, también llegan novedades a Apple Intelligence."
-    },
-    {
-      "title": "iPhone Duo: mejor tarde que nunca, Apple lanza su primer teléfono plegable",
-      "url": "https://expansion.mx/tecnologia/2026/09/09/apple-presenta-primer-iphone-plegable",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 09 Sep 2026 18:08:08 GMT",
-      "summary": "Apple entra al mercado de los teléfonos plegables con un nuevo iPhone de pantalla flexible, en uno de los cambios de diseño más importantes de su historia."
     },
     {
       "title": "México ya tiene su Plan Nacional de IA: quiere crear tecnología propia, formar talento y usar inteligencia artificial para gobernar - Xataka México",
@@ -67,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQMVFKY2pxZGpMLWZGbHdyNi03UzZ3Z1J6ZjVfV3J4T2V2UUZqa2dMU1dtWUR4VjZ4SHhjRnhzcVE1YVd6T3V4LVVSbjM5eGR3eVpLRlN4aFNLelNKWDNMaDBNZzI2S3JfQUtJZVl2OFJYQU5FRVFUd3hjSVJmN0Y2R3FOZU1DY1MxX3RwNVFrMk5sQ2xGeHF3aGlYeHNUdEN6QzV3TmozMWJHdHVPeW5aMWh5b3lZRHRaTm"
     },
     {
-      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - emprendedor.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 09 Sep 2026 22:10:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZw?oc=5\" target=\"_blank\">Esta startup mexi"
-    },
-    {
       "title": "Primero, startup mexicana de IA empresarial, levanta US$12M - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmdRQ0dWRGw3VmNvSUlZTm5UUnFpZFR0S01yZHR2c2NSYjZPVmd6TFV3WDl5U3hGVTM4dmQ3Sm15alJhcDVNZDMxMDhETUFXRzA0eXVYdW1vc29BRi1pS1BZX0dadjNLY053emdlUXFvZDd2RDJteG9CdHRxX1BCUzc4TmtzXzc2T2dzOG1JSm0?oc=5",
       "source": "Google News",
@@ -83,12 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmdRQ0dWRGw3VmNvSUlZTm5UUnFpZFR0S01yZHR2c2NSYjZPVmd6TFV3WDl5U3hGVTM4dmQ3Sm15alJhcDVNZDMxMDhETUFXRzA0eXVYdW1vc29BRi1pS1BZX0dadjNLY053emdlUXFvZDd2RDJteG9CdHRxX1BCUzc4TmtzXzc2T2dzOG1JSm0?oc=5\" target=\"_blank\">Primero, startup mexicana de IA "
     },
     {
-      "title": "Cuatro de cada 10 inversionistas de startups mexicanas de IA están en Estados Unidos - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX3ZWSmY2Q01XQjd4dHBYcXFpekkxbG5kSW5RQVQ4UHg4VFZyTEJIaTZMeHZtZ0tINm03dWVBaVZ4WVFYOFFPOTZBRnUtSFhxcFBXdlpLekJLbl9uNzdNM1dRaEZfdU4xaHY2RzAycHVVVWc5RUcwek1HT2V4Mjl5V2tIclV4MWZaSDIyOEk3U3c0U0JMYU1EYU9WNFVlNTdBZE9vaE5ZakFCMUotOHFyOWsxZGRtSDIwZkJKTVF3M3AwLWPSAcgBQVVfeXFMUEk5cUh1RXNmYlRhbzNkdFgxaVlNLUxieFlCRUg3TnlEQW80R1lCWXlPMnpqS0c0Vk1JWjhzeGJaOVZxRUlyY1RacFdxNDY1UllFX19yZGd1VFhUMUdyX0ZLS0JlZ04zY0NHUW9PVlBBaVRfWndwLTllUkJISFRURmR2NHRpM3ppV0ptMHVEZnpnUmhPZGRuYkZrNGlwb2FUS3EwTlgtSXJRSU1INEp6b19kQ3RBZ1FxVksyY2NjVC1yZXlyZTN1RjI?oc=5",
+      "title": "México: 41,4% de los inversores en IA viene de Estados Unidos - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzdka1JXM1NyNk1Rb3lsWDloNGtqQ3o3T1k3cC1MSzFUV2d0QmhzSmxlRDRHdlBxb1FJenQzcmtxclg4TnZCY1RqM3l1VjdiYnZXcXNYVlByd3hfMFphcUMzcUN3WmJyekNhMDdpbkJnRzYyblFsY29tZjZ5aE15ZDkyeHNWTW9WcnV4Q3llbWR2cms?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 14:39:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX3ZWSmY2Q01XQjd4dHBYcXFpekkxbG5kSW5RQVQ4UHg4VFZyTEJIaTZMeHZtZ0tINm03dWVBaVZ4WVFYOFFPOTZBRnUtSFhxcFBXdlpLekJLbl9uNzdNM1dRaEZfdU4xaHY2RzAycHVVVWc5RUcwek1HT2V4Mjl5V2tIclV4MWZaSDIyOEk3U3c0U0JMYU1EYU9WNFVlNTdBZE9vaE5ZakFCMUotOHFyOWsxZGRtSDIwZk"
+      "published": "Mon, 07 Sep 2026 15:51:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzdka1JXM1NyNk1Rb3lsWDloNGtqQ3o3T1k3cC1MSzFUV2d0QmhzSmxlRDRHdlBxb1FJenQzcmtxclg4TnZCY1RqM3l1VjdiYnZXcXNYVlByd3hfMFphcUMzcUN3WmJyekNhMDdpbkJnRzYyblFsY29tZjZ5aE15ZDkyeHNWTW9WcnV4Q3llbWR2cms?oc=5\" target=\"_blank\">México: 41,4% de los inverso"
+    },
+    {
+      "title": "La IA ya no espera: cinco claves que definirán el futuro de México como potencia tecnológica - About Amazon México",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjV1OUZpbkRsRzNSdHM2SDhsc2IxazFBbFpmV0R6NW1jWF9QVkxVQnZuZk1jWGFzcW1XT0d3ZWRKaUdyNkhwQ2tuajJ6RFFqbzc4V0paUVZQaTJiLWxtQW9YV3lmb1hxOWZJWDA3YVhIWllwQ2lvd2M3WEdVbVFOUjRGUXItWjJtTy04ZVZQN283QVo1WGVfTWktaldEaDRfYWhMSEhiUk81d1ZzQy1EZTRCc2t5Szh4N2c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjV1OUZpbkRsRzNSdHM2SDhsc2IxazFBbFpmV0R6NW1jWF9QVkxVQnZuZk1jWGFzcW1XT0d3ZWRKaUdyNkhwQ2tuajJ6RFFqbzc4V0paUVZQaTJiLWxtQW9YV3lmb1hxOWZJWDA3YVhIWllwQ2lvd2M3WEdVbVFOUjRGUXItWjJtTy04ZVZQN283QVo1WGVfTWktaldEaDRfYWhMSEhiUk81d1ZzQy1EZTRCc2t5Szh4N2"
     },
     {
       "title": "Fundidores aceleran adopción de IA y nuevas tecnologías para reducir energía y emisiones - La Jornada",
