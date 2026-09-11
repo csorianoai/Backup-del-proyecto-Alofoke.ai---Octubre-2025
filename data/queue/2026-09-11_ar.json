@@ -3,12 +3,20 @@
   "country": "ar",
   "articles": [
     {
+      "title": "De Spiderman a Marvel's Wolverine: cómo es el brutal videjuego que brilla en la PlayStation 5 y apunta a ser el mejor del año",
+      "url": "https://www.clarin.com/informacion-general/spiderman-marvels-wolverine-brutal-videjuego-brilla-playstation-5-apunta-mejor-ano_0_PUU6ZGvqdU.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 11 Sep 2026 17:53:36 +0000",
+      "summary": "<ul><li>El exclusivo de PlayStation 5 combina combates viscerales y una historia original que recupera personajes y elementos clásicos de los cómics.</li><li>Lo desarrolló Insomniac Games, el mismo de la saga del Hombre Araña.</li></ul><p><br /></p>"
+    },
+    {
       "title": "Cómo descubrió el FBI al chico de 15 años que organizaba con IA una masacre escolar en Quilmes y cuál era su plan",
       "url": "https://www.clarin.com/policiales/cuchillos-tacticos-mascaras-pruebas-detras-adolescente-planeo-masacre-escolar-quilmes-usando-ia-descubierto-fbi_0_xhLcCUdm4D.html",
       "source": "Clarín Tecnología",
       "category": "tech",
       "published": "Fri, 11 Sep 2026 14:28:47 +0000",
-      "summary": "<ul><li>Fue a través de una alerta que llegó desde Estados Unidos tras detectar conversaciones del adolescente con ChatGPT.</li><li>El FBI derivó el caso a la Policía Federal, que allanó la casa y encontró pruebas de elementos que pensaba utilizar para el ataque.</li></ul>"
+      "summary": "<ul><li>Fue a través de una alerta que llegó desde Estados Unidos tras detectar conversaciones del adolescente con ChatGPT.</li><li>La agencia norteamericana derivó el caso a la Policía Federal, que allanó la casa y encontró pruebas de elementos que pensaba utilizar para el ataque.</li></ul>"
     },
     {
       "title": "iPhone Duo vs. los mejores plegables del mundo: en qué destaca y qué le falta al nuevo producto estrella de Apple",
@@ -35,20 +43,12 @@
       "summary": "<ul><li>Tras siete años de espera, Apple presentó su primer iPhone con pantalla plegable en formato “pasaporte”. </li><li>Cuánto cuestan en Estados Unidos y qué precios y fechas de llegada manejan los vendedores argentinos.</li></ul>"
     },
     {
-      "title": "Lenovo desafía a Apple con sus nuevas computadoras: mucho color, inteligencia artificial y diseño renovado",
-      "url": "https://www.clarin.com/tecnologia/lenovo-desafia-apple-nuevas-computadoras-color-inteligencia-artificial-diseno-renovado_0_BJw3zcj54A.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 09 Sep 2026 19:36:50 +0000",
-      "summary": "<ul><li>La compañía presentó sus nuevas IdeaPad Vibe e IdeaCentre AIO i. </li><li>Llegan con diseños personalizables, múltiples opciones de color y procesadores preparados para inteligencia artificial.</li></ul>"
-    },
-    {
-      "title": "Inteligencia artificial y Derecho: los desafíos de la regulación, la privacidad y la propiedad intelectual - Revista Quórum",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2RfWXVrcTZfc2dfSHVrVXRyMmpjR21zdkdFc1ZCNGFxMGdqQ1dOLThlQ1ZmNV9kWTI1cTVYa09LS0hoMTFVeHltZXRyaUh3VW81VHc4d3dlT09NN3NaMWhXUHh1ekNBVS1vQWRhS1RQcGZSV01GLVVFNEo3aHF1TkVXb1A5V3JfVGxLNDJmOW5xUFo4ZTdibkprd3ZJSnNCeHNCd0JDMEh3TVdfcTBENTVEdFRqM1duVS1WcGRHT3VCb2hTamhDLU4yUlF4U09VLVU4TVJBWkdLSjVhNEE?oc=5",
+      "title": "La belleza en la era de la inteligencia artificial: de la tecnología como soporte a la hiper-personalización con propósito - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcV95RHNJNnBQcmgzTWRmY0pJZW5pazg3QjRpSDhOcGJRWVdlalRQaG5PYzhLRVVlMElMMmJrd3l5d0h1ejlvbF9pZXdqSno4TmxwbExBN3c3ZUpqeEUtR3JRY0Q5MFczX0U1SmlfUGtpc0Nrckswb2ZVMHc2MWRaQ2dLYUpVMVpNQ25GZFNfbUh3dWpYRnhEN0FoOVgyektSOU8yeHVrVFVhbC10bHpiZmZseFlBRU9kekxReFdKY3U1TlNoMV9ELWt1QlZQdE5Bcjh6UEJYVUg2WnI0RE5GRjE3ZkxMTmYycWFqa29yRzJKYU8wUlF5SmNXa2M?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 11 Sep 2026 13:39:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2RfWXVrcTZfc2dfSHVrVXRyMmpjR21zdkdFc1ZCNGFxMGdqQ1dOLThlQ1ZmNV9kWTI1cTVYa09LS0hoMTFVeHltZXRyaUh3VW81VHc4d3dlT09NN3NaMWhXUHh1ekNBVS1vQWRhS1RQcGZSV01GLVVFNEo3aHF1TkVXb1A5V3JfVGxLNDJmOW5xUFo4ZTdibkprd3ZJSnNCeHNCd0JDMEh3TVdfcTBENTVEdFRqM1duVS"
+      "published": "Fri, 11 Sep 2026 13:36:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcV95RHNJNnBQcmgzTWRmY0pJZW5pazg3QjRpSDhOcGJRWVdlalRQaG5PYzhLRVVlMElMMmJrd3l5d0h1ejlvbF9pZXdqSno4TmxwbExBN3c3ZUpqeEUtR3JRY0Q5MFczX0U1SmlfUGtpc0Nrckswb2ZVMHc2MWRaQ2dLYUpVMVpNQ25GZFNfbUh3dWpYRnhEN0FoOVgyektSOU8yeHVrVFVhbC10bHpiZmZseFlBRU9kek"
     },
     {
       "title": "Argentina necesita una estrategia de Inteligencia Artificial - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC"
     },
     {
-      "title": "Un adolescente planificó con Inteligencia Artificial matar a sus compañeros: el FBI dio aviso y lo allanaron en Quilmes - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWM4TTZIUi1LU0gzS1RPNFBBX3VDQ0tSSDVQTHA3TnRrS0lUQUt3NmVTc3p5RTZJTExxVVE5ZU1SLVRlOU1RQnpTcjQ4XzFpVnYxejhjVVhEd3Ziem1MdGpSWVZSZ0E5VGcxT1RzUGtEcENCVEw5X1J1cTFEamVRcVBXbjg3OVF5bDlHRDc5TWZvTTd5NG85NjBQZXc1YktVSXRtbUdPN3dvRUhxOXVnOXliTFVOVUNDVVRpNkszTVdmMGIyUG9jVjJrTk9PbWFGSExGLVRiQUxQYzNvRENZeUlIalRjQQ?oc=5",
+      "title": "Inteligencia artificial y Derecho: los desafíos de la regulación, la privacidad y la propiedad intelectual - Revista Quórum",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2RfWXVrcTZfc2dfSHVrVXRyMmpjR21zdkdFc1ZCNGFxMGdqQ1dOLThlQ1ZmNV9kWTI1cTVYa09LS0hoMTFVeHltZXRyaUh3VW81VHc4d3dlT09NN3NaMWhXUHh1ekNBVS1vQWRhS1RQcGZSV01GLVVFNEo3aHF1TkVXb1A5V3JfVGxLNDJmOW5xUFo4ZTdibkprd3ZJSnNCeHNCd0JDMEh3TVdfcTBENTVEdFRqM1duVS1WcGRHT3VCb2hTamhDLU4yUlF4U09VLVU4TVJBWkdLSjVhNEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 11 Sep 2026 14:58:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVWM4TTZIUi1LU0gzS1RPNFBBX3VDQ0tSSDVQTHA3TnRrS0lUQUt3NmVTc3p5RTZJTExxVVE5ZU1SLVRlOU1RQnpTcjQ4XzFpVnYxejhjVVhEd3Ziem1MdGpSWVZSZ0E5VGcxT1RzUGtEcENCVEw5X1J1cTFEamVRcVBXbjg3OVF5bDlHRDc5TWZvTTd5NG85NjBQZXc1YktVSXRtbUdPN3dvRUhxOXVnOXliTFVOVUNDVV"
+      "published": "Fri, 11 Sep 2026 13:39:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2RfWXVrcTZfc2dfSHVrVXRyMmpjR21zdkdFc1ZCNGFxMGdqQ1dOLThlQ1ZmNV9kWTI1cTVYa09LS0hoMTFVeHltZXRyaUh3VW81VHc4d3dlT09NN3NaMWhXUHh1ekNBVS1vQWRhS1RQcGZSV01GLVVFNEo3aHF1TkVXb1A5V3JfVGxLNDJmOW5xUFo4ZTdibkprd3ZJSnNCeHNCd0JDMEh3TVdfcTBENTVEdFRqM1duVS"
     },
     {
       "title": "La IA ya está transformando el trabajo en Buenos Aires: cuáles son las ocupaciones que podrían cambiar primero - Infobae",
@@ -91,28 +91,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEVTLWpDeXI2R25HQnJiVF9EN0dKV2p1T1QzTVl5NnFOb2h3bUxTdTV2SUo1MDBHZVIwOXhmQ2JhUFFHTUFFRG1qUE5teVEyRzlNTFphNHI5d2pTbndkSmItMTVMVWxOLTB5QjN1Q3U3eVRtMDZsY3c5VEp3OGVYeXh2T2cyZy1QRHphZmR6YVdrSmlYd0U2ZHdubkhENFk?oc=5\" target=\"_blank\">Advierten so"
     },
     {
+      "title": "GRIDX, venture builder biotech que arma 90+ startups en LATAM - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNno2Z1ctS3lBZkh1UHI4aXhRWTVtTUl3N2RlMlRPUUxzb0d3dnZqSDgxcHJ6alJvTXlMcmVJdzJJN24zU2FXN1VmaWp6bDl0RDJTak84WDh2SDF6amRULVNPQmpmLUdSUHNwTnVFdmhsc3kyY0ZuWjYwdTRhRk9iNmJRNWxWaTFnb0RfOS0zQmk3MDY0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 05 Sep 2026 14:51:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNno2Z1ctS3lBZkh1UHI4aXhRWTVtTUl3N2RlMlRPUUxzb0d3dnZqSDgxcHJ6alJvTXlMcmVJdzJJN24zU2FXN1VmaWp6bDl0RDJTak84WDh2SDF6amRULVNPQmpmLUdSUHNwTnVFdmhsc3kyY0ZuWjYwdTRhRk9iNmJRNWxWaTFnb0RfOS0zQmk3MDY0?oc=5\" target=\"_blank\">GRIDX, venture builder biot"
+    },
+    {
       "title": "Dos físicos argentinos levantaron U$S 2 millones para poder \"ver\" el interior de la Tierra con partículas del espacio - El Observador",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPanpjeWtxeHhPTERHeFpYQmpfTENJNFZmeTdWZkl5YWxUVzBMYXhhb05aV1l0RnJaa2N6d0FJRGszOU96NUFwczZ3OVhidkhXMHpjVmlTQllzTFRYa25MSkdpSE5DY0NBVmJlR1lZOU5RVnhCREdLeVQyN2xJRXhEeW1YWmd1dVczTlBHakFLMEpIbmFrQXhnWTNMVDNGSkIyUWNULU40cTkzUUdDSmkzSmhiQml3bUJ3SlF0WWJ0dmpTa3BENnpTSjJpZkdWSnIwWUhZREVhRWFZMXVseHZqSDNSYnFVWXZuT24xdHZJdmR2b0lGU2pHVmJxWllFQjM5R1hB0gGEAkFVX3lxTE5vRk9TOXRQZzJVSjJ4U1pzODhmREFDZkg3ZTdjVUN5dGNzRnBYVF9tWGxieHd4MmNHbm1qVjA0T3hrM1ptYnFReXVkOW9TNVhSTXJNc21sTTJsTzE3amdDNDMzR25xeF9jcENXWlc5UXFEY2NWMGdCazZFNm5WaDlXVlhuSmpJbkxxVzRieXFyZHM0UUl0dzJxV0x5c25jdU5IdnJXd3p4SUswQjV1djBnejJrNHZoOGtrMGwwdktGYnd4Y2k2OEV4MUNTSy02Q0lGNFh4WGxzdWNCNTFQeEJ6cU9DVndUQ1psbVJzbWFGczdNcHFvZmV0cG5XNWRycVY3LVgx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPanpjeWtxeHhPTERHeFpYQmpfTENJNFZmeTdWZkl5YWxUVzBMYXhhb05aV1l0RnJaa2N6d0FJRGszOU96NUFwczZ3OVhidkhXMHpjVmlTQllzTFRYa25MSkdpSE5DY0NBVmJlR1lZOU5RVnhCREdLeVQyN2xJRXhEeW1YWmd1dVczTlBHakFLMEpIbmFrQXhnWTNMVDNGSkIyUWNULU40cTkzUUdDSmkzSmhiQml3bUJ3SlF0WWJ0dmpTa3BENnpTSjJpZkdWSnIwWUhZREVhRWFZMXVseHZqSDNSYnFVWXZuT24xdHZJdmR2b0lGU2pHVmJxWllFQjM5R1hB0gGIAkFVX3lxTE9hOHNYSTJNRFczWUVwYVMtR0RmVjZIcjU5WW1wd3FTY2dLNkh2ajlNSkxtV21WMEJwU0QxLVFiMGY3NjJtR3B2WDBldHdYajJlZTJFb193b2d4bFFjUTI2cFhUaUFVZlZhZWxMUXlnQkF2UG9nWHFzRnZEb2xPOTBWdXctWlNYVDhkWU9wS0ZjVWhmTzZJQWdVZEQ0dUZKcXYwMzhRMHA4b0drMGo1ejVkSElLZ3dLNllhVm1FMVgzN3lyaVB3YzNKOE9IZ0IwQUZNQzZOWnJOVEV5VTJBT042VlJQb2syU25EbVlNMVFOcGNua3pJeTVUVF9aa2Jub2FRWmlFOHN2TQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 11 Sep 2026 00:35:59 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPanpjeWtxeHhPTERHeFpYQmpfTENJNFZmeTdWZkl5YWxUVzBMYXhhb05aV1l0RnJaa2N6d0FJRGszOU96NUFwczZ3OVhidkhXMHpjVmlTQllzTFRYa25MSkdpSE5DY0NBVmJlR1lZOU5RVnhCREdLeVQyN2xJRXhEeW1YWmd1dVczTlBHakFLMEpIbmFrQXhnWTNMVDNGSkIyUWNULU40cTkzUUdDSmkzSmhiQml3bUJ3Sl"
     },
     {
-      "title": "Agtech argentinas: 8 de cada 10 eligen complementar al agro - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmNWUHZmOThVWEY0S3poWkQxR0RPbFhpU1hUMk1NRFpCcUpSeUZzUmQteVBRRmxIUWNBeVFlS1NTakg2MGY1Y3B6Q2RrcU9rVWNjc1NONjFuckpzRVZDNjRkcTNFUlBZRjdyUGFRNllOVS1jUlJTRFFwYmI0TGFJVlNaQW5CQXhOQmcxSTJfN0l3Qkk?oc=5",
+      "title": "Startup argentina crea microseries con IA y facturará USD 3 millones - iProfesional",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTklRX3JPMFBTaXBuSXBLcFgwaXlDY0o4bktIOVNYRVlzS3hDWjVmeGM2R2lUQUdoT3JvMTRhVlNHQkZmMGVVUjRIaHEtZjhCWS1tUmZOMW9wNXVZR1luWERxMFZfZW5sWTJ0SHpNcm8tWl8zZjZTcTdpNjN0Nk5kUGtXSDY5cHZsVmM2YVBmdi05N2lZVk9QVW9yRjNBbHUzX0UtNWNINGNOXzd2Q1JxSlRnRUwwT1BEbkHSAb8BQVVfeXFMUDdvQjM1S2dBLWU4TmFrbUhFbUdZNGpzSm91ZFo0MkF3TUJJeV9vZjZJY3d0d091NXQtbmxsNXI1bXlld2E5WUNyRjRwUThoT3Rna3lLcWR1NWtIa2MyMWloMVNtQWhRU1pjMlpYQTJkdHNneHJKMmZTc2tkYWRKYWwtTFJwM1BPenJLbTNiamJzOU04VVR5a2hZZWhzOHVybFV6c2Y5cEtjUkdUVUdLZjcyellTVmlrbFpHeU9ZN28?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 06 Sep 2026 11:33:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmNWUHZmOThVWEY0S3poWkQxR0RPbFhpU1hUMk1NRFpCcUpSeUZzUmQteVBRRmxIUWNBeVFlS1NTakg2MGY1Y3B6Q2RrcU9rVWNjc1NONjFuckpzRVZDNjRkcTNFUlBZRjdyUGFRNllOVS1jUlJTRFFwYmI0TGFJVlNaQW5CQXhOQmcxSTJfN0l3Qkk?oc=5\" target=\"_blank\">Agtech argentinas: 8 de cada"
-    },
-    {
-      "title": "La otra realidad de Cabo Verde: así el rival de Argentina en el Mundial busca una revolución tecnológica silenciosa - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLWNZMVRKMzd5VTBTdUt2Qnk0RGFHUk11ZWhKa2lzeVBuNnJRanFIR3IxTzk2M3pnNTZ1dzh4elczbk1zTk1hQkdIZjdJb2JQWE9QNXJaVFNtaUg1dnQ4X2UwbjBOSzdqYmRzaWhteXZweG50VUZqNlYxUzM5MXFkd09uNTR1RDNfTlljdWxPeFZTbFRIWnI0WmVib2wzYzNsVU50Q2NVZks3Q0hiWjJlRXJtak1vdDNiUXJHTHVraXN6OXExdDlaNVIyWEMtcERKRG5nalgzaXVuRWg2TExkMkRrOWprQUZCaXZmM2YyMWZWS1RUM05j0gGSAkFVX3lxTFA3S1l3elJQQkd1MlJnTGtIa014SHZWb1o5Y0hKMEFucmxScEl5S2JKVlNqQkJia2JTazdHcHFqLXRrLUZIZmpvZndKSUY4NXJMZDU3emplX21jVHFWQzBDamtTTk1ITGZOX0oxUXhxUzAwX0QzNFFob3VDcm9pczVad01FY2llZ1plSEhJRHRhMkZ6MXZBcE5YcG9qZnJVVGE4azlPaEYxaFloemRZLXoyUk5nTTBVV05zZGFWVmxseW5WSHIwcF95cnBXa2xUYXRsamU5bjJvR3FCaVlXSzFXMFlhOHgtSDZjVW9LazBWVjJtZERia25yQS1IQWVEZE1CaTNYSFJwVU5vdUZGTHZweUE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLWNZMVRKMzd5VTBTdUt2Qnk0RGFHUk11ZWhKa2lzeVBuNnJRanFIR3IxTzk2M3pnNTZ1dzh4elczbk1zTk1hQkdIZjdJb2JQWE9QNXJaVFNtaUg1dnQ4X2UwbjBOSzdqYmRzaWhteXZweG50VUZqNlYxUzM5MXFkd09uNTR1RDNfTlljdWxPeFZTbFRIWnI0WmVib2wzYzNsVU50Q2NVZks3Q0hiWjJlRXJtak1vdDNiUX"
+      "published": "Sun, 06 Sep 2026 09:07:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTklRX3JPMFBTaXBuSXBLcFgwaXlDY0o4bktIOVNYRVlzS3hDWjVmeGM2R2lUQUdoT3JvMTRhVlNHQkZmMGVVUjRIaHEtZjhCWS1tUmZOMW9wNXVZR1luWERxMFZfZW5sWTJ0SHpNcm8tWl8zZjZTcTdpNjN0Nk5kUGtXSDY5cHZsVmM2YVBmdi05N2lZVk9QVW9yRjNBbHUzX0UtNWNINGNOXzd2Q1JxSlRnRUwwT1BEbk"
     }
   ],
   "count": 14

@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Anuncian viento catabático: qué es y a qué regiones afectará el fenómeno",
+      "url": "https://www.latercera.com/tendencias/noticia/anuncian-viento-catabatico-que-es-y-a-que-regiones-afectara-el-fenomeno/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "summary": "El fenómeno podría generar ráfagas de hasta 70 km/h en sectores cordilleranos durante este fin de semana."
+    },
+    {
       "title": "Primavera gris: cómo cuidarte y apoyar a tus cercanos durante esta temporada crítica para la salud mental",
       "url": "https://www.latercera.com/tendencias/noticia/primavera-gris-como-cuidarte-y-apoyar-a-tus-cercanos-durante-esta-temporada-critica-para-la-salud-mental/",
       "source": "La Tercera Tecnología",
@@ -35,22 +43,6 @@
       "summary": "El enfoque de los investigadores se basa en la fotofarmacología, una técnica que permite controlar reversiblemente la actividad de los fármacos mediante la luz. Presumen que los resultados del ensayo podrían contribuir al desarrollo de potenciales nuevos tratamientos."
     },
     {
-      "title": "7 zapatillas que se transformaron en iconos",
-      "url": "https://www.latercera.com/tendencias/noticia/7-zapatillas-iconos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 10 Sep 2026 18:49:00 +0000",
-      "summary": "De las canchas de básquetbol a los escenarios del hip-hop, pero también de la montaña a la ciudad: en el Mes de la Zapatilla, repasamos siete modelos que permiten entender cómo el calzado deportivo se convirtió en una forma de expresión."
-    },
-    {
-      "title": "Especialistas U. de Chile evalúan uso de inteligencia artificial para agilizar permisos de inversión - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE5hLUx5LW1UUHRQVkcyVzktRFJXbDJjU0xhOE9LS0hxbU1PRHVLLXhUUldTR0FXSUJNZkc0dHRGY054aDFTcVVyaUFMUEN6N3dqbDlBVkRjYXJJZGtNR2RrLTJiNFRUOHJETWVZbFBsakREcEwxeXVkTktvT2FUczkzYXJvWWxrak9IZ29LeUlkZGQyQ2VnUmk0NmpxWmRD?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 10 Sep 2026 23:30:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE5hLUx5LW1UUHRQVkcyVzktRFJXbDJjU0xhOE9LS0hxbU1PRHVLLXhUUldTR0FXSUJNZkc0dHRGY054aDFTcVVyaUFMUEN6N3dqbDlBVkRjYXJJZGtNR2RrLTJiNFRUOHJETWVZbFBsakREcEwxeXVkTktvT2FUczkzYXJvWWxrak9IZ29LeUlkZGQyQ2VnUmk0NmpxWmRD?oc=5\" target=\"_blank\">Especialist"
-    },
-    {
       "title": "Samsung Innovation Campus abre su segundo curso gratuito de Inteligencia Artificial disponible para todo público - Samsung Global Newsroom",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS1dtUlRoZFNSVmJvbHVyLV9UalNjMk5oeGNsUnVyUmdrQUNWLTRRbWlZV0wwM2hFa1BfdkFHZFd3YnNBa1pWdUMwdzMwOERMeGpDRFpsbTJVOEZkVFUzUzF2WnFSR0UzblNralpiRS1WbEhabzE5SXJlUDdJbENmUFcxd0JVWVBqN3ZQSzBhSjdNUUVZOUxSQnoyRmU0Z1NDRm1xeURuVF9hbk1pU0JraThTZ3U5LUVFSm1pVnBVTkJNSXRHUVpzSGcxYmhfandoSVFUbkh2cw?oc=5",
       "source": "Google News",
@@ -59,11 +51,19 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS1dtUlRoZFNSVmJvbHVyLV9UalNjMk5oeGNsUnVyUmdrQUNWLTRRbWlZV0wwM2hFa1BfdkFHZFd3YnNBa1pWdUMwdzMwOERMeGpDRFpsbTJVOEZkVFUzUzF2WnFSR0UzblNralpiRS1WbEhabzE5SXJlUDdJbENmUFcxd0JVWVBqN3ZQSzBhSjdNUUVZOUxSQnoyRmU0Z1NDRm1xeURuVF9hbk1pU0JraThTZ3U5LUVFSm"
     },
     {
+      "title": "Especialistas U. de Chile evalúan uso de inteligencia artificial para agilizar permisos de inversión - uchile.cl",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE5hLUx5LW1UUHRQVkcyVzktRFJXbDJjU0xhOE9LS0hxbU1PRHVLLXhUUldTR0FXSUJNZkc0dHRGY054aDFTcVVyaUFMUEN6N3dqbDlBVkRjYXJJZGtNR2RrLTJiNFRUOHJETWVZbFBsakREcEwxeXVkTktvT2FUczkzYXJvWWxrak9IZ29LeUlkZGQyQ2VnUmk0NmpxWmRD?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 10 Sep 2026 23:30:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE5hLUx5LW1UUHRQVkcyVzktRFJXbDJjU0xhOE9LS0hxbU1PRHVLLXhUUldTR0FXSUJNZkc0dHRGY054aDFTcVVyaUFMUEN6N3dqbDlBVkRjYXJJZGtNR2RrLTJiNFRUOHJETWVZbFBsakREcEwxeXVkTktvT2FUczkzYXJvWWxrak9IZ29LeUlkZGQyQ2VnUmk0NmpxWmRD?oc=5\" target=\"_blank\">Especialist"
+    },
+    {
       "title": "Aplicaciones generadas por IA están alargando los plazos de contratación para el 40% de los empleadores chilenos - Revista Gerencia",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPXzBWb0RPcEQtSy01cmZ3cWxrYnU2d043Rkhwc1FwTzhxdGE3eEtuSDI1b0owQ1U4cFQ3RFNOSWJ3SEJyOUVpOE1zOVQyLUdFbmFJVy1WMFZ3VzRGcUlObnhYRmllMHM3YTU2elpwdUlQWmkwN0Y1UDBjX1FUamFRNHVBUTl1Y0VzeXFzbFVNcWpXZHpxaTJnTHNvTXhXcVY0YVJnUXh4QVNYNWtiZkxaOUdDZTVnZVJWRnhZVUx4Y0hBOGp2WXZpaTdtRFVNSGYyVmI0VlNOVk5pR0prMW1Wd3h2NVJDbFBST0Jnc0FpdXZVZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 11 Sep 2026 14:05:31 GMT",
+      "published": "Fri, 11 Sep 2026 16:45:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPXzBWb0RPcEQtSy01cmZ3cWxrYnU2d043Rkhwc1FwTzhxdGE3eEtuSDI1b0owQ1U4cFQ3RFNOSWJ3SEJyOUVpOE1zOVQyLUdFbmFJVy1WMFZ3VzRGcUlObnhYRmllMHM3YTU2elpwdUlQWmkwN0Y1UDBjX1FUamFRNHVBUTl1Y0VzeXFzbFVNcWpXZHpxaTJnTHNvTXhXcVY0YVJnUXh4QVNYNWtiZkxaOUdDZTVnZVJWRn"
     },
     {
@@ -75,7 +75,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqANBVV95cUxNYi05aGx4QUJUU050dDhIQTR4U2lORnhXYUFfVGcyZXd4d0p1SVZIUXJlVXZIdGlQRTdDbC1oQTJhNkY1QS02R3c1SFJKZlhxaXNvUkJ1Rl83X2J0OVZYTkJRUEdBQlZvY2M5X1ZnU0c3ellSMVVzcHFud1BHbU96NlB1Qk5hODhxcVRsQXR6TnRaVm9oMFZwaGpBVGhRdF94dk9HYjhndkw1VXN2NnNwS1BOM1RLNnhlMG"
     },
     {
-      "title": "El 11° Congreso Latinoamericano IA, Tecnología y Negocios América Digital 2026 en Santiago - 新华网",
+      "title": "El 11° Congreso Latinoamericano IA, Tecnología y Negocios América Digital 2026 en Santiago - spanish.news.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PM0dlUG8yb3NtTjd1bjhyempNYWFEY25UOW1uTTVzc0ZvRHI2bndXRzFGeGFfV2RCUnFQWHVMaG92QWZsaUJsZUpiTDlDV3JEanJxWE1veTlwMUV6aGpBQndSQnRtSnVpYW5La0xNdWtkdDlkYmhBMTcyT1o?oc=5",
       "source": "Google News",
       "category": "news",
