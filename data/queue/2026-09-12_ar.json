@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "El CEO de Anthropic pidió desacelerar el desarrollo de la IA y lo respaldaron desde Sam Altman a Elon Musk",
+      "url": "https://www.clarin.com/tecnologia/ceo-anthropic-pidio-desacelerar-desarrollo-ia-respaldaron-sam-altman-elon-musk_0_lmWTngHUvv.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 12 Sep 2026 19:36:10 +0000",
+      "summary": "<ul><li>A través de un posteo en su blog, Dario Amodei llamó a poner límites al desarrollo de las capacidades de los modelos de frontera en EE.UU.</li><li>Horas después, los dos empresarios respaldaron en X su planteo.</li><li>La amenaza de corto plazo en Internet y el riesgo de China.</li></ul>"
+    },
+    {
       "title": "¿Puede ChatGPT leer tus conversaciones? El caso de Quilmes expuso cómo maneja OpenAI la privacidad de los chats",
       "url": "https://www.clarin.com/tecnologia/puede-chatgpt-leer-conversaciones-caso-quilmes-expuso-maneja-openai-privacidad-chats_0_ZUb6B1VKzw.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>Apple esperó siete años para entrar a un mercado dominado por Android.</li><li>El iPhone Duo apuesta por la integración entre hardware y software, pero hace concesiones importantes.</li><li>Cómo queda frente a los últimos modelos de Samsung, Motorola, Xiaomi y Huawei.</li></ul>"
     },
     {
-      "title": "Anthropic reveló tres escenarios posibles para 2030 ante el avance de la IA: el más extremo cambiaría la economía para siempre",
-      "url": "https://www.clarin.com/tecnologia/anthropic-revelo-escenarios-posibles-2030-avance-ia-extremo-cambiaria-economia-siempre_0_0nVStQtXeR.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 10 Sep 2026 17:52:16 +0000",
-      "summary": "<ul><li>La compañía detrás de Claude puso números al impacto que podría tener la inteligencia artificial sobre el trabajo y el crecimiento económico.</li><li>El escenario más disruptivo combina una expansión inédita con desempleo elevado y caída de salarios.</li></ul>"
-    },
-    {
       "title": "Hackeo de inteligencia artificial: cuál es el próximo paso de la ciberseguridad global - Infobae",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXo1M1F1SDM5VDVvZTE1Y3pBTDdMQnkxTFlJV2ZNc1FtekdZclk0YVh5YnJDVEo1NFItSVVTX0hpRnpLeUZWT2tBb0g2QkxBYnIyZ0l6a3dsTjB1d3RBUnBNRXVjRUQyQ1lNejhzYWxpMWV2QV9venQzM3V1QXl6U0JWY09XTXFsWnhYWlVmRmk0WHFWZnJJYjhXYkktd1VrSGpiU0dqTkhLMThtUlA2MHVRQm9Jc1ROVnZaaFVMOXhTNnPSAd4BQVVfeXFMT0xNLU0xc01pYjA3Y0lyb3U0eFpkTGNMM0phVlB4V0FhRzZ2M3otWnFEN3VnLWkxcDVYOEVSRnhvRzEyWVFJZ3dBRnBnT3pMWUU4ZDVqTUJubE9JNmhMRWxWMUl6N3FHVG9LZWplX01FU3dhUlVjZnVlNXpjZ2FReF9HdkJKX1FQRFpmTWoyel9fYkdsS09YMlJodkRkOGxERmdReTNaU2hYZFVPUEhhRHVhY1cxQzRhM1hESXdwSG16X2VWWHlKeklFbnEtWUI3U1hIY3lRdVFTVExDeEtB?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXo1M1F1SDM5VDVvZTE1Y3pBTDdMQnkxTFlJV2ZNc1FtekdZclk0YVh5YnJDVEo1NFItSVVTX0hpRnpLeUZWT2tBb0g2QkxBYnIyZ0l6a3dsTjB1d3RBUnBNRXVjRUQyQ1lNejhzYWxpMWV2QV9venQzM3V1QXl6U0JWY09XTXFsWnhYWlVmRmk0WHFWZnJJYjhXYkktd1VrSGpiU0dqTkhLMThtUlA2MHVRQm9Jc1ROVn"
     },
     {
-      "title": "El CEO de Anthropic propone un plan para regular el avance de la inteligencia artificial - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3ZSeE0zcnJab1kxVnZhVDJ1cnRycjNVN2xyNFdJd1J5aEkyU2EtM2J5Z3NzTVN2UlpSNkE0bnJWYVZUVGI5a2d6WXpZMmQtUldWWlRKbHhGRXJReDRULUVMQXQzMDZhWkxuUzh1WkZQOVQ3SXN3N01fd25JMW1LR2dWSGt6dE90TzBpWGpFYllEenZVVEptdmZYbzlsMjBxcHYtLS1SVkVqUGpKbldZUGcwTjBBT1BCb0U1bjRLVi01VkpHVTFZVGNzOHo5Y1FKZlY3M9IB2gFBVV95cUxOdnQxTDZTTUhHSjFqZnhMcUNfX1hKekY0SW8tTHZFZWlZODdWUTFScWtYajVFbVEzbW9uZVBGRlJSODBvTTdHRUtfUmdZa2JsS2Z4UWsxYi1JNENaVXpzeVh2UFdBX2FLb2lPaEFmUkJiZkVuZXU5Z3lBanlUNDhyZzNDOG5zQ3R2b1hOdkpydmtUTk15X3NQOTBTNW9MNGZZaWtGbzlkaFhmUUoxTFQ4b044dDQyTnRheUJMdXdLLTczeXBNNGtMam9GLWN3TnZnT1V4d1E1VGYzdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 12 Sep 2026 17:13:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3ZSeE0zcnJab1kxVnZhVDJ1cnRycjNVN2xyNFdJd1J5aEkyU2EtM2J5Z3NzTVN2UlpSNkE0bnJWYVZUVGI5a2d6WXpZMmQtUldWWlRKbHhGRXJReDRULUVMQXQzMDZhWkxuUzh1WkZQOVQ3SXN3N01fd25JMW1LR2dWSGt6dE90TzBpWGpFYllEenZVVEptdmZYbzlsMjBxcHYtLS1SVkVqUGpKbldZUGcwTjBBT1BCb0"
-    },
-    {
       "title": "Así funciona la vigilancia con inteligencia artificial que expandió Javier Milei en Argentina: drones, cámaras y reconocimiento facial - El Tiempo",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPVFBqRXF3ZWFHUkxrSFJ5TkF4X3J5U3VZY1FUbVdENjlQcEJRTl9IRWxUZG1KSGFDWFZTSzNxbFJ6bW5XQmNQd0JLbFMzOVU2Ukd3ZW5BdUZNZ19idXFCV1lOWnF5M0NUdE5lN19lZzJHT2x0TlVCYjBQSUt5ejAzT245TnQwa2xJcXFSNldWQ2k2QXBHVmN6OE9VT2hXM09zUDEzQVVFTW1xX0JFLVZkRmdTd3NDMXRRQ0Vxc0ZCYm1MMTRfRzQxZ25hQVNycFZJZ1BseDNQSmZDek5rNnR2Q1hVa1psNHZFaXpaNlJYU2czYjFfNUlOakFXRmxWa1NZSmh5cEJ6cUhXMFNQOHNlbXFFMNIBmAJBVV95cUxNaktLZEZmMWNMUHU1b2hCODhnYm1hY194ZDhWSGNxWE9iUThldnF5anhpSGNxSjM1T053Y2VrWUNvZWg2SW92b3Z0czA5THNKVl80SDNMeUJka2FBTVRRSV85el82NmxtWTF5RjZWODFLbTFXSEhidTVJQ1M4M0tZQmY2TENXaFpRNjJVQl9hTF9BdmFDVzdFRWs4QTQ2dlZoS1dxSVdHNXVkeTBTNzd4Q3VIcU1WbXJ2WThSZnFLODVOWU01Mmx3VFVNY0xVZEh0WG1rb3lTSHRjTjVjeTEzUkpfODhreGptenNmSS1mUG9yZlBWcl9icndaVUNuUFNLcWVlTUhjQURUY29aNE85SENFRVpiVjVJ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sat, 22 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPVFBqRXF3ZWFHUkxrSFJ5TkF4X3J5U3VZY1FUbVdENjlQcEJRTl9IRWxUZG1KSGFDWFZTSzNxbFJ6bW5XQmNQd0JLbFMzOVU2Ukd3ZW5BdUZNZ19idXFCV1lOWnF5M0NUdE5lN19lZzJHT2x0TlVCYjBQSUt5ejAzT245TnQwa2xJcXFSNldWQ2k2QXBHVmN6OE9VT2hXM09zUDEzQVVFTW1xX0JFLVZkRmdTd3NDMXRRQ0"
+    },
+    {
+      "title": "La inteligencia artificial predijo el marcador de la final entre España y Argentina, ¿quién ganará el Mundial 2026? | El Colombiano - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeElmNlJXYTVxWGEwbk9QeHV30gHPAUFVX3lxTFBVSVRGVHJBeTFWY0lkeTJXMmVlUzRnUUR3UFN5SUdPZlFoVW5JdGF1OU1oTERhVUpDTkx0M0d5Y3dpck05bE9ORVdPcEtVS3pyYVJldDgzWjRteXlueGNxanl0LUhXY2tXa0NGUVBkcHBTR0dGNTZsWUZqT1M3R1psaE9Sb2lIV1JtajdWbkRlY1VCemNjcmtrNU9oRXl5b0hjeUpwaVAxNVRadC15RDlsbDBNbUh6d3NjLUo0NHBUakNiRThldGszbTRQMmY2QQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQemVWV0FnZENSVndSZWR4LXpzMW1SOURkd0JidEtWREtGWEtHYl9mb2VIdTlDbnNiazJsWEhrTTIwUzNFQTd3QlpJZmZuSzFyeEhTQ0xoRzJLV1doTG1IanVLemNkeFd5UlhQRmtPdjgzMFByX2FwUWlTS3Vsb3VfSFRjcHloVEJCYXJLc2paMEFNcXd1RUk2amx3aVh5LUlxSU1ZYXZTVVpuVnQ4WEFQblhFeFRKUDNWeE"
     },
     {
       "title": "La IA ya está transformando el trabajo en Buenos Aires: cuáles son las ocupaciones que podrían cambiar primero - Infobae",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOamtDNDFOQVRZT3N4NHdsdS1haXhfVU9qV1JadDJPWWpnaGt1SkNBZDk5aTNBRnNRS3FpcFZhcVNKUVVaWVVBbllJdHpNVGFucS01OGdNaExfRWtUQTVWelFmZTBYQWNMdUFNUFJ1aFJrT1AwRHVlLWNpLUFDa3NvNUlFQTlVaUtIUWhjdDduaHNUQUJrRmJZaFlqdjMwR2huT1IyYg?oc=5\" target=\"_blank\">El cr"
     },
     {
+      "title": "Menta, healthtech argentina, gana u$s85.000 en Suiza - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPODhtX21zTW1JQ2JEMExHTVB1WjNEb2Nab3FKcmxUTFd3bUdMQTNnMUczZmFPb2ctU2FIR01EemZqM3B2ajF5WjVkdnlvYXg3d0lKUk1KRW9vWjZuXzctdC1xenZVYzJlUHJ4Z0JoOEliVzdzWlpLaVZIc0ptOGE3QzBIc2VYMTA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 12 Sep 2026 15:54:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPODhtX21zTW1JQ2JEMExHTVB1WjNEb2Nab3FKcmxUTFd3bUdMQTNnMUczZmFPb2ctU2FIR01EemZqM3B2ajF5WjVkdnlvYXg3d0lKUk1KRW9vWjZuXzctdC1xenZVYzJlUHJ4Z0JoOEliVzdzWlpLaVZIc0ptOGE3QzBIc2VYMTA?oc=5\" target=\"_blank\">Menta, healthtech argentina, gana u$s85.000 "
+    },
+    {
       "title": "Dos físicos argentinos levantaron U$S 2 millones para poder \"ver\" el interior de la Tierra con partículas del espacio - El Observador",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPanpjeWtxeHhPTERHeFpYQmpfTENJNFZmeTdWZkl5YWxUVzBMYXhhb05aV1l0RnJaa2N6d0FJRGszOU96NUFwczZ3OVhidkhXMHpjVmlTQllzTFRYa25MSkdpSE5DY0NBVmJlR1lZOU5RVnhCREdLeVQyN2xJRXhEeW1YWmd1dVczTlBHakFLMEpIbmFrQXhnWTNMVDNGSkIyUWNULU40cTkzUUdDSmkzSmhiQml3bUJ3SlF0WWJ0dmpTa3BENnpTSjJpZkdWSnIwWUhZREVhRWFZMXVseHZqSDNSYnFVWXZuT24xdHZJdmR2b0lGU2pHVmJxWllFQjM5R1hB0gGEAkFVX3lxTE5vRk9TOXRQZzJVSjJ4U1pzODhmREFDZkg3ZTdjVUN5dGNzRnBYVF9tWGxieHd4MmNHbm1qVjA0T3hrM1ptYnFReXVkOW9TNVhSTXJNc21sTTJsTzE3amdDNDMzR25xeF9jcENXWlc5UXFEY2NWMGdCazZFNm5WaDlXVlhuSmpJbkxxVzRieXFyZHM0UUl0dzJxV0x5c25jdU5IdnJXd3p4SUswQjV1djBnejJrNHZoOGtrMGwwdktGYnd4Y2k2OEV4MUNTSy02Q0lGNFh4WGxzdWNCNTFQeEJ6cU9DVndUQ1psbVJzbWFGczdNcHFvZmV0cG5XNWRycVY3LVgx?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 11 Sep 2026 00:35:59 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPanpjeWtxeHhPTERHeFpYQmpfTENJNFZmeTdWZkl5YWxUVzBMYXhhb05aV1l0RnJaa2N6d0FJRGszOU96NUFwczZ3OVhidkhXMHpjVmlTQllzTFRYa25MSkdpSE5DY0NBVmJlR1lZOU5RVnhCREdLeVQyN2xJRXhEeW1YWmd1dVczTlBHakFLMEpIbmFrQXhnWTNMVDNGSkIyUWNULU40cTkzUUdDSmkzSmhiQml3bUJ3Sl"
-    },
-    {
-      "title": "Agtech argentinas: 8 de cada 10 eligen complementar al agro - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmNWUHZmOThVWEY0S3poWkQxR0RPbFhpU1hUMk1NRFpCcUpSeUZzUmQteVBRRmxIUWNBeVFlS1NTakg2MGY1Y3B6Q2RrcU9rVWNjc1NONjFuckpzRVZDNjRkcTNFUlBZRjdyUGFRNllOVS1jUlJTRFFwYmI0TGFJVlNaQW5CQXhOQmcxSTJfN0l3Qkk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 06 Sep 2026 11:33:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdmNWUHZmOThVWEY0S3poWkQxR0RPbFhpU1hUMk1NRFpCcUpSeUZzUmQteVBRRmxIUWNBeVFlS1NTakg2MGY1Y3B6Q2RrcU9rVWNjc1NONjFuckpzRVZDNjRkcTNFUlBZRjdyUGFRNllOVS1jUlJTRFFwYmI0TGFJVlNaQW5CQXhOQmcxSTJfN0l3Qkk?oc=5\" target=\"_blank\">Agtech argentinas: 8 de cada"
     },
     {
       "title": "Una startup argentina lanzó en Brasil una plataforma conversacional para que los silvers hagan sus compras de super por chat o voz - Infobae",
