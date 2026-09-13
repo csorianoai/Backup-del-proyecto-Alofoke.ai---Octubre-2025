@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "El CEO que desarrolla una rival de ChatGPT ahora pide “bajar el ritmo” de la IA",
-      "url": "https://expansion.mx/tecnologia/2026/09/13/ceo-desarrolla-rival-chatgpt-pide-bajar-ritmo-ia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Sun, 13 Sep 2026 18:48:06 GMT",
-      "summary": "El CEO de Anthropic propone que las compañías de IA mantengan el desarrollo, pero a un ritmo que permita reforzar las pruebas y medidas de seguridad."
-    },
-    {
       "title": "Pova 8 Pro 5G: el diseño estilo Matrix que querías por menos de 7,000 pesos",
       "url": "https://expansion.mx/tecnologia/2026/09/11/pova-8-pro-diseno-matrix-por-menos-7-000-pesos",
       "source": "Expansión Tecnología",
@@ -43,12 +35,20 @@
       "summary": "Los directivos de Rappi, Equinix y Aleatica coinciden en el Expansión Summit 2026 en que la competitividad urbana dependerá de conectar mejor la infraestructura física y digital."
     },
     {
-      "title": "El Espectador presenta en México un análisis con IA sobre 14.500 trinos de Gustavo Petro en X durante su mandato - pulzo.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG1uTVN2dm5BUGZ1ZHpMVUhEaHpDUzV3b1ZIb1ZHZFhja3V3RVhjNkU1amxnVEJ5OXc5Qml0d0VoSXJlUjFKaw?oc=5",
+      "title": "La preventa del iPhone Duo está a días: cómo ser de los primeros en tener el teléfono plegable de Apple",
+      "url": "https://expansion.mx/tecnologia/2026/09/10/preventa-iphone-duo-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 10 Sep 2026 22:35:19 GMT",
+      "summary": "El iPhone Duo llegará a México con versiones de hasta 2 TB de almacenamiento y un precio que alcanza los 77,999 pesos."
+    },
+    {
+      "title": "El vicepresidente expuso una agenda centrada en atraer recursos privados, preparar talento para la inteligencia artificial y promover proyectos por más de $600 billones - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOajRNZTdwRjBnWHg0X3dzMUw2dmhOR0Z0SnRkZjdlTG9fdkxiQ1psVEpkMW1pM3UxOE92OGFsUVMwWUNpMlVJUFdmMzN5d1U0Qkw5ZTdJOEdUTU4xYVlhLTJFYUpPZ0g4ZmgtSWp3MUc5Mmx5MklnYTBBV0czLTRRVnFzX2g2MFpDMUhyVUthekE1U2pucUpsZ0hPd3Y2SjYwR2VCeDNkc3h5anV2NXoyUlR3TndxbXlBajVpanZ1VHZNYkpLU29FemU4TFJEdGNGVjFRNFhrb0xOcGEtdXc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 13 Sep 2026 15:25:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG"
+      "published": "Sun, 13 Sep 2026 21:40:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOajRNZTdwRjBnWHg0X3dzMUw2dmhOR0Z0SnRkZjdlTG9fdkxiQ1psVEpkMW1pM3UxOE92OGFsUVMwWUNpMlVJUFdmMzN5d1U0Qkw5ZTdJOEdUTU4xYVlhLTJFYUpPZ0g4ZmgtSWp3MUc5Mmx5MklnYTBBV0czLTRRVnFzX2g2MFpDMUhyVUthekE1U2pucUpsZ0hPd3Y2SjYwR2VCeDNkc3h5anV2NXoyUlR3TndxbXlBaj"
     },
     {
       "title": "Luisito Comunica acusa al Gobierno de clonar su imagen con IA para promocionar políticas de Sheinbaum - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0drSjlISjIxWjlRRFFXWUVnek1MTzhaTndXVXpDaFFFRFRDYURuWWxSME8xcXZjZDVWNE1NQTQzNXBJUHZTZWFORndMOHh2dFJoUGJsb0xNazdiaHVuZUJYUlpxZ0pGbjhEX29Na0JnRi1LNEdWYS15UlR5MW9IMzV1aUVQVXh2ZFRfcEhrWnlvTWt3NE4tZmswOFlpVlo0ZGdMNjBBWmx3RW5ZbXQzUlFrR2stUFE5Wk"
     },
     {
-      "title": "México ya tiene su Plan Nacional de IA: quiere crear tecnología propia, formar talento y usar inteligencia artificial para gobernar - Xataka México",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZUNaOC1TbENyMmRwMTRLZWpFRkZPSkYwSlNrUllYUTBMRjI5dy1SWnJyT3FLNWdsaElxcVQ3a0UzTnBpVTh4dHVIa2NVSHBxWFJfUHRFajNZZDNPX3dVYnpiY0lYM2UxTHFnaGlIbUc0VTBxbk5kdmF3dWc3WjNIS1lxbWl3THg2Q2ZmY2tSNjU4R1B5Y3NLaVd2ZjJwZ1owbHZTQThmR2NoQTZnemN3NGNDS0hqX1B1NFgwSTdKZU9rcWJnTV9WdWY4U2E1SGxJdG4tWk1UV0p2aFMyS1BDR0N5aGJjNmJTMmx0N2hoN0NNTFXSAfgBQVVfeXFMTUtxcHpMWXUyNWUwSUF1YWhWQ0hoblgtZnFaY01pZDdicWpwMWM2V2tHbXRlSVlYcjdUbEoyY3BiMlJJanVpMHJpeEt6VjhtOER6Tkx4Ni1iMEk5cmZMSFdBT3NsRVBiQkV1SjJ2Q3NyZEdyeHNVRXZCOVppM0hvUlhkREhDcXdseDVtbGRJQzhFQTlIOG9xTFhLUU5pVVl2YjZiRkx4YUc0M0NBcy1PQUIxMDNNTHZUa3p0LUxmelpLYVJEY2Z5WmRuc3RWejc3UUlXbmgxYWNYXzZCc0ZhZXpkVnVteGxER2JjVjQ3LXR4d01jeTBQMmc?oc=5",
+      "title": "El Espectador presenta en México un análisis con IA sobre 14.500 trinos de Gustavo Petro en X durante su mandato - Pulzo",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG1uTVN2dm5BUGZ1ZHpMVUhEaHpDUzV3b1ZIb1ZHZFhja3V3RVhjNkU1amxnVEJ5OXc5Qml0d0VoSXJlUjFKaw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 18:00:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZUNaOC1TbENyMmRwMTRLZWpFRkZPSkYwSlNrUllYUTBMRjI5dy1SWnJyT3FLNWdsaElxcVQ3a0UzTnBpVTh4dHVIa2NVSHBxWFJfUHRFajNZZDNPX3dVYnpiY0lYM2UxTHFnaGlIbUc0VTBxbk5kdmF3dWc3WjNIS1lxbWl3THg2Q2ZmY2tSNjU4R1B5Y3NLaVd2ZjJwZ1owbHZTQThmR2NoQTZnemN3NGNDS0hqX1B1NF"
+      "published": "Sun, 13 Sep 2026 15:25:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - emprendedor.com",
