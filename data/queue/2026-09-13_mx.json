@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El CEO que desarrolla una rival de ChatGPT ahora pide “bajar el ritmo” de la IA",
+      "url": "https://expansion.mx/tecnologia/2026/09/13/ceo-desarrolla-rival-chatgpt-pide-bajar-ritmo-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sun, 13 Sep 2026 18:48:06 GMT",
+      "summary": "El CEO de Anthropic propone que las compañías de IA mantengan el desarrollo, pero a un ritmo que permita reforzar las pruebas y medidas de seguridad."
+    },
+    {
       "title": "Pova 8 Pro 5G: el diseño estilo Matrix que querías por menos de 7,000 pesos",
       "url": "https://expansion.mx/tecnologia/2026/09/11/pova-8-pro-diseno-matrix-por-menos-7-000-pesos",
       "source": "Expansión Tecnología",
@@ -35,12 +43,12 @@
       "summary": "Los directivos de Rappi, Equinix y Aleatica coinciden en el Expansión Summit 2026 en que la competitividad urbana dependerá de conectar mejor la infraestructura física y digital."
     },
     {
-      "title": "La preventa del iPhone Duo está a días: cómo ser de los primeros en tener el teléfono plegable de Apple",
-      "url": "https://expansion.mx/tecnologia/2026/09/10/preventa-iphone-duo-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 10 Sep 2026 22:35:19 GMT",
-      "summary": "El iPhone Duo llegará a México con versiones de hasta 2 TB de almacenamiento y un precio que alcanza los 77,999 pesos."
+      "title": "El Espectador presenta en México un análisis con IA sobre 14.500 trinos de Gustavo Petro en X durante su mandato - pulzo.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG1uTVN2dm5BUGZ1ZHpMVUhEaHpDUzV3b1ZIb1ZHZFhja3V3RVhjNkU1amxnVEJ5OXc5Qml0d0VoSXJlUjFKaw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 13 Sep 2026 15:25:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG"
     },
     {
       "title": "Luisito Comunica acusa al Gobierno de clonar su imagen con IA para promocionar políticas de Sheinbaum - Infobae",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Sun, 13 Sep 2026 10:59:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV0drSjlISjIxWjlRRFFXWUVnek1MTzhaTndXVXpDaFFFRFRDYURuWWxSME8xcXZjZDVWNE1NQTQzNXBJUHZTZWFORndMOHh2dFJoUGJsb0xNazdiaHVuZUJYUlpxZ0pGbjhEX29Na0JnRi1LNEdWYS15UlR5MW9IMzV1aUVQVXh2ZFRfcEhrWnlvTWt3NE4tZmswOFlpVlo0ZGdMNjBBWmx3RW5ZbXQzUlFrR2stUFE5Wk"
-    },
-    {
-      "title": "El Espectador presenta en México un análisis con IA sobre 14.500 trinos de Gustavo Petro en X durante su mandato - Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG1uTVN2dm5BUGZ1ZHpMVUhEaHpDUzV3b1ZIb1ZHZFhja3V3RVhjNkU1amxnVEJ5OXc5Qml0d0VoSXJlUjFKaw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 13 Sep 2026 15:25:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnJrdi13RW1oaHhCV2dkYVhfLUN6YlJlVFRSRlA1eDhjemFhaXlvdklOc2Rnb0Z2dHZTYTNicHFjTGhsQWVOUndPbTdKbFpLRjFjTXJ5X0tJczZYcUdTM1MtU2Z6Ynotc1FXODM4TnFhYWNmSW5Fak0xXzUtNHRXNzNqcWNCbGJkSjhTQm5BejVSVHJJZFdqRUkzUEpmZXpjWjgzalVpajZOc0lZTjBfcG1NR1JINGVQMG"
     },
     {
       "title": "México ya tiene su Plan Nacional de IA: quiere crear tecnología propia, formar talento y usar inteligencia artificial para gobernar - Xataka México",
@@ -83,7 +83,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPREdQOVlONFc3dWx4MENWN2hnMHlqbDVzZnZOZUNSM0xKUFJfckhCYUVwQ1hISEt6V3hqUGpDNEZ5NDE1REMwUUd1VXFiODVwLVBFdXZPSkEtSVhCNkNsVXlESWNfWE41T2s1V2poNjMxam9ZNVVRSVc0NnlPS2ZBaUliSkVPNFk0c01DZ05VNA?oc=5\" target=\"_blank\">Primero: startup IA para empresas"
     },
     {
-      "title": "Cuatro de cada 10 inversionistas de startups mexicanas de IA están en Estados Unidos - eleconomista.com.mx",
+      "title": "Cuatro de cada 10 inversionistas de startups mexicanas de IA están en Estados Unidos - El Economista",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX3ZWSmY2Q01XQjd4dHBYcXFpekkxbG5kSW5RQVQ4UHg4VFZyTEJIaTZMeHZtZ0tINm03dWVBaVZ4WVFYOFFPOTZBRnUtSFhxcFBXdlpLekJLbl9uNzdNM1dRaEZfdU4xaHY2RzAycHVVVWc5RUcwek1HT2V4Mjl5V2tIclV4MWZaSDIyOEk3U3c0U0JMYU1EYU9WNFVlNTdBZE9vaE5ZakFCMUotOHFyOWsxZGRtSDIwZkJKTVF3M3AwLWPSAcgBQVVfeXFMUEk5cUh1RXNmYlRhbzNkdFgxaVlNLUxieFlCRUg3TnlEQW80R1lCWXlPMnpqS0c0Vk1JWjhzeGJaOVZxRUlyY1RacFdxNDY1UllFX19yZGd1VFhUMUdyX0ZLS0JlZ04zY0NHUW9PVlBBaVRfWndwLTllUkJISFRURmR2NHRpM3ppV0ptMHVEZnpnUmhPZGRuYkZrNGlwb2FUS3EwTlgtSXJRSU1INEp6b19kQ3RBZ1FxVksyY2NjVC1yZXlyZTN1RjI?oc=5",
       "source": "Google News",
       "category": "news",
