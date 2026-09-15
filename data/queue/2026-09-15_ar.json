@@ -3,6 +3,30 @@
   "country": "ar",
   "articles": [
     {
+      "title": "\"Puede hacer mucho daño\": dos técnicos de Google DeepMind renuncian y se suman a los pedidos de regular la Inteligencia Artificial",
+      "url": "https://www.clarin.com/tecnologia/puede-hacer-dano-tecnicos-google-deepmind-renuncian-suman-pedidos-regular-inteligencia-artificial_0_BG5h5EwQZx.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 15 Sep 2026 16:03:01 +0000",
+      "summary": "<ul><li>Trabajaban en el área que se encarga de la seguridad de los nuevos modelos de IA.</li><li>La semana pasada, un exempleado de Anthropic había publicado una carta alertando sobre los riesgos que trae el avance.</li></ul>"
+    },
+    {
+      "title": "El CEO de Nvidia dijo que las predicciones apocalípticas sobre la IA “son inventadas” y Trump lo llamó en vivo",
+      "url": "https://www.clarin.com/tecnologia/jensen-huang-ceo-nvidia-rechazo-pronosticos-apocalipticos-ia-inventados_0_kRIX0n36AY.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 15 Sep 2026 15:10:19 +0000",
+      "summary": "<ul><li>Jensen Huang aseguró que los escenarios que anticipan una catástrofe provocada por la inteligencia artificial no tienen respaldo científico.</li><li>El presidente de EE.UU. se sumó a la discusión y calificó como un “engaño” el temor a que los robots terminen tomando el control.</li></ul>"
+    },
+    {
+      "title": "iPhone 18 Pro Max vs. Galaxy S26 Ultra: en qué gana cada uno y cuál es \"el mejor celular del mundo\"",
+      "url": "https://www.clarin.com/tecnologia/iphone-18-pro-max-vs-galaxy-s26-ultra-gana-mejor-celular-mundo_0_0Xdjupo6Qc.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 15 Sep 2026 08:45:28 +0000",
+      "summary": "<ul><li>Apple y Samsung vuelven a enfrentarse en la cima de la gama alta. </li><li>Potencia, cámaras, batería, inteligencia artificial y funciones exclusivas, frente a frente. </li><li>Las diferencias son mínimas, pero hay un ganador.</li></ul>"
+    },
+    {
       "title": "Por qué los gigantes de la IA piden pisar el freno: entre los riesgos reales, el marketing y la amenaza de China",
       "url": "https://www.clarin.com/tecnologia/gigantes-ia-piden-pisar-freno-riesgos-reales-marketing-amenaza-china_0_qvIJ6bV2vd.html",
       "source": "Clarín Tecnología",
@@ -19,52 +43,28 @@
       "summary": "<ul><li>Sam Altman emitió un nuevo comunicado en sus redes sociales donde indicó que se podría \"perder el control del futuro\" en manos de la IA.</li><li>Ayer había comunicado que su empresa no saldría a la bolsa este año.</li></ul>"
     },
     {
-      "title": "Pantalla grande y fáciles de usar: las mejores tablets de 11 pulgadas y sus precios en Argentina",
-      "url": "https://www.clarin.com/tecnologia/pantalla-grande-faciles-usar-mejores-tablets-11-pulgadas-precios-argentina_0_Bl8cbcXM7M.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 14 Sep 2026 08:45:16 +0000",
-      "summary": "<ul><li>Sirven para leer, navegar, hacer videollamadas y consumir contenidos con mayor comodidad. </li><li>Hay opciones con distintas prestaciones y tecnologías para reducir la fatiga visual. </li><li>Cuál conviene según el tipo de usuario.</li></ul>"
-    },
-    {
-      "title": "El CEO de OpenAI confirmó que no saldrá a la bolsa este año: admitió preocupaciones por la seguridad de la IA",
-      "url": "https://www.clarin.com/tecnologia/ceo-openai-confirmo-saldra-bolsa-ano-admitio-preocupaciones-seguridad-ia_0_TlR30QhNDx.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 13 Sep 2026 19:28:37 +0000",
-      "summary": "<ul><li>\"Teniendo en cuenta todo lo que está ocurriendo en materia de seguridad, ahora mismo sería un momento poco prudente para salir a bolsa\", dijo Sam Altman. </li><li>Varios peces pesados expresaron su temor por la velocidad en la que se desarrolla la IA.</li></ul>"
-    },
-    {
-      "title": "El director de Anthropic denuncia que la industria mintió sobre los riesgos de la IA: \"Existen peligros reales\"",
-      "url": "https://www.clarin.com/tecnologia/director-anthropic-denuncia-industria-mintio-riesgos-ia-existen-peligros-reales_0_IbSOGOxHQi.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 13 Sep 2026 16:00:03 +0000",
-      "summary": "<ul><li>Dario Amodei sostuvo que durante años las compañías le escondieron a la gente los riesgos reales del avance de esta tecnología. </li><li>Sostuvo que el control debería realizarse de manera conjunta entre empresas privadas y gobiernos democráticos. </li></ul>"
-    },
-    {
-      "title": "Cómo resistirán los empleos en la Argentina tras el avance de la inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3FlYmdtbUdCRlFZSFpuM0poMW9hNHQ4MmpYUzhMOV9wX2lyVDlUaEJWRzdzVVNFWGc4NTBNQXRLWWZnVzVNVGppVVliWVVZMTlzSDNVaWNOQWdqMTlMRjlmNFNERkNrRXFKeUJ6bFpXdzJGV3hFV3U1R0hJUkx3YjhMR0dBbGpnaXJ1RU4tMTVBeGhfYTNJX0VVZDY0bENlUHJ6dmp1MGxQcV9mUXg0a1ZfWXlpeUZrQXpCb2RRc2pkSGpBdXFBNV95bmx5Z9IB6AFBVV95cUxOWHpiaE5ISlpkOW9mVGNwS0NoMlhVQTJya1hOU2ptQ0tfeXBGUFJjczk4MWdvbHVYMWVPSmJVVEpoRnYxWmJUZ0dBbE5vYUVrakEyNFpWTkstQzlRck5GVmU0TEhQV0NGNFh1MVl2QVBobklnalFVOXRnOE92QWVwZ2luTUhLeVpPdEgwaGpBNDhtTG81V2dHUlVuRUhQeUFfSTNZb19tMUlDeXFhX3MyWnc0QXpGanBYUkFQdmEwNTc4U252ZHJzV2UweVNmXzNUVl9ucTd6emhOakRFaUR3ZFM0ZXE3NGNZ?oc=5",
+      "title": "“La infraestructura tiene que ser ética”: el reclamo de una especialista para controlar el avance de la inteligencia artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOWXRuMFd1TjNtYXROLTd3ekRJdkFEaWMxbWwtUE9sMlZwY0o3X1RLVXN0aHZXR0RjY3liNm5SMnVZWGphTWpFd0RzSkpIWjZNRXdTcG1BaFpjMzhyWjRCT25PRlluTHBpRE9welRNaXZybGR1Nk16Z2J0emZMQVFUckszbmpOUF9lNEVDZUEzSnoyVW5lNnVCcWRFR1ZnX2p0cXVoMjNKWkhFVDNtd0RtSVRaN2k1amJtc1NFZzByS3JLSHFBRmVCVjd3MGNOQ1FHbVdRdVV0QkljR0d0MzhjaFB5T2J4YXc2UDl6YWJCTlV5dFVnMHU0QkIwSFM1cnU2VFhUN9IBnwJBVV95cUxQMUl1dDVPVHZhcEJtY25xejJZMURzc1ljWWItQ2xOeEhlbEk3TVRJbGVWMFFTM2VjSERNclpuakJncjNhQ2V6eFFWaF9CXzJudWhwUDhZSF9zV0wzRUFBRUtBTHFqenN0T1lvd3ROeG81a2NVdXVMd0VBUGdhQ1lIN1U4ak8tUDRtRWZJRjJtZ3VoUHJZWUJUZDZZRkJlX3oxelM3Y2RlV2VDcEs0TXU1U2NXOHJoN2Jxc3hZTHFSSXFrOE56VDZmem83bFI4WGppcHJkN1laTERPekliYnlyZXV5WDBRc3VPT3V3SGpsMnJtellpbURpTUoyZ3JjUi1YbXNEWm5uN0d5d1UwUnh4Nnp2NmhOWlk1R2ZTWWhQVQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 14 Sep 2026 19:21:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3FlYmdtbUdCRlFZSFpuM0poMW9hNHQ4MmpYUzhMOV9wX2lyVDlUaEJWRzdzVVNFWGc4NTBNQXRLWWZnVzVNVGppVVliWVVZMTlzSDNVaWNOQWdqMTlMRjlmNFNERkNrRXFKeUJ6bFpXdzJGV3hFV3U1R0hJUkx3YjhMR0dBbGpnaXJ1RU4tMTVBeGhfYTNJX0VVZDY0bENlUHJ6dmp1MGxQcV9mUXg0a1ZfWXlpeUZrQX"
+      "published": "Tue, 15 Sep 2026 17:36:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOWXRuMFd1TjNtYXROLTd3ekRJdkFEaWMxbWwtUE9sMlZwY0o3X1RLVXN0aHZXR0RjY3liNm5SMnVZWGphTWpFd0RzSkpIWjZNRXdTcG1BaFpjMzhyWjRCT25PRlluTHBpRE9welRNaXZybGR1Nk16Z2J0emZMQVFUckszbmpOUF9lNEVDZUEzSnoyVW5lNnVCcWRFR1ZnX2p0cXVoMjNKWkhFVDNtd0RtSVRaN2k1amJtc1"
     },
     {
-      "title": "Argentina | El Ejército y la UTN debaten sobre inteligencia artificial aplicada a la defensa - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXk3b1dNR0Nfay1QZW1EMXFwOUQzUVV1V1NlYlo0WUxXb3FfQVVCUEQ4eFlWTGtuWjd2bXF1SU40T2RkQmdldVpWZ3c5M1FRY19tczVnb0xmRTRnem1CaHQyTmdSUjBYY0RXWm12MFRZcmhTSjQ2UWZ0dkhDUE9sNXdxQnBlSTFYcHdqLTBubWU0cXpJRUtHRUt2MXhBZks4VEc4M1cwWUc3cmd6b3NCQw?oc=5",
+      "title": "Nvidia y Palantir ponen límites al uso de intelige... - inteligenciaargentina.ar",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlMwOEVRcHd5c1BqOUQ3T2d1VG90RnFJSnhuMnRTUVVKN2FfX1pReHZuWnl4dDZKaThFNEl3Qm9pcmZxTHdSVUxnaGcwbmJrQmhwNjdtdGZpbFVLYUF1Z3BEeHNqMzNqTjd4a1ljYzROXzAwRDBVbzdSX3RyU3dnQ1EyaDh2Zy1EWjZPLXk3MzV3Vzh5cG1EMWVZdmRqajd3S1VlaFo2T01JX2o1aVBJT01QWk5JS2themhpQ0VFeVl6QjFOOWdtX3A5SVU3Y1RfVlI4aFE5UlBXS3NaM0phWmhnOWRVOVNrNnJoZHJB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 14 Sep 2026 15:11:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVXk3b1dNR0Nfay1QZW1EMXFwOUQzUVV1V1NlYlo0WUxXb3FfQVVCUEQ4eFlWTGtuWjd2bXF1SU40T2RkQmdldVpWZ3c5M1FRY19tczVnb0xmRTRnem1CaHQyTmdSUjBYY0RXWm12MFRZcmhTSjQ2UWZ0dkhDUE9sNXdxQnBlSTFYcHdqLTBubWU0cXpJRUtHRUt2MXhBZks4VEc4M1cwWUc3cmd6b3NCQw?oc=5\" targe"
+      "published": "Tue, 15 Sep 2026 13:52:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVlMwOEVRcHd5c1BqOUQ3T2d1VG90RnFJSnhuMnRTUVVKN2FfX1pReHZuWnl4dDZKaThFNEl3Qm9pcmZxTHdSVUxnaGcwbmJrQmhwNjdtdGZpbFVLYUF1Z3BEeHNqMzNqTjd4a1ljYzROXzAwRDBVbzdSX3RyU3dnQ1EyaDh2Zy1EWjZPLXk3MzV3Vzh5cG1EMWVZdmRqajd3S1VlaFo2T01JX2o1aVBJT01QWk5JS2them"
     },
     {
-      "title": "Argentina analiza aplicar inteligencia artificial y analítica predictiva a sus sistemas de Defensa - inteligenciaargentina.ar",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOck5kVzJCakJvMnY5MGw3aDdPSVE0MVhzNlFqR1dYbms0bnZoTEg3TlNHN2htMTBMVFhiMGR4M1BDclVPenduOFhjYkVIRHNoY09zWU9TZzNiSE5RVlhFZzFEWi0wVElwWnVDbnN2SGhoYkVCUHF6djJZZlVETUEyamJoUmtXa0txblg1b1dzeVZJejJHcGlGd0lPWUhDdmdsaGM0X3J5UUh2RUNhX29qbGdCZlkwWDhkS3hraWg2bWVRZXBrOVl6RFpvQ2k4SF9xOTdKM2NpSnQ?oc=5",
+      "title": "La ONU reconoció a una inteligencia artificial argentina capaz de anticipar la pérdida de autonomía en adultos mayores - la100.cienradios.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYV9DMFd3dWVsemtCQlZnRmJnS1hESVQxaENVd0dRX3poU09ZM3pfRlVMYXp3Nk9ubVhTRmNaMlZ0cTZ3QlR3eVRNcTZRc2NJeTFVMGI3ZDcwQjdaUEpVeTVoQ1VKZGMxdlBHZ0NrYXQ0SXUzeklBNzA4eFcwQ1plWURTS2hlRTJJX014OWlVRTJZVzFza3FHN2ZJSjYyemVXZnlJRmg4M2J0Q1BOT2xHLWV6ZFF3dkNIT0JjT1lVc0g4RUpLS3FqWjZFQWhKUE14WE0wZUtwR0Z1ME5pSl9wQkJjaG56Tnp3eEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 14 Sep 2026 11:48:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOck5kVzJCakJvMnY5MGw3aDdPSVE0MVhzNlFqR1dYbms0bnZoTEg3TlNHN2htMTBMVFhiMGR4M1BDclVPenduOFhjYkVIRHNoY09zWU9TZzNiSE5RVlhFZzFEWi0wVElwWnVDbnN2SGhoYkVCUHF6djJZZlVETUEyamJoUmtXa0txblg1b1dzeVZJejJHcGlGd0lPWUhDdmdsaGM0X3J5UUh2RUNhX29qbGdCZlkwWDhkS3"
+      "published": "Tue, 15 Sep 2026 16:10:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYV9DMFd3dWVsemtCQlZnRmJnS1hESVQxaENVd0dRX3poU09ZM3pfRlVMYXp3Nk9ubVhTRmNaMlZ0cTZ3QlR3eVRNcTZRc2NJeTFVMGI3ZDcwQjdaUEpVeTVoQ1VKZGMxdlBHZ0NrYXQ0SXUzeklBNzA4eFcwQ1plWURTS2hlRTJJX014OWlVRTJZVzFza3FHN2ZJSjYyemVXZnlJRmg4M2J0Q1BOT2xHLWV6ZFF3dkNIT0"
     },
     {
       "title": "Giuseppe Valditara, ministro de Educación de Italia: “Primero está la inteligencia humana, después la inteligencia artificial” - Infobae",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEg5SWZiSFA0SnBPN2ZqcS11XzdYNEdPTUJmZmhsRzBiN0FkbW1yWHZ0bHp6RFRhVWpNQnFaUFVhdkgyQV9HRUNEVl9PT19DbldIZTRYbjgteVlLcUtQVWliNkdDb2dzNFN5VkdlcHJvd0d2VkpCelFFZWt0MnA2by01WmdKYURybXBpVDFKMXgyZw?oc=5\" target=\"_blank\">San Juan abre convocatoria pa"
     },
     {
-      "title": "Parque Industrial Posadas: presupuesto 2027 +40% para IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZ3bElYQU05ZHlfTjRHZHVqZ3FwOUFvMmY0UlZZNG5ZeUxjSG96aE9HdldrcXdjOWozZEItWVRhcHd1aWZlOHpSX2J1T0taYWtZQThnMWVQNVI3alUxcnNxZl80N28xYnFtQ1VyY1E4RjVqQm43azZ4WFFNWHk2LW8yTVFONGE1WFVLdQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 14 Sep 2026 12:52:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUZ3bElYQU05ZHlfTjRHZHVqZ3FwOUFvMmY0UlZZNG5ZeUxjSG96aE9HdldrcXdjOWozZEItWVRhcHd1aWZlOHpSX2J1T0taYWtZQThnMWVQNVI3alUxcnNxZl80N28xYnFtQ1VyY1E4RjVqQm43azZ4WFFNWHk2LW8yTVFONGE1WFVLdQ?oc=5\" target=\"_blank\">Parque Industrial Posadas: presupuest"
-    },
-    {
       "title": "La otra realidad de Cabo Verde: así el rival de Argentina en el Mundial busca una revolución tecnológica silenciosa - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLWNZMVRKMzd5VTBTdUt2Qnk0RGFHUk11ZWhKa2lzeVBuNnJRanFIR3IxTzk2M3pnNTZ1dzh4elczbk1zTk1hQkdIZjdJb2JQWE9QNXJaVFNtaUg1dnQ4X2UwbjBOSzdqYmRzaWhteXZweG50VUZqNlYxUzM5MXFkd09uNTR1RDNfTlljdWxPeFZTbFRIWnI0WmVib2wzYzNsVU50Q2NVZks3Q0hiWjJlRXJtak1vdDNiUXJHTHVraXN6OXExdDlaNVIyWEMtcERKRG5nalgzaXVuRWg2TExkMkRrOWprQUZCaXZmM2YyMWZWS1RUM05j0gGSAkFVX3lxTFA3S1l3elJQQkd1MlJnTGtIa014SHZWb1o5Y0hKMEFucmxScEl5S2JKVlNqQkJia2JTazdHcHFqLXRrLUZIZmpvZndKSUY4NXJMZDU3emplX21jVHFWQzBDamtTTk1ITGZOX0oxUXhxUzAwX0QzNFFob3VDcm9pczVad01FY2llZ1plSEhJRHRhMkZ6MXZBcE5YcG9qZnJVVGE4azlPaEYxaFloemRZLXoyUk5nTTBVV05zZGFWVmxseW5WSHIwcF95cnBXa2xUYXRsamU5bjJvR3FCaVlXSzFXMFlhOHgtSDZjVW9LazBWVjJtZERia25yQS1IQWVEZE1CaTNYSFJwVU5vdUZGTHZweUE?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 03 Jul 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLWNZMVRKMzd5VTBTdUt2Qnk0RGFHUk11ZWhKa2lzeVBuNnJRanFIR3IxTzk2M3pnNTZ1dzh4elczbk1zTk1hQkdIZjdJb2JQWE9QNXJaVFNtaUg1dnQ4X2UwbjBOSzdqYmRzaWhteXZweG50VUZqNlYxUzM5MXFkd09uNTR1RDNfTlljdWxPeFZTbFRIWnI0WmVib2wzYzNsVU50Q2NVZks3Q0hiWjJlRXJtak1vdDNiUX"
+    },
+    {
+      "title": "De pasante a líder de una startup a los 23 años: la argentina que factura millones con la inteligencia artificial - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmhKbjZHYnhXY1p2QUk3NkpGV2NoMXRCT0wyc091VW0zM05qbkwwVUVzUHladGtjNml6ZHR1SDdicjNYTkJ4RnNlQ2I3emVsWHRxdEFxLXctN09hTkdkaVZmT1EtaFZVdFhDeDV6WkRwdFFaYkJtcXhjX05XNV9Rdl80YVpMUDFFZW1hWjNBV1Jtc2lDS2Y4aU01a3RMX0VTM3l5OFItX0tXWDM2Y2EwakNRa01SZzZUYWxPSjZHQ19wcTZpLTlvS09ZZTXSAdIBQVVfeXFMTmRwb0tqcXRGWklYbDljQ2diWVNoZHNfSHgwbmlkaEZFcVhWb3VrV0tlQjE1UEpGZW9YLXVRUGhPaGNFYzg0TUlPTXhBblBSUkFfSFBmUHB5bkhjM2d2NnVVUERwZG1CQ255N25hLW8zYkRXeHh5LWJneWw0ZkYwSUpRODNPSXV6MlJnclF0MHVHY2w5UlVvSTF4WjEyeFNUNnFsbEVGVWJPTnZMOFI5THc1dEhrZzZId09XaWY1ZTdOcGJaYndFSnBSUHlJR2thTk1B?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 15 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmhKbjZHYnhXY1p2QUk3NkpGV2NoMXRCT0wyc091VW0zM05qbkwwVUVzUHladGtjNml6ZHR1SDdicjNYTkJ4RnNlQ2I3emVsWHRxdEFxLXctN09hTkdkaVZmT1EtaFZVdFhDeDV6WkRwdFFaYkJtcXhjX05XNV9Rdl80YVpMUDFFZW1hWjNBV1Jtc2lDS2Y4aU01a3RMX0VTM3l5OFItX0tXWDM2Y2EwakNRa01SZzZUYW"
     }
   ],
   "count": 14
