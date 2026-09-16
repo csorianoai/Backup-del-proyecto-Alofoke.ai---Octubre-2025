@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Anthropic y OpenAI no quieren salvar al mundo de la IA, quieren eliminar su competencia",
+      "url": "https://expansion.mx/tecnologia/2026/09/15/anthropic-openai-no-salvar-ia-quieren-eliminar-competencia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 15 Sep 2026 21:00:01 GMT",
+      "summary": "De acuerdo con especialistas, las advertencias en torno a los peligros de la Inteligencia Artificial no son altruismo, sino que se trata de una estrategia para obstaculizar a nuevas empresas."
+    },
+    {
       "title": "Musk invita a que empresas de IA se evalúen entre sí para controlar su evolución",
       "url": "https://expansion.mx/tecnologia/2026/09/15/musk-empresas-de-ia-se-evaluen-entre-si",
       "source": "Expansión Tecnología",
@@ -35,15 +43,7 @@
       "summary": "La compañía plantea que sus futuros modelos podrán ser cada vez más capaces, pero no tendrán libertad para actuar por cuenta propia, resistirse al apagado o perseguir objetivos propios."
     },
     {
-      "title": "Actualización iOS 27 deja fuera a estos iPhone; ¿el tuyo recibirá las nuevas funciones?",
-      "url": "https://expansion.mx/tecnologia/2026/09/14/actualizacion-ios-27-deja-fuera-a-estos-iphone",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 14 Sep 2026 15:21:17 GMT",
-      "summary": "La nueva versión del sistema de Apple incorpora IA, cambios de diseño y nuevas herramientas, pero varios modelos quedarán fuera de la actualización."
-    },
-    {
-      "title": "Cómo estudiar inteligencia artificial: guía y opciones formativas - mexico.unir.net",
+      "title": "Cómo estudiar inteligencia artificial: guía y opciones formativas - UNIR México",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3EzazctZUFxdjFEVDhBSURMNlBMdVZfbmlhc1ZaT3l4TFl6M3pzQmRPRWxZRE4zUjlsRWU0M3JnZ290QXVlUi1rM2NYTDE5cGtuME04SHlSSEVlNHhKTE9QOGFKSGd5dmNhbXpoZUExUGhGR0lMSk1QYmprQzM0SVVDQQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -67,7 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2s4YTZLV1hoUkh0RXJpRVR2VWhmdDFldnBRV25JUGMzbXBPdk5Bb3V5R1hXb2dSZDdyMkdyYmxRVmJKTUhnWnYzYWVnZl9CVldJaU93WjhKdWdzTlNqWlhOeTRieE9vRmJTdnAzamUzZWZnaG8yckt6azdNOWdZVWV0TXZyZW1Oa2x1N3lycm5xRTFjaENwYWtZQVRkdTZ4R0lHczlxRlFyUQ?oc=5\" target=\"_blan"
     },
     {
-      "title": "Primero, startup mexicana de IA empresarial, levanta US$12M - El Ecosistema Startup",
+      "title": "Primero, startup mexicana de IA empresarial, levanta US$12M - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmdRQ0dWRGw3VmNvSUlZTm5UUnFpZFR0S01yZHR2c2NSYjZPVmd6TFV3WDl5U3hGVTM4dmQ3Sm15alJhcDVNZDMxMDhETUFXRzA0eXVYdW1vc29BRi1pS1BZX0dadjNLY053emdlUXFvZDd2RDJteG9CdHRxX1BCUzc4TmtzXzc2T2dzOG1JSm0?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,7 +99,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
     },
     {
-      "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - El Ecosistema Startup",
+      "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5",
       "source": "Google News",
       "category": "news",
