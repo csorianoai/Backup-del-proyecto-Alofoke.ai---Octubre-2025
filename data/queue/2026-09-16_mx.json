@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "Probé el nuevo Samsung Galaxy Z Fold8 y cambié mi idea sobre los teléfonos plegables",
-      "url": "https://expansion.mx/tecnologia/2026/09/16/samsung-galaxy-z-fold8-vs-fold8-ultra-cual-conviene",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 16 Sep 2026 14:00:07 GMT",
-      "summary": "El Galaxy Z Fold8 busca hacer más natural el uso de un plegable, mientras que el Fold8 Ultra apuesta por productividad y tareas exigentes. Probamos ambos para saber cuál se adapta mejor a cada usuario."
-    },
-    {
       "title": "Anthropic y OpenAI no quieren salvar al mundo de la IA, quieren eliminar su competencia",
       "url": "https://expansion.mx/tecnologia/2026/09/15/anthropic-openai-no-salvar-ia-quieren-eliminar-competencia",
       "source": "Expansión Tecnología",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Tue, 15 Sep 2026 11:55:26 GMT",
       "summary": "Fyware tiene 750 proyectos en 16 países y sus simuladores se utilizan para capacitar operadores, detectar errores y evitar paros de producción."
+    },
+    {
+      "title": "“Las personas importan más que la IA”: Microsoft pone límites a sus modelos futuros",
+      "url": "https://expansion.mx/tecnologia/2026/09/14/microsoft-limites-futuros-modelos-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 14 Sep 2026 17:46:41 GMT",
+      "summary": "La compañía plantea que sus futuros modelos podrán ser cada vez más capaces, pero no tendrán libertad para actuar por cuenta propia, resistirse al apagado o perseguir objetivos propios."
     },
     {
       "title": "Estados Unidos presiona a México para excluir las exportaciones de hardware de inteligencia artificial de China, según WSJ - China en las Américas",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmdRQ0dWRGw3VmNvSUlZTm5UUnFpZFR0S01yZHR2c2NSYjZPVmd6TFV3WDl5U3hGVTM4dmQ3Sm15alJhcDVNZDMxMDhETUFXRzA0eXVYdW1vc29BRi1pS1BZX0dadjNLY053emdlUXFvZDd2RDJteG9CdHRxX1BCUzc4TmtzXzc2T2dzOG1JSm0?oc=5\" target=\"_blank\">Primero, startup mexicana de IA "
     },
     {
-      "title": "Irving Hidrogo: «La IA en educación no se integra con herramientas, sino con estrategia institucional» - Observatorio / Instituto para el Futuro de la Educación",
+      "title": "Irving Hidrogo: «La IA en educación no se integra con herramientas, sino con estrategia institucional» - observatorio.tec.mx",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenVkdEQwNjFrZ0lhX2U0TEJnY0hqTEd4UThoVWU0M2lhdHdJYTdLRXA3U05FRUZYVzlMUVRrOFh0M0FtZDNIaXFZbHhFMUYtd3lTQlBFZ3loUjR3WmxUTXJ0b1A4M0hkZ0xjTmxNdm1RQkJxRjJiazBmcVpQVGJkaWlNTC1YS2s1bUg3Y2VjemVtRDhDZkFwX3JIN1ZXZTh6RnBJNU5HV3M4ZTBHRzRXR01R?oc=5",
       "source": "Google News",
       "category": "news",

@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Murió Andrés Blanco, referente del hacking argentino y especialista en seguridad de redes Wi-Fi",
+      "url": "https://www.clarin.com/tecnologia/murio-andres-blanco-referente-hacking-argentino-especialista-seguridad-redes-wi-fi_0_BRCSEnimto.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 16 Sep 2026 19:21:23 +0000",
+      "summary": "<ul><li>Tenía 44 años, trabajó en Core Security y presentó sus investigaciones en conferencias internacionales como DEF CON y Black Hat.</li><li>Descubrió fallas en chips utilizados en celulares y tablets de Apple, Samsung y otros fabricantes.</li><li>Colegas, amigos y alumnos recuerdan su generosid"
+    },
+    {
       "title": "Adiós a los celulares descartables: cuáles son los nuevos modelos que se reparan en casa y están hechos para durar más",
       "url": "https://www.clarin.com/tecnologia/adios-celulares-descartables-nuevos-modelos-reparan-casa-hechos-durar_0_elQm5xWWVt.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Tue, 15 Sep 2026 16:03:01 +0000",
       "summary": "<ul><li>Trabajaban en el área que se encarga de la seguridad de los nuevos modelos de IA.</li><li>La semana pasada, un exempleado de Anthropic había publicado una carta alertando sobre los riesgos que trae el avance.</li></ul>"
-    },
-    {
-      "title": "El CEO de Nvidia dijo que las predicciones apocalípticas sobre la IA “son inventadas” y Trump lo llamó en vivo",
-      "url": "https://www.clarin.com/tecnologia/jensen-huang-ceo-nvidia-rechazo-pronosticos-apocalipticos-ia-inventados_0_kRIX0n36AY.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 15 Sep 2026 15:10:19 +0000",
-      "summary": "<ul><li>Jensen Huang aseguró que los escenarios que anticipan una catástrofe provocada por la inteligencia artificial no tienen respaldo científico.</li><li>El presidente de EE.UU. se sumó a la discusión y calificó como un “engaño” el temor a que los robots terminen tomando el control.</li></ul>"
     },
     {
       "title": "Inteligencia artificial y empleo: los desafíos de un nuevo modelo productivo para la Argentina - Infobae",
