@@ -3,6 +3,38 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Lluvia, tormentas eléctricas y nieve: el movido pronóstico que afectará a estas regiones del norte de Chile",
+      "url": "https://www.latercera.com/tendencias/noticia/lluvia-tormentas-electricas-y-nieve-el-movido-pronostico-que-afectara-a-estas-regiones-del-norte-de-chile/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 17 Sep 2026 13:59:02 +0000",
+      "summary": "Una vaguada en altura generará condiciones muy variables durante este jueves y viernes, con posibilidad de precipitaciones y otros fenómenos en distintas zonas."
+    },
+    {
+      "title": "Del desierto a los 4.000 metros: así fue la prueba del nuevo Garmin Fénix 9 en San Pedro de Atacama",
+      "url": "https://www.latercera.com/tecnologia/noticia/del-desierto-a-los-4000-metros-asi-fue-la-prueba-del-nuevo-garmin-fenix-9-en-san-pedro-de-atacama/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 17 Sep 2026 09:02:00 +0000",
+      "summary": "Dunas, senderos, altura y navegación fueron parte de una experiencia de dos días en que La Tercera puso a prueba las principales herramientas del reciente lanzamiento de la marca de smartwatches."
+    },
+    {
+      "title": "Este día comienza la lluvia en Santiago y la zona central, según el pronóstico del tiempo",
+      "url": "https://www.latercera.com/tendencias/noticia/este-dia-comienza-la-lluvia-en-santiago-y-la-zona-central-segun-el-pronostico-del-tiempo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 17 Sep 2026 09:03:00 +0000",
+      "summary": "El tiempo cambiará en la zona central casi al cierre de las Fiestas Patrias. Revisa qué anticipan los pronósticos para Santiago y otras regiones."
+    },
+    {
+      "title": "¿Qué pasó con la gira de Ed Sheeran? La polémica por Palestina que terminó con Macklemore y otros músicos fuera del tour",
+      "url": "https://www.latercera.com/tendencias/noticia/que-paso-con-la-gira-de-ed-sheeran-la-polemica-por-palestina-que-termino-con-macklemore-y-otros-musicos-fuera-del-tour/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 17 Sep 2026 09:01:00 +0000",
+      "summary": "El rapero estadounidense fue excluido de las fechas restantes del Loop Tour tras pronunciarse sobre el conflicto en Gaza durante uno de los conciertos de la gira."
+    },
+    {
       "title": "Actualizan el pronóstico de lluvia para Fiestas Patrias en Chile: “Vamos a cerrar con lluvia de verdad”",
       "url": "https://www.latercera.com/tendencias/noticia/actualizan-el-pronostico-de-lluvia-para-fiestas-patrias-en-chile-vamos-a-cerrar-con-lluvia-de-verdad/",
       "source": "La Tercera Tecnología",
@@ -11,47 +43,23 @@
       "summary": "El pronóstico para el fin de semana largo vuelve a cambiar y anticipa un escenario marcado por el avance de un sistema frontal hacia el territorio nacional."
     },
     {
-      "title": "Todas las regiones que tendrán lluvia en Fiestas Patrias, gracias a un nuevo sistema frontal",
-      "url": "https://www.latercera.com/tendencias/noticia/todas-las-regiones-que-tendran-lluvia-en-fiestas-patrias-gracias-a-un-nuevo-sistema-frontal/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 16 Sep 2026 09:03:00 +0000",
-      "summary": "Un nuevo sistema frontal avanzará desde el sur hacia la zona central durante el fin de semana largo."
-    },
-    {
-      "title": "El alimento vinculado a un mayor riesgo de cáncer de próstata, según distintos estudios",
-      "url": "https://www.latercera.com/tendencias/noticia/el-alimento-vinculado-a-un-mayor-riesgo-de-cancer-de-prostata-segun-distintos-estudios/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 16 Sep 2026 09:02:00 +0000",
-      "summary": "El cáncer de próstata es el más frecuente entre los hombres en Chile. En esta línea, distintos estudios han identificado un alimento que podría aumentar el riesgo de desarrollar esta enfermedad."
-    },
-    {
-      "title": "Qué funciona mejor para aliviar el dolor de la osteoartritis de rodilla, según una investigación",
-      "url": "https://www.latercera.com/tendencias/noticia/que-funciona-mejor-para-aliviar-el-dolor-de-la-osteoartritis-de-rodilla-segun-una-investigacion/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 16 Sep 2026 09:01:00 +0000",
-      "summary": "La afección, también conocida como artrosis de rodilla, es una enfermedad articular degenerativa que suele ser consecuencia del desgaste y la pérdida progresiva del cartílago articular. Para su trabajo científico, los investigadores analizaron los resultados de 139 ensayos clínicos."
-    },
-    {
-      "title": "Un modelo anticipa lluvia sobre el promedio en estas zonas de Chile: cuándo y qué esperar de este evento",
-      "url": "https://www.latercera.com/tendencias/noticia/un-modelo-anticipa-lluvia-sobre-el-promedio-en-estas-zonas-de-chile-cuando-y-que-esperar-de-este-evento/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 15 Sep 2026 20:00:00 +0000",
-      "summary": "El panorama meteorológico para las próximas semanas estará marcado por un cambio en la circulación atmosférica y el avance de nuevos sistemas frontales."
-    },
-    {
       "title": "El desafío de poner límites a la inteligencia artificial - - CIPER Chile",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlQwMV9KU0dXZ1dMNWhNckZRejY2em9QZHNLcUtKc2M4Y0pUZWptT09pOVkwNlIwTXlWSklCR0VjQ1dLUTZuWjhRMThnR0tLb0RXd3B5UnZ0STRETzZxRGVWODZ0UkdKTEVoTThtcVgxWkdnOHlkTVdoam1Balh6QTZ6dGxSampXOGF3b3pfejZSOElSWW9xV19R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 16 Sep 2026 22:21:19 GMT",
+      "published": "Wed, 16 Sep 2026 22:21:25 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlQwMV9KU0dXZ1dMNWhNckZRejY2em9QZHNLcUtKc2M4Y0pUZWptT09pOVkwNlIwTXlWSklCR0VjQ1dLUTZuWjhRMThnR0tLb0RXd3B5UnZ0STRETzZxRGVWODZ0UkdKTEVoTThtcVgxWkdnOHlkTVdoam1Balh6QTZ6dGxSampXOGF3b3pfejZSOElSWW9xV19R?oc=5\" target=\"_blank\">El desafío de poner"
     },
     {
-      "title": "Rodrigo Durán, gerente general del Centro Nacional de Inteligencia Artificial: “El principal riesgo del país es quedarnos atrás” - La Tercera",
+      "title": "La Inteligencia artificial redefine los data centers en Chile y Latinoamérica - agustinafm.cl",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnFRQWVmdzVHVTRFUEcxOTd4VE9hS21CWUZqbGFCdk1ETXFXa21DWGZXSExzTkxCSXo4eHpnVUo1WWJaVW5LX2I0b1ZkYzRCOWlUZ1gxZUtmdVpIZTlxZ0pLZDk1TTVJSXQ1c2VIa3lnUkZwYnNvRF9YNWNicW03Qy1TX1dvLW1ZbXNvMUNXVmlDM2VRSzZNY3dKclRpR2luTmloamFpTndnSlVWRzhxaA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 17 Sep 2026 15:51:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnFRQWVmdzVHVTRFUEcxOTd4VE9hS21CWUZqbGFCdk1ETXFXa21DWGZXSExzTkxCSXo4eHpnVUo1WWJaVW5LX2I0b1ZkYzRCOWlUZ1gxZUtmdVpIZTlxZ0pLZDk1TTVJSXQ1c2VIa3lnUkZwYnNvRF9YNWNicW03Qy1TX1dvLW1ZbXNvMUNXVmlDM2VRSzZNY3dKclRpR2luTmloamFpTndnSlVWRzhxaA?oc=5\" targe"
+    },
+    {
+      "title": "Rodrigo Durán, gerente general del Centro Nacional de Inteligencia Artificial: “El principal riesgo del país es quedarnos atrás” - latercera.com",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdXV4OUdfeTRiTmNxQUg5b3otZlRHcDVrNktFZkR5MVVPVlB2bko0dzJJZEVFX3EtdVp5NjdFVlpwVlpZdTVkeGZfUXpJQkp1Ym43aldlN1VOeE50MGllZ1BRRS1GaTc4bmY4QXRTbzJGY3JwQTNOdlNpZzRHZlVIYndOSjNWN3VVNWxhNFlnc05SRGprNFJ3TTIyNmdGX0lhRUd2YXo1dTBoWmhERkllTDVJendpT0lXRjYwc3VTRUpoandZV0NsXzNhMTdLc2hvcW5Bb19zcEFCdnJFUmEydUpjd25sZ1E4d01GX2dhblh1NENzZ25GOW9sWXPSAZ4CQVVfeXFMTjY0LTVNMWY2NC1oV1c2Q1NYcEs4QmQyVnBTYkJLVk84VmVWanc0TnBoY0hzTDZWdVliOWZXNzJQd09uZ3V1RW5UVHBUNzg2cEdxeTRFRzVQT0ZqUk5vTE5qU2ZoY1MzUElWREFDTVY3aVZZTXBwLW1wSTkxbjNWYnc3TnpFVXAwOVNZYXhqNWZYb1BkM29HWk9reWpPazZmVC1jZGQ2Z0hzSG5OcU1IdTlrWE1ZTFVibmpCWHJSNHZqN2thY1JWY3lEeFluNENRZFJ0SWZ2RUlUYkNmQ0hTVUR5Rm9GU0U1Y0doVDBzR3J2ekVIVjdyUDdSTEJaenI1bmhTMzZ0cHdxd2hMYS00aGU0U0dBUnkyZkpZTE56QQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,12 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdXV4OUdfeTRiTmNxQUg5b3otZlRHcDVrNktFZkR5MVVPVlB2bko0dzJJZEVFX3EtdVp5NjdFVlpwVlpZdTVkeGZfUXpJQkp1Ym43aldlN1VOeE50MGllZ1BRRS1GaTc4bmY4QXRTbzJGY3JwQTNOdlNpZzRHZlVIYndOSjNWN3VVNWxhNFlnc05SRGprNFJ3TTIyNmdGX0lhRUd2YXo1dTBoWmhERkllTDVJendpT0lXRj"
     },
     {
-      "title": "Deportistas del Team Chile protagonizan inédita campaña creada con inteligencia artificial - Publimetro",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeWhWazU3dFhmaXM5bDYzNnFya3pxNGQ2U0dfbGFGbmYyaHNyMFYyXzZMaHdpT2NMcTZQRGJyeGN3NjE5T3k1UGxrbjlra3NqUnpvcjhySWdSV1habWZkcjIybi05b1JxUFhqcUdRbHlWb1ZRV05hZFEzTUE2MlIzRjExc1l1YnFjc21FR3hOeFQ5OVh4ZWRVQkFMWWJRWUdUTFVLblJIWVAta096S0FESEdjQ2MwUENycDN5SlFSMjRGVUhUZFBfcmNMSlBrZEt5T09Z?oc=5",
+      "title": "Anthropic desembarca en España con una exdirectiva de Google: “Ralentizar la IA nos da la oportunidad de hacerlo bien” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajZyTmZMVV9ramNqeGFyREtQUjlhRXJjT0dJNFVqYlMzcGhiTWloOHhuc3JSTHhjc090dnhhRXJQa2NsT0thWHRaaVBfalhIYXdfOUdFNDZWVmIzTUlxUEczSU0zZDZQSWVkOG8tejhxcmRxSXZhMUh5azhuMlVlNkVHLWthTjhIRHZyaXFneTZiYlVSd0FtZFVyV2FRN2ZlaWRsMjludzM1M2hMb3ZYMU9UcklyeGRHaHdmOGlsa3c2LS1nSFFhSkZYaGUyc3N4QUN4eHE3LVpjbTlS0gHwAUFVX3lxTE43ajktYkpTN1p1YjN2ZFdXY2wzMjVwdWdOeFhwbmdHSGtOYjlkU0l2bVJqSnFyN251X0d1YW1uUVRiZF9LYnJKVU95OFZ3MVNiSkoyQ3RLRjZfVm50U0ZIX0NiOFZnTkhWM01lNV9kUWRjeENvbzlnTXpHUW9vemJIUHhtN3BzWWNlNGFIZVVxMTBHVHJGamFPUDNyMHktNkJOOUV0WG5VaHFWMFAweU4wRzRGR2dualZxc2czSHpOSjkwSFV4aTB3WkpyR2FFemRyQ3lOSG5mRVlzWXlqMEJlNjI2VGpKZ3E5bzltUUxGdA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 16 Sep 2026 15:52:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeWhWazU3dFhmaXM5bDYzNnFya3pxNGQ2U0dfbGFGbmYyaHNyMFYyXzZMaHdpT2NMcTZQRGJyeGN3NjE5T3k1UGxrbjlra3NqUnpvcjhySWdSV1habWZkcjIybi05b1JxUFhqcUdRbHlWb1ZRV05hZFEzTUE2MlIzRjExc1l1YnFjc21FR3hOeFQ5OVh4ZWRVQkFMWWJRWUdUTFVLblJIWVAta096S0FESEdjQ2MwUENycD"
+      "published": "Wed, 16 Sep 2026 21:59:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQajZyTmZMVV9ramNqeGFyREtQUjlhRXJjT0dJNFVqYlMzcGhiTWloOHhuc3JSTHhjc090dnhhRXJQa2NsT0thWHRaaVBfalhIYXdfOUdFNDZWVmIzTUlxUEczSU0zZDZQSWVkOG8tejhxcmRxSXZhMUh5azhuMlVlNkVHLWthTjhIRHZyaXFneTZiYlVSd0FtZFVyV2FRN2ZlaWRsMjludzM1M2hMb3ZYMU9UcklyeGRHaH"
+    },
+    {
+      "title": "Santiago del Estero busca potenciar su ecosistema de software e IA - Agroempresario",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcld0N2ZkRGNtREkyeTdDWHp1UmNBNl83TEFXV2VVSDBHUWpLazYyTDl4Z0tENjA4b2taQmdqd1dLNkh6RDdnWktvZXM5QmItUWowOXBfN3VUenk1MlFPSjYwWWVuYkJHcEpqcU1RWWNkUTRpLTA5U1prNUhLanExT2ZNT05Wd2xfYjZSTFJSc0NFSlR0Mi1Cclk0TUZCaDlkYWxLeXpkOFA0djdoV1VrQlMtaw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 15 Sep 2026 12:00:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcld0N2ZkRGNtREkyeTdDWHp1UmNBNl83TEFXV2VVSDBHUWpLazYyTDl4Z0tENjA4b2taQmdqd1dLNkh6RDdnWktvZXM5QmItUWowOXBfN3VUenk1MlFPSjYwWWVuYkJHcEpqcU1RWWNkUTRpLTA5U1prNUhLanExT2ZNT05Wd2xfYjZSTFJSc0NFSlR0Mi1Cclk0TUZCaDlkYWxLeXpkOFA0djdoV1VrQlMtaw?oc=5\" t"
     },
     {
       "title": "¿Puede la Inteligencia Artificial terminar con el mundo? Y si sí, ¿cómo? - Infobae",
@@ -75,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGNucTBheE14bjh1LVFVNHkyMVRrc0ptSW1DQmhqbklVbzZiazR2VlVxQkVlRnNLLUFYQnJYWkJvcVJDUG5yX1RLMXdma3dmTnFDQ3o3dGNwd0hrdm1zbl9pSTByTFZ3Zi1iX01BVHZWc0hWN01sNVU5U2NZaktGbkoxUVBVdWU1MTBIMS1ER3Y0VkhQZ0gzV0FzekR5T1NsRUZSY3QxeTJaOGxuMmlsOdIBywFBVV95cU"
     },
     {
-      "title": "Juan Carlos Santiago y el avance de la IA: \"Hay que regular al usuario\" - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9jaVZKZXFDd0RrMkY1N2Zyb3gzQW1BcTJSMzZHUUY3UEZES0hWaVJ0eFJ2U0ZWdUQxMDV0VnNkNE1sRDFmUjhUcEJWM3NzYmx6SjdzWUdZR00tc05XZjVCZ0g4d1JrYnMxVXVkaGFtYXVGM21QRVQzMmFQMDBvbHpYaXNMV2RCQnFYT0t0eWcyNXNzdVBPb3o4Ui1vb0hmM2t5X3JqU1RmVnluRFJsY044YVYybDZwSU1NRVZPTVhLUEhfRGdDZdIBzgFBVV95cUxNUEhqcGR0enowdTMwQ0d6OFlDdG5VTXJIQ1RiUi1NN1laQUZ0cUhZSEUwbGgtX2dPN2JmNWt1N3lEVjNtSFJpN3UtRXBNenR5cUFIS2FMSTNBYnkwdkpnS256MjJwSFZCTVFQMDNWanhQX3NwOTJFVkJkOVVyeENlNC05SEhib3ZjenFXWVRiOHVvQ25Ga3F5R3VQVlhLek5yaVkwdUFRa1lSamdPdW5vaXNxTUFzaktpNGZ2ZndiRnVwM2hoNVNoNmJ1UW1wQQ?oc=5",
+      "title": "CNP entrena a startups mineras: solo 15% llega al mercado - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzRUVnZVamlIMlltR0ZwbDctYjZxanRtTE9ONUxZZnV0Wkhoc2Q0Vm5wQVhhclNkeW1MclNmTzVWem5TZkxQNVo4bXBYaE9xd0ZIOHdOaUFfSWhOU0w1dWhyeVl3MXRjbWxBdlNrQzExUUZSbUoxVnFOOEhQZjdFMERZbnQ1c1pGZG40MU4zNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 16 Sep 2026 22:52:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSG9jaVZKZXFDd0RrMkY1N2Zyb3gzQW1BcTJSMzZHUUY3UEZES0hWaVJ0eFJ2U0ZWdUQxMDV0VnNkNE1sRDFmUjhUcEJWM3NzYmx6SjdzWUdZR00tc05XZjVCZ0g4d1JrYnMxVXVkaGFtYXVGM21QRVQzMmFQMDBvbHpYaXNMV2RCQnFYT0t0eWcyNXNzdVBPb3o4Ui1vb0hmM2t5X3JqU1RmVnluRFJsY044YVYybDZwSU"
-    },
-    {
-      "title": "Santiago del Estero busca potenciar su ecosistema de software e IA - agroempresario.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcld0N2ZkRGNtREkyeTdDWHp1UmNBNl83TEFXV2VVSDBHUWpLazYyTDl4Z0tENjA4b2taQmdqd1dLNkh6RDdnWktvZXM5QmItUWowOXBfN3VUenk1MlFPSjYwWWVuYkJHcEpqcU1RWWNkUTRpLTA5U1prNUhLanExT2ZNT05Wd2xfYjZSTFJSc0NFSlR0Mi1Cclk0TUZCaDlkYWxLeXpkOFA0djdoV1VrQlMtaw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 15 Sep 2026 12:00:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcld0N2ZkRGNtREkyeTdDWHp1UmNBNl83TEFXV2VVSDBHUWpLazYyTDl4Z0tENjA4b2taQmdqd1dLNkh6RDdnWktvZXM5QmItUWowOXBfN3VUenk1MlFPSjYwWWVuYkJHcEpqcU1RWWNkUTRpLTA5U1prNUhLanExT2ZNT05Wd2xfYjZSTFJSc0NFSlR0Mi1Cclk0TUZCaDlkYWxLeXpkOFA0djdoV1VrQlMtaw?oc=5\" t"
+      "published": "Fri, 04 Sep 2026 19:03:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzRUVnZVamlIMlltR0ZwbDctYjZxanRtTE9ONUxZZnV0Wkhoc2Q0Vm5wQVhhclNkeW1MclNmTzVWem5TZkxQNVo4bXBYaE9xd0ZIOHdOaUFfSWhOU0w1dWhyeVl3MXRjbWxBdlNrQzExUUZSbUoxVnFOOEhQZjdFMERZbnQ1c1pGZG40MU4zNA?oc=5\" target=\"_blank\">CNP entrena a startups mineras: s"
     },
     {
       "title": "Parque Arauco selecciona a startups tecnológicas para implementar pilotos a nivel regional - The Clinic",
@@ -99,20 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTnVWLW1CN3IySHBjcmhjaTF5bkRhcDh1V1Q2R09McjJ0b0NmeGhYMnZpTDhpMWxibXBjZnJuaHhuOWJnREpkQWFIcnVsNngzVWdaci1JaGpBUlp0SElXNmY3MWM5V2xvWDFZZE5ORU5TcmVGWDVjdGpvYTlpYXpVQkd5UjNVdml5ZnFwREp4WjkzdmQ5bFhYVzNZc1hYaFFzb0xBYmFFblkzZVNxNGpEVWM4Q25kU2puRm"
     },
     {
-      "title": "CNP entrena a startups mineras: solo 15% llega al mercado - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzRUVnZVamlIMlltR0ZwbDctYjZxanRtTE9ONUxZZnV0Wkhoc2Q0Vm5wQVhhclNkeW1MclNmTzVWem5TZkxQNVo4bXBYaE9xd0ZIOHdOaUFfSWhOU0w1dWhyeVl3MXRjbWxBdlNrQzExUUZSbUoxVnFOOEhQZjdFMERZbnQ1c1pGZG40MU4zNA?oc=5",
+      "title": "Banco de Chile se suma a la tendencia de la industria y lanza un área dedicada a startups - Diario Financiero",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hoTy02dE1JSjJNeDBoWTZKbXJ3RTJ5aWpfZWs5Z0l5MzZnZlI5YkxCWF9OX2hNRG8tVHpyeHE1cTVmMVZkUzdqLWdDZFEtNkRndzBqdFdwUmsyUTRTNmt2b2FxTDAtdW1HOHYzX1N2SDJDSUtDUjRnb2NyYnJkQ3BSOFJDZ2I4S3lwcWlWeWstVE1VT1RyRlZwTENhb3otc0xSYjREeXJLc3FFclliX2MyREx1QUk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 04 Sep 2026 19:03:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzRUVnZVamlIMlltR0ZwbDctYjZxanRtTE9ONUxZZnV0Wkhoc2Q0Vm5wQVhhclNkeW1MclNmTzVWem5TZkxQNVo4bXBYaE9xd0ZIOHdOaUFfSWhOU0w1dWhyeVl3MXRjbWxBdlNrQzExUUZSbUoxVnFOOEhQZjdFMERZbnQ1c1pGZG40MU4zNA?oc=5\" target=\"_blank\">CNP entrena a startups mineras: s"
-    },
-    {
-      "title": "Plataforma Chile-Finlandia: Nueva Fase para Startups y Empresas - EntrepreNerd",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMEZvUkcwbDhZRkgxcUU0LWFBYzlRbkRiQmpVcTV1Z2VYYnhMVHc4U051WFV6bDg4ZkdsMHA2dUNPSUxhNDVFd3FiXzJtNlN2RlBGbWR1WGtFTkZ4YTQ3a2R0SGRLSjFidmtjb0M5Nk1QbXI0cGN5TEI1cU1vREkzM2w4cFU2MUZ5cEFvemEtSEl3MmtDTFg4bWR0QW14dkNfZU13SFVxVmdjaWRsZVBjWS1DeEJSLUFpcXl5UXViZE14Rlpsd2tYbmZDRDktWEtEQmNpdFJ3OWtxT1Q2ekJLaGhXaVFuQU13MGExcGpn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMEZvUkcwbDhZRkgxcUU0LWFBYzlRbkRiQmpVcTV1Z2VYYnhMVHc4U051WFV6bDg4ZkdsMHA2dUNPSUxhNDVFd3FiXzJtNlN2RlBGbWR1WGtFTkZ4YTQ3a2R0SGRLSjFidmtjb0M5Nk1QbXI0cGN5TEI1cU1vREkzM2w4cFU2MUZ5cEFvemEtSEl3MmtDTFg4bWR0QW14dkNfZU13SFVxVmdjaWRsZVBjWS1DeEJSLUFpcX"
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hoTy02dE1JSjJNeDBoWTZKbXJ3RTJ5aWpfZWs5Z0l5MzZnZlI5YkxCWF9OX2hNRG8tVHpyeHE1cTVmMVZkUzdqLWdDZFEtNkRndzBqdFdwUmsyUTRTNmt2b2FxTDAtdW1HOHYzX1N2SDJDSUtDUjRnb2NyYnJkQ3BSOFJDZ2I4S3lwcWlWeWstVE1VT1RyRlZwTENhb3otc0xSYjREeXJLc3FFclliX2MyREx1QUk?oc"
     }
   ],
   "count": 14
