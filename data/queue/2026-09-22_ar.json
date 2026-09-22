@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "De Samsung a los tanques chinos, cinco celulares premium más baratos que el iPhone 18 Pro y con potencia de sobra",
+      "url": "https://www.clarin.com/tecnologia/samsung-tanques-chinos-celulares-premium-baratos-iphone-18-pro-potencia-sobra_0_G143Un9L5q.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 22 Sep 2026 08:45:10 +0000",
+      "summary": "<ul><li>Ofrecen cámaras avanzadas, inteligencia artificial y gran autonomía sin llegar al precio del modelo de Apple. </li><li>Samsung, Xiaomi, Google, Motorola y OnePlus ofrecen alternativas de alta gama con distintos puntos fuertes.</li></ul>"
+    },
+    {
       "title": "Helvetios: para qué se usará la supercomputadora que llegó de Suiza y científicos argentinos armaron en un mes",
       "url": "https://www.clarin.com/tecnologia/helvetios-usara-supercomputadora-llego-suiza-cientificos-argentinos-armaron-mes_0_e2qZw0DTBq.html",
       "source": "Clarín Tecnología",
@@ -35,52 +43,44 @@
       "summary": "<ul><li>La tecnológica detrás de Claude hizo de la seguridad su principal bandera. </li><li>Ahora, un ingeniero de DeepSeek y el jefe de Microsoft AI lanzaron duras advertencias sobre su estrategia. </li><li>La paradoja de una compañía creada para reducir los riesgos de la IA que terminó despertando"
     },
     {
-      "title": "OpenAI reveló seis nuevos casos inquietantes en su IA: “No podemos seguir avanzando a máxima velocidad”",
-      "url": "https://www.clarin.com/tecnologia/openai-revelo-nuevos-casos-inquietantes-ia-podemos-seguir-avanzando-maxima-velocidad_0_WOIDu9okgt.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 17 Sep 2026 18:09:55 +0000",
-      "summary": "<ul><li>Los episodios incluyen modelos que inventaron datos, ocultaron información y realizaron acciones sin autorización. </li><li>La compañía detrás de ChatGPT presentó un nuevo sistema para registrar e investigar estos comportamientos.</li></ul>"
-    },
-    {
       "title": "El 30% de los argentinos delegaría sus compras por completo a la inteligencia artificial, revela un estudio - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1JJdjBvMFVCRWJ3MnE0OGlfQnRBYzFwakY1S0FKbXVfbTYyYThmOThsVXBMWkV4YTVfM2tHMy1ZSmp4OHU4bHNkWHhGWFlIRHdtQl9VUjRiN1Z1OS1sNUZMQ3hUUjU0ZHNsY3BQQjdycXNtZVFhQy1uY2tQUElRV1pBMk9kREctRkxoMl8yV0tDek1nVVZMTVpMaVRJY0Q4S3loZl95aEZ1RzZfeFVfOVZtcUtJcDJQRVBqcEpmT04xbGI5RXpjNXVBcjcyd19xZ3FRU3gwQUJ5RTMxU2hrTdIB-wFBVV95cUxPazdld0JWV1Zma2ZhMG5LR2tHLS1iczd4RmxDV1l1Wk9RcnRzSjNXb0ZGdnRZamJuVDZTd00tUHp3bldHc3RVbkR0VzBURlFTbGFkYkpDdG8zTlJtWDBpQ0kyZ1ZlT3VxWTJGUXVIRWdtTS1fS1N6U2dxSUlMQzRRTVN1VXdTY1ZPdVhIdnppcnBfSFBGM05OTGM3aGg1WldIUGVOUU5KQlZJUXFBTEEyQXB1YWEwLUhsaFFLS2Npb2JnYzBfcVVyQ1VoX3FmM0ZNenhmLThYMi14aF9VbjlZcXNHMGZxLWFyeEVVRjloVnZaOTFxQXo5N2g4UQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Sep 2026 23:47:27 GMT",
+      "published": "Tue, 22 Sep 2026 00:28:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1JJdjBvMFVCRWJ3MnE0OGlfQnRBYzFwakY1S0FKbXVfbTYyYThmOThsVXBMWkV4YTVfM2tHMy1ZSmp4OHU4bHNkWHhGWFlIRHdtQl9VUjRiN1Z1OS1sNUZMQ3hUUjU0ZHNsY3BQQjdycXNtZVFhQy1uY2tQUElRV1pBMk9kREctRkxoMl8yV0tDek1nVVZMTVpMaVRJY0Q4S3loZl95aEZ1RzZfeFVfOVZtcUtJcDJQRV"
     },
     {
-      "title": "Inteligencia artificial en Argentina: IFX Networks invertirá US$19 millones - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUhvMXM5Y1dPNlZ5TGZSd052eGh1cldEVDViWjFXYVFCdHRXcDZfaFR1WVM2ZXhkbHpTR0hUaFpDdGJVRzJHcFcxQmFlNUNjM3kzY0R3NlJKQjhrcTFmZ09lbEdLbS1RNmVmTmdtQXRrdXZKcDlCcWxJTGdibkdYazFTTElQYUp6YWN5Tk1Pa0dzcTRlZS02WVdhRWNRU1hMaW95NW1kWlNEZXZMbzVJWnpBaGg3dW5CS2lvU2RYc1o0YVk?oc=5",
+      "title": "La Inteligencia Artificial revoluciona la producción del vino de Argentina - Lmneuquen.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYkszb0lqcmtLRmpfWmV0TDRMajdPS3dFVEZJcHBUaUdhdnN5dzVLRXV4ZkJlYTJxR05wcVJfdkFVOGZqeHJpX3FFcC01alVkcW9ROTl3WGNlSnhwbUtDRjBQcnZIbmxLbmxBODZZb3Q1R205WkFvVnFxalVjeV9HTWZ5Q2trUkUySUZpWkhsWHFKYk84cV9YNHVpMXZXWTRXckotTTF6Yk5tR1VNRlh5SXNTaTBCYXRONGQxc05Dal_SAcYBQVVfeXFMTlRCcDQ1RksxeDR2S204eTdtYmxrN1VfZWJHemR0LU1FMWU5S0kxS0I0UFp3OGsxRE5XWlRHWDE5TjR4MTVxZEM1MjBjTFRTS2h4enp2WGd3UGhocjRPMklieTdNblc3MWQyakxhQkpKSm43d1NyQ1c0bXhDN0QwTzJwVGNFSXhMVFNodFJvamZGNl9NeXl5eUVDbEdPbFZfTFhzWG5hZ2VPRFJCWVZhUTE4cGJiSzhaVTFxS3ZFWDZUZmp4OGF3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Sep 2026 14:24:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNUhvMXM5Y1dPNlZ5TGZSd052eGh1cldEVDViWjFXYVFCdHRXcDZfaFR1WVM2ZXhkbHpTR0hUaFpDdGJVRzJHcFcxQmFlNUNjM3kzY0R3NlJKQjhrcTFmZ09lbEdLbS1RNmVmTmdtQXRrdXZKcDlCcWxJTGdibkdYazFTTElQYUp6YWN5Tk1Pa0dzcTRlZS02WVdhRWNRU1hMaW95NW1kWlNEZXZMbzVJWnpBaGg3dW5CS2"
+      "published": "Tue, 22 Sep 2026 14:39:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYkszb0lqcmtLRmpfWmV0TDRMajdPS3dFVEZJcHBUaUdhdnN5dzVLRXV4ZkJlYTJxR05wcVJfdkFVOGZqeHJpX3FFcC01alVkcW9ROTl3WGNlSnhwbUtDRjBQcnZIbmxLbmxBODZZb3Q1R205WkFvVnFxalVjeV9HTWZ5Q2trUkUySUZpWkhsWHFKYk84cV9YNHVpMXZXWTRXckotTTF6Yk5tR1VNRlh5SXNTaTBCYXRONG"
     },
     {
-      "title": "Inteligencia artificial: Argentina quedó última entre 28 países en adopción de IA - noticiasd.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUU1dlBXc3kxWVhkdVE4aEZ6Q1czalFiX0VMS2xZWHNWczE5djlhOG0tTFhLQmQ4V1doRHYwRXdHQjNfellQUHlNd0ktYXcwQnZ3b2VwenBVYjFUR19RQ2dvNGhEeTZ2SUJsV0tzRG91bFk2U3gwUi1lVDUtOFdDYlZhek1tYUlMbWVPaUo3Vk4xd2xZa3E3Y0tBaUNxMVZxUTE5c3hlejBtaTZhMWgtbXhHb01zLXJi?oc=5",
+      "title": "La inteligencia artificial y la transformación digital son los ejes de la estrategia del sector de seguros en la Argentina - 100% seguro",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFJNRW1iUks5NU1lT3pCeHBXd2hNbTVWbkNUY0dUVWlSa2NBMElMSUlpT2Q5REZQZnREZEhwTmVvYnk1Q0I0V0s5UTZaZTg1Yzk2VF8yejJSdEJuc3hrc3BmdTByMjZOSzN5MTdCVVVBMzNYaEMzR1B1TmViSG0xZklLdFFfakNMemlpVzRXdE13QVZEZkNySFphNVNOYTl3dTJ5a1BRdnJUVzVNMkVjWkdVTm5GbmNST3hRYnRDLXdFUXZQeUtBVXpGUHlOenlOb1FtaTA2WXR3dGdPdzRuOWp3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Sep 2026 19:59:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWUU1dlBXc3kxWVhkdVE4aEZ6Q1czalFiX0VMS2xZWHNWczE5djlhOG0tTFhLQmQ4V1doRHYwRXdHQjNfellQUHlNd0ktYXcwQnZ3b2VwenBVYjFUR19RQ2dvNGhEeTZ2SUJsV0tzRG91bFk2U3gwUi1lVDUtOFdDYlZhek1tYUlMbWVPaUo3Vk4xd2xZa3E3Y0tBaUNxMVZxUTE5c3hlejBtaTZhMWgtbXhHb01zLXJi?o"
+      "published": "Tue, 22 Sep 2026 15:22:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFJNRW1iUks5NU1lT3pCeHBXd2hNbTVWbkNUY0dUVWlSa2NBMElMSUlpT2Q5REZQZnREZEhwTmVvYnk1Q0I0V0s5UTZaZTg1Yzk2VF8yejJSdEJuc3hrc3BmdTByMjZOSzN5MTdCVVVBMzNYaEMzR1B1TmViSG0xZklLdFFfakNMemlpVzRXdE13QVZEZkNySFphNVNOYTl3dTJ5a1BRdnJUVzVNMkVjWkdVTm5GbmNST3"
     },
     {
-      "title": "Nerdearla 2026 vuelve al Konex: cinco días de IA, open source y ciencia con entrada gratuita - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFdWeGh5dVRLZm83S19tbGRjNjI1LTU5STNpV2dja3ByZUhTTFRXY0RlVWJXdHloQlJVYTdTNjgxUC1rVEM2ZndKV0t0aFJtY3lfY1N3SGtNMm5FOHpFLS16MnoxY3ZaUDAwQUdOMnpUajFhbnpyaGxoVVJOYUZ3Z0lpWWRFaERGbDhRSDhramlTR25MYXJZNVZaS1VWMG5rSmI1LVVxaTRjUmF2ZEU0V3lCN3JlNGt3LVF3aUJPUkY3SU9I?oc=5",
+      "title": "Buenos Aires aprueba el Decreto 742/2026 para regular la IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT200Y0F1TWRkbnhWLW5pWExOQS11NXNEeWs4WURINlBUdVBQRlluREhkZ3NYMFdQdEsxV2lZV2dnR0VjdGx0TUV4d3llU1VkUG15MVEtZ0ZXQXNnOGYwaWYwMXRhdFJzOEltcFBMdDZyalhWVjJRVkFqYU1FQ3VCYmRRV1dFSVJtX3otRXRuY2ZVM21X?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Sep 2026 14:49:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVFdWeGh5dVRLZm83S19tbGRjNjI1LTU5STNpV2dja3ByZUhTTFRXY0RlVWJXdHloQlJVYTdTNjgxUC1rVEM2ZndKV0t0aFJtY3lfY1N3SGtNMm5FOHpFLS16MnoxY3ZaUDAwQUdOMnpUajFhbnpyaGxoVVJOYUZ3Z0lpWWRFaERGbDhRSDhramlTR25MYXJZNVZaS1VWMG5rSmI1LVVxaTRjUmF2ZEU0V3lCN3JlNGt3LV"
+      "published": "Tue, 22 Sep 2026 01:36:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQT200Y0F1TWRkbnhWLW5pWExOQS11NXNEeWs4WURINlBUdVBQRlluREhkZ3NYMFdQdEsxV2lZV2dnR0VjdGx0TUV4d3llU1VkUG15MVEtZ0ZXQXNnOGYwaWYwMXRhdFJzOEltcFBMdDZyalhWVjJRVkFqYU1FQ3VCYmRRV1dFSVJtX3otRXRuY2ZVM21X?oc=5\" target=\"_blank\">Buenos Aires aprueba el Dec"
     },
     {
-      "title": "Una IA bonaerense con domicilio en La Plata - El Editor Platense",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObC1oN0hObzFqb0x2UVQ1LTVYd3NLTmJTU0JaRmxRb2ZMVTFVY0ZDclQtM0IybmJtcFNkdFBYQmJlZEVjLV9DeG8tYVQycmNZaW9fOUF6RG01RnZFaUZxT0ZIOEVUTHpScTU2eGR5MTlkcENSWUh3M1dKWGZvelNhUHVnSGQ4aGlqa2ZJQXJPcXpvdGZkRnVCRzBTYi1ObHRjX1ItYW1OZWdCR3JKLXktTDUwUzRFRGNmYy1B0gHAAUFVX3lxTFBJa1JzMzZGWGZuWFc3dzNPM1Q4ZnphdmlyWF9MUi1fQUQ2Z2ZMcEdSU0ZCajcyMDZZWXd2ZTA0WFljd0QtTy1MdzZGZTdJOW9naDVqWXN1aktwNjVNSTlqdzlYRXdHZlo4OXRsVDJyLWEtdXExckd3WU1lWTJQY3RoUFA1QTItYW5QRWsyRzhiUjd3THlISGd0S0hzWjVBMGd6VEo0SFJaZ2lfRWZZQmdpQTFhcDc3dWhTMFZkaXRNTg?oc=5",
+      "title": "Nº 778 – Buenos Aires: 128 escuelas integran la IA en sus aulas - Organización de Estados Iberoamericanos",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDdzMjF1ajUzVmNXQklQN2Q1aW9DOUlwVkJBb2RNeTJoVXdBSTFpYjV6ODVDWGZ2VUpSVmxMQUhLWFNyNVotWFl3N1N6S2VQLVpSMVNaUUNwWjQyNTBGQklhcG16TzJLcUxnSkc1bnptQzlKbFRiMnRaRTQ5ZFFtSVpOQ1BLMFN4SDV3TVlEb2lONXhlazNqOW9ZQWppQ0llQ0lrM0k0X3RvcFJ2Um5CeW5XZ2U?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Sep 2026 18:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObC1oN0hObzFqb0x2UVQ1LTVYd3NLTmJTU0JaRmxRb2ZMVTFVY0ZDclQtM0IybmJtcFNkdFBYQmJlZEVjLV9DeG8tYVQycmNZaW9fOUF6RG01RnZFaUZxT0ZIOEVUTHpScTU2eGR5MTlkcENSWUh3M1dKWGZvelNhUHVnSGQ4aGlqa2ZJQXJPcXpvdGZkRnVCRzBTYi1ObHRjX1ItYW1OZWdCR3JKLXktTDUwUzRFRGNmYy"
+      "published": "Thu, 17 Sep 2026 09:20:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQaDdzMjF1ajUzVmNXQklQN2Q1aW9DOUlwVkJBb2RNeTJoVXdBSTFpYjV6ODVDWGZ2VUpSVmxMQUhLWFNyNVotWFl3N1N6S2VQLVpSMVNaUUNwWjQyNTBGQklhcG16TzJLcUxnSkc1bnptQzlKbFRiMnRaRTQ5ZFFtSVpOQ1BLMFN4SDV3TVlEb2lONXhlazNqOW9ZQWppQ0llQ0lrM0k0X3RvcFJ2Um5CeW5XZ2U?oc=5\" "
     },
     {
       "title": "Nerdearla 2026: IA, software y open source en Buenos Aires - thestandardcio.com",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjZxV2pKdFlhbGhNcVl6MVFxcDZ5S0VUbnQ0RlN5Q2FWb2UzcVhVazlnLUZJZ1RYbUYzR3lGRHVtNXhkX3JQdy1pOFJ3c3dJa2xkUnlPRzBvbTl2SkVkT2VtYWhwVklwQl9wVmxSQ1ZoUlhHVGZCY0pPN0ZoWDlVdzFVY2h4Y1gwMkNhUzBjdnp4QzNl?oc=5\" target=\"_blank\">Nerdearla 2026: IA, softwar"
     },
     {
-      "title": "Infira: startup argentina gana premio ONU por arroz perenne - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTVVVlFmbGRiX1Q2MDNDU2dBSkhIVUJuTXZXbnVXZWJXUmtMV0ZKZUs3VjZMY1NlR3NRR3pxcnJOaGJETTY5WGprX2xjODB6WHA1b0V1MGtrOENnRW5XOWVBWXhOdmxwbGlmeUdUNUN3ZFFsWG41dmhEczdSMV80X3NxN1BIQndyZjhNTTR2ZnZleDA?oc=5",
+      "title": "Satellites on Fire: 35 min antes que NASA y al Earthshot - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOem5SQWZib2p5bFJtNkRXRm15RmthbDdqei1sM2JuSFYyWVRVWVJwclVTRjlmYWJxNTgxTVBqTTkteGg4RmtGQ1BXR3NzTHdBQW5mZHR4Tk41cVJteEdTbFYxYVRuR1Q4LVlRWlRXQXlCU1VNS05pUW5BSmpyRGFPVHgyVnFGMlpqTnNXNlhGZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 21 Sep 2026 13:57:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTVVVlFmbGRiX1Q2MDNDU2dBSkhIVUJuTXZXbnVXZWJXUmtMV0ZKZUs3VjZMY1NlR3NRR3pxcnJOaGJETTY5WGprX2xjODB6WHA1b0V1MGtrOENnRW5XOWVBWXhOdmxwbGlmeUdUNUN3ZFFsWG41dmhEczdSMV80X3NxN1BIQndyZjhNTTR2ZnZleDA?oc=5\" target=\"_blank\">Infira: startup argentina ga"
+      "published": "Sun, 20 Sep 2026 03:07:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOem5SQWZib2p5bFJtNkRXRm15RmthbDdqei1sM2JuSFYyWVRVWVJwclVTRjlmYWJxNTgxTVBqTTkteGg4RmtGQ1BXR3NzTHdBQW5mZHR4Tk41cVJteEdTbFYxYVRuR1Q4LVlRWlRXQXlCU1VNS05pUW5BSmpyRGFPVHgyVnFGMlpqTnNXNlhGZw?oc=5\" target=\"_blank\">Satellites on Fire: 35 min antes "
     },
     {
       "title": "La startup argentina que detecta incendios mejor que la NASA competirá por \"el Oscar del medio ambiente\" - Forbes Argentina",
