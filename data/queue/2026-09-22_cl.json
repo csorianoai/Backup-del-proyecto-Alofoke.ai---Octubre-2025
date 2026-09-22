@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Así se mueven los santiaguinos en bicicleta: cuánto duran sus viajes y cuáles son sus horarios favoritos",
+      "url": "https://www.latercera.com/tendencias/noticia/asi-se-mueven-los-santiaguinos-en-bicicleta-cuanto-duran-sus-viajes-y-cuales-son-sus-horarios-favoritos/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 22 Sep 2026 20:03:22 +0000",
+      "summary": "Un análisis de más de siete años de registros muestra los principales hábitos de quienes utilizan bicicletas compartidas en la capital."
+    },
+    {
       "title": "Confirman qué provocó la muerte de la actriz Hayden Panettiere",
       "url": "https://www.latercera.com/tendencias/noticia/confirman-que-provoco-la-muerte-de-la-actriz-hayden-panettiere/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "¿Podrían llegar a Santiago los efectos del intenso sistema frontal que afectará al sur del país? Revisa qué se espera para la Región Metropolitana y cuándo podría volver la lluvia."
     },
     {
-      "title": "Soy publicista y esto es lo que está detrás de la polémica campaña de Sydney Sweeney",
-      "url": "https://www.latercera.com/tendencias/noticia/soy-publicista-y-esto-es-lo-que-esta-detras-de-la-polemica-campana-de-sydney-sweeney/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 22 Sep 2026 09:02:00 +0000",
-      "summary": "La campaña de Novig, protagonizada por la actriz con poca ropa y distintos implementos deportivos, generó gran repercusión y críticas entre deportistas. ¿La viralidad basta para considerarla un éxito publicitario?"
-    },
-    {
       "title": "Chile | Presidente Kast participa en Diálogo Presidencial sobre Inteligencia Artificial junto a mandatarios de la región y líderes de la industria tecnológica - DPL News",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2tpSVVDbjdSWUwzTTlrc0JsRUhreHVMcGZEOU1uTUtxY2ZwV05PcnVZWVlRdDJ6Vnhzc0hVQTJCVnk0U0hENXJUTjJqak9uSnFaenpaQ2k4aDlWMUt0S0FDbDJvSktwYklER0hhN0JSdGVQSzhLblY5UG9lUUt1RTNlU1A3amxxVDg5LW4tZzNLdGt0RHpQMjA5UFZwWjQ4VUdhaXVBODdHUTZtbnpjY2M4dElRNHg2NlkzdE81SjROejJwMlV3YmlnM3M2S3BQZ1JUNlNra1V6c3cxV0lKbnhJbVZnN0UyYVRlbXdpVXJQUzY5eUNhZFN3dWJUcmVvQ3ZXQ2dPNjY?oc=5",
       "source": "Google News",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2tpSVVDbjdSWUwzTTlrc0JsRUhreHVMcGZEOU1uTUtxY2ZwV05PcnVZWVlRdDJ6Vnhzc0hVQTJCVnk0U0hENXJUTjJqak9uSnFaenpaQ2k4aDlWMUt0S0FDbDJvSktwYklER0hhN0JSdGVQSzhLblY5UG9lUUt1RTNlU1A3amxxVDg5LW4tZzNLdGt0RHpQMjA5UFZwWjQ4VUdhaXVBODdHUTZtbnpjY2M4dElRNHg2Nl"
     },
     {
+      "title": "Kast destaca ante la ONU el potencial de la inteligencia artificial en Chile: “Un crecimiento del 10% o el 20% de nuestra economía” - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLWNQTXBnVHJVSjI3eTBYc0F0cTI4SlR3Nk9Ec3lxS0tzdThVWTdvNFZKdTZsU1pPRkNTa1hRTlh1eHdkXzRMYlc5c3BRTVhDN0hrbFNlaDQ1WlJsM0dSMmZUOFhhX0ZvZjVCdHNvYnlhQ3VDa3UzSVk5YXphTHFLM2pyU1ViY1BvYnpzNGMtMjdfUkx3X1dkYTM2N3pCdmxrRUc5bmdCWklKamd2QjVXTXBFLVVHNzZ6LS1ZR2dIY0NlR1pTNXZYdkhqYjlRQ2Q0MG5Tcll6M1ZEbV9TaW1ZeHI1amJIU1Q0cWNhLVp1eDlFWjNNSmhobVpOREV1M0nSAaACQVVfeXFMUDdjYjJDTFdQOG90TnRzNDBhN0ZpalVORHJYd0ZUeXVlSDZiaHNxZ3V3MzdfZUY3bWJac2s4YUpjRmtTQlh2M0U3Zzhua3VDWFFuUUN5cVc0NEJsVXlGTE9JeTJYb3FpMTRSNXEzRkpmbzVYeHFHUmZ1VlZiWDFQVkNhWU9xTWc3OTg3RnhmN3FUdklQNHY4ZEN0RlBsRGJGekFxOWFyeUFqSWhCeWd4Q04wbDVQMVROdlk3MmdLVHdQd3RKUE5Sa3hwNnBvamloVVQ0NGwyQ0JWamxUSjNNczB2RU85SHN4ZUZpTWxsWjVkRWpvNnQ5aG9YcVRTR25tSlRhNzFWMWV6OTBLY2VtTlM1N0tqMzFmZDNmdmpSUWU5?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 22 Sep 2026 18:54:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNLWNQTXBnVHJVSjI3eTBYc0F0cTI4SlR3Nk9Ec3lxS0tzdThVWTdvNFZKdTZsU1pPRkNTa1hRTlh1eHdkXzRMYlc5c3BRTVhDN0hrbFNlaDQ1WlJsM0dSMmZUOFhhX0ZvZjVCdHNvYnlhQ3VDa3UzSVk5YXphTHFLM2pyU1ViY1BvYnpzNGMtMjdfUkx3X1dkYTM2N3pCdmxrRUc5bmdCWklKamd2QjVXTXBFLVVHNzZ6LS"
+    },
+    {
       "title": "La inteligencia artificial acelera su entrada al comercio en Chile, pero todavía no destruye empleos - Diario Financiero",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXNSd25XTF85UVlJb19qVk93WFFqMG9SSmZwampiUVFoX1pIZ1JLT1VSMUF6eUVOWmg1dWhYZDcxVnR4NV85X2labkpGaWdPWHF6X094SURERUVaTThCSUZQT1htQ1dXM29hMVYta2tkOTViT3hBaHlwVmlCQklZWGNWd28yNGJUdF9OcC1KcVRTSFZnaTVhbUJCYmNaYjFSQU1LaEc2WXQ3OTFyY0hmQkl6SjdIYl9qQXItOVhwd2JxR0FM?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 22 Sep 2026 15:58:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXNSd25XTF85UVlJb19qVk93WFFqMG9SSmZwampiUVFoX1pIZ1JLT1VSMUF6eUVOWmg1dWhYZDcxVnR4NV85X2labkpGaWdPWHF6X094SURERUVaTThCSUZQT1htQ1dXM29hMVYta2tkOTViT3hBaHlwVmlCQklZWGNWd28yNGJUdF9OcC1KcVRTSFZnaTVhbUJCYmNaYjFSQU1LaEc2WXQ3OTFyY0hmQkl6SjdIYl9qQX"
-    },
-    {
-      "title": "IA y salud preventiva: expertos analizarán cómo anticipar riesgos médicos en Chile - 24horas",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUhIVnBRVFB4RzRPYXByYVJhQ0hpS2tidGxGYW5ZelhvaXIxQmo0WkRDekNvVi14dHRIMThwSnRwRTF4U284NnhPRjdPbUZFeEZxRTlpSzA1MVBHLWlqWjBmZWZuUk5JLVdpNmRBbWZ0TGZtLWJmTGNnSmRrUDVZcUMyMNIBiAFBVV95cUxPVXExeFNfaDdGMnNNcUJTTzF1OGJlWEI1WmVOeG5ZRjJLSU9YMXNPRHpaUkdZNENUWGNld2VUV3J1X0JIVWhfX2RmNDRBY2xRWEFJQUJzUWJWVjZlUHN4UEg1ZkNkek9rTXJESGV5b0JPcWxGWTB4X291Zm9WRTZXdnFwLWFSVzlU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 22 Sep 2026 15:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUhIVnBRVFB4RzRPYXByYVJhQ0hpS2tidGxGYW5ZelhvaXIxQmo0WkRDekNvVi14dHRIMThwSnRwRTF4U284NnhPRjdPbUZFeEZxRTlpSzA1MVBHLWlqWjBmZWZuUk5JLVdpNmRBbWZ0TGZtLWJmTGNnSmRrUDVZcUMyMNIBiAFBVV95cUxPVXExeFNfaDdGMnNNcUJTTzF1OGJlWEI1WmVOeG5ZRjJLSU9YMXNPRHpaUk"
     },
     {
       "title": "Repeticiones en el aula en la era de la IA - LaRepublica.co",
