@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Esto es lo que el estrés crónico podría estar haciendo en tu corazón, según un reciente estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/esto-es-lo-que-el-estres-cronico-podria-estar-haciendo-en-tu-corazon-segun-un-reciente-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 23 Sep 2026 20:00:00 +0000",
+      "summary": "Los autores plantean que la inflamación crónica asociada al estrés sostenido en el tiempo está vinculada a cambios estructurales perjudiciales en el corazón, así como a un mayor riesgo de sufrir infartos y accidentes cerebrovasculares."
+    },
+    {
       "title": "Meteochile enciende alarma meteorológica por el río atmosférico extremo: revisa aquí las regiones afectadas",
       "url": "https://www.latercera.com/tendencias/noticia/meteochile-enciende-alarma-meteorologica-por-el-rio-atmosferico-extremo-estas-seran-las-regiones-afectadas/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Una médico inmunóloga explica cómo tratar las alergias primaverales, cuándo comenzar el tratamiento y qué medidas ayudan a reducir los síntomas molestos."
     },
     {
-      "title": "Así se mueven los santiaguinos en bicicleta: cuánto duran sus viajes y cuáles son sus horarios favoritos",
-      "url": "https://www.latercera.com/tendencias/noticia/asi-se-mueven-los-santiaguinos-en-bicicleta-cuanto-duran-sus-viajes-y-cuales-son-sus-horarios-favoritos/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 22 Sep 2026 20:03:22 +0000",
-      "summary": "Un análisis de más de siete años de registros muestra los principales hábitos de quienes utilizan bicicletas compartidas en la capital."
-    },
-    {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
       "source": "Google News",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
     },
     {
-      "title": "Chile | Presidente Kast participa en Diálogo Presidencial sobre Inteligencia Artificial junto a mandatarios de la región y líderes de la industria tecnológica - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2tpSVVDbjdSWUwzTTlrc0JsRUhreHVMcGZEOU1uTUtxY2ZwV05PcnVZWVlRdDJ6Vnhzc0hVQTJCVnk0U0hENXJUTjJqak9uSnFaenpaQ2k4aDlWMUt0S0FDbDJvSktwYklER0hhN0JSdGVQSzhLblY5UG9lUUt1RTNlU1A3amxxVDg5LW4tZzNLdGt0RHpQMjA5UFZwWjQ4VUdhaXVBODdHUTZtbnpjY2M4dElRNHg2NlkzdE81SjROejJwMlV3YmlnM3M2S3BQZ1JUNlNra1V6c3cxV0lKbnhJbVZnN0UyYVRlbXdpVXJQUzY5eUNhZFN3dWJUcmVvQ3ZXQ2dPNjY?oc=5",
+      "title": "Con IA, neurociencia y tecnología: el proyecto que prepara el salto del chileno Nico Pino a la Fórmula 2 - AS Chile",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjk4WlRYSXVtMkNUU2dpV0tRUnZLUzRSOXZaNXBGdHNNVmNzdWVrLTZTTzJWSS0tYjRLbWtNbjhLMEtXRUREYUh0cGRVSkszajFMVVBmLVVsbjFxRnFfQ0dtejloSzk5aWdJUFZOUV9pdzlxSVNkSHMzM1I2bFJoa0l5NFBLc1FOZlpvWC1reWlQWVZBY3YyYWhGVzUxdGtlYkpIdV9yd1ZndjZaMl9ydl9VbV9iZmF4SUticE5zVGVTMEZEV21sRTY1XzZmLWxRNVU4c2RfTVdQbTd1emNjWXhB0gH2AUFVX3lxTE9fQUlzVmMySGdNcVVpOHAtazRsU1JPbEtlN3pZcWl0VXV6M003cVdibFRWckF6UGxnVlhUSlNvMkZtUTc2aHRvS3pYRFlXd1p4cG1ZUTRYb242TXpHODdnSFFIalpLQnpyVlNCcXRlbjI1bHpVUDluTHNqOUN6LThRV2Zoc0llTGhOUzEyNGVOSWIzN2NRVThMblpKdjNYQVhpck1HbEQtelNEWU5LYzdMZHljaTRPTmlSbnB0RVcxUEhmZWZmU1hqZDJLdU1xUy1TcUdQX3YxWkpWeFhqQjJPdklONkQ1ZExzYWNTbHR0dG5yRmxHZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 22 Sep 2026 16:23:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2tpSVVDbjdSWUwzTTlrc0JsRUhreHVMcGZEOU1uTUtxY2ZwV05PcnVZWVlRdDJ6Vnhzc0hVQTJCVnk0U0hENXJUTjJqak9uSnFaenpaQ2k4aDlWMUt0S0FDbDJvSktwYklER0hhN0JSdGVQSzhLblY5UG9lUUt1RTNlU1A3amxxVDg5LW4tZzNLdGt0RHpQMjA5UFZwWjQ4VUdhaXVBODdHUTZtbnpjY2M4dElRNHg2Nl"
+      "published": "Wed, 23 Sep 2026 18:08:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTjk4WlRYSXVtMkNUU2dpV0tRUnZLUzRSOXZaNXBGdHNNVmNzdWVrLTZTTzJWSS0tYjRLbWtNbjhLMEtXRUREYUh0cGRVSkszajFMVVBmLVVsbjFxRnFfQ0dtejloSzk5aWdJUFZOUV9pdzlxSVNkSHMzM1I2bFJoa0l5NFBLc1FOZlpvWC1reWlQWVZBY3YyYWhGVzUxdGtlYkpIdV9yd1ZndjZaMl9ydl9VbV9iZmF4SU"
     },
     {
       "title": "Oracle lleva formación gratuita en Inteligencia Artificial a profesionales de negocios en Chile en una nueva edición de ONE - G5noticias",
@@ -67,7 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeWZvYTVQVGw2TUFQOGtETF9EWkVSWmN6Ty1wZm02dXpQWFBKU2ZvOHkwaGdJZUFQQlVhYVpBcE5Hem9OQlZUZUNnNXV0Z2FMSHNkTUJ3b0pjMkVCcmh1MkdUbWk1cGk0T3VIclF6MHN3cE1sUi1Wbi0yazRuOGRBVGg5VjFVdy02djM5V202bEJ1RDlWM3pGQzdfSW91eVREdnFHSDU2UGxYWGgtV09LZWtENlBqdjd6Sk"
     },
     {
-      "title": "Repeticiones en el aula en la era de la IA - LaRepublica.co",
+      "title": "Repeticiones en el aula en la era de la IA - larepublica.co",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXlDY1BDRkpIUmV5Rk9YTEZoQWgtTnkySk45TUF6czZiMThUdldGU0xMdTlhUkRHZVk1M2dxemdFUGdnbkcxU3d0M3luT2F2RnJCS2g3MUJLWjhnUnZrTTZoSWJMMTZZQmZLZEJQR0xvMHZCZWhYZzBkdWhiMWQxUDZEU0F6MVUwVmQ0ZnJuRW9jUXlhb0c4TWItVDNSUGxOWjBFZGpXcFhpbl9OOHlxd1RWd1ZPbU92WERz?oc=5",
       "source": "Google News",
       "category": "news",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNdElqZmdnbWtneDJnMlhPV1U0QXFuT2FPTDFQYjgtdF9uNi1TMVNEYV94clFPLVlsWDAyS01FNV84cFJZUDdGRzVwdUV4a3l3RFFVRlNEekp3ckVxc0NIMTRPX1lzcmdWOEJONWRWampCbVhaSmtJdE1FdlN2cUdaazcxX0tqZ9IBmgFBVV95cUxOY2tBcVBvTEoyb3g4dDVmWVhzRzMtX3YyUy0tMVllbGhkTkFNdjU3Uz"
     },
     {
+      "title": "ACTI propone reducir barreras para que startups accedan a compras públicas por más de US$20 mil millones en Chile - madboxpc",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWZuNWd0UlFSRFU4VTBVUkljN3Nlc1Z3a1R4UXpaYnR3MDR5Y2Y4VHBLT2tER2xLRmRSWVVDZWJoU0tWTUEwMXNtQU85cWNKUGhPdU9LTmxIVHpCRHlJTTNpS2NudlF6MUQwdWgtNUdvV19EZUx2a3p3aFhheWQ2VmRSSTNnNWR0MmhablJyeC0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 23 Sep 2026 17:39:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWZuNWd0UlFSRFU4VTBVUkljN3Nlc1Z3a1R4UXpaYnR3MDR5Y2Y4VHBLT2tER2xLRmRSWVVDZWJoU0tWTUEwMXNtQU85cWNKUGhPdU9LTmxIVHpCRHlJTTNpS2NudlF6MUQwdWgtNUdvV19EZUx2a3p3aFhheWQ2VmRSSTNnNWR0MmhablJyeC0?oc=5\" target=\"_blank\">ACTI propone reducir barreras pa"
+    },
+    {
       "title": "Start-Up Chile arranca BIG 12 con 65 startups en NIDO Lucía - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWlIekFmMFRsRXZpQ29NSGNaWWU4VUd0eW5WQU5FX2ZGRm1BNmJYcmxlSElrTjcxVHU3eEdOd3dJajd5YWszWUdQYmJWTEJiLTZvZkhCeFV6Rm1Fb2dWM2czcnJnRExEekhYRlJpMmZUU3I5UkhEMGQwcjMxb2hpd3JjNWZDNkxrcnhuZWZRaXgyTDFf?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Tue, 22 Sep 2026 22:17:32 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSlJ6MUcyTGQzeEhsX0ZiRDczbkdHdWZmdWhvV3c0MGlERnNvUTVVaV92R1dnaHVyU29pdnYzYkl5N1dLY2hHbFRITXFKZUJBeWctbVprTGhZbXF6SVZIT2xycEwxeUZRc2xqcXhtT01vR3J1WmFacGlhRnBNNnE4NTFvWUFPc2VJZjgwQ3BmMmhRLVNEbmluYnBmb25rVGc5cXY3TXgxS2NEQWNXY0JOUG5ZaTZGVXZWT1"
-    },
-    {
-      "title": "Corfo acelerará 65 startups de emprendedores tecnológicos de nueve países de América y Europa con cofinanciamiento por $75 millones - The Clinic",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaGRpb0xrdVhVckJJV1VmT2FiNFhCdnNfQmZpdk9qWVE0bk9TWVRsYVVLLXBaejNlZDVxbjJmLVF3N184QUoxem9kQ3ZIN1Znc1JEVTBRc3RkUVNqMkxfQVZyWXFwSlZQeXQzNU5yYk5tTE1NU2pRaHBrMUNJeV9zUVBaaFFTcjZpNWp6T25iakdTSDVQbkdwQjhHekQ2MmVFVm84ZUdaREFUaGhjUUZ3YVZjZlVlWU9ONzNpbHZRbm5SdzdfMEhTdzJfWDhyMzlaU3FQc1dFVXgwLUNKVXo1U3JJQnlFV3dET2IwOVVXOGpBTE8wQnVVVzFtc9IBgAJBVV95cUxOekp0M0lpRE5Sd0ltV1pHQlN0MXc0YzJRTWxvRGFFSVBpaVc5YnJNV3RYTWRScGpTUWV0ZHY3eDNwMWVYd3RLV2hMLVBrcjFCN2J5Z2hlb0tjbWl1SnJoanl1SGVnVmItTV9fZzczdmRPODVhTThaTkZ4b3VnMFBDMGpTb3d2NWp2NDU5akJ2dUZjVTBYZm50Y0xDTEMxN2c2MUdCekw4dUM1aEJYZmlfVERjaWxsWnJaT0FKM2lkYzh2dEVpZnNPWWJuWEc3c2JzWkxBOUhuLW9meGhXc214OFpqenFJcjBTNVYtVFhFYUk0d2FCNnZjSGt0aHVtX3hE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 15 Sep 2026 17:54:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaGRpb0xrdVhVckJJV1VmT2FiNFhCdnNfQmZpdk9qWVE0bk9TWVRsYVVLLXBaejNlZDVxbjJmLVF3N184QUoxem9kQ3ZIN1Znc1JEVTBRc3RkUVNqMkxfQVZyWXFwSlZQeXQzNU5yYk5tTE1NU2pRaHBrMUNJeV9zUVBaaFFTcjZpNWp6T25iakdTSDVQbkdwQjhHekQ2MmVFVm84ZUdaREFUaGhjUUZ3YVZjZlVlWU9ONz"
     }
   ],
   "count": 14

@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "YouTube evoluciona: ahora puedes hablarle para encontrar tus videos favoritos",
+      "url": "https://expansion.mx/tecnologia/2026/09/23/youtube-inteligencia-artificial-herramientas-ia-videos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 23 Sep 2026 17:13:03 GMT",
+      "summary": "Durante Made on YouTube 2026, la plataforma presentó nuevas herramientas de IA que van desde descubrir nuevos contenidos con prompts y comandos de voz, hasta doblaje automático en transmisiones en vivo y más."
+    },
+    {
+      "title": "El detector de IA que usa tu maestro para cancelar tareas podría estar fallando: esta es la razón",
+      "url": "https://expansion.mx/tecnologia/2026/09/23/tarea-hecha-con-ia-aunque-hayas-escrito-problema-detectores",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 23 Sep 2026 14:43:30 GMT",
+      "summary": "Aunque algunas herramientas presumen más de 99% de precisión, los expertos advierten que un resultado no basta para probar que un texto fue hecho con IA."
+    },
+    {
       "title": "Volverse viral en TikTok se ha convertido en un peligro para tiendas y negocios: vender productos que ya no tienen",
       "url": "https://expansion.mx/tecnologia/2026/09/22/hacerse-viral-tiktok-peligro-tiendas-mexicanas",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "El Consejo Consultivo Quantum Safe México reunirá a expertos técnicos y normativos para anticipar los riesgos del cómputo cuántico sobre la seguridad de datos, servicios digitales y sistemas criptográficos."
     },
     {
-      "title": "El anti-Tinder que gana millones enseñándole a la gente a desinstalar su app",
-      "url": "https://expansion.mx/tecnologia/2026/09/22/hinge-app-citas-disenada-para-ser-eliminada-crece",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 22 Sep 2026 11:55:24 GMT",
-      "summary": "En México, 38.7 millones de internautas descargaron alguna vez una app de citas. Hinge, que propone un modelo donde el éxito consiste en que el usuario se vaya, crece 22% en ingresos."
-    },
-    {
-      "title": "TikTok influye en el 13% de la venta de libros en México y da un segundo aire a librerías independientes",
-      "url": "https://expansion.mx/tecnologia/2026/09/21/tiktok-compra-libros-librerias-independientes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 21 Sep 2026 22:30:54 GMT",
-      "summary": "Además de ser una herramienta para la diversificación de canales de difusión literaria, TikTok también está cambiando la manera en que opera el negocio editorial."
+      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 18 Sep 2026 19:52:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
     },
     {
       "title": "Ley de IA avanza en México mientras enfrenta el reto de invertir en tecnología propia - Infobae",
@@ -51,20 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDVjQ3MzaGFLUlZ4cHE1RVJ6aFhZNlBBcExwU1F2VFJDUWFycGlqNThiU2thb0FXaXJlSEVBUHlhTzVHMmxIUGpDaWliWFQ3dlBxT1FXN2RjSS13Z194SmEwQ1VoVGNLc2VaN285eG9CTzZyWWlxckJnRDJPRE9XQ1ByX1A0WGJray01eE5tWG1tMVJ3QXQ4bzJmX2ExMV95OVY0R1YyVWRWelM0aUhlR1lsd25DYk1iQ0"
     },
     {
-      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "title": "México y la inteligencia artificial: del diagnóstico a la ejecución - Grupo Animal",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTV3QXU4bTJCODFTRDZIMnFKaTZhVFhyV3VaVlBFNGRXVzFLaUFyRmpPLWdUUUZJc0o3UngtSDctejB6YTBDWDczQjV0MnkwMHJZTlZKV3J3UnJ3eUk0bi1McF9tR1JhNWZBTVk0WXRReGQ0WkZpMWs0M09ycFpqbk94S3V3YTBXQXY0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 18 Sep 2026 19:52:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
+      "published": "Wed, 23 Sep 2026 12:06:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTV3QXU4bTJCODFTRDZIMnFKaTZhVFhyV3VaVlBFNGRXVzFLaUFyRmpPLWdUUUZJc0o3UngtSDctejB6YTBDWDczQjV0MnkwMHJZTlZKV3J3UnJ3eUk0bi1McF9tR1JhNWZBTVk0WXRReGQ0WkZpMWs0M09ycFpqbk94S3V3YTBXQXY0?oc=5\" target=\"_blank\">México y la inteligencia artificial: de"
     },
     {
-      "title": "Fábricas de IA, el nuevo negocio que puede aportar 5.2% del PIB de México y que no son igual a los data centers - expansion.mx",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW5KTWprV3RqSXRsWG9EelRMTmxhd1NqVk1GVWZsVjFQQ0w5eWQ0MzRWZUNQOFpkR2ZITms3WXZyaWItc21rdko5TUNMT3VwVVNNSWdMYWk0eEJONnFSdzdRVE05NmEtcHFuZUNZaWRrM0dVdlRsRDFHOTFsRFFpa2ZQOTR0VWdxcXlETnlFdk5Dd0t5MlF6M9IBpgFBVV95cUxNdGxYQzRtREJoRl8wNU5ab045UFlGMzN2TmRFTS1CWkJVQWJjM0UxS2QtUTNYeUxZWl9DdFNDNHlRN21reHFfWXh1amtXNERqMkJwcjBQTWZwTmRGaS1MUFBLMS1QaTZ3cDg4Ul9xRE1waXRyT0s4TkRER2FTbVpoN1pfbXliaXhjRHVDdGVjS28xSkVVSVNoc29SeGc4M1ljTm4xZXRn?oc=5",
+      "title": "IA ya representa el 55% de las nuevas startups VC en LATAM - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09uQ1M5THZsbEJidGxQUWJEbmRYVldwNVdzeUpTVnFLXy1JR3lsOTNpSjExYXFMYnBMQzJwNXJhZmZlTjFQWG56THFobXgwbFFBaXBvSlNTRDRPTnRsTVJkR1pIaUZzWTRPSlBxYW1RR0FyN1hOTEFBcEd2VjRCZjZmWU1HYlBvSDFGUW9Za0s5dw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 11:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW5KTWprV3RqSXRsWG9EelRMTmxhd1NqVk1GVWZsVjFQQ0w5eWQ0MzRWZUNQOFpkR2ZITms3WXZyaWItc21rdko5TUNMT3VwVVNNSWdMYWk0eEJONnFSdzdRVE05NmEtcHFuZUNZaWRrM0dVdlRsRDFHOTFsRFFpa2ZQOTR0VWdxcXlETnlFdk5Dd0t5MlF6M9IBpgFBVV95cUxNdGxYQzRtREJoRl8wNU5ab045UFlGMz"
+      "published": "Wed, 23 Sep 2026 20:54:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09uQ1M5THZsbEJidGxQUWJEbmRYVldwNVdzeUpTVnFLXy1JR3lsOTNpSjExYXFMYnBMQzJwNXJhZmZlTjFQWG56THFobXgwbFFBaXBvSlNTRDRPTnRsTVJkR1pIaUZzWTRPSlBxYW1RR0FyN1hOTEFBcEd2VjRCZjZmWU1HYlBvSDFGUW9Za0s5dw?oc=5\" target=\"_blank\">IA ya representa el 55% de la"
     },
     {
       "title": "Vantora levanta US$100 millones para crear startups de IA que sus clientes podrán quedarse - fomoera.com",
@@ -75,20 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvOFlGaVEzY1VFQlhzSlpRWDRGeXA2NjN6SVJwOGcwZ2RCeGs4OTlXWTFhN0hMY3Uzelk1QjB4TU5rNVZWQ0lScExJZHB4aldJRGZiZE9IdEc1QTlPdDkzMlNDRGtTbXdYQW9BRFEtRQ?oc=5\" target=\"_blank\">Vantora levanta US$100 millones para crear startups de IA que sus clientes po"
     },
     {
-      "title": "Huho, proptech mexicana de EXATEC, opera en 17 estados con 700 asesores - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHJqWkJsc0xQc0s2THJmQ2I2UDQ1cDhZR0xsQmpHTXhnc2Nfcy1WWmNfRWZCQXJzVHpQZjNOdkxJdnZmd09CS1hkU19hYjRHS0Y5cjVlc1pRTUhESVd0eWFWNWlrdGRILUhDRy1EZmRDcHRWM1NfQkw5d091WjVYa2lVNUJvZ1E4SVBxTm5BemVkTjA4ZXJ1MkR1M28tS2lmNHc?oc=5",
+      "title": "Agentes de IA y tecnologías que transformarán el sector salud, y otras cuatro noticias destacadas de la semana - spanish.entrepreneur.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0RQYndaclkySFk2RUNGSmRjaXhKUUdwVkJ6NGVNSGFqcXdCQlpUY0NzeVV5TzBJc2NPTFNEX3NNWEpDbWxnZDRFLXJfSy1KY20xVlJKem1mQlNVeVQyeVEzZm1kc3lfbFBYWEtTQWJ0VDBmZnlTSmEwMVlFeHlPdGV1cVJqb3MzaHpGLUlrbnNMZW9rb2wtVlNNc0FxYTlabHdhWnlaU3BmWlRpUkQxbG1ZVnp5NnhfVE9ONmFQNG5WTmxtZFhHdlFsVlR1YUJsSkk3T1FHMHFkWW54TU5lNUpqLUl2Zw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 15 Sep 2026 17:52:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHJqWkJsc0xQc0s2THJmQ2I2UDQ1cDhZR0xsQmpHTXhnc2Nfcy1WWmNfRWZCQXJzVHpQZjNOdkxJdnZmd09CS1hkU19hYjRHS0Y5cjVlc1pRTUhESVd0eWFWNWlrdGRILUhDRy1EZmRDcHRWM1NfQkw5d091WjVYa2lVNUJvZ1E4SVBxTm5BemVkTjA4ZXJ1MkR1M28tS2lmNHc?oc=5\" target=\"_blank\">Huho, pr"
-    },
-    {
-      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0RQYndaclkySFk2RUNGSmRjaXhKUUdwVkJ6NGVNSGFqcXdCQlpUY0NzeVV5TzBJc2NPTFNEX3NNWEpDbWxnZDRFLXJfSy1KY20xVlJKem1mQlNVeVQyeVEzZm1kc3lfbFBYWEtTQWJ0VDBmZnlTSmEwMVlFeHlPdGV1cVJqb3MzaHpGLUlrbnNMZW9rb2wtVlNNc0FxYTlabHdhWnlaU3BmWlRpUkQxbG1ZVnp5NnhfVE"
     },
     {
       "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - playersoflife.com",
