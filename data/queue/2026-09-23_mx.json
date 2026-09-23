@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Volverse viral en TikTok se ha convertido en un peligro para tiendas y negocios: vender productos que ya no tienen",
+      "url": "https://expansion.mx/tecnologia/2026/09/22/hacerse-viral-tiktok-peligro-tiendas-mexicanas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 22 Sep 2026 23:00:07 GMT",
+      "summary": "Los pedidos de TikTok Shop procesados por Melonn casi se duplicaron en un año, pero un video viral puede dejar a las marcas sin inventario ni capacidad para preparar y entregar las compras a tiempo."
+    },
+    {
+      "title": "¿El smartphone morirá frente a la IA? Qualcomm tiene claro su futuro",
+      "url": "https://expansion.mx/tecnologia/2026/09/22/qualcomm-smartphones-no-desapareceran-ia-cristiano-amon",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 22 Sep 2026 21:30:53 GMT",
+      "summary": "Cristiano Amon, CEO de Qualcomm, definió que el futuro de los smartphones es ser el núcleo de contexto que se conecta con otros dispositivos, como gafas inteligentes, computadoras, relojes o incluso coches."
+    },
+    {
       "title": "México se adelanta a la era cuántica y crea consejo para blindar su seguridad digital",
       "url": "https://expansion.mx/tecnologia/2026/09/22/mexico-consejo-riesgos-computo-cuantico-seguridad-digital",
       "source": "Expansión Tecnología",
@@ -27,28 +43,12 @@
       "summary": "Además de ser una herramienta para la diversificación de canales de difusión literaria, TikTok también está cambiando la manera en que opera el negocio editorial."
     },
     {
-      "title": "Amazon Prime sube de precio por primera vez en 10 años y deja atrás los 99 pesos, ¿cuánto pagarás?",
-      "url": "https://expansion.mx/tecnologia/2026/09/21/amazon-prime-aumenta-precio-en-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 21 Sep 2026 22:12:51 GMT",
-      "summary": "Amazon Prime cambia de precio en México y los clientes actuales todavía tienen tiempo para decidir qué hacer antes de su próxima renovación."
-    },
-    {
-      "title": "Cómo tener mica de privacidad en tu iPhone sin comprar una: este ajuste lo permite",
-      "url": "https://expansion.mx/tecnologia/2026/09/21/como-tener-mica-de-privacidad-en-iphone-sin-comprar-una",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 21 Sep 2026 18:19:50 GMT",
-      "summary": "Disponible en varias generaciones de iPhone, este ajuste requiere una configuración inicial antes de quedar listo para usarse con rapidez."
-    },
-    {
-      "title": "México Digital Summit 2026: el encuentro que definirá la agenda tecnológica del país - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON0ZDMVdwNlhOR1JZME5SQVJRaVRHZVQ2YUxNNGpydEJaRTlyS3VyUVp5d1FVdi1vMFV4TEJtd19OcW5QSTFEVVd6cVk1Z21qWkY2MXY3emJWYVROS1FBbFl6N1NhRXNoT2FyMm51UkVBaU5XaVotZTdNNFktUG40U3JsdUZMblA5TGZzTndYSnZzN2dnNzRqdDdNU3RpdzlVeVFkcmJDMjBOXzk2Ty05Z3dwbFM2ZTcwWE44aHo2T2UxZ2NiOXFnLU1YVXZtU045TERfYmdyU2Y2VURR0gH3AUFVX3lxTFBDdGJyZHZwQlp6bEJvTFlna2ZFM0pBZ1NQVXhyeG9VdGV4UjNvSU91YUxpWE5EUEZVMEhrXzN2cmpqMFB6eDh5RzRsdkhEZG9YWWNuVnJaM2FlUjg1VmU2WHRqVC1vYVB6bTFyQVBueFNWalotT2lMVGZBRm53dkg2SnI0UEs0YWpvZmNpdFpKamZpSDEzbmh5SlNzRVAxS2x6NmlQVEZoRUIxSWRRWGJyRXFDd09NS1VlZ0dWeFJwYlhMNDNXSmZBbEI5a3MwVHF6LXBTb0dRM1QyN01vcnFKbEJWblJLREVuam5OdmhRT29IcS0tQVk?oc=5",
+      "title": "Ley de IA avanza en México mientras enfrenta el reto de invertir en tecnología propia - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDVjQ3MzaGFLUlZ4cHE1RVJ6aFhZNlBBcExwU1F2VFJDUWFycGlqNThiU2thb0FXaXJlSEVBUHlhTzVHMmxIUGpDaWliWFQ3dlBxT1FXN2RjSS13Z194SmEwQ1VoVGNLc2VaN285eG9CTzZyWWlxckJnRDJPRE9XQ1ByX1A0WGJray01eE5tWG1tMVJ3QXQ4bzJmX2ExMV95OVY0R1YyVWRWelM0aUhlR1lsd25DYk1iQ0FxQXdaOXI0aXIxVVU00gHiAUFVX3lxTFBIcVVQRXBtSG15UUxHQ2pIdWlVRFI3Y09vbUdFbWFMTnNBQVhmQk8xRFBZNEMtZml3eTBwOExZMTgzMFRaZWtGeW5zNDQzR1pTUng0MWJidnFXY2tyd0RiZngtcXh4emhRUnJXd2hWZ25QcV9kdFVNNXQ4d3ZRMWNHQU96Rk4wblo2c0RKTVFuNl9Od0J1b2tVb2ZBa3NKUHlITGFhVjhneS1pVm5NaC1NWElNc1B3b1JYMWVDSXByLTM2cG9XLV9Wa2NHNHVjRXNRc19fR2ZhZHBWTHh1eGt0a0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 22 Sep 2026 23:37:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxON0ZDMVdwNlhOR1JZME5SQVJRaVRHZVQ2YUxNNGpydEJaRTlyS3VyUVp5d1FVdi1vMFV4TEJtd19OcW5QSTFEVVd6cVk1Z21qWkY2MXY3emJWYVROS1FBbFl6N1NhRXNoT2FyMm51UkVBaU5XaVotZTdNNFktUG40U3JsdUZMblA5TGZzTndYSnZzN2dnNzRqdDdNU3RpdzlVeVFkcmJDMjBOXzk2Ty05Z3dwbFM2ZTcwWE"
+      "published": "Wed, 23 Sep 2026 14:23:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDVjQ3MzaGFLUlZ4cHE1RVJ6aFhZNlBBcExwU1F2VFJDUWFycGlqNThiU2thb0FXaXJlSEVBUHlhTzVHMmxIUGpDaWliWFQ3dlBxT1FXN2RjSS13Z194SmEwQ1VoVGNLc2VaN285eG9CTzZyWWlxckJnRDJPRE9XQ1ByX1A0WGJray01eE5tWG1tMVJ3QXQ4bzJmX2ExMV95OVY0R1YyVWRWelM0aUhlR1lsd25DYk1iQ0"
     },
     {
       "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
     },
     {
-      "title": "México avanza hacia una ley de IA entre alertas por falta de una estrategia nacional - Diario Libre",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeEJnZjNtTVo1aWZiM3YxckltUzVRbUZZcm1HaEZWVUR3ZDE3WnRXNkh1ZUdQSF93Tk1xemJRRllucnZ3dWtzWGd0UVc4SUktMTFFYThUT1pXY3lZNmFPX0M0XzJISzRVNVRfVFRnQ2VHWkNWTTVrYl85Y1dOQmp5c3hIcXYtVXpPYnl0MHU0LTlDYU9uMVFlaTNoSk9VaUppWk9GQkFES3RRZTlYMXJaNlZCUzVvb0NQYzJFVl9HUEFGQVAwMTFB0gHMAUFVX3lxTE5wX0p5NUs4WnlscGVIOGQ3YUxPR2pBQ25Mb2NVR0I2VUVnUjhjcEdYQXlCNk5CMm8yYkprVGhaelF4Vk9xak8wODNzTzBaUVFxZXdZWFNDZDlxMldnOFdTYVMtQXFXczU1alFJaXhxbGI0RVVzRk9wN3lNQi1TY0xVQno0b1NONzJhTUZMdE9SSnFwTFlyb2w1cENoaGpzZmJrc21kLWNDLWpYUUtqNkFCdjhnWktkRWlIbFVIMGhPZEtYVUczWkNjZ3BJVg?oc=5",
+      "title": "Fábricas de IA, el nuevo negocio que puede aportar 5.2% del PIB de México y que no son igual a los data centers - expansion.mx",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW5KTWprV3RqSXRsWG9EelRMTmxhd1NqVk1GVWZsVjFQQ0w5eWQ0MzRWZUNQOFpkR2ZITms3WXZyaWItc21rdko5TUNMT3VwVVNNSWdMYWk0eEJONnFSdzdRVE05NmEtcHFuZUNZaWRrM0dVdlRsRDFHOTFsRFFpa2ZQOTR0VWdxcXlETnlFdk5Dd0t5MlF6M9IBpgFBVV95cUxNdGxYQzRtREJoRl8wNU5ab045UFlGMzN2TmRFTS1CWkJVQWJjM0UxS2QtUTNYeUxZWl9DdFNDNHlRN21reHFfWXh1amtXNERqMkJwcjBQTWZwTmRGaS1MUFBLMS1QaTZ3cDg4Ul9xRE1waXRyT0s4TkRER2FTbVpoN1pfbXliaXhjRHVDdGVjS28xSkVVSVNoc29SeGc4M1ljTm4xZXRn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 22 Sep 2026 23:26:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeEJnZjNtTVo1aWZiM3YxckltUzVRbUZZcm1HaEZWVUR3ZDE3WnRXNkh1ZUdQSF93Tk1xemJRRllucnZ3dWtzWGd0UVc4SUktMTFFYThUT1pXY3lZNmFPX0M0XzJISzRVNVRfVFRnQ2VHWkNWTTVrYl85Y1dOQmp5c3hIcXYtVXpPYnl0MHU0LTlDYU9uMVFlaTNoSk9VaUppWk9GQkFES3RRZTlYMXJaNlZCUzVvb0NQYz"
+      "published": "Wed, 23 Sep 2026 11:55:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW5KTWprV3RqSXRsWG9EelRMTmxhd1NqVk1GVWZsVjFQQ0w5eWQ0MzRWZUNQOFpkR2ZITms3WXZyaWItc21rdko5TUNMT3VwVVNNSWdMYWk0eEJONnFSdzdRVE05NmEtcHFuZUNZaWRrM0dVdlRsRDFHOTFsRFFpa2ZQOTR0VWdxcXlETnlFdk5Dd0t5MlF6M9IBpgFBVV95cUxNdGxYQzRtREJoRl8wNU5ab045UFlGMz"
     },
     {
       "title": "Vantora levanta US$100 millones para crear startups de IA que sus clientes podrán quedarse - fomoera.com",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvOFlGaVEzY1VFQlhzSlpRWDRGeXA2NjN6SVJwOGcwZ2RCeGs4OTlXWTFhN0hMY3Uzelk1QjB4TU5rNVZWQ0lScExJZHB4aldJRGZiZE9IdEc1QTlPdDkzMlNDRGtTbXdYQW9BRFEtRQ?oc=5\" target=\"_blank\">Vantora levanta US$100 millones para crear startups de IA que sus clientes po"
     },
     {
-      "title": "Primero, startup mexicana de IA empresarial, levanta US$12M - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmdRQ0dWRGw3VmNvSUlZTm5UUnFpZFR0S01yZHR2c2NSYjZPVmd6TFV3WDl5U3hGVTM4dmQ3Sm15alJhcDVNZDMxMDhETUFXRzA0eXVYdW1vc29BRi1pS1BZX0dadjNLY053emdlUXFvZDd2RDJteG9CdHRxX1BCUzc4TmtzXzc2T2dzOG1JSm0?oc=5",
+      "title": "Huho, proptech mexicana de EXATEC, opera en 17 estados con 700 asesores - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHJqWkJsc0xQc0s2THJmQ2I2UDQ1cDhZR0xsQmpHTXhnc2Nfcy1WWmNfRWZCQXJzVHpQZjNOdkxJdnZmd09CS1hkU19hYjRHS0Y5cjVlc1pRTUhESVd0eWFWNWlrdGRILUhDRy1EZmRDcHRWM1NfQkw5d091WjVYa2lVNUJvZ1E4SVBxTm5BemVkTjA4ZXJ1MkR1M28tS2lmNHc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 10 Sep 2026 06:33:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmdRQ0dWRGw3VmNvSUlZTm5UUnFpZFR0S01yZHR2c2NSYjZPVmd6TFV3WDl5U3hGVTM4dmQ3Sm15alJhcDVNZDMxMDhETUFXRzA0eXVYdW1vc29BRi1pS1BZX0dadjNLY053emdlUXFvZDd2RDJteG9CdHRxX1BCUzc4TmtzXzc2T2dzOG1JSm0?oc=5\" target=\"_blank\">Primero, startup mexicana de IA "
+      "published": "Tue, 15 Sep 2026 17:52:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHJqWkJsc0xQc0s2THJmQ2I2UDQ1cDhZR0xsQmpHTXhnc2Nfcy1WWmNfRWZCQXJzVHpQZjNOdkxJdnZmd09CS1hkU19hYjRHS0Y5cjVlc1pRTUhESVd0eWFWNWlrdGRILUhDRy1EZmRDcHRWM1NfQkw5d091WjVYa2lVNUJvZ1E4SVBxTm5BemVkTjA4ZXJ1MkR1M28tS2lmNHc?oc=5\" target=\"_blank\">Huho, pr"
     },
     {
-      "title": "Agentes de IA y tecnologías que transformarán el sector salud, y otras cuatro noticias destacadas de la semana - Entrepreneur en Espanol",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0RQYndaclkySFk2RUNGSmRjaXhKUUdwVkJ6NGVNSGFqcXdCQlpUY0NzeVV5TzBJc2NPTFNEX3NNWEpDbWxnZDRFLXJfSy1KY20xVlJKem1mQlNVeVQyeVEzZm1kc3lfbFBYWEtTQWJ0VDBmZnlTSmEwMVlFeHlPdGV1cVJqb3MzaHpGLUlrbnNMZW9rb2wtVlNNc0FxYTlabHdhWnlaU3BmWlRpUkQxbG1ZVnp5NnhfVE9ONmFQNG5WTmxtZFhHdlFsVlR1YUJsSkk3T1FHMHFkWW54TU5lNUpqLUl2Zw?oc=5",
+      "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0RQYndaclkySFk2RUNGSmRjaXhKUUdwVkJ6NGVNSGFqcXdCQlpUY0NzeVV5TzBJc2NPTFNEX3NNWEpDbWxnZDRFLXJfSy1KY20xVlJKem1mQlNVeVQyeVEzZm1kc3lfbFBYWEtTQWJ0VDBmZnlTSmEwMVlFeHlPdGV1cVJqb3MzaHpGLUlrbnNMZW9rb2wtVlNNc0FxYTlabHdhWnlaU3BmWlRpUkQxbG1ZVnp5NnhfVE"
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
     },
     {
       "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - playersoflife.com",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVFuNFMwU0k1QnFaWVowZTFmM2NyTllyWDd6anktS21fYm1CWkxTaTllVldWaDVjN2lhcmlPQnMyTVZIdTJQR0p2bFczSXdUVHhzTTNlNkllV1Q3UUQxZWVIUFhYdzRNUVpPSElYbDFUOGE1NEMtM2VsRkNVdS02eFZkRzBxOGhSZTBheVc2T0VkbDNLdHdhOENxenlKVzFnYTZ2YnVuOS14MXBHYXhyM3RTdTRPdE1laU"
     },
     {
-      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "title": "Fundidores aceleran adopción de IA y nuevas tecnologías para reducir energía y emisiones - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVWJ5cm0xVlczRGZKSnV5eWYyNzNPODd1QlVsWmJ6a1FiVUE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVW"
     }
   ],
   "count": 14
