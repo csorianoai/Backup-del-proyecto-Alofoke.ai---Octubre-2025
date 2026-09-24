@@ -3,6 +3,30 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Honor X7e: probamos el nuevo celular con súper batería y botón físico para IA",
+      "url": "https://www.clarin.com/tecnologia/honor-7xe-probamos-nuevo-celular-super-bateria-boton-fisico-ia_0_nn9Nf8H3z9.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 14:35:47 +0000",
+      "summary": "<ul><li>Tiene una batería que dura más de un día y promete una vida útil de seis años.</li><li>Es un gama media robusto con pantalla grande y buen agarre.</li><li>Todo los detalles y su precio. </li></ul>"
+    },
+    {
+      "title": "Motorola Signature 27: así es el nuevo celular premium que desafía al iPhone 18 Pro con una cámara de 200 MP",
+      "url": "https://www.clarin.com/tecnologia/motorola-signature-27-nuevo-celular-premium-desafia-iphone-18-pro-camara-200-mp_0_MiLV6CoO4F.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 14:30:45 +0000",
+      "summary": "<ul><li>Estrena un procesador Snapdragon de última generación y un sistema de refrigeración con partículas de diamante. </li><li>También refuerza la integración con inteligencia artificial y suma mejoras en zoom y video. </li></ul>"
+    },
+    {
+      "title": "Qué fue el incidente Hugging Face, el ataque de OpenAI que encendió las alarmas por los agentes de IA",
+      "url": "https://www.clarin.com/tecnologia/incidente-hugging-face-ataque-openai-encendio-alarmas-agentes-ia_0_QLl8TdZh8S.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 08:45:40 +0000",
+      "summary": "<ul><li>El hackeo, que fue una prueba en un entorno con pocos controles, puso a la industria a hablar sobre si la inteligencia artificial se puede \"escapar\". </li><li>Los agentes encontraron una forma para comunicarse entre sí y colaborar en un ciberataque. </li><li>Un académico argentino experto en"
+    },
+    {
       "title": "Asus lanzó en Argentina su nueva notebook de dos pantallas: cómo funciona y cuánto cuesta",
       "url": "https://www.clarin.com/informacion-general/asus-lanzo-argentina-nueva-notebook-pantallas-funciona-cuesta_0_9DXDA7noy7.html",
       "source": "Clarín Tecnología",
@@ -19,52 +43,36 @@
       "summary": "<ul><li>Desde infladores portátiles hasta arrancadores de batería, cada vez hay más soluciones compactas para llevar en el baúl. </li><li>Sirven para resolver imprevistos comunes en pocos minutos y sin asistencia mecánica inmediata. </li></ul>"
     },
     {
-      "title": "De Samsung a los tanques chinos, cinco celulares premium más baratos que el iPhone 18 Pro y con potencia de sobra",
-      "url": "https://www.clarin.com/tecnologia/samsung-tanques-chinos-celulares-premium-baratos-iphone-18-pro-potencia-sobra_0_G143Un9L5q.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 22 Sep 2026 08:45:10 +0000",
-      "summary": "<ul><li>Ofrecen cámaras avanzadas, inteligencia artificial y gran autonomía sin llegar al precio del modelo de Apple. </li><li>Samsung, Xiaomi, Google, Motorola y OnePlus ofrecen alternativas de alta gama con distintos puntos fuertes.</li></ul>"
-    },
-    {
-      "title": "Helvetios: para qué se usará la supercomputadora que llegó de Suiza y científicos argentinos armaron en un mes",
-      "url": "https://www.clarin.com/tecnologia/helvetios-usara-supercomputadora-llego-suiza-cientificos-argentinos-armaron-mes_0_e2qZw0DTBq.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 21 Sep 2026 08:46:55 +0000",
-      "summary": "<ul><li>La UNC recibió un equipo que triplica su capacidad de cómputo para investigaciones científicas.</li><li>La donación se concretó por el vínculo con un especialista que trabajó en Córdoba y hoy está en Europa.</li><li>En medio de los recortes del Gobierno de Javier Milei, buscan repetir la exp"
-    },
-    {
-      "title": "Impresoras 3D: el error que puede arruinar una pieza aunque la máquina funcione perfecto",
-      "url": "https://www.clarin.com/tecnologia/impresoras-3d-error-puede-arruinar-pieza-maquina-funcione-perfecto_0_AFKnzltGaS.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 20 Sep 2026 09:00:41 +0000",
-      "summary": "<ul><li>La humedad puede generar pérdidas materiales y económicas, incluso cuando la impresora está correctamente configurada.</li><li>Cómo funcionan los secadores de filamentos, con qué máquinas son compatibles y para quiénes tiene sentido comprarlos.</li></ul>"
-    },
-    {
-      "title": "Milei defiende inteligencia artificial sin control estatal en discurso ante Asamblea de la ONU - NTN24",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdndvOFZ4NHNERmtxdjctM0d3ckpCLXJhZmhOekZGaE9BNnQ4eXpXSm56NU1Fam01Sk9VSk54Q3c3dzVmUkMxM1BDYUJzcmlDN3B1MzJSczBrYllDSFBXQy1nRnNxNFUxSzUxdXZ4aTFUMHpIMm1uSkJKUGFlWW4zLXpWeERNS25YbWdsdHJQbXZlRndYNXNYeEd2aU81YlFuLVBUNERBLTVLN1FxSkpqQlY3S3pfczBsN0lBWmNMYlQ5SzBNS2ZvbmNydTlNSDhROFh1a1k1bDlIZU5JUEMxajZFX01rZU9C0gHoAUFVX3lxTE1Bc1o2OTU1djNsemhROGExLUYxOXVzN2FRODNLM19vOG0tbEdKVUN2YXV3bS1RQVNERlloNDRtZW5DZlgwcFkycTVNV3lnVDZGdEZRS282UVZfcHluWkpMLU5qc3NlTS1Qc3dGMUJ4Yy1CNmlQd2VuUjRNNThjTzZTOXZKRnhzYkEwMmM5MjQ2b05tQTJ5SWJGTF9ROFV4ZTFtNWl5ZmttdjdMaHVHaTEwVGROSmxTdzF6RFBOUGQ2YjhJc2xQbE85UWUyMWM3OVhxRFE2bXU4QmMtNko4eFl0alpLdFo3TWU?oc=5",
+      "title": "Argentina | Crean una mesa estratégica para diseñar el uso de inteligencia artificial en la Justicia - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJZY3hIeDlWZjN1dFoyWnRRYmhoTGl5QTJwVmlfOUgzdnIzejFDLUR0cXdHNGlpN3NOV0x2eFBWOU9ZRjJiYWFRbWEtbEdrNEhVVTlybWlBc3J3Y1F2QUZnNm5ZdmFMODBGTExVTzM3VmdsbWRVUGFWVllYR012S1B4enU3SVZmeE9vSzdxWnZneGt0YjFzbWVsVVh2ZGliVkczNTFCcnp6cGNQZko2M2ZPbkZxYXFmUVdj?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 16:13:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdndvOFZ4NHNERmtxdjctM0d3ckpCLXJhZmhOekZGaE9BNnQ4eXpXSm56NU1Fam01Sk9VSk54Q3c3dzVmUkMxM1BDYUJzcmlDN3B1MzJSczBrYllDSFBXQy1nRnNxNFUxSzUxdXZ4aTFUMHpIMm1uSkJKUGFlWW4zLXpWeERNS25YbWdsdHJQbXZlRndYNXNYeEd2aU81YlFuLVBUNERBLTVLN1FxSkpqQlY3S3pfczBsN0"
+      "published": "Thu, 24 Sep 2026 15:12:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJZY3hIeDlWZjN1dFoyWnRRYmhoTGl5QTJwVmlfOUgzdnIzejFDLUR0cXdHNGlpN3NOV0x2eFBWOU9ZRjJiYWFRbWEtbEdrNEhVVTlybWlBc3J3Y1F2QUZnNm5ZdmFMODBGTExVTzM3VmdsbWRVUGFWVllYR012S1B4enU3SVZmeE9vSzdxWnZneGt0YjFzbWVsVVh2ZGliVkczNTFCcnp6cGNQZko2M2ZPbkZxYXFmUV"
     },
     {
-      "title": "Argentina. Malvinas, Trump, Israel e Inteligencia Artificial: las principales frases del discurso de Milei - Resumen Latinoamericano -",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcnVpcXRrOUdWMG9kcll0ZloyOEdSMFNzWldVSkhaeUdIN3Fza0lOWnI4bmllZWg5MGJVcnBqV0VtTHI0VER5ZThNNEN1QzVQN2VUOXRsb0JVdkZSWGFxNVNWdi1LWWRCYU9jc3BtTmx1MXZqbEMwNUNxWW03dG5GcU9qZmFobERET1dMZ0c2RlNxVm9SRXltVlhaazktV3Y5QUF5RkNZVC1hLUlwU0NhTlhERlRNVUZKNUY4VzRoQkNxb0FfeFhtUm1EOXB4eWFKdXRibjR3N1FJZFdpVU50UXl5Y20yNlNo?oc=5",
+      "title": "El llamativo video del entrenamiento de Colapinto que abrió un debate: ¿realidad o inteligencia artificial? - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX0x4elB1X3JYeENpaUJiM2FBSUl3VzBZMVQtTzkwUTQ5MjJZaGt6U3BSTkM3TXJuT3ZPS1ZTZUZzbGNVRjJOVVVHUnAtMVN4WnZMZkJvNHhSY0F5NDc0OENXUmwzR3piWXpYczhBRXZIY0xmbWtQVURVeVBXd05YTlRFclJ0X3gyZS1pNE1EUGI4M2pEdkNqa3ljQUdiRW9jUXd4N2psRkRhZENUc01vU0tXSkZ6YTdmdGpqUlBOY1BHQmkwWERWUEdkSktYdHBfa2M5a3NnYW04ZFNqd0EzZnhkWdIB_gFBVV95cUxQRDJjbzhlSGxpZ1FGTlJtSmVkSTIwVE1lUWxEZ0JoRnJGT3A5bkdqQzB0WU9Rb1VvSjE3dVUtWDBZaFF3SUpZcUU5LUpjMHg0c1lCYnQyS2xpdWx0TF9sUDJNcnE0VFhRdlR2QVRsNjkyQXp1c1VGel9HM1A5OUxDazI4WGVtZG5Xc3Z0THJBZy16ODRtWlpBRXQ0dHFvUE1yWDdUbkw3XzdZdkxtSk1ZY19pRmxlb1lncXdfaERISVQyWUJ6ejRacktpMHdBZW9DNGNhTmNBYlhfcUJ2MG1BVEJuNTBaWkJFOENPTWtQMWswd1lLMVFMOEk0ZjQ0dw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 21:30:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcnVpcXRrOUdWMG9kcll0ZloyOEdSMFNzWldVSkhaeUdIN3Fza0lOWnI4bmllZWg5MGJVcnBqV0VtTHI0VER5ZThNNEN1QzVQN2VUOXRsb0JVdkZSWGFxNVNWdi1LWWRCYU9jc3BtTmx1MXZqbEMwNUNxWW03dG5GcU9qZmFobERET1dMZ0c2RlNxVm9SRXltVlhaazktV3Y5QUF5RkNZVC1hLUlwU0NhTlhERlRNVUZKNU"
+      "published": "Thu, 24 Sep 2026 19:35:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPX0x4elB1X3JYeENpaUJiM2FBSUl3VzBZMVQtTzkwUTQ5MjJZaGt6U3BSTkM3TXJuT3ZPS1ZTZUZzbGNVRjJOVVVHUnAtMVN4WnZMZkJvNHhSY0F5NDc0OENXUmwzR3piWXpYczhBRXZIY0xmbWtQVURVeVBXd05YTlRFclJ0X3gyZS1pNE1EUGI4M2pEdkNqa3ljQUdiRW9jUXd4N2psRkRhZENUc01vU0tXSkZ6YTdmdG"
     },
     {
-      "title": "Nace el profesional aumentado por IA: una certificación busca medir cómo se trabaja con inteligencia artificial - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTHpuZ3V1dzFqMW1XbEdlUlZ4Z0trWWdVTnpuZnZMYjhfOW1EdGJXNVVFXzFHQVc4VkRJUlh3bFcwOWlSNnFCWVM4UnV5S0hBZ3QxZ3BlUEFZVlNnNEJzczRPWkxaU0hyblVubE5Mc1p4b3QxQjJyMlByUEVXRjkyOVczMVFKeGE1QkZLbzV5cThqNmdPanVIZzdac3dGdDBxV1dfVmRWUll3clNjU2o4NmVnOFVUREoyTms5UGVLOWdySE9LRVJoZEhIV2RreGNVQVlfbUVrT1FnM0Q3VUExcVg3Yy1IQzNyT3Z2dmw3b2JqdjRv?oc=5",
+      "title": "“Escrito por nadie, leído por todos”: el medio argentino donde la inteligencia artificial redacta las noticias - Univision",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQemhZbXYwTzNlUTR6MnY1a0FHWGxoUkNoUTRKUi1aX2NJc0dHVEx2dUJFdnhkV04xbV9lMWJPaTUzVzBrTVFKczJLSjk3RkNnbzJKS0lkTkFrUktCZU9mT1NTQWllTmhsX0JlalVOeExENl9uLUlDb2FRcTBtNGxkdmRQRWhTYWFDV2pZeDJGZGhBZVNKVGhza19DWVRFWDIxMUt1UnZPd3JFT0c5TTJnQnFnUmVKTm1IMF9VN2ZNTEhTSFlQTTBxRkxtYWdBZ1NBQ3dKdEU5OWEyYUdMNTNXU2JKbkRNOU52MGRvMQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 18:42:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTHpuZ3V1dzFqMW1XbEdlUlZ4Z0trWWdVTnpuZnZMYjhfOW1EdGJXNVVFXzFHQVc4VkRJUlh3bFcwOWlSNnFCWVM4UnV5S0hBZ3QxZ3BlUEFZVlNnNEJzczRPWkxaU0hyblVubE5Mc1p4b3QxQjJyMlByUEVXRjkyOVczMVFKeGE1QkZLbzV5cThqNmdPanVIZzdac3dGdDBxV1dfVmRWUll3clNjU2o4NmVnOFVUREoyTm"
+      "published": "Wed, 23 Sep 2026 04:14:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQemhZbXYwTzNlUTR6MnY1a0FHWGxoUkNoUTRKUi1aX2NJc0dHVEx2dUJFdnhkV04xbV9lMWJPaTUzVzBrTVFKczJLSjk3RkNnbzJKS0lkTkFrUktCZU9mT1NTQWllTmhsX0JlalVOeExENl9uLUlDb2FRcTBtNGxkdmRQRWhTYWFDV2pZeDJGZGhBZVNKVGhza19DWVRFWDIxMUt1UnZPd3JFT0c5TTJnQnFnUmVKTm1IMF"
+    },
+    {
+      "title": "WAIFF Buenos Aires 2026: abrió la convocatoria para obras creadas con inteligencia artificial - EscribiendoCine",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDE3dzNvc2J0T2lqMFlaQzJuYzdxRDkxVVlXY0h4MUpxV0NwR3lNUUZPY3VMTVN6M0J4b2JZclJIQUNwQmZfQkx0SjVCeloyNFo0M3FGb0NXeDV1TktXZmxQQU91U2hLTFRib2d5SkNILUE4WjFvaDNnMUZobHFHUkpYem95YksyRVRZM0VGVUE4YjBZUDlDZFIzbzVUaGtpRldUZGxOZ0RGYTJNRTlRX2JsUU9BS2pyOEFqS0VNN1hwQjUyYkF4WGVtbGtCeFc4Z0RmdVNBcDdubk5jazVWT3l0eXTSAeoBQVVfeXFMT2ZFYTFPaHJSTC1rR2JJaXBJTk05TGp0d1hHYlFTVXdKMHF4VlhsZzh6V3lHMEgtOGI0WTVmM05oNnk3NUFqdFJuWVZHZUM4X2duQmJkc0tVWDdFbUIwNnBrR3RhQnF0ZThGdUlLZk1YYlFLaE1KbmlyOHFJMjFLNUhnbk5CaWJCeEdJejVLOVp6WUxCenpyNVY4U1dzNVhEZ0ZidzVySXhKNzdMYWx2cm9vcUYtMnhjT0R2TjU5RS1hdVQ2RmNSUWdUNU5CSTVNUXpMU2U4RTlJVzZIRkRtZ0F6a0N5UDZmMTF3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 24 Sep 2026 14:55:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDE3dzNvc2J0T2lqMFlaQzJuYzdxRDkxVVlXY0h4MUpxV0NwR3lNUUZPY3VMTVN6M0J4b2JZclJIQUNwQmZfQkx0SjVCeloyNFo0M3FGb0NXeDV1TktXZmxQQU91U2hLTFRib2d5SkNILUE4WjFvaDNnMUZobHFHUkpYem95YksyRVRZM0VGVUE4YjBZUDlDZFIzbzVUaGtpRldUZGxOZ0RGYTJNRTlRX2JsUU9BS2pyOE"
     },
     {
       "title": "Un noticiero hecho por IA cruza una frontera inquietante para el periodismo argentino - France 24",
@@ -75,7 +83,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUdBYmJMQlNET1NkdUx4TlV4Q0I3SWVybmt3S3V1M3MtNFRfQm1Lb2NYQi14aW5XTFNpT2htQWRWQ0JTeTBtM2VndmoyMEN1dllpZ0lvdFhVY2EzRmd5YTNXQ3l4TVhabkFHdTRsUkgyeEl3ZlNHQVliYWFZdGtSLXIzRVh2MGZrdktadzFNdEhUc29hcmtrQ241VHd6c0p6SlFMbERIYVBwWHp3bEFCNVIzLWE4cWppSm"
     },
     {
-      "title": "Buenos Aires aprueba el Decreto 742/2026 para regular la IA - El Ecosistema Startup",
+      "title": "Buenos Aires aprueba el Decreto 742/2026 para regular la IA - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT200Y0F1TWRkbnhWLW5pWExOQS11NXNEeWs4WURINlBUdVBQRlluREhkZ3NYMFdQdEsxV2lZV2dnR0VjdGx0TUV4d3llU1VkUG15MVEtZ0ZXQXNnOGYwaWYwMXRhdFJzOEltcFBMdDZyalhWVjJRVkFqYU1FQ3VCYmRRV1dFSVJtX3otRXRuY2ZVM21X?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQT200Y0F1TWRkbnhWLW5pWExOQS11NXNEeWs4WURINlBUdVBQRlluREhkZ3NYMFdQdEsxV2lZV2dnR0VjdGx0TUV4d3llU1VkUG15MVEtZ0ZXQXNnOGYwaWYwMXRhdFJzOEltcFBMdDZyalhWVjJRVkFqYU1FQ3VCYmRRV1dFSVJtX3otRXRuY2ZVM21X?oc=5\" target=\"_blank\">Buenos Aires aprueba el Dec"
     },
     {
-      "title": "El Círculo de Creatividad Argentina abre la inscripción al AI Creative Challenge Buenos Aires - DossierNet",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWl9YRUF2SWVOS3o4T2Z2U3hyRW9uWW9ManRHR1ZqTG1IQVdnYlUxTDF1Y09YT3ZnZlZyRnY4TWNzblFDVzcyUktwLXdzbjkwNENvdjR6aUkyeXRXbGNWdG4tVjZsTVgwTDB2eEVMRU55dl80X0VTQlBvbnRYdVU0UTc3eVlpOXNwdUJ4V2ZCY2xYb1N4TTZVc2U3QndSTG9hYXh0d2xaTG00TFRDZW9UcGJIRHJya3NVNXlxVHhSVkVxdWNwNmN4TkNwWQ?oc=5",
+      "title": "Cine en vertical y por IA: la fórmula de una startup argentina para conquistar un negocio de US$ 4.000 millones - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xzSVN5LUFoVkJNWHFya0h5bEZyclRmdXp2TjRUT1ptTUxoSEk0V19kbW1hN0Z6cUNoR2NtQ091MUYyQkh6cl9QdW5UdmxXTmN3ZFduWnZxdlMtSVBLb3VidnJZWVR3QmFudWtIWl9aQmxEWGlGOVlzM0IwVUphdE1kNDFuRlFRUkxqX3hyNGpDM2E4b1p0MTl2YUc1NldkdUx3QzU0VVFhWmpHZjJRRGVkT0pEYnRwOG1lQmo3R212a3QwSE4wTnJB0gHPAUFVX3lxTE5PYXMwSjFxM1NJcTVfbmd4N19wRHpiemdIVzFRZHJYUjFySG9yR3J0S19KR0VsUnEtWUxkVlYwWUZqQ1dtSU1oc3RpX1p3d1ZkekYtRDYzQWJINHhrUWJnZmRLVkZIN1V4ZjQ2QWZEMlZxV3pDMjkzVk02LVlKc2xPb2tvX0xmc0RvREJrcHV5cXk1TjEyS1hIY3pCVFZfMldYRVZrWkdhOGVQN0U4YVdNd3JXRHUxNG4zTXZaVl9Uc0RrWE1tS2ZxSjRFMTNhNA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 13:14:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQWl9YRUF2SWVOS3o4T2Z2U3hyRW9uWW9ManRHR1ZqTG1IQVdnYlUxTDF1Y09YT3ZnZlZyRnY4TWNzblFDVzcyUktwLXdzbjkwNENvdjR6aUkyeXRXbGNWdG4tVjZsTVgwTDB2eEVMRU55dl80X0VTQlBvbnRYdVU0UTc3eVlpOXNwdUJ4V2ZCY2xYb1N4TTZVc2U3QndSTG9hYXh0d2xaTG00TFRDZW9UcGJIRHJya3NVNX"
+      "published": "Thu, 24 Sep 2026 14:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xzSVN5LUFoVkJNWHFya0h5bEZyclRmdXp2TjRUT1ptTUxoSEk0V19kbW1hN0Z6cUNoR2NtQ091MUYyQkh6cl9QdW5UdmxXTmN3ZFduWnZxdlMtSVBLb3VidnJZWVR3QmFudWtIWl9aQmxEWGlGOVlzM0IwVUphdE1kNDFuRlFRUkxqX3hyNGpDM2E4b1p0MTl2YUc1NldkdUx3QzU0VVFhWmpHZjJRRGVkT0pEYnRwOG"
     },
     {
-      "title": "Satellites on Fire: 35 min antes que NASA y al Earthshot - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOem5SQWZib2p5bFJtNkRXRm15RmthbDdqei1sM2JuSFYyWVRVWVJwclVTRjlmYWJxNTgxTVBqTTkteGg4RmtGQ1BXR3NzTHdBQW5mZHR4Tk41cVJteEdTbFYxYVRuR1Q4LVlRWlRXQXlCU1VNS05pUW5BSmpyRGFPVHgyVnFGMlpqTnNXNlhGZw?oc=5",
+      "title": "EarthOptic testea suelos en Río Cuarto: el primer paso del Cluster AgTech - ecosistemastartup.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JnN1ZHSGhvX2I4Q3FtQlE5cTlaS3N1S2VlU3lNdld1RjZ3Tk5wYko3ZzFTNV8xUkZ5TnBHLXNLNUZVNTdvU2RLZ1lESlJHN2dpLW9id0djZzY4Q252RmdCZ1E1OHFiSl9LdlpiS2h5Wm1sRUxVNnZNSGY4c1JQMVJLYVktRmNRTTh6MTV0bXd5NTgxMjZtODlENnVJLUN5Qks5MHpn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 20 Sep 2026 03:07:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOem5SQWZib2p5bFJtNkRXRm15RmthbDdqei1sM2JuSFYyWVRVWVJwclVTRjlmYWJxNTgxTVBqTTkteGg4RmtGQ1BXR3NzTHdBQW5mZHR4Tk41cVJteEdTbFYxYVRuR1Q4LVlRWlRXQXlCU1VNS05pUW5BSmpyRGFPVHgyVnFGMlpqTnNXNlhGZw?oc=5\" target=\"_blank\">Satellites on Fire: 35 min antes "
+      "published": "Thu, 24 Sep 2026 08:57:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1JnN1ZHSGhvX2I4Q3FtQlE5cTlaS3N1S2VlU3lNdld1RjZ3Tk5wYko3ZzFTNV8xUkZ5TnBHLXNLNUZVNTdvU2RLZ1lESlJHN2dpLW9id0djZzY4Q252RmdCZ1E1OHFiSl9LdlpiS2h5Wm1sRUxVNnZNSGY4c1JQMVJLYVktRmNRTTh6MTV0bXd5NTgxMjZtODlENnVJLUN5Qks5MHpn?oc=5\" target=\"_blank\">Ear"
     },
     {
       "title": "La startup argentina que detecta incendios mejor que la NASA competirá por \"el Oscar del medio ambiente\" - Yahoo",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Fri, 18 Sep 2026 10:45:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmxvZTI0QzBZQkdST3YzbmNMaERYU3BVdHVpQ2VjUWNuR1gwYjV1MEZSR2V2NVRRQVN6SzRYeF9sRUZNb0FnZ2tGaW1wc1I2T2doaV9wd1VGQmFlR3VqT3hpNkk3WVBNd2lpa3JVX3gyd0lSME5yOVN4eFlpQVEtV2RmTUVsblJ1QU5FMHUzQWo4QQ?oc=5\" target=\"_blank\">La startup argentina que dete"
-    },
-    {
-      "title": "Startup argentina, finalista del Earthshot Prize 2026 por su tecnología contra incendios - diariocronica.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnZaczJ3bXZETExwSlBxZlFLdE1WNlN5N2M2X3VNSmxqNmoyazl2T1I4b2E2c1NuZmVERi13bmhoR2xVMmhYQldLbGQ1VFA4QkRhV193WjNMSTA4NjVaQ3dHY203eHpaSTc0Vzd3cFF6cnNvU3ZsSkVURVJ3UVM0cnR1dW5uM0l2MGltNDRwX1RDRjRQTTh1cHE3cXZwUGV1UTVUNS1kRFQ2aTMxU0pkRlp6M2dzR2VQY2hzX05GU0VLbTNoM01FZGE0XzhTN3RwUXBwTVhTNlM1QW9RNkt3WdIB5gFBVV95cUxQRHhCUUE4U1prY1Fqcjg0aW5WT1VOYWlTRF9Qd0JhNWtpUGY1QXI1Z1NaeFVZZ0JEbGt5U3czazhDTlBTa3B2WjNUaVR5VG8yR01seU9GMWZKblpCR0FVU2NycUNvWWtKX1YtOGtsTXVNaURIbjdqZGFJdEVvTlRWXzNzNm1PQUdOa0haT3BEYjRUb05MSmtMb1dlU2RKd2hBYU1xdndDbU51X1NTQnU3eVJOUGFlQ3dhdmlfSXpMbjdyV3ZSbTlBNGtCNS0tQWNzVVhxUHRhbFF4dUpJaVNEa216em1Jdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 23 Sep 2026 11:33:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnZaczJ3bXZETExwSlBxZlFLdE1WNlN5N2M2X3VNSmxqNmoyazl2T1I4b2E2c1NuZmVERi13bmhoR2xVMmhYQldLbGQ1VFA4QkRhV193WjNMSTA4NjVaQ3dHY203eHpaSTc0Vzd3cFF6cnNvU3ZsSkVURVJ3UVM0cnR1dW5uM0l2MGltNDRwX1RDRjRQTTh1cHE3cXZwUGV1UTVUNS1kRFQ2aTMxU0pkRlp6M2dzR2VQY2"
     }
   ],
   "count": 14

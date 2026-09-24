@@ -3,6 +3,38 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Meta quiere sacar la IA del celular: así es Muse Charm, su nuevo dispositivo de bolsillo que parece un Tamagotchi",
+      "url": "https://expansion.mx/tecnologia/2026/09/24/meta-muse-charm-tamagotchi-inteligencia-artificial",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 17:19:57 GMT",
+      "summary": "El dispositivo forma parte de la estrategia de Meta para llevar a Muse fuera del celular y convertirlo en un asistente disponible a través de distintos formatos."
+    },
+    {
+      "title": "Ya probamos el nuevo Xiaomi 18 Pro, el teléfono viral de Xiaomi que ahora sí llegará a México",
+      "url": "https://expansion.mx/tecnologia/2026/09/24/xiaomi-18-pro-llegara-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 16:00:17 GMT",
+      "summary": "El elemento más destacado de este dispositivo es su útil pantalla trasera y el hecho de que estará potenciado por los chips de última generación de Snapdragon para competir con Apple."
+    },
+    {
+      "title": "La clave de wifi que te dan en recepción es el primer paso para paralizar a toda tu empresa",
+      "url": "https://expansion.mx/tecnologia/2026/09/24/clave-wifi-puede-paralizar-toda-tu-empresa",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 11:55:35 GMT",
+      "summary": "Las empresas multiplican certificados, llaves y credenciales digitales sin tener claro cuántos tienen, dónde están o cuándo vencen. Esto puede traducirse en interrupciones, pérdidas económicas y daños a su reputación."
+    },
+    {
+      "title": "Meta lanza nuevos lentes sin cámara para combatir las críticas de seguridad",
+      "url": "https://expansion.mx/tecnologia/2026/09/23/ray-ban-meta-lanza-lentes-sin-camara",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 24 Sep 2026 00:56:23 GMT",
+      "summary": "La empresa confirmó que los Meta Glasses, la versión económica de los lentes llegarán a México, siendo el primer país en recibirlos de forma oficial en Latinoamérica."
+    },
+    {
       "title": "Tu iPhone puede clonar tu voz y hablar por ti: así puedes activar esta función de Apple",
       "url": "https://expansion.mx/tecnologia/2026/09/23/tu-iphone-puede-clonar-tu-voz-y-usarla-para-hablar-por-ti",
       "source": "Expansión Tecnología",
@@ -11,63 +43,31 @@
       "summary": "Una herramienta permite convertir lo que escribes en voz durante conversaciones, llamadas telefónicas y FaceTime."
     },
     {
-      "title": "Silicon Valley crea su propia escuela para formar al talento tecnológico del futuro",
-      "url": "https://expansion.mx/tecnologia/2026/09/23/silicon-valley-crea-escuela-talento-tecnologico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 23 Sep 2026 23:00:02 GMT",
-      "summary": "La nueva academia tendrá como profesores y conferencistas a líderes de Nvidia, Microsoft y Uber, y busca formar talento con proyectos y experiencia laboral en lugar de una carrera universitaria tradicional."
-    },
-    {
-      "title": "Sin iPhone 18, Qualcomm acelera su plan para sobrevivir a su salida de Apple",
-      "url": "https://expansion.mx/tecnologia/2026/09/23/sin-iphone-18-qualcomm-plan",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 23 Sep 2026 22:00:31 GMT",
-      "summary": "Aunque los iPhone ya no utilizarán los chips de conectividad de Qualcomm, la empresa continúa buscando alianzas con firmas como Google o Xiaomi para asumir el golpe financiero que dejó Apple."
-    },
-    {
-      "title": "YouTube evoluciona: ahora puedes hablarle para encontrar tus videos favoritos",
-      "url": "https://expansion.mx/tecnologia/2026/09/23/youtube-inteligencia-artificial-herramientas-ia-videos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 23 Sep 2026 17:13:03 GMT",
-      "summary": "Durante Made on YouTube 2026, la plataforma presentó nuevas herramientas de IA que van desde descubrir nuevos contenidos con prompts y comandos de voz, hasta doblaje automático en transmisiones en vivo y más."
-    },
-    {
-      "title": "El detector de IA que usa tu maestro para cancelar tareas podría estar fallando: esta es la razón",
-      "url": "https://expansion.mx/tecnologia/2026/09/23/tarea-hecha-con-ia-aunque-hayas-escrito-problema-detectores",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 23 Sep 2026 14:43:30 GMT",
-      "summary": "Aunque algunas herramientas presumen más de 99% de precisión, los expertos advierten que un resultado no basta para probar que un texto fue hecho con IA."
-    },
-    {
-      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "title": "México camina hacia la regulación de IA: “No es prohibir, porque es un avance, pero hasta dónde y cómo” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS09aUHdLSG1GU24zYmhLRkhRRmUxVVRrVzlOSnNLa0d2MGc2bGxBQWVwTlVOZUI0Y3pMOXdvZGk5emN1NmpmYUdmZWtVTU5wamdUSVZmTGgwUGNoc1FVdTNhRFh2RGMyTXZ3N1F3Ynp2UkNDVkRmVWhQVldLY2VEVnliRHpDanY5SWphOGFJcjUzNVBHV2N3empjOElQQTRodEtia0xPRFd0MXFOZ0ZScG1NcTltRlN4Xy1MOWtCVktVNTFZX3MtbkJRU3YtVkRXR25FUmlKOG5MRUpWbzYtUnNNUnFWT1NCc0hsT1NkRU5zYmZTbWEw0gH3AUFVX3lxTE9LT1pQd0tIbUZTbjNiaEtGSFFGZTFVVGtXOU5Kc0trR3YwZzZsbEFBZXBOVU5lQjRjekw5d29kaTl6Y3U2amZhR2Zla1VNTnBqZ1RJVmZMaDBQY2hzUVV1M2FEWHZEYzJNdnc3UXdienZSQ0NWRGZVaFBWV0tjZURWeWJEekNqdjlJamE4YUlyNTM1UEdXY3d6amM4SVBBNGh0S2JrTE9EV3QxcU5nRlJwbU1xOW1GU3hfLUw5a0JWS1U1MVlfcy1uQlFTdi1WRFdHbkVSaUo4bkxFSlZvNi1Sc01ScVZPU0JzSGxPU2RFTnNiZlNtYTA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 18 Sep 2026 19:52:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
+      "published": "Thu, 24 Sep 2026 17:22:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS09aUHdLSG1GU24zYmhLRkhRRmUxVVRrVzlOSnNLa0d2MGc2bGxBQWVwTlVOZUI0Y3pMOXdvZGk5emN1NmpmYUdmZWtVTU5wamdUSVZmTGgwUGNoc1FVdTNhRFh2RGMyTXZ3N1F3Ynp2UkNDVkRmVWhQVldLY2VEVnliRHpDanY5SWphOGFJcjUzNVBHV2N3empjOElQQTRodEtia0xPRFd0MXFOZ0ZScG1NcTltRlN4Xy"
     },
     {
-      "title": "Ley de IA avanza en México mientras enfrenta el reto de invertir en tecnología propia - infobae.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDVjQ3MzaGFLUlZ4cHE1RVJ6aFhZNlBBcExwU1F2VFJDUWFycGlqNThiU2thb0FXaXJlSEVBUHlhTzVHMmxIUGpDaWliWFQ3dlBxT1FXN2RjSS13Z194SmEwQ1VoVGNLc2VaN285eG9CTzZyWWlxckJnRDJPRE9XQ1ByX1A0WGJray01eE5tWG1tMVJ3QXQ4bzJmX2ExMV95OVY0R1YyVWRWelM0aUhlR1lsd25DYk1iQ0FxQXdaOXI0aXIxVVU00gHiAUFVX3lxTFBIcVVQRXBtSG15UUxHQ2pIdWlVRFI3Y09vbUdFbWFMTnNBQVhmQk8xRFBZNEMtZml3eTBwOExZMTgzMFRaZWtGeW5zNDQzR1pTUng0MWJidnFXY2tyd0RiZngtcXh4emhRUnJXd2hWZ25QcV9kdFVNNXQ4d3ZRMWNHQU96Rk4wblo2c0RKTVFuNl9Od0J1b2tVb2ZBa3NKUHlITGFhVjhneS1pVm5NaC1NWElNc1B3b1JYMWVDSXByLTM2cG9XLV9Wa2NHNHVjRXNRc19fR2ZhZHBWTHh1eGt0a0E?oc=5",
+      "title": "IPN y UNIR fortalecen la colaboración académica en las Jornadas de Inteligencia Artificial - UNIR México",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDA4LWRZTE1VS29iYUFfVVk4cURVRzN2dmdzbHNjNkYwZERKRHJRZ1FxbWUyYVNDU25ucjgyWEZ0bDFZVDA0NGIyd0hEV0hudEdNZEFZS1dXSDhwQXV1T1lwUVZCWHNMa25LVkxKcVZkanR1Q0ZOSWRvN0w5VGRDUUxRT0FCcVZkeE9pOW9JV3hYZG9kQ2NUajNkZEloUFJmcFJyMThuM2hYSlE5TzNn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 14:23:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDVjQ3MzaGFLUlZ4cHE1RVJ6aFhZNlBBcExwU1F2VFJDUWFycGlqNThiU2thb0FXaXJlSEVBUHlhTzVHMmxIUGpDaWliWFQ3dlBxT1FXN2RjSS13Z194SmEwQ1VoVGNLc2VaN285eG9CTzZyWWlxckJnRDJPRE9XQ1ByX1A0WGJray01eE5tWG1tMVJ3QXQ4bzJmX2ExMV95OVY0R1YyVWRWelM0aUhlR1lsd25DYk1iQ0"
+      "published": "Thu, 24 Sep 2026 20:58:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDA4LWRZTE1VS29iYUFfVVk4cURVRzN2dmdzbHNjNkYwZERKRHJRZ1FxbWUyYVNDU25ucjgyWEZ0bDFZVDA0NGIyd0hEV0hudEdNZEFZS1dXSDhwQXV1T1lwUVZCWHNMa25LVkxKcVZkanR1Q0ZOSWRvN0w5VGRDUUxRT0FCcVZkeE9pOW9JV3hYZG9kQ2NUajNkZEloUFJmcFJyMThuM2hYSlE5TzNn?oc=5\" target="
     },
     {
-      "title": "Centro-i traza guía para impulsar la gobernanza de la IA en México - dplnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92XzBpQlNXYkptakthcTNjYWNxUlpBemxpeE01a1VndlByVG5UNzlXdkt3ZlhLenlfZ0luRFNZa3E3YUFuazJJbURXazVIT3ltWUM3ZEZZdVF3RWdHVW1FaHN6OHZqT2h4cUtNbks3eDd2WkJfb1RubEVUVzY?oc=5",
+      "title": "Oracle invoca fuerza mayor en el centro de datos de inteligencia artificial de Nuevo México - es.qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOThfWldKM09lb3dNRmVtNWZwTWpDOXJ4SGZDT1JrM3B5dVBqcUJQekp0dlFjb1Q4d2FSY04xTTliLWVGUmtGYWZ3TmhqYUhBNHZwXzB4dVQ3ODlGYzVPWXRiZHpqUXg1bHhDOGFmWEcwdW8wSHNSUzhkV0NpSFBOQk1R?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 23 Sep 2026 22:22:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE92XzBpQlNXYkptakthcTNjYWNxUlpBemxpeE01a1VndlByVG5UNzlXdkt3ZlhLenlfZ0luRFNZa3E3YUFuazJJbURXazVIT3ltWUM3ZEZZdVF3RWdHVW1FaHN6OHZqT2h4cUtNbks3eDd2WkJfb1RubEVUVzY?oc=5\" target=\"_blank\">Centro-i traza guía para impulsar la gobernanza de la IA en "
+      "published": "Thu, 24 Sep 2026 14:23:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOThfWldKM09lb3dNRmVtNWZwTWpDOXJ4SGZDT1JrM3B5dVBqcUJQekp0dlFjb1Q4d2FSY04xTTliLWVGUmtGYWZ3TmhqYUhBNHZwXzB4dVQ3ODlGYzVPWXRiZHpqUXg1bHhDOGFmWEcwdW8wSHNSUzhkV0NpSFBOQk1R?oc=5\" target=\"_blank\">Oracle invoca fuerza mayor en el centro de datos de"
     },
     {
-      "title": "IA ya representa el 55% de las nuevas startups VC en LATAM - El Ecosistema Startup",
+      "title": "IA ya representa el 55% de las nuevas startups VC en LATAM - ecosistemastartup.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09uQ1M5THZsbEJidGxQUWJEbmRYVldwNVdzeUpTVnFLXy1JR3lsOTNpSjExYXFMYnBMQzJwNXJhZmZlTjFQWG56THFobXgwbFFBaXBvSlNTRDRPTnRsTVJkR1pIaUZzWTRPSlBxYW1RR0FyN1hOTEFBcEd2VjRCZjZmWU1HYlBvSDFGUW9Za0s5dw?oc=5",
       "source": "Google News",
       "category": "news",
