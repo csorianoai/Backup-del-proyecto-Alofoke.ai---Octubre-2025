@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "La Tercera Estación tiene Bip! Cómo conseguir la nueva tarjeta del Metro",
+      "url": "https://www.latercera.com/tendencias/noticia/la-tercera-estacion-tiene-bip-como-conseguir-la-nueva-tarjeta-del-metro/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Fri, 25 Sep 2026 20:44:08 +0000",
+      "summary": "La nueva tarjeta está disponible en 15 estaciones de la red de Metro y cuenta con un código QR que permite acceder a la edición online del diario. Revisa dónde conseguirla."
+    },
+    {
       "title": "Desde Elton John hasta Charli XCX: Apple Music Hall confirma los primeros conciertos de su temporada de apertura",
       "url": "https://www.latercera.com/tendencias/noticia/desde-elton-john-hasta-charli-xcx-apple-music-hall-confirma-los-primeros-conciertos-de-su-temporada-de-apertura/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "Los modelos meteorológicos anticipan nuevos sistemas frontales para Chile entre fines de septiembre e inicios de octubre. ¿En qué regiones podría caer lluvia durante los próximos días?"
     },
     {
-      "title": "El drama de extorsiones que complica el patrimonio de Dolly Parton: ¿quién se quedará con su fortuna?",
-      "url": "https://www.latercera.com/tendencias/noticia/el-drama-de-extorsiones-que-complica-el-patrimonio-de-dolly-parton-quien-se-quedara-con-su-fortuna/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 25 Sep 2026 09:02:00 +0000",
-      "summary": "A casi un mes de su muerte, una disputa familiar y judicial amenaza con complicar la administración del patrimonio y los negocios que dejó la estrella de la música country."
-    },
-    {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
       "source": "Google News",
@@ -59,7 +59,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1NSQXdOYktvdGxhTHgza0taRkFiQWpLdkVndTNPMHRqVS1vQmFrWnV4ZWplbE5pOEYwVjRCTm8tRFNfU1NaZzB1b1hrOG5kWFoxV0Uta2VmQXNrbWpPNEV2SGhXWGkyWXQzSFlhRk1FYUc1R1B6MDA3SVEtenNzaEdWdUdGVEUwazVzVHZ0NHc4bnVPc2hNTEc5bUdyYk5wWGNnZGg0a2lhTkRoZHBMSQ?oc=5\" targe"
     },
     {
-      "title": "¿Qué tanto sabe tu teléfono de ti? La tecnología que protege los datos detrás de la inteligencia artificial - Samsung Global Newsroom",
+      "title": "¿Qué tanto sabe tu teléfono de ti? La tecnología que protege los datos detrás de la inteligencia artificial - news.samsung.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tRUEteXdLTnFIUjI3UUpVYnNVM2ZxRWZzMUVaaHQzSlg5SGluSi1YOWJSTU9YNC1aSVotZWptbnQ2X0Y5d1FMNEw5cw?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,7 +83,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXlDY1BDRkpIUmV5Rk9YTEZoQWgtTnkySk45TUF6czZiMThUdldGU0xMdTlhUkRHZVk1M2dxemdFUGdnbkcxU3d0M3luT2F2RnJCS2g3MUJLWjhnUnZrTTZoSWJMMTZZQmZLZEJQR0xvMHZCZWhYZzBkdWhiMWQxUDZEU0F6MVUwVmQ0ZnJuRW9jUXlhb0c4TWItVDNSUGxOWjBFZGpXcFhpbl9OOHlxd1RWd1ZPbU92WE"
     },
     {
-      "title": "Santiago tendrá un gran protagonismo en la construcción de inteligencia artificial en Europa - El Correo Gallego",
+      "title": "Santiago tendrá un gran protagonismo en la construcción de inteligencia artificial en Europa - elcorreogallego.es",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVlGYzJZQ0lUVWhDbUhBSTRPdWsycFFFTkhZYjB0U2xUbHZPZnduTUJtTDNaSkVILTl6MmtJeWZUaU8tdS1OY21PNGpQZWlzaU84OGk4S3hUcFJOQ1h3THVzdy01a3U0Um1pWEhHWG01OE80M1laSEdLUTRqRlJ0ckZxZE5IdUJoSlBnYXNrdWRPTEdLaXA1dXZDTVhVR0xaQUFEWnR4NXR3RlhLN3FMQk9B0gG3AUFVX3lxTE92OUk3UG9ZZGE4allFX3RDN0piakhkbm83SzE3OElQZmE1U1hrOGxpSTVkdkw5RU9kbWwyUzIyaVV5N3BYOEE1cXVOdjQ0SGtkMHpQRWRDWGx4QXBudHVrRlROZ056Z1hVVGxWLWcxN0h2MXRuTm5sUURmUXV2bnYyZWYzVEVISWNFY2xCQmhNWmxlN1B5bVU4NnBfSGxnYTdXM1J5WlRnMWxuTmJ0cVJvLTFCNVZCYw?oc=5",
       "source": "Google News",
       "category": "news",
