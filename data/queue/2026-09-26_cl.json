@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "TDAH en adultos: cómo no tratarlo puede afectar el trabajo, las relaciones y la salud, según una psiquiatra",
+      "url": "https://www.latercera.com/tendencias/noticia/tdah-en-adultos-como-no-tratarlo-puede-afectar-el-trabajo-las-relaciones-y-la-salud-segun-una-psiquiatra/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 26 Sep 2026 12:01:00 +0000",
+      "summary": "Aunque suele asociarse a problemas de concentración durante la infancia, el TDAH puede persistir en la adultez y tener consecuencias que van desde la inestabilidad laboral hasta los conflictos de pareja."
+    },
+    {
+      "title": "Primero calor, después lluvia y tormentas eléctricas: el agitado tiempo que le espera a la Región Metropolitana",
+      "url": "https://www.latercera.com/tendencias/noticia/primero-calor-despues-lluvia-y-tormentas-electricas-el-agitado-tiempo-que-le-espera-a-la-region-metropolitana/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "summary": "Santiago tendrá un cambio en el tiempo: después de un par de días agradables, se esperan bajas temperaturas, probabilidad de lluvia y posibles tormentas eléctricas en la Región Metropolitana."
+    },
+    {
+      "title": "Helen Czerski: “El Niño es el mayor problema para Chile y deberían preocuparse”",
+      "url": "https://www.latercera.com/tendencias/noticia/helen-czerski-el-nino-es-el-mayor-problema-para-chile-y-deberian-preocuparse/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 26 Sep 2026 09:00:00 +0000",
+      "summary": "Esta física e influyente oceanógrafa británica plantea que el fenómeno de El Niño no debería ser considerado como solo un mal año o fruto de la “mala suerte”. Muy por el contrario, “deberían preocuparse por El Niño y especialmente por el actual”."
+    },
+    {
       "title": "GTA VI anuncia una edición de lujo de 400 dólares: incluye el mapa de Leonida, lentes Oakley y un jockey New Era (pero no el juego)",
       "url": "https://www.latercera.com/tendencias/noticia/grand-theft-auto-vi-the-goodtime-state-vice-city-collection/",
       "source": "La Tercera Tecnología",
@@ -19,30 +43,6 @@
       "summary": "La nueva tarjeta está disponible en 15 estaciones de la red de Metro y cuenta con un código QR que permite acceder a la edición online del diario. Revisa dónde conseguirla."
     },
     {
-      "title": "Desde Elton John hasta Charli XCX: Apple Music Hall confirma los primeros conciertos de su temporada de apertura",
-      "url": "https://www.latercera.com/tendencias/noticia/desde-elton-john-hasta-charli-xcx-apple-music-hall-confirma-los-primeros-conciertos-de-su-temporada-de-apertura/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 25 Sep 2026 15:20:25 +0000",
-      "summary": "El nuevo recinto de Apple en Londres fue diseñado para espectáculos con sonido espacial y cuenta con tecnología para transmitir shows a todo el mundo. Baby Keem, Sky Newman y Troye Sivan también están entre los artistas confirmados."
-    },
-    {
-      "title": "Qué regiones afectará el nuevo sistema frontal frío que llega este fin de semana",
-      "url": "https://www.latercera.com/tendencias/noticia/que-regiones-afectara-el-nuevo-sistema-frontal-frio-que-llega-este-fin-de-semana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 25 Sep 2026 14:49:38 +0000",
-      "summary": "Un nuevo frente frío llegará al sur del país durante este sábado, dejando precipitaciones en varias regiones durante el fin de semana."
-    },
-    {
-      "title": "Cáncer de tiroides: qué es y cuáles son los factores de riesgo y las señales de alerta",
-      "url": "https://www.latercera.com/tendencias/noticia/cancer-de-tiroides-que-es-y-cuales-son-los-factores-de-riesgo-y-las-senales-de-alerta/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 25 Sep 2026 09:01:00 +0000",
-      "summary": "El endocrinólogo y docente de la Facultad de Medicina Clínica Alemana Universidad del Desarrollo, el Dr. Hernán Tala, detalla los principales puntos que se deben tener en consideración sobre la enfermedad."
-    },
-    {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
       "source": "Google News",
@@ -51,7 +51,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
     },
     {
-      "title": "¿Qué tanto sabe tu teléfono de ti? La tecnología que protege los datos detrás de la inteligencia artificial - Samsung Global Newsroom",
+      "title": "¿Qué tanto sabe tu teléfono de ti? La tecnología que protege los datos detrás de la inteligencia artificial - news.samsung.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tRUEteXdLTnFIUjI3UUpVYnNVM2ZxRWZzMUVaaHQzSlg5SGluSi1YOWJSTU9YNC1aSVotZWptbnQ2X0Y5d1FMNEw5cw?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,23 +59,23 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tRUEteXdLTnFIUjI3UUpVYnNVM2ZxRWZzMUVaaHQzSlg5SGluSi1YOWJSTU9YNC1aSVotZWptbnQ2X0Y5d1FMNEw5cw?oc=5\" target=\"_blank\">¿Qué tanto sabe tu teléfono de ti? La tecnología que protege los datos detrás de la inteligencia artificial</a>&nbsp;&nbsp;<f"
     },
     {
-      "title": "CompuSoluciones pone el foco en monetizar la IA junto al canal chileno - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1NSQXdOYktvdGxhTHgza0taRkFiQWpLdkVndTNPMHRqVS1vQmFrWnV4ZWplbE5pOEYwVjRCTm8tRFNfU1NaZzB1b1hrOG5kWFoxV0Uta2VmQXNrbWpPNEV2SGhXWGkyWXQzSFlhRk1FYUc1R1B6MDA3SVEtenNzaEdWdUdGVEUwazVzVHZ0NHc4bnVPc2hNTEc5bUdyYk5wWGNnZGg0a2lhTkRoZHBMSQ?oc=5",
+      "title": "Nada Nos Detiene 2026: 900 emprendedores se forman en IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDRRWS05b0xSR0hJZnhuSW5sSkNQN3I5T0JXOFYybTQ1bEdVWnF6MkQzd1hTdTRhQmtwcnRZc3BuMC1aUTh0UzNPNjR5bXNad2xIX2tMWVc4dFN2N3paQlhMMXdqMW4zcmdNMjRlOEpKZm5jZHprT3d4STZEaldac1FfUEFKVFlpTGlOTU9scw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 25 Sep 2026 16:40:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNV1NSQXdOYktvdGxhTHgza0taRkFiQWpLdkVndTNPMHRqVS1vQmFrWnV4ZWplbE5pOEYwVjRCTm8tRFNfU1NaZzB1b1hrOG5kWFoxV0Uta2VmQXNrbWpPNEV2SGhXWGkyWXQzSFlhRk1FYUc1R1B6MDA3SVEtenNzaEdWdUdGVEUwazVzVHZ0NHc4bnVPc2hNTEc5bUdyYk5wWGNnZGg0a2lhTkRoZHBMSQ?oc=5\" targe"
+      "published": "Sat, 26 Sep 2026 16:03:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDRRWS05b0xSR0hJZnhuSW5sSkNQN3I5T0JXOFYybTQ1bEdVWnF6MkQzd1hTdTRhQmtwcnRZc3BuMC1aUTh0UzNPNjR5bXNad2xIX2tMWVc4dFN2N3paQlhMMXdqMW4zcmdNMjRlOEpKZm5jZHprT3d4STZEaldac1FfUEFKVFlpTGlOTU9scw?oc=5\" target=\"_blank\">Nada Nos Detiene 2026: 900 empren"
     },
     {
-      "title": "El debate sobre la integración de la IA en las aulas llega a Santiago de Compostela con el I Foro Europeo EducaIA - La Voz de Galicia",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNZU1qVFpFdUJhNGxWTE9UUW94UXVSclNmMXJBOVFwZkNUUmE5Rjc5SzI2Y1U4d1BhTXhTbmFkZVZuelBZYXFKOHg5ODRYOENOUms1TnhYZmdQTWljVlJ6R2N2ekdnNzVSUjBoaG5xX1R3VEw5WC16OEZZSUFKbUNXbmxCZkp2V1J1UTBha1BGZVY3ZWhZX1ZjelRKRGtLYmppWUhQeFhxX3FxeEE2eVVrOTNpSFYtUlVYSDZLRWZ3b1pKbnBUdGNFMFl4Z2s5RHhOdEc0cUNuSXZiLUNIUjRwZ0pZaWpXeTh6N0RUNHVxd3FDOUF5cHEtLTd5RldvMk9ERkFkYzNNS1NPekZGUmhwQXRpLXJfWW9kRG1SWmdXQnpUeW5YRWJCeTFvd1daSknSAa8CQVVfeXFMTWVNalRaRXVCYTRsVkxPVFFveFF1UnJTZjFyQTlRcGZDVFJhOUY3OUsyNmNVOHdQYU14U25hZGVWbnpQWWFxSjh4OTg0WDhDTlJrNU54WGZnUE1pY1ZSekdjdnpHZzc1UlIwaGhucV9Ud1RMOVgtejhGWUlBSm1DV25sQmZKdldSdVEwYWtQRmVWN2VoWV9WY3pUSkRrS2JqaVlIUHhYcV9xcXhBNnlVazkzaUhWLVJVWEg2S0Vmd29aSm5wVHRjRTBZeGdrOUR4TnRHNHFDbkl2Yi1DSFI0cGdKWWlqV3k4ejdEVDR1cXdxQzlBeXBxLS03eUZXbzJPREZBZGMzTUtTT3pGRlJocEF0aS1yX1lvZERtUlpnV0J6VHluWEViQnkxb3dXWkpJ?oc=5",
+      "title": "El gran examen bursátil de la inteligencia artificial - elconciso.es",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX05zMWpnNDRtSmcxY0JpTE94N1BycHkzeVRxXzZqZFhsbjBpelY0NzVMcTRWUEotMXAwVjVZUTVHT1ZQOS1OUXNkVHFaYUs1eFBMeXltZlJtRUNLMGw4RzYxZWJWZWJ2MFRwTjh6bjlLUHNZTTJjVHMweFhQNkF1RDZZVEZJVHliZ3ZhdWVpN08zQTl5RThMRngtUdIBoAFBVV95cUxNWjc3cE1hem5yREs4OFBEQTBaZkt4Mk9mQTZFdi1KTGZWOGREWHp5UFhEdEpGYlpiNGpWdnFaOXJyazVhVjYybjdhNTFuQUlZV3ZaeTlySDgwbnhxM2RORzVZZVJJek92OGxLdXVWRUZvN0VnXzJoczBxYkdxY2UyLXlEb3F1LWJOREhtYjA5U2lMY0VodE1CQzZQU01tT0JL?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 25 Sep 2026 14:28:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNZU1qVFpFdUJhNGxWTE9UUW94UXVSclNmMXJBOVFwZkNUUmE5Rjc5SzI2Y1U4d1BhTXhTbmFkZVZuelBZYXFKOHg5ODRYOENOUms1TnhYZmdQTWljVlJ6R2N2ekdnNzVSUjBoaG5xX1R3VEw5WC16OEZZSUFKbUNXbmxCZkp2V1J1UTBha1BGZVY3ZWhZX1ZjelRKRGtLYmppWUhQeFhxX3FxeEE2eVVrOTNpSFYtUlVYSD"
+      "published": "Sat, 26 Sep 2026 04:00:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX05zMWpnNDRtSmcxY0JpTE94N1BycHkzeVRxXzZqZFhsbjBpelY0NzVMcTRWUEotMXAwVjVZUTVHT1ZQOS1OUXNkVHFaYUs1eFBMeXltZlJtRUNLMGw4RzYxZWJWZWJ2MFRwTjh6bjlLUHNZTTJjVHMweFhQNkF1RDZZVEZJVHliZ3ZhdWVpN08zQTl5RThMRngtUdIBoAFBVV95cUxNWjc3cE1hem5yREs4OFBEQTBaZk"
     },
     {
-      "title": "Repeticiones en el aula en la era de la IA - LaRepublica.co",
+      "title": "Repeticiones en el aula en la era de la IA - larepublica.co",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXlDY1BDRkpIUmV5Rk9YTEZoQWgtTnkySk45TUF6czZiMThUdldGU0xMdTlhUkRHZVk1M2dxemdFUGdnbkcxU3d0M3luT2F2RnJCS2g3MUJLWjhnUnZrTTZoSWJMMTZZQmZLZEJQR0xvMHZCZWhYZzBkdWhiMWQxUDZEU0F6MVUwVmQ0ZnJuRW9jUXlhb0c4TWItVDNSUGxOWjBFZGpXcFhpbl9OOHlxd1RWd1ZPbU92WERz?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXlDY1BDRkpIUmV5Rk9YTEZoQWgtTnkySk45TUF6czZiMThUdldGU0xMdTlhUkRHZVk1M2dxemdFUGdnbkcxU3d0M3luT2F2RnJCS2g3MUJLWjhnUnZrTTZoSWJMMTZZQmZLZEJQR0xvMHZCZWhYZzBkdWhiMWQxUDZEU0F6MVUwVmQ0ZnJuRW9jUXlhb0c4TWItVDNSUGxOWjBFZGpXcFhpbl9OOHlxd1RWd1ZPbU92WE"
     },
     {
-      "title": "Santiago tendrá un gran protagonismo en la construcción de inteligencia artificial en Europa - El Correo Gallego",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVlGYzJZQ0lUVWhDbUhBSTRPdWsycFFFTkhZYjB0U2xUbHZPZnduTUJtTDNaSkVILTl6MmtJeWZUaU8tdS1OY21PNGpQZWlzaU84OGk4S3hUcFJOQ1h3THVzdy01a3U0Um1pWEhHWG01OE80M1laSEdLUTRqRlJ0ckZxZE5IdUJoSlBnYXNrdWRPTEdLaXA1dXZDTVhVR0xaQUFEWnR4NXR3RlhLN3FMQk9B0gG3AUFVX3lxTE92OUk3UG9ZZGE4allFX3RDN0piakhkbm83SzE3OElQZmE1U1hrOGxpSTVkdkw5RU9kbWwyUzIyaVV5N3BYOEE1cXVOdjQ0SGtkMHpQRWRDWGx4QXBudHVrRlROZ056Z1hVVGxWLWcxN0h2MXRuTm5sUURmUXV2bnYyZWYzVEVISWNFY2xCQmhNWmxlN1B5bVU4NnBfSGxnYTdXM1J5WlRnMWxuTmJ0cVJvLTFCNVZCYw?oc=5",
+      "title": "¿Puede la Inteligencia Artificial terminar con el mundo? Y si sí, ¿cómo? - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGNucTBheE14bjh1LVFVNHkyMVRrc0ptSW1DQmhqbklVbzZiazR2VlVxQkVlRnNLLUFYQnJYWkJvcVJDUG5yX1RLMXdma3dmTnFDQ3o3dGNwd0hrdm1zbl9pSTByTFZ3Zi1iX01BVHZWc0hWN01sNVU5U2NZaktGbkoxUVBVdWU1MTBIMS1ER3Y0VkhQZ0gzV0FzekR5T1NsRUZSY3QxeTJaOGxuMmlsOdIBywFBVV95cUxQYnc1a3JsYU9NUHMySG1OWEgydHFrOGVhdHN6SWp1ejVicUl1MUtjNXpuMUdVRUhjMGs5Tk11SEJncUhqdG5CWE9WNVZDRHBpRDJhZHhWRVoyTmhRUE1UQnlJSnh2UUlFMF91ZjNVdm1pSG1jQ0U1UU1JYjhkY2NmWXpYM3RvV0ZQeUpZQlIwRUtXcDdKcTcxM3pTN19aa1c4bWhIbm1hb0lGSXNlcGpTa3RBNUFfU3BScGV3SmRJQzNFazE5dl9VenJINA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 25 Sep 2026 04:01:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVlGYzJZQ0lUVWhDbUhBSTRPdWsycFFFTkhZYjB0U2xUbHZPZnduTUJtTDNaSkVILTl6MmtJeWZUaU8tdS1OY21PNGpQZWlzaU84OGk4S3hUcFJOQ1h3THVzdy01a3U0Um1pWEhHWG01OE80M1laSEdLUTRqRlJ0ckZxZE5IdUJoSlBnYXNrdWRPTEdLaXA1dXZDTVhVR0xaQUFEWnR4NXR3RlhLN3FMQk9B0gG3AUFVX3"
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGNucTBheE14bjh1LVFVNHkyMVRrc0ptSW1DQmhqbklVbzZiazR2VlVxQkVlRnNLLUFYQnJYWkJvcVJDUG5yX1RLMXdma3dmTnFDQ3o3dGNwd0hrdm1zbl9pSTByTFZ3Zi1iX01BVHZWc0hWN01sNVU5U2NZaktGbkoxUVBVdWU1MTBIMS1ER3Y0VkhQZ0gzV0FzekR5T1NsRUZSY3QxeTJaOGxuMmlsOdIBywFBVV95cU"
     },
     {
       "title": "Start-Up Chile arranca BIG 12 con 65 startups en NIDO Lucía - El Ecosistema Startup",

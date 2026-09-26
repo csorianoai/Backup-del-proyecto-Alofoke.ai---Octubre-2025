@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La escalofriante advertencia de Bill Gates sobre la IA revela hasta dónde podría llegar su poder destructivo",
+      "url": "https://expansion.mx/tecnologia/2026/09/25/advertencia-bill-gates-ia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 25 Sep 2026 22:15:03 GMT",
+      "summary": "Las declaraciones del cofundador de Microsoft reavivan el debate sobre los riesgos de los sistemas avanzados y la necesidad de supervisar su desarrollo."
+    },
+    {
       "title": "Tu vida digital cabe en WhatsApp: pasas hasta 20 horas al mes en la app y también expones tus datos",
       "url": "https://expansion.mx/tecnologia/2026/09/25/whatsapp-20-horas-al-mes-riesgos-datos-ciberseguridad",
       "source": "Expansión Tecnología",
@@ -35,36 +43,28 @@
       "summary": "El elemento más destacado de este dispositivo es su útil pantalla trasera y el hecho de que estará potenciado por los chips de última generación de Snapdragon para competir con Apple."
     },
     {
-      "title": "La clave de wifi que te dan en recepción es el primer paso para paralizar a toda tu empresa",
-      "url": "https://expansion.mx/tecnologia/2026/09/24/clave-wifi-puede-paralizar-toda-tu-empresa",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 24 Sep 2026 11:55:35 GMT",
-      "summary": "Las empresas multiplican certificados, llaves y credenciales digitales sin tener claro cuántos tienen, dónde están o cuándo vencen. Esto puede traducirse en interrupciones, pérdidas económicas y daños a su reputación."
-    },
-    {
-      "title": "Vambe trae AI House a Mexico Tech Week para quienes están construyendo con IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0UtdE9VWXBQbHM3Z0pJY1RKQWVWc3VhN29TenBvT25rNUFNUHl5UDVWV2RWMVZJQ3JPdDg1X1R5YUVjZWpMc0ZjaXAtSHJ0cUtsdkNSOGtHdDFvdDdDeE9kaGdtUjQtamZGMDZYaGJNYnFCV0pseW9UV3E2QzhUY0d5MmJKa2d1RXFQVmR2YV9xTlhFUUhqSjNVVUw1QXoyWjZWekd6WmpTMWdfc0t1MnhMTGkzMC1fM296SjFjbWpjUTd4VHNnYmdn0gHkAUFVX3lxTFBVTk01UXRJeHlJMkZLZV9zSHBMeFhlX1JyVjRnSGo1dUU1ZVhuaFdBUzVHdk1oMERIcFk0aFVYV1NXSXR2TzlOLVpVb29rNTZwN2dxZlVIeU9pSGpjTmY1ME1Ea09zaDV6UUNNRVRkbzdxblQwN29iZ3JFLWYtQmZEMF9SWkMzQ2VXdnBFYXBSWTdlN2RlRW9WQVY1MTFJbDZZSHM1aHRTN04zYUVVWHRoZXVsV0pUSWczZmxmcjJMR1F3X0dXNElNOFA5bnZFWDRyR01CVXhQNERTU082RzFvR3hUMA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 25 Sep 2026 12:23:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ0UtdE9VWXBQbHM3Z0pJY1RKQWVWc3VhN29TenBvT25rNUFNUHl5UDVWV2RWMVZJQ3JPdDg1X1R5YUVjZWpMc0ZjaXAtSHJ0cUtsdkNSOGtHdDFvdDdDeE9kaGdtUjQtamZGMDZYaGJNYnFCV0pseW9UV3E2QzhUY0d5MmJKa2d1RXFQVmR2YV9xTlhFUUhqSjNVVUw1QXoyWjZWekd6WmpTMWdfc0t1MnhMTGkzMC1fM2"
-    },
-    {
-      "title": "Así queda la Selección Colombia vs. México, en el amistoso internacional, según la inteligencia artificial - Noticias RCN",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1g4U2JERU84Vzh2Z2NUY0VHcHVDVmduREJUcy11N29oZ0ZEUGR2bWJ1cGtpS3JxamZvVC0xRlI0bnNnZEN1TTl1SFlnbzZSTk9LTzM3Nlc5T1VqLXFnMDkyUzVjZVh3XzJ6UXdsX3Z3Vjk1M2llOVh0N1lsLWFtSndPMmVpS1U1M21QYU9LYldmX2JXVk1kYmpCS1hXSjZMUFFlQzltaDlDcERkQWdrQkxoVkJtQWJVaVBkY3VqSEYtQ3EyRmdrd0cyRGdIT3JjbU8waTVZSjk0Z9IB2gFBVV95cUxNMzJNZEhqNHRmSE1jNGNrdjRsWlRBTzlHMWl0anBqYXZnckJiakxDNkxTcnlEM1Jwd2RyTUt2eTZIUXFiMDJyaWJMSlBwVlZRT3NVeXM1LWJKcW1WU2pka0Y1bDNjMjBRc0dHRkNfeFdGUG12dlNITDhHRFR0TU16b1VrYUdINGUxZHVlWjdHLVVtd2tocGx2cXVLMEcxNDlxU3B0VXUwNS1RX2kzX1NqVGdKa29odXlkTzA2SVdOdk1DTUNuX0psNDN6cUJHeEZVb1pWeWVTQzB1UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 25 Sep 2026 16:19:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1g4U2JERU84Vzh2Z2NUY0VHcHVDVmduREJUcy11N29oZ0ZEUGR2bWJ1cGtpS3JxamZvVC0xRlI0bnNnZEN1TTl1SFlnbzZSTk9LTzM3Nlc5T1VqLXFnMDkyUzVjZVh3XzJ6UXdsX3Z3Vjk1M2llOVh0N1lsLWFtSndPMmVpS1U1M21QYU9LYldmX2JXVk1kYmpCS1hXSjZMUFFlQzltaDlDcERkQWdrQkxoVkJtQWJVaV"
-    },
-    {
       "title": "México camina hacia la regulación de IA: “No es prohibir, porque es un avance, pero hasta dónde y cómo” - EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUndsRnJBWU9oOVlxTWVmWjB1eHpBTXVkZmxuNWZaR0RUcUtXX1dPN2hXU2FNSGVTYUEzRGJ3bERkLTV1NmJEREVrbHdUa1M3SHhPX3V3MW5KS2ZLNTlydy1OU2NxbGtzUDlPb0tacVAyS3FETlNEaXZpcU9JTzBjVUprSnBYd2s2MC05UFJmOHlhenJxWkdQUHZiZWFjZy1nZ0RHY01vdlB5VWVjQ20wTlJqZUx4eWxyVHo4Nkx5ZGowQzE2VG9xeW93ZkVfUEc2blQ1aXlsZ0d0dEthVmthdWVXRdIB9wFBVV95cUxPS09aUHdLSG1GU24zYmhLRkhRRmUxVVRrVzlOSnNLa0d2MGc2bGxBQWVwTlVOZUI0Y3pMOXdvZGk5emN1NmpmYUdmZWtVTU5wamdUSVZmTGgwUGNoc1FVdTNhRFh2RGMyTXZ3N1F3Ynp2UkNDVkRmVWhQVldLY2VEVnliRHpDanY5SWphOGFJcjUzNVBHV2N3empjOElQQTRodEtia0xPRFd0MXFOZ0ZScG1NcTltRlN4Xy1MOWtCVktVNTFZX3MtbkJRU3YtVkRXR25FUmlKOG5MRUpWbzYtUnNNUnFWT1NCc0hsT1NkRU5zYmZTbWEw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 24 Sep 2026 17:22:59 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUndsRnJBWU9oOVlxTWVmWjB1eHpBTXVkZmxuNWZaR0RUcUtXX1dPN2hXU2FNSGVTYUEzRGJ3bERkLTV1NmJEREVrbHdUa1M3SHhPX3V3MW5KS2ZLNTlydy1OU2NxbGtzUDlPb0tacVAyS3FETlNEaXZpcU9JTzBjVUprSnBYd2s2MC05UFJmOHlhenJxWkdQUHZiZWFjZy1nZ0RHY01vdlB5VWVjQ20wTlJqZUx4eWxyVH"
+    },
+    {
+      "title": "México prepara una ley de inteligencia artificial sin una visión de Estado: especialistas - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORGZwUWVzV2RueVZTNnVkalRxTTZiQmlKVHozWFkwS25ydnAtRDRsdDhGTUh3aGhZUlJfemExWnA5eWNVb0FrYkQySElXTl9UdHc3QUJ0d1VDQzJxcHpJSk9aTURWckdLMnRMLXB0eW9oUnVfbVk0NFZzOTMxSzNMN0M0QlVQbVJaNmRybmNFOXpVVVllQUpSZ0FneWhoeUFRdTlMc240UW9yRjlxYXNlcHRBemFoWEhxbFV3SXM3TDd4TEtNZUHSAcsBQVVfeXFMUEYyYXJid1VnMExpSTBGSGR1MGlpNWQzM3ZVN3pRanRUeFJFRkZqQXhlTU5qUDYyR0t2b3BnemNDeW1pTHQzWVdnSVNNZjBxellEZHlCdVpHaHVJYnk4cHlPaWdrWGRDMEczSGVMV2xiUUFNTWV6RkMzQlFjdVlMWWtBeVZSMG54X0ZhUllocVlXY1k4OHpweDdTRTVZc1JzMW8tQVIwenN2TUZ0X0F2cmNwV2N1U05KY3VGYzNfcW55T2t4d2Q1ZFVaZzA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 22 Sep 2026 23:26:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxORGZwUWVzV2RueVZTNnVkalRxTTZiQmlKVHozWFkwS25ydnAtRDRsdDhGTUh3aGhZUlJfemExWnA5eWNVb0FrYkQySElXTl9UdHc3QUJ0d1VDQzJxcHpJSk9aTURWckdLMnRMLXB0eW9oUnVfbVk0NFZzOTMxSzNMN0M0QlVQbVJaNmRybmNFOXpVVVllQUpSZ0FneWhoeUFRdTlMc240UW9yRjlxYXNlcHRBemFoWEhxbF"
+    },
+    {
+      "title": "Colombia vs. México: IA pronostica marcador y ganador del amistoso en fecha Fifa - Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOF9oV0YyVjRxM3MxbllUOUN4SDl2MUxFTEdoQ3NQeVdqN2xjaW5pZmlNOVdmaEJZbWd5Qm5sRUxwTVR6eDZuVGtOLVFjYjlheWdKNEFaZTdNMlI2ZUp4Q09wUVhnRlRZUDVUN3hzLVlrSnY5bHBoTW9RWUlZay1GVTV0bzdtTkJjRkRQVmc5NEFVeE40SVJIWGVIZGktSjQ5S2IwMXFXU1dDZThUZV9ONnpRc2cxcG5OWFM3bkFXSHJZNzlEeXfSAcsBQVVfeXFMUEVacG5jb0NLX2t5bUpSNElKaVpzRi1GS3drcVZSMGtPeUdjNi1wQW1VUDJpaTNobUUzQTNIa0ttN2VSMlhnWnM5T29xaUVLOWg1Mmt1TFZMUFZXQV9la002TThFR3Qzblp4LWdFTV8zS2ZtNnB1eEJKQ2pVc1lGdHNSZkhrWkVzQTBLM0ZNSEd6ckIxMS15VHFiYUNxVkNxNUU4Q2YwTWx6ZFNkTF8wSHVhQUVEY1g2b1dzenpPS3IyQUZyLXNYUzQ1RGs?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 26 Sep 2026 03:51:39 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOF9oV0YyVjRxM3MxbllUOUN4SDl2MUxFTEdoQ3NQeVdqN2xjaW5pZmlNOVdmaEJZbWd5Qm5sRUxwTVR6eDZuVGtOLVFjYjlheWdKNEFaZTdNMlI2ZUp4Q09wUVhnRlRZUDVUN3hzLVlrSnY5bHBoTW9RWUlZay1GVTV0bzdtTkJjRkRQVmc5NEFVeE40SVJIWGVIZGktSjQ5S2IwMXFXU1dDZThUZV9ONnpRc2cxcG5OWF"
     },
     {
       "title": "IA ya representa el 55% de las nuevas startups VC en LATAM - El Ecosistema Startup",
@@ -75,28 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09uQ1M5THZsbEJidGxQUWJEbmRYVldwNVdzeUpTVnFLXy1JR3lsOTNpSjExYXFMYnBMQzJwNXJhZmZlTjFQWG56THFobXgwbFFBaXBvSlNTRDRPTnRsTVJkR1pIaUZzWTRPSlBxYW1RR0FyN1hOTEFBcEd2VjRCZjZmWU1HYlBvSDFGUW9Za0s5dw?oc=5\" target=\"_blank\">IA ya representa el 55% de la"
     },
     {
+      "title": "La startup Primero, cofundada por un colombiano, levanta US$12 millones para expandir IA en grandes empresas - Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3BqdmZtU2ZxOHBsWnVGczdFQ1EySzk0bXVtaFNrZXhNbEE0TURBd0FVMFU1ZGQtVW5DTEJLZ3VadjN1X3pEcjk4LVM1X05RMFYtdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3"
+    },
+    {
       "title": "Vantora levanta US$100 millones para crear startups de IA que sus clientes podrán quedarse - fomoera.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvOFlGaVEzY1VFQlhzSlpRWDRGeXA2NjN6SVJwOGcwZ2RCeGs4OTlXWTFhN0hMY3Uzelk1QjB4TU5rNVZWQ0lScExJZHB4aldJRGZiZE9IdEc1QTlPdDkzMlNDRGtTbXdYQW9BRFEtRQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sat, 19 Sep 2026 21:00:31 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvOFlGaVEzY1VFQlhzSlpRWDRGeXA2NjN6SVJwOGcwZ2RCeGs4OTlXWTFhN0hMY3Uzelk1QjB4TU5rNVZWQ0lScExJZHB4aldJRGZiZE9IdEc1QTlPdDkzMlNDRGtTbXdYQW9BRFEtRQ?oc=5\" target=\"_blank\">Vantora levanta US$100 millones para crear startups de IA que sus clientes po"
-    },
-    {
-      "title": "Agentes de IA y tecnologías que transformarán el sector salud, y otras cuatro noticias destacadas de la semana - Entrepreneur en Espanol",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0RQYndaclkySFk2RUNGSmRjaXhKUUdwVkJ6NGVNSGFqcXdCQlpUY0NzeVV5TzBJc2NPTFNEX3NNWEpDbWxnZDRFLXJfSy1KY20xVlJKem1mQlNVeVQyeVEzZm1kc3lfbFBYWEtTQWJ0VDBmZnlTSmEwMVlFeHlPdGV1cVJqb3MzaHpGLUlrbnNMZW9rb2wtVlNNc0FxYTlabHdhWnlaU3BmWlRpUkQxbG1ZVnp5NnhfVE9ONmFQNG5WTmxtZFhHdlFsVlR1YUJsSkk3T1FHMHFkWW54TU5lNUpqLUl2Zw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0RQYndaclkySFk2RUNGSmRjaXhKUUdwVkJ6NGVNSGFqcXdCQlpUY0NzeVV5TzBJc2NPTFNEX3NNWEpDbWxnZDRFLXJfSy1KY20xVlJKem1mQlNVeVQyeVEzZm1kc3lfbFBYWEtTQWJ0VDBmZnlTSmEwMVlFeHlPdGV1cVJqb3MzaHpGLUlrbnNMZW9rb2wtVlNNc0FxYTlabHdhWnlaU3BmWlRpUkQxbG1ZVnp5NnhfVE"
-    },
-    {
-      "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - playersoflife.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 22 Sep 2026 23:36:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5\" target=\"_blank\">Organizaciones del Presente: "
     },
     {
       "title": "Monterrey reunirá a expertos para llevar la IA a las cadenas de suministro de Norteamérica - El Economista",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVFuNFMwU0k1QnFaWVowZTFmM2NyTllyWDd6anktS21fYm1CWkxTaTllVldWaDVjN2lhcmlPQnMyTVZIdTJQR0p2bFczSXdUVHhzTTNlNkllV1Q3UUQxZWVIUFhYdzRNUVpPSElYbDFUOGE1NEMtM2VsRkNVdS02eFZkRzBxOGhSZTBheVc2T0VkbDNLdHdhOENxenlKVzFnYTZ2YnVuOS14MXBHYXhyM3RTdTRPdE1laU"
     },
     {
-      "title": "Fundidores aceleran adopción de IA y nuevas tecnologías para reducir energía y emisiones - La Jornada",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVWJ5cm0xVlczRGZKSnV5eWYyNzNPODd1QlVsWmJ6a1FiVUE?oc=5",
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVW"
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+    },
+    {
+      "title": "TCS presenta Proyecto Esperanza en colaboración con la Alianza Anticáncer Infantil - playersoflife.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazQwSGMtZFh3eWEtT3k4QUhtcE11SDZMV3NWbDRlTFdGZXlaTG03aVg3SnJpQ0ZMT19aYlJMcUZPVWhGdVRMZV9RTTJKaG1wbmFMbUE2LTlFbTdkUmk4ZHhsWHhrZ2VBd0hhVlExc2FKWHB2bEU0dEpjVXdNTF9Tc2NuVHNHQm5Gb01iNnZB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 23 Sep 2026 00:06:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQazQwSGMtZFh3eWEtT3k4QUhtcE11SDZMV3NWbDRlTFdGZXlaTG03aVg3SnJpQ0ZMT19aYlJMcUZPVWhGdVRMZV9RTTJKaG1wbmFMbUE2LTlFbTdkUmk4ZHhsWHhrZ2VBd0hhVlExc2FKWHB2bEU0dEpjVXdNTF9Tc2NuVHNHQm5Gb01iNnZB?oc=5\" target=\"_blank\">TCS presenta Proyecto Esperanza en "
     }
   ],
   "count": 14
