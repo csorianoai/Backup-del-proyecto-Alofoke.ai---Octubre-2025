@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Samsung Galaxy S26 FE llega a la Argentina: cuánto cuesta y cómo acceder a un descuento especial",
+      "url": "https://www.clarin.com/tecnologia/samsung-galaxy-s26-fe-llega-argentina-cuesta-acceder-descuento-especial_0_5tGHTRsn0p.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 27 Sep 2026 09:00:25 +0000",
+      "summary": "<ul><li>El nuevo Fan Edition incorpora Galaxy AI, cámara triple y batería de 4.900 mAh. </li><li>Debuta en octubre con una única configuración de 8 GB de RAM y hasta 512 GB de almacenamiento. </li><li>La preventa suma beneficios combinables con cuotas, Plan Canje y otras promociones.</li></ul>"
+    },
+    {
       "title": "Descubrió cómo hackear al asistente de Meta y advierte: “Encontramos fallas en otros agentes de IA”",
       "url": "https://www.clarin.com/tecnologia/descubrio-hackear-asistente-meta-advierte-encontramos-fallas-agentes-ia_0_iamgFqsBIy.html",
       "source": "Clarín Tecnología",
@@ -35,22 +43,6 @@
       "summary": "<ul><li>Tiene una batería que dura más de un día y promete una vida útil de seis años.</li><li>Es un gama media robusto con pantalla grande y buen agarre.</li><li>Todo los detalles y su precio. </li></ul>"
     },
     {
-      "title": "Motorola Signature 27: así es el nuevo celular premium que desafía al iPhone 18 Pro con una cámara de 200 MP",
-      "url": "https://www.clarin.com/tecnologia/motorola-signature-27-nuevo-celular-premium-desafia-iphone-18-pro-camara-200-mp_0_MiLV6CoO4F.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 24 Sep 2026 14:30:45 +0000",
-      "summary": "<ul><li>Estrena un procesador Snapdragon de última generación y un sistema de refrigeración con partículas de diamante. </li><li>También refuerza la integración con inteligencia artificial y suma mejoras en zoom y video. </li></ul>"
-    },
-    {
-      "title": "IA en Argentina: las 3 trampas que frenan a las empresas - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 26 Sep 2026 14:03:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5\" target=\"_blank\">IA en Argentina: las 3 trampas qu"
-    },
-    {
       "title": "Argentina | Crean una mesa estratégica para diseñar el uso de inteligencia artificial en la Justicia - DPL News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJZY3hIeDlWZjN1dFoyWnRRYmhoTGl5QTJwVmlfOUgzdnIzejFDLUR0cXdHNGlpN3NOV0x2eFBWOU9ZRjJiYWFRbWEtbEdrNEhVVTlybWlBc3J3Y1F2QUZnNm5ZdmFMODBGTExVTzM3VmdsbWRVUGFWVllYR012S1B4enU3SVZmeE9vSzdxWnZneGt0YjFzbWVsVVh2ZGliVkczNTFCcnp6cGNQZko2M2ZPbkZxYXFmUVdj?oc=5",
       "source": "Google News",
@@ -59,12 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJZY3hIeDlWZjN1dFoyWnRRYmhoTGl5QTJwVmlfOUgzdnIzejFDLUR0cXdHNGlpN3NOV0x2eFBWOU9ZRjJiYWFRbWEtbEdrNEhVVTlybWlBc3J3Y1F2QUZnNm5ZdmFMODBGTExVTzM3VmdsbWRVUGFWVllYR012S1B4enU3SVZmeE9vSzdxWnZneGt0YjFzbWVsVVh2ZGliVkczNTFCcnp6cGNQZko2M2ZPbkZxYXFmUV"
     },
     {
-      "title": "Del control remoto a la conversación: cómo la inteligencia artificial transforma la forma de ver televisión - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnhFbVljTTk2VTYwNDlGWWJrazRHM1pwaExBQ05IUWZFelFmRXlRTlFNNFMwSm5xS2ZueU44ejhUS3JDTUFqNHlyYk96aGRRUlRrZ3V5VjlVc1I0Zlp5NHgzZXkwaWxyVU5GalV6ZzZUWnQ3dUxvTkwwdnBwZ0JueDQ3NUZPNjJHdFRWcnA0dlVRV3doX3JndVhFbjdZLVFteDR1WUcxZ2tfTFd0bjA3Q1pDNHlPekI4QUNmd3pnNjctOFBXZnl2VG1KSmNRWVZFNGxtRmZzLW52M3Y5RWhaSmtJV23SAf8BQVVfeXFMT2Y4VUQ1TkRyWmZpUG5FbVN2NUpSQXE3WFA4RXpfSHNOTE95RGt4b3RWdnA2Q01SYzhNZW10T0ZpZkg4R2FPQ0FrM0ZmTl93bDRUZjRjWkg5SFprWV9aSzZaX1pmWXhyWVlBZTJIUWVDWlZ6Zk9IVXRRTmVyeFVSOWI5WElOYW15QkNNS19vUC1LMThGdU9Eb3BydHV4b0d2RWR1d1liYjJLODEzRXRBWjhLWk5iWTdUMmVQYVhRU1JHSkxpWVR1LTRtZWZFekVRRXZSRU1PaTk0NHdQT1RlWGljaDZnZ0FtaUkzbDAxNF9tZ2Jtakd5cU9KYWhwLXlR?oc=5",
+      "title": "Noticiero hecho por IA cruza una frontera inquietante para el periodismo argentino - UDG TV",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWZBcHNRdGF3blh5Zy00UXA2T2lydmJkV3BBdlc1TnFRREx2VU11Z0VIRURaOUVVbW9HMDlYQmgwdVdsQXZ1eHpJbWdIam1JQ2NQbGZHc1hwY3k4eURzQkJCckhoOEtBWE1xYThJOGRRbkEyRm1CejlmbWx3aFZsWURCWkV5QlpaY0tzZVNNcDQzYk0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 25 Sep 2026 16:43:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnhFbVljTTk2VTYwNDlGWWJrazRHM1pwaExBQ05IUWZFelFmRXlRTlFNNFMwSm5xS2ZueU44ejhUS3JDTUFqNHlyYk96aGRRUlRrZ3V5VjlVc1I0Zlp5NHgzZXkwaWxyVU5GalV6ZzZUWnQ3dUxvTkwwdnBwZ0JueDQ3NUZPNjJHdFRWcnA0dlVRV3doX3JndVhFbjdZLVFteDR1WUcxZ2tfTFd0bjA3Q1pDNHlPekI4QU"
+      "published": "Sun, 27 Sep 2026 14:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWZBcHNRdGF3blh5Zy00UXA2T2lydmJkV3BBdlc1TnFRREx2VU11Z0VIRURaOUVVbW9HMDlYQmgwdVdsQXZ1eHpJbWdIam1JQ2NQbGZHc1hwY3k4eURzQkJCckhoOEtBWE1xYThJOGRRbkEyRm1CejlmbWx3aFZsWURCWkV5QlpaY0tzZVNNcDQzYk0?oc=5\" target=\"_blank\">Noticiero hecho por IA cruza"
+    },
+    {
+      "title": "Further Corporate abre Krew Hub: academia de IA en Palermo - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3BiRk0wTjNncDJMN05Xb3ZFYlJIMm1yWnNDOC1oVDk4NGFLVU82djFNcUNQMHVSSWs5eHJDQlBxQkFiMzYyVGtoVDBSdnhlQmNyQkNfbXBoYVd2Q3ZEY2ZfUElOZjRocHUycWV2ZzBuOUdtcXIwMXVLVmpMdU5ldEhvUUdEWDJTTFpJSnhkc3RUdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 27 Sep 2026 09:21:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3BiRk0wTjNncDJMN05Xb3ZFYlJIMm1yWnNDOC1oVDk4NGFLVU82djFNcUNQMHVSSWs5eHJDQlBxQkFiMzYyVGtoVDBSdnhlQmNyQkNfbXBoYVd2Q3ZEY2ZfUElOZjRocHUycWV2ZzBuOUdtcXIwMXVLVmpMdU5ldEhvUUdEWDJTTFpJSnhkc3RUdw?oc=5\" target=\"_blank\">Further Corporate abre Krew H"
     },
     {
       "title": "Un noticiero hecho por IA cruza una frontera inquietante para el periodismo argentino - France 24",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUdBYmJMQlNET1NkdUx4TlV4Q0I3SWVybmt3S3V1M3MtNFRfQm1Lb2NYQi14aW5XTFNpT2htQWRWQ0JTeTBtM2VndmoyMEN1dllpZ0lvdFhVY2EzRmd5YTNXQ3l4TVhabkFHdTRsUkgyeEl3ZlNHQVliYWFZdGtSLXIzRVh2MGZrdktadzFNdEhUc29hcmtrQ241VHd6c0p6SlFMbERIYVBwWHp3bEFCNVIzLWE4cWppSm"
     },
     {
-      "title": "Buenos Aires aprueba el Decreto 742/2026 para regular la IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT200Y0F1TWRkbnhWLW5pWExOQS11NXNEeWs4WURINlBUdVBQRlluREhkZ3NYMFdQdEsxV2lZV2dnR0VjdGx0TUV4d3llU1VkUG15MVEtZ0ZXQXNnOGYwaWYwMXRhdFJzOEltcFBMdDZyalhWVjJRVkFqYU1FQ3VCYmRRV1dFSVJtX3otRXRuY2ZVM21X?oc=5",
+      "title": "Gennial suma un estudio en Buenos Aires para escalar series con IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZiLUx4MEdzdTh4cVVXaXFCRGVBUEhtTmczZ2FNNmR4V0hpX01jamVWZ0hiaVJrQ1ZCMVVsczFtTnVEY3owSTlVM002UkZGMkJPRVI3T0t6OWwyYnZJakRJc294Yk40eDVpb2JBM0pBb2pmalVWVmdJYmRHVGpRN19YZGZ6MUxyUVVNZzNkY19JUGdwbmY5WE1qa2EtZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 22 Sep 2026 01:36:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQT200Y0F1TWRkbnhWLW5pWExOQS11NXNEeWs4WURINlBUdVBQRlluREhkZ3NYMFdQdEsxV2lZV2dnR0VjdGx0TUV4d3llU1VkUG15MVEtZ0ZXQXNnOGYwaWYwMXRhdFJzOEltcFBMdDZyalhWVjJRVkFqYU1FQ3VCYmRRV1dFSVJtX3otRXRuY2ZVM21X?oc=5\" target=\"_blank\">Buenos Aires aprueba el Dec"
+      "published": "Fri, 25 Sep 2026 21:03:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZiLUx4MEdzdTh4cVVXaXFCRGVBUEhtTmczZ2FNNmR4V0hpX01jamVWZ0hiaVJrQ1ZCMVVsczFtTnVEY3owSTlVM002UkZGMkJPRVI3T0t6OWwyYnZJakRJc294Yk40eDVpb2JBM0pBb2pmalVWVmdJYmRHVGpRN19YZGZ6MUxyUVVNZzNkY19JUGdwbmY5WE1qa2EtZw?oc=5\" target=\"_blank\">Gennial suma "
     },
     {
       "title": "WAIFF Buenos Aires 2026: abrió la convocatoria para obras creadas con inteligencia artificial - EscribiendoCine",
@@ -91,7 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTDE3dzNvc2J0T2lqMFlaQzJuYzdxRDkxVVlXY0h4MUpxV0NwR3lNUUZPY3VMTVN6M0J4b2JZclJIQUNwQmZfQkx0SjVCeloyNFo0M3FGb0NXeDV1TktXZmxQQU91U2hLTFRib2d5SkNILUE4WjFvaDNnMUZobHFHUkpYem95YksyRVRZM0VGVUE4YjBZUDlDZFIzbzVUaGtpRldUZGxOZ0RGYTJNRTlRX2JsUU9BS2pyOE"
     },
     {
-      "title": "Cine en vertical y por IA: la fórmula de una startup argentina para conquistar un negocio de US$ 4.000 millones - forbesargentina.com",
+      "title": "Cine en vertical y por IA: la fórmula de una startup argentina para conquistar un negocio de US$ 4.000 millones - Forbes Argentina",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xzSVN5LUFoVkJNWHFya0h5bEZyclRmdXp2TjRUT1ptTUxoSEk0V19kbW1hN0Z6cUNoR2NtQ091MUYyQkh6cl9QdW5UdmxXTmN3ZFduWnZxdlMtSVBLb3VidnJZWVR3QmFudWtIWl9aQmxEWGlGOVlzM0IwVUphdE1kNDFuRlFRUkxqX3hyNGpDM2E4b1p0MTl2YUc1NldkdUx3QzU0VVFhWmpHZjJRRGVkT0pEYnRwOG1lQmo3R212a3QwSE4wTnJB0gHPAUFVX3lxTE5PYXMwSjFxM1NJcTVfbmd4N19wRHpiemdIVzFRZHJYUjFySG9yR3J0S19KR0VsUnEtWUxkVlYwWUZqQ1dtSU1oc3RpX1p3d1ZkekYtRDYzQWJINHhrUWJnZmRLVkZIN1V4ZjQ2QWZEMlZxV3pDMjkzVk02LVlKc2xPb2tvX0xmc0RvREJrcHV5cXk1TjEyS1hIY3pCVFZfMldYRVZrWkdhOGVQN0U4YVdNd3JXRHUxNG4zTXZaVl9Uc0RrWE1tS2ZxSjRFMTNhNA?oc=5",
       "source": "Google News",
       "category": "news",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xzSVN5LUFoVkJNWHFya0h5bEZyclRmdXp2TjRUT1ptTUxoSEk0V19kbW1hN0Z6cUNoR2NtQ091MUYyQkh6cl9QdW5UdmxXTmN3ZFduWnZxdlMtSVBLb3VidnJZWVR3QmFudWtIWl9aQmxEWGlGOVlzM0IwVUphdE1kNDFuRlFRUkxqX3hyNGpDM2E4b1p0MTl2YUc1NldkdUx3QzU0VVFhWmpHZjJRRGVkT0pEYnRwOG"
     },
     {
-      "title": "La startup argentina que detecta incendios mejor que la NASA competirá por \"el Oscar del medio ambiente\" - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmxvZTI0QzBZQkdST3YzbmNMaERYU3BVdHVpQ2VjUWNuR1gwYjV1MEZSR2V2NVRRQVN6SzRYeF9sRUZNb0FnZ2tGaW1wc1I2T2doaV9wd1VGQmFlR3VqT3hpNkk3WVBNd2lpa3JVX3gyd0lSME5yOVN4eFlpQVEtV2RmTUVsblJ1QU5FMHUzQWo4QQ?oc=5",
+      "title": "IA en Argentina: las 3 trampas que frenan a las empresas - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 18 Sep 2026 10:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmxvZTI0QzBZQkdST3YzbmNMaERYU3BVdHVpQ2VjUWNuR1gwYjV1MEZSR2V2NVRRQVN6SzRYeF9sRUZNb0FnZ2tGaW1wc1I2T2doaV9wd1VGQmFlR3VqT3hpNkk3WVBNd2lpa3JVX3gyd0lSME5yOVN4eFlpQVEtV2RmTUVsblJ1QU5FMHUzQWo4QQ?oc=5\" target=\"_blank\">La startup argentina que dete"
+      "published": "Sat, 26 Sep 2026 14:03:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5\" target=\"_blank\">IA en Argentina: las 3 trampas qu"
     },
     {
-      "title": "Comenzó el programa de innovación digital para los Best Tourism Villages de Argentina - Expreso - Diario de viajes y turismo",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTAxem15SGZ6MWp0RTBpVXh5RFJnelNRSnEzdlBRU00yWXhHbjhOR1luZ1UzT2ViaG1WU2RuMmVFbEV6R1lSbm5TMHZ5MmJiZGFPeUFsTmNHRnJNUFhBbXEzRHVLZnMwTXY4V3E1TloyLTQ1bGlrTGhSSE80aWRMRFBZeUNRVDZJMG9rM0xRQi1ETlpObzF2dXdsWnhXVG1BbGdTcDJqVXNxcXVIdF8wbzR3RHNmbDV3WTQyMHFta1g?oc=5",
+      "title": "De pasante a líder de una startup a los 23 años: la argentina que factura millones con la inteligencia artificial - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmhKbjZHYnhXY1p2QUk3NkpGV2NoMXRCT0wyc091VW0zM05qbkwwVUVzUHladGtjNml6ZHR1SDdicjNYTkJ4RnNlQ2I3emVsWHRxdEFxLXctN09hTkdkaVZmT1EtaFZVdFhDeDV6WkRwdFFaYkJtcXhjX05XNV9Rdl80YVpMUDFFZW1hWjNBV1Jtc2lDS2Y4aU01a3RMX0VTM3l5OFItX0tXWDM2Y2EwakNRa01SZzZUYWxPSjZHQ19wcTZpLTlvS09ZZTXSAdIBQVVfeXFMTmRwb0tqcXRGWklYbDljQ2diWVNoZHNfSHgwbmlkaEZFcVhWb3VrV0tlQjE1UEpGZW9YLXVRUGhPaGNFYzg0TUlPTXhBblBSUkFfSFBmUHB5bkhjM2d2NnVVUERwZG1CQ255N25hLW8zYkRXeHh5LWJneWw0ZkYwSUpRODNPSXV6MlJnclF0MHVHY2w5UlVvSTF4WjEyeFNUNnFsbEVGVWJPTnZMOFI5THc1dEhrZzZId09XaWY1ZTdOcGJaYndFSnBSUHlJR2thTk1B?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 03 Sep 2026 12:05:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTAxem15SGZ6MWp0RTBpVXh5RFJnelNRSnEzdlBRU00yWXhHbjhOR1luZ1UzT2ViaG1WU2RuMmVFbEV6R1lSbm5TMHZ5MmJiZGFPeUFsTmNHRnJNUFhBbXEzRHVLZnMwTXY4V3E1TloyLTQ1bGlrTGhSSE80aWRMRFBZeUNRVDZJMG9rM0xRQi1ETlpObzF2dXdsWnhXVG1BbGdTcDJqVXNxcXVIdF8wbzR3RHNmbDV3WT"
+      "published": "Sun, 15 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRmhKbjZHYnhXY1p2QUk3NkpGV2NoMXRCT0wyc091VW0zM05qbkwwVUVzUHladGtjNml6ZHR1SDdicjNYTkJ4RnNlQ2I3emVsWHRxdEFxLXctN09hTkdkaVZmT1EtaFZVdFhDeDV6WkRwdFFaYkJtcXhjX05XNV9Rdl80YVpMUDFFZW1hWjNBV1Jtc2lDS2Y4aU01a3RMX0VTM3l5OFItX0tXWDM2Y2EwakNRa01SZzZUYW"
     }
   ],
   "count": 14
