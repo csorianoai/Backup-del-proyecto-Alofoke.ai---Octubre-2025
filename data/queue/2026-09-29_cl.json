@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Qué regiones serán afectadas por un sistema frontal con río atmosférico, que podría transformarse en un temporal",
+      "url": "https://www.latercera.com/tendencias/noticia/que-regiones-seran-afectadas-por-un-sistema-frontal-con-rio-atmosferico-que-podria-transformarse-en-un-temporal/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Tue, 29 Sep 2026 20:00:00 +0000",
+      "summary": "El frente estará acompañado de chubascos intensos, ráfagas de viento de hasta 63 km/h y probabilidad de tormentas eléctricas en sectores de la zona sur."
+    },
+    {
       "title": "Las 3 regiones que tendrán altas temperaturas de hasta 36°C estos días, según el pronóstico",
       "url": "https://www.latercera.com/tendencias/noticia/las-3-regiones-que-tendran-altas-temperaturas-de-hasta-36c-estos-dias-segun-el-pronostico/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "La segunda etapa de un estudio realizado en 2024 podría contribuir a identificar a personas con mayor riesgo de desarrollar enfermedades neurodegenerativas, afirman los autores. El trabajo fue dirigido por científicos de la Universidad del Desarrollo."
     },
     {
-      "title": "Tormentas eléctricas y lluvia: a qué hora comienzan los efectos del sistema frontal en la Región Metropolitana",
-      "url": "https://www.latercera.com/tendencias/noticia/tormentas-electricas-y-lluvia-a-que-hora-comienzan-los-efectos-del-sistema-frontal-en-la-region-metropolitana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Mon, 28 Sep 2026 13:59:42 +0000",
-      "summary": "Lluvia y tormentas eléctricas llegarán este lunes a la Región Metropolitana. Revisa a qué hora comenzarán las precipitaciones y qué zonas serán afectadas."
-    },
-    {
       "title": "Chile frente a la Inteligencia Artificial: regular antes de perder el control - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm4zelljZXU1bUx5alZaVUIwb3ZvbEUxWUpYZFAwRFEzbFRMQlRTOU95SnJlbm9GX1lHdXRvU2VBc3lDc1Z6V2IyNnZZLUZ2QzlmZFIzZS1WcXJuOEswVjFqTk5UNFpQc3ZURnFTdDViNUN4MmFnNXZKYW1uUzhONFU3dzliMjVWcFB3R3ZwOUx2VUVsQ002eXVPdGc4by1tVUJjVHZfY2QwbVZuaGNxdHZaQ19zeGV6eHN5RFVhd0E?oc=5",
       "source": "Google News",
@@ -51,7 +51,15 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQm4zelljZXU1bUx5alZaVUIwb3ZvbEUxWUpYZFAwRFEzbFRMQlRTOU95SnJlbm9GX1lHdXRvU2VBc3lDc1Z6V2IyNnZZLUZ2QzlmZFIzZS1WcXJuOEswVjFqTk5UNFpQc3ZURnFTdDViNUN4MmFnNXZKYW1uUzhONFU3dzliMjVWcFB3R3ZwOUx2VUVsQ002eXVPdGc4by1tVUJjVHZfY2QwbVZuaGNxdHZaQ19zeGV6eH"
     },
     {
-      "title": "Codelco impulsa el uso de inteligencia artificial con Microsoft 365 Copilot - rumbominero.com",
+      "title": "Lanzamiento de Política de Integración Crítica y Ética de la Inteligencia Artificial Generativa para la Formación en Asuntos Públicos - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUJoUk9OVVV0Y2J0eGpscW5YSnU2T2ozRTc0eFFZbkJhbnlpYXJLS1RLRDBNLWlLbnM5ZmR6YkphbzNwSWk4U2wtcVhkR1NsZU85RF9LcUF5WE9hVTdEZkN1Ry1BX2I4RjRBRV9nQkQyWUtxTmFJRWZISmJNdFRwTVhzMGd2WHlaMllOMFo0RzR6dkJWNDNNZ09UQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 29 Sep 2026 21:36:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUJoUk9OVVV0Y2J0eGpscW5YSnU2T2ozRTc0eFFZbkJhbnlpYXJLS1RLRDBNLWlLbnM5ZmR6YkphbzNwSWk4U2wtcVhkR1NsZU85RF9LcUF5WE9hVTdEZkN1Ry1BX2I4RjRBRV9nQkQyWUtxTmFJRWZISmJNdFRwTVhzMGd2WHlaMllOMFo0RzR6dkJWNDNNZ09UQQ?oc=5\" target=\"_blank\">Lanzamiento de Po"
+    },
+    {
+      "title": "Codelco impulsa el uso de inteligencia artificial con Microsoft 365 Copilot - Rumbo Minero",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa0MwLTE1elpqcW1LMDA1Vnl4SHZ6S0g4UkMzNjNVUkZ4ODhZaWx3THZVMGxSRDBUU3pkdU5FMklQN0V3SzhEbUdLc2l6X1VMZ2hhb3VWWkNiWS0zZjlMVHFWOU85R0JFRC0yU3RLcE1xaDZDVndvYVJrZDBkN0JYbHh5VHN3ME5WMFVGUndFb09GcmJ1TWd6TWZyUjhubHNMcFJTalc3ZjhPU0dnWi1WLTRadlQ3Skk?oc=5",
       "source": "Google News",
       "category": "news",
@@ -59,15 +67,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNa0MwLTE1elpqcW1LMDA1Vnl4SHZ6S0g4UkMzNjNVUkZ4ODhZaWx3THZVMGxSRDBUU3pkdU5FMklQN0V3SzhEbUdLc2l6X1VMZ2hhb3VWWkNiWS0zZjlMVHFWOU85R0JFRC0yU3RLcE1xaDZDVndvYVJrZDBkN0JYbHh5VHN3ME5WMFVGUndFb09GcmJ1TWd6TWZyUjhubHNMcFJTalc3ZjhPU0dnWi1WLTRadlQ3Skk?oc"
     },
     {
-      "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 22 Sep 2026 12:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
-    },
-    {
-      "title": "Estudiar es desear (una palabra antigua para la Universidad en tiempos de IA): Santiago Jiménez Londoño - El Observatorio de la Universidad Colombiana",
+      "title": "Estudiar es desear (una palabra antigua para la Universidad en tiempos de IA): Santiago Jiménez Londoño - universidad.edu.co",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUpBUjN4ZWhNOTF6T3RudGpuSEpfdFpxeVBRVVp3bkRpUzBtUlozcEE2QjM3NVg4c1dONzhrQ0l3UnBYb09HUGQ1LW1UeVNnbFNhN0JNV3JVX1l4emZCQjBRM3pKTTI0b1huekl6Y3VsTlFUb0JoazBBSDdMUU55TlRlMnBobWFTOEIxZEpEM1NtODVwYkRRbFkyU0o3NFhfMUROUnk2SE4tdDBiZVBSM1FHRzZKWEJXNE43Qnh6REhaNGphNGxsdng5WEo?oc=5",
       "source": "Google News",
       "category": "news",
@@ -91,28 +91,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXlDY1BDRkpIUmV5Rk9YTEZoQWgtTnkySk45TUF6czZiMThUdldGU0xMdTlhUkRHZVk1M2dxemdFUGdnbkcxU3d0M3luT2F2RnJCS2g3MUJLWjhnUnZrTTZoSWJMMTZZQmZLZEJQR0xvMHZCZWhYZzBkdWhiMWQxUDZEU0F6MVUwVmQ0ZnJuRW9jUXlhb0c4TWItVDNSUGxOWjBFZGpXcFhpbl9OOHlxd1RWd1ZPbU92WE"
     },
     {
+      "title": "¿Tienes una startup tecnológica? Revisa cómo postular a Exalta, la aceleradora de negocios de la Usach - CNN Chile",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU1qRFVIbVlaYV91UlY5bW1pWUFxUmdTWk8wUjdOQWRsSDRZd1p2Ylh2WUU2U3o5ckVXXzNfYWF2dVd3cDJuamxnbURxYS1fVGs0aXlzSDU3X1ppdDlBRVlVUlNxVnhGZng1SFBmQzl3ZHBhN2dxcUZxS3N0aVBqbzJTUHI4cnhaN29laFEwSnZQNk1JVnl0WEs5VVBHUDJKYW00TDVqVmJFbFFMNW13bmlqelBUbndRV2xzdjI5RDhlRWdDVFpsY3hEd1RDZUpX?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 29 Sep 2026 19:49:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU1qRFVIbVlaYV91UlY5bW1pWUFxUmdTWk8wUjdOQWRsSDRZd1p2Ylh2WUU2U3o5ckVXXzNfYWF2dVd3cDJuamxnbURxYS1fVGs0aXlzSDU3X1ppdDlBRVlVUlNxVnhGZng1SFBmQzl3ZHBhN2dxcUZxS3N0aVBqbzJTUHI4cnhaN29laFEwSnZQNk1JVnl0WEs5VVBHUDJKYW00TDVqVmJFbFFMNW13bmlqelBUbndRV2"
+    },
+    {
+      "title": "Exalta: la Usach abre su aceleradora DeepTech pública - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVFJacXBnOVBEY0ZnMTNUT3hpbmJIVHNocXVJd3IxeUFBT1BMMFFyN0xhZFFIU1RtV0l2SnZSd3hBRm5ONGZhdFBhNkxMelpfWWtBMDdOUmQwelBGQ3U0QXVESzlkZTFZRGQzc04yRHQ2eDBsaVcwZFlsdTFCLTc1VVFGZnduR2o2cGR3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 29 Sep 2026 20:07:09 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVFJacXBnOVBEY0ZnMTNUT3hpbmJIVHNocXVJd3IxeUFBT1BMMFFyN0xhZFFIU1RtV0l2SnZSd3hBRm5ONGZhdFBhNkxMelpfWWtBMDdOUmQwelBGQ3U0QXVESzlkZTFZRGQzc04yRHQ2eDBsaVcwZFlsdTFCLTc1VVFGZnduR2o2cGR3?oc=5\" target=\"_blank\">Exalta: la Usach abre su aceleradora De"
+    },
+    {
       "title": "Estudio revela barreras críticas para startups tecnológicas en minería chilena - Reporte Minero",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTBQV3ZZZ21EZVQ5UmhaQmRmMHlYaFJ4UjlJdm84bmVHTVBMVUE5UThTdEZvd2F3a05SaU9uWWlER1J4dHNKLW1PMUU2bXJMRXJnbkhlZ2xuZXNFTmNFSnZTN0l3M0pvaS12UVd1enh2aHYxWFhyajc1MG5BOUJZRWFwTXNwd2p5QjFSMjQ5N1dmOU4xRE9fZ3hjbElNWDlvZVRqWmw4Mnc2VFBf?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 28 Sep 2026 14:44:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTBQV3ZZZ21EZVQ5UmhaQmRmMHlYaFJ4UjlJdm84bmVHTVBMVUE5UThTdEZvd2F3a05SaU9uWWlER1J4dHNKLW1PMUU2bXJMRXJnbkhlZ2xuZXNFTmNFSnZTN0l3M0pvaS12UVd1enh2aHYxWFhyajc1MG5BOUJZRWFwTXNwd2p5QjFSMjQ5N1dmOU4xRE9fZ3hjbElNWDlvZVRqWmw4Mnc2VFBf?oc=5\" target=\"_bl"
-    },
-    {
-      "title": "Empresas de Querétaro podrán participar en Chile Tech Week 2026 - Líder Empresarial",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NQVFsLVo5cGlvbFM3Um9ZRkhZcUVpTk5FR3dwY191bDlrUVUxTXRTMEpBZGFGM0x4WHJ4YXhsakhVMGlpT3h5YktpR1d6Q3BqWTN1WlVQQ0FRck12MDJRYmYydjh2NlJOMElIZFlyVVVEQ1hKRTU0NTZtVW1LQdIBgwFBVV95cUxNajJIc1MtalppcFRTLUhXcFZWNWdBUEVhbnpHWkg0RE0waDkxOWU0bmMtQkpWZ0hSUWZPSXRVQmNaRnBueDFLU2w0TmdZcWp2bEJoTGxJcDZzd0VjRWJNRnRxVFVVdGZWZWFhamoyYTg5SEgzdjNnUG1ua0p1R0I1MnhfYw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 28 Sep 2026 21:09:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9NQVFsLVo5cGlvbFM3Um9ZRkhZcUVpTk5FR3dwY191bDlrUVUxTXRTMEpBZGFGM0x4WHJ4YXhsakhVMGlpT3h5YktpR1d6Q3BqWTN1WlVQQ0FRck12MDJRYmYydjh2NlJOMElIZFlyVVVEQ1hKRTU0NTZtVW1LQdIBgwFBVV95cUxNajJIc1MtalppcFRTLUhXcFZWNWdBUEVhbnpHWkg0RE0waDkxOWU0bmMtQkpWZ0hSUW"
-    },
-    {
-      "title": "87% de startups mineras en Chile se autofinancia, según Expande - ecosistemastartup.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQldQMXgwQ3RDWS1jTHU3SFNJem5CNlRxQnZLV1FSUjlNRmZNNVVMVHI1UWdoMW9Yb19rMjduQ3BsN3g5RklJbnVJa285OEhIdTlrZ3BhQU1mb2FrcUw1WE1NOWhXMUlLS2c0YjVHQVVGbTVHZXdCbG15bHpkbmxIRlRrTUk1S3d1bFl1ZkJxVXhfbk5LcXdV?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 28 Sep 2026 16:06:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQldQMXgwQ3RDWS1jTHU3SFNJem5CNlRxQnZLV1FSUjlNRmZNNVVMVHI1UWdoMW9Yb19rMjduQ3BsN3g5RklJbnVJa285OEhIdTlrZ3BhQU1mb2FrcUw1WE1NOWhXMUlLS2c0YjVHQVVGbTVHZXdCbG15bHpkbmxIRlRrTUk1S3d1bFl1ZkJxVXhfbk5LcXdV?oc=5\" target=\"_blank\">87% de startups mineras"
     }
   ],
   "count": 14

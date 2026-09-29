@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Ekoparty 2026: hackers de todo el mundo llegan a Buenos Aires y llaman a “abrazar el caos”",
+      "url": "https://www.clarin.com/tecnologia/ekoparty-2026-hackers-mundo-llegan-buenos-aires-llaman-abrazar-caos_0_TQqDiWm0IK.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 29 Sep 2026 20:28:08 +0000",
+      "summary": "<ul><li>Del 7 al 9 de octubre, el Centro de Convenciones de Buenos Aires será sede de una nueva edición del principal encuentro de la comunidad hacker de América Latina.</li><li>WhatsApp, autos y hasta un LEGO: nada se salva de ser hackeado en esta edición.</li><li>Talleres, oportunidades laborales,"
+    },
+    {
+      "title": "OpenAI lanza una IA cinco veces más barata tras descartar otro modelo por problemas de seguridad",
+      "url": "https://www.clarin.com/tecnologia/openai-lanza-ia-veces-barata-descartar-modelo-problemas-seguridad_0_8nqompYCSJ.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 29 Sep 2026 18:53:35 +0000",
+      "summary": "<ul><li>La empresa presentó GPT-6.1 Sol, que cuesta una quinta parte que su modelo más potente, GPT-6 Astra.</li><li>El anuncio llegó un día después de que OpenAI frenara GPT-6.1 Astra por resultados preocupantes en sus pruebas de seguridad.La compañía atraviesa una serie de incidentes con agentes d"
+    },
+    {
       "title": "Sorpresa en el ranking de las mejores cámaras de celulares: cuál es el nuevo modelo que supera a los gigantes de Android",
       "url": "https://www.clarin.com/tecnologia/sorpresa-ranking-mejores-camaras-celulares-nuevo-modelo-supera-gigantes-android_0_3SC5jaUkRB.html",
       "source": "Clarín Tecnología",
@@ -27,22 +43,6 @@
       "summary": "<ul><li>Desde opciones económicas hasta equipos profesionales con motor brushless. </li><li>Las claves para entender las diferencias de potencia, torque, batería y función percutora. </li></ul>"
     },
     {
-      "title": "Hackeos autónomos a webs del gobierno de EE.UU. llevan a OpenAI a suspender el entrenamiento de sus agentes de Inteligencia Artificial",
-      "url": "https://www.clarin.com/tecnologia/hackeos-autonomos-webs-gobierno-eeuu-llevan-openai-suspender-entrenamiento-agentes-inteligencia-artificial_0_3zaYsNGeL1.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 27 Sep 2026 20:28:13 +0000",
-      "summary": "<ul><li>Fue porque los modelos actuaron otra vez de modo inesperado contra objetivos gubernamentales.</li><li>Atacaron al Departamento de Educación y a la Comisión de Bolsa y Valores, aunque no accedieron a información sensible.</li></ul>"
-    },
-    {
-      "title": "Samsung Galaxy S26 FE llega a la Argentina: cuánto cuesta y cómo acceder a un descuento especial",
-      "url": "https://www.clarin.com/tecnologia/samsung-galaxy-s26-fe-llega-argentina-cuesta-acceder-descuento-especial_0_5tGHTRsn0p.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 27 Sep 2026 09:00:25 +0000",
-      "summary": "<ul><li>El nuevo Fan Edition incorpora Galaxy AI, cámara triple y batería de 4.900 mAh. </li><li>Debuta en octubre con una única configuración de 8 GB de RAM y hasta 512 GB de almacenamiento. </li><li>La preventa suma beneficios combinables con cuotas, Plan Canje y otras promociones.</li></ul>"
-    },
-    {
       "title": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejR3R0IzcGxsZUN0bnRrTWZ6ZUxXZ29EaG9xSVV0MHFmLXpXWGRaUjZ2Ry1qZmlCenAzbHBpRFNWSmdzMzVxMHBHenNhdGVHYW9jVWM4aV9TUGN2WTllVHlBVjdBaXlTcUdiZWZsVEdueWZGTzROYlRrSDFqTEd0NG1WcTd5Ti1ycFVNSw?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRm1zREE3Y2Frb1JlekdDMTNTSUhlSmxPYlpscldIXzA5dlpoTjVzVkdnUTdELU9Ea3l0N1BDcDM0UEl0UEhpTUpDMnROM0JJZzlDbFl6WWtkUHRqUGUzdHZqUF9jZlV4S3FoOUlRQXhoYjBNYlZfTzN4ZTNBTldvWHF4ZndQbW1sdG5oRmRjamQzelNOTmE3VjZlOGI3cEducFZHREozZEdNRnpGOGF4OTZhWXlIV2ttbG"
     },
     {
-      "title": "Argentina | Crean una mesa estratégica para diseñar el uso de inteligencia artificial en la Justicia - dplnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJZY3hIeDlWZjN1dFoyWnRRYmhoTGl5QTJwVmlfOUgzdnIzejFDLUR0cXdHNGlpN3NOV0x2eFBWOU9ZRjJiYWFRbWEtbEdrNEhVVTlybWlBc3J3Y1F2QUZnNm5ZdmFMODBGTExVTzM3VmdsbWRVUGFWVllYR012S1B4enU3SVZmeE9vSzdxWnZneGt0YjFzbWVsVVh2ZGliVkczNTFCcnp6cGNQZko2M2ZPbkZxYXFmUVdj?oc=5",
+      "title": "Humand levanta US$66M y conquista 51 países con IA para empleados - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmVqeWFIcTZXNW5XRjFEQjl3Tm8zLVB1Y0c4cDdnNjV4WDE4NUtPNGx0cWVseXlfVkJwM281ZGdlR200T2NyNUV0SklFeXVhUWNVeGVLME1PQnM3MzhOTC1sTU5FcFlMMVFJUlpmckRmbmtvRExsaHdfMW1BUml5YTNKMll3dU9iUmJSUlBSNi1XdG05clJtaUZZZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 24 Sep 2026 15:12:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTJZY3hIeDlWZjN1dFoyWnRRYmhoTGl5QTJwVmlfOUgzdnIzejFDLUR0cXdHNGlpN3NOV0x2eFBWOU9ZRjJiYWFRbWEtbEdrNEhVVTlybWlBc3J3Y1F2QUZnNm5ZdmFMODBGTExVTzM3VmdsbWRVUGFWVllYR012S1B4enU3SVZmeE9vSzdxWnZneGt0YjFzbWVsVVh2ZGliVkczNTFCcnp6cGNQZko2M2ZPbkZxYXFmUV"
+      "published": "Tue, 29 Sep 2026 21:21:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmVqeWFIcTZXNW5XRjFEQjl3Tm8zLVB1Y0c4cDdnNjV4WDE4NUtPNGx0cWVseXlfVkJwM281ZGdlR200T2NyNUV0SklFeXVhUWNVeGVLME1PQnM3MzhOTC1sTU5FcFlMMVFJUlpmckRmbmtvRExsaHdfMW1BUml5YTNKMll3dU9iUmJSUlBSNi1XdG05clJtaUZZZw?oc=5\" target=\"_blank\">Humand levanta US"
     },
     {
       "title": "Un noticiero hecho por IA cruza una frontera inquietante para el periodismo argentino - France 24",
@@ -75,6 +75,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYUdBYmJMQlNET1NkdUx4TlV4Q0I3SWVybmt3S3V1M3MtNFRfQm1Lb2NYQi14aW5XTFNpT2htQWRWQ0JTeTBtM2VndmoyMEN1dllpZ0lvdFhVY2EzRmd5YTNXQ3l4TVhabkFHdTRsUkgyeEl3ZlNHQVliYWFZdGtSLXIzRVh2MGZrdktadzFNdEhUc29hcmtrQ241VHd6c0p6SlFMbERIYVBwWHp3bEFCNVIzLWE4cWppSm"
     },
     {
+      "title": "Gennial suma un estudio en Buenos Aires para escalar series con IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZiLUx4MEdzdTh4cVVXaXFCRGVBUEhtTmczZ2FNNmR4V0hpX01jamVWZ0hiaVJrQ1ZCMVVsczFtTnVEY3owSTlVM002UkZGMkJPRVI3T0t6OWwyYnZJakRJc294Yk40eDVpb2JBM0pBb2pmalVWVmdJYmRHVGpRN19YZGZ6MUxyUVVNZzNkY19JUGdwbmY5WE1qa2EtZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 25 Sep 2026 21:03:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZiLUx4MEdzdTh4cVVXaXFCRGVBUEhtTmczZ2FNNmR4V0hpX01jamVWZ0hiaVJrQ1ZCMVVsczFtTnVEY3owSTlVM002UkZGMkJPRVI3T0t6OWwyYnZJakRJc294Yk40eDVpb2JBM0pBb2pmalVWVmdJYmRHVGpRN19YZGZ6MUxyUVVNZzNkY19JUGdwbmY5WE1qa2EtZw?oc=5\" target=\"_blank\">Gennial suma "
+    },
+    {
       "title": "Red Hat Summit: Connect 2026 se hará en Buenos Aires con foco en IA - mercado.com.ar",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xhLWFtSmNPTmYxSVRXNXBZc3dJc2M3TDEtMUN2NjkyT01CQ0haSEkxY1dZc1kya21IVk5fbnVJR0VFOXBoUG8xMGN5VEUtQV9ZSXlkd2pVQlNQWVRlZmJyeWNsSkNacEFjZmFWbDJyOEFZZlI1QXRYeEdwV3lPMlJiSzRKQkJVR3Y3NlZMX245d1BRVmlvaGxPMkI?oc=5",
       "source": "Google News",
@@ -83,15 +91,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQc2xhLWFtSmNPTmYxSVRXNXBZc3dJc2M3TDEtMUN2NjkyT01CQ0haSEkxY1dZc1kya21IVk5fbnVJR0VFOXBoUG8xMGN5VEUtQV9ZSXlkd2pVQlNQWVRlZmJyeWNsSkNacEFjZmFWbDJyOEFZZlI1QXRYeEdwV3lPMlJiSzRKQkJVR3Y3NlZMX245d1BRVmlvaGxPMkI?oc=5\" target=\"_blank\">Red Hat Summit: "
     },
     {
-      "title": "Gennial suma un estudio en Buenos Aires para escalar series con IA - ecosistemastartup.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZiLUx4MEdzdTh4cVVXaXFCRGVBUEhtTmczZ2FNNmR4V0hpX01jamVWZ0hiaVJrQ1ZCMVVsczFtTnVEY3owSTlVM002UkZGMkJPRVI3T0t6OWwyYnZJakRJc294Yk40eDVpb2JBM0pBb2pmalVWVmdJYmRHVGpRN19YZGZ6MUxyUVVNZzNkY19JUGdwbmY5WE1qa2EtZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 25 Sep 2026 21:03:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQnZiLUx4MEdzdTh4cVVXaXFCRGVBUEhtTmczZ2FNNmR4V0hpX01jamVWZ0hiaVJrQ1ZCMVVsczFtTnVEY3owSTlVM002UkZGMkJPRVI3T0t6OWwyYnZJakRJc294Yk40eDVpb2JBM0pBb2pmalVWVmdJYmRHVGpRN19YZGZ6MUxyUVVNZzNkY19JUGdwbmY5WE1qa2EtZw?oc=5\" target=\"_blank\">Gennial suma "
-    },
-    {
-      "title": "IA en Argentina: las 3 trampas que frenan a las empresas - ecosistemastartup.com",
+      "title": "IA en Argentina: las 3 trampas que frenan a las empresas - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5",
       "source": "Google News",
       "category": "news",
