@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-01",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Cancún y Veracruz se posicionan para atraer data centers, si logran superar la barrera del suministro eléctrico",
+      "url": "https://expansion.mx/tecnologia/2026/10/01/mexico-centros-datos-cancun-veracruz-cables-submarinos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 01 Oct 2026 11:55:03 GMT",
+      "summary": "La zona costera ofrece una ventaja para los centros de datos gracias a las estaciones de cables submarinos, pero enfrenta los mismos desafíos de energía e infraestructura que el resto de la industria."
+    },
+    {
+      "title": "DeepSeek y Huawei unen fuerzas para reducir la dependencia de Nvidia en chips de IA",
+      "url": "https://expansion.mx/tecnologia/2026/09/30/deepseek-huawei-unen-fuerzas-reducir-dependencia-nvidia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 30 Sep 2026 21:37:14 GMT",
+      "summary": "DeepSeek liberó herramientas de código abierto adaptadas a los chips Ascend de Huawei, en un intento por facilitar el desarrollo de inteligencia artificial sobre hardware chino."
+    },
+    {
+      "title": "Tu iPhone se puede convertir en cazador de ofertas automático, así activas la configuración de Apple",
+      "url": "https://expansion.mx/tecnologia/2026/09/30/iphone-cazador-de-ofertas-automatico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 30 Sep 2026 18:42:41 GMT",
+      "summary": "¿Cansado de que te ganen o se acaben las ofertas sin que te enteres? Te decimos cómo hacer que tu iPhone te avise desde el primer momento en que se activan los descuentos."
+    },
+    {
+      "title": "John Ternus prepara una revolución en la estrategia de Apple y este es su plan",
+      "url": "https://expansion.mx/tecnologia/2026/09/30/john-ternus-prepara-una-revolucion-en-apple",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 30 Sep 2026 16:30:39 GMT",
+      "summary": "El nuevo CEO de Apple busca no depender de dos lanzamientos anuales, sino renovar con mayor rapidez su estrategia de hardware, aunque eso implique cambios en la organización de la empresa."
+    },
+    {
+      "title": "Trump reúne a Google, Nvidia y Anthropic para fijar reglas a la IA, pero el pacto tiene una grieta",
+      "url": "https://expansion.mx/tecnologia/2026/09/30/trump-fija-reglas-a-la-ia-pero-pacto-tiene-grieta",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 30 Sep 2026 14:27:34 GMT",
+      "summary": "El código prevé la participación de evaluadores externos para realizar auditorías independientes para determinar si las medidas implementadas funcionan de manera efectiva."
+    },
+    {
+      "title": "¿Cómo cambiará la inteligencia artificial la salud en México? El sector creció 300% en cuatro años - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcl9SNE5Hc3M0MEJZV3RfZXhPaTQ5UXc2QnppRDBVcjllQVdZZEhCTFVENEZhVXNhazc0WjRiRFVfRk5sWk1HeXRZVkMydU5TWS1adkswYTY5MmFnLTZSZzByYkNTRXhmR0hQQWpXalRiNE5YOVNmZUlCelVhQld4MTNtdExzNTJnYTFlM0tSaXY5ODRseFpaRVZfUVQySEp4cnB1ZHN6cnA3Rjdrd0Q4dERqNmo5M0pOYjhweUNXUFZvaEVHYkhwbWtFeXlyRlVYV2xZaQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 28 Sep 2026 13:49:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcl9SNE5Hc3M0MEJZV3RfZXhPaTQ5UXc2QnppRDBVcjllQVdZZEhCTFVENEZhVXNhazc0WjRiRFVfRk5sWk1HeXRZVkMydU5TWS1adkswYTY5MmFnLTZSZzByYkNTRXhmR0hQQWpXalRiNE5YOVNmZUlCelVhQld4MTNtdExzNTJnYTFlM0tSaXY5ODRseFpaRVZfUVQySEp4cnB1ZHN6cnA3Rjdrd0Q4dERqNmo5M0pOYj"
+    },
+    {
+      "title": "Cisco: Solo el 4% de las organizaciones mexicanas alcanza el mayor nivel de preparación para adoptar IA - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUlTWkhYUmV2b3FMaXB6WUhFUU1hVDVkcDZacWYwakhRV0dHU3B1MUtSUE9hNEUtcWZqSW9yc1Y0V1RzcjNELUR2SV8yMF9IVlRMN0RqTXU1dTNxdkRVV1dxczV0WUhVaWIzTnZOczZvQzNxYmFlbDZ4RDlMNmhpN2Q1ZVlFQUtXR2tCSFM3R3hrVVlxRG9QM2VDay1zV0tGYWtPMV9uODJhaGxXcEVhMDJFbEIzX3NvSGFUamNycmVyX1RkeW5yTnNQQ0tkT2NFRTZfMVZ2Vmo1WUpGZkR4ZUtJUmpuNzlP?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 30 Sep 2026 22:24:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUUlTWkhYUmV2b3FMaXB6WUhFUU1hVDVkcDZacWYwakhRV0dHU3B1MUtSUE9hNEUtcWZqSW9yc1Y0V1RzcjNELUR2SV8yMF9IVlRMN0RqTXU1dTNxdkRVV1dxczV0WUhVaWIzTnZOczZvQzNxYmFlbDZ4RDlMNmhpN2Q1ZVlFQUtXR2tCSFM3R3hrVVlxRG9QM2VDay1zV0tGYWtPMV9uODJhaGxXcEVhMDJFbEIzX3NvSG"
+    },
+    {
+      "title": "México camina hacia la regulación de IA: “No es prohibir, porque es un avance, pero hasta dónde y cómo” - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUndsRnJBWU9oOVlxTWVmWjB1eHpBTXVkZmxuNWZaR0RUcUtXX1dPN2hXU2FNSGVTYUEzRGJ3bERkLTV1NmJEREVrbHdUa1M3SHhPX3V3MW5KS2ZLNTlydy1OU2NxbGtzUDlPb0tacVAyS3FETlNEaXZpcU9JTzBjVUprSnBYd2s2MC05UFJmOHlhenJxWkdQUHZiZWFjZy1nZ0RHY01vdlB5VWVjQ20wTlJqZUx4eWxyVHo4Nkx5ZGowQzE2VG9xeW93ZkVfUEc2blQ1aXlsZ0d0dEthVmthdWVXRdIB9wFBVV95cUxPS09aUHdLSG1GU24zYmhLRkhRRmUxVVRrVzlOSnNLa0d2MGc2bGxBQWVwTlVOZUI0Y3pMOXdvZGk5emN1NmpmYUdmZWtVTU5wamdUSVZmTGgwUGNoc1FVdTNhRFh2RGMyTXZ3N1F3Ynp2UkNDVkRmVWhQVldLY2VEVnliRHpDanY5SWphOGFJcjUzNVBHV2N3empjOElQQTRodEtia0xPRFd0MXFOZ0ZScG1NcTltRlN4Xy1MOWtCVktVNTFZX3MtbkJRU3YtVkRXR25FUmlKOG5MRUpWbzYtUnNNUnFWT1NCc0hsT1NkRU5zYmZTbWEw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 24 Sep 2026 17:22:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUndsRnJBWU9oOVlxTWVmWjB1eHpBTXVkZmxuNWZaR0RUcUtXX1dPN2hXU2FNSGVTYUEzRGJ3bERkLTV1NmJEREVrbHdUa1M3SHhPX3V3MW5KS2ZLNTlydy1OU2NxbGtzUDlPb0tacVAyS3FETlNEaXZpcU9JTzBjVUprSnBYd2s2MC05UFJmOHlhenJxWkdQUHZiZWFjZy1nZ0RHY01vdlB5VWVjQ20wTlJqZUx4eWxyVH"
+    },
+    {
+      "title": "Google Cloud México lanza agentes de IA con gobernanza - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdMeDlZeHJWc1A4RWt5MVBGdWZRbURtQ0Y4aEtEVjZWY3dMM0RQR3lXOHFXTjFLSjhRX3lBNWdvTWd0c2M3UGJ5bXZ3ME1KUGJibUN4UjZNTG1QdkVaMjR1TzhPdThyc1NPQ0JjTnI2R2FJN29tVU82N2NueFBfekpyTUoxaUVqRDNqRmJB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 01 Oct 2026 01:51:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdMeDlZeHJWc1A4RWt5MVBGdWZRbURtQ0Y4aEtEVjZWY3dMM0RQR3lXOHFXTjFLSjhRX3lBNWdvTWd0c2M3UGJ5bXZ3ME1KUGJibUN4UjZNTG1QdkVaMjR1TzhPdThyc1NPQ0JjTnI2R2FJN29tVU82N2NueFBfekpyTUoxaUVqRDNqRmJB?oc=5\" target=\"_blank\">Google Cloud México lanza agentes d"
+    },
+    {
+      "title": "La IA puede bajar la barrera al financiamiento para startups latinoamericanas: úsala a tu favor - emprendedor.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSnJWWnlLV3FraGY3aTh2aHBuaVdjQ0kwNFVFUC1xRTZ3TnN1em5JeXR3LU5QSmJuU3diWDZ2SFdIVkFLdU1tRUFzV1lqVi1VdkgtblJMRnRUeldoYnJ4Q3FiUzBvLW16RjhRcUJGTURVSVRKNGZnSnZyNjVBRzltV3M5MXQwSUFKWTdEdzVXQ0xrcmJILU5YdHk4cm5xSFRob2h3RjdtZllrZDQ0QUpPWi1zVlJfZUpXWktfWFpObFhEZ0tpVGtmYVZvcEdFdGVxdkHSAdcBQVVfeXFMTklQWHBkRnRkRlFFVDhnZi1HT0VyNmFqVkZJZ3RCV1A4ZFJVMTVodTVRdDNOUi1QcE0zclkwOUdzTFg5TloyTFYzMnBCMENLUzVTR0hMN2MwakxmWVRjZ0dlWVBXZDcyY1BwY3pNY2JXeWZENXcxQUtBc0xXSU91cDFGYmRjbmVrR0JtOWw4U0pkLUdpMXVJRkM1cHlVTWl6MEkwZFp5NFJyOHphVFh5MlVQME9qMWxQdzhYNnItcEh0TncwZXFVYU4wU0Z3QnhKbWsxcWF6ZDQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 23 Sep 2026 18:24:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSnJWWnlLV3FraGY3aTh2aHBuaVdjQ0kwNFVFUC1xRTZ3TnN1em5JeXR3LU5QSmJuU3diWDZ2SFdIVkFLdU1tRUFzV1lqVi1VdkgtblJMRnRUeldoYnJ4Q3FiUzBvLW16RjhRcUJGTURVSVRKNGZnSnZyNjVBRzltV3M5MXQwSUFKWTdEdzVXQ0xrcmJILU5YdHk4cm5xSFRob2h3RjdtZllrZDQ0QUpPWi1zVlJfZUpXWk"
+    },
+    {
+      "title": "La IA impulsa a startups climáticas, pero concentra atención en energía e infraestructura - NotiPress",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JuczJlSkxicGFYUk9Ydzl4ejloUFp5ZHlZYVNxWGNQd3Y3TFh5MlNnb0Zmc0RsNVlQaDN3d2ZsRFM5VEYwZ3RBX0JKelQzZXEzYzRXODJ1SHFMS2IxNnFqNDRGNWlJMHFEelR2NnJsM0FHa2Q0eXZ1VlJnTXQ3MENrRWIwZEd0YlFaRFFfX1hzLTExazQ3M3k1LUlVWmJhV19KMUZpcTlIZ9IBqgFBVV95cUxPM0JuczJlSkxicGFYUk9Ydzl4ejloUFp5ZHlZYVNxWGNQd3Y3TFh5MlNnb0Zmc0RsNVlQaDN3d2ZsRFM5VEYwZ3RBX0JKelQzZXEzYzRXODJ1SHFMS2IxNnFqNDRGNWlJMHFEelR2NnJsM0FHa2Q0eXZ1VlJnTXQ3MENrRWIwZEd0YlFaRFFfX1hzLTExazQ3M3k1LUlVWmJhV19KMUZpcTlIZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 29 Sep 2026 14:33:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0JuczJlSkxicGFYUk9Ydzl4ejloUFp5ZHlZYVNxWGNQd3Y3TFh5MlNnb0Zmc0RsNVlQaDN3d2ZsRFM5VEYwZ3RBX0JKelQzZXEzYzRXODJ1SHFMS2IxNnFqNDRGNWlJMHFEelR2NnJsM0FHa2Q0eXZ1VlJnTXQ3MENrRWIwZEd0YlFaRFFfX1hzLTExazQ3M3k1LUlVWmJhV19KMUZpcTlIZ9IBqgFBVV95cUxPM0Jucz"
+    },
+    {
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+    },
+    {
+      "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - playersoflife.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5\" target=\"_blank\">Organizaciones del Presente: "
+    },
+    {
+      "title": "Monterrey reunirá a expertos para llevar la IA a las cadenas de suministro de Norteamérica - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVFuNFMwU0k1QnFaWVowZTFmM2NyTllyWDd6anktS21fYm1CWkxTaTllVldWaDVjN2lhcmlPQnMyTVZIdTJQR0p2bFczSXdUVHhzTTNlNkllV1Q3UUQxZWVIUFhYdzRNUVpPSElYbDFUOGE1NEMtM2VsRkNVdS02eFZkRzBxOGhSZTBheVc2T0VkbDNLdHdhOENxenlKVzFnYTZ2YnVuOS14MXBHYXhyM3RTdTRPdE1laUpqQ0p3eHIyZGk3MnVXS2Q2bGTSAdIBQVVfeXFMT0NlZTVlVGQ2clpYVFpzSVhId2FWTXBnT2laM3U0Yndza0N5NERKSEJDZnUwMUlRVGhOSnljTFh4YkFSai1PWGc1TV9kTUppVzJyLU5DbjVmUmxiSTlqSzhLdXJhVVNTZmtlR1AtZHAxeWRCell1Sk1tZElvMjVWckNUTzBudXJ3cEJEel9za3oxaVVwS0EtUEQ0Q19JdF9pNVhhZHd3ODFEMHlMV3lzbDBodHl2VTNzT2RYaFBoUzQ1QU1WSUM5TzY0dG1LMUlRbzFR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVFuNFMwU0k1QnFaWVowZTFmM2NyTllyWDd6anktS21fYm1CWkxTaTllVldWaDVjN2lhcmlPQnMyTVZIdTJQR0p2bFczSXdUVHhzTTNlNkllV1Q3UUQxZWVIUFhYdzRNUVpPSElYbDFUOGE1NEMtM2VsRkNVdS02eFZkRzBxOGhSZTBheVc2T0VkbDNLdHdhOENxenlKVzFnYTZ2YnVuOS14MXBHYXhyM3RTdTRPdE1laU"
+    }
+  ],
+  "count": 14
+}
