@@ -3,12 +3,12 @@
   "country": "ar",
   "articles": [
     {
-      "title": "Cepillos de dientes: de los manuales a los inteligentes, cuál conviene usar y cuánto cuestan",
+      "title": "Cepillos de dientes: de los manuales a los inteligentes, cuáles son las diferencias clave y por qué podemos equivocarnos al elegirlos",
       "url": "https://www.clarin.com/tecnologia/cepillos-dientes-manuales-inteligentes-conviene-usar-cuestan_0_M3spbQJTt8.html",
       "source": "Clarín Tecnología",
       "category": "tech",
       "published": "Fri, 02 Oct 2026 08:45:47 +0000",
-      "summary": "<ul><li>Las diferencias clave están en el tamaño del cabezal, la dureza de las cerdas y el tipo de movimiento. </li><li>Un odontólogo explica qué mirar antes de elegir y cuáles son los errores más comunes al cepillarse.</li></ul>"
+      "summary": "<ul><li>La dureza de las cerdas, el tamaño del cabezal y la presión durante el cepillado influyen en la higiene bucal. </li><li>Qué aconseja un odontólogo.</li></ul>"
     },
     {
       "title": "Advierten por el uso de inteligencia artificial para predecir delitos y vigilar en internet: qué puede saber el Estado sobre los argentinos",
@@ -41,79 +41,7 @@
       "category": "tech",
       "published": "Tue, 29 Sep 2026 20:28:08 +0000",
       "summary": "<ul><li>Del 7 al 9 de octubre, el Centro de Convenciones de Buenos Aires será sede de una nueva edición del principal encuentro de la comunidad hacker de América Latina.</li><li>WhatsApp, autos y hasta un LEGO: nada se salva de ser hackeado en esta edición.</li><li>Talleres, oportunidades laborales,"
-    },
-    {
-      "title": "De la planta de urea a la inteligencia artificial: Pampa destacó nuevas oportunidades para el gas de Vaca Muerta - shale24.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVlzVFY1b0JKeXBwejNEZFBrbFBROTktNG53SUktSUI4ZDlTMHFOc1JUMjNfQU11dTVXODRDWEV5UUpxZ2RJRkF4N2VQMEZ3UXNLcGtwT21kS0hEOXlxaEFGRGE3aEZyVjI5Y3dnLTc1RDZ5RlBHQVdYWjI0ZW1YRVNJNWw2Si1LZlJKdG9zcTZKWTc4SUR5MHVmZEptSXAzTnNNZTNUSk4yb05MT1pROTM2OEQwT21PT3ZYVEVjUTZrdDVWbVHSAcsBQVVfeXFMT01tbXo4QmNLQzdCYW90TzNBejI5a2hxbUppNGduRjREUVhvbEROYlJaX0lxQmcwWVRtcFdHdWhkc2RRQ1o1dlpJZm1qZy1SWDlVTHF2NXVmbDhLSE85T0dBZmZiME1COG1CUGFSdXVhODBhR1Z1YV91dGFERTV5MU1iaDE3ZVl3WXRmTUhiQVVXaTVjRGRtWm1vLUx4NDlpWnBIeTdPanpleXJGam9wWWotYWdvSWxNbnpZWi1EWkYxdTJmODRtRDhXSzg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 02 Oct 2026 13:38:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVlzVFY1b0JKeXBwejNEZFBrbFBROTktNG53SUktSUI4ZDlTMHFOc1JUMjNfQU11dTVXODRDWEV5UUpxZ2RJRkF4N2VQMEZ3UXNLcGtwT21kS0hEOXlxaEFGRGE3aEZyVjI5Y3dnLTc1RDZ5RlBHQVdYWjI0ZW1YRVNJNWw2Si1LZlJKdG9zcTZKWTc4SUR5MHVmZEptSXAzTnNNZTNUSk4yb05MT1pROTM2OEQwT21PT3"
-    },
-    {
-      "title": "La voz puede dar pistas sobre el envejecimiento cerebral: qué halló un estudio con argentinos y otros latinoamericanos - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeTdJdFhqRDJmWUF4MUNBTDhiVGVfNGc5VU0wSU9mSktxTFhEMUstYms5WHZBb2c0QmY4WFpLRlplNlV4bWtvYVBEZi1ycjVPWFI1VjdOMUZ3ZVQtbDhYS2VWMmItLWFFWlJ1OXdhMnRXVXpmaEd5MWpNWEl3RDh3M2lCWG4yZHZhd3lfUnJpSS1XVWRmclpoTTYwN2ZucE16YXFwbFNoQjlDOTQ3RVhhRnhWYjJiM0drT3dKYXpZeFlvSFN1MmJWNksxanIzSE5WY0JHTWNTYW95QkQtOGtSeWVDRkVoMFFvTzRoSFkzcVZaX29TdUtoc2l2QmVJWmtucTVzTFJGcEvSAaMCQVVfeXFMUDFNTmEtVEg2TXh2ak4wdFJPam5OUmMyOUN5WlU0SVVueGlJZ1pka1BPbThzeXNaNW41WXlQZGl3b1FJV2I4WmhCS0FsZjEzcDVMRE5yZWIyWGZfSVNfZ1NnWUlnemF4TkFtQ1UtU3d3YlZnX1dvQVQ5aE9PSkZnYkpxU01VNlA1eVJ0OGRMMV8xVmVuaXA3MDl3VWdMTmNmM2xPelFKRFVUQTdmWlBkQVFFNDU2SVBsM2ZpUlZqanVvU0JOdlVNU3RTX2ZSRDJTdlJ4empITG11cnYxMXFTSy1ESjRiRDN2OHhLQ3FaSmh1NTQtZVNXOTVZWXhtMXV3enJzZEE2WFM1VGdrUG9hZ1M5MV90bXVobkE2aFJDT1pIcVRR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 01 Oct 2026 23:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeTdJdFhqRDJmWUF4MUNBTDhiVGVfNGc5VU0wSU9mSktxTFhEMUstYms5WHZBb2c0QmY4WFpLRlplNlV4bWtvYVBEZi1ycjVPWFI1VjdOMUZ3ZVQtbDhYS2VWMmItLWFFWlJ1OXdhMnRXVXpmaEd5MWpNWEl3RDh3M2lCWG4yZHZhd3lfUnJpSS1XVWRmclpoTTYwN2ZucE16YXFwbFNoQjlDOTQ3RVhhRnhWYjJiM0drT3"
-    },
-    {
-      "title": "Vida en el Planeta - ¿Por qué la Patagonia argentina atrae a las empresas de inteligencia artificial? - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRm1zREE3Y2Frb1JlekdDMTNTSUhlSmxPYlpscldIXzA5dlpoTjVzVkdnUTdELU9Ea3l0N1BDcDM0UEl0UEhpTUpDMnROM0JJZzlDbFl6WWtkUHRqUGUzdHZqUF9jZlV4S3FoOUlRQXhoYjBNYlZfTzN4ZTNBTldvWHF4ZndQbW1sdG5oRmRjamQzelNOTmE3VjZlOGI3cEducFZHREozZEdNRnpGOGF4OTZhWXlIV2ttbGM2QWliUEo5VXJkbVp0QTduNjBMRWFLMlBPaWFNOThXS2M?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 28 Sep 2026 11:50:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRm1zREE3Y2Frb1JlekdDMTNTSUhlSmxPYlpscldIXzA5dlpoTjVzVkdnUTdELU9Ea3l0N1BDcDM0UEl0UEhpTUpDMnROM0JJZzlDbFl6WWtkUHRqUGUzdHZqUF9jZlV4S3FoOUlRQXhoYjBNYlZfTzN4ZTNBTldvWHF4ZndQbW1sdG5oRmRjamQzelNOTmE3VjZlOGI3cEducFZHREozZEdNRnpGOGF4OTZhWXlIV2ttbG"
-    },
-    {
-      "title": "El World AI Film Festival debutará en Buenos Aires el 30 de octubre - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUZrZGpBNUs4REZJUnR0YVpGbXBrYkxaRGtCT2VyT09fYnk2RVJ0SWMwUVoxRXRtMENrMEFSZDVRUnFNcU9aOU1XRUstSW5jX01BcUtMRVBpc09kVW03RGdTZnRoaWZ1ekNCVnNyTEp0Zk5lOEQwQVZHX0FvUzlsUllJUF82dHFKSnVNU3JMWnIzUUFINEloYTRybk11bXAyVTNWUG1hZVJnN1VrV1HSAcgBQVVfeXFMTm9JUDgtdDAxU2hfRHNvX0V4V0syYjBIOVZGUGZkMDA4YWJ2MHl1Uk5OTy1wREVtNHo1cml6RWFRQnlRbGpoTnExd2N0d3ZqSTlHYklNaW1DVzlsTFJ0amcyb1JEZUF1WjhoYTRZMXdQTUhqMmtSZUJGLWtjOWlyQUZTQVNoczlwUC1xNGtrX2JPX1BwUDNpNFNOcEk4c2pua3dvUUpnX19XeEZDY0RONGxjTGN1Z0FyZGItMmw0Wm5wcWJwMzlYRDg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 01 Oct 2026 20:42:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUZrZGpBNUs4REZJUnR0YVpGbXBrYkxaRGtCT2VyT09fYnk2RVJ0SWMwUVoxRXRtMENrMEFSZDVRUnFNcU9aOU1XRUstSW5jX01BcUtMRVBpc09kVW03RGdTZnRoaWZ1ekNCVnNyTEp0Zk5lOEQwQVZHX0FvUzlsUllJUF82dHFKSnVNU3JMWnIzUUFINEloYTRybk11bXAyVTNWUG1hZVJnN1VrV1HSAcgBQVVfeXFMTm"
-    },
-    {
-      "title": "GUT Buenos Aires lleva a Franco Colapinto a situaciones difíciles de creer para Mercado Pago - produ",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZE14S0h1NlB3R0ZDYjJpUkVNSi1RR2NrZ25NR0JSSXhqTFF0a25KbWxvb3FnZkVWRVZOM0VGc29DcmFxSjhBSGRvUnZaM3ViOFBnc3RoTHFUWTkyVFB1OFV5Tl9LSlhyQWNzSmFQZjl6UnRxSDlvaHUwSDlLakNpOWZ0QTBjOVVvZUswc2p5STZhOENwU2VWVjhqV2NfaGpiZS11YU1ubUZjM05rck1BTGZyV3M5Mk1yM2J1STdBT1Z2Wl8xT0VjYjNtXzhjZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 02 Oct 2026 04:15:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZE14S0h1NlB3R0ZDYjJpUkVNSi1RR2NrZ25NR0JSSXhqTFF0a25KbWxvb3FnZkVWRVZOM0VGc29DcmFxSjhBSGRvUnZaM3ViOFBnc3RoTHFUWTkyVFB1OFV5Tl9LSlhyQWNzSmFQZjl6UnRxSDlvaHUwSDlLakNpOWZ0QTBjOVVvZUswc2p5STZhOENwU2VWVjhqV2NfaGpiZS11YU1ubUZjM05rck1BTGZyV3M5Mk1yM2"
-    },
-    {
-      "title": "AILAT26 reunió en Buenos Aires a los líderes de la IA de América Latina - canal-ar.com.ar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUFYTU84MHVROGdka3ZLU1lpWUNzdllxN2Q0dm5kbmpuMWdFdFhuZ0xqN0hUdml1X3dER3pUTl9FazFsTWJENnFfNUJ2cVdUUlV5eXVTcFZva016S0dwY0tYT1YtRllYOVJTTmgyVGRGeUx0WHVEaU9xRmdkbDZYaHBCcjhGV3lPd0xLUkhEVWc0TGd2dkF0MEI5XzV5eDhXaDBuMVZvMXFienowdHVz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 01 Oct 2026 19:35:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUFYTU84MHVROGdka3ZLU1lpWUNzdllxN2Q0dm5kbmpuMWdFdFhuZ0xqN0hUdml1X3dER3pUTl9FazFsTWJENnFfNUJ2cVdUUlV5eXVTcFZva016S0dwY0tYT1YtRllYOVJTTmgyVGRGeUx0WHVEaU9xRmdkbDZYaHBCcjhGV3lPd0xLUkhEVWc0TGd2dkF0MEI5XzV5eDhXaDBuMVZvMXFienowdHVz?oc=5\" target="
-    },
-    {
-      "title": "Una startup argentina une tecnología y ganadería para potenciar el negocio de la carne - Noticias Pehuajó",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXhDU3VLd01GMkZydkpTNHJIUjRKc2JtaVpJX2N4bERtOERQckdqZXRsLWZrUW1PaWhSSzNPQ29Yc2J6NThBTUY1RlgxWGx4ZUpSS09tTVFRYmhiTWFWdXVOV1RSemQyak5TNnVrSDZwT2RQY3liQTR4TS04S0ZkclNOMWRDcEZJWmI1Q01CYS1nbnFNM19hSW4td2VHMUhsektKbnRtUF8wWGZydUUwQ2pDWXIwR3RtTEpIZXFPcEJPcnJkTm9kd2ZoOF8xeGJVMUhDcUhwRTluUdIB3gFBVV95cUxNTnJVd0FIbGFVWmFXNTA1T3JNLWtiUzFsZE93X2ZlTTNwQXRVVjhWM2ZHUWxlVG9rYkFTdTJXLUhBaE9uNU4tYVZ6eXcxZDIzWnFsNVBDUXpaZ0pBbm5makZ5c2dfcWktQjEyZ0U3eG5PSjdjSlFWSmFZMWpZeEJiZ0N1ekhWcmZfYTR4Wi1VeDZELWt6allMcWt5S2ZxS1l6UzNMVHFlTzZ5Ny1LOEFKV3VKSnk1am15dWNWZVg5UHlYQjJGQVNqZnNxMUd3SlZ0YkM4V05xYW1CbWIwa1E?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 30 Sep 2026 11:23:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXhDU3VLd01GMkZydkpTNHJIUjRKc2JtaVpJX2N4bERtOERQckdqZXRsLWZrUW1PaWhSSzNPQ29Yc2J6NThBTUY1RlgxWGx4ZUpSS09tTVFRYmhiTWFWdXVOV1RSemQyak5TNnVrSDZwT2RQY3liQTR4TS04S0ZkclNOMWRDcEZJWmI1Q01CYS1nbnFNM19hSW4td2VHMUhsektKbnRtUF8wWGZydUUwQ2pDWXIwR3RtTE"
-    },
-    {
-      "title": "IA en Argentina: las 3 trampas que frenan a las empresas - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 26 Sep 2026 14:03:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTF9jNk9FalFvZ21MM2N0TzlHdEtxSFRoVUhrU3JzbWIyV2pnbWVIWlFYM0xneTM2LXlXX0s4QmRfUC1YSFdOU2hPZzdLMzRXeXBEY1VpNFFKMm5YRkVSNVJzbHNCMXBoS2dhRm9QYUVROFkzcUhIQXVsWnNVd1JCQ19tR1JHeENHdkVPSFUyVQ?oc=5\" target=\"_blank\">IA en Argentina: las 3 trampas qu"
-    },
-    {
-      "title": "Cine en vertical y por IA: la fórmula de una startup argentina para conquistar un negocio de US$ 4.000 millones - Forbes Argentina",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xzSVN5LUFoVkJNWHFya0h5bEZyclRmdXp2TjRUT1ptTUxoSEk0V19kbW1hN0Z6cUNoR2NtQ091MUYyQkh6cl9QdW5UdmxXTmN3ZFduWnZxdlMtSVBLb3VidnJZWVR3QmFudWtIWl9aQmxEWGlGOVlzM0IwVUphdE1kNDFuRlFRUkxqX3hyNGpDM2E4b1p0MTl2YUc1NldkdUx3QzU0VVFhWmpHZjJRRGVkT0pEYnRwOG1lQmo3R212a3QwSE4wTnJB0gHPAUFVX3lxTE5PYXMwSjFxM1NJcTVfbmd4N19wRHpiemdIVzFRZHJYUjFySG9yR3J0S19KR0VsUnEtWUxkVlYwWUZqQ1dtSU1oc3RpX1p3d1ZkekYtRDYzQWJINHhrUWJnZmRLVkZIN1V4ZjQ2QWZEMlZxV3pDMjkzVk02LVlKc2xPb2tvX0xmc0RvREJrcHV5cXk1TjEyS1hIY3pCVFZfMldYRVZrWkdhOGVQN0U4YVdNd3JXRHUxNG4zTXZaVl9Uc0RrWE1tS2ZxSjRFMTNhNA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 24 Sep 2026 14:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2xzSVN5LUFoVkJNWHFya0h5bEZyclRmdXp2TjRUT1ptTUxoSEk0V19kbW1hN0Z6cUNoR2NtQ091MUYyQkh6cl9QdW5UdmxXTmN3ZFduWnZxdlMtSVBLb3VidnJZWVR3QmFudWtIWl9aQmxEWGlGOVlzM0IwVUphdE1kNDFuRlFRUkxqX3hyNGpDM2E4b1p0MTl2YUc1NldkdUx3QzU0VVFhWmpHZjJRRGVkT0pEYnRwOG"
     }
   ],
-  "count": 14
+  "count": 5
 }
