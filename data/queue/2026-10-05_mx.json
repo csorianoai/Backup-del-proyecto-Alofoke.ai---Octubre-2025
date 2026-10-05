@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "TikTok te paga hasta 70,000 pesos al mes por tus videos, pero nada tiene que ver si se hacen virales",
+      "url": "https://expansion.mx/tecnologia/2026/10/05/tiktok-te-paga-hasta-70-000-pesos-al-mes-por-tus-videos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 05 Oct 2026 20:00:02 GMT",
+      "summary": "La segunda etapa de monetización de Tik Tok llamada “Special Reward Program” lleva alrededor de tres meses operando y busca premiar la calidad de los contenidos."
+    },
+    {
       "title": "Huawei Mate PadAir, la competencia más seria del iPad para destronar a Apple",
       "url": "https://expansion.mx/tecnologia/2026/10/02/huawei-mate-padair-competencia-del-ipad-apple",
       "source": "Expansión Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Thu, 01 Oct 2026 11:55:03 GMT",
       "summary": "La zona costera ofrece una ventaja para los centros de datos gracias a las estaciones de cables submarinos, pero enfrenta los mismos desafíos de energía e infraestructura que el resto de la industria."
-    },
-    {
-      "title": "DeepSeek y Huawei unen fuerzas para reducir la dependencia de Nvidia en chips de IA",
-      "url": "https://expansion.mx/tecnologia/2026/09/30/deepseek-huawei-unen-fuerzas-reducir-dependencia-nvidia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 30 Sep 2026 21:37:14 GMT",
-      "summary": "DeepSeek liberó herramientas de código abierto adaptadas a los chips Ascend de Huawei, en un intento por facilitar el desarrollo de inteligencia artificial sobre hardware chino."
     },
     {
       "title": "La Inteligencia Artificial predijo el resultado de México ante Chile por el amistoso internacional - bolavip.com",
@@ -75,7 +75,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
-      "title": "Startups de IA ya son mayoría en primeras rondas; CDMX, segundo hub - mayacomunicacion.com.mx",
+      "title": "Startups de IA ya son mayoría en primeras rondas; CDMX, segundo hub - Maya Comunicación",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXo2RDU1UzVBZVlQbmJGdlBkeXV5NXNiWnMtOE80T2ZudjF4MlE4MDJmbl80MTU2UUFUdlZTc1JQeXd2MFlxODJsYzVieEVQbEVuVTdLTGZUNHRDaWtQUUVRcWNGaWd3V1ZxVS1WX3hFX1BIbXpDMlpCazlMNWdvdTRLTlBuX1FHTzBKRVJFbUJXcEl2ejBNMkVpUkhzQjQ?oc=5",
       "source": "Google News",
       "category": "news",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXo2RDU1UzVBZVlQbmJGdlBkeXV5NXNiWnMtOE80T2ZudjF4MlE4MDJmbl80MTU2UUFUdlZTc1JQeXd2MFlxODJsYzVieEVQbEVuVTdLTGZUNHRDaWtQUUVRcWNGaWd3V1ZxVS1WX3hFX1BIbXpDMlpCazlMNWdvdTRLTlBuX1FHTzBKRVJFbUJXcEl2ejBNMkVpUkhzQjQ?oc=5\" target=\"_blank\">Startups de "
     },
     {
-      "title": "La startup Primero, cofundada por un colombiano, levanta US$12 millones para expandir IA en grandes empresas - Valora Analitik",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3BqdmZtU2ZxOHBsWnVGczdFQ1EySzk0bXVtaFNrZXhNbEE0TURBd0FVMFU1ZGQtVW5DTEJLZ3VadjN1X3pEcjk4LVM1X05RMFYtdw?oc=5",
+      "title": "Vantora levanta US$100 millones para crear startups de IA que sus clientes podrán quedarse - fomoera.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvOFlGaVEzY1VFQlhzSlpRWDRGeXA2NjN6SVJwOGcwZ2RCeGs4OTlXWTFhN0hMY3Uzelk1QjB4TU5rNVZWQ0lScExJZHB4aldJRGZiZE9IdEc1QTlPdDkzMlNDRGtTbXdYQW9BRFEtRQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3"
+      "published": "Sat, 19 Sep 2026 21:00:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBvOFlGaVEzY1VFQlhzSlpRWDRGeXA2NjN6SVJwOGcwZ2RCeGs4OTlXWTFhN0hMY3Uzelk1QjB4TU5rNVZWQ0lScExJZHB4aldJRGZiZE9IdEc1QTlPdDkzMlNDRGtTbXdYQW9BRFEtRQ?oc=5\" target=\"_blank\">Vantora levanta US$100 millones para crear startups de IA que sus clientes po"
     },
     {
       "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - playersoflife.com",
