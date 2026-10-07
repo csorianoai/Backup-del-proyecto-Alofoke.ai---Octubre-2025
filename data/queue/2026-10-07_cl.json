@@ -3,52 +3,44 @@
   "country": "cl",
   "articles": [
     {
+      "title": "No guardes tu paraguas: a qué hora se reactiva la lluvia hoy en la Región Metropolitana",
+      "url": "https://www.latercera.com/tendencias/noticia/no-guardes-tu-paraguas-a-que-hora-se-reactiva-la-lluvia-hoy-en-la-region-metropolitana/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 18:06:44 +0000",
+      "summary": "Lluvia y posibles tormentas eléctricas regresan esta tarde a Santiago. Además, no se descartan chubascos durante los próximos días."
+    },
+    {
+      "title": "Continúa la lluvia: qué efectos provocará el sistema frontal hoy en la Región Metropolitana",
+      "url": "https://www.latercera.com/tendencias/noticia/continua-la-lluvia-que-efectos-provocara-el-sistema-frontal-hoy-en-la-region-metropolitana/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 09:03:00 +0000",
+      "summary": "La lluvia continúa este miércoles en Santiago y la Región Metropolitana, con chubascos, viento y posibles tormentas eléctricas durante la jornada."
+    },
+    {
+      "title": "4 puntos esenciales que debes saber sobre las enfermedades cardiovasculares, según un cardiólogo",
+      "url": "https://www.latercera.com/tendencias/noticia/4-puntos-esenciales-que-debes-saber-sobre-las-enfermedades-cardiovasculares-segun-un-cardiologo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 09:02:00 +0000",
+      "summary": "El cardiólogo y docente de la Facultad de Medicina Clínica Alemana Universidad del Desarrollo, el Dr. Luis Morales, detalla los hábitos que contribuyen a la salud del corazón y reducen el riesgo de desarrollar este tipo de afecciones."
+    },
+    {
+      "title": "La fruta que podría “remodelar” la microbiota intestinal y favorecer la salud y el metabolismo",
+      "url": "https://www.latercera.com/tendencias/noticia/la-fruta-que-podria-remodelar-la-microbiota-intestinal-y-favorecer-la-salud-y-el-metabolismo/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 09:01:00 +0000",
+      "summary": "Una revisión científica analizó cómo los compuestos presentes en una planta (y su fruto) podrían modificar las bacterias intestinales y generar efectos vinculados al metabolismo."
+    },
+    {
       "title": "Alerta en Santiago: a qué hora comienza la lluvia más intensa en la Región Metropolitana",
       "url": "https://www.latercera.com/tendencias/noticia/alerta-en-santiago-a-que-hora-comienza-la-lluvia-mas-intensa-en-la-region-metropolitana/",
       "source": "La Tercera Tecnología",
       "category": "tech",
       "published": "Tue, 06 Oct 2026 13:45:11 +0000",
       "summary": "Lluvia, viento y posibles tormentas eléctricas marcarán este martes y miércoles en Santiago. Revisa a qué hora comienza la lluvia y cómo seguirá el pronóstico durante los próximos días."
-    },
-    {
-      "title": "Qué es la peste neumónica y qué se sabe de su posible brote en un laboratorio ruso en Siberia",
-      "url": "https://www.latercera.com/tendencias/noticia/que-es-la-peste-neumonica-y-que-se-sabe-de-su-posible-brote-en-un-laboratorio-ruso-en-siberia/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Oct 2026 11:54:05 +0000",
-      "summary": "El fallecimiento de una técnica de laboratorio de 28 años despertó preocupación ante la posibilidad de un brote. Las autoridades rusas han tomado medidas para evitar la potencial propagación de una enfermedad infecciosa."
-    },
-    {
-      "title": "Lluvia, viento, nieve y tormentas eléctricas: el pronóstico que afectará a gran parte de Chile",
-      "url": "https://www.latercera.com/tendencias/noticia/lluvia-viento-nieve-y-tormentas-electricas-el-pronostico-que-afectara-a-gran-parte-de-chile/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Oct 2026 09:03:00 +0000",
-      "summary": "Un nuevo sistema frontal llegará a Chile con lluvia, viento, nieve y tormentas eléctricas. Revisa el pronóstico de Meteochile para los próximos días."
-    },
-    {
-      "title": "Científicos revelan qué alimentos tienen un compuesto que empeora la inflamación intestinal",
-      "url": "https://www.latercera.com/tendencias/noticia/cientificos-revelan-que-alimentos-tienen-un-compuesto-que-empeora-la-inflamacion-intestinal/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Oct 2026 09:02:00 +0000",
-      "summary": "Una reciente investigación analizó la relación entre algunos alimentos considerados saludables y la inflamación en personas con enfermedad inflamatoria intestinal."
-    },
-    {
-      "title": "Cáncer de mama: cuáles son los síntomas, las señales de alerta y los tratamientos disponibles",
-      "url": "https://www.latercera.com/tendencias/noticia/cancer-de-mama-cuales-son-los-sintomas-las-senales-de-alerta-y-los-tratamientos-disponibles/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Oct 2026 09:01:00 +0000",
-      "summary": "Los investigadores han identificado una serie de factores de riesgo que pueden aumentar las probabilidades de desarrollarlo. El cáncer de mama puede no presentar síntomas en sus etapas iniciales. Es por esto que la realización de controles y exámenes es fundamental para la detección precoz."
-    },
-    {
-      "title": "La Tríada 2026: una mirada a la inteligencia artificial - Universidad de los Andes",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 30 Sep 2026 19:16:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc"
     },
     {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
@@ -59,12 +51,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
     },
     {
-      "title": "De la adopción a la generación de valor: el próximo paso de la Inteligencia Artificial en Chile - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHhDbVZUbG9RSHU2QTA0dFk2UGREV0J6cGJQTjVLbmZ1RUhlc2hlYkxQX1dHVU1tQUwyakRXTzlTd19HTFlsRVoxRTgtbHBlU2RDekZ6WWljSk9jQjhwSmlvV3BHNGt3SE0tSFptMktHaTBVVHN3bFVBRlpUQXBuWWV2NmJiU2tRWS02TFR0blZodHlUbkg4dFNKR0wzZFVBSjZJeUZxQjl4cThsWGFQZzZ4a3lrUDB4T2dOd1dZc3lSZTBhMk5XV0pGSHpyVURHdURMZU9VMl8?oc=5",
+      "title": "La Tríada 2026: una mirada a la inteligencia artificial - Universidad de los Andes",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 05 Oct 2026 14:43:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdHhDbVZUbG9RSHU2QTA0dFk2UGREV0J6cGJQTjVLbmZ1RUhlc2hlYkxQX1dHVU1tQUwyakRXTzlTd19HTFlsRVoxRTgtbHBlU2RDekZ6WWljSk9jQjhwSmlvV3BHNGt3SE0tSFptMktHaTBVVHN3bFVBRlpUQXBuWWV2NmJiU2tRWS02TFR0blZodHlUbkg4dFNKR0wzZFVBSjZJeUZxQjl4cThsWGFQZzZ4a3lrUDB4T2"
+      "published": "Wed, 30 Sep 2026 19:16:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc"
+    },
+    {
+      "title": "Stefanini apunta a acelerar la adopción de IA empresarial tras alianza con Snowflake - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzdBQnRDb1Q2dmdldC1odXlsNUpRWlpsdW41N2ZCcUtYcDhlVmZGRVYzd1pqX2J6YjZfVlpuVWw1LWY2YkhWRS1YajQ1eDJCR0hHWDRCWmtvRWRuTEU0ZGhpcU5OZmNPSFpMQ2wxay0yYjdCMk9qSkZXSGlPVjdDTWFiaGZpdmNtblpRSkJ3Ul9lSWtTU0tiYzdGNFBmU2RWNHRtOEFOcHRhNjc4TWFicE0xbVpZSXNFR1hCbWZFTkpxVms1WkUwaFdVYjBnS3FjY3c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Oct 2026 13:04:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzdBQnRDb1Q2dmdldC1odXlsNUpRWlpsdW41N2ZCcUtYcDhlVmZGRVYzd1pqX2J6YjZfVlpuVWw1LWY2YkhWRS1YajQ1eDJCR0hHWDRCWmtvRWRuTEU0ZGhpcU5OZmNPSFpMQ2wxay0yYjdCMk9qSkZXSGlPVjdDTWFiaGZpdmNtblpRSkJ3Ul9lSWtTU0tiYzdGNFBmU2RWNHRtOEFOcHRhNjc4TWFicE0xbVpZSXNFR1"
+    },
+    {
+      "title": "Santiago Niño Becerra, economista, analiza el impacto de la 'tasa robot' para hacer frente a la IA: \"Inviable\" - MARCA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzhMam80V2dTZDdka3FjRkszM3dyQVlSZEU2RkJmcHRjbUtCWHhGelNCek9ISTlGNW9ZdERrcGRRUV9zT1BxcDhNX1h3dnlBMXhCUmFCSzBnUjkyQ1QzcjRDVVpUMnhaNDBLX1BTTDhNMlVDd29ZQ1ktUUVCTEhQRTlfaXRhR1k5TUxtTXBIQnZ5MVRIdUk0MmdzT3V2UGY3N21yaTVpNFBwWHVWV1JzUUZnT1Nld2E2dXliR0dvMFozR2RTTHBCQ0N1NVQ4NXJhX2fSAdIBQVVfeXFMTjlPYTRzUGRFbHRNb0pfR1pvNkMxQllidlhFeGZFYmJHNFFJN1JmX3F5WFJFWlFRSzZaazBIRFZEdk5ERG1uWkt6dnI4M0ZzcHMxeC1pUm1uazRjMWxLNGRlNVV5NXJjQ1BSUDEzWk5sSkdWQnpmaC05Qko4RXQ0ckJjd0tVblNxZUNuWmp1a3doQ0NIWE1fVnRKTEhiWGY1Rm9ZRTdTV3FFalZ0NmNaZmpzdFl4Qk1CYXdoZ1dYalBSclBoRi1qTzI4bEtzNEdhazdR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Oct 2026 11:11:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzhMam80V2dTZDdka3FjRkszM3dyQVlSZEU2RkJmcHRjbUtCWHhGelNCek9ISTlGNW9ZdERrcGRRUV9zT1BxcDhNX1h3dnlBMXhCUmFCSzBnUjkyQ1QzcjRDVVpUMnhaNDBLX1BTTDhNMlVDd29ZQ1ktUUVCTEhQRTlfaXRhR1k5TUxtTXBIQnZ5MVRIdUk0MmdzT3V2UGY3N21yaTVpNFBwWHVWV1JzUUZnT1Nld2E2dX"
     },
     {
       "title": "Estudiar es desear (una palabra antigua para la Universidad en tiempos de IA): Santiago Jiménez Londoño - El Observatorio de la Universidad Colombiana",
@@ -75,36 +83,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUpBUjN4ZWhNOTF6T3RudGpuSEpfdFpxeVBRVVp3bkRpUzBtUlozcEE2QjM3NVg4c1dONzhrQ0l3UnBYb09HUGQ1LW1UeVNnbFNhN0JNV3JVX1l4emZCQjBRM3pKTTI0b1huekl6Y3VsTlFUb0JoazBBSDdMUU55TlRlMnBobWFTOEIxZEpEM1NtODVwYkRRbFkyU0o3NFhfMUROUnk2SE4tdDBiZVBSM1FHRzZKWEJXNE"
     },
     {
-      "title": "La IA le ahorra tiempo, no le ahorra pensar - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUXM0?oc=5",
+      "title": "Escándalo en la Corte de Santiago: presidenta de la sala pide informe a relator tras bochornoso error por uso de IA en resolución - La Tercera",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc3M4YlN3WnVmV0Y2N2ZrVXd0UXBxTWZwdDJFM25nOVV6UkJockowTGFQbFNBNzJwbWpyTTRybjF6Ukh6Uk9MS3BGODMya3Q0MTRUUEJFa2dMSDJXOGJOYWdLRFRHMDlFZlJPWFZ6NHBralRad1cwMEZpRURvVEtIbVdNTUdCN2I2aGlONnhxWVJxTWV0LW1FWUphYndOV0c0aEhtd0tVaHNqVXp2dDY0RXJrc18xdTlpbXE5a0lWN00xODZweDREYkxtcV9lSUNaaW45alRRNGdEc0o2TzY1ckVfbk5TenlzM0ZEUnBZTXVWYlFf0gGWAkFVX3lxTE42a0RqZVRnNFEwTFFiSkcxMldfVDhQdHVLaF9jeWpjRWp0Zk5Sdk9CdTZGYl9kRmJIQ0t4dTBpUkNhNTJHTlJzWWtBa1NfTEE5M3R4TVVHdWVHZjIwdFVFZ0lWVzlNZGZOR0VSRG9oTEltMGxpZmVMaUdsRTNGUVpKWG9aR3hnUXFtSk9sRUdja1E4ZDQwTmtnbU1MZHZsb185N0dTTGZNNmY5V1NOZjZSLWFXa0I2VDBqWmdLb1Y5OC01NU56T2x4WWJKWWpMeWd3V2VZRi0yZlFIMGR4OV8yMi0zZ1QxNTAzUzFnMWg4eWEwMHl6YkdaelVjajhtVlo1TUEwaXhCTFBtYTdmY1ZOdlFfdHB3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 29 Sep 2026 05:01:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUX"
+      "published": "Wed, 07 Oct 2026 19:00:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc3M4YlN3WnVmV0Y2N2ZrVXd0UXBxTWZwdDJFM25nOVV6UkJockowTGFQbFNBNzJwbWpyTTRybjF6Ukh6Uk9MS3BGODMya3Q0MTRUUEJFa2dMSDJXOGJOYWdLRFRHMDlFZlJPWFZ6NHBralRad1cwMEZpRURvVEtIbVdNTUdCN2I2aGlONnhxWVJxTWV0LW1FWUphYndOV0c0aEhtd0tVaHNqVXp2dDY0RXJrc18xdTlpbX"
     },
     {
-      "title": "Micron recalienta el mercado de la IA con unas previsiones históricas para sus chips - Cinco Días",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTy1qbmFqSVhxcUJsYkMwY0VXd1ZjR2NORDh3dk9XQ1JCekF0ZDRSTnY2WmxWQUF6VUEwNXk3YThPeGdNc2Q5aXZLaHNleURFdk1Lc0xKcWFDUTZjS2RFaDFnMEQzSEM3Ujk0RGhFQ3hrcFFGYUN4T19RQkJNSllCWjZDTWJTNkt0Vy1CNEpTSUtNdmZqOFlBRUVBQWxrUFdtdWp0OTZGRmJENmVRWTBYUE5hcmFGT2p0YXFubkkwcjlFdm13TTVyTkU0QWh6Q2UycXQxVVlR0gHqAUFVX3lxTE04NXEwM0lYUGdFcUlCWFFoVUV0WERUUEw2Rjl0YXJWSng0NWh1R0JPR2NHLU9LSTRjRlZDUjVfU0gtbEN0cTd0cmVpaXZ6Yk04Zmg0Q2tHczBjYTVYT0xtdC1tNWF4THhaTWswbk9RSVZXaWQ2MDFQTDBjZkZlOTVLNF8xaVkxNTB5bXY3aW5DRXdVRWpxdXFmSzAyV0IxNm5IRlphTWQzTXR6N2hzMkZXc3dSLWRWMTZKTHM0OEp0Qm1Ec0xodERucEsxSC1jcU9iODJuaHhPOER4V3h2LXVrUmhlWEhxTDd5UQ?oc=5",
+      "title": "55% de las startups tarda más de un año en llevar su tecnología a una faena minera - Tour Innovación",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWkk2Ng?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 02 Oct 2026 03:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTy1qbmFqSVhxcUJsYkMwY0VXd1ZjR2NORDh3dk9XQ1JCekF0ZDRSTnY2WmxWQUF6VUEwNXk3YThPeGdNc2Q5aXZLaHNleURFdk1Lc0xKcWFDUTZjS2RFaDFnMEQzSEM3Ujk0RGhFQ3hrcFFGYUN4T19RQkJNSllCWjZDTWJTNkt0Vy1CNEpTSUtNdmZqOFlBRUVBQWxrUFdtdWp0OTZGRmJENmVRWTBYUE5hcmFGT2p0YX"
+      "published": "Wed, 07 Oct 2026 10:57:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWk"
     },
     {
-      "title": "Rio Tinto elige 5 startups mineras; una opera en Chile - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWpnbUZOSENRR2RIWWcyNjZHTEVGTEF3WGR1VWpZQURPbFB4U1FJSHcxNzZxWVBuRjhYTFFkMXZKUGpITGlzME9Wb3lWcjB5NGlLYkpHWHg2TlI3WmlGWllxdUFMeUlISDJJSDQ2Z3IwckowUDl4MGNBUUlZdzNZQ21tejRoZWk3Q09kZg?oc=5",
+      "title": "¿Qué revela la adopción de IA en los proyectos de Corfo? - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHE3bnVGSGI0VVZpZEtEVTUtNW93UHNTd1ZTc19XZ0lxX24zT0ZBXzNGbnV2M21sUkViOExYUk1vdThjVXk0V0tld0twM1lKMnlZOHIzYXd2OWVuUjJaZzdOVl9QZTdJOTBPblozVXd3UGNNcWRmMkRIbUVOeGJYbi1fMk8zeW85QzFhT0Fn?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 06 Oct 2026 10:07:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWpnbUZOSENRR2RIWWcyNjZHTEVGTEF3WGR1VWpZQURPbFB4U1FJSHcxNzZxWVBuRjhYTFFkMXZKUGpITGlzME9Wb3lWcjB5NGlLYkpHWHg2TlI3WmlGWllxdUFMeUlISDJJSDQ2Z3IwckowUDl4MGNBUUlZdzNZQ21tejRoZWk3Q09kZg?oc=5\" target=\"_blank\">Rio Tinto elige 5 startups mineras; u"
-    },
-    {
-      "title": "Innovación en minería: 55% de las startups tarda más de un año en ejecutar su primer piloto en faena - Fundación Chile",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXFRZFlPR0NPYmJjQ0QzaUxzbHRJUkRkVnRfQ0lqd2Z2d0VGRWtpMGFvdVV4T3RGaVJHNDJ6bkJueWNENk01NVl2S3dtcnpScHJQemdOTEVmVHVxdjRxYzZfYW9JQjhPWVdvNkRVazJPckRrNl9kZVdJQ2YzTWNHWHFJaExZUld4VmF0bEZyR0lwMl9iY2xobS1fNU5mYkl5Z3VkSFJlNTBaQXRKbVVmZnhhV1Y0Zm85S2w2VGM0Nlc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 30 Sep 2026 19:01:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXFRZFlPR0NPYmJjQ0QzaUxzbHRJUkRkVnRfQ0lqd2Z2d0VGRWtpMGFvdVV4T3RGaVJHNDJ6bkJueWNENk01NVl2S3dtcnpScHJQemdOTEVmVHVxdjRxYzZfYW9JQjhPWVdvNkRVazJPckRrNl9kZVdJQ2YzTWNHWHFJaExZUld4VmF0bEZyR0lwMl9iY2xobS1fNU5mYkl5Z3VkSFJlNTBaQXRKbVVmZnhhV1Y0Zm85S2"
+      "published": "Fri, 02 Oct 2026 17:07:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHE3bnVGSGI0VVZpZEtEVTUtNW93UHNTd1ZTc19XZ0lxX24zT0ZBXzNGbnV2M21sUkViOExYUk1vdThjVXk0V0tld0twM1lKMnlZOHIzYXd2OWVuUjJaZzdOVl9QZTdJOTBPblozVXd3UGNNcWRmMkRIbUVOeGJYbi1fMk8zeW85QzFhT0Fn?oc=5\" target=\"_blank\">¿Qué revela la adopción de IA en lo"
     },
     {
       "title": "Estudio revela barreras críticas para startups tecnológicas en minería chilena - Reporte Minero",
