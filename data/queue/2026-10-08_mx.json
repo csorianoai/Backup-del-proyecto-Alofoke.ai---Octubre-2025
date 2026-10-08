@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-08",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "ChatGPT estrena interfaz visual: qué es Intelligent UI y quiénes pueden usarlo",
+      "url": "https://expansion.mx/tecnologia/2026/10/07/chatgpt-estrena-interfaz-que-es-intelligent-ui",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 18:01:58 GMT",
+      "summary": "OpenAI abandona el formato de solo texto para integrar respuestas con imágenes, tarjetas interactivas y diagramas en tiempo real que se adaptan al tipo de consulta del usuario."
+    },
+    {
+      "title": "Golpe a los centros de datos de Google: gobierno detiene dos de sus grandes obras en Finlandia",
+      "url": "https://expansion.mx/tecnologia/2026/10/07/golpe-a-centros-de-datos-de-google-detienen-obras",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 15:00:13 GMT",
+      "summary": "Las autoridades finlandesas señalaron que los proyectos del gigante tecnológico tendrán un gran impacto en el medio ambiente y por ello los suspendieron hasta terminar las investigaciones al respecto."
+    },
+    {
+      "title": "CFE alerta que tu refrigerador se come 24% de tu recibo de luz, pero reducir consumo te costaría 40,000 pesos con IA",
+      "url": "https://expansion.mx/tecnologia/2026/10/07/refrigerador-ia-ahorro-energia-40000-pesos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 11:55:37 GMT",
+      "summary": "El refrigerador puede representar cerca de una cuarta parte del consumo eléctrico de un hogar. La IA promete reducirlo hasta 15%, pero los modelos inteligentes también son los más costosos."
+    },
+    {
+      "title": "¿Refrigerador con IA o buenos hábitos? Cómo evitar que tu electrodoméstico infle tu recibo de la CFE",
+      "url": "https://expansion.mx/tecnologia/2026/10/07/como-ahorrar-luz-refrigerador-sin-comprar-uno-nuevo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 11:55:31 GMT",
+      "summary": "El electrodoméstico representó 23.74% del consumo detectado en 82,822 diagnósticos de hogares. Su ubicación, limpieza y hábitos de uso pueden hacer la diferencia."
+    },
+    {
+      "title": "Spotify ya tiene audiolibros en México: así puedes acceder a más de 45,000 títulos",
+      "url": "https://expansion.mx/tecnologia/2026/10/07/spotify-ya-tiene-audiolibros-en-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 07 Oct 2026 07:00:19 GMT",
+      "summary": "Spotify inicia su expansión global de audiolibros a más de 180 mercados con la mira puesta en el consumidor mexicano. La plataforma ofrecerá 12 horas mensuales de escucha para usuarios Premium."
+    },
+    {
+      "title": "Shift México busca redefinir la influencia de las marcas con estrategia e inteligencia artificial - produ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFBsRkFvR2xlUi1pYXVCSGl3OEYxSEZVd2hKMkh2MUNCR29PRERVdzJFbk8zN0lJdFBZNU1GZ0tsWWJyei00RHdqaFM4RnNKYXZkSXNiZ2NQR1F0WWVIdTlENTY4VkdzYldYZHJEOFl3UnhWNnc0WW03VUFrZWs4TVJQZ0RjeW11SkZVNFBxRTFMUGkybTAwZ2lTaHFtdWZrX0twUEpvQ3IxRlIzNFNXWkxQZWMxV1hlN3VkWFltdjZqS293SVBhbWxwNTRlY0Q4RlhMTw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Oct 2026 04:03:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFBsRkFvR2xlUi1pYXVCSGl3OEYxSEZVd2hKMkh2MUNCR29PRERVdzJFbk8zN0lJdFBZNU1GZ0tsWWJyei00RHdqaFM4RnNKYXZkSXNiZ2NQR1F0WWVIdTlENTY4VkdzYldYZHJEOFl3UnhWNnc0WW03VUFrZWs4TVJQZ0RjeW11SkZVNFBxRTFMUGkybTAwZ2lTaHFtdWZrX0twUEpvQ3IxRlIzNFNXWkxQZWMxV1hlN3"
+    },
+    {
+      "title": "Inteligencia artificial y lenguas indígenas. Pujx - EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmphbi15Z1gyazVWbXZKeWRYcXRBWG9KQ095VHFCTEJzcWJyb05maUwtbF85aUZVZnhsaVBwandISF9aUDEzTkw5TEdTUkVQbmZUNGo3LW9HWlpqeDF6cllmbzFlSThPU1BDR0F2ZGFzaHVGWGZhMGdub2xsb21DTWQyX3FvSUd6cy12M256UUs1OTN0SnRjdS1HU1Z6d0XSAbMBQVVfeXFMT2VpdnNPRG00UzFCVVdHZkdBNjBfZEdtYzFFQWx5T0pDVmJNSlVYQ3ZuSGpndEVJSkdxOS1IZDU3RjNGeVRzZ193cGVET3ltUG41b25Zb29wQXJ6dnRFZUhqOEtPWm5xcEdqMXExUm80cFZxU2VXWlZrY0lxNnN5ZHpEVldkVUpGQ212UVdjOTVudVNVbFdfbVBZVUJyUG9PWXQ2OTZsdXd3N0xRTm00LXRpa1k?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 06 Oct 2026 18:21:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmphbi15Z1gyazVWbXZKeWRYcXRBWG9KQ095VHFCTEJzcWJyb05maUwtbF85aUZVZnhsaVBwandISF9aUDEzTkw5TEdTUkVQbmZUNGo3LW9HWlpqeDF6cllmbzFlSThPU1BDR0F2ZGFzaHVGWGZhMGdub2xsb21DTWQyX3FvSUd6cy12M256UUs1OTN0SnRjdS1HU1Z6d0XSAbMBQVVfeXFMT2VpdnNPRG00UzFCVVdHZk"
+    },
+    {
+      "title": "México crea una Fábrica de Inteligencia Artificial para digitalizar servicios públicos - Alto Nivel",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUVUNWhKM1Q2TTNENU9qVmJDckpvOXloeWN0cHJYSEE1SXp1ZjlsQ2U0VEpIYzNpdnMzTzNFSWFoRGsxLUl2bEpXR01FNE01SWFIS3J0VGtkQzM2NjFRQnRwTUFKRmJfLWxZcW1tNE1uN3V6TWNfbk5tVDc3dUY2UGFBQ09iWnl0SlczdTVhMTlmSlB6?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Oct 2026 17:12:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUVUNWhKM1Q2TTNENU9qVmJDckpvOXloeWN0cHJYSEE1SXp1ZjlsQ2U0VEpIYzNpdnMzTzNFSWFoRGsxLUl2bEpXR01FNE01SWFIS3J0VGtkQzM2NjFRQnRwTUFKRmJfLWxZcW1tNE1uN3V6TWNfbk5tVDc3dUY2UGFBQ09iWnl0SlczdTVhMTlmSlB6?oc=5\" target=\"_blank\">México crea una Fábrica de "
+    },
+    {
+      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 04 Oct 2026 01:06:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
+    },
+    {
+      "title": "Startups de IA ya son mayoría en primeras rondas; CDMX, segundo hub - Maya Comunicación",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXo2RDU1UzVBZVlQbmJGdlBkeXV5NXNiWnMtOE80T2ZudjF4MlE4MDJmbl80MTU2UUFUdlZTc1JQeXd2MFlxODJsYzVieEVQbEVuVTdLTGZUNHRDaWtQUUVRcWNGaWd3V1ZxVS1WX3hFX1BIbXpDMlpCazlMNWdvdTRLTlBuX1FHTzBKRVJFbUJXcEl2ejBNMkVpUkhzQjQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 03 Oct 2026 22:45:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXo2RDU1UzVBZVlQbmJGdlBkeXV5NXNiWnMtOE80T2ZudjF4MlE4MDJmbl80MTU2UUFUdlZTc1JQeXd2MFlxODJsYzVieEVQbEVuVTdLTGZUNHRDaWtQUUVRcWNGaWd3V1ZxVS1WX3hFX1BIbXpDMlpCazlMNWdvdTRLTlBuX1FHTzBKRVJFbUJXcEl2ejBNMkVpUkhzQjQ?oc=5\" target=\"_blank\">Startups de "
+    },
+    {
+      "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 22:44:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
+    },
+    {
+      "title": "CX Forum Monterrey reúne a líderes de experiencia y tecnología - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWnJleWZqRG9tSTY0WmFrWXNCTkhiM3FfbjhreXZIVDZaT1RmZy1SNkRrbE9NN2lPbTNrZ05sbTJ2VTBCTUdwQ0YyYVhvWHpVNHRZOFhjTlRMcDFiV1VCaTJta3N4RndkWU51VXQ2cjZVa3A3R2U0ZTcwRjA5QjU0XzNkc2htcjRJNnR5LVdNTHlseXU?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 06 Oct 2026 19:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWn"
+    },
+    {
+      "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - PLAYERS of Life",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5\" target=\"_blank\">Organizaciones del Presente: "
+    },
+    {
+      "title": "En alianza con el Tecnológico de Monterrey, la UNESCO avanza en el - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWWcycjVsb212NERQMkE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3JCcU4tak1ZdHQtemR1SDlPNWtDb1JvS2dhUnhka3FYTjhjRnEtb1RHZG1iVVZ6MnFRdHZMRm5DZDJLdjVnYmFOblo0QnZiS1EwZHpwRW5PNXREQnZXV1p5YUs3NmlkNnh0ZW5oSXdtdEZDVXBhRWlBT3RiTzZWSWJ3LWV5bHl5TmZCQ1hvdm9uT1c0TW5YR181R09ER2dDTHZGWWpvY09sa3NDN3ZMRmZsUUtkQ0ZBWW"
+    }
+  ],
+  "count": 14
+}
