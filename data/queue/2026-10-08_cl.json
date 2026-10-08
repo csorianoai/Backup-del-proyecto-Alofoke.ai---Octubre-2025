@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Sigue la lluvia: a qué hora y en qué sectores habrá tormentas eléctricas hoy",
+      "url": "https://www.latercera.com/tendencias/noticia/a-que-hora-y-en-que-sectores-de-chile-habra-tormentas-electricas-hoy/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 09:03:00 +0000",
+      "summary": "Tormentas eléctricas y nuevas lluvias se esperan este jueves 8 en la zona central. Revisa a qué hora comenzaría el evento y los montos previstos."
+    },
+    {
+      "title": "Científicos encuentran un compuesto natural que ayuda a sanar el intestino",
+      "url": "https://www.latercera.com/tendencias/noticia/cientificos-encuentran-un-compuesto-natural-que-ayuda-a-sanar-el-intestino/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 09:02:00 +0000",
+      "summary": "Un estudio identificó a la urolitina A, un compuesto producido por la microbiota intestinal, como posible vía para proteger la mucosa y tratar la EII. Estos son los alimentos que ayudan a generarlo."
+    },
+    {
+      "title": "Las personas con depresión que dejaron de comer estos alimentos lograron reducir sus síntomas, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/las-personas-con-depresion-que-dejaron-de-comer-estos-alimentos-lograron-reducir-sus-sintomas-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 09:01:00 +0000",
+      "summary": "Los participantes experimentaron mejoras de moderadas a significativas en tres indicadores de depresión, tras cambiar su dieta habitual por alimentos más saludables. El trabajo fue dirigido por científicos de la Universidad de California en San Francisco."
+    },
+    {
       "title": "No guardes tu paraguas: a qué hora se reactiva la lluvia hoy en la Región Metropolitana",
       "url": "https://www.latercera.com/tendencias/noticia/no-guardes-tu-paraguas-a-que-hora-se-reactiva-la-lluvia-hoy-en-la-region-metropolitana/",
       "source": "La Tercera Tecnología",
@@ -19,36 +43,12 @@
       "summary": "La lluvia continúa este miércoles en Santiago y la Región Metropolitana, con chubascos, viento y posibles tormentas eléctricas durante la jornada."
     },
     {
-      "title": "4 puntos esenciales que debes saber sobre las enfermedades cardiovasculares, según un cardiólogo",
-      "url": "https://www.latercera.com/tendencias/noticia/4-puntos-esenciales-que-debes-saber-sobre-las-enfermedades-cardiovasculares-segun-un-cardiologo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 07 Oct 2026 09:02:00 +0000",
-      "summary": "El cardiólogo y docente de la Facultad de Medicina Clínica Alemana Universidad del Desarrollo, el Dr. Luis Morales, detalla los hábitos que contribuyen a la salud del corazón y reducen el riesgo de desarrollar este tipo de afecciones."
-    },
-    {
-      "title": "La fruta que podría “remodelar” la microbiota intestinal y favorecer la salud y el metabolismo",
-      "url": "https://www.latercera.com/tendencias/noticia/la-fruta-que-podria-remodelar-la-microbiota-intestinal-y-favorecer-la-salud-y-el-metabolismo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 07 Oct 2026 09:01:00 +0000",
-      "summary": "Una revisión científica analizó cómo los compuestos presentes en una planta (y su fruto) podrían modificar las bacterias intestinales y generar efectos vinculados al metabolismo."
-    },
-    {
-      "title": "Alerta en Santiago: a qué hora comienza la lluvia más intensa en la Región Metropolitana",
-      "url": "https://www.latercera.com/tendencias/noticia/alerta-en-santiago-a-que-hora-comienza-la-lluvia-mas-intensa-en-la-region-metropolitana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 06 Oct 2026 13:45:11 +0000",
-      "summary": "Lluvia, viento y posibles tormentas eléctricas marcarán este martes y miércoles en Santiago. Revisa a qué hora comienza la lluvia y cómo seguirá el pronóstico durante los próximos días."
-    },
-    {
-      "title": "XIV Summit País Digital: Chile ante el momento decisivo de la inteligencia artificial - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2VLOWl2ODFwNHZnMloyamJIb0hidUFPemkzWEJodGNUQUQ3SGFsQXpIaG5VSUU1NHhTeG9HRUJ2Q3AzN2V0MWw1dVVjU2pzR3ZGSmMtMWZHUFBESU03WVd4eGxSOG5BeTlMTjBSVVN5dnRFYWl3SEI4cVRwLW1qT2QxZlIxQ1VzM0J0TlFyQ1dDSUl0YmFFQUpMZTdrUjhiYVNnc2IwcXVRZnZvLVNDdXp6QjVMVFlveVlGaA?oc=5",
+      "title": "Regulación de inteligencia artificial en América Latina: sandbox en Brasil, ley de datos en Chile y el reto transfronterizo en México - LexLatin",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnItX3FsNjlXNlpSN2hqcl9rVU9WNEVzcHM0QjBPWGdINVduOHc1RkljMWhNWEQ0YVF3Z0hmZS1WcUNEYmVGY2dLS1FCelQ4c2pKajBTYm52a0ZKTFdvLWtjN1R4YTl5RzRHcjQ1enIyaWZsTkVyd1pOaEw2THp6ZUV3OVY4anQ1MU9PVWprYS1rcUFfU2h0LWVMRHhhT0NWWlZyTmlTczJaUGl5cU5uM29kM0FhUDNyUEp2c2FRcVM1TlpRa3JNUnlRaWptbWVKS2s2WW1kb0xWVVNmM2FLd0FnZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Oct 2026 20:44:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2VLOWl2ODFwNHZnMloyamJIb0hidUFPemkzWEJodGNUQUQ3SGFsQXpIaG5VSUU1NHhTeG9HRUJ2Q3AzN2V0MWw1dVVjU2pzR3ZGSmMtMWZHUFBESU03WVd4eGxSOG5BeTlMTjBSVVN5dnRFYWl3SEI4cVRwLW1qT2QxZlIxQ1VzM0J0TlFyQ1dDSUl0YmFFQUpMZTdrUjhiYVNnc2IwcXVRZnZvLVNDdXp6QjVMVFlveV"
+      "published": "Thu, 08 Oct 2026 18:29:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnItX3FsNjlXNlpSN2hqcl9rVU9WNEVzcHM0QjBPWGdINVduOHc1RkljMWhNWEQ0YVF3Z0hmZS1WcUNEYmVGY2dLS1FCelQ4c2pKajBTYm52a0ZKTFdvLWtjN1R4YTl5RzRHcjQ1enIyaWZsTkVyd1pOaEw2THp6ZUV3OVY4anQ1MU9PVWprYS1rcUFfU2h0LWVMRHhhT0NWWlZyTmlTczJaUGl5cU5uM29kM0FhUDNyUE"
     },
     {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
@@ -67,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc"
     },
     {
-      "title": "Santiago Niño Becerra, economista, analiza el impacto de la 'tasa robot' para hacer frente a la IA: \"Inviable\" - MARCA",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzhMam80V2dTZDdka3FjRkszM3dyQVlSZEU2RkJmcHRjbUtCWHhGelNCek9ISTlGNW9ZdERrcGRRUV9zT1BxcDhNX1h3dnlBMXhCUmFCSzBnUjkyQ1QzcjRDVVpUMnhaNDBLX1BTTDhNMlVDd29ZQ1ktUUVCTEhQRTlfaXRhR1k5TUxtTXBIQnZ5MVRIdUk0MmdzT3V2UGY3N21yaTVpNFBwWHVWV1JzUUZnT1Nld2E2dXliR0dvMFozR2RTTHBCQ0N1NVQ4NXJhX2fSAdIBQVVfeXFMTjlPYTRzUGRFbHRNb0pfR1pvNkMxQllidlhFeGZFYmJHNFFJN1JmX3F5WFJFWlFRSzZaazBIRFZEdk5ERG1uWkt6dnI4M0ZzcHMxeC1pUm1uazRjMWxLNGRlNVV5NXJjQ1BSUDEzWk5sSkdWQnpmaC05Qko4RXQ0ckJjd0tVblNxZUNuWmp1a3doQ0NIWE1fVnRKTEhiWGY1Rm9ZRTdTV3FFalZ0NmNaZmpzdFl4Qk1CYXdoZ1dYalBSclBoRi1qTzI4bEtzNEdhazdR?oc=5",
+      "title": "Red Hat Summit: Connect 2026 llega a Santiago para situar la soberanía digital y la seguridad en el centro de la estrategia de IA - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi03RWN5ZnpXcEhiQjV6TkVCd0VDRVlGaDlaeThwUF81eklwNjl2TzlERFZ5MXVlUmt5R0FkT1psRm5Va3psaVJteWtOOGxFcU5YVkl5VmlUaWNCM3lHVkRqS3JCRktQanhTSjFhZTZuNG5nMmNtWU9zRUFxM0JJck5YX1ctXzlOQl9SeVMyYk5nbmcyemZJeG40ZFN4X0dBcXZoQ05oM2ZGN29yRFd6VjRRNEgtcDFyVDdkVWtnQ3cxQ0JrYlhXNjRyWW1HV0VpcmJZekdzXzQ4YVBlZDlEdTBoVWFpQk9ZaUlNQXBKM3ZwOUVRQmZN?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Oct 2026 11:11:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzhMam80V2dTZDdka3FjRkszM3dyQVlSZEU2RkJmcHRjbUtCWHhGelNCek9ISTlGNW9ZdERrcGRRUV9zT1BxcDhNX1h3dnlBMXhCUmFCSzBnUjkyQ1QzcjRDVVpUMnhaNDBLX1BTTDhNMlVDd29ZQ1ktUUVCTEhQRTlfaXRhR1k5TUxtTXBIQnZ5MVRIdUk0MmdzT3V2UGY3N21yaTVpNFBwWHVWV1JzUUZnT1Nld2E2dX"
-    },
-    {
-      "title": "Escándalo en la Corte de Santiago: presidenta de la sala pide informe a relator tras bochornoso error por uso de IA en resolución - La Tercera",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc3M4YlN3WnVmV0Y2N2ZrVXd0UXBxTWZwdDJFM25nOVV6UkJockowTGFQbFNBNzJwbWpyTTRybjF6Ukh6Uk9MS3BGODMya3Q0MTRUUEJFa2dMSDJXOGJOYWdLRFRHMDlFZlJPWFZ6NHBralRad1cwMEZpRURvVEtIbVdNTUdCN2I2aGlONnhxWVJxTWV0LW1FWUphYndOV0c0aEhtd0tVaHNqVXp2dDY0RXJrc18xdTlpbXE5a0lWN00xODZweDREYkxtcV9lSUNaaW45alRRNGdEc0o2TzY1ckVfbk5TenlzM0ZEUnBZTXVWYlFf0gGWAkFVX3lxTE42a0RqZVRnNFEwTFFiSkcxMldfVDhQdHVLaF9jeWpjRWp0Zk5Sdk9CdTZGYl9kRmJIQ0t4dTBpUkNhNTJHTlJzWWtBa1NfTEE5M3R4TVVHdWVHZjIwdFVFZ0lWVzlNZGZOR0VSRG9oTEltMGxpZmVMaUdsRTNGUVpKWG9aR3hnUXFtSk9sRUdja1E4ZDQwTmtnbU1MZHZsb185N0dTTGZNNmY5V1NOZjZSLWFXa0I2VDBqWmdLb1Y5OC01NU56T2x4WWJKWWpMeWd3V2VZRi0yZlFIMGR4OV8yMi0zZ1QxNTAzUzFnMWg4eWEwMHl6YkdaelVjajhtVlo1TUEwaXhCTFBtYTdmY1ZOdlFfdHB3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 07 Oct 2026 19:00:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc3M4YlN3WnVmV0Y2N2ZrVXd0UXBxTWZwdDJFM25nOVV6UkJockowTGFQbFNBNzJwbWpyTTRybjF6Ukh6Uk9MS3BGODMya3Q0MTRUUEJFa2dMSDJXOGJOYWdLRFRHMDlFZlJPWFZ6NHBralRad1cwMEZpRURvVEtIbVdNTUdCN2I2aGlONnhxWVJxTWV0LW1FWUphYndOV0c0aEhtd0tVaHNqVXp2dDY0RXJrc18xdTlpbX"
+      "published": "Thu, 08 Oct 2026 18:24:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi03RWN5ZnpXcEhiQjV6TkVCd0VDRVlGaDlaeThwUF81eklwNjl2TzlERFZ5MXVlUmt5R0FkT1psRm5Va3psaVJteWtOOGxFcU5YVkl5VmlUaWNCM3lHVkRqS3JCRktQanhTSjFhZTZuNG5nMmNtWU9zRUFxM0JJck5YX1ctXzlOQl9SeVMyYk5nbmcyemZJeG40ZFN4X0dBcXZoQ05oM2ZGN29yRFd6VjRRNEgtcDFyVD"
     },
     {
       "title": "Estudiar es desear (una palabra antigua para la Universidad en tiempos de IA): Santiago Jiménez Londoño - El Observatorio de la Universidad Colombiana",
@@ -91,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUpBUjN4ZWhNOTF6T3RudGpuSEpfdFpxeVBRVVp3bkRpUzBtUlozcEE2QjM3NVg4c1dONzhrQ0l3UnBYb09HUGQ1LW1UeVNnbFNhN0JNV3JVX1l4emZCQjBRM3pKTTI0b1huekl6Y3VsTlFUb0JoazBBSDdMUU55TlRlMnBobWFTOEIxZEpEM1NtODVwYkRRbFkyU0o3NFhfMUROUnk2SE4tdDBiZVBSM1FHRzZKWEJXNE"
     },
     {
-      "title": "55% de las startups tarda más de un año en llevar su tecnología a una faena minera - Tour Innovación",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWkk2Ng?oc=5",
+      "title": "La IA le ahorra tiempo, no le ahorra pensar - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUXM0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Oct 2026 10:57:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWk"
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUX"
     },
     {
       "title": "Rio Tinto elige 5 startups mineras; una opera en Chile - El Ecosistema Startup",
@@ -105,6 +97,14 @@
       "category": "news",
       "published": "Tue, 06 Oct 2026 10:07:03 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWpnbUZOSENRR2RIWWcyNjZHTEVGTEF3WGR1VWpZQURPbFB4U1FJSHcxNzZxWVBuRjhYTFFkMXZKUGpITGlzME9Wb3lWcjB5NGlLYkpHWHg2TlI3WmlGWllxdUFMeUlISDJJSDQ2Z3IwckowUDl4MGNBUUlZdzNZQ21tejRoZWk3Q09kZg?oc=5\" target=\"_blank\">Rio Tinto elige 5 startups mineras; u"
+    },
+    {
+      "title": "55% de las startups tarda más de un año en llevar su tecnología a una faena minera - Tour Innovación",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWkk2Ng?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Oct 2026 10:57:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWk"
     },
     {
       "title": "Estudio revela barreras críticas para startups tecnológicas en minería chilena - Reporte Minero",
