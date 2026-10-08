@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Para las girlies: así se ve la nueva tarjeta Bip! de Princesa Alba",
+      "url": "https://www.latercera.com/tendencias/noticia/para-las-girlies-asi-se-ve-la-nueva-tarjeta-bip-de-princesa-alba/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 19:40:20 +0000",
+      "summary": "La nueva tarjeta Bip! de Princesa Alba, bautizada como Pinky Bip!, se agotó en pocas horas tras salir a la venta en 10 estaciones del Metro de Santiago."
+    },
+    {
       "title": "Sigue la lluvia: a qué hora y en qué sectores habrá tormentas eléctricas hoy",
       "url": "https://www.latercera.com/tendencias/noticia/a-que-hora-y-en-que-sectores-de-chile-habra-tormentas-electricas-hoy/",
       "source": "La Tercera Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 07 Oct 2026 18:06:44 +0000",
       "summary": "Lluvia y posibles tormentas eléctricas regresan esta tarde a Santiago. Además, no se descartan chubascos durante los próximos días."
-    },
-    {
-      "title": "Continúa la lluvia: qué efectos provocará el sistema frontal hoy en la Región Metropolitana",
-      "url": "https://www.latercera.com/tendencias/noticia/continua-la-lluvia-que-efectos-provocara-el-sistema-frontal-hoy-en-la-region-metropolitana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Wed, 07 Oct 2026 09:03:00 +0000",
-      "summary": "La lluvia continúa este miércoles en Santiago y la Región Metropolitana, con chubascos, viento y posibles tormentas eléctricas durante la jornada."
     },
     {
       "title": "Regulación de inteligencia artificial en América Latina: sandbox en Brasil, ley de datos en Chile y el reto transfronterizo en México - LexLatin",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWpnbUZOSENRR2RIWWcyNjZHTEVGTEF3WGR1VWpZQURPbFB4U1FJSHcxNzZxWVBuRjhYTFFkMXZKUGpITGlzME9Wb3lWcjB5NGlLYkpHWHg2TlI3WmlGWllxdUFMeUlISDJJSDQ2Z3IwckowUDl4MGNBUUlZdzNZQ21tejRoZWk3Q09kZg?oc=5\" target=\"_blank\">Rio Tinto elige 5 startups mineras; u"
     },
     {
-      "title": "55% de las startups tarda más de un año en llevar su tecnología a una faena minera - Tour Innovación",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWkk2Ng?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 07 Oct 2026 10:57:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWk"
-    },
-    {
       "title": "Estudio revela barreras críticas para startups tecnológicas en minería chilena - Reporte Minero",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTBQV3ZZZ21EZVQ5UmhaQmRmMHlYaFJ4UjlJdm84bmVHTVBMVUE5UThTdEZvd2F3a05SaU9uWWlER1J4dHNKLW1PMUU2bXJMRXJnbkhlZ2xuZXNFTmNFSnZTN0l3M0pvaS12UVd1enh2aHYxWFhyajc1MG5BOUJZRWFwTXNwd2p5QjFSMjQ5N1dmOU4xRE9fZ3hjbElNWDlvZVRqWmw4Mnc2VFBf?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 28 Sep 2026 14:44:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTBQV3ZZZ21EZVQ5UmhaQmRmMHlYaFJ4UjlJdm84bmVHTVBMVUE5UThTdEZvd2F3a05SaU9uWWlER1J4dHNKLW1PMUU2bXJMRXJnbkhlZ2xuZXNFTmNFSnZTN0l3M0pvaS12UVd1enh2aHYxWFhyajc1MG5BOUJZRWFwTXNwd2p5QjFSMjQ5N1dmOU4xRE9fZ3hjbElNWDlvZVRqWmw4Mnc2VFBf?oc=5\" target=\"_bl"
+    },
+    {
+      "title": "55% de las startups tarda más de un año en llevar su tecnología a una faena minera - Tour Innovación",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWkk2Ng?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 07 Oct 2026 10:57:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWk"
     }
   ],
   "count": 14
