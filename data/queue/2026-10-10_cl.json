@@ -3,6 +3,22 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Un octubre histórico: los récords de lluvia que ha dejado el paso del sistema frontal",
+      "url": "https://www.latercera.com/tendencias/noticia/un-octubre-historico-los-records-de-lluvia-que-ha-dejado-el-paso-del-sistema-frontal/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 10 Oct 2026 12:02:00 +0000",
+      "summary": "La Dirección Meteorológica de Chile reveló cifras históricas de la cantidad de precipitaciones caídas en 24 horas para el mes de octubre en dos regiones del país."
+    },
+    {
+      "title": "Estos son los trastornos que están relacionados con un envejecimiento cerebral más rápido, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/estos-son-los-trastornos-que-estan-relacionados-con-un-envejecimiento-cerebral-mas-rapido-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 10 Oct 2026 12:01:00 +0000",
+      "summary": "A partir de imágenes de resonancia magnética, los investigadores estimaron y compararon la edad cerebral de miles de personas con su edad biológica para sacar conclusiones."
+    },
+    {
       "title": "Así se genera un flash flood, el fenómeno que provocó el aluvión en Las Condes",
       "url": "https://www.latercera.com/tendencias/noticia/asi-se-genera-un-flash-flood-el-fenomeno-que-provoco-el-aluvion-en-las-condes/",
       "source": "La Tercera Tecnología",
@@ -27,30 +43,6 @@
       "summary": "El pronóstico anticipa nuevas precipitaciones y posibles tormentas eléctricas para este viernes 9 de octubre en sectores de Santiago y la zona central. Revisa dónde lloverá."
     },
     {
-      "title": "Un fármaco ya aprobado por la FDA podría revertir el daño de la osteoartritis, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/un-farmaco-ya-aprobado-por-la-fda-podria-revertir-el-dano-de-la-osteoartritis-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Oct 2026 09:02:00 +0000",
-      "summary": "Un estudio de Yale analizó el potencial de un fármaco que ya fue aprobado por la FDA, como posible tratamiento para la osteoartritis. No solo reduciría sus síntomas, sino que también revertiría el daño."
-    },
-    {
-      "title": "¿Las bebidas light o zero son igual de eficaces que el agua para bajar de peso? Esto dice un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/las-bebidas-light-o-zero-son-igual-de-eficaces-que-el-agua-para-bajar-de-peso-esto-dice-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Oct 2026 09:01:00 +0000",
-      "summary": "Un estudio de 104 semanas comparó cómo afectaba tomar solo agua y bebidas light o zero en personas con sobrepeso u obesidad que querían adelgazar. Estos fueron los resultados que obtuvieron."
-    },
-    {
-      "title": "Inteligencia artificial y centros de datos de alta densidad marcan la agenda tecnológica de las empresas en Chile - Revista Gerencia",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWExsZ2NSd001XzRWdkZnRl8tOC1IN2UyS3hUVXItTGQ1UldoRHVxVjJqbDEwLXpqd1otTThTRG9uZ2xFTDdVOU0zOTVraV9EdVZtZHZwYkNFRXdkS3A3dVRPWFlLZlB3ZFp1dl9manRWU1ZCV19XWDNjQjNUbUxjb0V4UjRja2h1VGpZR2Q4ZkJzTWF2VENYRmhqcGotNnU3RXAwV3FRdVVHMHNLS3JGTUw2LTlfWEVsRGJzbXg3TUZvenFIakktU3U2bDRvVWJ5SU5JV1AyYWl4Z2g2eWtFYXZyZzVXV2FNWEdXT2VrR0xsdUE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 09 Oct 2026 18:19:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWExsZ2NSd001XzRWdkZnRl8tOC1IN2UyS3hUVXItTGQ1UldoRHVxVjJqbDEwLXpqd1otTThTRG9uZ2xFTDdVOU0zOTVraV9EdVZtZHZwYkNFRXdkS3A3dVRPWFlLZlB3ZFp1dl9manRWU1ZCV19XWDNjQjNUbUxjb0V4UjRja2h1VGpZR2Q4ZkJzTWF2VENYRmhqcGotNnU3RXAwV3FRdVVHMHNLS3JGTUw2LTlfWEVsRG"
-    },
-    {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
       "source": "Google News",
@@ -67,28 +59,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc"
     },
     {
+      "title": "Regulación de inteligencia artificial en América Latina: sandbox en Brasil, ley de datos en Chile y el reto transfronterizo en México - LexLatin",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnItX3FsNjlXNlpSN2hqcl9rVU9WNEVzcHM0QjBPWGdINVduOHc1RkljMWhNWEQ0YVF3Z0hmZS1WcUNEYmVGY2dLS1FCelQ4c2pKajBTYm52a0ZKTFdvLWtjN1R4YTl5RzRHcjQ1enIyaWZsTkVyd1pOaEw2THp6ZUV3OVY4anQ1MU9PVWprYS1rcUFfU2h0LWVMRHhhT0NWWlZyTmlTczJaUGl5cU5uM29kM0FhUDNyUEp2c2FRcVM1TlpRa3JNUnlRaWptbWVKS2s2WW1kb0xWVVNmM2FLd0FnZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 08 Oct 2026 18:29:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnItX3FsNjlXNlpSN2hqcl9rVU9WNEVzcHM0QjBPWGdINVduOHc1RkljMWhNWEQ0YVF3Z0hmZS1WcUNEYmVGY2dLS1FCelQ4c2pKajBTYm52a0ZKTFdvLWtjN1R4YTl5RzRHcjQ1enIyaWZsTkVyd1pOaEw2THp6ZUV3OVY4anQ1MU9PVWprYS1rcUFfU2h0LWVMRHhhT0NWWlZyTmlTczJaUGl5cU5uM29kM0FhUDNyUE"
+    },
+    {
+      "title": "Quién es Santiago Braña, el ingeniero argentino que busca llevar la IA al mundo físico por medio de la robótica - La 100",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnpCckZDUmZtTmY2UUpoTy0zMnd1RWJETXQzRnR2eXlzbXR2dEh1V2VkWVAwS0NTUXpfc0dGVGd6U1ZZVG5PQmhUcFVNeklJbVRnQ2hLa3htcmliazdZZUQtR29KRTFFV3VoaTY1Ml9HaTVMUzJLX0J2SkViSXNRVE14OUthdFc3M1VhRmpsME5hMGlKNzZxZE9peGgxbWR5RlFVc3VKVEJ5VUJaWVdub1JnMFZIeUJXRlk4dGtnUDFvdzBBdVNLR0lHVnNzbW5raVo1bldfbDl1S3lUdHlWZ2FpLVdSdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 10 Oct 2026 16:32:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnpCckZDUmZtTmY2UUpoTy0zMnd1RWJETXQzRnR2eXlzbXR2dEh1V2VkWVAwS0NTUXpfc0dGVGd6U1ZZVG5PQmhUcFVNeklJbVRnQ2hLa3htcmliazdZZUQtR29KRTFFV3VoaTY1Ml9HaTVMUzJLX0J2SkViSXNRVE14OUthdFc3M1VhRmpsME5hMGlKNzZxZE9peGgxbWR5RlFVc3VKVEJ5VUJaWVdub1JnMFZIeUJXRl"
+    },
+    {
+      "title": "Estudiar es desear (una palabra antigua para la Universidad en tiempos de IA): Santiago Jiménez Londoño - El Observatorio de la Universidad Colombiana",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUpBUjN4ZWhNOTF6T3RudGpuSEpfdFpxeVBRVVp3bkRpUzBtUlozcEE2QjM3NVg4c1dONzhrQ0l3UnBYb09HUGQ1LW1UeVNnbFNhN0JNV3JVX1l4emZCQjBRM3pKTTI0b1huekl6Y3VsTlFUb0JoazBBSDdMUU55TlRlMnBobWFTOEIxZEpEM1NtODVwYkRRbFkyU0o3NFhfMUROUnk2SE4tdDBiZVBSM1FHRzZKWEJXNE43Qnh6REhaNGphNGxsdng5WEo?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUpBUjN4ZWhNOTF6T3RudGpuSEpfdFpxeVBRVVp3bkRpUzBtUlozcEE2QjM3NVg4c1dONzhrQ0l3UnBYb09HUGQ1LW1UeVNnbFNhN0JNV3JVX1l4emZCQjBRM3pKTTI0b1huekl6Y3VsTlFUb0JoazBBSDdMUU55TlRlMnBobWFTOEIxZEpEM1NtODVwYkRRbFkyU0o3NFhfMUROUnk2SE4tdDBiZVBSM1FHRzZKWEJXNE"
+    },
+    {
       "title": "La IA le ahorra tiempo, no le ahorra pensar - LaRepublica.co",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUXM0?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 29 Sep 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUX"
-    },
-    {
-      "title": "Red Hat Summit: Connect 2026 llega a Santiago para situar la soberanía digital y la seguridad en el centro de la estrategia de IA - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi03RWN5ZnpXcEhiQjV6TkVCd0VDRVlGaDlaeThwUF81eklwNjl2TzlERFZ5MXVlUmt5R0FkT1psRm5Va3psaVJteWtOOGxFcU5YVkl5VmlUaWNCM3lHVkRqS3JCRktQanhTSjFhZTZuNG5nMmNtWU9zRUFxM0JJck5YX1ctXzlOQl9SeVMyYk5nbmcyemZJeG40ZFN4X0dBcXZoQ05oM2ZGN29yRFd6VjRRNEgtcDFyVDdkVWtnQ3cxQ0JrYlhXNjRyWW1HV0VpcmJZekdzXzQ4YVBlZDlEdTBoVWFpQk9ZaUlNQXBKM3ZwOUVRQmZN?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 09 Oct 2026 00:24:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi03RWN5ZnpXcEhiQjV6TkVCd0VDRVlGaDlaeThwUF81eklwNjl2TzlERFZ5MXVlUmt5R0FkT1psRm5Va3psaVJteWtOOGxFcU5YVkl5VmlUaWNCM3lHVkRqS3JCRktQanhTSjFhZTZuNG5nMmNtWU9zRUFxM0JJck5YX1ctXzlOQl9SeVMyYk5nbmcyemZJeG40ZFN4X0dBcXZoQ05oM2ZGN29yRFd6VjRRNEgtcDFyVD"
-    },
-    {
-      "title": "Santiago Siri: \"La inteligencia artificial traerá nuevos picos de creatividad humana\" - Cadena 3 Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2hWeWtGNktocHpBRWRaTTBoal9ZOVVGNzhRSHVOODlKZW5VWGxjRjRwTGVxbTU3cl9MM2p1TUVBeEZSNUx4Y1BDMGdDRWtaQndORllYWUJNU3RraHlUZDZRQ0liSW9xVzdfbHA1RTVqMExlQTFZSHJjOW5ZRFdmOVBraVJydzRxaldWdDlMMk1adzlhS1BRWm1xQzdTUzdJcGF6dGMxWEU4QWRnYUZVNVlrZ09GcjdzRUpFR0wwank0TzB4N1lQemlFNU4wYmI0Y1pxdDNZWEJCTHAwbWxlLWNuOFpkUHlSU0E?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 09 Oct 2026 22:53:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT2hWeWtGNktocHpBRWRaTTBoal9ZOVVGNzhRSHVOODlKZW5VWGxjRjRwTGVxbTU3cl9MM2p1TUVBeEZSNUx4Y1BDMGdDRWtaQndORllYWUJNU3RraHlUZDZRQ0liSW9xVzdfbHA1RTVqMExlQTFZSHJjOW5ZRFdmOVBraVJydzRxaldWdDlMMk1adzlhS1BRWm1xQzdTUzdJcGF6dGMxWEU4QWRnYUZVNVlrZ09GcjdzRU"
     },
     {
       "title": "Innaqua LAB lleva su tecnología DAL a pisciculturas chilenas - El Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXFRZFlPR0NPYmJjQ0QzaUxzbHRJUkRkVnRfQ0lqd2Z2d0VGRWtpMGFvdVV4T3RGaVJHNDJ6bkJueWNENk01NVl2S3dtcnpScHJQemdOTEVmVHVxdjRxYzZfYW9JQjhPWVdvNkRVazJPckRrNl9kZVdJQ2YzTWNHWHFJaExZUld4VmF0bEZyR0lwMl9iY2xobS1fNU5mYkl5Z3VkSFJlNTBaQXRKbVVmZnhhV1Y0Zm85S2"
     },
     {
-      "title": "55% de las startups tarda más de un año en llevar su tecnología a una faena minera - Tour Innovación",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWkk2Ng?oc=5",
+      "title": "Estudio revela barreras críticas para startups tecnológicas en minería chilena - Reporte Minero",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTBQV3ZZZ21EZVQ5UmhaQmRmMHlYaFJ4UjlJdm84bmVHTVBMVUE5UThTdEZvd2F3a05SaU9uWWlER1J4dHNKLW1PMUU2bXJMRXJnbkhlZ2xuZXNFTmNFSnZTN0l3M0pvaS12UVd1enh2aHYxWFhyajc1MG5BOUJZRWFwTXNwd2p5QjFSMjQ5N1dmOU4xRE9fZ3hjbElNWDlvZVRqWmw4Mnc2VFBf?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Oct 2026 10:57:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2dnVzExR3pYeXFTajFsbFR6cWVFdWlFYVY1ajNFbloyRmVURkE4N0FLOHBxODNoNFNrSjB3eEVWWTVZdUtDNDI1ek5yV3BJTWczMlNuT0Y2V2ZxZzhpOWhFcXIyZ1RHVU9RVXphMnQxeUpQb2hIckhLMGw0SlRDLUp2RmRRQUxjWkxSaVFkRjVHRWJRM1REd2s2S2Jhb1JRb0RpNGlCTHdIWEYzM0d6aVc2Rnh1WllKWk"
+      "published": "Mon, 28 Sep 2026 14:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTBQV3ZZZ21EZVQ5UmhaQmRmMHlYaFJ4UjlJdm84bmVHTVBMVUE5UThTdEZvd2F3a05SaU9uWWlER1J4dHNKLW1PMUU2bXJMRXJnbkhlZ2xuZXNFTmNFSnZTN0l3M0pvaS12UVd1enh2aHYxWFhyajc1MG5BOUJZRWFwTXNwd2p5QjFSMjQ5N1dmOU4xRE9fZ3hjbElNWDlvZVRqWmw4Mnc2VFBf?oc=5\" target=\"_bl"
     }
   ],
   "count": 14
