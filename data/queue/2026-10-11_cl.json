@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Por qué el entrenamiento de fuerza es clave para un envejecimiento saludable, según investigaciones",
+      "url": "https://www.latercera.com/tendencias/noticia/por-que-el-entrenamiento-de-fuerza-es-clave-para-un-envejecimiento-saludable-segun-investigaciones/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sun, 11 Oct 2026 12:02:00 +0000",
+      "summary": "Mientras actividades como caminar o andar en bicicleta mejoran principalmente la capacidad cardiorrespiratoria, otras son más eficaces para fortalecer los músculos. El investigador de la Universidad de Newcastle, Christopher Hurst, detalló una serie de puntos que se deben considerar."
+    },
+    {
+      "title": "Cómo las bacterias “entrenan” al intestino para combatir la inflamación",
+      "url": "https://www.latercera.com/tendencias/noticia/como-las-bacterias-entrenan-al-intestino-para-combatir-la-inflamacion/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sun, 11 Oct 2026 12:01:00 +0000",
+      "summary": "La investigación fue realizada por científicos de Northwestern Medicine. Sostiene que un compuesto que se genera cuando las bacterias intestinales descomponen la fibra dietética podría dejar una \"memoria\" protectora en el intestino."
+    },
+    {
+      "title": "Vivianne Dietz es la nueva embajadora de Dior Beauty en Chile tras su paso por Paris Fashion Week",
+      "url": "https://www.latercera.com/tendencias/noticia/vivianne-dietz-es-la-nueva-embajadora-de-dior-beauty-en-chile-tras-su-paso-por-paris-fashion-week/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sun, 11 Oct 2026 05:29:19 +0000",
+      "summary": "La actriz chilena se incorpora a la reconocida casa francesa de lujo, después de participar en la Semana de la Moda de París y del estreno de la serie Catedrales en Prime Video."
+    },
+    {
       "title": "Un octubre histórico: los récords de lluvia que ha dejado el paso del sistema frontal",
       "url": "https://www.latercera.com/tendencias/noticia/un-octubre-historico-los-records-de-lluvia-que-ha-dejado-el-paso-del-sistema-frontal/",
       "source": "La Tercera Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Sat, 10 Oct 2026 12:01:00 +0000",
       "summary": "A partir de imágenes de resonancia magnética, los investigadores estimaron y compararon la edad cerebral de miles de personas con su edad biológica para sacar conclusiones."
-    },
-    {
-      "title": "Así se genera un flash flood, el fenómeno que provocó el aluvión en Las Condes",
-      "url": "https://www.latercera.com/tendencias/noticia/asi-se-genera-un-flash-flood-el-fenomeno-que-provoco-el-aluvion-en-las-condes/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Oct 2026 15:54:18 +0000",
-      "summary": "El aluvión de San Carlos de Apoquindo arrastró autos, buses y grandes rocas. Un geofísico explica cómo se formó este fenómeno y qué factores influyeron."
-    },
-    {
-      "title": "Tras el aluvión: habrá una breve pausa de las lluvias pero meteorólogos advierten su regreso la próxima semana",
-      "url": "https://www.latercera.com/tendencias/noticia/tras-el-aluvion-habra-una-breve-pausa-de-las-lluvias-pero-meteorologos-advierten-su-regreso-la-proxima-semana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Oct 2026 13:53:13 +0000",
-      "summary": "Después del aluvión que dejó estragos en Las Condes, revisa cuándo volverá la lluvia a la Región Metropolitana, qué días podrían registrarse precipitaciones y qué advierten los meteorólogos."
-    },
-    {
-      "title": "Continúa la lluvia hoy en algunos sectores de Santiago, Valparaíso, Coquimbo y O’Higgins",
-      "url": "https://www.latercera.com/tendencias/noticia/de-nuevo-no-guardes-tu-paraguas-que-sectores-de-santiago-valparaiso-coquimbo-y-ohiggins-tendran-lluvia-hoy/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Oct 2026 09:03:00 +0000",
-      "summary": "El pronóstico anticipa nuevas precipitaciones y posibles tormentas eléctricas para este viernes 9 de octubre en sectores de Santiago y la zona central. Revisa dónde lloverá."
     },
     {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc"
     },
     {
-      "title": "Instituto Cervantes pide supervisar la IA para preservar un español diverso - Hispanos Press",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHJURjFrQlVsdWYwZUtmNDRuU1hISTMwUUR6ejhrWkNrSC1INDhJY0MzV2JNdUdWaWRBWUt1cWl3OUlEZHFmeVllN0tjNmh3UHNIaVVVMFpLbkJLcmNlMkFONFR3dG5oam9xLUItU012WWhLbF9IaU9TZFRqNkhfdWl2bFbSAYoBQVVfeXFMTnduSUo5MDkzdzcxeko0TzZzTFdGQ3hsYUxRaElZM01uaWVBcDVTTFpUNXM1OUZyRTJCR1NUYnNNSHRKUkRmSE5NQ3RnMjNfSUluZmFPTjBPV0NrdDRSVXRMWjVrdV8xOVpkMVVkdFphSWRPcTROSzJmOFJOU095MURoVXg1WlBFLUNR?oc=5",
+      "title": "Regulación de inteligencia artificial en América Latina: sandbox en Brasil, ley de datos en Chile y el reto transfronterizo en México - LexLatin",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnItX3FsNjlXNlpSN2hqcl9rVU9WNEVzcHM0QjBPWGdINVduOHc1RkljMWhNWEQ0YVF3Z0hmZS1WcUNEYmVGY2dLS1FCelQ4c2pKajBTYm52a0ZKTFdvLWtjN1R4YTl5RzRHcjQ1enIyaWZsTkVyd1pOaEw2THp6ZUV3OVY4anQ1MU9PVWprYS1rcUFfU2h0LWVMRHhhT0NWWlZyTmlTczJaUGl5cU5uM29kM0FhUDNyUEp2c2FRcVM1TlpRa3JNUnlRaWptbWVKS2s2WW1kb0xWVVNmM2FLd0FnZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 10 Oct 2026 19:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHJURjFrQlVsdWYwZUtmNDRuU1hISTMwUUR6ejhrWkNrSC1INDhJY0MzV2JNdUdWaWRBWUt1cWl3OUlEZHFmeVllN0tjNmh3UHNIaVVVMFpLbkJLcmNlMkFONFR3dG5oam9xLUItU012WWhLbF9IaU9TZFRqNkhfdWl2bFbSAYoBQVVfeXFMTnduSUo5MDkzdzcxeko0TzZzTFdGQ3hsYUxRaElZM01uaWVBcDVTTFpUNX"
-    },
-    {
-      "title": "Quién es Santiago Braña, el ingeniero argentino que busca llevar la IA al mundo físico por medio de la robótica - La 100",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnpCckZDUmZtTmY2UUpoTy0zMnd1RWJETXQzRnR2eXlzbXR2dEh1V2VkWVAwS0NTUXpfc0dGVGd6U1ZZVG5PQmhUcFVNeklJbVRnQ2hLa3htcmliazdZZUQtR29KRTFFV3VoaTY1Ml9HaTVMUzJLX0J2SkViSXNRVE14OUthdFc3M1VhRmpsME5hMGlKNzZxZE9peGgxbWR5RlFVc3VKVEJ5VUJaWVdub1JnMFZIeUJXRlk4dGtnUDFvdzBBdVNLR0lHVnNzbW5raVo1bldfbDl1S3lUdHlWZ2FpLVdSdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 10 Oct 2026 16:32:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdnpCckZDUmZtTmY2UUpoTy0zMnd1RWJETXQzRnR2eXlzbXR2dEh1V2VkWVAwS0NTUXpfc0dGVGd6U1ZZVG5PQmhUcFVNeklJbVRnQ2hLa3htcmliazdZZUQtR29KRTFFV3VoaTY1Ml9HaTVMUzJLX0J2SkViSXNRVE14OUthdFc3M1VhRmpsME5hMGlKNzZxZE9peGgxbWR5RlFVc3VKVEJ5VUJaWVdub1JnMFZIeUJXRl"
+      "published": "Thu, 08 Oct 2026 18:29:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnItX3FsNjlXNlpSN2hqcl9rVU9WNEVzcHM0QjBPWGdINVduOHc1RkljMWhNWEQ0YVF3Z0hmZS1WcUNEYmVGY2dLS1FCelQ4c2pKajBTYm52a0ZKTFdvLWtjN1R4YTl5RzRHcjQ1enIyaWZsTkVyd1pOaEw2THp6ZUV3OVY4anQ1MU9PVWprYS1rcUFfU2h0LWVMRHhhT0NWWlZyTmlTczJaUGl5cU5uM29kM0FhUDNyUE"
     },
     {
       "title": "Estudiar es desear (una palabra antigua para la Universidad en tiempos de IA): Santiago Jiménez Londoño - El Observatorio de la Universidad Colombiana",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Tue, 29 Sep 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkV2WlVyS0RWMmZuc0pYWHBBdGo1VFJfV1REV1owTWhHaG03MWpSS3BNNnJiMmt4dm9aWVoxaWhvOG1tcjZWbFNmWnA4U0xDa0N3X19OVlhCcjRNa0lZTGZGSDAzd1NNNURQWVRPcWJPOUZjbkw4aUFtQnpCV0pYTk9CV29MZGxsQTlGUTAwbGluYTRXb3pubTJPVXhuRlpJV2tVTWxPNXQ2bE5uckZ5VzZzdVBwQ1ZpUX"
+    },
+    {
+      "title": "Red Hat Summit: Connect 2026 llega a Santiago para situar la soberanía digital y la seguridad en el centro de la estrategia de IA - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi03RWN5ZnpXcEhiQjV6TkVCd0VDRVlGaDlaeThwUF81eklwNjl2TzlERFZ5MXVlUmt5R0FkT1psRm5Va3psaVJteWtOOGxFcU5YVkl5VmlUaWNCM3lHVkRqS3JCRktQanhTSjFhZTZuNG5nMmNtWU9zRUFxM0JJck5YX1ctXzlOQl9SeVMyYk5nbmcyemZJeG40ZFN4X0dBcXZoQ05oM2ZGN29yRFd6VjRRNEgtcDFyVDdkVWtnQ3cxQ0JrYlhXNjRyWW1HV0VpcmJZekdzXzQ4YVBlZDlEdTBoVWFpQk9ZaUlNQXBKM3ZwOUVRQmZN?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 09 Oct 2026 00:24:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYi03RWN5ZnpXcEhiQjV6TkVCd0VDRVlGaDlaeThwUF81eklwNjl2TzlERFZ5MXVlUmt5R0FkT1psRm5Va3psaVJteWtOOGxFcU5YVkl5VmlUaWNCM3lHVkRqS3JCRktQanhTSjFhZTZuNG5nMmNtWU9zRUFxM0JJck5YX1ctXzlOQl9SeVMyYk5nbmcyemZJeG40ZFN4X0dBcXZoQ05oM2ZGN29yRFd6VjRRNEgtcDFyVD"
     },
     {
       "title": "Innaqua LAB lleva su tecnología DAL a pisciculturas chilenas - El Ecosistema Startup",
