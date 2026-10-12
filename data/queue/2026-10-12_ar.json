@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Hackers atacaron supermercados en Francia y llevaron las heladeras a 50 grados: hubo incendios y pérdidas de alimentos",
+      "url": "https://www.clarin.com/tecnologia/hackers-atacaron-supermercados-francia-llevaron-heladeras-50-grados-incendios-perdidas-alimentos_0_SJ5fjZuGbz.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Oct 2026 17:17:55 +0000",
+      "summary": "<ul><li>Un ciberataque afectó los sistemas de refrigeración conectados de cientos de supermercados franceses.</li><li>En unos 150 locales de Intermarché, las heladeras llegaron a 50 grados durante seis horas y debieron desechar todos los alimentos.</li><li>En Países Bajos hubo ataques similares.</li"
+    },
+    {
+      "title": "Chema Alonso: “Hoy tenemos una internet doble, una para humanos y otra para agentes de inteligencia artificial”",
+      "url": "https://www.clarin.com/tecnologia/chema-alonso-hoy-internet-doble-humanos-agentes-inteligencia-artificial_0_yMnyUIm8Xn.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Oct 2026 09:00:24 +0000",
+      "summary": "<ul><li>El hacker español advierte que los agentes de IA están cambiando la economía de la web, con más tráfico automatizado y menos visitas para los sitios que producen contenido.</li><li>También analizó los hackeos protagonizados por agentes de IA, el caso Hugging Face y el temor a un escenario “S"
+    },
+    {
       "title": "Estaciones de servicio espaciales: el próximo desafío para conquistar el sistema solar empezaría en una luna helada de Saturno",
       "url": "https://www.clarin.com/tecnologia/estaciones-servicio-espaciales-proximo-desafio-conquistar-sistema-solar-empezaria-luna-helada-saturno_0_7IpfTd4QBn.html",
       "source": "Clarín Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Sat, 10 Oct 2026 09:01:56 +0000",
       "summary": "<ul><li>Relojes, colgantes y botones SOS pueden reconocer un golpe y enviar una alerta. </li><li>Hay modelos con GPS, conexión 4G y llamadas sin depender del celular. </li><li>Cuánto cuestan y qué hay que mirar antes de elegir uno.</li></ul>"
-    },
-    {
-      "title": "Una falla grave obliga a Apple a reemplazar unidades del iPhone 18 Pro Max, su último modelo premium",
-      "url": "https://www.clarin.com/tecnologia/falla-grave-obliga-apple-reemplazar-unidades-iphone-18-pro-max-ultimo-modelo-premium_0_0KC2l4OqYc.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 09 Oct 2026 08:45:39 +0000",
-      "summary": "<ul><li>Los reclamos por ahora se concentran en Estados Unidos, entre clientes de un proveedor de telefonía móvil. </li><li>Qué deben tener en cuenta los argentinos que compran durante un viaje.</li></ul>"
-    },
-    {
-      "title": "El negocio de las estafas \"a la carta\": así se venden y alquilan servicios listos para engañar argentinos",
-      "url": "https://www.clarin.com/tecnologia/negocio-estafas-carta-venden-alquilan-servicios-listos-enganar-argentinos_0_1A9gd5vwgZ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Oct 2026 08:45:22 +0000",
-      "summary": "<ul><li>Una investigación detectó plataformas que venden phishing y fraudes con IA adaptados a América Latina.</li><li>Argentina concentró el 14,3% de las operaciones latinoamericanas rastreadas en la muestra, con páginas falsas que imitan servicios locales como Mercado Pago.</li><li>Un hacker prese"
     },
     {
       "title": "La oportunidad argentina en la era de la inteligencia artificial - Infobae",

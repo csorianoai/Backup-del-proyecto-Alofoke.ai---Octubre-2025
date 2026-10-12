@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Hay más empleos para programadores, pero la IA complica el camino a los jóvenes",
+      "url": "https://expansion.mx/tecnologia/2026/10/12/ia-empleo-programadores-experiencia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Oct 2026 16:30:20 GMT",
+      "summary": "Las vacantes para desarrolladores de software en Estados Unidos aumentaron 15% desde febrero de 2025, aunque las oportunidades se concentran en perfiles con experiencia y conocimientos de IA."
+    },
+    {
+      "title": "¿Tu hijo tiene TDAH? Esta startup mexicana busca adaptar las clases a sus necesidades",
+      "url": "https://expansion.mx/tecnologia/2026/10/12/ia-educacion-startup-mexicana-emmi",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Oct 2026 11:55:35 GMT",
+      "summary": "La EdTech mexicana Emmi utiliza IA para personalizar las actividades de alumnos de preescolar y primaria. La empresa llega a más de 12,000 niños y busca reducir la carga administrativa de los docentes."
+    },
+    {
       "title": "EU suspende a Microsoft y Adobe visas de trabajo para extranjeros y las acusa de abusar de ellas",
       "url": "https://expansion.mx/tecnologia/2026/10/08/eu-suspende-a-microsoft-y-adobe-visas-de-trabajo",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten."
     },
     {
-      "title": "Gmail bloquea 100 millones de intentos de phishing diarios: así detecta Google las amenazas",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/google-trust-safety-phishing-ia-ciberseguridad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Oct 2026 11:55:43 GMT",
-      "summary": "Laurie Richardson, vicepresidenta de Trust & Safety, explica cómo la IA está cambiando la velocidad con la que la compañía detecta abusos y corrige sus propios sistemas."
-    },
-    {
-      "title": "ChatGPT estrena interfaz visual: qué es Intelligent UI y quiénes pueden usarlo",
-      "url": "https://expansion.mx/tecnologia/2026/10/07/chatgpt-estrena-interfaz-que-es-intelligent-ui",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 07 Oct 2026 18:01:58 GMT",
-      "summary": "OpenAI abandona el formato de solo texto para integrar respuestas con imágenes, tarjetas interactivas y diagramas en tiempo real que se adaptan al tipo de consulta del usuario."
-    },
-    {
-      "title": "Hasta la inteligencia artificial sabe quién manda en C.U - AS México",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0ZfakZXU0NyM0lXdUlZdlhkakRJanlPNTVUNjRTc0QxUDRDeEdDUFJtWTNmUW9XRzZUN0RLVEtTWUtBcmF6S1QwZmVWUC0tb3RzNDIwTDNCNXVUanhCNm9WY1d2YXE0MHcwaVVTeWNDemxsYU5oU2dEcjZ4SnY4ZTZTVUJCbFVwcmxvTVpELUpXTWx4T1VzdnlZdFQtOXRIMGRtZU5rYWFabGFrZWhDdNIBxAFBVV95cUxOMHNvcUxWaF8xZnU4TTViNTBJNGpHcVJSajRCQzV3TEFzaFBnZGtzS1hlTFNRU0xNekxieno0NFNvSU51WU9pbGFCQW5PSXhhMC01aGhVaWZHaUxTSXplT1JxSmw4a1k2UVcyXzB0NHRwMlRSMFFzTUI3Nm1jQnQ0T1pFdmE2cV9BdE40cVdpVXhjSEU5dFBQVDY3WUoxQ21XZ2t5Sld5UDFlaWJyV1B4Q1BrN0VIeUt3cUY4SWh5T0lQUHlN?oc=5",
+      "title": "El boom de la inteligencia artificial y la Copa del Mundo apuntalan el panorama económico de México en 2026: OMC - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd2lsSngwTjdNTi1BenJQaHU2VmlBRVZMM3ZYSHJYT190RGRodnY1aGJaUUkxX2RBZmVkS3RQeGtZaENpakVWdVZYZnQySWNMUU1HZWU4SzViV01GODBoLXFXT1JGX3RSZ3J3SFBEMkhwRFlCM0NEd0FhY2RzeHZTdV9SYlBvbnBwa1hiZGRiNndOOHVkZEJQbHJ0NjVOTHFJRWlwMGRDYzRiZWFGQVJvMm82bFZvSGh0c0VZcFotZUFiX0FsTTMwWGtnZjNJTVE2MXFIOVMwb19ScnZ4cF9UeG95RGpiWm0xUkxBV2ZOVk4tdy1w0gGPAkFVX3lxTE8wdU1md1RTVEtDYVJnNTlYeWw0Y2EzQnlldTRYRU5wNFEzdDgzRnZoVGtHR3RlRkJiR3lKRVJVcjFyVFRTVlh4QnVrT0N3cl9FZ3J3Nm9wUG5VNDZvOGl4WmRETnNwRHJlbVZQUTAzSGcyTUoteVBNSmt5T0JCR1A1ZHVfMTB0TVdROUJqamVMbEplRTBzeWR3UUJIZGZiVWNidGV1aHpGSGFrV0VoVGJGaFh0Y3N3NG5sREdDZGtaMGFRVkVkX2gxUnh4X1ZFY1ZNMWdZWEJ2dW9IZWVWeVdzT2JKbEs0V0l0dHNsX3c3eTFKcDNKbGdhYkJBbnpXRzFGQXdzMTlsX1FKZm02T28?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 11 Oct 2026 17:36:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0ZfakZXU0NyM0lXdUlZdlhkakRJanlPNTVUNjRTc0QxUDRDeEdDUFJtWTNmUW9XRzZUN0RLVEtTWUtBcmF6S1QwZmVWUC0tb3RzNDIwTDNCNXVUanhCNm9WY1d2YXE0MHcwaVVTeWNDemxsYU5oU2dEcjZ4SnY4ZTZTVUJCbFVwcmxvTVpELUpXTWx4T1VzdnlZdFQtOXRIMGRtZU5rYWFabGFrZWhDdNIBxAFBVV95cU"
+      "published": "Mon, 12 Oct 2026 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd2lsSngwTjdNTi1BenJQaHU2VmlBRVZMM3ZYSHJYT190RGRodnY1aGJaUUkxX2RBZmVkS3RQeGtZaENpakVWdVZYZnQySWNMUU1HZWU4SzViV01GODBoLXFXT1JGX3RSZ3J3SFBEMkhwRFlCM0NEd0FhY2RzeHZTdV9SYlBvbnBwa1hiZGRiNndOOHVkZEJQbHJ0NjVOTHFJRWlwMGRDYzRiZWFGQVJvMm82bFZvSGh0c0"
     },
     {
-      "title": "La industria detrás de la IA: México y las primeras señales de AI-shoring - IDB | Inter American Development Bank",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "title": "Antonio Banderas interpretará a Hernán Cortés en una superproducción sobre la conquista de México impulsada por la IA - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNW9weDdieWVrWS1jV0lmb0RKcFd5ejR4NFN6YU1hVDh4QUxxd3RvdDd4cEJyRmlLWmlPc3ZOaUw3ZWp2THpIZElHZjZwUTVSZGh5cUYxMXktR2UtTzBwNzVTZUFPOXdFWmgtd2lva1NsV294bG1XcEJpQlpFTTdBem5Bb3hnaGFfWjNCQmJGZEcydEVMeWlBSDZHelZSS1VqU3VlSWZ6Q0MtV1FUUDZObTlfZmQwbkdmUEh6UjIyd1hlZ3J1N3JhOUZfVHBubFBKRUIydDduaW95V25KRHJaMWRUUmtHQVd6YjV1c0hYbUxMcjNDb0VmbkZXdE7SAZcCQVVfeXFMT3ducWUwcV9xOTRreFFnakVQS29OcEFjb3k5bnNZMkpTMDNTNXBLSEZLbzdqUW9EdWZGblk3UVN2WjhHSHdTVWREVm5JTEFsd2R4MFVid3pKZkhWYmplZGxYc2Jnb1BSZW9zYjlRQnlDeTdiZUI2aUVqYWVMWnRoZC1WQ0xLQ3dWdXUzdDRKTE9HeGphTmVzRFZ0elM4NnJEOW1LSXpXX2pjSDQzRjYyMldhZS14dFQ3eGdlenRUMUNvWmdNd0lha2ZNMERJd3ZER0R5aU0wRDdIY2E4VjUtRWU3UzJtOFZBRndMVTNrdFZSdnp0Z3ZJN3VodjR0djhjQU5fc19OU2c5ZXRRYmczZF9JREhhbmJZ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
+      "published": "Mon, 12 Oct 2026 18:06:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNW9weDdieWVrWS1jV0lmb0RKcFd5ejR4NFN6YU1hVDh4QUxxd3RvdDd4cEJyRmlLWmlPc3ZOaUw3ZWp2THpIZElHZjZwUTVSZGh5cUYxMXktR2UtTzBwNzVTZUFPOXdFWmgtd2lva1NsV294bG1XcEJpQlpFTTdBem5Bb3hnaGFfWjNCQmJGZEcydEVMeWlBSDZHelZSS1VqU3VlSWZ6Q0MtV1FUUDZObTlfZmQwbkdmUE"
     },
     {
-      "title": "México camina hacia la regulación de IA: “No es prohibir, porque es un avance, pero hasta dónde y cómo” - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUndsRnJBWU9oOVlxTWVmWjB1eHpBTXVkZmxuNWZaR0RUcUtXX1dPN2hXU2FNSGVTYUEzRGJ3bERkLTV1NmJEREVrbHdUa1M3SHhPX3V3MW5KS2ZLNTlydy1OU2NxbGtzUDlPb0tacVAyS3FETlNEaXZpcU9JTzBjVUprSnBYd2s2MC05UFJmOHlhenJxWkdQUHZiZWFjZy1nZ0RHY01vdlB5VWVjQ20wTlJqZUx4eWxyVHo4Nkx5ZGowQzE2VG9xeW93ZkVfUEc2blQ1aXlsZ0d0dEthVmthdWVXRdIB9wFBVV95cUxPS09aUHdLSG1GU24zYmhLRkhRRmUxVVRrVzlOSnNLa0d2MGc2bGxBQWVwTlVOZUI0Y3pMOXdvZGk5emN1NmpmYUdmZWtVTU5wamdUSVZmTGgwUGNoc1FVdTNhRFh2RGMyTXZ3N1F3Ynp2UkNDVkRmVWhQVldLY2VEVnliRHpDanY5SWphOGFJcjUzNVBHV2N3empjOElQQTRodEtia0xPRFd0MXFOZ0ZScG1NcTltRlN4Xy1MOWtCVktVNTFZX3MtbkJRU3YtVkRXR25FUmlKOG5MRUpWbzYtUnNNUnFWT1NCc0hsT1NkRU5zYmZTbWEw?oc=5",
+      "title": "IA amplía brecha digital en México: los tres obstáculos para adoptar la inteligencia artificial - Diario de Yucatán",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONC1CenhXel9Qb25qeFBHYkxxbExQS19mUzIwaGlCdE5iUDZzeENMN1Zzcmp1WURQWnEtR1ZaUEFFdldyNzlDV2RVMU1pVnJNVGtZVzllOVROeGpORnROMUZyRnJNd3liVWhDbzg1XzgxSlp2NWpzUU85LWMxOHFLWVctUTF0dlZLR2NYUkQwTWtENUVmQ2dlTVp0SURGaHBDNUMxejVrb1ZuUlFLZnZPanpHdlJpbnQxMWVLQnVfR2U1T3A5S0dHMFc0QmZjVVNJN0twSF9xa3RDaS1F?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUndsRnJBWU9oOVlxTWVmWjB1eHpBTXVkZmxuNWZaR0RUcUtXX1dPN2hXU2FNSGVTYUEzRGJ3bERkLTV1NmJEREVrbHdUa1M3SHhPX3V3MW5KS2ZLNTlydy1OU2NxbGtzUDlPb0tacVAyS3FETlNEaXZpcU9JTzBjVUprSnBYd2s2MC05UFJmOHlhenJxWkdQUHZiZWFjZy1nZ0RHY01vdlB5VWVjQ20wTlJqZUx4eWxyVH"
+      "published": "Mon, 12 Oct 2026 10:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxONC1CenhXel9Qb25qeFBHYkxxbExQS19mUzIwaGlCdE5iUDZzeENMN1Zzcmp1WURQWnEtR1ZaUEFFdldyNzlDV2RVMU1pVnJNVGtZVzllOVROeGpORnROMUZyRnJNd3liVWhDbzg1XzgxSlp2NWpzUU85LWMxOHFLWVctUTF0dlZLR2NYUkQwTWtENUVmQ2dlTVp0SURGaHBDNUMxejVrb1ZuUlFLZnZPanpHdlJpbnQxMW"
     },
     {
       "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
-      "title": "Startups de IA ya son mayoría en primeras rondas; CDMX, segundo hub - Maya Comunicación",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXo2RDU1UzVBZVlQbmJGdlBkeXV5NXNiWnMtOE80T2ZudjF4MlE4MDJmbl80MTU2UUFUdlZTc1JQeXd2MFlxODJsYzVieEVQbEVuVTdLTGZUNHRDaWtQUUVRcWNGaWd3V1ZxVS1WX3hFX1BIbXpDMlpCazlMNWdvdTRLTlBuX1FHTzBKRVJFbUJXcEl2ejBNMkVpUkhzQjQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 03 Oct 2026 22:45:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaXo2RDU1UzVBZVlQbmJGdlBkeXV5NXNiWnMtOE80T2ZudjF4MlE4MDJmbl80MTU2UUFUdlZTc1JQeXd2MFlxODJsYzVieEVQbEVuVTdLTGZUNHRDaWtQUUVRcWNGaWd3V1ZxVS1WX3hFX1BIbXpDMlpCazlMNWdvdTRLTlBuX1FHTzBKRVJFbUJXcEl2ejBNMkVpUkhzQjQ?oc=5\" target=\"_blank\">Startups de "
-    },
-    {
       "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 25 Aug 2026 22:44:24 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
+    },
+    {
+      "title": "Primo: la startup de IA que está reinventando los seguros desde Ciudad de México a Buenos Aires - Connecta B2B",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcFgtdVlxbFAxZjJqdWUw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWRqaTdab0M0bHI0WmtVMFFPSVVWdXdRUkhOUHVFLWlZdVhIMnY0T2RzSzV2WWhybUJNX0dTZE9FMWxNTXNSMHItdDdsRm1QUkRtWVE2QndPcTFySWJhRHJNNFhYallzeFdQb0tKRmRLLVZRZW1iMHVydmk5NFJVWGozaHRTMmplU1JSMDR0NUVJeU1sRTZwTGxBbERpUDNjZ2JsVzY4aGJDYndWOFpKZ0M5Tk91bHlhcF"
     },
     {
       "title": "CX Forum Monterrey: el futuro de la IA y la experiencia del cliente - Milenio",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz?oc=5\" target=\"_blank\">CX Forum Mo"
     },
     {
-      "title": "Visitamos EXPO DRONE Monterrey 2026 🚁 | Drones, IA, robots y tecnología - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12c2lGQ2VzWF8xSTdYWWFCRl9uRjVFWFNXRWpBekY3SFpFX0FvTWVscWhCRXl2OThnZGlWOU1mYUx4cTlVYWVNQ3hLUmt5T1RkWUZma1FOUVY3c1lT?oc=5",
+      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 06 Oct 2026 02:54:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE12c2lGQ2VzWF8xSTdYWWFCRl9uRjVFWFNXRWpBekY3SFpFX0FvTWVscWhCRXl2OThnZGlWOU1mYUx4cTlVYWVNQ3hLUmt5T1RkWUZma1FOUVY3c1lT?oc=5\" target=\"_blank\">Visitamos EXPO DRONE Monterrey 2026 🚁 | Drones, IA, robots y tecnología</a>&nbsp;&nbsp;<font color=\"#6f"
+      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
     },
     {
-      "title": "EXATEC impulsa proyectos de IA para resolver retos globales - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWWc?oc=5",
+      "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - PLAYERS of Life",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWW"
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5\" target=\"_blank\">Organizaciones del Presente: "
     }
   ],
   "count": 14
