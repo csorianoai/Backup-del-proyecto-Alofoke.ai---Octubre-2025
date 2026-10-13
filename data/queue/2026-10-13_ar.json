@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Apple presentó HomeView, una pantalla inteligente para controlar la casa: qué puede hacer y cuánto cuesta",
+      "url": "https://www.clarin.com/tecnologia/apple-presento-homeview-pantalla-inteligente-controlar-casa-puede-hacer-cuesta_0_vjbKJSgmpg.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 14:47:48 +0000",
+      "summary": "<ul><li>El dispositivo tiene una pantalla de 7 pulgadas y permite consultar información personal, hacer videollamadas y manejar accesorios conectados. </li><li>También llega con una nueva versión de Siri diseñada para mantener conversaciones y ejecutar tareas. </li></ul>"
+    },
+    {
+      "title": "Automatizar tareas, controlar el consumo y reforzar la seguridad: cuánto cuesta convertir cualquier casa en inteligente",
+      "url": "https://www.clarin.com/tecnologia/automatizar-tareas-controlar-consumo-reforzar-seguridad-cuesta-convertir-cualquier-casa-inteligente_0_0OFTCPJDpf.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 08:46:39 +0000",
+      "summary": "<ul><li>Los precios parten de unos $20.000 para una lámpara, un interruptor o un enchufe conectado. </li><li>La inversión puede llegar a varios millones si incluye electrodomésticos. </li></ul>"
+    },
+    {
       "title": "Hackers atacaron supermercados en Francia y llevaron las heladeras a 50 grados: hubo incendios y pérdidas de alimentos",
       "url": "https://www.clarin.com/tecnologia/hackers-atacaron-supermercados-francia-llevaron-heladeras-50-grados-incendios-perdidas-alimentos_0_SJ5fjZuGbz.html",
       "source": "Clarín Tecnología",
@@ -27,28 +43,20 @@
       "summary": "<ul><li>Titán tiene lagos de metano y reservas de agua congelada que podrían aprovecharse para producir combustible para cohetes.</li><li>Abastecer las naves lejos de la Tierra permitiría reducir su carga, aunque todavía no hay un proyecto aprobado para construir esa infraestructura.</li></ul>"
     },
     {
-      "title": "Chatear sin internet, arte con basura electrónica y una olla popular de tecnología: los hackers “abrazaron el caos” en Ekoparty 22",
-      "url": "https://www.clarin.com/tecnologia/chatear-internet-arte-basura-electronica-olla-popular-tecnologia-hackers-abrazaron-caos-ekoparty-22_0_xSHoWLYVTs.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 10 Oct 2026 12:19:36 +0000",
-      "summary": "<ul><li>Cybercirujas mostró cómo recuperar equipos descartados y Meshtastic propuso redes de mensajería independientes de internet.</li><li>La conferencia cerró con un reconocimiento de la Legislatura porteña y el recuerdo del hacker Andrés Blanco.</li><li>Reportaje y balance de una nueva edición.</"
-    },
-    {
-      "title": "Tecnología contra las caídas: los nuevos dispositivos que las detectan y piden ayuda a un familiar",
-      "url": "https://www.clarin.com/tecnologia/tecnologia-caidas-nuevos-dispositivos-detectan-piden-ayuda-familiar_0_obFSXIpL1s.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 10 Oct 2026 09:01:56 +0000",
-      "summary": "<ul><li>Relojes, colgantes y botones SOS pueden reconocer un golpe y enviar una alerta. </li><li>Hay modelos con GPS, conexión 4G y llamadas sin depender del celular. </li><li>Cuánto cuestan y qué hay que mirar antes de elegir uno.</li></ul>"
-    },
-    {
       "title": "La oportunidad argentina en la era de la inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUVFdEtmYkdQZG5RVGxDN2FEa0dtRGVVTXYyN0pROEprZVJESUZOR3BJRWgzN0JGcjF2d1NYcmFCVFFCSGZKT2E3MExmUXZzQkJUa0dyTm1FMGZoblZfYndpTE5qdHdkSTdrU1dWTnNEUnJxd25xc2d1OENWM2hiNEhtWVFsblZtb2twblh0ZENvUmJIdTFJT3FXMG1DM1R3VTFQNEhYcjhRMzFl0gHHAUFVX3lxTE5yWXN3dngyUklTdEtDandxRElkT05lcEl4WU1OUDFnWXNDdDZBSjE1SlEwdzZxYnFkbXlDZWxxdHNGMGpab0RlUm1VWnc1M3UzbzNhWXd3YWhHckpWc3JKQ29ISUVZNFZ3X2s4T1M3QThIRmtBWUkzbGRsUjVra2lkVjFIM0F0Ymo4QTE5TWFib2g0alZ2bjJMcGxtX0M5UDYxRkFfd1FHMDgwUUZaa29GNG5wQVlwUVo1ZXdMZEdpM19UYmJMR28?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUVFdEtmYkdQZG5RVGxDN2FEa0dtRGVVTXYyN0pROEprZVJESUZOR3BJRWgzN0JGcjF2d1NYcmFCVFFCSGZKT2E3MExmUXZzQkJUa0dyTm1FMGZoblZfYndpTE5qdHdkSTdrU1dWTnNEUnJxd25xc2d1OENWM2hiNEhtWVFsblZtb2twblh0ZENvUmJIdTFJT3FXMG1DM1R3VTFQNEhYcjhRMzFl?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 09 Oct 2026 12:39:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUVFdEtmYkdQZG5RVGxDN2FEa0dtRGVVTXYyN0pROEprZVJESUZOR3BJRWgzN0JGcjF2d1NYcmFCVFFCSGZKT2E3MExmUXZzQkJUa0dyTm1FMGZoblZfYndpTE5qdHdkSTdrU1dWTnNEUnJxd25xc2d1OENWM2hiNEhtWVFsblZtb2twblh0ZENvUmJIdTFJT3FXMG1DM1R3VTFQNEhYcjhRMzFl0gHHAUFVX3lxTE5yWX"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUVFdEtmYkdQZG5RVGxDN2FEa0dtRGVVTXYyN0pROEprZVJESUZOR3BJRWgzN0JGcjF2d1NYcmFCVFFCSGZKT2E3MExmUXZzQkJUa0dyTm1FMGZoblZfYndpTE5qdHdkSTdrU1dWTnNEUnJxd25xc2d1OENWM2hiNEhtWVFsblZtb2twblh0ZENvUmJIdTFJT3FXMG1DM1R3VTFQNEhYcjhRMzFl?oc=5\" target=\"_bl"
+    },
+    {
+      "title": "Chaco: Gendarmes detuvieron a dos hombres que mediante Inteligencia Artificial planificaban un tiroteo masivo en establecimientos educativos - Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkgtdVZoU3R2OGo5ak9id1dkdXBNdTZDb25rQXhsY1JJWVVFa1pWWlY2ZzZjU1pBZFlKc2FnTWtJN1F4TS1TaVNNLVFrSHBEUE9ZRDhCWUNIR2g2T013aVktWU1fVmRQS0hQcXRzQnE5cmUtVmw0TlBRcXNhcl96eF9aOWJUTXlKVDVXdFdpNW53QndQMkxjbXdhcnozdUJ2SEQ0R3M4YUVYUFVYV2lSNWxwZF9wWUdLQlBBcU5iX3pjT3VSQ1QxMA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 13 Oct 2026 14:11:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRkgtdVZoU3R2OGo5ak9id1dkdXBNdTZDb25rQXhsY1JJWVVFa1pWWlY2ZzZjU1pBZFlKc2FnTWtJN1F4TS1TaVNNLVFrSHBEUE9ZRDhCWUNIR2g2T013aVktWU1fVmRQS0hQcXRzQnE5cmUtVmw0TlBRcXNhcl96eF9aOWJUTXlKVDVXdFdpNW53QndQMkxjbXdhcnozdUJ2SEQ0R3M4YUVYUFVYV2lSNWxwZF9wWUdLQl"
     },
     {
       "title": "Inteligencia artificial en el sector público: regulación e informalidad (algunas reflexiones desde Argentina) - La Administración al Día",
@@ -59,12 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBxME16d1liU1JlSFZCaTVZNE9DYnY1d1FOeV93SkdtOHRUNFlpVE44YTZLR2hzdXlCdTM2U0RUVFZnOHRfMzJWUWVJRmFDcmxRdTlzdThZVzlfSEUyNno2RFlyTGYyR085c1d4NA?oc=5\" target=\"_blank\">Inteligencia artificial en el sector público: regulación e informalidad (algunas "
     },
     {
-      "title": "Argentina supera el promedio mundial en uso de inteligencia artificial - iProUP",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUR1a25RX3ptSWR1Q0toSU4yQ0o5b2N0cjBxY3JBNFpkcG1rdTZtTDJsX0dURlBOSkIxS20wRDBjSWkyTDN4ZHhpQ2xMb1JWckNsemd4YlBnamNWbUI3YUE0ZFR5Z05sMnZLUzVsT0w3MmlBeUMxcW5nQ2RwTFhGTTNwcVBCTy0zbW5md3gyd2VHT21wV3o4aXBHWjJQSFdyVU1BczRnRDd6VmhucjNj0gG0AUFVX3lxTE53UGF6M3RwNUVlbmFXcFduNnVmN3ZlakhQMHdHb2dHMVgzNk40RE1tN3ltaG91dEpFVzhjZG5zSWxobzl0cHN6Q09JUDctMzBXV1FJdnVveDJlVVpPMFJlVnZwWXdhNnpWYUV1eV9RVUowN0puOE5XcnhaQS01Y1BUZ0c3eGdFb3hORFFCTEF1ZDJfcDVsckIyZXhHQW1rUERRYnBuNV9RcThJSV9rNGZBdmFzcQ?oc=5",
+      "title": "Salesforce y la Provincia de Buenos Aires firman alianza para impulsar la IA en la gestión pública - CanalAR",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORXpkaEZfYVAwU0p4elJqY3E3elBZeFdXOUxVaWZsOU5iSDUzWTJsdG5EOXlzaTRYQ0drMlBWdDZkNDdHZTc4UWNKM3ZsNkk3MzhNMEstenZaUW50dzFVSXpxSi16aXNjOGxsbEdPTWFQYThpaWdDT3JIVmFEaFQ1T1ZyOU5lLXY4X3Exdk90eWhoWHc1VTBjRExnSGJtVU1nQnFTTWRYc2FGODRoOTRCVG5VSFRiTnhZRk5UVFFuRkVURFpqdW5uUXlPNW9vcEs0OHNN?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 12 Oct 2026 10:03:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUR1a25RX3ptSWR1Q0toSU4yQ0o5b2N0cjBxY3JBNFpkcG1rdTZtTDJsX0dURlBOSkIxS20wRDBjSWkyTDN4ZHhpQ2xMb1JWckNsemd4YlBnamNWbUI3YUE0ZFR5Z05sMnZLUzVsT0w3MmlBeUMxcW5nQ2RwTFhGTTNwcVBCTy0zbW5md3gyd2VHT21wV3o4aXBHWjJQSFdyVU1BczRnRDd6VmhucjNj0gG0AUFVX3lxTE"
+      "published": "Tue, 13 Oct 2026 19:45:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxORXpkaEZfYVAwU0p4elJqY3E3elBZeFdXOUxVaWZsOU5iSDUzWTJsdG5EOXlzaTRYQ0drMlBWdDZkNDdHZTc4UWNKM3ZsNkk3MzhNMEstenZaUW50dzFVSXpxSi16aXNjOGxsbEdPTWFQYThpaWdDT3JIVmFEaFQ1T1ZyOU5lLXY4X3Exdk90eWhoWHc1VTBjRExnSGJtVU1nQnFTTWRYc2FGODRoOTRCVG5VSFRiTnhZRk"
     },
     {
       "title": "Salesforce y la Provincia de Buenos Aires firman una alianza estratégica para impulsar la inteligencia artificial, la innovación y el desarrollo de talento - ITSitio",
@@ -83,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORlJ3bzcyY2xMM0szYWJ4QTZ2a1E1QW8yNHE3NXBMTS1Qd1FIak9ZbU9ZY0RmWnJSZERxcmxNMXhEMXRWM0lCOWx5dXFRc2RnTlVDdnRGbE5KMzNhbVRVUmE4SmJXc29GMV9CekdiRDVFMDZvb3d1Uk8wNUt0Wi1URlFldEZyVWFQUEE?oc=5\" target=\"_blank\">Clínica Tecnológica: 28 pymes de Buenos "
     },
     {
-      "title": "La IA ya está acá: cómo está cambiando el día a día de las empresas - El Economista - Últimas noticias económicas y financieras",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFZtZFZVN0hqaFB6cW9TYzRZcHZkMEdrSkRnTHpBM1BEdEVscm1jclpZQzZBb1R4SmZZQ0NIbTBKeDlUR3o3ZnY1UHFLdnRlbDFWaHJLV2lTNTA3Zlo1UF9OOFJTa1NUbnJfWmZkSF85SEZiellXMDN4QWlUeGpZRWZQbWNadFNfNHViZXIyUDJiNnRTOE5XdmpSUUFDTnPSAaQBQVVfeXFMTmoydkZ6bVNfWG5MYV9BUk1sVjAzX2hDSkg4QVB0R1Z2QWhaQ3JhMEc3c1gyV0UwUmhnTlZfRkF0dGJ3TDJxQ1FOTmNmNWlJdE5tcnJLX2syaEd4MUlFT0pBVmhnS2UyWGtlbGFSbkZFcTNENE16N2RCc3BsVXFGajRVOW1qQlBXTFAzTzdZdHJOQVpwTl9XLTBBU2lLUklOWFFmOGw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 11 Oct 2026 15:17:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFZtZFZVN0hqaFB6cW9TYzRZcHZkMEdrSkRnTHpBM1BEdEVscm1jclpZQzZBb1R4SmZZQ0NIbTBKeDlUR3o3ZnY1UHFLdnRlbDFWaHJLV2lTNTA3Zlo1UF9OOFJTa1NUbnJfWmZkSF85SEZiellXMDN4QWlUeGpZRWZQbWNadFNfNHViZXIyUDJiNnRTOE5XdmpSUUFDTnPSAaQBQVVfeXFMTmoydkZ6bVNfWG5MYV9BUk"
-    },
-    {
       "title": "Humand, la HRtech de Galperin, abre 26 vacantes remotas - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnhORlA4dXF4QWQtMUxQS2wxWEg3eDFSMjBxUWpheUZ0M0Y0ekxocXhXUVZCSERwWWZSWUdWWTNOTFlUNmRvMmwxaXpJaFBlWUdfSzhMQ2toX01MZVBPUGlGSWJjdnBuSE5aMzVvcGFOeW5PcXpJS0xJS2RDWGxqbjlPWUpmeXZ5aUxCWA?oc=5",
       "source": "Google News",
@@ -103,16 +103,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkRQSFR2M2dBQWVrSVhYNTN5czlMc0tNOTdfZGwzTm9CbXhhUXJSMWs0MzVOVU42MDFWTkgzb1JpX3Qya29HZ2RrcHh1MG11RmUzcVZrUWthd3hsNXVnOGExOG5TLVJSTW56Mmgyckx1NTdLbW1lMUtXaHQySFVSQ2ZNdVJpa2hDU0JCa21ucWN1N3BPLTJMcUx3VW5zSmo1QmxXUGpRaEVBZlBnLTFHZU9zSFJsUGxwbjI4SnNLemkyYWZiQXg1LU1mMklBaUNPM3fSAdcBQVVfeXFMUDlCaHljaVhteXRhOEpxa0t6a25zdTFZeUdtNGhyWmZSWVJtZGFvM25NVHQya3lneW5TUms1V2huTl9DVC1pUTBVRm54SGw3akcxdmlDcnNPWXhNQXFfa2VKSy13T0RVM2p4VVJuTGNEMFZkcVFwWmNWd1NPZElwdkhneW1WaU5QWFhmellEQXptZ1UwR1dyOHF5X240TC0yYk5TNWpka1NEU2ZQQ095T3dJSmxVd2VHeVA2dTMzLWZBYU1aZ0xWd3BoOHl3NFZFZmxDams4U0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 05 Oct 2026 14:54:00 GMT",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkRQSFR2M2dBQWVrSVhYNTN5czlMc0tNOTdfZGwzTm9CbXhhUXJSMWs0MzVOVU42MDFWTkgzb1JpX3Qya29HZ2RrcHh1MG11RmUzcVZrUWthd3hsNXVnOGExOG5TLVJSTW56Mmgyckx1NTdLbW1lMUtXaHQySFVSQ2ZNdVJpa2hDU0JCa21ucWN1N3BPLTJMcUx3VW5zSmo1QmxXUGpRaEVBZlBnLTFHZU9zSFJsUGxwbj"
     },
     {
-      "title": "Innova CFI: se abrió la segunda convocatoria para financiar startups tecnológicas en todo el país - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ2FoMkJNNWdoa1JYdXpJcF8xNDJxbzBkU0Z4YlI2dGVheHF2TFMzSkM2VEUyWVN2aVJaRHh1MDlwSnNUYzVFRkUyc1NTbWdMYXR2OTdMekMzeHpsczlBUjlfeXlWZHJ5TjNQTkhldWwzTEE3eE5NaVREaWRSYXZnUHFCeklVUVZKUTBhRFJXTThPMDhtRUlXTFdiWnpKNUxQNnhSdTJ2bjdTejQzbnBoZXc2clBCcWppQVhwVnFkMnhvcmk1Wm1YX3RmbWVSRHduUWdIMnNpRmNRcEhDMlkybVEzVUFNTU5KUjIzM25PZWzSAfYBQVVfeXFMTTBWZ2tvMWhuZ3NYWWRCXzVjam5Lc3JvUU9EQnQyWHprcGUzWjhmTVV4OGtSbmVNQm0wY1dmRXVQcUNzVEo4WENVRk5odlQwdjR1Qm9CNkZKMTducjZKZjNwT3VvMFlCMmltR3d1ODFwWEdnTzI3dHZVdGluVVdxUjE2eTVsRGhxdW93QlNlVEtLYUk0ekFVQ0Z6X0MzV1ItSTJuanczaDBldXhQX0l0aGwxUG5lRzFyaG0xV0FfTnl5S1Q0MkRvVUNBbmpUdU1QQl9GeDNDVWliVnJMOU5kMTR5TTlad0ItN3ZaU1NPU0VkbHBmdnNB?oc=5",
+      "title": "Una startup argentina une tecnología y ganadería para potenciar el negocio de la carne - TodoAgro",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFBsY1pLOUJzUElNZzZkYTA2cjZOcEg1ekZXV3I0X2l1UnY4eThudEhxWURub29HTDV0MHJRLTJGN0RpQ3BEVm1iWHc5UW14d0xIaXBaNlBnSkRQWmhSUlBOcFB0NWRzbHFyREZNRFBOcXpKem9yc3dPWE5sTlM4Z2ZZVzNTT0MwaDE1VktLOWhmNEI2WVRSQW1Pc05ZYUJZYjNCdDhReG02R1V1TDg3czhaU3NDZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 07 Oct 2026 17:38:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ2FoMkJNNWdoa1JYdXpJcF8xNDJxbzBkU0Z4YlI2dGVheHF2TFMzSkM2VEUyWVN2aVJaRHh1MDlwSnNUYzVFRkUyc1NTbWdMYXR2OTdMekMzeHpsczlBUjlfeXlWZHJ5TjNQTkhldWwzTEE3eE5NaVREaWRSYXZnUHFCeklVUVZKUTBhRFJXTThPMDhtRUlXTFdiWnpKNUxQNnhSdTJ2bjdTejQzbnBoZXc2clBCcWppQV"
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFBsY1pLOUJzUElNZzZkYTA2cjZOcEg1ekZXV3I0X2l1UnY4eThudEhxWURub29HTDV0MHJRLTJGN0RpQ3BEVm1iWHc5UW14d0xIaXBaNlBnSkRQWmhSUlBOcFB0NWRzbHFyREZNRFBOcXpKem9yc3dPWE5sTlM4Z2ZZVzNTT0MwaDE1VktLOWhmNEI2WVRSQW1Pc05ZYUJZYjNCdDhReG02R1V1TDg3czhaU3NDZw?oc="
     }
   ],
   "count": 14
