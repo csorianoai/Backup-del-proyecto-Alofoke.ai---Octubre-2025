@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Roku estrena nueva interfaz en México: estos son los cambios que llegarán a tu televisión",
+      "url": "https://expansion.mx/tecnologia/2026/10/14/roku-nueva-interfaz-mexico-pantalla-inicio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 14 Oct 2026 16:00:03 GMT",
+      "summary": "La nueva interfaz incorpora más recomendaciones personalizadas, accesos rápidos y categorías temáticas. La actualización comenzará el 14 de octubre y llegará gradualmente a todos sus dispositivos."
+    },
+    {
+      "title": "La IA analiza tu comportamiento en Netflix y genera publicidad 8 veces más efectiva que la TV tradicional",
+      "url": "https://expansion.mx/tecnologia/2026/10/13/mercado-ads-ia-publicidad-netflix",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 22:00:41 GMT",
+      "summary": "La publicidad quiere anticiparse a lo que buscas, incluso antes de que sepas qué comprar. Mercado Ads apuesta por la inteligencia artificial y los datos para lograrlo."
+    },
+    {
       "title": "El negocio de las citas online no resiste: Bumble vuelve a ser privado por 1,300 millones de dólares",
       "url": "https://expansion.mx/tecnologia/2026/10/13/bumble-adquisicion-1300-millones-dolares",
       "source": "Expansión Tecnología",
@@ -27,20 +43,12 @@
       "summary": "Las fallas en la supervisión de proveedores externos ponen en riesgo la información personal y abren dudas sobre el cumplimiento de las obligaciones de las empresas que la recopilan."
     },
     {
-      "title": "Hay más empleos para programadores, pero la IA complica el camino a los jóvenes",
-      "url": "https://expansion.mx/tecnologia/2026/10/12/ia-empleo-programadores-experiencia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 12 Oct 2026 16:30:20 GMT",
-      "summary": "Las vacantes para desarrolladores de software en Estados Unidos aumentaron 15% desde febrero de 2025, aunque las oportunidades se concentran en perfiles con experiencia y conocimientos de IA."
-    },
-    {
-      "title": "¿Tu hijo tiene TDAH? Esta startup mexicana busca adaptar las clases a sus necesidades",
-      "url": "https://expansion.mx/tecnologia/2026/10/12/ia-educacion-startup-mexicana-emmi",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 12 Oct 2026 11:55:35 GMT",
-      "summary": "La EdTech mexicana Emmi utiliza IA para personalizar las actividades de alumnos de preescolar y primaria. La empresa llega a más de 12,000 niños y busca reducir la carga administrativa de los docentes."
+      "title": "Herramientas de inteligencia Artificial: La nueva esperanza para encontrar a desaparecidos en México - Sistema Mexiquense",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2N0aGY5MjJ5OXlmME94aVNlRzV1d2tuaEFnS3YyQk5SRWVSR3o3Z0o4dG9TZzZIcFBlb3NtcVNNMDBURUhDZ3ZXbDQ0Sm5PaU16NUZWTktiRVZ6Qi02ZGhYS3ZXVFAzbFAydlVhVktvVDdMZXBHelVVYlVBMkxqMGFqSjFZVWFSOWJCLUJKSGYydHZORGdJX1Bkb211a3FhNlJTd2FSdmdDTHhtLU1XV25wMk5SYkd3YTBtUlZMZHZqdV80SHVJZXhnZDV4bTVxdll0cXk5SWoxd2c3SW44R2V3cjUwMjdoYkJPUVlPYl9WMnlN?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 14 Oct 2026 18:14:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2N0aGY5MjJ5OXlmME94aVNlRzV1d2tuaEFnS3YyQk5SRWVSR3o3Z0o4dG9TZzZIcFBlb3NtcVNNMDBURUhDZ3ZXbDQ0Sm5PaU16NUZWTktiRVZ6Qi02ZGhYS3ZXVFAzbFAydlVhVktvVDdMZXBHelVVYlVBMkxqMGFqSjFZVWFSOWJCLUJKSGYydHZORGdJX1Bkb211a3FhNlJTd2FSdmdDTHhtLU1XV25wMk5SYkd3YT"
     },
     {
       "title": "México supera a Países Bajos y escala en la carrera global de suministros para Inteligencia Artificial - Expansión",
@@ -59,14 +67,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSXVCa0FVcmZUcjJFbGtBT0VCYnlOekZwamx2VkRSY0FjYVFUQ0VpVFE3QXlieHB6bnRDc29GcVh1QURYTE14eFhXTGhpQUttT3Q4X0RWbkJaUml6NXJUZHc4d3ZGa3BTQlBwUWVUY2Zqa2JQNUlsNTR2UjZjamVvelFpeDJ5ZXRDVW53bjFsZDlwOG9EeWtGNW9Qei1abU1PUUxLRldWRkZiR1NQcmF6UmdvYkpWXzJQLX"
     },
     {
-      "title": "Havas México lanza Converged AI de inteligencia cultural - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXBYNk5WLTdocGRGNjdtSTRtZTJuNnd1TkdsclRMSnJJckJPSVFoRklFNDZoR0F2Zy1tWXZpVlhMbzJGUXBuVXp4bjBJYjBKRFRBV0pfZzRGWkRwaWdrTXQ4ckFrTTV3d24tcVlHYmVNMXJYb3ZzYWVPS3JFZjFXenRFVTB0U2ZCbXFTNWNOdEg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 14 Oct 2026 16:21:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXBYNk5WLTdocGRGNjdtSTRtZTJuNnd1TkdsclRMSnJJckJPSVFoRklFNDZoR0F2Zy1tWXZpVlhMbzJGUXBuVXp4bjBJYjBKRFRBV0pfZzRGWkRwaWdrTXQ4ckFrTTV3d24tcVlHYmVNMXJYb3ZzYWVPS3JFZjFXenRFVTB0U2ZCbXFTNWNOdEg?oc=5\" target=\"_blank\">Havas México lanza Converged AI "
-    },
-    {
       "title": "México Tech Week: SoftBank y Kaszek debaten IA - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzZzM2Z1R0ZBcDRCNER6b1pJTWlXYmJZdVJYX0pHYVVOZmYzYjFteTlrZTNqS0MzX2I4U3JCMU9NS3JkVmdhYVQ5WlAyc0R1MUVHX044Rm5LempxRGRuN1JVY3VJejJLQ2xZbXFOWmhwSFJLQnlJM3JOVmc0S3VTRkhR?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzZzM2Z1R0ZBcDRCNER6b1pJTWlXYmJZdVJYX0pHYVVOZmYzYjFteTlrZTNqS0MzX2I4U3JCMU9NS3JkVmdhYVQ5WlAyc0R1MUVHX044Rm5LempxRGRuN1JVY3VJejJLQ2xZbXFOWmhwSFJLQnlJM3JOVmc0S3VTRkhR?oc=5\" target=\"_blank\">México Tech Week: SoftBank y Kaszek debaten IA</a>&"
     },
     {
+      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
+    },
+    {
       "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 25 Aug 2026 22:44:24 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
-    },
-    {
-      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 04 Oct 2026 01:06:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
       "title": "CX Forum Monterrey: el futuro de la IA y la experiencia del cliente - Milenio",
