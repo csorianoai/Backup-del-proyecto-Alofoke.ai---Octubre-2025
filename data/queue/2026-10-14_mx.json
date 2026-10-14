@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-14",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Hay más empleos para programadores, pero la IA complica el camino a los jóvenes",
+      "url": "https://expansion.mx/tecnologia/2026/10/12/ia-empleo-programadores-experiencia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Oct 2026 16:30:20 GMT",
+      "summary": "Las vacantes para desarrolladores de software en Estados Unidos aumentaron 15% desde febrero de 2025, aunque las oportunidades se concentran en perfiles con experiencia y conocimientos de IA."
+    },
+    {
+      "title": "¿Tu hijo tiene TDAH? Esta startup mexicana busca adaptar las clases a sus necesidades",
+      "url": "https://expansion.mx/tecnologia/2026/10/12/ia-educacion-startup-mexicana-emmi",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 12 Oct 2026 11:55:35 GMT",
+      "summary": "La EdTech mexicana Emmi utiliza IA para personalizar las actividades de alumnos de preescolar y primaria. La empresa llega a más de 12,000 niños y busca reducir la carga administrativa de los docentes."
+    },
+    {
+      "title": "EU suspende a Microsoft y Adobe visas de trabajo para extranjeros y las acusa de abusar de ellas",
+      "url": "https://expansion.mx/tecnologia/2026/10/08/eu-suspende-a-microsoft-y-adobe-visas-de-trabajo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 20:30:24 GMT",
+      "summary": "La medida también alcanza a las compañías de servicios tecnológicos Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies y Capgemini."
+    },
+    {
+      "title": "Audiolibros en Spotify México: cómo funcionan, cuál es el catálogo y cuánto cuesta sumar más horas",
+      "url": "https://expansion.mx/tecnologia/2026/10/08/audiolibros-spotify-mexico-como-escucharlos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 20:00:46 GMT",
+      "summary": "Spotify ya ofrece audiolibros en México. Conoce dónde encontrarlos dentro de la aplicación, qué planes incluyen horas de escucha, cuánto cuesta ampliarlas y qué otras plataformas tienen libros en formato de audio."
+    },
+    {
+      "title": "Gemini falla este 8 de octubre y muestra el error 1099: qué significa y por qué aparece",
+      "url": "https://expansion.mx/tecnologia/2026/10/08/gemini-presenta-fallas-8-de-octubre-error-1099",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 08 Oct 2026 17:05:39 GMT",
+      "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten."
+    },
+    {
+      "title": "Broxel blinda sus operaciones financieras con inteligencia artificial ante el repunte histórico del fraude digital en México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSXVCa0FVcmZUcjJFbGtBT0VCYnlOekZwamx2VkRSY0FjYVFUQ0VpVFE3QXlieHB6bnRDc29GcVh1QURYTE14eFhXTGhpQUttT3Q4X0RWbkJaUml6NXJUZHc4d3ZGa3BTQlBwUWVUY2Zqa2JQNUlsNTR2UjZjamVvelFpeDJ5ZXRDVW53bjFsZDlwOG9EeWtGNW9Qei1abU1PUUxLRldWRkZiR1NQcmF6UmdvYkpWXzJQLXhEZmx3ZEpXTkJRTGo2TndVS1psT2lDMXpKX20xczl0emRpM1ViYzJ6MEQ0Z3VwV3dpWkRUTUtVcTdsNWV6a293aVJYbmVFMy1RcUdmVXLSAaMCQVVfeXFMUDg4TzZsNjJHN3pVZTFQaTI3OTNTNDh2RjloR3Mwa1FGWUJpYjZ2bmxaUW9vSURkYU43MTNUUmE0R1A0cUN4SXhvLTFDUXJMZmhNTTQyaGQyYTNFNDFCaXBDV3RwRldhYzVwcVU4UGZnVVVvbWVIaGNfU0s0SlNfckwxTjRUSDJTTTgtLWJKald3Q3hjc0xOMy1YWGpZRjdiYV92elJYM1NZc0wzUHFZaHU0WlRwbTF3a28tV2luLVI4UmV1T0lnYTBQTEZoRlI0M2o2X2t3SXl1V28tbHg0VXFncXh0eUZLa09YS01XdFU0cWFxbk9ZSGxXYUlRMjZ2eUlVWmJzbTU2dW1XeDJJTWwwaVhXU2oxUjM2NDVoVDlTU2tB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 13 Oct 2026 17:49:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSXVCa0FVcmZUcjJFbGtBT0VCYnlOekZwamx2VkRSY0FjYVFUQ0VpVFE3QXlieHB6bnRDc29GcVh1QURYTE14eFhXTGhpQUttT3Q4X0RWbkJaUml6NXJUZHc4d3ZGa3BTQlBwUWVUY2Zqa2JQNUlsNTR2UjZjamVvelFpeDJ5ZXRDVW53bjFsZDlwOG9EeWtGNW9Qei1abU1PUUxLRldWRkZiR1NQcmF6UmdvYkpWXzJQLX"
+    },
+    {
+      "title": "La inteligencia artificial dispara los intentos de estafa en México - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpyMEFkZkZaUGRBQTlTR0J5bk5ZMEJLcUhhU0UweDItT283eG9vZzRZVklEOEFTTnVJYWdHREVGUEZJU0NyY3RFM1NPRjBXQkxZWFZ5MmxiOGJEYnFsZms0cGJNcXJHLXl2QUVKRjhlRUlRM1JIejJKZkF2UUd1TXNSdktjR01OZWxKSVk5V1FVVmNDSnl2bFE5dldxMUVpQlZzQUZ5N1lnTEQ2WG81T3BXTGtqTnpMX3fSAb8BQVVfeXFMTnh6NE13S2ZXanI4VjdnSzEyMXo5R2FlOFp6cFktMERYTEQyMkF2ZUU2ZE0wdUhTcUdzVWItME4wVnRSRTRlQzVRNC10MTc4RjlSVGJfLXNOODZIb0lNblRTWlNHUUk2Z1lFTEFhT01PdzM1Z0lVVXc2RS1uWGVFR3Zsby14Y1lKc3RBMGUwdDZFNDVrdjBnTnFNS2tOTUhBNUREajgxM1laMW1Oc2g5RWRuY2pTUEtGcXduS1RFMzg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 13 Oct 2026 21:46:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpyMEFkZkZaUGRBQTlTR0J5bk5ZMEJLcUhhU0UweDItT283eG9vZzRZVklEOEFTTnVJYWdHREVGUEZJU0NyY3RFM1NPRjBXQkxZWFZ5MmxiOGJEYnFsZms0cGJNcXJHLXl2QUVKRjhlRUlRM1JIejJKZkF2UUd1TXNSdktjR01OZWxKSVk5V1FVVmNDSnl2bFE5dldxMUVpQlZzQUZ5N1lnTEQ2WG81T3BXTGtqTnpMX3"
+    },
+    {
+      "title": "Bulk llega a México con su inteligencia artificial de cobranzas por WhatsApp - Diario Financiero",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0lyaWpUSHhxQlhHMEtleFFzby1NN3NocFc5a1NKUC1NbVR6MUtwM0NwOXlBYXJjSFpkRnZxNlJsYnNIMDRsVWp2SWtWS3pyaHV6QkV5QkVhaXBvcW9vQUdIQm1DaTBTTTc1dVo1UGk2SEZsOGpkY0JrR2tYdzYxQXFITVZPQ0FwXy1heGdNU2wwck9wU0xhWFFGbEZpSlowT1ZWWHFSd3MwT2MzZi1HczNZZU0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 13 Oct 2026 13:25:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0lyaWpUSHhxQlhHMEtleFFzby1NN3NocFc5a1NKUC1NbVR6MUtwM0NwOXlBYXJjSFpkRnZxNlJsYnNIMDRsVWp2SWtWS3pyaHV6QkV5QkVhaXBvcW9vQUdIQm1DaTBTTTc1dVo1UGk2SEZsOGpkY0JrR2tYdzYxQXFITVZPQ0FwXy1heGdNU2wwck9wU0xhWFFGbEZpSlowT1ZWWHFSd3MwT2MzZi1HczNZZU0?oc=5\" "
+    },
+    {
+      "title": "México Tech Week: SoftBank y Kaszek debaten IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzZzM2Z1R0ZBcDRCNER6b1pJTWlXYmJZdVJYX0pHYVVOZmYzYjFteTlrZTNqS0MzX2I4U3JCMU9NS3JkVmdhYVQ5WlAyc0R1MUVHX044Rm5LempxRGRuN1JVY3VJejJLQ2xZbXFOWmhwSFJLQnlJM3JOVmc0S3VTRkhR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 13 Oct 2026 03:06:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzZzM2Z1R0ZBcDRCNER6b1pJTWlXYmJZdVJYX0pHYVVOZmYzYjFteTlrZTNqS0MzX2I4U3JCMU9NS3JkVmdhYVQ5WlAyc0R1MUVHX044Rm5LempxRGRuN1JVY3VJejJLQ2xZbXFOWmhwSFJLQnlJM3JOVmc0S3VTRkhR?oc=5\" target=\"_blank\">México Tech Week: SoftBank y Kaszek debaten IA</a>&"
+    },
+    {
+      "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 22:44:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
+    },
+    {
+      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 04 Oct 2026 01:06:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
+    },
+    {
+      "title": "CX Forum Monterrey: el futuro de la IA y la experiencia del cliente - Milenio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 06 Oct 2026 19:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz?oc=5\" target=\"_blank\">CX Forum Mo"
+    },
+    {
+      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
+    },
+    {
+      "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - PLAYERS of Life",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5\" target=\"_blank\">Organizaciones del Presente: "
+    }
+  ],
+  "count": 14
+}
