@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El negocio de las citas online no resiste: Bumble vuelve a ser privado por 1,300 millones de dólares",
+      "url": "https://expansion.mx/tecnologia/2026/10/13/bumble-adquisicion-1300-millones-dolares",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 18:09:28 GMT",
+      "summary": "La aplicación de citas será adquirida por Ithaca Holdings en una operación que contempla un pago de 6.05 dólares por acción. Sus fundadores asumirán la dirección ejecutiva tras el cierre."
+    },
+    {
+      "title": "Apple lanza HomeView, su primer asistente con pantalla que competirá con Alexa",
+      "url": "https://expansion.mx/tecnologia/2026/10/13/apple-lanza-homeview-competira-con-alexa",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 13:41:09 GMT",
+      "summary": "Apple HomeView es la nueva apuesta de la tecnológica para el mercado de dispositivos inteligentes para el hogar, un sector dominado por Alexa, de Amazon."
+    },
+    {
+      "title": "12.9 millones de datos están a la venta: quién responde cuando una empresa los expone",
+      "url": "https://expansion.mx/tecnologia/2026/10/13/quien-responde-por-tus-datos-personales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 11:55:44 GMT",
+      "summary": "Las fallas en la supervisión de proveedores externos ponen en riesgo la información personal y abren dudas sobre el cumplimiento de las obligaciones de las empresas que la recopilan."
+    },
+    {
       "title": "Hay más empleos para programadores, pero la IA complica el camino a los jóvenes",
       "url": "https://expansion.mx/tecnologia/2026/10/12/ia-empleo-programadores-experiencia",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "La EdTech mexicana Emmi utiliza IA para personalizar las actividades de alumnos de preescolar y primaria. La empresa llega a más de 12,000 niños y busca reducir la carga administrativa de los docentes."
     },
     {
-      "title": "EU suspende a Microsoft y Adobe visas de trabajo para extranjeros y las acusa de abusar de ellas",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/eu-suspende-a-microsoft-y-adobe-visas-de-trabajo",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Oct 2026 20:30:24 GMT",
-      "summary": "La medida también alcanza a las compañías de servicios tecnológicos Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies y Capgemini."
-    },
-    {
-      "title": "Audiolibros en Spotify México: cómo funcionan, cuál es el catálogo y cuánto cuesta sumar más horas",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/audiolibros-spotify-mexico-como-escucharlos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Oct 2026 20:00:46 GMT",
-      "summary": "Spotify ya ofrece audiolibros en México. Conoce dónde encontrarlos dentro de la aplicación, qué planes incluyen horas de escucha, cuánto cuesta ampliarlas y qué otras plataformas tienen libros en formato de audio."
-    },
-    {
-      "title": "Gemini falla este 8 de octubre y muestra el error 1099: qué significa y por qué aparece",
-      "url": "https://expansion.mx/tecnologia/2026/10/08/gemini-presenta-fallas-8-de-octubre-error-1099",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 08 Oct 2026 17:05:39 GMT",
-      "summary": "De acuerdo con la plataforma DownDetector los problemas comenzaron a las 8:00 de la mañana. Esto es lo que sabemos y lo que los usuarios comparten."
+      "title": "México supera a Países Bajos y escala en la carrera global de suministros para Inteligencia Artificial - Expansión",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEhxM1FJS1R1SUc2U3RlbU83UU5KdTRDTU5TdDFtUHJGRXAwVlhSck9qakNVTU9NQmk1dkVPMVc5V1VYNW1VUU1TdWNGaGN1d0FRWVRPMTRZd3RHQXRWVGc5cDNpZ0FpS2FVRXFYcDMxRjFzTTZzbmNWR2JYdDVKTmg2RjBsVDNOOWZvUjVQa9IBnAFBVV95cUxNdGZZNVZiNU9xLXdZTUFHNVhiaW0ybVlrbDN2RHJob054SmUyYkdhRTlzRjBPak0zV0FzR0pETWJUN0NUWlpHSF95ZDNpQm5tY2xRclNFdDlSX19VVGtqWTU5Yjk0LU1rSU1rYkNhU1FsV1JDbHdSdk1ZRDZuaVhUNHcwbkxHRVJ0Mm0yaXF1RWVyYndDQTB1OHZqN18?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 14 Oct 2026 11:55:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEhxM1FJS1R1SUc2U3RlbU83UU5KdTRDTU5TdDFtUHJGRXAwVlhSck9qakNVTU9NQmk1dkVPMVc5V1VYNW1VUU1TdWNGaGN1d0FRWVRPMTRZd3RHQXRWVGc5cDNpZ0FpS2FVRXFYcDMxRjFzTTZzbmNWR2JYdDVKTmg2RjBsVDNOOWZvUjVQa9IBnAFBVV95cUxNdGZZNVZiNU9xLXdZTUFHNVhiaW0ybVlrbDN2RHJob0"
     },
     {
       "title": "Broxel blinda sus operaciones financieras con inteligencia artificial ante el repunte histórico del fraude digital en México - Infobae",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSXVCa0FVcmZUcjJFbGtBT0VCYnlOekZwamx2VkRSY0FjYVFUQ0VpVFE3QXlieHB6bnRDc29GcVh1QURYTE14eFhXTGhpQUttT3Q4X0RWbkJaUml6NXJUZHc4d3ZGa3BTQlBwUWVUY2Zqa2JQNUlsNTR2UjZjamVvelFpeDJ5ZXRDVW53bjFsZDlwOG9EeWtGNW9Qei1abU1PUUxLRldWRkZiR1NQcmF6UmdvYkpWXzJQLX"
     },
     {
-      "title": "La inteligencia artificial dispara los intentos de estafa en México - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpyMEFkZkZaUGRBQTlTR0J5bk5ZMEJLcUhhU0UweDItT283eG9vZzRZVklEOEFTTnVJYWdHREVGUEZJU0NyY3RFM1NPRjBXQkxZWFZ5MmxiOGJEYnFsZms0cGJNcXJHLXl2QUVKRjhlRUlRM1JIejJKZkF2UUd1TXNSdktjR01OZWxKSVk5V1FVVmNDSnl2bFE5dldxMUVpQlZzQUZ5N1lnTEQ2WG81T3BXTGtqTnpMX3fSAb8BQVVfeXFMTnh6NE13S2ZXanI4VjdnSzEyMXo5R2FlOFp6cFktMERYTEQyMkF2ZUU2ZE0wdUhTcUdzVWItME4wVnRSRTRlQzVRNC10MTc4RjlSVGJfLXNOODZIb0lNblRTWlNHUUk2Z1lFTEFhT01PdzM1Z0lVVXc2RS1uWGVFR3Zsby14Y1lKc3RBMGUwdDZFNDVrdjBnTnFNS2tOTUhBNUREajgxM1laMW1Oc2g5RWRuY2pTUEtGcXduS1RFMzg?oc=5",
+      "title": "Havas México lanza Converged AI de inteligencia cultural - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXBYNk5WLTdocGRGNjdtSTRtZTJuNnd1TkdsclRMSnJJckJPSVFoRklFNDZoR0F2Zy1tWXZpVlhMbzJGUXBuVXp4bjBJYjBKRFRBV0pfZzRGWkRwaWdrTXQ4ckFrTTV3d24tcVlHYmVNMXJYb3ZzYWVPS3JFZjFXenRFVTB0U2ZCbXFTNWNOdEg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 13 Oct 2026 21:46:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnpyMEFkZkZaUGRBQTlTR0J5bk5ZMEJLcUhhU0UweDItT283eG9vZzRZVklEOEFTTnVJYWdHREVGUEZJU0NyY3RFM1NPRjBXQkxZWFZ5MmxiOGJEYnFsZms0cGJNcXJHLXl2QUVKRjhlRUlRM1JIejJKZkF2UUd1TXNSdktjR01OZWxKSVk5V1FVVmNDSnl2bFE5dldxMUVpQlZzQUZ5N1lnTEQ2WG81T3BXTGtqTnpMX3"
-    },
-    {
-      "title": "Bulk llega a México con su inteligencia artificial de cobranzas por WhatsApp - Diario Financiero",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0lyaWpUSHhxQlhHMEtleFFzby1NN3NocFc5a1NKUC1NbVR6MUtwM0NwOXlBYXJjSFpkRnZxNlJsYnNIMDRsVWp2SWtWS3pyaHV6QkV5QkVhaXBvcW9vQUdIQm1DaTBTTTc1dVo1UGk2SEZsOGpkY0JrR2tYdzYxQXFITVZPQ0FwXy1heGdNU2wwck9wU0xhWFFGbEZpSlowT1ZWWHFSd3MwT2MzZi1HczNZZU0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 13 Oct 2026 13:25:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0lyaWpUSHhxQlhHMEtleFFzby1NN3NocFc5a1NKUC1NbVR6MUtwM0NwOXlBYXJjSFpkRnZxNlJsYnNIMDRsVWp2SWtWS3pyaHV6QkV5QkVhaXBvcW9vQUdIQm1DaTBTTTc1dVo1UGk2SEZsOGpkY0JrR2tYdzYxQXFITVZPQ0FwXy1heGdNU2wwck9wU0xhWFFGbEZpSlowT1ZWWHFSd3MwT2MzZi1HczNZZU0?oc=5\" "
+      "published": "Wed, 14 Oct 2026 16:21:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXBYNk5WLTdocGRGNjdtSTRtZTJuNnd1TkdsclRMSnJJckJPSVFoRklFNDZoR0F2Zy1tWXZpVlhMbzJGUXBuVXp4bjBJYjBKRFRBV0pfZzRGWkRwaWdrTXQ4ckFrTTV3d24tcVlHYmVNMXJYb3ZzYWVPS3JFZjFXenRFVTB0U2ZCbXFTNWNOdEg?oc=5\" target=\"_blank\">Havas México lanza Converged AI "
     },
     {
       "title": "México Tech Week: SoftBank y Kaszek debaten IA - El Ecosistema Startup",
