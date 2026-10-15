@@ -3,14 +3,6 @@
   "country": "mx",
   "articles": [
     {
-      "title": "El 90% no usa el modo Pro de su celular: aprende a sacarle provecho a tu cámara",
-      "url": "https://expansion.mx/tecnologia/2026/10/14/como-usar-modo-pro-camara-celular",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 14 Oct 2026 21:20:29 GMT",
-      "summary": "El modo Pro permite controlar la luz, el enfoque y el movimiento para conseguir fotografías distintas. Aprende qué hace cada ajuste y cómo configurarlo según lo que quieras capturar."
-    },
-    {
       "title": "Roku estrena nueva interfaz en México: estos son los cambios que llegarán a tu televisión",
       "url": "https://expansion.mx/tecnologia/2026/10/14/roku-nueva-interfaz-mexico-pantalla-inicio",
       "source": "Expansión Tecnología",
@@ -43,28 +35,36 @@
       "summary": "Apple HomeView es la nueva apuesta de la tecnológica para el mercado de dispositivos inteligentes para el hogar, un sector dominado por Alexa, de Amazon."
     },
     {
-      "title": "Capacitación, la clave para romper barreras ante la inteligencia artificial - Publimetro México",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVN0VFNubTJCYzhkRDV5RDlDVUczOGxobnBLMnhrUFgxSFdlaFNLOGJTWWhKS3Fla24ycnlhT1YwUnY0MU9VM3VuN0g3Yk1YMFBOZXBjWl9VRnQxVlhveExtbTU3OXRkaVBSV01raE5fRXQ3RER3TjUzRjYxV2VpdmVIVEllcDRIS25PY3M5UFZucEJQTjN3R3dZQXhJZXY5R1puNlQ2MkxxMjlnQXhvdFN1UzgyUVQzYVlUN1AtRHNPT3htQXc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 14 Oct 2026 23:09:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUVN0VFNubTJCYzhkRDV5RDlDVUczOGxobnBLMnhrUFgxSFdlaFNLOGJTWWhKS3Fla24ycnlhT1YwUnY0MU9VM3VuN0g3Yk1YMFBOZXBjWl9VRnQxVlhveExtbTU3OXRkaVBSV01raE5fRXQ3RER3TjUzRjYxV2VpdmVIVEllcDRIS25PY3M5UFZucEJQTjN3R3dZQXhJZXY5R1puNlQ2MkxxMjlnQXhvdFN1UzgyUVQzYV"
+      "title": "12.9 millones de datos están a la venta: quién responde cuando una empresa los expone",
+      "url": "https://expansion.mx/tecnologia/2026/10/13/quien-responde-por-tus-datos-personales",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 13 Oct 2026 11:55:44 GMT",
+      "summary": "Las fallas en la supervisión de proveedores externos ponen en riesgo la información personal y abren dudas sobre el cumplimiento de las obligaciones de las empresas que la recopilan."
     },
     {
-      "title": "Herramientas de inteligencia Artificial: La nueva esperanza para encontrar a desaparecidos en México - Sistema Mexiquense",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2N0aGY5MjJ5OXlmME94aVNlRzV1d2tuaEFnS3YyQk5SRWVSR3o3Z0o4dG9TZzZIcFBlb3NtcVNNMDBURUhDZ3ZXbDQ0Sm5PaU16NUZWTktiRVZ6Qi02ZGhYS3ZXVFAzbFAydlVhVktvVDdMZXBHelVVYlVBMkxqMGFqSjFZVWFSOWJCLUJKSGYydHZORGdJX1Bkb211a3FhNlJTd2FSdmdDTHhtLU1XV25wMk5SYkd3YTBtUlZMZHZqdV80SHVJZXhnZDV4bTVxdll0cXk5SWoxd2c3SW44R2V3cjUwMjdoYkJPUVlPYl9WMnlN?oc=5",
+      "title": "La Inteligencia Artificial no solo optimiza procesos: pone a prueba a las empresas diseñadas para otra era - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa1JYQ3kwaUdxVnotTUY3MnIzTVJrVnQzbFhpc0xXcW5keE9oR09RZU5XTzBrQ0lNN2Zkak1sU0lpc3FZVE5FOGlUalltYmV3Z3FibjF5d1ZBZmFLNnM5UlNiSUdDNmNZYzRobEhUbHZHRjd3SkZFWlFYRTlaUjkxTGhONkZnRkREMmhOc0pVeUVoaDc4eXo2UWg2VjNfNlB3MjJyeW91VkhwNFpPbThjWlJSRTFEMFlsYllaRUNXLU5lMjNhdkstQ1puakhuYzR6Qm9VMGVxb0J2SXp5ZlRRbHhNTElUNkE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 14 Oct 2026 18:14:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc2N0aGY5MjJ5OXlmME94aVNlRzV1d2tuaEFnS3YyQk5SRWVSR3o3Z0o4dG9TZzZIcFBlb3NtcVNNMDBURUhDZ3ZXbDQ0Sm5PaU16NUZWTktiRVZ6Qi02ZGhYS3ZXVFAzbFAydlVhVktvVDdMZXBHelVVYlVBMkxqMGFqSjFZVWFSOWJCLUJKSGYydHZORGdJX1Bkb211a3FhNlJTd2FSdmdDTHhtLU1XV25wMk5SYkd3YT"
+      "published": "Thu, 15 Oct 2026 16:04:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPa1JYQ3kwaUdxVnotTUY3MnIzTVJrVnQzbFhpc0xXcW5keE9oR09RZU5XTzBrQ0lNN2Zkak1sU0lpc3FZVE5FOGlUalltYmV3Z3FibjF5d1ZBZmFLNnM5UlNiSUdDNmNZYzRobEhUbHZHRjd3SkZFWlFYRTlaUjkxTGhONkZnRkREMmhOc0pVeUVoaDc4eXo2UWg2VjNfNlB3MjJyeW91VkhwNFpPbThjWlJSRTFEMFlsYl"
     },
     {
-      "title": "México supera a Países Bajos y escala en la carrera global de suministros para Inteligencia Artificial - Expansión",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEhxM1FJS1R1SUc2U3RlbU83UU5KdTRDTU5TdDFtUHJGRXAwVlhSck9qakNVTU9NQmk1dkVPMVc5V1VYNW1VUU1TdWNGaGN1d0FRWVRPMTRZd3RHQXRWVGc5cDNpZ0FpS2FVRXFYcDMxRjFzTTZzbmNWR2JYdDVKTmg2RjBsVDNOOWZvUjVQa9IBnAFBVV95cUxNdGZZNVZiNU9xLXdZTUFHNVhiaW0ybVlrbDN2RHJob054SmUyYkdhRTlzRjBPak0zV0FzR0pETWJUN0NUWlpHSF95ZDNpQm5tY2xRclNFdDlSX19VVGtqWTU5Yjk0LU1rSU1rYkNhU1FsV1JDbHdSdk1ZRDZuaVhUNHcwbkxHRVJ0Mm0yaXF1RWVyYndDQTB1OHZqN18?oc=5",
+      "title": "La inteligencia artificial pone a prueba la red eléctrica de México: centros de datos requieren más de 1700 MW - Energía Estratégica",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbzRJQ0JXbmU2Zlg4STNQZ2U0d01Oam43OGt0QTVJNmktZnVRYUlSVDdhVXhGbW1DdmM1dnd4ZW1ULS1XblNDVnZoNkxkcHdtLTJzMUhrVHpLekcyY05UUG83ZW5iaG5IUUtaZ0RsclE2U3lxSlJYb3BXMXRxSEpoT2xTOU5jY3BzN2ZqODVFTmRjMUt4akZEZEY3S3drU2JocEIwV3k5UnhzbjljTk1TdHZBQWRiVUFncXlqdkUzOHNNTVlPbzg4bFlPdW9EcFl2dXhqUDRubnVPdHhuOG84NE1fRTBhNGJB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 14 Oct 2026 11:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEhxM1FJS1R1SUc2U3RlbU83UU5KdTRDTU5TdDFtUHJGRXAwVlhSck9qakNVTU9NQmk1dkVPMVc5V1VYNW1VUU1TdWNGaGN1d0FRWVRPMTRZd3RHQXRWVGc5cDNpZ0FpS2FVRXFYcDMxRjFzTTZzbmNWR2JYdDVKTmg2RjBsVDNOOWZvUjVQa9IBnAFBVV95cUxNdGZZNVZiNU9xLXdZTUFHNVhiaW0ybVlrbDN2RHJob0"
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbzRJQ0JXbmU2Zlg4STNQZ2U0d01Oam43OGt0QTVJNmktZnVRYUlSVDdhVXhGbW1DdmM1dnd4ZW1ULS1XblNDVnZoNkxkcHdtLTJzMUhrVHpLekcyY05UUG83ZW5iaG5IUUtaZ0RsclE2U3lxSlJYb3BXMXRxSEpoT2xTOU5jY3BzN2ZqODVFTmRjMUt4akZEZEY3S3drU2JocEIwV3k5UnhzbjljTk1TdHZBQWRiVUFncX"
+    },
+    {
+      "title": "La Inteligencia Artificial reveló el próximo equipo de Gilberto Mora en Europa - Bolavip México",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFJURlpzUlpYZ2o1aUJBRXRzWlRZQmNFV3dlZjNCUmlBb0tmaGVJT0t2YWFaSmU2YnE3Umx1MElQZDVmcEZncGZwbDhpMjhfX1NGcnBSVlFyUU9lckRkVUh4S0wtcWRLZUllckY1THJXSmFXc0s1b0cyT0dNQTlFSlo3YVdycmRxMnFuTlpTTVBXc3hBdmZHUUxqVHU3ZTRYZjltMWhRNDdjX1lJ0gGyAUFVX3lxTE1lVWpLaXc2S1pfMUx1UmVzcG5iNm00d0lSdVgyRWpjRzllZVo3UWhKbUtqcVdMbHRTenphVlRBRWFOU2lZTFBVbEpOZU1VN2xlVXY0dmQtRUdDX0tPdEJqZlcweXpvYS0tLUNqa0hDWWxFenc3V2lrNWJWRXd2cHNEeGItODR1WUMxdHdkMGhDLWEyMy1YYUFzYnRzYzNRQmhjZ3BUZDEzb1FPdlF2N1dtSlE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 15 Oct 2026 14:12:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFJURlpzUlpYZ2o1aUJBRXRzWlRZQmNFV3dlZjNCUmlBb0tmaGVJT0t2YWFaSmU2YnE3Umx1MElQZDVmcEZncGZwbDhpMjhfX1NGcnBSVlFyUU9lckRkVUh4S0wtcWRLZUllckY1THJXSmFXc0s1b0cyT0dNQTlFSlo3YVdycmRxMnFuTlpTTVBXc3hBdmZHUUxqVHU3ZTRYZjltMWhRNDdjX1lJ0gGyAUFVX3lxTE1lVW"
     },
     {
       "title": "México Tech Week: SoftBank y Kaszek debaten IA - El Ecosistema Startup",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQYzZzM2Z1R0ZBcDRCNER6b1pJTWlXYmJZdVJYX0pHYVVOZmYzYjFteTlrZTNqS0MzX2I4U3JCMU9NS3JkVmdhYVQ5WlAyc0R1MUVHX044Rm5LempxRGRuN1JVY3VJejJLQ2xZbXFOWmhwSFJLQnlJM3JOVmc0S3VTRkhR?oc=5\" target=\"_blank\">México Tech Week: SoftBank y Kaszek debaten IA</a>&"
     },
     {
-      "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
+      "title": "La startup Primero, cofundada por un colombiano, levanta US$12 millones para expandir IA en grandes empresas - Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3BqdmZtU2ZxOHBsWnVGczdFQ1EySzk0bXVtaFNrZXhNbEE0TURBd0FVMFU1ZGQtVW5DTEJLZ3VadjN1X3pEcjk4LVM1X05RMFYtdw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 22:44:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -91,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
-      "title": "CX Forum Monterrey: el futuro de la IA y la experiencia del cliente - Milenio",
+      "title": "CX Forum Monterrey: el futuro de la IA y la experiencia del cliente - MILENIO",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 06 Oct 2026 19:15:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz?oc=5\" target=\"_blank\">CX Forum Mo"
-    },
-    {
-      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
     },
     {
       "title": "Organizaciones del Presente: el foro que reunió a líderes de la IA y la tecnología - PLAYERS of Life",
@@ -113,6 +105,14 @@
       "category": "news",
       "published": "Tue, 22 Sep 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzZZTnZGazc5a1p3SnY5LTB0S1dSSWJrTnJyZWFFNTYtT2xHZ3BqeHdsWmsxRkVyRnM1eUYzWGc3SVkyLUU2OUtPSnhPNjZxOHRGTXJLUTJPeVFITWpiUWVPRlB0VXZJS0VSSlYxV2xfMnh2YTNVeE1uRTVqWk43YlVMU2Y0V0tPM0drNTN4T05sUQ?oc=5\" target=\"_blank\">Organizaciones del Presente: "
+    },
+    {
+      "title": "Festival IA Connecta B2B debuta en Monterrey tras 8 países - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOVkdmUUtfTzJZSlJuUnpMcUxBMGRyQ241b1JEcEMzdnFWVmZucVg1a2pnbndLeHlKQ2RYbzB5NTMxcFF2UUFRNHpHUjE5Y2J4RFhlbzlyclEyR0VWOEFvc3A2a0ZnOE9aRjBNTWVJTXhBZVFHQTB3aDhsODVfajRMOUh0TkFsR0JYRjY1OXN6SWZTVzg?oc=5\" target=\"_blank\">Festival IA Connecta B2B deb"
     }
   ],
   "count": 14
