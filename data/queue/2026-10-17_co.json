@@ -3,14 +3,6 @@
   "country": "co",
   "articles": [
     {
-      "title": "Gobierno Nacional y Google se unen para transformar la educación en Colombia con nuevas rutas formativas en inteligencia artificial - Ministerio de Educación Nacional",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbi1uUWU3Z3pGaGJ3eDhLdW5GMURSV2RoSGMxbUYwc0ZqRTA3UUdzbTk2VnlieS1FNENRcE1TRm94VDZXbWhMbGVaWkpwQWZzNmEyOEpocnRTUHRUXzNLc3RlTUUwYzRQczRyQmRpX0Q2TWgxcVZnZHdQMndXNEgwdmw1Wm9Nbk04MldHdzlqRXRtbndjeEo3S1dIZHJVWDlfaE1iTDUzMkdNMG03UGVaYnBURnRBcFY5U3NpQ0gxcjF1VDJNRW5ycHFOOENXU1ktcnUtdDZiNmZKYVBYRS1TUktwWlZDLTNnQXVtT0dJVHBqSDlGOFZCbXRxMVRudVJyYmhDYzlYeGcydXpTSGd3OVBBWk4tOTliWU5QY0ZFRll4ZTl2Z2xz?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 16 Oct 2026 22:45:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPbi1uUWU3Z3pGaGJ3eDhLdW5GMURSV2RoSGMxbUYwc0ZqRTA3UUdzbTk2VnlieS1FNENRcE1TRm94VDZXbWhMbGVaWkpwQWZzNmEyOEpocnRTUHRUXzNLc3RlTUUwYzRQczRyQmRpX0Q2TWgxcVZnZHdQMndXNEgwdmw1Wm9Nbk04MldHdzlqRXRtbndjeEo3S1dIZHJVWDlfaE1iTDUzMkdNMG03UGVaYnBURnRBcFY5U3"
-    },
-    {
       "title": "Gobierno nacional y Google se unen para transformar la educación en Colombia con nuevas rutas formativas en inteligencia artificial - MINTIC Colombia",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Q2F0UFhGcENkdkpxV29uTklKbWVMWUFXS2MwTlBnbURpYThoaWktVG9DMGx4SzVYbXo1QnNaamhKLTRBSDJ4MVVFY2d1QVNQYkhobWNQR2JiVkVWcWlfQmpKTkZtZUxNWkhJ?oc=5",
       "source": "Google News",
@@ -19,19 +11,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA5Q2F0UFhGcENkdkpxV29uTklKbWVMWUFXS2MwTlBnbURpYThoaWktVG9DMGx4SzVYbXo1QnNaamhKLTRBSDJ4MVVFY2d1QVNQYkhobWNQR2JiVkVWcWlfQmpKTkZtZUxNWkhJ?oc=5\" target=\"_blank\">Gobierno nacional y Google se unen para transformar la educación en Colombia con nu"
     },
     {
-      "title": "Colombiano lleva inteligencia artificial a la cabina de camiones para reducir la siniestralidad vial hasta 70% - Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNnl2eDRzQzNUZ2JVb2dvSTM2OTdadFNkVE1ab1ZSc3NvYnNMN0R0dzdfRjJzRkJnWnpPRE5VOFluRW9CSG1YUmJTVUJwcEFnZ0wxeURIOXBadkQxUU1nMFFQU1ZSLXFJQlNERGMyNUxyR3JjMXNmbGp2YlZGOXp1R3VPOTNZeEhJZjhyRFpad0tpbDJnVGlERmNqVlJxb2s1SXVBMGlDRHFwTkNTS0w2RzZWUHF0dkZVaDJpYVVBWlpGYjhwUjZFSWhWdVBvUDBVZzhtY2R3Z3J3OWh2bFE2UnVwWFJTWElSMWg0LWV30gHzAUFVX3lxTFBfbkdrS2xWcHJrVjE5YjVkMzhpZDM3XzZwMkhaRUQzRTg5X3J0T0xiNDIzaUg2aGlRUUlmRXJzSnVDVlJMMmx4a3dxZi1ZSHJzQ25hQjd5c0V2Vm1SYmp2dWlUVkdvTnR2OVctS3hVQ0NKVGdqNTlOS2p0YVhVM3VTd2pjaVVuUVM2RzlEVzlsZ1FqNVJlYUlvRnRpZ3l1VUNJVW9UQUY3d2ZwMGE3eWJBZWdseEJ5RTR4Z3FIZmFyeV83Q1FtcDh6YlFJdjlnd3JKRzlVT3JjUWpEZWZkQWJHYUV4WGtNd0VLWW1RODlGREZGYw?oc=5",
+      "title": "Gobierno Nacional y Google se unen para transformar la educación en Colombia con nuevas rutas formativas en inteligencia artificial - Ministerio de Educación Nacional",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbi1uUWU3Z3pGaGJ3eDhLdW5GMURSV2RoSGMxbUYwc0ZqRTA3UUdzbTk2VnlieS1FNENRcE1TRm94VDZXbWhMbGVaWkpwQWZzNmEyOEpocnRTUHRUXzNLc3RlTUUwYzRQczRyQmRpX0Q2TWgxcVZnZHdQMndXNEgwdmw1Wm9Nbk04MldHdzlqRXRtbndjeEo3S1dIZHJVWDlfaE1iTDUzMkdNMG03UGVaYnBURnRBcFY5U3NpQ0gxcjF1VDJNRW5ycHFOOENXU1ktcnUtdDZiNmZKYVBYRS1TUktwWlZDLTNnQXVtT0dJVHBqSDlGOFZCbXRxMVRudVJyYmhDYzlYeGcydXpTSGd3OVBBWk4tOTliWU5QY0ZFRll4ZTl2Z2xz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Oct 2026 10:40:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNnl2eDRzQzNUZ2JVb2dvSTM2OTdadFNkVE1ab1ZSc3NvYnNMN0R0dzdfRjJzRkJnWnpPRE5VOFluRW9CSG1YUmJTVUJwcEFnZ0wxeURIOXBadkQxUU1nMFFQU1ZSLXFJQlNERGMyNUxyR3JjMXNmbGp2YlZGOXp1R3VPOTNZeEhJZjhyRFpad0tpbDJnVGlERmNqVlJxb2s1SXVBMGlDRHFwTkNTS0w2RzZWUHF0dkZVaD"
+      "published": "Fri, 16 Oct 2026 22:45:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPbi1uUWU3Z3pGaGJ3eDhLdW5GMURSV2RoSGMxbUYwc0ZqRTA3UUdzbTk2VnlieS1FNENRcE1TRm94VDZXbWhMbGVaWkpwQWZzNmEyOEpocnRTUHRUXzNLc3RlTUUwYzRQczRyQmRpX0Q2TWgxcVZnZHdQMndXNEgwdmw1Wm9Nbk04MldHdzlqRXRtbndjeEo3S1dIZHJVWDlfaE1iTDUzMkdNMG03UGVaYnBURnRBcFY5U3"
+    },
+    {
+      "title": "Obispos eméritos de Colombia analizan los desafíos de la inteligencia artificial y defienden la dignidad humana - ADN Celam",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObkd3MWE2Qk1oSTd0dmVDWVFoZlVfdUh5Y1F4R1pDZGFvQ3VIRUdEdTVwaVF2VE44NXBQWWZEZzBqSW9QdzRxVng1YlpWbnc0V2tCOUtESm83U3hyQ1MzaG4yZ28taFRPRjh3Z09pUnhEX0pkajNJdnZ6TjJqX01sS000S2xvdXpqWU5OTzNxbXpDbXlFeTd4cjE4aURqWnFvd1Bxc0lyaDh6UTlEWFhRZG5Lb1F2TEJ3UlZmVWJ3RmJpQkVVbVRSQmlocVdNbGRkam5OR0FGWncwVmhsbnI3WVlfY0F1UDJiM0lB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 17 Oct 2026 15:06:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxObkd3MWE2Qk1oSTd0dmVDWVFoZlVfdUh5Y1F4R1pDZGFvQ3VIRUdEdTVwaVF2VE44NXBQWWZEZzBqSW9QdzRxVng1YlpWbnc0V2tCOUtESm83U3hyQ1MzaG4yZ28taFRPRjh3Z09pUnhEX0pkajNJdnZ6TjJqX01sS000S2xvdXpqWU5OTzNxbXpDbXlFeTd4cjE4aURqWnFvd1Bxc0lyaDh6UTlEWFhRZG5Lb1F2TEJ3Ul"
     },
     {
       "title": "Alivio para ponerse al día: Bogotá ofrece 60 % de descuento en intereses de multas de tránsito - Bogota.gov.co",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNEMyMFE3THNvSXVveXNQb0JSVzdCRFlXNllfRmpjeVhCWW1OLUNvWk15eXUwRm5sdkppWXhCVkhUTUtrbGg4VDFvYmxlZ1lEWGFhWGFrbnZvdWsxcUd0dkFPWHdWNnBCcTljM2xvV3dTdEtEeklkWnlzclc3QWhlRTdlb0xUdmRka1lEVE1aT3gyVjhBd3pEYXlnYVQ0Rm1zd2xRU01BX1BvQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Oct 2026 23:49:40 GMT",
+      "published": "Sat, 17 Oct 2026 15:59:13 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNEMyMFE3THNvSXVveXNQb0JSVzdCRFlXNllfRmpjeVhCWW1OLUNvWk15eXUwRm5sdkppWXhCVkhUTUtrbGg4VDFvYmxlZ1lEWGFhWGFrbnZvdWsxcUd0dkFPWHdWNnBCcTljM2xvV3dTdEtEeklkWnlzclc3QWhlRTdlb0xUdmRka1lEVE1aT3gyVjhBd3pEYXlnYVQ0Rm1zd2xRU01BX1BvQQ?oc=5\" target=\"_blan"
     },
     {
@@ -43,20 +43,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzVpQUIwZ0xpVlZDN0pyVnVoQUh6aXpqRFFoZzl3c2RJNDhaNzJUZ2Q5NG9KYkowaXY5UWE4TkNzemxRYzFXRVFiQUpQTWF3SkVVOUtyN1l0aHlHUGRlTEh4Rlk0aFJVR3piV2VWLWxaUWhYVmFFOWtNM3Q4bXRMNWllbTRPQy15aW42NDdsVUdINUZ5eTFaSXV1cGJOYmRZb0huTUpmRE5iV3ZsYUpweUF4OWZIYTYtLX"
     },
     {
-      "title": "Choque entre tractocamión y moto deja un muerto: vía Bogotá-Mosquera totalmente colapsada - Revista Semana",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTZKdmpwQXVpZXRkelFyWG9RSFRiLWtkLTBETl93VF9FSjR5QXpObVdxbjg4elByQ0JINGRCZTlsV1liMWU1Mi1nVDRVNzFmYWI3V3NKMllOeGtWZV9QR1VoZTJFejlXUkFiYVZQSjlPYjJqSFFZd1JTc2xqbFVPODNYUUhDemhMT1ZUalBtb2FHZTNjTFBQN2FocVZaLWE4bFNKbFcxRzBZZmNYT3cyT2tIZk5fSHp2WWtIbFpUYUQwOERCN2FGTUR3YXVTVG1TRGFtYg?oc=5",
+      "title": "Expertos y empresas se reunirán en Bogotá durante el Foro ComplianceLatam para debatir sobre compliance, IA - Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3NvaUhaT3ZQaXJEc2dlLVRUcEFrSU1PM3ZSWUtTRV9IUk5xdV9Vd1pkVEZsMExwQVpWNFpkR1pxTUx3Ykp4QkFsdTZqUHhVTjZGV0ZieHNMMjlFTkQxWUFxd041Sm1MQm45MHNhWG1aYWNCbjJqSFlLa3hMc3pBZjNTYi0tbi1lT2pLT1lVX0c1LUVYQngxYXRQdl92S2lQT25BZkRLTVB1b3lTa3dNSTJIRlZYb0V2V0tLVjZHRXZfZ285bTlIaW0xVFJFVVNTeWVxaVRHQ0RHUFhVeE54WXUzV3FNdHJ1bnp2UmtDMmgwSG_SAfgBQVVfeXFMTjA5OWRMYnBGQWtoRmRQSmpsc2VhVUFTdUFDQUE0cDNTQUxtOUdPUzJZYmtnSmZuLUZnWncwNlVFVGo2aGJjbTNWTzItY01RZ3JPT08wTUZ5U0pZall4bmVSUXlpUmIzaDZhQTAwNXU5TjM4dm1fbzh0bFRlX2xzRS1YT0xDNlZ6YzczNjgtUFZtbTJtSGRXYjlQRUNSVUVBZzdyMXFqWTR4TXJiX0ZLdnpYNTFxSXZKQ2hmSXEyWVVpM2dNUGFzTWVZMFZRYUxtZUViVDB0X0p5NVRHQzQ5YzVJcEVfSTFlMHdoTTdiWFlWSi11cFRiMXk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Oct 2026 21:36:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdTZKdmpwQXVpZXRkelFyWG9RSFRiLWtkLTBETl93VF9FSjR5QXpObVdxbjg4elByQ0JINGRCZTlsV1liMWU1Mi1nVDRVNzFmYWI3V3NKMllOeGtWZV9QR1VoZTJFejlXUkFiYVZQSjlPYjJqSFFZd1JTc2xqbFVPODNYUUhDemhMT1ZUalBtb2FHZTNjTFBQN2FocVZaLWE4bFNKbFcxRzBZZmNYT3cyT2tIZk5fSHp2WW"
+      "published": "Thu, 15 Oct 2026 19:30:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM3NvaUhaT3ZQaXJEc2dlLVRUcEFrSU1PM3ZSWUtTRV9IUk5xdV9Vd1pkVEZsMExwQVpWNFpkR1pxTUx3Ykp4QkFsdTZqUHhVTjZGV0ZieHNMMjlFTkQxWUFxd041Sm1MQm45MHNhWG1aYWNCbjJqSFlLa3hMc3pBZjNTYi0tbi1lT2pLT1lVX0c1LUVYQngxYXRQdl92S2lQT25BZkRLTVB1b3lTa3dNSTJIRlZYb0V2V0"
     },
     {
-      "title": "Dos startups colombianas, ganadoras entre 625 postulaciones para acelerar innovación en salud en América Latina - Technocio",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXNobGYwOVhmXzhUdnFZeWpwem9QTmhlNUU1X3FGYlVpWVRXZ3dHemFPSUdCMk5IaTFSaUlQY1I4R1RHS3dCaFZNOWtobXBlUmlvUDBRclpLeGF2V3Rsa3R6M3NuX0hLQjI0Mkc1T3RyRWdQWmZjeTJ5RWgzd25JalF0ZmRxM0xMdTBXLVpYUEtMaTN2bVRNOWh3VFhINkFkMXJaRGdmOGVmQmdLZ3l6NGpfa3NYdjBWdWhQUkMtMU9TS0tZUWFsY3Y3dEh1QUhEc3dZ0gHYAUFVX3lxTFAwSWVDT1o2QTFpbGVEcV9IQ0thM2U0S2ZYb0lPM21MekYtOHRGcTkwb1FfS0VrcmoxUDFQdGZ0aGdzeFBlVWRoel85OHA4Z2VOT19XM3lyMmFkMUFMVE0zaU1tSlU3QllHQzVCNUhvSUwxU0t2a2l2bm9wam1tdmxTR3ExUWxYZVRfUDhnSzlaSzdmOTRrZkdqRFp0ek0zZm9GZDBIejlobUhRQU0tLXVJYUI2cS05cEt0emRBUE9tR2lrZ0h5SDlNMUJLS2JRSzM2NHA4UHd0Vw?oc=5",
+      "title": "Innovaitors: startup colombiana factura US$1M con IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzJNaHdpZDdXWGdES0M1MF9fQ08ySVVERXUxNkRYLWJDTTdhVi1qbWJLTVp2Z2JJRXFqdXdhV1RLYmZSTDVsM2VrSFNpOWM4MUc2Q1I5dU1lbDVETWZzWnhtNzd1TTdibV9wdWNHenBXa0FQbFpiOW9YczJmNy1RSlNMUGJzSXB4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 13 Oct 2026 22:14:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXNobGYwOVhmXzhUdnFZeWpwem9QTmhlNUU1X3FGYlVpWVRXZ3dHemFPSUdCMk5IaTFSaUlQY1I4R1RHS3dCaFZNOWtobXBlUmlvUDBRclpLeGF2V3Rsa3R6M3NuX0hLQjI0Mkc1T3RyRWdQWmZjeTJ5RWgzd25JalF0ZmRxM0xMdTBXLVpYUEtMaTN2bVRNOWh3VFhINkFkMXJaRGdmOGVmQmdLZ3l6NGpfa3NYdjBWdW"
+      "published": "Sat, 17 Oct 2026 08:18:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzJNaHdpZDdXWGdES0M1MF9fQ08ySVVERXUxNkRYLWJDTTdhVi1qbWJLTVp2Z2JJRXFqdXdhV1RLYmZSTDVsM2VrSFNpOWM4MUc2Q1I5dU1lbDVETWZzWnhtNzd1TTdibV9wdWNHenBXa0FQbFpiOW9YczJmNy1RSlNMUGJzSXB4?oc=5\" target=\"_blank\">Innovaitors: startup colombiana factura US$"
     },
     {
       "title": "Bogotá conecta startups y empresas tecnológicas con inversión y nuevos negocios en Colombia Tech Week - Bogota.gov.co",

@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cuáles son los síntomas de alerta del cáncer de pulmón, el diagnóstico del papa León XIV",
+      "url": "https://www.latercera.com/tendencias/noticia/cuales-son-los-sintomas-de-alerta-del-cancer-de-pulmon-el-diagnostico-del-papa-leon-xiv/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 17 Oct 2026 12:01:00 +0000",
+      "summary": "El adenocarcinoma pulmonar es el tipo más frecuente de cáncer de pulmón y puede afectar a personas que nunca han fumado. Conoce sus factores de riesgo, síntomas, pronóstico y tratamientos."
+    },
+    {
+      "title": "Lluvia, granizos y tormentas: el pronóstico de un nuevo sistema frontal que llega a Santiago y la zona central",
+      "url": "https://www.latercera.com/tendencias/noticia/lluvia-granizos-y-tormentas-el-pronostico-de-un-nuevo-sistema-frontal-que-llega-a-santiago-y-la-zona-central/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 17 Oct 2026 09:01:00 +0000",
+      "summary": "La Dirección Meteorológica de Chile actualizó el pronóstico de lluvia para Santiago y la zona central. Revisa cuándo comenzarán las precipitaciones y qué regiones podrían tener tormentas eléctricas, granizos y viento."
+    },
+    {
+      "title": "Yuri Quintana, ingeniero experto en IA: “Lo que sabemos como humanos es mucho más de lo que cualquier sistema de IA ha leído”",
+      "url": "https://www.latercera.com/tendencias/noticia/yuri-quintana-ingeniero-experto-en-ia-lo-que-sabemos-como-humanos-es-mucho-mas-de-lo-que-cualquier-sistema-de-ia-ha-leido/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 17 Oct 2026 09:00:01 +0000",
+      "summary": "Experto en la incorporación de tecnologías digitales en sistemas de salud, el especialista advierte sobre el complejo desafío de aprovechar las oportunidades de la inteligencia artificial para escalar soluciones en beneficio social y evitar que la tecnología profundice la desigualdad en esta área."
+    },
+    {
       "title": "Confirman lluvia en Santiago, Valparaíso y Coquimbo: comenzaría este día",
       "url": "https://www.latercera.com/tendencias/noticia/confirman-lluvia-en-santiago-valparaiso-y-coquimbo-comenzaria-este-dia/",
       "source": "La Tercera Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Fri, 16 Oct 2026 09:02:00 +0000",
       "summary": "Un ensayo clínico publicado en Nature Medicine evaluó el mecanismo del fármaco teclistamab, una inmunoterapia que mostró resultados prometedores contra el mieloma múltiple."
-    },
-    {
-      "title": "Cuántos años de buena salud puede “robarte” la soledad, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/cuantos-anos-de-buena-salud-puede-robarte-la-soledad-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 16 Oct 2026 09:01:00 +0000",
-      "summary": "Los investigadores analizaron factores como el aislamiento social y la soledad, y sus potenciales efectos en la salud mental y física. Revisaron datos de más de 277.000 adultos de entre 40 y 69 años."
-    },
-    {
-      "title": "Qué es un radar meteorológico y por qué es clave para anticipar lluvias, tormentas y tornados",
-      "url": "https://www.latercera.com/tendencias/noticia/que-es-un-radar-meteorologico-y-por-que-es-clave-para-anticipar-lluvias-tormentas-y-tornados/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 15 Oct 2026 17:09:39 +0000",
-      "summary": "Los equipos permiten observar las precipitaciones y los movimientos de una tormenta con una precisión espacial y temporal que los satélites y las estaciones meteorológicas no pueden ofrecer por sí solos. Su uso resulta clave para detectar fenómenos extremos, estimar la intensidad de las lluvias y me"
-    },
-    {
-      "title": "¿Son un peligro para América los dos fuertes terremotos registrados en el océano Atlántico?",
-      "url": "https://www.latercera.com/tendencias/noticia/son-un-peligro-para-america-los-dos-fuertes-terremotos-registrados-en-el-oceano-atlantico/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 15 Oct 2026 13:32:09 +0000",
-      "summary": "Dos terremotos de magnitud 6,7 y 6,8 sacudieron el océano Atlántico. Un geofísico avivó una alerta por un posible “efecto dominó”. Sin embargo, otro experto aclara si existe un verdadero riesgo para América."
     },
     {
       "title": "Índice Latinoamericano de Inteligencia Artificial 2026 será presentado el 20 de octubre en la CEPAL - Comisión Económica para América Latina y el Caribe",
@@ -59,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYl9UMUNMRzNNQ0JTNjBhQVRvM1h0eGZVUWdoYUZVYWZKWlhlMk9iTF9NSDJFaUYzT2cydWNlMUxxZ3F6eVh5c1AtWGFnbVRKaXhnVC15Y01Jc0tid0ExeUc4MGE1RVRxVk1iNy1RS3RnM2FJUXV3bWlIR2g2TENlS0RMOTRoYUMxOWJ2eUxkdzQ5TzUzaGFCWHlrT0cyX2JfQ3FyVDlvaXpFOHlXN0hzUTlB?oc=5\" tar"
     },
     {
-      "title": "La doble cara de la Inteligencia Artificial: cuando la misma tecnología protege y ataca - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXk3bTdmTG5UaU1PN0p0bHFTS3M3bkd3aExGUnUwRkYtUUttcjhvT0xWanBlejVpUV94VnRfdWx6RWVFNmVUOWQ4dG9IY2hGV0pnUld5Zms0a2U0ZjkzNEJybnVLM3ZwMGNZTFdKTzhMcnd2cDlCNWVmeE0yMkZnNWh3SHZxODNSMWVrN2NIYVdUYzFnT1ZCbDBsZ0JSdE9zRWZxeXlYX1RNbzlLR2djazNKZGotZmk3VzYzeFhUQlRTV1Z4WnRxMERKc085Zw?oc=5",
+      "title": "La Tríada 2026: una mirada a la inteligencia artificial - Universidad de los Andes",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Oct 2026 14:27:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXk3bTdmTG5UaU1PN0p0bHFTS3M3bkd3aExGUnUwRkYtUUttcjhvT0xWanBlejVpUV94VnRfdWx6RWVFNmVUOWQ4dG9IY2hGV0pnUld5Zms0a2U0ZjkzNEJybnVLM3ZwMGNZTFdKTzhMcnd2cDlCNWVmeE0yMkZnNWh3SHZxODNSMWVrN2NIYVdUYzFnT1ZCbDBsZ0JSdE9zRWZxeXlYX1RNbzlLR2djazNKZGotZmk3Vz"
-    },
-    {
-      "title": "Santiago Soriano: \"La IA aumenta la brecha social\" - La Tribuna de Albacete",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORDlOLTIxZzItSDVXemNGUS1zei1hcWpCQ2o3ZkRUbWNQNVoydk5TSlNuRm5kMmNVR1Rzc0xtNEFNeHJVb2k2X2Z1WWFUVVZfejhIX0RjQk1wbmdFTnNGb0dCRGVXRG14Zk9QWmd6d0FEX1JlSUpTRHV1V1MtTWVFX1RVYzJrZkpGb0dkMWhnR2NzamxWbDhWTHNUN0hXckZxVFAxMm1xSzVURFdxczMwRS0wX2FwS0N5dVhmZWtGUmwxc2QtYlJUVmI5bmQtVTQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 16 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORDlOLTIxZzItSDVXemNGUS1zei1hcWpCQ2o3ZkRUbWNQNVoydk5TSlNuRm5kMmNVR1Rzc0xtNEFNeHJVb2k2X2Z1WWFUVVZfejhIX0RjQk1wbmdFTnNGb0dCRGVXRG14Zk9QWmd6d0FEX1JlSUpTRHV1V1MtTWVFX1RVYzJrZkpGb0dkMWhnR2NzamxWbDhWTHNUN0hXckZxVFAxMm1xSzVURFdxczMwRS0wX2FwS0N5dV"
+      "published": "Wed, 30 Sep 2026 19:16:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcUV2MmR5dWxZRVR2eExlT0Y1a3FlV3ZfdTZYT0t5WWhRbDZzSDdHdFZCXzVlMEt2OGdOX1ZJQzBuTXk2dlBkTGF1dXdzVExCcE9WSzRwWVk3c214WkJOUGlUSGFQc2hpUU1VY3NzREJTVmNaTFdwRXlvLVk5OUszRTVxWkRjN3ZKUlFMYjFYU0dTLXliUl90NF81XzRZbm9VZTQzY3pFZGg1cGxHb3ExWTJHYkQ1Ukk?oc"
     },
     {
       "title": "La IA le ahorra tiempo, no le ahorra pensar - LaRepublica.co",
@@ -91,6 +83,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUpBUjN4ZWhNOTF6T3RudGpuSEpfdFpxeVBRVVp3bkRpUzBtUlozcEE2QjM3NVg4c1dONzhrQ0l3UnBYb09HUGQ1LW1UeVNnbFNhN0JNV3JVX1l4emZCQjBRM3pKTTI0b1huekl6Y3VsTlFUb0JoazBBSDdMUU55TlRlMnBobWFTOEIxZEpEM1NtODVwYkRRbFkyU0o3NFhfMUROUnk2SE4tdDBiZVBSM1FHRzZKWEJXNE"
     },
     {
+      "title": "Santiago Soriano: \"La IA aumenta la brecha social\" - La Tribuna de Albacete",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORDlOLTIxZzItSDVXemNGUS1zei1hcWpCQ2o3ZkRUbWNQNVoydk5TSlNuRm5kMmNVR1Rzc0xtNEFNeHJVb2k2X2Z1WWFUVVZfejhIX0RjQk1wbmdFTnNGb0dCRGVXRG14Zk9QWmd6d0FEX1JlSUpTRHV1V1MtTWVFX1RVYzJrZkpGb0dkMWhnR2NzamxWbDhWTHNUN0hXckZxVFAxMm1xSzVURFdxczMwRS0wX2FwS0N5dVhmZWtGUmwxc2QtYlJUVmI5bmQtVTQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 16 Oct 2026 03:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxORDlOLTIxZzItSDVXemNGUS1zei1hcWpCQ2o3ZkRUbWNQNVoydk5TSlNuRm5kMmNVR1Rzc0xtNEFNeHJVb2k2X2Z1WWFUVVZfejhIX0RjQk1wbmdFTnNGb0dCRGVXRG14Zk9QWmd6d0FEX1JlSUpTRHV1V1MtTWVFX1RVYzJrZkpGb0dkMWhnR2NzamxWbDhWTHNUN0hXckZxVFAxMm1xSzVURFdxczMwRS0wX2FwS0N5dV"
+    },
+    {
       "title": "Impulsan expansión de startups chilenas hacia mercados estratégicos - Agenda Logística",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFZoUFItbDBrRVE3OTgtSnVLdC1NTHpXS0l3UTItSXBZWGd2bFFYcVpOUC1EbVJpRm5XRkRkZTAzdzhOWUtMLUFvSnk3SzRIbEtJcXVJSzdiNE1KeEJEbGlxS2tQQ3lWZ3ltVGlHOHExanJKbVRhZm40bkY2c3ZBTGhDR0djdmREWEFjN3lOT0h3bzN4YXdMdzF4TmRmRDFYalBwTG9rU1VnN1NmVTd4Mjk5TmI1bU1yZ1pFN0dXMFhvRmlkNGhobWkzNA?oc=5",
       "source": "Google News",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWN5eDdRRmFCeTNpZHo3VEYzd0wtdktNb2laVG9UOGk2VmgtVTN2M2RReWJJay1vcEFWMFNEN1BzOE1BR2ZFWVl0NDZKNGljZjdkNXlXb2psaVloR1pIQ205ZEtuWC1ZeHo2NGM4U18xVUI0TFZNRVhXYnpoamQzZzVvU0dDeWFFczFaVk9B?oc=5\" target=\"_blank\">INNOMATCH: la plataforma que conect"
     },
     {
-      "title": "Cuatro startups chilenas competirán por un cupo en la final mundial de emprendimiento en Portugal - Infogate.cl",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNktFd3hKQmN2eFd1VVVKQkxOcF9rUEo3eHJJM1BkM3ZFNGtLUk5JYS1PZ0EyWmZSVklHQllHb0ZZSTg4S2gwQUUydS10ZWhJakZJWmhpWm5EZnY5aXNlenB3V0NtUjlwZXNTdlF2V20xNFJfNDdrUUR4bXFOVnRhMUVSV2xZWGI4TlNJSzNzRlQyR0lYRWkyaVdhai04Nk9UWFQwNlQzWWpVZUxNNFBHaWNXY0pzckVPZWoxMG9PVmNQam5n?oc=5",
+      "title": "Solución de IA para la escasez hídrica hasta un sistema de asistencia visual: cuatro startups chilenas van por un cupo a la final mundial de emprendimiento en Portugal - Portal Innova",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZFM0Y3A2NENpVzdWV1dQRFlKbHdTcnlMTjd6NnFUMEo1dVVvck5rbDZtS010a3BYc0lwMFZQeXQ2U2xRSkJzWU5TSTdfMlVzanNRQ2VQY1haaV84cnA0Z3Z3Q253REowaVdLZzB1VXFyOTJzc09hS2x1SzBFWXBJcElweTlLTjNjVlM5ZTJJUzM5VW5Ra1NqOVNJTnlLU0RYTnRFdVhlQVBjZi1NQVdESGVQM09iUHg5NFg0SUNITXRQUnJiaGxQZC1teE9yZHVKY0g1NE1LY1Fnd2Z6UlhQenRsTzdCV1pXYkE2TG8wMDFiSUpnTEFOMXE4Z2JCLXN2UklHZXNVaFFWek9LcVRjUmswVWZwS2czRGxV?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 16 Oct 2026 15:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQNktFd3hKQmN2eFd1VVVKQkxOcF9rUEo3eHJJM1BkM3ZFNGtLUk5JYS1PZ0EyWmZSVklHQllHb0ZZSTg4S2gwQUUydS10ZWhJakZJWmhpWm5EZnY5aXNlenB3V0NtUjlwZXNTdlF2V20xNFJfNDdrUUR4bXFOVnRhMUVSV2xZWGI4TlNJSzNzRlQyR0lYRWkyaVdhai04Nk9UWFQwNlQzWWpVZUxNNFBHaWNXY0pzckVPZW"
+      "published": "Fri, 16 Oct 2026 19:28:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxPZFM0Y3A2NENpVzdWV1dQRFlKbHdTcnlMTjd6NnFUMEo1dVVvck5rbDZtS010a3BYc0lwMFZQeXQ2U2xRSkJzWU5TSTdfMlVzanNRQ2VQY1haaV84cnA0Z3Z3Q253REowaVdLZzB1VXFyOTJzc09hS2x1SzBFWXBJcElweTlLTjNjVlM5ZTJJUzM5VW5Ra1NqOVNJTnlLU0RYTnRFdVhlQVBjZi1NQVdESGVQM09iUHg5NF"
     }
   ],
   "count": 14

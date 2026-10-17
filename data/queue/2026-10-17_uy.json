@@ -3,14 +3,6 @@
   "country": "uy",
   "articles": [
     {
-      "title": "Uruguay apuesta a la IA con un parque solar más grande que toda la energía solar que tiene hoy el país - Gizmodo en Español",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0pPeHF3RzFPalVsTExQcFpIVWlWcTdaRlBVTUtJejBLV21fYnl3bExlOWdRTmJmanM4UW5SUWFYb21qSUNOLXh4SkVVdl9VRFBocFA1OER1WGJqelZDS3Byd3EzLUhFeFR6aldTUFA3d1FtVUpkYjZYalNKZ1ZRTG5EbUNIVGtEajBMUEZnZmY4V2x4U3laZWVhQ0EyR3NFSkxJUGstY2ZabVJHazRTcS1oMEdPV2Q2RUtldS1qY1Ntc2QyV3pEMzFqRW9rNzE5Qnc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 16 Oct 2026 16:03:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0pPeHF3RzFPalVsTExQcFpIVWlWcTdaRlBVTUtJejBLV21fYnl3bExlOWdRTmJmanM4UW5SUWFYb21qSUNOLXh4SkVVdl9VRFBocFA1OER1WGJqelZDS3Byd3EzLUhFeFR6aldTUFA3d1FtVUpkYjZYalNKZ1ZRTG5EbUNIVGtEajBMUEZnZmY4V2x4U3laZWVhQ0EyR3NFSkxJUGstY2ZabVJHazRTcS1oMEdPV2Q2RU"
-    },
-    {
       "title": "Uruguay prepara integración de inteligencia artificial en su sistema sanitario - consultorsalud",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFTTdYei1xOEkybUpwMVZnY0xCVXdsMXVSaVUyLTRSbERQbm1ibjQwRFo1R1lsZXJ0anZQd1c2eHUzcmw0QWcwQWs1VzRPRHJvd2lBUzVKMXhnYlVLSFloNmlDeXVrUHdHRzY3U0hZRnRnb29jWDg2MjJ0OThWQVk?oc=5",
       "source": "Google News",
@@ -25,6 +17,14 @@
       "category": "news",
       "published": "Tue, 09 Jun 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2luMlJ3TXJyaWdETWV0QjNpdUJXbFBwSF9xajdEQ0JjT0ZQQ1NUMVVLUG41ZFZzV3F4R3h1bFNXUmZVcE5vYkw3RDVXaFlDTmxUdjZvTUlCLUdkdFc3b3c4MVlLcU5lcmxXQnBOeWY1RlhfYlZYVElmX2g3dktFcDg0Ni03NkJJUG4tRWY1OVVXczZEWHQxSC1TeXdHOFJrXzJfN0xEa1EtaFlDb2xCTWpDVWpzQlJYaj"
+    },
+    {
+      "title": "Colombia y Uruguay fortalecen sus capacidades para regular la era de la inteligencia artificial - | Comisión de Regulación de Comunicaciones - CRC",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3FrRVp1MGpNbjNrd1lHWnlyb3hQYmx2Yll4SERtRmVlRGIySkRhUXVUempGV0xWNzZHN2RWWl9zRHVKZGF3VERwRVNJbVBaYUkwTXRQMGduUXNBMGNYN0pxVEJBMzNTeTBVeWVHZGFkWkdKa0NwanNiNjRyZUJjNUFyODBWUlduME1kc0pOcExTenhHTE9fUTlONFRsV2FFWm1BZ29tT3BiS19WMzdLLTg3NmUzYUJGVVdiRmwyV2pGV1FjenZYaA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 03 Sep 2026 20:46:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX3FrRVp1MGpNbjNrd1lHWnlyb3hQYmx2Yll4SERtRmVlRGIySkRhUXVUempGV0xWNzZHN2RWWl9zRHVKZGF3VERwRVNJbVBaYUkwTXRQMGduUXNBMGNYN0pxVEJBMzNTeTBVeWVHZGFkWkdKa0NwanNiNjRyZUJjNUFyODBWUlduME1kc0pOcExTenhHTE9fUTlONFRsV2FFWm1BZ29tT3BiS19WMzdLLTg3NmUzYUJGVV"
     },
     {
       "title": "Montevideo inauguró un nuevo Laboratorio de Bromatología con tecnología de vanguardia - Intendencia de Montevideo",
@@ -83,20 +83,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWlhpVHJLbkdSWVhjSGtIUkdtUzl4TEdFZ1RHV0VBLUdod0N0dTY1ZmxVWm5fdElEcWMwcm9RTzRpbTZoTFUxYTQycVl0MUd1R19wZmhMQk9adk5VZjhzeS04Q0R6OFVJbDFVekFuV3JFcnRZTk5yX19kLTlkTjhuZUxpTTl6eW1jWDVVekVla01oZURjcElvRzhSY2l3ZnhEOEJuRHd0N2ExRjZCZ293VzlQQVNBdUQxZG"
     },
     {
-      "title": "BID invertirá 4,200 mdd para impulsar la innovación en Uruguay - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80T0h6LTFETWVFQ3JMQWJ2THp3dkpPVHFJd2kySUVGQ1c1NGRzUXlnRzh0NXdEelpoVzB3cWp3Y2xkbERLdlFWQllaTkhsOVpBTi1nM0IyZVVoVVZ1eXVlSTZobXJESDVQMDJLV0JnQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE80T0h6LTFETWVFQ3JMQWJ2THp3dkpPVHFJd2kySUVGQ1c1NGRzUXlnRzh0NXdEelpoVzB3cWp3Y2xkbERLdlFWQllaTkhsOVpBTi1nM0IyZVVoVVZ1eXVlSTZobXJESDVQMDJLV0JnQQ?oc=5\" target=\"_blank\">BID invertirá 4,200 mdd para impulsar la innovación en Uruguay</a>&nbsp;&nbsp"
-    },
-    {
       "title": "La Xunta comparte su modelo de transformación digital con expertos de Argentina, Panamá, Uruguay y Guatemala - GaliciaPress",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTV83TkNqcTNRVGM3aHg1RnlaXzc4cHdWX1c4ZExSV2hmTUI2NDdlLWFNdk5FZWE0S3VYWnhUWVdRbFA1Qy1jRzl2Zm1ZcGlGRVd0Y3FUVmVHT2FncTNPT255TnExSl9WMlR4QUJ0WWZqbG1LOGFpWUNVXzVhMkZKR3M2WmZrUXFjSWpjWHpjXzVLUklKWnJDVzVIZmFlc2h0STc5M2VKd3kwM1NoLWFiR2QtUGdkZWNsOXprOHpEQkh4NTYxZWRQaWZ6ZDBXMUZpamVsbXJra2hlWUxRWHNUMVRXNXRrX1V1?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 13 Oct 2026 09:16:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTV83TkNqcTNRVGM3aHg1RnlaXzc4cHdWX1c4ZExSV2hmTUI2NDdlLWFNdk5FZWE0S3VYWnhUWVdRbFA1Qy1jRzl2Zm1ZcGlGRVd0Y3FUVmVHT2FncTNPT255TnExSl9WMlR4QUJ0WWZqbG1LOGFpWUNVXzVhMkZKR3M2WmZrUXFjSWpjWHpjXzVLUklKWnJDVzVIZmFlc2h0STc5M2VKd3kwM1NoLWFiR2QtUGdkZWNsOX"
+    },
+    {
+      "title": "Personal Flow impulsa la innovación y el talento digital de su equipo en Uruguay - Diario NORTE",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOME0wRkNVcjdXZzFKbG1GeF9EdF9SS1M1WE9zLTB0cndUOXdLU2VZanhHV3JFb3VETlhVb0hQSlFlNGpudHBGYTZKN2M2anJmM2V5enlDSEFveTJFQ2o4MFN2SnJ2dEFaOUo4Qm1sdjlROU9HdEp3RE56Z3JLa2RWUS1lSjd5dHlaUXE1ZDJoV05GWHR1QUlpc0U3cTFDTjlSeW9rMWllclNyVGt0RnAtV2JDa25zdWV6TlBJNGZBRk4tVGZHTFE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 11 Oct 2026 12:38:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOME0wRkNVcjdXZzFKbG1GeF9EdF9SS1M1WE9zLTB0cndUOXdLU2VZanhHV3JFb3VETlhVb0hQSlFlNGpudHBGYTZKN2M2anJmM2V5enlDSEFveTJFQ2o4MFN2SnJ2dEFaOUo4Qm1sdjlROU9HdEp3RE56Z3JLa2RWUS1lSjd5dHlaUXE1ZDJoV05GWHR1QUlpc0U3cTFDTjlSeW9rMWllclNyVGt0RnAtV2JDa25zdWV6Tl"
     }
   ],
   "count": 12
