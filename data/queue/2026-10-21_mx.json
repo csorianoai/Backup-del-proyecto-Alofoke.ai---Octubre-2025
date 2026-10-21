@@ -3,6 +3,38 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Tu iPhone tiene un ‘botón secreto’ que lee las etiquetas de tu ropa y te dice cómo lavarla sin arruinarla",
+      "url": "https://expansion.mx/tecnologia/2026/10/21/iphone-boton-secreto-busqueda-visual",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Oct 2026 16:30:42 GMT",
+      "summary": "Aunque la cámara de los iPhone destaca por ser un potente lente creativo, también oculta algunas útiles funciones para la vida diaria."
+    },
+    {
+      "title": "A OpenAI no le importa la competencia: utilizará la nube de Google para sus modelos a pesar de contratos con Microsoft",
+      "url": "https://expansion.mx/tecnologia/2026/10/21/openai-utilizara-la-nube-de-google",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Oct 2026 15:21:48 GMT",
+      "summary": "Con este movimiento, la desarrolladora de ChatGPT busca que su IA se adopte más en plataformas empresariales y generar más dinero a partir de esa vertical."
+    },
+    {
+      "title": "Netflix defiende sus aumentos de precio: los usuarios siguen pagando pese a las tarifas más altas",
+      "url": "https://expansion.mx/tecnologia/2026/10/20/netflix-aumento-precios-2026-usuarios-cancelaciones",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 20 Oct 2026 21:55:10 GMT",
+      "summary": "La plataforma asegura que sus incrementos de precio no provocaron una salida de suscriptores mayor a la prevista. Además, prepara la expansión de su plan con anuncios a nuevos mercados en 2027."
+    },
+    {
+      "title": "Cómo agregar tu tarjeta a tu celular Android o iPhone y pagar sin efectivo en segundos",
+      "url": "https://expansion.mx/tecnologia/2026/10/20/como-agregar-tarjeta-celular-pagos-sin-efectivo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 20 Oct 2026 21:11:00 GMT",
+      "summary": "El teléfono puede ser tu aliado en distintas situaciones. Estas son las opciones para configurar un iPhone o Android y los bancos que son compatibles."
+    },
+    {
       "title": "La “Superinteligencia” ya es el negocio más grande de SpaceX; creció 830% y superó a Starlink y sus cohetes",
       "url": "https://expansion.mx/tecnologia/2026/10/20/la-superinteligencia-ya-es-el-negocio-mas-grande-de-spacex",
       "source": "Expansión Tecnología",
@@ -11,60 +43,28 @@
       "summary": "La división de Inteligencia Artificial de Elon Musk generó 7,560 millones de dólares, un crecimiento del 195% en comparación con los números del trimestre anterior."
     },
     {
-      "title": "Siri AI ya está disponible en español y esto es todo lo que puedes hacer",
-      "url": "https://expansion.mx/tecnologia/2026/10/20/siri-ai-espanol-todo-lo-que-puedes-hacer",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 20 Oct 2026 20:01:26 GMT",
-      "summary": "Apple finalmente liberó Siri AI en México y aunque todavía es una versión Beta, ya la puedes instalar en tu iPhone, iPad, tu Mac o Apple Watch para sacarle todo el provecho."
-    },
-    {
-      "title": "Roku y TCL refuerzan su alianza para competir con Samsung, LG y Hisense en México",
-      "url": "https://expansion.mx/tecnologia/2026/10/20/roku-tcl-alianza-televisores-mexico-2027",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 20 Oct 2026 16:00:05 GMT",
-      "summary": "La alianza permitirá a Roku ampliar su presencia en tiendas de autoservicio y clubes de precios, además de incorporar por primera vez pantallas Mini LED a su catálogo en México."
-    },
-    {
-      "title": "Una falla eléctrica en Google Cloud afecta a miles de clientes de bancos como HSBC y Revolut",
-      "url": "https://expansion.mx/tecnologia/2026/10/20/falla-electrica-google-cloud-afecta-bancos-revolut-hsbc",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 20 Oct 2026 14:29:09 GMT",
-      "summary": "Las instituciones bancarias informaron a los clientes sobre el restablecimiento del servicio de manera paulatina. Esto es lo que ha informado Google hasta el momento."
-    },
-    {
-      "title": "Especialistas advierten que la velocidad del cómputo cuántico dejará obsoleta la protección digital en México",
-      "url": "https://expansion.mx/tecnologia/2026/10/20/computo-cuantico-deja-obsoleta-proteccion-digital-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 20 Oct 2026 11:55:50 GMT",
-      "summary": "Expertos de la UNAM y el Tec de Monterrey y más instituciones trabajan en el desarrollo de marcos para implementar de forma segura esta tecnología que transformará el futuro."
-    },
-    {
-      "title": "México tiene 466 empresas de IA, pero ocupa el octavo lugar regional: ¿qué frena su avance? - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXFqUDhmWFVXWHVtRXRnWjlqWTJoTTFUcFNmUllmeFRQWFZWblYwczR4MWM5Y2FKUEEySWdPcUI1cXkyLTZZR3JCV2lUUHlLR1VidnBNZ2xIc1NkcmQzLVNrVllfcUJ3TlFWbHVURzJXVVc0RlBvTGhjS2g1dlBiNHNCeWhKVnBLOVRBNTlTMThlQjFGNGl2WXpjX1BZNWVHVFAyY0IxcWRSYWV3bTRNMHFiZ183TkFGMzRaQ1RSUkNlc3MydHVYekdCSQ?oc=5",
+      "title": "México ya fabrica los servidores de la inteligencia artificial: ¿por qué no construye su propia industria de IA? - El Financiero",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUE4wQlZlRS1oMkhyQVFjUUJ6TkszRGFYb0w0NFlpSTFOQ1ZhcnJGWUNLOGVmVVJTYmgyaDZvZklZTWR6NGQzTm1fNktyX0g3dmlnb1RJLWhoMHd4QTdxVlN4cC1qWXFGVERfSzY1R0Y0YTB5MHNEZXV4ZXZ4MGdLaHdXQ05qZUNWaVc1akhEc2E1ejVoTnB1Uk0tZW5nOExrcVVpcG1Kc20tZDBubktRckZ4MkJvX2pUcENmTy1XOFp1bTgxTXg2WHJDdXduN1ljRVRXMFBvYnJlU3JfbEVKem85Y29VZ0loTW0tNmtVaU5scGpvOHNhZGdYQlF6OGhoYjdNdjlVbExJdnNDNk5J?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 21:15:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXFqUDhmWFVXWHVtRXRnWjlqWTJoTTFUcFNmUllmeFRQWFZWblYwczR4MWM5Y2FKUEEySWdPcUI1cXkyLTZZR3JCV2lUUHlLR1VidnBNZ2xIc1NkcmQzLVNrVllfcUJ3TlFWbHVURzJXVVc0RlBvTGhjS2g1dlBiNHNCeWhKVnBLOVRBNTlTMThlQjFGNGl2WXpjX1BZNWVHVFAyY0IxcWRSYWV3bTRNMHFiZ183TkFGMz"
+      "published": "Wed, 21 Oct 2026 11:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNUE4wQlZlRS1oMkhyQVFjUUJ6TkszRGFYb0w0NFlpSTFOQ1ZhcnJGWUNLOGVmVVJTYmgyaDZvZklZTWR6NGQzTm1fNktyX0g3dmlnb1RJLWhoMHd4QTdxVlN4cC1qWXFGVERfSzY1R0Y0YTB5MHNEZXV4ZXZ4MGdLaHdXQ05qZUNWaVc1akhEc2E1ejVoTnB1Uk0tZW5nOExrcVVpcG1Kc20tZDBubktRckZ4MkJvX2pUcE"
     },
     {
-      "title": "¿Qué lugar ocupa México en Inteligencia Artificial en América Latina en 2026? - Amexi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnNVbk5sTHh3N0pIS29DTExNR0NWSDAxQVFOdXJaLTd3M3h5RGlBcHYya2tPdHFiXzZMRW9MWVFwcFRqUWNtQ2RxcGwwUTIyZ3RZeHFweU9yb3lmZkxXaVZwbUhOeXVLMGdkbmVvMmdVMk9JeTZBOEV0MVVDamN4U1VDMXdIdVQ2S05CWW4zR0RVRWJPOVViRElYaTFqRjZOMWRkWEF3Slk?oc=5",
+      "title": "IA en asesoría financiera: el motor tecnológico que impulsa las inversiones en México - Funds Society",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmk0YnRocFQweHFCeml6dHRpa0xqd01tdml4SThYblk5NjltMjMzbmFEdDByS3hVc0MtVHotTV8xUC1YWEFrcHZwSFZ1YTZuUjlnNUhZY1p2RUVZbzVqelpIaDg0bVFPa3lKZFRfZU5ZVDlzRmhIdmgwNnZ1OVZBbC1kbHQtclFjYnpFNGZ6NjFmYmRYellZSlAyOE5LWXZXd3Y0c3FBbk9ua1AyMmI4VnloZVlhb1ItZllvUWpneUVvX3NDVDdydW80WWItazk0VldUWG8yd2dRdw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 20:29:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnNVbk5sTHh3N0pIS29DTExNR0NWSDAxQVFOdXJaLTd3M3h5RGlBcHYya2tPdHFiXzZMRW9MWVFwcFRqUWNtQ2RxcGwwUTIyZ3RZeHFweU9yb3lmZkxXaVZwbUhOeXVLMGdkbmVvMmdVMk9JeTZBOEV0MVVDamN4U1VDMXdIdVQ2S05CWW4zR0RVRWJPOVViRElYaTFqRjZOMWRkWEF3Slk?oc=5\" target=\"_blank\">"
+      "published": "Wed, 21 Oct 2026 04:15:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmk0YnRocFQweHFCeml6dHRpa0xqd01tdml4SThYblk5NjltMjMzbmFEdDByS3hVc0MtVHotTV8xUC1YWEFrcHZwSFZ1YTZuUjlnNUhZY1p2RUVZbzVqelpIaDg0bVFPa3lKZFRfZU5ZVDlzRmhIdmgwNnZ1OVZBbC1kbHQtclFjYnpFNGZ6NjFmYmRYellZSlAyOE5LWXZXd3Y0c3FBbk9ua1AyMmI4VnloZVlhb1ItZl"
     },
     {
-      "title": "Schneider Electric lleva a México su cumbre de energía e IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkM0a2JGUHRIMXZtOGhmdWltWlp6MGF6eDg2SEhvMkJDV1ZjcHN1eFRvQ2R1dGNIWUpSVjZUdnlDTk9IWk94UHR0bjNqMmVjclF4bHJ1QnpmZmZQd2RFT3U5Y1FsSEc5cVg0NWQxOGZjXzNwLVdtUFFTelY2MGtpcmI4TnNZUG1LNXFoZkU2SXJfSTJv?oc=5",
+      "title": "Nuevas herramientas de IA prometen ayuda para hallar desaparecidos en México - France 24",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVG9uajBiNVh2XzY4SkdPdFU1eWNmVEVDZV9Qd25aUXhOYjYxNXpfZl9pRG90RE56ME9KRk43Zkk4Z2NSTHd4a1ZXMlFNcjhTcEthNUR5bkhEZXJ2Z0o1VE90N2JfYjhUcUJXcjJVZ25uamhPUkVYWjBKYi1vLWU5SXZNTm9aSzFQREpMZWtWV2RNdFpOUkdCZW5uNTB1M1huVWpIbzVKYU1sakQxZDhTWGY1RHBwd2xOUzlVazdSZTZQS2tsT013RXF1WGRMT1k?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 17:57:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkM0a2JGUHRIMXZtOGhmdWltWlp6MGF6eDg2SEhvMkJDV1ZjcHN1eFRvQ2R1dGNIWUpSVjZUdnlDTk9IWk94UHR0bjNqMmVjclF4bHJ1QnpmZmZQd2RFT3U5Y1FsSEc5cVg0NWQxOGZjXzNwLVdtUFFTelY2MGtpcmI4TnNZUG1LNXFoZkU2SXJfSTJv?oc=5\" target=\"_blank\">Schneider Electric lleva a "
+      "published": "Wed, 21 Oct 2026 04:05:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVG9uajBiNVh2XzY4SkdPdFU1eWNmVEVDZV9Qd25aUXhOYjYxNXpfZl9pRG90RE56ME9KRk43Zkk4Z2NSTHd4a1ZXMlFNcjhTcEthNUR5bkhEZXJ2Z0o1VE90N2JfYjhUcUJXcjJVZ25uamhPUkVYWjBKYi1vLWU5SXZNTm9aSzFQREpMZWtWV2RNdFpOUkdCZW5uNTB1M1huVWpIbzVKYU1sakQxZDhTWGY1RHBwd2xOUz"
     },
     {
       "title": "México Tech Week 2026: 500 eventos y 30.000 asistentes - El Ecosistema Startup",

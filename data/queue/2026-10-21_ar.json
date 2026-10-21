@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Los celulares más baratos, en peligro: la crisis inesperada que desató el boom de la inteligencia artificial",
+      "url": "https://www.clarin.com/tecnologia/celulares-baratos-peligro-crisis-inesperada-desato-boom-inteligencia-artificial_0_RBggzG8ezX.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Oct 2026 08:46:47 +0000",
+      "summary": "<ul><li>Los envíos mundiales cayeron 20% y tocaron su nivel más bajo para un tercer trimestre desde 2012. </li><li>La escasez de memorias elevó los costos y obligó a las marcas a revisar sus estrategias. </li><li>En Argentina, los modelos de entrada son los más expuestos.</li></ul>"
+    },
+    {
       "title": "Una falla de Google Cloud provoca una caída en distintos sistemas de pago muy utilizados en Europa",
       "url": "https://www.clarin.com/mundo/falla-google-cloud-provoca-caida-distintos-sistemas-pago-utilizados-europa_0_YOrj4f3cbT.html",
       "source": "Clarín Tecnología",
@@ -35,12 +43,20 @@
       "summary": "<ul><li>Un informe registró una baja interanual del 25% para PlayStation y del 33% para Xbox en Estados Unidos.</li><li>A la baja se suma el precio récord de los equipos.</li></ul>"
     },
     {
-      "title": "Del álbum al celular: paso a paso, cómo digitalizar, conservar y compartir antiguas fotos familiares",
-      "url": "https://www.clarin.com/tecnologia/album-celular-paso-paso-digitalizar-conservar-compartir-antiguas-fotos-familiares_0_SjqWsGZw47.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 17 Oct 2026 08:45:42 +0000",
-      "summary": "<ul><li>Aplicaciones sencillas permiten rescatar imágenes en papel, organizarlas y acercarlas a hijos y nietos. </li><li>Una guía para empezar, proteger los recuerdos y aprovechar la inteligencia artificial con cuidado.</li></ul>"
+      "title": "La startup argentina que quiere revolucionar la minería con inteligencia artificial y biotecnología - Forbes Ecuador",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTk1rRi1QdENHekNlUkVJQUpQVnVaSEh0c21kQjJ4aHo5a1JUbFpFVVgwQ2lUZ2Fla0FaRldDQ09kbWN0Y0h1SmVHWHU3bFJEd3pRbUJ1NC1tQk9xV1c5Z2xMYk9fQkpLTGhmcVM0R1Y2dmVialBEbFZSVmRkc3hFYmd2SjlzTGF3Sm85dzlUWnhDVVh1VWNKWUhNTml2Yy03UVI2Y3d0S1UxNkRBUHByRmZ6UnIzbmY3eWs4WFFyNzlHUWFSS2RkRtIBzgFBVV95cUxNMl9IT1hrQzdMcWl0QU0xQUJDWEI0RDk4N3lqZGd3MV9zRWd6TEY2UFJrUVp2QlhRNVA0dkl4Vzl5ZXNUVkloVTU2cC1lNjV4ZFpRWUg4S3ozUEk5T2l3Z0ZCaFRKVzg1VkhtaUVqMTVlZ1J6MERvblpKUTNfX0RfeUxPQnRNV2J2eUlsLU0ySGlMckp2aTVLZHZ1Qk1PS2FZbTJkMmRFbXl1S0J5ZThyYlZaWHFHYzc1MUdDQXNlNlRJVzM3SzRYSjQwWXhHQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 21 Oct 2026 15:51:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTk1rRi1QdENHekNlUkVJQUpQVnVaSEh0c21kQjJ4aHo5a1JUbFpFVVgwQ2lUZ2Fla0FaRldDQ09kbWN0Y0h1SmVHWHU3bFJEd3pRbUJ1NC1tQk9xV1c5Z2xMYk9fQkpLTGhmcVM0R1Y2dmVialBEbFZSVmRkc3hFYmd2SjlzTGF3Sm85dzlUWnhDVVh1VWNKWUhNTml2Yy03UVI2Y3d0S1UxNkRBUHByRmZ6UnIzbmY3eW"
+    },
+    {
+      "title": "Cómo funciona FLOE, la plataforma argentina que busca mejorar el posicionamiento de las empresas en la IA - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMk5hUnpPSzBBQlR0OUVWeWRsMWFxNG5xcEpzRXhMYWM0a1Qxbmxpdmk4Q0xfYWNHQ0lUamtKT1E3bzlrMmFkNm5Nb05ZMnNvMjNrZ0F3LWF4b2pKT1pJdzlEbG5NUzZUQTlhQWRjdTZEYjlGTUFJU2plRS1IYllHWEY5Ni1fMjJzYzliaElVUGlDZ0pqTlVaZU1wMWdYcG5IRUtiZGd1QXJTLU1teS1JZjBDcEJsXy1zZS1tNU9NRG1yOXdvbzFFTDJvUzk0TjhhV0VwUkVxVTQ5SlBvQW5Ka2dBT1pJQ0NQUmk3Sw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 21 Oct 2026 14:46:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMk5hUnpPSzBBQlR0OUVWeWRsMWFxNG5xcEpzRXhMYWM0a1Qxbmxpdmk4Q0xfYWNHQ0lUamtKT1E3bzlrMmFkNm5Nb05ZMnNvMjNrZ0F3LWF4b2pKT1pJdzlEbG5NUzZUQTlhQWRjdTZEYjlGTUFJU2plRS1IYllHWEY5Ni1fMjJzYzliaElVUGlDZ0pqTlVaZU1wMWdYcG5IRUtiZGd1QXJTLU1teS1JZjBDcEJsXy1zZS"
     },
     {
       "title": "“No hay evidencia”: qué dice la Sociedad Argentina de la Inteligencia Artificial sobre el peligro de esta tecnología para la humanidad - La Nación",
@@ -51,52 +67,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1hKTzZCNnIxUGxfcUtzZndMUnhTc1ViLU1sdWIwSFlWTi15a0ZBVEZIbHotNWdBMWVWdkJLR3pmRDZYZjJxenRCaGRZM2ZHWHlWelFyQ1p0bkI1NFNscWM3MTQ3akJBbk80UUhqRVJUcFZmQ1JqOWdwOUthcThZVUJqbHV3UUNZXzZjWEFhVTUzQlFHRkZfVXFCaU9SZzZFSjMycmQzYVpzdzBDaDlYa1hBQmgyN2FIWX"
     },
     {
-      "title": "“La brecha entre ricos y pobres va a seguir ampliándose con la Inteligencia Artificial” - Perfil",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjdhTjhrVjU5VGdjMkpkRU1pQW1JQ1ZnMndSQnAzNXQ2Y1FpSmYtWGhrUXFsUkdacVZxS0liQW1qbXU1UEhkVjNIYTdReFdtLXUxaXFQUGIxT3ljSTNSOE8yNVE3RV9Ma3RxYW9WbmRRV2d5MWpHbHRJRTVQbzdvZ3ZpNGFSUXZqZl81X3hqdHoteElVbFRzZ1J2SU8zVTQ0eFNOTTlFVEN0YzVWenk5Wnk3NE5pV0VjYThhaVN0Q3pSYndzcl9COG1WUGHSAdIBQVVfeXFMUGtnOWV6S3M4WEk2VGdrbTVwa3J6b01lcG5WdHpBS0JrT3M0cXhEWTF6WW9mMzRBWXlVR1Nmdkc0dVo3a0lBQ2Q3VW1SdWF5N0o4SjJwQy1UMmlHOTFIYTh0NkFrQzFrM0dMdmFwbmloT3FNcWxDVlJLbkVSN1pqMWwxS041OWdvSlFFbFhLTmo4T2lZRldGSlQ1ZVdqWFhMaFRwUmwtTEtIY3NLMDlaWDVXS0swaVlablFVVjFscXZKNmozLTdHdlFnUF8xV3p6NUR3?oc=5",
+      "title": "Tecweek 2026 en Buenos Aires: sedes, fechas y cómo acceder a los eventos gratis sobre IA, videojuegos y criptomonedas - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNczFXUmVFbHJXVVU0Q1ZCdXktakxTdENRSGdvdzRnNWd2c3p2WGNVTURldzZ4SnVZYjRXMVlzaDVYeDhvc2hyNE1sc1Z3TU5nQ0pFdnpPQnVNVm0wUWc4bjdTRWZUbDZPMDl1M21ydndqb1Fzd2tvRG9vUElDY1pJX0xjNkZYYnJMYmd1bWlhSUtUcHRZblhuU2lIOTl1dG9WVGRmLWpiMklHXzREaVI1OUJibUpNSUowN1VjQkt0LWJDa21ndzJIMzN5aG53VkRaRDd4SnNvVHZyVUtFWGJIVFA5VFctZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 01:31:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjdhTjhrVjU5VGdjMkpkRU1pQW1JQ1ZnMndSQnAzNXQ2Y1FpSmYtWGhrUXFsUkdacVZxS0liQW1qbXU1UEhkVjNIYTdReFdtLXUxaXFQUGIxT3ljSTNSOE8yNVE3RV9Ma3RxYW9WbmRRV2d5MWpHbHRJRTVQbzdvZ3ZpNGFSUXZqZl81X3hqdHoteElVbFRzZ1J2SU8zVTQ0eFNOTTlFVEN0YzVWenk5Wnk3NE5pV0VjYT"
+      "published": "Wed, 21 Oct 2026 16:58:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNczFXUmVFbHJXVVU0Q1ZCdXktakxTdENRSGdvdzRnNWd2c3p2WGNVTURldzZ4SnVZYjRXMVlzaDVYeDhvc2hyNE1sc1Z3TU5nQ0pFdnpPQnVNVm0wUWc4bjdTRWZUbDZPMDl1M21ydndqb1Fzd2tvRG9vUElDY1pJX0xjNkZYYnJMYmd1bWlhSUtUcHRZblhuU2lIOTl1dG9WVGRmLWpiMklHXzREaVI1OUJibUpNSUowN1"
     },
     {
-      "title": "Sesgos en Inteligencia Artificial y economía de creadores: los nuevos desafíos de las empresas para construir narrativas de negocio - Forbes Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeFpEeVZlaHQ3cFZ2aElZdWl6dXJ6OC1TdkVPbEprME9BSVR2TVhGeFpnU0dwVTQtM2VpSHgwcldCSEJ4Y0tfdlhFT1VjVEFMVmdWV1lMUXZncnlYbHZtOU5ibnJaNUUxbDFEX24tdHpnaEVTa2paWUt6eFpNc3h6NUR0RzNLbEZ5VWdMUEdNdUhoZmhGakFReVhUMTVFTHdJc1F2QWMyeWF0dFVYeHBZdVpZRUxYdGxqTDJvckFXWExEQ0IwSHhzYkJNRkRQMW9rN2ktdDBiYmJwR1VBdWlWdFF2UnFSVDF10gHuAUFVX3lxTE5GWjlpdFNsak9scXVrY0IzSk1ablZFVDl1ZHI5ZTNNQTRZdGpVajRsTmREWWYtZWZ3ZWlhdTFFcUdRNk95THo5b0Y1SXBfdDFQZkJ1SldxaGx4Rm5raXBHLWpIVEpXeVJDRml4T2R5dXg5TlU2QnpDSnNMTWNkdEEyTTN6VmpqMUFlSWotS25qVkhxVlJiOG96Vl9tMGdGSXZNcklpcW9oZHhHc0Q0VWpXVDVZblM4bWxwQ3FFZXNXQW9fejVtT1pJTjVxQTIybmJXU3dGbHNhUmNmRUFCVGpaU3Zxb21vVFRZVDlNSnc?oc=5",
+      "title": "Buenos Aires tendrá 12 días de tecnología: qué es Tecweek - Bardeo.news",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUR4V2RqOUVmdzBPdGdKa2ZfZTZwY0FxOXpvbW9TNlZjMmFkS2FoNEQ2Um5vaUJNZHBfWktXNFZ1aW5iVjBnUUtFQ04ycHh5eG1jRGlCc0JhUk5USHRka1R0TVpwUzlLYmdRTEYtdWlGQnRyek9PbTBlNEVIRlRIWXB6cDBCeVlYX0dhLTBhMkVveGcwZDBJQVF2bElFWGVVOEVSaUZXbExBMERITy00ZFJB0gHAAUFVX3lxTFBhSFVJczlaZlRIa1R4cUJrUlktZWtZa0tfd0E5M2RnLWJRUURUWDZQVk1YbGJSaDNEcUlzOFdNOHFiUTVqa2NhOUozT3pHTGpuamxlbG9fUVFsUWRfVDV6U0F5S2tDNEZSTFpJbVdMakIzOTFDTjZseTdfWm5KUG1GZlRzd1NTT3J0MnNuTTEyMUVtQ2VnSUxVZWhuVTNHUVlaWFc5VDN5WHpaQldVazFaeEJCVmNvZFN5Z3ZyQ2dtbw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 18 Oct 2026 18:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeFpEeVZlaHQ3cFZ2aElZdWl6dXJ6OC1TdkVPbEprME9BSVR2TVhGeFpnU0dwVTQtM2VpSHgwcldCSEJ4Y0tfdlhFT1VjVEFMVmdWV1lMUXZncnlYbHZtOU5ibnJaNUUxbDFEX24tdHpnaEVTa2paWUt6eFpNc3h6NUR0RzNLbEZ5VWdMUEdNdUhoZmhGakFReVhUMTVFTHdJc1F2QWMyeWF0dFVYeHBZdVpZRUxYdGxqTD"
+      "published": "Wed, 21 Oct 2026 17:27:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUR4V2RqOUVmdzBPdGdKa2ZfZTZwY0FxOXpvbW9TNlZjMmFkS2FoNEQ2Um5vaUJNZHBfWktXNFZ1aW5iVjBnUUtFQ04ycHh5eG1jRGlCc0JhUk5USHRka1R0TVpwUzlLYmdRTEYtdWlGQnRyek9PbTBlNEVIRlRIWXB6cDBCeVlYX0dhLTBhMkVveGcwZDBJQVF2bElFWGVVOEVSaUZXbExBMERITy00ZFJB0gHAAUFVX3"
     },
     {
       "title": "Vuelve Tecweek: 12 días de tecnología, innovación, inteligencia artificial y gaming con todo el potencial de la Ciudad - Buenos Aires Ciudad",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE5iWFhuOThDTFU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 22:05:39 GMT",
+      "published": "Wed, 21 Oct 2026 01:05:46 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE"
     },
     {
-      "title": "Salesforce y la Provincia de Buenos Aires firman una alianza estratégica para impulsar la inteligencia artificial, la innovación y el desarrollo de talento - Salesforce",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDc1NVNZbVRNWmhZMXV4V2tHRWtmeExfMHZ6RlR3WDk2bXZPTmY1UVFpRURPNThwdE5EdTloMUp0dnduYTVfR0w3Wl9XeXBGTHdWckw0eGZYOEZkdFlYa0xkUDBqUUE3RUN1SWFmbEhUcGRydGU4eUFjaDI3N0lDNUNaRFJoNFJLMUNDZUFpTko3WmZQLWhXTWtBa3NzeDJxYmVZeWpkMTB5R0x0Z0FsNkpmYTBsaHVWMnVndVc4bklPMmVxajFEU2YzUjdmcVE?oc=5",
+      "title": "Navian, copiloto quirúrgico con IA, gana eAwards 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNmxucXI3QWhGLVVfNkJ5NWNFa3gxcXhzN1BhRnRCdmJ5UV9QNEhUNHpQejN2QmRWeUtXM3BaTzNEZC10NmlmVDdYUXJQbGc3d1RLNXY1aTlfT1M4ZlZ0bnJiWVl0ZlY1ZFdwTkd1YnRVTEQzckhyaVYzQzZiTXhKMlc1R210YnZ6d0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDc1NVNZbVRNWmhZMXV4V2tHRWtmeExfMHZ6RlR3WDk2bXZPTmY1UVFpRURPNThwdE5EdTloMUp0dnduYTVfR0w3Wl9XeXBGTHdWckw0eGZYOEZkdFlYa0xkUDBqUUE3RUN1SWFmbEhUcGRydGU4eUFjaDI3N0lDNUNaRFJoNFJLMUNDZUFpTko3WmZQLWhXTWtBa3NzeDJxYmVZeWpkMTB5R0x0Z0FsNkpmYTBsaHVWMn"
-    },
-    {
-      "title": "Congreso internacional de IA: el Fiscal General de la Ciudad expuso sobre la incorporación de las nuevas tecnologías - Ministerio Público Fiscal de la Ciudad",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUV4M0ZIR1JjSlhfcnlyeWhkaVJleGg1RTRiNmFjQU9ha1BTOXE3TWp2Tnc2cjd0R0FyUU1FajBRUkdMelRYaHUtVmVGQ2xweXpmeGd4NFFYZm1uTW95ODJPX0VNQm1wbUUzc29hZHJ5ZTVZbVYteENyWEZjT2poTmZfMXVSWnVpMUVoSFQwR0ZPYmt5YnI2Tzc2anpaak9GYVozUzlIYmlsVUxNbGpiLUtOQkZRUDhndEFWV2dxR3JhRTVkbHV4SURWZDBMeU5fZEJaNlJ0dXpuLV9ZTFBiRmhlNmZ1SmhPWldPT2FwU2VJWk1PelJqYllHRWxmdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 19 Oct 2026 18:42:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUV4M0ZIR1JjSlhfcnlyeWhkaVJleGg1RTRiNmFjQU9ha1BTOXE3TWp2Tnc2cjd0R0FyUU1FajBRUkdMelRYaHUtVmVGQ2xweXpmeGd4NFFYZm1uTW95ODJPX0VNQm1wbUUzc29hZHJ5ZTVZbVYteENyWEZjT2poTmZfMXVSWnVpMUVoSFQwR0ZPYmt5YnI2Tzc2anpaak9GYVozUzlIYmlsVUxNbGpiLUtOQkZRUDhndE"
-    },
-    {
-      "title": "Kiri, la startup cordobesa que gana un piloto con CCU - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDFCNFhab05MNDFLbkVTYU9kMU84WG1iSzZfZENDMGZob3Raa0pUVlRyTURBdFBKMDUzQjlrM1dGVFAzdWYwdXJ5dm5oLTNCbTZVdlJlTXJaa0lTZ05aQi12czIzNkpVQkVMdVdkV1RsZlRoVkM5ak9CVjRNQnJXTTJDajd0Mjh0QkNF?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 20 Oct 2026 03:06:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZDFCNFhab05MNDFLbkVTYU9kMU84WG1iSzZfZENDMGZob3Raa0pUVlRyTURBdFBKMDUzQjlrM1dGVFAzdWYwdXJ5dm5oLTNCbTZVdlJlTXJaa0lTZ05aQi12czIzNkpVQkVMdVdkV1RsZlRoVkM5ak9CVjRNQnJXTTJDajd0Mjh0QkNF?oc=5\" target=\"_blank\">Kiri, la startup cordobesa que gana un "
+      "published": "Wed, 21 Oct 2026 05:03:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNmxucXI3QWhGLVVfNkJ5NWNFa3gxcXhzN1BhRnRCdmJ5UV9QNEhUNHpQejN2QmRWeUtXM3BaTzNEZC10NmlmVDdYUXJQbGc3d1RLNXY1aTlfT1M4ZlZ0bnJiWVl0ZlY1ZFdwTkd1YnRVTEQzckhyaVYzQzZiTXhKMlc1R210YnZ6d0E?oc=5\" target=\"_blank\">Navian, copiloto quirúrgico con IA, gana"
     },
     {
       "title": "El futuro de las startups argentinas: cómo la inte... - https://inteligenciaargentina.ar/",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ2YyZklGZ2d0amJDV19SLVppRy1JekxYbVVMc1lnbTBHNXJtVzdpMmlmdjg2TFcwckpnZFltYVlDeU5pdkdHZGpOc3NFeU80bnJMdTNRVjJyMUt4ek04UWVGQlRmMnZXZkgtTkNBczVjS0Y0aHVzUDF4bjVBcjF0andBRUhrTmlNV2RFUFRNNW9EdFExOU9ySU5ITkNDUkl1SmhRdHp4N2otZngwV3huVkdvRl90eG1Qb2"
     },
     {
-      "title": "De invertir US$5.000 a facturar US$170.000 en ventas: la startup argentina que lleva tecnología a la ganadería - Forbes Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkRQSFR2M2dBQWVrSVhYNTN5czlMc0tNOTdfZGwzTm9CbXhhUXJSMWs0MzVOVU42MDFWTkgzb1JpX3Qya29HZ2RrcHh1MG11RmUzcVZrUWthd3hsNXVnOGExOG5TLVJSTW56Mmgyckx1NTdLbW1lMUtXaHQySFVSQ2ZNdVJpa2hDU0JCa21ucWN1N3BPLTJMcUx3VW5zSmo1QmxXUGpRaEVBZlBnLTFHZU9zSFJsUGxwbjI4SnNLemkyYWZiQXg1LU1mMklBaUNPM3fSAdcBQVVfeXFMUDlCaHljaVhteXRhOEpxa0t6a25zdTFZeUdtNGhyWmZSWVJtZGFvM25NVHQya3lneW5TUms1V2huTl9DVC1pUTBVRm54SGw3akcxdmlDcnNPWXhNQXFfa2VKSy13T0RVM2p4VVJuTGNEMFZkcVFwWmNWd1NPZElwdkhneW1WaU5QWFhmellEQXptZ1UwR1dyOHF5X240TC0yYk5TNWpka1NEU2ZQQ095T3dJSmxVd2VHeVA2dTMzLWZBYU1aZ0xWd3BoOHl3NFZFZmxDams4U0E?oc=5",
+      "title": "Alkemy, plataforma de IA para evaluar y entrenar talento, ganó el Premio Pyme Innovación Digital - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXdjTzJHaVRLbTBwQkRaRklEVFRoTC03ZkFGd1A3Q2I1cWlZUGpCVEh0Q1lMNEtpcmE2T2Z2T0NMYU1wM2lKTnRYTTRYTkZJcnRCUGtjNG0xb0prZmN3T3RjU1duYWhjZkpXZUxva0JTZy1tazhrVUhxNXZmT2FTS3ExcjM4Y3VQRjRhaU9FMXVaVGt6RTZWbEo1V2VpWGVObEpXeVFXQUNJU1Y5ZHFMRjFTOFBjWXYxMW8zRVdiRFBNbkg4RTlYb1k2NFc3MDRtRXVpb0o2U19xLXExenVv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkRQSFR2M2dBQWVrSVhYNTN5czlMc0tNOTdfZGwzTm9CbXhhUXJSMWs0MzVOVU42MDFWTkgzb1JpX3Qya29HZ2RrcHh1MG11RmUzcVZrUWthd3hsNXVnOGExOG5TLVJSTW56Mmgyckx1NTdLbW1lMUtXaHQySFVSQ2ZNdVJpa2hDU0JCa21ucWN1N3BPLTJMcUx3VW5zSmo1QmxXUGpRaEVBZlBnLTFHZU9zSFJsUGxwbj"
+      "published": "Wed, 21 Oct 2026 14:52:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXdjTzJHaVRLbTBwQkRaRklEVFRoTC03ZkFGd1A3Q2I1cWlZUGpCVEh0Q1lMNEtpcmE2T2Z2T0NMYU1wM2lKTnRYTTRYTkZJcnRCUGtjNG0xb0prZmN3T3RjU1duYWhjZkpXZUxva0JTZy1tazhrVUhxNXZmT2FTS3ExcjM4Y3VQRjRhaU9FMXVaVGt6RTZWbEo1V2VpWGVObEpXeVFXQUNJU1Y5ZHFMRjFTOFBjWXYxMW"
     }
   ],
   "count": 14
