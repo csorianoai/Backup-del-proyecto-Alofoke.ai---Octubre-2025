@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Meta deberá pagar al estado de Nuevo México 25.000 millones de dólares por engañar sobre la privacidad en Facebook",
+      "url": "https://www.clarin.com/tecnologia/meta-debera-pagar-estado-nuevo-mexico-25000-millones-enganar-privacidad-facebook_0_Yorhum46Ib.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Oct 2026 19:16:04 +0000",
+      "summary": "<ul><li>El fiscal dijo que fue “uno de los veredictos estatales más grandes contra una empresa en la historia estadounidense”.</li><li>El caso está relacionado con Cambridge Analytica, una consultora británica que trabajó para la campaña de Donald Trump en 2016.</li></ul>"
+    },
+    {
+      "title": "Qué es PHP, la tecnología que usan millones de páginas web y que encendió las alarmas por dos fallas críticas",
+      "url": "https://www.clarin.com/tecnologia/php-tecnologia-usan-millones-paginas-web-encendio-alarmas-fallas-criticas_0_gq64wIgHJy.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 21 Oct 2026 19:00:07 +0000",
+      "summary": "<ul><li>El lenguaje de programación se usa en casi siete de cada diez sitios.</li><li>Las vulnerabilidades podrían permitir que un atacante tome el control de servidores vulnerables.</li><li>Acá, seis preguntas para entender por qué el mundo alertó sobre la gravedad de la situación y cómo arreglarlo"
+    },
+    {
       "title": "Los celulares más baratos, en peligro: la crisis inesperada que desató el boom de la inteligencia artificial",
       "url": "https://www.clarin.com/tecnologia/celulares-baratos-peligro-crisis-inesperada-desato-boom-inteligencia-artificial_0_RBggzG8ezX.html",
       "source": "Clarín Tecnología",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Tue, 20 Oct 2026 08:46:30 +0000",
       "summary": "<ul><li>Enchufes, termostatos y sensores permiten monitorear consumos y automatizar tareas cotidianas. </li><li>Algunos se instalan fácilmente; otros requieren ayuda profesional. </li><li>Qué tener en cuenta antes de elegirlos.</li></ul>"
-    },
-    {
-      "title": "Zapatillas para el gimnasio: marca por marca, cuáles son y cuánto cuestan los mejores modelos para entrenar fuerza",
-      "url": "https://www.clarin.com/tecnologia/zapatillas-gimnasio-marca-marca-cuestan-mejores-modelos-entrenar-fuerza_0_bdFefAwkNk.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 19 Oct 2026 08:46:12 +0000",
-      "summary": "<ul><li>No cualquier calzado deportivo ofrece la estabilidad necesaria para levantar peso. </li><li>Puma, Nike, Adidas, Reebok, Under Armour, Atomik y On explican qué distingue a sus propuestas.</li></ul>"
-    },
-    {
-      "title": "Las ventas de PS5 y Xbox caen a mínimos históricos y la industria apuesta todo a un videojuego que podría salvar a las consolas",
-      "url": "https://www.clarin.com/tecnologia/ventas-ps5-xbox-caen-minimos-historicos-industria-apuesta-videojuego-podria-salvar-consolas_0_JXiRsot7n1.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 18 Oct 2026 09:01:57 +0000",
-      "summary": "<ul><li>Un informe registró una baja interanual del 25% para PlayStation y del 33% para Xbox en Estados Unidos.</li><li>A la baja se suma el precio récord de los equipos.</li></ul>"
     },
     {
       "title": "La startup argentina que quiere revolucionar la minería con inteligencia artificial y biotecnología - Forbes Ecuador",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNczFXUmVFbHJXVVU0Q1ZCdXktakxTdENRSGdvdzRnNWd2c3p2WGNVTURldzZ4SnVZYjRXMVlzaDVYeDhvc2hyNE1sc1Z3TU5nQ0pFdnpPQnVNVm0wUWc4bjdTRWZUbDZPMDl1M21ydndqb1Fzd2tvRG9vUElDY1pJX0xjNkZYYnJMYmd1bWlhSUtUcHRZblhuU2lIOTl1dG9WVGRmLWpiMklHXzREaVI1OUJibUpNSUowN1"
     },
     {
+      "title": "Red Hat Summit Connect Buenos Aires: de la experimentación con IA al impacto real en el negocio - CanalAR",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVVRWtadVptSXBGS3BMVmN2WGVGTE5HZE5TcTdoLThjYkpVTzk1MEN1TVRFM21BVGNNQkN1Q1paY2VtXzhlVTFqZ0ZzT1MtZ1FLclFUZVAyLVBiTnV6TXk3dXNGbTF6alRrWG8xRXBiV3FBaVMwZU9DMV93YUk4eGZKRVhadUlIa290VFRvaGpkVUpBeVJrelg4enVKamUzenFFVWE0cUF0NWhmQkxoQzRmOHJsX1psOHd0ZHprSm9zMk1ja3FjdXlYWVRadw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 21 Oct 2026 18:57:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVVRWtadVptSXBGS3BMVmN2WGVGTE5HZE5TcTdoLThjYkpVTzk1MEN1TVRFM21BVGNNQkN1Q1paY2VtXzhlVTFqZ0ZzT1MtZ1FLclFUZVAyLVBiTnV6TXk3dXNGbTF6alRrWG8xRXBiV3FBaVMwZU9DMV93YUk4eGZKRVhadUlIa290VFRvaGpkVUpBeVJrelg4enVKamUzenFFVWE0cUF0NWhmQkxoQzRmOHJsX1psOH"
+    },
+    {
       "title": "Buenos Aires tendrá 12 días de tecnología: qué es Tecweek - Bardeo.news",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUR4V2RqOUVmdzBPdGdKa2ZfZTZwY0FxOXpvbW9TNlZjMmFkS2FoNEQ2Um5vaUJNZHBfWktXNFZ1aW5iVjBnUUtFQ04ycHh5eG1jRGlCc0JhUk5USHRka1R0TVpwUzlLYmdRTEYtdWlGQnRyek9PbTBlNEVIRlRIWXB6cDBCeVlYX0dhLTBhMkVveGcwZDBJQVF2bElFWGVVOEVSaUZXbExBMERITy00ZFJB0gHAAUFVX3lxTFBhSFVJczlaZlRIa1R4cUJrUlktZWtZa0tfd0E5M2RnLWJRUURUWDZQVk1YbGJSaDNEcUlzOFdNOHFiUTVqa2NhOUozT3pHTGpuamxlbG9fUVFsUWRfVDV6U0F5S2tDNEZSTFpJbVdMakIzOTFDTjZseTdfWm5KUG1GZlRzd1NTT3J0MnNuTTEyMUVtQ2VnSUxVZWhuVTNHUVlaWFc5VDN5WHpaQldVazFaeEJCVmNvZFN5Z3ZyQ2dtbw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 21 Oct 2026 17:27:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUR4V2RqOUVmdzBPdGdKa2ZfZTZwY0FxOXpvbW9TNlZjMmFkS2FoNEQ2Um5vaUJNZHBfWktXNFZ1aW5iVjBnUUtFQ04ycHh5eG1jRGlCc0JhUk5USHRka1R0TVpwUzlLYmdRTEYtdWlGQnRyek9PbTBlNEVIRlRIWXB6cDBCeVlYX0dhLTBhMkVveGcwZDBJQVF2bElFWGVVOEVSaUZXbExBMERITy00ZFJB0gHAAUFVX3"
-    },
-    {
-      "title": "Vuelve Tecweek: 12 días de tecnología, innovación, inteligencia artificial y gaming con todo el potencial de la Ciudad - Buenos Aires Ciudad",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE5iWFhuOThDTFU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 21 Oct 2026 01:05:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE"
     },
     {
       "title": "Navian, copiloto quirúrgico con IA, gana eAwards 2026 - El Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ2YyZklGZ2d0amJDV19SLVppRy1JekxYbVVMc1lnbTBHNXJtVzdpMmlmdjg2TFcwckpnZFltYVlDeU5pdkdHZGpOc3NFeU80bnJMdTNRVjJyMUt4ek04UWVGQlRmMnZXZkgtTkNBczVjS0Y0aHVzUDF4bjVBcjF0andBRUhrTmlNV2RFUFRNNW9EdFExOU9ySU5ITkNDUkl1SmhRdHp4N2otZngwV3huVkdvRl90eG1Qb2"
     },
     {
-      "title": "Alkemy, plataforma de IA para evaluar y entrenar talento, ganó el Premio Pyme Innovación Digital - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXdjTzJHaVRLbTBwQkRaRklEVFRoTC03ZkFGd1A3Q2I1cWlZUGpCVEh0Q1lMNEtpcmE2T2Z2T0NMYU1wM2lKTnRYTTRYTkZJcnRCUGtjNG0xb0prZmN3T3RjU1duYWhjZkpXZUxva0JTZy1tazhrVUhxNXZmT2FTS3ExcjM4Y3VQRjRhaU9FMXVaVGt6RTZWbEo1V2VpWGVObEpXeVFXQUNJU1Y5ZHFMRjFTOFBjWXYxMW8zRVdiRFBNbkg4RTlYb1k2NFc3MDRtRXVpb0o2U19xLXExenVv?oc=5",
+      "title": "De invertir US$5.000 a facturar US$170.000 en ventas: la startup argentina que lleva tecnología a la ganadería - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkRQSFR2M2dBQWVrSVhYNTN5czlMc0tNOTdfZGwzTm9CbXhhUXJSMWs0MzVOVU42MDFWTkgzb1JpX3Qya29HZ2RrcHh1MG11RmUzcVZrUWthd3hsNXVnOGExOG5TLVJSTW56Mmgyckx1NTdLbW1lMUtXaHQySFVSQ2ZNdVJpa2hDU0JCa21ucWN1N3BPLTJMcUx3VW5zSmo1QmxXUGpRaEVBZlBnLTFHZU9zSFJsUGxwbjI4SnNLemkyYWZiQXg1LU1mMklBaUNPM3fSAdcBQVVfeXFMUDlCaHljaVhteXRhOEpxa0t6a25zdTFZeUdtNGhyWmZSWVJtZGFvM25NVHQya3lneW5TUms1V2huTl9DVC1pUTBVRm54SGw3akcxdmlDcnNPWXhNQXFfa2VKSy13T0RVM2p4VVJuTGNEMFZkcVFwWmNWd1NPZElwdkhneW1WaU5QWFhmellEQXptZ1UwR1dyOHF5X240TC0yYk5TNWpka1NEU2ZQQ095T3dJSmxVd2VHeVA2dTMzLWZBYU1aZ0xWd3BoOHl3NFZFZmxDams4U0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 21 Oct 2026 14:52:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUXdjTzJHaVRLbTBwQkRaRklEVFRoTC03ZkFGd1A3Q2I1cWlZUGpCVEh0Q1lMNEtpcmE2T2Z2T0NMYU1wM2lKTnRYTTRYTkZJcnRCUGtjNG0xb0prZmN3T3RjU1duYWhjZkpXZUxva0JTZy1tazhrVUhxNXZmT2FTS3ExcjM4Y3VQRjRhaU9FMXVaVGt6RTZWbEo1V2VpWGVObEpXeVFXQUNJU1Y5ZHFMRjFTOFBjWXYxMW"
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdkRQSFR2M2dBQWVrSVhYNTN5czlMc0tNOTdfZGwzTm9CbXhhUXJSMWs0MzVOVU42MDFWTkgzb1JpX3Qya29HZ2RrcHh1MG11RmUzcVZrUWthd3hsNXVnOGExOG5TLVJSTW56Mmgyckx1NTdLbW1lMUtXaHQySFVSQ2ZNdVJpa2hDU0JCa21ucWN1N3BPLTJMcUx3VW5zSmo1QmxXUGpRaEVBZlBnLTFHZU9zSFJsUGxwbj"
     }
   ],
   "count": 14
