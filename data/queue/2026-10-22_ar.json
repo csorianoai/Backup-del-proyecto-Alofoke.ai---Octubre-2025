@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Alerta en bancos de Estados Unidos: detectan agentes de IA intentando operar sin permiso en cuentas de clientes",
+      "url": "https://www.clarin.com/tecnologia/alerta-bancos-estados-unidos-detectan-agentes-ia-intentando-operar-permiso-cuentas-clientes_0_q8oZcvQtWp.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 22 Oct 2026 17:53:09 +0000",
+      "summary": "<ul><li>Grandes entidades restringen el acceso de asistentes digitales ante posibles acciones que exceden las órdenes de sus usuarios. </li><li>La dificultad para distinguir personas de programas complica los controles. </li></ul>"
+    },
+    {
       "title": "WhatsApp: cómo saber si alguien abrió tu cuenta en otro dispositivo y qué hacer para recuperar el control",
       "url": "https://www.clarin.com/tecnologia/whatsapp-saber-alguien-abrio-cuenta-dispositivo-hacer-recuperar-control_0_pRxj5IUs9M.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Wed, 21 Oct 2026 08:46:47 +0000",
       "summary": "<ul><li>Los envíos mundiales cayeron 20% y tocaron su nivel más bajo para un tercer trimestre desde 2012. </li><li>La escasez de memorias elevó los costos y obligó a las marcas a revisar sus estrategias. </li><li>En Argentina, los modelos de entrada son los más expuestos.</li></ul>"
-    },
-    {
-      "title": "Una falla de Google Cloud provoca una caída en distintos sistemas de pago muy utilizados en Europa",
-      "url": "https://www.clarin.com/mundo/falla-google-cloud-provoca-caida-distintos-sistemas-pago-utilizados-europa_0_YOrj4f3cbT.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 20 Oct 2026 11:22:42 +0000",
-      "summary": "<ul><li>Una de las afectadas en Revolut y sus usuarios reportan que no funcionan los pagos con tarjetas ni transferencias.</li><li>Medios españoles estiman que la falla podría afectar a cerca de 80 millones de personas en todo el mundo.</li></ul>"
     },
     {
       "title": "La startup argentina que quiere revolucionar la minería con inteligencia artificial y biotecnología - Forbes Argentina",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDc1NVNZbVRNWmhZMXV4V2tHRWtmeExfMHZ6RlR3WDk2bXZPTmY1UVFpRURPNThwdE5EdTloMUp0dnduYTVfR0w3Wl9XeXBGTHdWckw0eGZYOEZkdFlYa0xkUDBqUUE3RUN1SWFmbEhUcGRydGU4eUFjaDI3N0lDNUNaRFJoNFJLMUNDZUFpTko3WmZQLWhXTWtBa3NzeDJxYmVZeWpkMTB5R0x0Z0FsNkpmYTBsaHVWMn"
     },
     {
-      "title": "Red Hat Summit Connect Buenos Aires: de la experimentación con IA al impacto real en el negocio - CanalAR",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVVRWtadVptSXBGS3BMVmN2WGVGTE5HZE5TcTdoLThjYkpVTzk1MEN1TVRFM21BVGNNQkN1Q1paY2VtXzhlVTFqZ0ZzT1MtZ1FLclFUZVAyLVBiTnV6TXk3dXNGbTF6alRrWG8xRXBiV3FBaVMwZU9DMV93YUk4eGZKRVhadUlIa290VFRvaGpkVUpBeVJrelg4enVKamUzenFFVWE0cUF0NWhmQkxoQzRmOHJsX1psOHd0ZHprSm9zMk1ja3FjdXlYWVRadw?oc=5",
+      "title": "Tecweek 2026 en Buenos Aires: sedes, fechas y cómo acceder a los eventos gratis sobre IA, videojuegos y criptomonedas - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNczFXUmVFbHJXVVU0Q1ZCdXktakxTdENRSGdvdzRnNWd2c3p2WGNVTURldzZ4SnVZYjRXMVlzaDVYeDhvc2hyNE1sc1Z3TU5nQ0pFdnpPQnVNVm0wUWc4bjdTRWZUbDZPMDl1M21ydndqb1Fzd2tvRG9vUElDY1pJX0xjNkZYYnJMYmd1bWlhSUtUcHRZblhuU2lIOTl1dG9WVGRmLWpiMklHXzREaVI1OUJibUpNSUowN1VjQkt0LWJDa21ndzJIMzN5aG53VkRaRDd4SnNvVHZyVUtFWGJIVFA5VFctZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 21 Oct 2026 19:01:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVVRWtadVptSXBGS3BMVmN2WGVGTE5HZE5TcTdoLThjYkpVTzk1MEN1TVRFM21BVGNNQkN1Q1paY2VtXzhlVTFqZ0ZzT1MtZ1FLclFUZVAyLVBiTnV6TXk3dXNGbTF6alRrWG8xRXBiV3FBaVMwZU9DMV93YUk4eGZKRVhadUlIa290VFRvaGpkVUpBeVJrelg4enVKamUzenFFVWE0cUF0NWhmQkxoQzRmOHJsX1psOH"
+      "published": "Wed, 21 Oct 2026 16:58:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNczFXUmVFbHJXVVU0Q1ZCdXktakxTdENRSGdvdzRnNWd2c3p2WGNVTURldzZ4SnVZYjRXMVlzaDVYeDhvc2hyNE1sc1Z3TU5nQ0pFdnpPQnVNVm0wUWc4bjdTRWZUbDZPMDl1M21ydndqb1Fzd2tvRG9vUElDY1pJX0xjNkZYYnJMYmd1bWlhSUtUcHRZblhuU2lIOTl1dG9WVGRmLWpiMklHXzREaVI1OUJibUpNSUowN1"
     },
     {
       "title": "Navian, copiloto quirúrgico con IA, gana eAwards 2026 - El Ecosistema Startup",
