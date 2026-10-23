@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Bet365 y Betano podrían regresar a México tras fallo judicial, pero el dinero de usuarios sigue bloqueado",
+      "url": "https://expansion.mx/tecnologia/2026/10/23/bet365-betano-regreso-mexico-fallo-tribunal-dinero-usuarios",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 23 Oct 2026 20:41:34 GMT",
+      "summary": "Un tribunal federal resolvió a favor de Ganador Azteca. La decisión abre la puerta al regreso de las plataformas de apuestas digitales, aunque persisten obstáculos para liberar los recursos."
+    },
+    {
+      "title": "Meta retrasa nuevas reglas que le permitirían usar contenido de sitios web tras presión de editores",
+      "url": "https://expansion.mx/tecnologia/2026/10/23/meta-retrasa-terminos-uso-noticias-inteligencia-artificial",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 23 Oct 2026 19:10:35 GMT",
+      "summary": "La empresa aplazó hasta sus nuevos términos comerciales ante las críticas de organizaciones periodísticas, que advierten sobre el posible uso de sus contenidos para desarrollar herramientas de IA sin autorización."
+    },
+    {
       "title": "Cómo comprar el iPhone Duo en México desde 48,000 pesos y cuántos meses debes esperar para recibirlo",
       "url": "https://expansion.mx/tecnologia/2026/10/23/iphone-duo-mexico-precio-compra-y-tiempo-de-entrega",
       "source": "Expansión Tecnología",
@@ -27,30 +43,6 @@
       "summary": "La plataforma utiliza IA para detectar desvíos de ruta y otros riesgos. Su integración con Axon 911 permite a las autoridades consultar información del trayecto y responder ante posibles emergencias."
     },
     {
-      "title": "Ya usé el nuevo iPhone Duo y entendí por qué no es para todos y no tiene nada que ver con el precio",
-      "url": "https://expansion.mx/tecnologia/2026/10/22/ya-use-el-nuevo-iphone-duo-y-entendi-para-quien-es",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 22 Oct 2026 19:00:19 GMT",
-      "summary": "Tras probar el primer plegable de Apple analizamos cómo su pantalla nanotexturizada y el modo Split View lo convierten en una oficina portátil para líderes empresariales."
-    },
-    {
-      "title": "Le diste los correos de tu empresa a la IA, pero ¿quién vigila que no filtre tus secretos?",
-      "url": "https://expansion.mx/tecnologia/2026/10/22/riesgos-ia-agentes-correos-datos-empresas-ciberseguridad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 22 Oct 2026 11:55:40 GMT",
-      "summary": "Los agentes de IA pueden acceder a bases de datos y ejecutar tareas empresariales, pero muchas compañías aún carecen de controles para limitar sus permisos y evitar filtraciones de información confidencial."
-    },
-    {
-      "title": "México usará inteligencia artificial para mejorar fallas en distribución de medicamentos - HolaNews",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVJGVzZCdmZ3TGFDTWRtNllrZmVGUXZwa21HZmFwc2xEUzZPMFBBVUVydkw2TUw3VTNfSHNDNUJybUxzQVRzTUJmeVdYXzFncFZNUHFYQ0ZkeWY0LUVvRlM2MksxOE5qSG5JdmMwbm9uaG0wRW8zN1dtX3p2MEM0NDBLZ1k0SmQyaFNRdDlZa3ZGcWx4ZGF6SUJEajlINGpNSFFCM0RERnVESnV6NERB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 23 Oct 2026 16:31:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVJGVzZCdmZ3TGFDTWRtNllrZmVGUXZwa21HZmFwc2xEUzZPMFBBVUVydkw2TUw3VTNfSHNDNUJybUxzQVRzTUJmeVdYXzFncFZNUHFYQ0ZkeWY0LUVvRlM2MksxOE5qSG5JdmMwbm9uaG0wRW8zN1dtX3p2MEM0NDBLZ1k0SmQyaFNRdDlZa3ZGcWx4ZGF6SUJEajlINGpNSFFCM0RERnVESnV6NERB?oc=5\" target="
-    },
-    {
       "title": "UNIR México aporta la visión de prestigiosos expertos en inteligencia artificial durante el tercer Foro Normalista sobre IA en Veracruz - UNIR México",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QYTFZZVJlc0E2R0hudW1VZnBfbnk0VnIzcVdmUHZJcmxtMUdGWlVZM2g3NFRXUkM0X01vOGtjNDA0eG9wLUhFMGlkMVRYZUhseUNSMEpjUEo4VjJUTk5hQ1N6ajJldGgyN3VNTEhGWQ?oc=5",
       "source": "Google News",
@@ -65,6 +57,14 @@
       "category": "news",
       "published": "Fri, 23 Oct 2026 16:00:23 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUG5CV3JJeXRFTTNZSHd5MHFvS3BrZGhkUVBGYms0cDc1MWZRMVQ4dFY4VU5IYnBTemRLeFU5Vlh2QTdTcHp5SU9UNmg2OGEwSjhicmhrd1l6QTFheHZKWW0zMDgxc3YzNk5ocWNETmtHMGxHTndKVFE0VFpwZmZpb1Ztd2Z3d185dXFZU2hZdElLbFZHUnN3eE1ycnFBeUVYNmVXbFpKRngxanNiMHNxZUlZRFNITTluRH"
+    },
+    {
+      "title": "Fraudes con inteligencia artificial superan los 20 mil millones de pesos en México - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1lUd05WVFRTQUpDbGRhVW5RMnRqeDEwelVsQVc1MXBOaVZTaHVOdDAya0I3bHFIaUxMcVFxSkp0OUNWc0RDT3QwQWdkNTl0QXJXM1FBbGtyQTVlWE80U2pjYW9oSktIOXZwQm9tOVQwQnBONWxyUjBEWGt5VHdSbDBvdUlDa19xMUxnMkN5d2xfSUt2UTRzZUNpWm9nS29zNGJVQ1A4TGZ1STg5SHB0eEhwbnFIelRHb0E3ZjVIR3ZtTEXSAd4BQVVfeXFMTXNhaHdSRWRfUTVqYjloeFhBLU55cFJjS0x2c3lKRTZZUWNjQnI0UmhkR1NFN1BrT1otZW5oSXpkNm54TmRnS05XODJVRnhhTFhpenlXUnA4NUJzQjNxTWxEMTlzMmNyOW9DdmJPdjVmQnpXVVN3eHNOcXZnOTNmQzc0am93Vm9GTml6cnhoa002UFF6bG9EdHk4ZXJ4aW56ZlVHc1hIZlFJY1pBVmxXZVVCZUtUd2dMcXV2VFA1eWpiZnlOSU42anM2Q1VWVzZjenVQYzE3cE9qQlpvT2xR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 22 Oct 2026 05:58:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1lUd05WVFRTQUpDbGRhVW5RMnRqeDEwelVsQVc1MXBOaVZTaHVOdDAya0I3bHFIaUxMcVFxSkp0OUNWc0RDT3QwQWdkNTl0QXJXM1FBbGtyQTVlWE80U2pjYW9oSktIOXZwQm9tOVQwQnBONWxyUjBEWGt5VHdSbDBvdUlDa19xMUxnMkN5d2xfSUt2UTRzZUNpWm9nS29zNGJVQ1A4TGZ1STg5SHB0eEhwbnFIelRHb0"
     },
     {
       "title": "México Tech Week 2026: 500 eventos y 30.000 asistentes - El Ecosistema Startup",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
-      "title": "La startup Primero, cofundada por un colombiano, levanta US$12 millones para expandir IA en grandes empresas - Valora Analitik",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3BqdmZtU2ZxOHBsWnVGczdFQ1EySzk0bXVtaFNrZXhNbEE0TURBd0FVMFU1ZGQtVW5DTEJLZ3VadjN1X3pEcjk4LVM1X05RMFYtdw?oc=5",
+      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3"
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
       "title": "Judith Ruiz-Godoy: “La IA nos ha puesto en un momento en el que cuestionamos el valor de la lectura” - Infobae",
