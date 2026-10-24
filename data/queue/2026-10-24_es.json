@@ -3,12 +3,12 @@
   "country": "es",
   "articles": [
     {
-      "title": "Medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
+      "title": "Casi medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
       "url": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sat, 24 Oct 2026 15:53:34 GMT",
-      "summary": "El ministro del Interior, pese a la tensión que se vive en ciudades como París, Marsella o Lyon, se ha congratulado de una operación que ha dejado ya más de 1.000 detenidos"
+      "summary": "El ministro del Interior, pese a la tensión vivida en ciudades como París, Marsella o Lyon, se ha congratulado de una operación que ha dejado ya más de 1.000 detenidos y ha causado menos destrozos que hace una semana"
     },
     {
       "title": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
@@ -19,20 +19,12 @@
       "summary": "Estudiantes, sindicatos y vecinos han convocado más de 170 manifestaciones en poco más de un mes en todo el continente. Sus motivos a menudo coinciden"
     },
     {
-      "title": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
-      "url": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html",
+      "title": "Cien detenidos por los disturbios en el centro de Barcelona",
+      "url": "https://elpais.com/espana/catalunya/2026-10-24/centenares-de-jovenes-violentos-destrozan-el-centro-de-barcelona.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sat, 24 Oct 2026 17:45:52 GMT",
-      "summary": "El amplio despliegue policial y la confusión de los llamamientos hacen que a media tarde no hayan aparecido grupos violentos. El detenido es un periodista italiano de origen marroquí"
-    },
-    {
-      "title": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
-      "url": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 24 Oct 2026 17:41:18 GMT",
-      "summary": "Un salario neto de 1.500 euros equivale hoy al poder de compra que tenían los 1.000 euros hace 20 años. Quienes perciben esta renta relatan dificultades para llegar a fin de mes"
+      "published": "Sat, 24 Oct 2026 18:20:14 GMT",
+      "summary": "Unos 500 jóvenes, convocados por las redes, se enfrentan a los mossos y provocan daños y saqueo de comercios"
     },
     {
       "title": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
@@ -41,6 +33,14 @@
       "category": "tech",
       "published": "Sat, 24 Oct 2026 11:09:15 GMT",
       "summary": "La marcha se celebra todos los años en octubre, pero esta vez ha doblado la afluencia, según los convocantes, por el protagonismo de estas prestaciones en la campaña electoral"
+    },
+    {
+      "title": "La primera vacuna contra el melanoma abre una nueva vía para tratamientos personalizados contra el cáncer",
+      "url": "https://elpais.com/salud-y-bienestar/2026-10-24/la-primera-vacuna-contra-el-melanoma-abre-una-nueva-via-para-tratamientos-personalizados-contra-el-cancer.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 24 Oct 2026 16:54:22 GMT",
+      "summary": "Los rumores y las expectativas sobre lo que significará para el tratamiento oncológico han provocado subidas y bajadas millonarias en bolsa"
     },
     {
       "title": "¿Dónde estudiar un Máster en Inteligencia Artificial y Derecho en España? - Mastermania",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm91eERrTjRDNjdXWnNVOUt1bUpvTy1vZVRqUnJlOWdMcm94M2k4Ql9oVUpEUzczYmMxQzNzVy1JcDNoS1NvQXk3ZzZJbHZaQktyRGZsR1Z2Y2s1WGVCRmxDalpxNUJ1QVV5TnpIMXlBcjJXT2hBT01YaWR5TDR2ZjhBTWlseHJfTDBKeWFYQXFXeURvQXc0TDQ3ZXA4MXdqeHNBaGt4QTJGc1U?oc=5\" target=\"_bla"
     },
     {
-      "title": "La Voz de los Jóvenes: La Inteligencia Artificial - Salesianos España",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUJDcWZHX0xHRm05bVEyYjZaUTVjZHl3WnpHVlpDWjFLemQxWTl5U3U1a2Z2QURQNWJ0d3BRSldUaTFZckVWYlZ1ODFQTzdnRV91MlEtQjFGVGZWWWdWRXg3VExTOGtKYUY0YlRLeXoycDYyRGJWNFRPQmpPVm5lY0VlRGY?oc=5",
+      "title": "Una novela premiada con 20.000 euros resultó estar escrita en un 99% por inteligencia artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTZPZldfUnhzdnVfaDJZZ3h5b2JucFQtZlJqVzFmMEgtVXQyTF9pNHAxczRzRnhfX2o5MFBjQ3VIUWkzMWVhbldOV3dzWUFsQlZGM296ZFNCWHR6WmozSFhKdXNxbDQzTHhNMEx0MnlxbTVXdVdwd1IyNTZCRldUZW5zbHNSeXA5UUR6MGtuWXQ3dWlaOUhBVlY4VmdDRFlUblJoQ2U5UXBKNzdsNEtiMzZMeVNzSGFPY2pBVmJ2czRZVjdPLWZFZ1ZHc1B1TlFiRWfSAewBQVVfeXFMUEhmZHRXNE00UW11ZTRLeHhHTWpaR1k3bS1VeEJHZG11RFFScllESWhNc05LdVFONHZ3Z1hLemRxeDhGeEl0eFFfN2ZDZWs4NjJaY2VTeEtjbkJJUjdPX2xhdXJiMnFKaHdPeDhaT0lORU94OXJFUmVtWm1SNXdfaTlUdjVNZTlkaTFvRHlMR2x0cTJNNmd6RWFHNThqMno3WTg3ajNDc2gxNVRCV2ZkZDdyZGRTSEtUTE5NR1RUaGJnZXRNNElBZFh6YzVDSFgxQUtOM18wQW92UnJ0N1hxWFhONVJ1TnRDT2JXUm4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 23 Oct 2026 08:02:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUJDcWZHX0xHRm05bVEyYjZaUTVjZHl3WnpHVlpDWjFLemQxWTl5U3U1a2Z2QURQNWJ0d3BRSldUaTFZckVWYlZ1ODFQTzdnRV91MlEtQjFGVGZWWWdWRXg3VExTOGtKYUY0YlRLeXoycDYyRGJWNFRPQmpPVm5lY0VlRGY?oc=5\" target=\"_blank\">La Voz de los Jóvenes: La Inteligencia Artificia"
+      "published": "Fri, 23 Oct 2026 15:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTZPZldfUnhzdnVfaDJZZ3h5b2JucFQtZlJqVzFmMEgtVXQyTF9pNHAxczRzRnhfX2o5MFBjQ3VIUWkzMWVhbldOV3dzWUFsQlZGM296ZFNCWHR6WmozSFhKdXNxbDQzTHhNMEx0MnlxbTVXdVdwd1IyNTZCRldUZW5zbHNSeXA5UUR6MGtuWXQ3dWlaOUhBVlY4VmdDRFlUblJoQ2U5UXBKNzdsNEtiMzZMeVNzSGFPY2"
     },
     {
       "title": "Barcelona vs. Real Madrid: IA pronostica marcador exacto y ganador del clásico en España - Revista Semana",
