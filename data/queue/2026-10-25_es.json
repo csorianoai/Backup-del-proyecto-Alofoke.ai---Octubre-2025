@@ -3,6 +3,22 @@
   "country": "es",
   "articles": [
     {
+      "title": "María Corina Machado regresa a Venezuela",
+      "url": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 25 Oct 2026 17:10:12 GMT",
+      "summary": "La dirigente opositora, después de varios intentos y casi 10 meses fuera del país, logra regresar y reta con su presencia al chavismo"
+    },
+    {
+      "title": "El regreso de María Corina Machado a Venezuela, en vivo | Marco Rubio: “Las condiciones que permiten el regreso de Machado son resultado de las conversaciones apoyadas por EE UU”",
+      "url": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 25 Oct 2026 18:05:02 GMT",
+      "summary": "La líder opositora vuelve a su país después de casi diez meses y reta con su presencia en Caracas al chavismo | Trump: “Espero que esté a salvo, es una mujer muy agradable”"
+    },
+    {
       "title": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
       "source": "El País Tecnología",
@@ -16,55 +32,39 @@
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 25 Oct 2026 13:30:55 GMT",
-      "summary": "Los jóvenes deben retirar las lonas y las tiendas para dejar la plaza “exactamente como esta antes”"
+      "summary": "Los jóvenes deben retirar las lonas y las tiendas para dejar la plaza “exactamente como estaba antes”"
     },
     {
-      "title": "Vox mete la “motosierra” en la cultura",
-      "url": "https://elpais.com/cultura/2026-10-25/vox-mete-la-motosierra-en-la-cultura.html",
+      "title": "Detenido en la acampada de Sol un hombre de 26 años por agredir sexualmente a una mujer de 22",
+      "url": "https://elpais.com/espana/madrid/2026-10-25/detenido-en-la-acampada-de-sol-un-hombre-de-26-anos-por-agredir-sexualmente-a-una-mujer-de-22.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Sun, 25 Oct 2026 04:30:01 GMT",
-      "summary": "El partido de Abascal, que acumula ya un extenso historial de cancelaciones mientras acusa de censora a la izquierda, avanza junto al PP en la promoción de una idea restrictiva de la cultura vinculada al patriotismo y la tradición"
+      "published": "Sun, 25 Oct 2026 13:52:19 GMT",
+      "summary": "El joven atacó a la víctima en el interior de una tienda de campaña, según la versión de la policía"
     },
     {
-      "title": "Última hora de la actualidad política, en directo | Feijóo señala a Sánchez por los disturbios en Barcelona: “Está jugando con fuego”",
-      "url": "https://elpais.com/espana/2026-10-25/ultima-hora-de-la-actualidad-politica-en-directo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 25 Oct 2026 14:02:08 GMT",
-      "summary": "El Frente Amplio acusa al PSOE de limitarse a “gestionar la desigualdad” en vez de reducirla"
-    },
-    {
-      "title": "Los jóvenes que provocaron altercados en Barcelona se convocaron por TikTok y organizaron por grupos de Telegram y Whatsapp",
-      "url": "https://elpais.com/espana/catalunya/2026-10-25/los-jovenes-que-provocaron-altercados-en-barcelona-se-convocaron-por-tiktok-y-organizaron-por-grupos-de-telegram-y-whatsapp.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 25 Oct 2026 07:32:10 GMT",
-      "summary": "Los Mossos d’Esquadra detienen a 128 personas, de las cuales 72 son menores de edad"
-    },
-    {
-      "title": "Una novela premiada con 20.000 euros resultó estar escrita en un 99% por inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTZPZldfUnhzdnVfaDJZZ3h5b2JucFQtZlJqVzFmMEgtVXQyTF9pNHAxczRzRnhfX2o5MFBjQ3VIUWkzMWVhbldOV3dzWUFsQlZGM296ZFNCWHR6WmozSFhKdXNxbDQzTHhNMEx0MnlxbTVXdVdwd1IyNTZCRldUZW5zbHNSeXA5UUR6MGtuWXQ3dWlaOUhBVlY4VmdDRFlUblJoQ2U5UXBKNzdsNEtiMzZMeVNzSGFPY2pBVmJ2czRZVjdPLWZFZ1ZHc1B1TlFiRWfSAewBQVVfeXFMUEhmZHRXNE00UW11ZTRLeHhHTWpaR1k3bS1VeEJHZG11RFFScllESWhNc05LdVFONHZ3Z1hLemRxeDhGeEl0eFFfN2ZDZWs4NjJaY2VTeEtjbkJJUjdPX2xhdXJiMnFKaHdPeDhaT0lORU94OXJFUmVtWm1SNXdfaTlUdjVNZTlkaTFvRHlMR2x0cTJNNmd6RWFHNThqMno3WTg3ajNDc2gxNVRCV2ZkZDdyZGRTSEtUTE5NR1RUaGJnZXRNNElBZFh6YzVDSFgxQUtOM18wQW92UnJ0N1hxWFhONVJ1TnRDT2JXUm4?oc=5",
+      "title": "Lo que se está construyendo en España mientras hablamos de inteligencia artificial - Blogthinkbig.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm91eERrTjRDNjdXWnNVOUt1bUpvTy1vZVRqUnJlOWdMcm94M2k4Ql9oVUpEUzczYmMxQzNzVy1JcDNoS1NvQXk3ZzZJbHZaQktyRGZsR1Z2Y2s1WGVCRmxDalpxNUJ1QVV5TnpIMXlBcjJXT2hBT01YaWR5TDR2ZjhBTWlseHJfTDBKeWFYQXFXeURvQXc0TDQ3ZXA4MXdqeHNBaGt4QTJGc1U?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 23 Oct 2026 15:44:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTZPZldfUnhzdnVfaDJZZ3h5b2JucFQtZlJqVzFmMEgtVXQyTF9pNHAxczRzRnhfX2o5MFBjQ3VIUWkzMWVhbldOV3dzWUFsQlZGM296ZFNCWHR6WmozSFhKdXNxbDQzTHhNMEx0MnlxbTVXdVdwd1IyNTZCRldUZW5zbHNSeXA5UUR6MGtuWXQ3dWlaOUhBVlY4VmdDRFlUblJoQ2U5UXBKNzdsNEtiMzZMeVNzSGFPY2"
+      "published": "Thu, 22 Oct 2026 10:57:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm91eERrTjRDNjdXWnNVOUt1bUpvTy1vZVRqUnJlOWdMcm94M2k4Ql9oVUpEUzczYmMxQzNzVy1JcDNoS1NvQXk3ZzZJbHZaQktyRGZsR1Z2Y2s1WGVCRmxDalpxNUJ1QVV5TnpIMXlBcjJXT2hBT01YaWR5TDR2ZjhBTWlseHJfTDBKeWFYQXFXeURvQXc0TDQ3ZXA4MXdqeHNBaGt4QTJGc1U?oc=5\" target=\"_bla"
     },
     {
-      "title": "La novela premiada ‘Donde el agua trabaja’ está escrita por IA al 99%, según el detector Pangram - EL PAÍS",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeTV4UmVkTEVfVWctd0dYdmxJR0FOTDBRZFEzTjZaOWM5bE5CbzZPT1dHZWVmN2FjWE1oNFhlcVl0SVBVaXFOSG9kaU51Z2VVVVdCYm1BX1hINE9yeFNtMm1lUm5STkRSeG8xTjFScWxNcFdiTmVRV09mdTFIZkppQzdSNm55OVdOTjV0djFYSjNTTU5HR3FoaGFRVTFHd0ZDYnRIR2xzZVhZcG03RUYtbzVadWxmRDlPeFlveEFZdFh0Mm1xNXhhUTdkZURYTktCaVFlNnlOMDRqNEwyQzFXdE9vT1ZpYlRVRWdYdWdYd1PSAYQCQVVfeXFMUG52MTM2WS1oNEpzRFdZUnl1cld0WVdFRDVDRk9oclhUWjVjbTg0eHJYQ3ljT1dKYU5OZnRaazV6ZlBBWlJPN1B3RmRsM2RsMW5Gc21SVllFNFd5cDZLNDNPamhfbmk5eUxxRi1GSDVfeVZ0MFZROTZienUyV09COVFRckdIMnIxYi1WaFJLYW53UFc2Z2lxbXJJVGpDcDJ2OHJ5WEVpNWgzbzB2aVJOU1RXdmk4eXg0NTFzZG9RUXNDdFBDc1ZvQXVrODVialNLS0o5MlVfeTVUbk9rV2w3Xzk1QmtQSDQ4SEFGWEVZYzYzYUZ4Umw4RlRnanllazl3ZHlMVzY?oc=5",
+      "title": "¿Dónde estudiar un Máster en Inteligencia Artificial y Derecho en España? - Mastermania",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVFLSVlXU3laSW93WW1jcG9UTFVBNTdZVW5Fd3hLeTdtbDNMeTM0d2VnTVZOMU8xaXV5QWx0cTFZX2RHUWFFWnNsNWpPUXZaaXFvOXkyNUVtQnc2SW5qQTFtbkxFOHdHN2NVc21wNUZxQ0N1ZWFKYk9kbHdKa0xZcDZpMlFpVDdzYzEtdUhOc3dvOHpEQTloR05MOERTcUltWWxpWkUtNlNkOUJhNVlGOVpValN4Y3M3V2F2UVRad24yN3dPZ1ZRWjFB0gHKAUFVX3lxTE1vMEkyc05kcXoyZEJlT3RYWUhuZnR5ZzBORkRubTZqa3RBNTJWUXZzMm9lT0JJME1ocmgyNmRLQ0FyWHhYcTFtUURKZm0xZ3E3MC1QZTZSS1lQczhrUE9DN25Wd3ZGUG9hX0RrNzRpMUVGNEQ5SFRuZWZ6eDhDM0xBeWlGWmlKRndJczEybUFFZzRmTkI3RklxY3JsMDM0VTdSdExTNDZYX2REQW9mWUVEZXJYODlfVzQyVGFUSDhMRDJIbHpvWS12ZEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 23 Oct 2026 12:19:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeTV4UmVkTEVfVWctd0dYdmxJR0FOTDBRZFEzTjZaOWM5bE5CbzZPT1dHZWVmN2FjWE1oNFhlcVl0SVBVaXFOSG9kaU51Z2VVVVdCYm1BX1hINE9yeFNtMm1lUm5STkRSeG8xTjFScWxNcFdiTmVRV09mdTFIZkppQzdSNm55OVdOTjV0djFYSjNTTU5HR3FoaGFRVTFHd0ZDYnRIR2xzZVhZcG03RUYtbzVadWxmRDlPeF"
+      "published": "Tue, 20 Oct 2026 15:24:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVFLSVlXU3laSW93WW1jcG9UTFVBNTdZVW5Fd3hLeTdtbDNMeTM0d2VnTVZOMU8xaXV5QWx0cTFZX2RHUWFFWnNsNWpPUXZaaXFvOXkyNUVtQnc2SW5qQTFtbkxFOHdHN2NVc21wNUZxQ0N1ZWFKYk9kbHdKa0xZcDZpMlFpVDdzYzEtdUhOc3dvOHpEQTloR05MOERTcUltWWxpWkUtNlNkOUJhNVlGOVpValN4Y3M3V2"
     },
     {
-      "title": "Por una agencia de Inteligencia Artificial que transforme España - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUF2RDFrM1p1QjNsbHJFZWF3bUFPN2hCeXVqTXpvS0RESDg5dEc4a2VqTjZYMEV5VzBWYmw2cENXTVVZRGlVZXVnN3hUOHBTaGZyaG1KclpHX0JFZ3BBamRlanlpRC1fZ0RqcWEtdW95bXg5VEk3OWpid20zNjlmZG5PVmROcXF0NWQ0Zk1ObzVtd2loajRjbFdTOXBoZVZhaG5kcV8yZUczUjFpWW1kM0ExQThmTGF0M2tBbHVtY0RHNGhVQzJJ0gGyAUFVX3lxTE1hSVNPYUt4c3dCR2wyWXljWWdvcjN6UG5RaG9rWmUyNU5IN1M4Zm5lRERiTFJYdU9tc0hVMlNONnFDN0ZsSUVlNm1wUW55Z3dJV0hjUXY5ZWpLRzBQSDY0ZlhHNjF4X21FTWhTUkREVTdUT1Z1WFJlbm5aWDl0Y0l2eHl1d0NkME9Pc3k5MXRVWTlSbWJwekE1a1pPelVSR1hCSm1Dclp3TnpaLVUtXzV2ckE?oc=5",
+      "title": "Rueda aborda con Microsoft España nuevas vías de colaboración en inteligencia artificial y tecnología - Xunta de Galicia",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDdwd1VWeXhtbUd5OUx3dlFuYWpzbDRZOXBpcjctTDF0RUdqODJna21aaDNsbTY0OUdlUzdwSmJFRXBQTzhZOXdFa1gwVldhdjdsV2MwaTNYYkhpdFhiNVhMT1NhN3p6YTlheUhCYjF5WmZTeGc0STZZRDJYd1RLaFNCcWU1VEFEcFd5aU5HVkxzMFhwUl9Rd0dUQ1lMLWJpWlhqYnVRMVAzMlpadWhpT2ZaWHd4TTdGWHpvTVNWY01NRHc5MnNWQzNkTmVBZ3ExUVg4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 21 Oct 2026 20:51:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUF2RDFrM1p1QjNsbHJFZWF3bUFPN2hCeXVqTXpvS0RESDg5dEc4a2VqTjZYMEV5VzBWYmw2cENXTVVZRGlVZXVnN3hUOHBTaGZyaG1KclpHX0JFZ3BBamRlanlpRC1fZ0RqcWEtdW95bXg5VEk3OWpid20zNjlmZG5PVmROcXF0NWQ0Zk1ObzVtd2loajRjbFdTOXBoZVZhaG5kcV8yZUczUjFpWW1kM0ExQThmTGF0M2"
+      "published": "Sun, 25 Oct 2026 10:11:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbDdwd1VWeXhtbUd5OUx3dlFuYWpzbDRZOXBpcjctTDF0RUdqODJna21aaDNsbTY0OUdlUzdwSmJFRXBQTzhZOXdFa1gwVldhdjdsV2MwaTNYYkhpdFhiNVhMT1NhN3p6YTlheUhCYjF5WmZTeGc0STZZRDJYd1RLaFNCcWU1VEFEcFd5aU5HVkxzMFhwUl9Rd0dUQ1lMLWJpWlhqYnVRMVAzMlpadWhpT2ZaWHd4TTdGWH"
     },
     {
       "title": "Barcelona vs. Real Madrid: IA pronostica marcador exacto y ganador del clásico en España - Revista Semana",
@@ -79,16 +79,16 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzFBNmZGZUxWaFpGU1pDT1l1c2R6VUpaenlnMDl2LTR3OURldVJZb3RwaDJZRUc5a01nWmpqYjdoRU1oTG9UVElXaHVwaU5VT19OYzRUWFN5RWV3MUZSdjNCNXl3R2FyU3hMSlNmT0FGTWl2UmRZM0hpZGVXOTU5OHRpZkJNOTVXelp4WWxpbzBFaDNMUVFLdEN4WU81ZVg3ZjdyQnhkMWNxN0c5Z1pzQms4alR6NUFhNTl2bUY5X2FnYjU3SlRuc0hWMld6WDNIMnF5djR4UUl5MTYxdWNIa2RB?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 24 Oct 2026 17:26:02 GMT",
+      "published": "Sat, 24 Oct 2026 16:44:18 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzFBNmZGZUxWaFpGU1pDT1l1c2R6VUpaenlnMDl2LTR3OURldVJZb3RwaDJZRUc5a01nWmpqYjdoRU1oTG9UVElXaHVwaU5VT19OYzRUWFN5RWV3MUZSdjNCNXl3R2FyU3hMSlNmT0FGTWl2UmRZM0hpZGVXOTU5OHRpZkJNOTVXelp4WWxpbzBFaDNMUVFLdEN4WU81ZVg3ZjdyQnhkMWNxN0c5Z1pzQms4alR6NUFhNT"
     },
     {
-      "title": "Pronóstico Barcelona vs Real Madrid: probabilidades, estadísticas, bajas y predicción IA - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0JlUTdsNk5ocy1TbThXMFFNaXNGeV9DTWV4dUVnMzlPM2JBdjJoYmRlOHZCVllldnBZVjVzcmdIUUJpTkI0b005ODA1OHdhd20tc1NJd01GZ09uNkVxZFlXeE9RR1ltbWlsenhqejM0M2tHdmNQU0VFSkZRaXJVczFiN090OWpwSzJPdzU3Zkc4MVZGNFM3VWgtd2tqOEpuSy1lc3RLcFB3NzJENWpF?oc=5",
+      "title": "A qué hora es el Barcelona - Real Madrid y dónde ver en televisión y online el partido del Clásico de LaLiga hoy - ABC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjlqcEdmUXRLSEZ1bnd5cDBpb3N6NUxQbnBGNzB6aUxqR1RnRDRsY0x2Yk5yX1R2QW12ZEdOYk5YVmIzTjlQYTNUTlAxeElBMENOaHJZLV81YjRHUFJVOTVxa215ZndqTmx0SF9ZN0Y1TkZfdDlfV2FyY1ppU1NURkw0ZGdlWm5PRDlvSDJDSm90TzBsT1NfZVdmNWZ5WUQ2SDY2eWVTMnRSUHJR0gGyAUFVX3lxTE5WUnlLbEczTXdvR0ZQci1uQm5XUFJ5X05IWDFiZ1lpRmZlQlBTUEEwSkJFVWcwUEszQ1lJbUFpa3l1UERqU3pNa3FMQ2NYaVRwM09UZnBlWHNvNWd0ai1XM3RWQjQ5Um5tWS15LXZpVE5kemkxQWxhUTVvcENFdWw2b0NTSFNSVmg5ekNPTG05emtNdnhpRmE4dlU3WVBFTHB5VUR5bjY4czZCaUJJM2NFSXc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 24 Oct 2026 06:38:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0JlUTdsNk5ocy1TbThXMFFNaXNGeV9DTWV4dUVnMzlPM2JBdjJoYmRlOHZCVllldnBZVjVzcmdIUUJpTkI0b005ODA1OHdhd20tc1NJd01GZ09uNkVxZFlXeE9RR1ltbWlsenhqejM0M2tHdmNQU0VFSkZRaXJVczFiN090OWpwSzJPdzU3Zkc4MVZGNFM3VWgtd2tqOEpuSy1lc3RLcFB3NzJENWpF?oc=5\" target="
+      "published": "Sun, 25 Oct 2026 17:27:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQUjlqcEdmUXRLSEZ1bnd5cDBpb3N6NUxQbnBGNzB6aUxqR1RnRDRsY0x2Yk5yX1R2QW12ZEdOYk5YVmIzTjlQYTNUTlAxeElBMENOaHJZLV81YjRHUFJVOTVxa215ZndqTmx0SF9ZN0Y1TkZfdDlfV2FyY1ppU1NURkw0ZGdlWm5PRDlvSDJDSm90TzBsT1NfZVdmNWZ5WUQ2SDY2eWVTMnRSUHJR0gGyAUFVX3lxTE5WUn"
     },
     {
       "title": "La IA impulsa el emprendimiento en solitario, presente en una de cada 4 startups en España, máximo histórico - PressDigital",
