@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Anthropic revela planes de crecimiento y gasto vertiginosos en su solicitud de salida a bolsa",
+      "url": "https://www.clarin.com/new-york-times-international-weekly/anthropic-revela-planes-crecimiento-gasto-vertiginosos-solicitud-salida-bolsa_0_uZNkFmV2fA.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 26 Oct 2026 19:20:25 +0000",
+      "summary": "<ul><li>Antes de la que podría ser la mayor salida a bolsa de la historia, Anthropic anunció que sus ingresos se dispararon hasta los 16.300 millones de dólares en el primer semestre del año. </li><li>Además adelantó que planea invertir 807.000 millones de dólares en infraestructura de inteligencia "
+    },
+    {
+      "title": "Microsoft ofreció retiros voluntarios a 60.000 empleados: sigue el camino de Meta, Netflix, Uber, eBay y Amazon",
+      "url": "https://www.clarin.com/tecnologia/microsoft-ofrecio-retiros-voluntarios-60000-empleados-sigue-camino-meta-netflix-uber-ebay-amazon_0_wyR9J3FRno.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 26 Oct 2026 18:51:32 +0000",
+      "summary": "<ul><li>La propuesta alcanza a trabajadores de Estados Unidos, Canadá, India y el Reino Unido desde vicepresidencias hacia abajo.</li><li>Busca recortar costos mientras invierte 41.000 millones de dólares para los centros de datos necesarios para la IA.</li></ul>"
+    },
+    {
       "title": "Red Hat Summit 2026: el emblemático encuentro anual del código abierto, a sala llena",
       "url": "https://www.clarin.com/informacion-general/red-hat-summit-2026-emblematico-encuentro-anual-codigo-abierto-sala-llena_0_iEOHeH3LPl.html",
       "source": "Clarín Tecnología",
@@ -25,95 +41,7 @@
       "category": "tech",
       "published": "Sun, 25 Oct 2026 09:01:52 +0000",
       "summary": "<ul><li>CrowdStrike identificó una campaña de ciberataques contra instituciones sanitarias argentinas entre mayo y agosto de 2026.</li><li>La investigación también detectó actividad en Brasil y Colombia.</li><li>El dato es congruente con informes de otras empresas de ciberinteligencia como Palo Alto"
-    },
-    {
-      "title": "“Hola ma, cambié el número”: cómo detectar las estafas que apuntan a la gente mayor",
-      "url": "https://www.clarin.com/tecnologia/hola-ma-cambie-numero-detectar-estafas-apuntan-gente-mayor_0_zbtfcyi5yA.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sat, 24 Oct 2026 08:45:36 +0000",
-      "summary": "<ul><li>Falsos familiares, robo de cuentas de WhatsApp, llamados bancarios y engaños con datos personales están entre las principales maniobras.</li><li>La inteligencia artificial suma nuevas dificultades, desde mensajes más convincentes hasta audios capaces de imitar voces.</li></ul>"
-    },
-    {
-      "title": "Una empresa argentina, detrás de la nueva app del Atlético de Madrid: del abono a las compras, todo en el celular",
-      "url": "https://www.clarin.com/tecnologia/empresa-argentina-detras-nueva-app-atletico-madrid-abono-compras-celular_0_K4Ugo2QaGe.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Oct 2026 17:19:42 +0000",
-      "summary": "<ul><li>Veritran llevó su experiencia en banca digital al fútbol europeo. </li><li>Una de las novedades permite transferir la ubicación para un partido cuando el titular no puede asistir. </li><li>La compañía también trabaja con Manchester City.</li></ul>"
-    },
-    {
-      "title": "El uso de inteligencia artificial abre nuevas brechas de ciberseguridad - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGE4Y0k4VzZPNzJHMU96c3E2bnBCQjNDTDBLTjNwQ1laZXpXOXNqQ2NzMTk4ajhaQzJGWHd4T0hDWGdoSUhLNmpuNVpyT2lxN3g1dXpraWlkd3E1QjZsd2Znd1JKckI3cE1Nc2N4cmlYeERkUUJvUTY4eE5JMmhBTTF1N2FZMk1MZlhRNm1VOU9XaHI4anR5dFBoejFoQTJ2aHJXUVNtRDFXQ1lKTmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Oct 2026 17:06:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGE4Y0k4VzZPNzJHMU96c3E2bnBCQjNDTDBLTjNwQ1laZXpXOXNqQ2NzMTk4ajhaQzJGWHd4T0hDWGdoSUhLNmpuNVpyT2lxN3g1dXpraWlkd3E1QjZsd2Znd1JKckI3cE1Nc2N4cmlYeERkUUJvUTY4eE5JMmhBTTF1N2FZMk1MZlhRNm1VOU9XaHI4anR5dFBoejFoQTJ2aHJXUVNtRDFXQ1lKTmc?oc=5\" target=\""
-    },
-    {
-      "title": "La regulación de la inteligencia artificial avanza en el mundo: qué cambia para empresas, gobiernos y usuarios - https://inteligenciaargentina.ar/",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0FtT21QOEZjbFRiQVQ2OHVkNGN4Um5SX29WeG9aOUtQRThpZ1g5TlZscEpsaS1qZlVXTTYyNkNZeVo1d3dDbUEzaUdSVHZKQkdsb1hUcnNmY01fYjkyX1NRTXYyQ0RfM0tlcy15eG1YTTNYSVZQWTlhQ0ZuOXNsRHJWUWdQMV9EMWtwVXUxakdEM0dhSTJjTk5KXzNPTDk3S0pTUVBiUFRtbEZ2X2xaTzJVckxLbVRxMFdWNWZvd0I0S0tKNFl4NHlHUGp0WEU4VGc5YW9mVkRFNDBNdjVqT1J3THpGQjY3N0h3NkpEZktlNkZCbS1DMQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Oct 2026 11:51:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0FtT21QOEZjbFRiQVQ2OHVkNGN4Um5SX29WeG9aOUtQRThpZ1g5TlZscEpsaS1qZlVXTTYyNkNZeVo1d3dDbUEzaUdSVHZKQkdsb1hUcnNmY01fYjkyX1NRTXYyQ0RfM0tlcy15eG1YTTNYSVZQWTlhQ0ZuOXNsRHJWUWdQMV9EMWtwVXUxakdEM0dhSTJjTk5KXzNPTDk3S0pTUVBiUFRtbEZ2X2xaTzJVckxLbVRxMF"
-    },
-    {
-      "title": "La Inteligencia Artificial adelantó el ganador del Balón de Oro 2026 - Bolavip Argentina",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXlsTXFGbkxsZVp3MmZpZzdkdUVVRnpVTjNmTUdLVTNGWEdLWFM1SHVETlR4c2x5cmpXWUh1a2NoSThGOXZ5azNVb25VaFhKa21kTEZHU19WOGJEMU92TWNlVXg0QUNucV9XLUxUUmtlal9WY3dpMGR5RGJySDBSYWhsQllabFktUlY5YjZZRWhIVmtIeUFrT21XajVZelNMNndaVmlVQzhmcXdVcXhqRjN30gG3AUFVX3lxTFBibG5JYlB0MThPNHhETWlkUjhuRjhtazlLQTRmajhNR09hcUpvaF9EeE00cmF4M19EU2M5d2cyTTgxY3I3bC1ScWlSckJLVHFlS2xBWXVCWEMxWlNJeVAwazhvVWw0RzFzaG96Rm9GXzFjM2lzZWtCZ2RlR1YzN212RjBGNU9KTGgya3Y2MExiaFFoSkxpN1ZYbGYyNmlDU19LSVd2Y3k1aDI0dFlSOHFVYVFEdU9kSQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Oct 2026 16:35:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXlsTXFGbkxsZVp3MmZpZzdkdUVVRnpVTjNmTUdLVTNGWEdLWFM1SHVETlR4c2x5cmpXWUh1a2NoSThGOXZ5azNVb25VaFhKa21kTEZHU19WOGJEMU92TWNlVXg0QUNucV9XLUxUUmtlal9WY3dpMGR5RGJySDBSYWhsQllabFktUlY5YjZZRWhIVmtIeUFrT21XajVZelNMNndaVmlVQzhmcXdVcXhqRjN30gG3AUFVX3"
-    },
-    {
-      "title": "Mercado Libre e Intel lanzan una campaña creada 100% con IA por GUT Buenos Aires - TotalMedios",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWVXemxHckg3MllyZTJrTC1sSnVpaWxObFQyTkFLMWM3ZFlrYkVSUm94WGhpOGZmS1k1OWk5cVdhVngzOC1PYUVtSHZnUlF5ZmhvMHVIY0NpR3lKU09FVEpjSHl5Q1VRQlItdm1VZS1wbE9mU2RDSlZQM0VHcHduWXNReVdoMTl5MGhoNDJSRnNoSDJiYzJiYmh2eWlJVFFSSWh2bkdXWG1xQ2RXak81UHNqNi1YZ09XNmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Oct 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWVXemxHckg3MllyZTJrTC1sSnVpaWxObFQyTkFLMWM3ZFlrYkVSUm94WGhpOGZmS1k1OWk5cVdhVngzOC1PYUVtSHZnUlF5ZmhvMHVIY0NpR3lKU09FVEpjSHl5Q1VRQlItdm1VZS1wbE9mU2RDSlZQM0VHcHduWXNReVdoMTl5MGhoNDJSRnNoSDJiYzJiYmh2eWlJVFFSSWh2bkdXWG1xQ2RXak81UHNqNi1YZ09XNm"
-    },
-    {
-      "title": "El ejecutivo que ayudó a traer de vuelta a Steve Jobs a Apple llega a Buenos Aires con un festival de cine hecho con IA - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZXJUY1lsZkVIblZkVWk4dzJ0ZWV1ZDlES0JWU1hLVXBpUUxaYnNLQkZlRUplZ1FtN2ZLNnh1STdWMUtxdnJIV2lNOURNa0NGcUl5WUhabl9vVjVvWE9NaE1jaGdZSUNxMEpvWlNYb0tSUThxbTJ3cENSS3RnRkJyeHBBNENmc09RNWR5b1NuWlVJcXpELU1wLUp4NG5SaHhhLXhHcUNfMmtVRmhwRElTWFNjWDBwZ085TTEtby1TX3FaajZYU19Gb1ZNN2lXQ1VYZXp1ZFdhQVhvUERpcXhnWUwzNm14ZTlEdTRZQVB0ZXRyaVXSAY4CQVVfeXFMTk9jWWVtTnVmMEdHM1JiNElFVHhzcTdxMmVUSWZ1b1lXSl9SMXFzZzJzZ1hCcjlPakswNTZKaFpWN0o4SkYwNC1MNmZvZEd5eTdvcHlVNFVsalhvcC1mZjFNMnk4X3ctUG93aEE3dTd4NnRhMkUzMGx3b2RrcjV4TEw0WlNaOFFqYnpFNzl5SWNMSzEwQ3k2bHJtdFBTWnRzT0hXeW93Sll2MlFYY0V4M1VNX3hXTFVUbjBhUUFTdTVJaVRkb2lTY0pPLTBiWHB5YW9IMzQwWlNZUXF3dFFJTmhMU0RMLWNydWpCQlpEYVVmOWF2OElkajJ4YUFmTkRVQnZLM1FxdVJoQ29NRm5n?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 23 Oct 2026 00:13:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZXJUY1lsZkVIblZkVWk4dzJ0ZWV1ZDlES0JWU1hLVXBpUUxaYnNLQkZlRUplZ1FtN2ZLNnh1STdWMUtxdnJIV2lNOURNa0NGcUl5WUhabl9vVjVvWE9NaE1jaGdZSUNxMEpvWlNYb0tSUThxbTJ3cENSS3RnRkJyeHBBNENmc09RNWR5b1NuWlVJcXpELU1wLUp4NG5SaHhhLXhHcUNfMmtVRmhwRElTWFNjWDBwZ085TT"
-    },
-    {
-      "title": "Vuelve Tecweek: 12 días de tecnología, innovación, inteligencia artificial y gaming con todo el potencial - Buenos Aires Ciudad",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE5iWFhuOThDTFU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 21 Oct 2026 01:05:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE"
-    },
-    {
-      "title": "Neolift: startup argentina de IA para pozos gana en Houston - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2xPc0xDNnNoSWV6UFF3eFgyLXpGdGhJN3pEYkNNWlBBRDh4TF8xMXBkR2lhcEY2Y0tvaWRhZExvd1Jid2ZCZmx2aDBBOW40V1U2LXY3eUYtUmtIM0tWdWQyVWtZWG5HdHBtcGRkN1pQbDR4UWNjREM1Z1g1bFMyYVU3N3A4T1hFaTlLNTl4bm1acjg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 26 Oct 2026 07:03:31 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2xPc0xDNnNoSWV6UFF3eFgyLXpGdGhJN3pEYkNNWlBBRDh4TF8xMXBkR2lhcEY2Y0tvaWRhZExvd1Jid2ZCZmx2aDBBOW40V1U2LXY3eUYtUmtIM0tWdWQyVWtZWG5HdHBtcGRkN1pQbDR4UWNjREM1Z1g1bFMyYVU3N3A4T1hFaTlLNTl4bm1acjg?oc=5\" target=\"_blank\">Neolift: startup argentina d"
-    },
-    {
-      "title": "IE Venture Day: tres startups argentinas resultaron ganadoras de la competencia internacional en la Tecweek - El Observador Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZFdQd091MFVIZ1BMVEMyMmJ1S0dxam1LQnRsLXZteFJKbFBZYzNGdGcxSmpGQVVMa3VWSEVuSkd3d1h4V08wSWM1SGpJSWIyOVZ4RWNNNnRwbW1EMjh4ZGQ5SmJvdHFOVVd5UTFZdkZ2UjkzcExYcGtoMmotVTlOZkFNajc1YnJlZWZuLW92NzEwU1ZVaXg2VF92Y2V6d29KS3p1WnBienZaczVSdUlfSnBFajFlVzhQSnhZN01yVmppRENxOG5XaHJ0VTVyNlgwSWtEdWY2YXVzXzdGSjJWQmhJMlRlZllQanFPQ3hVS09EZ9IB9wFBVV95cUxQZGFLa2dwQlVtVEpXV2hRUmFSMnBqb1lxLVRQVllJMGZva2dNSFZ0RmJTOXdwS2xJeEZ0bEItVnFubm1MVGFQUjdHVU1DOExGTF83UE1nZDNJQmQxVnQ5a1JsakF5VnMzVWUwci1SYlNnNmRTRHo3U25OelltWEMzZWhfR1BzT2lmZzVOQXNyUS11TXFZdk14WWhFdEJJTXhWS3VRSmtHdWhBeFBtZHFHbl9BLTIzNkpYY3VUM0gtTFdmamxPRGlVeEhtdUVoMmxaakNfeVczbU1xeFJlZ2t4eGpGa190MU03NHhDcVAxem5jSnZSdlNr?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 23 Oct 2026 20:04:50 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZFdQd091MFVIZ1BMVEMyMmJ1S0dxam1LQnRsLXZteFJKbFBZYzNGdGcxSmpGQVVMa3VWSEVuSkd3d1h4V08wSWM1SGpJSWIyOVZ4RWNNNnRwbW1EMjh4ZGQ5SmJvdHFOVVd5UTFZdkZ2UjkzcExYcGtoMmotVTlOZkFNajc1YnJlZWZuLW92NzEwU1ZVaXg2VF92Y2V6d29KS3p1WnBienZaczVSdUlfSnBFajFlVzhQSn"
-    },
-    {
-      "title": "La startup argentina que quiere revolucionar la minería con inteligencia artificial y biotecnología - Forbes Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX0lCcjNCejBpY2FXYVpWaGhYck14c1V5TGd1NHpsdWU2YU5sSG50VmFpRFhINS1xR2poRDZCdDhBaDJhVWp4NV9MazF6WnFwMHhuYjFhYjFEOGJxTXJSY3ctaVlFeVV2eGFrYkd4S0dOUU9feGFQNDhwRUFTSHNOdmhPZFU4UGt0c2JhSUZidVZnZ0d3WnVVYWFydVEwcDhndi1kTGJHNnZUbGh0NUF4dEhNVk80WDNYMk9mUjc2QVJwMVlScVdaOURMZXRWU0F20gHWAUFVX3lxTFBPZkUyNW5PX3lHTDM1ZlRockdCLW5qcW1pX1ZHQ2JhWlNyc3pOclo3cFZEMTJCMEpoQlJtaDR4S0NxTDJWY042NUVvYlBJN1lpM24tVTFoM0pzcWJpcFo0VUxUSGFjOGtYMUJBeHhROVU2Y3hoY0pXVkc1bTJDYXA5NFVKZm1RNDFUczFNYXJ5OTFfZDQtb1dwUTgtWFM3YmxMYllEeENIVVFuVGZHZldxYUpBVGlDZFR1bkFScWRNRlZldjU1dWkxRU5jLUdSYkVZdUp0a2c?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 21 Oct 2026 16:13:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX0lCcjNCejBpY2FXYVpWaGhYck14c1V5TGd1NHpsdWU2YU5sSG50VmFpRFhINS1xR2poRDZCdDhBaDJhVWp4NV9MazF6WnFwMHhuYjFhYjFEOGJxTXJSY3ctaVlFeVV2eGFrYkd4S0dOUU9feGFQNDhwRUFTSHNOdmhPZFU4UGt0c2JhSUZidVZnZ0d3WnVVYWFydVEwcDhndi1kTGJHNnZUbGh0NUF4dEhNVk80WDNYMk"
     }
   ],
-  "count": 14
+  "count": 5
 }
