@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Visité la ciudad que inspiró GTA 6 para ver cómo el boom turístico revive el fantasma del delito",
+      "url": "https://expansion.mx/tecnologia/2026/10/26/visite-la-ciudad-que-inspiro-gta-6",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 26 Oct 2026 11:55:59 GMT",
+      "summary": "Mientras la ciudad calcula recaudaciones millonarias en playas y espectaculares, mandos de seguridad critican el uso de recursos públicos para promover la franquicia."
+    },
+    {
       "title": "Capcom alerta por acceso a datos de casi 12 millones de cuentas de usuarios",
       "url": "https://expansion.mx/tecnologia/2026/10/24/capcom-acceso-no-autorizado-datos-cuentas-usuarios",
       "source": "Expansión Tecnología",
@@ -35,20 +43,12 @@
       "summary": "El dispositivo llega con cuatro opciones de almacenamiento, dos colores y la posibilidad de pagar a 18 meses. La demanda inicial ya presiona la disponibilidad de algunos modelos."
     },
     {
-      "title": "Perder la batalla del video costó 1,000 mdd: la historia de los formatos fallidos que sobreviven entre coleccionistas",
-      "url": "https://expansion.mx/tecnologia/2026/10/23/betamax-minidisc-laserdisc-hd-dvd-tecnologias-desaparecidas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 23 Oct 2026 11:55:10 GMT",
-      "summary": "Antes de que el streaming cambiara la forma de consumir entretenimiento, hubo tecnologías que parecían revolucionarias. Aunque perdieron la batalla comercial, hoy despiertan nostalgia entre los coleccionistas."
-    },
-    {
-      "title": "Modelo colombiana denunció el uso de su rostro para avatares comerciales creados con inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNUZYU2hmYk9qR0RGMVc3Wk5JbENsMEJYYWRjeWpaOEw0OHpRQWFORGdlMzFMaVRjcnE0ekw1cGdqaGQyREtwZU9iMXR4V2xiUjVGQVg2WDdRSUtQblotMVFNaHJEdG92cGQ1V0hESi1sc2gwRUJ3empMdXZpVjhhelVXZ3haWFVxWFY4S0dUZVBDbFZUVHZVWDF4SEt6OHk5R1ZkWmsxTkx5RVdEbWVWeHo2bFRway1FVDNwc29Pbk5VQkZYazI4dGJjQjJvSnl3NjByTnJpaTVGUFRDX1VfVXh6N0Z6akJK0gGDAkFVX3lxTE9tYWJTNWlYVFAwQ3ExcFNDa0FIOWFPSXpXbF9PQklZUnN6SUtRTGN5Vk1NM2VXU2ZENTlBWU1nWnozTVhKbldTaW03OE1oSklxczZEQS0yYVBxVVBGaXJwcW9MVWhReFl1RFJIZEt0eXN5UVA4NDNhSHg0Z2VRUVhFRmNabTIxLUI0ZkpJbFR1SXBtYmExZmFBbElYcUZJdUE3SGxPdVNEbmpHMmZRNWtVMmhDZjlSUTFmZ0JBeTVGRGRCMER2ODRPS1FQVzZDbHVaaWVOT3ZOTTZ1blloVEZpSEJDX0czb0U0OWMzbzAzQV9JV0hpVGE2T3d2RzhPNm1JQ3M?oc=5",
+      "title": "Hospital Juárez de México actualiza su radiodiagnóstico con tecnología avanzada - CONSULTORSALUD",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44WlZUS0QyTmdjT2pCaGVDRVVSTHMtVFYzLU1RVTdhZUFvR1lfaWhpak1NZzBWME56Z1Frd1BkczFYYU9fNE0yYlNUMjRHbjR4a3ZUd3pXV3hsTmJPM1YxSnloSmc0cTZiTF9Lb2Y3OWF5cGNxdEotYllR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 25 Oct 2026 17:07:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNUZYU2hmYk9qR0RGMVc3Wk5JbENsMEJYYWRjeWpaOEw0OHpRQWFORGdlMzFMaVRjcnE0ekw1cGdqaGQyREtwZU9iMXR4V2xiUjVGQVg2WDdRSUtQblotMVFNaHJEdG92cGQ1V0hESi1sc2gwRUJ3empMdXZpVjhhelVXZ3haWFVxWFY4S0dUZVBDbFZUVHZVWDF4SEt6OHk5R1ZkWmsxTkx5RVdEbWVWeHo2bFRway1FVD"
+      "published": "Mon, 26 Oct 2026 14:43:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE44WlZUS0QyTmdjT2pCaGVDRVVSTHMtVFYzLU1RVTdhZUFvR1lfaWhpak1NZzBWME56Z1Frd1BkczFYYU9fNE0yYlNUMjRHbjR4a3ZUd3pXV3hsTmJPM1YxSnloSmc0cTZiTF9Lb2Y3OWF5cGNxdEotYllR?oc=5\" target=\"_blank\">Hospital Juárez de México actualiza su radiodiagnóstico con tec"
     },
     {
       "title": "UNIR México aporta la visión de prestigiosos expertos en inteligencia artificial durante el tercer Foro Normalista sobre IA en Veracruz - UNIR México",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1QYTFZZVJlc0E2R0hudW1VZnBfbnk0VnIzcVdmUHZJcmxtMUdGWlVZM2g3NFRXUkM0X01vOGtjNDA0eG9wLUhFMGlkMVRYZUhseUNSMEpjUEo4VjJUTk5hQ1N6ajJldGgyN3VNTEhGWQ?oc=5\" target=\"_blank\">UNIR México aporta la visión de prestigiosos expertos en inteligencia artific"
     },
     {
-      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - IDB | Inter American Development Bank",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "title": "Modelo colombiana denunció el uso de su rostro para avatares comerciales creados con inteligencia artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNUZYU2hmYk9qR0RGMVc3Wk5JbENsMEJYYWRjeWpaOEw0OHpRQWFORGdlMzFMaVRjcnE0ekw1cGdqaGQyREtwZU9iMXR4V2xiUjVGQVg2WDdRSUtQblotMVFNaHJEdG92cGQ1V0hESi1sc2gwRUJ3empMdXZpVjhhelVXZ3haWFVxWFY4S0dUZVBDbFZUVHZVWDF4SEt6OHk5R1ZkWmsxTkx5RVdEbWVWeHo2bFRway1FVDNwc29Pbk5VQkZYazI4dGJjQjJvSnl3NjByTnJpaTVGUFRDX1VfVXh6N0Z6akJK0gGDAkFVX3lxTE9tYWJTNWlYVFAwQ3ExcFNDa0FIOWFPSXpXbF9PQklZUnN6SUtRTGN5Vk1NM2VXU2ZENTlBWU1nWnozTVhKbldTaW03OE1oSklxczZEQS0yYVBxVVBGaXJwcW9MVWhReFl1RFJIZEt0eXN5UVA4NDNhSHg0Z2VRUVhFRmNabTIxLUI0ZkpJbFR1SXBtYmExZmFBbElYcUZJdUE3SGxPdVNEbmpHMmZRNWtVMmhDZjlSUTFmZ0JBeTVGRGRCMER2ODRPS1FQVzZDbHVaaWVOT3ZOTTZ1blloVEZpSEJDX0czb0U0OWMzbzAzQV9JV0hpVGE2T3d2RzhPNm1JQ3M?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
+      "published": "Sun, 25 Oct 2026 17:07:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNUZYU2hmYk9qR0RGMVc3Wk5JbENsMEJYYWRjeWpaOEw0OHpRQWFORGdlMzFMaVRjcnE0ekw1cGdqaGQyREtwZU9iMXR4V2xiUjVGQVg2WDdRSUtQblotMVFNaHJEdG92cGQ1V0hESi1sc2gwRUJ3empMdXZpVjhhelVXZ3haWFVxWFY4S0dUZVBDbFZUVHZVWDF4SEt6OHk5R1ZkWmsxTkx5RVdEbWVWeHo2bFRway1FVD"
     },
     {
       "title": "CapCut lanza hackathon gratis de IA en México Tech Week 2026 - El Ecosistema Startup",
@@ -91,28 +91,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
-      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
+      "title": "9 de cada 10 jóvenes universitarios en LATAM usan IA: estudio - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1lvTDdtRTJqM2tsYTJuSDItX1REOWxKZzUyLVZ5ZFdFUFY5cS1BdTNSYWJ5ZU1HNF9EWW9xWF9aUHJ3T29rQWFMSmVrMXRuQ0tsYlc3WE1OT2o0RFU0dC1YSHo3ekViQ2lpQlZ6MFZtT0JFSmxKVWNyWG9jOFAycWd3cE43dW9GcVlfZldHdlVZMlk4eExjeWVvX1pVNDY1VHNsM1VjZGhNTG5rWFh6MHdfcHA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1lvTDdtRTJqM2tsYTJuSDItX1REOWxKZzUyLVZ5ZFdFUFY5cS1BdTNSYWJ5ZU1HNF9EWW9xWF9aUHJ3T29rQWFMSmVrMXRuQ0tsYlc3WE1OT2o0RFU0dC1YSHo3ekViQ2lpQlZ6MFZtT0JFSmxKVWNyWG9jOFAycWd3cE43dW9GcVlfZldHdlVZMlk4eExjeWVvX1pVNDY1VHNsM1VjZGhNTG5rWFh6MHdfcHA?oc=5\" "
     },
     {
-      "title": "CX Forum Monterrey reúne a líderes de experiencia y tecnología - Milenio",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWnJleWZqRG9tSTY0WmFrWXNCTkhiM3FfbjhreXZIVDZaT1RmZy1SNkRrbE9NN2lPbTNrZ05sbTJ2VTBCTUdwQ0YyYVhvWHpVNHRZOFhjTlRMcDFiV1VCaTJta3N4RndkWU51VXQ2cjZVa3A3R2U0ZTcwRjA5QjU0XzNkc2htcjRJNnR5LVdNTHlseXU?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWn"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
+      "title": "IA en la educación: el reto no es tecnológico, sino pedagógico - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEdFU0FzdXc2Sld6YVJsR3VYTkRPVzVBeHhPVENHbkdKdFhmQlE1V1ZVV1ZfZW1VcFE4ZFVjbnpxMGNjTG9ucWRXYU9kcllvVUI2VzQ0NHo5T1RVZExQZlF6X1F3d0hmWmlWTmxGT3F4ZGlnRlViZFRESFhIRnVOMWEtN2JyT0hfNmV0NHZIV25BMDVjY1dQTkhXeEtmMHJpSmJsQlBvYnlpNnFSN1NpMENyd3c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+      "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEdFU0FzdXc2Sld6YVJsR3VYTkRPVzVBeHhPVENHbkdKdFhmQlE1V1ZVV1ZfZW1VcFE4ZFVjbnpxMGNjTG9ucWRXYU9kcllvVUI2VzQ0NHo5T1RVZExQZlF6X1F3d0hmWmlWTmxGT3F4ZGlnRlViZFRESFhIRnVOMWEtN2JyT0hfNmV0NHZIV25BMDVjY1dQTkhXeEtmMHJpSmJsQlBvYnlpNnFSN1NpMENyd3c?oc=5\" "
     }
   ],
   "count": 14
