@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Instagram quiere que dejes de ir a YouTube y prepara videos de hasta 90 minutos",
+      "url": "https://expansion.mx/tecnologia/2026/10/27/instagram-videos-90-minutos-features-youtube-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 27 Oct 2026 20:00:38 GMT",
+      "summary": "La red social de Meta desarrolla Features, un formato para publicar entrevistas, podcast y programas completos."
+    },
+    {
       "title": "Un exdirectivo de Meta quiere reemplazar Word, Excel y PowerPoint con Inteligencia Artificial",
       "url": "https://expansion.mx/tecnologia/2026/10/27/director-ia-meta-rohit-patel-microsoft-office-google",
       "source": "Expansión Tecnología",
@@ -35,36 +43,28 @@
       "summary": "Aunque Apple llegó tarde a la era de los plegables, lo hizo a su manera, es decir, innovando en aspectos donde otros no habían logrado destacar, como lo es la pantalla."
     },
     {
-      "title": "¿Quién  era Komanche, el streamer que murió a los 30 años y enfrentó acoso digital?",
-      "url": "https://expansion.mx/tecnologia/2026/10/26/quien-era-komanche-el-streamer-que-murio-a-los-30-anos-y-enfrento-acoso-digital",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 26 Oct 2026 15:40:06 GMT",
-      "summary": "El creador de contenido del Salvador murió en Monterrey y su fallecimiento abre el debate sobre el acoso en redes y sus consecuencias."
-    },
-    {
       "title": "Estos 7 EXATEC están entre los líderes de IA Business México - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnFJU1V6ZUJfNGk1V0pQM0lkSE9Vb2lmei1LS3gtSTRscHoxTXd3bFFYOHdBaVZKV1Jab1FuSXQwcEV4TlhGdzhfVWhOMEs4T2pJdzZoYi1OejljUklIbHV6T0pLQXlXZkptdjRBelBXRmxxWDAwemdaXzVuVU41cFdaUFRZUGEzWVpqSU1KSVltMTNfY0NTQXhkaWZhQmt1N2VfcWNablhpcmtkb0RB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2FQZHktRjhWRGdGR3Z4VXJybXlVYkYyQ1J4LUFqRjVxUi1ZRGdWblQxOUxrbEgzNV9yYVhJWEdQaXlhTWVfQkxGQjdRV29xTm5DQmVYZldEdTFoVXZ1Z3pRVHdQNENYTVpaWm5RQ1NLb0pJOVNNRHN4UXZlTFJfNlVZMU1GaUNVd0NfX05ya1ZNcC1LUGk5eU1RV05xbGlNZGVFandibUFqeERWbEhZTFFPU3JfYjFWRVE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 27 Oct 2026 17:02:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnFJU1V6ZUJfNGk1V0pQM0lkSE9Vb2lmei1LS3gtSTRscHoxTXd3bFFYOHdBaVZKV1Jab1FuSXQwcEV4TlhGdzhfVWhOMEs4T2pJdzZoYi1OejljUklIbHV6T0pLQXlXZkptdjRBelBXRmxxWDAwemdaXzVuVU41cFdaUFRZUGEzWVpqSU1KSVltMTNfY0NTQXhkaWZhQmt1N2VfcWNablhpcmtkb0RB?oc=5\" target="
+      "published": "Tue, 27 Oct 2026 17:02:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2FQZHktRjhWRGdGR3Z4VXJybXlVYkYyQ1J4LUFqRjVxUi1ZRGdWblQxOUxrbEgzNV9yYVhJWEdQaXlhTWVfQkxGQjdRV29xTm5DQmVYZldEdTFoVXZ1Z3pRVHdQNENYTVpaWm5RQ1NLb0pJOVNNRHN4UXZlTFJfNlVZMU1GaUNVd0NfX05ya1ZNcC1LUGk5eU1RV05xbGlNZGVFandibUFqeERWbEhZTFFPU3JfYjFWRV"
     },
     {
-      "title": "IBM: 63% en México teme que la IA erosione sus habilidades - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjVaenRES2hyUWN6Q3gycjNiZlZIOVdEZWJVMDVzN011ZXdmaXZsaGZROFdVd1c2ZlBlYWF0dGFweTk5VElWV1k4MXFWbFBnTzBjNWRnXzlETmRTX2I0bWtaX1NGTjN2ay1OemZZVlRERm5pNWNLTGZoNFdhclF4V1BqX20yTFE5ajJiM01nRGY?oc=5",
+      "title": "¿La inteligencia artificial te está quitando habilidades? Esto revela un estudio en México - Récord",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcE53elc5TGRqbkUzbHY3MXlnb1lYUTZ6cFFBc1dBYk4wQlR6aWhmQmhpMHFoYllaZDFnemswd1ZaUlFvNkFLbkdyZ084aWdoNmpuOVZoald4b3l2ZVZGdDBkOWxSczJ1Z0w1WDR1MGgyUnduVmNoOFBILVROQ1dYa1BPVzdQUlllY19wWjhOMk1xcV94OXdwNElPekdoRkVFeFFiZ0dvLUM2WEQtc2E1SW5jek5TRXA1bEM4ZjA0dVJtRGJsNHh3dlZ4ejh2R0ZGU1pLNjAtSGcxd00?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 27 Oct 2026 02:33:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjVaenRES2hyUWN6Q3gycjNiZlZIOVdEZWJVMDVzN011ZXdmaXZsaGZROFdVd1c2ZlBlYWF0dGFweTk5VElWV1k4MXFWbFBnTzBjNWRnXzlETmRTX2I0bWtaX1NGTjN2ay1OemZZVlRERm5pNWNLTGZoNFdhclF4V1BqX20yTFE5ajJiM01nRGY?oc=5\" target=\"_blank\">IBM: 63% en México teme que la I"
+      "published": "Tue, 27 Oct 2026 20:28:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcE53elc5TGRqbkUzbHY3MXlnb1lYUTZ6cFFBc1dBYk4wQlR6aWhmQmhpMHFoYllaZDFnemswd1ZaUlFvNkFLbkdyZ084aWdoNmpuOVZoald4b3l2ZVZGdDBkOWxSczJ1Z0w1WDR1MGgyUnduVmNoOFBILVROQ1dYa1BPVzdQUlllY19wWjhOMk1xcV94OXdwNElPekdoRkVFeFFiZ0dvLUM2WEQtc2E1SW5jek5TRXA1bE"
     },
     {
-      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - IDB | Inter American Development Bank",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "title": "INPer usa inteligencia artificial para predecir complicaciones obstétricas - CONSULTORSALUD",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwdVZ5QVBkR2ZybnBHclhDWmFObnZRR3d4bndJbmE2UlE1RUx3NEVrVzIwaDAxcDlzbDZWaEhVR0djcFhSWV9TMldwdFNuMUl5TTVGb2k5RnpVSGFkdFBfSkZFSHBKWmR4TWkxOGMtT3BPMUot?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
+      "published": "Tue, 27 Oct 2026 21:19:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBwdVZ5QVBkR2ZybnBHclhDWmFObnZRR3d4bndJbmE2UlE1RUx3NEVrVzIwaDAxcDlzbDZWaEhVR0djcFhSWV9TMldwdFNuMUl5TTVGb2k5RnpVSGFkdFBfSkZFSHBKWmR4TWkxOGMtT3BPMUot?oc=5\" target=\"_blank\">INPer usa inteligencia artificial para predecir complicaciones obstétri"
     },
     {
       "title": "México Tech Week 2026: 500 eventos y 30.000 asistentes - El Ecosistema Startup",
@@ -99,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR0Flcm9IZEx1b1dRcnBrNk1kQVl1VUotM3MtUXBfNUpLSWswTEtNNE9lMWp1eVdpa3FZS1RyRkNOVmFuUFdQaDkzRFF5V1hyS1FFTnF4YTlWRGJlVWFpUUlzLVMxMDlnUERzR3lRVy0zQnF4RHFKcExFaUV6WDU0LUNXR2FMakJHREJnVWV3WnJZZHFHaUFxY3oyakpRM3JlQTljbjlURFY4akNZelZBdkd0TmJYQnI5ZE"
     },
     {
-      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
+      "title": "9 de cada 10 jóvenes universitarios en LATAM usan IA: estudio - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1lvTDdtRTJqM2tsYTJuSDItX1REOWxKZzUyLVZ5ZFdFUFY5cS1BdTNSYWJ5ZU1HNF9EWW9xWF9aUHJ3T29rQWFMSmVrMXRuQ0tsYlc3WE1OT2o0RFU0dC1YSHo3ekViQ2lpQlZ6MFZtT0JFSmxKVWNyWG9jOFAycWd3cE43dW9GcVlfZldHdlVZMlk4eExjeWVvX1pVNDY1VHNsM1VjZGhNTG5rWFh6MHdfcHA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1lvTDdtRTJqM2tsYTJuSDItX1REOWxKZzUyLVZ5ZFdFUFY5cS1BdTNSYWJ5ZU1HNF9EWW9xWF9aUHJ3T29rQWFMSmVrMXRuQ0tsYlc3WE1OT2o0RFU0dC1YSHo3ekViQ2lpQlZ6MFZtT0JFSmxKVWNyWG9jOFAycWd3cE43dW9GcVlfZldHdlVZMlk4eExjeWVvX1pVNDY1VHNsM1VjZGhNTG5rWFh6MHdfcHA?oc=5\" "
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
