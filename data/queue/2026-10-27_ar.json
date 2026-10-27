@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Probamos Elegoo Canvas: el esperado accesorio que transforma una impresora 3D común en una máquina multicolor",
+      "url": "https://www.clarin.com/informacion-general/probamos-elegoo-canvas-esperado-accesorio-transforma-impresora-3d-comun-maquina-multicolor_0_calYSMJ84H.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 27 Oct 2026 16:54:37 +0000",
+      "summary": "<ul><li>Permite crear figuras, objetos decorativos y piezas personalizadas sin cambiar manualmente los materiales durante el trabajo.</li><li>Pero no todo es sencillo: la instalación requiere modificar varios componentes y dedicarle varias horas al montaje.</li></ul>"
+    },
+    {
       "title": "Comprá, probá y devolvé: Samsung ofrece 60 días para decidir si te quedás con una tablet o un reloj",
       "url": "https://www.clarin.com/tecnologia/compra-proba-devolve-samsung-ofrece-60-dias-decidir-quedas-tablet-reloj_0_uhzZThaRZk.html",
       "source": "Clarín Tecnología",
@@ -33,14 +41,6 @@
       "category": "tech",
       "published": "Mon, 26 Oct 2026 13:00:08 +0000",
       "summary": "<ul><li>Especialistas técnicos y líderes de negocios se reunieron en Puerto Madero.</li><li>En las empresas, la IA está comenzando a pasar de la etapa exploratoria a tener impacto real.</li><li>Nube, seguridad, agentes de IA y el concepto de “compañías adaptables”.</li></ul>"
-    },
-    {
-      "title": "El iPhone Duo salió a la venta entre críticas: por qué el plegable de US$ 2.000 no convence a los expertos",
-      "url": "https://www.clarin.com/tecnologia/iphone-duo-salio-venta-criticas-plegable-us-2000-convence-expertos_0_IwylJRsOFv.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 26 Oct 2026 08:46:04 +0000",
-      "summary": "<ul><li>Las primeras reseñas destacan la pantalla, pero advierten problemas con las aplicaciones y funciones ausentes. </li><li>El peso y las cámaras también generan cuestionamientos. </li><li>En Argentina, podría costar más de $4,5 millones.</li></ul>"
     },
     {
       "title": "UM Argentina impulsa Stand Against Bland con capacitación, OMNI e inteligencia artificial - produ",

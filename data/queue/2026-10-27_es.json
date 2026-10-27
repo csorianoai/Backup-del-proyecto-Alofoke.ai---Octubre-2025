@@ -3,20 +3,36 @@
   "country": "es",
   "articles": [
     {
+      "title": "Colaboradores de Flávio Bolsonaro aseguran que ha huido a Estados Unidos",
+      "url": "https://elpais.com/america/2026-10-27/la-policia-de-brasil-refuerza-los-controles-fronterizos-por-si-bolsonaro-sale-del-pais.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 27 Oct 2026 17:40:54 GMT",
+      "summary": "‘Folha de S.Paulo’ cita al entorno del excandidato ultra después de que este incumpliese la orden del Tribunal Supremo de entregar su pasaporte"
+    },
+    {
+      "title": "Elecciones en Israel 2026, en directo | La participación en varios bastiones de Netanyahu se sitúa por debajo de la media del país",
+      "url": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 27 Oct 2026 18:03:57 GMT",
+      "summary": "El primer ministro sugiere que los partidos árabes “están robando las elecciones” tras el récord de participación, que alcanza su máximo histórico | Alrededor de 7,3 millones de personas están llamadas a votar en las primeras elecciones tras los ataques del 7 de octubre de 2023"
+    },
+    {
+      "title": "La ‘generación de Netanyahu’: 640.000 nuevos votantes a la derecha de sus padres",
+      "url": "https://elpais.com/internacional/2026-10-27/la-generacion-de-netanyahu-640000-nuevos-votantes-a-la-derecha-de-sus-padres.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 27 Oct 2026 14:23:33 GMT",
+      "summary": "Un 10% de israelíes acuden por primera vez a las urnas más radicales y religiosos que sus mayores. No conocen otro primer ministro ni un diálogo de paz con los palestinos"
+    },
+    {
       "title": "Comuns acuerda con el PSC retirar sus candidaturas al Senado en Girona, Lleida y Tarragona",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/comuns-acuerda-con-el-psc-retirar-sus-candidaturas-al-senado-en-girona-lleida-y-tarragona.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Tue, 27 Oct 2026 12:21:46 GMT",
-      "summary": "Los socialistas, a cambio, cederán a la formación de Ada Colau uno de los senadores por designación autonómica"
-    },
-    {
-      "title": "Feijóo, tras pactar con Vox no presentarse en algunas provincias al Senado: “Nadie puede renunciar a lo que no tiene”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-sobre-su-pacto-con-vox-al-senado-el-pp-ya-no-es-una-referencia-por-renunciar-a-lo-que-no-tiene.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Oct 2026 10:08:22 GMT",
-      "summary": "El líder del PP defiende integrar perfiles como “independientes” bajo la premisa de que, en caso contrario, votantes de Abascal no se decantarían por sus listas"
+      "summary": "Los socialistas, a cambio, cederán a la formación de Ada Colau uno de sus senadores por designación autonómica"
     },
     {
       "title": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
@@ -25,22 +41,6 @@
       "category": "tech",
       "published": "Tue, 27 Oct 2026 13:15:27 GMT",
       "summary": "Un análisis de las plataformas digitales sitúa el origen de las algaradas el pasado 8 de octubre en Madrid"
-    },
-    {
-      "title": "Lo que se sabe y lo que se investiga de los disturbios en Barcelona",
-      "url": "https://elpais.com/videos/2026-10-27/lo-que-se-sabe-y-lo-que-se-investiga-de-los-disturbios-en-barcelona.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Oct 2026 04:30:01 GMT",
-      "summary": "Los Mossos d’Esquadra intentan descifrar quién puede estar detrás de la convocatoria hecha a través de redes sociales y advierten de otra concentración prevista para el fin de semana"
-    },
-    {
-      "title": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’",
-      "url": "https://elpais.com/espana/madrid/2026-10-27/el-cierre-de-la-libreria-pergamo-no-es-lo-que-parece-ni-especulacion-ni-fondos-buitres-ni-otro-caso-maricarmen.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Oct 2026 04:30:01 GMT",
-      "summary": "Los inquilinos buscan una nueva sede y llevarse la marca tras registrar el nombre, sin conocimiento de las dueñas, de un negocio que ha pertenecido a la misma familia durante 80 años"
     },
     {
       "title": "‘La Odisea’ de Elon Musk hecha con inteligencia artificial no convence a quien la ha visto: “Merece ser quemada y escondida para siempre” - Infobae",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1NidFZMZ1B4UVZ3b2EzdHBCWUFCekdyTzdnWVJ2bHZOem55SkgzUGdlaEgxcjRhRUszU3lfWDdCcl9VVDg4Y1pZS2t5d1ltaktIM29DOFBqVDVyWFZJRUEwemJYN1dMLXg1dzdGT0F2WUxjclFsR3BiMDBwVGlVaVpqejRhemt5eUhYWUh6QmctN01RMkFoNEc3Ty1wZlpfNnl4bGNOZjBTdWJ2WXYxZWdlTHJCd2xnWm"
     },
     {
-      "title": "Ni la inteligencia artificial ni las nuevas terapias avanzadas garantizan mejores resultados en salud - Forbes España",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHc2VllDdWNKcHFQdWI3aUJFOFc3U1U2WTlSNWFrYTBTVEMtbVp1aWc5dGFpRGNzaklETDk1VWFSQW5FX2Z1cnVBZXR6ZjJLSDItZDRMUnRscFo4bWpfMmFNOEVPSmQzOXRvRW5EUDFiRnpETF9ucXhMczROblRKSi1OMkdkOUF5VzJ4Z2VR?oc=5",
+      "title": "Afternoon Meeting: La inteligencia artificial vuelve (otra vez) - MarketScreener España",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnhfemMzUy01NXRnckd1OVlObG4zRGdOYldMaXBnSmhqM0N5SDByay1iaklvV1ZoQk05aVZJWWFKSXluN0JVUmU1WG1mdDM5bXdoc1dya3p6ZWpSTkU5UVVTSFZIVmt5a29QVnB6M1lVVHZaeGw1d2VGUm5EZkVSRVNQRFk1Qy1BTVE4YXVDQXNPa2s1UjIwUFF4VTlPZzNRUmZIYUpqUzZ2Zml6RkREMTRsMkw1dG8?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 27 Oct 2026 09:50:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHc2VllDdWNKcHFQdWI3aUJFOFc3U1U2WTlSNWFrYTBTVEMtbVp1aWc5dGFpRGNzaklETDk1VWFSQW5FX2Z1cnVBZXR6ZjJLSDItZDRMUnRscFo4bWpfMmFNOEVPSmQzOXRvRW5EUDFiRnpETF9ucXhMczROblRKSi1OMkdkOUF5VzJ4Z2VR?oc=5\" target=\"_blank\">Ni la inteligencia artificial ni la"
+      "published": "Tue, 27 Oct 2026 15:12:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnhfemMzUy01NXRnckd1OVlObG4zRGdOYldMaXBnSmhqM0N5SDByay1iaklvV1ZoQk05aVZJWWFKSXluN0JVUmU1WG1mdDM5bXdoc1dya3p6ZWpSTkU5UVVTSFZIVmt5a29QVnB6M1lVVHZaeGw1d2VGUm5EZkVSRVNQRFk1Qy1BTVE4YXVDQXNPa2s1UjIwUFF4VTlPZzNRUmZIYUpqUzZ2Zml6RkREMTRsMkw1dG8?oc"
     },
     {
       "title": "Barcelona vs. Real Madrid: IA pronostica marcador exacto y ganador del clásico en España - Revista Semana",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9IZHZ0UmV6bG00REs2MHZwMWRuaHNYaU9CcjJlRV9XM1d0dXNDMWF4Q2puOUFzdld5LW9PS3A3MmUyZk84UmQ2bFdBdHVYempPNm9UaGdKSVJfMnRwczYxWGZEVUFoUHdjdVoyU3d2R2NvYlU?oc=5\" target=\"_blank\">La IA impulsa el emprendimiento en solitario: uno de cada cuatro fundado"
     },
     {
+      "title": "Solopreneurs: 26,5% de startups españolas, máximo histórico - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEh4REktYjd2bU9xVHg3M3FOQnJ0WEo3eXZLYjVvOS1kY1JkWW9vTzFOYmU2TTFEaDN0TDlHM0FFNm1vSWZzalBDVGJqRnNoLVEtQzBzVnpoMmxHa21qM0RFVlNGZkpQdmFpdTJHOUhZVWtxN0p2aXd4cDVDSnE3SmpEekR3dHhpNlhVTGZuRQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 23 Oct 2026 16:55:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEh4REktYjd2bU9xVHg3M3FOQnJ0WEo3eXZLYjVvOS1kY1JkWW9vTzFOYmU2TTFEaDN0TDlHM0FFNm1vSWZzalBDVGJqRnNoLVEtQzBzVnpoMmxHa21qM0RFVlNGZkpQdmFpdTJHOUhZVWtxN0p2aXd4cDVDSnE3SmpEekR3dHhpNlhVTGZuRQ?oc=5\" target=\"_blank\">Solopreneurs: 26,5% de startups e"
+    },
+    {
       "title": "La IA impulsa el emprendimiento en solitario, presente en una de cada 4 startups en España, máximo histórico - PressDigital",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXhZckczMFh1SXdiUGtCbFVCTnBsRkY5LVZLcnF1OWg5TFVjT1YwUThBNE1xS3NEc3JvV1YxdUFWbVFEbks4SFZOOGs1T25zNFJmZ1JOemZfT01IODNxNTNoT3pncGhvNXBLY2dPVVdEV3FTazhuNkIyWE4xcDFBQi15eThoLXVwVWhCSGNSdlNTM1hTVlBtcUUwWkRGYzhrRkVzd1JIOWNLUEppQ3o0X0V1enIteWhwQ3RVaXZQbDFLM2twM3RPcWNNM3loSFBLLTNuTHAwRHQ5aGlXYTJPS3VpMA?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 23 Oct 2026 16:34:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXhZckczMFh1SXdiUGtCbFVCTnBsRkY5LVZLcnF1OWg5TFVjT1YwUThBNE1xS3NEc3JvV1YxdUFWbVFEbks4SFZOOGs1T25zNFJmZ1JOemZfT01IODNxNTNoT3pncGhvNXBLY2dPVVdEV3FTazhuNkIyWE4xcDFBQi15eThoLXVwVWhCSGNSdlNTM1hTVlBtcUUwWkRGYzhrRkVzd1JIOWNLUEppQ3o0X0V1enIteWhwQ3"
-    },
-    {
-      "title": "Solopreneur: 1 de cada 4 startups en España nace con IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9tdlRSYm03UlM3U2N2Y0xMNzZuVGlSV3piNU9od0NQNjhzNWJ5RE5COUlUelZtSFUzbEZJcmY2aU1pMVFoUzJ1cWxNeFNPeXVJT1BobjEyLXVJSUJxQk4zNG9uZzJ3WHVOQW54eHNEMkdQc0lQem1OMGxrMnB5aEFQTGpPZWl0RGM3WEhn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 23 Oct 2026 18:03:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9tdlRSYm03UlM3U2N2Y0xMNzZuVGlSV3piNU9od0NQNjhzNWJ5RE5COUlUelZtSFUzbEZJcmY2aU1pMVFoUzJ1cWxNeFNPeXVJT1BobjEyLXVJSUJxQk4zNG9uZzJ3WHVOQW54eHNEMkdQc0lQem1OMGxrMnB5aEFQTGpPZWl0RGM3WEhn?oc=5\" target=\"_blank\">Solopreneur: 1 de cada 4 startups e"
     }
   ],
   "count": 14
