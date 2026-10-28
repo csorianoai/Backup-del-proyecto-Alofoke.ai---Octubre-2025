@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Cómo reconocer una araña de rincón, síntomas y cómo actuar ante una mordedura",
+      "url": "https://www.latercera.com/tendencias/noticia/como-reconocer-una-arana-de-rincon-sintomas-y-como-actuar-ante-una-mordedura/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Oct 2026 15:24:18 +0000",
+      "summary": "Durante los meses de calor en Chile, la araña de rincón aumenta su actividad. ¿Cómo reconocerla, qué síntomas provoca su picadura y cómo actuar si la ves en casa?"
+    },
+    {
       "title": "Estudio de IKEA: solo el 57% de los chilenos se siente cómodo mostrando su casa",
       "url": "https://www.latercera.com/tendencias/noticia/estudio-ikea-life-at-home-2026-chilenos/",
       "source": "La Tercera Tecnología",
@@ -35,14 +43,6 @@
       "summary": "La investigación se centró en la hiperplasia prostática benigna (HPB). Los autores sostienen que sus hallazgos podrían ofrecer nuevas pistas sobre los procesos biológicos que provocan esta afección y, a largo plazo, contribuir al desarrollo de métodos más precisos de prevención o tratamiento."
     },
     {
-      "title": "Qué significa 6-7 (six seven), la tendencia y meme juvenil que repiten los niños una y otra vez",
-      "url": "https://www.latercera.com/tendencias/noticia/que-significa-6-7-six-seven-la-tendencia-y-meme-juvenil-que-repiten-los-ninos-una-y-otra-vez/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Oct 2026 20:00:00 +0000",
-      "summary": "Aunque muchos adultos intentan descifrar su significado, la gracia del fenómeno parece estar precisamente en que no tiene uno claro. Casi un año después de su aparición, la tendencia podría estar pasando de moda entre los propios jóvenes."
-    },
-    {
       "title": "Índice Latinoamericano de Inteligencia Artificial 2026 será presentado el 20 de octubre en la CEPAL - Comisión Económica para América Latina y el Caribe",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFMYUpjNnVaaV9XeTJ5NXlCV2RfckpRUDlCT0F0b1ROcWFfa1BwdEpUTVBPc2J2TU5ZS0t2ZHQ2cF94b09wZ2pKOEhWNWppVmhYanRYdG5PajU5TTAwbFlTRk9XWkpLOUlneWNIcUZadEpKRE10YkthV25GSWtzR08yTGx0bVBya21NVDBOU244RlhaMDFxUV85QVlWQVNBSlBsUVBoTEZYMkN4d1l1d2w1MnRmdlF0NHZKN0dn?oc=5",
       "source": "Google News",
@@ -51,12 +51,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFMYUpjNnVaaV9XeTJ5NXlCV2RfckpRUDlCT0F0b1ROcWFfa1BwdEpUTVBPc2J2TU5ZS0t2ZHQ2cF94b09wZ2pKOEhWNWppVmhYanRYdG5PajU5TTAwbFlTRk9XWkpLOUlneWNIcUZadEpKRE10YkthV25GSWtzR08yTGx0bVBya21NVDBOU244RlhaMDFxUV85QVlWQVNBSlBsUVBoTEZYMkN4d1l1d2w1MnRmdlF0NH"
     },
     {
-      "title": "La nueva herramienta de inteligencia artificial que llega a Chile para apoyar a profesores y estudiantes - Meganoticias",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmdhdWhhOGIwQzFyX0JIS3dLeU8zTUlZQVlWTG52ZmFMdm95ekF5Vmtld2Nhc1lGenhzMkRfU0NVN2ZHamgycEtBRDJQVVRZbERmQi1WcDhaek5xeWhVN01ZdDBYMG1IQndOSTRPbGRuanZ6RWt2X1NvZzhTN0poZG03RmNYdmVIbERaRGRYY3pGX0gxZW9KeExWbWF6YjI2SGVpVDNIUHNfaE5qLU1qRDNwNHJyRWw4VmlCcXBCMEpzNVFNbFHSAcYBQVVfeXFMT0pnYXVoYThiMEMxcl9CSEt3S3lPM01JWUFZVkxudmZhTHZveXpBeVZrZXdjYXNZRnp4czJEX1NDVTdmR2poMnBLQUQyUFVUWWxEZkItVnA4WnpOcXloVTdNWXQwWDBtSEJ3Tkk0T2xkbmp2ekVrdl9Tb2c4UzdKaGRtN0ZjWHZlSGxEWkRkWGN6Rl9IMWVvSnhMVm1hemIyNkhlaVQzSFBzX2hOai1NakQzcDRyckVsOFZpQnFwQjBKczVRTWxR?oc=5",
+      "title": "La inteligencia artificial no espera a Chile - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORE9XRXdmN0VoaDFOWnljRFFZbUlQVlZFdU1fU1FMcHg4RFgyaTRXajRFSzg3RHVkX0UwMTVzN3BDN1A3WnNabmp2U3A5N3FqZTBjNmxNRUZYMV9naS00VGJ6alhhcHdqcjFDSnlrckZIZnU2cTQ2dTJ6YlllcU8ySjVmYVk3X2ZRRldHZkZBeTJ2NVlJdlJYSkloMHNyeG04OThnOG9PenowOTJPVlZTOTBSTThIU3pCUERv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Oct 2026 11:08:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmdhdWhhOGIwQzFyX0JIS3dLeU8zTUlZQVlWTG52ZmFMdm95ekF5Vmtld2Nhc1lGenhzMkRfU0NVN2ZHamgycEtBRDJQVVRZbERmQi1WcDhaek5xeWhVN01ZdDBYMG1IQndOSTRPbGRuanZ6RWt2X1NvZzhTN0poZG03RmNYdmVIbERaRGRYY3pGX0gxZW9KeExWbWF6YjI2SGVpVDNIUHNfaE5qLU1qRDNwNHJyRWw4Vm"
+      "published": "Wed, 28 Oct 2026 14:24:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxORE9XRXdmN0VoaDFOWnljRFFZbUlQVlZFdU1fU1FMcHg4RFgyaTRXajRFSzg3RHVkX0UwMTVzN3BDN1A3WnNabmp2U3A5N3FqZTBjNmxNRUZYMV9naS00VGJ6alhhcHdqcjFDSnlrckZIZnU2cTQ2dTJ6YlllcU8ySjVmYVk3X2ZRRldHZkZBeTJ2NVlJdlJYSkloMHNyeG04OThnOG9PenowOTJPVlZTOTBSTThIU3pCUE"
     },
     {
       "title": "(Video) Abordan en Chile brechas en inteligencia artificial entre países de América Latina y el Caribe - Xinhua Español",
@@ -91,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObS1ZaDJjcVI4clFITTUxYU1iS05pRGsydXMwUG16WlVENDEtdzA3VmFNMzZleWVvdVJPZXdtdVhGN3hOZG9iOTRSNk11MVBNcS1tdDE5NWFQTXNPakhpMzRNVWowYnJfLWswUjJBUC1qc2JPZ1VDZGhkSm5QdjNqelQ0VUtJZG9iWTc5d20tR3dRNGlJSHBneWlHZFhodGhBTVQ3MXRDVXFsNVpOcWtUY3RPOTk4bjlWSX"
     },
     {
-      "title": "Escala Govtech: 8 startups van por el sector público - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWE5qNGVDOWU1R1ZNZVBZX1lmQTNKNnE3VGdseWFnUFlWR2NubjY1TXJjRHRNLVV5bzdFQnlzR0FkZUV2dWljem5uWlRLNlctUEJKZWR6RnlZMF9pUGM2bkd0OXdBbUhjQjB2QUI0OTAzZFVabUN2M0Zhd0lSTUpUT0RoR1FtTW8yYmc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 27 Oct 2026 22:22:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPWE5qNGVDOWU1R1ZNZVBZX1lmQTNKNnE3VGdseWFnUFlWR2NubjY1TXJjRHRNLVV5bzdFQnlzR0FkZUV2dWljem5uWlRLNlctUEJKZWR6RnlZMF9pUGM2bkd0OXdBbUhjQjB2QUI0OTAzZFVabUN2M0Zhd0lSTUpUT0RoR1FtTW8yYmc?oc=5\" target=\"_blank\">Escala Govtech: 8 startups van por el se"
-    },
-    {
       "title": "Ocho startups se preparan para venderle tecnología a los municipios: Start-Up Chile y BID Lab lanzan Escala Govtech - Diario Sustentable",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNtZ1F4d0VCT2UyNU5RZWZLQ1diLUNPc1ZkM3ZSN0hCWjRFRHBibE1KQnNsS0JNWDk5bWZtbTA1aHdkUHQ1VWpqTS0yUjdFT3dHdjRsYUlVQ0E3Zk5PMnhTUWtCbGx3WkVxS3RxLXRqMjhzTVVHY0tiUXZrM2RmRlp0ZVFiM2MzRHZZUGlKQkJSSGtsUVRWOU1uZUs4S1hWc2RLbGRPSnFKMXRudnY5LTAzUlM2ZDR6a3NIOEFjbFEtV09YZjBVcTJSUXh3N2JlR0FGdlhfVkZCSXNEdnRDbTFxUE1vZ3pMREVEdzFB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 27 Oct 2026 12:55:50 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXNtZ1F4d0VCT2UyNU5RZWZLQ1diLUNPc1ZkM3ZSN0hCWjRFRHBibE1KQnNsS0JNWDk5bWZtbTA1aHdkUHQ1VWpqTS0yUjdFT3dHdjRsYUlVQ0E3Zk5PMnhTUWtCbGx3WkVxS3RxLXRqMjhzTVVHY0tiUXZrM2RmRlp0ZVFiM2MzRHZZUGlKQkJSSGtsUVRWOU1uZUs4S1hWc2RLbGRPSnFKMXRudnY5LTAzUlM2ZDR6a3"
+    },
+    {
+      "title": "Escala Govtech: 8 startups van por el sector público - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWE5qNGVDOWU1R1ZNZVBZX1lmQTNKNnE3VGdseWFnUFlWR2NubjY1TXJjRHRNLVV5bzdFQnlzR0FkZUV2dWljem5uWlRLNlctUEJKZWR6RnlZMF9pUGM2bkd0OXdBbUhjQjB2QUI0OTAzZFVabUN2M0Zhd0lSTUpUT0RoR1FtTW8yYmc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 27 Oct 2026 22:22:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPWE5qNGVDOWU1R1ZNZVBZX1lmQTNKNnE3VGdseWFnUFlWR2NubjY1TXJjRHRNLVV5bzdFQnlzR0FkZUV2dWljem5uWlRLNlctUEJKZWR6RnlZMF9pUGM2bkd0OXdBbUhjQjB2QUI0OTAzZFVabUN2M0Zhd0lSTUpUT0RoR1FtTW8yYmc?oc=5\" target=\"_blank\">Escala Govtech: 8 startups van por el se"
     },
     {
       "title": "Start-Up Chile y BID Lab inician inédito programa para promover la adopción de tecnologías en gobiernos locales - Portal Innova",

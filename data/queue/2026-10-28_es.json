@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 64 muertos en el choque de trenes de alta velocidad en Urda",
+      "title": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
       "url": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Wed, 28 Oct 2026 14:07:11 GMT",
-      "summary": "Hay 58 heridos hospitalizados, 15 de ellos muy graves | El Ministro de Transportes califica de “verdaderamente inverosímil” y considera “inexplicable” que el centro de control ordenase reanudar la marcha tras el fallo de un sistema de seguridad"
+      "published": "Wed, 28 Oct 2026 18:10:39 GMT",
+      "summary": "Hay 77 heridos hospitalizados, 15 de ellos muy graves | Sánchez: “No es asumible para un país como España dos accidentes de alta velocidad en menos de un año” | Feijóo: “España tiene derecho a saber el estado de sus infraestructuras” | Puente considera “inexplicable” que el centro de control ordenas"
+    },
+    {
+      "title": "Puente califica de “inexplicable” que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
+      "url": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Oct 2026 13:59:06 GMT",
+      "summary": "Un maquinista no involucrado en el accidente advirtió de que los trenes no podían reanudar la marcha con normalidad tras el fallo de seguridad"
+    },
+    {
+      "title": "Los 17 minutos en los que nadie en el centro de control vio que el AVE se dirigía a un choque brutal con el Iryo",
+      "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Oct 2026 15:33:19 GMT",
+      "summary": "Tras el fallo del sistema informático, según Puente, un operador ordenó seguir “con normalidad” al AVE pese a que el Iryo le había avisado de que estaba detenido y veía en su pantalla que iban camino de un choque"
+    },
+    {
+      "title": "La Guardia Civil interroga al operador del centro de control que autorizó al AVE a seguir el recorrido, pese a que el Iryo permanecía parado",
+      "url": "https://elpais.com/espana/2026-10-28/la-guardia-civil-activa-un-protocolo-de-investigacion-identico-al-que-se-siguio-en-el-accidente-de-adamuz.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Wed, 28 Oct 2026 17:20:56 GMT",
+      "summary": "Los agentes toman manifestación también al resto del personal que estaba en el puesto de control de Adif en el momento del accidente y los someten a controles de alcohol y drogas"
     },
     {
       "title": "Crónica de un periodista de EL PAÍS que viajaba dentro del AVE: “Hemos salido despedidos”",
@@ -19,28 +43,12 @@
       "summary": "El reportero, víctima del accidente, relata los primeros momentos de caos tras el choque ferroviario en Toledo"
     },
     {
-      "title": "Claves del accidente en Toledo | ¿Qué se sabe hasta el momento del choque de trenes?",
-      "url": "https://elpais.com/espana/2026-10-28/que-se-sabe-hasta-el-momento-del-accidente-de-trenes-en-toledo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 14:08:18 GMT",
-      "summary": "La colisión ha dejado al menos 64 muertos entre los 544 pasajeros que viajaban en los convoyes de Iryo y Renfe"
-    },
-    {
-      "title": "¿Por qué chocaron los trenes? La investigación apunta a una avería informática y un error humano de un controlador de Adif",
-      "url": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 12:43:40 GMT",
-      "summary": "Las primeras hipótesis apuntan que un operador se equivocó al ordenar al AVE que siguiera su marcha “con normalidad” y no a un máximo de 40 por hora pese a que tenía un Iryo detenido delante"
-    },
-    {
-      "title": "Qué es el sistema de señalización LZB, una de las piezas clave en el accidente mortal de trenes de Toledo",
-      "url": "https://elpais.com/economia/2026-10-28/que-es-el-sistema-de-senalizacion-lzb-una-de-las-piezas-clave-en-el-accidente-mortal-de-trenes-de-toledo.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 13:37:06 GMT",
-      "summary": "La línea de alta velocidad Madrid-Sevilla cuenta con esta tecnología, que supervisa la velocidad de los trenes y transmite las indicaciones de circulación al maquinista"
+      "title": "La IA permitirá a las personas con ELA en España seguir hablando con su propia voz gratis - 20Minutos",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUxPZmpLRW5fNURkUk1jdi0ydTMwbXRhN1c0a1BMSlNZcThLYnBPTnRscWktMi1sa3k2SDlzcC1kZ2Z0d1VsZVNkR3FFTDBqVFppOTAzZTJXTHN6TFdVNGpOSWFBMW5jT3lwanpWVlBPcEp2ekdYbC1meEo2Vkl3dThsai1YUGJyUUQ2SHYwSERGWWVQVDdUbEpjbm1RbTFMZTFNcEM0OWRXaWdXSEIwN2tCVW5QQm5fTU1ZZzZidGVkTVYzYlI3RHA1Y1oxdzdWX2R5MWNsSHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 28 Oct 2026 13:55:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUxPZmpLRW5fNURkUk1jdi0ydTMwbXRhN1c0a1BMSlNZcThLYnBPTnRscWktMi1sa3k2SDlzcC1kZ2Z0d1VsZVNkR3FFTDBqVFppOTAzZTJXTHN6TFdVNGpOSWFBMW5jT3lwanpWVlBPcEp2ekdYbC1meEo2Vkl3dThsai1YUGJyUUQ2SHYwSERGWWVQVDdUbEpjbm1RbTFMZTFNcEM0OWRXaWdXSEIwN2tCVW5QQm5fTU"
     },
     {
       "title": "La inteligencia artificial avanza en España, pero solo el 4,1 % de las pymes analizadas muestra un uso identificable - Revista Cloud Computing",
@@ -51,20 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2Nsa2lrYWdTajlUWjkwQWgtWktjWG96WjlRenhiRmlSMUo1TTNQY0E4OHFUbFAxYmw5OTVEMTNYMG5ESG9uZU80WDF6SVJoOTl2cmZPbG13c1BPMVI1ZWRKdlJqbDRFU2l4V0N1eE1ybnp0N2xpYlBZNzBzekJBd0VsRzdicDlYczJ5ZjZBdzZvdDhlNXVEUzdrYktHNmllaFFSVzhLRFpSZUNHekNqZlk2VzFGZw?oc="
     },
     {
-      "title": "Begoña Gómez denuncia al PP por el vídeo con IA que le hace decir que es “zurda” porque consiguió una cátedra “gracias” a que su marido es presidente del Gobierno - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQ3dYTmoycWNCY19zelJVSmhRYVd3enRmWnA5b0xMWF94cU9yZkxzcUNyOXZwV3NvWGVxaUNzNlU1Y1haZG9XVU9yenVRX3FWWUcwS1lfUUxZR0ZmZG5QdlhmQjFrZmpLN2J0T2E3Z2JCd21hQWt4dU5kUzZOaVlBSXktQTZYTk5GaFNsWDBpWGdVd1RUbDVuTE9SLUVFaE9icEYxaE9DeDJRa3lZZ05LRjVXUGFSbElMdkctMUdCZGVBY2xGaGJMdnBKOXhZQjBaVldzR3ZKZFdudXRuTlduRnJJR2FhOW1YMVlLb2g0V2l1ajY0OXREZ25nQUtLVkxGWTctdnR5dS1KTEF2a2psZWEwQ1d5eFhyd2l4UlZDejZMTGZncDZPa9IBwwJBVV95cUxOTGtrT0czN1haTjlDenNQcHMzdFR4X2N0UEtWNC1scldIbDBzaDYtNHZPdVlmdTRIdUJlOFlyQ2VuQ3QtSnpVd3RicTkyWWhwUkpTT2VyZUpZWjZNdjFJV3dsOTdiSHNWNy1taDZoU3J3RU5pX1Btb1h3UmtPMzBfOXNSN0JhZ0tVYXoySFc1MEN0d09iNk5LcWV0Q3ktd3VXUHhxRmJ6c1loMFVHXzRxWWl3Q0xPU2QxSG1sb3dxUnU3R0cyYmo1Sk5FXzJuOHpBYlF6dTM2bUJCMTdCMTBqcHo4ZXNlYXhLNDBDMEgwWWZCdHRlWDhsZFl6TDFPZjJqc3czczFaMXp6dXRMakhBeGdFMTdLU1FPSnVxN3RnWEF3QXBhSWtsdzhNTTJqTlBnU3Vfcl8wUnFlalRRYjFsX01sUQ?oc=5",
+      "title": "‘La Odisea’ de Elon Musk hecha con inteligencia artificial no convence a quien la ha visto: “Merece ser quemada y escondida para siempre” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOd01YV3hQRnRKZmk4NngxRWxHYzZ6NnBsd0dBZlNlWlFfcWtSSzRNLVk2RDZ1dlVVMU1VekNuSkpxSk1SczJtQXVQUi1lWHNBWDFOYkVzSDgzdkwxZHFfRFZLRktFQzRIVllIUzNSUXd1aUdZR1k4dzN6cG56RVhVcDM4d0YzMER2dUpxQVlmUzZTbExSaDdCbzJGLTM2c0NuV0FVekp4bGJVSEpyMThiQTcwT1ZqN04teGNqM0RjZzR6aWRwcjRzRUZtREE2VVhzX2NlOGdPUlQxWVNhUEczTE1SeHZ1UE5YdU93eHYyOU5qX25MbldZZ2NDdXVRNnYwQzFQM3FlVTJocFg2WVlzWU9MZTF0T2R2MFNOb2lB0gG4AkFVX3lxTE5XelNLandnX1dXMm93YmhNT0xQT2JrWjYxeXdGT003Y2ZURkluQUZ5bFJOMnhReGp5VW5lRGNDNGFvQ0JzckN0YkEwS2g1SG1rN0ZEQ2daVkdPd0tTeDJSQktJRlE0bUxnZlJkLXN1T1BYMDdyTUsxblVudVBnNHV1V3dpYlhUSFIxMUlId0k4NThvLVc5Ym5JS2dSaXRPTk0td2s1bU9rRUNtRjNqUDFpYXRQYkFQM0xYWE9tdEN6TjZvN3M3Z2F4TkNlZWFzRXVOdlZ1TUNkN1huendERkh2UDdEQ1R5TkV4TUY4Sk9BekFLS3NPWm9tUmNuRl9BOVN4c21qbkl4Y0xOTkRFa2otVmtDZXFobURfcmZzSnBvdEN6ZGNxSVY0TFp2WnFZeV9HRHI1WlJWcQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Oct 2026 08:53:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxOQ3dYTmoycWNCY19zelJVSmhRYVd3enRmWnA5b0xMWF94cU9yZkxzcUNyOXZwV3NvWGVxaUNzNlU1Y1haZG9XVU9yenVRX3FWWUcwS1lfUUxZR0ZmZG5QdlhmQjFrZmpLN2J0T2E3Z2JCd21hQWt4dU5kUzZOaVlBSXktQTZYTk5GaFNsWDBpWGdVd1RUbDVuTE9SLUVFaE9icEYxaE9DeDJRa3lZZ05LRjVXUGFSbElMdk"
-    },
-    {
-      "title": "La IA permitirá a las personas con ELA en España seguir hablando con su propia voz gratis - 20Minutos",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUxPZmpLRW5fNURkUk1jdi0ydTMwbXRhN1c0a1BMSlNZcThLYnBPTnRscWktMi1sa3k2SDlzcC1kZ2Z0d1VsZVNkR3FFTDBqVFppOTAzZTJXTHN6TFdVNGpOSWFBMW5jT3lwanpWVlBPcEp2ekdYbC1meEo2Vkl3dThsai1YUGJyUUQ2SHYwSERGWWVQVDdUbEpjbm1RbTFMZTFNcEM0OWRXaWdXSEIwN2tCVW5QQm5fTU1ZZzZidGVkTVYzYlI3RHA1Y1oxdzdWX2R5MWNsSHc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 28 Oct 2026 13:55:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUxPZmpLRW5fNURkUk1jdi0ydTMwbXRhN1c0a1BMSlNZcThLYnBPTnRscWktMi1sa3k2SDlzcC1kZ2Z0d1VsZVNkR3FFTDBqVFppOTAzZTJXTHN6TFdVNGpOSWFBMW5jT3lwanpWVlBPcEp2ekdYbC1meEo2Vkl3dThsai1YUGJyUUQ2SHYwSERGWWVQVDdUbEpjbm1RbTFMZTFNcEM0OWRXaWdXSEIwN2tCVW5QQm5fTU"
+      "published": "Tue, 27 Oct 2026 11:28:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOd01YV3hQRnRKZmk4NngxRWxHYzZ6NnBsd0dBZlNlWlFfcWtSSzRNLVk2RDZ1dlVVMU1VekNuSkpxSk1SczJtQXVQUi1lWHNBWDFOYkVzSDgzdkwxZHFfRFZLRktFQzRIVllIUzNSUXd1aUdZR1k4dzN6cG56RVhVcDM4d0YzMER2dUpxQVlmUzZTbExSaDdCbzJGLTM2c0NuV0FVekp4bGJVSEpyMThiQTcwT1ZqN04teG"
     },
     {
       "title": "Barcelona vs. Real Madrid: IA pronostica marcador exacto y ganador del clásico en España - Revista Semana",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaE9tdlRSYm03UlM3U2N2Y0xMNzZuVGlSV3piNU9od0NQNjhzNWJ5RE5COUlUelZtSFUzbEZJcmY2aU1pMVFoUzJ1cWxNeFNPeXVJT1BobjEyLXVJSUJxQk4zNG9uZzJ3WHVOQW54eHNEMkdQc0lQem1OMGxrMnB5aEFQTGpPZWl0RGM3WEhn?oc=5\" target=\"_blank\">Solopreneur: 1 de cada 4 startups e"
     },
     {
-      "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
+      "title": "Madrid impulsa nueve 'startups' en la gran cumbre tecnológica de la OTAN - El Independiente",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGdqSmtOVnVDLVRoTFBFY1ZQb3ZiUm9PTUhsazR2QjFFOFY4LTVBUThFUjl2UjVlMHpkRWc1ck5NRDdsemZPb25HcTYtRXI2YVFNVkVTMFh5bUI0bHpER3hhclhSMzFHaVNUQkxTVkxNTEFKTE8yZW5zSTd6NmJha0c1ckFnQkJpaG9CY2p3SFJycHJmVmUtRGVIcG5hdGhwYjhxRWlCU0s3M18wbkl6RFdUZUJMdXhZNlo40gHAAUFVX3lxTE9reEpITEdqcWd0NXN3VlAtZnUtSGNOOFFjYmZwY1hJSmRRcnByTVJqV3lCelVKOXJKOUt3aXg0WXpJZC1nMXNQdFh5emZBWEUyMDJNUVY1Q00yclhuLVg1bmZIMW42RDVVekl6OHpNRTJySXJEVll5ZVlCWVdwODdtczhrdnpTMGhhek4xaGh6RjU4SDBlbHJSeTFfMXZ1dkxGRHZIazZTdG04Q2ZKU040QjRnYXJ5TzR3MmdoZXppcw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
+      "published": "Mon, 26 Oct 2026 11:44:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGdqSmtOVnVDLVRoTFBFY1ZQb3ZiUm9PTUhsazR2QjFFOFY4LTVBUThFUjl2UjVlMHpkRWc1ck5NRDdsemZPb25HcTYtRXI2YVFNVkVTMFh5bUI0bHpER3hhclhSMzFHaVNUQkxTVkxNTEFKTE8yZW5zSTd6NmJha0c1ckFnQkJpaG9CY2p3SFJycHJmVmUtRGVIcG5hdGhwYjhxRWlCU0s3M18wbkl6RFdUZUJMdXhZNl"
     }
   ],
   "count": 14
