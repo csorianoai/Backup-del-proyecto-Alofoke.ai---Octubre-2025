@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Amazon y Google, los verdaderos ganadores del debut en bolsa de Anthropic",
+      "url": "https://expansion.mx/tecnologia/2026/10/29/amazon-y-google-los-ganadores-debut-en-bolsa-anthropic",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Oct 2026 22:00:31 GMT",
+      "summary": "Aunque la creadora de Claude debuta en la bolsa, el dinero recopilado terminará en las arcas de los gigantes gracias a contratos millonarios de infraestructura firmados para los próximos 10 años."
+    },
+    {
+      "title": "Samsung advierte que la escasez de chips empeorará en 2027 y podría encarecer celulares y computadoras",
+      "url": "https://expansion.mx/tecnologia/2026/10/29/samsung-escasez-chips-ia-2027-celulares-precios",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Oct 2026 19:00:41 GMT",
+      "summary": "La creciente demanda de chips para IA presiona la producción mundial de memorias. Aunque Samsung obtiene ganancias récord con este negocio, el aumento de costos también afecta a su división de teléfonos."
+    },
+    {
+      "title": "Amazon lanza nuevas versiones de Echo Dot para cuidar a tus abuelitos",
+      "url": "https://expansion.mx/tecnologia/2026/10/29/nuevo-amazon-echo-dot-2026-precio-mexico-caracteristicas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Oct 2026 18:12:19 GMT",
+      "summary": "Los nuevos dispositivos de Alexa buscan incorporarse mejor a las dinámicas cotidianas e incluso ser un gadget que ayude a los más grandes del hogar a mantener su bienestar."
+    },
+    {
       "title": "Microsoft suma 10 trimestres de crecimiento, pero Xbox y Windows no siguen el ritmo",
       "url": "https://expansion.mx/tecnologia/2026/10/29/microsoft-resultados-trimestrales-2026-ia-xbox-windows",
       "source": "Expansión Tecnología",
@@ -19,44 +43,20 @@
       "summary": "Aunque el segmento creció 12% interanual, analistas advierten que los agentes de IA y plataformas como ChatGPT comienzan a restar cuota a los pilares publicitarios de Alphabet."
     },
     {
-      "title": "1 de cada 2 estudiantes en línea en México ya cayó en un fraude digital por clases a distancia: este es el más común",
-      "url": "https://expansion.mx/tecnologia/2026/10/28/fraudes-estudiar-en-linea-mexico-alumnos-kaspersky",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 22:40:52 GMT",
-      "summary": "Los enlaces sospechosos, cursos falsos y páginas que suplantan a instituciones educativas ponen en riesgo los datos y el dinero de los estudiantes."
-    },
-    {
-      "title": "Samsung está detrás de la pantalla del iPhone Duo: el negocio que une a dos gigantes rivales",
-      "url": "https://expansion.mx/tecnologia/2026/10/28/samsung-pantalla-del-iphone-duo-negocio-gigantes-rivales",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 19:30:03 GMT",
-      "summary": "Aunque existen batallas entre las marcas que las personas buscan, estas compañías colaboran tras bambalinas en el desarrollo de sus componentes y los usuarios ni siquiera lo saben."
-    },
-    {
-      "title": "Luego del iPhone Duo llega una MacBook touch: así es la nueva computadora de Apple",
-      "url": "https://expansion.mx/tecnologia/2026/10/28/apple-macbook-pantalla-tactil",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 17:48:56 GMT",
-      "summary": "La empresa anunció la nueva MacBook Pro PROLED XDR, que integra un nuevo panel touch y un rediseño completo de la experiencia de uso."
-    },
-    {
-      "title": "StratiApp, IA para pymes: 2º puesto de Unicórdoba en México - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdklCT19PV3Y4azhMaGdKT041N20tUENPbnAxbGQtLVNSdEhTdjIyR2l6NmdNX29RWTlHSkJneF9KMGxUa0ZxcVI4bDhsNUhRQ1p5NEVjaE9SYW1id25CbjRjcFV5YVpvTW1pMk14QmFIUHBFY1JXaEV5MDBTV2pfOHlqVjFFcHRMdllzSFZNdHZuZw?oc=5",
+      "title": "StratiApp: estudiante colombiano, 2º en concurso en México - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVRROVpFMnRuUTlESG5pT2xZZk5CZ19iQzRsREd5UFFkSGNKM0JFUjFDQVNZOWF4bnVocnNlQWRVNC00eHdoVFBtQ2JQYUNuWkFsaWIzSkpsSTJheDBNMWlJd1pJZFhUbFMybFFWMHFCX3Z1cjdUYWRoSE1IbmVRalpxbkdGZnZha2RaQWRYbDQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 29 Oct 2026 16:24:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdklCT19PV3Y4azhMaGdKT041N20tUENPbnAxbGQtLVNSdEhTdjIyR2l6NmdNX29RWTlHSkJneF9KMGxUa0ZxcVI4bDhsNUhRQ1p5NEVjaE9SYW1id25CbjRjcFV5YVpvTW1pMk14QmFIUHBFY1JXaEV5MDBTV2pfOHlqVjFFcHRMdllzSFZNdHZuZw?oc=5\" target=\"_blank\">StratiApp, IA para pymes: 2º "
+      "published": "Thu, 29 Oct 2026 18:21:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVRROVpFMnRuUTlESG5pT2xZZk5CZ19iQzRsREd5UFFkSGNKM0JFUjFDQVNZOWF4bnVocnNlQWRVNC00eHdoVFBtQ2JQYUNuWkFsaWIzSkpsSTJheDBNMWlJd1pJZFhUbFMybFFWMHFCX3Z1cjdUYWRoSE1IbmVRalpxbkdGZnZha2RaQWRYbDQ?oc=5\" target=\"_blank\">StratiApp: estudiante colombiano"
     },
     {
-      "title": "¿Qué pasa con tus datos cuando una empresa utiliza inteligencia artificial? Esto dice Google Cloud - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVNXT3lZc2dkUVZhT3ZuOF9RZkc5dHBfZHRTYUc3WGlrQlZ5eHpUVW9RcjRiamxER1JFd3lWNi1DaU5HSG85SDBwR0dmaDlHWUZnSXhCbTExSWgtV0laenlCSWJCSml3THEtSFkzZ1d1eU84N1A3cU9Fd0poWXh3M2w3Z0Rudkpqd1RMUWRzMXhFSTMtR0FkMGgzUXR5ZWljVGRkTkNQS2VqeEVQUUlyYWl6REtqS1g0OUNTR0dRNlViTUdoUnBIcms4WmtSRkJYejBqR1o3RFdNZzZQUlZFQnRn?oc=5",
+      "title": "Microsoft busca convertir el uso de IA en resultados para empresas - Expansión",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRElzMzM1dTNWTzdmU0R2YXhGYjVkYS1kbnN6T2FUNVRLa0tjdWRlbVNvZ193SEFIbzFYTG5hUGE0cE1kX212TW85c2Q1aGNJVDlDNk9saFFLY1dGNFFndEItOGtmeU4ySTNCbVBPa0p0cTRfbDBiaVMyZnNOeUoyVkFLelNKRVpoMm5JeTVuWHQ1SDhzekJuNUZ3NkJiZktCWWlYODJPR3R1UklWeUxTei1iYWNQR25abVFGU0RxaUw5b2ZrdjBIR9IB1gFBVV95cUxOVTdYS3dxWnhPU016Q3ZkOVpSd0p2M2hBclJTYWZhRWx0VmFjaXRGWEM1R2xadVFHTldKR3B0N0N0NjFYZ3NmdnpxZGJrZUFPNFByYkdDcEEtN0ZhektsYU55NmRJQlZDTDRRVXg5VXE3MWFDZi1zbGJuLWstTDFvaHFXaWMtR0lPVlBrbkxsX1Y4SURfQTBxajhnRmtTTEFwT0djckIwS0tTa19NNm1mYkNabk92cVFpRFllSDRPTUFpRXNaYnpiT3RZMzNkQjJnZFY0cjFR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Oct 2026 21:24:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVNXT3lZc2dkUVZhT3ZuOF9RZkc5dHBfZHRTYUc3WGlrQlZ5eHpUVW9RcjRiamxER1JFd3lWNi1DaU5HSG85SDBwR0dmaDlHWUZnSXhCbTExSWgtV0laenlCSWJCSml3THEtSFkzZ1d1eU84N1A3cU9Fd0poWXh3M2w3Z0Rudkpqd1RMUWRzMXhFSTMtR0FkMGgzUXR5ZWljVGRkTkNQS2VqeEVQUUlyYWl6REtqS1g0OU"
+      "published": "Thu, 29 Oct 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRElzMzM1dTNWTzdmU0R2YXhGYjVkYS1kbnN6T2FUNVRLa0tjdWRlbVNvZ193SEFIbzFYTG5hUGE0cE1kX212TW85c2Q1aGNJVDlDNk9saFFLY1dGNFFndEItOGtmeU4ySTNCbVBPa0p0cTRfbDBiaVMyZnNOeUoyVkFLelNKRVpoMm5JeTVuWHQ1SDhzekJuNUZ3NkJiZktCWWlYODJPR3R1UklWeUxTei1iYWNQR25abV"
     },
     {
       "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
@@ -65,14 +65,6 @@
       "category": "news",
       "published": "Fri, 18 Sep 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
-    },
-    {
-      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
       "title": "México encabeza en Latinoamérica la creación de startups de IA física, revela estudio de AWS - Edomex Al Día",
@@ -89,6 +81,14 @@
       "category": "news",
       "published": "Sat, 03 Oct 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
+    },
+    {
+      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
       "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
