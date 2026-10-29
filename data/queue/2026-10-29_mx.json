@@ -3,11 +3,27 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Microsoft suma 10 trimestres de crecimiento, pero Xbox y Windows no siguen el ritmo",
+      "url": "https://expansion.mx/tecnologia/2026/10/29/microsoft-resultados-trimestrales-2026-ia-xbox-windows",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Oct 2026 17:00:59 GMT",
+      "summary": "La compañía registró ingresos por 92,300 millones de dólares, un aumento de 19%. La nube y la inteligencia artificial impulsaron sus resultados, mientras sus negocios de videojuegos y dispositivos retrocedieron."
+    },
+    {
+      "title": "Por qué Google quiere que sigas usando su buscador en la era de los chatbots de IA",
+      "url": "https://expansion.mx/tecnologia/2026/10/29/google-quiere-que-sigas-usando-su-buscador",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Oct 2026 15:59:11 GMT",
+      "summary": "Aunque el segmento creció 12% interanual, analistas advierten que los agentes de IA y plataformas como ChatGPT comienzan a restar cuota a los pilares publicitarios de Alphabet."
+    },
+    {
       "title": "1 de cada 2 estudiantes en línea en México ya cayó en un fraude digital por clases a distancia: este es el más común",
       "url": "https://expansion.mx/tecnologia/2026/10/28/fraudes-estudiar-en-linea-mexico-alumnos-kaspersky",
       "source": "Expansión Tecnología",
       "category": "tech",
-      "published": "Wed, 28 Oct 2026 22:00:52 GMT",
+      "published": "Wed, 28 Oct 2026 22:40:52 GMT",
       "summary": "Los enlaces sospechosos, cursos falsos y páginas que suplantan a instituciones educativas ponen en riesgo los datos y el dinero de los estudiantes."
     },
     {
@@ -27,20 +43,12 @@
       "summary": "La empresa anunció la nueva MacBook Pro PROLED XDR, que integra un nuevo panel touch y un rediseño completo de la experiencia de uso."
     },
     {
-      "title": "Airbnb llevará a más países su programa de estancias médicas tras probarlo en México",
-      "url": "https://expansion.mx/tecnologia/2026/10/28/airbnb-alojamiento-gratis-estancias-medicas-mexico-violencia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Wed, 28 Oct 2026 13:00:50 GMT",
-      "summary": "Brian Chesky, CEO de Airbnb, explicó en entrevista exclusiva con Expansión cómo financiará la iniciativa, por qué México sirvió como prueba para las estancias médicas y cuáles son los retos para ampliar el programa."
-    },
-    {
-      "title": "Instagram quiere que dejes de ir a YouTube y prepara videos de hasta 90 minutos",
-      "url": "https://expansion.mx/tecnologia/2026/10/27/instagram-videos-90-minutos-features-youtube-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 27 Oct 2026 20:00:38 GMT",
-      "summary": "La red social de Meta desarrolla Features, un formato para publicar entrevistas, podcast y programas completos."
+      "title": "StratiApp, IA para pymes: 2º puesto de Unicórdoba en México - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdklCT19PV3Y4azhMaGdKT041N20tUENPbnAxbGQtLVNSdEhTdjIyR2l6NmdNX29RWTlHSkJneF9KMGxUa0ZxcVI4bDhsNUhRQ1p5NEVjaE9SYW1id25CbjRjcFV5YVpvTW1pMk14QmFIUHBFY1JXaEV5MDBTV2pfOHlqVjFFcHRMdllzSFZNdHZuZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Oct 2026 16:24:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdklCT19PV3Y4azhMaGdKT041N20tUENPbnAxbGQtLVNSdEhTdjIyR2l6NmdNX29RWTlHSkJneF9KMGxUa0ZxcVI4bDhsNUhRQ1p5NEVjaE9SYW1id25CbjRjcFV5YVpvTW1pMk14QmFIUHBFY1JXaEV5MDBTV2pfOHlqVjFFcHRMdllzSFZNdHZuZw?oc=5\" target=\"_blank\">StratiApp, IA para pymes: 2º "
     },
     {
       "title": "¿Qué pasa con tus datos cuando una empresa utiliza inteligencia artificial? Esto dice Google Cloud - ITSitio",
@@ -59,20 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
     },
     {
-      "title": "Agentes de IA en México: Samsara reporta un salto de siete veces en su adopción empresarial - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVUp0SnVRaVNNRFBpazlCdW9IODcwNjFqcjYxek5Na1IxMG9MV0hGdGlUckdKdE5fTDl2TVVURnpmdUZZc1R3bndqQlc0MEhuRVkwQkgwMnE1SzNqX2xMYWNfcTVZQldtYm9JaGdyT2FweU9hTV8tZVpRa1h5Y2tBQUh1VmFWbnVKMVUwQVZHaHpKcUI3WS1MU25oSl93WHFaM1NpM3B4UTM0cm1PdHV5bXFkNkpQNEZCQ09JNlRLcHRGWG5RazgweGxWNDhneUtNM1haSk5lVkfSAfMBQVVfeXFMTm85T2ZkbXpZalhxY1NVLU9kYVJFcmN6dmhIQXR4M21NdnlpS2Z2elUyckpGYWpydjNTMW0zc25tNDRSYkFnczY1TE1oQUFScUMwMUJIcjdVNDBFamtaRDJBY2hCNkVwVTdNVWRLMzdwV21BenR3YS1UTHc1YWxaRmhLeVJWVWVGTHlMUmVWdFV1d0FhbklzVFlEQkplY1NsS3V2Um93ZGFMRXoyTGpWLXlKcWlrZzdZSTR6cWU0dTBYZFdxNW4zT2tnUGUzRE1PUzBobWlfZ29aeUJVMXktc3pUYVU5LTNBUDdWXzVHdmdhTExJ?oc=5",
+      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 29 Oct 2026 12:00:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVUp0SnVRaVNNRFBpazlCdW9IODcwNjFqcjYxek5Na1IxMG9MV0hGdGlUckdKdE5fTDl2TVVURnpmdUZZc1R3bndqQlc0MEhuRVkwQkgwMnE1SzNqX2xMYWNfcTVZQldtYm9JaGdyT2FweU9hTV8tZVpRa1h5Y2tBQUh1VmFWbnVKMVUwQVZHaHpKcUI3WS1MU25oSl93WHFaM1NpM3B4UTM0cm1PdHV5bXFkNkpQNEZCQ0"
-    },
-    {
-      "title": "México Tech Week 2026: 500 eventos y 30.000 asistentes - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTN3cmFBUW0wNldLa2hLRGQ2S24tdDZVdXNSTGVoTGo0WGc1Uk5kaDJtUG84bjNBdUllbWRiTm5hSUQ5cnlSR1A4MlFxbC1FZDg1ZFFiRXBfV0FNNmxuT3kwdWVKOF9teC10UEdHbVlwcnJ3d1lRZUVUaUFnUTF4aVhpc25NNE9YZWE1OQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 20 Oct 2026 21:36:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTN3cmFBUW0wNldLa2hLRGQ2S24tdDZVdXNSTGVoTGo0WGc1Uk5kaDJtUG84bjNBdUllbWRiTm5hSUQ5cnlSR1A4MlFxbC1FZDg1ZFFiRXBfV0FNNmxuT3kwdWVKOF9teC10UEdHbVlwcnJ3d1lRZUVUaUFnUTF4aVhpc25NNE9YZWE1OQ?oc=5\" target=\"_blank\">México Tech Week 2026: 500 eventos y "
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
       "title": "México encabeza en Latinoamérica la creación de startups de IA física, revela estudio de AWS - Edomex Al Día",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNVc5WU0xTlZaQUduLVlFMzRkWmRtTkFGbnBSSFFpN2VlZFBzRnV0RFNjTk9EY0U2N1lQdmxtb2t2YUV2Yk85SDNaa0VmX2Uyb0Y2WXQ1ajhGdTQ4LWhFU211MU04dEdnWkZBSkhYRjRiUG12VkIyRE5HdzQ0aS0xVEk0N3gyNzYwTWkxbzRTaEo1ZUNxQzlZSGJjSHFMQThaVWZqYjVVNkIzZE1KcDlka3MtUUZKS0U?oc"
     },
     {
-      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
+      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
       "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",

@@ -3,14 +3,6 @@
   "country": "do",
   "articles": [
     {
-      "title": "La UNESCO y el Ministerio de Educación de la República Dominicana - UNESCO",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmliWUt3czk0a1JBbl9JZTRpRnBxMHpfbDB4OHdWTE5LcGRUUzhXQ0V2UUpFbnEtclg0YUpXY0JlU2I2eEhPajNMV1hzSU02WnFldXIyb0tfdEZkcTZwUHdQTDNmNE1FcGNIWTdfR2JHMHc2NHhFd1dwanR1VlY3R0N5ZzNha3pWNXMwLUptRlZsMVFwSFhxd0VkR1lFbFo4RmMxN1BiaVlLaU1Ec0o5R1laa1BBTVlyMG04ZUgwaWxCMm9ZNG00OThvUEtxYlhJ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 27 Oct 2026 01:53:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmliWUt3czk0a1JBbl9JZTRpRnBxMHpfbDB4OHdWTE5LcGRUUzhXQ0V2UUpFbnEtclg0YUpXY0JlU2I2eEhPajNMV1hzSU02WnFldXIyb0tfdEZkcTZwUHdQTDNmNE1FcGNIWTdfR2JHMHc2NHhFd1dwanR1VlY3R0N5ZzNha3pWNXMwLUptRlZsMVFwSFhxd0VkR1lFbFo4RmMxN1BiaVlLaU1Ec0o5R1laa1BBTVlyMG"
-    },
-    {
       "title": "Colombia, uno de los líderes en el uso de analítica de datos e inteligencia artificial en los procesos electorales - Registraduría Nacional del Estado Civil",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWNsbGZTYlBwR2JmVnVJZ1o1OGFla1lwX1ZpYXBIYzBlVmE1X29SVF9vUmRTNTlrcXhMYjFXd21hOXRzSjA4MUxiclBjcGhkRDR5SUhnSjVwQ05fN0R5V1hBWVkzeFB5bHBwcmx0clVid0ZrbUUtbzRMdlVGYXdsaVppYmE5SDcweTQ3dlBIT19oMEFudWVmaThZR3A4b21lMWoybzJOZVY4dHA1RnNIZl9B?oc=5",
       "source": "Google News",
@@ -19,12 +11,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWNsbGZTYlBwR2JmVnVJZ1o1OGFla1lwX1ZpYXBIYzBlVmE1X29SVF9vUmRTNTlrcXhMYjFXd21hOXRzSjA4MUxiclBjcGhkRDR5SUhnSjVwQ05fN0R5V1hBWVkzeFB5bHBwcmx0clVid0ZrbUUtbzRMdlVGYXdsaVppYmE5SDcweTQ3dlBIT19oMEFudWVmaThZR3A4b21lMWoybzJOZVY4dHA1RnNIZl9B?oc=5\" tar"
     },
     {
-      "title": "La inteligencia artificial impulsa el crecimiento empresarial y la expansión internacional en la región - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0dLajhXbDFuZ2xfMjFSUl9mcjZYOGNPSU4xV0pQRC1zcXRXdEFkWWxuNS1kSHRGM0ZTS1FOekgyZWZ5WWl4ajNXdG9aRlB2Y2dwZ2R5aWgtOG1SbFFSTVhycXVMZnVCOU5rSENVSzc4MjRYQ090R2l4ekhBRUxkT3VGOGxqUGUzXzZTSWVPM2tBMlJCR1RVclJJMkxYenpjQVZTMGRyRlNUUlJJb3ZRUG1OLWFGbWUyeFk0OERmdWxRQlRsZ1dZLURHMmdtd1cxalFRREFJbVNDcWpQNVdTZ09B0gH8AUFVX3lxTE1mVWNNa2luZ1d4SC1sd0RUZThOdG16eE1KckNjLUtvYjRuNVB6b0t5c1NvZTdQODd4aEpJNEZBYkY5dFZUZXhCN19ZdkFnT0EzQU0yanZWaEJWaVJMZzQ5ZUNISGczZ1B4S0xBRjRySWxXa0ZvMHVJdlVzVHNGNG9nVkdBeVZKbUN6bFl0RGZsOWVRTDJvU2h5R09oN3Nfbm1DNVRDUHdjSkhYRjN0Q2k0aDRkbGF5aFpzZDhPdjdCZnJWZF93R184eEJhZUdGTjQtbkFWSUtkTjVkWk1OX0JIWVVzSFMzRDh0QWhGNmI3TGo2ZWhwN0c4VnRYYw?oc=5",
+      "title": "La UNESCO y el Ministerio de Educación de la República Dominicana - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmliWUt3czk0a1JBbl9JZTRpRnBxMHpfbDB4OHdWTE5LcGRUUzhXQ0V2UUpFbnEtclg0YUpXY0JlU2I2eEhPajNMV1hzSU02WnFldXIyb0tfdEZkcTZwUHdQTDNmNE1FcGNIWTdfR2JHMHc2NHhFd1dwanR1VlY3R0N5ZzNha3pWNXMwLUptRlZsMVFwSFhxd0VkR1lFbFo4RmMxN1BiaVlLaU1Ec0o5R1laa1BBTVlyMG04ZUgwaWxCMm9ZNG00OThvUEtxYlhJ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 28 Oct 2026 05:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0dLajhXbDFuZ2xfMjFSUl9mcjZYOGNPSU4xV0pQRC1zcXRXdEFkWWxuNS1kSHRGM0ZTS1FOekgyZWZ5WWl4ajNXdG9aRlB2Y2dwZ2R5aWgtOG1SbFFSTVhycXVMZnVCOU5rSENVSzc4MjRYQ090R2l4ekhBRUxkT3VGOGxqUGUzXzZTSWVPM2tBMlJCR1RVclJJMkxYenpjQVZTMGRyRlNUUlJJb3ZRUG1OLWFGbWUyeF"
+      "published": "Tue, 27 Oct 2026 01:53:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVmliWUt3czk0a1JBbl9JZTRpRnBxMHpfbDB4OHdWTE5LcGRUUzhXQ0V2UUpFbnEtclg0YUpXY0JlU2I2eEhPajNMV1hzSU02WnFldXIyb0tfdEZkcTZwUHdQTDNmNE1FcGNIWTdfR2JHMHc2NHhFd1dwanR1VlY3R0N5ZzNha3pWNXMwLUptRlZsMVFwSFhxd0VkR1lFbFo4RmMxN1BiaVlLaU1Ec0o5R1laa1BBTVlyMG"
+    },
+    {
+      "title": "RD, tercera en uso de IA generativa en la región: quiénes la superan y dónde se queda atrás - Revista Mercado",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTlzR1F2b0QwbUtCVVdfbVhFM2ZPWnhzMzFKVm1rWlhSdzZ3WW0yUmtJdFAyenlMOWx6WWxXWFRzRzBUa1lwajFBUzZpWWF1bmdETjZ1Vml1TWc2ZWhHaXBvQ3R1M3dzOUQ3T0txN1VUX2RSVEwxUC1kN3RTSzhMVDRVRFp0R1pEd09kdmNvakdQYkYtLWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Oct 2026 17:25:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTlzR1F2b0QwbUtCVVdfbVhFM2ZPWnhzMzFKVm1rWlhSdzZ3WW0yUmtJdFAyenlMOWx6WWxXWFRzRzBUa1lwajFBUzZpWWF1bmdETjZ1Vml1TWc2ZWhHaXBvQ3R1M3dzOUQ3T0txN1VUX2RSVEwxUC1kN3RTSzhMVDRVRFp0R1pEd09kdmNvakdQYkYtLWc?oc=5\" target=\"_blank\">RD, tercera en uso de IA"
+    },
+    {
+      "title": "Gobierno reconoce a dos estudiantes por sus habilidades en ciencia y tecnología - El Nuevo Diario",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVkwNHlJNjNzZEltZmJtMDlVbURuUGZwMjVFWWU3aHZnOEw1cndwUjU5N1BpblVQMnc2aGxQNUV2Q2VvSWZqd3pKTGRXRVcydHZqR2VZOHRZbmx3RnVrQmxYTThpQnVhenpnMjlwOU0wbTRFZE02MUZ1a2h5Wm9keVdqUzhXUUZIOGVKTW9sdkNMMVlTYUk1U0dvRV9KRUd4RlBxMXRzTWxzMDM1dHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Oct 2026 14:45:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVkwNHlJNjNzZEltZmJtMDlVbURuUGZwMjVFWWU3aHZnOEw1cndwUjU5N1BpblVQMnc2aGxQNUV2Q2VvSWZqd3pKTGRXRVcydHZqR2VZOHRZbmx3RnVrQmxYTThpQnVhenpnMjlwOU0wbTRFZE02MUZ1a2h5Wm9keVdqUzhXUUZIOGVKTW9sdkNMMVlTYUk1U0dvRV9KRUd4RlBxMXRzTWxzMDM1dHc?oc=5\" target=\""
     },
     {
       "title": "Exponen avances en educación tecnológica y proyectos estudiantiles - El Nacional — La voz de todos",
@@ -33,14 +41,6 @@
       "category": "news",
       "published": "Wed, 28 Oct 2026 02:38:37 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVnE2S2NyWjlJcjlRaHgzeHhaeTE3WGNsZkxuSUY4dXdPZkk1akZKVXNMc2R2U0Z2VWxkS1Z1ZmxSamhYRzV5ZzhybWx0SUpxY2lZUmFPbDRIU1hXbDJYdFZHUXBmNUFUWVJCVDAzdE5HbXJEdXBBYUxXVjhtRjFESHBoUndTMDVHb3ZjT1BVLU5EUW9ES2Q4ejUzZzlSeUZ0ektrbUgzbnM1VnBFYUVsMXdhNzN6RFhKdU"
-    },
-    {
-      "title": "Rector del ITLA: “La tecnología es el eje transversal de la educación” - El Nuevo Diario",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWgwWk96dkczNDhCVVg0dHQyZmFTTVdyM2VQVzIwQWRmUGNwajFic0hQMFFMTTU3Y0lPZmo5dFY2aFRobk05LTg4ZjhlWVNCWkVxejRnUlRhME5CdTl3cllxbGc2NDRWbWNHaDdmaTFYNjJ0eGZCaVVTYWNjTEZVU2E1ZElsNzBnMUs1d2JkVWs3VUxHb0xSTy1aSnd0UQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 25 Oct 2026 18:56:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNaWgwWk96dkczNDhCVVg0dHQyZmFTTVdyM2VQVzIwQWRmUGNwajFic0hQMFFMTTU3Y0lPZmo5dFY2aFRobk05LTg4ZjhlWVNCWkVxejRnUlRhME5CdTl3cllxbGc2NDRWbWNHaDdmaTFYNjJ0eGZCaVVTYWNjTEZVU2E1ZElsNzBnMUs1d2JkVWs3VUxHb0xSTy1aSnd0UQ?oc=5\" target=\"_blank\">Rector del IT"
     },
     {
       "title": "Bornan Sports Technology dará servicios de tecnología deportiva a Santo Domingo 2026 - Juegos Centroamericanos y del Caribe 2026",
