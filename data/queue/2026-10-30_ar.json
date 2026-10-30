@@ -3,12 +3,28 @@
   "country": "ar",
   "articles": [
     {
-      "title": "Una laptop hackeada, US$ 6.300 millones esfumados en tres horas y la sombra norcoreana: qué se sabe del ataque a Binance",
+      "title": "Intel se desploma hasta 30%: qué le pasa al gigante de los chips que marcó la era de las PC en los 90",
+      "url": "https://www.clarin.com/tecnologia/intel-desploma-30-pasa-gigante-chips-marco-pc-90_0_YqMzPWY4ER.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 17:14:17 +0000",
+      "summary": "<ul><li>La caída de las PC y los problemas de abastecimiento golpean a la compañía.</li><li>El auge de la IA impulsa los servidores y encarece componentes de las notebooks.</li><li>El costo de fabricar chips y la Ley de Moore ayudan a entender el cambio en la industria del histórico \"Intel Inside\".<"
+    },
+    {
+      "title": "La falla global de PHP que amenaza a gran parte de la web: cómo reaccionó Argentina y cuál es el estado de los sitios oficiales",
+      "url": "https://www.clarin.com/tecnologia/falla-global-php-reacciono-estado-argentino-sabe-sitios-web_0_Yd9xp8gB05.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 15:20:31 +0000",
+      "summary": "<ul><li>PHP es un lenguaje que usan muchas páginas web: dos fallas críticas pueden permitir que atacantes tomen el control de los servidores.</li><li>Según el excoordinador del CERT, argentina.gob.ar, Salud y Economía aplicaron las medidas recomendadas para reducir el riesgo.</li><li>Las versiones a"
+    },
+    {
+      "title": "Una laptop hackeada, US$ 6.300 millones esfumados en veinte minutos y la sombra norcoreana: qué se sabe del ataque a Binance",
       "url": "https://www.clarin.com/tecnologia/laptop-hackeada-us-6300-millones-esfumados-horas-sombra-norcoreana-sabe-ataque-binance_0_p1PBdsnKir.html",
       "source": "Clarín Tecnología",
       "category": "tech",
       "published": "Fri, 30 Oct 2026 12:50:03 +0000",
-      "summary": "<ul><li>La intrusión comenzó tras comprometerse la computadora de un ingeniero de desarrollo de sistemas.</li><li>La empresa atacada prometió que devolverá los fondos a todos los usuarios.</li></ul>"
+      "summary": "<ul><li>La intrusión comenzó tras comprometerse la computadora de un ingeniero de desarrollo de sistemas.</li><li>La empresa prometió que devolverá los fondos a todos los usuarios y restituirá el servicio en las próximas 45 horas. </li></ul>"
     },
     {
       "title": "Cómo son las nuevas computadoras de escritorio que usan inteligencia artificial sin conectarse a Internet",
@@ -27,22 +43,6 @@
       "summary": "<ul><li>Detectaron transferencias multimillonarias desde billeteras vinculadas a la plataforma.</li><li>La compañía asegura que los fondos de los usuarios están a salvo.</li><li>Tether y Circle bloquearon parte de los activos; el monto total sigue bajo investigación.</li></ul>"
     },
     {
-      "title": "El iPhone Duo recibe elogios internacionales y demuestra que Apple todavía puede sorprender con una nueva categoría",
-      "url": "https://www.clarin.com/tecnologia/iphone-duo-recibe-elogios-internacionales-demuestra-apple-todavia-puede-sorprender-nueva-categoria_0_N8dOtL69nu.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Oct 2026 15:14:57 +0000",
-      "summary": "<ul><li>Las primeras reseñas internacionales elogian el diseño, la transición entre pantallas y su rendimiento.</li><li>No todos son elogios y algunos señalan que el precio y algunas funciones podrían frenar su expansión.</li></ul>"
-    },
-    {
-      "title": "El jefe de IA de The Guardian cuestiona a las tecnológicas por usar noticias sin pagar: “En Silicon Valley no entienden qué es el periodismo”",
-      "url": "https://www.clarin.com/tecnologia/jefe-ia-the-guardian-cuestiona-tecnologicas-usar-noticias-pagar-silicon-valley-entienden-periodismo_0_WffQHfrtVT.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Oct 2026 08:46:49 +0000",
-      "summary": "<ul><li>Caspar Llewellyn Smith advierte que los chatbots usan información de los medios y debilitan los ingresos que permiten producirla.</li><li>Cuáles son los incentivos para hacer periodismo luego del fenómeno \"Google Zero\" y la IA, que derrumbaron el tráfico de los sitios web de todo el mundo.</"
-    },
-    {
       "title": "El impacto económico de la IA en Argentina será de hasta 17,714 mdd en 2030 - DPL News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8teWNHaXJiY21hRWJpRWUzT2RsY1Q1OXh1UGZrcWFJVnpJQ1ROdXNLeUtkaHY0LTdKaG5qOXZ6U1ctZEpmcF9aLUF1SHBQUDZic2FldVVMLUlGaU8ySWF3QmxBbWF5ZkhlSVRtNF9ZVlowaXBycUlYWmpCMEc?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZE5zODdsMzR0WTJaTU1oRGZ4RTNZYVNvQnM2ZEI3S1RRTWhvOVA1NDFqc1A5ZWZZMnFlWnBZV19VQjNuRzRjaVNMdWJhR29wNmFOTEtpWW52bWZ0QmRTbUtxc2tOcVVSNXBwZzRLM0NTYUozVExjS2c2S2xmLUhTSHp5Sl9LQTJEZGxPNnFndmNsVHZ3Q2Y1aFdaUEpEZlVuWG1rZnB6eDE2QTdhQzlEMi1lbzhEenpDaW"
     },
     {
-      "title": "Inteligencia artificial en tribunales argentinos: entre brechas y descontrol - iProfesional",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjQ1QmpvLVJRNlgtWWZhaVJXU0NrNkRQcmE5bnNESjhKTzkwem1XMnYySDdHOWIzbS1obGs3WWVrYjBISGhXeHJ4cHRJVEFITkZTZnlvU2tCVXMtWGZQVFhHMW5HOGM2RGxsV2NXMlEyNFlYTXlkWTBBa1UxVl83Wm5CdFN2c3FnclJKc2pHWExPNE1mRXhkMWEwLTFGa2NqcmxOV0dfWnhNcXlLSGJUT0oxVDNLU2Y5TTF2ZmVQUdIBxAFBVV95cUxPZl9rN2V4ZnM0X1ZVR2lDUDZpeFZlX1RIcElpRFBGcVZseFRjSVpXbG8zOTVhVXJ6Ul9fOHl5R2M2elZNOGIxNmIxR1VFNDBCRlZaU0J6a3F1UmJsSEE5bWZaYUkyTlB1bzRtbEh5cGFhYjUzQk5fNFMyQ1lldkgtQjM0STFPM01uNW5ybnlTMmp5QXZBWHU1ZkhXZTRGdlBCazJRS21YNVB5aUpqT2MtUThZX2VQbHhIdDM0YnpqYmF2QnZ2?oc=5",
+      "title": "UM Argentina impulsa Stand Against Bland con capacitación, OMNI e inteligencia artificial - produ",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGFQdEZneEZ1TG80VnI1MW1kLUhRM1VSRlhFMGVVUzlIVG5GS2luWGlob3FVTWFTQS1najAwSFlMMWdoNzZ4NjFKeXlyWFU5dUdSRElVR3VFUjBEd2pNTjVnSDBmU3IwaVFlWGZ4d2lhcGpoWkZubW5UOUd4cS13VGxSRUxWRWs0ZFdpZFkwU0h1dVFWMTNZSUFrbHUwOVc0SVJxZl9YZ3MtWnkyODEwZ2NxWUQtNFR3bzRra3A0MmVYaE5CY2x4aQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 30 Oct 2026 13:40:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONjQ1QmpvLVJRNlgtWWZhaVJXU0NrNkRQcmE5bnNESjhKTzkwem1XMnYySDdHOWIzbS1obGs3WWVrYjBISGhXeHJ4cHRJVEFITkZTZnlvU2tCVXMtWGZQVFhHMW5HOGM2RGxsV2NXMlEyNFlYTXlkWTBBa1UxVl83Wm5CdFN2c3FnclJKc2pHWExPNE1mRXhkMWEwLTFGa2NqcmxOV0dfWnhNcXlLSGJUT0oxVDNLU2Y5TT"
+      "published": "Mon, 26 Oct 2026 18:57:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGFQdEZneEZ1TG80VnI1MW1kLUhRM1VSRlhFMGVVUzlIVG5GS2luWGlob3FVTWFTQS1najAwSFlMMWdoNzZ4NjFKeXlyWFU5dUdSRElVR3VFUjBEd2pNTjVnSDBmU3IwaVFlWGZ4d2lhcGpoWkZubW5UOUd4cS13VGxSRUxWRWs0ZFdpZFkwU0h1dVFWMTNZSUFrbHUwOVc0SVJxZl9YZ3MtWnkyODEwZ2NxWUQtNFR3bz"
     },
     {
       "title": "El hombre que le preguntó a Steve Jobs de dónde sale la innovación, trae a Buenos Aires el festival de cine con IA - Infobae",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbzRTQVZzOXBtVi1fZERjMGY1WFhwc005Um1YR1h4eFRzQ1VtSFozb0lDdlQ3bGh6amVhWHFlTU1ZSFNDS2IxUThZQjhuRDZ3U1p5X2U3VXJ3THBTZHJEekQ0MGdnbTZhNF9haW81b3MxVUpSOVNpeEo1U1ZPbU9ia1QwbkFIMmlRVTN1UUg1RUl5QzNrbTNDNHZjNndqU3N1TGd6NWRCUk9qcU5CT3Fqa1F6MVk0VDk4Yl"
     },
     {
-      "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5",
+      "title": "'La mayor amenaza al periodismo no es la IA, es la no adaptación' - ANSA Latina",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVzdCUXRhdDlUR2RpQXdXTTlZeXVnOW5UYUNJWHVPTi1FRGtUM2dHc19yNVJTS0JQdklwWE1TWDBqbEVEcGxrT3dIaWdlUTRlU3E2cGNCbWV0Rnh6MXh6MFdYZFIwcFY0Xzh0SGZVMjdob0t0WEZaLXg0US1hTFAwRngzMmxtTWlXdkxYTl9KRUVwNERVTG10SDBqOFp1bXJCOVJBdUVHV2VYcVFGbi1WMGJ5VWhMUVdjTmNfZzFraTVqbHNyYUZ1R2xsYUxsNDlJVVFiTXFsdkU5VThDTWhtcE1UV3BuVElUWnBpbWpSVGlseHBtSEcteTFvYUpkR20tWHVBcjlDYXRNV0xuLVk1TkNkc9IBmAJBVV95cUxNZDNZYndnajIxZmpuZk9rNHhIdnFOSDFRZHd3YmhFMFlRLVRkQXd1YUFaT3ViY2VPT2lsbC1XTUJCWDcwZTlYTl90MWx0T1dyNWFYWGlFTzVSc0czWmlHeFpRWWVlN2NpTjFBcW1OdEhILWQ0R29zMWNwT2YxVnU3dzVRSjhTQTk4XzZpUEJYenVSUi1BN3BKTG1kR05nSjlhWFZPRV90bXBqck9FeVRqZlp2RjRjN1RaWm12am1yV2VGb3lpQnY2QW9FR1k3Smk2Ym4xbU1WVV9jNVR6am9IT2lNS0FGMExKUzNaZ1RhWWpVamRRNWFxck41VTJpSFlqUWFhT2ZndjNxMnM5OWRJWFVib2xnSHFk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 29 Oct 2026 19:09:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
+      "published": "Fri, 30 Oct 2026 16:50:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQVzdCUXRhdDlUR2RpQXdXTTlZeXVnOW5UYUNJWHVPTi1FRGtUM2dHc19yNVJTS0JQdklwWE1TWDBqbEVEcGxrT3dIaWdlUTRlU3E2cGNCbWV0Rnh6MXh6MFdYZFIwcFY0Xzh0SGZVMjdob0t0WEZaLXg0US1hTFAwRngzMmxtTWlXdkxYTl9KRUVwNERVTG10SDBqOFp1bXJCOVJBdUVHV2VYcVFGbi1WMGJ5VWhMUVdjTm"
     },
     {
       "title": "GUT Buenos Aires lleva la frustración tecnológica al apocalipsis con IA para Mercado Libre e Intel - produ",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONGx2LWgzZG9kcjJGV0xvU0xHbk5qX3huNGZ6WFFFalZZZld1cTdMeHFDTUdoQURfeGlFTXR5emFYVElZeHAwM1Jva0Y0enJaRWRrSXZtaWl5a1JJVkNqc0FkMlUtYk15TGhaZXZidkZNTjh6bW5zMDAyYzhabHhOSnc0VTJhdlhlVFppdlhtTDM?oc=5\" target=\"_blank\">N5, startup que moderniza bancos"
     },
     {
-      "title": "N5 ganó el Premio a la Innovación con Impacto 2026 entre 550 startups argentinas - 0221",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRzVlLUNRSzhnWklzcHFwSXcyc0lpc1VlVnpiU3cyM25aakZBeTdsdVZKNU9BVDZoZE5SVmRzYV9CdHFEbXJ5cE5ka1VXRW1sUEtuajZPd3ktQjQ4ekRqQWVPVWNnRGx1T2NOUnVTU1p1eDJwT1RWVWJlQmJRbVBkNlN1cGRuTE9IeHc5T0x1R09zbEJ0aWttUUVjbjQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 30 Oct 2026 13:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRz"
-    },
-    {
       "title": "Una startup argentina ganó el premio de innovación de la Fundación Banco Nación y Endeavor Argentina - Los Andes",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbEpldjRMeEkxNkhzc1FRSURRd0RFYTl0NVN0WmItMGpRUHpSTTZtZFctVmJYMGROekhSYVdZSGdQc25sYXpobUVoVE5QR1RpcEI5ZldpQ1lRQkMwZGFpdWgzXzZCbVhOaVVuSVd4MTFJR1hRaWpBVlZiaXhSZzhkcHluUXFoRVhqY243UjFGLTNMWHdxbmNRV0FMcnFBN20tNF82ZUljcU9TWkpLR0xia2syTkhnUGt4aEhVM0kyeFFVNUxFMVVWYzBjblA4VF9Wc2MtU0QtS1lsNDhNaUk2X3ROdXFxZw?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 30 Oct 2026 13:02:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbEpldjRMeEkxNkhzc1FRSURRd0RFYTl0NVN0WmItMGpRUHpSTTZtZFctVmJYMGROekhSYVdZSGdQc25sYXpobUVoVE5QR1RpcEI5ZldpQ1lRQkMwZGFpdWgzXzZCbVhOaVVuSVd4MTFJR1hRaWpBVlZiaXhSZzhkcHluUXFoRVhqY243UjFGLTNMWHdxbmNRV0FMcnFBN20tNF82ZUljcU9TWkpLR0xia2syTkhnUGt4aE"
+    },
+    {
+      "title": "N5 ganó el Premio a la Innovación con Impacto 2026 entre 550 startups argentinas - 0221",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRzVlLUNRSzhnWklzcHFwSXcyc0lpc1VlVnpiU3cyM25aakZBeTdsdVZKNU9BVDZoZE5SVmRzYV9CdHFEbXJ5cE5ka1VXRW1sUEtuajZPd3ktQjQ4ekRqQWVPVWNnRGx1T2NOUnVTU1p1eDJwT1RWVWJlQmJRbVBkNlN1cGRuTE9IeHc5T0x1R09zbEJ0aWttUUVjbjQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 13:09:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRz"
     }
   ],
   "count": 14
