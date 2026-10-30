@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El pan de muerto no solo se vende en Halloween y Día de Muertos: se disparan pedidos a domicilio fuera de estas fechas",
+      "url": "https://expansion.mx/tecnologia/2026/10/30/halloween-dia-muertos-pan-a-domicilio",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 21:00:09 GMT",
+      "summary": "Las ventas de pan de muerto en Rappi crecieron 83% entre dos semanas de octubre, mientras que Halloween se convirtió en el día con más viajes del año para DiDi en 2025."
+    },
+    {
+      "title": "El hackeo a Binance por 6,300 mdd apunta a atacantes de Corea del Norte",
+      "url": "https://expansion.mx/tecnologia/2026/10/30/hackeo-a-binance-apunta-a-atacantes-de-corea-del-norte",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 20:22:21 GMT",
+      "summary": "El ataque contra la plataforma de criptomonedas presenta similitudes con las operaciones de TraderTraitor, un grupo vinculado con el gobierno norcoreano. Binance promete cubrir las pérdidas de sus usuarios."
+    },
+    {
+      "title": "Modo Menopausia: la nueva solución de Eight Sleep que promete reducir los bochornos nocturnos",
+      "url": "https://expansion.mx/tecnologia/2026/10/30/modo-menopausia-eight-sleep-reducir-bochornos-nocturnos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 18:15:45 GMT",
+      "summary": "De acuerdo con investigaciones de la empresa esta herramienta promete reducir este problema en un 56% en promedio."
+    },
+    {
       "title": "Intel agota sus chips para laptops económicas y anticipa más presión sobre los precios",
       "url": "https://expansion.mx/tecnologia/2026/10/30/intel-agota-chips-laptops-economicas",
       "source": "Expansión Tecnología",
@@ -19,28 +43,12 @@
       "summary": "Aunque la creadora de Claude debuta en la bolsa, el dinero recopilado terminará en las arcas de los gigantes gracias a contratos millonarios de infraestructura firmados para los próximos 10 años."
     },
     {
-      "title": "Samsung advierte que la escasez de chips empeorará en 2027 y podría encarecer celulares y computadoras",
-      "url": "https://expansion.mx/tecnologia/2026/10/29/samsung-escasez-chips-ia-2027-celulares-precios",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Oct 2026 19:00:41 GMT",
-      "summary": "La creciente demanda de chips para IA presiona la producción mundial de memorias. Aunque Samsung obtiene ganancias récord con este negocio, el aumento de costos también afecta a su división de teléfonos."
-    },
-    {
-      "title": "Amazon lanza nuevas versiones de Echo Dot para cuidar a tus abuelitos",
-      "url": "https://expansion.mx/tecnologia/2026/10/29/nuevo-amazon-echo-dot-2026-precio-mexico-caracteristicas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Oct 2026 18:12:19 GMT",
-      "summary": "Los nuevos dispositivos de Alexa buscan incorporarse mejor a las dinámicas cotidianas e incluso ser un gadget que ayude a los más grandes del hogar a mantener su bienestar."
-    },
-    {
-      "title": "Microsoft suma 10 trimestres de crecimiento, pero Xbox y Windows no siguen el ritmo",
-      "url": "https://expansion.mx/tecnologia/2026/10/29/microsoft-resultados-trimestrales-2026-ia-xbox-windows",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 29 Oct 2026 17:00:59 GMT",
-      "summary": "La compañía registró ingresos por 92,300 millones de dólares, un aumento de 19%. La nube y la inteligencia artificial impulsaron sus resultados, mientras sus negocios de videojuegos y dispositivos retrocedieron."
+      "title": "Solo 14% de empresas en México mide el ROI de la IA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWItMG1YOUJIMk1OY0ZrVGtzVWNzb1ByQnc2aWxoZUdEMUQ2NzIzNUFGa1NWdEpHM3dGTi1uRVZ3Um54T29Rb0JtLWRpWnBhWGc2RVdpbk1fSFBfelQzZDdGMklQTWp5UnNaTWZWSEJWcjA2RmtXVTFabDB1Snk5eXExVXlVbWcy?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 08:33:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWItMG1YOUJIMk1OY0ZrVGtzVWNzb1ByQnc2aWxoZUdEMUQ2NzIzNUFGa1NWdEpHM3dGTi1uRVZ3Um54T29Rb0JtLWRpWnBhWGc2RVdpbk1fSFBfelQzZDdGMklQTWp5UnNaTWZWSEJWcjA2RmtXVTFabDB1Snk5eXExVXlVbWcy?oc=5\" target=\"_blank\">Solo 14% de empresas en México mide el ROI "
     },
     {
       "title": "Microsoft ve en la inteligencia artificial una oportunidad de crecimiento para México - EFE - Agencia de noticias",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Thu, 29 Oct 2026 23:12:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5iRHZHb2JvajB4dnc0VGk1ZVd3eS1WdV9EUEdGZlBZbDFBSGdDTERZNTVVV2JTVW5ON0lkYXZtS3BROVlUU0hUU0JVSnh1X1E4eHNJU3ptekhjQWxCQzVoVUc5cHZ2bkI5SmdHUlYyRU9BYnhzdVV0Wg?oc=5\" target=\"_blank\">Microsoft ve en la inteligencia artificial una oportunidad de cre"
-    },
-    {
-      "title": "Solo 14% de empresas en México mide el ROI de la IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWItMG1YOUJIMk1OY0ZrVGtzVWNzb1ByQnc2aWxoZUdEMUQ2NzIzNUFGa1NWdEpHM3dGTi1uRVZ3Um54T29Rb0JtLWRpWnBhWGc2RVdpbk1fSFBfelQzZDdGMklQTWp5UnNaTWZWSEJWcjA2RmtXVTFabDB1Snk5eXExVXlVbWcy?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 30 Oct 2026 08:33:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWItMG1YOUJIMk1OY0ZrVGtzVWNzb1ByQnc2aWxoZUdEMUQ2NzIzNUFGa1NWdEpHM3dGTi1uRVZ3Um54T29Rb0JtLWRpWnBhWGc2RVdpbk1fSFBfelQzZDdGMklQTWp5UnNaTWZWSEJWcjA2RmtXVTFabDB1Snk5eXExVXlVbWcy?oc=5\" target=\"_blank\">Solo 14% de empresas en México mide el ROI "
     },
     {
       "title": "¿Quién vigila la inteligencia artificial? - El Heraldo de México",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
     },
     {
-      "title": "CX Forum Monterrey reúne a líderes de experiencia y tecnología - MILENIO",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWnJleWZqRG9tSTY0WmFrWXNCTkhiM3FfbjhreXZIVDZaT1RmZy1SNkRrbE9NN2lPbTNrZ05sbTJ2VTBCTUdwQ0YyYVhvWHpVNHRZOFhjTlRMcDFiV1VCaTJta3N4RndkWU51VXQ2cjZVa3A3R2U0ZTcwRjA5QjU0XzNkc2htcjRJNnR5LVdNTHlseXU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWn"
-    },
-    {
       "title": "Fundidores aceleran adopción de IA y nuevas tecnologías para reducir energía y emisiones - La Jornada",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVWJ5cm0xVlczRGZKSnV5eWYyNzNPODd1QlVsWmJ6a1FiVUE?oc=5",
       "source": "Google News",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVW"
     },
     {
-      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
+      "title": "9 de cada 10 jóvenes universitarios en LATAM usan IA: estudio - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1lvTDdtRTJqM2tsYTJuSDItX1REOWxKZzUyLVZ5ZFdFUFY5cS1BdTNSYWJ5ZU1HNF9EWW9xWF9aUHJ3T29rQWFMSmVrMXRuQ0tsYlc3WE1OT2o0RFU0dC1YSHo3ekViQ2lpQlZ6MFZtT0JFSmxKVWNyWG9jOFAycWd3cE43dW9GcVlfZldHdlVZMlk4eExjeWVvX1pVNDY1VHNsM1VjZGhNTG5rWFh6MHdfcHA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+      "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOd1lvTDdtRTJqM2tsYTJuSDItX1REOWxKZzUyLVZ5ZFdFUFY5cS1BdTNSYWJ5ZU1HNF9EWW9xWF9aUHJ3T29rQWFMSmVrMXRuQ0tsYlc3WE1OT2o0RFU0dC1YSHo3ekViQ2lpQlZ6MFZtT0JFSmxKVWNyWG9jOFAycWd3cE43dW9GcVlfZldHdlVZMlk4eExjeWVvX1pVNDY1VHNsM1VjZGhNTG5rWFh6MHdfcHA?oc=5\" "
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     }
   ],
   "count": 14
