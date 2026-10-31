@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Hackeo a Binance: la empresa asegura que ya cubrió el 90% de las multimillonarias pérdidas por el ciberataque",
+      "url": "https://www.clarin.com/tecnologia/hackeo-binance-empresa-asegura-cubrio-90-multimillonarias-perdidas-ciberataque_0_UFFZFSfNCW.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 31 Oct 2026 17:25:09 +0000",
+      "summary": "<ul><li>La empresa ya había destinado US$ 6.340 millones para cubrir el agujero en las cuentas de sus usuarios, y hoy incrementó esa cifra.</li></ul>"
+    },
+    {
       "title": "Un escudo en el bolsillo: cómo funcionan las billeteras \"blindadas\" que bloquean la lectura de tarjetas",
       "url": "https://www.clarin.com/tecnologia/escudo-bolsillo-funcionan-billeteras-blindadas-bloquean-lectura-tarjetas_0_0f5bzB2bFM.html",
       "source": "Clarín Tecnología",
@@ -35,14 +43,6 @@
       "summary": "<ul><li>La intrusión comenzó tras comprometerse la computadora de un ingeniero de desarrollo de sistemas.</li><li>La empresa prometió que devolverá los fondos a todos los usuarios y restituirá el servicio en las próximas 45 horas. </li></ul>"
     },
     {
-      "title": "Cómo son las nuevas computadoras de escritorio que usan inteligencia artificial sin conectarse a Internet",
-      "url": "https://www.clarin.com/tecnologia/nuevas-computadoras-escritorio-usan-inteligencia-artificial-conectarse-internet_0_dtmTeOn33W.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Oct 2026 08:45:05 +0000",
-      "summary": "<ul><li>Permiten procesar textos, fotos y videos sin estar online.</li><li>La elección depende del uso, desde el desarrollo de agentes hasta la asistencia para escribir, programar o procesar información.</li><li>Hay opciones con Windows, Linux y macOS, distintas capacidades de memoria y ecosistemas "
-    },
-    {
       "title": "Una película argentina hecha con inteligencia artificial ganó un festival internacional y llegará a Cannes - Clarin.com",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR2JmOHFZbGlfdG01anRPNUM3SldFVzdPc2lmaWJUam5lS1AtZWUyT2x2dFpfXzdIcHE1aVgyOFFqR3owVHpCQVlmc2t2MEFBcVBmRmJNd2lUNnlIVXlnSlJVVGFnbEdac1RJcm5WSHFNSGpkUDhlNGhUS3FQbmFlazA0R0R0dGZrRHVtRWVYM2NJUU5uc2RCTl8yckU5Y2dEWmZZU2JNa21GOGN5MGFMRGhCMVJuNHR4c1JWLV92cjB4RW1UdVhhU1NoUlQ1c25iN2RyVWhUYUw?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZE5zODdsMzR0WTJaTU1oRGZ4RTNZYVNvQnM2ZEI3S1RRTWhvOVA1NDFqc1A5ZWZZMnFlWnBZV19VQjNuRzRjaVNMdWJhR29wNmFOTEtpWW52bWZ0QmRTbUtxc2tOcVVSNXBwZzRLM0NTYUozVExjS2c2S2xmLUhTSHp5Sl9LQTJEZGxPNnFndmNsVHZ3Q2Y1aFdaUEpEZlVuWG1rZnB6eDE2QTdhQzlEMi1lbzhEenpDaW"
     },
     {
-      "title": "Cómo la inteligencia artificial puede ayudar a bajar impuestos en Argentina - iProUP",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFlndmg2TWhiRWNZMEwwQXROZ1VWaTdQZkdOSGFYbUpZcWR2bldYUFlvZlAtWTJjLXlZUmtCdlNPVFpKUW9KTE1EbGcyVHl0VGpGak9ObFNqVktueDdVWjNFRTdiWEgwd01kbFRoekEtY2dJc1NFZUs5MTVtUlFQODB3VWpQd2JKaEJmOXptblB0aW4zVDY1ZjJyVGRncTNubi1JM25XbXJINkVwbkNCQdIBtgFBVV95cUxPUXk2eGt3ekpnOU1VNzh0a2N2ay04SkNaVjItejhZYzhiQWg5cE5fZDFNcW50OVNRSHFMbGdMSDJQWjRWRXZRNjNzYzhwR2lCNU0yY1p1WlFLVlFUT0J2andHOHpkYVVFeXp6eXN0SUgzam9WX1hqWHVaZmtEUkE3NTBESjhVcUM1UklCTHg1SERZdFNWT213RnNhUnFoREpDVmpvVzNsWDgtR1ZyUml3cXlLMmhudw?oc=5",
+      "title": "UM Argentina impulsa Stand Against Bland con capacitación, OMNI e inteligencia artificial - produ",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGFQdEZneEZ1TG80VnI1MW1kLUhRM1VSRlhFMGVVUzlIVG5GS2luWGlob3FVTWFTQS1najAwSFlMMWdoNzZ4NjFKeXlyWFU5dUdSRElVR3VFUjBEd2pNTjVnSDBmU3IwaVFlWGZ4d2lhcGpoWkZubW5UOUd4cS13VGxSRUxWRWs0ZFdpZFkwU0h1dVFWMTNZSUFrbHUwOVc0SVJxZl9YZ3MtWnkyODEwZ2NxWUQtNFR3bzRra3A0MmVYaE5CY2x4aQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 31 Oct 2026 12:48:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFlndmg2TWhiRWNZMEwwQXROZ1VWaTdQZkdOSGFYbUpZcWR2bldYUFlvZlAtWTJjLXlZUmtCdlNPVFpKUW9KTE1EbGcyVHl0VGpGak9ObFNqVktueDdVWjNFRTdiWEgwd01kbFRoekEtY2dJc1NFZUs5MTVtUlFQODB3VWpQd2JKaEJmOXptblB0aW4zVDY1ZjJyVGRncTNubi1JM25XbXJINkVwbkNCQdIBtgFBVV95cU"
+      "published": "Mon, 26 Oct 2026 18:57:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGFQdEZneEZ1TG80VnI1MW1kLUhRM1VSRlhFMGVVUzlIVG5GS2luWGlob3FVTWFTQS1najAwSFlMMWdoNzZ4NjFKeXlyWFU5dUdSRElVR3VFUjBEd2pNTjVnSDBmU3IwaVFlWGZ4d2lhcGpoWkZubW5UOUd4cS13VGxSRUxWRWs0ZFdpZFkwU0h1dVFWMTNZSUFrbHUwOVc0SVJxZl9YZ3MtWnkyODEwZ2NxWUQtNFR3bz"
     },
     {
       "title": "El hombre que le preguntó a Steve Jobs de dónde sale la innovación, trae a Buenos Aires el festival de cine con IA - Infobae",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbzRTQVZzOXBtVi1fZERjMGY1WFhwc005Um1YR1h4eFRzQ1VtSFozb0lDdlQ3bGh6amVhWHFlTU1ZSFNDS2IxUThZQjhuRDZ3U1p5X2U3VXJ3THBTZHJEekQ0MGdnbTZhNF9haW81b3MxVUpSOVNpeEo1U1ZPbU9ia1QwbkFIMmlRVTN1UUg1RUl5QzNrbTNDNHZjNndqU3N1TGd6NWRCUk9qcU5CT3Fqa1F6MVk0VDk4Yl"
     },
     {
+      "title": "GUT Buenos Aires lleva la frustración tecnológica al apocalipsis con IA para Mercado Libre e Intel - produ",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtuQzctVHNGejNaWXdYUS0yUjd5NzdMTkJBMGc3YzA2cTNnazlSTEVqWHJiUTlMV2IyVWxmckhlaHotZlVuOVFudmo0TVVzakUzTEsxblNjeHMtd0FWekpCYS1wWmZac0U5LWZGcWNkT0llVkVWYl9NU01vY2Zwa3RQYmstWDRhcVlueUhHNTlRd201a0pyb0N6Szhzc1RxWDFyc1d5dW1PN2NDQXh1VDdpdVJ5MW9mY3JyYlVINU92QjFSLVg2ZWhsdEV6LXNaUkxPNnhR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 28 Oct 2026 04:06:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtuQzctVHNGejNaWXdYUS0yUjd5NzdMTkJBMGc3YzA2cTNnazlSTEVqWHJiUTlMV2IyVWxmckhlaHotZlVuOVFudmo0TVVzakUzTEsxblNjeHMtd0FWekpCYS1wWmZac0U5LWZGcWNkT0llVkVWYl9NU01vY2Zwa3RQYmstWDRhcVlueUhHNTlRd201a0pyb0N6Szhzc1RxWDFyc1d5dW1PN2NDQXh1VDdpdVJ5MW9mY3"
+    },
+    {
       "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 29 Oct 2026 19:09:44 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
-    },
-    {
-      "title": "Todos los ganadores de los premios del WAIFF Buenos Aires, el festival de inteligencia artificial - EscribiendoCine",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQnpfcjFVUXNaODBtb3duZWxsMHJRVTVPNFo1Yll4UDdVZXJTUkU5V1NoSVltZEpUWUlWbGs3S0I2N3RYemRvTjFoU0RDRTlDVmpRaUVnSm9GRjFZS0NWeG1HLTZDRGpmc1plbVdUUjR3bk1mYjZsZVRKQ0Vra1pMVXZmcklmMzJseTFFV3hScElKSVE2Y0l5ZFVkenNheFVjSUxMRm5tcWFTMmhJSzNDUkIyeFAtVXp5WHFQNlVkOTZ0ZS1POUZ6N0NiR0NQNFJzWjBKem5oNGVZX21oWWVXYUtXb2U2M0dEdWfSAe8BQVVfeXFMTTFCOUg3QnNOZ253TkJTZ19pdnNFYUVvM2xuYVFlS0hMT3h6b05OSEJ6dG5JeE5QWk9BRmZtaFB0TnlyRy16Vl9PZ1NWS3RGTUROaTB2M2J1cjgxcWFyNnhhYzBQRU93WmdlWFAydlNlN2hMQjJ4RG9EVm9TckZfYm1iVnIwSGNNSGhWeFdmSHRObDdIUUlLUS1JdWY4UW9Kd0thdU9TQ3dmcHk0UWlmWktNWGoyd0Y3MktHbmljTFliRENJS2JhR1R2TzdBME1Fb242UjhDMUVrS1pxSFc2c1RpX0tzalFDdjhwUS1tYUk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 31 Oct 2026 16:42:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQnpfcjFVUXNaODBtb3duZWxsMHJRVTVPNFo1Yll4UDdVZXJTUkU5V1NoSVltZEpUWUlWbGs3S0I2N3RYemRvTjFoU0RDRTlDVmpRaUVnSm9GRjFZS0NWeG1HLTZDRGpmc1plbVdUUjR3bk1mYjZsZVRKQ0Vra1pMVXZmcklmMzJseTFFV3hScElKSVE2Y0l5ZFVkenNheFVjSUxMRm5tcWFTMmhJSzNDUkIyeFAtVXp5WH"
     },
     {
       "title": "N5, fintech argentina, gana el Premio Innovación 2026 - El Ecosistema Startup",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbEpldjRMeEkxNkhzc1FRSURRd0RFYTl0NVN0WmItMGpRUHpSTTZtZFctVmJYMGROekhSYVdZSGdQc25sYXpobUVoVE5QR1RpcEI5ZldpQ1lRQkMwZGFpdWgzXzZCbVhOaVVuSVd4MTFJR1hRaWpBVlZiaXhSZzhkcHluUXFoRVhqY243UjFGLTNMWHdxbmNRV0FMcnFBN20tNF82ZUljcU9TWkpLR0xia2syTkhnUGt4aE"
     },
     {
-      "title": "N5 ganó el Premio a la Innovación con Impacto 2026 entre 550 startups argentinas - 0221",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRzVlLUNRSzhnWklzcHFwSXcyc0lpc1VlVnpiU3cyM25aakZBeTdsdVZKNU9BVDZoZE5SVmRzYV9CdHFEbXJ5cE5ka1VXRW1sUEtuajZPd3ktQjQ4ekRqQWVPVWNnRGx1T2NOUnVTU1p1eDJwT1RWVWJlQmJRbVBkNlN1cGRuTE9IeHc5T0x1R09zbEJ0aWttUUVjbjQ?oc=5",
+      "title": "Con más de 100 empresas, Argentina lidera el ecosistema de startups de alto impacto en la región - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExaaGNDMFJZVXhsN2c2eGxGbC1RVkgtZEFDeE1JTmc3aWp6Z0swSloyckVqR25Xa3JrNjVUSFBjeFVRcDVFS1BVMFdkekxOV2hEckxicDdVMk1IUk54Y19VMmxkUXZrdkwyMmYwRkpaY1EtTm5ndGJQZjJVem5ac1hMMjl6bGRweHRpX3RlMGg4NEpwaXNDeTRYTEV5TE1EejJuTWFqSDN5aFA3b2oxN09sOG9XWTBiOGpJ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 30 Oct 2026 13:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRz"
+      "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeExaaGNDMFJZVXhsN2c2eGxGbC1RVkgtZEFDeE1JTmc3aWp6Z0swSloyckVqR25Xa3JrNjVUSFBjeFVRcDVFS1BVMFdkekxOV2hEckxicDdVMk1IUk54Y19VMmxkUXZrdkwyMmYwRkpaY1EtTm5ndGJQZjJVem5ac1hMMjl6bGRweHRpX3RlMGg4NEpwaXNDeTRYTEV5TE1EejJuTWFqSDN5aFA3b2oxN09sOG9XWTBiOG"
     }
   ],
   "count": 14
