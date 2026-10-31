@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-31",
+  "country": "ar",
+  "articles": [
+    {
+      "title": "Un escudo en el bolsillo: cómo funcionan las billeteras \"blindadas\" que bloquean la lectura de tarjetas",
+      "url": "https://www.clarin.com/tecnologia/escudo-bolsillo-funcionan-billeteras-blindadas-bloquean-lectura-tarjetas_0_0f5bzB2bFM.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 31 Oct 2026 09:01:25 +0000",
+      "summary": "<ul><li>Hay modelos rígidos, formatos tradicionales y fundas individuales. </li><li>Qué mirar antes de comprar y para quiénes pueden resultar útiles. </li><li>Los cuidados que siguen siendo necesarios al pagar.</li></ul>"
+    },
+    {
+      "title": "Intel se desploma hasta 30%: qué le pasa al gigante de los chips que marcó la era de las PC en los 90",
+      "url": "https://www.clarin.com/tecnologia/intel-desploma-30-pasa-gigante-chips-marco-pc-90_0_YqMzPWY4ER.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 17:14:17 +0000",
+      "summary": "<ul><li>La caída de las PC y los problemas de abastecimiento golpean a la compañía.</li><li>El auge de la IA impulsa los servidores y encarece componentes de las notebooks.</li><li>El costo de fabricar chips y la Ley de Moore ayudan a entender el cambio en la industria del histórico \"Intel Inside\".<"
+    },
+    {
+      "title": "La falla global de PHP que amenaza a gran parte de la web: cómo reaccionó Argentina y cuál es el estado de los sitios oficiales",
+      "url": "https://www.clarin.com/tecnologia/falla-global-php-reacciono-estado-argentino-sabe-sitios-web_0_Yd9xp8gB05.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 15:20:31 +0000",
+      "summary": "<ul><li>PHP es un lenguaje que usan muchas páginas web: dos fallas críticas pueden permitir que atacantes tomen el control de los servidores.</li><li>Según el excoordinador del CERT, argentina.gob.ar, Salud y Economía aplicaron las medidas recomendadas para reducir el riesgo.</li><li>Las versiones a"
+    },
+    {
+      "title": "Una laptop hackeada, US$ 6.300 millones esfumados en veinte minutos y la sombra norcoreana: qué se sabe del ataque a Binance",
+      "url": "https://www.clarin.com/tecnologia/laptop-hackeada-us-6300-millones-esfumados-horas-sombra-norcoreana-sabe-ataque-binance_0_p1PBdsnKir.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 12:50:03 +0000",
+      "summary": "<ul><li>La intrusión comenzó tras comprometerse la computadora de un ingeniero de desarrollo de sistemas.</li><li>La empresa prometió que devolverá los fondos a todos los usuarios y restituirá el servicio en las próximas 45 horas. </li></ul>"
+    },
+    {
+      "title": "Cómo son las nuevas computadoras de escritorio que usan inteligencia artificial sin conectarse a Internet",
+      "url": "https://www.clarin.com/tecnologia/nuevas-computadoras-escritorio-usan-inteligencia-artificial-conectarse-internet_0_dtmTeOn33W.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 30 Oct 2026 08:45:05 +0000",
+      "summary": "<ul><li>Permiten procesar textos, fotos y videos sin estar online.</li><li>La elección depende del uso, desde el desarrollo de agentes hasta la asistencia para escribir, programar o procesar información.</li><li>Hay opciones con Windows, Linux y macOS, distintas capacidades de memoria y ecosistemas "
+    },
+    {
+      "title": "Según un estudio privado, la inteligencia artificial podría aportar USD 17.700 millones a la economía argentina hacia 2030 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZE5zODdsMzR0WTJaTU1oRGZ4RTNZYVNvQnM2ZEI3S1RRTWhvOVA1NDFqc1A5ZWZZMnFlWnBZV19VQjNuRzRjaVNMdWJhR29wNmFOTEtpWW52bWZ0QmRTbUtxc2tOcVVSNXBwZzRLM0NTYUozVExjS2c2S2xmLUhTSHp5Sl9LQTJEZGxPNnFndmNsVHZ3Q2Y1aFdaUEpEZlVuWG1rZnB6eDE2QTdhQzlEMi1lbzhEenpDaWJWeW82Z1NlUFhqSXE0LXJnci1rOXhmVUpVRzVrVGFjUjhxcXoyOUhXRWFtUmZITDBxXzlkWjFJVGZOUU56QtIBkwJBVV95cUxNazBCXzhfZy1TZkVzS0xNZjEwbTg1UENvZ0NBZmc2blpXNnVFclVkRE9fRXY2VkNvSzl2Z2U0UU5sRkFiREFlRUwtNmFmVDdGZ1BvWE02N1lXQnVmaHRBZ2VMQW9MVlVMb1Fxdi1QeXFHamEzWkZhekR6QjhMb3E5RWNTN29OazdjdTc0MEJJRVRVbUNGRTAtTXNuOG5mZm9XeGd1aHpqV243Tkk1b090RHRFd2lhMW8yaXc3b3d1cmp5WDl2V0NtWmVSR01kS2RBY1pTQWV5UElVTl80VkFZVTlMQk0wN0RVNmhNN3B6UEcyb2g0LWd0QTRrd1NOWlY4RzY3cHZGMFRGLS1ieEhETlZMQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Oct 2026 06:17:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZE5zODdsMzR0WTJaTU1oRGZ4RTNZYVNvQnM2ZEI3S1RRTWhvOVA1NDFqc1A5ZWZZMnFlWnBZV19VQjNuRzRjaVNMdWJhR29wNmFOTEtpWW52bWZ0QmRTbUtxc2tOcVVSNXBwZzRLM0NTYUozVExjS2c2S2xmLUhTSHp5Sl9LQTJEZGxPNnFndmNsVHZ3Q2Y1aFdaUEpEZlVuWG1rZnB6eDE2QTdhQzlEMi1lbzhEenpDaW"
+    },
+    {
+      "title": "UM Argentina impulsa Stand Against Bland con capacitación, OMNI e inteligencia artificial - produ",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGFQdEZneEZ1TG80VnI1MW1kLUhRM1VSRlhFMGVVUzlIVG5GS2luWGlob3FVTWFTQS1najAwSFlMMWdoNzZ4NjFKeXlyWFU5dUdSRElVR3VFUjBEd2pNTjVnSDBmU3IwaVFlWGZ4d2lhcGpoWkZubW5UOUd4cS13VGxSRUxWRWs0ZFdpZFkwU0h1dVFWMTNZSUFrbHUwOVc0SVJxZl9YZ3MtWnkyODEwZ2NxWUQtNFR3bzRra3A0MmVYaE5CY2x4aQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 26 Oct 2026 18:57:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaGFQdEZneEZ1TG80VnI1MW1kLUhRM1VSRlhFMGVVUzlIVG5GS2luWGlob3FVTWFTQS1najAwSFlMMWdoNzZ4NjFKeXlyWFU5dUdSRElVR3VFUjBEd2pNTjVnSDBmU3IwaVFlWGZ4d2lhcGpoWkZubW5UOUd4cS13VGxSRUxWRWs0ZFdpZFkwU0h1dVFWMTNZSUFrbHUwOVc0SVJxZl9YZ3MtWnkyODEwZ2NxWUQtNFR3bz"
+    },
+    {
+      "title": "El impacto económico de la IA en Argentina será de hasta 17,714 mdd en 2030 - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8teWNHaXJiY21hRWJpRWUzT2RsY1Q1OXh1UGZrcWFJVnpJQ1ROdXNLeUtkaHY0LTdKaG5qOXZ6U1ctZEpmcF9aLUF1SHBQUDZic2FldVVMLUlGaU8ySWF3QmxBbWF5ZkhlSVRtNF9ZVlowaXBycUlYWmpCMEc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 00:37:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE8teWNHaXJiY21hRWJpRWUzT2RsY1Q1OXh1UGZrcWFJVnpJQ1ROdXNLeUtkaHY0LTdKaG5qOXZ6U1ctZEpmcF9aLUF1SHBQUDZic2FldVVMLUlGaU8ySWF3QmxBbWF5ZkhlSVRtNF9ZVlowaXBycUlYWmpCMEc?oc=5\" target=\"_blank\">El impacto económico de la IA en Argentina será de hasta 17,"
+    },
+    {
+      "title": "El WAIFF en Buenos Aires: un actor y un ex directivo de Apple explicaron qué cambia la inteligencia artificial en el cine - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN2lYVUVhSEwwWDNwMUdfdzJ0VWIzT2tEY0dqVmM2a0lfcFdlVmduZEdYWk1aclBPTTRvbE1TVE5yS2pZdVR4VC1MRE9pNXBIbWp6a0prWWFtbV9vcHdYTS0xTEtsSVZ2R1JpQ2VlMUsta29rd3AxT2hlRzd5UlRjVENzcXJjMS1nUmF0MmdjaDhmeDN6U0tJRGRnNldEbXhhalkxWFFvdDVzd2Y3T2REdmtaVXJVaG1mekd5TWFObEY0NXJlMllBVUtLWHBtYUdQNDZxS3VjUmttNm9BRC1oYXJrY1NIcWlOQ1EzM3NPSkt3UW5POExxR9IBkwJBVV95cUxQai02eGtza2ZQU3ItTWhSN0JRRV9xRlg3am9WeVg0RFBra0RRZnpFdW95U3dTOWdYNWdGVi1qYmpNMzdkTUkzMHNOaXJQQkJ4NzVCOEJ4S0c3YldxdTFoZnl6anVHUU9BS2xqNUtrSWNlYVZNbEdqNDN0VUppOU1UTnNGc2RJbzVmOFN0WUNqcDZXaEFVX1QyVGlnX3dKM3E4X1o1d21CWEMxSFZOVDBBRy15TFIwcnNrVGJhbFFlSFhBMmNoemNIdUlsSDlXZnJQM01yRXNfRkh4NFo4Z0tqaGhYVUNBYWlwa0dHYnJKY1BZM0dWam4xeHBjZUxrZmI2LW1rMEpnNGhaanZXUF8xbDdaWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 21:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN2lYVUVhSEwwWDNwMUdfdzJ0VWIzT2tEY0dqVmM2a0lfcFdlVmduZEdYWk1aclBPTTRvbE1TVE5yS2pZdVR4VC1MRE9pNXBIbWp6a0prWWFtbV9vcHdYTS0xTEtsSVZ2R1JpQ2VlMUsta29rd3AxT2hlRzd5UlRjVENzcXJjMS1nUmF0MmdjaDhmeDN6U0tJRGRnNldEbXhhalkxWFFvdDVzd2Y3T2REdmtaVXJVaG1mek"
+    },
+    {
+      "title": "GUT Buenos Aires lleva la frustración tecnológica al apocalipsis con IA para Mercado Libre e Intel - produ",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtuQzctVHNGejNaWXdYUS0yUjd5NzdMTkJBMGc3YzA2cTNnazlSTEVqWHJiUTlMV2IyVWxmckhlaHotZlVuOVFudmo0TVVzakUzTEsxblNjeHMtd0FWekpCYS1wWmZac0U5LWZGcWNkT0llVkVWYl9NU01vY2Zwa3RQYmstWDRhcVlueUhHNTlRd201a0pyb0N6Szhzc1RxWDFyc1d5dW1PN2NDQXh1VDdpdVJ5MW9mY3JyYlVINU92QjFSLVg2ZWhsdEV6LXNaUkxPNnhR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 28 Oct 2026 04:06:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtuQzctVHNGejNaWXdYUS0yUjd5NzdMTkJBMGc3YzA2cTNnazlSTEVqWHJiUTlMV2IyVWxmckhlaHotZlVuOVFudmo0TVVzakUzTEsxblNjeHMtd0FWekpCYS1wWmZac0U5LWZGcWNkT0llVkVWYl9NU01vY2Zwa3RQYmstWDRhcVlueUhHNTlRd201a0pyb0N6Szhzc1RxWDFyc1d5dW1PN2NDQXh1VDdpdVJ5MW9mY3"
+    },
+    {
+      "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Oct 2026 19:09:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
+    },
+    {
+      "title": "Startups argentinas: Pomelo y la obligacion de nacer global - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXdkZzJHWGQ0ZFJQZTVqc09IZVJpMXpqbGpFbDhTeDZKbi0zWXJZbDM4S1B5cENmQ2s3MS1ObkZTaTFyOEtBRGIxaERoRVVLNGI0SUNPcF9ITXhnbnNKMDA4TXZORk44U0RoMkxyanNXbGU1Z1VGV2I1bVNmR0dHcV9yU3V6RF9JYTR1a3dLYkV6RXc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 18:36:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXdkZzJHWGQ0ZFJQZTVqc09IZVJpMXpqbGpFbDhTeDZKbi0zWXJZbDM4S1B5cENmQ2s3MS1ObkZTaTFyOEtBRGIxaERoRVVLNGI0SUNPcF9ITXhnbnNKMDA4TXZORk44U0RoMkxyanNXbGU1Z1VGV2I1bVNmR0dHcV9yU3V6RF9JYTR1a3dLYkV6RXc?oc=5\" target=\"_blank\">Startups argentinas: Pomelo "
+    },
+    {
+      "title": "Una startup argentina ganó el premio de innovación de la Fundación Banco Nación y Endeavor Argentina - Los Andes",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbEpldjRMeEkxNkhzc1FRSURRd0RFYTl0NVN0WmItMGpRUHpSTTZtZFctVmJYMGROekhSYVdZSGdQc25sYXpobUVoVE5QR1RpcEI5ZldpQ1lRQkMwZGFpdWgzXzZCbVhOaVVuSVd4MTFJR1hRaWpBVlZiaXhSZzhkcHluUXFoRVhqY243UjFGLTNMWHdxbmNRV0FMcnFBN20tNF82ZUljcU9TWkpLR0xia2syTkhnUGt4aEhVM0kyeFFVNUxFMVVWYzBjblA4VF9Wc2MtU0QtS1lsNDhNaUk2X3ROdXFxZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 13:02:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbEpldjRMeEkxNkhzc1FRSURRd0RFYTl0NVN0WmItMGpRUHpSTTZtZFctVmJYMGROekhSYVdZSGdQc25sYXpobUVoVE5QR1RpcEI5ZldpQ1lRQkMwZGFpdWgzXzZCbVhOaVVuSVd4MTFJR1hRaWpBVlZiaXhSZzhkcHluUXFoRVhqY243UjFGLTNMWHdxbmNRV0FMcnFBN20tNF82ZUljcU9TWkpLR0xia2syTkhnUGt4aE"
+    },
+    {
+      "title": "N5 ganó el Premio a la Innovación con Impacto 2026 entre 550 startups argentinas - 0221",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRzVlLUNRSzhnWklzcHFwSXcyc0lpc1VlVnpiU3cyM25aakZBeTdsdVZKNU9BVDZoZE5SVmRzYV9CdHFEbXJ5cE5ka1VXRW1sUEtuajZPd3ktQjQ4ekRqQWVPVWNnRGx1T2NOUnVTU1p1eDJwT1RWVWJlQmJRbVBkNlN1cGRuTE9IeHc5T0x1R09zbEJ0aWttUUVjbjQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 13:09:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORHZiR0NDVDU4SjY4RWE2ZTBrY0xXMXhVSjJ2akROY0dwNWRxTnYwR3JiVDlLU1BhLWJsS2tqNWkzMDAtOHRlUE9VNkVIVGF6bmFoSVBFaVRQMmlMN3NaMUI2bExvVW9YeV95LVBNWW10S0pFS3Y2TnRick1idHNDcThIQm15cGNoWkZDZzlqZ3pZOG93VkR3N0ZUNTdObHgwdkHSAacBQVVfeXFMUEkxenFDQlRsYmhhRz"
+    }
+  ],
+  "count": 14
+}
