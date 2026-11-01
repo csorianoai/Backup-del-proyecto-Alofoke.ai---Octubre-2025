@@ -3,12 +3,28 @@
   "country": "es",
   "articles": [
     {
+      "title": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+      "url": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 01 Nov 2026 18:19:28 GMT",
+      "summary": "El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer. “Un mundo sin reglas sería un desastre”, alerta"
+    },
+    {
       "title": "¿Qué causó el accidente?  La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
       "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
       "source": "El País Tecnología",
       "category": "tech",
       "published": "Sun, 01 Nov 2026 04:30:01 GMT",
       "summary": "La información disponible apunta a algo más que errores humanos: nada evitó que resultaran fatales"
+    },
+    {
+      "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
+      "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sun, 01 Nov 2026 04:30:01 GMT",
+      "summary": "Los datos ya conocidos sobre el último siniestro mortal  aluden a un déficit en la cultura de seguridad, que empieza a cambiar: Renfe adopta las primeras modificaciones y Puente anuncia nuevas medidas"
     },
     {
       "title": "La jueza pide acelerar las labores de búsqueda, más operarios y que se trabaje de noche",
@@ -27,22 +43,6 @@
       "summary": "El goteo de identificación de fallecidos y desaparecidos en el accidente de Urda desvela las historias detrás de las 69 víctimas y el dolor de sus familias"
     },
     {
-      "title": "El maquinista de Angrois al operador de Atocha: “Que se aísle de la tele y la prensa: le pueden hacer mucho daño”",
-      "url": "https://elpais.com/espana/2026-11-01/el-maquinista-de-angrois-al-operador-de-atocha-que-se-aisle-de-la-tele-y-la-prensa-le-pueden-hacer-mucho-dano.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 01 Nov 2026 04:30:01 GMT",
-      "summary": "“Se puede aprender o culpar. Y en este país se elige culpar. Si eliges culpar, repites el accidente”, dice el portavoz de los afectados del siniestro de Santiago"
-    },
-    {
-      "title": "Lecciones alemanas del peor accidente de la alta velocidad de la historia",
-      "url": "https://elpais.com/internacional/2026-11-01/lecciones-alemanas-del-peor-accidente-de-la-alta-velocidad-de-la-historia.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sun, 01 Nov 2026 04:30:01 GMT",
-      "summary": "101 personas fallecieron en 1998 en el descarrilamiento de un tren, tragedia que supuso una revolución en los protocolos de seguridad ferroviaria de Alemania"
-    },
-    {
       "title": "Los países iberoamericanos tratarán de lanzar en Madrid la primera alianza sobre IA - Infobae",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0dpeTJqNmM3WmlESEV0VzFqREFZaHFWTHBWbHN0VXdUb0JKdGV1bHhIeU9NMV8xVDZBWloxeEVHMnNZdVdianpINlctUlQ1ZlYtTVBZSzVwckgtUFRyWDYxWV9SaEl2T2hIVXZDMGo0SUhzWnRFb29HNWZrbThyaEhEeUVXQmtteHphVm1GbkV5OHMyRWE3ZWR5dDk1dTFIZ1lJUzdTTDVHbTNYWTcwelRKYjdPOGFGeHBfcFd2dk14TUVfaDFzZTM4RkV6VTFO0gHrAUFVX3lxTE04Qkk2Z3lPMVZoWEFSMWhJUkFEV3lfdGJ3YU1yeDZvSXB2MnJTWFFTd0RfQWxSaHRON3RnclNhejhKSUI5Z2cwVjZJSk90ZV9ObllQUUphV2xxTWFuZldEV0k4VUVNekRPUTJsSS1GYmtVZVdQVm5WX0tpYVBpRmJYQlNmeEtnUjNDUGFQcE0wdmpYTEhXRjB1TTNQY2EyOTl5Mk0wajZWSXlYTkE4aTFDcHhUMFlqWUVpY2dDYVBmRXU5R3lDbThoZmdvUURVZ3Y5WlhrZWxVUF9EZHEybVp1RWxkTGJTT3oxdWM?oc=5",
       "source": "Google News",
@@ -59,12 +59,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdjNieGdxWm5rNWZoUUVEVTZ4SWc0NkVNSThZTzRSTEExbVFCUGNraGlmWjMwUFBrTTZWUEwtWWswS1RXZGtiQ0VBT2NTTlhEM01aYnNnZkZGc2NQMU16WWpYS1VCNVg0LU5uSWZHeUxNaVhORWNLZUlQNU5rWXhxU3Ntb1h5T0NJOTg5RE55QQ?oc=5\" target=\"_blank\">Jon Hernández: la IA no es opcion"
     },
     {
-      "title": "Jon Hernández: reflexiones del mejor divulgador de la IA - Revista Emprendedores",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnVjTjdqTWxKLVRmUUx0aER4THV6YW4tVjAyZGZuTnZYSi1hQ29Jak9nRFk2M1FyS216bkhKcjNYeW83M3hfT2xxYVF5b3hRYUZZRFBMbTBxTWNxRzJzaTFqeFUwemxSTVc3M2drR2JXc3Q4RnRWTHdkTERNOFhmWE0tbGg?oc=5",
+      "title": "¿Dónde estudiar un Máster en Inteligencia Artificial y Derecho en España? - Mastermania",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVFLSVlXU3laSW93WW1jcG9UTFVBNTdZVW5Fd3hLeTdtbDNMeTM0d2VnTVZOMU8xaXV5QWx0cTFZX2RHUWFFWnNsNWpPUXZaaXFvOXkyNUVtQnc2SW5qQTFtbkxFOHdHN2NVc21wNUZxQ0N1ZWFKYk9kbHdKa0xZcDZpMlFpVDdzYzEtdUhOc3dvOHpEQTloR05MOERTcUltWWxpWkUtNlNkOUJhNVlGOVpValN4Y3M3V2F2UVRad24yN3dPZ1ZRWjFB0gHKAUFVX3lxTE1vMEkyc05kcXoyZEJlT3RYWUhuZnR5ZzBORkRubTZqa3RBNTJWUXZzMm9lT0JJME1ocmgyNmRLQ0FyWHhYcTFtUURKZm0xZ3E3MC1QZTZSS1lQczhrUE9DN25Wd3ZGUG9hX0RrNzRpMUVGNEQ5SFRuZWZ6eDhDM0xBeWlGWmlKRndJczEybUFFZzRmTkI3RklxY3JsMDM0VTdSdExTNDZYX2REQW9mWUVEZXJYODlfVzQyVGFUSDhMRDJIbHpvWS12ZEE?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 01 Nov 2026 05:25:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnVjTjdqTWxKLVRmUUx0aER4THV6YW4tVjAyZGZuTnZYSi1hQ29Jak9nRFk2M1FyS216bkhKcjNYeW83M3hfT2xxYVF5b3hRYUZZRFBMbTBxTWNxRzJzaTFqeFUwemxSTVc3M2drR2JXc3Q4RnRWTHdkTERNOFhmWE0tbGg?oc=5\" target=\"_blank\">Jon Hernández: reflexiones del mejor divulgador "
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNLVFLSVlXU3laSW93WW1jcG9UTFVBNTdZVW5Fd3hLeTdtbDNMeTM0d2VnTVZOMU8xaXV5QWx0cTFZX2RHUWFFWnNsNWpPUXZaaXFvOXkyNUVtQnc2SW5qQTFtbkxFOHdHN2NVc21wNUZxQ0N1ZWFKYk9kbHdKa0xZcDZpMlFpVDdzYzEtdUhOc3dvOHpEQTloR05MOERTcUltWWxpWkUtNlNkOUJhNVlGOVpValN4Y3M3V2"
     },
     {
       "title": "Barcelona vs. Real Madrid: IA pronostica marcador exacto y ganador del clásico en España - Revista Semana",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa0"
     },
     {
-      "title": "Lista Emprendedores: las 50 startups españolas más innovadoras de 2025 - Revista Emprendedores",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSNkgzYVhXZ1FBeURRQ040aWhjeE9tenhMbzl6Y25LeXlDbEU2My1qdFlUUVFsd1I2QTNPbm5LTzFVRGNVS0VPblA3Y1I5RU5uYXpkVlJ5Ml9UWXQ3OW1TX3lPX2lGSW9KUjBzWUJxaGRaNmllZ0VUaTFhN2ZoRUdPMVExTUtETmpKakFNb1Z0ODF6VGdWbGxwT2Y?oc=5",
+      "title": "Top 10 Defensa 5.0: las startups españolas que están redefiniendo la seguridad y la autonomía tecnológica - El Referente",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0tvRmJ4SUJXSTdPYVFGa2pyMW5iZmRuR2lVRlEwckFYd0FPQ3N1alpUdkZCOUFQREtVRU1ad2NkZTd3NWF4RHhHVnFPZF9FVzdHVUo0eW15VzdhUk5YZFRGQ3NRRk52d0VWWVJwUGhZblJjblNEVVJzZ29wTi1oQjAxVmpuVGFOeU5Qb0VLUmV3Sy1iYkR1Q3B4UXZKOG1lUmNaWFFjeWtiNnNLZ3Q1c3U4Mmk4SzFFRTFHeEpuOUZWUWVUZkVmRlBGQUFrLW1Vd2I4?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSNkgzYVhXZ1FBeURRQ040aWhjeE9tenhMbzl6Y25LeXlDbEU2My1qdFlUUVFsd1I2QTNPbm5LTzFVRGNVS0VPblA3Y1I5RU5uYXpkVlJ5Ml9UWXQ3OW1TX3lPX2lGSW9KUjBzWUJxaGRaNmllZ0VUaTFhN2ZoRUdPMVExTUtETmpKakFNb1Z0ODF6VGdWbGxwT2Y?oc=5\" target=\"_blank\">Lista Emprendedo"
+      "published": "Mon, 11 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0tvRmJ4SUJXSTdPYVFGa2pyMW5iZmRuR2lVRlEwckFYd0FPQ3N1alpUdkZCOUFQREtVRU1ad2NkZTd3NWF4RHhHVnFPZF9FVzdHVUo0eW15VzdhUk5YZFRGQ3NRRk52d0VWWVJwUGhZblJjblNEVVJzZ29wTi1oQjAxVmpuVGFOeU5Qb0VLUmV3Sy1iYkR1Q3B4UXZKOG1lUmNaWFFjeWtiNnNLZ3Q1c3U4Mmk4SzFFRT"
     }
   ],
   "count": 14
