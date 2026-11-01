@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Binance anunció que comenzó a habilitar los retiros de dinero tras sufrir el mayor hackeo cripto de la historia",
+      "url": "https://www.clarin.com/tecnologia/binance-anuncio-comenzo-habilitar-retiros-dinero-sufrir-mayor-hackeo-cripto-historia_0_vPoooX2rmN.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sun, 01 Nov 2026 14:54:48 +0000",
+      "summary": "<ul><li>La principal empresa de intercambio de criptomonedas informó que este domingo comenzó la primera etapa de retiros.</li><li>El robo fue por una cifra cercana a los 6.300 millones de dólares y el FBI acusó a piratas informáticos de Corea del Norte.</li></ul>"
+    },
+    {
       "title": "Del Family a la Play: el rol crucial de la piratería en la historia de los videojuegos en Argentina",
       "url": "https://www.clarin.com/tecnologia/family-play-rol-crucial-pirateria-historia-videojuegos-argentina_0_y7duJYt2hQ.html",
       "source": "Clarín Tecnología",
@@ -35,12 +43,20 @@
       "summary": "<ul><li>Hay modelos rígidos, formatos tradicionales y fundas individuales. </li><li>Qué mirar antes de comprar y para quiénes pueden resultar útiles. </li><li>Los cuidados que siguen siendo necesarios al pagar.</li></ul>"
     },
     {
-      "title": "Intel se desploma hasta 30%: qué le pasa al gigante de los chips que marcó la era de las PC en los 90",
-      "url": "https://www.clarin.com/tecnologia/intel-desploma-30-pasa-gigante-chips-marco-pc-90_0_YqMzPWY4ER.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Oct 2026 17:14:17 +0000",
-      "summary": "<ul><li>La caída de las PC y los problemas de abastecimiento golpean a la compañía.</li><li>El auge de la IA impulsa los servidores y encarece componentes de las notebooks.</li><li>El costo de fabricar chips y la Ley de Moore ayudan a entender el cambio en la industria del histórico \"Intel Inside\".<"
+      "title": "Argentina lidera el uso de IA para aprender: 93% la usa - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeFFBQnE2WFJWaGxxOXYweVZxVE5JamN0d2czSGVZblhMZUQwLWZRVjNQY0ktU3dQcWV4R1lZRnhlTlBfMlRpd1hmZG5wMTczb0pXeDA5V0FvX2phZ1dMNHlaMFlMd2V4Z2xkWGFYWkdZb0dkYzByQVhHU2EzRENERmJ5MDYtbUNwWmpONA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 01 Nov 2026 16:25:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeFFBQnE2WFJWaGxxOXYweVZxVE5JamN0d2czSGVZblhMZUQwLWZRVjNQY0ktU3dQcWV4R1lZRnhlTlBfMlRpd1hmZG5wMTczb0pXeDA5V0FvX2phZ1dMNHlaMFlMd2V4Z2xkWGFYWkdZb0dkYzByQVhHU2EzRENERmJ5MDYtbUNwWmpONA?oc=5\" target=\"_blank\">Argentina lidera el uso de IA para ap"
+    },
+    {
+      "title": "Según Oxford, la Argentina lidera el boom del uso de la inteligencia artificial: expertos explican por qué y cuáles son los riesgos - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVXODJFUENVTVl2am16aFVac0lsUkFTb00tc3hwb29seGc5YnRKYXVhdzdPZENFbjFHd2syc3dYVkVxWXRpY0hyV1dOR0JHVUw4NDYzVVlKMWt1R3NTZWRubGFzazQxVzlhOUprMlk0TlF5YmtCUEVfRnYtUUN3cGZkZlZoUGlOR2NPaG9aSlpSaE9GTXRlTVhXbm1iTjJWbWhrY0RVM0llcTY2cVA0NlhTVWNXM1EzUkJpQ3pfQXhvdWcxTVNKWUlaVnBiMlM0dTJscFYzQUdTVm1TQkhWMTFkaDg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 01 Nov 2026 14:53:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVXODJFUENVTVl2am16aFVac0lsUkFTb00tc3hwb29seGc5YnRKYXVhdzdPZENFbjFHd2syc3dYVkVxWXRpY0hyV1dOR0JHVUw4NDYzVVlKMWt1R3NTZWRubGFzazQxVzlhOUprMlk0TlF5YmtCUEVfRnYtUUN3cGZkZlZoUGlOR2NPaG9aSlpSaE9GTXRlTVhXbm1iTjJWbWhrY0RVM0llcTY2cVA0NlhTVWNXM1EzUk"
     },
     {
       "title": "La inteligencia artificial gana terreno en las decisiones de compra en Argentina - FashionNetwork France",
@@ -51,28 +67,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUc3UlFyMDFWanA0bk9qWlJEOWdOamVsMTQ2MzkwVnBFaGdad0JNZkI3bXdaQjJRNF9EWlp2aTM1bGhMUE5lbWNvaldrdTMyaUZwYlVmNk5UWjRLU2pxODRRaEw2QlY2bUN1bXRNbzNWcHFTVVhlLVIxVWlZWFNHUHJVWDVxUGlaUDEtbU1MblZ0ZHIyUmtJbk1XNVYySHp0Yl91NHdsNVFFdXhUWGZoOExPRGRLY0tEVG"
     },
     {
-      "title": "Según Oxford, la Argentina lidera el boom del uso de la inteligencia artificial: expertos explican por qué y cuáles son los riesgos - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVXODJFUENVTVl2am16aFVac0lsUkFTb00tc3hwb29seGc5YnRKYXVhdzdPZENFbjFHd2syc3dYVkVxWXRpY0hyV1dOR0JHVUw4NDYzVVlKMWt1R3NTZWRubGFzazQxVzlhOUprMlk0TlF5YmtCUEVfRnYtUUN3cGZkZlZoUGlOR2NPaG9aSlpSaE9GTXRlTVhXbm1iTjJWbWhrY0RVM0llcTY2cVA0NlhTVWNXM1EzUkJpQ3pfQXhvdWcxTVNKWUlaVnBiMlM0dTJscFYzQUdTVm1TQkhWMTFkaDg?oc=5",
+      "title": "El hombre que le preguntó a Steve Jobs de dónde sale la innovación, trae a Buenos Aires el festival de cine con IA - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbzRTQVZzOXBtVi1fZERjMGY1WFhwc005Um1YR1h4eFRzQ1VtSFozb0lDdlQ3bGh6amVhWHFlTU1ZSFNDS2IxUThZQjhuRDZ3U1p5X2U3VXJ3THBTZHJEekQ0MGdnbTZhNF9haW81b3MxVUpSOVNpeEo1U1ZPbU9ia1QwbkFIMmlRVTN1UUg1RUl5QzNrbTNDNHZjNndqU3N1TGd6NWRCUk9qcU5CT3Fqa1F6MVk0VDk4YlJqc3VPdkdiZnpneUJBQ2tlLVdzalhOUXZ6LXh0TDV5ZDVKeHVPZ1pwTU1ZY3p4djg1azVxb9IBigJBVV95cUxPWjNkSUktdURFM1RPeEw0LXAxbUZqOWFXX1Z0QXpGWE5jajhZbVBZM0JOYXFPZ3VKNFI5MWl6VzFfanFPUGNuR25vOEFrTkJONkRuRnFuZFZrelRuLXdleEl3Tlg1RkNQMjBOX2dtbGVnYXk2Rjg4Z1RDdEctNjJYVW12Z0FKQko2ZnBBQ2E4QmxvNVZjMElWbHJIWU8yeHNDTmZ3aWNZVWFuWWJNWDJDWFV6WURXMk5MTGdrODd4MHhsM0JSOEplTlN3NFVVVTc0TXBxQndsMW9pVzVxREFFaThJQmYzLURMLWpDb2ZxM3NNV3lMWm1BTlYtSC1ZeEY3QVhWdlYtVVdLdw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 01 Nov 2026 13:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVXODJFUENVTVl2am16aFVac0lsUkFTb00tc3hwb29seGc5YnRKYXVhdzdPZENFbjFHd2syc3dYVkVxWXRpY0hyV1dOR0JHVUw4NDYzVVlKMWt1R3NTZWRubGFzazQxVzlhOUprMlk0TlF5YmtCUEVfRnYtUUN3cGZkZlZoUGlOR2NPaG9aSlpSaE9GTXRlTVhXbm1iTjJWbWhrY0RVM0llcTY2cVA0NlhTVWNXM1EzUk"
+      "published": "Fri, 30 Oct 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbzRTQVZzOXBtVi1fZERjMGY1WFhwc005Um1YR1h4eFRzQ1VtSFozb0lDdlQ3bGh6amVhWHFlTU1ZSFNDS2IxUThZQjhuRDZ3U1p5X2U3VXJ3THBTZHJEekQ0MGdnbTZhNF9haW81b3MxVUpSOVNpeEo1U1ZPbU9ia1QwbkFIMmlRVTN1UUg1RUl5QzNrbTNDNHZjNndqU3N1TGd6NWRCUk9qcU5CT3Fqa1F6MVk0VDk4Yl"
     },
     {
-      "title": "Según un estudio privado, la inteligencia artificial podría aportar USD 17.700 millones a la economía argentina hacia 2030 - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZE5zODdsMzR0WTJaTU1oRGZ4RTNZYVNvQnM2ZEI3S1RRTWhvOVA1NDFqc1A5ZWZZMnFlWnBZV19VQjNuRzRjaVNMdWJhR29wNmFOTEtpWW52bWZ0QmRTbUtxc2tOcVVSNXBwZzRLM0NTYUozVExjS2c2S2xmLUhTSHp5Sl9LQTJEZGxPNnFndmNsVHZ3Q2Y1aFdaUEpEZlVuWG1rZnB6eDE2QTdhQzlEMi1lbzhEenpDaWJWeW82Z1NlUFhqSXE0LXJnci1rOXhmVUpVRzVrVGFjUjhxcXoyOUhXRWFtUmZITDBxXzlkWjFJVGZOUU56QtIBkwJBVV95cUxNazBCXzhfZy1TZkVzS0xNZjEwbTg1UENvZ0NBZmc2blpXNnVFclVkRE9fRXY2VkNvSzl2Z2U0UU5sRkFiREFlRUwtNmFmVDdGZ1BvWE02N1lXQnVmaHRBZ2VMQW9MVlVMb1Fxdi1QeXFHamEzWkZhekR6QjhMb3E5RWNTN29OazdjdTc0MEJJRVRVbUNGRTAtTXNuOG5mZm9XeGd1aHpqV243Tkk1b090RHRFd2lhMW8yaXc3b3d1cmp5WDl2V0NtWmVSR01kS2RBY1pTQWV5UElVTl80VkFZVTlMQk0wN0RVNmhNN3B6UEcyb2g0LWd0QTRrd1NOWlY4RzY3cHZGMFRGLS1ieEhETlZMQQ?oc=5",
+      "title": "Vuelve Tecweek: 12 días de tecnología, innovación, inteligencia artificial y gaming con todo el potencial - Buenos Aires Ciudad",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE5iWFhuOThDTFU?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 29 Oct 2026 06:17:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZE5zODdsMzR0WTJaTU1oRGZ4RTNZYVNvQnM2ZEI3S1RRTWhvOVA1NDFqc1A5ZWZZMnFlWnBZV19VQjNuRzRjaVNMdWJhR29wNmFOTEtpWW52bWZ0QmRTbUtxc2tOcVVSNXBwZzRLM0NTYUozVExjS2c2S2xmLUhTSHp5Sl9LQTJEZGxPNnFndmNsVHZ3Q2Y1aFdaUEpEZlVuWG1rZnB6eDE2QTdhQzlEMi1lbzhEenpDaW"
-    },
-    {
-      "title": "GUT Buenos Aires lleva la frustración tecnológica al apocalipsis con IA para Mercado Libre e Intel - produ",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtuQzctVHNGejNaWXdYUS0yUjd5NzdMTkJBMGc3YzA2cTNnazlSTEVqWHJiUTlMV2IyVWxmckhlaHotZlVuOVFudmo0TVVzakUzTEsxblNjeHMtd0FWekpCYS1wWmZac0U5LWZGcWNkT0llVkVWYl9NU01vY2Zwa3RQYmstWDRhcVlueUhHNTlRd201a0pyb0N6Szhzc1RxWDFyc1d5dW1PN2NDQXh1VDdpdVJ5MW9mY3JyYlVINU92QjFSLVg2ZWhsdEV6LXNaUkxPNnhR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 28 Oct 2026 04:06:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmtuQzctVHNGejNaWXdYUS0yUjd5NzdMTkJBMGc3YzA2cTNnazlSTEVqWHJiUTlMV2IyVWxmckhlaHotZlVuOVFudmo0TVVzakUzTEsxblNjeHMtd0FWekpCYS1wWmZac0U5LWZGcWNkT0llVkVWYl9NU01vY2Zwa3RQYmstWDRhcVlueUhHNTlRd201a0pyb0N6Szhzc1RxWDFyc1d5dW1PN2NDQXh1VDdpdVJ5MW9mY3"
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE"
     },
     {
       "title": "World AI Film Festival en Buenos Aires: el programa completo del viernes 30, con entrada libre y gratuita - Infobae",
@@ -83,20 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ0cwcWIyc2ZPZXRmR0hvZDNBOTAwSGtGU25RNlVEU3ppa1FaRkJfd284anRYdFZlMzZwM3ljM2FnQWxxMVRaWnBYVEI0X1I0QjZYYzE4dGxzRFl0Nl9xTHVHcjd1NGRydWc2R3ZCTmxOeF9XcUdVeXVqMlZzVnpfWTdEU2VxVE1vNTlUTGtQeHVIYzV3OWdRMFk2cjVfcXNvSlY2dGJSaVNJX3hZQWQ0M2RUbGtfc0pVUm"
     },
     {
-      "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5",
+      "title": "N5, startup que moderniza bancos, gana premio en Argentina - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONGx2LWgzZG9kcjJGV0xvU0xHbk5qX3huNGZ6WFFFalZZZld1cTdMeHFDTUdoQURfeGlFTXR5emFYVElZeHAwM1Jva0Y0enJaRWRrSXZtaWl5a1JJVkNqc0FkMlUtYk15TGhaZXZidkZNTjh6bW5zMDAyYzhabHhOSnc0VTJhdlhlVFppdlhtTDM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 29 Oct 2026 19:09:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
-    },
-    {
-      "title": "N5, fintech argentina, gana el Premio Innovación 2026 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWtsaTAwWUdaOVRIeUhOdEJKM1ZJOEotRGtudWdQYmRldUVTLV92Nm1jdjQyUWlteVM4SUVrZkNHckpQUGJsaEhBU3NGVUxsZS16bWhsY0RSVVNhaE9yVWlZeWRjcGh6cU4tYlpEUFViT2dwMU1UUDBYWXFrdjBsWjVSTWtNalBLZWc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 31 Oct 2026 16:06:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWtsaTAwWUdaOVRIeUhOdEJKM1ZJOEotRGtudWdQYmRldUVTLV92Nm1jdjQyUWlteVM4SUVrZkNHckpQUGJsaEhBU3NGVUxsZS16bWhsY0RSVVNhaE9yVWlZeWRjcGh6cU4tYlpEUFViT2dwMU1UUDBYWXFrdjBsWjVSTWtNalBLZWc?oc=5\" target=\"_blank\">N5, fintech argentina, gana el Premio In"
+      "published": "Thu, 29 Oct 2026 22:03:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONGx2LWgzZG9kcjJGV0xvU0xHbk5qX3huNGZ6WFFFalZZZld1cTdMeHFDTUdoQURfeGlFTXR5emFYVElZeHAwM1Jva0Y0enJaRWRrSXZtaWl5a1JJVkNqc0FkMlUtYk15TGhaZXZidkZNTjh6bW5zMDAyYzhabHhOSnc0VTJhdlhlVFppdlhtTDM?oc=5\" target=\"_blank\">N5, startup que moderniza bancos"
     },
     {
       "title": "Bulltrack: la startup argentina que une tecnología y ganadería para potenciar el negocio de la carne - Nuevo Norte Digital",
