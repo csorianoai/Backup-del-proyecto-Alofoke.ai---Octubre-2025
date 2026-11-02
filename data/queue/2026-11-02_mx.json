@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "La IA pesa más que Trump en Wall Street: las elecciones de EU pasan a segundo plano",
+      "url": "https://expansion.mx/tecnologia/2026/11/02/ia-wall-street-elecciones-trump-estados-unidos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 18:02:33 GMT",
+      "summary": "Aunque los demócratas podrían recuperar el control del Congreso estadounidense, los inversionistas mantienen su atención en las ganancias de la inteligencia artificial."
+    },
+    {
+      "title": "Ni la comida está a salvo de los hackers: ciberataques afectan supermercados europeos",
+      "url": "https://expansion.mx/tecnologia/2026/11/02/ciberataques-europa-hackers-refrigeradores-supermercados",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 16:49:42 GMT",
+      "summary": "Un ataque informático elevó las temperaturas de los sistemas de refrigeración de supermercados en cinco países europeos. El incidente muestra cómo las amenazas digitales pueden afectar servicios esenciales."
+    },
+    {
+      "title": "La IA llena de calaveras la publicidad del Día de Muertos, pero las marcas arriesgan su autenticidad",
+      "url": "https://expansion.mx/tecnologia/2026/11/02/ia-publicidad-dia-de-muertos-marcas-autenticidad",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 14:00:57 GMT",
+      "summary": "El uso de IA en campañas de Día de Muertos facilita la creación de publicidad, pero la repetición de símbolos tradicionales y la preferencia por imágenes auténticas plantean riesgos para las marcas."
+    },
+    {
       "title": "TikTok presenta una guía para controlar el tiempo en pantalla y reconocer riesgos digitales",
       "url": "https://expansion.mx/tecnologia/2026/10/30/tiktok-guia-controlar-tiempo-en-pantalla",
       "source": "Expansión Tecnología",
@@ -17,103 +41,7 @@
       "category": "tech",
       "published": "Fri, 30 Oct 2026 21:00:09 GMT",
       "summary": "Las ventas de pan de muerto en Rappi crecieron 83% entre dos semanas de octubre, mientras que Halloween se convirtió en el día con más viajes del año para DiDi en 2025."
-    },
-    {
-      "title": "El hackeo a Binance por 6,300 mdd apunta a atacantes de Corea del Norte",
-      "url": "https://expansion.mx/tecnologia/2026/10/30/hackeo-a-binance-apunta-a-atacantes-de-corea-del-norte",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Oct 2026 20:22:21 GMT",
-      "summary": "El ataque contra la plataforma de criptomonedas presenta similitudes con las operaciones de TraderTraitor, un grupo vinculado con el gobierno norcoreano. Binance promete cubrir las pérdidas de sus usuarios."
-    },
-    {
-      "title": "Modo Menopausia: la nueva solución de Eight Sleep que promete reducir los bochornos nocturnos",
-      "url": "https://expansion.mx/tecnologia/2026/10/30/modo-menopausia-eight-sleep-reducir-bochornos-nocturnos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Oct 2026 18:15:45 GMT",
-      "summary": "De acuerdo con investigaciones de la empresa esta herramienta promete reducir este problema en un 56% en promedio."
-    },
-    {
-      "title": "Intel agota sus chips para laptops económicas y anticipa más presión sobre los precios",
-      "url": "https://expansion.mx/tecnologia/2026/10/30/intel-agota-chips-laptops-economicas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 30 Oct 2026 16:52:13 GMT",
-      "summary": "La escasez de procesadores Intel Wildcat Lake coincide con el encarecimiento de la memoria RAM y las dificultades de suministro que afectan a la industria de computadoras"
-    },
-    {
-      "title": "El 84% de los líderes de marketing en México enfrenta presión para demostrar el ROI de la IA - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkpSci1rMFlwY3NESFQ4cUVIb0N6WnFVMzJSNGU1TnZoMVdfdUhBTC14ejVfX21JTDRaSWRoWk9GUmZpWFhMa3MzVVhJZWs1bVF4eGlucGNfVS1YWWV0dk40M0pIMHdEdDdXOHVqQmRuQnUtMHM4dWI2YUkxRV9sS2x4OHZLVndJQkFHUHdOS3RwNTc4Nk1CM3ZzTmFVTUlIVjVTcHg3d09ISk5GUFhrLTAyOW5HR2xISm9IbGlhV19UV0MzR3N0QUllSWNsUC1WdVpINks4SXo5S3c?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 14:09:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkpSci1rMFlwY3NESFQ4cUVIb0N6WnFVMzJSNGU1TnZoMVdfdUhBTC14ejVfX21JTDRaSWRoWk9GUmZpWFhMa3MzVVhJZWs1bVF4eGlucGNfVS1YWWV0dk40M0pIMHdEdDdXOHVqQmRuQnUtMHM4dWI2YUkxRV9sS2x4OHZLVndJQkFHUHdOS3RwNTc4Nk1CM3ZzTmFVTUlIVjVTcHg3d09ISk5GUFhrLTAyOW5HR2xISm"
-    },
-    {
-      "title": "Tanabots: la inteligencia artificial diseñada para simular conversaciones con personas que murieron - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc2sxWThtQXR1ZFhEdmI1TFNVODJuM2VXTHEwc3NYVTdzdjlrMlBMNUlCV1VkZThHZDEyS2Y0Z0ZyUnh1cGZvcXZsemRLRmMwRnNObVE3Vm1SQTY4VWo0dnhmbFdwWUxCczJoc3BWd0R4Nk1xZkpqTDZNM0ROMC1YNmdFZTI2Q243cVB5QjR2U0kxaHpVZWFNeGxTMkZDa20wMDJMVFJiNk1vd3lDbXI5ZGl5ZG1uWGxJZ0RJNklYUTBEX0J4TTlEQVpRdmgwTDZrVEFnQ3A0a0XSAfMBQVVfeXFMTnFOZFNyUjVxUTgzeURsVVhpTFI2QVhrbnRreVNGbUt5cm5palg4Mi02ZVVCV3FtOFJiS0o2UUxUWldWZTdfcjlaeFhwSlFObE1RYl85c0pxTzd4ZG9DN0xfcUVMN0dySXNTV1lCTS1UYVlfb1E3cXpJd1JvOWtSTW5wc3FtUm1SRjJVUTBTa0hUeUE2TXFkMVV1RXhoRkduT3liU3hhRTZqUXBtZFVUeGlJOWdjWGFpYUxXSFREM0JDLXNHTm4tYldHSDhtWWs3N2ZSNXpUSWxac0lybkRsSXJhSWVUczVYZ0NpUFBObnc3bkZN?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 01 Nov 2026 19:04:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc2sxWThtQXR1ZFhEdmI1TFNVODJuM2VXTHEwc3NYVTdzdjlrMlBMNUlCV1VkZThHZDEyS2Y0Z0ZyUnh1cGZvcXZsemRLRmMwRnNObVE3Vm1SQTY4VWo0dnhmbFdwWUxCczJoc3BWd0R4Nk1xZkpqTDZNM0ROMC1YNmdFZTI2Q243cVB5QjR2U0kxaHpVZWFNeGxTMkZDa20wMDJMVFJiNk1vd3lDbXI5ZGl5ZG1uWGxJZ0"
-    },
-    {
-      "title": "ADERIAC: IA y datos, lo que piden las empresas - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV21VbWloMHl5eWV2eFp6b2RrT3NkVUZfWWgtMmhPa3FjMGFDMUZ1TDJsNDNwRHRqU0NDcmNGdlFBck5Fa0RuYm5GZUlWRmhPbzQwTnVFMUhWT3ZhSW9YejlsUXE3cmtrOUFpZWpaUE5OZHUwWFJuRk5CNjdDSXNmLQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 01 Nov 2026 02:03:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPV21VbWloMHl5eWV2eFp6b2RrT3NkVUZfWWgtMmhPa3FjMGFDMUZ1TDJsNDNwRHRqU0NDcmNGdlFBck5Fa0RuYm5GZUlWRmhPbzQwTnVFMUhWT3ZhSW9YejlsUXE3cmtrOUFpZWpaUE5OZHUwWFJuRk5CNjdDSXNmLQ?oc=5\" target=\"_blank\">ADERIAC: IA y datos, lo que piden las empresas</a>&nb"
-    },
-    {
-      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
-    },
-    {
-      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
-    },
-    {
-      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
-    },
-    {
-      "title": "CX Forum Monterrey reúne a líderes de experiencia y tecnología - MILENIO",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWnJleWZqRG9tSTY0WmFrWXNCTkhiM3FfbjhreXZIVDZaT1RmZy1SNkRrbE9NN2lPbTNrZ05sbTJ2VTBCTUdwQ0YyYVhvWHpVNHRZOFhjTlRMcDFiV1VCaTJta3N4RndkWU51VXQ2cjZVa3A3R2U0ZTcwRjA5QjU0XzNkc2htcjRJNnR5LVdNTHlseXU?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUy0zS1ltaDBuUkdLTXVjdWVvMDFhOXl5MHpEU3Mxc2IwSGlnMGVWdVJ6WHYwMWVGTGpYZEtVX0h0VnF4U0hkN0JWRVl4cHdHbzY4N1U1T0RFZGpORUhHY2EyeXZkX0prcWhrU3kyMXFhNldtb3RudXJqWC1oOGtGTnhxal9tbjU3MUZMaUVMUFhuOXZFY2Z4elJFQmZ2amNz0gGgAUFVX3lxTE5iTURBck41VEtpMUJwWn"
-    },
-    {
-      "title": "EXATEC impulsa proyectos de IA para resolver retos globales - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWWc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWW"
-    },
-    {
-      "title": "Fundidores aceleran adopción de IA y nuevas tecnologías para reducir energía y emisiones - La Jornada",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVWJ5cm0xVlczRGZKSnV5eWYyNzNPODd1QlVsWmJ6a1FiVUE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRUJoaFNfREJfUkdpRmowZ2pwVUoxNEhNZno2Q1lpVGdSOHVaMU5ZMFI4VFZCUFV3REFCQTQzRkxZTFJCRXBHUmZKZGtiTGVTc180T0stS2hWOEtmRkdaMUJkS3dqMVRCSnhLU3pVM3Y2WmFCTUNzTnVIU1h0OWNWNjB5ajF5M01Cd3M0d25qZGxCTmE3a0ZDVnlMMUdZSkF4VWJLUHVsTFlVTFcwWnlKS28tQlJucEdVVW"
     }
   ],
-  "count": 14
+  "count": 5
 }

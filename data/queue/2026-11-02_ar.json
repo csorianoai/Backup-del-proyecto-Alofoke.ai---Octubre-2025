@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Binance, PHP y más heladeras hackeadas: por qué hay tantos ciberataques y cuánto influye la IA",
+      "url": "https://www.clarin.com/tecnologia/binance-php-heladeras-hackeadas-ciberataques-influye-ia_0_wGmmuVJ9s9.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 17:44:48 +0000",
+      "summary": "<ul><li>El robo de US$ 6.300 millones en Binance fue el más grande en el mundo cripto, pero se suman otros ataques.</li><li>El impacto alcanza a tecnologías del día a día, como el sabotaje a heladeras de supermercados franceses.</li><li>Tres especialistas explican qué cambia con la inteligencia arti"
+    },
+    {
+      "title": "Nubia lanzó dos celulares gaming a precios competitivos, con refrigeración activa y baterías de gran capacidad",
+      "url": "https://www.clarin.com/tecnologia/nubia-lanzo-celulares-gaming-precios-competitivos-refrigeracion-activa-baterias-gran-capacidad_0_UpD8E2ene5.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 17:36:19 +0000",
+      "summary": "<ul><li>Los Neo 5 GT 5G y Neo 5 Max 5G llegan a la Argentina con propuestas diferentes.</li><li>Uno incorpora un ventilador para controlar la temperatura durante las partidas y el otro apuesta por una batería de 7.100 mAh.</li></ul>"
+    },
+    {
       "title": "Robotaxis: Google relega a Elon Musk y toma la delantera en la pelea por la tecnología de los autos sin conductor",
       "url": "https://www.clarin.com/tecnologia/robotaxis-google-relega-elon-musk-toma-delantera-pelea-tecnologia-autos-conductor_0_iqxTHf0rH0.html",
       "source": "Clarín Tecnología",
@@ -25,95 +41,7 @@
       "category": "tech",
       "published": "Sun, 01 Nov 2026 14:54:48 +0000",
       "summary": "<ul><li>La principal empresa de intercambio de criptomonedas informó que este domingo comenzó la primera etapa de retiros.</li><li>El robo fue por una cifra cercana a los 6.300 millones de dólares y el FBI acusó a piratas informáticos de Corea del Norte.</li></ul>"
-    },
-    {
-      "title": "Del Family a la Play: el rol crucial de la piratería en la historia de los videojuegos en Argentina",
-      "url": "https://www.clarin.com/tecnologia/family-play-rol-crucial-pirateria-historia-videojuegos-argentina_0_y7duJYt2hQ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 01 Nov 2026 09:01:40 +0000",
-      "summary": "<ul><li>Una investigación de Modo Historia Podcast reconstruye la historia del desarrollo, consumo y distribución de videojuegos en Argentina.</li><li>Más de 50 entrevistas, juegos recuperados y contratos permiten revisar ese pasado.</li><li>Cómo funcionaban los negocios de juegos truchos y los clás"
-    },
-    {
-      "title": "El FBI acusó de manera directa a Corea del Norte por el hackeo de Binance y robar más de US$ 6.300 millones en criptomonedas",
-      "url": "https://www.clarin.com/tecnologia/fbi-acuso-manera-directa-corea-norte-hackeo-binance-robar-us-6300-millones-criptomonedas_0_mrdhxR5zDd.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Sun, 01 Nov 2026 03:19:37 +0000",
-      "summary": "<ul><li>La agencia federal de EE.UU. identificó a la unidad estatal TraderTraitor como responsable de la intrusión. Además, publicaron una lista con más de 500 direcciones donde podrían blanquear lo robado.</li><li>Desde la plataforma habían anunciado que lograron cubrir el 90% de lo robado.</li></u"
-    },
-    {
-      "title": "Durante su gira por Argentina, León XIV desplegará su perspectiva sobre la Inteligencia Artificial, que contrasta con la posición de Milei - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQXzI3bHdmUFFyWGFMMmw2aUpjOXBreldWX19GOU1QWVI2TjliTG5jOENJaGVZS0cwQUl0b0FaVWt4T0VwWEwyZjdsNDVWS3V0SjFIRVBZa1dfUVFsX0htQ3IwSm9ZSmZpaUJFaUdGem9ZTlN6TVB3X2pQVi1ZS1YyZGY5SU1qRk01NGdJb3lWWlB0ZUhFU1hMek80clY3OFZWVFJIRHZtX3FYR21jV240MjVKelFDY1RwYWswckhBaVM5YlBNTDRqcEhCUTNjakoxY3dRTzZVeDFrMEJSc21sTzhEaXB1M1pBRzVHakRwLTc2MnNlYW1SVy1qdUZVaFFOZHYwcUlYdjFHaWRCQXfSAagCQVVfeXFMT0ZmZk1rN1BsVWlxajVFaWs2SUwyVU5IZWtuWUtPYjBvN2ktcHpDakhWZjZSVFE3LVlnMXhjYVFMOTZhWGdqc3BidnJWTFU5MTBvakQxelg5LVlYeDRiS1BtWUFLYnhFUXlPdjFVV1UxTzkxYVkyY3d6U1FKYm9pU2lGU2FDNkFCMG9uWFNKOE5rVDhETktoV1dUZkN0ZjluTjU5SmZPVWc1TnBGejdpQXlqWjBILWVNdS02UHIyNGRYeFJ2dzZYRXZmT2tyeGk3U3VtbUZsOEVJYTlUNzNtYzZrVF9vVmJYa1J6M3RjWFNwalU2TUNmdG51ZnZGUjdHSml6TEVva1FzaUpDbEdKa0NrbFFIX2ZhWGJTUm9XVUc3dmxQeUVIQlQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 06:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQXzI3bHdmUFFyWGFMMmw2aUpjOXBreldWX19GOU1QWVI2TjliTG5jOENJaGVZS0cwQUl0b0FaVWt4T0VwWEwyZjdsNDVWS3V0SjFIRVBZa1dfUVFsX0htQ3IwSm9ZSmZpaUJFaUdGem9ZTlN6TVB3X2pQVi1ZS1YyZGY5SU1qRk01NGdJb3lWWlB0ZUhFU1hMek80clY3OFZWVFJIRHZtX3FYR21jV240MjVKelFDY1RwYW"
-    },
-    {
-      "title": "Según Oxford, la Argentina lidera el boom del uso de la inteligencia artificial: expertos explican por qué y cuáles son los riesgos - La Nación",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVXODJFUENVTVl2am16aFVac0lsUkFTb00tc3hwb29seGc5YnRKYXVhdzdPZENFbjFHd2syc3dYVkVxWXRpY0hyV1dOR0JHVUw4NDYzVVlKMWt1R3NTZWRubGFzazQxVzlhOUprMlk0TlF5YmtCUEVfRnYtUUN3cGZkZlZoUGlOR2NPaG9aSlpSaE9GTXRlTVhXbm1iTjJWbWhrY0RVM0llcTY2cVA0NlhTVWNXM1EzUkJpQ3pfQXhvdWcxTVNKWUlaVnBiMlM0dTJscFYzQUdTVm1TQkhWMTFkaDg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 01 Nov 2026 14:53:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmVXODJFUENVTVl2am16aFVac0lsUkFTb00tc3hwb29seGc5YnRKYXVhdzdPZENFbjFHd2syc3dYVkVxWXRpY0hyV1dOR0JHVUw4NDYzVVlKMWt1R3NTZWRubGFzazQxVzlhOUprMlk0TlF5YmtCUEVfRnYtUUN3cGZkZlZoUGlOR2NPaG9aSlpSaE9GTXRlTVhXbm1iTjJWbWhrY0RVM0llcTY2cVA0NlhTVWNXM1EzUk"
-    },
-    {
-      "title": "Argentina lidera el uso de inteligencia artificial para aprender, pero cuesta aplicar lo aprendido - Todo Jujuy",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjE5eDlvVTliUmtibjdQWmVNRUIxZ3lsbm92ZWRaNTFpRUEzc0VUOXlsYUp4Ylp6NmtWY0ZTamdkcEJfMFdxeTBBaHNjc2p1SUdleHp1ajBndnlIaFdIcHgxYmc0Zjc0bGRCTGplNUt1U3lZeFN1aDBvUEFPOVZFZnJuYU9ELU02VkhyZlBCSjN6ZlNldEdWWm1GZk5sbUlfSUV6RWt5ckkwcVNJQjRGWDF0R0d5Uy1haFJWOFB1dTjSAcYBQVVfeXFMUDNCSkVlZWxCbW5UeUhLZFVlSC1TUm9FYTdXZ2dFMkJZWnhfTHBub1poUmJrbHdOWURxWlFJRmRBbmRMbjZkSXdfbGlaNTY4UUhhREZGdXZKMi15VW5ZQllRMVotam05OF83djVTM19NOU91ZlRVS21HMmM2a05kX3BpcHFZWURycHNlOXd3dUpITk4zNmpVaWdZZU90QlNYMDVkeVFhQWhpZDFvRkFlQ2MwNVFrWlpEdjNFbFlHYWk5TGhHY0F3?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 13:21:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjE5eDlvVTliUmtibjdQWmVNRUIxZ3lsbm92ZWRaNTFpRUEzc0VUOXlsYUp4Ylp6NmtWY0ZTamdkcEJfMFdxeTBBaHNjc2p1SUdleHp1ajBndnlIaFdIcHgxYmc0Zjc0bGRCTGplNUt1U3lZeFN1aDBvUEFPOVZFZnJuYU9ELU02VkhyZlBCSjN6ZlNldEdWWm1GZk5sbUlfSUV6RWt5ckkwcVNJQjRGWDF0R0d5Uy1haF"
-    },
-    {
-      "title": "Apuestas online, inteligencia artificial y acoso sexual: las cifras que exponen los riesgos digitales entre los adolescentes - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEhUd1NSZnRYb29BaGdzeTRENnhQMnpSTnBJckk0enJWOHZEM0JvN3JYNEppdTlaU0wxX3BGdmRTdzBZQlJmSkpqa3hMU00walVDQnlKUmxia1BpZkNmMXpTRVMtYW9qazlhUWVBV0tRUUJQQ0ExaGRSek42TnlVdEtfYnNOY1B5UG9FNjNBc2xVSHAweWRHNlRrTWJpYzFCUGgybzVKd2NMQVFJU3hlcmlhTzY1M1hLNTEzZnIxaUd1QVdoeWJuYUhLN1RwN0pjaVdKYURMZWhVMDRtT1RBWTU0NjhNajB1ZlNXdDM1eGRYQTc5NkFQWjZnc9IBlgJBVV95cUxPQzFGRWVOYjRBNTcxRllpblFXandXZ1lEUWhHN3ZNc2t4WnNneXNlbXVHLTlpcUlFT0FCZEhNTFBROE1kME1HQVZfR2NfbnhUVUVWc2VDdTFJSmc2Y3prTTlkXzhMWDRwYWM3UUVmQXJEcVBzakxmRzc5b1NxcnR5R2ltck5xZVZ0QThBeFFCcm93NUN2WUUwc2NmQnFhWUl5bklFWi1pSmRzbHVSNkJuM2tORXZtdUo4RlE1aktVZTJvY014ekxfMmVTaW9Nb3VlVWRWazRaOG9yOE8wU1ZITTVCOThrYXl5SXM1S3FEeFBvV1JBSmdzNzBWM1FFY1lpRks0MC1DOUZKeHhVdkFRVkxHNmRkdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 16:32:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEhUd1NSZnRYb29BaGdzeTRENnhQMnpSTnBJckk0enJWOHZEM0JvN3JYNEppdTlaU0wxX3BGdmRTdzBZQlJmSkpqa3hMU00walVDQnlKUmxia1BpZkNmMXpTRVMtYW9qazlhUWVBV0tRUUJQQ0ExaGRSek42TnlVdEtfYnNOY1B5UG9FNjNBc2xVSHAweWRHNlRrTWJpYzFCUGgybzVKd2NMQVFJU3hlcmlhTzY1M1hLNT"
-    },
-    {
-      "title": "¿En el futuro solo nos operarán robots? Expertos de todo el mundo analizan en Buenos Aires el futuro de la cirugía con IA - TN",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUk13U2QwME1la0dEc3N0NDY1RkdiM3ZoVi13RFRocHl2LTlfTVViOUZpaEtHZ1d6MkxJV0NQVThPYU5OdE8wd3pTSFdCQXU1c0p0bXh2X2lPS2I5elBnMUlHaUN5akxmdGdHVXR4WEtCcy1BT1RsTjgwT1hOTlhqRWtraENpeHNCQWRfMy12M0p1bEJodmluX2lTZ2RJSXhCV1RDUHlLMUtQOGJnRkw4d3BjMmxzZTRiR0lfWkVxZTZNWEZRNUs4YThOanFZQVdvUm00Q2s2TkFNSVRyNkU5b0RkdmtLSVAtV0tUWjdaM05hTjNFaWo40gGLAkFVX3lxTFBGR1Bwc0dhYUdRcTJfSlBBRExfMExMVVhDQ1RZTE9SdUROT0xoUTN0ZjQxLVBVRHRFWF9XUlhxdU9TUEd0U3dZOVZVWTJKRXlIaUtMX19laTZrN2xQVEdLY2dYNDg5UnhTWGd5dm8tUlRiR05YWWZQSl8yb2Y0NDE4TU44c2RZREdDTDU0dTFWZk0td3h4RmxmbVM0NVItMzJUN2c3VnNtMFUwaUZJUHkxMWx1Mnh3N0JpWGx4bng1TmVzMURtRWNEWjhKUkhyN2o2Nk9jbnNJMHhvUkw3d1RzejFUc2Q2NVlsaFBEOUxXcXE3TzJhM3A5cjVPQ0drRVdwNEpidzQ4cFpvTQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 10:45:03 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUk13U2QwME1la0dEc3N0NDY1RkdiM3ZoVi13RFRocHl2LTlfTVViOUZpaEtHZ1d6MkxJV0NQVThPYU5OdE8wd3pTSFdCQXU1c0p0bXh2X2lPS2I5elBnMUlHaUN5akxmdGdHVXR4WEtCcy1BT1RsTjgwT1hOTlhqRWtraENpeHNCQWRfMy12M0p1bEJodmluX2lTZ2RJSXhCV1RDUHlLMUtQOGJnRkw4d3BjMmxzZTRiR0"
-    },
-    {
-      "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 29 Oct 2026 19:09:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
-    },
-    {
-      "title": "CONICET y Parque de Innovación: acuerdo por startups - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnBfSnVSN2FmUVk5dEJuSHJ2RkpYWWMwUmRiTVNmNWtIQWEwaGQ1cndWX0FadS13S1BXekI3NDhVYTBpcVBjN3hBclVtNktnWTV5N3hmNEphSTVOeUNULWwzdXpJUklqdzFyZl95THNwYVB3ZkJsSVhZWjZhQXRLNUM3V3BtekdwMHc?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 17:07:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnBfSnVSN2FmUVk5dEJuSHJ2RkpYWWMwUmRiTVNmNWtIQWEwaGQ1cndWX0FadS13S1BXekI3NDhVYTBpcVBjN3hBclVtNktnWTV5N3hmNEphSTVOeUNULWwzdXpJUklqdzFyZl95THNwYVB3ZkJsSVhZWjZhQXRLNUM3V3BtekdwMHc?oc=5\" target=\"_blank\">CONICET y Parque de Innovación: acuerdo "
-    },
-    {
-      "title": "Endeavor Argentina seleccionó a 11 startups tecnológicas de cinco rubros para acelerar su expansión - Ambito",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDdnRENjVE54UHpka3h5OFd5YkJBTXdpWUZ4OV9KZmhlcFZCTl9veWlkS19fTlBLNDdqNmxCSC1VVnZ6WmV5QTJOc1JjdG0wME1QQXRTQ3Yya3FqSFBBRkk4NnBRdktzRGRPeXpBalA5ODJXQ01oQ0pIZ2d3OVR0bFBxZHZ3T184SENLbUNHMjFQSDdPNHVBZFRFc2NIQVZITWctTFhSM3FjUDJGOUsxVndsVzJ1Ym1DMm1FT3FQQ3p6YlBNVkdxcXln0gHPAUFVX3lxTE83Tk5pY3ZlN3hqcEZLQkcybUxHS19BWlZkNmYxN0p0TXk5VEc5aWg3RUxuUy00VTJiaFVJV21tYjNyamNZejdRXzJwUjY4YVNyVHpLTEwzM19iNkt3WlRIQzFmblhrRFRadGR6emIybW9EWW1uUXJBdjZURUJrWTBwS1NWZjFBV2w1LUJmTGV0bjMzVXBDc21jR2ZpTE5JNVlKeEJWcWFXSGpmWEplblA1d0FZMm1hR2hnMmRfS2hELXNyYjQ1N05CZUJwYk15bw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 17:37:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDdnRENjVE54UHpka3h5OFd5YkJBTXdpWUZ4OV9KZmhlcFZCTl9veWlkS19fTlBLNDdqNmxCSC1VVnZ6WmV5QTJOc1JjdG0wME1QQXRTQ3Yya3FqSFBBRkk4NnBRdktzRGRPeXpBalA5ODJXQ01oQ0pIZ2d3OVR0bFBxZHZ3T184SENLbUNHMjFQSDdPNHVBZFRFc2NIQVZITWctTFhSM3FjUDJGOUsxVndsVzJ1Ym1DMm"
-    },
-    {
-      "title": "Bulltrack: la startup argentina que une tecnología y ganadería para potenciar el negocio de la carne - Nuevo Norte Digital",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnFrdmVoNVBHelF1WmhfdUZDNnpVZW1XempHMTMtZVJkUkRyRXE3aGREVnh6Z2QwVE15UkV1ekNsM0d4WVRQMHloUzJnTkozMjdfcExMaXliTEJRMGptQmRxTjJCNzJEMnY2ZVVVd2NsYnJNQXRXdUFqcHVRblY0SGRuMVRtMVFWZFhtRmlTZ3VuSXl3TkRiNlZjQWtXZHpYZWdfQUV5SGRsdnhqTU15UElzUklURzRicldjcy0yZXBRMEl5Zzd1N20zQldrWldiYlR6ZXRXVEk0d1E1amt1Y0d0T0FOUFE?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 01 Nov 2026 09:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnFrdmVoNVBHelF1WmhfdUZDNnpVZW1XempHMTMtZVJkUkRyRXE3aGREVnh6Z2QwVE15UkV1ekNsM0d4WVRQMHloUzJnTkozMjdfcExMaXliTEJRMGptQmRxTjJCNzJEMnY2ZVVVd2NsYnJNQXRXdUFqcHVRblY0SGRuMVRtMVFWZFhtRmlTZ3VuSXl3TkRiNlZjQWtXZHpYZWdfQUV5SGRsdnhqTU15UElzUklURzRicl"
     }
   ],
-  "count": 14
+  "count": 5
 }
