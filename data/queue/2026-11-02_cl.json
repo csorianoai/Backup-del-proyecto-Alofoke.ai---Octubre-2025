@@ -3,6 +3,14 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Anuncian el retorno de la lluvia a Santiago: cuándo y cómo será el evento",
+      "url": "https://www.latercera.com/tendencias/noticia/anuncian-el-retorno-de-la-lluvia-a-santiago-cuando-y-como-sera-el-evento/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 14:46:13 +0000",
+      "summary": "Santiago tendrá nuevas jornadas de inestabilidad antes de un cambio en las condiciones del tiempo. Revisa cuándo podrían registrarse precipitaciones, qué sectores recibirían más agua y cuándo volverá el calor."
+    },
+    {
       "title": "La vacuna que desencadenó respuestas inmunitarias en el 99% de pacientes con cáncer de páncreas",
       "url": "https://www.latercera.com/tendencias/noticia/la-vacuna-que-desencadeno-respuestas-inmunitarias-en-el-99-de-pacientes-con-cancer-de-pancreas/",
       "source": "La Tercera Tecnología",
@@ -35,12 +43,20 @@
       "summary": "Durante semanas, la mujer consultó al chatbot sobre cómo reducir su medicación. Pese a manifestar síntomas preocupantes, recibió respuestas que la tranquilizaban."
     },
     {
-      "title": "Revelan los resultados de un fármaco experimental que trata la depresión en base a un veneno de sapo",
-      "url": "https://www.latercera.com/tendencias/noticia/revelan-los-resultados-de-un-farmaco-experimental-que-trata-la-depresion-en-base-a-un-veneno-de-sapo/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 01 Nov 2026 12:01:00 +0000",
-      "summary": "Un ensayo clínico evaluó una versión sintética de la mebufotenina, un compuesto psicodélico derivado del veneno del sapo del desierto de Sonora."
+      "title": "¡Talento Libertador en Chile! Estudiantes de Turismo revolucionan la industria con Inteligencia Artificial - Fundación Universitaria Los Libertadores",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmhTc3pBNzhjYjlNUS1xWVdzSlNUU3plZ1FQSW1HcVRRTEJod0VoQmgtaW1ad3Njb2tzRmliRWVVS0xUaWZkc29PR3lpUEtSWkd4N29JZC04RUk3LUU0RVliUzJmVEdwc3lqaG9ESzc0aGpaSGpENUFVM3piYVJMNVJVM1h1QUd1TlFyQUZmVGhRRmRXRG5HcW1rMVZvX0duNlFnQ2NmZl9wSFl3M2c1Z2drdG9YR3RfM2RxalEtNDB2NE1sdEZsbVA1VHNtSl94SFRPZA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 29 Oct 2026 19:55:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWmhTc3pBNzhjYjlNUS1xWVdzSlNUU3plZ1FQSW1HcVRRTEJod0VoQmgtaW1ad3Njb2tzRmliRWVVS0xUaWZkc29PR3lpUEtSWkd4N29JZC04RUk3LUU0RVliUzJmVEdwc3lqaG9ESzc0aGpaSGpENUFVM3piYVJMNVJVM1h1QUd1TlFyQUZmVGhRRmRXRG5HcW1rMVZvX0duNlFnQ2NmZl9wSFl3M2c1Z2drdG9YR3RfM2"
+    },
+    {
+      "title": "La Corte Suprema de Chile y la UNESCO fortalecen el diálogo sobre inteligencia artificial - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDFETHhoYTRZaHlHN19yMlJmSkFacUJWa1Q1SkgySElWQWl6Y3lDbHRiNmlEQkFPMWI1X0N2UEcxMjhvLXB2ZHU1QTZvbzJHQkRIa1NmYmg4LUNua3FhYkNnYmJBZjR1a1MxZzVsdzgwdnNObkY2T0hHdHVoUFZfaE1UMHdsdHZLdzc5ZmU4a3dqUzZDcTRLYlpDcUs1OHJaQlhIbWsyMV81eHVsdnVrTFpSLWZHOEVGcUNBaTdhTkFCZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 30 Oct 2026 07:11:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDFETHhoYTRZaHlHN19yMlJmSkFacUJWa1Q1SkgySElWQWl6Y3lDbHRiNmlEQkFPMWI1X0N2UEcxMjhvLXB2ZHU1QTZvbzJHQkRIa1NmYmg4LUNua3FhYkNnYmJBZjR1a1MxZzVsdzgwdnNObkY2T0hHdHVoUFZfaE1UMHdsdHZLdzc5ZmU4a3dqUzZDcTRLYlpDcUs1OHJaQlhIbWsyMV81eHVsdnVrTFpSLWZHOEVGcU"
     },
     {
       "title": "Índice Latinoamericano de Inteligencia Artificial 2026 será presentado el 20 de octubre en la CEPAL - Comisión Económica para América Latina y el Caribe",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Thu, 15 Oct 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFMYUpjNnVaaV9XeTJ5NXlCV2RfckpRUDlCT0F0b1ROcWFfa1BwdEpUTVBPc2J2TU5ZS0t2ZHQ2cF94b09wZ2pKOEhWNWppVmhYanRYdG5PajU5TTAwbFlTRk9XWkpLOUlneWNIcUZadEpKRE10YkthV25GSWtzR08yTGx0bVBya21NVDBOU244RlhaMDFxUV85QVlWQVNBSlBsUVBoTEZYMkN4d1l1d2w1MnRmdlF0NH"
-    },
-    {
-      "title": "Filósofo francés Éric Sadin dará conferencia gratuita sobre inteligencia artificial en U. de Chile - El Mostrador",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcERfZzIzcEhLYXhYdm9UZ3RURVRydktsU0JjaVFoR0xsbVk4eVNPalRWODBmMHh2NjNyaXlCRS1zcDRuN0xxSk4zUjVpVjkxcl9EYjZFT0QzTmJadFg5QV9ELTAyNVFBM3NKOURoN1lOVVVOVXlKQVZNV1R3bmlGamR4RUViU0RFOWRoZEs3eWFnRFNYWmhMTTl2LVZ3eVRMUmQzQnlQVUdWaFBKMV9XWGhid2ZSR1QwaFJQRnZZQjlMM3NIbG42bkxxQ1hpVzRHR3pydkZfX041cFhV?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 02 Nov 2026 11:30:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcERfZzIzcEhLYXhYdm9UZ3RURVRydktsU0JjaVFoR0xsbVk4eVNPalRWODBmMHh2NjNyaXlCRS1zcDRuN0xxSk4zUjVpVjkxcl9EYjZFT0QzTmJadFg5QV9ELTAyNVFBM3NKOURoN1lOVVVOVXlKQVZNV1R3bmlGamR4RUViU0RFOWRoZEs3eWFnRFNYWmhMTTl2LVZ3eVRMUmQzQnlQVUdWaFBKMV9XWGhid2ZSR1QwaF"
-    },
-    {
-      "title": "Chile y la revolución de la inteligencia artificial - AthenaLAB",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV01ORUNHUW96N2w4QlY1bmN1Y0FSMFdzcVlfOGthMzBIbDdwQmEtRDFIS2w5M3pidmRjZV9wR3BHUVdLX2hjNmlMa2I0Z09ZVEh1TUhrejZpUmpycGJldTdVMzZJa3NpY3hJYXdlNml5dHZfaU1VWHFxLWFLZ283QXBQUjZFQlh0NEwwaDZUMUxsN3lVVjhMSjF5YlI?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 30 Oct 2026 13:02:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQV01ORUNHUW96N2w4QlY1bmN1Y0FSMFdzcVlfOGthMzBIbDdwQmEtRDFIS2w5M3pidmRjZV9wR3BHUVdLX2hjNmlMa2I0Z09ZVEh1TUhrejZpUmpycGJldTdVMzZJa3NpY3hJYXdlNml5dHZfaU1VWHFxLWFLZ283QXBQUjZFQlh0NEwwaDZUMUxsN3lVVjhMSjF5YlI?oc=5\" target=\"_blank\">Chile y la revol"
     },
     {
       "title": "Santiago Bilinkis: “Los billonarios están gastando millones de dólares en construir búnkeres para sobrevivir al apocalipsis” - Infobae",
@@ -91,12 +91,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU1iZjJ0SHhTY2ZrbnhCZkQ3cVVrMXJaZWdvQU1TRDJnWDU0VEdkQlBIQWFpZU1MMXozZmh6ZzI2eFlMNG1idEw5VUtqV1gySlc1TExxeUlLUTRJWUdpMnVTcU1IM1V0Mkk1MFZpNTNHTklncWxkTmxPNTMzV0hvaGRWSElEVGlSbVE0Q1hQRDJkS2JraVlFWUh2YXpFOTdtOWd6UGNNd3lPa1pDbDJ4SUZ0Yw?oc=5\" t"
     },
     {
-      "title": "Alessandri: estudio de 133 años innova en legaltech - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FESVFZaXhURkk4aC05ckYxcnZ6SmgtQUNqZ0FhUjFacE5wOU9fcklTUTdFMnpHODVFTXFwbWt3QThLVFN5STVNaDE5cEFEbXBTcmZ1YVZyLTVUX0N1MDhoaHE5ZjcxTlpTRk1vcUhtVy1iTHQ0VjZWUE9EQ3pTNkN0ako0bWRk?oc=5",
+      "title": "Cenia lanza venture studio para startups de IA en Chile - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGkzS2xmNDBvNE0zMEhXMHI4bTBuZnl5SnZqVFdmMUxjb0xVb2dic28wb2RBMDZKaTI3VmlycFVQR0dFUkFOVzd0YUwzcm5uazRNeGtOMU9vRV9sdWNXQnE4QzUtbUlmdWRIZGR1WFNHTjNDMWJMUEVPdjRNVTBLRkpZeENqVEpNZllTaWJ3cw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 02 Nov 2026 01:18:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FESVFZaXhURkk4aC05ckYxcnZ6SmgtQUNqZ0FhUjFacE5wOU9fcklTUTdFMnpHODVFTXFwbWt3QThLVFN5STVNaDE5cEFEbXBTcmZ1YVZyLTVUX0N1MDhoaHE5ZjcxTlpTRk1vcUhtVy1iTHQ0VjZWUE9EQ3pTNkN0ako0bWRk?oc=5\" target=\"_blank\">Alessandri: estudio de 133 años innova en l"
+      "published": "Mon, 02 Nov 2026 17:12:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGkzS2xmNDBvNE0zMEhXMHI4bTBuZnl5SnZqVFdmMUxjb0xVb2dic28wb2RBMDZKaTI3VmlycFVQR0dFUkFOVzd0YUwzcm5uazRNeGtOMU9vRV9sdWNXQnE4QzUtbUlmdWRIZGR1WFNHTjNDMWJMUEVPdjRNVTBLRkpZeENqVEpNZllTaWJ3cw?oc=5\" target=\"_blank\">Cenia lanza venture studio para s"
     },
     {
       "title": "Liderazgo Fintech en Chile: 12 startups chilenas destacan entre las empresas tecnológicas a seguir hacia 2027 - FinteChile",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQXlGb29ORmhTMWIyWVBzMXVUdFdvS3duaW1EZUlSczNlQnIzNVdUWktlcXNDdmUyY1dwTkxFUjRGaTMxYUhBUzhhNWF6RG5sQWZYREoxOFdmbHczSzY0LWR2dGh4d3kxV2xEYTRZUHpZSFlNUVoyTVdHZ1JSVmRGNEtfUkVEYVB4RExIRXZvMy1oRkRweGlmRE0wNlVzS3VVNGdIamFESDVfSVZ4SEpPNUJRTU1tZlBfQm"
     },
     {
-      "title": "Startups de EE.UU. y México eligen Chile para validar tecnologías mineras en startuplab.01, el primer hub deep tech del país - Fundación Chile | FCh",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbWwyWFN5TE16Y1FnUHdzX3ZjaVJBME80SjQwaVIxZlowV0Y3SkpXWVZSNXUwaEhuRnlFSjdBdm52a01TbmFNVmtFanBvaGR5M2hWdmpvVUhJV0NjZ2djdzNZSWF0RW0tUElOc0Y4ZnU5TFU5VnJKWF9kNDZTYmpkcTdHT3NGemRtSl9jZjF3RUtIRzliT0pxOHNTOEdtTHBQb3lTTHRWaGFTeEVBaEtqWVJWU25ndXhXTkhUdzRSbGpHQ3V4eDJ5bFVaWEtfMm15U3dwZWdMVk1seXdFLVdTRQ?oc=5",
+      "title": "Alessandri: estudio de 133 años innova en legaltech - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FESVFZaXhURkk4aC05ckYxcnZ6SmgtQUNqZ0FhUjFacE5wOU9fcklTUTdFMnpHODVFTXFwbWt3QThLVFN5STVNaDE5cEFEbXBTcmZ1YVZyLTVUX0N1MDhoaHE5ZjcxTlpTRk1vcUhtVy1iTHQ0VjZWUE9EQ3pTNkN0ako0bWRk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbWwyWFN5TE16Y1FnUHdzX3ZjaVJBME80SjQwaVIxZlowV0Y3SkpXWVZSNXUwaEhuRnlFSjdBdm52a01TbmFNVmtFanBvaGR5M2hWdmpvVUhJV0NjZ2djdzNZSWF0RW0tUElOc0Y4ZnU5TFU5VnJKWF9kNDZTYmpkcTdHT3NGemRtSl9jZjF3RUtIRzliT0pxOHNTOEdtTHBQb3lTTHRWaGFTeEVBaEtqWVJWU25ndXhXTk"
+      "published": "Mon, 02 Nov 2026 01:18:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FESVFZaXhURkk4aC05ckYxcnZ6SmgtQUNqZ0FhUjFacE5wOU9fcklTUTdFMnpHODVFTXFwbWt3QThLVFN5STVNaDE5cEFEbXBTcmZ1YVZyLTVUX0N1MDhoaHE5ZjcxTlpTRk1vcUhtVy1iTHQ0VjZWUE9EQ3pTNkN0ako0bWRk?oc=5\" target=\"_blank\">Alessandri: estudio de 133 años innova en l"
     }
   ],
   "count": 14
