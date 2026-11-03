@@ -3,12 +3,36 @@
   "country": "es",
   "articles": [
     {
-      "title": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Puente defiende la seguridad de la línea Madrid-Sevilla: “No es una infraestructura ni abandonada ni olvidada”",
+      "title": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Óscar Puente dimite: “Un ministro no puede continuar en su puesto con un accidente de este tipo”",
       "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
       "source": "El País Tecnología",
       "category": "tech",
-      "published": "Tue, 03 Nov 2026 17:56:27 GMT",
-      "summary": "El PP, a Puente: “Su responsabilidad no es explicar accidentes mortales, es evitarlos” | El comité de empresa de Adif acuerda una huelga el 17 de noviembre por la seguridad ferroviaria"
+      "published": "Tue, 03 Nov 2026 21:38:19 GMT",
+      "summary": "Sánchez elogia a Puente: “Ha dado la cara y, después, un paso al lado” | El ministro ha comunicado su decisión al presidente minutos antes de hacerla pública | Tampoco irá en las listas del PSOE al 29-N | El PP achaca la dimisión al cálculo político"
+    },
+    {
+      "title": "Óscar Puente dimite “por dignidad”: “Quiero estar a la altura de mi país”",
+      "url": "https://elpais.com/espana/2026-11-03/oscar-puente-dimite-por-dignidad-quiero-estar-a-la-altura-de-mi-pais.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Nov 2026 21:08:30 GMT",
+      "summary": "El ministro también renuncia a encabezar las listas del PSOE por Valladolid"
+    },
+    {
+      "title": "La comparecencia íntegra de Óscar Puente en la que anuncia su dimisión",
+      "url": "https://elpais.com/videos/2026-11-03/la-comparecencia-integra-de-oscar-puente-en-la-que-anuncia-su-dimision.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Nov 2026 20:52:58 GMT",
+      "summary": "Puente dimite tras el accidente de trenes de Urda: “Un ministro de Transportes de un país como España no puede continuar en su cargo tras dos accidentes en menos de un año”"
+    },
+    {
+      "title": "El PP apunta ahora a Sánchez tras la renuncia de Puente: “Le dimitiremos en las urnas”",
+      "url": "https://elpais.com/espana/2026-11-03/el-pp-no-se-va-por-las-victimas-ni-por-dignidad-sino-por-las-encuestas.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Nov 2026 21:15:55 GMT",
+      "summary": "Los populares afirman que la crisis no se cierra con la dimisión del ministro de Transportes"
     },
     {
       "title": "Transportes reduce el tráfico entre Madrid y Sevilla para separar más los trenes hasta que esté en pie el nuevo sistema de seguridad ERTMS",
@@ -19,28 +43,12 @@
       "summary": "El paquete de medidas de seguridad anunciado por el ministro Puente tras el siniestro de Urda incluye una doble supervisión por parte de los controladores del tráfico de cada orden enviada a los maquinistas"
     },
     {
-      "title": "El AVE Madrid-Sevilla reabrirá 10 días después de que la jueza lo autorice, pero con menor frecuencia de trenes",
-      "url": "https://elpais.com/economia/2026-11-03/el-ave-madrid-sevilla-reabrira-con-menos-trenes-10-dias-despues-de-que-la-jueza-lo-autorice.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Nov 2026 13:28:58 GMT",
-      "summary": "Puente anuncia menos servicios hasta completar la instalación del nuevo sistema de señalización ERTMS tras el accidente de Urda"
-    },
-    {
-      "title": "El uso de la línea del accidente de Urda se disparó un 28% en cinco años y los operadores reclamaban cambiar el LZB: “Es muy importante”",
-      "url": "https://elpais.com/espana/2026-11-03/el-uso-de-la-linea-del-accidente-de-urda-se-disparo-un-28-en-cinco-anos-y-los-operadores-reclamaban-sustituir-el-lzb-es-muy-importante.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Nov 2026 14:49:26 GMT",
-      "summary": "La liberalización del sector disparó un 53% la oferta para el corredor Madrid-Sur y los directivos de Iryo y Ouigo vieron la opción de ganar agilidad sin el sistema de seguridad de 1992, que cayó el día del siniestro, y con el salto a ERTMS"
-    },
-    {
-      "title": "Feijóo pide a los sindicatos que desconvoquen la huelga general por la tragedia de Urda: “69 muertos después es un grave error”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-03/feijoo-pide-a-los-sindicatos-que-desconvoquen-la-huelga-general-por-la-tragedia-de-urda-69-muertos-despues-es-un-grave-error.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Nov 2026 09:29:41 GMT",
-      "summary": "“Tomaremos nota si hay un cambio de ciclo en España”, advierte Abascal a las organizaciones sindicales ante un nuevo Gobierno. Los sindicatos consideran “insultante” el planteamiento del popular"
+      "title": "El FMI alerta de los empleos que la inteligencia artificial puede poner en peligro: los jóvenes, entre los más afectados - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcHQ3SjlLUS1pZEpqRTl2YkhlcjFvUGk5LTNVMW4xeDRKbDFKcnZMazBTSElZSFNGLTNoZThwMU1DUmNuV2FYYWNuSHh1X1BoUWpqTkZ4S29lMWU5NWNreTdZSGFaa1FuT2NfOVNocExzU3ZzNkRraXFoZkRScl9wMnNQVDMwUGlOeGVtLUJCQWNKTXhNb2wtRjVYV05GSV84WGI1WHFKcUpzcTBKbEtweU9SR3Y3NGJRT3ZuVEgwUnliRzVUaC1SeGZDQnE4eWQ3TEpLNEdUTlh1cVBCWDFPMXlXUlFmVnowWWlPYTl5QWQ4RFHSAY4CQVVfeXFMTUhrYl9lTlp6aFY0WUdOcEdpclpoRURMOWt3Nk5aVVVIS1o4Q0cya2t0ZExoSU44Q2Q4R0V2Z2dfMTNZZFFldk9RNFYtOXNXeVl5NDlKOUdTb3hXTThzSlh3UGQ0Mm5tTHNiY3NmOW15REZMWG5XREdSZmtYM3duellrREdPclNIOUhwbGNqNFp0OEZPVVdBblBtdFJQSzFObWVZVmZUWlhaWkp4c1RtQVhvNkNVdUoxREtaX2l2Yk9jV2Vlb2RtSFBkeFJRSWVsU3NDcy01LWp1MGtWRzlwYk5CMExZV0tlTU5TS3JGOXgxTkNSaDNjWGZFQjdoS2hiZmFWQk5KM3RpOUNIYlJn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Nov 2026 16:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcHQ3SjlLUS1pZEpqRTl2YkhlcjFvUGk5LTNVMW4xeDRKbDFKcnZMazBTSElZSFNGLTNoZThwMU1DUmNuV2FYYWNuSHh1X1BoUWpqTkZ4S29lMWU5NWNreTdZSGFaa1FuT2NfOVNocExzU3ZzNkRraXFoZkRScl9wMnNQVDMwUGlOeGVtLUJCQWNKTXhNb2wtRjVYV05GSV84WGI1WHFKcUpzcTBKbEtweU9SR3Y3NGJRT3"
     },
     {
       "title": "Nace la Alianza Iberoamericana de Inteligencia Artificial: una “tercera vía digital” - DPL News",
@@ -49,14 +57,6 @@
       "category": "news",
       "published": "Tue, 03 Nov 2026 18:07:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5mOTI0TW5JTjh4VnNZYmZfbUc0U3A2TUxVbE9ld2dLNzdHNzRZcmdrWndzdy1qZTJaR0o2dWtCN09adVhONTR5UzNiY3pjOW1lQU9aTWo1TW8tcEtRN0JNODZNUVRJS0xJWFZlc3hyaHhZYXRoUXpWYWZZT3A?oc=5\" target=\"_blank\">Nace la Alianza Iberoamericana de Inteligencia Artificial: u"
-    },
-    {
-      "title": "El FMI alerta de los empleos que la inteligencia artificial puede poner en peligro: los jóvenes, entre los más afectados - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcHQ3SjlLUS1pZEpqRTl2YkhlcjFvUGk5LTNVMW4xeDRKbDFKcnZMazBTSElZSFNGLTNoZThwMU1DUmNuV2FYYWNuSHh1X1BoUWpqTkZ4S29lMWU5NWNreTdZSGFaa1FuT2NfOVNocExzU3ZzNkRraXFoZkRScl9wMnNQVDMwUGlOeGVtLUJCQWNKTXhNb2wtRjVYV05GSV84WGI1WHFKcUpzcTBKbEtweU9SR3Y3NGJRT3ZuVEgwUnliRzVUaC1SeGZDQnE4eWQ3TEpLNEdUTlh1cVBCWDFPMXlXUlFmVnowWWlPYTl5QWQ4RFHSAY4CQVVfeXFMTUhrYl9lTlp6aFY0WUdOcEdpclpoRURMOWt3Nk5aVVVIS1o4Q0cya2t0ZExoSU44Q2Q4R0V2Z2dfMTNZZFFldk9RNFYtOXNXeVl5NDlKOUdTb3hXTThzSlh3UGQ0Mm5tTHNiY3NmOW15REZMWG5XREdSZmtYM3duellrREdPclNIOUhwbGNqNFp0OEZPVVdBblBtdFJQSzFObWVZVmZUWlhaWkp4c1RtQVhvNkNVdUoxREtaX2l2Yk9jV2Vlb2RtSFBkeFJRSWVsU3NDcy01LWp1MGtWRzlwYk5CMExZV0tlTU5TS3JGOXgxTkNSaDNjWGZFQjdoS2hiZmFWQk5KM3RpOUNIYlJn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 03 Nov 2026 16:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcHQ3SjlLUS1pZEpqRTl2YkhlcjFvUGk5LTNVMW4xeDRKbDFKcnZMazBTSElZSFNGLTNoZThwMU1DUmNuV2FYYWNuSHh1X1BoUWpqTkZ4S29lMWU5NWNreTdZSGFaa1FuT2NfOVNocExzU3ZzNkRraXFoZkRScl9wMnNQVDMwUGlOeGVtLUJCQWNKTXhNb2wtRjVYV05GSV84WGI1WHFKcUpzcTBKbEtweU9SR3Y3NGJRT3"
     },
     {
       "title": "“La inteligencia artificial es una cuestión de poder”: Juan Carlos Campo, magistrado del Tribunal Constitucional de España - Revista Semana",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY0J3Y3daWDhFcnJMNlRQNjlmQjNBbk0tWDNoVC1mRk8wa2pRMndUUGs1M1o5X0xCQXdtbzUyM0JrVXktRGl6bnNoYU9QTkhYMlcxdTV1dXdCOEIzSUNlLWxHNWxMMGF1d0NLaUNybDNtdFltOXhNai0xZlVKUlhSUmVvTUlTalU4OWdXd3VFbGR1UFZwenRzUDlhSzFiQVJCcUVnTV9IVWZuU0p0VzU3Zm9IYmVoMHBXWl"
     },
     {
-      "title": "Pronóstico Barcelona vs Alavés: probabilidades, estadísticas, bajas y predicción IA - Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczV2Y2F4Z0tzT0Q2UUJTZTJuVGVNZVljbWRXNFJ6YXhUbVZleTVuek1ucGZwQTJvR2dDQXZOc3I3VS1tWGVudTRvemg0MnZRSkozTFNsdWlINEE2VHV3MUtic1pVWmNKYlFjOTBJN0N0QUdCZ0s0SGFIbzJGTU8ydmQxaEpGLVpxNUNyU21QbDJ4T2haMWVCdlp5c0JFX2xnZFlRWnp5WTNNOF9QbFlQMEV3QldQNms?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 30 Oct 2026 09:27:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPczV2Y2F4Z0tzT0Q2UUJTZTJuVGVNZVljbWRXNFJ6YXhUbVZleTVuek1ucGZwQTJvR2dDQXZOc3I3VS1tWGVudTRvemg0MnZRSkozTFNsdWlINEE2VHV3MUtic1pVWmNKYlFjOTBJN0N0QUdCZ0s0SGFIbzJGTU8ydmQxaEpGLVpxNUNyU21QbDJ4T2haMWVCdlp5c0JFX2xnZFlRWnp5WTNNOF9QbFlQMEV3QldQNms?oc"
-    },
-    {
       "title": "Barcelona vs. Real Madrid: esto dice la IA sobre quién ganará el Clásico de LaLiga - Prensa Libre",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzFBNmZGZUxWaFpGU1pDT1l1c2R6VUpaenlnMDl2LTR3OURldVJZb3RwaDJZRUc5a01nWmpqYjdoRU1oTG9UVElXaHVwaU5VT19OYzRUWFN5RWV3MUZSdjNCNXl3R2FyU3hMSlNmT0FGTWl2UmRZM0hpZGVXOTU5OHRpZkJNOTVXelp4WWxpbzBFaDNMUVFLdEN4WU81ZVg3ZjdyQnhkMWNxN0c5Z1pzQms4alR6NUFhNTl2bUY5X2FnYjU3SlRuc0hWMld6WDNIMnF5djR4UUl5MTYxdWNIa2RB?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Sat, 24 Oct 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzFBNmZGZUxWaFpGU1pDT1l1c2R6VUpaenlnMDl2LTR3OURldVJZb3RwaDJZRUc5a01nWmpqYjdoRU1oTG9UVElXaHVwaU5VT19OYzRUWFN5RWV3MUZSdjNCNXl3R2FyU3hMSlNmT0FGTWl2UmRZM0hpZGVXOTU5OHRpZkJNOTVXelp4WWxpbzBFaDNMUVFLdEN4WU81ZVg3ZjdyQnhkMWNxN0c5Z1pzQms4alR6NUFhNT"
+    },
+    {
+      "title": "Sustituir el AVE entre Barcelona y Madrid requeriría 140 vuelos al día - La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFp2djBIb0tOWGxTNEdabzQtUXMyUDN3aVBvcDVRWnM5UXdDQldFc1J5eVdxV3pDRVFYSHRXVFFuMDFFRXRKZE1NYU5tXzRFeDlpM1dZSk0wVzVBVGx4LW1TMjVBN1JxS2R4ZHFpX0RVNUM4cFhlUFM1cG5iZ3h2WnpVdXNCUlZIQmF2UlM5VEwycUlBaXdlTGNPMVBRUGtyZ3liZ2tZZ2ZPenBTeUtyUVFvR0E1eXhI0gG-AUFVX3lxTE96UHNtd0dONzhVTVBVbDdlTl9zcnNFb0pTazdFVWE5YWtqUlBLcXM2UTZsRWJtc0czTWkwQWFYOWxCSTlIcjFTdDhPbWZGTkJ6cVg4UWNCQTRYazRmN1NWUHBOalFJXzRVSy1RUlJsVFBTUEdBdEdJd2RZeVFjMXY4NTJoSFJBMjZBTGI0VG5yOWhUdEVzZDBKbFhUV1N1YXZFZWdTX2hDUFltTy04UzZUOGR2MThoWlI0dFZIX3c?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Nov 2026 16:37:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFp2djBIb0tOWGxTNEdabzQtUXMyUDN3aVBvcDVRWnM5UXdDQldFc1J5eVdxV3pDRVFYSHRXVFFuMDFFRXRKZE1NYU5tXzRFeDlpM1dZSk0wVzVBVGx4LW1TMjVBN1JxS2R4ZHFpX0RVNUM4cFhlUFM1cG5iZ3h2WnpVdXNCUlZIQmF2UlM5VEwycUlBaXdlTGNPMVBRUGtyZ3liZ2tZZ2ZPenBTeUtyUVFvR0E1eXhI0g"
     },
     {
       "title": "AER Summit 2026: robótica con las personas en el centro - El Ecosistema Startup",
@@ -99,20 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVFrY2xPYkhLVzhKaUxCWElZak9VYmJDU3JxNzN1eHJvaUE1S24ybXk2RHN5QlBrZGlENTNTOG5SdEJxWFBNR0lmdk9UcFVoZXV3VEpNSy1kR0gzZHhoV2o2UHRHNG01Rng4T1dyc2o3RTM1SVBic2dyX1pBQW10Y0ROOEhPMmhYajFGaUhR?oc=5\" target=\"_blank\">AER Summit 2026: robótica con las p"
     },
     {
-      "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
+      "title": "Las ‘startups’ cambian de piel: son más ‘jóvenes’, están volcadas en la IA y su objetivo es vender a empresas y dar el salto al exterior - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaG1kcFhITWZzazZ2WnFVYTNHR2VpUGhGaGF6RGk4MHlNQWxwcVQ5c2hpTkVvZzhncFJzdXhNXzBueWhSTmhaaEFaSlFteTVRUUhGWTVDM2Nqc0NpX05FbGdnMjNiZVBMbnlhUFlYVDRHYktrUVBiczNUbG1rY1M5ekR1N1UtWGhhQXlQbnZwZmU5U2JCa2NUbXMybzh0WUFoLVJpeThBRVdKRWNpenhTWW9UX2QzVHdESlVFRkpqdGdPbUpHU3E0eGJFTTdEYng0TG9ZM1hMRkZWSUxOd0Q4WTdOckMxWDdReVlOVlBXQkIxUFhUY2pkS0VaRUFWek04QmxJ0gGeAkFVX3lxTE90N1VHZkY5WWxLYmFtVGRCWXZkdWEtTEhCTHExdVNtbDJqalN3UzVwbm91YmdVTFQwdXBieG50ZVUyOTBWbWM1TXRZYjVndG8wVXpXb2haa1RWeExSOFRQcmNiVXhTVm1sVGNNRFZGR2dMWmNXZk9kNHV6aGRqU0MyU08xZkdYWVRfak5GbHlZNjkyaWtDSURoN29zTkJ5REoxbWVsSGVDQXNFSlBSN05pamV2MmNNUFdLVXNVN0pPd1NGRUhncE1hSENOUzhJdDhyRTdyOHhkbWJzR3VSZ193ZVpDdEJwU2lmM0lrS1E4LVdWdVpETnlXbnRrd2ZOTHpaUDA1dVctT0wwTkFaOTNXazJZTnBHTS1CZFNkc1E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQaG1kcFhITWZzazZ2WnFVYTNHR2VpUGhGaGF6RGk4MHlNQWxwcVQ5c2hpTkVvZzhncFJzdXhNXzBueWhSTmhaaEFaSlFteTVRUUhGWTVDM2Nqc0NpX05FbGdnMjNiZVBMbnlhUFlYVDRHYktrUVBiczNUbG1rY1M5ekR1N1UtWGhhQXlQbnZwZmU5U2JCa2NUbXMybzh0WUFoLVJpeThBRVdKRWNpenhTWW9UX2QzVHdESl"
     },
     {
-      "title": "Andalucía lidera el crecimiento tecnológico en España y es la única comunidad del top 5 que aumenta la creación de startups - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa01EanR2dTBBMmNOaFBKUkZ3d2l2N1R3WjdYNUZyNDBYZUxEVVNxRXZmMFVJVW0yUEE1LTBOUGlTOWhYbFM2S0JzVDI4aFhxNXZ6cWJTSDRtVF9WRlV6N1RQWUxNVkpS?oc=5",
+      "title": "La IA impulsa el emprendimiento en solitario, presente en una de cada 4 startups en España, máximo histórico - PressDigital",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXhZckczMFh1SXdiUGtCbFVCTnBsRkY5LVZLcnF1OWg5TFVjT1YwUThBNE1xS3NEc3JvV1YxdUFWbVFEbks4SFZOOGs1T25zNFJmZ1JOemZfT01IODNxNTNoT3pncGhvNXBLY2dPVVdEV3FTazhuNkIyWE4xcDFBQi15eThoLXVwVWhCSGNSdlNTM1hTVlBtcUUwWkRGYzhrRkVzd1JIOWNLUEppQ3o0X0V1enIteWhwQ3RVaXZQbDFLM2twM3RPcWNNM3loSFBLLTNuTHAwRHQ5aGlXYTJPS3VpMA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa0"
+      "published": "Fri, 23 Oct 2026 16:34:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUXhZckczMFh1SXdiUGtCbFVCTnBsRkY5LVZLcnF1OWg5TFVjT1YwUThBNE1xS3NEc3JvV1YxdUFWbVFEbks4SFZOOGs1T25zNFJmZ1JOemZfT01IODNxNTNoT3pncGhvNXBLY2dPVVdEV3FTazhuNkIyWE4xcDFBQi15eThoLXVwVWhCSGNSdlNTM1hTVlBtcUUwWkRGYzhrRkVzd1JIOWNLUEppQ3o0X0V1enIteWhwQ3"
     }
   ],
   "count": 14
