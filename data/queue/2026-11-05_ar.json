@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-05",
+  "country": "ar",
+  "articles": [
+    {
+      "title": "Científicos usan bacterias vivas para resolver problemas matemáticos: cómo funciona el experimento",
+      "url": "https://www.clarin.com/tecnologia/cientificos-usan-bacterias-vivas-resolver-problemas-matematicos-funciona-experimento_0_yys1lM3Dhu.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Nov 2026 08:46:19 +0000",
+      "summary": "<ul><li>La computación biológica gana terreno combinando ADN, neuronas y organismos vivos para procesar información.</li><li>Desde bacterias que se multiplican hasta tejidos neuronales cultivados en laboratorio, la ciencia explora una nueva generación de computadoras inspiradas en la vida</li></ul>"
+    },
+    {
+      "title": "Binance revela el origen del hackeo para robarle más de US$6.300 millones: una falsa entrevista laboral a un empleado",
+      "url": "https://www.clarin.com/tecnologia/binance-revela-origen-hackeo-robarle-us6300-millones-dolares-falsa-entrevista-laboral-empleado_0_F69xjjv8hE.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Wed, 04 Nov 2026 05:13:32 +0000",
+      "summary": "<ul><li>El ciberataque comprometió la seguridad de la computadora de un trabajador tentado con una oferta de trabajo y se expandió de manera planificada. Le metieron un virus cuando descargó un supuesto ejercicio técnico.</li><li>La intrusión fue en septiembre, según un informe preliminar de la empr"
+    },
+    {
+      "title": "Apple lanzó la nueva Siri con inteligencia artificial en Argentina: qué puede hacer y cuáles son los iPhone compatibles",
+      "url": "https://www.clarin.com/tecnologia/apple-lanzo-nueva-siri-inteligencia-artificial-argentina-puede-hacer-iphone-compatibles_0_4A0QQzxPgR.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Nov 2026 20:21:53 +0000",
+      "summary": "<ul><li>La actualización iOS 27.2 incorpora funciones que permiten entender conversaciones y utilizar información personal. </li><li>Cómo actualizar el equipo para utilizar todas las novedades. </li></ul>"
+    },
+    {
+      "title": "Los cuatro Mini LED más exclusivos de Argentina, pantallas gigantes que convierten el living en una sala de cine súper lujosa",
+      "url": "https://www.clarin.com/tecnologia/mini-led-exclusivos-argentina-pantallas-gigantes-convierten-living-sala-cine-super-lujosa_0_Fk5KmkBpjL.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Tue, 03 Nov 2026 08:46:06 +0000",
+      "summary": "<ul><li>Gaming, grandes ambientes y funciones inteligentes: cada equipo apuesta por un atributo distinto para seducir al espectador.</li><li>Como son los nuevos modelos de Samsung, TCL, Hisense, LG que se venden en el país y los descuentos por el Cybermonday.</li></ul>"
+    },
+    {
+      "title": "Binance, PHP y más heladeras hackeadas: por qué hay tantos ciberataques y cuánto influye la IA",
+      "url": "https://www.clarin.com/tecnologia/binance-php-heladeras-hackeadas-ciberataques-influye-ia_0_wGmmuVJ9s9.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 02 Nov 2026 17:44:48 +0000",
+      "summary": "<ul><li>El robo de US$ 6.300 millones en Binance fue el más grande en el mundo cripto, pero se suman otros ataques.</li><li>El impacto alcanza a tecnologías del día a día, como el sabotaje a heladeras de supermercados franceses.</li><li>Tres especialistas explican qué cambia con la inteligencia arti"
+    },
+    {
+      "title": "Argentina lidera el ranking del uso de inteligencia artificial - Canal 12 Web",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXNSQVpFWkxkemZpaTFBLUtacmVraXhka29mOW9LOFQwTVdqNUZQV3prLW5jYXFhZ1NQY1FmLW81QkN0V1VHaHFiNlJ2b2JHR2ZDenN5Y0JRSlFsQTdTNTZBYU9uSlFnNThPU25vX3VaSjY0U3FuWTFoV3dmQWUxRlEzLWRqdEhPM3NLbDVIbw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 04 Nov 2026 19:51:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXNSQVpFWkxkemZpaTFBLUtacmVraXhka29mOW9LOFQwTVdqNUZQV3prLW5jYXFhZ1NQY1FmLW81QkN0V1VHaHFiNlJ2b2JHR2ZDenN5Y0JRSlFsQTdTNTZBYU9uSlFnNThPU25vX3VaSjY0U3FuWTFoV3dmQWUxRlEzLWRqdEhPM3NLbDVIbw?oc=5\" target=\"_blank\">Argentina lidera el ranking del u"
+    },
+    {
+      "title": "Inteligencia artificial: las noticias se vuelven conversación y Argentina lidera el ranking de uso - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVW12V29FV3VpU0UyU194YkJHaTBteThNSFh4VE9ldWd6TWV4NDZMNm11bXk4bndQM3dQZVE1Q3RiVnRfZU1KSmVxZkFZSUJJUmxGbTZMYTdXMm5PeDV5Rms4OTJPZFNQc0lsRk90RzlQZ1JiZEFqQ2UtQXVEbVlUcmZIdUFWUmRobVRCUGtWVy1TenFDMGhfclozUUItQUlSemZndTJNdW9aVEZOTmtBcnU2THVxVjRJeTlmVUFyV0FaVHZYMkZQNTV3MDNyNFIzR2VGZGttRU_SAfMBQVVfeXFMUG5JdGc1NEVEX21BNlJrVXJEdUxoa2tWbmFUV2FjSTZQb1BBLV8tX1ZiV056eTFmR3k4VTVWanlUaXdjX3ViRF9yU3p6cWJPcmtodTRWNWFpWTFlcTNvd2I2QnZwV25TdS11Ym9lbWJJVmwxUTg3UVg4UE1DSG9McUI3eU54eDZfRWVIQ0tCX0JVcGw0Rkdrdm9XLUM0U2R4Rlo3SVh0R1E4S3hfOHhaNHRIS1VGWXV2OUlIQ2NiejB5eEk2X3gwR0FFeDBpb0xFLVlGUzAtOTVBTnI3YzBhUllFNWIwWDBQcnFBSUMySEY4Y0ZF?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 01 Nov 2026 20:12:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVW12V29FV3VpU0UyU194YkJHaTBteThNSFh4VE9ldWd6TWV4NDZMNm11bXk4bndQM3dQZVE1Q3RiVnRfZU1KSmVxZkFZSUJJUmxGbTZMYTdXMm5PeDV5Rms4OTJPZFNQc0lsRk90RzlQZ1JiZEFqQ2UtQXVEbVlUcmZIdUFWUmRobVRCUGtWVy1TenFDMGhfclozUUItQUlSemZndTJNdW9aVEZOTmtBcnU2THVxVjRJeT"
+    },
+    {
+      "title": "Globant impulsa una nueva era de negocios con inteligencia artificial - Agroempresario",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjE4ZExudXBXSGFxZzI2NGlCVjY5aFBUaFNPOURmbU5wcmRMWURMU0hxTFl1X1dCRG5SRjUxNWpYOTVrSzBrRVEtWXFHTzlUNHZqM3g1WGU0Wl9qMTQtc2E3aUl3VTFCcnN3R0gxSkNVcDBfSE9sQ25GTmtnZFlRY0ZEeXFMSUs5WktpakxwanBYRjRyZmJpTXg4Ml9LWm00TTVLNEl3NlN1YzRTYWp4NkNIdWVDZlE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 04 Nov 2026 15:03:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjE4ZExudXBXSGFxZzI2NGlCVjY5aFBUaFNPOURmbU5wcmRMWURMU0hxTFl1X1dCRG5SRjUxNWpYOTVrSzBrRVEtWXFHTzlUNHZqM3g1WGU0Wl9qMTQtc2E3aUl3VTFCcnN3R0gxSkNVcDBfSE9sQ25GTmtnZFlRY0ZEeXFMSUs5WktpakxwanBYRjRyZmJpTXg4Ml9LWm00TTVLNEl3NlN1YzRTYWp4NkNIdWVDZlE?oc"
+    },
+    {
+      "title": "Radiografía emprendedora: cómo se posicionan Buenos Aires y Córdoba en la carrera regional por la inteligencia artificial - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTlpYVJnOFoxdVVyQ3lKY3RZdll5UC03TWctLVluZ1pyNmNHQmxqM2FPMFBrRTdLY29LcDNycWN1cFR5a3NENlN0WWZYSzdJdW42UkQ0R3o2M3ZzRl8wU2tPUVhxWDJ3QW1OWlJ4OW1SQ2tRNFR5QXp6XzRueDUyY3MtUXFQdkJicUZ1S2NLQmx5N0lEbUZwelFmSmJmMkVDS2JENjRyRHROTXZ3SHdaazNCbTJ3M0tPOVlHYTFMa2t6ZjIyZFRqMTFtQVF1VThFeUlBd1h5Vkh2NE54LWYzNDEyNTRoQdIB6wFBVV95cUxOQWFsZmFZdjRjSk12Z2tabnZWa3pMeEdNZFNBVF8zaHBuWmJKOWJrQlA2WmZrYUx5TE9sdEN2dU5CVXdfa2ltb1lUTklGRXFmRWdXN0tvZjBIT0x1Vkk2bUs5TU9UTDhWMzVFNDlRc3BTVjUwUTlEODRUS29RM1Z3V29HazRycVNwS0hKT1BNYVlsdzlLU0pRd01jdU9mQTBWdDYzaXJnYlJRcVJtOUN0eWRpMGpCV1pQeXJrRVVfWTREcWJwZkZYZ3N2N05QY1BNYmhkWDVadXJFb09Hci1aaVJ4aUhQQ3pHVkFV?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Nov 2026 10:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTlpYVJnOFoxdVVyQ3lKY3RZdll5UC03TWctLVluZ1pyNmNHQmxqM2FPMFBrRTdLY29LcDNycWN1cFR5a3NENlN0WWZYSzdJdW42UkQ0R3o2M3ZzRl8wU2tPUVhxWDJ3QW1OWlJ4OW1SQ2tRNFR5QXp6XzRueDUyY3MtUXFQdkJicUZ1S2NLQmx5N0lEbUZwelFmSmJmMkVDS2JENjRyRHROTXZ3SHdaazNCbTJ3M0tPOV"
+    },
+    {
+      "title": "Apuestas online, inteligencia artificial y acoso sexual: las cifras que exponen los riesgos digitales entre los adolescentes - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEhUd1NSZnRYb29BaGdzeTRENnhQMnpSTnBJckk0enJWOHZEM0JvN3JYNEppdTlaU0wxX3BGdmRTdzBZQlJmSkpqa3hMU00walVDQnlKUmxia1BpZkNmMXpTRVMtYW9qazlhUWVBV0tRUUJQQ0ExaGRSek42TnlVdEtfYnNOY1B5UG9FNjNBc2xVSHAweWRHNlRrTWJpYzFCUGgybzVKd2NMQVFJU3hlcmlhTzY1M1hLNTEzZnIxaUd1QVdoeWJuYUhLN1RwN0pjaVdKYURMZWhVMDRtT1RBWTU0NjhNajB1ZlNXdDM1eGRYQTc5NkFQWjZnc9IBlgJBVV95cUxPQzFGRWVOYjRBNTcxRllpblFXandXZ1lEUWhHN3ZNc2t4WnNneXNlbXVHLTlpcUlFT0FCZEhNTFBROE1kME1HQVZfR2NfbnhUVUVWc2VDdTFJSmc2Y3prTTlkXzhMWDRwYWM3UUVmQXJEcVBzakxmRzc5b1NxcnR5R2ltck5xZVZ0QThBeFFCcm93NUN2WUUwc2NmQnFhWUl5bklFWi1pSmRzbHVSNkJuM2tORXZtdUo4RlE1aktVZTJvY014ekxfMmVTaW9Nb3VlVWRWazRaOG9yOE8wU1ZITTVCOThrYXl5SXM1S3FEeFBvV1JBSmdzNzBWM1FFY1lpRks0MC1DOUZKeHhVdkFRVkxHNmRkdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 02 Nov 2026 16:32:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUEhUd1NSZnRYb29BaGdzeTRENnhQMnpSTnBJckk0enJWOHZEM0JvN3JYNEppdTlaU0wxX3BGdmRTdzBZQlJmSkpqa3hMU00walVDQnlKUmxia1BpZkNmMXpTRVMtYW9qazlhUWVBV0tRUUJQQ0ExaGRSek42TnlVdEtfYnNOY1B5UG9FNjNBc2xVSHAweWRHNlRrTWJpYzFCUGgybzVKd2NMQVFJU3hlcmlhTzY1M1hLNT"
+    },
+    {
+      "title": "Cambian los trenes, colectivos y vuelos por la visita del Papa León XIV: habrá servicios nocturnos, estaciones cerradas y restricciones del 8 al 11 de noviembre - Canal26",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObkVxY3d6Nnh6NFVhNS02MEl3SnlpdkJzNzJsTDJjbm1yNl9jZ1Zkb2dIRV9jdVp1bWxNSVoyRmtmOXZTR3BWWWE5RFJkNWVncDFIenNmcm44TnBNN0hVSzdLMmZlYndHRlBGNWVJaGJWYlVDNklwZW9iNzBzNHhLNUlqd3dMckwtdlNTOGxUY1l6NXBYLVlUOVJwUjkzTkVuMlpPTFBqU2dOcWpqRWgxdUVKMURRbGhpc0ZqajRFWXZreEFGeHhHbnQyNUVGWVBUdjBkUERKVnUzXzFITnVqR2VUUVZOSmhaaFhCNm50RXNsQnlndEl4WjQ0cVp6U3lYb0hhWjR5OV9FSlRmcnhnM19BaEFGeEdTZGVfbk9fRXppNFpyWDB6bA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 04 Nov 2026 13:37:01 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxObkVxY3d6Nnh6NFVhNS02MEl3SnlpdkJzNzJsTDJjbm1yNl9jZ1Zkb2dIRV9jdVp1bWxNSVoyRmtmOXZTR3BWWWE5RFJkNWVncDFIenNmcm44TnBNN0hVSzdLMmZlYndHRlBGNWVJaGJWYlVDNklwZW9iNzBzNHhLNUlqd3dMckwtdlNTOGxUY1l6NXBYLVlUOVJwUjkzTkVuMlpPTFBqU2dOcWpqRWgxdUVKMURRbGhpc0"
+    },
+    {
+      "title": "FoodRise, el hub del BID, acelera 7 startups argentinas - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJGSDFtMldRTk93ODFoUVJRckRCYmNDZGgxeEk3bzM0b19CVUdQeWYzN3M5WFZ3TGxNSTU1NnlsUktzdkotOTI2TVN1TWo1ODhMR0kxeVpPWDYyYzBVMGdCZVJPZUR1M3J1Vk5mUlQxcmM5TmtLU0EyNGRQQWJzTXdtMXA0dlNua0cySg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 04 Nov 2026 13:37:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJGSDFtMldRTk93ODFoUVJRckRCYmNDZGgxeEk3bzM0b19CVUdQeWYzN3M5WFZ3TGxNSTU1NnlsUktzdkotOTI2TVN1TWo1ODhMR0kxeVpPWDYyYzBVMGdCZVJPZUR1M3J1Vk5mUlQxcmM5TmtLU0EyNGRQQWJzTXdtMXA0dlNua0cySg?oc=5\" target=\"_blank\">FoodRise, el hub del BID, acelera 7 s"
+    },
+    {
+      "title": "Una startup argentina fue premiada por desarrollar tecnología que transforma los servicios financieros - TN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTdQLW9WOTZVcHYtd1dONU42RTR2RzhQVTJWOU9oREtVRmhrRUxlUHp5bEdUbGtVSDFOeUVrdmhiTkh5SUJVdFFQVktIZ3pTV2dmZ1JRREFGRkVhVWYwT2VZcVA2VVE4YlpPeWFkUHlYNFE1bmtTVEx1U2RhYWdpcFZ3SV9OSGhOcnd0ckVPN1pGeXBuejZ4TmNhcDRvelU4dlVBTDVjc04wWGV4ZnNFU3hHSjlNNnN6QmNmU3ltZm1SZ0FybnVNWGZxM2IwRXZIT3NUTldZRlJad9IB7gFBVV95cUxONFFUN1R1aGdNWjZKZktxdnJ4Vmc0d1hEREFoUzdub016X3VOcnRBaTRwazFyM1g2YjdrU29QcmtscVhaX3NMVjlUTDEzcW5SYmtFS2VWUWVrVWRsVGZpSVQ5aEpuSEJmSGZ2c09mRjVFZ0c5azlaLUgyZV9CMmpHcVRBV3Q0aEtldzRGSDVDbVhNSEl6aU9WVGczYlNuRGpKVGZESTNsLWlQM053Vm1tcV9iSTd6XzVWb2hqUGZxNHNQbmFvWDl5NGFPVGtBR1hMUU04dzRQQ2p1UF9zT0N3bjR0LVFnYjBPVnJXbFZR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Nov 2026 14:44:13 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTdQLW9WOTZVcHYtd1dONU42RTR2RzhQVTJWOU9oREtVRmhrRUxlUHp5bEdUbGtVSDFOeUVrdmhiTkh5SUJVdFFQVktIZ3pTV2dmZ1JRREFGRkVhVWYwT2VZcVA2VVE4YlpPeWFkUHlYNFE1bmtTVEx1U2RhYWdpcFZ3SV9OSGhOcnd0ckVPN1pGeXBuejZ4TmNhcDRvelU4dlVBTDVjc04wWGV4ZnNFU3hHSjlNNnN6Qm"
+    },
+    {
+      "title": "El 50% de las startups argentinas ubica al agro entre los primeros sectores que transformará la IA física - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUzRsRTYxanRqWnBYVkpseWgybHc5Z3g3WGVxOHlTTFBmZDV5Zk9vWV91bXhRRWlFMkl3aExFamsza2I1QTdYal84M29HdVRSUGhEN3NCWVhWdTc4d0RwT0R3MzRlUEVDcjVNQXU3d1pkeFNSa2VJWGJJVFNhWGk5SDRzYVY3TGVueGN1T3RHeEZfNFNFVV95anJOQ2w1SHZ6SUx2cVJwM1hlMGtvc3RUeWE1T1B6QjBFdTZiUHBwSDZoLTFmWEZZSU9KS1ZvaVoxVEFWSV9uejZkbnRiUVBB?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 03 Nov 2026 12:58:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUzRsRTYxanRqWnBYVkpseWgybHc5Z3g3WGVxOHlTTFBmZDV5Zk9vWV91bXhRRWlFMkl3aExFamsza2I1QTdYal84M29HdVRSUGhEN3NCWVhWdTc4d0RwT0R3MzRlUEVDcjVNQXU3d1pkeFNSa2VJWGJJVFNhWGk5SDRzYVY3TGVueGN1T3RHeEZfNFNFVV95anJOQ2w1SHZ6SUx2cVJwM1hlMGtvc3RUeWE1T1B6QjBFdT"
+    }
+  ],
+  "count": 14
+}
