@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Quién es Dario Amodei, el cerebro detrás de Claude",
+      "url": "https://www.clarin.com/videos/dario-amodei-cerebro-detras-claude_0_8YQBfHhN28.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Nov 2026 18:04:32 +0000",
+      "summary": "<ul><li>Hijo de un artesano toscano, físico y biofísico, estuvo detrás de GPT-2 y GPT-3 antes de fundar Anthropic con su hermana. </li><li>Hoy Anthropic, la empresa detrás de Claude, facturó USD 16.800 millones en un trimestre y se prepara para salir a la bolsa.</li></ul>"
+    },
+    {
+      "title": "Cómo se prepara Argentina para proteger al Papa de drones y ciberataques: especialistas analizan las medidas del Gobierno",
+      "url": "https://www.clarin.com/tecnologia/prepara-argentina-proteger-papa-drones-ciberataques-especialistas-analizan-medidas-gobierno_0_DZr1Ix8q4c.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Nov 2026 08:46:49 +0000",
+      "summary": "<ul><li>El Ministerio de Seguridad detalló el uso de una unidad antidrones y redes para las comunicaciones y las cámaras.</li><li>Una mesa cibernética de las cinco fuerzas federales dará soporte al operativo y responderá ante incidentes.</li><li>Hackers y expertos en radiofrecuencia explican a Clarí"
+    },
+    {
       "title": "Motorola redobló su apuesta contra Apple y Samsung: lanzaron el Signature 27, el celular con la mejor cámara Android del mundo",
       "url": "https://www.clarin.com/tecnologia/motorola-redoblo-apuesta-apple-samsung-lanzaron-signature-27-nuevo-celular-ultrapremium-mejor-camara-android-mundo_0_3SINUdVInk.html",
       "source": "Clarín Tecnología",
@@ -27,52 +43,36 @@
       "summary": "<ul><li>La computación biológica gana terreno combinando ADN, neuronas y organismos vivos para procesar información.</li><li>Desde bacterias que se multiplican hasta tejidos neuronales cultivados en laboratorio, la ciencia explora una nueva generación de computadoras inspiradas en la vida</li></ul>"
     },
     {
-      "title": "Binance revela el origen del hackeo para robarle más de US$6.300 millones: una falsa entrevista laboral a un empleado",
-      "url": "https://www.clarin.com/tecnologia/binance-revela-origen-hackeo-robarle-us6300-millones-dolares-falsa-entrevista-laboral-empleado_0_F69xjjv8hE.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Wed, 04 Nov 2026 05:13:32 +0000",
-      "summary": "<ul><li>El ciberataque comprometió la seguridad de la computadora de un trabajador tentado con una oferta de trabajo y se expandió de manera planificada. Le metieron un virus cuando descargó un supuesto ejercicio técnico.</li><li>La intrusión fue en septiembre, según un informe preliminar de la empr"
-    },
-    {
-      "title": "Apple lanzó la nueva Siri con inteligencia artificial en Argentina: qué puede hacer y cuáles son los iPhone compatibles",
-      "url": "https://www.clarin.com/tecnologia/apple-lanzo-nueva-siri-inteligencia-artificial-argentina-puede-hacer-iphone-compatibles_0_4A0QQzxPgR.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 03 Nov 2026 20:21:53 +0000",
-      "summary": "<ul><li>La actualización iOS 27.2 incorpora funciones que permiten entender conversaciones y utilizar información personal. </li><li>Cómo actualizar el equipo para utilizar todas las novedades. </li></ul>"
-    },
-    {
-      "title": "De Bill Gates en Chile al Súper RIGI de Argentina: la minería detrás de la inteligencia artificial - Acero y Roca",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWncycU1WSnIyMm1BMmZIbWNfSll2UGkzOVdQNjRBd2czZ0l1eGJGSlpBdTFLZ1c3LURtSFFqWnBSbl91X1BON2xublU2M3hvWWNxbFJEd3ZYTmNwTlpTMExzNXFrelhSWGhLSjI2Yml3c2k5MVg0ZlZPSUIwd2dIdDFtQXBWeE9FS3ZYZjhOSURSMC1PX3huXzdXWGtYaFlkNDFhZzJ3NA?oc=5",
+      "title": "Data centers: la oportunidad que abre la Inteligencia Artificial y por qué el sur argentino gana protagonismo - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFlWNlU1U2U0S1NFRFVONmEtRWN5UUY5MVhpdEROMDVaM25JMDV6ZEh3QXMwa0xVay14WC0zT0FOUWFZT3NIdkxvZ1F1RjR0dzhIZjAzdGEyYVdmSTF4WmE4azRqdnM5aHBZbmt5SmN0ODNodnZoaERPakZCMEVLbkVFalhKd0FFbXJER2RMT2tZMlZ5Sk5RODRxLVpRY0JQQmdNazRzYUMwVVJqNmp1TGR2NlJLTUZCQTN0QTNFdmlZMmo1c2NHdg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 18:25:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWncycU1WSnIyMm1BMmZIbWNfSll2UGkzOVdQNjRBd2czZ0l1eGJGSlpBdTFLZ1c3LURtSFFqWnBSbl91X1BON2xublU2M3hvWWNxbFJEd3ZYTmNwTlpTMExzNXFrelhSWGhLSjI2Yml3c2k5MVg0ZlZPSUIwd2dIdDFtQXBWeE9FS3ZYZjhOSURSMC1PX3huXzdXWGtYaFlkNDFhZzJ3NA?oc=5\" target=\"_blank\">D"
+      "published": "Fri, 06 Nov 2026 13:29:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbFlWNlU1U2U0S1NFRFVONmEtRWN5UUY5MVhpdEROMDVaM25JMDV6ZEh3QXMwa0xVay14WC0zT0FOUWFZT3NIdkxvZ1F1RjR0dzhIZjAzdGEyYVdmSTF4WmE4azRqdnM5aHBZbmt5SmN0ODNodnZoaERPakZCMEVLbkVFalhKd0FFbXJER2RMT2tZMlZ5Sk5RODRxLVpRY0JQQmdNazRzYUMwVVJqNmp1TGR2NlJLTUZCQT"
     },
     {
-      "title": "La Cumbre Iberoamericana de Madrid cierra una declaración final y acuerdos sobre inteligencia artificial y protección civil - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNamV0S3NDVHNlVzNFRUVpRUhXTDc0bWxKbExPLS1ockNnMU1ZVnpRWkk0MnA1X01vQ3piVGhjNEFkUlNUNUJ6TDgydS1UMkRrWGs3SVYwREZ6V19waEtkblcxTGRGYjFuaUJhUDRjeUM2Q0tCeXlZT1hQMUV1SWU2NHZRZFdhc3k5dUZHMW9CdmhkbjdGNk0tVy1ScmRQd1RNOFE5TlVCRVNXaXkyMFBvYXhwN0dDT0NsNkFYQ1FuZ1FjSFhJTm5xYVpDYjc4blZEMEV4TDI4bHJZc2dIRTUzbFBhY1hBZHZjVU5JdHJNLS1NZ9IBjAJBVV95cUxNb2QzcFF0QXl3WE1FRXh3dVc0VnNBbm5xQ0dwdlZaanpqU1owQnJ3aURGY0R5djRLVG5QU1A5QzZ5bGpDbkRqWEFhQ0JWWldJdENtOTJsYnhZRjdaMWxiUG9kNlBFaVVvYWVVeWFvNFhTYkhWT3hWZmpaMzlZcmM2dHNJdmVHVHFINlhOdEpKOW1DLTlrRzlpTkw2WHV2SU9nUlJBM1ZCSnRZNjl5RnlMZ2g1XzBRNEI3OFpxZFFERGNuQnJYeU5VSW1QV2R1alQxaVdOUk5NMEs1cDA3ZVJTcnhDdURLZWlUQmJhS1hwRkl3cGE1T3hSa1VjV2V6YXlHS013NW9CMzZmamRL?oc=5",
+      "title": "Deepfakes: el fallo que protege la imagen y la reputación frente a los videos falsos creados por inteligencia artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc0htY3ptUi1OZDRiS0JoSFF6QjBBcjVTQ2ZNNTRQU3JPclJoN0xtR1IzemNKZFJFeUxYTFktOHZIZ1N4RG5ObmN5d1Y1U3JrZU5GWFVfeXBzOWRLRjFPcG5PeldsWnllN00yMlJsbko0TVV4WEx0a2dOYVNHME1KNk45eGc4Z3JiYWdrYld3eDdOSVZneTU3NVdxLUlsY0ZBLUtwMUJLRnZ1Vjh4Q2p4N09zMmc1aHZkb1ZVMkdFMWhnWkVRYUtwZk1hNXB2NFdMd29mODRjSURWcmxmSU9JQms2RWJwWWxUZzVDUUxWazlXQ2RsWlHSAZACQVVfeXFMT1Rud0VnaDlzRTh5cGFKODBFMzUzNExKLWlKSFBFTjJvdnRERG5UaXZKNXZNNlNtcWsxV2hud0h1d1g4TE01TFNSSHJ2RkNGbTVTNllwaWVzM3V2RXNLVzZ0QXMxcXYxUGhqRlRXMUZzMksyWGhuQjVXeDNZNzY4djBBcUVXN29vdUd3XzVOQnRhZlhhbjhxYWhqYnJ3NC1SQWpsTDMzWFFFUUhZNEphMDAySzA3ZUxHOHdMUHhEcFhlcDNCSkU2T09kUk9Md0V0eGZtNS1jQVlfeU9DaDNvVHhpQkVYeURtU3c2Ui1hbWR1bEcxeW82ZEFSYVpPZzhGTXBzRkt0aWVHQTg5LThCa1Q?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 19:44:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNamV0S3NDVHNlVzNFRUVpRUhXTDc0bWxKbExPLS1ockNnMU1ZVnpRWkk0MnA1X01vQ3piVGhjNEFkUlNUNUJ6TDgydS1UMkRrWGs3SVYwREZ6V19waEtkblcxTGRGYjFuaUJhUDRjeUM2Q0tCeXlZT1hQMUV1SWU2NHZRZFdhc3k5dUZHMW9CdmhkbjdGNk0tVy1ScmRQd1RNOFE5TlVCRVNXaXkyMFBvYXhwN0dDT0NsNk"
+      "published": "Fri, 06 Nov 2026 17:23:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc0htY3ptUi1OZDRiS0JoSFF6QjBBcjVTQ2ZNNTRQU3JPclJoN0xtR1IzemNKZFJFeUxYTFktOHZIZ1N4RG5ObmN5d1Y1U3JrZU5GWFVfeXBzOWRLRjFPcG5PeldsWnllN00yMlJsbko0TVV4WEx0a2dOYVNHME1KNk45eGc4Z3JiYWdrYld3eDdOSVZneTU3NVdxLUlsY0ZBLUtwMUJLRnZ1Vjh4Q2p4N09zMmc1aHZkb1"
     },
     {
-      "title": "Regular sin frenar la innovación: el desafío de Argentina frente al avance de la inteligencia artificial - Revista Quórum",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW9jMFM4TmZscG53MXBxajBSSG5YS3l4ZE1hWmRBUDNxQms0cDlwVi1EY0poVU1CYjNXaTBtdFd2WFVKSGpHVUFyYWY3TV9CYWMwd09Ec1ljaWVBUTlGR05yejg4dHB5d2VPUDBrUDlKb2FVenFGSE9IOGFndml2bHR3UlBqQkNRbWtkcnhtc1F4dGs5RjllcWtOblFpcUc1bnNQRFJoSzBROUFpWURnRXRMRks1SlRGUXZPQlpvVWF1RUU0S1cydGxxVzA2ZnRRemV5amNwX2JJWmkz?oc=5",
+      "title": "Impulsamos la IA para modernizar el Estado y mejorar los servicios públicos - Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDI1c1N5Q1hqcUsybFpMSndwTVdoVU5LOWVDdnFjWE5NUmk2dXdNcnlwX1pJMWg5S25MaS10OHpVZTFqMGh5Q1hCZ21wWmhjSFVldnV1amxVbzBVeXYxX1dKSi1NU1ZWdkZNSzJzTjgyV1J6MmRrYk5GMEtpSENQRms1RWJiU0k2cXNOR0hWNlJJUHc4LS1NXzJxWmpZTWVhWHU3T1BaNHZWR05fZlkyekNoWQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 18:46:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVW9jMFM4TmZscG53MXBxajBSSG5YS3l4ZE1hWmRBUDNxQms0cDlwVi1EY0poVU1CYjNXaTBtdFd2WFVKSGpHVUFyYWY3TV9CYWMwd09Ec1ljaWVBUTlGR05yejg4dHB5d2VPUDBrUDlKb2FVenFGSE9IOGFndml2bHR3UlBqQkNRbWtkcnhtc1F4dGs5RjllcWtOblFpcUc1bnNQRFJoSzBROUFpWURnRXRMRks1SlRGUX"
+      "published": "Fri, 06 Nov 2026 15:35:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDI1c1N5Q1hqcUsybFpMSndwTVdoVU5LOWVDdnFjWE5NUmk2dXdNcnlwX1pJMWg5S25MaS10OHpVZTFqMGh5Q1hCZ21wWmhjSFVldnV1amxVbzBVeXYxX1dKSi1NU1ZWdkZNSzJzTjgyV1J6MmRrYk5GMEtpSENQRms1RWJiU0k2cXNOR0hWNlJJUHc4LS1NXzJxWmpZTWVhWHU3T1BaNHZWR05fZlkyekNoWQ?oc=5\" t"
     },
     {
-      "title": "Más de 200 jóvenes de 20 países inauguraron en Buenos Aires el Congreso Ana Frank: memoria, democracia e inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUThTLXd1VGNrQVpmS0lZbmlfVnhjRFNkaVFWOGVwV1RFSUFrc3pBRUtDaEtMMjVIMjZfeGhBTENnUmk2U00yazA1QW41RWVaQWYtUUc4VzZnWVluSXhEWGNHS0ZudkNlOVFKYXRKSzRJMGZfWWlPdmE4aVZNQXRvMlJOMDU0U2tVWkJxUFZnck4xUjJoVVNFVnAxNmlDODlhaEdtVHdqMDZmeTAwZ1k1RmhEN1dKV3NLZ2owdnZDU2tYMk9od3NQQnFER2pZdnJSMjdneHNUN01fM2ItZHBXYl9Ud3VaY2owa0FTc2JfTkI0b3VfSmI4Qlg2SEoxT2Nv0gGbAkFVX3lxTFB2djFNYnFrVUU4QXBnaU9KbWZhTUxxZUlsZmZGMmF5YjljcVR0anJkQXI4R01VZHA2TUNDNkhGQmM0ajNSYjJ1ZGRibTBMQmZZeUx1MG1KOUE4N1hlLWlFQTc0SVhkaEpfSHktU2xONzZONGI5Q0tJcUhaejZScEhYandjSmZXVGFlVGpQQXNicC1BZGJiMVZUZUdkNGVMLVQwdzBTdVZoU0xocDYtMXdoa1hBMmxvRTgzOGt2Y0N5R1p6MHJEaFdLOTVzUzRaN0NuTTllZmxodEtCV1NGQW1SY2o3RGtfajhEcmk2dG9IcFhXc2k3X0hwZjZYd01DX0M1M3hSV1NONl92V2V3bHJmMW9INFR5MllGSk0?oc=5",
+      "title": "Cómo será el encuentro global de mujeres líderes que analizará en Buenos Aires el impacto de la IA en negocios y mercados - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZndaSnk0RDh1a04wRHJFUWtEbXZTT2pKUGpnS05nTHdOVTN5Y0hNWHY4bTJaNlJXakEyMnlpOWROTU9FMkhnREdWekIzNDJxZmlyY3hScjF4Q1BLRmphMXJsMnpiMGtFR3lHMXFpQkVpTzdGbml4d1NMVU9qckZSNWtDWDE1bDRaZXZLWXh0YV9TZ19DWm1KTjh5M0Qxa0RDMlpQWHp1Y0tqTkdYMWRreDloYWZfX2prUHh5eUdnODEtMjRMVVlkSzRyb3ZlUHctUGxTLTMtRmJ3ekotMzhZMnMxLUNRSVpMTEFJYmlpemNVSll4UzM3M1p30gGUAkFVX3lxTE4tOUxaUGpZSHJGWk1UVzZhZnVkSk5zVXk4R2ZQZE5oN25ibFhFUGJqYTFRcmRQamJPMnJPdjZmRUVyZ3RIcW5WeDJRVm92ZVRhQmRpTVJRemdBckpaQWttNGhLVUFWNllRelE1Q1RPNEtOZjZfa1BRekloczhuMm5pMDdIN1lCOFFHS1FWRm83Zlh2cTY3a3JEX19vc0FIdDliTUkzai1tUkY3LXdHaGl0TlRwaFpkaHRpbTdMSFk0YXRkbGlDa0ZWa1ptRGRUZ0tUb0U2SF94LUtKblEwdEtZekdub0pYeklYTjFwYjhRYnYtRHBZNGlPVnBNY04xeGtNS1RhV2w3YnF1b09xbEpsRGw4Nw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 16:58:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNUThTLXd1VGNrQVpmS0lZbmlfVnhjRFNkaVFWOGVwV1RFSUFrc3pBRUtDaEtMMjVIMjZfeGhBTENnUmk2U00yazA1QW41RWVaQWYtUUc4VzZnWVluSXhEWGNHS0ZudkNlOVFKYXRKSzRJMGZfWWlPdmE4aVZNQXRvMlJOMDU0U2tVWkJxUFZnck4xUjJoVVNFVnAxNmlDODlhaEdtVHdqMDZmeTAwZ1k1RmhEN1dKV3NLZ2"
+      "published": "Thu, 05 Nov 2026 21:41:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZndaSnk0RDh1a04wRHJFUWtEbXZTT2pKUGpnS05nTHdOVTN5Y0hNWHY4bTJaNlJXakEyMnlpOWROTU9FMkhnREdWekIzNDJxZmlyY3hScjF4Q1BLRmphMXJsMnpiMGtFR3lHMXFpQkVpTzdGbml4d1NMVU9qckZSNWtDWDE1bDRaZXZLWXh0YV9TZ19DWm1KTjh5M0Qxa0RDMlpQWHp1Y0tqTkdYMWRreDloYWZfX2prUH"
     },
     {
       "title": "Radiografía emprendedora: cómo se posicionan Buenos Aires y Córdoba en la carrera regional por la inteligencia artificial - Forbes Argentina",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNTlpYVJnOFoxdVVyQ3lKY3RZdll5UC03TWctLVluZ1pyNmNHQmxqM2FPMFBrRTdLY29LcDNycWN1cFR5a3NENlN0WWZYSzdJdW42UkQ0R3o2M3ZzRl8wU2tPUVhxWDJ3QW1OWlJ4OW1SQ2tRNFR5QXp6XzRueDUyY3MtUXFQdkJicUZ1S2NLQmx5N0lEbUZwelFmSmJmMkVDS2JENjRyRHROTXZ3SHdaazNCbTJ3M0tPOV"
     },
     {
-      "title": "Sadin alertó en Buenos Aires: la IA es una “nueva forma de muerte” - El Argentino Diario",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlBYak1zaVZwcDBoR0k2YTQzblJhajFoWW5DVlR6Z2d1aXFxbGlOVExuN3lLbUVZYVdpa3Q1aXhMYmFrTE8tU3ByZXoxell4S0kydkxEeWs2dEt4SXZtR2VSZWlJMEZhZUtuMmVNdnk1UXBrYUhUbGlrdmF2dGZ4a0RjV1pmUldWOUpVWUVfUjlrMmVNUG9yZUNHbWIyaFg0R2dzQktjMnFfaER1MWswdEhmYi0?oc=5",
+      "title": "La IHRA cerró en Buenos Aires un plenario centrado en América Latina, los archivos y la inteligencia artificial - www.elobservador.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcEdqQmk4NTRDMzVnQmtUN242Q1haQXZkUWFVYml0bHZQSFJOV2Q4YXZxVm54YldubjhobUVlU0F3c0lsaTJ2cThrT3NZcWVQak1zWHd2My1PaDVobFdLbjllQkRyVDFTbjNvdk1GTkpESGpmS0xRbVZPeXVoSmFobDdJbjY4Z1NHd0Z5QW5jeVlwdjdvSkhXX2VjS0ROQjFwYjNISUJjWldaRGpBbWhZTzBWUHd4Nm5ISktPNmdjc0prYmVuZ2pUZldVd2FMT2oyRFdlQmxzdlF2MWg3VGlpeHdxSkQtMlJWOG0tTElrQ2piVnM?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 22:47:28 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlBYak1zaVZwcDBoR0k2YTQzblJhajFoWW5DVlR6Z2d1aXFxbGlOVExuN3lLbUVZYVdpa3Q1aXhMYmFrTE8tU3ByZXoxell4S0kydkxEeWs2dEt4SXZtR2VSZWlJMEZhZUtuMmVNdnk1UXBrYUhUbGlrdmF2dGZ4a0RjV1pmUldWOUpVWUVfUjlrMmVNUG9yZUNHbWIyaFg0R2dzQktjMnFfaER1MWswdEhmYi0?oc=5\" "
+      "published": "Thu, 05 Nov 2026 22:47:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcEdqQmk4NTRDMzVnQmtUN242Q1haQXZkUWFVYml0bHZQSFJOV2Q4YXZxVm54YldubjhobUVlU0F3c0lsaTJ2cThrT3NZcWVQak1zWHd2My1PaDVobFdLbjllQkRyVDFTbjNvdk1GTkpESGpmS0xRbVZPeXVoSmFobDdJbjY4Z1NHd0Z5QW5jeVlwdjdvSkhXX2VjS0ROQjFwYjNISUJjWldaRGpBbWhZTzBWUHd4Nm5ISk"
     },
     {
       "title": "Una startup argentina fue premiada por desarrollar tecnología que transforma los servicios financieros - TN",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUzRsRTYxanRqWnBYVkpseWgybHc5Z3g3WGVxOHlTTFBmZDV5Zk9vWV91bXhRRWlFMkl3aExFamsza2I1QTdYal84M29HdVRSUGhEN3NCWVhWdTc4d0RwT0R3MzRlUEVDcjVNQXU3d1pkeFNSa2VJWGJJVFNhWGk5SDRzYVY3TGVueGN1T3RHeEZfNFNFVV95anJOQ2w1SHZ6SUx2cVJwM1hlMGtvc3RUeWE1T1B6QjBFdT"
     },
     {
-      "title": "BCRA: el derrame es positivo, dice su vicepresidente - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjlYVThtREdjTDUwSzhsY2R0ZTVzeEFlZF9kanVoa2YzYi0wMjR6YTFPVi1PUHp6N0d0c2t6cHJWNXM3c3pPb3BiLUNHMk9XZVhGSFhkdVlxc3JId01FajRrOUljak5RNjhWcTczYmlyajRrV2lZbUE2THVYVlV0ZXJhb0tTTThr?oc=5",
+      "title": "Endeavor Argentina elige 11 startups para ScaleUp 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcl9YT20yUFRJUE5iWUZIdU96SE9HdnRNNHRhbXpOZFdiNmFXMXhlQTdsLWRJZnVzYVl4M1lpbm1sVUtEWDNJLXBqSUxZWjNidWlFb1hwYXhSbTlzXy1VSkVEb09KWHhqNFhzYTJVZGlaVnptRlpMR3ItNld2QjBkSWkzMTVtdWl5dWFhVkZR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 14:24:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjlYVThtREdjTDUwSzhsY2R0ZTVzeEFlZF9kanVoa2YzYi0wMjR6YTFPVi1PUHp6N0d0c2t6cHJWNXM3c3pPb3BiLUNHMk9XZVhGSFhkdVlxc3JId01FajRrOUljak5RNjhWcTczYmlyajRrV2lZbUE2THVYVlV0ZXJhb0tTTThr?oc=5\" target=\"_blank\">BCRA: el derrame es positivo, dice su vicep"
+      "published": "Mon, 02 Nov 2026 18:09:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcl9YT20yUFRJUE5iWUZIdU96SE9HdnRNNHRhbXpOZFdiNmFXMXhlQTdsLWRJZnVzYVl4M1lpbm1sVUtEWDNJLXBqSUxZWjNidWlFb1hwYXhSbTlzXy1VSkVEb09KWHhqNFhzYTJVZGlaVnptRlpMR3ItNld2QjBkSWkzMTVtdWl5dWFhVkZR?oc=5\" target=\"_blank\">Endeavor Argentina elige 11 startup"
     }
   ],
   "count": 14

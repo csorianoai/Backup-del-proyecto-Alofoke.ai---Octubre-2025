@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Los mejores celulares de menos de 12,000 pesos que puedes comprar durante el Buen Fin 2026",
+      "url": "https://expansion.mx/tecnologia/2026/11/06/mejores-celulares-de-menos-de-12-000-pesos-buenfin",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Nov 2026 20:00:20 GMT",
+      "summary": "Samsung, Motorola, Xiaomi, HONOR, OPPO, realme y vivo tienen opciones para renovar tu smartphone. Conoce sus características, precios y cuál conviene según tus necesidades."
+    },
+    {
+      "title": "‘Moche digital’ será un nuevo IEPS a teléfonos, memorias y es anacrónico, advierten",
+      "url": "https://expansion.mx/tecnologia/2026/11/06/proximo-celular-podria-costar-mas-nuevo-ieps-celulares-laptops",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Nov 2026 17:08:19 GMT",
+      "summary": "Analistas alertan que cobrar un 2% a celulares y laptops para compensar la 'copia privada' genera una doble tributación para usuarios que ya pagan IVA en plataformas de streaming."
+    },
+    {
+      "title": "Meta, Google y TikTok contraatacan: lanzan ofensiva para bloquear ley que prohíbe redes sociales a menores",
+      "url": "https://expansion.mx/tecnologia/2026/11/06/meta-google-y-tiktok-contraatacan-leyes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 06 Nov 2026 16:00:18 GMT",
+      "summary": "Las tecnológicas no cederán tan fácilmente y argumentan que las medidas en torno a sus algoritmos violan sus decisiones sobre cómo y a quién mostrar su contenido."
+    },
+    {
       "title": "De tiendas falsas a empleos inexistentes: las nuevas trampas de internet",
       "url": "https://expansion.mx/tecnologia/2026/11/05/estafas-internet-2026-tiendas-falsas-empleos-fraude-ia",
       "source": "Expansión Tecnología",
@@ -19,52 +43,28 @@
       "summary": "Uber reveló que los agentes de IA apenas consiguieron cuatro viajes y 500 pedidos de comida durante una de sus semanas de mayor actividad. En México, estas integraciones todavía tienen limitaciones."
     },
     {
-      "title": "¿Ocarina of Time o GTA VI? Tras jugar una hora el clásico de Zelda, tengo un claro ganador",
-      "url": "https://expansion.mx/tecnologia/2026/11/05/resena-legend-of-zelda-ocarina-of-time-es-mejor-gta-6",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Nov 2026 17:01:02 GMT",
-      "summary": "La nueva entrega del clásico de Nintendo tiene la mezcla perfecta entre nostalgia y actualización que mantendrá a los fanáticos de Zelda jugando por horas."
-    },
-    {
-      "title": "‘Moche digital’ será un nuevo IEPS a teléfonos, memorias y es anacrónico, advierten",
-      "url": "https://expansion.mx/tecnologia/2026/11/05/moche-digital-ieps-a-telefonos-memorias-y-anacronico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Nov 2026 11:55:19 GMT",
-      "summary": "Analistas alertan que cobrar un 2% a celulares y laptops para compensar la 'copia privada' genera una doble tributación para usuarios que ya pagan IVA en plataformas de streaming."
-    },
-    {
-      "title": "Nuevo León necesita 40,000 técnicos, pero empresas tardan hasta 80 días en contratarlos",
-      "url": "https://expansion.mx/tecnologia/2026/11/04/nuevo-leon-necesita-40-000-tecnicos-simmit-norte-expansion",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Nov 2026 00:25:57 GMT",
-      "summary": "La escasez de personal especializado presiona a la industria del norte del país. En el Expansión Summit Norte 2026, especialistas plantearon que formar talento puede reducir costos y mejorar la productividad."
-    },
-    {
-      "title": "Muse, la IA de Meta, llega a México para hacer tareas del trabajo y la casa: es el primer país latino en tenerla - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGVOMF8taTVpU1dMbHZHdEVVcENVYXoxZWJwNkRKOG1zeTZQVVhSaF9qMDVTQUtWOVhLYWcyLXBGZTdyNU9xVWZrYlEtWldBcTZtcTh3cHFiNWdkZ01UeTZYTVc2U05wTkZvOWtzTWR1VG9hT3l2S2l4UDE0S1E3OTNrYnFDdFV3TEdBSnlLOHZVNm5oZ3pwQnVXWEFFSzNsbDRuRUktTGpjeVlXZ2RaVzh1QUh3NDdUS3YzeVJ1U1VwVEVqZVVjVEFGXzlCTmZpM1I0Y01ZbW5sekllVmdOajM1OHlQUdIBgAJBVV95cUxNNnFMRHo1Vmp2Yk5yUWxXcVF3MHZYVWVfelV2YUotY0FHVTlaaU5zZ2d1R1JGNkNldmlhX0huN0NPV1M3SXg5T3NhMzVnR0pJdkE2dF9SSkdNWFVhWGJfUE0tNG1OOWZQUlNZbXkxekNpbEc4bnFfQm5VR0Z6MjhjWFo3VjhOOEsxYXUzSTZRaXFXbllsQ3VSMHlRYXVyMGJUUkVQLTBzZmJQYjZ4OGt4UTB3SktFQXk1MlkwckpKOElKVU9XX1BiYXRFbUl2RFNYVGRWb3FwYnNyZWNYX0FOOC1ZeWM4bnlXaFBxWTBQem5va1RYTDJwOGxfYVhrb25P?oc=5",
+      "title": "Growth Hacking México: dirigir la IA sube ventas de 30 a 39 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmNLdGlJSVFKcEtyRkxCOFVsM0JNc3VzMjZUclhjYnJaV1BUSG9hTlg1eTNtb0NNVmJ5ZTlhRHhkXzlLRzlyUng4TmkxQVJHc1NicTd3cVl4UFI4YTM0TnlyblJrUUg4N3JLd1dPN2l0ekhUQTE3dk9tUDAxRHNKRFZQS29GMjBPTmFSZDcwWXptMjg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 20:57:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGVOMF8taTVpU1dMbHZHdEVVcENVYXoxZWJwNkRKOG1zeTZQVVhSaF9qMDVTQUtWOVhLYWcyLXBGZTdyNU9xVWZrYlEtWldBcTZtcTh3cHFiNWdkZ01UeTZYTVc2U05wTkZvOWtzTWR1VG9hT3l2S2l4UDE0S1E3OTNrYnFDdFV3TEdBSnlLOHZVNm5oZ3pwQnVXWEFFSzNsbDRuRUktTGpjeVlXZ2RaVzh1QUh3NDdUS3"
+      "published": "Fri, 06 Nov 2026 19:06:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObmNLdGlJSVFKcEtyRkxCOFVsM0JNc3VzMjZUclhjYnJaV1BUSG9hTlg1eTNtb0NNVmJ5ZTlhRHhkXzlLRzlyUng4TmkxQVJHc1NicTd3cVl4UFI4YTM0TnlyblJrUUg4N3JLd1dPN2l0ekhUQTE3dk9tUDAxRHNKRFZQS29GMjBPTmFSZDcwWXptMjg?oc=5\" target=\"_blank\">Growth Hacking México: dirig"
     },
     {
-      "title": "Inteligencia artificial en el periodismo: Retos y casos de éxito en el México AI in Media Forum - Alianza de Medios MX",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSm5yamZXR3Ffc1FrdHhLYUd1aUk1MXh2TXFpWVpwU09aQzgwRHNFejF4eldFeWxibWVQQVZPT1Y1NlZWQW9jbFpHSWx6VVYwTy01Ri02aS01S2hNekh4YUxpQm5OcnVQQ1RINzZmZHJtRXFTS3VDeTRzYlBOMXFDemwyM3hDbWFsNURqcllyUXpSNXFfMC1SLXp2TGhmZDVtY0E?oc=5",
+      "title": "“La Bruja de las Ánimas”: así es la película mexicana de terror creada con Inteligencia Artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXktemk0eEl1RXFVNm5uOHJLQno0TWRGbUppVmE3MzNiaFREYndTLU5WMnZQUDZZNE5UQ2RzT08yeFkzUlBRTF9qckcwQXdSeG43SnJfUkw3UlJRSnVYVE5JY1ZBeDk3NHhQaE5lZU1VNUJ2OXpRQ3U3Q1lqT3I4amo0czRGYTVzd2M1SWlEbG0yN0R3OEl6eTVPZnpvT0xmcEg4eThaczJDUlJvVlpob2FVWHBfd3owMDlIOHhiWG1SZVdUZFRrSXNqR1F0dmFyUmJ1ddIB7wFBVV95cUxQQllkbzVTbXROeFlQUWxJVjhIWXQ1WEZDb2hHZ1R5NEFYWElQNGgwVmduc1pJbk5YNHFiS1RQV1FaR29HcjVqRXBVLTlLNVZ2bVdKWGlST2Rrby1rdFFfSlkzb1ZHa240WjVFM1QyLWFaQ2pDdjU5NGxzLUlZU3RZX3o3RVpfZ19ETnFtV3NLeUsyNlBIczlsRi1SZjJNenRlZGZoV0xmWnBOdWNXTXZMRXFQcjlvNGljWTJGZ3A0Rk1tRnhZcmZGUzRTRy1CTXZtbjNFb3JkOE1XWEN5SnU3blpMN0JjWldZV1I4TG94TQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 00:08:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSm5yamZXR3Ffc1FrdHhLYUd1aUk1MXh2TXFpWVpwU09aQzgwRHNFejF4eldFeWxibWVQQVZPT1Y1NlZWQW9jbFpHSWx6VVYwTy01Ri02aS01S2hNekh4YUxpQm5OcnVQQ1RINzZmZHJtRXFTS3VDeTRzYlBOMXFDemwyM3hDbWFsNURqcllyUXpSNXFfMC1SLXp2TGhmZDVtY0E?oc=5\" target=\"_blank\">Intelige"
+      "published": "Fri, 06 Nov 2026 19:13:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXktemk0eEl1RXFVNm5uOHJLQno0TWRGbUppVmE3MzNiaFREYndTLU5WMnZQUDZZNE5UQ2RzT08yeFkzUlBRTF9qckcwQXdSeG43SnJfUkw3UlJRSnVYVE5JY1ZBeDk3NHhQaE5lZU1VNUJ2OXpRQ3U3Q1lqT3I4amo0czRGYTVzd2M1SWlEbG0yN0R3OEl6eTVPZnpvT0xmcEg4eThaczJDUlJvVlpob2FVWHBfd3owMD"
     },
     {
-      "title": "Inteligencia artificial en empresas: el reto de convertirla en resultados - Grupo en Concreto",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRENtQ1R6bUZJR1V4Z0Frdm5ia3BibGtObXc2V3FGZUR0ZnB3UkNOc2wwU3owTUxhXzU5eGtCYUVnZUUyVWFnN3pCRWVoME1rWFo3anFPSVBVc3paZHRJaFR3dkFhUGZPdld2cUtYNEdXVnVjYTM3c0dJclhyQkNhTFA3cERNQjJ2eVVRQWdSTU1tYVh5bUxKNEFyaXdwcEI3RUxZblkzX3lpUjluWjRSeU9SS2pkUnFybm1hSw?oc=5",
+      "title": "Iberoamérica apuesta por una inteligencia artificial propia - Publimetro México",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3hlTDZEM210OUhIYzJTamZwQkg1RTBpNGhqcDZqTGg0YWhfZHBjbFd6MzFuTWdKNGRHX0hpcER5YmZ5ZElUNkk2V3BOc1laTjJ1dndjbWRwOFRSMUpCOGZMSTktUGRqUmY4YnE3RTJWYTZkT2RQRDc0WXh6WjFLOXEyZUZHdkZnMzR2MmVwdVVwWnlNcEV6QkhYSHZqdG80Zk5lYXdDVTBZaTExNXlV?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 22:18:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRENtQ1R6bUZJR1V4Z0Frdm5ia3BibGtObXc2V3FGZUR0ZnB3UkNOc2wwU3owTUxhXzU5eGtCYUVnZUUyVWFnN3pCRWVoME1rWFo3anFPSVBVc3paZHRJaFR3dkFhUGZPdld2cUtYNEdXVnVjYTM3c0dJclhyQkNhTFA3cERNQjJ2eVVRQWdSTU1tYVh5bUxKNEFyaXdwcEI3RUxZblkzX3lpUjluWjRSeU9SS2pkUnFybm"
+      "published": "Fri, 06 Nov 2026 15:46:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3hlTDZEM210OUhIYzJTamZwQkg1RTBpNGhqcDZqTGg0YWhfZHBjbFd6MzFuTWdKNGRHX0hpcER5YmZ5ZElUNkk2V3BOc1laTjJ1dndjbWRwOFRSMUpCOGZMSTktUGRqUmY4YnE3RTJWYTZkT2RQRDc0WXh6WjFLOXEyZUZHdkZnMzR2MmVwdVVwWnlNcEV6QkhYSHZqdG80Zk5lYXdDVTBZaTExNXlV?oc=5\" target="
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -91,6 +91,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
     },
     {
+      "title": "EXATEC impulsa proyectos de IA para resolver retos globales - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWW"
+    },
+    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Wed, 28 Jan 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEdFU0FzdXc2Sld6YVJsR3VYTkRPVzVBeHhPVENHbkdKdFhmQlE1V1ZVV1ZfZW1VcFE4ZFVjbnpxMGNjTG9ucWRXYU9kcllvVUI2VzQ0NHo5T1RVZExQZlF6X1F3d0hmWmlWTmxGT3F4ZGlnRlViZFRESFhIRnVOMWEtN2JyT0hfNmV0NHZIV25BMDVjY1dQTkhXeEtmMHJpSmJsQlBvYnlpNnFSN1NpMENyd3c?oc=5\" "
-    },
-    {
-      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     }
   ],
   "count": 14
