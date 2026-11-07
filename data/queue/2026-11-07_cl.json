@@ -3,6 +3,30 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Vegetarianos vs. carnívoros: qué grupo ganó más masa muscular en un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/vegetarianos-vs-carnivoros-que-grupo-gano-mas-masa-muscular-en-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 12:02:00 +0000",
+      "summary": "Un ensayo clínico con adultos mayores comparó los efectos de una dieta vegetariana y una omnívora, ambas acompañadas de entrenamiento de fuerza. Tras 12 semanas, los investigadores encontraron diferencias entre ambas alimentaciones."
+    },
+    {
+      "title": "Cómo incluir fibra en la dieta podría reducir el impacto del alcohol sobre el cerebro, según una investigación chilena",
+      "url": "https://www.latercera.com/tendencias/noticia/como-incluir-fibra-en-la-dieta-podria-reducir-el-impacto-del-alcohol-sobre-el-cerebro-segun-una-investigacion-chilena/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 12:01:00 +0000",
+      "summary": "La Dra. Diliana Pérez, de la U. Autónoma de Chile, lideró el trabajo. Afirma que los hallazgos no significan que la fibra proteja al cerebro del alcohol directamente ni que elimine sus efectos. Sin embargo, identifican una posible nueva vía para abordar síntomas que persisten durante la abstinencia."
+    },
+    {
+      "title": "Rodrigo Quian Quiroga, neurocientífico: “Ningún modelo de lenguaje de IA es consciente de su propia existencia”",
+      "url": "https://www.latercera.com/tendencias/noticia/rodrigo-quian-quiroga-neurocientifico-ningun-modelo-de-lenguaje-de-ia-es-consciente-de-su-propia-existencia/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 09:00:01 +0000",
+      "summary": "El descubridor de las neuronas de concepto -conocidas popularmente como las “neuronas de Jennifer Aniston”- resume décadas de investigación sobre los mecanismos de la memoria humana en su libro más reciente  “La máquina del olvido”, donde resalta las características particulares y -hasta ahora- excl"
+    },
+    {
       "title": "Las consecuencias que está provocando el fenómeno El Niño extremo en los océanos de Chile",
       "url": "https://www.latercera.com/tendencias/noticia/las-consecuencias-que-esta-provocando-el-fenomeno-el-nino-extremo-en-los-oceanos-de-chile/",
       "source": "La Tercera Tecnología",
@@ -19,44 +43,12 @@
       "summary": "Un sistema frontal podría dejar nuevas precipitaciones en varias regiones antes del regreso del calor. Revisa dónde podría llover este viernes y qué sectores recibirían más agua."
     },
     {
-      "title": "¿El jengibre puede aliviar el dolor de estómago y otros síntomas gastrointestinales? Esto dice la ciencia",
-      "url": "https://www.latercera.com/tendencias/noticia/el-jengibre-puede-aliviar-el-dolor-de-estomago-y-otros-sintomas-gastrointestinales-esto-dice-la-ciencia/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Nov 2026 09:02:00 +0000",
-      "summary": "Investigaciones sugieren que puede ayudar contra ciertos malestares estomacales en determinados contextos. Sin embargo, hay ciertas consideraciones que se deben tener sobre su consumo, aseguran gastroenterólogos."
-    },
-    {
-      "title": "Hasta 35 °C: los sectores que tendrán las temperaturas más altas este fin de semana",
-      "url": "https://www.latercera.com/tendencias/noticia/hasta-35-c-los-sectores-que-tendran-las-temperaturas-mas-altas-este-fin-de-semana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Fri, 06 Nov 2026 09:01:00 +0000",
-      "summary": "El termómetro podría superar los 35 °C en algunas localidades durante el fin de semana. Revisa qué regiones tendrán las temperaturas más altas y cuáles serán los sectores más calurosos de Santiago."
-    },
-    {
-      "title": "Incluye a la Región Metropolitana: todas las regiones que tendrían lluvia esta semana",
-      "url": "https://www.latercera.com/tendencias/noticia/incluye-a-la-region-metropolitana-todas-las-regiones-que-tendrian-lluvia-esta-semana/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Nov 2026 09:03:00 +0000",
-      "summary": "Aunque se esperan temperaturas sobre los 30 °C durante el fin de semana, un nuevo evento de inestabilidad podría dejar lluvia, viento y tormentas eléctricas en sectores de la zona central."
-    },
-    {
-      "title": "Chile participa en encuentro APEC sobre uso de inteligencia artificial para prevenir accidentes laborales - Subsecretaría de Previsión Social",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNek9ldXduNGttTjFaYTdXZWlfV1VwU3FzaWU5cEZiMGF1YjNWWkZ3eC1zY1Z5QWJ2SHFnNW9KSzJZR1NiNzNIdmRhUHhhclR1MkxBTXpiekQ1QzRyUkp3Y29NNktjTWdZSVdYT2c5S0lnV1N2RVlHMDZDaFhjLUk4SjlJNU5qeEhvUVF0UFpkcF92aWdfbXpPTEJkc1BzcGo1b05WRUI0bklXbGpFajZFcHB2dzU2LXJJc05aRzlwSGpRNUsyeDFTOXhwdnRsanBFMmRz?oc=5",
+      "title": "Tu mango con chile va con IA de la que pica: Así usa Tajín la inteligencia artificial - El Financiero",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmN4V3RBTXBhR19LRk0xU254bVNMTFIwcDVsYVk1ZUlQYURuLWgtY1hfRkMxYTdRY3JWNVNoc3hCQlFzQjVWZU1TajhodzVQN1J3c0dwaUtjY2ZCUXRMS1NNTlFERHRVVEplbklrVTRpU3AxczRocHNrdnhxd2dna2ZoUmluTUQzdkpoQmlXUmFYV09ROWduZC01YkxOeDA1UWhCNTFKemxRcnRYVFd5LUhIRjF5RHBMTFJTMmQ3bXZtTG5WMXladUxYSlZjTFBxU1Nv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 19:03:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNek9ldXduNGttTjFaYTdXZWlfV1VwU3FzaWU5cEZiMGF1YjNWWkZ3eC1zY1Z5QWJ2SHFnNW9KSzJZR1NiNzNIdmRhUHhhclR1MkxBTXpiekQ1QzRyUkp3Y29NNktjTWdZSVdYT2c5S0lnV1N2RVlHMDZDaFhjLUk4SjlJNU5qeEhvUVF0UFpkcF92aWdfbXpPTEJkc1BzcGo1b05WRUI0bklXbGpFajZFcHB2dzU2LXJJc0"
-    },
-    {
-      "title": "Pacto Pyme: becas de IA para pymes Horeca de Chile - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWdqNVlaTVpFd2ZxMWt4WUZvcm5vdUJxRVhXNk9wWm1VYjRKanA2bWRmY3JWSE1NMEtSNHYzWnhtOWwzX2ppX2NsNXlOblROcEdFT19JMnVULUVNd0ZBNlhNMVhoem83RGZ3eE5WMXlQVVJIWUtKY0l3YUVWSHJtQnpUN0NNNjg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 06 Nov 2026 22:36:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWdqNVlaTVpFd2ZxMWt4WUZvcm5vdUJxRVhXNk9wWm1VYjRKanA2bWRmY3JWSE1NMEtSNHYzWnhtOWwzX2ppX2NsNXlOblROcEdFT19JMnVULUVNd0ZBNlhNMVhoem83RGZ3eE5WMXlQVVJIWUtKY0l3YUVWSHJtQnpUN0NNNjg?oc=5\" target=\"_blank\">Pacto Pyme: becas de IA para pymes Horeca de"
+      "published": "Sat, 07 Nov 2026 13:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmN4V3RBTXBhR19LRk0xU254bVNMTFIwcDVsYVk1ZUlQYURuLWgtY1hfRkMxYTdRY3JWNVNoc3hCQlFzQjVWZU1TajhodzVQN1J3c0dwaUtjY2ZCUXRMS1NNTlFERHRVVEplbklrVTRpU3AxczRocHNrdnhxd2dna2ZoUmluTUQzdkpoQmlXUmFYV09ROWduZC01YkxOeDA1UWhCNTFKemxRcnRYVFd5LUhIRjF5RHBMTF"
     },
     {
       "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
@@ -67,6 +59,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
     },
     {
+      "title": "De Bill Gates en Chile al Súper RIGI de Argentina: la minería detrás de la inteligencia artificial - Acero y Roca | Magazine Minero",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWncycU1WSnIyMm1BMmZIbWNfSll2UGkzOVdQNjRBd2czZ0l1eGJGSlpBdTFLZ1c3LURtSFFqWnBSbl91X1BON2xublU2M3hvWWNxbFJEd3ZYTmNwTlpTMExzNXFrelhSWGhLSjI2Yml3c2k5MVg0ZlZPSUIwd2dIdDFtQXBWeE9FS3ZYZjhOSURSMC1PX3huXzdXWGtYaFlkNDFhZzJ3NA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 05 Nov 2026 18:25:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWncycU1WSnIyMm1BMmZIbWNfSll2UGkzOVdQNjRBd2czZ0l1eGJGSlpBdTFLZ1c3LURtSFFqWnBSbl91X1BON2xublU2M3hvWWNxbFJEd3ZYTmNwTlpTMExzNXFrelhSWGhLSjI2Yml3c2k5MVg0ZlZPSUIwd2dIdDFtQXBWeE9FS3ZYZjhOSURSMC1PX3huXzdXWGtYaFlkNDFhZzJ3NA?oc=5\" target=\"_blank\">D"
+    },
+    {
       "title": "‘IA y expansión nacional para atender mejor a los clientes de Santiago Vélez Corredores de Seguros’ - Portafolio.co",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcUFzbXNOYmJaQ1Uyc3JySVM2a3pyV2J1SU1IaHlHb1U3UTNiTTJ4a0hB0gHnAUFVX3lxTE5GeXppVjZXYmZhYmJNLXVCcHFITmJTUTI3c2ttc3BhNmxtRXR0dWd0dm1CZkRGN2RVc3p4SkhEbkdVQ2pNQ2JMa0xCUnpZQXJOc1JSZFVFTmVyVVZra1kweVhQSUZGM2x6V2NzeFRfM1ZxS0REeWJ6T0RHM2FVR0pMZS1icHE0WFRwbEpEQnZialkzTXJtdkVpNXRkN0RmcnFBam9NWExXcVVRdzU0c3Z2WjFRZUFWOWhjNnVqR3pqWHpPbXVFSU83QmhOR1JNMmVJTGZYeGozRkhVTzUtYTV5ZlJTNzgtbw?oc=5",
       "source": "Google News",
@@ -75,20 +75,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcU"
     },
     {
-      "title": "Niño Becerra alerta del impacto de la IA: menos salarios y más desigualdad, también en la industria del coche eléctrico - Híbridos y Eléctricos",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlhXYTB2LTIzUjZpVjRXTU83QmYyalJOeGliZ3RHRGtQbXZ2NXRjVHNFdTUyd1Zzc1pyYlQ5VUVVb05JVWtrcjl1Tm1uMGZmdGhoS0ZrOTR1ellqWjZQeWRCMWwxSHFOZVRaUXBiS1h3NGdiNG9XYnVXNTBZR2EtM1lTMEhyMi1qUHlEbnAzZlFlWkZNQXdMd3dzdm53Wm5sN0hJWjRpb0dfZ1phNVotVS1MX3VCZmh2X0twUV8yamF6S2hVcjZ5RHp5d2JManFOUUpKemZfN0RGeTY0RTMzVUpyZzd6ZTVVMFRZSA?oc=5",
+      "title": "Academias pontevedresas ante la IA: \"El trato humano es insustituible\" - Diario de Pontevedra",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUNKYVhkOTRrXzg2LUhzS05icGpEOUd4cjlvRFBHc2RoeEZ2TEUyZEhkOXZWQllKSlZzNmNMei1DU2FBOTFWanlpVG91dVNVUU5tOXVjdnlISjFBcEZKVEF2UU1pMmJIUV9RcHJieXVsdF9aeURkM0dIR3BDNGJ2MkVfckRyRDlNdWNLRk9Bd2k2Q3BQUW0zT1FVaFBVY0FobXlaN0NZTVVoUDR6ZFdxemZNT2dVeE9MeFdDaTRzZWo2Nms4UGRjRUo3S2thZTQ30gHWAUFVX3lxTFBrLVBYbkg3WjRVajVjUGVjOTNpUTNuM3IyYk9ac1M5Z25JQ19oaEM1SzhMYjdmQlVIQTFvQWZMTFFtQ1F1QkFuMjhGRGNnQmVMOGpKaHlEekJHVVc2ZEF4R3pybzdwMTFxRzRUdThnZTVfSkNyUVhic2FiM01xX3BBZktTT2dfZlpxVzJKVlZSZUlTY1FnclJVenpvSVNIdVpDLWlqcTlicWVDMzF3UXNXeFJQV3BrT1Z1MndiMV95YVNRR3dlZm1LaE9hTlY1MnNiQVZkQ0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlhXYTB2LTIzUjZpVjRXTU83QmYyalJOeGliZ3RHRGtQbXZ2NXRjVHNFdTUyd1Zzc1pyYlQ5VUVVb05JVWtrcjl1Tm1uMGZmdGhoS0ZrOTR1ellqWjZQeWRCMWwxSHFOZVRaUXBiS1h3NGdiNG9XYnVXNTBZR2EtM1lTMEhyMi1qUHlEbnAzZlFlWkZNQXdMd3dzdm53Wm5sN0hJWjRpb0dfZ1phNVotVS1MX3VCZmh2X0"
+      "published": "Sat, 07 Nov 2026 15:26:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUNKYVhkOTRrXzg2LUhzS05icGpEOUd4cjlvRFBHc2RoeEZ2TEUyZEhkOXZWQllKSlZzNmNMei1DU2FBOTFWanlpVG91dVNVUU5tOXVjdnlISjFBcEZKVEF2UU1pMmJIUV9RcHJieXVsdF9aeURkM0dIR3BDNGJ2MkVfckRyRDlNdWNLRk9Bd2k2Q3BQUW0zT1FVaFBVY0FobXlaN0NZTVVoUDR6ZFdxemZNT2dVeE9MeF"
     },
     {
-      "title": "Javier Echeverría: «Los avances de la IA en las emociones son escasísimos, por no decir nulos» - El Correo Gallego",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGVremxpVGlvRlRHY0hyQWdUd3ZkZDhhdDdOUWlMekVYWUxZRzNmUVdWTUxiNXFJREFFdWFGQjBIMWY1bkdUT2RhMVFkSk9ncmVFcVhNOC1qZEU0VEZEUWRFVTdyVmV0QzlhSFN6MlBJX2hMQ0tqTmZpdmU0MmZITjBmTWluZS1ucFpCWGpfMHdGMlh4Y05mRk1USnBaeUVqcTcxWWpmQdIBrAFBVV95cUxNOWl0RGRSZ1FCREttRVN5Tk04RUFwWjBXNVFaVm9wdS1HeFNXUHpPYS1uZGxIcEdZdWt3UnNsWWhHcVIzemV5c2JyQU5VRGt3aHZQa1dvN09RUndEX3hSTmk0QXF3MW1PV1lYLVVoYmx1aFlxT191WkVKc2NsTXpyYUwxQ3RKampXeVJqS3lfd21kVzc0VDIyYWw2d2k2aVF4MFpYcVdaS0h5cGlx?oc=5",
+      "title": "Santiago Peña explora alianzas con Anthropic para impulsar la IA en Paraguay - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTllTlhQY28tazI1bXJJT3daMzI1LWJQZk0zbXRUeF9IQVV1cTI2RG44b2k0bVpCX0dPZDJuT3QwcUYyWENybmU0Tk1OUklNT1dIcktrOUpXNVByNzgwOS1UNHdKbkgyUXQ2c1VIbjJ0bF80bmJZU1MwN0U4bU9xcU9GOTR2NUo5UHdzZm1PcUFwRTVGR016VWFmdkhyelpUVzFudkN0d0RNMzdpYmQwdEtNNGZwMWpZcnBnT3FIMWxnZEnSAcMBQVVfeXFMTWJRT0ZCckwxMDF2QXE3VkpnVVVZUkx5WnVxYzAxWTBpS2R1X2xYWGJIYm1MNl9KOTNWQ09iTC1sczV6bkViVmpWaWNaZHNqX2RaMTNQQVd3V2lFZkNJSVdTSW12VUxJVDNlcmpkeVgzSm9zaUpjcDVfWW5lVUdVakNUR3lfamdpZTdNNE5wZ3BIZGRUVy0tQ3hNTTEtT2p0cGZkbFBvZVpTcnlDTGFGamVkRzBiSkdWSE9vTi1STGZDbUU0?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 09:08:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGVremxpVGlvRlRHY0hyQWdUd3ZkZDhhdDdOUWlMekVYWUxZRzNmUVdWTUxiNXFJREFFdWFGQjBIMWY1bkdUT2RhMVFkSk9ncmVFcVhNOC1qZEU0VEZEUWRFVTdyVmV0QzlhSFN6MlBJX2hMQ0tqTmZpdmU0MmZITjBmTWluZS1ucFpCWGpfMHdGMlh4Y05mRk1USnBaeUVqcTcxWWpmQdIBrAFBVV95cUxNOWl0RGRSZ1"
+      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTllTlhQY28tazI1bXJJT3daMzI1LWJQZk0zbXRUeF9IQVV1cTI2RG44b2k0bVpCX0dPZDJuT3QwcUYyWENybmU0Tk1OUklNT1dIcktrOUpXNVByNzgwOS1UNHdKbkgyUXQ2c1VIbjJ0bF80bmJZU1MwN0U4bU9xcU9GOTR2NUo5UHdzZm1PcUFwRTVGR016VWFmdkhyelpUVzFudkN0d0RNMzdpYmQwdEtNNGZwMWpZcn"
     },
     {
       "title": "Start-Up Chile abrió convocatoria global para startups tecnológicas con financiamiento de hasta $75 millones - Ministerio de Economía, Fomento y Turismo",
@@ -99,12 +99,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YX"
     },
     {
-      "title": "Exalta Usach: 15 startups deep tech aceleran en Chile - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUpraERoRmJFUjZBdkRxbndrckNlQzlhM1Zrb1R3dE0zNzFzNTZrUGFJUlNUV1VhVW9SWHg5UDhFWTdCazdfc2R4c3JjNFItbTctRjdHQXRrN3Vqbmt3WkxDblYzREtIQ2tTbFkwNVladDdtZFM1aTV1NkEzcjd0RFRiaXhSZl9rWks0?oc=5",
+      "title": "Mining MAS Pitch: 6 startups mineras compiten en Chile - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUtySDhRZVNzaUxzSmk0eDVsM21RbmdTd1kzMWVwb01PRTd6ZUdqS1Fib2g5YVQyVnQ3WDlEMFdFSlNESFZhVnNkenpIUlpyWm1PQ2pQNU80dFdQSzY5dGRQZXJWWVh1NGVld1lIQVE0ajNxVDNrWDZRZkUxTzd3dE5nZWI2cl9PM1E1UA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 21:21:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUpraERoRmJFUjZBdkRxbndrckNlQzlhM1Zrb1R3dE0zNzFzNTZrUGFJUlNUV1VhVW9SWHg5UDhFWTdCazdfc2R4c3JjNFItbTctRjdHQXRrN3Vqbmt3WkxDblYzREtIQ2tTbFkwNVladDdtZFM1aTV1NkEzcjd0RFRiaXhSZl9rWks0?oc=5\" target=\"_blank\">Exalta Usach: 15 startups deep tech ace"
+      "published": "Tue, 03 Nov 2026 14:48:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbUtySDhRZVNzaUxzSmk0eDVsM21RbmdTd1kzMWVwb01PRTd6ZUdqS1Fib2g5YVQyVnQ3WDlEMFdFSlNESFZhVnNkenpIUlpyWm1PQ2pQNU80dFdQSzY5dGRQZXJWWVh1NGVld1lIQVE0ajNxVDNrWDZRZkUxTzd3dE5nZWI2cl9PM1E1UA?oc=5\" target=\"_blank\">Mining MAS Pitch: 6 startups mineras "
     },
     {
       "title": "Abren convocatoria para emprendimientos tecnológicos con fondos de hasta $75 millones - Diario Emprende",

@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Tu iPhone puede encontrar fotos que te están robando espacio: esta función de Apple ayuda a eliminarlas",
+      "url": "https://expansion.mx/tecnologia/2026/11/06/como-eliminar-capturas-de-pantalla-iphone-atajos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 02:00:53 GMT",
+      "summary": "Las capturas de pantalla se acumulan sin que lo notes. Una herramienta del iPhone permite revisarlas y decidir cuáles conservar."
+    },
+    {
       "title": "Los mejores celulares de menos de 12,000 pesos que puedes comprar durante el Buen Fin 2026",
       "url": "https://expansion.mx/tecnologia/2026/11/06/mejores-celulares-de-menos-de-12-000-pesos-buenfin",
       "source": "Expansión Tecnología",
@@ -35,20 +43,12 @@
       "summary": "Las detecciones de fraudes digitales se duplicaron durante 2026, según Akamai. La IA y la automatización permiten a los ciberdelincuentes crear engaños cada vez más difíciles de identificar."
     },
     {
-      "title": "¿Sabías que una IA puede pedir Uber por ti? La función que nadie usa en la plataforma",
-      "url": "https://expansion.mx/tecnologia/2026/11/05/ia-pedir-uber-agentes-inteligencia-artificial",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 05 Nov 2026 17:20:14 GMT",
-      "summary": "Uber reveló que los agentes de IA apenas consiguieron cuatro viajes y 500 pedidos de comida durante una de sus semanas de mayor actividad. En México, estas integraciones todavía tienen limitaciones."
-    },
-    {
-      "title": "Expertos piden a México modernizar su industria para competir en inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3MxbVpPRlprUlhuaWVEaWVwYXl3VGFlemFQZTV1WU85cGNjZVJfeVhtbC03clk4RnI5ZlRHUGJucFlrcjdEc1VvZUV1RWJNTlNuQTdhV01MaHZLdTRuTWh2anJ2cWF0M3ZiVUhvNmMwSTA0MGJxWWNVUVdvY0g5dks1Rmdyc1lJZlZQTFNZU1NSWHZLNzV2c3F0SjZvRDBGV2MzSFR5OVE1amNCelNiNnViSGY3SGdfZFN1ODFMSG9XSEtxb25PWU85dHd0c1ZjYzBFRHNfOGvSAfMBQVVfeXFMT0FHT2ZJYkZ3VURMT1g1bXJHR3VXV1RfQTBjSVh5d2E5UlJyX2dYQjNvM3Q0QWZiN1FPdlMxUVpGQ09pOGtKS0hxMk5VZnpMVkVwUFJ4MGRMWGdTVUhaYVkwSllKNjc2bS1yVnAzaXpmQ2hUOHZBZE4tRHJGZmp5OXdNblgzV3NldmJROVUwSW4zOU5Oc21rX0VvVG1CU1RFVzhTM3JfSVRMT1prNzJfMlM4U1laQzVaU2J2SnBQYWhiZEZRNXdFcjlpVG5lZkx4MzVaREVuT2VyRDZKTER4WWZ1T2pvakJuYnp4LUhoaDRfMnFV?oc=5",
+      "title": "hackü: edtech colombiana lleva sus agentes de IA a México - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnZzR1B3M2hiQlhZZElRbGhPUTFIczI4SXR6aEMxbEVDQlR2RHhfMmVOeWNvVE8wTjhtakNjb3Y4V01LSTNJaDlzNEc2cHVUbm94REYxWmw5NEg0WUFMSUNRVFZ0Vk14UkFUcTZfdXp3dlJ6MnBUQVRoZWpRaF8zbDd4cWZUdXBTSXNtS2RLZTg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 20:46:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3MxbVpPRlprUlhuaWVEaWVwYXl3VGFlemFQZTV1WU85cGNjZVJfeVhtbC03clk4RnI5ZlRHUGJucFlrcjdEc1VvZUV1RWJNTlNuQTdhV01MaHZLdTRuTWh2anJ2cWF0M3ZiVUhvNmMwSTA0MGJxWWNVUVdvY0g5dks1Rmdyc1lJZlZQTFNZU1NSWHZLNzV2c3F0SjZvRDBGV2MzSFR5OVE1amNCelNiNnViSGY3SGdfZF"
+      "published": "Sat, 07 Nov 2026 16:51:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnZzR1B3M2hiQlhZZElRbGhPUTFIczI4SXR6aEMxbEVDQlR2RHhfMmVOeWNvVE8wTjhtakNjb3Y4V01LSTNJaDlzNEc2cHVUbm94REYxWmw5NEg0WUFMSUNRVFZ0Vk14UkFUcTZfdXp3dlJ6MnBUQVRoZWpRaF8zbDd4cWZUdXBTSXNtS2RLZTg?oc=5\" target=\"_blank\">hackü: edtech colombiana lleva s"
     },
     {
       "title": "Muse, el agente de IA de Meta, llega a México: qué puede hacer y cómo utilizarlo - WIRED",
@@ -59,12 +59,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdldWVWFIVGxfZ2pEaHpDbXVCTnJyWEh4bnI5cU1QbmxOX25SVHFoaDYyVWw4S3hvdEdmOW5rRmkyZHBSX2VsNlQyVHpydk1uLUdwN1JEV185R3o2RkxMY2RiYlg5eXBlOEIzbkJ2Y1BoU21xb2NMYk5qWTBFSkF2aXFoeVVYb0NKRGFfZmtqa1lTU19WM3hLNUM1SEh4Z1hiSlFNTmVBR0dweEts?oc=5\" target=\"_bl"
     },
     {
-      "title": "hackü, la edtech colombiana que apuesta por México con IA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUJsMkRjSFBNeW91aHhhM3EyemtpSnlzd3ZtOXJVOFNJZmYxR3BVcFd3LU9mZzNlQmV5STFtMFVsUkV0NHdBMThzb0Y4N3NUNklOMnZMcmR1ZnpZUG4zWi15SUZHUTVQX3BYX1lwazdCM3NaX1ZyU0UwUWI1X1J1UVUya0xOTnZKT1Q2WkFSUGs?oc=5",
+      "title": "México enfrenta el reto de regular la inteligencia artificial ante los riesgos de decisiones automatizadas, ciberataques y pérdida de control humano - El Imparcial",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOYU5NRnFiazdBWXBORThnMTA4WEE2ZFVVQTY1Y0MtUlhPY3dnUUwtcWRxM295UlhlaHdxSUlwM0daS1dCbmFQc2w1ZEJQN3dTQXBQdTN0UXkya3ZGUmM2amVtb2picm1YTTl1MjRZOXo3VE9KZ1hSZ09WdWNCaGNxWHQwamdSTVZoWG5HbllfMXB0cDRvX1VCNndyYWpnUk1HUmdScVltUE1ZekwxMnpyVHFvNzY5WnRWdjJvSEZpU0s2NjZqZ1lDMWxTUDVhNmtfOUZRaEEtUHEyRnFQTzE0anFHeVlIQ243U2Y1WXExX1pqaUNZTUhwQVhobjBEUnNHZHFXMGllLWtXZkJ6eE5BeGdBYjdGbTdQVGdUMVZB0gG4AkFVX3lxTE9rUFB2VVpsQjNSSTlSSXhtOXRWX2xNMG5XbDkzUVZUNXBBM3pZWF91Sm5OaHhBWUJPb2ZoZzd0OFd1dmdTblkybU1iTTJMQVI1RHByZ0ZPd1psNXdNdjc5NXdKSjBkb2ZRUGhLRFRWaUxocTB3Ui13Mi1BNnd1a19nT1kxSUo5TEJfMXNucTRpcFpLa0R6cUw0Y2tzajM2ZklnZFpvU3BmU05xc3Z0ZzloY1JvUkVLbnpjMjc1TjhpaDBYYXROTnQ2cDJpaFAtVXRrQ3VrWm1xV0lMYWx1RVdNbE1wNUFOZXhld2tYYUxQRGcxWjVEcVl1QmkzS3pLdUNsQlhiVzF1amNObFFDSjZrWkhGVmRnTDBBRF9jSHJ3ODFxSmoxZVcteWowWGYweTJZcEp1RGxyOQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 19:51:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeUJsMkRjSFBNeW91aHhhM3EyemtpSnlzd3ZtOXJVOFNJZmYxR3BVcFd3LU9mZzNlQmV5STFtMFVsUkV0NHdBMThzb0Y4N3NUNklOMnZMcmR1ZnpZUG4zWi15SUZHUTVQX3BYX1lwazdCM3NaX1ZyU0UwUWI1X1J1UVUya0xOTnZKT1Q2WkFSUGs?oc=5\" target=\"_blank\">hackü, la edtech colombiana que "
+      "published": "Sat, 07 Nov 2026 16:38:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOYU5NRnFiazdBWXBORThnMTA4WEE2ZFVVQTY1Y0MtUlhPY3dnUUwtcWRxM295UlhlaHdxSUlwM0daS1dCbmFQc2w1ZEJQN3dTQXBQdTN0UXkya3ZGUmM2amVtb2picm1YTTl1MjRZOXo3VE9KZ1hSZ09WdWNCaGNxWHQwamdSTVZoWG5HbllfMXB0cDRvX1VCNndyYWpnUk1HUmdScVltUE1ZekwxMnpyVHFvNzY5WnRWdj"
+    },
+    {
+      "title": "IAB México: la IA reduce el capital para emprender - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1NnQTFCTlp4ODBOS0VNV3lCSzdNVjhVNHZDQmdSNnhhOHlaMm1LOXV2MzVVQWtEQTlWUUdSS3E0cXZJTEttWllET1gwVXU4aVFGUmo5QzJCUWxEa2xPYmd2MEJaQU56MzlwR0VVSVRPdVlXbXUyODItWGJudVh3RjFFUVV0S00?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 07 Nov 2026 04:51:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1NnQTFCTlp4ODBOS0VNV3lCSzdNVjhVNHZDQmdSNnhhOHlaMm1LOXV2MzVVQWtEQTlWUUdSS3E0cXZJTEttWllET1gwVXU4aVFGUmo5QzJCUWxEa2xPYmd2MEJaQU56MzlwR0VVSVRPdVlXbXUyODItWGJudVh3RjFFUVV0S00?oc=5\" target=\"_blank\">IAB México: la IA reduce el capital para emp"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -73,14 +81,6 @@
       "category": "news",
       "published": "Wed, 09 Sep 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
-    },
-    {
-      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
       "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
