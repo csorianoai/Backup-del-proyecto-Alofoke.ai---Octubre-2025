@@ -3,6 +3,30 @@
   "country": "es",
   "articles": [
     {
+      "title": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+      "url": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 21:21:48 GMT",
+      "summary": "“Ha llegado el momento de formar un Ejecutivo de emergencia nacional”, asegura el exjefe del Estado Mayor, que obtuvo 67 de los 120 apoyos posibles, incluidos los de las dos listas árabes"
+    },
+    {
+      "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+      "url": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 09:56:40 GMT",
+      "summary": "El dirigente ve prioritario colaborar con el bloque judío de oposición para reemplazar a Netanyahu, pese a las diferencias ideológicas. El jefe de Estado encargará este domingo formar Gobierno al principal líder opositor"
+    },
+    {
+      "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
+      "url": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
+      "source": "El País Tecnología",
+      "category": "tech",
+      "published": "Sat, 07 Nov 2026 21:19:33 GMT",
+      "summary": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 24 años. Las autoridades encuentran tres cadáveres más en su domicilio"
+    },
+    {
       "title": "Sánchez llama a una votación masiva el 29-N: “La mejor receta contra la involución se llama movilización”",
       "url": "https://elpais.com/espana/elecciones-generales/2026-11-07/sanchez-llama-a-una-votacion-masiva-el-29-n-la-mejor-receta-contra-la-involucion-se-llama-movilizacion.html",
       "source": "El País Tecnología",
@@ -17,30 +41,6 @@
       "category": "tech",
       "published": "Sat, 07 Nov 2026 13:53:02 GMT",
       "summary": "El líder del PP insinúa que el Partido Socialista o sus dirigentes se han enriquecido con el dinero de la seguridad de los trenes"
-    },
-    {
-      "title": "Irene Montero llama a secundar la huelga en su presentación con Rufián en Madrid: “Hay que paralizar el país”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-07/irene-montero-llama-a-secundar-la-huelga-en-su-presentacion-con-rufian-en-madrid-hay-que-paralizar-el-pais.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 07 Nov 2026 12:41:39 GMT",
-      "summary": "El candidato de ERC ataca a Frente Amplio: “Esto no iba de someterse al PSOE entrando en el PSOE”. Colau reclama un “vuelco” como el de Lula en Brasil"
-    },
-    {
-      "title": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
-      "url": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 07 Nov 2026 04:30:01 GMT",
-      "summary": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo de EL PAÍS"
-    },
-    {
-      "title": "Al menos seis muertos y una quincena de heridos en un atentado en la plaza mayor de Cracovia, en Polonia",
-      "url": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html",
-      "source": "El País Tecnología",
-      "category": "tech",
-      "published": "Sat, 07 Nov 2026 18:15:50 GMT",
-      "summary": "La policía ha disparado y detenido al atacante, un hombre de nacionalidad polaca de unos 25 años"
     },
     {
       "title": "La IA en español despega con más de 19.000 modelos abiertos - Euronews.com",
@@ -91,14 +91,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzFBNmZGZUxWaFpGU1pDT1l1c2R6VUpaenlnMDl2LTR3OURldVJZb3RwaDJZRUc5a01nWmpqYjdoRU1oTG9UVElXaHVwaU5VT19OYzRUWFN5RWV3MUZSdjNCNXl3R2FyU3hMSlNmT0FGTWl2UmRZM0hpZGVXOTU5OHRpZkJNOTVXelp4WWxpbzBFaDNMUVFLdEN4WU81ZVg3ZjdyQnhkMWNxN0c5Z1pzQms4alR6NUFhNT"
     },
     {
-      "title": "Andalucía lidera el crecimiento tecnológico en España y es la única comunidad del top 5 que aumenta la creación de startups - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa01EanR2dTBBMmNOaFBKUkZ3d2l2N1R3WjdYNUZyNDBYZUxEVVNxRXZmMFVJVW0yUEE1LTBOUGlTOWhYbFM2S0JzVDI4aFhxNXZ6cWJTSDRtVF9WRlV6N1RQWUxNVkpS?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa0"
-    },
-    {
       "title": "El ecosistema de startups en España consolida su madurez y ya vale €125.000M - BBVA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cmpDdA?oc=5",
       "source": "Google News",
@@ -107,12 +99,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGhKTWFtdjdGc3RtXzVHWm5vVlhhRG9TWS1xYk9UNFdyRlpBRV9ybW05THFVeGVSZzZYR2lsQURUMS16R2ozZUZHNi1paXR6dU1pcERHSkdoM3RJVm02M3FWZGdpcUV6UUVwQ3h3NEJvNHpRZ3g0SGdwOF9tNkZ6dktsa0l2WVBjQXNyWWs1SE9YN3Mxci15YnBXRjlQeVBVNXVTTzIxckx4ZkZZa3doOHJuUUNGN2V0cm"
     },
     {
-      "title": "Conoce a las 25 startups en búsqueda activa de inversión en España - El Referente",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWE9MeWVSUS15Tms0TE9QMDFQTTY0V01kX1c0RzJzWEFoYkJKajhnQzRlYldJblc1ajFDN2x5ek1xNzM4RG11eVdaUTdwcDhtak9oM1ZiOTQ4R0NNQ2hLMmNVVi14ZlZPaTh5RE5yZXZkeXBlNE45MVdud2JUelQ4cm5nRy02QXlIb0RPNm9xa01OcUdvekVRUFZQcmhhY0NXUUVr?oc=5",
+      "title": "Lista Emprendedores: las 50 startups españolas más innovadoras de 2025 - Revista Emprendedores",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSNkgzYVhXZ1FBeURRQ040aWhjeE9tenhMbzl6Y25LeXlDbEU2My1qdFlUUVFsd1I2QTNPbm5LTzFVRGNVS0VPblA3Y1I5RU5uYXpkVlJ5Ml9UWXQ3OW1TX3lPX2lGSW9KUjBzWUJxaGRaNmllZ0VUaTFhN2ZoRUdPMVExTUtETmpKakFNb1Z0ODF6VGdWbGxwT2Y?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 16 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOWE9MeWVSUS15Tms0TE9QMDFQTTY0V01kX1c0RzJzWEFoYkJKajhnQzRlYldJblc1ajFDN2x5ek1xNzM4RG11eVdaUTdwcDhtak9oM1ZiOTQ4R0NNQ2hLMmNVVi14ZlZPaTh5RE5yZXZkeXBlNE45MVdud2JUelQ4cm5nRy02QXlIb0RPNm9xa01OcUdvekVRUFZQcmhhY0NXUUVr?oc=5\" target=\"_blank\">Conoce "
+      "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSNkgzYVhXZ1FBeURRQ040aWhjeE9tenhMbzl6Y25LeXlDbEU2My1qdFlUUVFsd1I2QTNPbm5LTzFVRGNVS0VPblA3Y1I5RU5uYXpkVlJ5Ml9UWXQ3OW1TX3lPX2lGSW9KUjBzWUJxaGRaNmllZ0VUaTFhN2ZoRUdPMVExTUtETmpKakFNb1Z0ODF6VGdWbGxwT2Y?oc=5\" target=\"_blank\">Lista Emprendedo"
+    },
+    {
+      "title": "Andalucía lidera el crecimiento tecnológico en España y es la única comunidad del top 5 que aumenta la creación de startups - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa01EanR2dTBBMmNOaFBKUkZ3d2l2N1R3WjdYNUZyNDBYZUxEVVNxRXZmMFVJVW0yUEE1LTBOUGlTOWhYbFM2S0JzVDI4aFhxNXZ6cWJTSDRtVF9WRlV6N1RQWUxNVkpS?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPNTdCSU9jNTVoWUpZWVlSN1VVcU5JenV3Q2FnbU5CV3FmLUFaRWxscV9lczRkUno0cndxR1d0bEFyRWx3MFhnYU9lbVNnTGpUSEFrelU4OFlvemhrMmZCemVVQnc2dlZ5R2ozaFRwN0V3MTY0TkctaWF5NGJSejU2SXRfNjhyNlIxY0E1MU5kV2tZMVhmVjdTT0h5OUl1WnZwanpXVVdpZWhlbk5ienVVRGY2R3ZaNVlMa0"
     }
   ],
   "count": 14
