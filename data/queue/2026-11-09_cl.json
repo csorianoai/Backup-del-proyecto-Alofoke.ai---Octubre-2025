@@ -3,6 +3,38 @@
   "country": "cl",
   "articles": [
     {
+      "title": "La prometedora terapia de investigadores chilenos para reparar el cartílago tras una lesión",
+      "url": "https://www.latercera.com/tendencias/noticia/la-prometedora-terapia-de-investigadores-chilenos-para-reparar-el-cartilago-tras-una-lesion/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Nov 2026 09:03:00 +0000",
+      "summary": "Una investigación chilena exploró si las células madre pueden ayudar a reparar el cartílago dañado del tobillo y acelerar la recuperación de los pacientes. Estos son los resultados del estudio."
+    },
+    {
+      "title": "Lluvia, tormentas eléctricas y calor sobre los 30 °C: el pronóstico para Santiago esta semana",
+      "url": "https://www.latercera.com/tendencias/noticia/lluvia-tormentas-electricas-y-calor-sobre-los-30-c-el-pronostico-para-santiago-esta-semana/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Nov 2026 13:21:43 +0000",
+      "summary": "La capital del país tendrá una semana inestable, marcada por chubascos y posibles tormentas eléctricas al comienzo, altas temperaturas y un descenso térmico hacia el fin de semana."
+    },
+    {
+      "title": "Soy oftalmólogo y estas son las 5 señales que podrían indicar que tienes cataratas",
+      "url": "https://www.latercera.com/tendencias/noticia/soy-oftalmologo-y-estas-son-las-5-senales-que-podrian-indicar-que-tienes-cataratas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Nov 2026 09:02:00 +0000",
+      "summary": "El doctor Dennis Cortés, oftalmólogo de UC CHRISTUS, explica cómo reconocerla y cuándo consultar a un especialista."
+    },
+    {
+      "title": "Estudio revela qué pasa en los cerebros de los niños que comen muchos alimentos ultraprocesados",
+      "url": "https://www.latercera.com/tendencias/noticia/estudio-revela-que-pasa-en-los-cerebros-de-los-ninos-que-comen-muchos-alimentos-ultraprocesados/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 09 Nov 2026 09:01:00 +0000",
+      "summary": "La investigación fue liderada por científicos de la Facultad de Medicina Keck de la Universidad del Sur de California, quienes analizaron imágenes por resonancia magnética, información sobre la dieta y datos sobre la composición corporal de los participantes."
+    },
+    {
       "title": "El ejercicio clave que ayuda a mejorar la memoria y retener nombres, según una investigación",
       "url": "https://www.latercera.com/tendencias/noticia/el-ejercicio-clave-que-ayuda-a-mejorar-la-memoria-y-retener-nombres-segun-una-investigacion/",
       "source": "La Tercera Tecnología",
@@ -11,60 +43,28 @@
       "summary": "Un metaanálisis que consideró más de 50 estudios sugiere que el llamado “efecto del descanso en vigilia” también puede ser de gran ayuda para recordar planes de tratamiento médico y detalles de reuniones importantes, por mencionar solo algunos ejemplos."
     },
     {
-      "title": "Soy experta en limpieza y estos son los 5 trucos para limpiar la casa que me cambiaron la vida",
-      "url": "https://www.latercera.com/tendencias/noticia/soy-experto-en-limpieza-y-estos-son-los-5-trucos-para-limpiar-la-casa-que-me-cambiaron-la-vida/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 08 Nov 2026 12:01:00 +0000",
-      "summary": "Tras dedicar dos años a investigar técnicas y productos para el hogar, una periodista de The New York Times comparte los tips que transformaron su rutina doméstica."
-    },
-    {
-      "title": "Vegetarianos vs. carnívoros: qué grupo ganó más masa muscular en un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/vegetarianos-vs-carnivoros-que-grupo-gano-mas-masa-muscular-en-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 07 Nov 2026 12:02:00 +0000",
-      "summary": "Un ensayo clínico con adultos mayores comparó los efectos de una dieta vegetariana y una omnívora, ambas acompañadas de entrenamiento de fuerza. Tras 12 semanas, los investigadores encontraron diferencias entre ambas alimentaciones."
-    },
-    {
-      "title": "Cómo incluir fibra en la dieta podría reducir el impacto del alcohol sobre el cerebro, según una investigación chilena",
-      "url": "https://www.latercera.com/tendencias/noticia/como-incluir-fibra-en-la-dieta-podria-reducir-el-impacto-del-alcohol-sobre-el-cerebro-segun-una-investigacion-chilena/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 07 Nov 2026 12:01:00 +0000",
-      "summary": "La Dra. Diliana Pérez, de la U. Autónoma de Chile, lideró el trabajo. Afirma que los hallazgos no significan que la fibra proteja al cerebro del alcohol directamente ni que elimine sus efectos. Sin embargo, identifican una posible nueva vía para abordar síntomas que persisten durante la abstinencia."
-    },
-    {
-      "title": "Rodrigo Quian Quiroga, neurocientífico: “Ningún modelo de lenguaje de IA es consciente de su propia existencia”",
-      "url": "https://www.latercera.com/tendencias/noticia/rodrigo-quian-quiroga-neurocientifico-ningun-modelo-de-lenguaje-de-ia-es-consciente-de-su-propia-existencia/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 07 Nov 2026 09:00:01 +0000",
-      "summary": "El descubridor de las neuronas de concepto -conocidas popularmente como las “neuronas de Jennifer Aniston”- resume décadas de investigación sobre los mecanismos de la memoria humana en su libro más reciente  “La máquina del olvido”, donde resalta las características particulares y -hasta ahora- excl"
-    },
-    {
-      "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
+      "title": "Desempleo, informalidad e inteligencia artificial: cómo la reconversión laboral se transforma en urgencia - Fundación Chile | FCh",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEFTU3VEOXVtOWEwbGowQ0I3NUdXTUJCTkFYYWVHREhZb1lFQ29Memk5X29VcmxxOE9lUGtTNzlac2xEZTJBRVZjVjJucUdvazA3TzVRMWlUMk5KbTdvWW5rb1pFdjNJY2RSYUF3Z1F4ZEN4WkdHNTFid0xHSTJoWVYyMVRhX3N3eFV4bEhrUndYVUw2bUgtVFdYcGpMSDBMN0Q5VGlPQkYyVTV0aFhvTTBWazFqWkFYbDFWVk13WVlMaW5qcGRN?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
+      "published": "Mon, 09 Nov 2026 15:49:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEFTU3VEOXVtOWEwbGowQ0I3NUdXTUJCTkFYYWVHREhZb1lFQ29Memk5X29VcmxxOE9lUGtTNzlac2xEZTJBRVZjVjJucUdvazA3TzVRMWlUMk5KbTdvWW5rb1pFdjNJY2RSYUF3Z1F4ZEN4WkdHNTFid0xHSTJoWVYyMVRhX3N3eFV4bEhrUndYVUw2bUgtVFdYcGpMSDBMN0Q5VGlPQkYyVTV0aFhvTTBWazFqWkFYbD"
     },
     {
-      "title": "De Bill Gates en Chile al Súper RIGI de Argentina: la minería detrás de la inteligencia artificial - Acero y Roca | Magazine Minero",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWncycU1WSnIyMm1BMmZIbWNfSll2UGkzOVdQNjRBd2czZ0l1eGJGSlpBdTFLZ1c3LURtSFFqWnBSbl91X1BON2xublU2M3hvWWNxbFJEd3ZYTmNwTlpTMExzNXFrelhSWGhLSjI2Yml3c2k5MVg0ZlZPSUIwd2dIdDFtQXBWeE9FS3ZYZjhOSURSMC1PX3huXzdXWGtYaFlkNDFhZzJ3NA?oc=5",
+      "title": "Corfo: IA transversal y Start-Up Chile 50% más grande - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJVTWJscDVPZXBfV05pem1mblo1ekFCM2xxZy1vQkN0VGJabnZwLXc5OFhTcWctYllkUU9acUNNV2FXWHNUVlB0UEtfRFJTcTZkZ3JvMy1EVTRQTmowTjYyUnhNb1psY2ZPeHhjUTBaS3NWbmF1dnN2eGhsaEpOY2NJZWllNy1QbXc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 05 Nov 2026 18:25:04 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWncycU1WSnIyMm1BMmZIbWNfSll2UGkzOVdQNjRBd2czZ0l1eGJGSlpBdTFLZ1c3LURtSFFqWnBSbl91X1BON2xublU2M3hvWWNxbFJEd3ZYTmNwTlpTMExzNXFrelhSWGhLSjI2Yml3c2k5MVg0ZlZPSUIwd2dIdDFtQXBWeE9FS3ZYZjhOSURSMC1PX3huXzdXWGtYaFlkNDFhZzJ3NA?oc=5\" target=\"_blank\">D"
+      "published": "Mon, 09 Nov 2026 16:54:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJVTWJscDVPZXBfV05pem1mblo1ekFCM2xxZy1vQkN0VGJabnZwLXc5OFhTcWctYllkUU9acUNNV2FXWHNUVlB0UEtfRFJTcTZkZ3JvMy1EVTRQTmowTjYyUnhNb1psY2ZPeHhjUTBaS3NWbmF1dnN2eGhsaEpOY2NJZWllNy1QbXc?oc=5\" target=\"_blank\">Corfo: IA transversal y Start-Up Chile 5"
     },
     {
-      "title": "Filósofo francés Éric Sadin dará conferencia gratuita sobre inteligencia artificial en la Universidad de Chile - Universidad de Chile",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmxQaGh1YWJva2c5WDJfVTZReXBsUkJhNVdBOGxDSzFPS0QzdURBaG1yX21LNmxHbmRNTDN2T1BkOHdzWUdFX0tnZEQ3cUFrZjhWVnpWSHNfT3ptenZoM2hXOGgxNkRyVVp6UjV6MEh6OHBYc0IyMDh2UkZKN09uTTJLVFhqMzJuYmdZMUFfdWlVbGtDNGFQM0VEcEFzT1V6R0FrMjRJcWJBVzF5?oc=5",
+      "title": "Inteligencia artificial y regulación: ¿quién decide y quién responde? - BioBioChile",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVVVKdFlzVDFFdmVpWUdQR1Rqc2l3cjgydzN1SjRSd3lMNlhvMmRCblFsVG9ocmd1TGo1eVdhdWxGU0JibXVES2lPbVMzNzB2UXdBd3dsN3lWeHJ6Y3JqMGJJYTlEOTVYbDNueklkM1JYenVfbHp6dU50c1NpVmYyQkRzeGtWd2NOaExoWWR3a0JUbF8zNnhrWEVfeDJWb09Pd3lMeGhMWmFIR0hKVDlMR1VzMUxZbFdZOWctb20zMkZMbkhuLWl1TmlrbHQ2NE1zMWVwVmtKSFJWWHhTVEp1X2djcw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 03 Nov 2026 19:26:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmxQaGh1YWJva2c5WDJfVTZReXBsUkJhNVdBOGxDSzFPS0QzdURBaG1yX21LNmxHbmRNTDN2T1BkOHdzWUdFX0tnZEQ3cUFrZjhWVnpWSHNfT3ptenZoM2hXOGgxNkRyVVp6UjV6MEh6OHBYc0IyMDh2UkZKN09uTTJLVFhqMzJuYmdZMUFfdWlVbGtDNGFQM0VEcEFzT1V6R0FrMjRJcWJBVzF5?oc=5\" target=\"_bl"
+      "published": "Mon, 09 Nov 2026 18:31:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVVVKdFlzVDFFdmVpWUdQR1Rqc2l3cjgydzN1SjRSd3lMNlhvMmRCblFsVG9ocmd1TGo1eVdhdWxGU0JibXVES2lPbVMzNzB2UXdBd3dsN3lWeHJ6Y3JqMGJJYTlEOTVYbDNueklkM1JYenVfbHp6dU50c1NpVmYyQkRzeGtWd2NOaExoWWR3a0JUbF8zNnhrWEVfeDJWb09Pd3lMeGhMWmFIR0hKVDlMR1VzMUxZbFdZOW"
     },
     {
       "title": "IA y tiempo - LaRepublica.co",
@@ -83,36 +83,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcU"
     },
     {
-      "title": "Niño Becerra alerta del impacto de la IA: menos salarios y más desigualdad, también en la industria del coche eléctrico - Híbridos y Eléctricos",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlhXYTB2LTIzUjZpVjRXTU83QmYyalJOeGliZ3RHRGtQbXZ2NXRjVHNFdTUyd1Zzc1pyYlQ5VUVVb05JVWtrcjl1Tm1uMGZmdGhoS0ZrOTR1ellqWjZQeWRCMWwxSHFOZVRaUXBiS1h3NGdiNG9XYnVXNTBZR2EtM1lTMEhyMi1qUHlEbnAzZlFlWkZNQXdMd3dzdm53Wm5sN0hJWjRpb0dfZ1phNVotVS1MX3VCZmh2X0twUV8yamF6S2hVcjZ5RHp5d2JManFOUUpKemZfN0RGeTY0RTMzVUpyZzd6ZTVVMFRZSA?oc=5",
+      "title": "«Si la gente joven habla con la IA como una persona puede disociar», llegar a desconectar de la realidad, advierte un experto de la Universidade de Santiago - Faro de Vigo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM29QdlRqVWhnaUJZcWptZUhzejIwVFhIdHpueWJtdlk0Q3dFN1BYQjhiSTJvUEZsQjI5SFRsNHRtU1NWbEpjeEhiYnpkb3VKU1Z1QTJMQVVJb3BYWWxOVE5TcjZHRVRNNXVBaXhRTmQ4d0dabVNhMWx5cG5QQ2ZVX0tLdklnY1l4TkRXNVlPejlXdXV1Nl9QMmJJRWI0ZFJmTE9DV0Y3Q0lWVUh5akdfYjg3LWFwZ3o1Mi1hbUdoNExWdUMyRnREZE1Od0IzLW9sNGJNSjkzS0ZuQ1B2S1cw0gHkAUFVX3lxTE5vSUpNWjJqM0NvRXNsYTNwZ0QzZXJQR1k5MVlXa0txbGtWcThaTjdyeU5JbWJodHM4empxVzkwdGhfdHlUZ1NWb2wtZV9wNkFTb21veExzbE85QktaVVdxcHlveE1Yd0dxNXVwVXd0c1k1dmlRcWJnQ25BYVpFd0F2QXBmdUVYaHJWbndGbHJVS284UElmZ2ptZ1RacUotajc2bzBwSzlpNWhveWI0b2EteTJaRmlZakpNYzhzSVJ6bHRwdmI5eEdaRDBYVWFMeUxHU1ljcGVFbW9QTnBILWw3bjFIeg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYlhXYTB2LTIzUjZpVjRXTU83QmYyalJOeGliZ3RHRGtQbXZ2NXRjVHNFdTUyd1Zzc1pyYlQ5VUVVb05JVWtrcjl1Tm1uMGZmdGhoS0ZrOTR1ellqWjZQeWRCMWwxSHFOZVRaUXBiS1h3NGdiNG9XYnVXNTBZR2EtM1lTMEhyMi1qUHlEbnAzZlFlWkZNQXdMd3dzdm53Wm5sN0hJWjRpb0dfZ1phNVotVS1MX3VCZmh2X0"
+      "published": "Mon, 09 Nov 2026 05:09:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM29QdlRqVWhnaUJZcWptZUhzejIwVFhIdHpueWJtdlk0Q3dFN1BYQjhiSTJvUEZsQjI5SFRsNHRtU1NWbEpjeEhiYnpkb3VKU1Z1QTJMQVVJb3BYWWxOVE5TcjZHRVRNNXVBaXhRTmQ4d0dabVNhMWx5cG5QQ2ZVX0tLdklnY1l4TkRXNVlPejlXdXV1Nl9QMmJJRWI0ZFJmTE9DV0Y3Q0lWVUh5akdfYjg3LWFwZ3o1Mi"
     },
     {
-      "title": "Reforma MK4: 35% de crédito para invertir en startups - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2lWRGRpOWxxLS04N1NuVHdpbW1KaDdnbE0zUUsyWUNPY3ZMczlWY2hzUFNhbFlELU02Tk8wQlU2N29sUkdsLVIwbXRTWEIycmlySEJsSk9FZkhqY3huZjZXMGkyNGxuaGNiWEdrODRLM1hyLXQtOWZZQlBjT0xfT2sxSGNEb3BsRFE?oc=5",
+      "title": "Start-Up Chile abrió convocatoria global para startups tecnológicas con financiamiento de hasta $75 millones - Diario Estrategia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcThUN01IN1N5U3FhLW1fTzRPQl8tVlR5SllRY1ZJczk0cWtoQ25PbjFya3NoaHh4M0lpMm5KUXZpTFozTU9LU2dvQUg2QjZIcmN3bzQ1OHhBQy02TW9wR0VheFEwVHFTOFhEM1dOM3ctLVE4QkhqbHl2dmp0ZUtYaVpEUjJsRUI4ZGNzWm5ERnVNYmRKbm0zSnowUHpGYldMLW5CYzEwTW5RaV80QjNnOUU5UTZ5SFRLcDJXS0tZOE9MLXh1Nzd1OFRVZEF1OFo1LURFaHpNRlJiajhnaTBKcGRTd2lqdkplY3RVMA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 08 Nov 2026 10:51:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2lWRGRpOWxxLS04N1NuVHdpbW1KaDdnbE0zUUsyWUNPY3ZMczlWY2hzUFNhbFlELU02Tk8wQlU2N29sUkdsLVIwbXRTWEIycmlySEJsSk9FZkhqY3huZjZXMGkyNGxuaGNiWEdrODRLM1hyLXQtOWZZQlBjT0xfT2sxSGNEb3BsRFE?oc=5\" target=\"_blank\">Reforma MK4: 35% de crédito para inverti"
+      "published": "Mon, 09 Nov 2026 11:44:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcThUN01IN1N5U3FhLW1fTzRPQl8tVlR5SllRY1ZJczk0cWtoQ25PbjFya3NoaHh4M0lpMm5KUXZpTFozTU9LU2dvQUg2QjZIcmN3bzQ1OHhBQy02TW9wR0VheFEwVHFTOFhEM1dOM3ctLVE4QkhqbHl2dmp0ZUtYaVpEUjJsRUI4ZGNzWm5ERnVNYmRKbm0zSnowUHpGYldMLW5CYzEwTW5RaV80QjNnOUU5UTZ5SFRLcD"
     },
     {
-      "title": "Start-Up Chile abrió convocatoria global para startups tecnológicas con financiamiento de hasta $75 millones - Ministerio de Economía, Fomento y Turismo",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YXlWYVRHLWpnSkR2RVU1VzFqX1laS2c5bUhxd0pzT0FfOW5YVkUxcVVGa18?oc=5",
+      "title": "Chile lleva 8 startups a Web Summit Lisboa 2026 - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDlzTlFoWnFzRUhnV0JaWDM3UW5YVDJ6TkdhcGFrQmZnbG9yQzFZdDBmdjN6MzZkMXNBRzNFczlIR014S2ZpV3ptbjZDZnhqY3lGOWZFVUFsdDlqandQZHdZbmllUUpwUktSdmlDMmZ3SFBlTDJ2SEMzY0RRWUd4SEZmdm1ic3c?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 12:05:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YX"
+      "published": "Mon, 09 Nov 2026 16:49:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDlzTlFoWnFzRUhnV0JaWDM3UW5YVDJ6TkdhcGFrQmZnbG9yQzFZdDBmdjN6MzZkMXNBRzNFczlIR014S2ZpV3ptbjZDZnhqY3lGOWZFVUFsdDlqandQZHdZbmllUUpwUktSdmlDMmZ3SFBlTDJ2SEMzY0RRWUd4SEZmdm1ic3c?oc=5\" target=\"_blank\">Chile lleva 8 startups a Web Summit Lisboa 2"
     },
     {
-      "title": "Liderazgo Fintech en Chile: 12 startups chilenas destacan entre las empresas tecnológicas a seguir hacia 2027 - FinteChile",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQXlGb29ORmhTMWIyWVBzMXVUdFdvS3duaW1EZUlSczNlQnIzNVdUWktlcXNDdmUyY1dwTkxFUjRGaTMxYUhBUzhhNWF6RG5sQWZYREoxOFdmbHczSzY0LWR2dGh4d3kxV2xEYTRZUHpZSFlNUVoyTVdHZ1JSVmRGNEtfUkVEYVB4RExIRXZvMy1oRkRweGlmRE0wNlVzS3VVNGdIamFESDVfSVZ4SEpPNUJRTU1tZlBfQmVVSkNhYWtocVpEdWJXbTE3em1WSkdoY2dRc3k1V1JCXzdy?oc=5",
+      "title": "Start-Up Chile abre BIG13: hasta $75 millones equity free - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ01DdVNmaE5DMTFGY2ZsSzhmNEtCZ0FGLUo3R0pQeUNyd0syM09vdWZyaVZlQlI0Xzk0anRfX3ZRZTgwaGplTEstN1Z0SXFXTmFBRkYyZVRZU2RFajZ0aE1sS0Zybks1MV9NUlBTcnlocXFfRUY3aFlzWGwyUktxbVVfeC02OHNWQkstZ3AtRQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 18:37:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQXlGb29ORmhTMWIyWVBzMXVUdFdvS3duaW1EZUlSczNlQnIzNVdUWktlcXNDdmUyY1dwTkxFUjRGaTMxYUhBUzhhNWF6RG5sQWZYREoxOFdmbHczSzY0LWR2dGh4d3kxV2xEYTRZUHpZSFlNUVoyTVdHZ1JSVmRGNEtfUkVEYVB4RExIRXZvMy1oRkRweGlmRE0wNlVzS3VVNGdIamFESDVfSVZ4SEpPNUJRTU1tZlBfQm"
+      "published": "Mon, 09 Nov 2026 15:51:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ01DdVNmaE5DMTFGY2ZsSzhmNEtCZ0FGLUo3R0pQeUNyd0syM09vdWZyaVZlQlI0Xzk0anRfX3ZRZTgwaGplTEstN1Z0SXFXTmFBRkYyZVRZU2RFajZ0aE1sS0Zybks1MV9NUlBTcnlocXFfRUY3aFlzWGwyUktxbVVfeC02OHNWQkstZ3AtRQ?oc=5\" target=\"_blank\">Start-Up Chile abre BIG13: hasta "
     }
   ],
   "count": 14
