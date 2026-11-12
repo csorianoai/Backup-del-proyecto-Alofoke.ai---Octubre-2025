@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Reportan una caída masiva de Microsoft Outlook: la compañía investiga fallas de conexión en varias regiones",
+      "url": "https://www.clarin.com/tecnologia/reportan-caida-masiva-microsoft-outlook-compania-investiga-fallas-conexion-varias-regiones_0_yfJsUaRJEE.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Nov 2026 18:47:59 +0000",
+      "summary": "<ul><li>La compañía informó que algunos usuarios tienen dificultades para acceder a sus buzones de Exchange Online por distintos métodos.</li><li>Primero ubicó los inconvenientes en América, incluyendo Argentina, pero luego advirtió que podían alcanzar a usuarios de cualquier región.</li></ul>"
+    },
+    {
+      "title": "Las 10 aplicaciones que más batería consumen en el celular: cuáles son y cómo evitar que agoten la carga",
+      "url": "https://www.clarin.com/tecnologia/10-aplicaciones-bateria-consumen-celular-evitar-agoten-carga_0_dGzvE69ZZr.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Nov 2026 08:46:18 +0000",
+      "summary": "<ul><li>Un informe analizó el gasto energético de algunas de las plataformas más populares. </li><li>Las aplicaciones de video lideran el ranking, pero las redes sociales y la inteligencia artificial también aparecen entre las más exigentes. </li></ul>"
+    },
+    {
       "title": "El videojuego que marcó la era de los cibercafés vuelve 22 años después: qué cambió y por qué busca conquistar a otra generación",
       "url": "https://www.clarin.com/informacion-general/videojuego-marco-cibercafes-vuelve-22-anos-despues-cambio-busca-conquistar-generacion_0_RZ6TSUIfnc.html",
       "source": "Clarín Tecnología",
@@ -27,44 +43,36 @@
       "summary": "<ul><li>De Nike y Adidas a ASICS y New Balance, las principales marcas apuestan por nuevas tecnologías de amortiguación y estabilidad. </li><li>Qué ofrece cada modelo, cuáles son sus ventajas y para qué tipo de corredor están pensados.</li></ul>"
     },
     {
-      "title": "Anthropic, la dueña de Claude, apunta a recaudar más que el récord de SpaceX en su salida a la Bolsa",
-      "url": "https://www.clarin.com/economia/anthropic-duena-claude-apunta-recaudar-us-64400-millones-salida-bolsa-acerca-record-spacex_0_kBVJR24j4j.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 10 Nov 2026 12:35:54 +0000",
-      "summary": "<ul><li>Fijó el valor de sus acciones entre US$ 70 y 78, lo que le daría un valor de mercado de US$ 1 billón o hasta US$ 1,4 billones si se cuentan las acciones que venderán los empleados y otros colocadores privados.</li></ul>"
-    },
-    {
-      "title": "Nvidia, el gigante tecnológico envuelto en un escándalo de romance y espionaje: qué hace y por qué es clave para la IA",
-      "url": "https://www.clarin.com/tecnologia/nvidia-gigante-tecnologico-envuelto-escandalo-romance-espionaje-hace-clave-ia_0_ogonSqlM1p.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Tue, 10 Nov 2026 08:45:47 +0000",
-      "summary": "<ul><li>La investigación sobre su CEO, Jensen Huang, puso a la compañía en el centro de la escena. </li><li>Sus procesadores impulsan herramientas como ChatGPT y los modelos más avanzados de inteligencia artificial. </li><li>Cómo pasó de fabricar placas de video a convertirse en una de las empresas "
-    },
-    {
-      "title": "Papa León XIV: las 2 caras de la inteligencia artificial en Argentina - DefOnline",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdXlXajlxTWRZS3kwbzJHZzB0UU1USl9KWGUtRXY1VzRkdHFjN3lTV2pWWU9ZNElLVDBWUm12dVkyRGY0VGt6NWhoUmN6aFhCMTkycVJ1VWloMEt1U29DbnUwNnZWcXBPbE5zNlZYeXBLSmc2bXcwVFB3eHBpajN5Sm5XbU9DcTJKSlQxVnNKdGdOSmVuRWRxRlRSejk5MWtTdlVpRG5GckEzZnJOXzJuN1lCNGdxRS1WdUJvbHZCMWdjSzdfRjREWF9EQVNxbEhKZjVEeklXd2dTUUVELWJEZ2dWbDFfODZOUE1hSkhvZVNqSWctOEctbjE1aDhDaEdVQTBERlRXczU1UjdycHJTX055TFpZNVVidnJ3?oc=5",
+      "title": "El uso de inteligencia artificial entre los abogados argentinos creció casi cuatro veces en siete meses, según un estudio - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOVA1VG9WTXhMSHdjY2p4d3Bac1FPbFJMdlR2MzFUcE1qYjFfQXF4YTFMcW9YMTZNVXVrT3IyZFF0N2VCbjhUcnB2R3REN3RMWlJNdTl0Rm8ySFlkLUktbFd5dXFBNUZZTkhZMTZvUS1BdDJjd3JYNHNrUjRsOERkbEZQTzk1NmgxMkRPa0dkaDBqLU1ZcTVmRnRYa0QzRXNTdnNsZWQ2X2t0UW5PTURtQ2g4Tm04aWFKbGNBcUcwcVlleVMtQ3dSNDMzbUNkaTc1ZGNEanpRYXBwQW1SQm41SHROTE16U0xkVmJacEJZQXhmbWtNdWMw0gGSAkFVX3lxTE9KSERHXzhKTUhkcENUbUtYMk1EZTdJaDFYWmNjRWN5dTZ2VmdGVUdjMnFCeGxUNzk0a3pUMGx0Rmo3V0VPSl95TGh2QWYwLTFXOERQNGY3Y0pMN1VEbWdIdDhqZHotaEFrbzRESkJiOXRCRm1xVkNxWkNCak92WE9saV91M3pzQllGMFpzUnFYU3NOUUlpRExxb1pQOTF3NGVIekt5Sy1TRWRPWDR5aFlWZm00QVlhcWd5eUhmbTBzSVpva0I4RFd0SFYtWFpQM1VuZ0Q4T3dzbFRZVFZYSXNoUThrSVZWMzRFRzBWNUdZU3hkQjNuTDhOQk55QWFBYU83LUZhZ2pzdjFsZjdOTGk1NGc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 11 Nov 2026 13:26:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxNdXlXajlxTWRZS3kwbzJHZzB0UU1USl9KWGUtRXY1VzRkdHFjN3lTV2pWWU9ZNElLVDBWUm12dVkyRGY0VGt6NWhoUmN6aFhCMTkycVJ1VWloMEt1U29DbnUwNnZWcXBPbE5zNlZYeXBLSmc2bXcwVFB3eHBpajN5Sm5XbU9DcTJKSlQxVnNKdGdOSmVuRWRxRlRSejk5MWtTdlVpRG5GckEzZnJOXzJuN1lCNGdxRS1WdU"
+      "published": "Thu, 12 Nov 2026 03:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOVA1VG9WTXhMSHdjY2p4d3Bac1FPbFJMdlR2MzFUcE1qYjFfQXF4YTFMcW9YMTZNVXVrT3IyZFF0N2VCbjhUcnB2R3REN3RMWlJNdTl0Rm8ySFlkLUktbFd5dXFBNUZZTkhZMTZvUS1BdDJjd3JYNHNrUjRsOERkbEZQTzk1NmgxMkRPa0dkaDBqLU1ZcTVmRnRYa0QzRXNTdnNsZWQ2X2t0UW5PTURtQ2g4Tm04aWFKbG"
     },
     {
-      "title": "Humandroid: startup argentina que entrena robots humanoides - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjhTVVFJdnZVby1FaFQ1N0hDWld0TlhDTVZIc1BWdjA2bnNiM2Q5MUk4WGpBbkdyX2Y3ZGRpYmMzTHp1RkJxVGREem43WElKa3dkczFObmEwTkRHcUJ5OThLdUFWcS0tcjloUkloSm05aUIyX0c1RGdGMmtTeTFab01yc0dLX1c4ZjVBS3cwU2ZIRjA?oc=5",
+      "title": "Samsung lanzó sus nuevos televisores Mini LED en Argentina: inteligencia artificial, 4K y hasta 144 Hz - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2dwZ0hBNGVPaXFMM05tWjZlM01KSmhxQ2tvSWIwQkJSUnVTZGNxcFhYLW9IdjV1TjFheFFiRzhCb3lIWlJEZU5aVVgyMFBqNkp0czJCbEdqdE9Kd1ZBVDZZSzFmWnQ1UDNHRWV4VGZJZDhnN2cxejBQckJQYjdXczVHWTZLMU9RbWtpbll3bllLV3hlVWMtVUJCc3lIbC1scTczT0Npai1iN0xSOXUwUmt2WWJ0VHlJcXNtMl81Q1hmdlROSngybUhmQXhyb0xyS3hzbUxCU3U?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Nov 2026 01:21:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjhTVVFJdnZVby1FaFQ1N0hDWld0TlhDTVZIc1BWdjA2bnNiM2Q5MUk4WGpBbkdyX2Y3ZGRpYmMzTHp1RkJxVGREem43WElKa3dkczFObmEwTkRHcUJ5OThLdUFWcS0tcjloUkloSm05aUIyX0c1RGdGMmtTeTFab01yc0dLX1c4ZjVBS3cwU2ZIRjA?oc=5\" target=\"_blank\">Humandroid: startup argentin"
+      "published": "Thu, 12 Nov 2026 17:07:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT2dwZ0hBNGVPaXFMM05tWjZlM01KSmhxQ2tvSWIwQkJSUnVTZGNxcFhYLW9IdjV1TjFheFFiRzhCb3lIWlJEZU5aVVgyMFBqNkp0czJCbEdqdE9Kd1ZBVDZZSzFmWnQ1UDNHRWV4VGZJZDhnN2cxejBQckJQYjdXczVHWTZLMU9RbWtpbll3bllLV3hlVWMtVUJCc3lIbC1scTczT0Npai1iN0xSOXUwUmt2WWJ0VHlJcX"
     },
     {
-      "title": "El papa advierte que la inteligencia artificial desregulada puede poner en riesgo empleos - ELHERALDO.CO",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTBQMG1vcFZFU2txdTBYRzJhbFN2TjdDVzgyUWJBYUF5dUZDbXhUUWtGbVZMSi1kcktNTmNLQkI2OGphRWxkeHgxMG5GaTVDcExCMHd2b0RDUUNpeHVtc3VHSHNYVEdVT2lLa1dyVEkzY0VJVjZWUHBIaE83UDc3VGRqbWFVb2JVMXZqZC1xVTJUSUNQQno0QU5JM0c0RGVyb2ctMWRENGpMUFdiT1M5Z1czT3pjdGlreUZDeEcxX2pFSVdXNGtUU2VVYTk?oc=5",
+      "title": "Qué dijo el Papa León XIV sobre la inteligencia artificial en su paso por la Argentina - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3VDQUdVd0xsdFAydGdIeTlETXh6Y0JURGZwQnZ1ZGZwWWVtd3VhSWhkc3dvUVJIQlU1S2pHUHZNQ1E2QjcxcVdwN0pkazdGNXhfUjNFQUFxRlZKRFE5NzRWRktRWGh0TmJYZUN4Rl9DRmRuZDR0TXBsaExKMW5UdGlJeEZTRHBCUlBNZHYyQjRJRFV1SnN0Um15dXVyeWxSQ2lnT0lCeGVPOEdWX1QzVzRwX0lyR0dHT25NX0xyZEl0OU53LXhNNGI2MlprUWF5bktkcA?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Nov 2026 20:55:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTBQMG1vcFZFU2txdTBYRzJhbFN2TjdDVzgyUWJBYUF5dUZDbXhUUWtGbVZMSi1kcktNTmNLQkI2OGphRWxkeHgxMG5GaTVDcExCMHd2b0RDUUNpeHVtc3VHSHNYVEdVT2lLa1dyVEkzY0VJVjZWUHBIaE83UDc3VGRqbWFVb2JVMXZqZC1xVTJUSUNQQno0QU5JM0c0RGVyb2ctMWRENGpMUFdiT1M5Z1czT3pjdGlreU"
+      "published": "Tue, 10 Nov 2026 19:46:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3VDQUdVd0xsdFAydGdIeTlETXh6Y0JURGZwQnZ1ZGZwWWVtd3VhSWhkc3dvUVJIQlU1S2pHUHZNQ1E2QjcxcVdwN0pkazdGNXhfUjNFQUFxRlZKRFE5NzRWRktRWGh0TmJYZUN4Rl9DRmRuZDR0TXBsaExKMW5UdGlJeEZTRHBCUlBNZHYyQjRJRFV1SnN0Um15dXVyeWxSQ2lnT0lCeGVPOEdWX1QzVzRwX0lyR0dHT2"
+    },
+    {
+      "title": "Buenos Aires reúne a referentes mundiales de la simulación en salud con foco en inteligencia artificial y seguridad del paciente - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPejUwS1hzblRncmZlZ01ZTVZieXAyRGh5UGlrRDB5VHYxT2JUM3NMVEswSmJERTZoQ0ZVcU9nOEloSUFZcExjcEN2eElNUWctNmFsOVYwM0hhX3UyNHpSTnVENlR5bTIyamRxQ3E2U0lBR0lMVURiRmN6MlR2UmRJVDl4M0gyZUFFWTdmS1Q5bUR0WDY3T1FfWVhRZVh3Unk3UXE0RXpMd0hGenRHeHNYWXpxS2ZDNUlnXzFMT3JPdWJvOGUxSWVLMmtiRWM4MENLYXBmbkI3XzVRUlZEa0ZjWmFwVDlBWHEta0pCNDEyZUkwWkRKWlFLUjR0bHJzU242Y2Z6eE5ER2RyQdIBpAJBVV95cUxONW5Kb2xqOFFZZkg5c3Nidll1NFU1WFh0MDgydUY0NHdlVFFaSXVyY1pEVUhhbklBS2JFQzJoVVFJN0MtNGxLSGhzNjVCVzZveXhsWGN0NzJSX19yU0NCSjRGM3Y2TEU3dFdPVDlDWU1QWG9jS3V5amRQZjVZTWJLd0V5Z3NQdUt6UFQ3dlBFbGhESk1VWmVyQTRlb2I3eVhiNUtVTHZMdkw5VWRsenpYZ3VoYXpxbUhQZy1fM0VQTks2T2tETEM4MHVBbmdlUU5jcjlxN0tsOWF0UmxTekRCNEVDX0xlUjU5ZkJVR1RfSnkxT1d6eEdZQThNcjNyM2VPWnZUNW1QVkhpeFFqWEwxbHU4QXRDNndiOW1SOXBVMnFHckZ6?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Nov 2026 05:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPejUwS1hzblRncmZlZ01ZTVZieXAyRGh5UGlrRDB5VHYxT2JUM3NMVEswSmJERTZoQ0ZVcU9nOEloSUFZcExjcEN2eElNUWctNmFsOVYwM0hhX3UyNHpSTnVENlR5bTIyamRxQ3E2U0lBR0lMVURiRmN6MlR2UmRJVDl4M0gyZUFFWTdmS1Q5bUR0WDY3T1FfWVhRZVh3Unk3UXE0RXpMd0hGenRHeHNYWXpxS2ZDNUlnXz"
     },
     {
       "title": "El papa en Buenos Aires: \"Los desafíos de la IA y de la automatización desregulada pueden poner en riesgo los puestos de trabajo - Diario Usach",
@@ -83,20 +91,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
     },
     {
-      "title": "El papa León XIV advirtió en sus redes sociales sobre los riesgos de la IA tras su paso por Buenos Aires - La Voz del Interior",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTBkYWxqbEViemdta0dqb3RNanU1b3BPbGdKQWRsLWhxOHU5T2Z3Z1JXVEp0bEc5UWYzd2xPbkF3N0JKRDFxU2ltcWhNelpLeEtCc09IWUgyUlp6YzU3NV9TWXY3T0pXYjhZYVJydFJJbE9PZnE1WU41RmlNSFViOWVQWDBtVlV6SkZpc1dadGotOHpURDlRVFZkT21uVkptZDBydF9KWDBtWll5VURJWkNwWGRBRmRUbzZBMw?oc=5",
+      "title": "DELFI: startup argentina de moda con IA gana SelectUSA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2xiM3BhZlc2Y3FNYzBZd1hYVGtBX3gxRGpoRW9IdF9wazE4MUZXbVh6OWlPZXVWY3p4OUtWYW1XdzZSRU1zSHFGN2JhSFVPNVpxNHI0ODZCTS1NZWZURUFwbDBRcWREX3puZ0pWbXRaT2tDaW1TZk1JenNnQnl3VHNuWlhTaEtmQlpxZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 09 Nov 2026 23:57:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTBkYWxqbEViemdta0dqb3RNanU1b3BPbGdKQWRsLWhxOHU5T2Z3Z1JXVEp0bEc5UWYzd2xPbkF3N0JKRDFxU2ltcWhNelpLeEtCc09IWUgyUlp6YzU3NV9TWXY3T0pXYjhZYVJydFJJbE9PZnE1WU41RmlNSFViOWVQWDBtVlV6SkZpc1dadGotOHpURDlRVFZkT21uVkptZDBydF9KWDBtWll5VURJWkNwWGRBRmRUbz"
+      "published": "Thu, 12 Nov 2026 07:21:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2xiM3BhZlc2Y3FNYzBZd1hYVGtBX3gxRGpoRW9IdF9wazE4MUZXbVh6OWlPZXVWY3p4OUtWYW1XdzZSRU1zSHFGN2JhSFVPNVpxNHI0ODZCTS1NZWZURUFwbDBRcWREX3puZ0pWbXRaT2tDaW1TZk1JenNnQnl3VHNuWlhTaEtmQlpxZw?oc=5\" target=\"_blank\">DELFI: startup argentina de moda con "
     },
     {
-      "title": "Beeflow, NAT4BIO y Antarka: biotech argentina al mundo - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUC1GY3BTelY4bGZybzVBN3dwVS1PMEstNWlqczJlQ0kxeW5rSUxBVGRqY0ZJblVBd19EWFQxZmVsM3J3Y1Q4N0dSMlZZa3d4bTJvQVFYUnIzWmRwSTdiXzZueVVRcVo0MGUxVVJaYU9vamNmbWNtbDIxV2t1MWMyVzlnNmpTSEFPVVRj?oc=5",
+      "title": "Premiaron a startups argentinas que innovan en salud, educación y tecnología - La Ribera Web",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2RqR0p5MmJPZlA1LVUycEZna2hHa1dBbFZzaHVQTkRZdGdsSFR3aE90N3NDY0w5UkhITklFcnh5Nm1pcXNXZmYwYmNpZ2dGWndpOGxZbXFmcFQ3Y1U2WVU4OHBnazAzVFFDbUgtaTdiZHU0eHRuTnNUVS12Zmd2UzhETkVNOEhyMlJWa3FzTnkwbWM3V05QSl81LTV5SndqN1g0ZDFydTk3eW1FUGlDLUp3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Nov 2026 00:06:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUC1GY3BTelY4bGZybzVBN3dwVS1PMEstNWlqczJlQ0kxeW5rSUxBVGRqY0ZJblVBd19EWFQxZmVsM3J3Y1Q4N0dSMlZZa3d4bTJvQVFYUnIzWmRwSTdiXzZueVVRcVo0MGUxVVJaYU9vamNmbWNtbDIxV2t1MWMyVzlnNmpTSEFPVVRj?oc=5\" target=\"_blank\">Beeflow, NAT4BIO y Antarka: biotech arg"
+      "published": "Thu, 12 Nov 2026 13:41:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2RqR0p5MmJPZlA1LVUycEZna2hHa1dBbFZzaHVQTkRZdGdsSFR3aE90N3NDY0w5UkhITklFcnh5Nm1pcXNXZmYwYmNpZ2dGWndpOGxZbXFmcFQ3Y1U2WVU4OHBnazAzVFFDbUgtaTdiZHU0eHRuTnNUVS12Zmd2UzhETkVNOEhyMlJWa3FzTnkwbWM3V05QSl81LTV5SndqN1g0ZDFydTk3eW1FUGlDLUp3?oc=5\" tar"
     },
     {
       "title": "De la ciencia al mercado: tres startups argentinas cuentan cómo lograron crecer y llegar al mundo - Diario Río Negro",
@@ -105,14 +113,6 @@
       "category": "news",
       "published": "Wed, 11 Nov 2026 23:16:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUEdGeVNBQUQ3ZHZOVlBsbDExcXRVVE5yR0tFZjRJb3FrNFRsUDNOak9Cc2N3UlBvOHFLSWNRTVJMRWFsZXBPdU9tak1ndy01SDZwY1NpM2YxY21hckRNZW9DcGJEQk5hQXVtVmRzSEJnM1FtZW5mWWVJSkwzRVp4czU4d0kxOUdZMXRLaEZ3VHc4QTFXVFdZbkJBTC1Pb3BZbllUb2doblFuZlJzU0J1c0xWMVpBNXZfYT"
-    },
-    {
-      "title": "Una startup argentina fue premiada por desarrollar tecnología que transforma los servicios financieros - TN",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTdQLW9WOTZVcHYtd1dONU42RTR2RzhQVTJWOU9oREtVRmhrRUxlUHp5bEdUbGtVSDFOeUVrdmhiTkh5SUJVdFFQVktIZ3pTV2dmZ1JRREFGRkVhVWYwT2VZcVA2VVE4YlpPeWFkUHlYNFE1bmtTVEx1U2RhYWdpcFZ3SV9OSGhOcnd0ckVPN1pGeXBuejZ4TmNhcDRvelU4dlVBTDVjc04wWGV4ZnNFU3hHSjlNNnN6QmNmU3ltZm1SZ0FybnVNWGZxM2IwRXZIT3NUTldZRlJad9IB7gFBVV95cUxONFFUN1R1aGdNWjZKZktxdnJ4Vmc0d1hEREFoUzdub016X3VOcnRBaTRwazFyM1g2YjdrU29QcmtscVhaX3NMVjlUTDEzcW5SYmtFS2VWUWVrVWRsVGZpSVQ5aEpuSEJmSGZ2c09mRjVFZ0c5azlaLUgyZV9CMmpHcVRBV3Q0aEtldzRGSDVDbVhNSEl6aU9WVGczYlNuRGpKVGZESTNsLWlQM053Vm1tcV9iSTd6XzVWb2hqUGZxNHNQbmFvWDl5NGFPVGtBR1hMUU04dzRQQ2p1UF9zT0N3bjR0LVFnYjBPVnJXbFZR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 03 Nov 2026 14:44:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSTdQLW9WOTZVcHYtd1dONU42RTR2RzhQVTJWOU9oREtVRmhrRUxlUHp5bEdUbGtVSDFOeUVrdmhiTkh5SUJVdFFQVktIZ3pTV2dmZ1JRREFGRkVhVWYwT2VZcVA2VVE4YlpPeWFkUHlYNFE1bmtTVEx1U2RhYWdpcFZ3SV9OSGhOcnd0ckVPN1pGeXBuejZ4TmNhcDRvelU4dlVBTDVjc04wWGV4ZnNFU3hHSjlNNnN6Qm"
     }
   ],
   "count": 14
