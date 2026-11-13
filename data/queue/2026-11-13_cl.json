@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-13",
+  "country": "cl",
+  "articles": [
+    {
+      "title": "Guía para detectar una imagen falsa hecha con inteligencia artificial",
+      "url": "https://www.latercera.com/tendencias/noticia/guia-para-detectar-una-imagen-falsa-hecha-con-inteligencia-artificial/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 29 Oct 2026 09:02:00 +0000",
+      "summary": "Las imágenes generadas con esta tecnología son cada vez más difíciles de distinguir de una fotografía real. Tres especialistas explican en qué detalles fijarse, qué herramientas utilizar y qué hacer antes de compartir un contenido sospechoso."
+    },
+    {
+      "title": "Ciberseguridad e IA: 5 claves para identificar estafas telefónicas",
+      "url": "https://www.latercera.com/tendencias/noticia/ciberseguridad-e-ia-5-claves-para-identificar-estafas-telefonicas/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Nov 2026 09:03:00 +0000",
+      "summary": "La Senior Security Researcher de Kaspersky, María Isabel Manjarrez, explica los pasos que conforman la “anatomía de una estafa”. Junto con ello, comparte sus recomendaciones para evitar caer en estos engaños cada vez más sofisticados."
+    },
+    {
+      "title": "Descubren un fármaco con potencial de reparar el daño y la inflamación cerebral que provoca el Alzheimer",
+      "url": "https://www.latercera.com/tendencias/noticia/descubren-un-farmaco-con-potencial-de-reparar-el-dano-y-la-inflamacion-cerebral-que-provoca-el-alzheimer/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Nov 2026 09:02:00 +0000",
+      "summary": "Una investigación explora una nueva vía para combatir el Alzheimer a partir de un fármaco experimental. Los resultados apuntan a posibles efectos sobre el daño neuronal y la inflamación cerebral."
+    },
+    {
+      "title": "Alerta por temperaturas extremas: norte y centro del país podrían alcanzar hasta 38°C",
+      "url": "https://www.latercera.com/tendencias/noticia/alerta-por-temperaturas-extremas-norte-y-centro-del-pais-podrian-alcanzar-hasta-38c/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Thu, 12 Nov 2026 09:01:00 +0000",
+      "summary": "La Dirección Meteorológica de Chile emitió una alerta por altas temperaturas extremas que se extenderán desde este miércoles hasta la tarde del jueves. En la Región Metropolitana, Senapred también declaró Alerta Amarilla por calor intenso."
+    },
+    {
+      "title": "¿Habrá ola de calor en Santiago? Pronósticos anticipan tres días con temperaturas bordeando los 30 °C",
+      "url": "https://www.latercera.com/tendencias/noticia/habra-ola-de-calor-en-santiago-pronosticos-anticipan-tres-dias-con-temperaturas-bordeando-los-30-c/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Wed, 11 Nov 2026 09:03:00 +0000",
+      "summary": "Aunque los modelos meteorológicos proyectan un episodio de altas temperaturas, todavía falta confirmar si se cumplirán los criterios para hablar de una ola de calor."
+    },
+    {
+      "title": "Chile, Brasil y Uruguay lideran el desarrollo de inteligencia artificial en América Latina - Newsline Report",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSi16bTZ4cENrLXRlM2Z6TktMbG5IMnd1WU9wTE5mNmw1WGdObFEzMDJtWERMbi1iUGwyX3hlSFNBcThUZXNXaHRGaVpnYjhjX0t6eXNMYWhNd01nbU1LT2prdjhRQUw1c1hTZy1DT3dpcGlqQUltSllfUE5kYV80M2hTM2FDY0ptMmhCUEo0SlJzZXVmZ1gyS2xhOXFzZGpFaW5obDd5U2tDS3VlYWdUdldJWWp5Rm5sX2pHV3FOMm1LdktlbVVsX2M2ZzlDUUxzeUE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Nov 2026 17:58:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSi16bTZ4cENrLXRlM2Z6TktMbG5IMnd1WU9wTE5mNmw1WGdObFEzMDJtWERMbi1iUGwyX3hlSFNBcThUZXNXaHRGaVpnYjhjX0t6eXNMYWhNd01nbU1LT2prdjhRQUw1c1hTZy1DT3dpcGlqQUltSllfUE5kYV80M2hTM2FDY0ptMmhCUEo0SlJzZXVmZ1gyS2xhOXFzZGpFaW5obDd5U2tDS3VlYWdUdldJWWp5Rm5sX2"
+    },
+    {
+      "title": "Ocho de cada diez escolares en Chile usan Inteligencia Artificial para tareas del colegio - Cooperativa Ciencia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT0JFZ0g5dzVuWVF1dWFQbnpNQUVIcWs3c2duRzZrVF9UQ09NT1lRaW82Z3c1YmlVR2s3UUdVT2Z1X2pscDJOOFY1ZDU3NFdzcXBKYUJvMFctWS1uRXRQVjFPajlPMXBqX3FZU2ZLaWkzQ0Zzd19vb3djMWlUQ2tsT0JYeXJJYWxBb1dGTDNZSWNLV1N0WGhCcm1HT1pET3JCRUFYZENHYmZfc1MwLWhrNGxsR0FlaDdIdzRDNHFMd1RsUFo1Z0lHWEExd2JlMzlyZDdnV1RkZ0lncEJtcmZqakdURGI3VXVPS1EtMQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Nov 2026 20:00:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT0JFZ0g5dzVuWVF1dWFQbnpNQUVIcWs3c2duRzZrVF9UQ09NT1lRaW82Z3c1YmlVR2s3UUdVT2Z1X2pscDJOOFY1ZDU3NFdzcXBKYUJvMFctWS1uRXRQVjFPajlPMXBqX3FZU2ZLaWkzQ0Zzd19vb3djMWlUQ2tsT0JYeXJJYWxBb1dGTDNZSWNLV1N0WGhCcm1HT1pET3JCRUFYZENHYmZfc1MwLWhrNGxsR0FlaDdIdz"
+    },
+    {
+      "title": "Licencias OnLine reúne a sus partners estratégicos para impulsar los negocios de ciberseguridad e inteligencia artificial - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdWd3ZHF4b3NYaVdiR2szVEhzSXpYZVJJXzZjdXEtZHc0cjd2X1NsZlVHV3kxV0JNSGdSLTdZR1h2WmpnUWZNTTdrbnhKTklCNGljV08zS0lyYmFIRjQxNE1kdDRxeWtDQm5NRExqdDFIb3RMMDVXTVNCQWNlcV9KTXpWTHZlYm9RcU5mR2FXTmJxc3R5Q3BBM1lzTWtMLUh5SWVoX0tVVExpUDRFOUtYaGFqbHNoYVIxN25HRzBKTE53YW40YW8yRXRrU1d6Z3pkWThGYUR5NE1SRHVnM1FjRnpZYmwwclJ0Y0ZGdk1ERDZTcklh?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Nov 2026 14:30:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdWd3ZHF4b3NYaVdiR2szVEhzSXpYZVJJXzZjdXEtZHc0cjd2X1NsZlVHV3kxV0JNSGdSLTdZR1h2WmpnUWZNTTdrbnhKTklCNGljV08zS0lyYmFIRjQxNE1kdDRxeWtDQm5NRExqdDFIb3RMMDVXTVNCQWNlcV9KTXpWTHZlYm9RcU5mR2FXTmJxc3R5Q3BBM1lzTWtMLUh5SWVoX0tVVExpUDRFOUtYaGFqbHNoYVIxN2"
+    },
+    {
+      "title": "‘IA y expansión nacional para atender mejor a los clientes de Santiago Vélez Corredores de Seguros’ - Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcUFzbXNOYmJaQ1Uyc3JySVM2a3pyV2J1SU1IaHlHb1U3UTNiTTJ4a0hB0gHnAUFVX3lxTE5GeXppVjZXYmZhYmJNLXVCcHFITmJTUTI3c2ttc3BhNmxtRXR0dWd0dm1CZkRGN2RVc3p4SkhEbkdVQ2pNQ2JMa0xCUnpZQXJOc1JSZFVFTmVyVVZra1kweVhQSUZGM2x6V2NzeFRfM1ZxS0REeWJ6T0RHM2FVR0pMZS1icHE0WFRwbEpEQnZialkzTXJtdkVpNXRkN0RmcnFBam9NWExXcVVRdzU0c3Z2WjFRZUFWOWhjNnVqR3pqWHpPbXVFSU83QmhOR1JNMmVJTGZYeGozRkhVTzUtYTV5ZlJTNzgtbw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 04 Nov 2026 23:10:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcU"
+    },
+    {
+      "title": "Santiago Peña explora alianzas con Anthropic para impulsar la IA en Paraguay - LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTllTlhQY28tazI1bXJJT3daMzI1LWJQZk0zbXRUeF9IQVV1cTI2RG44b2k0bVpCX0dPZDJuT3QwcUYyWENybmU0Tk1OUklNT1dIcktrOUpXNVByNzgwOS1UNHdKbkgyUXQ2c1VIbjJ0bF80bmJZU1MwN0U4bU9xcU9GOTR2NUo5UHdzZm1PcUFwRTVGR016VWFmdkhyelpUVzFudkN0d0RNMzdpYmQwdEtNNGZwMWpZcnBnT3FIMWxnZEnSAcMBQVVfeXFMTWJRT0ZCckwxMDF2QXE3VkpnVVVZUkx5WnVxYzAxWTBpS2R1X2xYWGJIYm1MNl9KOTNWQ09iTC1sczV6bkViVmpWaWNaZHNqX2RaMTNQQVd3V2lFZkNJSVdTSW12VUxJVDNlcmpkeVgzSm9zaUpjcDVfWW5lVUdVakNUR3lfamdpZTdNNE5wZ3BIZGRUVy0tQ3hNTTEtT2p0cGZkbFBvZVpTcnlDTGFGamVkRzBiSkdWSE9vTi1STGZDbUU0?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTllTlhQY28tazI1bXJJT3daMzI1LWJQZk0zbXRUeF9IQVV1cTI2RG44b2k0bVpCX0dPZDJuT3QwcUYyWENybmU0Tk1OUklNT1dIcktrOUpXNVByNzgwOS1UNHdKbkgyUXQ2c1VIbjJ0bF80bmJZU1MwN0U4bU9xcU9GOTR2NUo5UHdzZm1PcUFwRTVGR016VWFmdkhyelpUVzFudkN0d0RNMzdpYmQwdEtNNGZwMWpZcn"
+    },
+    {
+      "title": "Santiago Bilinkis: IA es la mejor y peor invención de la historia - Diario del Cauca",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzQyUUlObGx1OXNDZlR5MzF0Wnpfd3hnYlVtT2Vob3gxVFdMZEI1OEx3ekhtUUtwSFJySXQ3TnYxbEN1SDl4Rk1NbkthbmRxX0NUY1VHd2taUGpXN0J5M2FWMXU4Mkg3SXVLbzJXX3BZYXFYSEZndzdiVWl5UHh2NFh0Yy0tMHY1eWVtMUpLMERkQy1fWDFEaVBvb0djVG5NZEZBSkZfMjg5TDA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 31 Oct 2026 01:31:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzQyUUlObGx1OXNDZlR5MzF0Wnpfd3hnYlVtT2Vob3gxVFdMZEI1OEx3ekhtUUtwSFJySXQ3TnYxbEN1SDl4Rk1NbkthbmRxX0NUY1VHd2taUGpXN0J5M2FWMXU4Mkg3SXVLbzJXX3BZYXFYSEZndzdiVWl5UHh2NFh0Yy0tMHY1eWVtMUpLMERkQy1fWDFEaVBvb0djVG5NZEZBSkZfMjg5TDA?oc=5\" target=\"_bla"
+    },
+    {
+      "title": "Artículo: Ministerio De Ciencia, Tecnología, Conocimiento E Innovación Y Elevenlabs, Empresa Líder Mundial En Investigación Y Productos De Ia, Firman Mou Para Ampliar El Acceso A La Ia De Las Startups Chilenas - Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPb2hTOTRvOXlrak95UFRjMEZXTllwR2RNNFB0Nk52Um0xMmJtWFg3dGF3NnRSWjZkakFpeUl3VjUyS082S0JUSGxGNTBBWjZnMGdNYlJKSjJ3dkI3eVFxRUJ0bkhNUjQtMS1mTUNkTFhSOHhNMzRLMTcxSW9MQnFvY1ExYkIyNTJreHhWRVd4SmpSLUtGLThOWFEzSDlDQTJNZ2lxUWJ1RWJBMU1xZXIzSXFlWTNTbFppNnR1YUIzUHVaUUdJWWxkYUNtYVhRNjBHeVFCSjd3cDFWUDUwemFHYUZ2VUE2QTFPSHBmenc4YXZQVXp6NjUxMmZNV3B4UnpzY1F0bXhDZWZaVE9Sc09nRWZCS2xEQUhoZmJLVVZ2akY5dVA5Q3hUX3RsSkdhMktzckxyeUNYMU01c1BHdE5tb2o0SUpGekFwbHAxUnZ3bjRNQ0Vkcnc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Nov 2026 20:08:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxPb2hTOTRvOXlrak95UFRjMEZXTllwR2RNNFB0Nk52Um0xMmJtWFg3dGF3NnRSWjZkakFpeUl3VjUyS082S0JUSGxGNTBBWjZnMGdNYlJKSjJ3dkI3eVFxRUJ0bkhNUjQtMS1mTUNkTFhSOHhNMzRLMTcxSW9MQnFvY1ExYkIyNTJreHhWRVd4SmpSLUtGLThOWFEzSDlDQTJNZ2lxUWJ1RWJBMU1xZXIzSXFlWTNTbFppNn"
+    },
+    {
+      "title": "Alta Ley: 70 startups para exportar conocimiento minero - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJMV1ZsTlFDQml6d2ppZXVhcVhDU2h1dENaaG5FTWdsYXhXMEc0NDhIMDA4bnlnN09BWV9JUWRYVm55bXhMbzZBY0dNdTFwSXJFcmZ1WE8tUWlVMk9ZQmV2NVFJM21JS2lvQXV4UEp2WG5USEJlbkxkb3FfWkRnaEp0ZUtNa0M2V0RBR0pn?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 11 Nov 2026 03:21:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVJMV1ZsTlFDQml6d2ppZXVhcVhDU2h1dENaaG5FTWdsYXhXMEc0NDhIMDA4bnlnN09BWV9JUWRYVm55bXhMbzZBY0dNdTFwSXJFcmZ1WE8tUWlVMk9ZQmV2NVFJM21JS2lvQXV4UEp2WG5USEJlbkxkb3FfWkRnaEp0ZUtNa0M2V0RBR0pn?oc=5\" target=\"_blank\">Alta Ley: 70 startups para exportar"
+    },
+    {
+      "title": "Start-Up Chile abrió convocatoria global para startups tecnológicas con financiamiento de hasta $75 millones - Ministerio de Economía, Fomento y Turismo",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YXlWYVRHLWpnSkR2RVU1VzFqX1laS2c5bUhxd0pzT0FfOW5YVkUxcVVGa18?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 06 Nov 2026 12:05:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YX"
+    }
+  ],
+  "count": 14
+}
