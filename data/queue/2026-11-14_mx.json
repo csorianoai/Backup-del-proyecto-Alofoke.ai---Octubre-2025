@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "¿Qué tiene de especial pedir un DiDi en China? Lo descubrí en su país de origen",
+      "url": "https://expansion.mx/tecnologia/2026/11/14/que-tiene-de-especial-pedir-un-didi-en-china",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 14 Nov 2026 14:00:28 GMT",
+      "summary": "Desde solicitar un viaje por Alipay hasta viajar en camionetas con asientos de masaje, así fue usar DiDi en China."
+    },
+    {
       "title": "Microsoft explica por qué se cayó Outlook, Copilot y otros servicios por más de 12 horas",
       "url": "https://expansion.mx/tecnologia/2026/11/13/microsoft-explica-caida-outlook",
       "source": "Expansión Tecnología",
@@ -35,20 +43,20 @@
       "summary": "Microsoft informó que \"el tráfico se está restableciendo gradualmente\" en Norteamérica y gran parte de Europa y señales \"alentadoras\" en Asia-Pacífico."
     },
     {
-      "title": "Meta quiere que Muse haga tus compras, pero antes debe convencerte de que le confíes tu tarjeta",
-      "url": "https://expansion.mx/tecnologia/2026/11/13/meta-muse-hacer-tus-compras-seguridad",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Nov 2026 11:55:27 GMT",
-      "summary": "Meta lanzó Muse en México, un agente de IA que puede hacer compras en comercios como Walmart, Rappi o Liverpool, pero las preocupaciones de privacidad generan preguntas sobre si funcionará."
-    },
-    {
       "title": "México | Uso de Inteligencia Artificial amplía hasta 90 minutos más la jornada laboral - DPL News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGZNNDEyMUg1Mm9HZHppYW9yMUprMnRfaTFNbVdsWE1nYWlFWDF2U2hPU1liWDNDS3V6QXNtOTctODlXb1VTOGZCSXZWblk5Wk9Ib19SWVRIYldUSnpMVWZsa0djc1N1TktLQ3d0dGNTcmhaUFl4UTdJTUxyQUFEWm9qTW4ydVRyMlc1azJ6WjRBaHZZbkdKcTJGNEhnbVJoXzM3bmFkbVc?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 13 Nov 2026 23:35:05 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGZNNDEyMUg1Mm9HZHppYW9yMUprMnRfaTFNbVdsWE1nYWlFWDF2U2hPU1liWDNDS3V6QXNtOTctODlXb1VTOGZCSXZWblk5Wk9Ib19SWVRIYldUSnpMVWZsa0djc1N1TktLQ3d0dGNTcmhaUFl4UTdJTUxyQUFEWm9qTW4ydVRyMlc1azJ6WjRBaHZZbkdKcTJGNEhnbVJoXzM3bmFkbVc?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
     },
     {
       "title": "El ‘Anteparaíso’ de Carlos Amorales no le teme a la inteligencia artificial - EL PAÍS",
@@ -59,28 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOWG9tTnc4ODBkYXpCemtsTDRGR181ZVN3eWVtOFR0Q05Wel80RC1iRkctaWNDM01tZlFiYWRiMUJHS3Vjd0l5VE1lb0N6b3V4RVRKcXg4RU10VDFXNElRSGtmVXk5N0huZ1RmQ0FYSk1kOXk3eTFEaFdldnZObVRNSGZXaWt4emNnZG5FZll5UkJONVViV0N5YWYteVR2MHo1eWhvbTM5YWo0Q1ZlZWszd21KdmtjZ9IByg"
     },
     {
-      "title": "México necesita una inteligencia artificial que pueda seguir funcionando - El Financiero",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanhvN3hDb3ZtMEV0OE9RX0hzZ2IxNUxoUUkzWFNENDJ6bVF4R1BPU3FEclI4NzlzdGtXS2VDVTdINGh6ZTBCaHZvM2gxLS1ZTGM5MGtzRG1SV0o0ZU1Rbm1aLUtqLWR1Vi1wamdLVFpXblluU0dkbDZ1a3RrWTNTZUNURFdoam42TV9Fdm5uMzZSVHF5WVAzRmdjS1QyOVBYZjJsOWRwS1dGMlJka010ZVZLRDBNdy1aY2RVLVJIM0RlRElSNmk5Qnp2RTNuNWU2YVV5eg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 13 Nov 2026 10:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPanhvN3hDb3ZtMEV0OE9RX0hzZ2IxNUxoUUkzWFNENDJ6bVF4R1BPU3FEclI4NzlzdGtXS2VDVTdINGh6ZTBCaHZvM2gxLS1ZTGM5MGtzRG1SV0o0ZU1Rbm1aLUtqLWR1Vi1wamdLVFpXblluU0dkbDZ1a3RrWTNTZUNURFdoam42TV9Fdm5uMzZSVHF5WVAzRmdjS1QyOVBYZjJsOWRwS1dGMlJka010ZVZLRDBNdy1aY2"
-    },
-    {
       "title": "South Summit 2026: el evento que muestra cómo la IA está cambiando los negocios - Emprendedor | El medio líder de Emprendimiento y Negocios",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHZqUGJ1NjRsXzR0eUhfMklYaHRzZGQ2anZ2Mkd3UFkwSHdQQVgxOE1RemwxZmxNblplNkQta1lmME5rd3VzT095bjZ3SmNfTEx4VU02bndhXzV1WEpDU2tfZmVHUDM4Zzc0VzdwYTI4YnFVbWdEbUdvNFlPcVlrMDExb2dDejY1TkHSAY8BQVVfeXFMTi1QNUhWZWlUaDJZUzBuTFg3RHF5TFU2NXNmakNiSHh3Z3h0Ul83RFlZM01oV0pXRTZveFZ6UENaZERyUTBibVVfckpYQ3R4Wk83N19NNG1QMzdUcE1MVmhKMl9uZV9qOThtb3lzYUo0V2d0VWdaR21aM3d0aWdvZWpoMy1zWTRBbUF2RzkzdEk?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 05 Nov 2026 14:19:13 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHZqUGJ1NjRsXzR0eUhfMklYaHRzZGQ2anZ2Mkd3UFkwSHdQQVgxOE1RemwxZmxNblplNkQta1lmME5rd3VzT095bjZ3SmNfTEx4VU02bndhXzV1WEpDU2tfZmVHUDM4Zzc0VzdwYTI4YnFVbWdEbUdvNFlPcVlrMDExb2dDejY1TkHSAY8BQVVfeXFMTi1QNUhWZWlUaDJZUzBuTFg3RHF5TFU2NXNmakNiSHh3Z3h0Ul"
-    },
-    {
-      "title": "Startups Mexicanas Innovan Con Tecnología Para Enfrentar Desafíos Climáticos - Pausa.MX",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0hSeTBIRXh4Vm1Ca0JvZnZHREszTWdzdUxmRHBjUWU1MlpvdGpYbDFJaXdwYktlckdnUGZQUTk3cGNhN1FUaHNNNEpSOG5nUmVBNFVEdHlxcXZkb1h5VzFrc0hIZlpzVGM1RnZCbFdNelpGNXpDZzc1NHNRQVZlY1FvZW5PbUtqbThQalI5QndEVUlESDNpdXlB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 13 Nov 2026 14:10:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0hSeTBIRXh4Vm1Ca0JvZnZHREszTWdzdUxmRHBjUWU1MlpvdGpYbDFJaXdwYktlckdnUGZQUTk3cGNhN1FUaHNNNEpSOG5nUmVBNFVEdHlxcXZkb1h5VzFrc0hIZlpzVGM1RnZCbFdNelpGNXpDZzc1NHNRQVZlY1FvZW5PbUtqbThQalI5QndEVUlESDNpdXlB?oc=5\" target=\"_blank\">Startups Mexicanas "
     },
     {
       "title": "IA en México 2026: 48% empresas usan IA pero 46% no sabe si funciona - El Ecosistema Startup",
@@ -91,28 +83,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZtYzQ3ZWo2NkJTSGp3cGd5Mm5ObE85Z1VyT1ZXY3k5V05vMklUNzNYc3ZKbzdHcXZzMEg3ZmE3NkM5V2ljUGY1U3dydXpWQ1RsR3RoZXZNdlpta1M4c3ZIY010S3M0QzJld0NGWVplSmJ6MUFGOENGTVdQNUZ4SG5QTUxRYkk1WGhJQzQtWlVuVURLR2Y5aE05Wm0?oc=5\" target=\"_blank\">IA en México 202"
     },
     {
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+    },
+    {
+      "title": "3 exolímpicos de la Espol ganaron oro en la competencia de programación ICPC sin IA - El Comercio",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEliNEIwVmFfTUZidlpxWVZKWVBVYnRoRGxDNGY2dHgzQ3JnRlRBLUMwaW9Wc0Y1OXR1dzNvcFpvbjhrcG1IZW1iU3d5WkRZbHY0dF9hNC14VG1Sbjl5UmdWOHNqYTUydmoyUndITVNjYVd3ZW1NUnpvVTRqQUZUWHh6alRwVGZQR1lrbUp6cUFEZlJsU21oZjVvOGVUcmZCVlhVT1prN2M3dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 14 Nov 2026 02:50:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEliNEIwVmFfTUZidlpxWVZKWVBVYnRoRGxDNGY2dHgzQ3JnRlRBLUMwaW9Wc0Y1OXR1dzNvcFpvbjhrcG1IZW1iU3d5WkRZbHY0dF9hNC14VG1Sbjl5UmdWOHNqYTUydmoyUndITVNjYVd3ZW1NUnpvVTRqQUZUWHh6alRwVGZQR1lrbUp6cUFEZlJsU21oZjVvOGVUcmZCVlhVT1prN2M3dw?oc=5\" target=\"_blan"
+    },
+    {
+      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+    },
+    {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 26 Aug 2025 00:35:50 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
-    },
-    {
-      "title": "6 preguntas (humanas) sobre la inteligencia artificial - Tecnológico de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUJlYVg5OXlwT2VudlpiMzVxRVNaRE43QXZ2ZGg1Y0xyR2lueDdQRFRkanNHclJKalBqNEZXV3JfbGcxNldSS3dCZGpPM3hPRXRrVGxmSTAtclJFYkhud3hramZjckZKTUVyV1FsRVdBaW9mSHFjUmxVVkE0YXplNXFxZXdHNWljV0x4NTBpQWN1X2dOeEo3R0Q5TXhmWS03Z3VpWG5EUFktQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 03 Nov 2023 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUJlYVg5OXlwT2VudlpiMzVxRVNaRE43QXZ2ZGg1Y0xyR2lueDdQRFRkanNHclJKalBqNEZXV3JfbGcxNldSS3dCZGpPM3hPRXRrVGxmSTAtclJFYkhud3hramZjckZKTUVyV1FsRVdBaW9mSHFjUmxVVkE0YXplNXFxZXdHNWljV0x4NTBpQWN1X2dOeEo3R0Q5TXhmWS03Z3VpWG5EUFktQQ?oc=5\" target=\"_blan"
-    },
-    {
-      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
     }
   ],
   "count": 14

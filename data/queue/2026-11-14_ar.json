@@ -3,6 +3,22 @@
   "country": "ar",
   "articles": [
     {
+      "title": "\"Soy una m...\": así fueron las últimas horas de Jensen Huang como CEO de Nvidia",
+      "url": "https://www.clarin.com/tecnologia/m-ultimas-horas-jensen-huang-ceo-nvidia_0_MncYzN9T4S.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 14 Nov 2026 15:00:59 +0000",
+      "summary": "<ul><li>Un reportaje exclusivo de Bloomberg reconstruyó la reunión en la que el directorio le exigió la renuncia al cofundador.</li><li>Huang admitió una infidelidad tras semanas de desmentidas. Otro informe sobre una relación con una ejecutiva de Nvidia precipitó su salida. </li><li>Colette Kress, "
+    },
+    {
+      "title": "Caída de Outlook: qué pasó y qué mostró un relevamiento sobre el correo en la Argentina",
+      "url": "https://www.clarin.com/tecnologia/caida-outlook-paso-mostro-relevamiento-correo-argentina_0_xJlmvEnlLW.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 14 Nov 2026 09:00:57 +0000",
+      "summary": "<ul><li>Microsoft atribuyó la falla a un problema en su red y pidió disculpas.</li><li>Casi uno de cada diez dominios estatales .gob.ar relevados dirigía su correo a Microsoft.</li><li>El estudio halló la misma configuración en bancos, aerolíneas, un operador de aeropuertos y una universidad.</li></"
+    },
+    {
       "title": "Football Manager 27: lanzaron el videojuego que convierte fanáticos en técnicos y busca recuperar su confianza",
       "url": "https://www.clarin.com/informacion-general/football-manager-27-lanzaron-videojuego-convierte-fanaticos-tecnicos-busca-recuperar-confianza_0_EnZHMjfhep.html",
       "source": "Clarín Tecnología",
@@ -27,22 +43,6 @@
       "summary": "<ul><li>Si te preguntas si la caída de Microsoft ya se solucionó hoy, la respuesta es no. Una interrupción global que afecta a los servicios de Microsoft 365 —incluidos Outlook y Teams— se ha prolongado hasta su segundo día, paralizando vuelos y ralentizando redes hospitalarias en todo el mundo. </l"
     },
     {
-      "title": "La renuncia del jefe de ciberseguridad del Gobierno: el plan para ARSAT, los fondos de EE.UU. y la disputa por la tecnología china",
-      "url": "https://www.clarin.com/tecnologia/renuncia-jefe-ciberseguridad-gobierno-plan-arsat-fondos-eeuu-disputa-tecnologia-china_0_m2xOt3Il6f.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Nov 2026 08:46:36 +0000",
-      "summary": "<ul><li>Ariel Waissbein renunció al CNC tras la cancelación de una jornada del sector. Su segundo también se fue y echaron al coordinador del CERT.</li><li>Planeaba instalar un centro de operaciones en ARSAT, con infraestructura propia y herramientas de código abierto.</li><li>El nuevo director, Wal"
-    },
-    {
-      "title": "Microsoft aseguró que no detectó indicios de actividad maliciosa tras la masiva caída de Outlook",
-      "url": "https://www.clarin.com/tecnologia/microsoft-aseguro-detecto-indicios-actividad-maliciosa-masiva-caida-outlook_0_9EnIjOBhCc.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Nov 2026 08:27:47 +0000",
-      "summary": "<ul><li>Lo aseguró el gigante tecnológico en redes, así como también uno de sus más importantes directivos. </li><li>La empresa admitió que las medidas para solucionar el problema no funcionaban \"como se esperaba\".</li></ul>"
-    },
-    {
       "title": "La logística argentina busca nuevos perfiles ante el avance de la inteligencia artificial - Infobae",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUklnWGxyQk9OLU91XzNDNFZPTFlfcDl1X3pUUlQ0TkZlYUJYajZqcWlVMGN0T2h4cDZpUGdfMzFrdjViWG1CcFZGNjN2ZXRKcnVWeS1rWGpmdnNLT29JT2NEWVlzSnc5cjhQMG5mVHpxQnFlLVlWZVFtMGpXaVVGQTJhbEpaY2JZbVdmeXM2WVptQmRpLWI4Q0NtS2x3YlZrb1ZsazBmMGt3ME10WWd2ZW1ub3VMbTNxN0ZjUkpIa2pDd29ZQlFsUzhTNVHSAecBQVVfeXFMTUVvY214Mm5mTEI2ams2aW5YUGpxeTlVbDRpc2Q3UHZHa3FVODctTHp5dU1vRWxMX0VaeVl4eVZlQy1xQnAzcndPTUVxUkpOWERISDRwMjVIYU84YTd0ZFZNY0tLbGFHNWRRYVlXQnp2XzFUaFFUelNhSFdMbG5TcWNvb3J0MkxuWDk1d0dHalB2bVA5YUgtVE9VR3BHNkg3NGJnZHZkZENGR2xWZkFkYnpGRURsVHBoZjFTdEZfNlYwQkZvbTZBVG9SVGx5Uy1QQjM3aGJGLWt3OVVERnNueVF6SWIxN2Nz?oc=5",
       "source": "Google News",
@@ -51,28 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUklnWGxyQk9OLU91XzNDNFZPTFlfcDl1X3pUUlQ0TkZlYUJYajZqcWlVMGN0T2h4cDZpUGdfMzFrdjViWG1CcFZGNjN2ZXRKcnVWeS1rWGpmdnNLT29JT2NEWVlzSnc5cjhQMG5mVHpxQnFlLVlWZVFtMGpXaVVGQTJhbEpaY2JZbVdmeXM2WVptQmRpLWI4Q0NtS2x3YlZrb1ZsazBmMGt3ME10WWd2ZW1ub3VMbTNxN0"
     },
     {
-      "title": "Quién gana entre Argentina y Uruguay, según la inteligencia artificial - La 100",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTBQU3Roekp2V1REaUtaWmZvSGgwaG5TRDlRNFdmMWZRY0lZa3NKWXZDVnJOdkFjZzNjTXhPWmpuQXFTZ1RORE5mZXBTdUJuQjAxc0xFOWJseGhHdUx1Qm1yTnlvQ1JtUVpqRzM0UkVCd1M1cGpRS1M0aHg2TUFhWERrMUU2OUZ2aWJmX0h6Nlk4VFNjS21lWTVZSnpLQVRWenJVLURUQ2pGdGZn?oc=5",
+      "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial? - La Capital",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVE44LVN6RHpobFdQZnRlS0ZZQ1NBaDNTbmw4bmRoWVZOdXg3R3FDT1Nlak9MZkpwRFU5aEk1SjZ5RndtaUttOUVtekNWTUpiUzZka00tRWFxR1FNNDc2SDFScjFndFpDbmJKTVZqM1dJTEZ2SU5lc3o0aGFUaUlnZ2pjQmptbzNMaXhHS285N01rNmdzSEZseHRvQllpV3RyY2xNbTB5OENJWTBmRjZhcXlPU25ueWRTeU4xc9IBwgFBVV95cUxPbGRScXN5VmtuQnIxWERVckc3alRNalN3dm1tOVZvc2I4cWpxRFVmMkJsVmhxUGJkZ0hrckR4VG5fRTA1VUlsZ0YxVjdOdU5Ua2JuNUJPajJFcUxGWHIwZElzeWFWSGxQSjRhcFh4TFd3Rm9rSWI5YlRxUFF3bEp3WVQ0ak9rbXlZWl9ZZ3pzVnFlNWtkbXgzQ0VsaHFuOWN3Rm5NOHZWQmVKdkdYWFRBaUxueVZPVlZGc1RGRlpneTV2QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 13 Nov 2026 21:10:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQeTBQU3Roekp2V1REaUtaWmZvSGgwaG5TRDlRNFdmMWZRY0lZa3NKWXZDVnJOdkFjZzNjTXhPWmpuQXFTZ1RORE5mZXBTdUJuQjAxc0xFOWJseGhHdUx1Qm1yTnlvQ1JtUVpqRzM0UkVCd1M1cGpRS1M0aHg2TUFhWERrMUU2OUZ2aWJmX0h6Nlk4VFNjS21lWTVZSnpLQVRWenJVLURUQ2pGdGZn?oc=5\" target=\"_bl"
+      "published": "Sat, 14 Nov 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVE44LVN6RHpobFdQZnRlS0ZZQ1NBaDNTbmw4bmRoWVZOdXg3R3FDT1Nlak9MZkpwRFU5aEk1SjZ5RndtaUttOUVtekNWTUpiUzZka00tRWFxR1FNNDc2SDFScjFndFpDbmJKTVZqM1dJTEZ2SU5lc3o0aGFUaUlnZ2pjQmptbzNMaXhHS285N01rNmdzSEZseHRvQllpV3RyY2xNbTB5OENJWTBmRjZhcXlPU25ueWRTeU"
     },
     {
-      "title": "ARLOG: la IA recorta 15% los costos logísticos - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVk5tXzlwUURyQVlfNEFKSnozTzVyMFdBV2lYV2tUMVZsdXhkWnpJUXpaTHpmaUxhVk8wNjZaTFJyN2MzZDJUc3FrWVUweUxTcUJtdVI0NDA4TU5xUEJ4Z2s5MUF1eXA2cVRQbXBuRUttenIwcWJLdEpub3ZEZTFfQw?oc=5",
+      "title": "La nueva batalla de la inteligencia artificial: cómo las certificaciones de OpenAI, Anthropic y Microsoft redefinen el negocio de la consultoría - Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeWh3R0VNZlBFWm51dUpCUjNZM0JJSGNJdE1RSE13QWVZSVdzYkkxa284WjVhWHVqWGF4UVdWM0szTEh5LTNWWXE0Wmppc191bjUwYVJyNFNmM01vNTVYTnhUSTREOG5pVjc3SEEtdlhHVW55VVVpRWhPQU1TTDRLQUtqZE1RcTZYZUMwWHZaZnJLdlVPaU1ObGFYNUlsZU8xUVhQRm44YWVweVZ5MEc4TUV4S1JHTm9aTVYyUVU5Y0pRMHhmR0lnVWJnVTFTanhqcG1Yeng0QW82SEFQMzI5ek9GTUxnOHdub0p1RjNTbUdmdVhWMFdwOWIyZ9IBgAJBVV95cUxNMm5id1ZheS1tTy1rNzFRWVNoQWFrbVlqdlhRR2Y3dnptczFYc1JMZm1KYU44Mm4zeHRub3hZU0hJNXpzX2w1M3Zicm9mZ2FzbjF5R3dROUVpYzVLRUNlWVNaaDZDZFBTSHJ4VmY5ejhGQlhZbV9ack5RM0VOUmFacUhxTDZqVW1TeEtQMnRqREZxcWo3QkJtdC1Fc3pqTHhEMmJfQjJRRHNZOGljcW9lSzRIS2wzZHJGbFFteVlhUzJVNGlRQ3FYYmQxaDBIN1h1ckZIcDF5ZVloSU1vU0tBaU81dlJKclZXUDlrbUxBNVVxMHBXdklEMmVWOHJhd25t?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 13 Nov 2026 17:39:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVk5tXzlwUURyQVlfNEFKSnozTzVyMFdBV2lYV2tUMVZsdXhkWnpJUXpaTHpmaUxhVk8wNjZaTFJyN2MzZDJUc3FrWVUweUxTcUJtdVI0NDA4TU5xUEJ4Z2s5MUF1eXA2cVRQbXBuRUttenIwcWJLdEpub3ZEZTFfQw?oc=5\" target=\"_blank\">ARLOG: la IA recorta 15% los costos logísticos</a>&nb"
-    },
-    {
-      "title": "Buenos Aires reúne a referentes mundiales de la simulación en salud con foco en inteligencia artificial y seguridad del paciente - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPejUwS1hzblRncmZlZ01ZTVZieXAyRGh5UGlrRDB5VHYxT2JUM3NMVEswSmJERTZoQ0ZVcU9nOEloSUFZcExjcEN2eElNUWctNmFsOVYwM0hhX3UyNHpSTnVENlR5bTIyamRxQ3E2U0lBR0lMVURiRmN6MlR2UmRJVDl4M0gyZUFFWTdmS1Q5bUR0WDY3T1FfWVhRZVh3Unk3UXE0RXpMd0hGenRHeHNYWXpxS2ZDNUlnXzFMT3JPdWJvOGUxSWVLMmtiRWM4MENLYXBmbkI3XzVRUlZEa0ZjWmFwVDlBWHEta0pCNDEyZUkwWkRKWlFLUjR0bHJzU242Y2Z6eE5ER2RyQdIBpAJBVV95cUxONW5Kb2xqOFFZZkg5c3Nidll1NFU1WFh0MDgydUY0NHdlVFFaSXVyY1pEVUhhbklBS2JFQzJoVVFJN0MtNGxLSGhzNjVCVzZveXhsWGN0NzJSX19yU0NCSjRGM3Y2TEU3dFdPVDlDWU1QWG9jS3V5amRQZjVZTWJLd0V5Z3NQdUt6UFQ3dlBFbGhESk1VWmVyQTRlb2I3eVhiNUtVTHZMdkw5VWRsenpYZ3VoYXpxbUhQZy1fM0VQTks2T2tETEM4MHVBbmdlUU5jcjlxN0tsOWF0UmxTekRCNEVDX0xlUjU5ZkJVR1RfSnkxT1d6eEdZQThNcjNyM2VPWnZUNW1QVkhpeFFqWEwxbHU4QXRDNndiOW1SOXBVMnFHckZ6?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Nov 2026 05:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPejUwS1hzblRncmZlZ01ZTVZieXAyRGh5UGlrRDB5VHYxT2JUM3NMVEswSmJERTZoQ0ZVcU9nOEloSUFZcExjcEN2eElNUWctNmFsOVYwM0hhX3UyNHpSTnVENlR5bTIyamRxQ3E2U0lBR0lMVURiRmN6MlR2UmRJVDl4M0gyZUFFWTdmS1Q5bUR0WDY3T1FfWVhRZVh3Unk3UXE0RXpMd0hGenRHeHNYWXpxS2ZDNUlnXz"
+      "published": "Fri, 13 Nov 2026 17:07:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeWh3R0VNZlBFWm51dUpCUjNZM0JJSGNJdE1RSE13QWVZSVdzYkkxa284WjVhWHVqWGF4UVdWM0szTEh5LTNWWXE0Wmppc191bjUwYVJyNFNmM01vNTVYTnhUSTREOG5pVjc3SEEtdlhHVW55VVVpRWhPQU1TTDRLQUtqZE1RcTZYZUMwWHZaZnJLdlVPaU1ObGFYNUlsZU8xUVhQRm44YWVweVZ5MEc4TUV4S1JHTm9aTV"
     },
     {
       "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
@@ -83,12 +75,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
     },
     {
-      "title": "Vuelve Tecweek: 12 días de tecnología, innovación, inteligencia artificial y gaming con todo el potencial - Buenos Aires Ciudad",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE5iWFhuOThDTFU?oc=5",
+      "title": "Festival Mundial de Cine IA Argentina, en Buenos Aires - Buenos Aires Ciudad",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGhGSTh6QlpBRW1WeVlVUVJjanNnTmRVN1FLVG12OHh6TmdJTkJyM1FqdFRkQzNxMzl4SUs1MDFOOXl4cmdGRFZ6cjNZTjItc1dQaHdpWFR6dDRXamlvcDdid25DQ0hoOTBRYTFmTmtmenJ2VWlMaXcxNzRndGRJNFhFU3FJUE5WMW1QcGtxVzQyX0VlcDc1WFp5UkxXYnRDVE1qaXdXVXpCZE9NVjJRVnhweUR2QzRKTkdKVVBR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnZWcnB0ZzlPWnlFaE8zVS1GRG53WE5QbzA1djdWcGQ1NXNoRF9KSHFBcVdoWWdtZGdlUk16cEYyc3RRN2p1UEVQa2RSM1RHNm9KYlJCRW80RVo2ME9VNUkwc3dpMHhYR1dIWEQ1ZG9leXBBbzJZX3hVMlBtWU9hUndFNThuekFGRUpLSmpHd0xlUFdUSlh1Ml9SWVdpRGVxaTJsQXhRZmJDOVNENVoycmNwblJ1Z3ZUdE"
+      "published": "Fri, 30 Oct 2026 05:57:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGhGSTh6QlpBRW1WeVlVUVJjanNnTmRVN1FLVG12OHh6TmdJTkJyM1FqdFRkQzNxMzl4SUs1MDFOOXl4cmdGRFZ6cjNZTjItc1dQaHdpWFR6dDRXamlvcDdid25DQ0hoOTBRYTFmTmtmenJ2VWlMaXcxNzRndGRJNFhFU3FJUE5WMW1QcGtxVzQyX0VlcDc1WFp5UkxXYnRDVE1qaXdXVXpCZE9NVjJRVnhweUR2QzRKTk"
+    },
+    {
+      "title": "Clima en Ciudad Autónoma de Buenos Aires hoy sábado 14 de noviembre: lluvia ligera y cielo cubierto - TN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNm0tb21RcmsxcU1rRk84Q1hOZGtxR2ZzYXI4bkdqRm1Mc0Iwb3ZqOVNMdGYteUhRLUhPZDZORmtEUmx6VlJ3SG44clVZdm5Db2RKTzBwS0ozeEhFaVNKelF3VHNBb2tRdEU3UjJfam9fT053YzREQmwwdU1YN2ZDTVNDdDJWWFFHRWcwNXNKSURyX19nMEVaaWxNdTJ2V0lCcThYR3MwMlRlYUNMMklsbHdCX1Y1OWFVS1lJZ0lxZlFUbkZIa2o3RGdvdGRXaUFVdDZJUW1Qdnk4QdIB7gFBVV95cUxOUDFjMnZ0dGM2TE5xWWZ0TUV2RjMyY1ZPU1dQT012aWlNYkFWM2ZJN2FWYnpMYVBiQkg5THFBMGdzQ2p1Y0ZUemgtcEtyNEpKUzBLNHVlaDJteXNhN0UxRWdhRmxlSFhQbHpZUHpLcFMxZ3BYMHdvZVBzSWVqVDV6enU2Yl8tWUZfZU5pbGZVODB3aDVBT0JlaEUwSWNCM1NVMVdpU2FhdGJYY0xzb1gtOGRsMDhXbFRoWEpLU2ZxZ0ZHTFNFNEtQRkt3OUlJRmVJYlBvbVpSMG5OaVYtYldPRDZTRmRoMnlkV2pTcEln?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 14 Nov 2026 09:02:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNm0tb21RcmsxcU1rRk84Q1hOZGtxR2ZzYXI4bkdqRm1Mc0Iwb3ZqOVNMdGYteUhRLUhPZDZORmtEUmx6VlJ3SG44clVZdm5Db2RKTzBwS0ozeEhFaVNKelF3VHNBb2tRdEU3UjJfam9fT053YzREQmwwdU1YN2ZDTVNDdDJWWFFHRWcwNXNKSURyX19nMEVaaWxNdTJ2V0lCcThYR3MwMlRlYUNMMklsbHdCX1Y1OWFVS1"
+    },
+    {
+      "title": "DELFI: startup argentina de moda con IA gana SelectUSA - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2xiM3BhZlc2Y3FNYzBZd1hYVGtBX3gxRGpoRW9IdF9wazE4MUZXbVh6OWlPZXVWY3p4OUtWYW1XdzZSRU1zSHFGN2JhSFVPNVpxNHI0ODZCTS1NZWZURUFwbDBRcWREX3puZ0pWbXRaT2tDaW1TZk1JenNnQnl3VHNuWlhTaEtmQlpxZw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 12 Nov 2026 07:21:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2xiM3BhZlc2Y3FNYzBZd1hYVGtBX3gxRGpoRW9IdF9wazE4MUZXbVh6OWlPZXVWY3p4OUtWYW1XdzZSRU1zSHFGN2JhSFVPNVpxNHI0ODZCTS1NZWZURUFwbDBRcWREX3puZ0pWbXRaT2tDaW1TZk1JenNnQnl3VHNuWlhTaEtmQlpxZw?oc=5\" target=\"_blank\">DELFI: startup argentina de moda con "
     },
     {
       "title": "Una startup argentina probará en Río Negro una tecnología que transforma gas natural en hidrógeno limpio - El Observador Argentina",
@@ -99,20 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3hWYW82TVBwcDR4bWxfT3p0WFJEODRVbTdpcDZvamo2bV8xVlk0RDNKQXVqYnZRb3RaYTdPWm1tZ1daME9TWFB5STlsVXVEdEhNU1Ewb0NPVTNxZGcwaUVhaVh3UnZOcW5UNGZES1hGeHk1RzBpblFNLTFaN0h1aE1NdEZxMXNhbzY0T1ZhQk93bjBLUWZvRi1WbU15XzJic1hpZ0RZSE5YbkYxZ05PeWJKZHllQkswND"
     },
     {
-      "title": "La Segunda busca insurtechs: 5 retos, cierre el 16/11 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQanhrcjN3YlhXVk5PSzYxUE5TTmNWTF91QWRPX0c3eTZBT1BNLWtrUWhNdUpVMmZ0REZpYk42M0tjNG4yUnZMaktrdUJFa3JVa1NvQ0p3U29MblR6c2ZEY1RtTGJ3UldyaVpaa2UzTU1hRlFSZS1GYzJHUjJXTXczU1ozRWZRMEdVSEE?oc=5",
+      "title": "Premiaron a startups argentinas que innovan en salud, educación y tecnología - La Ribera Web",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2RqR0p5MmJPZlA1LVUycEZna2hHa1dBbFZzaHVQTkRZdGdsSFR3aE90N3NDY0w5UkhITklFcnh5Nm1pcXNXZmYwYmNpZ2dGWndpOGxZbXFmcFQ3Y1U2WVU4OHBnazAzVFFDbUgtaTdiZHU0eHRuTnNUVS12Zmd2UzhETkVNOEhyMlJWa3FzTnkwbWM3V05QSl81LTV5SndqN1g0ZDFydTk3eW1FUGlDLUp3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 13 Nov 2026 11:21:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQanhrcjN3YlhXVk5PSzYxUE5TTmNWTF91QWRPX0c3eTZBT1BNLWtrUWhNdUpVMmZ0REZpYk42M0tjNG4yUnZMaktrdUJFa3JVa1NvQ0p3U29MblR6c2ZEY1RtTGJ3UldyaVpaa2UzTU1hRlFSZS1GYzJHUjJXTXczU1ozRWZRMEdVSEE?oc=5\" target=\"_blank\">La Segunda busca insurtechs: 5 retos, ci"
-    },
-    {
-      "title": "DELFI: startup argentina de moda con IA gana SelectUSA - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2xiM3BhZlc2Y3FNYzBZd1hYVGtBX3gxRGpoRW9IdF9wazE4MUZXbVh6OWlPZXVWY3p4OUtWYW1XdzZSRU1zSHFGN2JhSFVPNVpxNHI0ODZCTS1NZWZURUFwbDBRcWREX3puZ0pWbXRaT2tDaW1TZk1JenNnQnl3VHNuWlhTaEtmQlpxZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 12 Nov 2026 07:21:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2xiM3BhZlc2Y3FNYzBZd1hYVGtBX3gxRGpoRW9IdF9wazE4MUZXbVh6OWlPZXVWY3p4OUtWYW1XdzZSRU1zSHFGN2JhSFVPNVpxNHI0ODZCTS1NZWZURUFwbDBRcWREX3puZ0pWbXRaT2tDaW1TZk1JenNnQnl3VHNuWlhTaEtmQlpxZw?oc=5\" target=\"_blank\">DELFI: startup argentina de moda con "
+      "published": "Thu, 12 Nov 2026 13:41:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPV2RqR0p5MmJPZlA1LVUycEZna2hHa1dBbFZzaHVQTkRZdGdsSFR3aE90N3NDY0w5UkhITklFcnh5Nm1pcXNXZmYwYmNpZ2dGWndpOGxZbXFmcFQ3Y1U2WVU4OHBnazAzVFFDbUgtaTdiZHU0eHRuTnNUVS12Zmd2UzhETkVNOEhyMlJWa3FzTnkwbWM3V05QSl81LTV5SndqN1g0ZDFydTk3eW1FUGlDLUp3?oc=5\" tar"
     }
   ],
   "count": 14
