@@ -1,14 +1,26 @@
 {
   "date": "2026-11-15",
-  "published_at": "2026-11-15T19:35:50.144605",
+  "published_at": "2026-11-15T22:36:54.151731",
   "total_articles": 0,
   "countries_updated": [
     {
-      "country": "es",
+      "country": "pe",
       "count": 0
     },
     {
-      "country": "pa",
+      "country": "uy",
+      "count": 0
+    },
+    {
+      "country": "co",
+      "count": 0
+    },
+    {
+      "country": "mx",
+      "count": 0
+    },
+    {
+      "country": "ar",
       "count": 0
     },
     {
@@ -20,23 +32,11 @@
       "count": 0
     },
     {
-      "country": "ar",
+      "country": "es",
       "count": 0
     },
     {
-      "country": "pe",
-      "count": 0
-    },
-    {
-      "country": "mx",
-      "count": 0
-    },
-    {
-      "country": "uy",
-      "count": 0
-    },
-    {
-      "country": "co",
+      "country": "pa",
       "count": 0
     }
   ]
