@@ -3,6 +3,38 @@
   "country": "cl",
   "articles": [
     {
+      "title": "Lluvias en Santiago: qué días de la semana podrían registrarse precipitaciones",
+      "url": "https://www.latercera.com/tendencias/noticia/lluvias-en-santiago-que-dias-de-la-semana-podrian-registrarse-precipitaciones/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Nov 2026 13:37:03 +0000",
+      "summary": "Tras varios días de altas temperaturas, la inestabilidad marcará el pronóstico de la Región Metropolitana, con chubascos que podrían intensificarse durante las próximas jornadas."
+    },
+    {
+      "title": "Cómo los trastornos del sueño pueden alterar el cerebro, según una investigación",
+      "url": "https://www.latercera.com/tendencias/noticia/como-los-trastornos-del-sueno-pueden-alterar-el-cerebro-segun-una-investigacion/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Nov 2026 09:03:00 +0000",
+      "summary": "Los hallazgos fueron obtenidos a partir de un metaanálisis de 57 estudios de neuroimagen en cerebros adultos. Los autores del trabajo presumen que sus resultados podrían facilitar un diagnóstico más temprano y el desarrollo de tratamientos más específicos."
+    },
+    {
+      "title": "El número de dientes podría estar relacionado con el riesgo de demencia, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/el-numero-de-dientes-podria-estar-relacionado-con-el-riesgo-de-demencia-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Nov 2026 09:02:00 +0000",
+      "summary": "Una investigación japonesa realizó un seguimiento de más de 47 mil adultos mayores durante nueve años para investigar esta relación con la demencia."
+    },
+    {
+      "title": "Esta señal al caminar podría anticipar indicios tempranos de Parkinson, según un estudio",
+      "url": "https://www.latercera.com/tendencias/noticia/esta-senal-al-caminar-podria-anticipar-indicios-tempranos-de-parkinson-segun-un-estudio/",
+      "source": "La Tercera Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Nov 2026 09:01:00 +0000",
+      "summary": "Un estudio de la Universidad de Nueva Gales del Sur encontró diferencias en el movimiento de los brazos de personas que posteriormente fueron diagnosticadas con esta enfermedad."
+    },
+    {
       "title": "El Alzheimer podría presentar señales de advertencia tempranas fuera del cerebro, según un estudio",
       "url": "https://www.latercera.com/tendencias/noticia/el-alzheimer-podria-presentar-senales-de-advertencia-tempranas-fuera-del-cerebro-segun-un-estudio/",
       "source": "La Tercera Tecnología",
@@ -11,92 +43,20 @@
       "summary": "Los investigadores presumen que sus hallazgos, en el futuro, podrían transformar la forma en que se diagnostica y trata esta enfermedad."
     },
     {
-      "title": "Esta ave puede tomar decisiones el doble de rápido que los humanos, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/esta-ave-puede-tomar-decisiones-el-doble-de-rapido-que-los-humanos-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sun, 15 Nov 2026 10:01:00 +0000",
-      "summary": "Una investigación de la Universidad de Tubinga encontró que este animal puede interpretar información visual y responder en apenas 235 milisegundos, sin perder precisión."
-    },
-    {
-      "title": "¿Efecto Creamfields? Santiago está en el top 5 mundial de oyentes de Calvin Harris y Charlotte de Witte en YouTube",
-      "url": "https://www.latercera.com/tendencias/noticia/efecto-creamfields-santiago-esta-en-el-top-5-mundial-de-oyentes-de-calvin-harris-y-charlotte-de-witte-en-youtube/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 14 Nov 2026 12:01:00 +0000",
-      "summary": "Según datos de YouTube Charts, la capital chilena es la quinta ciudad del mundo donde más se escucha al DJ escocés y al alemán Boris Brejcha, y la segunda en el caso de la belga Charlotte de Witte. Los tres son parte del cartel de Creamfields 2026, que se realiza este sábado 14 y domingo 15 de novie"
-    },
-    {
-      "title": "Lluvias regresan al centro-sur este fin de semana y podrían extenderse por cinco días",
-      "url": "https://www.latercera.com/tendencias/noticia/lluvias-regresan-al-centro-sur-este-fin-de-semana-y-podrian-extenderse-por-cinco-dias/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 14 Nov 2026 10:03:00 +0000",
-      "summary": "Una baja segregada y un sistema frontal marcarán el panorama meteorológico de la próxima semana, con precipitaciones que podrían acumular cerca de 100 milímetros en sectores de la zona sur."
-    },
-    {
-      "title": "Por qué los mosquitos pican más a algunas personas que a otras, según un estudio",
-      "url": "https://www.latercera.com/tendencias/noticia/por-que-los-mosquitos-pican-mas-a-algunas-personas-que-a-otras-segun-un-estudio/",
-      "source": "La Tercera Tecnología",
-      "category": "tech",
-      "published": "Sat, 14 Nov 2026 10:01:00 +0000",
-      "summary": "Los investigadores analizaron las preferencias de tres de las especies más peligrosas del mundo. Aseguran que sus hallazgos podrían transformar la forma en que el mundo combate las enfermedades transmitidas por mosquitos."
-    },
-    {
-      "title": "La inteligencia artificial predijo cómo queda el partido de la Selección Colombia contra Chile - Bolavip",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1NvVzE1cGpQMXFxZ1d2anh2RUdxM0l2Nms3NHRrNXN4OXhXMzItMGtVbHVVSU9tdGJnS0RmLW5kdEJjMy1MZl9HYkpmdUo0a1VQYUdvZS1GdXdtTEZoTGNuMjBEdk9scFhMaUp4YlVhRW04YkRmcS04UmdEUDJybWh1RDZMUGNDclZGZmgzc0hsREdCR2JIck50UWdZUkpxOFJXMnRESEF0UWZIdnRUOEpBM2QzSklXT1NZdUl1OFlIYmh3aks4R2dB0gHPAUFVX3lxTE1OM2MxclQyaE1EODB0ZlNfQ2hHUUljLUVHOFRUVjBiNEUwTWNUakRkLTBTbnZkbm1jODY3WkE3c0hqV3UyQzYxQkREanppTURkbHZLalhCR2NTcHVDM0g1MkREendDbENRMmFRU0c1X2xnRGczbWg3QmVGMGRta2FSQlVBQUk1OHlFdVJ6Q1VpcXg1dFFDblhBWmM1UURrSzQwWEl5SzI0U1JPVWJJTG9PSVVacE9sTmh3d1NKMklNalpObXFTdHVwcGY0RDJVcw?oc=5",
+      "title": "Startups chilenas accederán a herramientas de IA de voz gracias a alianza del Ministerio de Ciencia y ElevenLabs - Reporte Minero",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVF96U296MWVZQzFLZ1BTNXk4ZFJMcTZlN3lKaGg1dE5qWEoxbjh6S3dhSlVkV3U4OWRUNk1IQ2lkcHRsMVJHZXR1V09BREptX2Rtejh2Mmt6UVZvaGotOHpoNmcwWFlFajNGYU1rdDNEZkd6U19hM1BQUFBybnE4THZpT2tjLW5iNG4yRC1yOUZ5OEtPMXBVQ3hENE1lRGZOVWZHVGZGQTdGejVMMFNsSUdjSUlaOHZHZ1B1aVY3aGFWOG8?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 13 Nov 2026 22:59:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1NvVzE1cGpQMXFxZ1d2anh2RUdxM0l2Nms3NHRrNXN4OXhXMzItMGtVbHVVSU9tdGJnS0RmLW5kdEJjMy1MZl9HYkpmdUo0a1VQYUdvZS1GdXdtTEZoTGNuMjBEdk9scFhMaUp4YlVhRW04YkRmcS04UmdEUDJybWh1RDZMUGNDclZGZmgzc0hsREdCR2JIck50UWdZUkpxOFJXMnRESEF0UWZIdnRUOEpBM2QzSklXT1"
+      "published": "Mon, 16 Nov 2026 22:06:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVF96U296MWVZQzFLZ1BTNXk4ZFJMcTZlN3lKaGg1dE5qWEoxbjh6S3dhSlVkV3U4OWRUNk1IQ2lkcHRsMVJHZXR1V09BREptX2Rtejh2Mmt6UVZvaGotOHpoNmcwWFlFajNGYU1rdDNEZkd6U19hM1BQUFBybnE4THZpT2tjLW5iNG4yRC1yOUZ5OEtPMXBVQ3hENE1lRGZOVWZHVGZGQTdGejVMMFNsSUdjSUlaOHZHZ1"
     },
     {
-      "title": "Chile llama a tratar en la ONU los desafíos de la inteligencia artificial - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5",
+      "title": "Start-Up Chile: postula a BIG13 y recibe hasta $75 millones - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGU3Ykx1UVlwRTcxQWEzeEdndk1pYVRJOUYwajF6ejYwcTAyZ1BqdmxyNU5SQ0pqU3gyRjJJY1FJZmhzSXY4bHBxNFN5M3A1TUI4d1VQdUQtN3BzWHFBenNJUk1JbjFkUjZPM1AzYWVfaTJ6cTdkWHhEVkxLZ01WYjBxakZFSlFmRXRETHo4YUNUUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82OVJoRkRIT2lVZkRuaUM2akZaOTg4VEdBeEVDME1hUUxkY25wQnQxMGFqTnRsbEVtcVVmZWt0aWdsY1Fvc25MbExMLXZVYkg3QUVwWlV5dw?oc=5\" target=\"_blank\">Chile llama a tratar en la ONU los desafíos de la inteligencia artificial</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
-    },
-    {
-      "title": "Índice Latinoamericano de Inteligencia Artificial 2026 será presentado el 20 de octubre en la CEPAL - Comisión Económica para América Latina y el Caribe",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFMYUpjNnVaaV9XeTJ5NXlCV2RfckpRUDlCT0F0b1ROcWFfa1BwdEpUTVBPc2J2TU5ZS0t2ZHQ2cF94b09wZ2pKOEhWNWppVmhYanRYdG5PajU5TTAwbFlTRk9XWkpLOUlneWNIcUZadEpKRE10YkthV25GSWtzR08yTGx0bVBya21NVDBOU244RlhaMDFxUV85QVlWQVNBSlBsUVBoTEZYMkN4d1l1d2w1MnRmdlF0NHZKN0dn?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 15 Oct 2026 17:11:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFMYUpjNnVaaV9XeTJ5NXlCV2RfckpRUDlCT0F0b1ROcWFfa1BwdEpUTVBPc2J2TU5ZS0t2ZHQ2cF94b09wZ2pKOEhWNWppVmhYanRYdG5PajU5TTAwbFlTRk9XWkpLOUlneWNIcUZadEpKRE10YkthV25GSWtzR08yTGx0bVBya21NVDBOU244RlhaMDFxUV85QVlWQVNBSlBsUVBoTEZYMkN4d1l1d2w1MnRmdlF0NH"
-    },
-    {
-      "title": "‘IA y expansión nacional para atender mejor a los clientes de Santiago Vélez Corredores de Seguros’ - Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcUFzbXNOYmJaQ1Uyc3JySVM2a3pyV2J1SU1IaHlHb1U3UTNiTTJ4a0hB0gHnAUFVX3lxTE5GeXppVjZXYmZhYmJNLXVCcHFITmJTUTI3c2ttc3BhNmxtRXR0dWd0dm1CZkRGN2RVc3p4SkhEbkdVQ2pNQ2JMa0xCUnpZQXJOc1JSZFVFTmVyVVZra1kweVhQSUZGM2x6V2NzeFRfM1ZxS0REeWJ6T0RHM2FVR0pMZS1icHE0WFRwbEpEQnZialkzTXJtdkVpNXRkN0RmcnFBam9NWExXcVVRdzU0c3Z2WjFRZUFWOWhjNnVqR3pqWHpPbXVFSU83QmhOR1JNMmVJTGZYeGozRkhVTzUtYTV5ZlJTNzgtbw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JQYUg5S3MwS3NDdHpIcFVIYlBMMEloX0I1R3RqanNKbGlpTnd0bUk2eXhlYmxzVHlaNzVXREc0Tkd2YjNmTmViNGx1S2k0TEc0QzZJUXo3ZUdZMkZYRExQNEtCUUNfUDM5cTdyQ0tjQVhmeFpyMk1RNV8wM0dVZ3d5WTRUcURnanNUX25lWlQ4QUJhRG5HOFBDWms2OFJxdDkwYl9TMHN3MXZuMzJ6bW9pRG1iQ09KcU"
-    },
-    {
-      "title": "La IA y la pérdida de la noción de individuo – Algoritmos deshumanizantes: Santiago Jiménez Londoño - El Observatorio de la Universidad Colombiana",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbnhDVjNjYUpFeDBaMXlndEtjWnhnU3kwdTd0S3V3SGZ3NWxrQVdaa25Hd2IxQ0lGRHpWRGNVTUFlTUtGSmFTRGVXZFp0UjZ6cUMwWHp4eWdncjFmV1NwME45Vy0weThPZ1k2bV80a1hoY2hGZHVDczdmMnphMzJxTFk2X1UtNXlPR2J2OXA2ZmtpM1ZDWlpTNlcyTFh1dWtJYlZHejJ4Nl9BY1MxUUxKRmttYzkyOEhkSEx2UEtQSmxwbnNBSjlR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 25 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbnhDVjNjYUpFeDBaMXlndEtjWnhnU3kwdTd0S3V3SGZ3NWxrQVdaa25Hd2IxQ0lGRHpWRGNVTUFlTUtGSmFTRGVXZFp0UjZ6cUMwWHp4eWdncjFmV1NwME45Vy0weThPZ1k2bV80a1hoY2hGZHVDczdmMnphMzJxTFk2X1UtNXlPR2J2OXA2ZmtpM1ZDWlpTNlcyTFh1dWtJYlZHejJ4Nl9BY1MxUUxKRmttYzkyOEhkSE"
-    },
-    {
-      "title": "Santiago Peña explora alianzas con Anthropic para impulsar la IA en Paraguay - LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTllTlhQY28tazI1bXJJT3daMzI1LWJQZk0zbXRUeF9IQVV1cTI2RG44b2k0bVpCX0dPZDJuT3QwcUYyWENybmU0Tk1OUklNT1dIcktrOUpXNVByNzgwOS1UNHdKbkgyUXQ2c1VIbjJ0bF80bmJZU1MwN0U4bU9xcU9GOTR2NUo5UHdzZm1PcUFwRTVGR016VWFmdkhyelpUVzFudkN0d0RNMzdpYmQwdEtNNGZwMWpZcnBnT3FIMWxnZEnSAcMBQVVfeXFMTWJRT0ZCckwxMDF2QXE3VkpnVVVZUkx5WnVxYzAxWTBpS2R1X2xYWGJIYm1MNl9KOTNWQ09iTC1sczV6bkViVmpWaWNaZHNqX2RaMTNQQVd3V2lFZkNJSVdTSW12VUxJVDNlcmpkeVgzSm9zaUpjcDVfWW5lVUdVakNUR3lfamdpZTdNNE5wZ3BIZGRUVy0tQ3hNTTEtT2p0cGZkbFBvZVpTcnlDTGFGamVkRzBiSkdWSE9vTi1STGZDbUU0?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTllTlhQY28tazI1bXJJT3daMzI1LWJQZk0zbXRUeF9IQVV1cTI2RG44b2k0bVpCX0dPZDJuT3QwcUYyWENybmU0Tk1OUklNT1dIcktrOUpXNVByNzgwOS1UNHdKbkgyUXQ2c1VIbjJ0bF80bmJZU1MwN0U4bU9xcU9GOTR2NUo5UHdzZm1PcUFwRTVGR016VWFmdkhyelpUVzFudkN0d0RNMzdpYmQwdEtNNGZwMWpZcn"
-    },
-    {
-      "title": "ElevenLabs y Chile: 44M de créditos de IA para startups - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm1sSjh6YllvdlZZRXJlYkNobGhvZ292Q3VkbHY5VFdoZzRjeVU0N0lWUWc2X0VILTBWbTdWY0cxTUxVYThwbHZZb1FqU19zOXFzX083ekZOS3k5d09KUnNwajJJWmJBZk85N3dKQ040S0VNSU9uMXJCZl82Z3BUZi04eGJsX2ZXa3pTVVdB?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 13 Nov 2026 21:06:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm1sSjh6YllvdlZZRXJlYkNobGhvZ292Q3VkbHY5VFdoZzRjeVU0N0lWUWc2X0VILTBWbTdWY0cxTUxVYThwbHZZb1FqU19zOXFzX083ekZOS3k5d09KUnNwajJJWmJBZk85N3dKQ040S0VNSU9uMXJCZl82Z3BUZi04eGJsX2ZXa3pTVVdB?oc=5\" target=\"_blank\">ElevenLabs y Chile: 44M de créditos"
+      "published": "Mon, 16 Nov 2026 18:54:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGU3Ykx1UVlwRTcxQWEzeEdndk1pYVRJOUYwajF6ejYwcTAyZ1BqdmxyNU5SQ0pqU3gyRjJJY1FJZmhzSXY4bHBxNFN5M3A1TUI4d1VQdUQtN3BzWHFBenNJUk1JbjFkUjZPM1AzYWVfaTJ6cTdkWHhEVkxLZ01WYjBxakZFSlFmRXRETHo4YUNUUQ?oc=5\" target=\"_blank\">Start-Up Chile: postula a BIG"
     },
     {
       "title": "Artículo: Ministerio De Ciencia, Tecnología, Conocimiento E Innovación Y Elevenlabs, Empresa Líder Mundial En Investigación Y Productos De Ia, Firman Mou Para Ampliar El Acceso A La Ia De Las Startups Chilenas - Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
@@ -107,13 +67,29 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxPb2hTOTRvOXlrak95UFRjMEZXTllwR2RNNFB0Nk52Um0xMmJtWFg3dGF3NnRSWjZkakFpeUl3VjUyS082S0JUSGxGNTBBWjZnMGdNYlJKSjJ3dkI3eVFxRUJ0bkhNUjQtMS1mTUNkTFhSOHhNMzRLMTcxSW9MQnFvY1ExYkIyNTJreHhWRVd4SmpSLUtGLThOWFEzSDlDQTJNZ2lxUWJ1RWJBMU1xZXIzSXFlWTNTbFppNn"
     },
     {
-      "title": "Start-Up Chile abrió convocatoria global para startups tecnológicas con financiamiento de hasta $75 millones - Ministerio de Economía, Fomento y Turismo",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YXlWYVRHLWpnSkR2RVU1VzFqX1laS2c5bUhxd0pzT0FfOW5YVkUxcVVGa18?oc=5",
+      "title": "Alianza Regional para la Transformación e Innovación Educativa (ARTIE) - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHVNcEhpVXNrRmRPNEJOd3pVY1FqMVYyRUJmdU96X2RIRDNlamU0ZHYwVEVCX1ZnSHB3M0c0Y0hHdEpncVg1MEc2cmgxalZ1bEZhbUxWMU1XTkpNcUlYLVJ6QmNNMDhkZWJKU2FFVEhXaFJFeGlNekZzRnRqTGNwUE1JUTZYbGxPanFRbk5xdEVkR0Q0dWZxcHhySnBIVm5xMzZZSWRR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOenpIWHhfdi1JUlppYW9ZV3lvQ1RqRm1iYk5WM0VWNS1WTjRzWGtKMUhVU2ZHU3U2U0YyLU0zVERLVVJqX3h2MG5qLThTRzhldDFtZXZfUU1wQUVSbDJKQU1iTl9wQ2RWNHZCZWF5UncwU0FneEUzMHVQU2RCdkVJUEpHektiV2R2RWNNa2pnMFlocEllSlNKOEF5c2htZ09GMWstX2dUalJpRGI2MjFacnZwcnZFWFh0YX"
+      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMHVNcEhpVXNrRmRPNEJOd3pVY1FqMVYyRUJmdU96X2RIRDNlamU0ZHYwVEVCX1ZnSHB3M0c0Y0hHdEpncVg1MEc2cmgxalZ1bEZhbUxWMU1XTkpNcUlYLVJ6QmNNMDhkZWJKU2FFVEhXaFJFeGlNekZzRnRqTGNwUE1JUTZYbGxPanFRbk5xdEVkR0Q0dWZxcHhySnBIVm5xMzZZSWRR?oc=5\" target=\"_blank\">Ali"
+    },
+    {
+      "title": "U. de Chile reúne a sectores público y privado para abordar la transformación digital del Estado - Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EMzR1R3VIWFczMVZ0Wk1IVlBFbnhYUnpRUlhLZ0o4d2Vua0kteHp2bHFZUGhBdHUtV3FUODdUcl9GTVBtRURHSEVCTnpDSWFVcEtmd2RaR1ZOd3Fmd0ptTFFyWWxCT2x3bmdKYmlQcHlOOTUxejloRQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5EMzR1R3VIWFczMVZ0Wk1IVlBFbnhYUnpRUlhLZ0o4d2Vua0kteHp2bHFZUGhBdHUtV3FUODdUcl9GTVBtRURHSEVCTnpDSWFVcEtmd2RaR1ZOd3Fmd0ptTFFyWWxCT2x3bmdKYmlQcHlOOTUxejloRQ?oc=5\" target=\"_blank\">U. de Chile reúne a sectores público y privado para abordar la tr"
+    },
+    {
+      "title": "Pandora App: innovación digital apuesta por la prevención en salud mental a través de tecnología personalizada - Noticias UdeC",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXhnb3c4QVRNSzcyWDItaTB2QTVKRjZuUW9NTFd2ODJRYURma2tMbFJNcUc0eS1TamFkYkdHODFHekNnSlVXQzkyODlDb0lsVl8zWTZvVFlTdGMwUko3dmtpM19tNmpsRzd0Vi1kbnFTYlJVZERnbXJnQ1Y4QTRudjhaYkkwRThFNEF5NWpuU2RuaWZtT1dsVVVpV3dzWDlEY2piYjMtZGFyT0Q0M0xGWnNBTWhJNEt6U3hweUx2cG1WLXVzUGJBZ1VnbW5RV1VG?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 25 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXhnb3c4QVRNSzcyWDItaTB2QTVKRjZuUW9NTFd2ODJRYURma2tMbFJNcUc0eS1TamFkYkdHODFHekNnSlVXQzkyODlDb0lsVl8zWTZvVFlTdGMwUko3dmtpM19tNmpsRzd0Vi1kbnFTYlJVZERnbXJnQ1Y4QTRudjhaYkkwRThFNEF5NWpuU2RuaWZtT1dsVVVpV3dzWDlEY2piYjMtZGFyT0Q0M0xGWnNBTWhJNEt6U3"
     }
   ],
-  "count": 14
+  "count": 11
 }

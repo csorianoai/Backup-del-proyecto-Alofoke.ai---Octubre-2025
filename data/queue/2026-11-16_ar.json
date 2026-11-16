@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Los 8 inventos más disruptivos de 2026: del televisor invisible al robot humanoide que limpia la casa",
+      "url": "https://www.clarin.com/tecnologia/8-inventos-disruptivos-2026-televisor-invisible-robot-humanoide-limpia-casa_0_bOnEUiWjYx.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Mon, 16 Nov 2026 08:45:21 +0000",
+      "summary": "<ul><li>Celulares plegables, cámaras diminutas y dispositivos que desafían lo convencional anticiparon este año el futuro de la tecnología.</li><li>Las grandes marcas apuestan por nuevas formas de diseño y funcionalidad.</li></ul>"
+    },
+    {
       "title": "Shadow AI, el riesgo de usar ChatGPT en el trabajo: cómo pueden filtrarse los secretos de las empresas",
       "url": "https://www.clarin.com/tecnologia/shadow-ai-riesgo-usar-chatgpt-trabajo-pueden-filtrarse-secretos-empresas_0_2pTyUdPapO.html",
       "source": "Clarín Tecnología",
@@ -35,36 +43,28 @@
       "summary": "<ul><li>La histórica saga de SEGA permite dirigir prácticamente todos los aspectos de un club de fútbol.</li><li>Después de años complicados, sus creadores admiten que necesitan \"volver a conquistar a los jugadores\".</li></ul>"
     },
     {
-      "title": "Caída mundial de Microsoft: qué provocó la falla de Outlook y por qué lleva tantas horas sin solucionarse",
-      "url": "https://www.clarin.com/tecnologia/caida-mundial-microsoft-provoco-falla-outlook-lleva-horas-solucionarse_0_HTN6w6H1eZ.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Fri, 13 Nov 2026 13:55:32 +0000",
-      "summary": "<ul><li>La interrupción comenzó el jueves y afectó a usuarios de todo el mundo. </li><li>La empresa identificó servidores que dejaron de responder y una sobrecarga de su infraestructura. </li></ul>"
-    },
-    {
-      "title": "DELFI, la startup argentina de moda con IA, va a Washington - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0tDZWFPYzc3UWJyTktxS3RHNmMtUGdFSWp0aC1PaHlXVl9VdHNBaWEwb1JVSkZMWDBSOWNhbURCR2JtZnIwOWdPSmZ4TWJVMkpsS0ZIVUM0UVh6SWlHUkNqOEFMYmFXRlVoazJlN0lqcl9PRFF5cGw3cGdhUC11Sm9fN19yS1pQaWJNc19OM3F0Zw?oc=5",
+      "title": "Runa llega a Argentina con inteligencia artificial para transformar la gestión de recursos humanos - Perfil",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXE2NFdJUUg1SklMQ2xoMlVaZGNMNzdGSlpWMHFCcVk4enNtU1VHQ1gwSkxleWFlUlpwbkxla0xSelNhQjFkRkNxbU5xQVNWNlR1cUtWeGJJY0p2QXFfLTYyUTBEQlMyWG9qemVHSU1NaFVVYjRvUXhhRTNvQk9RS3R0UjJVcGEyY2dfakJaMWUwNkgyUHZxTWtwVTl6MVAzYnllQjZWcmZZNmg3b2VQX1hmQWV0VERoZmx2Mm5wcHM5OHd5dURoaDB4Mm51NV8wMnNoa2kwSQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 15 Nov 2026 12:27:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOV0tDZWFPYzc3UWJyTktxS3RHNmMtUGdFSWp0aC1PaHlXVl9VdHNBaWEwb1JVSkZMWDBSOWNhbURCR2JtZnIwOWdPSmZ4TWJVMkpsS0ZIVUM0UVh6SWlHUkNqOEFMYmFXRlVoazJlN0lqcl9PRFF5cGw3cGdhUC11Sm9fN19yS1pQaWJNc19OM3F0Zw?oc=5\" target=\"_blank\">DELFI, la startup argentina d"
+      "published": "Mon, 16 Nov 2026 17:20:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXE2NFdJUUg1SklMQ2xoMlVaZGNMNzdGSlpWMHFCcVk4enNtU1VHQ1gwSkxleWFlUlpwbkxla0xSelNhQjFkRkNxbU5xQVNWNlR1cUtWeGJJY0p2QXFfLTYyUTBEQlMyWG9qemVHSU1NaFVVYjRvUXhhRTNvQk9RS3R0UjJVcGEyY2dfakJaMWUwNkgyUHZxTWtwVTl6MVAzYnllQjZWcmZZNmg3b2VQX1hmQWV0VERoZm"
     },
     {
-      "title": "La logística argentina busca nuevos perfiles ante el avance de la inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUklnWGxyQk9OLU91XzNDNFZPTFlfcDl1X3pUUlQ0TkZlYUJYajZqcWlVMGN0T2h4cDZpUGdfMzFrdjViWG1CcFZGNjN2ZXRKcnVWeS1rWGpmdnNLT29JT2NEWVlzSnc5cjhQMG5mVHpxQnFlLVlWZVFtMGpXaVVGQTJhbEpaY2JZbVdmeXM2WVptQmRpLWI4Q0NtS2x3YlZrb1ZsazBmMGt3ME10WWd2ZW1ub3VMbTNxN0ZjUkpIa2pDd29ZQlFsUzhTNVHSAecBQVVfeXFMTUVvY214Mm5mTEI2ams2aW5YUGpxeTlVbDRpc2Q3UHZHa3FVODctTHp5dU1vRWxMX0VaeVl4eVZlQy1xQnAzcndPTUVxUkpOWERISDRwMjVIYU84YTd0ZFZNY0tLbGFHNWRRYVlXQnp2XzFUaFFUelNhSFdMbG5TcWNvb3J0MkxuWDk1d0dHalB2bVA5YUgtVE9VR3BHNkg3NGJnZHZkZENGR2xWZkFkYnpGRURsVHBoZjFTdEZfNlYwQkZvbTZBVG9SVGx5Uy1QQjM3aGJGLWt3OVVERnNueVF6SWIxN2Nz?oc=5",
+      "title": "Argentina necesita una estrategia de Inteligencia Artificial - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC04NGJBSWtHTFRmLUxkMGRFcDlmMTNCbm50bXNrbTNFSnRlN0NuR0RpS2gtS19YY0xVQVdKR1pPOGdEdFRLdVBfVHA0VnRjQkxuc1pORWZvQmdqOEVXbXFnQ3ppSjB0QUs0aUFHN05zaGJlbnJRVEs1V2tSTE5UV3A4WFpzVHgxUTA5SWpsS3pIVFlqUk1kUjBUV3Btc0hLd1RaYnJnUHF4YkdQNVZZYVAtMnRCdEhYNHdvQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 13 Nov 2026 17:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUklnWGxyQk9OLU91XzNDNFZPTFlfcDl1X3pUUlQ0TkZlYUJYajZqcWlVMGN0T2h4cDZpUGdfMzFrdjViWG1CcFZGNjN2ZXRKcnVWeS1rWGpmdnNLT29JT2NEWVlzSnc5cjhQMG5mVHpxQnFlLVlWZVFtMGpXaVVGQTJhbEpaY2JZbVdmeXM2WVptQmRpLWI4Q0NtS2x3YlZrb1ZsazBmMGt3ME10WWd2ZW1ub3VMbTNxN0"
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcFMzUkEyVlFVOHdVVWV2WF9LVTVVMmYtU3Joa1lrZ3RZOUlEajg2d3E5OTN1ZjNIREtoWkxpbUJnanMxb21kT2F6VEVEOENSSWo0MG5NRnJkQk84dGdyZDh2MFgyRy00ekJBczFOYUtqMTU4RDk4SWdLblJUWWZYZWpUaFZtdldINUJ1Mlk2UkxoTF9kNVQtc19uUkNMSHhiZnBQaFZrd9IBwgFBVV95cUxNZ2RfNHRuUC"
     },
     {
-      "title": "El \"nuevo cruce\" hacia la inteligencia artificial: el desafío de Argentina para apostar a los data centers - Diario Río Negro",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS3dwdVg1eTI1ZHFfbVlwMi1ZbFZEelFLTjg1VzNXNTVaZHR6bVZHcjVtYmlLVlNKUENseG1rSXVWVzJnNUhfQlJPYjN1ZUVmeVVURjV3ZzI3SEx5NVB3cVByVUNUV1VWckZHanNiQUhoUngxQkdXV1h5Mi1SLV9lNThhZ0dqNE9kbzA0NjdlQTA1NDlVMHFCNXl1Z1FzZFZwZ2ZtbnZ6a0RIRkJwMVpHcS1pYzZvbk9kNUxkN3NSeGVkRFhGcENSZkpiZ01UaHFHSWY4X1V5NNIB3wFBVV95cUxOYXRlemRpOVQzQmowd1pNR05ON2VqN1NBanVaYkF6Q2dmLW5vOWRuaU9QVWplVXcxUmVaUzNKMTRBS1NWZ3kyTGd3SzJjY2FaQnBMN1Vpb1Z2bnZyaXVTZEsyX2dYelZ1TUhvT0hlQlY3QUY0bFMtS09UOGdZTnZucWxSYVVuN1lsVVpmb0RxZWRpSGpsMHpSdWQzNVdWYU1pSERKZ1BKV2dwamh3U0NQZU5CMFJPamRJVnJ4a0VEOFUwVEdNVTh2aWpRVW5DcXpqbDRaeXcyZ0thTFBBbkln?oc=5",
+      "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial? - La Capital",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVE44LVN6RHpobFdQZnRlS0ZZQ1NBaDNTbmw4bmRoWVZOdXg3R3FDT1Nlak9MZkpwRFU5aEk1SjZ5RndtaUttOUVtekNWTUpiUzZka00tRWFxR1FNNDc2SDFScjFndFpDbmJKTVZqM1dJTEZ2SU5lc3o0aGFUaUlnZ2pjQmptbzNMaXhHS285N01rNmdzSEZseHRvQllpV3RyY2xNbTB5OENJWTBmRjZhcXlPU25ueWRTeU4xc9IBwgFBVV95cUxPbGRScXN5VmtuQnIxWERVckc3alRNalN3dm1tOVZvc2I4cWpxRFVmMkJsVmhxUGJkZ0hrckR4VG5fRTA1VUlsZ0YxVjdOdU5Ua2JuNUJPajJFcUxGWHIwZElzeWFWSGxQSjRhcFh4TFd3Rm9rSWI5YlRxUFF3bEp3WVQ0ak9rbXlZWl9ZZ3pzVnFlNWtkbXgzQ0VsaHFuOWN3Rm5NOHZWQmVKdkdYWFRBaUxueVZPVlZGc1RGRlpneTV2QQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 14 Nov 2026 04:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS3dwdVg1eTI1ZHFfbVlwMi1ZbFZEelFLTjg1VzNXNTVaZHR6bVZHcjVtYmlLVlNKUENseG1rSXVWVzJnNUhfQlJPYjN1ZUVmeVVURjV3ZzI3SEx5NVB3cVByVUNUV1VWckZHanNiQUhoUngxQkdXV1h5Mi1SLV9lNThhZ0dqNE9kbzA0NjdlQTA1NDlVMHFCNXl1Z1FzZFZwZ2ZtbnZ6a0RIRkJwMVpHcS1pYzZvbk9kNU"
+      "published": "Sat, 14 Nov 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVE44LVN6RHpobFdQZnRlS0ZZQ1NBaDNTbmw4bmRoWVZOdXg3R3FDT1Nlak9MZkpwRFU5aEk1SjZ5RndtaUttOUVtekNWTUpiUzZka00tRWFxR1FNNDc2SDFScjFndFpDbmJKTVZqM1dJTEZ2SU5lc3o0aGFUaUlnZ2pjQmptbzNMaXhHS285N01rNmdzSEZseHRvQllpV3RyY2xNbTB5OENJWTBmRjZhcXlPU25ueWRTeU"
     },
     {
       "title": "Buenos Aires reunió a referentes de la simulación en salud: cómo funciona y por qué puede mejorar la seguridad del paciente - Infobae",
@@ -75,12 +75,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPS1NVc1NwZHRDQ0YzQ3pGQ1dDQ0dZN1czN2RBNW53a1dzQk5VSkhWWnVmdHI2WUl5S0MxTkRIM1VPWEFRajUyZ0RwZlBlbV9IVVQ4cHFmN0MxVzhXRTdVSGJvWC1KU2hmVm0teW1IdHFTUVJ4M3A0OWZQQkpPc19Gek5NcVVzcVYwS0w5dnFRWW1zakhoR3FiVkZEZXVOXzRtLU5Ic09EbWpqS19zZmJLbzVXSGs5OG1UT1"
     },
     {
-      "title": "Buenos Aires reúne a referentes mundiales de la simulación en salud con foco en inteligencia artificial y seguridad del paciente - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPejUwS1hzblRncmZlZ01ZTVZieXAyRGh5UGlrRDB5VHYxT2JUM3NMVEswSmJERTZoQ0ZVcU9nOEloSUFZcExjcEN2eElNUWctNmFsOVYwM0hhX3UyNHpSTnVENlR5bTIyamRxQ3E2U0lBR0lMVURiRmN6MlR2UmRJVDl4M0gyZUFFWTdmS1Q5bUR0WDY3T1FfWVhRZVh3Unk3UXE0RXpMd0hGenRHeHNYWXpxS2ZDNUlnXzFMT3JPdWJvOGUxSWVLMmtiRWM4MENLYXBmbkI3XzVRUlZEa0ZjWmFwVDlBWHEta0pCNDEyZUkwWkRKWlFLUjR0bHJzU242Y2Z6eE5ER2RyQdIBpAJBVV95cUxONW5Kb2xqOFFZZkg5c3Nidll1NFU1WFh0MDgydUY0NHdlVFFaSXVyY1pEVUhhbklBS2JFQzJoVVFJN0MtNGxLSGhzNjVCVzZveXhsWGN0NzJSX19yU0NCSjRGM3Y2TEU3dFdPVDlDWU1QWG9jS3V5amRQZjVZTWJLd0V5Z3NQdUt6UFQ3dlBFbGhESk1VWmVyQTRlb2I3eVhiNUtVTHZMdkw5VWRsenpYZ3VoYXpxbUhQZy1fM0VQTks2T2tETEM4MHVBbmdlUU5jcjlxN0tsOWF0UmxTekRCNEVDX0xlUjU5ZkJVR1RfSnkxT1d6eEdZQThNcjNyM2VPWnZUNW1QVkhpeFFqWEwxbHU4QXRDNndiOW1SOXBVMnFHckZ6?oc=5",
+      "title": "Cinco estudiantes argentinos desarrollaron en solo 33 horas una solución con IA para resolver el problema de la basura en las ciudades - TN",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPclE2T25Pcmg3UnB0Zmc0dV96aHY0X2tiMDVxZVNWRjZKSks5cXhYOWJxd2hzNnlYZTh2MXdhcnZUdUE5WXFMR3BOWlpCTVBQT2tFUnd2YXJoRG9jX1RCa01kT3c4OXRIc1JDbm9CbG9aV1VucHIyWDZZRkFWWTdnOHkyOHJTYWtnNmFDemFVYWMwcDIyanNyamZuYmNVXzc3bkNKMEcyeTVIMjFEUUNVOFhYbDVFV0tVbWZJUW96aUhNcGJUS2FmSVhncGRCMlNxNjA2ajZJRHNjemF3TjE1SzJZcXBIdExlczBvMHJtT2dpaVdlbXdlTXJpb0xraFM5MXgzQVFn0gGaAkFVX3lxTE51T1RuUi1OSUdoMlZYZ0ZKWUM3b0xIWUlWX2xBQmJGUV9hU3U2bmZfMzV1MEQ5cGJWYUxWX0lzeWJ6ajJYUHZEZGtiNzBLM0JST1JramN0UjB5VWRKZDhPa3pMRXdnS3hZS2hUTEFxVzNrSUFBQ3dYclVHZmF0MTV5bmtVTVF2TlFfSDl4c3d0R3E1bkpIUmY1dWl6cWJ5UGVqMF9uSFoxZzdjWklhQndMMlNiajhLbWk2QWR0TExaMlM2TU5CV1pJajgyZzBJUGpMUHoyQlhScm0yd1FZWjM3TGpZbEZpM0xNM2s4WXJqMTg0amQ4QkU3X0hYajBUTnpsaFVxUDhzQUhyMmlYNDdjSHVWNWlmYTlGQQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 12 Nov 2026 05:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPejUwS1hzblRncmZlZ01ZTVZieXAyRGh5UGlrRDB5VHYxT2JUM3NMVEswSmJERTZoQ0ZVcU9nOEloSUFZcExjcEN2eElNUWctNmFsOVYwM0hhX3UyNHpSTnVENlR5bTIyamRxQ3E2U0lBR0lMVURiRmN6MlR2UmRJVDl4M0gyZUFFWTdmS1Q5bUR0WDY3T1FfWVhRZVh3Unk3UXE0RXpMd0hGenRHeHNYWXpxS2ZDNUlnXz"
+      "published": "Sat, 14 Nov 2026 08:36:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxPclE2T25Pcmg3UnB0Zmc0dV96aHY0X2tiMDVxZVNWRjZKSks5cXhYOWJxd2hzNnlYZTh2MXdhcnZUdUE5WXFMR3BOWlpCTVBQT2tFUnd2YXJoRG9jX1RCa01kT3c4OXRIc1JDbm9CbG9aV1VucHIyWDZZRkFWWTdnOHkyOHJTYWtnNmFDemFVYWMwcDIyanNyamZuYmNVXzc3bkNKMEcyeTVIMjFEUUNVOFhYbDVFV0tVbW"
     },
     {
       "title": "PLOT: evento de marketing e IA para pymes en Buenos Aires - El Ecosistema Startup",
@@ -91,28 +91,28 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNODE1V0pYaVM4a2lWZzV3bXdEMWFWdWJmVkhTcXRWcTAyMHZPM1RvSzhlc1dXSXR1Zll1NHltbTk0YXFxRHZFRHMydVJ5eWdJdzQyWUh1ZFlOdGFHb3ZuTlhHRGFEVWJ0SDdfcy1pYzNVZVYwZEUyNl9iNzIyNGRNT2F2c1pWemQ1UEZLWFFHank?oc=5\" target=\"_blank\">PLOT: evento de marketing e IA p"
     },
     {
-      "title": "Urbania 3D: la startup de Rosario que factura US$700.000 - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWpBYVpJN19yQXRzTnc4eW9NZXY3U2k5cXB2SWhFUHFSenNkTVVFOFJyUktsb1BGSXJWZnF0eTNySXdhNHRNWFFQRkpfbzZEOVVhQU8tRVRBaHJmT2JsVGltQVBodjdGaU9mSkJvS2xyWURPOTE1c3U2UHVYd1plMVVNMm5EeVVSN0xmcE93?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 15 Nov 2026 07:09:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWpBYVpJN19yQXRzTnc4eW9NZXY3U2k5cXB2SWhFUHFSenNkTVVFOFJyUktsb1BGSXJWZnF0eTNySXdhNHRNWFFQRkpfbzZEOVVhQU8tRVRBaHJmT2JsVGltQVBodjdGaU9mSkJvS2xyWURPOTE1c3U2UHVYd1plMVVNMm5EeVVSN0xmcE93?oc=5\" target=\"_blank\">Urbania 3D: la startup de Rosario q"
-    },
-    {
-      "title": "Quedan 12 días para inscribirse en los eAwards Argentina 2026 para startups tecnológicas - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREQ3eDV3OWZuQkxQaVA4d0ZoVXVvNnh2M2dlTHoyUHE1bUpabDR6Qzc3WnZmLXBmYkV2Vkl6ZEo4b2J6N2F2a2t3c29WazhVOV9VRjdjR0UtbWZSVUdlRlJnZjNvbGRDWDlpN3R1U0hHb2dJaENiM09FU3NjTkZUM2dQLVBhWER6T2t5b0RFTDJWbjgyemZ4dUM2c1NhbUJsdHZuWHE0V0FCN2lndmFVNDlvODFLV3hPaGhDTUlFNlhYUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREQ3eDV3OWZuQkxQaVA4d0ZoVXVvNnh2M2dlTHoyUHE1bUpabDR6Qzc3WnZmLXBmYkV2Vkl6ZEo4b2J6N2F2a2t3c29WazhVOV9VRjdjR0UtbWZSVUdlRlJnZjNvbGRDWDlpN3R1U0hHb2dJaENiM09FU3NjTkZUM2dQLVBhWER6T2t5b0RFTDJWbjgyemZ4dUM2c1NhbUJsdHZuWHE0V0FCN2lndmFVNDlvODFLV3hPaG"
-    },
-    {
       "title": "Comenzó el programa de innovación digital para los Best Tourism Villages de Argentina - Argentina.gob.ar",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlVRSGhQQm5DbFNvQW1CclRWaVlfODFpNjZJSFc0akJrV1I1X2JQM2JjeDU3M2JvT0dIQzdDeEhYckxhQlV3cXUzQUUxbjFMakZfbWlxcmdFZVRNRTNpQkFOY1JRcThhT1RaYlI2NnExamtISFFlOWFnTWF2VV96OXZNZUV1UzRuYVUyaXdYX3lfZ0ZaNzl6V1RoLUtCemJvWGNITWJhdURFZ2I0N1FTdDZseU1zTGxCQjRiWVlpenQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Fri, 28 Aug 2026 07:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlVRSGhQQm5DbFNvQW1CclRWaVlfODFpNjZJSFc0akJrV1I1X2JQM2JjeDU3M2JvT0dIQzdDeEhYckxhQlV3cXUzQUUxbjFMakZfbWlxcmdFZVRNRTNpQkFOY1JRcThhT1RaYlI2NnExamtISFFlOWFnTWF2VV96OXZNZUV1UzRuYVUyaXdYX3lfZ0ZaNzl6V1RoLUtCemJvWGNITWJhdURFZ2I0N1FTdDZseU1zTGxCQj"
+    },
+    {
+      "title": "Encuentro Nacional de Salud Digital 2026 - Argentina.gob.ar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdXBTZjktZFg3NFY0c2VRYXoxZkpJaFc0SlRGNGFZWkRaSUxXSTRlVlhRTWI4WHRhSEVXOUNGYzdpaENmc2VrZDB1ckpHXzFWUGo3aVJTZk8xekdlUEYxWnk0Y2EySE5FUjB5RTI5YjZjbmpXN3ZIVTFTRG1KU2w1REM5VjQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdXBTZjktZFg3NFY0c2VRYXoxZkpJaFc0SlRGNGFZWkRaSUxXSTRlVlhRTWI4WHRhSEVXOUNGYzdpaENmc2VrZDB1ckpHXzFWUGo3aVJTZk8xekdlUEYxWnk0Y2EySE5FUjB5RTI5YjZjbmpXN3ZIVTFTRG1KU2w1REM5VjQ?oc=5\" target=\"_blank\">Encuentro Nacional de Salud Digital 2026</a>&nbs"
+    },
+    {
+      "title": "Innovación digital y cultura: CAF acercó el metaverso en la FILBA - CAF -banco de desarrollo de América Latina",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSC1SNWZoajVXS01CTXpXQzhMQzRzYTV3c3NvYks1bk5zLXFDYzNEOE85Nl9ocE1QUFFlWENUY3AwWXNqQ2hJbHVtOG5RRnVFbWJsS2FuX3JGTTg4VndaTGdZS09WUWoyeTBEalVGTHRpMzlfcHY1TDVZeEprS3A5bk52V0JjS3IzT284REppTHltdTktb2FmUTN0cmJoMkxTQW4tOUdUZGlfUEpOT2UteW5XMEZwNEMtZmhLVmlRT0loQTRJTUJBVg?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSC1SNWZoajVXS01CTXpXQzhMQzRzYTV3c3NvYks1bk5zLXFDYzNEOE85Nl9ocE1QUFFlWENUY3AwWXNqQ2hJbHVtOG5RRnVFbWJsS2FuX3JGTTg4VndaTGdZS09WUWoyeTBEalVGTHRpMzlfcHY1TDVZeEprS3A5bk52V0JjS3IzT284REppTHltdTktb2FmUTN0cmJoMkxTQW4tOUdUZGlfUEpOT2UteW5XMEZwNEMtZm"
     }
   ],
   "count": 14
