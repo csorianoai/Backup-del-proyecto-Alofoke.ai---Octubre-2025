@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-17",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Microsoft restablece por completo sus servicios pero advierte a usuarios por aumento de  'phishing'",
+      "url": "https://expansion.mx/tecnologia/2026/11/14/microsoft-restablece-servicios-advierte-usuarios-phishing",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 14 Nov 2026 20:16:13 GMT",
+      "summary": "Las fallas afectaron a su servicio de correo Outlook, su plataforma de comunicación Teams y a su asistente de inteligencia artificial Copilot."
+    },
+    {
+      "title": "¿Qué tiene de especial pedir un DiDi en China? Lo descubrí en su país de origen",
+      "url": "https://expansion.mx/tecnologia/2026/11/14/que-tiene-de-especial-pedir-un-didi-en-china",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 14 Nov 2026 14:00:28 GMT",
+      "summary": "Desde solicitar un viaje por Alipay hasta viajar en camionetas con asientos de masaje, así fue usar DiDi en China."
+    },
+    {
+      "title": "Microsoft explica por qué se cayó Outlook, Copilot y otros servicios por más de 12 horas",
+      "url": "https://expansion.mx/tecnologia/2026/11/13/microsoft-explica-caida-outlook",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Nov 2026 18:32:20 GMT",
+      "summary": "La empresa confirmó que la causa del problema no fue un ciberataque, sino más bien un asunto relacionado a una actualización."
+    },
+    {
+      "title": "Strauss Zelnick, CEO de Take-Two, sobre el retraso de GTA 6: “A veces hay que tomar estas decisiones inconvenientes”",
+      "url": "https://expansion.mx/tecnologia/2026/11/13/strauss-zelnick-ceo-take-two-retraso-gta-6",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Nov 2026 17:15:49 GMT",
+      "summary": "El director ejecutivo de la matriz de Rockstar señaló que siempre buscan la perfección en cada uno de sus videojuegos, lo que les obliga a tener tiempos de entrega más largos."
+    },
+    {
+      "title": "¿Quieres estrenar consola para jugar GTA VI? estos son los mejores descuentos disponibles en el Buen Fin 2026",
+      "url": "https://expansion.mx/tecnologia/2026/11/13/los-mejores-descuentos-en-consolas-buen-fin-2026",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 13 Nov 2026 16:20:14 GMT",
+      "summary": "El esperado estreno del Grand Theft Auto VI llegará este 19 de noviembre, justo dos días después de que la temporada de descuentos en consolas termine."
+    }
+  ],
+  "count": 5
+}
