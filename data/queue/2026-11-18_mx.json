@@ -3,6 +3,30 @@
   "country": "mx",
   "articles": [
     {
+      "title": "El impacto de Google en México: la tecnológica mueve 382,000 millones de pesos en el país",
+      "url": "https://expansion.mx/tecnologia/2026/11/18/impacto-de-google-en-mexico-328-000-millones-de-pesos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 18 Nov 2026 18:50:37 GMT",
+      "summary": "Por cada peso invertido en las herramientas de la empresa, los negocios obtienen ocho pesos en ganancias, reportó la empresa sobre su relación con pymes o grandes compañías."
+    },
+    {
+      "title": "La IA ya ataca sola: Google detecta el primer ciberataque autónomo y sin humanos que cuesta millones",
+      "url": "https://expansion.mx/tecnologia/2026/11/18/la-ia-ataca-sola-google-detecta-primer-ciberataque-autonomo",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 18 Nov 2026 17:52:35 GMT",
+      "summary": "La IA dejó de ser una herramienta de apoyo para dar paso a una era en la que detecta, analiza, modela y lanza ataques sin necesidad de intervención humana."
+    },
+    {
+      "title": "Cómo jugar GTA VI en Xbox One: cuánto cuesta, horas de juego en la nube y paso a paso para iniciar la partida",
+      "url": "https://expansion.mx/tecnologia/2026/11/17/como-jugar-gta-vi-en-xbox-one-costo-horas-juego-nube",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 18 Nov 2026 01:37:11 GMT",
+      "summary": "Comprar el videojuego es solo una parte del proceso: necesitas horas de transmisión y conocer los requisitos, costos y restricciones del servicio."
+    },
+    {
       "title": "Las 8 frases para entender el presente y futuro de Nvidia sin Jensen Huang",
       "url": "https://expansion.mx/tecnologia/2026/11/17/presente-y-futuro-de-nvidia-sin-jensen-huang",
       "source": "Expansión Tecnología",
@@ -19,68 +43,28 @@
       "summary": "Los reportes de Alphabet, matriz de Google, muestran una brecha creciente entre los anuncios en páginas externas, las búsquedas dentro de sus propios servicios y las plataformas de pago."
     },
     {
-      "title": "Nvidia esquiva la polémica infidelidad de Jensen Huang e ingresa 115,849 mdd",
-      "url": "https://expansion.mx/tecnologia/2026/11/17/nvidia-esquiva-infidelidad-jensen-huang-115-849-mdd",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 17 Nov 2026 22:05:33 GMT",
-      "summary": "Colette Kress presentó su primer informe financiero como CEO interina. En su postura no mencionó el caso Huang y destacó que el negocio de GPU para IA “avanza según lo previsto”."
-    },
-    {
-      "title": "El 73% del mundo pide prohibir redes sociales a menores, pero el 40% acepta la IA en las escuelas",
-      "url": "https://expansion.mx/tecnologia/2026/11/17/prohibir-redes-sociales-ninos-ia-escuelas",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 17 Nov 2026 22:00:12 GMT",
-      "summary": "Mientras crece la presión para restringir las redes sociales entre menores, la IA encuentra mayor aceptación en las escuelas, pese a las dudas sobre sus efectos en el aprendizaje y el bienestar infantil."
-    },
-    {
-      "title": "El efecto GTA VI llega a las oficinas: las vacaciones aumentan 32% antes del estreno",
-      "url": "https://expansion.mx/tecnologia/2026/11/17/gta-vi-vacaciones-trabajadores-aumentan-lanzamiento",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Tue, 17 Nov 2026 20:30:13 GMT",
-      "summary": "El estreno del videojuego, previsto para el 19 de noviembre, coincide con el mayor incremento de vacaciones para una jornada laboral, según datos de la plataforma Remote. Los más jóvenes encabezan la tendencia."
-    },
-    {
-      "title": "México enfrenta trabas para atraer centros de datos de IA - Bloomberg Línea",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHRfYnFHelJna0c1TDN3SnN4UDJtVFJTUlE2SEQ5N2NGY3JRdms0T25PRUQ3dmpVa2M0S0pnalZXYThnNTJZNlBRY05zaER5TWdnTUY5ZHU1RFVMTWFlZEFmNDRUcWRhcGRFOVFZRzVtWU5zUS0yMzlGUUFRMmJLUlFUSGVPSmVPdG5MWjk1TVo4QUZxQnFRa3Ata016NVptbURyalVUanNEdFp6TDZ30gHDAUFVX3lxTE5XMGo4OS1vTERkQS1IZWJLQVkwakxfU3Y3TzMxRGxXeF9UTmhYYjA4cXc4QWJTT0tzSWdOMWlHVmZ3d28yMkppQXVQZlVIa29lOTN0M09EdW1mVlZkLUpBa3VpVFo0b1pQeFpGREZKb01sUlNRZ3FfTk43bmhwTGhiZ192Q2xZbGlYdnpHWXhpVjJaamdlNmJFcllfWGR2WUFsRGYwT2hEV1lSd0N2Yl9IS2wzcVJZbVZVaS1kaU5LNUN4OA?oc=5",
+      "title": "La inteligencia artificial ayuda a las grandes firmas cosméticas a resolver las \"paradojas nasales\" de los perfumes - FashionNetwork México",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYVRvTFJSaWJDMTVybXhsSXRnRXNzNm5OLTF4X1pTM1hQUjhjdHpxNjVidEQtRUxlbDl1dlYxVGZKZkVESnYtR0s0ZkRzREpTZmtsRGlzOG1HcU9OcFJmdDZ2NC1JLUxOclAzNFZYMHVtaE1hZmoyS1ZPbUx5Zm4xajZmUmVZd1NsT3BOTjdQT005bVBuMjBwQTd4UWxOcS1NZENfSkFMclhuZ2xwSF9wdVhaV3djb3p5Z3FJNGh1SXVvQ0hhUG52N1VNR1hibnFrdDFzbGZDZ1pGd3QzVk9GeWUwaF9xZ2V4UFFXTWRqdlRCRTg?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Nov 2026 14:12:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaHRfYnFHelJna0c1TDN3SnN4UDJtVFJTUlE2SEQ5N2NGY3JRdms0T25PRUQ3dmpVa2M0S0pnalZXYThnNTJZNlBRY05zaER5TWdnTUY5ZHU1RFVMTWFlZEFmNDRUcWRhcGRFOVFZRzVtWU5zUS0yMzlGUUFRMmJLUlFUSGVPSmVPdG5MWjk1TVo4QUZxQnFRa3Ata016NVptbURyalVUanNEdFp6TDZ30gHDAUFVX3lxTE"
+      "published": "Wed, 18 Nov 2026 16:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYVRvTFJSaWJDMTVybXhsSXRnRXNzNm5OLTF4X1pTM1hQUjhjdHpxNjVidEQtRUxlbDl1dlYxVGZKZkVESnYtR0s0ZkRzREpTZmtsRGlzOG1HcU9OcFJmdDZ2NC1JLUxOclAzNFZYMHVtaE1hZmoyS1ZPbUx5Zm4xajZmUmVZd1NsT3BOTjdQT005bVBuMjBwQTd4UWxOcS1NZENfSkFMclhuZ2xwSF9wdVhaV3djb3p5Z3"
     },
     {
-      "title": "WPP lanza Enterprise Solutions en México: así busca conectar inteligencia artificial, datos y comercio para impulsar a las empresas - Revista Merca2.0",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWVoU2V6ZDdFdjdFS2RDeDZldmJLRUNwV3J2dks1VnR4WFZKaHBscm1SUklfY1Q4Q19Rc2NNSWRfdVc1ZF9PZWdsRFdCOHExSzFpaXhIanBUQWZmY3JoX3NmNEh3QUdoZzk1b0N0UVpOT2xfRG9JVFVWbEU2ZUhySGF3SkxvdXhtZlJURF9McGotbXVqV2FqcWQzcHI1aTUteVVZSEdEZTVDYVkxcWZBc0NVNDlVckNQcjdLRXZqNVRZYmY3UnFCNmhxc3dCS1NERXc4MnBtT0JOZWIzZWxjMnlhc0xWM3p2VUE?oc=5",
+      "title": "Un eslabón clave de la inteligencia artificial en EU comienza en Querétaro - THE LOGISTICS WORLD",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlNEOFk2dlNycm5rd1d1dy1qSzhTSkFCblV2OUtvN3NqT3BJbUE2NnFadXlSYnlsa0d3SzFKQ05SM0FGX3hpdlU4YkYtM25Ib2RLeEItU1djMTFmOWRrcVM4LUdmUFg1aklpQklaNW1ObVZmV0lFWjJVREVRUmppSW5LaE1JeEtYOWlFVjhoQzRHc3JjRE11UC1qdHZkcDJ0U0dJOXF6Qk1yMi1IeWFtQ2NjdVJfaDQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 18 Nov 2026 03:02:09 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWVoU2V6ZDdFdjdFS2RDeDZldmJLRUNwV3J2dks1VnR4WFZKaHBscm1SUklfY1Q4Q19Rc2NNSWRfdVc1ZF9PZWdsRFdCOHExSzFpaXhIanBUQWZmY3JoX3NmNEh3QUdoZzk1b0N0UVpOT2xfRG9JVFVWbEU2ZUhySGF3SkxvdXhtZlJURF9McGotbXVqV2FqcWQzcHI1aTUteVVZSEdEZTVDYVkxcWZBc0NVNDlVckNQcj"
+      "published": "Wed, 18 Nov 2026 12:00:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlNEOFk2dlNycm5rd1d1dy1qSzhTSkFCblV2OUtvN3NqT3BJbUE2NnFadXlSYnlsa0d3SzFKQ05SM0FGX3hpdlU4YkYtM25Ib2RLeEItU1djMTFmOWRrcVM4LUdmUFg1aklpQklaNW1ObVZmV0lFWjJVREVRUmppSW5LaE1JeEtYOWlFVjhoQzRHc3JjRE11UC1qdHZkcDJ0U0dJOXF6Qk1yMi1IeWFtQ2NjdVJfaDQ?oc"
     },
     {
-      "title": "México tropieza con la falta de energía en su carrera por los centros de datos de IA - DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlZqbnJzV2M3clR4RlVVU2h2OF9fSFZRSkt6Z1BYRzhLVV9HVW9EVzM1Wm5CalUtUllVMUkyY3piRXRBcHpPZzNTUkJwWFRIX09OemFUMWxLSVJPN1NKWGljZ3RkamVORl9hWnkxclpwemUtdHdPMUQ2TFdiM28tdlZtSnpfT1JZNmVUY1NTR0IwX0pmTGFnbW9jRy0zOEUwT3JtaXhTdmh5XzN3TEh3UmRoLUYzTHFBSDZfbmFrbw?oc=5",
+      "title": "Google mueve 382,000 millones de pesos en México y apuesta por la IA para crecer en los negocios - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYmh5WnJwY05DQWI4eUEzLXRDcGdlZlRqdHZuQzZHNjdFVkhSTWhVV3VieC1LWkhmSzVxZkdQOG1FLXduRmR3Z1ByWjlYR082YTA2Ql95TVdTWF9MY21HMEpQbnZyWDhQRVJ5RGhoQjNZZkRMRjdKYk5xMTMtazhVT0UxeDRkdlF5aUdQMWNjLTVLYU9iYWJRZXV1VU5QVHhoSDlReGlRMnNoUkxGRm5XbmdBaFZxMENoRGVyNHhjdXNiV0RTakRzTTRtZ2Yya2p4T3dKaTFPb1J3UldFN1Nr0gH6AUFVX3lxTE53bVhJZkNRYXNTbmxLTDRQNHc0MzF0N1djVWtVZXoxNEpVcjJkbXZTV3NCUEltaXB2MV82U01iLTJXMm9uRXdZbS03SzR5TWxvTjRSZmZSdFF4WHo4eG1SbTE3NEdNV3ZpS1ZvLW9WeU5LaXM4MHZfWF9YQjA2YjFiS3pQbEZjRkdPU3NkSEo1WUkxdm9MZGx5aTl5d0VDanR5ZGpXam1kcWtvUk5rTUdZeTZTc05Pc3hSLXRLZE0zUWRsNVlNUTlzcWpJMEEybWI0VHlBeHFDZ0ZnYm5QTmdZbC1Ga2UzYTJ5QnVSczR4N3VkTFZUVFlXWHc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Nov 2026 16:18:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlZqbnJzV2M3clR4RlVVU2h2OF9fSFZRSkt6Z1BYRzhLVV9HVW9EVzM1Wm5CalUtUllVMUkyY3piRXRBcHpPZzNTUkJwWFRIX09OemFUMWxLSVJPN1NKWGljZ3RkamVORl9hWnkxclpwemUtdHdPMUQ2TFdiM28tdlZtSnpfT1JZNmVUY1NTR0IwX0pmTGFnbW9jRy0zOEUwT3JtaXhTdmh5XzN3TEh3UmRoLUYzTHFBSD"
-    },
-    {
-      "title": "South Summit 2026: el evento que muestra cómo la IA está cambiando los negocios - Emprendedor | El medio líder de Emprendimiento y Negocios",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHZqUGJ1NjRsXzR0eUhfMklYaHRzZGQ2anZ2Mkd3UFkwSHdQQVgxOE1RemwxZmxNblplNkQta1lmME5rd3VzT095bjZ3SmNfTEx4VU02bndhXzV1WEpDU2tfZmVHUDM4Zzc0VzdwYTI4YnFVbWdEbUdvNFlPcVlrMDExb2dDejY1TkHSAY8BQVVfeXFMTi1QNUhWZWlUaDJZUzBuTFg3RHF5TFU2NXNmakNiSHh3Z3h0Ul83RFlZM01oV0pXRTZveFZ6UENaZERyUTBibVVfckpYQ3R4Wk83N19NNG1QMzdUcE1MVmhKMl9uZV9qOThtb3lzYUo0V2d0VWdaR21aM3d0aWdvZWpoMy1zWTRBbUF2RzkzdEk?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 05 Nov 2026 14:19:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHZqUGJ1NjRsXzR0eUhfMklYaHRzZGQ2anZ2Mkd3UFkwSHdQQVgxOE1RemwxZmxNblplNkQta1lmME5rd3VzT095bjZ3SmNfTEx4VU02bndhXzV1WEpDU2tfZmVHUDM4Zzc0VzdwYTI4YnFVbWdEbUdvNFlPcVlrMDExb2dDejY1TkHSAY8BQVVfeXFMTi1QNUhWZWlUaDJZUzBuTFg3RHF5TFU2NXNmakNiSHh3Z3h0Ul"
-    },
-    {
-      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
+      "published": "Wed, 18 Nov 2026 21:13:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYmh5WnJwY05DQWI4eUEzLXRDcGdlZlRqdHZuQzZHNjdFVkhSTWhVV3VieC1LWkhmSzVxZkdQOG1FLXduRmR3Z1ByWjlYR082YTA2Ql95TVdTWF9MY21HMEpQbnZyWDhQRVJ5RGhoQjNZZkRMRjdKYk5xMTMtazhVT0UxeDRkdlF5aUdQMWNjLTVLYU9iYWJRZXV1VU5QVHhoSDlReGlRMnNoUkxGRm5XbmdBaFZxMENoRG"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -91,28 +75,44 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
+      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
+    },
+    {
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
+    },
+    {
+      "title": "Monterrey reúne líderes tecnológicos en foro “MTY Tech Forum 2026” para analizar el futuro de la IA - sdpnoticias",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenR2TFNQSTE4b2xlR0tvUTRhLWp5ZTh0cHd5b3RyOTRiZ1NEcFlBaXpEOGN3YXRLU3NWdTU5dUZpWXhRWWdXdkI5RnNwQXYzRGF6S19fWURCU3Q1WkJLX1RyTjBHVjJkSzZsX1ZldVkwUXdodUROUTJUSlZQNTJZeUpPWHE3RHdLbWVwTHZBWjhYUDdoM3NWMlZzN0luNWpHalNfYno3a2QwSzZiWkk3cm4wYXlRWm5jYnFteDVZeHBJWHZWd1llc21JanRTX3BYbUNLSDZXbEllMllFS1E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Nov 2026 18:36:05 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenR2TFNQSTE4b2xlR0tvUTRhLWp5ZTh0cHd5b3RyOTRiZ1NEcFlBaXpEOGN3YXRLU3NWdTU5dUZpWXhRWWdXdkI5RnNwQXYzRGF6S19fWURCU3Q1WkJLX1RyTjBHVjJkSzZsX1ZldVkwUXdodUROUTJUSlZQNTJZeUpPWHE3RHdLbWVwTHZBWjhYUDdoM3NWMlZzN0luNWpHalNfYno3a2QwSzZiWkk3cm4wYXlRWm5jYn"
+    },
+    {
+      "title": "Reúne Monterrey a líderes tecnológicos en foro “MTY Tech Forum 2026” para analizar el futuro de la IA - Gobierno de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGFzRmFFMHJUTlU2WDNLNGRIVU8yUXk3eE1ERFNqWHlFV1FfQUsxWmgyRVF3UXdLYUdXUm1jTURELUNGRUVwQTJVdHNLaEJSY2ZVTEV3bWo0RGJMSWYyOVdoVFpwTnJ3MDhJVUJVYWRTWGpKWFd0SjgwbkExMDRkSGRqdjVtMmwtWGd2bmpUZVM3YkYwaXZDNUl5eXotZjdHcTNRMU9Ga2Vlb0s0VnpQd1AxMHlDSkc1UkY0bldFb1VONXd3WkM0aXlGMTBXLV8yYTdiWDBLZTByYWYwRkhSaFo5OXNmVDVN?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 17 Nov 2026 00:28:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGFzRmFFMHJUTlU2WDNLNGRIVU8yUXk3eE1ERFNqWHlFV1FfQUsxWmgyRVF3UXdLYUdXUm1jTURELUNGRUVwQTJVdHNLaEJSY2ZVTEV3bWo0RGJMSWYyOVdoVFpwTnJ3MDhJVUJVYWRTWGpKWFd0SjgwbkExMDRkSGRqdjVtMmwtWGd2bmpUZVM3YkYwaXZDNUl5eXotZjdHcTNRMU9Ga2Vlb0s0VnpQd1AxMHlDSkc1Uk"
+    },
+    {
       "title": "Empresas analizan inteligencia artificial industrial en Monterrey - El Horizonte",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUc1cDFzRXZhZFVoN1k2RzFnQmk5QTVCcEtmZ19EODBWd1FFdFZ0NUhzRlgtMWd6TmdVRE96aXJuam9Mb3pzeGkxSVhRQl95a0owT0ptQ1htZWpkQklfbzEtVUpwRXRzbUVYWmJWR1lLZ0V5Zld1VlRmeVM3dDhTOTZIS1VGa2RITUZBdDg1SF9WU3RQYWwwSWdpRWhNWW5XeXgyT3hYcTVKVzlCUE1uUHMzWQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 16 Nov 2026 23:21:41 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUc1cDFzRXZhZFVoN1k2RzFnQmk5QTVCcEtmZ19EODBWd1FFdFZ0NUhzRlgtMWd6TmdVRE96aXJuam9Mb3pzeGkxSVhRQl95a0owT0ptQ1htZWpkQklfbzEtVUpwRXRzbUVYWmJWR1lLZ0V5Zld1VlRmeVM3dDhTOTZIS1VGa2RITUZBdDg1SF9WU3RQYWwwSWdpRWhNWW5XeXgyT3hYcTVKVzlCUE1uUHMzWQ?oc=5\" t"
-    },
-    {
-      "title": "Reúne Monterrey a líderes tecnológicos en foro “MTY Tech Forum 2026” para analizar el futuro de la IA - Red Crucero",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpfY2t0UXVsUkhJbVp5U2NTbTRLY2tPV2RJNS05Mm1kVGlEM05zaHdESnZBWXpTbGFqMGVYaXJXZlZySGJsRXlBVVJ1ZW1XMTl4MzFON1R3cjlHUVVqVWoyVERNSVEweXA0M19qeWlRbXdvZWVtS3BlMkZZT0tMRXRGbTNJbERvd1hWbHZ4a1VETk4xRHhqc1UwWXVWbThFSnRpLTk3NHA0N0ZWTjNtaUVzMUgyTGltVDNRYw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Mon, 16 Nov 2026 22:45:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpfY2t0UXVsUkhJbVp5U2NTbTRLY2tPV2RJNS05Mm1kVGlEM05zaHdESnZBWXpTbGFqMGVYaXJXZlZySGJsRXlBVVJ1ZW1XMTl4MzFON1R3cjlHUVVqVWoyVERNSVEweXA0M19qeWlRbXdvZWVtS3BlMkZZT0tMRXRGbTNJbERvd1hWbHZ4a1VETk4xRHhqc1UwWXVWbThFSnRpLTk3NHA0N0ZWTjNtaUVzMUgyTGltVD"
-    },
-    {
-      "title": "3 exolímpicos de la Espol ganaron oro en la competencia de programación ICPC sin IA - El Comercio",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEliNEIwVmFfTUZidlpxWVZKWVBVYnRoRGxDNGY2dHgzQ3JnRlRBLUMwaW9Wc0Y1OXR1dzNvcFpvbjhrcG1IZW1iU3d5WkRZbHY0dF9hNC14VG1Sbjl5UmdWOHNqYTUydmoyUndITVNjYVd3ZW1NUnpvVTRqQUZUWHh6alRwVGZQR1lrbUp6cUFEZlJsU21oZjVvOGVUcmZCVlhVT1prN2M3dw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 14 Nov 2026 02:50:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEliNEIwVmFfTUZidlpxWVZKWVBVYnRoRGxDNGY2dHgzQ3JnRlRBLUMwaW9Wc0Y1OXR1dzNvcFpvbjhrcG1IZW1iU3d5WkRZbHY0dF9hNC14VG1Sbjl5UmdWOHNqYTUydmoyUndITVNjYVd3ZW1NUnpvVTRqQUZUWHh6alRwVGZQR1lrbUp6cUFEZlJsU21oZjVvOGVUcmZCVlhVT1prN2M3dw?oc=5\" target=\"_blan"
     }
   ],
   "count": 14
