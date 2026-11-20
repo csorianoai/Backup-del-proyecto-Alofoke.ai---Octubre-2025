@@ -3,44 +3,44 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Primero Nvidia, ahora AMD: los gigantes de los chips bajo la lupa por sus vínculos con China",
+      "url": "https://expansion.mx/tecnologia/2026/11/20/primero-nvidia-ahora-amd-gigantes-chips-vinculos-china",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Nov 2026 17:34:03 GMT",
+      "summary": "Una investigación cuestiona los vínculos de AMD con empresas chinas sujetas a restricciones comerciales de Estados Unidos. Las acusaciones provocaron una caída de sus acciones."
+    },
+    {
+      "title": "GTA VI le gana a Hollywood y se perfila a superar en ganancias a las 10 películas más taquilleras de la historia",
+      "url": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-vence-a-las-peliculas-mas-taquilleras-de-la-historia",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Nov 2026 15:29:31 GMT",
+      "summary": "Con solo un día en el mercado, GTA VI ya ha superado a algunos de los grandes estrenos en cine de este año, tales como La Odisea y Toy Story 5."
+    },
+    {
+      "title": "De influencer a godinez: el sueño de vivir de las redes se ajusta a la realidad de las oficinas",
+      "url": "https://expansion.mx/tecnologia/2026/11/20/influencers-regresan-oficinas-vivir-redes-sociales-mexico",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Nov 2026 11:55:01 GMT",
+      "summary": "La competencia por la atención, la irregularidad de los ingresos y la pérdida de confianza de las audiencias obligan a los creadores a replantear su carrera. Tres creadores de contenido mexicanos cuentan su experiencia."
+    },
+    {
+      "title": "Haz que tu foto parezca salida de GTA 6 con ChatGPT: así se logra el efecto",
+      "url": "https://expansion.mx/tecnologia/2026/11/19/como-hacer-foto-estilo-gta-6-chatgpt-paso-a-paso",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Nov 2026 00:05:46 GMT",
+      "summary": "La clave está en una instrucción que define colores, iluminación y trazos para crear una ilustración original que puedes adaptar a distintos formatos."
+    },
+    {
       "title": "Dario Amodei no creó Anthropic solo: quiénes son los otros fundadores detrás de Claude y su salida a bolsa",
       "url": "https://expansion.mx/tecnologia/2026/11/19/dario-amodei-fundadores-anthropic-claude-salida-bolsa",
       "source": "Expansión Tecnología",
       "category": "tech",
       "published": "Thu, 19 Nov 2026 21:59:00 GMT",
       "summary": "De investigadores de OpenAI a multimillonarios: seis trayectorias explican cómo nació Claude y quién conserva el poder tras la oferta pública."
-    },
-    {
-      "title": "Tu próximo celular no tendrá tarjeta SIM, pero será más barato fabricarlo y tendrá una batería más grande",
-      "url": "https://expansion.mx/tecnologia/2026/11/19/tu-proximo-celular-no-tendra-tarjetasim-pero-sera-mas-barato",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Nov 2026 21:30:31 GMT",
-      "summary": "Aunque las eSIM están ganando terreno en la industria de telefonía móvil y puede parecer que eliminan componentes de la experiencia de usuario, también les representa beneficios."
-    },
-    {
-      "title": "La salida a bolsa de Anthropic generará nuevos multimillonarios: así se reparte la fortuna dentro de la empresa",
-      "url": "https://expansion.mx/tecnologia/2026/11/19/salida-a-bolsa-de-anthropic-genera-nuevos-multimillonarios",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Nov 2026 19:00:49 GMT",
-      "summary": "Tras su salida a Bolsa, los primeros trabajadores de la firma de IA acumularán fortunas de al menos 100 millones de dólares en papel, aunque deberán cumplir algunos criterios antes de convertirlas en efectivo."
-    },
-    {
-      "title": "GTA VI dispara las estafas digitales: ofrecen hasta 4,000 dólares para robar tus datos",
-      "url": "https://expansion.mx/tecnologia/2026/11/19/gta-vi-estafas-phishing-bonos-falsos-robo-datos",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Nov 2026 18:30:20 GMT",
-      "summary": "En plena fiebre por el lanzamiento de GTA VI, los correos de phishing relacionados con videojuegos aumentaron 1,300%."
-    },
-    {
-      "title": "¿Cuánto dinero ha ganado GTA? El imperio que inició con 3 millones de dólares y hoy vale más de 14,000",
-      "url": "https://expansion.mx/tecnologia/2026/11/19/cuanto-dinero-ha-ganado-gta-hoy-vale-mas-de-14-000",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Nov 2026 16:25:47 GMT",
-      "summary": "Con el estreno de Grand Theft Auto VI, la franquicia apunta a convertirse en la segunda más exitosa de toda la historia, solo por detrás de Super Mario."
     },
     {
       "title": "Gobierno inteligente en México: retos legales de la IA - UNIR México",
@@ -51,20 +51,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTQ1RXpZODlQV1MwWUpRVkNTUHp6V1N1WVNjNGE2akp4azNpNHhpeUtwZHk4dFA3c3NPXzljaVFKT1BhMF9fcTdQeGE2OEo4a2xydDgyUWduVEJmVHdJNGtoRTRIS0cwOVhoT2ljeDg3NUE1aEtnZndDc2FaNS1ibndoVk5tZw?oc=5\" target=\"_blank\">Gobierno inteligente en México: retos legales"
     },
     {
+      "title": "Índice Latinoamericano de Inteligencia Artificial (ILIA) 2026 - Naciones Unidas en México",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkNPcGxZN19BX05vVFlOZk5adXhSN2FFMEJzYzIwZ2ZuN2ZyUXBIN2tBX0JkcXo5SjQ3Ti1QWFZzdDNmekVNUGZNRmdwRDEyZGR4N0EyUzZ2QmlOWjlDS1k3NTVLZENFUlg5aEcwSVQ4NW1xTXltQ19KUVl3Ni05VlpibFl6M25DTUc2d1pXS2hJYnRXQW1GVXBFRUc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 18 Nov 2026 21:43:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkNPcGxZN19BX05vVFlOZk5adXhSN2FFMEJzYzIwZ2ZuN2ZyUXBIN2tBX0JkcXo5SjQ3Ti1QWFZzdDNmekVNUGZNRmdwRDEyZGR4N0EyUzZ2QmlOWjlDS1k3NTVLZENFUlg5aEcwSVQ4NW1xTXltQ19KUVl3Ni05VlpibFl6M25DTUc2d1pXS2hJYnRXQW1GVXBFRUc?oc=5\" target=\"_blank\">Índice Latinoame"
+    },
+    {
       "title": "WPP lanza Enterprise Solutions en México para integrar inteligencia artificial, datos y tecnología al crecimiento empresarial - produ",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRFdNX1pab2g5em11Vk5UTUVGMjI0ZkpwUlN4QXU4RnZ2ZVdSamI3ME1Mc0JtdE0xQndVdWJ0MWtwSDhKaXV0VWhfcGJDQTNWY2JIR3ZTS1JfVHNFQ0Zxa0otaVd0V183Y2NHX05fd2I2bUhEckxyMG5XdFR3bTJERlpsTHc0MVFsNUFwbU15SkpXMTlPSEJPVVpsdkQ0WjM1ZkpReEVBdkR6ejZabWVCQS1Fc0s0SS1LaklLcklEdFlzblFkNmIxWElHSFh2UkM3Y0pjNXE4b2ZJQTZkNmhzZkxHRzNsdDlkN04wRlFoeEFhc0NoVUdKNQ?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Wed, 18 Nov 2026 18:07:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRFdNX1pab2g5em11Vk5UTUVGMjI0ZkpwUlN4QXU4RnZ2ZVdSamI3ME1Mc0JtdE0xQndVdWJ0MWtwSDhKaXV0VWhfcGJDQTNWY2JIR3ZTS1JfVHNFQ0Zxa0otaVd0V183Y2NHX05fd2I2bUhEckxyMG5XdFR3bTJERlpsTHc0MVFsNUFwbU15SkpXMTlPSEJPVVpsdkQ0WjM1ZkpReEVBdkR6ejZabWVCQS1Fc0s0SS1Lak"
-    },
-    {
-      "title": "Honor trae a México sus robots humanoides con Inteligencia Artificial - DPL News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PMWtMbTZwbllVbk12Wm16b2prVHdtdXNOWE5qOU1IZnExb3F4QlYwQVJjSXM3V3J6dnFFcHk4UWVIWUJfajBhZnoyVVFFVHFoLTQ4eTJhUm9NUVR4NlZBcHRVWmc2eXM?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 19 Nov 2026 18:43:33 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PMWtMbTZwbllVbk12Wm16b2prVHdtdXNOWE5qOU1IZnExb3F4QlYwQVJjSXM3V3J6dnFFcHk4UWVIWUJfajBhZnoyVVFFVHFoLTQ4eTJhUm9NUVR4NlZBcHRVWmc2eXM?oc=5\" target=\"_blank\">Honor trae a México sus robots humanoides con Inteligencia Artificial</a>&nbsp;&nbsp;<fo"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -75,14 +75,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
     },
     {
-      "title": "IA ya representa el 55% de las nuevas startups VC en LATAM - El Ecosistema Startup",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09uQ1M5THZsbEJidGxQUWJEbmRYVldwNVdzeUpTVnFLXy1JR3lsOTNpSjExYXFMYnBMQzJwNXJhZmZlTjFQWG56THFobXgwbFFBaXBvSlNTRDRPTnRsTVJkR1pIaUZzWTRPSlBxYW1RR0FyN1hOTEFBcEd2VjRCZjZmWU1HYlBvSDFGUW9Za0s5dw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQY09uQ1M5THZsbEJidGxQUWJEbmRYVldwNVdzeUpTVnFLXy1JR3lsOTNpSjExYXFMYnBMQzJwNXJhZmZlTjFQWG56THFobXgwbFFBaXBvSlNTRDRPTnRsTVJkR1pIaUZzWTRPSlBxYW1RR0FyN1hOTEFBcEd2VjRCZjZmWU1HYlBvSDFGUW9Za0s5dw?oc=5\" target=\"_blank\">IA ya representa el 55% de la"
-    },
-    {
       "title": "Startup mexicana Primero AI recauda 12 MDD en ronda semilla para automatizar procesos clave - El Cronista",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3dpc01TUjJFeF9Hb1FyQ3hHTUN0R0I3c25vWW56RkxQZ9IB9AFBVV95cUxQUDdVZ3ZlMm0wbnhxc0NybUdfYU4tS2xCZlZ5Nk5feng5VTV6Nmo5SHBYeG82VWlNMHZJczNHZHlYZm5XbHNIaW10ODh3ZXd3RENFTXRPcERfM1BhUEtzNlF2SUs3NV8wZkd4bHNxT3VqQzBTWko0WGtWb3BpZEFQRWM2S0I2TllfZXV6Q3p1aFU4YmZYaFlHemFvdGdZNUVrTXJheGQ5dV9mUkMtU1k1WTFUREdiWHZLRVNVQWlLUXc3QWh1ZVBfZldxclhoLXFtZ2NmenQwM2pDWGtTU2drWVRwVUlhSUthQ2RvdVRKZGpxNVNk?oc=5",
       "source": "Google News",
@@ -91,28 +83,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb2x6Uk1OajZyVFI1dHhQRzZvZ0lySXBlcUUzNVBQMk5aZXpFOW40anI4NGhCeGhCdnZrS0lFTDgtTXZXVTFoSFFvNUhZazhkR0dhME9zMzdMcUVJYjNWS1paS1ZKb0dnU0docGZrRER1bndxYWdpRTExV2VIUC1weGJNOXNDWGNCZnhWSDVhdzgzYnV3aWd5czFaNlR4VEdUVElHRnZWR185Mi1TM2k4MjlqamtaTDdQN3"
     },
     {
-      "title": "No basta con saber usar ChatGPT, esta es la capacidad que las empresas más buscan al momento de contratar - Expansión",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmNUSEpxZjA2cVkzSUd0WmExd1lfU3h2bXNvT3V5d01JNV9pc0pVWEhFZl9pY3l0cGpyeUh6cTJwa1ItdlhiazVINjdvWnpOYTE1QmxVeGdWZUx3R1ZCVFNGNWk4WFA2aTdqUjFoeUdnNjRlZnJqblJEbWMtX0hKWXVTYk1hZE5najlWa0RMS2xVcjRkSTBF?oc=5",
+      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmNUSEpxZjA2cVkzSUd0WmExd1lfU3h2bXNvT3V5d01JNV9pc0pVWEhFZl9pY3l0cGpyeUh6cTJwa1ItdlhiazVINjdvWnpOYTE1QmxVeGdWZUx3R1ZCVFNGNWk4WFA2aTdqUjFoeUdnNjRlZnJqblJEbWMtX0hKWXVTYk1hZE5najlWa0RMS2xVcjRkSTBF?oc=5\" target=\"_blank\">No basta con saber usar"
+      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
     },
     {
-      "title": "El día que una empresa de EE.UU. despidió a un investigador de México tras usar ChatGPT - Xataka México",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVZqRkFBOXhnU3k1Si1CSGd4MlQ4LXNoRWtUMERXZEtLRHhjVlRwTkp5ejU3Sk5GSjlsTkxVdVl5aElLem1sSUZoRHlxRWhmbm81R1lpOWdITnRWMHZNd2daY3FoM3NDVC1zRnJPbkp0ckNfSnBQVzFWVXVGTEFIUFRxMFhYRnhlSDRwRkp1Y3JDWi1TYnBmcjdtVXJ4NTZUVGlLNWRoYUfSAa4BQVVfeXFMUFo3eUtMNFZKNzJGSFhPcmFvbXZpVThkVkREcmxkT3RzcFhQaXJLeUxGWGpBRVJXQ1UxQ3RHNDFRb21qc1BEUG91YUYwM3FIOHI0NVlZRG50aUJDNXlHMFJDM0Ztckh1WktoVmp2N0RyaEdYVElyVDIwckxXSzlhNDA5UWo3NWFLZmFzVUMyamRwaUtjNF9PaHBxN19jRVhlSnV2Uld6Yl9ScE9PUmln?oc=5",
+      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sun, 11 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVZqRkFBOXhnU3k1Si1CSGd4MlQ4LXNoRWtUMERXZEtLRHhjVlRwTkp5ejU3Sk5GSjlsTkxVdVl5aElLem1sSUZoRHlxRWhmbm81R1lpOWdITnRWMHZNd2daY3FoM3NDVC1zRnJPbkp0ckNfSnBQVzFWVXVGTEFIUFRxMFhYRnhlSDRwRkp1Y3JDWi1TYnBmcjdtVXJ4NTZUVGlLNWRoYUfSAa4BQVVfeXFMUFo3eUtMNF"
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
     },
     {
-      "title": "¿Tu ChatGPT con anuncios? OpenAI abre la publicidad en México para usuarios Free y Go - El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNamtUdWcxMGhZWVpHcFlCaEl3RU5kYlFOOUJwYzlwcWJSUkRfYWRjdllVWHZCX2d6aWFzdkthN1NteWNMMWw5R1FJekFvU242di1mOXhXYndUTmN0ajREYkpoZ0t3WUFlVm9yWHdnTmxUc1RZYmU2Z0hZVkR5M1RiVzRJU0dQZjU4am9iSkctTld6SFQyc1c4ZjJGSXVmMHZmUXFqWnJLQmF6RFZOQzRQZWhWczZFV3VWVGp1OVp0WmU4ZFIyaF9Tc01uUGs3eUHSAeoBQVVfeXFMUExodGJSOEw2T2pNcHMxNjZIN2RqdWRtdE1EQ1g1U2Q4dUJXTjlQdnFVUlFEN0JXcG9NR0h0djhZSkoxWmdhQVYwVUU0VmFwMHZSdTJUVzdNZzRuMUIwYjJ0MEQ1TElOaEdQTW1mUi02eVc3bTJjcFBiX1dDZTUya0JTOER3eVQxSjRuNnJob1VmWjRleW9qYkVxT183ZC10ak1DNHVwejRva1hCd2VUV3VBZFZPM3ZHdGthWG9yejlYaGdHQzZVVG9kZ0ZlVDhGY1F4eVF4YlZXb1VDb2x1OWE0VS1oeUlCQWNR?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNamtUdWcxMGhZWVpHcFlCaEl3RU5kYlFOOUJwYzlwcWJSUkRfYWRjdllVWHZCX2d6aWFzdkthN1NteWNMMWw5R1FJekFvU242di1mOXhXYndUTmN0ajREYkpoZ0t3WUFlVm9yWHdnTmxUc1RZYmU2Z0hZVkR5M1RiVzRJU0dQZjU4am9iSkctTld6SFQyc1c4ZjJGSXVmMHZmUXFqWnJLQmF6RFZOQzRQZWhWczZFV3VWVG"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    },
+    {
+      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     }
   ],
   "count": 14

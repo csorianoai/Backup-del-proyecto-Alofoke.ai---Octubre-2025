@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Cómo saber si un celular usado o reacondicionado es un buen negocio: qué revisar antes de comprar",
+      "url": "https://www.clarin.com/tecnologia/saber-celular-usado-reacondicionado-buen-negocio-revisar-comprar_0_pCdVzknWJc.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Fri, 20 Nov 2026 08:46:28 +0000",
+      "summary": "<ul><li>Los teléfonos de segunda mano pueden costar mucho menos que uno nuevo, pero no todas las ofertas convienen. </li><li>La batería, el IMEI y las reparaciones anteriores son algunos de los puntos clave. </li></ul>"
+    },
+    {
       "title": "GTA 6: qué es, cómo se juega y por qué es un fenómeno que trasciende a los videojuegos",
       "url": "https://www.clarin.com/tecnologia/gta-6-juega-fenomeno-trasciende-videojuegos_0_U8BbkhP1aG.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,36 @@
       "summary": "<ul><li>Alcanzar el 100% de progreso en Grand Theft Auto 6 es el hito definitivo en el camino hacia el Trofeo Platino de PS5 y el 100% de los logros en Xbox Series X|S, y resulta mucho más accesible de lo que podrías imaginar.</li><li>Aunque Leonida esconde alrededor de 3.000 coleccionables en total"
     },
     {
-      "title": "¿Cómo arreglar la baranda en GTA 6? Guía completa para todas las reparaciones en la casa de Jason",
-      "url": "https://www.clarin.com/estados-unidos/arreglar-baranda-gta-6-guia-completa-todas-reparaciones-casa-jason_0_c0ARTy04k0.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Nov 2026 12:57:07 +0000",
-      "summary": "<ul><li>Al comienzo del Capítulo 1 de Grand Theft Auto 6, Jason Duval se muda sin pagar alquiler a una casa frente al agua en Key Lento que necesita varios arreglos, y reparar la baranda faltante es fácilmente la tarea más difícil de ubicar.</li><li>Sin necesidad de dinero ni materiales, completar l"
-    },
-    {
-      "title": "Desnudan compañeras de colegio con IA y venden las fotos. - Organización Mundial Bullying Sin Fronteras",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORW5kMkJpdlRqbC1xUEU2bzVDMmNpT2NCN0FMcEhtTHdEMnRUTlYxZkRWVklZazhheFF5b3hPVnR4d3hjbVVYbW9vWnhkVDBaOTdILUc4WVIxUERZYXFLVXh6a09wUkRGaWxDOE85bkhSZkxRakJobmtKakFqYklicjV4b2tKYUpza0JNMktMMXVoRno3b1pnTXRn?oc=5",
+      "title": "El Grupo de Puebla anuncia su XI encuentro - Grupo de Puebla",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ueHFUT2xsNEt5OXBKY1ozZUdQU0g5T05xQ2ZiX21GdEhWbnA1SlRpVm9XZVV4aTVieDlMSXNtaGVsYmx2Z2pKSTVNandZRDBMam9CdTFGWHk3c082b0EyaklpaGFLYVhSS3B0XzVGUkdzZU5xS3RYU1lwR3Vodw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Nov 2026 15:42:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORW5kMkJpdlRqbC1xUEU2bzVDMmNpT2NCN0FMcEhtTHdEMnRUTlYxZkRWVklZazhheFF5b3hPVnR4d3hjbVVYbW9vWnhkVDBaOTdILUc4WVIxUERZYXFLVXh6a09wUkRGaWxDOE85bkhSZkxRakJobmtKakFqYklicjV4b2tKYUpza0JNMktMMXVoRno3b1pnTXRn?oc=5\" target=\"_blank\">Desnudan compañeras"
+      "published": "Fri, 20 Nov 2026 17:25:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1ueHFUT2xsNEt5OXBKY1ozZUdQU0g5T05xQ2ZiX21GdEhWbnA1SlRpVm9XZVV4aTVieDlMSXNtaGVsYmx2Z2pKSTVNandZRDBMam9CdTFGWHk3c082b0EyaklpaGFLYVhSS3B0XzVGUkdzZU5xS3RYU1lwR3Vodw?oc=5\" target=\"_blank\">El Grupo de Puebla anuncia su XI encuentro</a>&nbsp;&nbsp"
+    },
+    {
+      "title": "Lenovo alcanzó ingresos récord de US$30.200 millones en el segundo trimestre, impulsada por el crecimiento de la inteligencia artificial - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdXVqVzNDc21nMDM1NHJNNWpLMlNhT1oyTkVNUERIa0hVRmFyUUlDYzh3SGpIX0RrLWRxQUM2cU0wNU85Qm9MQk1uU2tJVHpQSFB1NE12Xy11ek8ydEhTVUFFdTVMTVFzbHREVWdZb1o2T0RiVG9QTDhVclhjQkRxVmgzUkRTSU5ZWlV1MC13blNMYWR2UGFtbGZPNW9QS0FOemUtdkRnZUJKbDlhZGZtM3ZCSjgtOFpmWFhWY1hMcHhpWVZJS2VUWEpDcnE5NE5KYXhQRFE4X2YwTUJYTGc4Q21JdzFUb05BYXljOXFyZUJaNERJOUpoZTdrWm5RcDRz?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 20 Nov 2026 13:21:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOdXVqVzNDc21nMDM1NHJNNWpLMlNhT1oyTkVNUERIa0hVRmFyUUlDYzh3SGpIX0RrLWRxQUM2cU0wNU85Qm9MQk1uU2tJVHpQSFB1NE12Xy11ek8ydEhTVUFFdTVMTVFzbHREVWdZb1o2T0RiVG9QTDhVclhjQkRxVmgzUkRTSU5ZWlV1MC13blNMYWR2UGFtbGZPNW9QS0FOemUtdkRnZUJKbDlhZGZtM3ZCSjgtOFpmWF"
+    },
+    {
+      "title": "Llegó el nuevo Jeep Avenger a la Argentina: cómo es el SUV híbrido que incorpora inteligencia artificial - El Planeta Urbano",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajZvZ3lGYWduZ2F4QllMVDVIdnFpU3RLODJJNnpuODdFb2NWaVFKcnl4MHVwejRSSzJYV1oxMmlhUnVsM2lfMmRobG92cWREU090Rk00cnRtMG95TnJreFgzZUV3dWRYQVVRRmROYkVEdEFuOHFpcDVhalNTemdKa0NzTVZOR0hveDJiSDBtTDdqRVR3d1QyQjkycnRMTTFjQm4yZU5wR09KaFcyUU1NdExiOGJyRk1FNzlVWXJjaDJOMVVyMEJNcmo0M1ZKR05sUldubURwWQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 20 Nov 2026 15:03:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNajZvZ3lGYWduZ2F4QllMVDVIdnFpU3RLODJJNnpuODdFb2NWaVFKcnl4MHVwejRSSzJYV1oxMmlhUnVsM2lfMmRobG92cWREU090Rk00cnRtMG95TnJreFgzZUV3dWRYQVVRRmROYkVEdEFuOHFpcDVhalNTemdKa0NzTVZOR0hveDJiSDBtTDdqRVR3d1QyQjkycnRMTTFjQm4yZU5wR09KaFcyUU1NdExiOGJyRk1FNz"
+    },
+    {
+      "title": "Mapa interactivo: usan IA y planos oficiales para recrear cómo era Buenos Aires entre 1867 y 1950 - La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMURYLUdBbVpRS3pfZWg1a2VCM25LcnhKMnk4SmhYTHlyWmZlaENPam5ZdTVHVjFRREJfbG9jSnpvMW1FYmpya0FqME40YzVxY2thV3NXY2EwSDQxbUpZQndnRkhYRVlwUGNZdFJwUmpUVXVuV3hWSHI4YWEtS2lLRnlMTnJZcUNGQzBvTTR1THAzdnBLa200WktrMERvSFFGejBWQk16Y0VNWkFYRzUzbDJiR3ZjY0lNc0hKc3hUR1dEbXVnbHRaaEVaaDY5WWlLUEE?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 20 Nov 2026 16:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMURYLUdBbVpRS3pfZWg1a2VCM25LcnhKMnk4SmhYTHlyWmZlaENPam5ZdTVHVjFRREJfbG9jSnpvMW1FYmpya0FqME40YzVxY2thV3NXY2EwSDQxbUpZQndnRkhYRVlwUGNZdFJwUmpUVXVuV3hWSHI4YWEtS2lLRnlMTnJZcUNGQzBvTTR1THAzdnBLa200WktrMERvSFFGejBWQk16Y0VNWkFYRzUzbDJiR3ZjY0lNc0"
     },
     {
       "title": "Cómo funciona la inteligencia artificial que ya se usa en Buenos Aires para controlar la recolección de basura - Clarín",
@@ -59,13 +83,37 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPOUhBUldFQ0ljZGc2NEVELTk5SkFUY1hRTS1zVVZtaWVMV0tLLW5qWVRDajgza0d4c1JaRjFoREJaSU9tanRyTTRVT0VkT2dwRnc5OEpycDhGZmxNa2RPQ2E4Z1B1bWlQZ3gwd0tEVXg5M050OVBneElobC1LbU5fVTJEcVhQZ0haYk84bXo0NzFUSzloeTRRZnRXMUNfMXZUQkZ1UDFCdzFiUnRTUHFHeFYxRGpLWUJ6cE"
     },
     {
-      "title": "Sindicalismo humanista: organizaciones de CLAC-WOW debatirán en Buenos Aires los desafíos del trabajo frente a la inteligencia artificial - Data Gremial",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZEppM2ZKdjV1MFp5WnlxS3VCaXFtRk9JNnptdDJSSDdPS1haWHpHRFpnaEdfUC1fRm5UNkVPWFJYNEZ0Vkp4V19xVmpYMHYyblRNb0xXcTVDbkxoWmJDQ2dvM0FCZ2ZHTi02VGpLYWFCci1nWE1MSnBOSE9KR042ZkJCWTIteWRqMVBHZ2ZTTlFoZTVWNjB4cGd1WjNyUzJmaFNBZm40aHBfakFfdnZORXhwT21jUjZRV21uaVFLRDZTbGl6OFdrNGwyVnNwQ09rUURFSU9oS1BPQUR6YWRDRFNqdk42Q1h0SVFWVkpyZ3o2RUhvLUl3U0ZSOTlMdDBZLTBtQ0JTNDREckgwZ2dlWU5TUXltZ1U2ME9WaFRRQURpNnRW?oc=5",
+      "title": "Buenos Aires lanza plataforma de IA para optimizar la recolección de residuos en la ciudad - Cadena 3 Argentina",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTWR4RWEzQTNtRUN1X0l5NjNYN3owazBzcHNzRXhNRTJwMEZMYXNWYmV3Nk5YMWEzSEVmLWFKaGJiTDhsS296dHlqWFJnT2kzSzYzOFF3bzVFREpuQ3ZyWXoxMWc4WW5DVWpWYVBxNHdTTXJsbkN4U2lmYVdtd29tZ0ZYUS1JQm1HWlFBd3lxR081bXlMRlZxd3pMV1JpMHhDNThjSG81MlJtUHhaSnRiMGhFRkE4VFhwNWl2WUFNQ1lSc1JOOURRektDalJSWkRDcE9Xd9IB2gFBVV95cUxORmtrWm9lRkRBNmFpOS1HWFhCeEpfUEVBbzVjYU1ZVTk5cE8wYWhtb1dndXBKdEpOUTZlU18xSDAtYTZOYlhHblE5LUJfbkt6MW5EdlYxbEFHZnhBbGlaQW5OM3dCVFlEQ1NsN1lXY3NwYkFiNktjQmFKUWhRcWo2OUg0TzN1WXJhbkRMSjE3VDRxaml4ZTNnVjZEZlEtX2drSUlndDlRZV8wbnBjY2FIejVyZ1lVc21lazhET1BkLUhRRmxmRm43QVpxMFZmRzl0Wm1fM1NHNHlxZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 20 Nov 2026 00:14:43 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQZEppM2ZKdjV1MFp5WnlxS3VCaXFtRk9JNnptdDJSSDdPS1haWHpHRFpnaEdfUC1fRm5UNkVPWFJYNEZ0Vkp4V19xVmpYMHYyblRNb0xXcTVDbkxoWmJDQ2dvM0FCZ2ZHTi02VGpLYWFCci1nWE1MSnBOSE9KR042ZkJCWTIteWRqMVBHZ2ZTTlFoZTVWNjB4cGd1WjNyUzJmaFNBZm40aHBfakFfdnZORXhwT21jUjZRV2"
+      "published": "Wed, 18 Nov 2026 18:18:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTWR4RWEzQTNtRUN1X0l5NjNYN3owazBzcHNzRXhNRTJwMEZMYXNWYmV3Nk5YMWEzSEVmLWFKaGJiTDhsS296dHlqWFJnT2kzSzYzOFF3bzVFREpuQ3ZyWXoxMWc4WW5DVWpWYVBxNHdTTXJsbkN4U2lmYVdtd29tZ0ZYUS1JQm1HWlFBd3lxR081bXlMRlZxd3pMV1JpMHhDNThjSG81MlJtUHhaSnRiMGhFRkE4VFhwNW"
+    },
+    {
+      "title": "Satellites on Fire: IA argentina que detecta incendios - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0M4dVNpYmhGcnhPcTZQZlJuWmpJTXpZZVlhS2VqbDdxdU4xWUt0WWlsVU5yVlpHbHFwbmxpbXc4c0VjbVVZalFaOXdtaWVQR0VoMUh4S3p0RTFtZXRBeGRRdWFZNnRYajk1MHMwOVJHR2paZU9UNVhFaXhFVUNnbG9SWXlDdVFMZmRSRA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Nov 2026 20:21:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0M4dVNpYmhGcnhPcTZQZlJuWmpJTXpZZVlhS2VqbDdxdU4xWUt0WWlsVU5yVlpHbHFwbmxpbXc4c0VjbVVZalFaOXdtaWVQR0VoMUh4S3p0RTFtZXRBeGRRdWFZNnRYajk1MHMwOVJHR2paZU9UNVhFaXhFVUNnbG9SWXlDdVFMZmRSRA?oc=5\" target=\"_blank\">Satellites on Fire: IA argentina que "
+    },
+    {
+      "title": "Startup argentina CryptoMate conecta efectivo con USDC y ofrece adelantos respaldados por Bitcoin - DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamhSMU1vdHBrQ25jSmhEcFR3cXpvV3JpQ3pfS08yenlpQVlqN3lqTklqZmRzNmJnVjNHZVhiekJnZHlkWUNfcFZySG4yOHNPbDVWRXlYTTVpam5BYXZnOGpWWFl6WTMwY0dlVVg5ZjBfMnNCRGtSaGxKVGtIOHlDRTJFcnNNbjB1d0N0bEw2Q2ZueHcwY3JXWkpMSTRDV3NrbVBlY2xQcGhuTXp2dWJkdVVqMGdvaDRTM0Zpc2FFa1Z1cW9laWQwMHFjTkpKb1QtSWpxZVoydVg1NVROWXk3bTgtYjJ3dw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Nov 2026 13:39:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamhSMU1vdHBrQ25jSmhEcFR3cXpvV3JpQ3pfS08yenlpQVlqN3lqTklqZmRzNmJnVjNHZVhiekJnZHlkWUNfcFZySG4yOHNPbDVWRXlYTTVpam5BYXZnOGpWWFl6WTMwY0dlVVg5ZjBfMnNCRGtSaGxKVGtIOHlDRTJFcnNNbjB1d0N0bEw2Q2ZueHcwY3JXWkpMSTRDV3NrbVBlY2xQcGhuTXp2dWJkdVVqMGdvaDRTM0"
+    },
+    {
+      "title": "La startup argentina que detecta incendios antes que la NASA y sorprendió al príncipe Guillermo - MDZ Online",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM01IMERQNmxEMG5lZnVjbS1OSGd4YUl4Ui1YekY0bWNzVDh2MGU3cENyaVRDWTJrT3hhMFNBZEJjRzE5WVNwV2NucW5vTFYzLV9FSHhDSDFqRVM2aFhKeVNfek9HcjlmZ0tVUW9RaF9wWWZtZVAwSGZqeVFJbWlHN2Q5UDdxM3dNQmhIZHAzSkxSRWR6MUo5UGRLV0xKMzhacTFvcU9nbGZ2QWlwODNGS19nU295TnBHcmNYNXoxSF83Qm1vTmhVVVI4d0xXdXV6d2pmWm1iQUVuc0dlMmdQRFhQX1g?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Nov 2026 17:55:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM01IMERQNmxEMG5lZnVjbS1OSGd4YUl4Ui1YekY0bWNzVDh2MGU3cENyaVRDWTJrT3hhMFNBZEJjRzE5WVNwV2NucW5vTFYzLV9FSHhDSDFqRVM2aFhKeVNfek9HcjlmZ0tVUW9RaF9wWWZtZVAwSGZqeVFJbWlHN2Q5UDdxM3dNQmhIZHAzSkxSRWR6MUo5UGRLV0xKMzhacTFvcU9nbGZ2QWlwODNGS19nU295TnBHcm"
     }
   ],
-  "count": 8
+  "count": 14
 }
