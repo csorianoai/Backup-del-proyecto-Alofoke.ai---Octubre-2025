@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "Sebastián García, experto en ciberseguridad: “Los sistemas se caen y fallan porque hay una debilidad estructural en cómo se desarrolló el software”",
+      "url": "https://www.clarin.com/tecnologia/sebastian-garcia-experto-ciberseguridad-sistemas-caen-fallan-debilidad-estructural-desarrollo-software_0_tx0f8CxNPn.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Sat, 21 Nov 2026 18:00:52 +0000",
+      "summary": "<ul><li>El investigador argentino explica las diferencias entre las caídas de sistemas y los ciberataques.</li><li>Cómo la IA acelera la búsqueda de vulnerabilidades y aumenta la presión para corregirlas.</li><li>Compara el software con una “tela de araña” de programas que dependen unos de otros y d"
+    },
+    {
       "title": "Chau llaves: cómo funcionan las cerraduras inteligentes, cuánto cuestan y qué ventajas tienen",
       "url": "https://www.clarin.com/tecnologia/chau-llaves-funcionan-cerraduras-inteligentes-cuestan-ventajas_0_lf2eDrbp2Q.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,12 @@
       "summary": "<ul><li>La nueva entrega de Grand Theft Auto llegó a las consolas y se convirtió en uno de los acontecimientos del año en el mundo del entretenimiento. </li><li>Un mundo virtual gigantesco, libertad para hacer casi cualquier cosa y una historia criminal que retrata a la sociedad estadounidense.</li>"
     },
     {
-      "title": "¿Dónde encontrar a Bigfoot en GTA 6? Ubicación exacta del Skunk Ape y cómo activar el encuentro con Pie Grande",
-      "url": "https://www.clarin.com/estados-unidos/encontrar-bigfoot-gta-6-ubicacion-exacta-skunk-ape-activar-encuentro_0_WbKYkeGyBR.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Thu, 19 Nov 2026 14:40:00 +0000",
-      "summary": "<ul><li>Sí, Bigfoot está oficialmente en Grand Theft Auto 6.</li><li>Siguiendo una de las tradiciones de easter eggs más icónicas de la franquicia, Rockstar Games ha escondido al críptido —conocido localmente en Leonida como el Skunk Ape— en lo profundo de los pantanos al sur de Hamlet. Y lo mejor d"
-    },
-    {
-      "title": "Argentina, del lado de los ganadores entre conflictos globales y la revolución tecnológica - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGpBMWdWNjROcVBiMDNfbzdEVHRHdzh4cGtxQXhBMnk2UEJKcVlVX1JnMERmX1lxdDMxdTVfWThjY3VDRmVyRHFaRDBQeUtGbHRkTmVadjR5VXptSjZ6TGdYcS1oUlZ3WHJiUFp2WFQ4bGg0RWlnTjR3UUV0cTRJVkFuRVA3N1M3R0FDRXh3Y1M4MERTQldqWW93eGlaR3lnWFVuZkpKQ245ZXlwYklEUW5KNnM5NldKcldGZ3hsZHRzeF9FbkppcTNENlRjZ9IB6AFBVV95cUxQYUZwbl9FQWphckF1dHZrZTg4ckZ5aVVLcjNGa1ZKaUlQLWV5aEw2ZUx2dVBVaFVEd2FYWDZMaDdhUXpvMG1NWWVtckU4VkhxQTUxLXl4VTRHaHpqM2UtQmxReVhBdDJkeEJSenRXQ1lGLW9iYkpBUjljQXhnRjFrSElBT0VGTUtjTTZVTjZkUUdDaTllN1Flb2t5Z0oxX183WjF3VWJ4MlRQVjN1emVnanNLcHNYSUZRczQxMWYya0J3RVJtTWdlSVBiTDVoVk0wRDduOTQ3RWZvZUFBaURmeFBGNFJXM2NN?oc=5",
+      "title": "Esteban Magnani: “La inteligencia artificial es una ruleta rusa y, si explota, se lleva puesta la economía” - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRThvWkY5S3ozOVI4Mkx6ajVrekNlZTdQSHlNQVVWVksydTZGM1hIM0c4NVBMcHpXQWhzTTctVUhXUDMwbEVTb0FRT013UVQ5enRocE16SW1RT2ZKdkY2VnhtdE1mSlkzcm1OczJfMWw5MklKdEs0OENmZERIT2ZBVmM0OTZXY1duY1VNSUpBbmZ0NmZlR00wOXc3TXhIdHdpZURoYlE2aE1qNWZsOE5DVUtXWWw2UUJiVG5YdE54b3hpMHcyNHFfSndDRXNSWm1USFd2RU9pSXFlUdIB9AFBVV95cUxOSmF2dGVHc25aSTBBckd2dUxYTlFnTHRQQ2JpbFYxek95ZVZsVFF4aGZNZ25MWXd6TzZsbEV5b1FNWVppaXVQdGV2WGJGQXFISlNka1NQcnRieWZ3OWdPbmNOU1ExbWVrQ3lwZ3N0VDlsUGdtQnJzUWhGTzlkb1VsWUQzU1pGaWg2SFBDX01KTWdCTzdkUDZiSXBUR0d5ZlFLT1R0SHppYXFTcVcySHJxWnE0Y3kwUGhBODBuYWkyOWRURVR4eHhsbHl6RktCVlVJWTl3YWJfc2VINnBvYlF0NXZkb2ZEdlB5OV9lNmc5ZVhoRFht?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Sat, 21 Nov 2026 04:54:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcGpBMWdWNjROcVBiMDNfbzdEVHRHdzh4cGtxQXhBMnk2UEJKcVlVX1JnMERmX1lxdDMxdTVfWThjY3VDRmVyRHFaRDBQeUtGbHRkTmVadjR5VXptSjZ6TGdYcS1oUlZ3WHJiUFp2WFQ4bGg0RWlnTjR3UUV0cTRJVkFuRVA3N1M3R0FDRXh3Y1M4MERTQldqWW93eGlaR3lnWFVuZkpKQ245ZXlwYklEUW5KNnM5NldKcl"
+      "published": "Sat, 21 Nov 2026 05:48:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRThvWkY5S3ozOVI4Mkx6ajVrekNlZTdQSHlNQVVWVksydTZGM1hIM0c4NVBMcHpXQWhzTTctVUhXUDMwbEVTb0FRT013UVQ5enRocE16SW1RT2ZKdkY2VnhtdE1mSlkzcm1OczJfMWw5MklKdEs0OENmZERIT2ZBVmM0OTZXY1duY1VNSUpBbmZ0NmZlR00wOXc3TXhIdHdpZURoYlE2aE1qNWZsOE5DVUtXWWw2UUJiVG"
     },
     {
       "title": "La Argentina que viene: política e Inteligencia Artificial, temas de una nueva edición del Ciclo Pilares - Los Andes",
