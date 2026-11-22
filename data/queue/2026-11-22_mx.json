@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Nvidia pierde más de 20% en bolsa en una semana y ahora la SEC indaga sus cuentas",
+      "url": "https://expansion.mx/tecnologia/2026/11/21/nvidia-caida-en-bolsa-investigacion-sec",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Sat, 21 Nov 2026 23:25:01 GMT",
+      "summary": "Tras la renuncia de Jensen Huang, el regulador de EU busca determinar si Nvidia indujo a error a los inversionistas con sus reportes, según The Wall Street Journal."
+    },
+    {
       "title": "GTA VI recauda 3,790 millones de dólares en su estreno y supera el récord de GTA V y Avengers: Endgame",
       "url": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-recauda-3-790-millones-de-dolares-en-su-estreno",
       "source": "Expansión Tecnología",
@@ -35,12 +43,20 @@
       "summary": "Con solo un día en el mercado, GTA VI ya ha superado a algunos de los grandes estrenos en cine de este año, tales como La Odisea y Toy Story 5."
     },
     {
-      "title": "De influencer a godinez: el sueño de vivir de las redes se ajusta a la realidad de las oficinas",
-      "url": "https://expansion.mx/tecnologia/2026/11/20/influencers-regresan-oficinas-vivir-redes-sociales-mexico",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Nov 2026 11:55:01 GMT",
-      "summary": "La competencia por la atención, la irregularidad de los ingresos y la pérdida de confianza de las audiencias obligan a los creadores a replantear su carrera. Tres creadores de contenido mexicanos cuentan su experiencia."
+      "title": "BID | La industria detrás de la IA: México y las primeras señales de AI-shoring - Inter-American Development Bank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHenpQWDVROA?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUTVmcDBvbGNyZk5UaVJFQUZUQmJ2T3ZNSUFQYjlmeTNvNXVwWDdGSmpCeVdnSWE1b2wxRUpweEV4ZUk2VTRlMFpLYWw5UHppVS0zSEVha3M0Y184OUd2eUdGdFQyRG41bThQbkhnX1NkVm5vSElsVW81LVJwNEx2VDE2X3FUVFR6SG5ZdE1KbGVRcHpEb2RxNkZ5Q3U1R0lRVktOZVowajRaVFVJQ3RaOXBxYVk1RFpHen"
+    },
+    {
+      "title": "Honor trae a México sus robots humanoides con Inteligencia Artificial - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PMWtMbTZwbllVbk12Wm16b2prVHdtdXNOWE5qOU1IZnExb3F4QlYwQVJjSXM3V3J6dnFFcHk4UWVIWUJfajBhZnoyVVFFVHFoLTQ4eTJhUm9NUVR4NlZBcHRVWmc2eXM?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 19 Nov 2026 18:43:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PMWtMbTZwbllVbk12Wm16b2prVHdtdXNOWE5qOU1IZnExb3F4QlYwQVJjSXM3V3J6dnFFcHk4UWVIWUJfajBhZnoyVVFFVHFoLTQ4eTJhUm9NUVR4NlZBcHRVWmc2eXM?oc=5\" target=\"_blank\">Honor trae a México sus robots humanoides con Inteligencia Artificial</a>&nbsp;&nbsp;<fo"
     },
     {
       "title": "Demasiados dictados - EL PAÍS",
@@ -49,22 +65,6 @@
       "category": "news",
       "published": "Sat, 21 Nov 2026 18:01:40 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9HVHpiRm9NaV9QUjlrY3YzYzBZQ2wwSFZ3dGJQYVNYZktSd2p2U051eGk5NDNPY2FCYnNkYmF5VUdhYmttVFdWWWh1N2hBRFZSQlNOVjBaQTlVXzRZLWxLU0tGckg2dWh6U3Z3SEQyTkpZbFNfQTlZb9IBjAFBVV95cUxON0NUUmZybFEzRkl6ajVXdzNLVnlVWE9iZW12dnFlTmJKcFNRb2ttd0RkOEF6WXNCb1daRFFaUk"
-    },
-    {
-      "title": "Dentro del impulso de China para formar una generación nativa en inteligencia artificial • Internacional - Forbes México",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FPZFhzdEozaXdPQXRpZGZrQzVnQTVJTFhoZmd0bkVORi1YZ3R0UXlaLVl2Mm54WUJ6Rl9ONU5LUi1TS01zOE1abEhyR0hVM3drbEQyUmVmM2RNZU91TVRTM3JmWW5IbmdGNzczZUVtaUwxR2NZS0JVamk5RVY0T2lrcDZrOWNxaXRlaGpfZFdMTVFzOE9lT2hCRVlZT0c1WjZJcm1JOExjSkFya0NhNg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 22 Nov 2026 13:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FPZFhzdEozaXdPQXRpZGZrQzVnQTVJTFhoZmd0bkVORi1YZ3R0UXlaLVl2Mm54WUJ6Rl9ONU5LUi1TS01zOE1abEhyR0hVM3drbEQyUmVmM2RNZU91TVRTM3JmWW5IbmdGNzczZUVtaUwxR2NZS0JVamk5RVY0T2lrcDZrOWNxaXRlaGpfZFdMTVFzOE9lT2hCRVlZT0c1WjZJcm1JOExjSkFya0NhNg?oc=5\" targe"
-    },
-    {
-      "title": "Empresas en México no aprovechan la IA para impulsar el nearshoring; solo 7% logra avances tangibles - EL CEO",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSVFlakJ5X3ZqcWFDU3B2Z2ZuOXF2VFBzcXU1X1BfMDlCVHpoZEJkdEhiMkxCcF9vWHlUeTZXT0VvZTlKbjYzZUZpbF9uM2lPVExraGN0VEZ4bmhUSXc5X1hUOWZDTUZnM1hSa2puTEh2d05OSFcxX2dmZE1ZaFhpX1FWX3R5eUN5bl8tdVBHTUs2UnNtTWVQeEVVeVhXdw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 21 Nov 2026 17:01:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQSVFlakJ5X3ZqcWFDU3B2Z2ZuOXF2VFBzcXU1X1BfMDlCVHpoZEJkdEhiMkxCcF9vWHlUeTZXT0VvZTlKbjYzZUZpbF9uM2lPVExraGN0VEZ4bmhUSXc5X1hUOWZDTUZnM1hSa2puTEh2d05OSFcxX2dmZE1ZaFhpX1FWX3R5eUN5bl8tdVBHTUs2UnNtTWVQeEVVeVhXdw?oc=5\" target=\"_blank\">Empresas en M"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
