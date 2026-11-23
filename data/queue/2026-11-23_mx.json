@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Nvidia restituye a Jensen Huang tras el escándalo de espionaje e infidelidad y sus acciones suben más de 30%",
+      "url": "https://expansion.mx/tecnologia/2026/11/23/estituye-jensen-huang-acciones-suben",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Nov 2026 14:57:16 GMT",
+      "summary": "La salida del empresario provocó incertidumbre entre los inversionistas y llevó a Nvidia a enfrentar cuestionamientos sobre su liderazgo en plena expansión del negocio de inteligencia artificial."
+    },
+    {
+      "title": "Un paciente llegó herido de bala y el hospital no tenía sistema: los ciberataques ya no infectan solo tu computadora",
+      "url": "https://expansion.mx/tecnologia/2026/11/23/ciberataques-hospitales-hackers-ransomware-pacientes",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Mon, 23 Nov 2026 11:55:49 GMT",
+      "summary": "Mientras más conectados están los servicios esenciales, los ataques a hospitales, redes eléctricas y sistemas de agua muestran cómo una amenaza digital puede afectar servicios indispensables."
+    },
+    {
       "title": "Nvidia pierde más de 20% en bolsa en una semana y ahora la SEC indaga sus cuentas",
       "url": "https://expansion.mx/tecnologia/2026/11/21/nvidia-caida-en-bolsa-investigacion-sec",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "El videojuego desató críticas entre jugadores y streamers que consideran humillante cuidar de una relación romántica. Otros defienden la evolución de la saga."
     },
     {
-      "title": "Primero Nvidia, ahora AMD: los gigantes de los chips bajo la lupa por sus vínculos con China",
-      "url": "https://expansion.mx/tecnologia/2026/11/20/primero-nvidia-ahora-amd-gigantes-chips-vinculos-china",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Nov 2026 17:34:03 GMT",
-      "summary": "Una investigación cuestiona los vínculos de AMD con empresas chinas sujetas a restricciones comerciales de Estados Unidos. Las acusaciones provocaron una caída de sus acciones."
-    },
-    {
-      "title": "GTA VI le gana a Hollywood y se perfila a superar en ganancias a las 10 películas más taquilleras de la historia",
-      "url": "https://expansion.mx/tecnologia/2026/11/20/gta-vi-vence-a-las-peliculas-mas-taquilleras-de-la-historia",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Fri, 20 Nov 2026 15:29:31 GMT",
-      "summary": "Con solo un día en el mercado, GTA VI ya ha superado a algunos de los grandes estrenos en cine de este año, tales como La Odisea y Toy Story 5."
-    },
-    {
-      "title": "México y Estados Unidos: por qué la inteligencia artificial y la tecnología marcarán el futuro de la relación bilateral - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MGpvYzZyZ1pGdGZvaHRYYlpLaGpOMTlGTVJsZlllMjZaUDNRWEJmNkZ1c1p5N0x5d2ozYnFQRDB2SW_SAY4CQVVfeXFMT3I1UE1KRXVhQXI5R1lGdHliRFhiLXdkVnU1MXZrUl9McDNaOHl5bW5YT0FGV1ZsNXVMYTBCa3VpZjQxVURKc0VHSXdXOFRjVWptNXRtLVZ2NjdFcDIyN3ZMWENrZk5XSmhyeVpHTGt0Qld5N0N5S0lBU0NZaWJBd2o3MUVEUE9MRGd5SXM4bXhMRkFCYUF2NlRSaXhLU0picWZzMXZYMVJpakpQWjdvcUxKNkVSbFlNM3lOR25KVk1kbXkxeS04aHBQNXZpbUU0QWp2TzY4Rjl4YWFhai1hSHdlNHFfelpGNWRXaWZCQVpNbllsYUhINDVPcWozejJ2aUFjaks0UXl6b1VUcEdR?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sun, 22 Nov 2026 18:33:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MG"
-    },
-    {
-      "title": "Gobierno inteligente en México: retos legales de la IA - UNIR México",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTQ1RXpZODlQV1MwWUpRVkNTUHp6V1N1WVNjNGE2akp4azNpNHhpeUtwZHk4dFA3c3NPXzljaVFKT1BhMF9fcTdQeGE2OEo4a2xydDgyUWduVEJmVHdJNGtoRTRIS0cwOVhoT2ljeDg3NUE1aEtnZndDc2FaNS1ibndoVk5tZw?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Fri, 20 Nov 2026 11:17:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTQ1RXpZODlQV1MwWUpRVkNTUHp6V1N1WVNjNGE2akp4azNpNHhpeUtwZHk4dFA3c3NPXzljaVFKT1BhMF9fcTdQeGE2OEo4a2xydDgyUWduVEJmVHdJNGtoRTRIS0cwOVhoT2ljeDg3NUE1aEtnZndDc2FaNS1ibndoVk5tZw?oc=5\" target=\"_blank\">Gobierno inteligente en México: retos legales"
-    },
-    {
       "title": "Semana de análisis de la Inteligencia Artificial en México - La Crónica de Hoy",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT200TkFQNW03MjRZRTJXcGE1RlJzVmhBelZqbW1YdzJEdmZZVFBCS3I3cGlJUFdqWG1HMnBVcFU3UFlsaGJGd2RJTjNFdFR2R3V2WlpKakpNQ0VhTWJBay1QQXRrNHRFdVNoaW1tNk1EeHh0YmpQTHh4TDNhVFpfN0dMWTByU3NpaVZZdl9DcVFpa2dfX25SOUNjSC0taVIyWXlyT3psUFU?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Mon, 23 Nov 2026 12:45:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT200TkFQNW03MjRZRTJXcGE1RlJzVmhBelZqbW1YdzJEdmZZVFBCS3I3cGlJUFdqWG1HMnBVcFU3UFlsaGJGd2RJTjNFdFR2R3V2WlpKakpNQ0VhTWJBay1QQXRrNHRFdVNoaW1tNk1EeHh0YmpQTHh4TDNhVFpfN0dMWTByU3NpaVZZdl9DcVFpa2dfX25SOUNjSC0taVIyWXlyT3psUFU?oc=5\" target=\"_blank\">"
+    },
+    {
+      "title": "Intel reconoce a Capgemini, GBM y CompuSoluciones por impulsar la tecnología en México - ITSitio",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWxmeGZSdGpkY2FtbDhTV1JfUk9Jc0RpSXU5bEI3RUhNSXBwTTA0YzlrdHNnZXRwYUhzOWpLd1dyTlZ0QkcyZDdCb0l5N1lfRG83Mnp4WDJCQndJRE1XSmEzMmlENXJZcEZjUUxHazdxcXl3dW9ybG9rem9hZ0FBQjJwZEVfeklfYV9mN1BnYWtuX3RSaGVKZzd2UldLb3R4R0Z3ek1Nd3k3b0FEcFdlb3pvc1VxSkI4c2wtZFI4dmwwUk9E?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Nov 2026 15:40:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPaWxmeGZSdGpkY2FtbDhTV1JfUk9Jc0RpSXU5bEI3RUhNSXBwTTA0YzlrdHNnZXRwYUhzOWpLd1dyTlZ0QkcyZDdCb0l5N1lfRG83Mnp4WDJCQndJRE1XSmEzMmlENXJZcEZjUUxHazdxcXl3dW9ybG9rem9hZ0FBQjJwZEVfeklfYV9mN1BnYWtuX3RSaGVKZzd2UldLb3R4R0Z3ek1Nd3k3b0FEcFdlb3pvc1VxSkI4c2"
+    },
+    {
+      "title": "México necesita fortalecer la ciberseguridad para acelerar la digitalización de su economía: Ariel Picker - EL CEO",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGg2NmFxTW5xSmZOMU9KN0s5RlZNcC1PcHZURVV3UksyNXpvRzhEeGoyc0t3WDNIWnhwS0ZYcEpsZGtfWHVWQV9USVpsbHRYT1M5ckJsTUxZc2FkaExTWHZES21iZzQ5a1ktVThIcUZ1LWRrUERZQWVmalIwRVlkdTdmZzRwN2NWTEh0eHRVSDlvMHlCODRQZjgwNjA1OG9ENlNIaVJaRzR1WWluUDBId0tRM3lIdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Mon, 23 Nov 2026 16:04:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGg2NmFxTW5xSmZOMU9KN0s5RlZNcC1PcHZURVV3UksyNXpvRzhEeGoyc0t3WDNIWnhwS0ZYcEpsZGtfWHVWQV9USVpsbHRYT1M5ckJsTUxZc2FkaExTWHZES21iZzQ5a1ktVThIcUZ1LWRrUERZQWVmalIwRVlkdTdmZzRwN2NWTEh0eHRVSDlvMHlCODRQZjgwNjA1OG9ENlNIaVJaRzR1WWluUDBId0tRM3lIdw?oc="
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -83,12 +83,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
-      "title": "Somos Internet, startup paisa, levanta US$40 millones; acelera su expansión a México - El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQjNz?oc=5",
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 01 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGsyNW1tV0pWZGtJWHhXWkRtM2JMd3FUT091aU5aTDVuS2lQZURYYXVTRXlCMWljVUgtVHp3YXBkUHBqNzlQWGV4ejV5ZVRtMkVIUTZFWGNBd1Z0QkJpU0x6UG80OGNsRUhKenk2ZHFYRnMzbndpZHFhX2tqNVhteEp2bV9LeXZJdVlrY254Nk55bUlUZXR4MEIxUVQ1bVRnUlVfTVVZMHAzZk10UTNEU09RN0E2UmttQj"
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
     },
     {
       "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
@@ -107,12 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     },
     {
-      "title": "El MIT y la inteligencia artificial en la educación: “Nuestras primeras conjeturas sobre la tecnología suelen ser erróneas” - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYemJoTHFjM1lPV3ZNV05abzdiUldyYVlna19GNUJwcEt3bFR4QjBDd1B2Y1M2ZzBNcWlsRnAyZFJmYVRRMTdnWXVB0gGUAkFVX3lxTE56aU51SGRaTjhFNmlkQUx5UUVFTmhEZnNyLW1UbUxXMVVpZUQ4cEZ5QnhldkRsTzNlYlRSQTB3dlE4ZjdHbi1oaGlIbnZ2eUlLY2xLUXBVdWZ3Mm4xUmpScjRZdGppLXMtOXROdEQ4NVp6Q25EMkRBZTFOODBaMTkyYWt4TUNQQW9QOGp1WjFwMlF5VVNEWGI3X0tNMFNmWnhNc1JqWEJVLVlxUmlRSldNRW1CTzdUTnA5eVBrMFBuWkhVcWY3MFhGWWtyTVlzZWp2am5zUnBwN3BDd1pqSVBFRWlEV202MUZqa3VyajFzbk9DQ3FZa1pDWjkwemJPNUNEUHJ2Um0xVWVESjlyOGJDc2tVZA?oc=5",
+      "title": "Tecnológico de Monterrey y la UNESCO firman acuerdo para impulsar la IA en la educación - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9RdGRaVW9uQXdqV0dOQ21MSTRUbl9pSm9MMG1WZmwxbDl3dklFVWZBSnBOc0h5VzZhNGtjMDRhOG5WMk9TNXRrSDFKTjF2TkhMQVpUM0s5cHVfX2kwLXRlUHhjYzBQREZ0dHVmNkhIbzJ2MzJtZnpTUDV6R1ByOFhzenZhWmlKYkVFckVnVHBodXRTd2RyRGdFSXRBYk1CWlZac2x1QlEwdi1BZW9EUWp6Szg3Z3FIUi1ESmZ4Yw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRldhT2lLT1RvZE9BQWNrTHVIZUtCOS1KUDFqVlhsdHJEVXlYNzdoZ2N3aWNzZlMtN3NTcTlpTEdHdkNTQVl2UDRiQTBIOFFycWl1UkhPNmNsYklscC1YczYzdmhVM0YwOGFXUi14X1BOaURwUl9NQzA0aWszc09ET0VWbXA0dkp3dnI4dzFOMnB3WEhXemxia052cHoweEtHczUwM0NpcERob1dza2x3NjlDcThYdGtYem"
+      "published": "Fri, 08 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQLW9RdGRaVW9uQXdqV0dOQ21MSTRUbl9pSm9MMG1WZmwxbDl3dklFVWZBSnBOc0h5VzZhNGtjMDRhOG5WMk9TNXRrSDFKTjF2TkhMQVpUM0s5cHVfX2kwLXRlUHhjYzBQREZ0dHVmNkhIbzJ2MzJtZnpTUDV6R1ByOFhzenZhWmlKYkVFckVnVHBodXRTd2RyRGdFSXRBYk1CWlZac2x1QlEwdi1BZW9EUWp6Szg3Z3FIUi"
     }
   ],
   "count": 14
