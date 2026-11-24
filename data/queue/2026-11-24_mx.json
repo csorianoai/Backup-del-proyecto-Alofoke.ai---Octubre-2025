@@ -3,6 +3,14 @@
   "country": "mx",
   "articles": [
     {
+      "title": "Microsoft activa el “Código Rojo” tras la histórica caída de Outlook y Teams",
+      "url": "https://expansion.mx/tecnologia/2026/11/24/microsoft-codigo-rojo-caida-outlook-teams",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Tue, 24 Nov 2026 19:46:13 GMT",
+      "summary": "La tecnológica busca reducir a una hora el tiempo de recuperación de sus servicios tras una falla mundial que expuso deficiencias técnicas y de coordinación interna."
+    },
+    {
       "title": "El fenómeno de los sitios dopamina llega a México: compras sin gastar un solo peso y sin recibir nunca el envío",
       "url": "https://expansion.mx/tecnologia/2026/11/24/el-fenomeno-de-los-sitios-dopamina-llega-a-mexico",
       "source": "Expansión Tecnología",
@@ -35,36 +43,52 @@
       "summary": "La salida del empresario provocó incertidumbre entre los inversionistas y llevó a Nvidia a enfrentar cuestionamientos sobre su liderazgo en plena expansión del negocio de inteligencia artificial."
     },
     {
-      "title": "Un paciente llegó herido de bala y el hospital no tenía sistema: los ciberataques ya no infectan solo tu computadora",
-      "url": "https://expansion.mx/tecnologia/2026/11/23/ciberataques-hospitales-hackers-ransomware-pacientes",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Nov 2026 11:55:49 GMT",
-      "summary": "Mientras más conectados están los servicios esenciales, los ataques a hospitales, redes eléctricas y sistemas de agua muestran cómo una amenaza digital puede afectar servicios indispensables."
-    },
-    {
-      "title": "HONOR presenta en México sus robots humanoides con inteligencia artificial - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdE41VmFKNExWZ05QQmtFMHU2NnZ0cGlXRER3ckpVdU5EUGszMkd6OEc1MmcweWE5eVdoUExIeGdnZGpzalk0ZnlFdFg3RkMwdDdxVmNrbGRRUkdhZFkzSHVEMy1SOUxqNVdNU2J5RGJaOFZvYlNRQlN2dl9Jd1VZZ0RiM21kNjJlX1JaSmtJUjZHdjg2ZnJueDZjc2o4dVc4VzlkX2gwOVROVzJ5TEVUR29ENWx4YldFVnp1SUh6eThqN29l0gHfAUFVX3lxTE5RX2NJeFNBRVp3MVQ0SU16alpjQ3d5amhZMkZGLXRwNkZyLXdXTnhsSHBVcUNIZzlZS2FxNVYyOWExanRVcXZCUlVTTXVoSWd3U0xHNnNWMWFHb1Q4Wkwybkk4RHlsZHZDNGtreTZ3c2E5cFNLWnZrYVdybVBncVNSMmZ6bUs2UktRYWh3ZWZfNi1xSVNFNURUVUJTdk9sRkdINUd1YVFyNFZVUDVza2pxUUFaNmhPeVNFQ0Q1TUdBNlZOZ3VtV2tNbXJ1RlVRVTFiNEQ3M0llUmg3ZEJFaVE?oc=5",
+      "title": "Expertos recomiendan a países desarrollar capacidades propias de inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV3EzTDFqWUVEdGFjYlFFMzlXWEVEZzZzOEluZ1NrU2V6VkN6TE1aR09LeUkyWUFuOG1YYV9Damh6NWt5R3NlVlpRdkl5Q1VhMExnM3VOTTFQNTYxYTdxanI0RDhhZk1tZThreU1hY2ROLW9lMnZnaGtUOGdxWkUyN3lpNGJNNGV3MDNycEFqMlhnNGZiYkM4dXN2OHk2dFhuZldFcDd0ZDR2dG5DaGZLMjZtSUlkd29JdW9RLVg1ZDRObDV3c2oxNTJJdmlsWTRIMkdoRXY4VDFmbjhNTkh6N9IB5gFBVV95cUxONFV1Z1Jjc3pkS1ZpXy1FMXNOdzVnbFA0cktWWGRONklSSDBfcGg4MHFtUHhOS3dIUS0wX3VqQVFDWFM2N1o4cHBDWE1FRTZ4cGZkZXdid3I2ZVF6N1JMc19oOWVlWlJRUkRkcWlRSG5UaVplV3hQMVFON2owVHctcFlVZ2NKQmNub09TaFJSOUZPd3lRNV8wbDZKTFlfR3drQVJ4aGdGbnNhQ3ltUmVtWUc5bFpuZnJBZXJJRUM4dWo1cnR5bzZvN0FMLUd2SkdXdGFGaWxWVWVLTXluR0MzZENJMHNvUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 23 Nov 2026 23:21:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdE41VmFKNExWZ05QQmtFMHU2NnZ0cGlXRER3ckpVdU5EUGszMkd6OEc1MmcweWE5eVdoUExIeGdnZGpzalk0ZnlFdFg3RkMwdDdxVmNrbGRRUkdhZFkzSHVEMy1SOUxqNVdNU2J5RGJaOFZvYlNRQlN2dl9Jd1VZZ0RiM21kNjJlX1JaSmtJUjZHdjg2ZnJueDZjc2o4dVc4VzlkX2gwOVROVzJ5TEVUR29ENWx4YldFVn"
+      "published": "Tue, 24 Nov 2026 18:18:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV3EzTDFqWUVEdGFjYlFFMzlXWEVEZzZzOEluZ1NrU2V6VkN6TE1aR09LeUkyWUFuOG1YYV9Damh6NWt5R3NlVlpRdkl5Q1VhMExnM3VOTTFQNTYxYTdxanI0RDhhZk1tZThreU1hY2ROLW9lMnZnaGtUOGdxWkUyN3lpNGJNNGV3MDNycEFqMlhnNGZiYkM4dXN2OHk2dFhuZldFcDd0ZDR2dG5DaGZLMjZtSUlkd29JdW"
     },
     {
-      "title": "México y China acuerdan impulsar un hospital inteligente y ampliar la formación de médicos - CONSULTORSALUD",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrN3ZQN3p0azVtNFNySWFndXZmYTRuU2ttLTFwNy1iTW81YWtaMGxhd1YyVFFZQ0VhbXgtby1LcjZFdlYwV1Zna2ZTRGJvMmVITV9TeGJlRnJEWUNVZThJSDZKVnVDQkhKRXpvNEVvQ0Q5M1hXOUVjMg?oc=5",
+      "title": "México y Estados Unidos: por qué la inteligencia artificial y la tecnología marcarán el futuro de la relación bilateral - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MGpvYzZyZ1pGdGZvaHRYYlpLaGpOMTlGTVJsZlllMjZaUDNRWEJmNkZ1c1p5N0x5d2ozYnFQRDB2SW_SAY4CQVVfeXFMT3I1UE1KRXVhQXI5R1lGdHliRFhiLXdkVnU1MXZrUl9McDNaOHl5bW5YT0FGV1ZsNXVMYTBCa3VpZjQxVURKc0VHSXdXOFRjVWptNXRtLVZ2NjdFcDIyN3ZMWENrZk5XSmhyeVpHTGt0Qld5N0N5S0lBU0NZaWJBd2o3MUVEUE9MRGd5SXM4bXhMRkFCYUF2NlRSaXhLU0picWZzMXZYMVJpakpQWjdvcUxKNkVSbFlNM3lOR25KVk1kbXkxeS04aHBQNXZpbUU0QWp2TzY4Rjl4YWFhai1hSHdlNHFfelpGNWRXaWZCQVpNbllsYUhINDVPcWozejJ2aUFjaks0UXl6b1VUcEdR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Nov 2026 16:14:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBrN3ZQN3p0azVtNFNySWFndXZmYTRuU2ttLTFwNy1iTW81YWtaMGxhd1YyVFFZQ0VhbXgtby1LcjZFdlYwV1Zna2ZTRGJvMmVITV9TeGJlRnJEWUNVZThJSDZKVnVDQkhKRXpvNEVvQ0Q5M1hXOUVjMg?oc=5\" target=\"_blank\">México y China acuerdan impulsar un hospital inteligente y amplia"
+      "published": "Sun, 22 Nov 2026 18:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MG"
     },
     {
-      "title": "Gobierno inteligente en México: retos legales de la IA - UNIR México",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTQ1RXpZODlQV1MwWUpRVkNTUHp6V1N1WVNjNGE2akp4azNpNHhpeUtwZHk4dFA3c3NPXzljaVFKT1BhMF9fcTdQeGE2OEo4a2xydDgyUWduVEJmVHdJNGtoRTRIS0cwOVhoT2ljeDg3NUE1aEtnZndDc2FaNS1ibndoVk5tZw?oc=5",
+      "title": "ZTE A77 llega a México con herramientas de IA - Mobile Time Latinoamérica",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mLVBOUGsySk4wc3hmd1FMZzAyTUZfYmhULWYtMDRhOFdLQmxVZUN0WkgxRFJmbzA2M3RKdmc4V3JHR0g1TWQxOHhaSXhoaDdBWlFUVHdLbmpTODlrVWR0allZUkcxalEwYUlxdEhIalEwWlRXaVdPVHRrd0stZw?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 20 Nov 2026 11:17:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRTQ1RXpZODlQV1MwWUpRVkNTUHp6V1N1WVNjNGE2akp4azNpNHhpeUtwZHk4dFA3c3NPXzljaVFKT1BhMF9fcTdQeGE2OEo4a2xydDgyUWduVEJmVHdJNGtoRTRIS0cwOVhoT2ljeDg3NUE1aEtnZndDc2FaNS1ibndoVk5tZw?oc=5\" target=\"_blank\">Gobierno inteligente en México: retos legales"
+      "published": "Tue, 24 Nov 2026 18:20:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5mLVBOUGsySk4wc3hmd1FMZzAyTUZfYmhULWYtMDRhOFdLQmxVZUN0WkgxRFJmbzA2M3RKdmc4V3JHR0g1TWQxOHhaSXhoaDdBWlFUVHdLbmpTODlrVWR0allZUkcxalEwYUlxdEhIalEwWlRXaVdPVHRrd0stZw?oc=5\" target=\"_blank\">ZTE A77 llega a México con herramientas de IA</a>&nbsp;&n"
+    },
+    {
+      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
+    },
+    {
+      "title": "55% de nuevas startups LatAm son IA; CDMX, 2º hub - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
+    },
+    {
+      "title": "La startup Primero, cofundada por un colombiano, levanta US$12 millones para expandir IA en grandes empresas - Valora Analitik",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3BqdmZtU2ZxOHBsWnVGczdFQ1EySzk0bXVtaFNrZXhNbEE0TURBd0FVMFU1ZGQtVW5DTEJLZ3VadjN1X3pEcjk4LVM1X05RMFYtdw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tOVJTUDBkdGhZWVQ5am9lTjE5cE11VHU5UTQwZDJmV2tkOUI2dE1FWWtlQ09RZHpIUDdkbnowTzBubjNnU1k5Qk9qZkdxODBIS2tFSTZNTXk3MUlfQ2VocFJyeVhra2ZmemR1RmkwejJQbVFTSVNQX0ZKUTNLUdIBgwFBVV95cUxQaEI5UzViLWJLZDBxV2VobDlEUWN3MEhZN0VWTkpUd2E5Y1RYV3BQMEdIUU9CdGVIa3"
     },
     {
       "title": "Monterrey reúne líderes tecnológicos en foro “MTY Tech Forum 2026” para analizar el futuro de la IA - sdpnoticias",
@@ -83,36 +107,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUc1cDFzRXZhZFVoN1k2RzFnQmk5QTVCcEtmZ19EODBWd1FFdFZ0NUhzRlgtMWd6TmdVRE96aXJuam9Mb3pzeGkxSVhRQl95a0owT0ptQ1htZWpkQklfbzEtVUpwRXRzbUVYWmJWR1lLZ0V5Zld1VlRmeVM3dDhTOTZIS1VGa2RITUZBdDg1SF9WU3RQYWwwSWdpRWhNWW5XeXgyT3hYcTVKVzlCUE1uUHMzWQ?oc=5\" t"
     },
     {
-      "title": "Reúne Monterrey a líderes tecnológicos en foro “MTY Tech Forum 2026” para analizar el futuro de la IA - Gobierno de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGFzRmFFMHJUTlU2WDNLNGRIVU8yUXk3eE1ERFNqWHlFV1FfQUsxWmgyRVF3UXdLYUdXUm1jTURELUNGRUVwQTJVdHNLaEJSY2ZVTEV3bWo0RGJMSWYyOVdoVFpwTnJ3MDhJVUJVYWRTWGpKWFd0SjgwbkExMDRkSGRqdjVtMmwtWGd2bmpUZVM3YkYwaXZDNUl5eXotZjdHcTNRMU9Ga2Vlb0s0VnpQd1AxMHlDSkc1UkY0bldFb1VONXd3WkM0aXlGMTBXLV8yYTdiWDBLZTByYWYwRkhSaFo5OXNmVDVN?oc=5",
+      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Nov 2026 00:28:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGFzRmFFMHJUTlU2WDNLNGRIVU8yUXk3eE1ERFNqWHlFV1FfQUsxWmgyRVF3UXdLYUdXUm1jTURELUNGRUVwQTJVdHNLaEJSY2ZVTEV3bWo0RGJMSWYyOVdoVFpwTnJ3MDhJVUJVYWRTWGpKWFd0SjgwbkExMDRkSGRqdjVtMmwtWGd2bmpUZVM3YkYwaXZDNUl5eXotZjdHcTNRMU9Ga2Vlb0s0VnpQd1AxMHlDSkc1Uk"
-    },
-    {
-      "title": "BBVA México regalará licencias de ChatGPT Go a sus 34 millones de clientes - BBVA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdk5nV3pGcVgzVlNDQmRJODJBTm9NSzFSWXRIYzdrcFdsTE92SlJwQTNxTHB5dUFxRmhKQlRGX3ZraERDMllVS3ltbmwxaXVmcXNCTnB2a2phUlJHcE9nWEZnREN1bnl1YTdpQzN5X1JEUVJSRkwzQzVPbGthcWtxcGFVVHl4RmxnMy1KWGlCUWhyS3NEUjBVZlBDbHJraVpOendzNDVXYlBrTnhzQ2Z6eEVJUQ?oc=5\" t"
-    },
-    {
-      "title": "Poniendo a prueba anuncios en ChatGPT - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTelhZci05LUFCZE55TDVHcy1tQ2M2TTJBY196dDZYWHpkQ2NSR25iUEFKdzdSaGFpWXc4cHRkbko5N2c3OGQtSG1UaTNhVlVKNUxVbzhSUHdCVlpIT3BFMlRkWDY?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 10 Feb 2026 02:22:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTelhZci05LUFCZE55TDVHcy1tQ2M2TTJBY196dDZYWHpkQ2NSR25iUEFKdzdSaGFpWXc4cHRkbko5N2c3OGQtSG1UaTNhVlVKNUxVbzhSUHdCVlpIT3BFMlRkWDY?oc=5\" target=\"_blank\">Poniendo a prueba anuncios en ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>"
-    },
-    {
-      "title": "ChatGPT ya tendrá anuncios en México: OpenAI confirma expansión de su piloto publicitario - ITSitio",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUJZZHh5X1NkRE9XZTl6TnZLaWI0R2FMU0F0TnEzdmx6MXBlUDRzQ1lkai1LUzFhZlA3aHdEeWp1UHB2Z0xib2lTVThsU2pHbGh5ZEl1M2dGVmF6WW9QUEdsb2FPS3YzZDlvdXpJaXViN05ET1NIV3BQQWFjQlVjRzFzdHB6UnRGRkdiSWxwZ3UteEM1RmRVSWY1WVprc3MxOEExUzM0VmVfOVB0eGQxVFlHVVpFVGRJeUllWkl1YlBhRE1DdUkyVnFFcnpFeERWVVh1ZHpoTQ?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRUJZZHh5X1NkRE9XZTl6TnZLaWI0R2FMU0F0TnEzdmx6MXBlUDRzQ1lkai1LUzFhZlA3aHdEeWp1UHB2Z0xib2lTVThsU2pHbGh5ZEl1M2dGVmF6WW9QUEdsb2FPS3YzZDlvdXpJaXViN05ET1NIV3BQQWFjQlVjRzFzdHB6UnRGRkdiSWxwZ3UteEM1RmRVSWY1WVprc3MxOEExUzM0VmVfOVB0eGQxVFlHVVpFVGRJeU"
+      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
     }
   ],
   "count": 14
