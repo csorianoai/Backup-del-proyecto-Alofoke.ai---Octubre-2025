@@ -3,6 +3,22 @@
   "country": "mx",
   "articles": [
     {
+      "title": "¿Instagram te espía? Su líder explica cómo personaliza los anuncios dentro de la plataforma",
+      "url": "https://expansion.mx/tecnologia/2026/11/25/instagram-escucha-lo-que-dices",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 25 Nov 2026 18:00:13 GMT",
+      "summary": "Adam Mosseri niega que la red social utilice el micrófono de los teléfonos para escuchar conversaciones, pero reconoce que los intereses de tus amigos influyen en la publicidad que recibes."
+    },
+    {
+      "title": "Así funcionan los torneos de ciberdelincuentes por reputación, dinero y clientes en el mercado negro",
+      "url": "https://expansion.mx/tecnologia/2026/11/25/torneos-hackers-negocio-cibercrimen-ataques-ddos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Wed, 25 Nov 2026 11:55:14 GMT",
+      "summary": "Los ciberdelincuentes organizan campeonatos para demostrar sus capacidades y atraer clientes, mientras la industria de la ciberseguridad ofrece recompensas millonarias por el talento de los hackers."
+    },
+    {
       "title": "Microsoft activa el “Código Rojo” tras la histórica caída de Outlook y Teams",
       "url": "https://expansion.mx/tecnologia/2026/11/24/microsoft-codigo-rojo-caida-outlook-teams",
       "source": "Expansión Tecnología",
@@ -27,44 +43,28 @@
       "summary": "Alexandr Wang advierte sobre los riesgos de ceder el control de la sociedad a la IA, una preocupación que comparten otros directivos e investigadores de la industria tecnológica."
     },
     {
-      "title": "De los chips para China a su regreso a Nvidia: así se fortaleció la relación entre Jensen Huang y Trump",
-      "url": "https://expansion.mx/tecnologia/2026/11/23/relacion-donald-trump-jensen-huang-nvidia-china",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Nov 2026 17:30:14 GMT",
-      "summary": "El fundador de Nvidia construyó una relación cercana con el presidente de Estados Unidos mientras buscaba ampliar sus ventas de chips en China. Ahora, Trump asegura que intervino para facilitar su regreso a la compañía."
-    },
-    {
-      "title": "Nvidia restituye a Jensen Huang tras el escándalo de espionaje e infidelidad y sus acciones suben más de 30%",
-      "url": "https://expansion.mx/tecnologia/2026/11/23/estituye-jensen-huang-acciones-suben",
-      "source": "Expansión Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Nov 2026 14:57:16 GMT",
-      "summary": "La salida del empresario provocó incertidumbre entre los inversionistas y llevó a Nvidia a enfrentar cuestionamientos sobre su liderazgo en plena expansión del negocio de inteligencia artificial."
-    },
-    {
-      "title": "Iniciativa de Morena regula el uso de IA en escuelas de la Ciudad de México - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDV2TVdjQmZtUWhCMXo1dk1yNFVKZXB5R1VXTktWMVhFWHppS0k4SmxFeXNZN3BmcE95VFktSll0b3c3aXdEbXVYb1pOaGRxZ0ZCM181amh3Y3hmMXIxTjFMY0JDbDAyY1JGNC1JQzBBbEo1eXJMbGZoZEUxanc0U0ktUWtGNmtQVlBPVjNIQ1M3NlVCZURDOTVxY0FtWm9qWWh0YXFKX1NDNEtSRVdjQWJFN3BUU3pDR3fSAdQBQVVfeXFMTUpCTUdIMmplQ19lU181RjJnZW1mZFBJVTdVUTRoRjBudURJb2EzREp5andZTFFZZ1N2djdaLVJMSlhfeFhnUC1lYTlBR2lvdzZqb2VsMVUtSVgwdERHMFpaVGp6WUJKek5reUlLdElPYVFYbFQ1a3UyRk5ydXBEOTB1ZE9ZbFpod2JURHFGeUd3ZzgwSDByLTFtWG5DUnRrdXhndnpFa2dJazFLUTRMY0w4SzVWYXJkUDVPdV9lS09waWVjc3BpUVVQOFJITnJkSVNOMno?oc=5",
+      "title": "México y Estados Unidos: por qué la inteligencia artificial y la tecnología marcarán el futuro de la relación bilateral - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MGpvYzZyZ1pGdGZvaHRYYlpLaGpOMTlGTVJsZlllMjZaUDNRWEJmNkZ1c1p5N0x5d2ozYnFQRDB2SW_SAY4CQVVfeXFMT3I1UE1KRXVhQXI5R1lGdHliRFhiLXdkVnU1MXZrUl9McDNaOHl5bW5YT0FGV1ZsNXVMYTBCa3VpZjQxVURKc0VHSXdXOFRjVWptNXRtLVZ2NjdFcDIyN3ZMWENrZk5XSmhyeVpHTGt0Qld5N0N5S0lBU0NZaWJBd2o3MUVEUE9MRGd5SXM4bXhMRkFCYUF2NlRSaXhLU0picWZzMXZYMVJpakpQWjdvcUxKNkVSbFlNM3lOR25KVk1kbXkxeS04aHBQNXZpbUU0QWp2TzY4Rjl4YWFhai1hSHdlNHFfelpGNWRXaWZCQVpNbllsYUhINDVPcWozejJ2aUFjaks0UXl6b1VUcEdR?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 24 Nov 2026 22:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDV2TVdjQmZtUWhCMXo1dk1yNFVKZXB5R1VXTktWMVhFWHppS0k4SmxFeXNZN3BmcE95VFktSll0b3c3aXdEbXVYb1pOaGRxZ0ZCM181amh3Y3hmMXIxTjFMY0JDbDAyY1JGNC1JQzBBbEo1eXJMbGZoZEUxanc0U0ktUWtGNmtQVlBPVjNIQ1M3NlVCZURDOTVxY0FtWm9qWWh0YXFKX1NDNEtSRVdjQWJFN3BUU3pDR3"
+      "published": "Sun, 22 Nov 2026 18:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MG"
     },
     {
-      "title": "Urge someter a escrutinio riguroso la inteligencia artificial: Lomelí Vanegas - Gaceta UNAM",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjl2eGdRcm9FblRFOG8zYU0tWGMzUTdRLVhnU19mV21nRjk4ODhua3JCakNFaDlkV2VuWUIzUGVlYWJYMm04MGc0cHFfZ3p0ZURvZDMyRjJNNlpPc29HSGR5ZjNycFNlbEMtUWxyRkhIeFpudGFfLWVINThwSDBhTjhEVkVwMjhZRjJtcGJ0XzJqMm9QbzI0UUhVOGs0Z3lVazdmVnBCYw?oc=5",
+      "title": "La inteligencia artificial transforma la gestión del agua en México - El Universal",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUtkOU5TclMtb2JpSEFCLVJHaXo4VGVaUzdlS2RONzF4TjZRaUQxMktqZFdibW5CdERwVUxvaHdPc3pJczN1ZGo3V2RTWU43QVlVdTRHeVUtd0dKVEdCVkNrdkdjZklLZnQ1c3R2TEdUODBOTEE3aWRDUGRsbjd4RHZSakFBOFlNYVU4SUR2T0NtTy13T19nT0I2VldxdDdrTVFueUU2b9IBuwFBVV95cUxOeEhqSmNuUlUxaGp4SmhlaDdfTk9vcHM4NUlEZm5yRU0zSml4c2RucWpqRm1TblIzMzZ4QzJBNVlXQTl1aTd3ajZmZlc1aHJfMUNxSWRORUVJWVJpeXlId05NSWVnQ1JTdjdWaG5GSmpCTXV3MThPbVpocUx2V09MSWRyQzhxQVM5aDNuNlZCUHZGVGFGWTNuOEkwcVRIc3JHeEYzQXpGTGRUVkpsSnRya3lIUXE5VksxR3N3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 25 Nov 2026 00:01:07 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjl2eGdRcm9FblRFOG8zYU0tWGMzUTdRLVhnU19mV21nRjk4ODhua3JCakNFaDlkV2VuWUIzUGVlYWJYMm04MGc0cHFfZ3p0ZURvZDMyRjJNNlpPc29HSGR5ZjNycFNlbEMtUWxyRkhIeFpudGFfLWVINThwSDBhTjhEVkVwMjhZRjJtcGJ0XzJqMm9QbzI0UUhVOGs0Z3lVazdmVnBCYw?oc=5\" target=\"_blank\">U"
+      "published": "Wed, 25 Nov 2026 17:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUtkOU5TclMtb2JpSEFCLVJHaXo4VGVaUzdlS2RONzF4TjZRaUQxMktqZFdibW5CdERwVUxvaHdPc3pJczN1ZGo3V2RTWU43QVlVdTRHeVUtd0dKVEdCVkNrdkdjZklLZnQ1c3R2TEdUODBOTEE3aWRDUGRsbjd4RHZSakFBOFlNYVU4SUR2T0NtTy13T19nT0I2VldxdDdrTVFueUU2b9IBuwFBVV95cUxOeEhqSmNuUl"
     },
     {
-      "title": "Inteligencia artificial para cuidar y enseñar - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1FYYjhRUlhqUllyXzllVDhJRGJMbkpKYUVDc3pzZDJPN3JQLXB0MWNNWGxheVhVTTh2ajNFU2xiQmRxbnlwdzBkZnpNQXk2dUlsd2ZkVjhhUURfRGpGOFVsbGszZHdObVg4TU1qT3pzaUFTLW9yUWdKcm84clJTTTdBVVhpWW1Ja2t0T0d4ams3WWVGUnlpRUQwZC0?oc=5",
+      "title": "Mexicanos abren sus compras a la inteligencia artificial - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnBJTk53SFJSanRPdFNRT1NoVndtVndEalBiOGpmSjJOTENLd0pqOHpBZ2dxZnBEWlhnNXpmWEJZOHdFM0FGWWpVS2VVRmRyRGZPYm1RZnZid3ZhenRWdHNUcFpPcVkwdF9ESmp2TjJyNG03R3o3eDBwUW93TzhmeXB4MWdBdDJkQ2VfM0pSaXc5Uzl5emlIMzMza0Z1R3liZzRsQzJianF4SFNfc05scThJYXdrWlZf0gG-AUFVX3lxTE5tSzdpUTVaTF9Hd1V3OHZOYjhZTUxaVFpiWDNzazhYSERSVWVTS2RRdFMzQlRZRGlGRk91NkFSdXAxVmExb05yaDg4MXBoNXdFTHkyZ2pWOE1oWjN3bDV1a2kyNTl5VTM2TXQyVUtubTJUQ3NlOTA1Y2pGcUZXOWNlM1hqdzNwVW9FN0cwOXctbUM3Q3JmVFZIX3Q1XzdPWjhFLVlmcVZOd0tvckN3NXdlcERsYWZSc1hXM1Z2a0E?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Wed, 25 Nov 2026 11:10:12 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNM1FYYjhRUlhqUllyXzllVDhJRGJMbkpKYUVDc3pzZDJPN3JQLXB0MWNNWGxheVhVTTh2ajNFU2xiQmRxbnlwdzBkZnpNQXk2dUlsd2ZkVjhhUURfRGpGOFVsbGszZHdObVg4TU1qT3pzaUFTLW9yUWdKcm84clJTTTdBVVhpWW1Ja2t0T0d4ams3WWVGUnlpRUQwZC0?oc=5\" target=\"_blank\">Inteligencia art"
+      "published": "Wed, 25 Nov 2026 05:17:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZnBJTk53SFJSanRPdFNRT1NoVndtVndEalBiOGpmSjJOTENLd0pqOHpBZ2dxZnBEWlhnNXpmWEJZOHdFM0FGWWpVS2VVRmRyRGZPYm1RZnZid3ZhenRWdHNUcFpPcVkwdF9ESmp2TjJyNG03R3o3eDBwUW93TzhmeXB4MWdBdDJkQ2VfM0pSaXc5Uzl5emlIMzMza0Z1R3liZzRsQzJianF4SFNfc05scThJYXdrWlZf0g"
     },
     {
       "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
@@ -83,36 +83,36 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNXEtbkcwM3pPdVd5TEVuaFptOXRzTGF2a0pzZ0pnUV8xenowRzgtUU9PaE5KalVxOXQ1bTA3TFJEV2h5cWtLalVNcHdrdTN5Q3BaQTN4N2hTSFFDV0Uxdi1FM0x5T2Eyc3B4S292WGtHRzJDdUJsd1ZCc1NtUWJuMVJyQQ?oc=5\" target=\"_blank\">55% de nuevas startups LatAm son IA; CDMX, 2º hub"
     },
     {
-      "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
+      "title": "De detectar la ceguera por IA a revolucionar el retail: 3 startups lideradas por mexicanas que ganaron 100 mil dólares - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ281UmxpdWNFZmtNdy1LamtIY0hGNDJjR0JGRWE5Q3dRUjZ3WDlaZzF4NjNPM2JZT0M2VTMwUUNyb09Nc2J1ZmJxeEjSAZcCQVVfeXFMTWZwTDhmcndfalMxYXk3SlF0ZGhPbmtFWXhQblhOLThjWVowREQtaUJVMjBxMjlkZTN0aUFGeEprcmJBSzJkZ0NxUGt0bnBmOS1PVFU1UkplbUZIRGFpdTdyTERYalQ1X05SRHVMLVRGazRxODg2Z1M2c2RTYncyNG5CQllOSXA5UzdKcldHRnNIM0pmSFdVMkk3am9BVE04cUc2cFJrSGNEY2ZLODRFMEpzNVI0bk9tNVhvQVNDYUdZZC1oaUFvTDR2a2ppV1pVeFlLLVJRd2owWFloQVFpa0NvSi0wVU1GTzFHWXUxNTIzQ2RHLXpuMnE0S1gydFdLcWt3cjU5dW5fY1NIcVdRb2Vkd0xsMVd3?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
+      "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYzhTdGltSUNIMmxLX09NX3Z4Z0NwSDNLWWtrVnE2VHBhQ1U0UGFNSGZheFpGYXRvaXlLSkN3bW9WWjYtUW9Ea0hLbGxEOElkTkFmRWtsZkhOVFdjcXU1SWgxaVhUcm5oVkpMQUNtT0YtSmliX2dTYXh2empsdjZFV0lwSnNZZFRKLURrVFh0S0FmdHFpd1BZby0xWmg5V0hVZ3E0ZnJjVUhQeFZ2TFNCb004OVB6dzdUZ2"
     },
     {
-      "title": "Empresas analizan inteligencia artificial industrial en Monterrey - El Horizonte",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUc1cDFzRXZhZFVoN1k2RzFnQmk5QTVCcEtmZ19EODBWd1FFdFZ0NUhzRlgtMWd6TmdVRE96aXJuam9Mb3pzeGkxSVhRQl95a0owT0ptQ1htZWpkQklfbzEtVUpwRXRzbUVYWmJWR1lLZ0V5Zld1VlRmeVM3dDhTOTZIS1VGa2RITUZBdDg1SF9WU3RQYWwwSWdpRWhNWW5XeXgyT3hYcTVKVzlCUE1uUHMzWQ?oc=5",
+      "title": "EXATEC impulsa proyectos de IA para resolver retos globales - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWWc?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Mon, 16 Nov 2026 23:21:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUc1cDFzRXZhZFVoN1k2RzFnQmk5QTVCcEtmZ19EODBWd1FFdFZ0NUhzRlgtMWd6TmdVRE96aXJuam9Mb3pzeGkxSVhRQl95a0owT0ptQ1htZWpkQklfbzEtVUpwRXRzbUVYWmJWR1lLZ0V5Zld1VlRmeVM3dDhTOTZIS1VGa2RITUZBdDg1SF9WU3RQYWwwSWdpRWhNWW5XeXgyT3hYcTVKVzlCUE1uUHMzWQ?oc=5\" t"
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWW"
     },
     {
-      "title": "Nuevas herramientas de IA generativa que pueden acelerar tu investigación - TecScience",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5",
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYlhGclZuaU1rNWZKZGpVRmEwcmF3ZTczVWVFNUlQdDlfam1qdDB2eGVPSG90NUluaDMtcjJGSFJrS0pUOHppYm9pc2RzaUh0OUUtNjVfeW9vZ2ZFTkZsY1pKRUIzR2hrbVowclo0X0wtR09jVDlSNHdBajd0azdtbm03QUV1V2VTcV9ldUJYSUJoYVk?oc=5\" target=\"_blank\">Nuevas herramientas de IA ge"
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
     },
     {
-      "title": "Reúne Monterrey a líderes tecnológicos en foro “MTY Tech Forum 2026” para analizar el futuro de la IA - Gobierno de Monterrey",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGFzRmFFMHJUTlU2WDNLNGRIVU8yUXk3eE1ERFNqWHlFV1FfQUsxWmgyRVF3UXdLYUdXUm1jTURELUNGRUVwQTJVdHNLaEJSY2ZVTEV3bWo0RGJMSWYyOVdoVFpwTnJ3MDhJVUJVYWRTWGpKWFd0SjgwbkExMDRkSGRqdjVtMmwtWGd2bmpUZVM3YkYwaXZDNUl5eXotZjdHcTNRMU9Ga2Vlb0s0VnpQd1AxMHlDSkc1UkY0bldFb1VONXd3WkM0aXlGMTBXLV8yYTdiWDBLZTByYWYwRkhSaFo5OXNmVDVN?oc=5",
+      "title": "Dan a conocer implementaciones de IA en el Grupo Educativo - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSGNHTVY4Q0paUQ?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Tue, 17 Nov 2026 00:28:52 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSGFzRmFFMHJUTlU2WDNLNGRIVU8yUXk3eE1ERFNqWHlFV1FfQUsxWmgyRVF3UXdLYUdXUm1jTURELUNGRUVwQTJVdHNLaEJSY2ZVTEV3bWo0RGJMSWYyOVdoVFpwTnJ3MDhJVUJVYWRTWGpKWFd0SjgwbkExMDRkSGRqdjVtMmwtWGd2bmpUZVM3YkYwaXZDNUl5eXotZjdHcTNRMU9Ga2Vlb0s0VnpQd1AxMHlDSkc1Uk"
+      "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0NPNkpSYXpsSE96cXBjbms0V2RSWTlSeFhQenRlaURBVHdqb1NiT2w3RWVmSkljRzhtelptcjdEUjZDQ1p4QXVmWGJ3NTBadWhfSXF4Tm1ybVFkWWg5UG51MWxHLU1uRXdMaVpfalFKdkVlV0dIN3YteFZkc3hQME9mWE1kZ2F4LTM3NmdTY25pNTh5VF9saXp2TmtZcXRtRWlIU3FET0pJU1RrQmVkUjBEbDQ2djZTSG"
     }
   ],
   "count": 14
