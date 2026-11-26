@@ -3,6 +3,14 @@
   "country": "ar",
   "articles": [
     {
+      "title": "WhatsApp lanzó una de sus funciones más esperadas: cómo programar el envío de mensajes",
+      "url": "https://www.clarin.com/tecnologia/whatsapp-lanzo-funciones-esperadas-programar-envio-mensajes_0_7ahtGmVaJc.html",
+      "source": "Clarín Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Nov 2026 17:31:13 +0000",
+      "summary": "<ul><li>La nueva herramienta permite elegir fecha y hora de entrega con hasta 14 días de anticipación y funciona incluso cuando el celular está apagado. </li><li>La aplicación también suma stickers con audio y amplía las opciones para organizar eventos.</li></ul>"
+    },
+    {
       "title": "El mapa de la inteligencia artificial: el ranking de las 15 ciudades más avanzadas del mundo",
       "url": "https://www.clarin.com/tecnologia/mapa-inteligencia-artificial-ranking-15-ciudades-avanzadas-mundo_0_lKXnub3xvn.html",
       "source": "Clarín Tecnología",
@@ -35,20 +43,20 @@
       "summary": "<ul><li>Desde relojes con GPS hasta sensores de zapatillas y bandas cardíacas, los nuevos dispositivos permiten medir el esfuerzo, analizar la técnica y ajustar los entrenamientos. </li><li>Qué ofrece cada tecnología y cuánto cuesta en la Argentina.</li></ul>"
     },
     {
-      "title": "Monitores gamer: llegan nuevos modelos a la Argentina con tecnología OLED y precios para todos los bolsillos",
-      "url": "https://www.clarin.com/tecnologia/monitores-gamer-llegan-nuevos-modelos-argentina-tecnologia-oled-precios-bolsillos_0_GHl12JoJHe.html",
-      "source": "Clarín Tecnología",
-      "category": "tech",
-      "published": "Mon, 23 Nov 2026 16:48:00 +0000",
-      "summary": "<ul><li>Samsung presentó su nueva línea Odyssey, con opciones que van desde pantallas Full HD de 200 Hz hasta modelos 4K de alta gama. </li><li>Qué diferencias hay entre las tecnologías disponibles, cuánto cuestan y qué tener en cuenta antes de comprar.</li></ul>"
-    },
-    {
       "title": "IA en Argentina: ¿qué les falta a las empresas para dar el gran salto? - ITSitio",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHZ5MXdGMmp5NWFrRmVzNlVxTGZmSHoxMDVBcmdIOG8xZDctSUtNOEFCUV9DZTJYZml6WVgyT21oMkN0bUVzTjhQa3VhVHZKMWQ0U0RqTjBZdGxVTkJvblJmcklaNWNxclhJbHhWdnFvZUtwT3ozYkVQRTFBNjFrMlNoUC1RZG5rTEdha0RjX1oxcnV0WE84ZlpJUkxaN2NfYWRmN3RIMUIwS0E4aDEwQ3Y0NVpqamxsbnVF?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Thu, 26 Nov 2026 13:21:50 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHZ5MXdGMmp5NWFrRmVzNlVxTGZmSHoxMDVBcmdIOG8xZDctSUtNOEFCUV9DZTJYZml6WVgyT21oMkN0bUVzTjhQa3VhVHZKMWQ0U0RqTjBZdGxVTkJvblJmcklaNWNxclhJbHhWdnFvZUtwT3ozYkVQRTFBNjFrMlNoUC1RZG5rTEdha0RjX1oxcnV0WE84ZlpJUkxaN2NfYWRmN3RIMUIwS0E4aDEwQ3Y0NVpqamxsbn"
+    },
+    {
+      "title": "Mendoza Aumentada: Argentina tiene sus primeros 500 egresados secundarios en inteligencia artificial - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVW1QcjV3ZG1tTHhEQnFfbUZONllDT1VZZ3NDclE3TmViTW51cTRoekh1X2hrS3NsRlNUd0h3MEpqc29NLTVOWXlkaXZTZ0NfWWVPb1hWUlAwWXZIelNlMkZLcUxyTi1EcDVQZFBRQmhVaURfeTBfUVRCem9pWWx6c2pEdWhleXFSSTBISHJzdm85ZzdZeWVZbWdmaVhlYWlOc3dIT0NSbTZiRDVnWWZ5S05XLWlWMXNVT3FKSXk4eEN4eDBZQW82b1BvcW1udVRWdUJDWWZ6aHJKbDhpaFlNZ2930gHnAUFVX3lxTE0yVzNGaUR3Q0IwaUo5WHVBWE80X2pVV3BkRGRpaEpSdktWalFvOUMtZFZ1TkJSU1BOSm95bGZlOE5TQV9CUVkyWlQ1WnJhcV9vYnpxbUJCVjJNUm9rd09mbGlWdFhsX1pPbE5mRWtZdWphajVFaE43c1hQLTVmN2lKb0hDQ0x2SkdDa0NaQmdCMEpSZHdiRmF6b0lmZlJwenJPVGN2RENmYUpmQ2VkeWw4RzkweGlqR3N5V3NJWG1zTjVRaGtHWW5oTktlLU1KZHBBOFJMY0lldjREYTAyUTBlcVBoeENnQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 26 Nov 2026 18:07:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVW1QcjV3ZG1tTHhEQnFfbUZONllDT1VZZ3NDclE3TmViTW51cTRoekh1X2hrS3NsRlNUd0h3MEpqc29NLTVOWXlkaXZTZ0NfWWVPb1hWUlAwWXZIelNlMkZLcUxyTi1EcDVQZFBRQmhVaURfeTBfUVRCem9pWWx6c2pEdWhleXFSSTBISHJzdm85ZzdZeWVZbWdmaVhlYWlOc3dIT0NSbTZiRDVnWWZ5S05XLWlWMXNVT3"
     },
     {
       "title": "Delfi, la startup argentina de moda con IA, va a Washington - El Ecosistema Startup",
@@ -59,28 +67,12 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0lHaHZTeElnYUJwQk9aRzVNZHl5c3h2QWY5OGE5Z0NsdUJDeHV1bmFObGxuRGUzcTB1cVRGSG1ycVR0WDluRllfbGxLcXpqMUc3WDI2bTFDMml3YzZOeXVyS29pLWRHaGdOV3lnWDlxclQ0em9Xcmx0VXVmdWI4MTRMX0RDQjViNWh3WVlHRDE0eGxp?oc=5\" target=\"_blank\">Delfi, la startup argentina"
     },
     {
-      "title": "La inteligencia artificial cambia las reglas del turismo: cómo las empresas buscan conquistar al viajero del futuro - Forbes Argentina",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVNnUWF4bTNUVEZYRDRQcWdMVU9DX0U5N0tTejRaRnVsSlhKS1BrM1YzVHA2M0VrMkw2M3NzMnNuVi12cjhBNWVfdkNJakFhVDVtODdyNXR5WHByWHpPZWZkQl9VTE1GUEZHQXlubWZQTWU4NnpLamc2eldyTjUyWlFHb2lheEVLQUEtMmhNS0Jkc1FkSnFybHdhc0NiUk9nZ0VwMHkzV3lKeXFYTVVic2h1LUdvYmdtR2N6TW1hbm1hLWNVd0libFVjMnlOTUlDcVMxNFJqcDBaXzBXd05B0gHkAUFVX3lxTE9ockZvU3NrNjlDSnFWMXQ0OW9pMkdhNFFpbm8tLVgzaTZDcExaa1dRdF8weERDd1Y1Y0pValgyZzJ6ZkhGSXFDZXJ0LXJpS3lLQVloSnkzSThRcGItVzFndW9aQ196NUtrUEdWdHctSld2c0U3bGI0LTBQeFpNbnlvZDBLQWgyZTU1Y1Q3bDVpNklXdlVDV1Y4bHduY21TRXBVV2JsRjlZOGc1T1JFUXZuSVlWVENyU1BWTlBtcVlSVmlDNE1IelE4WWJVQVJwYlJVTUs0Z1B0NFZhNGxfVlFZZEJoTg?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Wed, 25 Nov 2026 13:18:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVNnUWF4bTNUVEZYRDRQcWdMVU9DX0U5N0tTejRaRnVsSlhKS1BrM1YzVHA2M0VrMkw2M3NzMnNuVi12cjhBNWVfdkNJakFhVDVtODdyNXR5WHByWHpPZWZkQl9VTE1GUEZHQXlubWZQTWU4NnpLamc2eldyTjUyWlFHb2lheEVLQUEtMmhNS0Jkc1FkSnFybHdhc0NiUk9nZ0VwMHkzV3lKeXFYTVVic2h1LUdvYmdtR2"
-    },
-    {
       "title": "Cinco estudiantes argentinos crean en 33 horas una solución con IA para mejorar la recogida de basura en la... - OkDiario",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRVB2SW1QdVQ1a0RGSDJadXpyaTVwX3JQa1RtUmRsaVZsVlFNRk9zdGY2Umc1d0dIZko1MVM0U0NOeWdTdDZXeTcyNlVDbVdGOWFFNHRSVGFPNDk5ZlZ3MU9meFZpWTA4djNoNHJkaDFFeFczUVpVWTB5OHJBSlMtM3kxWnFIQ2NVTTJpcjlXUTlxSE12RW5HVktUc2FuZ2doYS1yb3BVa2dxUUQ5MVBwd3RlMXd0Tm83VjJDeFpaUVBuUUtQdDc5enZGdzBUajBtdEdiWnVWSzBFQzE0bThaNldzZlFVNl9mQUtja1Y5RdIB9AFBVV95cUxPQXpHS3VRdzFURlBIZ2hWd1NnamZmTE1lWHJHa0VmeE5FQWR1MUVFc1FscXNuQ3dER2thTEFwaENKTXU1UDd1dmdtMGlseC1LMF96SW55RThnT0xGNndhN1lTbEJ1Ync5XzY1MzVpb3Z5QnJjN3cxbnVuWlNFekgwVWZUaFRzME1HU2tyUkZXWkJHYVVhUjlIMUc1OUY3Qm84QzNQUGFPT25qMjA2QmpEVzIzYTVLRjFOa3RteHBiY2w2UVp5UGZqVDBFM3pDeDN0cjJvVnN3M3p0YVpkUXcxYTI4T2hoYlJXZ05uZjBCN1BKY3FD?oc=5",
       "source": "Google News",
       "category": "news",
       "published": "Tue, 24 Nov 2026 16:00:45 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRVB2SW1QdVQ1a0RGSDJadXpyaTVwX3JQa1RtUmRsaVZsVlFNRk9zdGY2Umc1d0dIZko1MVM0U0NOeWdTdDZXeTcyNlVDbVdGOWFFNHRSVGFPNDk5ZlZ3MU9meFZpWTA4djNoNHJkaDFFeFczUVpVWTB5OHJBSlMtM3kxWnFIQ2NVTTJpcjlXUTlxSE12RW5HVktUc2FuZ2doYS1yb3BVa2dxUUQ5MVBwd3RlMXd0Tm83Vj"
-    },
-    {
-      "title": "Totvs impulsa su expansión regional con IA y nube segura - Infosertec",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmZwQ3NZbjJ4emFJU2tTb2FGZklPbnJLck40ZFNvLWdGQnZ0N3pQWjBDeGxvMzF2cGEtWXFrRjhxQmpFTVVKN1pFSEw0S2hlWFl6aTRhMDZvSlA5clBWU2NZcnZtWHhDbjZhUHFGV2hGZnI3X0ljRXczR2NPaHU4dVdXVWFpa0o4VEZHTzhsQi1OMTdoUE1HbENqVmdWeW8?oc=5",
-      "source": "Google News",
-      "category": "news",
-      "published": "Sat, 21 Nov 2026 01:07:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZmZwQ3NZbjJ4emFJU2tTb2FGZklPbnJLck40ZFNvLWdGQnZ0N3pQWjBDeGxvMzF2cGEtWXFrRjhxQmpFTVVKN1pFSEw0S2hlWFl6aTRhMDZvSlA5clBWU2NZcnZtWHhDbjZhUHFGV2hGZnI3X0ljRXczR2NPaHU4dVdXVWFpa0o4VEZHTzhsQi1OMTdoUE1HbENqVmdWeW8?oc=5\" target=\"_blank\">Totvs impuls"
     },
     {
       "title": "Una propuesta para la UBA: Vaca Muerta está entre Ciudad Universitaria y Plaza Houssay - Infobae",
@@ -91,11 +83,19 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTgxQ0hYZEgwY09LTGtVMWFXLXVKMkNYdEVnUDhNZTZFNlk2djVkbXh6RVJJbTUzdDMzWGhMcF9QbVFjUjBtSnNpSWdhTkZDQXZFa1UtUXNUc1dFOVVVazVTMm1sdkhIRFdIUXZsVnVhQkZEZEc1QzAtMnFhbGlHY3dHS1pYU3lUZXhub1NyOVUxNHFUWHJMMHNjczI1andUQ003SmJIOERfZmwwVW1GWjFOT0U5Q0NNdH"
     },
     {
+      "title": "Escuela de actuación de Buenos Aires va a la Justicia tras bloqueo de cuentas en Meta y WhatsApp Business - DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSEhUVUNJZ2llQWRncDgwWDBlNTNyUWhfXy1zWDl6WVpaS2JCY2I4TWNkN3Zmb3FiRXJRYUw4NlVtbEswVnRNdlRsNHhoOENBVThKSEJiaWJ0V2xOZjVsNkdoVXhzR0c3czBtMkc1OHFzaGtGM2F4VnFwUWliT1ZobjFXRTU4ZXdRUU9mUzdhTUY4Uk03WTVFaE9McG44SmpGelFROE1CUUJMeDBOWU43MHEyV2VRWks3aXVTM2FxNDVLcl96N19JMHdkeGRhMTJ1emFIWU9yZUxhU3VKbHc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 25 Nov 2026 17:49:07 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSEhUVUNJZ2llQWRncDgwWDBlNTNyUWhfXy1zWDl6WVpaS2JCY2I4TWNkN3Zmb3FiRXJRYUw4NlVtbEswVnRNdlRsNHhoOENBVThKSEJiaWJ0V2xOZjVsNkdoVXhzR0c3czBtMkc1OHFzaGtGM2F4VnFwUWliT1ZobjFXRTU4ZXdRUU9mUzdhTUY4Uk03WTVFaE9McG44SmpGelFROE1CUUJMeDBOWU43MHEyV2VRWks3aX"
+    },
+    {
       "title": "La startup argentina Delfi se presentará ante Trump - DossierNet",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JUHVDOWFRWm1vU0E5ZTRsVEs1SEZCaEJsblpaSVJpeFFLWFY3ODFTQUJvcVdCY2hLandtdHRKczdGeFl2RUpOYjFwamdWa08zMlRtLU9mUmh4NkxnekVXaXIzeUtOdHE4VmZBc2wyVkNyWUdTQnlr?oc=5",
       "source": "Google News",
       "category": "news",
-      "published": "Thu, 26 Nov 2026 13:00:31 GMT",
+      "published": "Thu, 26 Nov 2026 13:05:15 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5JUHVDOWFRWm1vU0E5ZTRsVEs1SEZCaEJsblpaSVJpeFFLWFY3ODFTQUJvcVdCY2hLandtdHRKczdGeFl2RUpOYjFwamdWa08zMlRtLU9mUmh4NkxnekVXaXIzeUtOdHE4VmZBc2wyVkNyWUdTQnlr?oc=5\" target=\"_blank\">La startup argentina Delfi se presentará ante Trump</a>&nbsp;&nbsp;"
     },
     {
