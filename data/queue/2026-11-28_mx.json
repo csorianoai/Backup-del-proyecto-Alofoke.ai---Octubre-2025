@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-28",
+  "country": "mx",
+  "articles": [
+    {
+      "title": "Hackers vulneran la nube militar de EU operada por Microsoft, Amazon, Google y Oracle",
+      "url": "https://expansion.mx/tecnologia/2026/11/27/hackers-ciberataque-cloud-one-fuerza-aerea-estados-unidos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 27 Nov 2026 16:38:54 GMT",
+      "summary": "El ataque afectó a Cloud One, una de las mayores plataformas de computación en la nube de la Fuerza Aérea estadounidense, que gestiona desde información del personal hasta sistemas de seguimiento de misiles."
+    },
+    {
+      "title": "Intentaron llevar GTA 6 a PC sin permiso, pero Rockstar ya bloqueó todos los esfuerzos",
+      "url": "https://expansion.mx/tecnologia/2026/11/27/gta-6-pc-rockstar-bloquea-proyecto-leonida",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 27 Nov 2026 15:03:14 GMT",
+      "summary": "Take-Two consiguió que GitHub retirara más de 3,000 repositorios vinculados con un proyecto que buscaba ejecutar el videojuego en computadoras a partir de archivos filtrados de Xbox."
+    },
+    {
+      "title": "LG quiere aprender de los mexicanos para diseñar sus próximos productos",
+      "url": "https://expansion.mx/tecnologia/2026/11/26/lg-mexico-another-campus-desarrollo-productos-tecnologicos",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Fri, 27 Nov 2026 00:00:43 GMT",
+      "summary": "La compañía surcoreana inauguró en el Tec de Monterrey la primera sede del Another Campus fuera de Corea del Sur, una iniciativa que también le permitirá conocer los hábitos y necesidades de los consumidores locales."
+    },
+    {
+      "title": "Las estafas con IA ya clonan la voz de tus familiares y pueden vaciar tus cuentas con una llamada falsa en minutos",
+      "url": "https://expansion.mx/tecnologia/2026/11/26/nueva-estafa-con-voces-clonadas-con-ia-en-llamadas",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Nov 2026 19:07:24 GMT",
+      "summary": "La recomendación principal es verificar de inmediato si la persona es quien dice ser colgando la llamada y comunicándose con ella a través de un canal alterno."
+    },
+    {
+      "title": "Elon Musk regalará acciones de SpaceX a los niños de EU, pero su apuesta va más lejos: “un millón de veces” más valor",
+      "url": "https://expansion.mx/tecnologia/2026/11/26/elon-musk-regalara-acciones-de-spacex-a-los-ninos-eu",
+      "source": "Expansión Tecnología",
+      "category": "tech",
+      "published": "Thu, 26 Nov 2026 14:22:24 GMT",
+      "summary": "El multimillonario  asegura que las acciones pueden valer aproximadamente un millón de veces la economía global actual.  Ya dio fechas de la entrega de las acciones."
+    },
+    {
+      "title": "Inteligencia Artificial salva a economía y es el pilar exportador de México: Franklin Templeton - DPL News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck9aODNOcE54cGptLUM2bjY3UUVCUnB5VjkyY3EtdTBoZmprb3NvNlg5SDZSYzBSSWNPZGNORmUwZFpzdVdPSTJsSlBXMVdycGNpNENXMUdBaEJnX054VXZvWGdGdGF1SklFTWY5M2pJbGgxNm1LdXZzcEF6SmVsOFczYzRYMUpLdVJvN1NIM2xvdTNrbkQwaDJuZExZbVAtbGttcQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 28 Nov 2026 01:42:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQck9aODNOcE54cGptLUM2bjY3UUVCUnB5VjkyY3EtdTBoZmprb3NvNlg5SDZSYzBSSWNPZGNORmUwZFpzdVdPSTJsSlBXMVdycGNpNENXMUdBaEJnX054VXZvWGdGdGF1SklFTWY5M2pJbGgxNm1LdXZzcEF6SmVsOFczYzRYMUpLdVJvN1NIM2xvdTNrbkQwaDJuZExZbVAtbGttcQ?oc=5\" target=\"_blank\">Intel"
+    },
+    {
+      "title": "La inteligencia artificial transforma los centros de datos: ¿cómo puede México atraer más inversiones? - MexicoIndustry",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWZWNnVvajVWZ3pJQTZBcExuR0VMOXluOV9NdlJEa1NzLWFWRHdIZVIyTEVTejFad1VKZlNWTTI2bm9sNkdLVVY5NzYwY3RycjZpM1Y0a21tcGhRMG4zMXhMTE9fNGZ5N05mTFVGVFJEOXJFRjZCZnBicmRXdHd2UnY1WW1XZENKNC1sblU3WEowWWJjT1FQNkZ4bldBMTJVcU13YnJuVms1VTM4Wnhiakw3V3NlaUJzYnNPSXhHTmtPaV9qcm80WFZqS1RJM2s?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 27 Nov 2026 18:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWZWNnVvajVWZ3pJQTZBcExuR0VMOXluOV9NdlJEa1NzLWFWRHdIZVIyTEVTejFad1VKZlNWTTI2bm9sNkdLVVY5NzYwY3RycjZpM1Y0a21tcGhRMG4zMXhMTE9fNGZ5N05mTFVGVFJEOXJFRjZCZnBicmRXdHd2UnY1WW1XZENKNC1sblU3WEowWWJjT1FQNkZ4bldBMTJVcU13YnJuVms1VTM4Wnhiakw3V3NlaUJzYn"
+    },
+    {
+      "title": "México y Estados Unidos: por qué la inteligencia artificial y la tecnología marcarán el futuro de la relación bilateral - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MGpvYzZyZ1pGdGZvaHRYYlpLaGpOMTlGTVJsZlllMjZaUDNRWEJmNkZ1c1p5N0x5d2ozYnFQRDB2SW_SAY4CQVVfeXFMT3I1UE1KRXVhQXI5R1lGdHliRFhiLXdkVnU1MXZrUl9McDNaOHl5bW5YT0FGV1ZsNXVMYTBCa3VpZjQxVURKc0VHSXdXOFRjVWptNXRtLVZ2NjdFcDIyN3ZMWENrZk5XSmhyeVpHTGt0Qld5N0N5S0lBU0NZaWJBd2o3MUVEUE9MRGd5SXM4bXhMRkFCYUF2NlRSaXhLU0picWZzMXZYMVJpakpQWjdvcUxKNkVSbFlNM3lOR25KVk1kbXkxeS04aHBQNXZpbUU0QWp2TzY4Rjl4YWFhai1hSHdlNHFfelpGNWRXaWZCQVpNbllsYUhINDVPcWozejJ2aUFjaks0UXl6b1VUcEdR?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sun, 22 Nov 2026 18:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWpZS1ZWZEUyM1dMZkQ0M3pvM1MySlkwdExqXzVmOHB6V0pkNktzcENqLXF6cmUxR3NodlBQYy01dHc1TDZsc3loZ2ZmWWpWc29VTUF5dUVLeHRRWi1GelhZUGMybkJQN2ZjTjg4T283ZmhrZk5QNW9wVGhrLW9tU0FYMHhISGN3SHB0Q1Q0ejkxSUFmS2dadEFVTlNWRTZZUkRzcDdRc1I2U2xDcFR3T25IRmhza093MG"
+    },
+    {
+      "title": "Soko: la startup de IA que ya indexa 27 mil lugares en CDMX - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORV9OTTFNTXZSendsQXVpRERPYmlnWVV0ejZwdG9kenVFMHcxbXAyV1NESGxuVHlUY2xHd2I2anJBazdpRnlKeGotTDJrelcxbU9uWHY5Tnk3WnlYS05rVTJ2cG5mU2RqMjBXa185dXRNdmt5eVlBQlVieHRZdFlydDZoeGF0cC1hcFh0TVVuaDZTZjQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Thu, 26 Nov 2026 19:33:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORV9OTTFNTXZSendsQXVpRERPYmlnWVV0ejZwdG9kenVFMHcxbXAyV1NESGxuVHlUY2xHd2I2anJBazdpRnlKeGotTDJrelcxbU9uWHY5Tnk3WnlYS05rVTJ2cG5mU2RqMjBXa185dXRNdmt5eVlBQlVieHRZdFlydDZoeGF0cC1hcFh0TVVuaDZTZjQ?oc=5\" target=\"_blank\">Soko: la startup de IA que y"
+    },
+    {
+      "title": "Esta startup mexicana levantó 12 millones de dólares para que la IA trabaje dentro de grandes empresas - Emprendedor | El medio líder de Emprendimiento y Negocios",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYVZPYl8xalN1emUxQjFoeEZMLU5HdnlNM05UbW85dzVCQlctSzRUN0hkdFdkeFJ4TUZuY2dia0Nyd2YxQXBwMXVKdUZ5VkNSaTlxTzJGaEZSSm04X3FiNlIyVHZmUkJGd2RKZ2V3V05WeUlROVgwak5haU5MQUlienhWNXdWUEtZUld2T2Rw?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVhBNWR5UTgyQi1fNnlFYmNROGVUNXRhVGpDUTctSFZRbWNhakp5NlRkNDNvM0dEWFJCSU5zV0JFcE5JRGpMaDhUY0xuSV9PUG56S01hX2IwT2FHTk1BNkpqMlIzczlBeEppRUQxcjI2RnlveFVMX3BaNGk3NkdURWRqejdpQUtQT0VkWk02V2h3ejFNTzhObmxFZ9IBoAFBVV95cUxPX0ljek5iRTk0YTFwZHV0eXJsYV"
+    },
+    {
+      "title": "Primero levanta 12 millones de dólares para llevar inteligencia artificial a grandes corporativos de América Latina - contxto.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSnpSSVh0SnRnREE0MFpFSXdzaWE4bk9HZjB0N2VsdXdrNm9XMTFLOTlLQlRXVXBhd29wOFkzQQ?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkJmVzZzU09DQkJZUVVFYTFVSGxwc3BqblVuc3ZJOVBlY1RXdnB2VlNKZDBhNDhTaVFHWHhIZ0paaWZZMVR3Zm9qOXJ4NzA2X3pEcHpnSHhFNzctTWdwQnhOZlBOc2VJOThQNFNjMnhsTldvYUFCY24xVVVsbVZyTFhaZmtVTlcwR25vSXRwQ2Zkc1M1OEF2bWxCaWVWSEswZU9iWGZjSmd5M0tsQ001M285QWJyaWluSn"
+    },
+    {
+      "title": "Estudian en el Tec de Monterrey y crearon una IA que le ayuda a los niños a entender lo que leen: así funciona - Ambito",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsNDFiN1BSWEFYYXpvUXdHSERlQUdOa1BqWXAzRkZESmR5eklhd1FFUXh3ONIB6AFBVV95cUxNejRvTzY1R0lCdnlpVHVKRFdUSmhvRmVFdVBkQS1mQUZhM2tkdExRZ3ROTnpwSkFBQnZsX3RJaTQ1dC10bG5nUExHeGRVRTlxMHVtOGoyQzZUTE5GbGx4andHQVRwQkZlSzgtbmhONnV4S3h1aGRqZUJVV2g4OVRqNkVuYkJMMjU4MWVsMnZKZWJ5Umo5aGM5WnJGYzdoMWMxNnVMT0FweWZDekQ0TDNkaVFwdDJiYzZnNkt5RUp3anY0ZDZkcHY3Tl96ODNBaDkxOFhLaVRyN21KczZlWll2UUczMVk4cXBv?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVk14SHEyTlFwZWJOblVEal9vTUVEWGJ5T25nVFh3b3E2N0FTNWp6cXdUNWFvcDM2ZkNESldmUl9EN29uMFNpN1ROVzNJZS1JUW1XYmdXN3M1bkJlcVBJTC16YkJuR19XYkUtZ3FNVmtUWWpCR2d3NWwzSlR6T005WllRLWhKQVliM1BqZFN4eU1zR2RtNWNKTnhSbUIzOXVFRHJyQ3QzRldLVWF5UnhLc0VETVh1MEZsND"
+    },
+    {
+      "title": "EXATEC impulsa proyectos de IA para resolver retos globales - Tecnológico de Monterrey",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWWc?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZMSHdaT2VaMXZfOGJMNTlVZFROb2YwSF9MUVhSYkpHTjZac1JieDM5UHhDLWJ1UDlDZ1EzZm96X1hxMWJRMEVhZ0lRM29TczFwcGVrWDEya0JuZXl2bkNMdDdNOFNJUUE5WkZfVFdVR3BSYTg3dEUyTDRqZ2RQTVBIRmlFYTByRjJFM1dPUHBOazI5eUJfVl95VkJuV1A3aFRHejF2bm1FZUVKWGVWVW5IOFBlNTcxWW"
+    },
+    {
+      "title": "Tecnológico de Monterrey y UNESCO agrupan discusión nacional sobre - UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMUJnZzhodDdHY2MyMU1RQzBBTElyRXJr?oc=5",
+      "source": "Google News",
+      "category": "news",
+      "published": "Tue, 26 Aug 2025 00:35:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblNNc08xRmNVMlQ5WmJTaHRBb0U2UjF0aXpxTjA2MTRYM0pFWURDMGlHTVIteFlMaTh6dFlzemE5SGVMVUZQTk1xWnVkZDdhd0pnR1JUVlo4SDU2RFNLRXZQY3dVMTJvQzdiNWRYREVQMGlrYVp2Q3NOZUdQaXdXdmx3dTE4b1NyQWNGenU2LXZ3dkM5T2pGb21qNERNcndpMzVFRmJBNUhmc05TQzhCZE9vU3EzMkpVMU"
+    }
+  ],
+  "count": 14
+}
